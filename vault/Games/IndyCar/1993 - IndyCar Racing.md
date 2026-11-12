@@ -10,7 +10,7 @@ series: IndyCar Racing
 engine: Proprietary (Papyrus)
 protagonist: Player (Racing Driver)
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: IndyCar Racing is a 1993 MS-DOS racing simulation by Papyrus Design
   Group, an officially licensed recreation of the 1993 IndyCar season and the follow-up
   to Indianapolis 500 - The Simulation.
@@ -18,19 +18,19 @@ tags: [1990s, indycar-racing, papyrus, racing, sierra]
 ---
 # IndyCar Racing
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-IndyCar Racing is a racing simulation video game developed by [[Papyrus Design Group]] and released in 1993 for MS-DOS.[^ref-1] It was Papyrus's follow-up to [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989).[^ref-1] Reviewing it in February 1994, *Computer Gaming World* called it "the only current driving sim where 180 mph feels like 180 mph,"[^ref-24] and the magazine's June 1994 awards issue named it the Premier Simulation of the Year, calling it "the motor sports aficionado's dream come true."[^ref-25] The game was intended as a realistic simulation of the 1993 PPG Indy Car World Series, featuring most of that season's drivers and teams and a selection of contemporary chassis and engines.[^ref-2]
+IndyCar Racing is a racing simulation video game developed by [[Papyrus Design Group]] and released in 1993 for MS-DOS.[^ref-1] It was Papyrus's follow-up to [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989).[^ref-1] The game was intended as a realistic simulation of the 1993 PPG Indy Car World Series, featuring most of that season's drivers and teams and a selection of contemporary chassis and engines.[^ref-2]
 
 With an official license from CART, IndyCar Racing offered eight real track names and designs with authentic sponsors and logos, putting players behind the wheel against real IndyCar drivers on circuits including Michigan International, Nazareth PA, Laguna Seca, Portland International, Milwaukee, Loudon NH, Toronto, and Long Beach.[^ref-1][^ref-4] The game arrived "hot on the heels of Geoff Crammond's excellent Formula One Grand Prix," establishing Papyrus as one of the leading developers in sim racing—a legacy that continues to this day.[^ref-5][^ref-6]
 
 The game paired a detailed physics model with real-time, perspective-correct texture mapping.[^ref-7] Recalling why he began making racing simulations in the first place, creator [[Dave Kaemmer|David Kaemmer]] told GameSpot, "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar."[^ref-7]
 
 > [!info]- Game Info
-> **Developer:** Papyrus Design Group[^ref-1]
-> **Designer:** David Kaemmer[^ref-26]
+> **Developer:** [[Papyrus Design Group]][^ref-1]
+> **Designer:** [[Dave Kaemmer|David Kaemmer]][^ref-26]
 > **Publisher:** Papyrus Publishing (NA), [[Virgin Games|Virgin Interactive]] (EU)[^ref-1]
 > **Engine:** Proprietary (Papyrus)[^ref-7]
 > **Platforms:** MS-DOS[^ref-1]
@@ -77,10 +77,10 @@ The IndyCar Circuits expansion pack later added seven more tracks, for 15 in all
 
 ### Contemporary Reviews
 
-IndyCar Racing was well received on release. In *Computer Gaming World*'s February 1994 review, Gordon Goble called it "the only current driving sim where 180 mph feels like 180 mph" and concluded that it "is the purest driving game ever let loose on the gaming public."[^ref-24] The magazine's June 1994 Premier Awards named it Simulation of the Year, calling it "the motor sports aficionado's dream come true."[^ref-25] *Electronic Entertainment* gave it an Honorable Mention for Best Game in its March 1994 Editors' Choice Awards (Wikipedia describes it as a finalist), writing that it "is so realistic, A.J. Foyt could use it to practice—without burning any gas."[^ref-2][^ref-27]
+IndyCar Racing was well received on release. In *Computer Gaming World*'s February 1994 review, Gordon Goble called it "the only current driving sim where 180 mph feels like 180 mph" and concluded that it "is the purest driving game ever let loose on the gaming public."[^ref-24] The magazine's June 1994 Premier Awards named it Premier Simulation of the Year, calling it "the motor sports aficionado's dream come true."[^ref-25] *Electronic Entertainment* gave it an Honorable Mention for Best Game in its March 1994 Editors' Choice Awards (Wikipedia describes it as a finalist), writing that it "is so realistic, A.J. Foyt could use it to practice—without burning any gas."[^ref-2][^ref-27] In *Hyper*, Ben Mansill wrote that Formula One Grand Prix "must hand over the crown, for IndyCar has arrived," called it "the new definitive driving sim for the PC," and praised its replay as "the best replay facility I've ever seen."[^ref-28]
 
-- **Hyper Magazine:** 92% (February 1994)[^ref-2]
-- **Electronic Entertainment:** 9/10 (March 1994)[^ref-2]
+- **Hyper Magazine:** 92% (February 1994, per Wikipedia)[^ref-2][^ref-28]
+- **Electronic Entertainment:** 9/10 (March 1994, per Wikipedia)[^ref-2][^ref-27]
 - **Computer Gaming World:** Premier Simulation of the Year (June 1994)[^ref-25]
 - **PC Gamer US:** #20 in "The Best Games of All Time" (August 1994)[^ref-2]
 - **PC Gamer UK:** #9 in "Top 50 PC Games of All Time" (April 1994)[^ref-2]
@@ -158,6 +158,7 @@ Kaemmer recalled that the team had not planned to texture the road, for frame-ra
 | Demo | Early 1993 | DOS | A replay of a few laps around Laguna Seca[^ref-5] |
 | 1.0 | October 26, 1993 | DOS | Initial public release with 8 tracks[^ref-5] |
 | 1.01e | Unknown | DOS | No details recorded[^ref-5] |
+| 1.02 | November 25, 1993 | DOS | Fixes random crashes/hangs and low memory problems[^ref-29][^ref-30] |
 | 1.04 | Unknown | DOS | Improves modem play and adds time acceleration[^ref-5] |
 | 1.05 | By October 1994 (readme dated 10/26/94) | DOS | Changed fictional driver names to make them less obvious representations of real drivers[^ref-6][^ref-11] |
 
@@ -207,8 +208,8 @@ Sierra On-Line acquired Papyrus in late 1995.[^ref-20] GameSpot's retrospective 
 
 Two expansion packs were released for IndyCar Racing:[^ref-22]
 
-- **Indianapolis Motor Speedway Expansion Pack** (1994) – Added the iconic Indianapolis oval track[^ref-1]
-- **IndyCar Circuits** (1994) – Additional tracks from the CART circuit[^ref-1]
+- **Indianapolis Motor Speedway Expansion Pack** (1994) – Added the iconic Indianapolis oval track[^ref-1]. A June 1994 advertisement said the pack also included a "Customizing Paint Kit" to update colors and decals.[^ref-31]
+- **IndyCar Circuits** (1994) – Additional tracks from the CART circuit[^ref-1]. The same advertisement offered "seven new tracks – from Phoenix to Mid-Ohio, Detroit to Queensland, Australia."[^ref-31]
 
 IndyCar Circuits took the track count from 8 to 15, and the Indianapolis pack added the Speedway that was absent from the original release, for 16 in all.[^ref-1][^ref-7]
 
@@ -270,3 +271,7 @@ Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies
 [^ref-25]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: Simulation of the Year
 [^ref-26]: [Wayback Machine – MobyGames IndyCar Racing Credits (2016)](https://web.archive.org/web/20160920025323/http://www.mobygames.com:80/game/dos/indycar-racing/credits) – full DOS credits and roles
 [^ref-27]: [Electronic Entertainment, March 1994](https://archive.org/details/ElectronicEntertainment03Mar1994) – Editors' Choice Awards Honorable Mention (Best Game), A.J. Foyt quote; Wayne Kawamoto review
+[^ref-28]: [Hyper #3 (1994)](https://archive.org/details/hyper-003) – Ben Mansill's IndyCar Racing review, p. 61
+[^ref-29]: [Computer Gaming World #116 (March 1994)](https://archive.org/details/Computer_Gaming_World_Issue_116) – patch list: "IndyCar Racing v1.02 Update: Fixes random crashes/hangs and low memory problems. 11/25/93"
+[^ref-30]: [Computer Gaming World #117 (April 1994)](https://archive.org/details/Computer_Gaming_World_Issue_117) – patch list repeating the v1.02 entry
+[^ref-31]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Papyrus/Virgin IndyCar Racing advertisement (p. 96) for the IndyCar Circuits and Indianapolis Motor Speedway expansion packs
