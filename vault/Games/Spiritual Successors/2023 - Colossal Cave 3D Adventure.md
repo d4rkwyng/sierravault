@@ -7,12 +7,12 @@ publisher: Cygnus Entertainment
 genre: Adventure
 platforms: [Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox
     One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, Meta Quest 3, Meta Quest
-    3S, Meta Quest Pro, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS, Android]
+    3S, Meta Quest Pro, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS, Android, Apple Vision Pro]
 series: Standalone
 engine: Unity
 protagonist: Unnamed Adventurer
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Colossal Cave 3D Adventure is a 3D and VR reimagining of the seminal
   1976 text adventure game created by William Crowther and Don Woods, developed by
   Cygnus Entertainment, the studio of Sierra founders Ken and Roberta Williams, with
@@ -21,7 +21,7 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 ---
 # Colossal Cave 3D Adventure
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 
 ## Overview
@@ -38,7 +38,7 @@ Colossal Cave was released on January 19, 2023 for PC, Mac, Linux, Steam Deck, P
 > **Creative Director:** [[Roberta Williams]] (also credited as Producer and Voice Actor)[^ref-15][^ref-24]
 > **Publisher:** Cygnus Entertainment[^ref-6][^ref-20]
 > **Engine:** Unity[^ref-3][^ref-6]
-> **Platforms:** Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, Meta Quest 3, Meta Quest 3S, Meta Quest Pro, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS[^ref-6][^ref-25], Android[^ref-27]
+> **Platforms:** Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, Meta Quest 3, Meta Quest 3S, Meta Quest Pro, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS[^ref-6][^ref-25], Android[^ref-27], Apple Vision Pro[^ref-28]
 > **Release Year:** 2023[^ref-6]
 > **Series:** Standalone
 > **Protagonist:** Unnamed Adventurer
