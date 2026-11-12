@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI2.1
 protagonist: Princess Rosella, Queen Valanice
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'King''s Quest VII: The Princeless Bride is the seventh King''s Quest
   game, designed by Roberta Williams and Lorelei Shannon. Released in November 1994,
   it adopted Disney-inspired cel animation and introduced two playable heroines, Queen
@@ -19,11 +19,11 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest VII: The Princeless Bride
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*; as Hardcore Gaming 101 puts it, a secondary goal is "to maybe find a groom for Rosella along the way, as the title implies."[^ref-3]
+King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released in November 1994 (Sierra's press release of November 22 announced that shipping was beginning), the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-33][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*; as Hardcore Gaming 101 puts it, a secondary goal is "to maybe find a groom for Rosella along the way, as the title implies."[^ref-3]
 
 Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] The Only Solitaire retrospective describes her earlier Sierra experience as having "mainly consisted of writing hintbooks for King's Quest," plus some writing for The Dagger of Amon Ra.[^ref-5] In her own account she joined Sierra as a writer for its in-house magazine *InterAction*, then moved to the design team, where she "started out just writing dialog for various games, including Police Quest and Dagger of Amon Ra," before design work on Pepper's Adventures in Time.[^ref-6] On King's Quest VII she co-designed the game with Williams. The King's Quest Omnipedia fan wiki quotes her, from what it describes as a short Facebook interview: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] In a 2011 interview she described the split differently: "Roberta did more of the puzzles than I did. I wrote most of the dialog. We created the story together."[^ref-6] Sierra's copy for the 1996 enhanced re-release recalled a "stirring soundtrack featuring over 100 original compositions."[^ref-7]
 
@@ -84,12 +84,17 @@ The game received generally positive reviews, with critics praising the animatio
 | Publication | Score | Reviewer | Date |
 |-------------|-------|----------|------|
 | Coming Soon Magazine | 92% | — | Dec 1994 |
+| Génération 4 | 63% | Thierry Falcoz | Jan 1995 |
 | MikroBitti | 92% | — | — |
 | Computer Gaming World | 4/5 | Charles Ardai | Feb 1995 |
+| PC Zone | 93 | Teresa Maughan | Mar 1995 |
+| Next Generation | 4/5 stars | — | Mar 1995 |
 | Adventure Gamers | 3.5/5 stars | Josh Roberts | Sept 5, 2003 |
 | Jeuxvideo.com | 80% (16/20) | Knuckles42 | 2010 |
 
-[^ref-9][^ref-8][^ref-10][^ref-17][^ref-18]
+[^ref-9][^ref-8][^ref-10][^ref-17][^ref-18][^ref-34][^ref-35][^ref-36]
+
+PC Zone's March 1995 review, which carried a "PC Zone Classic" badge and a score of 93, called it "possibly one of the most impressive adventures I've ever had the good fortune to play" and closed on "A multimedia masterpiece."[^ref-34] Next Generation gave it four stars, writing that "it may be one of the most impressive in look and feel."[^ref-35] Génération 4 headed its January 1995 review "Dessin animé interactif" and scored it 63%, with sub-scores of 18 for graphics, 18 for sound, 17 for animation and 16 for lifespan, praising the quality of the animations and listing slowness under Windows among its drawbacks.[^ref-36]
 
 Coming Soon Magazine's detailed breakdown gave the game high marks across the board: Graphics 91%, Sound 92%, Music 95%, Gameplay 90%, Interest 94%.[^ref-10] The review noted that Sierra "generously used the talents of more than 120 artists to create the most dignified cartoon animations" and praised the "more than 100 original musical compositions."[^ref-10]
 
@@ -103,7 +108,7 @@ French gaming site Jeuxvideo.com rated it 16/20 in their retrospective review, p
 
 **Aggregate Scores:**
 - **MobyGames:** 7.3/10 (Moby Score), 79% (23 critic reviews)[^ref-1]
-- **Glitchwave:** 3.23/5.0 from 45 ratings (#96 for 1994, October 2026)[^ref-19]
+- **Glitchwave:** 3.23/5.0 from 45 ratings (#95 for 1994, November 2026)[^ref-19]
 - **GOG.com:** 3.9/5 (79 reviews, October 2026)[^ref-20]
 
 ## Development
@@ -147,8 +152,9 @@ Another innovation was the 3D-rendered inventory system. All inventory objects w
 
 The Disney-inspired intro features characters with only three fingers and a thumb on each hand—matching the Disney cartoon convention—and is the only song in the entire game.[^ref-25]
 
-**Technical Specifications:**[^ref-11][^ref-24][^ref-10]
-- **Resolution:** 640×480 SVGA (VESA graphics)
+### Technical Specifications
+
+- **Resolution:** 640×480 SVGA (VESA graphics)[^ref-11][^ref-24][^ref-10]
 - **Colors:** 256
 - **Audio:** Roland Sound Canvas (best suited), General MIDI[^ref-21]
 - **Media:** CD-ROM only[^ref-4]
@@ -161,6 +167,17 @@ The Disney-inspired intro features characters with only three fingers and a thum
 - **Hard Drive:** 5 MB minimum, 15 MB recommended
 - **CD-ROM:** 2× speed or faster
 
+### Cut Content
+
+Significant content was cut during development:[^ref-4][^ref-12]
+
+- **King Graham ending scene** – Voice dialogue was recorded for Graham greeting Valanice and Rosella upon their return ("Ladies, I was getting worried! You're 15 minutes late for lunch!") but the scene was cut. In version 1.4, Graham appears in the credits played by Denny Delk; this line was removed in later versions.[^ref-2][^ref-25]
+- **Fattipuffs and Thinnifers kingdom** – A cut region with "good-natured creatures who loved to eat and party" versus "uptight creatures who dieted and exercised"
+- **Extended Were-Woods** – Originally larger with additional puzzles
+- **Fire Town** – A Flame Folk settlement in the Vulcanix Underground
+- **Jack O'Lantern** – A cut character from Ooga Booga
+- **Eighth chapter** – The game was edited from seven or eight chapters down to six plus ending
+
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -170,7 +187,7 @@ The Disney-inspired intro features characters with only three fingers and a thum
 | 2.00 | SCI Wiki dates the Spanish 2.00 builds 1995/08/23; Wikipedia lists a 1995 US release; Sierra's own copy calls it "a new version of King's Quest VII for 1996"; The Cutting Room Floor calls it a 1997 re-release[^ref-7][^ref-11][^ref-8][^ref-12] | DOS and Windows (Windows 95 support)[^ref-7][^ref-12] | Save/load at any time via a new menu; crystal-dragon tail death removed; adjustable walking speed[^ref-2][^ref-12] |
 | 2.00b | SCI Wiki date 1995/10/20; The Cutting Room Floor calls it a 2010 update included only in the King's Quest Bundle[^ref-11][^ref-12] | DOS and Windows[^ref-11] | Per The Cutting Room Floor, fixes the firecracker timing bug in the Windows interpreter[^ref-12] |
 
-Sources disagree on release dates (November 22 per Wikipedia, November 23 per Sierra Fandom and The Cutting Room Floor), on the platform of the first release, and on when 2.0 and 2.0b appeared: Sierra Chest describes 1.4 and 1.51 as Windows-only, with a DOS interpreter arriving in 2.00b, while The Cutting Room Floor describes 1.4 as an MS-DOS release.[^ref-8][^ref-2][^ref-12][^ref-26]
+Sources disagree on the release date (Sierra's Business Wire release dated November 22, 1994 says shipping was beginning that day and Wikipedia gives November 22, while Sierra Fandom, The Cutting Room Floor and Glitchwave give November 23), on the platform of the first release, and on when 2.0 and 2.0b appeared: Sierra Chest describes 1.4 and 1.51 as Windows-only, with a DOS interpreter arriving in 2.00b, while The Cutting Room Floor describes 1.4 as an MS-DOS release.[^ref-33][^ref-8][^ref-2][^ref-12][^ref-19][^ref-26]
 
 **Crystal dragon tail:** In versions before 2.0, Rosella had to time her chisel to take a scale from the sleeping crystal dragon, whose tail rises and smashes down; if the tail came down while she was chiseling, she died. Version 2.0 removed this puzzle element and its death, letting her simply take the scale.[^ref-2][^ref-12]
 
@@ -198,17 +215,6 @@ The original release was notoriously buggy due to a rushed Christmas deadline:[^
 
 **Firecracker Bug:** The fuse on the lit firecracker Valanice carries in Ooga Booga is tied to CPU speed, so on faster computers it can explode almost as soon as she picks it up.[^ref-16][^ref-12][^ref-26] According to The Cutting Room Floor, this bug was introduced in version 2.0, which made reaching Count Tsepish's tomb "extremely difficult if not impossible," and was fixed in the 2.0b Windows interpreter; Sierra Fandom instead says 2.0 modified the firecracker death to make it easier to get through.[^ref-12][^ref-2] The Sierra Chest recommends playing the game through DOSBox to avoid this and other speed-related issues.[^ref-26]
 
-### Cut Content
-
-Significant content was cut during development:[^ref-4][^ref-12]
-
-- **King Graham ending scene** – Voice dialogue was recorded for Graham greeting Valanice and Rosella upon their return ("Ladies, I was getting worried! You're 15 minutes late for lunch!") but the scene was cut. In version 1.4, Graham appears in the credits played by Denny Delk; this line was removed in later versions.[^ref-2][^ref-25]
-- **Fattipuffs and Thinnifers kingdom** – A cut region with "good-natured creatures who loved to eat and party" versus "uptight creatures who dieted and exercised"
-- **Extended Were-Woods** – Originally larger with additional puzzles
-- **Fire Town** – A Flame Folk settlement in the Vulcanix Underground
-- **Jack O'Lantern** – A cut character from Ooga Booga
-- **Eighth chapter** – The game was edited from seven or eight chapters down to six plus ending
-
 ### Easter Eggs and Trivia
 
 The game contains numerous hidden references:[^ref-28][^ref-29][^ref-12]
@@ -216,6 +222,8 @@ The game contains numerous hidden references:[^ref-28][^ref-29][^ref-12]
 - **Silence of the Lambs reference**: The rat in Dr. Cadaver's office quotes from the film
 - **Two Guys Glasses**: The Space Quest creators' signature eyewear appears in the Faux Shop
 - **Moose grunt**: Clicking the stove triggers Rosella commenting it's "large enough to cook a moose" followed by a moose grunt
+- **Gregor Samsa**: listed among the game's hidden references[^ref-29]
+- **Monty Python**: a reference listed as "One Ton Tomato of Antioch"[^ref-29]
 - **Debug mode**: Creating a file named "carlos.kq7" enables developer options[^ref-12]
 - **Alternative titles considered**: "What's Lava Got to Do with It" and "Rosella Vs. The Volcano"[^ref-25]
 - **Only Graham-less entry**: King Graham does not appear, though voice lines were recorded[^ref-1][^ref-2]
@@ -251,7 +259,13 @@ The game has appeared in numerous compilations:[^ref-1]
 - **The Roberta Williams Anthology** (1996)
 - **King's Quest: Collection Series** (1997)
 - **Best of Sierra Nr. 2** (1997)
-- **King's Quest Collection** (2006) – Steam release[^ref-32]
+- **3 Free (King's Quest VII / Earthsiege 2 / Trophy Bass)** (1997)
+- **Gold Games 2** (1997)
+- **Le Meilleur de Sierra** (1997)
+- **MacPack Counter-Attack** (1997)
+- **Multi Action** (1997)
+- **Value Soft Collection 5** (2000)
+- **King's Quest Collection** (2006) – on Steam, whose store page shows a September 1, 2006 release date while its data API shows July 23, 2009[^ref-32]
 - **King's Quest 7+8** (2010) – GOG.com[^ref-20]
 
 ### Critical Perspective
@@ -271,14 +285,15 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 
 ## See Also
 
+- [[King's Quest Series]] — Series overview
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|← Previous: King's Quest VI]]
+- [[1998 - King's Quest - Mask of Eternity|→ Next: King's Quest: Mask of Eternity]]
 - [[1984 - King's Quest - Quest for the Crown]]
 - [[1985 - King's Quest II - Romancing the Throne]]
 - [[1986 - King's Quest III - To Heir Is Human]]
 - [[1988 - King's Quest IV - The Perils of Rosella]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-- [[1998 - King's Quest - Mask of Eternity]]
 - [[2015 - King's Quest]]
 
 ## References
@@ -300,8 +315,8 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-15]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7&fld=general) – 32-bit SCI-32 interpreter, 640×480 SVGA, "smart" pointer
 [^ref-16]: [All The Tropes – King's Quest VII](https://allthetropes.org/wiki/King%27s_Quest_VII) – impossible to lose, firecracker CPU bug, tropes analysis
 [^ref-17]: [Jeuxvideo.com – King's Quest VII Review](http://www.jeuxvideo.com/articles/0001/00012191-king-s-quest-vii-the-princeless-bride-test.htm) – French retrospective review 16/20, "interactive cartoon" assessment
-[^ref-18]: [Adventure Gamers – King's Quest VII review (Wayback Machine copy)](https://web.archive.org/web/20120630123628/http://www.adventuregamers.com/articles/view/17624) – Josh Roberts, September 5, 2003, 3.5/5 stars
-[^ref-19]: [Glitchwave – King's Quest VII](https://glitchwave.com/game/kings-quest-vii-the-princeless-bride/) – 3.23/5.0 from 45 ratings, #96 for 1994 (October 2026)
+[^ref-18]: [Adventure Gamers – King's Quest VII review (Wayback Machine copy)](https://web.archive.org/web/20120630123628/http://www.adventuregamers.com/articles/view/17624) – Josh Roberts, September 5, 2003; the review's star graphic shows three and a half stars (the site's legend: "3.5 and 4.0 stars: A game of very high quality"); Wikipedia's review box lists 3/5
+[^ref-19]: [Glitchwave – King's Quest VII](https://glitchwave.com/game/kings-quest-vii-the-princeless-bride/) – 3.23/5.0 from 45 ratings, #95 for 1994, release date 23 November 1994 (November 2026)
 [^ref-20]: [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) – 3.9/5 rating (79 reviews, October 2026)
 [^ref-21]: [Geocities – King's Quest VII Development History](http://www.geocities.ws/petter_holmberg/kq7dev.html) – detailed development timeline, animation studios, traditional hand-drawn techniques, 3D inventory innovation
 [^ref-22]: [IMDb – King's Quest VII full credits](https://www.imdb.com/title/tt0110267/fullcredits) – Animation Department (129), full production credits
@@ -314,4 +329,8 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-29]: [King's Quest Omnipedia – Easter Eggs](https://kingsquest.fandom.com/wiki/Easter_egg) – Two Guys Glasses, Gregor Samsa, Moose, Silence of the Lambs, Monty Python
 [^ref-30]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Sierra's financial pressures during multimedia era, corporate changes
 [^ref-31]: [Speedrun.com – King's Quest VII](https://www.speedrun.com/kings_quest_vii_the_princeless_bride) – All Chapters world record 48m 27s by AdmiralJay (2022-07-08); 71 verified runs by 16 players (October 2026)
-[^ref-32]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – 2006 collection release
+[^ref-32]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – King's Quest Collection; store page "Release Date: Sep 1, 2006", Steam data API "Jul 23, 2009"
+[^ref-33]: [Business Wire via The Free Library – Sierra releases King's Quest VII (Wayback Machine copy)](https://web.archive.org/web/20160305031753/http://www.thefreelibrary.com/Sierra+releases+King%27s+Quest+VII%3B+best+selling+adventure+series+could...-a015890256) – Sierra press release dated Nov. 22, 1994: "announced today that it is beginning shipment"
+[^ref-34]: [PC Zone issue 24, March 1995 (archive.org scan), pp. 74–77](https://archive.org/details/PC_Zone_Issue_024_1995-03_Dennis_Publishing_GB/page/n73/mode/2up) – Teresa Maughan's CD-ROM review, "PC Zone Classic" badge, score 93
+[^ref-35]: [Next Generation issue 3, March 1995 (archive.org scan), pp. 92–93](https://archive.org/details/nextgen-issue-003) – unsigned capsule review, four stars
+[^ref-36]: [Génération 4 no. 73, January 1995 (archive.org scan), pp. 90–94](https://archive.org/details/generation4-magazine-073) – Thierry Falcoz's test, 63%, sub-scores 18/18/17/16
