@@ -10,7 +10,7 @@ series: Ground Control
 engine: Asura / MassTech
 protagonist: Captain Jacob Angelus
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Ola Strandh]
 description: 'Ground Control II: Operation Exodus is a real-time tactics video game
   developed by Massive Entertainment and published by Vivendi Universal Games in 2004....'
@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control II: Operation Exodus
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Ground Control II: Operation Exodus is a real-time tactics video game developed 
 
 The sequel revitalized the Ground Control franchise with a beautiful new engine, an engaging narrative, and fast-paced gameplay that earned it generally favorable reviews from critics, achieving a Metacritic score of 80/100[^ref-4]. IGN declared it "revives the series with just as much style and polish, a beautiful new engine, a good story, and a lot of frantic fun"[^ref-5]. GameSpot praised it as "clearly one of the best real-time strategy games so far this year," highlighting its stunning presentation, solid gameplay, and lengthy campaign[^ref-6].
 
-Ground Control II was notable for its innovative approach to the RTS genre, throwing out what many considered the tedious aspects of base-building games to deliver "just the prime cuts" of tactical combat[^ref-7]. The Times Online went so far as to declare that "this game will become the benchmark by which all such titles will be measured"[^ref-8]. The game features two playable factions—the human NSA and the alien Virons—with 33 total units across both armies, offering deep strategic options and cooperative campaign play for up to three players[^ref-1][^ref-6].
+Ground Control II was notable for its innovative approach to the RTS genre, throwing out what many considered the tedious aspects of base-building games to deliver "just the prime cuts" of tactical combat[^ref-7]. The Times Online went so far as to declare that "this game will become the benchmark by which all such titles will be measured"[^ref-8]. The game features two playable factions—the human NSA and the alien Virons—with 33 total units across both armies, offering deep strategic options and cooperative campaign play (GameSpot says up to three players, while MobyGames' description lists four-player co-operative play)[^ref-6][^ref-9].
 
 > [!info]- Game Info
 > **Developer:** [[Massive Entertainment]][^ref-1]
@@ -59,7 +59,7 @@ The game utilizes a line-of-sight system where players can only see enemies when
 
 ### Structure and Progression
 
-The single-player campaign consists of 24 missions divided into two campaigns: 12 missions for the NSA and 12 missions for the Virons[^ref-17]. The game supports cooperative campaign play, allowing up to three players to experience the story together[^ref-6]. Progression is linear, with players unlocking new missions as they complete objectives. The campaign features varied mission types, including direct combat engagements and stealth-style operations[^ref-20].
+The single-player campaign consists of 24 missions divided into two campaigns: 12 missions for the NSA and 12 missions for the Virons[^ref-17]. The game supports cooperative campaign play: GameSpot says the single-player missions can be played in cooperative mode with up to three players[^ref-6], while MobyGames' description lists 4-player co-operative and 8-player competitive multiplayer modes[^ref-9]. Progression is linear, with players unlocking new missions as they complete objectives. The campaign features varied mission types, including direct combat engagements and stealth-style operations[^ref-20].
 
 - **NSA Campaign (12 missions):** Players command Captain Jacob Angelus and human forces defending against the Terran Empire invasion
 - **Viron Campaign (12 missions):** Players experience the conflict from the alien perspective, utilizing unique melding technology[^ref-17]
@@ -111,12 +111,42 @@ Massive Entertainment developed Ground Control II using their proprietary Asura/
 
 The game was originally slated for release "later this year" when announced in early 2003, but ultimately shipped in June 2004[^ref-2][^ref-9]. The announcement promised a "unique drop-in multiplayer feature that allows anyone to join an ongoing battle"[^ref-2]. The official website also hinted at a third, unannounced faction[^ref-2]; the finished game's three sides are the NSA, the Terran Empire and the Viron Nomads[^ref-1].
 
-**Development Credits:**[^ref-9]
+**Release dates:** MobyGames lists regional Windows releases of June 18, 2004 (Germany), June 22 (United States), June 24 (Australia) and June 25 (France, Italy, Spain, Singapore and the United Kingdom)[^ref-40]. IGN gives an initial release of June 22, 2004[^ref-5], while Metacritic and GameSpot give June 23, 2004[^ref-4][^ref-6]; Wikipedia lists June 23 for North America and June 25 for Europe[^ref-1].
+
+**Publisher:** MobyGames credits Sierra Entertainment, Inc. as publisher of the 2004 releases[^ref-40], and Wikipedia notes the game was released under the Sierra Entertainment brand name[^ref-1].
+
+**Development Credits:**[^ref-9][^ref-42]
+- **Producers:** Martin Walfisz (credited on MobyGames as CEO & Executive Producer) and Carl Fransson (credited as Project Manager)[^ref-1][^ref-42]
 - **Lead Game Designer:** Henrik Sebring
+- **Artists:** Tobias Strömvall and Pär Green (credited as Lead Artists)[^ref-1][^ref-42]
+- **Programmers:** Niklas Hansson and Johannes Norneby (credited as Lead Software Engineers)[^ref-1][^ref-42]
 - **Composer:** Ola Strandh
 - **Voice Director:** Eric Weiss[^ref-15]
 
 The development involved approximately 270 credited personnel across all departments[^ref-9]. The game featured extensive voice work recorded under the direction of Eric Weiss, with a cast of professional voice actors bringing the characters to life[^ref-15].
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Captain Jacob Angelus | Chris Edgerly[^ref-15] |
+| Dr. Alice McNeal | Traci Lords[^ref-15] |
+| Major D. Grant | Charles Dennis[^ref-15] |
+| General Warhurst | Duane R. Shepard Sr.[^ref-15] |
+| Sergeant Rho | Hank Jacobs[^ref-15] |
+| Lt. LaCroix | Kath Soucie[^ref-15] |
+| Centurion Dracus | S. Scott Bullock[^ref-15] |
+| Centurion Cezarus | Brian George[^ref-15] |
+| Hervon Dreznor | Phil LaMarr[^ref-15] |
+| G'Hall Vicath | Steve Blum[^ref-15] |
+| K'haunir Vicath | Steve Blum[^ref-15] |
+| Major Sarah Parker | Jennifer Hale[^ref-15] |
+| Imperator Vlaana | Kath Soucie[^ref-15] |
+| Drahk'Mar Vicath | Ron Canada[^ref-15] |
+| Narrator | Steve Blum[^ref-15] |
+| Unit Feedback | Chris Edgerly[^ref-15] |
+
+Additional cast member John DiMaggio also contributed voice work[^ref-28]. Voice direction was handled by Eric Weiss[^ref-15].
 
 ### Technical Achievements
 
@@ -196,29 +226,6 @@ Character dialogue includes memorable exchanges between Captain Angelus and Serg
 - "If you bring the beer, I'll bring the girls, Boss." - Sergeant Rho
 - "Look at the size of that thing!" - Sergeant Rho
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Captain Jacob Angelus | Chris Edgerly[^ref-15] |
-| Dr. Alice McNeal | Traci Lords[^ref-15] |
-| Major D. Grant | Charles Dennis[^ref-15] |
-| General Warhurst | Duane R. Shepard Sr.[^ref-15] |
-| Sergeant Rho | Hank Jacobs[^ref-15] |
-| Lt. LaCroix | Kath Soucie[^ref-15] |
-| Centurion Dracus | S. Scott Bullock[^ref-15] |
-| Centurion Cezarus | Brian George[^ref-15] |
-| Hervon Dreznor | Phil LaMarr[^ref-15] |
-| G'Hall Vicath | Steve Blum[^ref-15] |
-| K'haunir Vicath | Steve Blum[^ref-15] |
-| Major Sarah Parker | Jennifer Hale[^ref-15] |
-| Imperator Vlaana | Kath Soucie[^ref-15] |
-| Drahk'Mar Vicath | Ron Canada[^ref-15] |
-| Narrator | Steve Blum[^ref-15] |
-| Unit Feedback | Chris Edgerly[^ref-15] |
-
-Additional cast member John DiMaggio also contributed voice work[^ref-28]. Voice direction was handled by Eric Weiss[^ref-15].
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -275,9 +282,8 @@ Massive Entertainment went on to develop World in Conflict (2007); Ubisoft bough
 
 ## See Also
 
-- [[2000 - Ground Control]]
-
-- **Related:** [[2000 - Ground Control - Dark Conspiracy]]
+- [[2000 - Ground Control - Dark Conspiracy|← Previous: Ground Control - Dark Conspiracy]]
+- **Related:** [[2000 - Ground Control]]
 
 ## References
 
@@ -315,3 +321,4 @@ Massive Entertainment went on to develop World in Conflict (2007); Ubisoft bough
 [^ref-36]: [GameSpot – Month in Review for June 2004, PC page (Archived)](https://web.archive.org/web/20050329023550/http://www.gamespot.com:80/features/6101893/p-2.html) – PC Game of the Month
 [^ref-40]: [MobyGames – Ground Control II: Operation Exodus Releases](https://www.mobygames.com/game/14351/ground-control-ii-operation-exodus/releases/) – regional release dates and publishers, Steam release
 [^ref-41]: [GamesIndustry.biz – Ubisoft acquires Massive Entertainment (James Lee, 11 Nov 2008)](https://www.gamesindustry.biz/ubisoft-acquires-massive-entertainment) – "Publisher picks up personnel and rights to World in Conflict franchise from Activision-Blizzard"
+[^ref-42]: [MobyGames – Ground Control II: Operation Exodus Credits](https://www.mobygames.com/game/14351/ground-control-ii-operation-exodus/credits/) – Massive Entertainment credits: producers, lead artists, lead software engineers
