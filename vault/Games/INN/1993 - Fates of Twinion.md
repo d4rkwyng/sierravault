@@ -135,7 +135,7 @@ Ken Williams, ImagiNation Network testers, ImagiNation Network friends, Sierra-O
 
 ### Technical Achievements
 
-Fates of Twinion was built on the same engine as **The Shadow of Yserbius**, which opened on The Sierra Network in 1992 (InterAction's Fall 1992 issue called its MedievaLand "the newest area on TSN")[^ref-28]; the network was renamed the ImagiNation Network after AT&T bought a 20 percent stake in July 1993, more than a year before its November 1994 buyout.[^ref-6][^ref-24] It did not stray far from Yserbius' model, offering a different dungeon to explore, and many graphics are reused between the two games.[^ref-6][^ref-12] Sound uses the AIL / Miles Sound System.[^ref-18]
+Fates of Twinion was built on the same engine as **The Shadow of Yserbius**, which opened on The Sierra Network in 1991 or 1992, depending on the source (Wikipedia gives 1991[^ref-2]; The CRPG Addict gives 1992[^ref-4]; InterAction's Fall 1992 issue called its MedievaLand "the newest area on TSN")[^ref-28]; the network was renamed the ImagiNation Network after AT&T bought a 20 percent stake in July 1993, more than a year before its November 1994 buyout.[^ref-6][^ref-24] It did not stray far from Yserbius' model, offering a different dungeon to explore, and many graphics are reused between the two games.[^ref-6][^ref-12] Sound uses the AIL / Miles Sound System.[^ref-18]
 
 ### Technical Specifications
 

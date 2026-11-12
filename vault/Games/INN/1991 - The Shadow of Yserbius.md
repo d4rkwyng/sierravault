@@ -10,7 +10,7 @@ series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: The Shadow of Yserbius was an early graphical multi-user dungeon (MUD)
   developed by Ybarra Productions that launched on The Sierra Network in 1991 or 1992
   depending on the source, with an offline single-player version released by Sierra
@@ -19,11 +19,11 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-The Shadow of Yserbius was a graphical multi-user dungeon (MUD) game for The Sierra Network. Sources differ on its release dates: Wikipedia gives 1991 for the online release and 1992 for the offline port[^ref-1], The CRPG Addict gives 1992 for the online version and 1993 for the solo offline version[^ref-2], and MobyGames lists the DOS release as 1993[^ref-6]. Sierra's Fall 1992 *InterAction* magazine introduced it as "the first game in MedievaLand", which it called "the newest area on TSN"[^ref-36]. It was designed by Joe Ybarra, a former Apple and Electronic Arts employee, with a team that included Karl Buiter and Michael E. Moore[^ref-2], and developed by Ybarra Productions for Sierra On-Line[^ref-6].
+The Shadow of Yserbius was a graphical multi-user dungeon (MUD) game for The Sierra Network. Sources differ on its release dates: Wikipedia gives 1991 for the online release and 1992 for the offline port[^ref-1], The CRPG Addict gives 1992 for the online version and 1993 for the solo offline version[^ref-2], and MobyGames lists the DOS release as 1993[^ref-6]. Sierra's Fall 1992 *InterAction* magazine introduced it as "the first game in MedievaLand", which it called "the newest area on TSN"[^ref-36]. It was designed by Joe Ybarra, a former Apple and Electronic Arts employee, with a team that included Karl Buiter and Michael E. Moore[^ref-2]. Computer Gaming World (February 1994) said Ybarra, "a Bard's Tale implementor, contributed to the Yserbius design"[^ref-37]. The game was developed by Ybarra Productions for Sierra On-Line[^ref-6].
 
 The game served as the centerpiece of The Sierra Network's "MedievaLand" service, described as the network's "better-looking answer to Neverwinter Nights"[^ref-2]. The CRPG Addict notes there was little else in online RPGs at the time: "basically this and AOL's Neverwinter Nights (1991)"[^ref-5]. When the Sierra Network went online in 1991 it offered flat-rate access for $12 a month to California residents and $5 a month plus $2 an hour elsewhere[^ref-2]. Players explored dungeons in parties, and player-versus-player sparring was another popular pastime[^ref-1]. Rooms held up to 30 players (later 60), who could adventure together in groups of up to four[^ref-1].
 
@@ -98,7 +98,7 @@ In June 1994, the ImagiNation Network's new version of the game, *Shadow of Yser
 
 GameSpot user reviewer TheDervish, writing in 2005, called The Shadow of Yserbius "one of the first MMORPG's ever created"[^ref-14]. The HOTUD review noted that "stripped off its multiplayer features, they are still decent RPGs, with a good variety of monsters, spells, interesting sub-quests, even though it's still the same old 'kill foozle' plot"[^ref-18]. The site recommended the game as "highly recommended for RPG beginners"[^ref-18].
 
-Abandonware France called it "graphically pleasant and very simple to use" and suggested it "can be a good introductory game to the universe of Dungeon crawlers"[^ref-21]. The speedrunning community has also embraced the game, with players discovering that "Yserbius (in the Medievalands engine) can be beaten in under two hours from new characters"[^ref-22].
+Abandonware France called it "graphically pleasant and very simple to use" and suggested it "can be a good introductory game to the universe of Dungeon crawlers"[^ref-21]. A Reddit thread on speedruns of the game says "Yserbius (in the Medievalands engine) can be beaten in under two hours from new characters"[^ref-22].
 
 ## Development
 
@@ -125,7 +125,7 @@ One MobyGames user reviewer recalled paying "$13 for 30 hours" to play on TSN, "
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Online (TSN) | 1991 per Wikipedia[^ref-1]; 1992 per The CRPG Addict[^ref-2] | The Sierra Network | Introduced as the first game in MedievaLand; Sierra's Fall 1992 *InterAction* called MedievaLand "the newest area on TSN"[^ref-36] |
-| Boxed stand-alone | 1992 per Wikipedia[^ref-1]; 1993 per The CRPG Addict[^ref-2] and MobyGames[^ref-6] | DOS | Solo version sold with Fates of Twinion, with a 30-hour free trial of on-line time reported by Computer Gaming World[^ref-37] |
+| Boxed stand-alone | 1992 per Wikipedia[^ref-1]; 1993 per The CRPG Addict[^ref-2] and MobyGames[^ref-6]; Sierra's Summer 1993 *InterAction* advertised the boxed set: "Your Yserbius boxed set also comes with The Fates of Twinion"[^ref-38] | DOS | Solo version sold with Fates of Twinion, with a 30-hour free trial of on-line time reported by Computer Gaming World[^ref-37] |
 | ImagiNation Network | 1994/5 per Wikipedia[^ref-1] | ImagiNation Network | Included with the renamed network[^ref-1] |
 
 ### Technical Specifications
@@ -141,7 +141,8 @@ One MobyGames user reviewer recalled paying "$13 for 30 hours" to play on TSN, "
 | Room Capacity | 30 players (later 60)[^ref-1] |
 | Connection | Modem[^ref-32] |
 | Sound | AIL/Miles Sound System[^ref-6] |
-| Minimum System | Intel 80286, 640 KB RAM, VGA[^ref-32] |
+| Minimum System | Intel 80286, 640 KB RAM, VGA per MobyGames[^ref-32]; 386-16MHz or better, VGA and a mouse per Computer Gaming World's boxed-version review[^ref-37] |
+| Retail Price | $59.95 (boxed version, per Computer Gaming World)[^ref-37] |
 | Hard Disk | 9 MB (boxed version)[^ref-37] |
 | Manual | 36-page scan[^ref-31] |
 
@@ -227,3 +228,4 @@ The Shadow of Yserbius was the first of three graphical MUDs for the online comm
 [^ref-35]: [Al Lowe – Where's LSL4?](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – AT&T sold "the whole thing to America On-Line for 10 million"
 [^ref-36]: [InterAction Magazine, Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "MedievaLand is the newest area on TSN"; Yserbius is "the first game in MedievaLand"
 [^ref-37]: [Computer Gaming World Issue 115 (February 1994)](https://archive.org/details/Computer_Gaming_World_Issue_115) – Bernie Yee, "Role-Playing Reversal", pp. 144–146; boxed-version review and specs box ("Yserbius-9MB HD space")
+[^ref-38]: [InterAction Magazine, Vol. VI No. 2 (Summer 1993)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_2_Summer_1993_1993_Sierra_On-Line_US) – Yserbius boxed-set advertisement: "Your Yserbius boxed set also comes with The Fates of Twinion, another on-line adventure in the tradition of Yserbius"
