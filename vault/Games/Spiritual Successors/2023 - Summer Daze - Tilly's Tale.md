@@ -105,7 +105,7 @@ The project was originally conceived as *Summer Daze at Hero-U*, featuring two p
 
 ### Production
 
-The Kickstarter campaign launched in 2019 and was successfully funded on November 6, 2019, with 1,639 backers pledging $106,155 USD[^ref-7]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
+The Kickstarter campaign launched in 2019 and was successfully funded on November 5, 2019, with 1,639 backers pledging $106,155 USD[^ref-7]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
 
 Choicest Games' reviewer gave the development time as four years[^ref-8], while Corey Cole's September 2026 BackerKit update says Tilly's Tale took "another three years" after the more than five years spent on *Hero-U: Rogue to Redemption*[^ref-24]. The Coles say Lori finished writing the game in under a year[^ref-20]. In January 2022 the game was announced for a March 31, 2022 release[^ref-7], but it did not ship until March 28, 2023[^ref-1]. Cole wrote that the original schedule was "close to accurate until we decided to add professional voiceovers"[^ref-24]. Choicest Games' reviewer noted that many studios struggled with development during COVID-19[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
 

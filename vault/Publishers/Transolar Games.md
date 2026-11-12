@@ -2,18 +2,18 @@
 title: "Transolar Games"
 type: publisher
 founded: null
-headquarters: "United States"
+headquarters: "Oakhurst, California (2000)"
 parent_company: null
 founders: ["Corey Cole", "Lori Ann Cole"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Transolar Games
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Transolar Games is an independent game company founded by [[Corey Cole|Corey Cole]] and [[Lori Ann Cole|Lori Ann Cole]], the designers of Sierra's *Quest for Glory* series.[^ref-1][^ref-18] Its itch.io profile says: "We develop and publish role-playing, adventure, and puzzle games for Windows, Macintosh, Linux, and mobile devices."[^ref-18] Corey Cole is the company's president.[^ref-1]
+Transolar Games is an independent game company founded by [[Corey Cole]] and [[Lori Ann Cole]], the designers of Sierra's *Quest for Glory* series.[^ref-1][^ref-18] Its itch.io profile says: "We develop and publish role-playing, adventure, and puzzle games for Windows, Macintosh, Linux, and mobile devices."[^ref-18] Corey Cole is the company's president.[^ref-1]
 
 No source found gives an exact founding year. The company was already online as "TranSolar Games" in May 1999, listing Quest for Glory 1–5, Shannara and Castle of Dr. Brain among its people's games.[^ref-16] A 2008 Strange Horizons interview, titled for "Lori, Corey, and Michael Cole of Transolar Games", describes the three as "the executive team for Transolar Entertainment".[^ref-17] Its 1999 "People of TranSolar Games" page listed Lori, Corey and Jim Katic,[^ref-19] and by 2000 its contact address was a post office box in Oakhurst, California.[^ref-20] The Hero-U game page carries the notice "Copyright (c) 2012-2018 Transolar Games, Inc."[^ref-4]
 
@@ -29,6 +29,8 @@ The Coles' third Kickstarter (after the 2012 and 2015 *Hero-U* campaigns), *Summ
 
 In a September 16, 2026 update to Summer Daze backers, Corey Cole recalled that the project had been split into separate games and that Lori had added a third concept, *Sami's Story*. The follow-up, *Summer Daze: Ifeyo's Adventure*, is "an interactive visual novel like Tilly's Tale"; the update says to "Expect Ifeyo's Adventure in late Spring or early Summer 2027."[^ref-22]
 
+The same update describes the studio as small: "Thirty developers worked on Rogue to Redemption, and we currently have five developers on Summer Daze." It also names two games in the prototype phase, *Summer Daze: Sami's Story* and *Puzzleworthy*, which it says "won't see release until likely 2027 or later."[^ref-22]
+
 ## Games Published (Sierra Archive)
 
 - **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Notes: Kickstarter-funded role-playing adventure from the Quest for Glory designers; console versions published by Silesia Games[^ref-2][^ref-3][^ref-4][^ref-6]
@@ -36,15 +38,15 @@ In a September 16, 2026 update to Summer Daze backers, Corey Cole recalled that 
 
 ## Key People
 
-- **[[Corey Cole|Corey Cole]]** - Co-founder; President; Designer and Producer of Hero-U[^ref-1][^ref-18]
-- **[[Lori Ann Cole|Lori Ann Cole]]** - Co-founder[^ref-1][^ref-18]
+- **[[Corey Cole]]** - Co-founder; President; Designer and Producer of Hero-U[^ref-1][^ref-18]
+- **[[Lori Ann Cole]]** - Co-founder[^ref-1][^ref-18]
 - **Michael Cole** - Director of Marketing (2008)[^ref-17]
 - **Jim Katic** - Listed among "The People of TranSolar Games" (1999)[^ref-19]
 
 ## Related
 
 - **Original Series:** [[Quest for Glory Series|Quest for Glory Series]]
-- **Designers:** [[Corey Cole|Corey Cole]], [[Lori Ann Cole|Lori Ann Cole]]
+- **Designers:** [[Corey Cole]], [[Lori Ann Cole]]
 
 ## References
 
