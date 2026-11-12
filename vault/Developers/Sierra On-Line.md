@@ -6,11 +6,11 @@ defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 notable_games: ["King's Quest", "Space Quest", "Leisure Suit Larry"]
 parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008); Activision Blizzard (July 2008)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -22,9 +22,9 @@ Sierra was independent for seventeen years. CUC International bought it in 1996,
 
 ### Founding and Early Years
 
-Ken Williams, a Los Angeles programmer, and his wife Roberta founded the company as On-Line Systems in 1979, in Simi Valley, California.[^ref-9] Ken had come across text adventures on a remote mainframe. Roberta was soon "hooked on an early text-only, interactive game called Colossal Cave" and wanted to add graphics to the form.[^ref-7] She wrote Mystery House, and Ken wrote the code. Released by mail order in May 1980, it was the first computer adventure game to have graphics.[^ref-7][^ref-9] Roberta "stuffed disks into ziplock bags along with an instruction sheet run off at a copy shop."[^ref-15] Gale's company history gives more than 3,000 copies in the first six months.[^ref-7] Ken Williams recalled in 1995: "Our goal was to sell 10,000 copies. ... We wound up selling a LOT more than 10,000 copies."[^ref-57]
+Ken Williams, a Los Angeles programmer, and his wife Roberta founded the company as On-Line Systems in 1979, in Simi Valley, California.[^ref-9][^ref-7] Ken had come across text adventures on a remote mainframe. Roberta was soon "hooked on an early text-only, interactive game called Colossal Cave" and wanted to add graphics to the form.[^ref-7] She wrote Mystery House, and Ken wrote the code. Released by mail order in May 1980, it was the first computer adventure game to have graphics.[^ref-7][^ref-9] Roberta "stuffed disks into ziplock bags along with an instruction sheet run off at a copy shop."[^ref-15] Gale's company history gives more than 3,000 copies in the first six months.[^ref-7] Ken Williams recalled in 1995: "Our goal was to sell 10,000 copies. ... We wound up selling a LOT more than 10,000 copies."[^ref-57]
 
-More Hi-Res Adventures followed. The Wizard and the Princess sold more than 60,000 copies and offered color graphics.[^ref-7] Time Zone (1982) shipped on six double-sided floppy disks.[^ref-46] By August 1980, Ken Williams recalled, the company had moved near Yosemite; Gale places it in Oakhurst, California, that year.[^ref-57][^ref-7] It was renamed Sierra On-Line in 1982, after the nearby Sierra Nevada.[^ref-9][^ref-10] The Williamses bought a home near Oakhurst with the Mystery House profits.[^ref-15][^ref-58] In 1983, at investors' urging, Sierra began making cartridges for early Atari game machines. Gale calls the result a "disaster" that forced Sierra to cut its staff from 120 to 30.[^ref-7]
+More Hi-Res Adventures followed. The Wizard and the Princess sold more than 60,000 copies and offered color graphics.[^ref-7] Time Zone (1982) shipped on six double-sided floppy disks.[^ref-46] By August 1980, Ken Williams recalled, the company had moved near Yosemite; Gale places it in Oakhurst, California, that year.[^ref-57][^ref-7] It was renamed Sierra On-Line in 1982, after the nearby Sierra Nevada.[^ref-9][^ref-10] With the Mystery House profits, the Williamses moved to Oakhurst, California.[^ref-15] In 1983, at investors' urging, Sierra began making cartridges for early Atari game machines. Gale calls the result a "disaster" that forced Sierra to cut its staff from 120 to 30.[^ref-7]
 
 ### The Golden Age of Adventure Games
 
@@ -56,7 +56,7 @@ Scott Murphy, a Space Quest designer, coined the name "Chainsaw Monday".[^ref-39
 
 ### Final Years
 
-Sierra kept publishing other studios' games, including Relic Entertainment's Homeworld in September 1999.[^ref-9] Havas became Vivendi Universal Publishing after the 2000 Vivendi–Seagram merger. Gale dates the rename to early 2001.[^ref-9][^ref-7] In August 2001 Sierra closed its Dynamix studio in Eugene, Oregon, with layoffs of 97 Dynamix employees.[^ref-64] Wikipedia separately reports layoffs of 148 employees at the company headquarters in Bellevue as part of the same August 2001 reorganization.[^ref-9] On February 19, 2002, Sierra On-Line announced its name change to Sierra Entertainment.[^ref-9] In early 2004 Vivendi shut Impressions and Papyrus, and by June 2004 it had closed the Bellevue office. In August 2004 Sierra was formally disestablished as a company and re-formed as a division.[^ref-9]
+Sierra kept publishing other studios' games, including Relic Entertainment's Homeworld in September 1999.[^ref-9] Havas became Vivendi Universal Publishing after the 2000 Vivendi–Seagram merger. Gale dates the rename to early 2001.[^ref-9][^ref-7] In August 2001 Sierra closed its Dynamix studio in Eugene, Oregon, with layoffs of 97 Dynamix employees.[^ref-64] Wikipedia separately reports layoffs of 148 employees at the company headquarters in Bellevue as part of the same August 2001 reorganization.[^ref-9] On February 19, 2002, Sierra On-Line announced its name change to Sierra Entertainment.[^ref-9] In May 2004 Vivendi shut Impressions and Papyrus.[^ref-67] By June 2004 it had closed the Bellevue office, and in August 2004 Sierra was formally disestablished as a company and re-formed as a division.[^ref-9]
 
 Vivendi Games merged with Activision to form Activision Blizzard on July 9, 2008.[^ref-51] Sierra was shut down later that year.[^ref-9]
 
@@ -244,10 +244,10 @@ The Digital Antiquarian notes that after 1999, "surprisingly few of the prominen
 [^ref-7]: [Encyclopedia.com - Sierra On-Line Inc](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) — Gale International Directory of Company Histories: founding, Mystery House, Atari cartridges, Dynamix 1990, Seattle move and Coktel 1993, 1995 acquisitions, Phantasmagoria, CUC deal "announced in February 1996", Havas Interactive, four brands
 [^ref-9]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Founding in Simi Valley, AGI/SCI, series origins, CUC closing July 24, 1996, Cendant, Havas sale, Chainsaw Monday total, 1998 divisions, 2002 rename, 2004 and 2008 closures, 2014 revival
 [^ref-10]: [MobyGames - Sierra Entertainment, Inc. (Wayback, March 2018)](https://web.archive.org/web/20180316110215/http://www.mobygames.com/company/sierra-entertainment-inc) — Company history: August 2014 website relaunch, GamesCom 2014, Geometry Wars 3 and King's Quest; Also Known As "On-Line Systems (from May, 1980 to 1982)"
-[^ref-15]: [Alta Online - Falling in and out of Love with Sierra On-Line](https://www.altaonline.com/culture/movies-tv-shows/a46976900/sierra-on-line-video-games-roberta-williams-joy-lanzendorfer/) — Joy Lanzendorfer: Mystery House disks in ziplock bags, Oakhurst home bought with Mystery House profits
+[^ref-15]: [Alta Online - Falling in and out of Love with Sierra On-Line](https://www.altaonline.com/culture/movies-tv-shows/a46976900/sierra-on-line-video-games-roberta-williams-joy-lanzendorfer/) — Joy Lanzendorfer: Mystery House disks in ziplock bags, move to Oakhurst on the Mystery House profits
 [^ref-39]: [Filfre.net - End of Sierra Part 4](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — Jimmy Maher, May 23, 2025 (revised with Eric Lengyel's corrections): Havas sale announced November 20, 1998; Chainsaw Monday in the common room, names read aloud, noon deadline; cancelled projects
 [^ref-40]: [Filfre.net - End of Sierra Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/) — Quotes the CUC–Sierra announcement: 1.225 CUC shares per Sierra share, "valued at approximately $1.06 billion"
-[^ref-41]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699000391/0000950136-99-000391.txt) — "On April 15, 1998, we announced ... accounting irregularities"; "on January 12, 1999, we completed the sale of our consumer software division ... to Paris-based Havas SA, a subsidiary of Vivendi SA"
+[^ref-41]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20250430200024/https://www.sec.gov/Archives/edgar/data/723612/0000950136-99-000391.txt) — "On April 15, 1998, we announced ... accounting irregularities"; "on January 12, 1999, we completed the sale of our consumer software division ... to Paris-based Havas SA, a subsidiary of Vivendi SA"
 [^ref-42]: [Wikipedia - Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — Designer Roberta Williams; more than 200 people; $800,000 budget, $4.5 million cost; CompUSA; more than one million copies
 [^ref-43]: [Wikipedia - Ken Williams (game developer)](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) — "stayed on to guide its strategic direction until November 1997"
 [^ref-44]: [Wikipedia - Space Quest](https://en.wikipedia.org/wiki/Space_Quest) — Six games 1986–1995, Roger Wilco, "Two Guys from Andromeda", 2012 reunion and SpaceVenture Kickstarter
@@ -273,3 +273,4 @@ The Digital Antiquarian notes that after 1999, "surprisingly few of the prominen
 [^ref-64]: [GameSpot - Sierra closes Dynamix (Wayback copy)](https://web.archive.org/web/20190718152841/https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) — "The closure includes lay-offs for 97 Dynamix employees"
 [^ref-65]: [Guinness World Records - Best-selling videogame sleeper hit](https://www.guinnessworldrecords.com/world-records/88873-best-selling-videogame-sleeper-hit) — "sold just 2,000 copies in the first month ... over the first year, went onto sell 250,000 copies"
 [^ref-66]: [Al Lowe - Biography](https://allowe.com/al/bio1.html) — Leisure Suit Larry "spawned a new computer gaming genre of 'adult' titles"
+[^ref-67]: [CNN/Money - Vivendi cuts 40 percent of U.S. gaming workforce (Wayback, June 21, 2004)](https://web.archive.org/web/20050306231307/http://money.cnn.com/2004/06/21/technology/vugames/index.htm) — "The job cuts follow the May shutdown of a pair of longtime development studios. Papyrus Studios ... and Impressions Games ... were closed last month"
