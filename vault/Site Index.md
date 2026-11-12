@@ -20,7 +20,7 @@ Long-form research aids — timelines, bibliographies, indexes, corporate histor
 - [[Corporate Lineage]] — On-Line Systems → Sierra → CUC → Vivendi → Activision → Microsoft acquisition chain
 - [[Engine History]] — Hi-Res → AGI → SCI generations through 2015 reboot
 - [[Sierra Documentary - Legends of Adventure]] — The feature-length documentary on Ken and Roberta Williams and Sierra On-Line
-- [[Sales Figures]] — Commercial sales tiers, development budgets, corporate revenue
+- [[Sales Figures]] — Series unit totals, per-title figures, development budgets, corporate revenue
 - [[Studio Map]] — Every internal/acquired/partner/alumni/fan studio
 - [[Timeline 1980-1999]] — Year-by-year independent-era chronology
 - [[Timeline 2000-present]] — Post-acquisition era through current state
