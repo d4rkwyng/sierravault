@@ -10,23 +10,23 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Stellar-Fire is a first-person hovercraft combat game in the Stellar 7 series, released by Dynamix for the Sega CD in late 1993. MobyGames credits Infinite Laser Dog as developer.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar-Fire
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Stellar-Fire is a first-person hovercraft combat game in the Stellar 7 series, released for the Sega CD in late 1993; GamePro's February 1994 review listed it as "Available December"[^ref-18][^ref-16]. MobyGames credits Infinite Laser Dog as the developer and Dynamix as the publisher[^ref-2]. Period coverage presented it as a Dynamix production: Sierra's InterAction magazine called it "the first title Dynamix created especially for Sega CD," and both GamePro and Electronic Gaming Monthly credited the game to Dynamix[^ref-17][^ref-18][^ref-19]. The game continues the series' war against the Draxon, putting the player in the experimental Raven hovermorph as the last surviving pilot of an attack squadron[^ref-13][^ref-2].
 
-Set in the year 2206, Stellar-Fire uses 3-D polygon graphics that run on the standard Sega CD hardware[^ref-16], a CD audio soundtrack, and a full-motion video introduction narrated by Star Trek: The Next Generation actor Michael Dorn[^ref-3]. Players cross the surfaces of five Draxon moons collecting Moon Crystals before fighting each moon's Guardian, then assault the Draxon homeworld of Arctura[^ref-13]. Reviews were mixed: magazines of the day praised the sound and the opening cinematic but found the shooting action thin, and later reviewers have been harsher[^ref-18][^ref-19][^ref-3][^ref-10].
+Set in the year 2206, Stellar-Fire uses 3-D polygon graphics that run on the standard Sega CD hardware[^ref-16], a CD audio soundtrack, and a full-motion video introduction narrated by Star Trek: The Next Generation actor Michael Dorn[^ref-3]. Players cross the surfaces of five Draxon moons collecting Moon Crystals before fighting each moon's Guardian, then assault the Draxon homeworld of Arctura[^ref-13]. Reception was mixed: GamePro and Electronic Gaming Monthly praised the sound and the opening cinematic but found the shooting action thin, while Game Players and GameFan were warmer, and later reviewers have been harsher[^ref-18][^ref-19][^ref-20][^ref-22][^ref-3][^ref-10].
 
 > [!info]- Game Info
 > **Developer:** Infinite Laser Dog[^ref-2]
-> **Designer:** Unknown (John Garvin is credited as writer)[^ref-6]
+> **Designer:** Unknown (John Garvin is credited as writer; Rhett Anderson and Randy Thompson were the lead programmers)[^ref-6][^ref-25]
 > **Publisher:** [[Dynamix]][^ref-2]
 > **Engine:** Unknown/unnamed[^ref-7]
 > **Platforms:** Sega CD[^ref-2]
@@ -55,7 +55,7 @@ Button A fires the cannon (slower but stronger), button B the laser (faster but 
 
 The game has six stages: five moons and Arctura itself[^ref-13][^ref-18]. On each moon the player follows the Crystal Compass, collects the Moon Crystals, then blasts the Guardian Crystal to release that moon's Guardian, who must be defeated before the Raven can move on[^ref-13].
 
-**Stages** (terrain from the manual's map; the manual puts Xarz Voor first and Mok Zoh last, before Arctura, and the order of the middle three follows the Dynamix Wiki and Retro Game Wiki)[^ref-13][^ref-1][^ref-4]:
+**Stages** (terrain from the manual's map; the manual puts Xarz Voor first and Mok Zoh last, before Arctura, and the order of the middle three follows the Dynamix Wiki and Retro Game Wiki; Blaqthourne's review likewise calls Ta Eliab Vee the fourth stage and Arctura the last)[^ref-13][^ref-1][^ref-4][^ref-8]:
 
 - **Xarz Voor:** The outermost moon, where the attack begins
 - **Zoreq:** Spire terrain
@@ -64,7 +64,7 @@ The game has six stages: five moons and Arctura itself[^ref-13][^ref-18]. On eac
 - **Mok Zoh:** A desert moon, and the last before Arctura
 - **Arctura:** The Draxon home world, with high-tech terrain
 
-Sierra's own InterAction preview gave a different order and called Zoreq "the first moon you will encounter"[^ref-16]. The manual has the attack begin on Xarz Voor[^ref-13]. Pre-release coverage counted differently: Electronic Gaming Monthly's November 1993 preview Fact File listed "7" levels, and GameFan's review said the player patrols "the six moons of the planet Arctura" (the manual describes five moons plus Arctura)[^ref-23][^ref-22].
+Sierra's own InterAction preview gave a different order and called Zoreq "the first moon you will encounter"[^ref-16]. The manual has the attack begin on Xarz Voor[^ref-13]. Pre-release coverage counted differently: Electronic Gaming Monthly's November 1993 preview Fact File listed "7" levels, and GameFan's review said the player patrols "the six moons of the planet Arctura" (the manual describes five moons plus Arctura). Sega Visions' December/January 1994 preview used similar wording, "the landscapes of six moons and a planet"[^ref-23][^ref-22][^ref-26].
 
 When the Raven reaches each new moon, a spoken mission briefing introduces the moon's enemies. The player can cycle through enemy profiles and tips or skip the briefing entirely[^ref-1]. The Video Game Critic noted that "the lady's voice" delivers the first mission briefing[^ref-10].
 
@@ -82,9 +82,13 @@ The manual lists three difficulty levels: easy, normal, and difficult. On easy, 
 
 **Electronic Gaming Monthly** (#55, p. 42, "Major Mike's Game Roundup") gave scores of 6, 7, 4, 4 and 6 from its five reviewers, calling it "a first-person perspective shooter that looks a little like Battlezone, but doesn't really hack it. The sounds are alright and the cinemas are dynamite, but they are so good that they make the game a real letdown."[^ref-19]
 
+**Video Games** (Germany, January 1994) is listed by MobyGames with a MobyRank of 63%. Its excerpt called the game "flotte Minimalgrafik mit viel Action und bärenstarker Rockmusik" (brisk minimal graphics with plenty of action and powerful rock music) with enemies that demand tactics, and said the action holds its interest for a long time. It added that, as on the 3DO, the intro promises far more than the game's graphics deliver, and concluded that action fans would be satisfied[^ref-27].
+
 **Game Players** (#40, May 1994, p. 124, "Now Playing" capsule of its earlier review) gave it 82%, citing "lots of variety from planet to planet, a sneaky bunch of bosses and hot music." It added that "the game is hard and even the easy mode has enough enemies to keep you busy."[^ref-20]
 
-**GameFan** (Vol. 1 #12, November 1993, p. 61) reviewed it in a Sega CD column signed E. Storm, calling it "a unique shooter that although mild at first becomes increasingly addicting" and the music and introduction "phenom.". The review describes collecting "a series of crystals before greeting the level guardian" and names "the moons background graphics always change but the mountains never get closer" as "the only real flaw." It also says that although "there is nothing ground breaking here," the game "offers some unique play mechanics."[^ref-22]
+**GameFan** (Vol. 1 #12, November 1993, p. 61) reviewed it in a Sega CD column signed E. Storm, calling it "a unique shooter that although mild at first becomes increasingly addicting" and the music and introduction "phenom." The review describes collecting "a series of crystals before greeting the level guardian" and names "the moons background graphics always change but the mountains never get closer" as "the only real flaw." It also says that although "there is nothing ground breaking here," the game "offers some unique play mechanics."[^ref-22]
+
+**Sega Visions** (December/January 1994, p. 59) ran a "Just Review It" preview, marked "NOT YET RATED," of the Sega CD game as a "furious-paced battle to the death" and "an intense polygon-based game." It said "the original music will rock you to your core," described "five different types of weapons," and gave hints such as keeping an eye on the radar[^ref-26].
 
 Sierra's own **InterAction** magazine (Holiday 1993, p. 50) ran a promotional feature by Barbara Ray. It highlighted the 3-D polygon graphics running on "the hardware found inside every Sega CD console" and the "killer techno-rock/industrial soundtrack," and closed with "Looks like Dynamix has another hit on its hands!"[^ref-16] As a house magazine, InterAction was promoting its own product, not reviewing it.
 
@@ -106,21 +110,26 @@ A 2025 MobyGames user review, titled "Better Than the Reviews Would Have You Thi
 
 Stellar-Fire belongs to the Stellar 7 series, which began with the 1983 Stellar 7 and continued through Arcticfox, the 1990 Stellar 7 remake, Nova 9: The Return of Gir Draxon and the 3DO game Stellar 7: Draxon's Revenge[^ref-12]. InterAction described it as "based on Damon Slye's classic space shooter Stellar 7"[^ref-17], and GamePro noted its "stellar heritage (it's based on an acclaimed PC game)"[^ref-18].
 
-MobyGames lists Infinite Laser Dog as developer and Dynamix as publisher, and Sega-16 and GameFAQs list the same split[^ref-2][^ref-3][^ref-9]. At the time, Sierra's InterAction called Stellar-Fire "the first title Dynamix created especially for Sega CD" and credited "the techno-wizards at Dynamix" and "the sensational artistic talents at Dynamix," while GamePro and EGM attributed the game to Dynamix[^ref-17][^ref-16][^ref-18][^ref-19]. The Sierra Chest also lists Dynamix as developer[^ref-7]. The sources do not explain how the work was divided between Infinite Laser Dog and Dynamix. IMDb credits John Garvin as writer[^ref-6].
+MobyGames lists Infinite Laser Dog as developer and Dynamix as publisher, and Sega-16 and GameFAQs list the same split[^ref-2][^ref-3][^ref-9]. At the time, Sierra's InterAction called Stellar-Fire "the first title Dynamix created especially for Sega CD" and credited "the techno-wizards at Dynamix" and "the sensational artistic talents at Dynamix," while GamePro and EGM attributed the game to Dynamix[^ref-17][^ref-16][^ref-18][^ref-19]. The Sierra Chest also lists Dynamix as developer[^ref-7]. VideoGames magazine's February 1994 interview introduced Rhett Anderson and Randy Thompson as "the lead programmers of Stellar Fire"[^ref-25]. IMDb credits John Garvin as writer[^ref-6].
 
 ### Production
 
 InterAction emphasized that the game's 3-D polygon graphics needed no extra chip: "Stellar Fire, however, makes use of the hardware found inside every Sega CD console"[^ref-16]. The full-motion video introduction, which GamePro called a "great opening sequence," mixes footage of actors in a cockpit with computer-generated space battles[^ref-18][^ref-10]. DieHard GameFan's earlier preview called it "The SGI intro" and said it "lasts for nearly 5 minutes"; that preview covered a pre-release build with "only one level complete," described the game as a "planet based, futuristic tank" shooter, and is used here only for the intro[^ref-24]. Michael Dorn, Worf on Star Trek: The Next Generation, narrates the opening cinematic[^ref-3][^ref-9]. A GameFAQs trivia note calls it "a bit part" that was "still promoted on the back of the box"[^ref-9].
 
+In a February 1994 VideoGames interview (p. 11), Rhett Anderson said the game "was designed from scratch," that he "designed and wrote the entire 3-D system," and that it did not use Dynamix's 3Space graphic system. He described the engine as "a 3-D system optimized for the 68000 and optimized for this game." He also said he was pulled off Stellar Fire for a time to help with The Adventures of Willy Beamish, which he called "the sacrificial lamb that let Randy and me call the shots on Stellar Fire"[^ref-25].
+
 **Development Credits:**
 
 - **Team (MobyGames):** Randy Thompson, John Garvin, Rhett Anderson, Robert Kraft, Christopher Stevens, Tim Midkiff, Julie Anderson, Ken Rogers, Gregg Giles, Peter Lewis, Ron Clayborn, Damon Mitchell, David McClurg, Gerald Azenaro[^ref-21]
+- **Lead programmers:** Rhett Anderson and Randy Thompson (per VideoGames magazine, Feb 1994)[^ref-25]
 - **Writer:** John Garvin[^ref-6]
 - **Music and Sound:** Ken Rogers, Christopher Stevens. The Dynamix Wiki gives them this role; MobyGames lists both in the team[^ref-1][^ref-21]
 - **Narrator:** Michael Dorn[^ref-21][^ref-6]
-- **Cover illustration:** John Garvin and Peter Lewis (MobyGames)[^ref-21]
+- **Artists:** John Garvin and Peter Lewis are among the artists the Dynamix Wiki lists, marked "plausible"[^ref-1]
 
 ### Technical Achievements
+
+The game runs on a custom 3-D engine written for it rather than Dynamix's 3Space system, which Rhett Anderson said was optimized for the 68000 processor[^ref-25]. For the vehicle preview screen, Tim Midkiff wrote a graphics converter that turns a VGA image into a Sega shadow/highlight-mode screen using his own palette selection routine, which Anderson said "does an unbelievable job"[^ref-25]. Randy Thompson said the game's full-motion video uses a lossless compression method, unlike the "lossy" compression of games such as Night Trap, and runs at 30 frames per second over a larger screen area than most other games' FMV[^ref-25].
 
 InterAction promoted the game's use of "3-D polygon technology to create a hyper-realistic 3-D environment" on stock Sega CD hardware[^ref-16]. A player review describes the graphics as simple 3-D geometric figures, often "different shade[s] of one color," and notes that "some enemies are simply wire frame (you can see right through them)"[^ref-9]. Sega-16 likewise found the enemies and bosses "done with simple wire frame builds and in limited colors"[^ref-3]. GamePro singled out the windshield cracks after collisions and the "splat" when a flying enemy hits the glass[^ref-18].
 
@@ -214,3 +223,6 @@ Reviewers of the day agreed on what Stellar-Fire did well, praising its sound an
 [^ref-22]: [GameFan Vol. 1 #12, November 1993, p. 61 – Stellar-Fire](https://archive.org/details/GamefanVolume1Issue12/page/n60/mode/1up) – E. Storm; "Dynamix · 1 player · Sega CD · Nov."; positive review; "six moons" wording differs from the manual
 [^ref-23]: [Electronic Gaming Monthly #52, November 1993, p. 262 – Stellar-Fire preview](https://archive.org/details/Electronic_Gaming_Monthly_52/page/n262/mode/1up) – unsigned preview; Fact File: Dynamix, Available December, 7 levels, 75% complete; 2206 premise
 [^ref-24]: [DieHard GameFan Vol. 1 #11, 1993 – Stellar-Fire preview](https://archive.org/details/diehard-gamefan-v1-n11/page/n38/mode/1up) – Talko; SGI intro of nearly 5 minutes; only one level complete at the time
+[^ref-25]: [VideoGames: The Ultimate Gaming Magazine #61, February 1994, p. 11 – "Come On Baby, Right My Fire"](https://archive.org/details/Video_Games_The_Ultimate_Gaming_Magazine_Issue_61_February_1994/page/n10/mode/1up) – Zach Meston and Mike Miles interview Rhett Anderson and Randy Thompson, lead programmers; custom 3-D engine (not 3Space), lossless 30 fps FMV, Tim Midkiff's graphics converter
+[^ref-26]: [Sega Visions, December/January 1994 (Issue 16), p. 59 – Stellar-Fire "Just Review It" preview](https://archive.org/details/Sega_Visions_Issue_16_December-January_1994/page/n60/mode/1up) – "NOT YET RATED"; "six moons and a planet"; five weapon types; Hot Hints
+[^ref-27]: [MobyGames – Stellar-Fire MobyRank, Wayback snapshot 2017-12-10](https://web.archive.org/web/20171210044256/http://www.mobygames.com/game/sega-cd/stellar-fire/mobyrank) – lists Video Games (Germany), Jan 1994, 63%, with a German-language excerpt; the original magazine scan was not located
