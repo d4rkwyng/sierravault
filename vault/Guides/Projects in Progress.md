@@ -119,7 +119,7 @@ Sierra-affiliated games currently in development or recently updated. Statuses c
 | SpaceVenture | Guys from Andromeda | Dec 23, 2025 | [[2022 - SpaceVenture]] |
 | King's Quest IV Retold (VGA + Talkie) | Magic Quest Entertainment (Jorge Pecador), building on DrSlash's 2021 Retold | Nov 29, 2025 | [[2021 - King's Quest IV Retold]] |
 | Gobliiins 5 | [[Pierre Gilhodes]] | 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion]] |
-| Colossal Cave 3D | Ken & Roberta Williams | 2023 | [[2023 - Colossal Cave 3D Adventure]] |
+| Colossal Cave 3D | Cygnus Entertainment (Ken & Roberta Williams) | 2023 | [[2023 - Colossal Cave 3D Adventure]] |
 | Summer Daze | [[Corey Cole\|Corey]] & Lori Cole ([[Transolar Games]]) | 2023 | [[2023 - Summer Daze - Tilly's Tale]] |
 | Homeworld 3 | Blackbird Interactive | May 2024 | [[2024 - Homeworld 3]] |
 
