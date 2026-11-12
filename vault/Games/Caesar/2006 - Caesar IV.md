@@ -289,7 +289,7 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 [^ref-12]: [Caesar IV Heaven – Game Overview](https://caesar4.heavengames.com/gameinfo/overview/) – progression system, composer credit
 [^ref-14]: [Prima Official eGuide](https://archive.org/stream/Caesar_IV_Prima_Official_eGuide/Caesar_IV_Prima_Official_eGuide_djvu.txt) – victory conditions, game mechanics
 [^ref-15]: [GameSpy – Caesar IV Developer Interview](http://pc.gamespy.com/pc/caesar-iv/725654p1.html) – social classes, citizen behaviors
-[^ref-16]: [Sierra Chest – Caesar IV Demo Preview](https://sierrachest.com/ad/index.php?a=news&pid=339) – camera system, demo details
+[^ref-16]: [Sierra Chest – Caesar IV Demo Preview](https://sierrachest.com/index.php?a=news&pid=339) – camera system, demo details
 [^ref-17]: [GameFAQs – Caesar IV FAQ by AAChaoshand](https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs/45573) – resource types, tax rates, gods, currency
 [^ref-18]: [PCGamingWiki – Caesar IV](https://www.pcgamingwiki.com/wiki/Caesar_IV) – input devices, API
 [^ref-19]: [WorthPlaying – Caesar IV Review](https://worthplaying.com/article/2006/12/11/reviews/38350-pc-review-caesar-iv/) – interface bugs, building placement issues

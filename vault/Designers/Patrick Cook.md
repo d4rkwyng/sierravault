@@ -129,7 +129,7 @@ Cook's credits trace a path from Cinemaware through Sierra's Dynamix to Microsof
 [^ref-7]: [MobyGames - It Came from the Desert](https://www.mobygames.com/game/610/it-came-from-the-desert/) — Production credits
 [^ref-8]: [VGMPF Wiki - Rocket Ranger (NES)](https://www.vgmpf.com/Wiki/index.php/Rocket_Ranger_%28NES%29) — "directed by Patrick Cook" on the NES version
 [^ref-9]: [MobyGames - Front Page Sports: Football Pro](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) — Designer and Director credit; readable copy: [MobyGames credits (Wayback, 2022-06-11)](https://web.archive.org/web/20220611231127/https://www.mobygames.com/game/dos/front-page-sports-football-pro/credits) — "Designer and Director Patrick Cook"
-[^ref-10]: [Sierra Chest - Patrick Cook Biography](https://sierrachest.com/cssdf/index.php?a=person&id=2989&fld=general) — Sierra-era credits
+[^ref-10]: [Sierra Chest - Patrick Cook Biography](https://sierrachest.com/index.php?a=person&id=2989&fld=general) — Sierra-era credits
 [^ref-11]: [MobyGames - Outpost 2: Divided Destiny](https://www.mobygames.com/game/1609/outpost-2-divided-destiny/) — Director credit
 [^ref-13]: [MobyGames - NFL Fever 2003](https://www.mobygames.com/game/76600/nfl-fever-2003/) — Studio Manager credit
 [^ref-14]: [MobyGames - Microsoft Flight Simulator X](https://www.mobygames.com/game/26241/microsoft-flight-simulator-x/) — Design credit (base game)

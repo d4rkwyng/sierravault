@@ -10,7 +10,7 @@ series: Caesar
 engine: null
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Caesar is a 1992 city-building game developed and published by Impressions,
  casting the player as a Roman provincial governor; Sierra reissued it in 1996.
 tags: [1990s, caesar, impressions, sierra]
@@ -18,11 +18,11 @@ composer: [Christopher J. Denman]
 ---
 # Caesar
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Caesar is a city-building game first released on the Amiga in October 1992, with Atari ST, DOS and Macintosh versions following in 1992 and 1993[^ref-26][^ref-43]. It was developed and published by Impressions: the contemporary review boxes list Impressions as publisher, and MobyGames records Impressions as publisher of every 1992–93 release[^ref-2][^ref-43]. Sierra On-Line's name appears only on the 1996 "Sierra Originals" re-release and later budget editions, after Impressions had become a Sierra subsidiary[^ref-43][^ref-40]. As David Lester, founder of Impressions, reflected, "we produced and published some games that you may (or may not) have heard of... Caesar 1, 2 and 3, to name a few"[^ref-3].
+Caesar is a city-building game first released in 1992. MobyGames dates the Amiga and DOS releases to 1992, the Atari ST version to December 1992 and the Macintosh version to 1993[^ref-43]; The Sierra Chest gives the title a first-release date of 12 October 1992 without naming a platform[^ref-57]. It was developed and published by Impressions: the contemporary review boxes list Impressions as publisher, and MobyGames records Impressions as publisher of every 1992–93 release[^ref-2][^ref-43]. Sierra On-Line's name appears only on the 1996 "Sierra Originals" re-release and later budget editions, after Impressions had become a Sierra subsidiary[^ref-43][^ref-40]. Other sources differ: Wikipedia and PCGamingWiki name Sierra On-Line as the original publisher, and The Sierra Chest lists both Sierra On-Line and Impressions Games[^ref-26][^ref-56][^ref-57]. As David Lester, founder of Impressions, reflected, "we produced and published some games that you may (or may not) have heard of... Caesar 1, 2 and 3, to name a few"[^ref-3].
 
 Ars Technica's 2015 history of the city-building genre credits the game as a first: "Impressions Software was first to apply the core SimCity formula to history, and it chose the most obvious subject matter"[^ref-5]. The same article argues that "Caesar was far more than a reskinned, muddier-looking SimCity", but it added a key trapping of ancient Rome: war[^ref-5].
 
@@ -107,22 +107,42 @@ The DOS version requires at least 590K of free conventional memory, runs in 256-
 
 An updated Caesar Deluxe followed in 1993; Amiga Power's October 1993 review still pointed battle-minded players to the separately sold Cohort 2[^ref-2]. Amiga Format reviewed it in November 1993 as "only a very slight upgrade" to the original, priced at £14.99 for owners[^ref-28].
 
+### Version History
+
+| Version | Date | Notes |
+|---------|------|-------|
+| Amiga | 1992 | MobyGames[^ref-43] |
+| DOS | 1992 | MobyGames and PCGamingWiki[^ref-43][^ref-56] |
+| Atari ST | December 1992 | MobyGames[^ref-43] |
+| Macintosh | 1993 | MobyGames; PCGamingWiki lists Mac OS (Classic) as 1993[^ref-43][^ref-56] |
+| Caesar Deluxe | 1993 | Updated edition[^ref-28] |
+| Sierra Originals | 1996 | Re-release under Sierra's label; MobyGames media title "Caesar I"[^ref-43] |
+| Windows (GOG) | 9 February 2017 | Pre-packaged with DOSBox; the US and European versions ship in a single distribution, with the version chosen at launch[^ref-56] |
+
 ## Legacy
 
-Caesar spawned three direct sequels and several spin-offs set in other ancient civilizations, together known as the City Building series[^ref-50]. Impressions released Caesar II in 1995 and Caesar III in 1998, and Tilted Mill Entertainment released Caesar IV in 2006[^ref-26]. CGW's original review had already judged that "Caesar goes far beyond its Sim-City origins"[^ref-29].
+Caesar spawned three direct sequels and several spin-offs set in other ancient civilizations, together known as the City Building series[^ref-50]. Impressions released Caesar II in 1995 and Caesar III in 1998, and Tilted Mill Entertainment released Caesar IV in 2006[^ref-26]. Caesar could be linked to Impressions' Cohort II for more detailed combat[^ref-56]. CGW's original review had already judged that "Caesar goes far beyond its Sim-City origins"[^ref-29].
 
 The sequels carried the series further. Chris Beatrice has said that Caesar II's pre-rendered graphics "inspired my now good friend Rick Goodman when he did Age of Empires"[^ref-47], and Simon Bradbury named Caesar III his favourite: "It was the most accomplished, polished and it benefitted greatly from the experience of coding and designing the previous two games"[^ref-36]. Fan interest in the series continues through open-source projects such as Julius and Augustus, which one GOG forum member describes as "two variants of a modern engine for Caesar III"[^ref-44][^ref-45].
+
+### Collections
+
+The Sierra Chest lists the game as also included in two compilations, "Best of Sierra Nr.5" and "Caesar Collection", and notes a German release against the entry[^ref-57].
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG.com - $5.99](https://www.gog.com/en/game/caesar)[^ref-53]
 
+**Manuals & Extras**
+- [Original game manual (Lemon Amiga)](https://www.lemonamiga.com/games/docs.php?id=273)[^ref-11]
+
 ## See Also
 
 - [[1995 - Caesar II]]
 - [[1998 - Caesar III]]
 - [[2006 - Caesar IV]]
+- [[City Builders Series]]
 
 Caesar is the first game in the Caesar series of city-building games. The series began with Caesar (1992) and continued with Caesar II (1995), Caesar III (1998) and Caesar IV (2006), each keeping the Roman setting.
 **Previous:** None (first game in the series)
@@ -152,3 +172,5 @@ Caesar is the first game in the Caesar series of city-building games. The series
 [^ref-53]: https://www.gog.com/en/game/caesar - GOG.com store page ($5.99; "Company: Impressions Games / Activision")
 [^ref-54]: https://lilura1.blogspot.com/2022/04/Caesar-IBM-PC-MS-DOS-1992-Impressions-Games-Original-Version.html - Lilura review of the DOS version: credits, technical details, city-building rules
 [^ref-55]: https://www.mobygames.com/game/3146/caesar/ - MobyGames overview: perspective, pacing and game description
+[^ref-56]: [PCGamingWiki – Caesar](https://www.pcgamingwiki.com/wiki/Caesar) – original publisher Sierra On-Line, DOS 1992, Mac OS (Classic) 1993, Windows (DOSBox) 9 February 2017; GOG package holds US and European versions; can link to Cohort II
+[^ref-57]: [The Sierra Chest – Caesar](https://www.sierrachest.com/index.php?a=games&id=89&fld=general) – first release 1992-10-12, publishers Sierra On-Line and Impressions Games, compilations Best of Sierra Nr.5 and Caesar Collection
