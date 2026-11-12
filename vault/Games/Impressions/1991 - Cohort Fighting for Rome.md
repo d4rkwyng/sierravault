@@ -10,7 +10,7 @@ series: Cohort
 engine: Proprietary (Impressions)
 protagonist: Roman Legion Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: 'Cohort: Fighting for Rome is a real-time tactical wargame of Roman
   battles developed by Impressions Games and released in 1991 for DOS, Amiga, and
   Atari ST; the US release was published by Merit Software as Fighting for Rome.'
@@ -18,7 +18,7 @@ tags: [1990s, cohort, impressions, sierra, strategy]
 ---
 # Cohort: Fighting for Rome
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -93,9 +93,13 @@ UK magazines reviewed the Amiga and Atari ST versions in mid-1991, and the verdi
 
 On the Atari ST, **ST Action** (June 1991) rated it 70%, praising the Roman history booklet but concluding that "there isn't enough to maintain a long lasting appeal."[^ref-25] **ST Format** (issue 24, July 1991) gave it 69%: "Cohort is bound to appeal to the hardcore wargamer because it's completely strategy-based... buy it if wargames are your bag."[^ref-26][^ref-19]
 
+The French magazine **Joystick** (issue 16, May 1991) reviewed the ST and Amiga versions together, with Moulinex as reviewer, and gave them 80% (graphisme 14, son 15, animation 14, difficulté 16). Moulinex opened by calling Cohort proof that "Impressions est de loin l'éditeur de Wargame le plus prometteur", and the ST verdict begins: "Bien que les menus ne soient pas tout à fait aussi pratiques qu'ils le devraient, voilà un superbe logiciel." The Amiga verdict ends: "un wargame convivial, ça fait plaisir à voir."[^ref-30]
+
 **Amiga Power** (issue 6, October 1991) ran Cohort in its review round-up with the verdict "A fine off-beat wargame, but overpriced." Its listed upsides were "(Relatively) excellent graphics and helpful user-interface" and its listed downsides were that "the controls system isn't as good as it should be."[^ref-28] Hall of Light separately lists an Amiga Power score of 62% (it gives the issue as 4).[^ref-13]
 
 The German magazine **Amiga Joker** (June/July 1991) was the harshest. Hall of Light lists its score as 19%, and the magazine placed Cohort second in its "Redaktions-Flops" list of the editors' least favourite games.[^ref-13][^ref-27] The review treated Cohort as a repeat of Impressions' earlier Rorke's Drift: the reviewer wrote that "der Fall" lay "genauso wie bei Rorke's Drift" (the case stands exactly as it did with Rorke's Drift), and complained of the same clumsy mouse control, jerky scrolling and modest graphics, with worse sound and a price ten Deutschmarks higher.[^ref-27]
+
+Germany's **Power Play** (July 1991, p. 116) was no kinder. Its Amiga review, headed "Niederschmetternd" (devastating), gave Cohort 14% (graphics 39%, sound 9%). It called Rorke's Drift a "üble Schundwerk" and said Cohort was the same game, "nur notdürftig verändert und kaum verbessert", concluding that it "in etwa soviel Vergnügen bereitet wie eine Stunde Marathonsitzen im Ameisenhaufen."[^ref-29]
 
 US coverage was cooler. Computer Gaming World's July 1992 "Taking a Peek" column noted that "while gameplay was emphasized over realism, this arcade wargame has its own sort of charm."[^ref-22] M. Evan Brooks, in the August 1993 addendum to his Pre-20th Century Wargame Survey, rated Fighting for Rome two stars: "A clumsy interface coupled with mediocre graphics shows why British products are generally not ready for the American market. Still a detailed game of Roman military tactics; superseded by Cohort II."[^ref-20] The HOTUD review hosted on MyAbandonware and Old-Games.com repeats the quote.[^ref-3][^ref-6] The earlier June 1993 part of Brooks' survey notes that the game was released in the United States as Fighting for Rome.[^ref-18]
 
@@ -105,7 +109,7 @@ US coverage was cooler. Computer Gaming World's July 1992 "Taking a Peek" column
 - **MobyGames Critics:** 49% (based on 9 ratings)[^ref-2]
 - **MobyGames Player Score:** 3.3 out of 5[^ref-2]
 - **MobyGames Moby Score:** 5.8[^ref-2]
-- **MyAbandonware User Rating:** 3.8 out of 5[^ref-3]
+- **MyAbandonware User Rating:** 3.9 out of 5, 16 votes (checked November 2026)[^ref-3]
 
 According to MobyGames, 10 of its users have the game in their collections.[^ref-2]
 
@@ -113,7 +117,7 @@ According to MobyGames, 10 of its users have the game in their collections.[^ref
 
 ### Origins
 
-Impressions' own 1991 advertising called Cohort "the second game in Impressions' unique and extremely popular miniature-style war-game series", with The Charge of the Light Brigade billed as the third.[^ref-26] CU Amiga and ST Format both described it as the follow-up to Impressions' Rorke's Drift.[^ref-17][^ref-26] The HOTUD review hosted on MyAbandonware names the series "Micro Miniatures" but calls Cohort its "fourth offering", which Impressions' own advertising contradicts.[^ref-3][^ref-26] Impressions was a British developer founded by David Lester, who sold it to [[Sierra On-Line]] in 1995, four years after Cohort's release.[^ref-4]
+Impressions' own 1991 advertising called Cohort "the second game in Impressions' unique and extremely popular miniature-style war-game series", with The Charge of the Light Brigade billed as the third.[^ref-26] The HOTUD review hosted on MyAbandonware names the series "Micro Miniatures" and calls Cohort its "fourth offering".[^ref-3] PC Review (July 1992) lists four titles in Impressions' "Miniatures" series: Rourke's Drift, Fort Apache, Charge of the Light Brigade and Cohort.[^ref-31] The sources therefore count the series differently. CU Amiga and ST Format both described Cohort as the follow-up to Impressions' Rorke's Drift.[^ref-17][^ref-26] Impressions was a British developer founded by David Lester, with Edward Grabowski, who designed and programmed Cohort, as co-founder.[^ref-4][^ref-32] Lester's company joined [[Sierra On-Line]] in June 1995, four years after Cohort's release, in a merger paid for in Sierra stock.[^ref-33]
 
 ### Production
 
@@ -161,7 +165,7 @@ M. Evan Brooks faulted the game's "clumsy interface" and "mediocre graphics."[^r
 ### Easter Eggs and Trivia
 
 - MobyGames lists the game under three titles: "Fighting for Rome," "Cohort," and "Cohort: Fighting for Rome."[^ref-2] CGW notes that the US release carried the title Fighting for Rome.[^ref-18]
-- The HOTUD review calls it "the fourth offering from Impressions in the 'Micro Miniatures' series," but Impressions' own 1991 advertisement calls it "the second game" in its miniature-style war-game series.[^ref-3][^ref-26]
+- The HOTUD review calls it "the fourth offering from Impressions in the 'Micro Miniatures' series," while Impressions' own 1991 advertisement calls it "the second game" in its miniature-style war-game series; PC Review's 1992 list names four Miniatures titles.[^ref-3][^ref-26][^ref-31]
 - Cohort II was sold as an upgrade to the original: CGW #107 reports that owners of the first release could upgrade for $14.95.[^ref-18]
 
 ## Voice Cast
@@ -194,7 +198,6 @@ Hall of Light catalogues three printed items for the Amiga release: a multilingu
 
 ## Purchase
 
-**Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-fighting-for-rome-1991)
 
@@ -230,7 +233,7 @@ The game is also documented on IGDB.[^ref-8]
 
 [^ref-1]: [Internet Archive – Cohort: Fighting for Rome (MS-DOS)](https://archive.org/details/msdos_Cohort_-_Fighting_for_Rome_1991) – Release year, platforms, MobyGames-derived description (real-time, pause to give orders, generals rally troops), browser-playable copy
 [^ref-2]: [MobyGames – Fighting for Rome](https://www.mobygames.com/game/11756/fighting-for-rome/) – Developer, publishers (Merit Software, Impressions Games), platforms, alternate titles, Amiga credits (Edward Grabowski, Jeffrey von Brakenton, Christopher J. Denman), ratings, DOS specs, Strategy Masters (1992) compilation
-[^ref-3]: [MyAbandonware – Fighting for Rome](https://www.myabandonware.com/game/fighting-for-rome-147) – HOTUD review text (M. Evan Brooks quote, Micro Miniatures series, sharper graphics and AI), user rating, DOSBox compatibility, download sizes
+[^ref-3]: [MyAbandonware – Fighting for Rome](https://www.myabandonware.com/game/fighting-for-rome-147) – HOTUD review text (M. Evan Brooks quote, Micro Miniatures series, sharper graphics and AI), user rating (3.9/5 from 16 votes, checked 2026-11-12), DOSBox compatibility, download sizes
 [^ref-4]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Article text: "a British video game developer founded by David Lester. He sold the company to Sierra On-Line in 1995"; games list including Cohort (1991) and Cohort II (1993)
 [^ref-5]: [Atari Legend – Cohort: Fighting for Rome](https://www.atarilegend.com/games/cohort-fighting-for-rome) – Atari ST credits: Edward Grabowski (programming), Jeffrey Von Brakenton (graphics), Christopher Denman (music)
 [^ref-6]: [Old-Games.com – Cohort (Fighting for Rome)](https://www.old-games.com/download/5153/cohort-a-k-a-fighting) – DOS download, game description, same M. Evan Brooks quote as HOTUD
@@ -249,3 +252,8 @@ The game is also documented on IGDB.[^ref-8]
 [^ref-26]: [ST Format Issue 24, July 1991 – Internet Archive](https://archive.org/details/atari-st-format-issue-024) – Review (p. 72): follow-up to Rorke's Drift, five scenarios, £24.99, 69%; Impressions advertisement (p. 82): "the second game in Impressions' ... miniature-style war-game series", Charge of the Light Brigade "the third", £29.99
 [^ref-27]: [Amiga Joker, June/July 1991 – Internet Archive](https://archive.org/details/AmigaJoker199106_and_07) – German review of Cohort (OCR partly garbled): four scenarios, eight armies, same faults as Rorke's Drift; Cohort second in the "Redaktions-Flops" list
 [^ref-28]: [Amiga Power Issue 6, October 1991 – Internet Archive](https://archive.org/details/amiga-power-issue-06-october-1991) – Review round-up capsule for Cohort (Impressions, £29.99): "A fine off-beat wargame, but overpriced."
+[^ref-29]: [Power Play, July 1991 – Internet Archive](https://archive.org/details/powerplaymagazine-1991-07) – Amiga review of Cohort (p. 116): "Niederschmetternd", Amiga 14% (Grafik 39%, Sound 9%), same game as Rorke's Drift "nur notdürftig verändert und kaum verbessert", about 85 DM; score read on the page image
+[^ref-30]: [Joystick #16, May 1991 – Internet Archive](https://archive.org/details/joystick016) – Moulinex's ST and Amiga review of Cohort (p. 206): "voilà un superbe logiciel", "le plus prometteur", 80%, about 250 F; score read on the page image
+[^ref-31]: [PC Review Issue 9, July 1992 – Internet Archive](https://archive.org/details/PC_Review_Issue_9_1992-07_EMAP_Images_GB) – Wargames feature: Impressions produces the "Miniatures" series; "To date there has been Rourke's Drift, Fort Apache, Charge of the Light Brigade, and Cohort."
+[^ref-32]: [Computer Gaming World Issue 103, February 1993 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_103) – Impressions profile of David Lester: "David Lester and Edward Grabowski established their company"
+[^ref-33]: [Sierra On-Line Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback Machine)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Note 2: "On June 20, 1995 the Company also merged with Inspiration, a developer of strategy games, in exchange for 730,352 shares of Sierra's common stock."
