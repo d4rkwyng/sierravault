@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Al Lowe]
 description: '*Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)*
   is the second game in Al Lowe''s comedy adventure series, released by Sierra On-Line
@@ -21,13 +21,13 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 *Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)* is the second game in [[Al Lowe]]'s landmark comedy adventure series, released by Sierra On-Line in October 1988.[^ref-1] The sequel marked a significant technical leap forward, being one of the first games to use Sierra's new Creative Interpreter (SCI) engine,[^ref-7] which brought full 320x200 resolution, mouse control for movement, and sound card support.[^ref-6] "For better or worse, Larry Laffer is among the most recognized cult heroes in adventure games," noted Adventure Classic Gaming's retrospective review.[^ref-3]
 
-Sierra intentionally toned down Larry's sexual escapades for the sequel, which instead offers a more elaborate plot involving the KGB, a cruise ship, and tropical islands.[^ref-6][^ref-9] The sequel itself had not been assured: IGN notes that "a Leisure Suit Larry sequel was not always a sure thing," because a number of retailers had refused to sell the first game and its initial sales were among the lowest in Sierra's history.[^ref-5] Al Lowe has said that each game in the series, this one included, sold over 250,000 copies.[^ref-6]
+Sierra intentionally toned down Larry's sexual escapades for the sequel, which instead offers a more elaborate plot involving the KGB, a cruise ship, and tropical islands.[^ref-6][^ref-9] The game did not include an age-verification test, although brief instances of pixelated nudity still occur at certain points.[^ref-9][^ref-6] The sequel itself had not been assured: IGN notes that "a Leisure Suit Larry sequel was not always a sure thing," because a number of retailers had refused to sell the first game and its initial sales were among the lowest in Sierra's history.[^ref-5] Al Lowe has said that each game in the series, this one included, sold over 250,000 copies.[^ref-6]
 
 Adventure Classic Gaming judged it "at least 3 times longer than the original,"[^ref-3] and Last Day Deaf counts 75 unique locations, "nearly doubling that of the previous game."[^ref-7] However, this expansion came with a controversial design decision: the game actively punishes Larry for flirting with any woman he meets, invariably leading to his violent death—a marked departure from the rest of the series.[^ref-6] "This lack of Leisure Suit Larry's trademark humor was an oft-cited criticism of the game and the series returned to its original formula in all later games."[^ref-9]
 
@@ -37,7 +37,9 @@ Adventure Classic Gaming judged it "at least 3 times longer than the original,"[
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI0 (Sierra's Creative Interpreter)[^ref-2]
 > **Platforms:** MS-DOS, Amiga, Atari ST, Windows[^ref-1]
-> **Release Year:** 1988
+> **Release Year:** 1988[^ref-1]
+> **Producer:** [[Al Lowe]] (executive producer)[^ref-1]
+> **Composer:** [[Al Lowe]][^ref-1]
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Core Sierra
@@ -119,9 +121,12 @@ After the game's release, Sierra ran a CompuServe contest for the funniest Trite
 
 **Development Credits:**[^ref-1][^ref-24]
 - **Designer:** [[Al Lowe]]
-- **Composer:** Al Lowe
+- **Executive Producer:** Al Lowe
+- **Composer:** Al Lowe ("Music Composed and Performed by")
+- **Music Development System:** Stuart Goldstein
 - **Programming:** Al Lowe (SCI development system: [[Pablo Ghenis]], Stuart Goldstein, Robert E. Heitman, Jeff Stephenson)
 - **Art:** Bonnie Borucki, Douglas Herring, William D. Skirvin
+- **Documentation:** John Williams
 
 ### Technical Achievements
 
@@ -152,12 +157,15 @@ The game's ending was originally planned to give players more control during the
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.000.011 | October 27, 1988 | DOS | Initial disk release; birthday cheat does not work[^ref-41][^ref-32] |
-| 1.002.000 | January 11, 1989 | DOS | Later floppy release; birthday cheat functional[^ref-41][^ref-32] |
+| 1.000.011 | October 27, 1988 | MS-DOS | Initial disk release; birthday cheat does not work[^ref-41][^ref-32] |
+| 1.002.000 | January 11, 1989 | MS-DOS | Later floppy release; birthday cheat functional[^ref-41][^ref-32] |
 | — | 1989 | Amiga/Atari ST | Platform ports[^ref-1] |
 | Collection | 1994 | PC | Included in Greatest Hits and Misses[^ref-33] |
-| Collection | 1997 | DOS/Windows | Leisure Suit Larry Collection Series[^ref-34] |
-| Steam | December 18, 2017 | Windows | Digital re-release via Assemble Entertainment (since delisted)[^ref-27] |
+| Kixx XL | February 17, 1994 | Amiga/Atari ST | Budget re-release, original price £10.99[^ref-24] |
+| Collection | 1997 | MS-DOS/Windows | Leisure Suit Larry Collection Series[^ref-34] |
+| ScummVM | January 17, 2013 | Windows/macOS | Re-release run through ScummVM; the GOG.com release is pre-packaged with ScummVM[^ref-31] |
+| ScummVM | December 17, 2015 | Linux | ScummVM re-release[^ref-31] |
+| Steam | December 18, 2017 | Windows | Digital re-release via Assemble Entertainment (delisting announced May 2025)[^ref-27][^ref-48] |
 
 **Version Differences:** Version 1.000.011 shipped with SCI0 interpreter 0.000.343 and version 1.002.000 with 0.000.409.[^ref-41] Later copies (version 1.002.000, also in the Larry collections) accept Al Lowe's 0724 phone-number cheat; the original disk version 1.000.011 does not.[^ref-32]
 
@@ -197,12 +205,16 @@ Al Lowe has said the game sold over 250,000 copies.[^ref-6] The entire Larry ser
 
 The game has been included in numerous compilation releases:
 
+- **Leisure Suit Larry Triple Pack** (1990)[^ref-1][^ref-9]
 - **Leisure Suit Larry's Greatest Hits and Misses** (1994): Included alongside *Softporn Adventure*, Larry 1 (original and VGA), Larry 3, 5 and 6, and *The Laffer Utilities*[^ref-33]
-- **Leisure Suit Larry Collection Series** (1997): Five-game compilation with Larry 1 VGA remake[^ref-34]
+- **Leisure Suit Larry Collection Series** (1997): Two discs. The first holds DOS versions of Larry 1 (listed under two titles), 2, 3, 5 and 6 (there is no Larry 4); the second holds a Windows version of Larry 6 with a revised interface and speech. Some editions add *Softporn Adventure*, *The Laffer Utilities*, *Larry's Big Score*, *Crazy Nick's Software Picks: Leisure Suit Larry's Casino*, video interviews with Al Lowe, *The Official Book of Leisure Suit Larry* and a hint book[^ref-34]
+- **Leisure Suit Larry: Ultimate Pleasure Pack** (1999)[^ref-1][^ref-9]
+- **Larry: Edycja Kolekcjonerska** (2001)[^ref-1]
 - **Leisure Suit Larry Collection** (2006): Windows compilation released by Sierra Entertainment[^ref-36]
-- **Steam Release** (December 2017): Digital distribution by Assemble Entertainment (since delisted)[^ref-27]
+- **Leisure Suit Larry: Das komplette Vergnügen** (2018)[^ref-1]
+- **Steam Release** (December 2017): Digital distribution by Assemble Entertainment. Assemble Entertainment announced in May 2025 that its seven earlier Larry games would be retired from Steam[^ref-27][^ref-48]
 
-### Fan Projects
+### Speedrunning
 
 The game maintains an active speedrunning community, with the current Any% record standing at 22 minutes 22 seconds held by swimfan.[^ref-37] The leaderboard lists 16 runs by 7 players; the 100% record is 23:01 by SantaClaus.[^ref-37]
 
@@ -233,8 +245,9 @@ Sierra deliberately toned down Larry's sexual escapades for the sequel in favour
 
 ## See Also
 
-- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-- [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+- [[Leisure Suit Larry Series]] — Series overview
+- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|← Previous: Leisure Suit Larry in the Land of the Lounge Lizards]]
+- [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|→ Next: Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]]
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
@@ -248,7 +261,7 @@ Sierra deliberately toned down Larry's sexual escapades for the sequel in favour
 
 ## References
 
-[^ref-1]: [MobyGames – Leisure Suit Larry Goes Looking for Love](https://www.mobygames.com/game/409/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) – ratings, credits, releases, trivia, awards
+[^ref-1]: [MobyGames – Leisure Suit Larry Goes Looking for Love](https://www.mobygames.com/game/409/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) – ratings, credits, releases, compilations, trivia, awards
 [^ref-2]: [Alex Bevilacqua Blog – Retrospective Review](https://alexbevi.com/blog/2023/02/01/leisure-suit-larry-2/) – engine details, platforms, modern critique
 [^ref-3]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/144/) – copy protection details, ratings, Al Lowe quotes
 [^ref-5]: [IGN – Revisiting Leisure Suit Larry](https://www.ign.com/articles/2014/11/28/revisiting-leisure-suit-larry) – sales history, development origins, parser analysis
@@ -264,11 +277,11 @@ Sierra deliberately toned down Larry's sexual escapades for the sequel in favour
 [^ref-20]: [SuperCheats – Walkthrough](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarry2larrygoeslookingforlove-walkthrough01.txt) – control scheme, scoring system
 [^ref-22]: [GameFAQs – FastaKilla Walkthrough](https://gamefaqs.gamespot.com/pc/565081-leisure-suit-larry-goes-looking-for-love-in-several-wrong/faqs/8143) – Al Lowe save advice quote
 [^ref-23]: [MobyGames – Land of the Lounge Lizards](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – first game sales, piracy, parser responses
-[^ref-24]: [Every Game Going – Amiga Version](https://www.everygamegoing.com/litem/Leisure-Suit-Larry-2-Goes-Looking-For-Love-In-Several-Wrong-Places/171184/) – UK release, credits, review excerpts
+[^ref-24]: [Every Game Going – Amiga Version](https://www.everygamegoing.com/litem/Leisure-Suit-Larry-2-Goes-Looking-For-Love-In-Several-Wrong-Places/171184/) – UK release, Kixx XL release date and price, credits, review excerpts
 [^ref-27]: [Steam Store](https://store.steampowered.com/app/765840/) – 2017 re-release, system requirements, user reviews
 [^ref-28]: [SuperCheats – FAQ](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarrygoeslookingforloveinseveralwrongplaces-walkthrough01.txt) – Al Lowe design decision quote
 [^ref-29]: [Just Games Retro – Review](https://www.justgamesretro.com/dos/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places) – floppy count, cut content, Easter eggs
-[^ref-31]: [PCGamingWiki – LSL2](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love_(in_Several_Wrong_Places)) – video modes, copy protection bypass, technical details
+[^ref-31]: [PCGamingWiki – LSL2](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love_(in_Several_Wrong_Places)) – video modes, copy protection bypass, technical details, ScummVM re-release dates
 [^ref-32]: [Al Lowe Official Site – Clues and Cheats](https://allowe.com/games/larry/tips-manuals/clues-cheats.html) – parser bug explanation, version differences
 [^ref-33]: [Sierra Chest – Leisure Suit Larry's Greatest Hits and Misses](https://www.sierrachest.com/index.php?a=games&id=286&fld=general) – 1994 compilation, included titles
 [^ref-34]: [MobyGames – Collection Series](https://www.mobygames.com/game/718/leisure-suit-larry-collection-series/) – 1997 compilation details
@@ -284,3 +297,4 @@ Sierra deliberately toned down Larry's sexual escapades for the sequel in favour
 [^ref-45]: [PC Gamer – Crapshoot: Leisure Suit Larry 2 and its many unavoidable deaths](https://www.pcgamer.com/saturday-crapshoot-leisure-suit-larry-2/) – the hotel maid scene ends in one of the game's deaths
 [^ref-46]: [Adventure Classic Gaming – Josh Mandel interview](http://www.adventureclassicgaming.com/index.php/site/interviews/196/) – Philip Jong, 2006: "I'd met Guruka on the Gamers Forum on CompuServe… After testing for a couple of years, he offered me a job as his junior producer"
 [^ref-47]: [Adventure Gamers – Josh Mandel interview (Wayback copy)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 2013: "I asked Guruka if I could try betatesting for Sierra… In early 1990, Guruka asked if I'd be interested in a full-time position"
+[^ref-48]: [OpenCritic – Classic Raunchy 90s Adventure Series is Getting Delisted From Steam (Screen Rant, May 2, 2025)](https://opencritic.com/news/15674/classic-raunchy-90s-adventure-series-is-getting-delisted-from-steam-so-time-is-running-out-to-get-these-7-games) – Assemble Entertainment announced seven classic Larry games would be retired from Steam; no specific date given
