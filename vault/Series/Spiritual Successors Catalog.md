@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 2023
 total_games: 19
 genre: "Adventure (Sierra-tradition)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # Spiritual Successors Catalog
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -62,11 +62,11 @@ Jensen was a story consultant on Phoenix Online's *Cognition*.[^ref-4] In Novemb
 
 ### Guys From Andromeda (Mark Crowe + Scott Murphy)
 
-[[Mark Crowe]] and [[Scott Murphy]] reunited in 2012 and formed Guys From Andromeda LLC with co-founder Chris Pope to make [[2022 - SpaceVenture|SpaceVenture]], a Space Quest spiritual successor Kickstarted in 2012.[^ref-5] It reached backers in 2022 and had its full Steam release on December 23, 2025.[^ref-18] The studio also released [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger]] (2015), a survival game in which space-faring free ranger Cluck Yegger must last seven nights on Planet Poultroid.[^ref-17][^ref-5]
+[[Mark Crowe]] and [[Scott Murphy]] co-founded Guys From Andromeda with Chris Pope.[^ref-5] The studio launched a Kickstarter in 2012 for [[2022 - SpaceVenture|SpaceVenture]], a Space Quest spiritual successor.[^ref-20] It reached backers in 2022 and had its full Steam release on December 23, 2025.[^ref-18] The studio also released [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger]] (2015), a survival game in which space-faring free ranger Cluck Yegger must last seven nights on Planet Poultroid.[^ref-17][^ref-5]
 
 ### Transolar Games / Hero-U (Lori + Corey Cole)
 
-[[Lori Ann Cole]] and [[Corey Cole]] run [[Transolar Games]], Inc.[^ref-6] Before that, after leaving Sierra, they were the out-of-house designers of Legend Entertainment's [[1995 - Shannara|Shannara]] (1995), an original story set in Terry Brooks' fantasy world.[^ref-23][^ref-24] Their [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] took "six years, two Kickstarter campaigns, and one home equity loan" and was released in 2018 after "a lengthy, somewhat troubled development cycle," per PC Gamer.[^ref-12] The studio followed with [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]], an interactive-fiction game set at Hero University.[^ref-6]
+[[Lori Ann Cole]] and [[Corey Cole]] run [[Transolar Games]], Inc.[^ref-6] Before that, after leaving Sierra, they were the out-of-house designers of Legend Entertainment's [[1995 - Shannara|Shannara]] (1995), an original story set in Terry Brooks' fantasy world.[^ref-23][^ref-24] Their [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] took "six years, two Kickstarter campaigns" and was released in 2018 after "a lengthy, somewhat troubled development cycle," per PC Gamer.[^ref-12] The studio followed with [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]], an interactive-fiction game set at Hero University.[^ref-6]
 
 ### Phoenix Online Studios (César Bittar et al.)
 
@@ -78,7 +78,7 @@ Founded in 2012 by Steven Alexander and Shawn Mills, ex-members of [[Infamous Ad
 
 ### Ken & Roberta Williams (Cygnus Entertainment)
 
-Ken and Roberta Williams returned to game development at Cygnus Entertainment, where Ken is managing partner and Roberta lead creative director, with [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — a 3D remake of the 1976 text adventure *Colossal Cave Adventure*, which helped inspire Sierra's own *Mystery House* in 1980. It was built to be played on a regular PC or with a VR headset.[^ref-9]
+Ken and Roberta Williams returned to game development at Cygnus Entertainment, where, per Kotaku (2022), Ken is managing partner and Roberta lead creative director, with [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — a 3D remake of the 1976 text adventure *Colossal Cave Adventure*, which helped inspire Sierra's own *Mystery House* in 1980. It was built to be played on a regular PC or with a VR headset.[^ref-9]
 
 ### Pierre Gilhodes
 
@@ -96,7 +96,7 @@ Ken and Roberta Williams returned to game development at Cygnus Entertainment, w
 
 Several games in the catalog come from indie studios rather than Sierra alumni:
 
-- **[[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]]** — Himalaya Studios' Sierra-tradition Wild West adventure.
+- **[[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]]** — Himalaya Studios' Sierra-tradition Wild West adventure.[^ref-28]
 - **[[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]]** — Prank Ltd.'s episodic adventure, published by Replay Games; it was meant to be a three-part series, but the other two episodes were cancelled.[^ref-13]
 - **[[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation: Reign of the Elements]]** — Himalaya Studios; QFG-style RPG-adventure hybrid.[^ref-15]
 
@@ -124,7 +124,7 @@ Store listings checked on November 11, 2026 (Steam prices as shown that day, US 
 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | $14.99; Windows, Mac, Linux[^ref-33] | Yes[^ref-42] |
 | [[2014 - Quest for Infamy\|Quest for Infamy]] | $9.99; Windows, Linux[^ref-34] | Yes[^ref-39] |
 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger]] | $2.99; Windows, Mac, Linux[^ref-17] | — |
-| [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | $9.99; Windows, Linux[^ref-16] | — |
+| [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | $9.99; Windows, Linux[^ref-16] | Yes[^ref-46] |
 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | $4.99; Windows, Mac, Linux[^ref-14] | — |
 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | $29.99; Windows, Mac, Linux[^ref-36] | Yes[^ref-40] |
 | [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | $14.99; Windows, Mac, Linux[^ref-15] | Yes[^ref-44] |
@@ -191,3 +191,4 @@ A Steam store search on the same date found no listing for Blue Force, Shannara 
 [^ref-43]: [GOG — Cognition: Game of the Year Edition](https://www.gog.com/en/game/cognition_an_erica_reed_thriller) — Store page in stock (checked November 11, 2026)
 [^ref-44]: [GOG — Mage's Initiation: Reign of the Elements](https://www.gog.com/en/game/mages_initiation_reign_of_the_elements) — Store page in stock (checked November 11, 2026)
 [^ref-45]: [Steam — Gold Rush! 2](https://store.steampowered.com/app/609100/Gold_Rush_2/) — Developer and publisher Sunlight Games; "The story of the sequel came from the pen of the developers of the original game"
+[^ref-46]: [GOG — Order of the Thorne: The King's Challenge](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) — Store page in stock (checked November 12, 2026)
