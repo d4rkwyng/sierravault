@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Sir Graham
 sierra_lineage: Fan Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'King''s Quest I: Quest for the Crown VGA Remake is a free fan-made
   point-and-click remake of Roberta Williams'' 1984 adventure game, released on August
   7, 2001 by Tierra Entertainment (later AGD Interactive) and rebuilt as an Enhanced
@@ -19,11 +19,11 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest I: Quest for the Crown VGA Remake
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-King's Quest I: Quest for the Crown VGA Remake is a fan-made reimagining of [[Roberta Williams]]' 1984 adventure game, released on August 7, 2001[^ref-1] by Tierra Entertainment (renamed AGD Interactive on December 10, 2003)[^ref-7]. The remake was created using the free Adventure Game Studio engine developed by Chris Jones; AGDI describes it as "the first complete fan-made adventure remake ever released, and the first to ever include a voice pack"[^ref-1]. According to AGDI, the team had "only intended to remake the game for our own practice and never really intended to show it to anyone else"[^ref-37]. AGDI reports that over 5,000 copies were downloaded in the first month and that "in the first year, that number jumped to nearly half a million"[^ref-2].
+King's Quest I: Quest for the Crown VGA Remake is a fan-made reimagining of [[Roberta Williams]]' 1984 adventure game, released on August 7, 2001[^ref-1] by Tierra Entertainment (renamed AGD Interactive on December 10, 2003)[^ref-7]. The remake was created using the free Adventure Game Studio engine developed by Chris Jones; AGDI describes it as "the first complete fan-made adventure remake ever released, and the first to ever include a voice pack"[^ref-1]. According to AGDI, the team had "only intended to remake the game for our own practice and never really intended to show it to anyone else"[^ref-37]. AGDI reports that over 5,000 copies were downloaded in the first month and that "in the first year, that number jumped to nearly half a million"[^ref-2]; in a 2006 interview, Britney Brimhall gave a higher first-month figure, saying "70,000 people had downloaded it within the first month"[^ref-49].
 
 The remake upgrades the original game with VGA graphics, a point-and-click interface that mimics that of King's Quest V and VI, and full speech for all characters[^ref-44]; for version 2.0 Tom Lewandowski re-recorded the musical score digitally[^ref-46]. Erpy's official game guide on the AGDI site claims that "you'd be hard pressed to tell that it wasn't created by Sierra On-Line in their golden days"[^ref-4]. AGDI worked under a fan license from the rights holders of the time (Vivendi Universal), allowing the game to be distributed free of charge[^ref-44][^ref-35][^ref-5]. An Enhanced Edition (version 4.0) released on January 17, 2009 re-edited all backgrounds to remove collaged artwork, added narrator speech and lip-synced dialogue portraits, and introduced an optional "No Dead-Ends" gameplay mode[^ref-1][^ref-37].
 
@@ -34,7 +34,7 @@ The remake directly addresses shortcomings of Sierra's own 1990 SCI remake, whic
 > **Designer:** Britney K. Brimhall, Christopher T. Warren[^ref-7]
 > **Publisher:** AGD Interactive[^ref-1]
 > **Engine:** Adventure Game Studio[^ref-1]
-> **Platforms:** Windows, Macintosh[^ref-8] (MobyGames also lists 2001 DOS and Linux releases[^ref-18])
+> **Platforms:** Windows, Mac[^ref-8] (MobyGames also lists 2001 DOS and Linux releases[^ref-18])
 > **Release Year:** 2001
 > **Series:** King's Quest
 > **Protagonist:** Sir Graham
@@ -103,9 +103,9 @@ Home of the Underdogs (user rating 8.23 from 243 votes) praised the remake: "The
 
 ### Origins
 
-The remake began as a practice project by two anonymous developers who would later be known as Anonymous Game Developer #1 and Anonymous Game Developer #2[^ref-24]. Developer #1, a female from the Southwest US living on the West Coast who had previously worked at a European Internet startup, chose the company name "Tierra" because it was "the name of a mythical land that I'd created and written about as a kid. In Spanish, it meant Earth"[^ref-24].
+The remake began as a practice project by two anonymous developers who would later be known as Anonymous Game Developer #1 and Anonymous Game Developer #2[^ref-24]. Developer #1 chose the company name "Tierra" because it was "the name of a mythical land that I'd created and written about as a kid. In Spanish, it meant Earth"[^ref-24].
 
-In a 2006 interview with Adventure Classic Gaming, Britney Brimhall said the project began as a King's Quest I parody that the team "assumed we'd be taking a sabbatical for about two weeks" to finish: "It took us nearly 9 months to complete the King's Quest I VGA remake! About halfway into the project, we decided to drop the parody idea altogether and created a one-to-one remake of the first King's Quest game"[^ref-49]. A separate parody, "Royal Quest: Retrieving Lost Shit," which MobyGames describes as featuring a "bad-ass" Graham more interested in fighting than solving puzzles, remained in development after the remake's release[^ref-7][^ref-18]: a developer journal dated August 9, 2001 looks forward to "getting back and working on Royal Quest"[^ref-40]. Royal Quest was cancelled in late 2001 because the developers "believed that it did not promote the values and tone they were trying to preserve in remaking the old Sierra classics"[^ref-7][^ref-40], and Brimhall said the Tierra name, suited to the parody, afterwards seemed "sort of gimmicky" and "relied too much on Sierra's name"[^ref-49]. Developer #2 lived in Melbourne, Australia, and the pair worked together remotely, preferring anonymity as "it goes against our purpose of releasing these games for a cause rather than for recognition"[^ref-24].
+In a 2006 interview with Adventure Classic Gaming, Britney Brimhall said the project began as a King's Quest I parody that the team "assumed we'd be taking a sabbatical for about two weeks" to finish: "It took us nearly 9 months to complete the King's Quest I VGA remake! About halfway into the project, we decided to drop the parody idea altogether and created a one-to-one remake of the first King's Quest game"[^ref-49]. A separate parody, "Royal Quest: Retrieving Lost Shit," which MobyGames describes as featuring a "bad-ass" Graham more interested in fighting than solving puzzles, remained in development after the remake's release[^ref-7][^ref-18]: a developer journal dated August 9, 2001 looks forward to "getting back and working on Royal Quest"[^ref-40]. Royal Quest was cancelled in late 2001 because the developers "believed that it did not promote the values and tone they were trying to preserve in remaking the old Sierra classics"[^ref-7][^ref-40], and Brimhall said the Tierra name, suited to the parody, afterwards seemed "sort of gimmicky" and "relied too much on Sierra's name"[^ref-49]. Developer #2 lived in Australia, and the pair worked together remotely, preferring anonymity as "it goes against our purpose of releasing these games for a cause rather than for recognition"[^ref-24].
 
 The developers aimed to create the VGA point-and-click version that Sierra never made. Erpy's guide notes that, unlike the other games Sierra remade, King's Quest I was never remade in VGA with a point-and-click interface[^ref-4]; Sierra's 1990 remake used 16-color EGA graphics[^ref-2] and still required players to type phrases[^ref-4]. AGDI's stated goal was to "remake King's Quest I: Quest for the Crown to the same level of quality as seen in Sierra's King's Quest V"[^ref-2].
 
@@ -237,7 +237,7 @@ Josh Mandel reprised his role as Graham, having previously voiced the character 
 
 ### Sales and Commercial Impact
 
-As a free fan project, the remake generated no direct revenue. According to AGDI, the game was downloaded over 5,000 times in its first month of August 2001, with "nearly half a million" in its first year[^ref-2]; AGDI also states that by September 2010 it had been downloaded over 494,000 times[^ref-1]. In a developer journal dated August 9, 2001, the lead developer wrote that the goal when the project started had been to reach 400 adventure game fans "within the span of my lifetime" and that in less than 48 hours 700 people had downloaded the game, which exceeded 20MB[^ref-40].
+As a free fan project, the remake generated no direct revenue. According to AGDI, the game was downloaded over 5,000 times in its first month of August 2001, with "nearly half a million" in its first year[^ref-2], while Brimhall's 2006 interview puts the first-month figure at 70,000 downloads[^ref-49]; AGDI also states that by September 2010 it had been downloaded over 494,000 times[^ref-1]. In a developer journal dated August 9, 2001, the lead developer wrote that the goal when the project started had been to reach 400 adventure game fans "within the span of my lifetime" and that in less than 48 hours 700 people had downloaded the game, which exceeded 20MB[^ref-40].
 
 Just Adventure's October 2001 "State of Adventure Gaming" column noted that the nearly three-year-old King's Quest VIII: Mask of Eternity was the top-selling adventure game of August 2001 (19,484 units), and offered only as a theory ("what if...") that players of the remake, which had passed 20,000 downloads through Just Adventure, might have gone on to buy it[^ref-41]. Wikipedia summarizes this as KQ8 sales having "skyrocketed" that month[^ref-7]. AGDI's January 17, 2009 announcement says Vivendi had planned to include the remake in its new King's Quest Collection, but the person who had agreed to include AGDI's remakes was laid off, the new team was never told, and "Vivendi went ahead and released the Collection while we were still working on the revamp"[^ref-37]. The project won multiple AGS Awards in 2001, including Best AGS Documentation, Best Animation in an AGS Game, and Best Room Art in an AGS Game[^ref-19].
 
@@ -270,7 +270,7 @@ However, after Activision acquired Vivendi and the Sierra intellectual property,
 - **Built-in Help System:** Comprehensive in-game hints and controls documentation
 
 **Original Sierra Publications:**
-- **King's Quest Companion:** Reference guide covering original game lore
+- **King's Quest Companion:** Reference guide covering original game lore[^ref-50]
 - **Official Hint Books:** Various Sierra-published guides for original versions
 
 ### Critical Perspective
@@ -366,3 +366,4 @@ This VGA remake reimagines Roberta Williams' original [[1984 - King's Quest - Qu
 [^ref-47]: [AGD Interactive – Home page](https://www.agdinteractive.com/) – Mage's Initiation announcement (January 30, 2019)
 [^ref-48]: [AGD Interactive – KQ2 Romancing the Stones, About the Game](https://www.agdinteractive.com/games/kq2/about/about.html) – KQ2 remake description, December 2002 release
 [^ref-49]: [Adventure Classic Gaming – Britney Brimhall interview, first posted 26 May 2006 (Wayback, 2013 capture)](https://web.archive.org/web/20130118083146/http://www.adventureclassicgaming.com/index.php/site/interviews/210/) – parody origin, nine months, one-to-one remake, Tierra rename
+[^ref-50]: [Open Library – The King's Quest Companion (Peter Spear, Osborne McGraw-Hill, 3rd ed., 1993)](https://openlibrary.org/books/OL20958292M) – hint and walkthrough guide that retells the stories of the King's Quest games
