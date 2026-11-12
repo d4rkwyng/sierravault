@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI0
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Mark Seibert]
 description: 'Police Quest II: The Vengeance is a 1988 Sierra On-Line adventure game
   designed by Jim Walls and the direct sequel to Police Quest: In Pursuit of the Death
@@ -19,7 +19,7 @@ tags: [1980s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest II: The Vengeance
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -56,7 +56,7 @@ One player review on My Abandonware called it "one of the most nerveracking endi
 
 Police Quest II utilizes Sierra's text parser interface, where commands are given in verb/noun combinations such as "Unlock Door" or "Take Keys," though some keyboard shortcuts are available for common actions.[^ref-1] The game supports mouse navigation, an improvement over the purely keyboard-driven original.[^ref-3][^ref-29] The command line of the first game is gone: the player simply starts typing and a message input window appears.[^ref-29]
 
-Unlike its predecessor, the game removes the driving mini-game sequences that required players to manually navigate streets. Instead, players simply type "drive to [location]" for automatic travel between destinations.[^ref-14] Computer Gaming World's reviewer described the change the same way: instead of driving, "one simply types in the location where he needs to go and the game does the rest."[^ref-29]
+Unlike its predecessor, the game removes the driving mini-game sequences that required players to manually navigate streets. Instead, players simply type 'drive' plus the destination (e.g. DRIVE COVER) for automatic travel between destinations.[^ref-14] Computer Gaming World's reviewer described the change the same way: instead of driving, "one simply types in the location where he needs to go and the game does the rest."[^ref-29]
 
 ### Structure and Progression
 
@@ -87,6 +87,8 @@ Michael Chaut reviewed the game for Computer Gaming World (#56, February 1989), 
 
 Atari ST User awarded the game 9/10 in their June 1989 review, calling it "excellent in every respect – the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-1]
 
+The French magazine Jeux & Stratégie (issue 57, April 1989, p. 70) rated it Son 2/10, Animation 6/10, Graphisme 6/10 and Originalité 7/10, with an overall mark of 7/10. It called the game "une véritable prouesse," evoked television police series "de Captain Furillo à Kojak," and named one drawback: the game is in English.[^ref-34]
+
 ### Modern Assessment
 
 Adventure Gamers provided a retrospective review scoring the game 4.5 out of 5 stars, describing it as "an entertaining and intense retro adventure that is not only the best of its series, but one of the very best of Sierra's Golden Age."[^ref-3] The site called it "a crown jewel of its era" that "stands decisively now twenty years after its release as the best game of its series."[^ref-3]
@@ -109,7 +111,7 @@ In its December 2011 Top 100 All-Time Adventure Games list, Adventure Gamers ran
 
 ### Origins
 
-Police Quest II: The Vengeance was created by Jim Walls, whom GOG describes as a "retired California Highway Patrol officer... who was recovering from an injury sustained while on duty."[^ref-20] The Digital Antiquarian gives more detail: in 1985 Walls was a CHP officer "on administrative leave for post-traumatic stress" when Ken Williams, who had heard of him through his hairdresser, Walls's wife, invited him over and began asking about police work.[^ref-28] The game was conceived as a direct sequel to the successful Police Quest: In Pursuit of the Death Angel, continuing the story of Sonny Bonds while taking advantage of Sierra's newly developed SCI engine.[^ref-1]
+Police Quest II: The Vengeance was created by Jim Walls, whom GOG describes as a "retired California Highway Patrol officer... who was recovering from an injury sustained while on duty."[^ref-20] The Digital Antiquarian gives more detail: in 1985 Walls was a CHP officer "on administrative leave for post-traumatic stress" when Ken Williams, who had heard of him through his hairdresser, Walls's wife, invited him over and began asking about police work.[^ref-28] The game was conceived as a direct sequel to the successful Police Quest: In Pursuit of the Death Angel, continuing the story of Sonny Bonds while taking advantage of Sierra's newly developed SCI engine.[^ref-1] Computer Gaming World's review header listed the IBM version at $49.95, with Amiga, Apple IIGS, Apple IIe/c, ST and Macintosh versions "projected";[^ref-29] MobyGames lists no Apple IIGS or Macintosh release.[^ref-6]
 
 According to Computer Gaming World's reviewer, Walls said all of the situations in the game actually happened to him or a friend.[^ref-29] Most notably, the antagonist Jessie Bains was based on a real escaped convict whose name was changed for the game—according to the same review, the real "Jessie Bains" had escaped and was still on the loose.[^ref-29] As quoted by The Digital Antiquarian, Walls said of the series' antagonists: "These kinds of people are actually running around out there, even if we don't want to think about it."[^ref-28]
 
@@ -125,6 +127,8 @@ Who wrote the game's text is unclear. Adventure Gamers argued that "Jim Walls, w
 - **Programming:** Robert Fischbach, Robert Eric Heitman, Chris Hoyt, Mickie Lee, Jerry Shaw, David Slayback
 - **Artists (Animated & Background Scenes):** Cheryl Loyd, Vu Nguyen (Sierra Chest names her Cheryl Cornelius)[^ref-1][^ref-21]
 - **Composer:** [[Mark Seibert]][^ref-1]
+- **Game Development System:** Pablo Ghenis, Stuart Goldstein, Robert Eric Heitman, Jeff Stephenson
+- **Documentation:** Jerry Albright
 - **Project Coordinator:** [[Mark Crowe]]
 
 ### Technical Achievements
@@ -164,7 +168,9 @@ The driving mini-game that was a prominent feature of the first Police Quest was
 | Port | 1989 | Amiga | Port release[^ref-6] |
 | Port | 1989 | Atari ST | Port release[^ref-6] |
 | Port | October 1989 | NEC PC-9801 | Japanese release with anime-style graphics[^ref-6][^ref-24] |
-| Europe | 1994 | DOS | European release by U.S. Gold[^ref-6] |
+| Re-release | 1991 | MS-DOS | US re-release by Sierra On-Line[^ref-6] |
+| Europe | 1994 | DOS | Kixx XL budget release, published by U.S. Gold (France, Germany, Italy, UK)[^ref-6] |
+| Europe | 1994 | Amiga | Kixx XL re-release, published by U.S. Gold (France, Germany, Italy, UK)[^ref-6] |
 | Collection | January 18, 2011 | Windows | Digital release via GOG.com, originally on DOSBox[^ref-23]; switched to ScummVM February 20, 2026[^ref-20] |
 
 ### Technical Issues
@@ -221,7 +227,7 @@ Police Quest II: The Vengeance has appeared in numerous compilation releases:[^r
 
 ### Fan Projects
 
-The game is playable through ScummVM, providing modern compatibility for preservation purposes.[^ref-23] Various fan walkthroughs have been created, including specialized guides such as a "minimum points" walkthrough that demonstrates alternate completion paths and reveals "how much extra fluff and padding they do put into these sort of games when there is not as much plot-related content."[^ref-15]
+Various fan walkthroughs have been created, including specialized guides such as a "minimum points" walkthrough that demonstrates alternate completion paths and reveals "how much extra fluff and padding they do put into these sort of games when there is not as much plot-related content."[^ref-15]
 
 ### Related Publications
 
@@ -241,7 +247,7 @@ Adventure Gamers called it "the best game of its series,"[^ref-3] and Hardcore G
 - [GOG.com – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) - Digital collection including Police Quest II
 - [Steam – Police Quest Collection](https://store.steampowered.com/app/494740/) - Digital collection including Police Quest II
 
-**Download / Preservation**
+**Manuals**
 - [Internet Archive](https://archive.org/details/Police_Quest_2_Manual_JAP) - Japanese PC-98 manual
 
 **Manuals & Extras**
@@ -286,3 +292,4 @@ Adventure Gamers called it "the best game of its series,"[^ref-3] and Hardcore G
 [^ref-31]: [Adventure Gamers – Top 100 All-Time Adventure Games, page 17 (Wayback, 18 Jan 2013)](https://web.archive.org/web/20130118232706/http://www.adventuregamers.com/articles/view/18643/page17) – December 2011 list: "#24 – Police Quest 2: The Vengeance"
 [^ref-32]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – Steam store listing: four-game collection including Police Quest II ("THE VENGEANCE OF BAINS"), $9.99
 [^ref-33]: [Kotaku – Japan, What the Hell Did You do to This Classic PC Adventure Game?](https://kotaku.com/japan-what-the-hell-did-you-do-to-this-classic-pc-adve-5812431) – Luke Plunkett, June 16, 2011: Japanese Police Quest 2 localisation, redrawn characters
+[^ref-34]: [Jeux & Stratégie #57 (April 1989), p. 70](https://archive.org/details/jeux-et-strategie-57/page/70/) – French contemporary review: Son 2/10, Animation 6/10, Graphisme 6/10, Originalité 7/10, overall 7/10; "une véritable prouesse"; "de Captain Furillo à Kojak"; the game is in English
