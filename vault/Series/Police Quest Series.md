@@ -7,12 +7,12 @@ first_release: 1987
 last_release: 1993
 total_games: 5
 genre: "Adventure, Simulation"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Police Quest Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ Police Quest asks players to follow real police procedure. In the first game, "y
 
 ## Jim Walls' Background
 
-[[Jim Walls]] graduated from the California Highway Patrol academy in December 1971. In January 1984 he was involved in a shootout during a traffic stop, and in 1985 he was placed on administrative leave; he retired in 1986, which Wikipedia describes as "after 15 years of service".[^ref-5] COMPUTE! in March 1989 likewise called him "a 15-year veteran of the California Highway Patrol".[^ref-23] While on leave in 1985, his then-wife Donna introduced him to Ken Williams.[^ref-5]
+[[Jim Walls]] graduated from the California Highway Patrol academy in December 1971. In January 1984 he was involved in a shootout during a traffic stop, and in 1985 he was placed on administrative leave; he retired in 1986, which Wikipedia describes as "after 15 years of service".[^ref-5] COMPUTE! in March 1989 likewise called him "a 15-year veteran of the California Highway Patrol".[^ref-23] While on leave in 1985, he was introduced to Ken Williams.[^ref-5]
 
 According to Wikipedia, Williams asked Walls to condense his CHP experiences into a short story, then to expand it; the story developed into the plot of the first Police Quest.[^ref-5]
 
@@ -168,11 +168,11 @@ The series' best-known legacy is its reported use in law enforcement training.[^
 [^ref-24]: [Wikipedia – SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) – Developed by Irrational Games; The Stetchkov Syndicate released February 28, 2006 (NA) and March 10, 2006 (EU)
 [^ref-25]: [Wikipedia – Blue Force](https://en.wikipedia.org/wiki/Blue_Force) – 1993 MS-DOS adventure developed and published by "Tsunami Games" (Tsunami Media, Inc.), designed by Jim Walls
 [^ref-26]: [Kickstarter – Precinct (Wayback, 2013-08-15)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) – "Precinct - from the creators of 'Police Quest' (Canceled) by Jim Walls"; canceled August 6; $85,756 of $500,000
-[^ref-27]: [MobyGames – Daryl F. Gates' Police Quest Collection: The 4 Most Wanted](https://www.mobygames.com/game/40486/daryl-f-gates-police-quest-collection-the-4-most-wanted/) – 1995, DOS and Windows 3.x (read via the MobyGames API)
-[^ref-28]: [MobyGames – Police Quest: Collection Series](https://www.mobygames.com/game/1869/police-quest-collection-series/) – 1997, DOS and Windows (read via the MobyGames API)
-[^ref-29]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows, September 15, 2006 (read via the MobyGames API)
+[^ref-27]: [MobyGames – Daryl F. Gates' Police Quest Collection: The 4 Most Wanted](https://www.mobygames.com/game/40486/daryl-f-gates-police-quest-collection-the-4-most-wanted/) – 1995, DOS and Windows 3.x
+[^ref-28]: [MobyGames – Police Quest: Collection Series](https://www.mobygames.com/game/1869/police-quest-collection-series/) – 1997, DOS and Windows
+[^ref-29]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows, September 15, 2006
 [^ref-30]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – Store page live 2026-10-26
-[^ref-31]: [MobyGames – Blue Force (1993)](https://www.mobygames.com/game/1478/blue-force/) – DOS, 1993; developed and published by Tsunami Media, Inc. (read via the MobyGames API)
+[^ref-31]: [MobyGames – Blue Force (1993)](https://www.mobygames.com/game/1478/blue-force/) – DOS, 1993; developed and published by Tsunami Media, Inc.
 [^ref-32]: [PCGamingWiki – Police Quest: In Pursuit of the Death Angel](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – Engines: Original AGI; VGA Remake SCI1.1
 [^ref-33]: [PCGamingWiki – Police Quest II: The Vengeance](https://www.pcgamingwiki.com/wiki/Police_Quest_II:_The_Vengeance) – Engines: SCI0
 [^ref-34]: [PCGamingWiki – Police Quest III: The Kindred](https://www.pcgamingwiki.com/wiki/Police_Quest_III:_The_Kindred) – Engines: SCI1
