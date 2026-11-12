@@ -10,21 +10,21 @@ series: 3-D Ultra Pinball
 engine: 3-D Ultra Pinball engine (improved; up to 800x600, 256 colors)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released
-  in December 1998 by Dynamix and Sierra Attractions, it is the fourth game in the 3-D
+  in late 1998 by Dynamix and Sierra Attractions, it is the fourth game in the 3-D
   Ultra Pinball series.'
 tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
-last_modified: 2026-10-27T10:45:00-07:00
+last_modified: 2026-11-11T18:01:08-07:00
 ---
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-3-D Ultra NASCAR Pinball is a virtual pinball game that combines two of America's favorite pastimes: energetic pinball and high-speed car racing[^ref-1][^ref-13]. Released on December 1, 1998[^ref-25], this title represents the fourth entry in Sierra's popular 3-D Ultra Pinball series[^ref-2][^ref-19], developed by [[Dynamix]] and published by Sierra Attractions[^ref-3]. The game takes the NASCAR license and applies it as a thematic overlay to the established pinball formula, allowing players to experience the stages of a race day through pinball gameplay rather than traditional racing mechanics[^ref-9].
+3-D Ultra NASCAR Pinball is a virtual pinball game that combines two of America's favorite pastimes: energetic pinball and high-speed car racing[^ref-1][^ref-13]. Its release date is given differently by different sources: an IGN news brief dated December 1, 1998 reports that Sierra "has released" the game (a latest-by date)[^ref-25], while the Polish database GRY-Online.pl lists the Windows release as September 30, 1998[^ref-34]. This title represents the fourth entry in Sierra's popular 3-D Ultra Pinball series[^ref-2][^ref-19], developed by [[Dynamix]] and published by Sierra Attractions[^ref-3]. The game takes the NASCAR license and applies it as a thematic overlay to the established pinball formula, allowing players to experience the stages of a race day through pinball gameplay rather than traditional racing mechanics[^ref-9].
 
 Although the game may appeal to racing fans, it is important to note that NASCAR Pinball is not actually a racing game—it is a virtual pinball game with a NASCAR racing theme[^ref-23]. Players start in the Garage table where they can modify their steering, tune-ups, and brakes, then proceed to race through interconnected pinball tables while hitting targets to gain pole position, pull into the lead, and eventually take the checkered flag[^ref-6]. The game was also released in Europe under the alternate title "3-D Ultra Pinball: Turbo Racing"[^ref-2][^ref-3].
 
@@ -36,7 +36,7 @@ The title features four professional NASCAR drivers—Dale Earnhardt, Bill Ellio
 > **Publisher:** Sierra Attractions[^ref-3]
 > **Engine:** Improved 3-D Ultra Pinball graphics engine (up to 800x600[^ref-2], 256 colors[^ref-23])
 > **Platforms:** Windows, Mac OS[^ref-3]
-> **Release Year:** 1998 (Windows); Mac OS February 1999[^ref-27]
+> **Release Year:** 1998 (Windows; released by December 1, 1998[^ref-25], listed as September 30, 1998 by GRY-Online.pl[^ref-34]); Mac OS February 1999[^ref-27]
 > **Series:** 3-D Ultra Pinball (fourth entry)
 > **Sierra Lineage:** Core Sierra
 > **Protagonist:** N/A
@@ -62,16 +62,16 @@ The interface includes flashing crosshairs that light up the next target, a help
 The game advertises 12 original inter-linking pinball tables on its packaging[^ref-8], but in reality there are only three distinct tables with four different background variations each[^ref-8]:
 
 - **Garage Table:** The starting area where players modify their vehicle's steering, tune-ups, and brakes through target hits before proceeding to the main race[^ref-6]
-- **Speedway Table:** The primary racing table featuring four ramps that correspond to different turns on the track, with visible racing cars circling the perimeter[^ref-9]
+- **Speedway Table:** The primary racing table featuring four ramps that correspond to different turns on the track, with visible racing cars circling the perimeter[^ref-9]. Sierra's own Holiday 1998 InterAction article describes four looping ramps for the four turns of the track, and six drop-targets spelling N-A-S-C-A-R that trigger one of ten "Special Events", with a different set of Special Events at each of the four racetracks[^ref-31]
 - **Pit Stop Table:** Features motion-captured animated pit crew members who "repair" the ball, simulating the strategic pit stop element of real NASCAR racing[^ref-3]
 
-Players select from four NASCAR drivers at the start: Dale Earnhardt, Bill Elliott, Bobby Labonte, or Terry Labonte[^ref-3]. Each choice customizes the tables to display the chosen racer's name, number, car colors, and corporate sponsor[^ref-23]. Jeff Gordon was not included among the playable options; GameOver's reviewer, calling Gordon "my favorite driver," found the omission odd given his popularity at the time[^ref-9].
+The game supports one to four players[^ref-31]. Players select from four NASCAR drivers at the start: Dale Earnhardt, Bill Elliott, Bobby Labonte, or Terry Labonte[^ref-3]. Each choice customizes the tables to display the chosen racer's name, number, car colors, and corporate sponsor[^ref-23]. Jeff Gordon was not included among the playable options; GameOver's reviewer, calling Gordon "my favorite driver," found the omission odd given his popularity at the time[^ref-9].
 
 ### Puzzles and Mechanics
 
 As a pinball game, 3-D Ultra NASCAR Pinball focuses on reflexes and ball control rather than traditional puzzles. The core gameplay loop involves hitting specific targets to advance through race positions, with the crosshair system guiding players toward the next target[^ref-23]. The garage mechanics provide an element of preparation strategy, while the box text promises players will "accumulate bonuses on the different table types" as they move between the interconnected tables[^ref-8].
 
-The game includes a NASCAR multimedia vault with information on the history of NASCAR racing, the four featured drivers and cars, the four main raceways, and pit stops, each with movie clips[^ref-23]. High-energy commentary generally matches the on-screen action, leading the player toward the next objective[^ref-23].
+Sierra's InterAction article describes four race events held at Bristol Motor Speedway, Watkins Glen International, Atlanta Motor Speedway and Talladega Superspeedway; points win races, and winning races qualifies a player for a multiball "Winner's Circle" championship round[^ref-31]. (MacHome's Mac review names only Bristol, Talladega and Watkins Glen as the venues[^ref-33].) The game includes a NASCAR multimedia vault with information on the history of NASCAR racing, the four featured drivers and cars, the four main raceways, and pit stops, each with movie clips[^ref-23]. High-energy commentary generally matches the on-screen action, leading the player toward the next objective[^ref-23].
 
 ## Reception
 
@@ -79,7 +79,7 @@ The game includes a NASCAR multimedia vault with information on the history of N
 
 3-D Ultra NASCAR Pinball received mixed reviews upon release, with scores ranging from harsh criticism to moderate approval. IGN gave the game a notably low 3 out of 10, with reviewer Jason Bates calling it "a barebones pinball game with a bankable license" that delivers "the logos of NASCAR, its drivers and its corporate sponsors, but nothing of its striving and thunder"[^ref-10]. Bates said Sierra's pinball series as a whole "is known for its mushy physics, flat presentation, fuzzy detail," and concluded of this game, "It's certainly not worth $20, or your attention"[^ref-10].
 
-Computer Gaming World offered a more moderate assessment with a 3 out of 5 score in its April 1999 issue, where Gordon Goble concluded that "as a short-term novelty, it's reasonable entertainment"[^ref-29]. PC Gamer US rated the game 65 out of 100[^ref-3][^ref-24], while Gamezilla! gave it 79%[^ref-24]. Gamezilla's Suzanne Houghton wrote that "3-D Ultra NASCAR Pinball is a good, solidly-constructed game that is fun to play," adding, "It doesn't break any significant ground in the gaming world, but it is entertaining"[^ref-23]. Happy Puppy's Pablo Garcia awarded a middling 5 out of 10 in his February 10, 1999 review[^ref-28].
+Computer Gaming World offered a more moderate assessment with a 3 out of 5 score in its April 1999 issue, where Gordon Goble concluded that "as a short-term novelty, it's reasonable entertainment"[^ref-29]. PC Gamer US rated the game 65 out of 100[^ref-3][^ref-24], while Gamezilla! gave it 79%[^ref-24]. Gamezilla's Suzanne Houghton wrote that "3-D Ultra NASCAR Pinball is a good, solidly-constructed game that is fun to play," adding, "It doesn't break any significant ground in the gaming world, but it is entertaining"[^ref-23]. Happy Puppy's Pablo Garcia awarded a middling 5 out of 10 in his February 10, 1999 review[^ref-28]. In Germany, Power Play's January 1999 review of the game under its European title, *3D Ultra Pinball: Turbo Racing*, scored it 39% solo and 42% multiplayer and judged that "Die Tische sind furchtbar mager, das Gameplay entsprechend fad" ("the tables are terribly thin, the gameplay correspondingly dull")[^ref-32]. MacHome's Art Jones reviewed the Macintosh version in July 1999 and wrote that it "is as addictive as the arcade versions and requires the same kind of dexterity and concentration to score points"[^ref-33].
 
 GameOver provided a 70% score, with reviewer cyrus expressing pleasant surprise: "You can only imagine my surprise when I found Nascar Pinball by Sierra to be an enjoyable experience," though he noted significant concerns about difficulty, stating "this game is way too easy. I was able to win the championship on my first try and I am not a pinball wizard by any means"[^ref-9]. In the Chicago Tribune on December 3, 1998, Kraig Kujawa gave the game two stars overall, writing that it "does a great job of presenting the sport by implementing the various stages of race day" but that "only die-hard NASCAR fans will enjoy NASCAR Pinball"[^ref-30].
 
@@ -95,10 +95,11 @@ Despite critical reservations, the game has found appreciation among nostalgic p
 - **PC Gamer US:** 65/100[^ref-3][^ref-24]
 - **Gamezilla!:** 79%[^ref-24]
 - **Happy Puppy:** 5/10[^ref-28]
+- **Power Play (Germany, as Turbo Racing):** 39% solo / 42% multiplayer[^ref-32]
 - **GameOver:** 70%[^ref-9]
 - **Power Unlimited:** 81%[^ref-24]
 - **Inside Mac Games:** 80% (Mac)[^ref-24]
-- **macHOME:** 80% (Mac)[^ref-24]
+- **macHOME:** 80% (Mac)[^ref-24][^ref-33]
 - **MobyGames critic average:** 63% (21 ratings)[^ref-24]
 
 **User Ratings:**
@@ -113,9 +114,9 @@ In 1998, Sierra and Dynamix took on the NASCAR license for their fourth entry in
 
 ### Production
 
-MobyGames credits Kyle Miller as designer and art director, with Randy Thompson as director, Ken Embery as producer and Jeffrey Tunnell as executive producer[^ref-13]. The game uses an improved version of the 3-D Ultra Pinball graphics engine, supporting resolutions up to 800x600 pixels[^ref-2] in 256 colors[^ref-23]. (Some secondary sources, including Wikipedia, say this engine was first used in *3-D Ultra Pinball: Thrillride* and ran at greater color depth[^ref-3], but Thrillride was released in 2000, after this game[^ref-13], and period sources give 256 colors and the Windows palette[^ref-23][^ref-10].) The pit crew animations on the Pit Stop table were motion-captured[^ref-3].
+Sierra's Holiday 1998 InterAction magazine quotes designer Kyle Miller on the design challenge, finding common ground between racing a car in circles and shooting a metal ball at stationary targets: "In both pinball and NASCAR racing, a player has to be ready to take advantage of opportunities that suddenly appear... It's all about reflexes, timing, concentration and fun."[^ref-31] The same article calls the motion-capture pit crew "a first in pinball simulation history" (Sierra's own promotional claim)[^ref-31]. MobyGames credits Kyle Miller as designer and art director, with Randy Thompson as director, Ken Embery as producer and Jeffrey Tunnell as executive producer[^ref-13]. The game uses an improved version of the 3-D Ultra Pinball graphics engine, supporting resolutions up to 800x600 pixels[^ref-2] in 256 colors[^ref-23]. (Some secondary sources, including Wikipedia, say this engine was first used in *3-D Ultra Pinball: Thrillride* and ran at greater color depth[^ref-3], but Thrillride was released in 2000, after this game[^ref-13], and period sources give 256 colors and the Windows palette[^ref-23][^ref-10].) The pit crew animations on the Pit Stop table were motion-captured[^ref-3].
 
-IGN's reviewer noted the game uses the Windows palette, with a full installation of about 50 megabytes[^ref-10]. The CD-ROM included additional content beyond the pinball game itself, featuring texts and videos about NASCAR races and history[^ref-2]. At release, IGN reported a list price of "just under $30"[^ref-25]; Gamezilla's April 1999 review cited a suggested retail price of $19.95[^ref-23].
+IGN's reviewer noted the game uses the Windows palette, with a full installation of about 50 megabytes[^ref-10]. The CD-ROM included additional content beyond the pinball game itself, featuring texts and videos about NASCAR races and history[^ref-2]. At release, IGN reported a list price of "just under $30"[^ref-25], and InterAction listed $29.95 (order number 70489, rated Everyone)[^ref-31]; Gamezilla's April 1999 review cited a suggested retail price of $19.95[^ref-23].
 
 ### Technical Achievements
 
@@ -134,13 +135,13 @@ The improved engine raised the resolution to 800x600[^ref-2][^ref-10], and the p
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | December 1, 1998 | Windows | Initial US release[^ref-25] |
+| 1.0 | By December 1, 1998 (GRY-Online.pl lists September 30, 1998) | Windows | Initial US release; IGN reported it as released on December 1, 1998[^ref-25], while GRY-Online.pl gives September 30, 1998[^ref-34] |
 | Mac | February 1999 | Mac OS | US Macintosh release[^ref-27] |
 | Turbo Racing | 1998 | Windows | European release with alternate title[^ref-2][^ref-3]; MobyGames lists 1998 Windows releases in the UK and Germany[^ref-27] |
 
 ### Technical Issues
 
-The game has been reported to have some compatibility challenges with modern systems. Users have noted that the game needs to be patched or cracked to play without the original CD[^ref-12], and some users experienced issues where the ISO files would open in media players rather than functioning as games[^ref-12].
+The game has been reported to have some compatibility challenges with modern systems. Users have noted that the game expects the original CD in the drive[^ref-12], and some users experienced issues where the ISO files would open in media players rather than functioning as games[^ref-12].
 
 ### Easter Eggs and Trivia
 
@@ -167,15 +168,18 @@ The game was included in several compilations[^ref-13][^ref-19]:
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (store searches checked October 27, 2026).
+- Not currently sold on GOG or Steam (checked November 11, 2026).
 
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/4085/3-d-ultra-nascar-pinball/)
-- [MyAbandonware search](https://www.myabandonware.com/search/q/3-D+Ultra+NASCAR+Pinball)
+- [MyAbandonware](https://www.myabandonware.com/game/3-d-ultra-nascar-pinball-3ff)
 - Database entries: Giant Bomb[^ref-14], IGDB[^ref-15]
 
 ## See Also
 
+- [[3D Ultra Series]]
+- Previous in series: [[1997 - 3-D Ultra Pinball - The Lost Continent]]
+- Next in series: [[2000 - 3-D Ultra Pinball - Thrill Ride]]
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
@@ -216,3 +220,7 @@ The game was included in several compilations[^ref-13][^ref-19]:
 [^ref-28]: [Happy Puppy – 3D Ultra NASCAR Pinball review by Pablo Garcia (Wayback Machine)](https://web.archive.org/web/20001119004100/http://www.happypuppy.com/win/reviews/3dultrapin1.html) – review dated 02/10/1999 (Happy Puppy dates are month first), score 5/10
 [^ref-29]: [Computer Gaming World #177, April 1999, p. 174 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_177/page/n177/mode/2up) – Gordon Goble's review, 3 of 5 stars, price $29.95
 [^ref-30]: [Chicago Tribune, December 3, 1998 – "DVD game flops; NASCAR runs out of gas" by Kraig Kujawa (Newspapers.com clipping)](https://www.newspapers.com/article/chicago-tribune/108804715/) – NASCAR Pinball (Windows, $30), overall two stars; quotes on race day and die-hard fans
+[^ref-31]: [InterAction Magazine, Holiday 1998 – "NASCAR turns, tilts and flips the tables" by Candi Strecker (Internet Archive)](https://archive.org/details/InterAction_Magazine_Holiday_1998_1998_Sierra_On-Line_US) – Sierra's own magazine: Kyle Miller quote, 1-4 players, four tracks, ten Special Events, Winner's Circle, motion-capture pit crew claim, $29.95, order #70489
+[^ref-32]: [Power Play, January 1999 (Internet Archive)](https://archive.org/details/powerplaymagazine-1999-01) – German review of *3D Ultra Pinball: Turbo Racing*: SOLO 39% / MULTI 42%, graphics 56%, sound 52%, about 50 DM
+[^ref-33]: [MacHome Journal – 3D Ultra NASCAR Pinball review by Art Jones, July 1999 (Wayback Machine)](https://web.archive.org/web/20001010185613/http://database.machome.com/action.lasso?-database=reviews&-layout=search&-response=/reviews/detail.html&-recid=33923&-search) – Macintosh review, $20, three venues named, Input Sprockets support
+[^ref-34]: [GRY-Online.pl – 3D Ultra NASCAR Pinball / Turbo Racing](https://www.gry-online.pl/gry/3d-ultra-nascar-pinball/) – PC release date listed as September 30, 1998 ("30 września 1998"); European title Turbo Racing

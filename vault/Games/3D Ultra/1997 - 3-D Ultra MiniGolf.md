@@ -10,16 +10,16 @@ series: 3D Ultra
 engine: Unknown
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 3D Ultra Minigolf is a miniature golf game released in 1997 by Sierra
   On-Line, developed by Dynamix and Jeff Tunnell Productions, and the first entry in
   the 3D Ultra Minigolf series.
 tags: [1990s, 3d-ultra, sierra]
-last_modified: 2026-10-27T12:00:00-06:00
+last_modified: 2026-11-11T12:00:00-06:00
 ---
 # 3D Ultra Minigolf
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,8 +31,8 @@ The game's legacy is notable for establishing a franchise that would persist for
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] / [[Jeff Tunnell Productions]][^ref-13][^ref-17]
-> **Designer:** Kevin Ryan, [[Jeff Tunnell]][^ref-14][^ref-19]
-> **Publisher:** [[Sierra On-Line]] (Sierra Attractions label)[^ref-13][^ref-19][^ref-20]
+> **Designer:** [[Kevin Ryan]], [[Jeff Tunnell]][^ref-14][^ref-19]
+> **Publisher:** [[Sierra On-Line]][^ref-13]
 > **Engine:** Unknown[^ref-17][^ref-19]
 > **Platforms:** Windows 3.1, Windows 95[^ref-3][^ref-6]
 > **Release Year:** 1997
@@ -105,7 +105,7 @@ GameSpot's Aaron Thomas, reviewing the 2006 sequel in 2007, wrote that "The orig
 
 3D Ultra Minigolf emerged as an expansion of Sierra's 3D Ultra brand, which had been established through the 3D Ultra Pinball series.[^ref-3]
 
-The game was developed by [[Dynamix]], a Sierra subsidiary, in collaboration with [[Jeff Tunnell Productions]].[^ref-13][^ref-17] Jeff Tunnell had co-founded Dynamix with Damon Slye in 1984, and Sierra acquired the studio in 1990.[^ref-10][^ref-11] Dynamix's family titles, including the 3-D Ultra line, were published under Sierra's Sierra Attractions brand.[^ref-20]
+The game was developed by [[Dynamix]], a Sierra subsidiary, in collaboration with [[Jeff Tunnell Productions]].[^ref-13][^ref-17] Jeff Tunnell had co-founded Dynamix with Damon Slye in 1984, and Sierra acquired the studio in 1990.[^ref-10][^ref-11] The 3-D Ultra line later fell under Sierra's Sierra Attractions brand,[^ref-20] which the Dynamix press release of May 15, 1998 introduced with *3-D Ultra MiniGolf Deluxe*: "This will be the first title to ship under the Sierra Attractions Brand."[^ref-23]
 
 ### Production
 
@@ -113,13 +113,25 @@ The development team created a game that combined pre-rendered CGI backgrounds w
 
 The game was designed to support Windows 3.1 and Windows 95, reflecting the transitioning PC market of the mid-1990s.[^ref-3][^ref-6] The Sierra Chest records a patch to version 1.01 that allows online play.[^ref-17] The Internet Archive's notes on the original CD give a different number: the disc carries a patch, MGPAT11.exe, that brings the installed game "up to version 1.1.0".[^ref-9]
 
-**Development Credits:**[^ref-13][^ref-14][^ref-17]
+**Development Credits:**[^ref-13][^ref-14][^ref-17][^ref-25]
 - **Developer:** Dynamix / Jeff Tunnell Productions
-- **Co-Designers:** Kevin Ryan, Jeffrey Tunnell
+- **Co-Designers:** [[Kevin Ryan]], Jeffrey Tunnell
 - **Executive Producer:** Jeffrey Tunnell
 - **Producer:** Ken Embery
+- **Game Logic Programmer:** [[Kevin Ryan]]
 - **Game Engine Programmer:** David McClurg
-- **Art Director:** Brian Hahn
+- **Interface Programmers:** Jon Milnes, Glenn Wallace
+- **Art Director:** [[Brian Hahn]]
+- **3D Artists:** Anthony Lewis, Peter Lewis, Vance Naegle, Danny Rubyono, Bruce Searl
+- **2D Artists:** Michael DeSalvo, Richard Gabrielson
+- **Lead Quality Analyst:** Garrett Turner
+- **Web Page Developer:** Bruce Searl
+- **Music:** Christopher Stevens, Ken Rogers
+- **Sound Effects:** Christopher Stevens, Ken Rogers
+
+### Voice Cast
+
+The game features voice-over commentary during gameplay, with phrases such as "Hey blue, get a clue!" playing during matches.[^ref-2]
 
 ### Technical Achievements
 
@@ -128,6 +140,10 @@ The game's marketing emphasized its physics simulation, with the box promising "
 The multiplayer support for up to four players made it suitable for party gaming scenarios, while the variety of play modes (traditional, hole-by-hole, and race) provided flexibility in how groups could enjoy the game.[^ref-17]
 
 ### Technical Specifications
+
+**System requirements (box data):** Windows 3.1 or Windows 95, 486-66 processor, 8 MB RAM, 2X CD-ROM drive, SVGA 256-color display, audio required.[^ref-24] MobyGames' specs list the same minimums (Intel i486 DX2, 8 MB RAM, 2X CD-ROM).[^ref-26]
+
+**Releases:** MobyGames records two 1997 releases, one for Windows and a separate Windows 16-bit build.[^ref-25]
 
 **Windows Version:**[^ref-6]
 - **Platforms:** Windows 3.1, Windows 95
@@ -140,7 +156,7 @@ The multiplayer support for up to four players made it suitable for party gaming
 |---------|------|----------|-------|
 | 1.0 | April 15, 1997 (sources differ: May 1997) | IBM PC | Initial release; the Sierra Chest lists 1997-04-15 as the first release but its prose says May 1997, the Internet Archive item is dated 1997-05-01, and GameSpot lists May 31, 1997[^ref-17][^ref-9][^ref-21] |
 | 1.01 / 1.1.0 | Unknown | IBM PC | Patch enabling online play; the Sierra Chest calls it 1.01, while the CD's MGPAT11.exe reports 1.1.0; a 2000 Best Buy disc lists "3D Ultra Mini Golf 1.1 (1/28/00)"[^ref-17][^ref-9][^ref-18] |
-| Deluxe | 1998 | Windows | Added 9 additional holes (27 total)[^ref-5] |
+| Deluxe | July 1998 (announced May 15, 1998) | Windows 95 | Added 9 additional holes (27 total); suggested retail price $29.95; first title announced under the Sierra Attractions brand[^ref-5][^ref-23] |
 
 ### Technical Issues
 
@@ -158,31 +174,23 @@ The game contains numerous hidden secrets designed to help players achieve hole-
 
 The official game description promised "hidden holes and other surprises guaranteed to inflate your score," indicating that discovering these secrets was intended as a core part of the gameplay experience.[^ref-6]
 
-## Voice Cast
-
-The game features voice-over commentary during gameplay, with phrases such as "Hey blue, get a clue!" playing during matches.[^ref-2] However, detailed voice cast credits are not available in the research materials.
-
 ## Legacy
 
 ### Sales and Commercial Impact
 
 Specific sales figures for the original 1997 release are not available. Sierra continued the 3D Ultra Minigolf brand for over a decade.[^ref-5] The franchise eventually expanded to include:
 
-- **3D Ultra Minigolf Deluxe** (July 1998) – PC release with additional holes[^ref-5]
+- **3D Ultra Minigolf Deluxe** (July 1998) – Windows 95 release with nine additional holes, announced at $29.95[^ref-5][^ref-23]
 - **3D Ultra Minigolf Adventures** (December 2006 PC; April 2007 Xbox 360)[^ref-8][^ref-5]
 - **3D Ultra Minigolf Adventures 2** (September 2010) – Xbox 360 and PlayStation 3[^ref-5]
 
 ### Collections
 
-The original game was included as part of Sierra's casual gaming catalog and has since been preserved on abandonware sites. The game is available through preservation efforts on MyAbandonware[^ref-6] and the Internet Archive[^ref-9], and the Internet Archive also preserves a Best Buy-exclusive Sierra disc from 2000 carrying version 1.1 alongside other Sierra demos.[^ref-18] The Sierra Chest lists it in the On-Line Games Collection Series, the 3-D Ultra Pack: Fun & Tilt and the German Best of Sierra Nr.11 compilation.[^ref-17]
+The original game was included as part of Sierra's casual gaming catalog and has since been preserved on abandonware sites. The game is available through preservation efforts on MyAbandonware[^ref-6] and the Internet Archive[^ref-9], and the Internet Archive also preserves a Best Buy-exclusive Sierra disc from 2000 carrying version 1.1 alongside other Sierra demos.[^ref-18] The Sierra Chest lists it in the On-Line Games Collection Series, the 3-D Ultra Pack: Fun & Tilt, the German Best of Sierra Nr.11 compilation and *3-D Ultra Minigolf Deluxe* itself.[^ref-17] MobyGames' "Included in" list gives Best of Sierra Nr. 11 (1999), Die Ultimative PC-Spielesammlung für die ganze Familie (2000), Fun & Tilt 3-D Ultra Pack (1998) and the On-Line Games Collection Series (1997).[^ref-25]
 
 ### Fan Projects
 
 Following the closure of Dynamix in 2001, Sierra's planned follow-up title "Minigolf Maniacs" was left unfinished.[^ref-5] The original developers collaborated with fans to complete a version of Minigolf Maniacs, which was released as freeware in 2007.[^ref-5] This fan completion represents a notable example of developer-fan collaboration in game preservation.
-
-### Related Publications
-
-- **Game Manual:** Included with retail copies, providing instructions for gameplay modes and controls
 
 ### Critical Perspective
 
@@ -192,25 +200,21 @@ The later games did not escape the original's criticisms: GameSpot found the 200
 
 The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf Adventures (2006) illustrates the challenges of franchise continuity in the gaming industry[^ref-10][^ref-11], while the fan-completed Minigolf Maniacs mod kept the cancelled sequel alive.[^ref-5][^ref-12]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam (original 1997 version)
-- [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – 2006 sequel
+- [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)[^ref-8] – 2006 sequel
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-1997)
-
-## Downloads
 
 **Download / Preservation**
 - [Internet Archive – 3-D Ultra Minigolf (1997)](https://archive.org/details/3-d-ultra-minigolf)[^ref-9]
 - [Internet Archive – Best Buy Presents variant](https://archive.org/details/best-buy-presents-3-d-ultra-minigolf)[^ref-18]
 - [MyAbandonware](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6)[^ref-6]
 
-**Sequel Available On:**
-- [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)[^ref-8]
-
 ## See Also
 
+- [[3D Ultra Series]]
 - [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|→ Next: 3-D Ultra Pinball - The Lost Continent]]
 
@@ -234,7 +238,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 [^ref-2]: [GamesFirst - 3D Ultra MiniGolf Review (Wayback Machine, 2000)](http://web.archive.org/web/20000311223411/http://www.gamesfirst.com:80/reviews/craig/3DMini/3dmini.htm) — Contemporary review discussing graphics, camera angles, secrets and gameplay
 [^ref-3]: [The Collection Chamber - 3D Ultra Minigolf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) — Preservation and retrospective analysis
 [^ref-4]: [GameSpot - 3D Ultra Minigolf Adventures](https://www.gamespot.com/games/3d-ultra-minigolf-adventures/) — Series overview and franchise history
-[^ref-5]: [Wikipedia - 3D Ultra Minigolf](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf) — Franchise history, sequels, and fan completion of Minigolf Maniacs
+[^ref-5]: [Wikipedia - 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) — Franchise history, sequels, and fan completion of Minigolf Maniacs
 [^ref-6]: [MyAbandonware - 3-D Ultra Minigolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6) — Preservation download, description, user comments and 4.38/5 rating (63 votes, checked 2026-10-11)
 [^ref-7]: [GameSpot - 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) — Aaron Thomas review (April 19, 2007) mentioning the 1997 original
 [^ref-8]: [Steam - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) — 2006 sequel Steam page
@@ -249,7 +253,10 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 [^ref-17]: [Sierra Chest – 3-D Ultra Minigolf](https://sierrachest.com/index.php?a=g&id=108&fld=s) — First release 1997-04-15, Jeff Tunnell Productions, hole list, modes, putting techniques, patch 1.01, compilations
 [^ref-18]: [Internet Archive – Best Buy Presents 3-D Ultra Minigolf](https://archive.org/details/best-buy-presents-3-d-ultra-minigolf) — Best Buy-exclusive Sierra disc (install build 2/9/00) with Sierra demos and "3D Ultra Mini Golf 1.1 (1/28/00)"
 [^ref-19]: [Sierra Help Wiki – 3-D Ultra Minigolf Demo](https://wiki.sierrahelp.com/index.php/3-D_Ultra_Minigolf_Demo) — Demo page listing designers Kevin Ryan and Jeff Tunnell, publisher Sierra Attractions, engine "Unknown or Unnamed", Windows 3x/Win9x
-
 [^ref-20]: [MobyGames – Sierra Entertainment, Inc. (Sierra On-Line) company profile](https://www.mobygames.com/company/17/sierra-entertainment-inc/) — "Dynamix has developed products for three of Sierra's family of brands: Sierra Attractions (3-D Ultra' line)..."
 [^ref-21]: [GameSpot – 3D Ultra Mini Golf Review (Jeff Sengstack, Aug 5, 1997; Wayback Machine)](https://web.archive.org/web/20110530073200/http://www.gamespot.com/pc/sports/3dultraminigolf/review.html) — GameSpot Score 4.3 "poor"; critic scores from Games First!, Game Revolution and Hot Games; "Release: May 31, 1997"
 [^ref-22]: [Wikipedia – Zany Golf](https://en.wikipedia.org/wiki/Zany_Golf) — "a fantasy take on miniature golf developed by Sandcastle Productions and published by Electronic Arts in 1988"
+[^ref-23]: [Dynamix press release, May 15, 1998 (Wayback Machine)](https://web.archive.org/web/19980627112440/http://www.dynamix.com/pr/minigolf-pr.html) — Announces 3-D Ultra MiniGolf Deluxe for July 1998 at $29.95, "the first title to ship under the Sierra Attractions Brand"
+[^ref-24]: [ELI Software Encyclopedia – 3-D Ultra Minigolf (PC, CD-ROM) Sierra, 1997 USA/Canada release](https://elisoftware.org/wiki/3-D_Ultra_Minigolf_(PC,_CD-ROM)_Sierra_-_1997_USA,_Canada_Release) — Box data: Windows 3.1/95, 486-66, 8 MB RAM, 2X CD-ROM, SVGA 256 color, audio
+[^ref-25]: [MobyGames – 3-D Ultra Minigolf (Wayback Machine, 2026-09-12)](http://web.archive.org/web/20260912081458/https://www.mobygames.com/game/2295/3-d-ultra-minigolf/) — Full 17-person Windows credit list, Windows and Windows 16-bit releases, "Included in" compilations
+[^ref-26]: [MobyGames – 3-D Ultra Minigolf specs (Wayback Machine, 2023-06-12)](http://web.archive.org/web/20230612144444/https://www.mobygames.com/game/2295/3-d-ultra-minigolf/specs/) — Minimum Intel i486 DX2, 8 MB RAM, 2X CD-ROM
