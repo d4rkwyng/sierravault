@@ -10,15 +10,17 @@ series: Standalone (Gobliiins spiritual successor)
 engine: Gob
 protagonist: Woodruff
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Charles Callet]
 description: '*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe
-  as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game...'
+  as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game developed
+  by Coktel Vision and published by Sierra On-Line. Set in a post-apocalyptic city of
+  oppressed mutant Boozooks, it shares the visual style and humor of the Gobliiins series.'
 tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successor]
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -26,7 +28,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 
 Adventure Classic Gaming found "a surprisingly deep and complex plot" beneath its cartoon façade,[^ref-3] and retrospectives list serious themes behind the comedy, among them xenophobia, exploitation, and racism.[^ref-12][^ref-17] The game shares the visual style, gameplay, and offbeat humor of Coktel Vision's *Gobliiins* series, though it is not officially part of that franchise.[^ref-1][^ref-4] [[Pierre Gilhodes]], creator of the *Gobliiins* games, worked on it as a co-writer of the scenario and one of its artists.[^ref-1][^ref-37]
 
-*PC Gamer* awarded it 90%, and its reviews were largely positive.[^ref-1] However, despite praise from critics, it never became particularly popular or financially successful, and it retains a small cult following.[^ref-1][^ref-6] It was a full CD "talkie," using real voices for speech.[^ref-6]
+*PC Gamer* awarded it 90%, and its reviews were largely positive.[^ref-1] However, Wikipedia states that despite critical acclaim it failed to find a mass audience and was a financial disappointment for Sierra, and that it retains a small, devoted cult fanbase.[^ref-1][^ref-6] It was a full CD "talkie," using real voices for speech.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -46,7 +48,7 @@ After a devastating atomic war, the world population was nearly annihilated, and
 Among the humans who sympathize with the Boozooks is Professor Azimuth, whose adopted son Woodruff is half-human, half-Boozook.[^ref-1] In his research Azimuth discovers the legend of the Schnibble, a mystical entity believed to have the ability to cause peace and prosperity to flourish, and begins working on a way to unleash it.[^ref-1] Word reaches the BigWig, whose thugs storm Azimuth's home.[^ref-1]
 Azimuth hides the young Woodruff and fits him with a Viblefrotzer, an aging device of his own design; within seconds Woodruff ages about fifteen years.[^ref-1] The BigWig kidnaps the Professor and guns down Woodruff's beloved teddy bear in the process.[^ref-1]
 
-Now grown but still childlike, without shoes or the ability to read, Woodruff sets out into the city of Vlurxtrznbnaxl to rescue his adoptive father, avenge his teddy bear, and unravel the mystery of the Schnibble.[^ref-1][^ref-3] His journey takes him through well over forty locations,[^ref-15] among them Sad Boozook Street, the Bridge of Slums, and Brotoflatron Square.[^ref-20] Along the way he learns the Syllables known to the seven Boozook Wisemen and combines them in groups of three into magic Formulas.[^ref-16] TV Tropes notes that the early game is extremely silly and breaks the fourth wall repeatedly, but that by the time Woodruff learns about Coh Cott, a woman later abducted and mind-controlled by the BigWig, it "reshapes itself into a study of racism and cultural interaction."[^ref-16][^ref-17]
+Now grown but still childlike, without shoes or the ability to read, Woodruff sets out into the city of Vlurxtrznbnaxl to rescue his adoptive father, avenge his teddy bear, and unravel the mystery of the Schnibble.[^ref-1][^ref-3] His journey takes him through about forty rooms or settings, according to the manual,[^ref-43] among them Sad Boozook Street, the Bridge of Slums, and Brotoflatron Square.[^ref-20] Along the way he learns the Syllables known to the seven Boozook Wisemen and combines them in groups of three into magic Formulas.[^ref-16][^ref-43] TV Tropes notes that the early game is extremely silly and breaks the fourth wall repeatedly, but that by the time Woodruff learns about Coh Cott, a woman later abducted and mind-controlled by the BigWig, it "reshapes itself into a study of racism and cultural interaction."[^ref-16][^ref-17]
 
 ## Gameplay
 
@@ -58,7 +60,7 @@ A distinctive gameplay element is the Tobozon, a communication device that lets 
 
 ### Structure and Progression
 
-Abandonware France counts around thirty locations, while Hardcore Gaming 101 counts well over forty.[^ref-12][^ref-15] The game is largely non-linear, so a stuck player can try something elsewhere.[^ref-38][^ref-3]
+The original manual says the City "consists of about 40 rooms, or settings," connected in groups of 3 to 5 screens per level; Abandonware France counts around thirty locations, while Hardcore Gaming 101 counts well over forty.[^ref-43][^ref-12][^ref-15] The manual states that "its progression is not linear," so solving one puzzle does not necessarily lead to the next, and the game is largely non-linear, so a stuck player can try something elsewhere.[^ref-43][^ref-38][^ref-3]
 
 Areas named in the StrategyWiki walkthrough include:[^ref-20]
 
@@ -69,7 +71,7 @@ Areas named in the StrategyWiki walkthrough include:[^ref-20]
 - **Boozook Temple:** where a Wiseman's room is located
 - **Prison Tower:** which Woodruff can later teleport to, outside the prisoners' windows[^ref-3]
 
-The Syllables of the seven Wisemen are combined into Formulas, each giving Woodruff a specific power.[^ref-16] The city's currency is the "strull."[^ref-16]
+The Syllables of the seven Wisemen are combined into Formulas, each giving Woodruff a specific power.[^ref-16] The manual lists seven Boozook formulae: Memory, Happiness, Insight, Growth, Past, Strength and Diagnostic.[^ref-43] The city's currency is the Strul, and Woodruff starts the game with no money.[^ref-43]
 
 ### Puzzles and Mechanics
 
@@ -83,7 +85,7 @@ Hardcore Gaming 101 notes the game's "curious tendency to use made-up words with
 
 ### Contemporary Reviews
 
-*PC Gamer* (US) awarded the game 90% in its August 1995 issue (reviewer Matt Firme), praising its "exceptional graphics and sound" and comparing it to *Day of the Tentacle* and *Sam & Max Hit the Road*.[^ref-1] *Computer Game Review* ran three reviews, with overall scores of 88 from Steve Honeywell, 87 from Ted Chapman, and 85 from Tasos Kaiafas.[^ref-1][^ref-39][^ref-40][^ref-38] Honeywell called it "one of the most amusing and endearing titles this year," though he and Chapman both wished they could skip long speech or animation sequences and speed up Woodruff's walking.[^ref-39][^ref-40]
+*PC Gamer* (US) awarded the game 90% in its August 1995 issue (reviewer Matt Firme).[^ref-1] Wikipedia adds that the magazine praised its "exceptional graphics and sound" and compared it to *Day of the Tentacle* and *Sam & Max Hit the Road*, citing a MobyGames review collection.[^ref-1] *Computer Game Review* ran three reviews, with overall scores of 88 from Steve Honeywell, 87 from Ted Chapman, and 85 from Tasos Kaiafas.[^ref-1][^ref-39][^ref-40][^ref-38] Honeywell called it "one of the most amusing and endearing titles this year," though he and Chapman both wished they could skip long speech or animation sequences and speed up Woodruff's walking.[^ref-39][^ref-40]
 
 In Germany, *PC Player* magazine gave the game a special award, naming it "Tongue Twister of the Year 1995."[^ref-22] Gamer's Zone, though positive overall, complained about the often ludicrously hard puzzles.[^ref-5]
 
@@ -102,6 +104,7 @@ Modern retrospective reviews have been largely positive while acknowledging the 
 - **GameFAQs:** 9/10 (user review by Fragnarok)[^ref-21]
 - **MyAbandonware:** 4.25/5 (24 votes)[^ref-19]
 - **Glitchwave:** 3.19/5.0 (15 ratings)[^ref-26]
+- **MobyGames players:** 4.0/5 (48 ratings, as of 11 November 2026)[^ref-44]
 
 ## Development
 
@@ -120,10 +123,13 @@ MobyGames credits M.D.O. among the programmers,[^ref-37] and PCGamingWiki identi
 **Development Credits:**[^ref-37]
 - **Project Leader; Writing / Dialogue / Story:** Muriel Tramis
 - **Scenario:** Stéphane Fournier, Pierre Gilhodes
-- **Graphics / Artwork:** Rachid Chebli, Jacques Dimier, Patrick Dumas, Pierre Gilhodes
+- **Graphics / Artwork:** Rachid Chebli, Jacques Dimier, Patrick Dumas, Pierre Gilhodes; with the participation of Christophe Gauvrit, Christian Laly, Pascal Pautrot, Richard Peltier[^ref-43]
 - **Programming:** M.D.O., Roland Lacoste, Helene Pokidine, Eric Thommerot
 - **Music:** Charles Callet
 - **Sound:** Fabrice van Brabandt, Adrien Hermans
+- **Texts:** Muriel Tramis[^ref-43]
+- **Documentation:** Vince Geraci (writer), Lori Lucia (designer)[^ref-43]
+- **Quality Assurance:** Joe Carper, John Trauger[^ref-43]
 - **Publisher:** Sierra On-Line, Inc.
 
 ### Technical Achievements
@@ -149,6 +155,17 @@ That review also observes that there is almost no background music, only ambient
 - **Processor:** Intel Pentium
 - **RAM:** 16 MB
 - **Display:** 640x480 resolution, 256 colors, DirectX 7.0 compatible
+
+### Voice Cast
+
+The game features a fully voiced cast. The English voice actors have never been identified; for the French version, Wikipedia names Edgar Givry and Claude Piéplu, and IMDb also lists Patrick Préjean and Micheline Dax:[^ref-5][^ref-25]
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Woodruff | Edgar Givry[^ref-1] |
+| Narrator | Claude Piéplu[^ref-1] |
+| The BigWig | Patrick Préjean[^ref-25] |
+| The Bar Patron | Micheline Dax[^ref-25] |
 
 ### Cut Content
 
@@ -197,24 +214,13 @@ The game was originally a 16-bit Windows program, meaning it does not run native
 - **Alphabet Quip:** The Collection Chamber's reviewer joked that this is a game that "likes to use the last three letters of the alphabet more than any other"—as in the city name "Vlurxtrznbnaxl."[^ref-24]
 - **Early-Bird Cameo:** The Beast appears on a poster at the very start of the game, foreshadowing events to come.[^ref-16]
 
-## Voice Cast
-
-The game features a fully voiced cast. The English voice actors have never been identified; for the French version, Wikipedia names Edgar Givry and Claude Piéplu, and IMDb also lists Patrick Préjean and Micheline Dax:[^ref-5][^ref-25]
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Woodruff | Edgar Givry[^ref-1] |
-| Narrator | Claude Piéplu[^ref-1] |
-| The BigWig | Patrick Préjean[^ref-25] |
-| The Bar Patron | Micheline Dax[^ref-25] |
-
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Although the game was praised by many critics, it never became particularly popular or financially successful.[^ref-6] PriceCharting records a sealed big-box copy selling for $250 on eBay in October 2023, though other sealed copies have sold for less, such as $85.30 in November 2025.[^ref-33]
+Although the game was praised by many critics, OldGames.sk's description, which repeats Wikipedia's, says it never became particularly popular or financially successful.[^ref-6] PriceCharting records a sealed big-box copy selling for $250 on eBay in October 2023, though other sealed copies have sold for less, such as $85.30 in November 2025.[^ref-33]
 
-Wikipedia describes it as slipping into obscurity behind Sierra's better-known titles while retaining a small, devoted cult following.[^ref-1] Fans continue to request a digital re-release on GOG.[^ref-4][^ref-41]
+Wikipedia describes it as eventually slipping into obscurity behind most of Sierra's better-known titles while retaining a small, devoted cult fanbase.[^ref-1] Fans continue to request a digital re-release on GOG.[^ref-4][^ref-41]
 
 ### Collections
 
@@ -224,7 +230,7 @@ MobyGames lists the game as included in two compilations: *Best of Sierra Nr. 5*
 
 GOG.com's old community wishlist page shows demand for a re-release, with fans leaving comments such as "This game is a cult classic; I keep looking for it on GOG!" and "The World is waiting for this Game :-)"[^ref-41] Another user simply stated: "I would buy it."[^ref-41] The request continues on GOG's Dreamlist.[^ref-4]
 
-ScummVM support lets the game run on modern operating systems without the 16-bit compatibility problems of the original Windows 3.x release.[^ref-30] The Collection Chamber blog offers its own custom installer that uses ScummVM to run the game on modern PCs, "Tested on Windows 10."[^ref-24]
+ScummVM support lets the game run on modern operating systems without the 16-bit compatibility problems of the original Windows 3.x release.[^ref-30] ScummVM's compatibility chart lists the game (`gob:woodruff`) as "Excellent", meaning no known issues.[^ref-45] The Collection Chamber blog offers its own custom installer that uses ScummVM to run the game on modern PCs, "Tested on Windows 10."[^ref-24]
 
 ### Related Publications
 
@@ -245,6 +251,9 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 - [Internet Archive – Woodruff and the Schnibble](https://archive.org/details/woodruff-and-the-schnibble)[^ref-9]
 - [MyAbandonware](https://www.myabandonware.com/game/the-bizarre-adventures-of-woodruff-and-the-schnibble-djf)[^ref-19]
 
+**Manuals & Extras**
+- [Original manual (Internet Archive)](https://archive.org/details/Woodruff_and_the_Schnibble_-_Manual) – scanned game manual[^ref-43]
+
 **Technical Resources**
 - [Sierra Help Pages](https://sierrahelp.com/Games/WoodruffandtheSchnibbleHelp.html) – compatibility guides[^ref-30]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – technical documentation[^ref-8]
@@ -260,7 +269,7 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 
 - **Related:** [[1991 - Gobliiins]] (spiritual predecessor)
 - **Related:** [[1992 - Gobliins 2 - The Prince Buffoon]]
-- **Related:** [[1993 - Goblins Quest 3]]
+- **Series:** [[Coktel Adventures Series]] (series overview)
 
 ## References
 
@@ -298,3 +307,6 @@ The game pairs absurdist comedy with a study of racism and cultural interaction,
 [^ref-40]: [Computer Game Review – Ted's Review (Wayback, 1996)](https://web.archive.org/web/1996/http://www.nuke.com/compent/reviews/jularc/woodsnib/tedrev.htm) – overall 87, complaints about unskippable animations and walking speed
 [^ref-41]: [GOG.com – Community Wishlist (old)](https://www.gog.com/wishlist/games/the_bizarre_adventures_of_woodruff_and_the_schnibble) – fan comments requesting a re-release
 [^ref-42]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
+[^ref-43]: [Internet Archive – Woodruff and the Schnibble manual](https://archive.org/details/Woodruff_and_the_Schnibble_-_Manual) – original Sierra manual: about 40 rooms, non-linear progression, seven formulae, the Strul, credits
+[^ref-44]: [MobyGames – Reviews (player average checked 11 November 2026)](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/reviews/) – player average 4.0 out of 5 from 48 ratings
+[^ref-45]: [ScummVM – Compatibility chart](https://www.scummvm.org/compatibility/) – gob:woodruff rated Excellent (checked 11 November 2026)
