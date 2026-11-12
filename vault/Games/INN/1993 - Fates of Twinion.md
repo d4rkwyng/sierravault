@@ -11,21 +11,21 @@ series: Shadow of Yserbius
 engine: Shadow of Yserbius game engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Russell Lieblich]
 description: Fates of Twinion is a 1993 fantasy RPG dungeon crawler developed by Ybarra
   Productions and published by Sierra On-Line. Built on the Shadow of Yserbius engine,
-  it was a multiplayer game on The Sierra Network (later the ImagiNation Network), also sold as a solo boxed-set companion
-  to Yserbius.
+  it was a multiplayer game on The Sierra Network (later the ImagiNation Network),
+  also sold as a solo boxed-set companion to Yserbius.
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # Fates of Twinion
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Fates of Twinion is a fantasy RPG dungeon crawler developed by Ybarra Productions, published by [[Sierra On-Line]] and released in 1993.[^ref-18][^ref-4] Originally designed as an online multiplayer game for The Sierra Network (later renamed ImagiNation Network), the game served as a successor to [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]].[^ref-2] MobyGames describes the online original as "the graphical multi-user dungeon game on The Sierra Network".[^ref-18]
+Fates of Twinion is a fantasy RPG dungeon crawler developed by Ybarra Productions, published by [[Sierra On-Line]] and released in 1993.[^ref-18][^ref-4] Originally designed as an online multiplayer game for The Sierra Network (later renamed ImagiNation Network), the game followed [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]].[^ref-2] Reviewing the boxed set, *Computer Gaming World* described it as "not so much a sequel to Yserbius as a parallel game", with "no plot relation between the two".[^ref-27] MobyGames describes the online original as "the graphical multi-user dungeon game on The Sierra Network".[^ref-18]
 
 The CRPG Addict noted that Sierra "intended it not for authentic offline play but to whet the player's appetite for an online account".[^ref-4] Alongside the online game, Sierra sold "the solo version of the sequel/add-on" for offline play,[^ref-18] while the network itself was sold to AOL in 1996 and discontinued by 1998.[^ref-24][^ref-25] With the demise of INN the online games faded, though the HOTUD review hosted on MyAbandonware judges that, stripped of their multiplayer features, they remain decent RPGs.[^ref-14] Sierra's Summer 1993 *InterAction* magazine told players that "Your Yserbius boxed set also comes with The Fates of Twinion, another on-line adventure in the tradition of Yserbius".[^ref-30] In its June 1994 awards issue, *Computer Gaming World* listed "Shadow of Yserbius: Fates of Twinion" among the finalists for On-Line Game of the Year, crediting the Imagination Network with "a new version of Shadow of Yserbius: Fates of Twinion, their extremely successful on-line fantasy role-playing game".[^ref-31]
 
@@ -115,13 +115,11 @@ Their detailed critique elaborated: "Twinion offers too much breadth—too large
 
 Modern reviewers have been more positive about the game's qualities as a dungeon crawler. The HOTUD review hosted on MyAbandonware (its text also appears on ClassicReload) notes that "Stripped off its multiplayer features, they are still decent RPGs, with a good variety of monsters, spells, interesting sub-quests", calls them solid dungeon crawls "that are definitely better than average" and ends "Highly recommended for RPG beginners".[^ref-14]
 
-The speedrunning community maintains interest, with one player noting that "Yserbius (in the Medievalands engine) can be beaten in under two hours from new characters."[^ref-22]
-
 ## Development
 
 ### Origins
 
-Fates of Twinion was developed as part of Sierra's ambitious early online gaming initiative through The Sierra Network.[^ref-2] The game was designed to build upon the success of The Shadow of Yserbius, serving as its direct successor.[^ref-2] Reusing the original game engine, Sierra aimed to get the most story and diversity out of it.[^ref-18]
+Fates of Twinion was developed as part of Sierra's ambitious early online gaming initiative through The Sierra Network.[^ref-2] The game was designed to build upon the success of The Shadow of Yserbius, following it on the same engine.[^ref-2] *Computer Gaming World* called it "not so much a sequel to Yserbius as a parallel game", with "no plot relation between the two".[^ref-27] Reusing the original game engine, Sierra aimed to get the most story and diversity out of it.[^ref-18]
 
 ### Production Challenges
 
@@ -146,6 +144,7 @@ Fates of Twinion was built on the same engine as **The Shadow of Yserbius**, whi
 | Engine | Shadow of Yserbius engine |
 | Sound System | AIL / Miles Sound System[^ref-18] |
 | Download Size | 1 MB (MyAbandonware)[^ref-14] |
+| Hard Drive Space | 4.5 MB (listed in the Computer Gaming World spec box)[^ref-27] |
 | DOSBox Support | Supported on 0.65[^ref-14] |
 | Game Modes | Single-player, modem[^ref-18] |
 
@@ -169,7 +168,7 @@ The game has found new life through preservation efforts and modern remakes. Zan
 
 ### Player Memories
 
-GOG wishlist requests demonstrate ongoing interest, with users sharing memories of this pioneering online experience.[^ref-23] The game remains an important historical artifact of Sierra's experimental period in online gaming.
+GOG wishlist requests demonstrate ongoing interest, with users sharing memories of this pioneering online experience.[^ref-23]
 
 ### Easter Eggs and Trivia
 
@@ -199,7 +198,8 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 ## See Also
 
 - [[1991 - The Shadow of Yserbius]]
-- [[1996 - The Realm Online]]
+- [[1996 - The Realm Online]] (planned for INN, but dropped)
+- [[Sierra Network Series]]
 
 ## References
 
@@ -218,7 +218,6 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 [^ref-17]: [Sierra Help - Tips](https://sierrahelp.com/Hints/FatesOfTwinionTips.html) - Forcing mechanic explanation, legendary items
 [^ref-18]: [MobyGames](https://www.mobygames.com/game/1846/fates-of-twinion/) - Developer/publisher, critic score (1 review), AIL/Miles sound engine; description ("the solo version of the sequel/add-on", "graphical multi-user dungeon game"), Perspective: 1st-person, Multiplayer Options: Modem (read via the MobyGames API)
 [^ref-21]: [CRPG Addict - Lines and Squares](http://crpgaddict.blogspot.com/2026/01/the-fates-of-twinion-lines-and-squares.html) - Detailed critique, breadth vs depth analysis
-[^ref-22]: [Reddit - Sierra](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) - Speedrun community insights
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-fates-of-twinion-1993) - Player memories
 [^ref-24]: [The Digital Antiquarian - The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) - "On August 7, 1996, America Online bought the service from AT&T for an undisclosed amount"; May 6, 1991 launch announcement; July 28, 1993 AT&T 20-percent stake, after which the service "was rechristened The ImagiNation Network"; AT&T bought the remaining shares November 15, 1994
 [^ref-25]: [Wikipedia - The Sierra Network](https://en.wikipedia.org/wiki/The_Sierra_Network) - "AT&T sold the ImagiNation Network in 1996 to America Online. By 1998, the service was discontinued."
