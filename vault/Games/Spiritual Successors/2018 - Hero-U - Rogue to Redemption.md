@@ -10,15 +10,16 @@ series: Hero-U
 engine: Unity
 protagonist: Shawn O'Conner
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-12'
 composer: [Ryan Grogan]
 description: 'Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing
-  game created by Lori Ann Cole and Corey Cole, the legendary designers behind...'
+  game created by Lori Ann Cole and Corey Cole, the designers behind Sierra On-Line''s
+  Quest for Glory series.'
 tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -110,7 +111,7 @@ The Coles were candid about the commercial challenges facing their style of game
 
 ### Production
 
-The first Kickstarter campaign launched in October 2012, seeking $400,000 to fund development[^ref-32]. The campaign met its goal with four hours left[^ref-13], ultimately raising $409,150 from 6,093 backers[^ref-17]. A second Kickstarter campaign in 2015 raised an additional $116,888[^ref-17], bringing total crowdfunding to over half a million dollars. According to the postmortem, fans wanted a game like Quest for Glory IV, which had a $1.5 million budget in 2015 dollars, and "The Kickstarter provided 25% of that"[^ref-7].
+The first Kickstarter campaign launched in October 2012, seeking $400,000 to fund development[^ref-32]. The campaign met its goal with four hours left[^ref-13], ultimately raising $409,150 from 6,093 backers[^ref-17]. A second Kickstarter campaign, which ran from May 12 to June 16, 2015 (35 days), sought $100,000 and raised $116,888 from 1,869 backers[^ref-52][^ref-17], bringing total crowdfunding to over half a million dollars. According to the postmortem, fans wanted a game like Quest for Glory IV, which had a $1.5 million budget in 2015 dollars, and "The Kickstarter provided 25% of that"[^ref-7].
 
 Development proved far more challenging than anticipated. "We figured we could turn out the original concept game in 1-2 years, but development ballooned to over five years," Corey Cole later admitted[^ref-33]. The game was developed by a remote, part-time team facing numerous hurdles. In January 2015, the project underwent a significant reboot when experienced Unity developers were added to address technical challenges[^ref-1]. The original concept changed considerably during this period—the final product "bears little resemblance to early concept art" according to contemporary coverage[^ref-18].
 
@@ -205,7 +206,7 @@ The game earned award nominations including "Best Writing - Comedy" and "Best No
 
 ### Collections
 
-Hero-U: Rogue to Redemption has remained available as a standalone title across multiple digital storefronts including Steam, GOG, Humble Bundle, the Mac App Store, itch.io, and Fireflower Games[^ref-35]. It has not been included in any major compilation releases as of 2026. A Nintendo Switch port published by Silesia Games followed on February 9, 2021[^ref-38], and Transolar's official site lists a PlayStation version as "Coming soon"; no PlayStation release date has been announced there[^ref-46].
+Hero-U: Rogue to Redemption has remained available as a standalone title across multiple digital storefronts including Steam, GOG, Humble Bundle, the Mac App Store, itch.io, and Fireflower Games[^ref-35]. It has not been included in any major compilation releases as of 2026. A Nintendo Switch port published by Silesia Games followed on February 9, 2021[^ref-38], and Transolar's official site lists a PlayStation version as "Coming soon" as of November 2026; no PlayStation release date has been announced there[^ref-46].
 
 ### Fan Projects
 
@@ -221,7 +222,7 @@ The dedicated fan community has produced extensive documentation including detai
 
 Hero-U was crowdfunded by the designers of Quest for Glory[^ref-1][^ref-47], and Jimmy Maher has called it "Quest for Glory VI in all but name"[^ref-2]. Its development ran "over five years" by Corey Cole's count, for what was planned as a 1-2 year project[^ref-33], and its first-month sales fell well short of the level the team had considered critical[^ref-7]. As RPGFan noted, "Like the original series, Hero-U is a valiant effort to merge the good qualities of graphic adventure games, RPGs, and storytelling"[^ref-28].
 
-Hero-U was planned as the beginning of a series, with the Coles planning additional games featuring different character classes at the university. Summer Daze at Hero-U, a visual novel spinoff, was announced as a follow-up, with the Coles drawing inspiration from games like Dream Daddy and Magical Diary[^ref-33].
+Hero-U was planned as the beginning of a series, with the Coles planning additional games featuring different character classes at the university. Summer Daze at Hero-U, a visual novel spinoff, was announced as a follow-up, with the Coles drawing inspiration from games like Dream Daddy and Magical Diary[^ref-33]. *[[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]]* was released in 2023, and a Nintendo Switch version from Silesia Games launched in June 2023[^ref-51]. According to Corey Cole's BackerKit update of September 16, 2026, the second game, *Ifeyo's Adventure*, is expected in "late Spring or early Summer 2027"[^ref-51].
 
 ## Downloads
 
@@ -302,3 +303,5 @@ Hero-U was planned as the beginning of a series, with the Coles planning additio
 [^ref-48]: [MobyGames – Corey Cole profile](https://www.mobygames.com/person/3682/corey-cole/) – biography: after Sierra closed Yosemite Entertainment in 1999, online games "Explorati (2001), and JetSetPoker.com (2003)"; worked with Lori on TheSchoolForHeroes.com (dossier copy, January 2026)
 [^ref-49]: [Adventure Gamers – Corey Cole interview (Evan Dickens, May 20, 2002; Wayback 2022)](https://web.archive.org/web/20220407063816/https://adventuregamers.com/articles/view/17520) – "Lori and I are currently working with a company named 'Explorati, Inc.'"
 [^ref-50]: [Strange Horizons – Games to Life: An Interview with Lori, Corey, and Michael Cole of Transolar Games (Joseph Howse, 26 May 2008)](http://strangehorizons.com/non-fiction/articles/games-to-life-an-interview-with-lori-corey-and-michael-cole-of-transolar-games/) – "We are now creating the School for Heroes game"
+[^ref-51]: [Summer Daze at Hero-U – BackerKit project updates](https://summerdaze.backerkit.com/hosted_preorders/project_updates) – "Tilly's Tale launch on Nintendo Switch" (Jun 17, 2023: "Thanks to our partner in Poland, Silesia Games, you can now play Summer Daze: Tilly's Tale on the Nintendo Switch"); Corey Cole, Sep 16, 2026: "released Summer Daze: Tilly's Tale in time for the Summer of 2023"; "Expect Ifeyo's Adventure in late Spring or early Summer 2027"
+[^ref-52]: [Kickstarter – Hero-U Fantasy Adventure Role-Playing Game](https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game) – funding period May 12, 2015 – Jun 16, 2015 (35 days); $116,888 pledged of $100,000 goal; 1,869 backers
