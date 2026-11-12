@@ -3,15 +3,15 @@ title: "AGD Interactive"
 type: developer
 founded: 2001
 defunct: null
-headquarters: "United States / Australia"
+headquarters: null
 notable_games: ["King's Quest I VGA Remake", "King's Quest II: Romancing the Stones", "Quest for Glory II VGA Remake", "King's Quest III Redux"]
 parent_company: null
 related_companies: ["Himalaya Studios"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # AGD Interactive
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -41,11 +41,19 @@ Quest for Glory II was released on August 24, 2008, "after nearly 8 years in dev
 
 AGDI released King's Quest III Redux: To Heir is Human on February 24, 2011.[^ref-4] The studio described it as featuring "beautiful storybook artwork, an enchanting musical score, full voice acting, new scenes, quests, characters, and locations to explore."[^ref-4] Wikipedia notes that it is not a one-to-one remake and continues the non-canon story begun in King's Quest II: Romancing the Stones.[^ref-8]
 
+### Later Years
+
+AGDI's FAQ says that once the team had finished its current project, "we will not be remaking any more Sierra games."[^ref-34] A January 2011 press release on bit-tech described King's Quest III Redux as "AGDI's final Sierra remake; after this, the team will move their focus to commercial games."[^ref-35] On January 20, 2011, AGDI announced a Mac release of its Quest for Glory II remake together with version 2.0 of the game for PC and Mac.[^ref-4] The AGDI home page now presents *Mage's Initiation: Reign of the Elements* (2019) as its "latest game."[^ref-4]
+
+### Cancelled Projects
+
+According to Wikipedia, the team developed a parody of the King's Quest I remake, *Royal Quest: Retrieving Lost Shit*, and cancelled it because they believed it did not promote the values and tone they wanted to preserve; it also says a VGA remake of *Space Quest II: Vohaul's Revenge* was put on indefinite hold in early 2002 for lack of resources, with a small three-room demo released.[^ref-8]
+
 ## Notable Games
 
 ### King's Quest I VGA Remake (2001)
 
-AGDI's first release remade Roberta Williams' 1984 parser-driven graphic adventure King's Quest I: Quest for the Crown as a point-and-click game.[^ref-8] In Just Adventure's October 2001 sales column, which used PC Data figures, Randy Sluganski noted that Sierra's King's Quest VIII: The Mask of Eternity, released almost three years earlier, was "the top-selling adventure game of the month" for August 2001. He offered the remake's "over 20,000 downloads" as "a theory" to explain it.[^ref-26] Version 4.0, released on January 17, 2009, added enhanced backgrounds, narration and an option to remove dead-end situations.[^ref-8][^ref-25]
+AGDI's first release remade Roberta Williams' 1984 parser-driven graphic adventure King's Quest I: Quest for the Crown as a point-and-click game.[^ref-8] In Just Adventure's October 2001 sales column, which used PC Data figures, Randy Sluganski noted that Sierra's King's Quest VIII: The Mask of Eternity, released almost three years earlier, was "the top-selling adventure game of the month" for August 2001. He offered the remake's "over 20,000 downloads" as "a theory" to explain it.[^ref-26] Version 4.0, released on January 17, 2009, added enhanced backgrounds, narration and an option to remove dead-end situations.[^ref-8][^ref-25] Version 4.1 followed for both PC and Mac on September 1, 2010, and AGDI's release page states that "as of September 2010" the remake had been downloaded over 494,000 times.[^ref-25]
 
 ### Quest for Glory II VGA Remake (2008)
 
@@ -63,9 +71,11 @@ King's Quest III Redux continues from AGDI's King's Quest II: Romancing the Ston
 
 **Britney K. Brimhall** ("Anonymous Game Developer #1" in AGDI's King's Quest II credits)[^ref-32] and **Christopher T. Warren** ("Anonymous Game Developer #2") co-founded both AGD Interactive and [[Himalaya Studios]].[^ref-8][^ref-22] Brimhall, a graduate of Arizona State University, later became chairman and CEO of Himalaya Studios.[^ref-23] She has described moving to Australia to work with her AGD Interactive co-founder on the team's first original title.[^ref-23]
 
+AGDI's King's Quest II team page also credits **Daniel Stacey** as plot writer, **Tom and Dianne Lewandowski** for the original score, and **Relight (Brandon Klassen)** as the "mystery member" who made the opening 3D cutscene.[^ref-32]
+
 ## Legacy
 
-Himalaya Studios describes AGD Interactive's titles as having been "downloaded by millions of fans."[^ref-22] In 2011, the company said that King's Quest III Redux was its "most polished remake ever."[^ref-4]
+Himalaya Studios' About page says "Our titles have been downloaded by millions of fans," in a passage that also names AGD Interactive, LLC.[^ref-22] In 2011, the company said that King's Quest III Redux was its "most polished remake ever."[^ref-4]
 
 The founding of [[Himalaya Studios]] in 2004 let the team pursue original games, while AGD Interactive's remakes stayed free downloads.[^ref-21][^ref-23] Himalaya was set up as a limited liability company in Chandler, Arizona, and was incorporated as a C corporation in Delaware in 2011.[^ref-21]
 
@@ -96,3 +106,5 @@ The founding of [[Himalaya Studios]] in 2004 let the team pursue original games,
 [^ref-31]: [AGD Interactive – King's Quest II: Release Information (archived)](https://web.archive.org/web/20110103095010/http://www.agdinteractive.com/games/kq2/about/aboutrelease.html) — "released on December 3rd, 2002"
 [^ref-32]: [AGD Interactive – King's Quest II: The Development Team](https://www.agdinteractive.com/games/kq2/about/aboutdev.html) — "Anonymous Game Developer #1 (Britney Brimhall), Anonymous Game Developer #2 (Christopher Warren)"
 [^ref-33]: [AGD Interactive – King's Quest II: Release Information](https://www.agdinteractive.com/games/kq2/about/aboutrelease.html) — v1.0 Dec 3, 2002; v1.1 Dec 17, 2002; v2.0 Apr 2, 2003; v3.0 Mar 14, 2009; v3.1 Sep 1, 2010
+[^ref-34]: [AGD Interactive – Game FAQ](https://www.agdinteractive.com/faqs/gamefaq.html) — "we will not be remaking any more Sierra games"
+[^ref-35]: [bit-tech – "King's Quest III Redux coming in February" (press release, January 26, 2011)](https://bit-tech.net/press-releases/gaming/pc/king-s-quest-iii-redux-coming-in-february-f/1/) — "This will be AGDI's final Sierra remake"
