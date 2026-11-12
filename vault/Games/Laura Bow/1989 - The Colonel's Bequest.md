@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI0
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: 'The Colonel''s Bequest: A Laura Bow Mystery is a 1989 murder-mystery
   adventure game from Sierra On-Line, written by Roberta Williams and set on an isolated
   Louisiana bayou island in 1925.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Colonel's Bequest
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -84,6 +84,7 @@ The Colonel's Bequest received generally positive reviews from gaming publicatio
 | Computer + Video Games | 83% | May 1990[^ref-32] |
 | The One | 80% | March 1990[^ref-2] |
 | Zzap!64 | 79% | October 1990[^ref-34] |
+| Amiga Format | 60% | October 1990 (issue 15)[^ref-33] |
 
 Critics praised the game's atmospheric presentation and innovative storytelling approach. Computer Gaming World's Johnny L. Wilson described it as a "forerunner of one style of future entertainment software" while acknowledging it might not appeal to "hard-core adventure gamers"[^ref-2]. Games International's Theo Clarke gave it 8 out of 10, calling it "solid genre stuff" and noting "I have found all of the Sierra games quite obsessive but The Colonel's Bequest has a charm all of its own"[^ref-2].
 
@@ -113,7 +114,7 @@ The trigger-based event system was the game's most distinctive design feature: t
 
 The game contains a rarely seen easter egg that triggers randomly, with a 1-in-200 chance, when entering the room outside the back of the mansion; fans only pinned down its trigger by decompiling the game's scripts[^ref-44]. The same analysis found that the object the egg uses, shown as a statue, contains a never-before-seen airplane animation loop[^ref-44].
 
-The benshoof.org blog, whose author decompiled the game's scripts, found only three release builds, one each for DOS, Amiga and Atari ST[^ref-24], and DOS Days likewise says only one DOS version was released[^ref-20]. The game is sold on GOG[^ref-36] and documented on PCGamingWiki for modern systems[^ref-8].
+The benshoof.org blog, whose author decompiled the game's scripts, found only three release builds, one each for DOS, Amiga and Atari ST[^ref-24], and DOS Days likewise says only one DOS version was released[^ref-20]. The game is sold on GOG, which released an emulated Windows version in February 2017[^ref-36][^ref-2] and documented on PCGamingWiki for modern systems[^ref-8].
 
 ### Version History
 
@@ -121,6 +122,7 @@ The benshoof.org blog, whose author decompiled the game's scripts, found only th
 |---------|------|----------|-------|
 | Original (1.000.046) | October 1989 (build dated December 1989) | DOS | Initial release, SCI0 engine[^ref-2][^ref-24] |
 | Ports (1.000.059, 1.000.062) | 1990 (June and September builds) | Amiga, Atari ST | Computer ports[^ref-2][^ref-24] |
+| GOG release | February 16, 2017 | Windows | Emulated version sold on GOG.com[^ref-2][^ref-36] |
 
 The game supports a variety of sound cards and MIDI modules[^ref-22]; its soundtrack was written by Ken Allen on a Roland MT-32[^ref-20]. Modern players can access walkthroughs and detailed Act-by-Act guides[^ref-14][^ref-56][^ref-57] to fully experience the game's complex narrative structure.
 
@@ -137,6 +139,9 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/en/game/the_colonels_bequest)
 
+**Manuals & Extras**
+- [Game manual (Internet Archive)](https://archive.org/details/Laura_Bow_Colonels_Bequest_Manual)
+
 ## See Also
 
 - **Series:** [[Laura Bow Series]]
@@ -150,14 +155,14 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-1]: [MobyGames - The Colonel's Bequest](https://www.mobygames.com/game/461/the-colonels-bequest/) – Game database with comprehensive technical specifications and credits
 [^ref-2]: [Wikipedia - The Colonel's Bequest](https://en.wikipedia.org/wiki/The_Colonel's_Bequest) – Plot summary and historical context
 [^ref-3]: [Adventure Gamers](https://web.archive.org/web/20250609194755/https://adventuregamers.com/article/laura_bow_the_colonels_bequest) – Analysis of innovative gameplay approach
-[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/the-colonels-bequest/) – Christie/Clue influences; clock advances on triggers, not in real time
+[^ref-4]: [Hardcore Gaming 101](http://web.archive.org/web/20211120020835/http://www.hardcoregaming101.net/the-colonels-bequest/) – Christie/Clue influences; clock advances on triggers, not in real time
 [^ref-5]: [Atari Magazines - Roberta's Bequest Interview](https://www.atarimagazines.com/startv4n8/robertas_bequest.php) – Primary source interview with Roberta Williams from START Magazine
 [^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Colonel%27s_Bequest) – Technical engine details
 [^ref-9]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=33&fld=general) – Opening setting description
 [^ref-12]: [Archive.org - The Colonel's Bequest Manual](https://archive.org/details/Laura_Bow_Colonels_Bequest_Manual) – Original game manual (MS-DOS, Atari ST, Amiga): prologue script, character list, "interactive play in 8 acts"
 [^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/565069-the-colonels-bequest-a-laura-bow-mystery/faqs/12834) – Gameplay mechanics explanation
 [^ref-16]: [MoeGamer Analysis](https://moegamer.net/2024/11/30/the-colonels-bequest-a-bold-experiment-with-the-interactive-mystery-format/) – Detailed gameplay mechanics explanation
-[^ref-17]: [Lemon Amiga Walkthrough](https://www.lemonamiga.com/games/docs.php?id=355) – Act structure explanation
+[^ref-17]: [Lemon Amiga Walkthrough](http://web.archive.org/web/20250126085049/https://www.lemonamiga.com/games/docs.php?id=355) – Act structure explanation
 [^ref-18]: [Adventure Gaming Blog](https://advgamer.blogspot.com/2013/09/game-34-colonels-bequest-won.html) – Multiple endings documentation
 [^ref-19]: [StrategyWiki – The Colonel's Bequest/Walkthrough](https://strategywiki.org/wiki/The_Colonel%27s_Bequest/Walkthrough) – Typed verb-object commands used in play
 [^ref-20]: [DOS Days](https://dosdays.co.uk/topics/Games/game_colonel.php) – Technical engine comparison
@@ -171,13 +176,13 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-30]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1natvkl/the_colonels_bequest_featuring_laura_bow_1989/) – Psycho shower scene reference
 [^ref-31]: [Choice Games Review](https://www.choicestgames.com/2020/06/the-colonels-bequest-review.html) – Death scenes, including the Psycho tribute
 [^ref-32]: [AMR Archive Reviews](https://amr.abime.net/review_30401) – Génération 4 score and date
-[^ref-33]: [AMR Archive Database](https://amr.abime.net/review_5364) – AUI magazine score
+[^ref-33]: [AMR Archive Database](https://amr.abime.net/review_5364) – AUI magazine score; Amiga Format 15 (October 1990) score
 [^ref-34]: [Web Archive Amiga Reviews](https://web.archive.org/web/20071223012716/http://amigareviews.classicgaming.gamespy.com/colonels.htm) – CU Amiga detailed score breakdown
 [^ref-35]: [Web Archive Adventure Gamers](https://web.archive.org/web/20131004232247/http://www.adventuregamers.com/articles/view/17513) – Johann Walter retrospective review
 [^ref-36]: [GOG.com](https://www.gog.com/en/game/the_colonels_bequest) – User review scores and store page
 [^ref-39]: [Bandcamp Music](https://richdouglasmusic.bandcamp.com/album/the-colonels-bequest-single) – Ken Allen composer confirmation
 [^ref-40]: [MobyGames Credits](https://www.mobygames.com/game/461/the-colonels-bequest/credits/dos/) – Full DOS credits (Design: Jacqueline Austin)
-[^ref-41]: [Sierra Gamers](https://www.sierragamers.com/video-catalogs/) – Promotional video catalog mention
+[^ref-41]: [Sierra Gamers](https://www.sierragamers.com/video-catalogs/) ([Wayback copy](http://web.archive.org/web/20260430155105/https://www.sierragamers.com/video-catalogs/)) – Promotional video catalog mention
 [^ref-43]: [Adventure Game Hotspot](https://adventuregamehotspot.com/blog/2219/is-laura-bow-ready-for-another-adventure) – Mechanical Codex licensing status (on hold)
 [^ref-44]: [SCI Programming Community](https://sciprogramming.com/community/index.php?topic=1556.0) – Easter egg discovery documentation
 [^ref-48]: [Virtual Moose Blog](https://virtualmoose.org/2023/01/) – Influence on modern games like The Crimson Diamond
