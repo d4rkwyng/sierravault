@@ -11,7 +11,7 @@ series: Thexder
 engine: null
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Thexder is a transforming robot action game developed by Game Arts for
   the NEC PC-8801 in 1985 and published in North America by Sierra On-Line, which
   imported it from Japan and ported it to several computers.
@@ -19,7 +19,7 @@ tags: [1980s, sierra, thexder]
 ---
 # Thexder
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -54,7 +54,7 @@ The game has 16 stages plus 16 "back stages"[^ref-4]. The PC-8801 advertising pr
 
 ### Puzzles and Mechanics
 
-Much of the game depends on switching between robot and jet forms to suit the terrain and the fight at hand[^ref-16]. The protective shield costs 10 energy[^ref-30]. StrategyWiki describes it as consuming 10% of available energy[^ref-16]. Japanese advertising for the PC-8801 version promised a beam weapon firing 900 shots per minute in 4-shot bursts (毎分900発・4連射) and a jet form that reaches Mach 4.1[^ref-11]. In the NES version, a player who edits save states to reach level 99 finds "some weird doll with a dress" instead of a new level[^ref-17].
+Much of the game depends on switching between robot and jet forms to suit the terrain and the fight at hand[^ref-16]. The cost of the protective shield varies by version. In the Apple IIgs version it costs 10 energy[^ref-30], and StrategyWiki describes it as consuming 10% of available energy[^ref-16]. A GameFAQs guide to the NES version says creating a shield costs 30 energy points[^ref-17]. Japanese advertising for the PC-8801 version promised a beam weapon firing 900 shots per minute in 4-shot bursts (毎分900発・4連射) and a jet form that reaches Mach 4.1[^ref-11]. In the NES version, a player who edits save states to reach level 99 finds "some weird doll with a dress" instead of a new level[^ref-17].
 
 ## Reception
 
@@ -85,13 +85,13 @@ As of February 2026, MobyGames listed a critics' average of 59% from 14 reviews 
 
 ### Origins
 
-Thexder was designed by two Game Arts developers, Hibiki Godai and Satoshi Uesaka[^ref-1][^ref-8]. The PC-8801mkIISR version came out in April 1985[^ref-1][^ref-11]. GameSpot reports that Takeshi Miyaji founded Game Arts in 1985 with his brother Yoichi Miyaji[^ref-44]. Sierra said the company started in a small garage, "by Miyaji and 6 employees", and that Thexder was its first product[^ref-39][^ref-25]. Japanese advertising billed Thexder as a "new type action game" with "超高速スクロールと美しいアニメーショングラフィックス" (ultra-high-speed scrolling and beautiful animation graphics)[^ref-11].
+Thexder was designed by two Game Arts developers, Hibiki Godai and Satoshi Uesaka[^ref-1][^ref-8]. In the 1985 interview they described three ideas behind the game: a transforming-robot game, a high-speed scrolling game and a "new type" game. Godai said the robot theme was chosen for its commercial appeal to elementary and middle school children, and that no PC-88 game had yet offered high-speed scrolling. Uesaka added that they had seen "a certain not-to-be-named transforming robot game and thought, 'that's not how you do it!!'", which was "another inspiration"[^ref-8]. The PC-8801mkIISR version came out in April 1985[^ref-1][^ref-11]. GameSpot reports that Takeshi Miyaji founded Game Arts in 1985 with his brother Yoichi Miyaji[^ref-44]. Sierra said the company started in a small garage, "by Miyaji and 6 employees", and that Thexder was its first product[^ref-39][^ref-25]. Japanese advertising billed Thexder as a "new type action game" with "超高速スクロールと美しいアニメーショングラフィックス" (ultra-high-speed scrolling and beautiful animation graphics)[^ref-11].
 
 Extra Lives, citing Sierra's Tenth Anniversary catalog, says Ken Williams found Thexder on a 1986 trip to Japan. He was "politely shooed out of three Japanese computer stores" for spending too much time playing it, and he bought an NEC PC-88 and a copy of the game to take home[^ref-6]. Sierra's accounts of the US release date disagree. The 1990 *Sierra News Magazine* says Thexder "debuted in U.S. computer stores just in time for Christmas 1986"[^ref-39] (the same issue elsewhere says Sierra "released in the U.S. in 1987" and that it was "imported and released for U.S. gamers by Sierra in 1987"[^ref-39]), and the *Fire Hawk* box says "In 1986, Sierra released the original Thexder"[^ref-48]. Ken Williams's Spring 1988 newsletter article, written closer to the event, says Thexder "was released in September of 1987"[^ref-41]. MobyGames dates the Apple IIgs release to September 1987 and the DOS release to October 1987[^ref-1]. Sierra's port from the NEC machine to the IBM PC "required a major rewrite"[^ref-41].
 
 ### Production
 
-Godai said development took "about two months", and Uesaka said that one of those months "was just spent brainstorming"[^ref-8]. Asked about his hours, Godai said: "when I'm into it, I'm fine working three days straight without sleep"[^ref-8]. Uesaka said that "Thexder himself has 48 animation patterns, and the 72 different enemies are also animated". He also built a balsa-wood model to check that the transformation animation worked[^ref-8]. The PC-8801 version advertised "15 frames per second" high-speed eight-directional scrolling (毎秒15枚の高速8方向スクロール)[^ref-11].
+Godai said development took "about two months", and Uesaka said that one of those months "was just spent brainstorming"[^ref-8]. Asked about his hours, Godai said: "when I'm into it, I'm fine working three days straight without sleep"[^ref-8]. Uesaka said that "Thexder himself has 48 animation patterns, and the 72 different enemies are also animated". He also built a balsa-wood model to check that the transformation animation worked[^ref-8]. In a 2022 Game Watch interview, excerpted on the same page, Uesaka said none of Game Arts' founding members could draw, so he did all of Thexder's design "from the concept sketches to the pixel art". He had never drawn mecha before, so he bought and built many plastic model kits, taking notes and using them as reference[^ref-8]. The PC-8801 version advertised "15 frames per second" high-speed eight-directional scrolling (毎秒15枚の高速8方向スクロール)[^ref-11].
 
 Hibiki Godai (the pen name of programmer Kohei Ikeda) composed the opening theme. The ending and game-over music is Beethoven's "Moonlight Sonata"[^ref-11], although MobyGames trivia instead says the title theme was "Beethoven's Moonlight Sonata"[^ref-1]. Both "THEXDER" and "Moonlight Sonata" appear on Game Arts' 1985 cassette *MICOM GAME MUSIC VOL.1*, which credits Godai as composer and arranger[^ref-26]. One player later wrote: "I still hear Moonlight Sonata in my head to this day from all the times I died playing this game"[^ref-27].
 
@@ -123,6 +123,8 @@ An Atari ST version is not listed by MobyGames or StrategyWiki[^ref-1][^ref-9].
 
 ## Legacy
 
+In the same 2022 interview, Uesaka said there was once talk of making "Thexder 3", but the team thought it would end up too similar to *Assault Suits Leynos* on the Mega Drive, so they took those ideas and made *Alisia Dragoon* instead[^ref-8].
+
 Thexder was followed by *Fire Hawk: Thexder The Second Contact* (1989)[^ref-32], *Thexder 95* (1995)[^ref-33] and the remake *Thexder Neo*, released for PSP in 2009 and PlayStation 3 in 2010[^ref-34]. Square licensed the game for its Famicom conversion[^ref-38][^ref-36], and Sierra On-Line handled the North American releases on several home computers[^ref-1]. In 1990 Sierra announced a long-term alliance with Game Arts, under which it would convert and distribute all Game Arts products in the U.S. and Europe[^ref-39].
 
 D4 Enterprise re-released the PC-8801mkIISR version on Nintendo Switch through its EGG Console line in October 2023[^ref-37][^ref-4].
@@ -146,12 +148,12 @@ D4 Enterprise re-released the PC-8801mkIISR version on Nintendo Switch through i
 [^ref-3]: [GIGAZINE – Square Enix revives "THEXDER" (archived 2012)](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) ([live copy](https://gigazine.net/gsc_news/en/20090824_thexder/)) – one of the first robot action games from Game Arts
 [^ref-4]: [Nintendo eShop – EGGCONSOLE THEXDER PC-8801mkIISR](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/) – publisher description: 16 stages plus 16 back stages, robot and fighter forms; Switch release 26 October 2023
 [^ref-6]: [Extra Lives – It came from Japan: Thexder](https://extralives.wordpress.com/2015/08/11/it-came-from-japan-thexder/) – Ken Williams discovery story, citing Sierra's Tenth Anniversary catalog
-[^ref-8]: [Shmuplations – Thexder 1985 Developer Interview](https://shmuplations.com/thexder/) – translation of a 1985 BEEP magazine interview with Hibiki Godai and Satoshi Uesaka
+[^ref-8]: [Shmuplations – Thexder 1985 Developer Interview](https://shmuplations.com/thexder/) – translation of a 1985 BEEP magazine interview with Hibiki Godai and Satoshi Uesaka, with a 2022 Game Watch excerpt from Uesaka (page published November 29, 2022)
 [^ref-9]: [StrategyWiki – Thexder](https://strategywiki.org/wiki/Thexder) – systems and publishers
 [^ref-11]: [Gyusyabu – テグザー for PC-8801mkIISR (archived)](https://web.archive.org/web/20251212235145/http://gyusyabu.ddo.jp/MP3/1985/THEX1.html) – original Japanese promotional copy, April 1985 release, composer credit
 [^ref-12]: [Generation MSX – Thexder](https://www.generation-msx.nl/software/compile-game-arts/thexder/799/) – pronunciation note from the manual
 [^ref-16]: [StrategyWiki – Thexder/Gameplay](https://strategywiki.org/wiki/Thexder/Gameplay) – robot and jet controls, particle barrier cost
-[^ref-17]: [GameFAQs – Thexder (NES) FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – NES maze size, level-99 ending via save-state editing
+[^ref-17]: [GameFAQs – Thexder (NES) FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – NES maze size, shield cost (30 energy), level-99 ending via save-state editing
 [^ref-18]: [Amiga Magazine Rack – Thexder review list](https://amr.abime.net/review_17838) – ST Amiga Format review page with list of Amiga reviews and scores
 [^ref-19]: [Amiga Magazine Rack – The Games Machine 7](https://amr.abime.net/review_22769) – The Games Machine review, 74%
 [^ref-20]: [Compute! #94, March 1988, p. 21 – Thexder (James V. Trunzo)](https://www.atarimagazines.com/compute/issue94/P21_1_REVIEWS_THEXDER.php) – "first true arcade game for the Apple IIGS", "excellent play value for your dollar", Sierra's MCGA claim
