@@ -10,7 +10,7 @@ series: SierraVision
 engine: Machine Language
 protagonist: Spider
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Apple Cider Spider is a 1983 action platformer by Ivan Strand, published
   by Sierra On-Line for the Apple II, in which a spider climbs through an apple cider
   factory; a Commodore 64 port followed.
@@ -18,13 +18,13 @@ tags: [1980s, sierra, sierravision]
 ---
 # Apple Cider Spider
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Apple Cider Spider is a 1983 action platformer developed by Ivan Strand and published by [[Sierra On-Line]] for the Apple II computer, requiring a minimum of 48K of RAM[^ref-1]. The game casts players as a spider navigating through the hazardous machinery of an apple cider factory[^ref-2][^ref-20]. Before Sierra On-Line became famous for the King's Quest series and its landmark adventure games, the company produced several excellent arcade-style titles, with Apple Cider Spider standing as one of their more original offerings[^ref-3].
+Apple Cider Spider is a 1983 action platformer developed by Ivan Strand and published by [[Sierra On-Line]] for the Apple II computer, requiring a minimum of 48K of RAM[^ref-1]. The game casts players as a spider navigating through the hazardous machinery of an apple cider factory[^ref-2][^ref-20]. One MobyGames player reviewer wrote that, before King's Quest, Sierra On-Line "created some excellent arcade games," most of them clones of arcade hits, and counted Apple Cider Spider among the few original ones[^ref-3].
 
-A Commodore 64 port followed[^ref-2]; sources disagree on its date (1984 per Lemon64 and C64-Wiki, September 1983 per GameFAQs and MobyGames), and Lemon64 credits R.B. Stuart with its coding and music[^ref-4][^ref-12][^ref-14]. Contemporary reviewers praised the title for its inventive concept and well-animated graphics, though some noted it was better suited for younger players due to predictable enemy patterns[^ref-5]. One Glitchwave user review called it, of all the home-computer Donkey Kong clones, "by far the most creative and forward-thinking"[^ref-6].
+A Commodore 64 port followed[^ref-2]; sources disagree on its date (1984 per Lemon64 and C64-Wiki, September 1983 per GameFAQs and MobyGames, 1983 per PixelatedArcade), and Lemon64 credits R.B. Stuart with its coding and music[^ref-4][^ref-12][^ref-14][^ref-29]. Apple User's reviewer called it "well written and well animated," though he thought it better suited to children because the predators move in predictable patterns[^ref-5]. One Glitchwave user review called it, of all the home-computer Donkey Kong clones, "by far the most creative and forward-thinking"[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -32,7 +32,7 @@ A Commodore 64 port followed[^ref-2]; sources disagree on its date (1984 per Lem
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** Machine Language[^ref-7]
 > **Platforms:** Apple II, Commodore 64[^ref-2][^ref-20]
-> **Release Year:** 1983
+> **Release Year:** 1983[^ref-23][^ref-24]
 > **Series:** SierraVision
 > **Protagonist:** Spider
 > **Sierra Lineage:** Core Sierra
@@ -43,7 +43,7 @@ Apple Cider Spider places the player in the role of a spider in an apple cider f
 
 The game's structure follows the apple cider production cycle in reverse order[^ref-2]. The spider begins at the bottling and sealing area, where finished cider is being prepared for distribution. As the spider climbs higher, it passes the juice-extraction machinery and then the area where apples are split and crushed, finally reaching the delivery zone where fresh whole apples are first brought into the factory[^ref-2][^ref-24]. This clever design means that while the spider struggles upward, apples are carried downward past it on conveyor belts[^ref-2].
 
-Throughout the journey, the spider must avoid various hazards including the apples themselves rolling down conveyors, mechanical squeezing mechanisms, and living creatures that prey on spiders[^ref-9]. Frogs, birds, and wasps patrol the factory, each presenting unique threats to the arachnid protagonist[^ref-5]. Upon successfully completing the three screens, the spider reaches the attic, and the cycle begins again at increased difficulty[^ref-2][^ref-10].
+Throughout the journey, the spider must avoid various hazards including the apples themselves rolling down conveyors, mechanical squeezing mechanisms, and living creatures that prey on spiders[^ref-9]. Frogs, birds, and wasps patrol the factory, each presenting unique threats to the arachnid protagonist[^ref-5]; Sierra's November 1983 advertisement likewise lists "hungry frogs, birds and wasps" among hazards that increase with each level[^ref-24]. Upon successfully completing the three screens, the spider reaches the attic, and the cycle begins again at increased difficulty[^ref-2][^ref-10].
 
 ## Gameplay
 
@@ -63,7 +63,7 @@ The game consists of three non-scrolling screens, each representing a different 
 
 Due to the placement of platforms, ropes, and obstacles, each screen has one safe path through that players must discover[^ref-10]. Sometimes the route is clear, but trial and error is often necessary to determine the correct sequence of movements[^ref-10]. After completing all three screens, the game repeats at a higher difficulty level[^ref-10].
 
-The game features seven difficulty levels, numbered 0 through 6[^ref-12]. Level 0 is designated as the "Teddy Bear" level, designed specifically for young children or beginners[^ref-5]. Players can select their starting difficulty and even change levels during gameplay[^ref-5]. Difficulty is a function of speed and the number of predators; a player who starts on level 0 stays on level 0 throughout, while on any other level reaching the web increments the level[^ref-5].
+The game features seven difficulty levels, numbered 0 through 6[^ref-12]. Level 0 is designated as the "Teddy Bear" level, designed specifically for young children or beginners[^ref-5]; the same advertisement says "a teddy-bear mode lets little ones in on the action"[^ref-24]. Players can select their starting difficulty and even change levels during gameplay[^ref-5]. Difficulty is a function of speed and the number of predators; a player who starts on level 0 stays on level 0 throughout, while on any other level reaching the web increments the level[^ref-5].
 
 ### Puzzles and Mechanics
 
@@ -77,7 +77,7 @@ A scoring system rewards players for progress and skill, with a Hall of Fame tra
 
 ### Contemporary Reviews
 
-Softalk reviewed the Apple II version in its September 1983 issue, calling the "beginning titles and end sequences" a new horizon "of Cute in computer gaming" and the whole "a nonviolent ... conscientiously charming, well-programmed little game," but one "designed in such a way as to limit its potential for repeat play as much as possible," since each of its three screens has a single preset path[^ref-23]. Its buyer's guide summed it up as a "Good but limited hopping and dodging game. Three preset levels" at $33.33 in the October and November 1983 issues[^ref-26][^ref-24], and the December 1983 issue's "Stocking Stuffers" gift guide repeated the game with Sierra's own blurb[^ref-27].
+Softalk reviewed the Apple II version in its September 1983 issue, calling the "beginning titles and end sequences" a new horizon "of Cute in computer gaming" and the whole "a nonviolent ... conscientiously charming, well-programmed little game," but one "designed in such a way as to limit its potential for repeat play as much as possible," since each of its three screens has a single preset path[^ref-23]. Its buyer's guide summed it up as a "Good but limited hopping and dodging game. Three preset levels" at $33.33 in the October and November 1983 issues[^ref-26][^ref-24]. The December 1983 buyer's guide still showed $33.33, while that issue's "Stocking Stuffers" gift guide repeated the game with Sierra's own blurb[^ref-27]. The game also appears on Softalk's January 1984 ballot list of programs eligible for its Most Popular Program of 1983 vote[^ref-28].
 
 Apple User magazine reviewed Apple Cider Spider in their January 1984 issue, with Cliff McKnight awarding the game 65%[^ref-5]. His review framed the story as a spider kept out "a little too late" by night-time adventures who must reach its web at the top of the cider factory, dodging apples, slicers, crushers, bottlers and cappers, while frogs, birds and wasps also prey on it[^ref-5]. McKnight praised the title, noting "any new game from Sierra On-Line is worth investigating and Apple Cider Spider is well written and well animated"[^ref-5]. However, he characterized it as "a game for children really, easily mastered because the predators move in predictable patterns"[^ref-5]. He elaborated: "I think it is most a game for children, because they didn't seem to tire of it at all. I enjoyed it until I had mastered it, and if it had more screens or levels and some randomness, I'd be playing it still"[^ref-5].
 
@@ -94,7 +94,7 @@ A Glitchwave user review offered a different view, though Softalk's review contr
 - **C64-Wiki:** 6.40/10 (15 votes)[^ref-12]
 - **Lemon64:** 6.60/10 (24 votes, as recorded by C64-Wiki in July 2013)[^ref-12]
 - **Ready64:** 8.00/10 (2 votes)[^ref-12]
-- **Glitchwave:** 2.83/5.0[^ref-6]
+- **Glitchwave:** 2.83/5.0 (2 ratings)[^ref-6]
 - **My Abandonware:** 5/5 (4 votes)[^ref-13]
 - **GameFAQs:** Outstanding (12 ratings)[^ref-14]
 
@@ -102,7 +102,7 @@ A Glitchwave user review offered a different view, though Softalk's review contr
 
 ### Origins
 
-Apple Cider Spider was created by Ivan Strand and published by Sierra On-Line during the company's early period of arcade-style game production[^ref-1]. Before Sierra became synonymous with adventure games through the King's Quest series, they produced numerous action titles, many of which were clones of popular arcade games[^ref-3]. Apple Cider Spider stood out as one of their more original concepts, featuring a unique premise that one reviewer described as "an almost minteresque idea"[^ref-12].
+Apple Cider Spider was created by Ivan Strand and published by Sierra On-Line during the company's early period of arcade-style game production[^ref-1]. One MobyGames reviewer noted that most of Sierra's early arcade games were clones of popular arcade titles, with a few originals such as this one[^ref-3]. A C64-Wiki reviewer described its premise as "an almost minteresque idea"[^ref-12].
 
 The choice of a spider as protagonist was noted as unusual for the time. One reviewer remarked: "Poor, but very funny! Never seen a game with a spider as main character!"[^ref-4]. One C64-Wiki reviewer singled out "the nice rhyme in the title"[^ref-12], and a My Abandonware user recalled laughing at the name[^ref-13].
 
@@ -119,7 +119,7 @@ The game was released under Sierra's SierraVision label, which was used for thei
 
 ### Technical Achievements
 
-The original Apple II version was written in machine language[^ref-7] and was listed at $33.33 in Softalk's September, October and November 1983 issues[^ref-23][^ref-26][^ref-24]. Softalk's December 1983 gift guide listed it at $34.95, describing it as a game in which, as "a little spider, you can have lots of fun on your way through a cider factory" but "rolling apples, moving blades, conveyor belts, and apple mashers can smash you like a bug"[^ref-27]. Optional Mockingboard sound support was part of the Apple II release[^ref-5][^ref-23]. Sierra's November 1983 Softalk advertisement carried an "ATARI • COM 64 • COLEC[O]" format line[^ref-24], but no Atari 8-bit or ColecoVision release is documented: Wikipedia, C64-Wiki and Wikidata list only the Apple II and Commodore 64 versions[^ref-2][^ref-12][^ref-20], so those formats remain unconfirmed.
+The original Apple II version was written in machine language[^ref-7] and was listed at $33.33 in Softalk's September, October, November and December 1983 issues[^ref-23][^ref-26][^ref-24][^ref-27]. Softalk's December 1983 gift guide listed it at $34.95, describing it as a game in which, as "a little spider, you can have lots of fun on your way through a cider factory" but "rolling apples, moving blades, conveyor belts, and apple mashers can smash you like a bug"[^ref-27]. Optional Mockingboard sound support was part of the Apple II release[^ref-5][^ref-23]. Sierra's November 1983 Softalk advertisement carried an "ATARI • COM 64 • COLEC[O]" format line[^ref-24], but no Atari 8-bit or ColecoVision release is documented: Wikipedia, C64-Wiki and Wikidata list only the Apple II and Commodore 64 versions[^ref-2][^ref-12][^ref-20], so those formats remain unconfirmed.
 
 ### Technical Specifications
 
@@ -141,7 +141,7 @@ The original Apple II version was written in machine language[^ref-7] and was li
 | Date | Platform | Notes |
 |------|----------|-------|
 | 1983 (on sale by autumn; reviewed in Softalk, September 1983) | Apple II | Written by Ivan Strand[^ref-1]; reviewed in Softalk's September 1983 issue[^ref-23] and listed in its October 1983 buyer's guide[^ref-26] |
-| 1983 or 1984 (sources disagree) | Commodore 64 | Port credited to R.B. Stuart by Lemon64[^ref-4][^ref-12][^ref-14][^ref-3] |
+| 1983 or 1984 (sources disagree) | Commodore 64 | Port credited to R.B. Stuart by Lemon64[^ref-4][^ref-12][^ref-14][^ref-3]; PixelatedArcade lists 1983[^ref-29] |
 
 **Preservation Notes:**
 A cracked Apple II version by 4am and san inc was archived on the Internet Archive in January 2017[^ref-25]. In 2018 the "woz-a-day" collection preserved an uncracked disk image (.woz, with an .a2r flux capture)[^ref-1].
@@ -164,7 +164,7 @@ Some users noted the controls as "slightly fiddly" and the gameplay "perhaps som
 
 ### Sales and Commercial Impact
 
-Apple Cider Spider was one of numerous arcade-style games Sierra On-Line produced in the early 1980s before shifting focus to their more famous adventure game line[^ref-3]. The game has a GOG Dreamlist entry, where users can vote for a re-release; it is not sold on GOG[^ref-17].
+Apple Cider Spider was one of numerous arcade-style games Sierra On-Line produced in the early 1980s before shifting focus to their more famous adventure game line, as one MobyGames reviewer put it[^ref-3]. The game has a GOG Dreamlist entry, where users can vote for a re-release; it is not sold on GOG[^ref-17].
 
 The game has been preserved through various abandonware archives and emulation projects. It is playable through Virtual Apple for Apple II emulation[^ref-18] and is included in Commodore 64 game collections[^ref-15]. GameFAQs users rated the game's length at approximately 2 hours for full completion and its difficulty as "Just Right"[^ref-14].
 
@@ -239,7 +239,9 @@ Not currently sold by any digital store. A [GOG Dreamlist entry](https://www.gog
 [^ref-19]: [Internet Archive – C64 Version](https://archive.org/details/Apple_Cider_Spider_1984_Sierra_Online) – C64 technical specs, file format
 [^ref-20]: [Wikidata – Apple Cider Spider](https://www.wikidata.org/wiki/Q4781143) – country of origin, genre classification
 [^ref-23]: [Softalk – September 1983](https://archive.org/details/softalkv4n01sep1983) – review of Apple Cider Spider by Ivan Strand ("there is only one way to go", $33.33); Mockingboard ad listing the game
-[^ref-24]: [Softalk – November 1983](https://archive.org/details/softalkv4n03nov1983) – buyer's guide entry ("Three preset levels ... $33.33. 9/83"; the 9/83 tag marks the Softalk issue that reviewed the game, not a release date); Sierra ad (floor-by-floor hazards: "slice smasher on the first floor", "the slicer on the second floor", "falling fruit on the third floor") with "ATARI • COM 64 • COLEC" format line
+[^ref-24]: [Softalk – November 1983](https://archive.org/details/softalkv4n03nov1983) – buyer's guide entry ("Three preset levels ... $33.33. 9/83"; the 9/83 tag marks the Softalk issue that reviewed the game, not a release date); Sierra ad (floor-by-floor hazards: "slice smasher on the first floor", "the slicer on the second floor", "falling fruit on the third floor") with "ATARI • COM 64 • COLEC" format line; the ad also cites "hungry frogs, birds and wasps" and "a teddy-bear mode"
 [^ref-26]: [Softalk – October 1983](https://archive.org/details/softalkv4n02oct1983) – buyer's guide entry ("Good but limited hopping and dodging game. Three preset levels", $33.33); game also appears in a Sierra title list
-[^ref-27]: [Softalk – December 1983](https://archive.org/details/softalkv4n04dec1983) – "Stocking Stuffers" holiday gift guide: Apple Cider Spider at $34.95 with Sierra's blurb
+[^ref-27]: [Softalk – December 1983](https://archive.org/details/softalkv4n04dec1983) – "Stocking Stuffers" holiday gift guide: Apple Cider Spider at $34.95 with Sierra's blurb; the same issue's buyer's guide still lists it at $33.33
 [^ref-25]: [Internet Archive – Apple Cider Spider (4am and san inc crack)](https://archive.org/details/AppleCiderSpider4amCrack) – cracked Apple II image, archived 2017-01-26
+[^ref-28]: [Softalk – January 1984](https://archive.org/details/softalkv4n05jan1984) – ballot list of programs eligible for the Most Popular Program of 1983 vote, which includes Apple Cider Spider
+[^ref-29]: [PixelatedArcade – Apple Cider Spider releases](https://www.pixelatedarcade.com/games/apple-cider-spider/releases) – lists Apple II and Commodore 64 releases, both dated 1983, United States, Sierra On-Line
