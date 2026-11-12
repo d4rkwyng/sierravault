@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI01
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Released in 1990, **Roberta Williams'' King''s Quest I: Quest for
   the Crown** is Sierra On-Line''s official SCI engine remake of its landmark 1984
   adventure game.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -38,9 +38,9 @@ Released in 1990, **Roberta Williams' King's Quest I: Quest for the Crown** is S
 
 ## Story Summary
 
-The remake retains the original's fairy tale premise: Sir Graham, a brave knight in the service of the aging King Edward the Benevolent, must retrieve three legendary treasures stolen from the Kingdom of Daventry.[^ref-17] The Magic Mirror, which reveals the future; the Magic Shield, which protects its bearer from all harm; and the Magic Chest, which is forever filled with gold—all must be recovered to restore the kingdom and secure Graham's right to the throne.[^ref-6][^ref-17]
+The remake retains the original's fairy tale premise: Sir Graham, a brave knight in the service of the aging King Edward the Benevolent, must retrieve three legendary treasures stolen from the Kingdom of Daventry.[^ref-17] The Magic Mirror, which reveals the future; the Magic Shield, which protects its bearer from all harm; and the Magic Chest, which is forever filled with gold—all must be recovered to restore the kingdom and secure Graham's right to the throne.[^ref-6][^ref-17] Wikipedia notes that the backstory expanded in the King's Quest I manual was brought into the game in this 1990 remake.[^ref-17]
 
-However, the remake significantly expands the storytelling. The introduction and conclusion sequences were "heavily altered and expanded" with fully-animated cutscenes that make the narrative feel more immersive.[^ref-4][^ref-7] Character conversations received additional dialogue, and many character roles were expanded to give them more personality.[^ref-4] These enhancements transformed what Josh Mandel described as an originally "somewhat terse and brief" experience into something "more fairytale-ish in its prose."[^ref-8]
+However, the remake significantly expands the storytelling. The introduction and conclusion sequences were "heavily altered and expanded" with fully-animated cutscenes that make the narrative feel more immersive.[^ref-4][^ref-7] Character conversations received additional dialogue, and many character roles were expanded to give them more personality.[^ref-4] These enhancements transformed what [[Josh Mandel]] described as an originally "somewhat terse and brief" experience into something "more fairytale-ish in its prose."[^ref-8]
 
 ## Gameplay
 
@@ -107,13 +107,13 @@ MobyGames players rate it 3.5 out of 5 from 48 ratings (as of September 2026).[^
 
 ### Origins
 
-The SCI remake was Josh Mandel's "very first project" upon joining Sierra On-Line in 1990.[^ref-8] Sierra had announced ambitious plans to convert their "entire AGI catalog to SCI" as early as Autumn 1989 in SierraMagazine.[^ref-4][^ref-15] However, the King's Quest I remake had "lingered for a LONG time" before Mandel's arrival.[^ref-15]
+The SCI remake was Josh Mandel's "very first project" upon joining Sierra On-Line in 1990.[^ref-8] Sierra had announced ambitious plans to convert their "entire AGI catalog to SCI" as early as Autumn 1989 in SierraGamesMagazine.[^ref-4][^ref-15] However, the King's Quest I remake had "lingered for a LONG time" before Mandel's arrival.[^ref-15]
 
 Ellen Guon Beeman initially started work on the project, reportedly polishing the text before moving to Origin Systems.[^ref-8] Josh Mandel then took over, with the project serving to "prove his abilities" at Sierra.[^ref-3] His role expanded beyond producing: "While I was officially titled 'Producer,' Roberta let me get more hands-on: I rewrote most of the actual game text, added a lot of new responses, and slightly altered some of the puzzles."[^ref-8]
 
 The project coincided with Roberta Williams being "heavily involved with King's Quest V, which was in progress at the same time."[^ref-8]
 
-The credits list Ken Williams as executive producer, William D. Skirvin as art designer, Jerry Shaw as lead programmer and Ken Allen as composer, with Ellen Guon Beeman under special thanks.[^ref-8][^ref-4]
+The credits list [[Ken Williams]] as executive producer, William D. Skirvin as art designer, Jerry Shaw as lead programmer and [[Ken Allen]] as composer and sound effects creator. Jeff Crowe and Cheryl Loyd are credited as animators; Cindy Walker, Jeff Crowe and Jennifer Terry as background artists; and Gary Kamigawachi, Randy MacNeill, Raoul Said, Chad Bye, Oliver Brelsford and Mark Wilden as programmers. Ellen Guon Beeman appears under special thanks.[^ref-8][^ref-4][^ref-34]
 
 ### Production
 
@@ -140,6 +140,10 @@ Development documentation reveals several cut elements. Material for taking the 
 
 Mandel also recounted a memorable cut scene involving King Edward's death: "We had re-orchestrated the final scene in which King Edward dies and King Graham assumes the throne. (The original was a little crude in this area: King Edward would fall over and King Graham would step on him as he walked up to the throne.)" Mandel wrote a line where Edward, dying, would say "I think the Magic Mirror would look best over on that wall" before pointing and expiring. Roberta Williams "gently asked if we could change that scene, since she didn't think King Edward would be giving interior decorating tips with his dying breath."[^ref-8]
 
+### Easter Eggs and Trivia
+
+According to the King's Quest Omnipedia, the ending reuses the throne room from King's Quest IV, with the Magic Mirror sitting by the throne instead of on the wall where it hung in that game.[^ref-8] The Omnipedia also records that early versions of the remake had entirely different screens for the exterior of Castle Daventry, with no guards outside the castle gate and a different design for the walls and moat bridges.[^ref-8] Its King's Quest I (MS-DOS) page quotes a teaser from SierraGamesMagazine, Autumn 1989: "Coming Soon - King's Quest I and a half... Sierra has started development (or is at least research development) on conversions of its entire AGI catalog to SCI."[^ref-4]
+
 ### Technical Achievements
 
 The SCI engine represented a significant advancement over AGI. While AGI supported only 160x200 resolution, SCI offered 320x200 with 16-color EGA graphics.[^ref-9] Perhaps more significantly, Adventure Classic Gaming notes that SCI was "the first interpreter to support sound cards," moving beyond the PC speaker-only audio of the AGI original.[^ref-9]
@@ -147,10 +151,6 @@ The SCI engine represented a significant advancement over AGI. While AGI support
 The game uses interpreter version S.old.010 with game version 1.000.051.[^ref-3] A demo using the same interpreter was also released.[^ref-3]
 
 A modern fan patch by NewRisingSun addresses "opening and closing credits sequence issues" present in the original release.[^ref-3][^ref-16]
-
-### Technical Issues
-
-Sierra Help lists poor or missing sound as a common problem when running the game under Windows 9x and XP. Its preferred fix is DOSBox, which also works with an MT-32 sound module; its other suggestions are VDMSound and the third-party FreeSCI interpreter.[^ref-16] Sierra Help also lists minor bugs in the opening and closing credits and offers a patch for them.[^ref-16]
 
 ### Version History
 
@@ -170,6 +170,10 @@ Sierra Help lists poor or missing sound as a common problem when running the gam
 - Europe (France, Germany, Italy, UK): 1993 Kixx XL re-releases for DOS and Amiga via U.S. Gold Ltd.
 
 The Amiga version was re-released on the budget labels Kixx and Kixx XL in 1993–1994, priced at £12.99–£14.99 in reviews.[^ref-11][^ref-22]
+
+### Technical Issues
+
+Sierra Help lists poor or missing sound as a common problem when running the game under Windows 9x and XP. Its preferred fix is DOSBox, which also works with an MT-32 sound module; its other suggestions are VDMSound and the third-party FreeSCI interpreter.[^ref-16] Sierra Help also lists minor bugs in the opening and closing credits and offers a patch for them.[^ref-16]
 
 ### Cost and Cancellation
 
@@ -192,6 +196,10 @@ The SCI remake directly inspired fan developers. In August 2001, Tierra Entertai
 The fan remake proved enormously successful: "During the first month of AGDI releasing our King's Quest I remake in August, 2001, over 5,000 copies were downloaded! In the first year, that number jumped to nearly half a million."[^ref-13] Tierra's version 3.0 followed on October 1, 2003, with translation pack support, bug fixes and optimized music and speech packs. The King's Quest Omnipedia records that the game was later completely remade as the Enhanced Edition (version 4.0) under the AGDI name, dated January 17, 2009.[^ref-18] On July 21, 2024, AGDI announced King's Quest I version 4.2 (Release Candidate 1) for Windows. It upgrades the game library from Allegro to SDL2, adds support for Windows 10 and 11, improves compatibility with widescreen monitors and modern video cards, and adds an OpenGL video driver. Save-games from earlier versions are not compatible. AGDI described the build as still in its beta phase, with the final version 4.2 to follow on the game's main website.[^ref-32]
 
 AGDI received a fan license from Activision (or earlier owners of the King's Quest IP) to release its remakes for free, later releasing King's Quest II: Romancing the Stones and King's Quest III Redux.[^ref-19]
+
+### Soundtrack
+
+Xeen Music released an archival soundtrack album of the game's Roland MT-32 music on July 25, 2020: 75 tracks composed by Ken Allen, recorded from an authentic MT-32 by Andrew Harrington.[^ref-33]
 
 ### Availability
 
@@ -260,6 +268,8 @@ The SCI remake was included in several Sierra compilations. The 1994, 1995, 1996
 [^ref-27]: [GameZebo – King's Quest I: Quest for the Crown review (Wayback, Nov 2013)](http://web.archive.org/web/20131113034647/http://www.gamezebo.com:80/games/kings-quest-i-quest-crown/review) – Erin Bell, Aug 6, 2009: Steam collection contains "an updated version from 1990"
 [^ref-28]: [King's Quest Omnipedia – King's Quest Collections](https://kingsquest.fandom.com/wiki/King%27s_Quest_Collections) – Collector's Edition (1994), Collector's Series (1995) and Collection Series (1997) contain "1 (AGI & SCI versions)"; Anthology (1996) lists "King's Quest 1 AGI, King's Quest 1 SCI"; the 2006 collection "lacks… the original AGI King's Quest"
 [^ref-29]: [MobyGames – Roberta Williams' King's Quest I (Wayback, Sep 26, 2026)](https://web.archive.org/web/20260926155936/https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – Moby Score 6.7; critics average 59% (based on 11 ratings); players 3.5 out of 5 (based on 48 ratings)
-[^ref-30]: [MobyGames – Sierra Adventure Starter Kit](https://www.mobygames.com/game/247214/sierra-adventure-starter-kit/) – read via the MobyGames API; DOS 1992; "contains the SCI remakes" of King's Quest I, Space Quest I and Leisure Suit Larry 1
-[^ref-31]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – read via the MobyGames API; DOS 1994; contains "King's Quest (with the VGA version)", II–VI and a King's Quest VII preview
+[^ref-30]: [MobyGames – Sierra Adventure Starter Kit](https://www.mobygames.com/game/247214/sierra-adventure-starter-kit/) – DOS 1992; "contains the SCI remakes" of King's Quest I, Space Quest I and Leisure Suit Larry 1
+[^ref-31]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – DOS 1994; contains "King's Quest (with the VGA version)", II–VI and a King's Quest VII preview
 [^ref-32]: [AGD Interactive forum – King's Quest I Remake v4.2 Release Candidate 1](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – Announcement post by "Anonymous Game Creator 2", Sun Jul 21, 2024: Allegro to SDL2, Windows 10/11 support, widescreen compatibility, OpenGL driver, incompatible save-games
+[^ref-33]: [Xeen Music – King's Quest I: Quest for the Crown Soundtrack (1990, MT-32)](https://xeenmusic.bandcamp.com/album/kings-quest-i-quest-for-the-crown-soundtrack-1990-mt-32) – Released July 25, 2020; 75 tracks; music composed by Ken Allen; authentic Roland MT-32 recordings by Andrew Harrington
+[^ref-34]: [MobyGames – Roberta Williams' King's Quest I credits (DOS)](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/credits/) – Executive producer, designer, producer, art designer, lead programmer, composer and sound effects, animators, background artists, programmers, special thanks
