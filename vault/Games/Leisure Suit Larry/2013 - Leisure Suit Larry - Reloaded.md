@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded is a
   2013 HD remake of Al Lowe''s 1987 Sierra adventure game, crowdfunded on Kickstarter,
   developed by N-Fusion Interactive and published by Replay Games.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -80,7 +80,7 @@ The 2013 remake received "mixed or average" reviews, with a Metacritic score of 
 
 ### Modern Assessment
 
-User reception among GOG customers was more positive, averaging 4/5 stars[^ref-37], and Steam's user reviews were rated "Very Positive"[^ref-87]. On the GameFAQs boards, some Kickstarter backers were enthusiastic, with one stating "I contributed $125 to make this game happen, 6 times the price of the game itself, and I'm so happy I did it"[^ref-22]. Another backer claimed "I have not heard of a SINGLE kickstarter backer who was disappointed in Al Lowe's work here"[^ref-22].
+User reception among GOG customers was more positive, averaging 4/5 stars[^ref-37], and Steam's user reviews were rated "Very Positive"[^ref-87]. On the GameFAQs boards, some Kickstarter backers were enthusiastic, with one stating "I contributed $125 to make this game happen, 6 times the price of the game itself, and I'm so happy I did it"[^ref-22]. Another poster wrote "I have not heard of a SINGLE kickstarter backer who was disappointed in Al Lowe's work here"[^ref-22].
 
 JayIsGames reviewer Tricky wrote that "these guys get Larry... the obliviousness, the dorkiness, and all those other attributes that ensure this loser stays just that much more loveable than pathetic"[^ref-41]. GamesRadar was less taken, judging that its "gameplay doesn't translate nearly as well to the modern gaming era"[^ref-33].
 
@@ -214,7 +214,7 @@ The game was delisted from Steam on November 24, 2017[^ref-15], and the Steam st
 [^ref-79]: [Archived Replay Games Product Page](https://web.archive.org/web/20140724142903/https://www.replaygamesinc.com/store/index/products/item/leisure-suit-larry-reloaded) – Official product details
 [^ref-83]: [GameSpot – Leisure Suit Larry Reloaded out June 27](https://www.gamespot.com/articles/leisure-suit-larry-reloaded-out-june-27/1100-6410796/) – Remake headed by Al Lowe with co-designer Josh Mandel; PC and Mac release on June 27, 2013 and $19.99 price
 [^ref-84]: [Steam Community – 100% walkthrough (maximum points, all achievements)](https://steamcommunity.com/sharedfiles/filedetails/?id=233576790) – Age-check quiz questions and answers, including Y2K
-[^ref-85]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61088/leisure-suit-larry-reloaded/) – read via the MobyGames API (October 26, 2026): Android first released 2013-08-13; Windows Phone first released 2015-01-20
+[^ref-85]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/61088/leisure-suit-larry-reloaded/) – Android first released 2013-08-13; Windows Phone first released 2015-01-20
 [^ref-86]: [VentureBeat – Leisure Suit Larry Publisher Trades Up to a New Developer (Exclusive) (Dean Takahashi, July 15, 2012)](https://web.archive.org/web/20210518232952/https://venturebeat.com/2012/07/15/leisure-suit-larry-publisher-trades-up-to-a-new-developer-exclusive/) – Adventure Mob (Tel Aviv) replaced by N-Fusion Interactive (Manalapan, N.J.)
 [^ref-87]: [Steam – Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded](https://store.steampowered.com/app/231910/) – Store page on November 11, 2026: notice that the game is no longer available on the Steam store; release date Jun 27, 2013; "Very Positive" user reviews (82% of 506 positive)
 [^ref-88]: [GameSpot – Leisure Suit Larry Reloaded coming to retail (Eddie Makuch, October 9, 2013)](https://www.gamespot.com/articles/leisure-suit-larry-reloaded-coming-to-retail/1100-6415487/) – Boxed version at North American retail from October 29, 2013
