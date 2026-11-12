@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: 'Not documented (sound engine by Human Machine Interfaces)'
 protagonist: Team Manager (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Front Page Sports: Baseball ''94 is a 1994 DOS baseball simulation developed
   by Dynamix and published by Sierra On-Line, the first baseball game in the Front Page
   Sports line, combining career-league management with physics-based on-field play.'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Baseball '94
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ The game followed Dynamix's Front Page Sports football games. Computer Gaming Wo
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-19]
-> **Designer:** L. Allen McPheeters (lead); [[Scott Youngblood]], [[Doug Johnson]] (additional design)[^ref-20]
+> **Designer:** [[Allen Mcpheeters|L. Allen McPheeters]] (lead); [[Scott Youngblood]], [[Doug Johnson]] (additional design)[^ref-20][^ref-26]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-19][^ref-22]
 > **Engine:** Not documented; sound engine by Human Machine Interfaces (HMI)[^ref-19][^ref-22]
 > **Platforms:** DOS[^ref-19]
@@ -47,7 +47,7 @@ As a sports simulation, Front Page Sports: Baseball '94 has no scripted story. T
 
 Play is divided into two modes, action and manage-only, with three difficulty levels for each mode[^ref-26]. In Computer Game Review's description, pitching, batting, fielding and running can each be set to computer control or to Basic, Standard or Advanced. On Basic you pick only the pitch type; Standard adds location; Advanced adds speed[^ref-32]. The game supports keyboard, mouse, analog joystick and the "Batter Up" bat controller[^ref-21].
 
-CGW praised the "gorgeous, high resolution pitcher-batter interface" and the rotoscoped animation, but noted an awkward control choice: the same button that throws the ball also makes fielders dive[^ref-26]. Old-games.com's later review found the drop-down menu interface hard to navigate, but said it allowed "a lot of options"[^ref-18].
+CGW praised the "gorgeous, high resolution pitcher-batter interface" and the rotoscoped animation, but noted an awkward control choice: the same button that throws the ball also makes fielders dive[^ref-26]. Interactive Entertainment's October 1994 CD-ROM issue previewed the game, saying you could play as "owner, manager/coach, player, or any combination of the three" and that "the CPU can control basically anything you don't want to"[^ref-37]. Old-games.com's later review found the drop-down menu interface hard to navigate, but said it allowed "a lot of options"[^ref-18].
 
 The Camera Angle Management System (CAMS) lets players replay action from many perspectives. CGW's reviewer said the feature alone increased his playing time "by 50%"[^ref-26]. Old-games.com describes it as letting you "position the camera anywhere in the ballpark from any angle"[^ref-18].
 
@@ -106,13 +106,13 @@ Not every critic was won over. A May 1995 CGW roundup of baseball games called t
 
 ### Modern Assessment
 
-Old-games.com calls it "one of the very best baseball simulations ever made" for the armchair manager. It also says the game "never achieved the same level of accolades and commercial success as its football counterpart", suggesting its graphics, interface and action mode as reasons[^ref-18]. MyAbandonware's users rate it 4.56/5 from 9 votes[^ref-34]. MobyGames' four player ratings average 2.8 out of 5[^ref-19].
+Old-games.com calls it "one of the very best baseball simulations ever made" for the armchair manager. It also says the game "never achieved the same level of accolades and commercial success as its football counterpart", suggesting its graphics, interface and action mode as reasons[^ref-18]. MyAbandonware's users rate it 4.56/5 from 9 votes[^ref-34]. MobyGames' four player ratings averaged 2.8 out of 5 in the August 2025 archived copy of its game page[^ref-19].
 
 ## Development
 
 ### Origins
 
-According to CGW, plans for a Front Page Sports baseball game were disclosed soon after the release of Front Page Sports Football[^ref-26]. MobyGames credits Patrick Cook, the game's executive producer, with the original concept[^ref-20]. Computer Game Review described the game as carrying over "the same attention to detail" as its football predecessor[^ref-32].
+According to CGW, plans for a Front Page Sports baseball game were disclosed soon after the release of Front Page Sports Football[^ref-26]. MobyGames credits [[Patrick Cook]], the game's executive producer, with the original concept[^ref-20]. COMPUTE!'s July 1994 preview, published before release, said the game was "due this summer from Dynamix" and listed career play, "more than 450 statistics per player", and situational ratings covering "how a batter performs versus lefty and righty pitchers, in clutch situations, and on a month-by-month basis"[^ref-36]. It also noted that weather is simulated, with rainouts possibly rescheduled as doubleheaders, and that the computer-controlled general managers "draft free agents, demote players to the minors, and rule on human-proposed trades" and "even propose trades themselves"[^ref-36]. Computer Game Review described the game as carrying over "the same attention to detail" as its football predecessor[^ref-32].
 
 ### Production
 
@@ -120,9 +120,9 @@ MobyGames lists 63 people in the credits (48 developers, 15 thanks)[^ref-19]. Ke
 
 | Role | Credit |
 |------|--------|
-| Lead Designer | L. Allen McPheeters |
+| Lead Designer | [[Allen Mcpheeters|L. Allen McPheeters]] |
 | Additional Design | Scott Youngblood, Doug Johnson |
-| Original Concept / Executive Producer | Patrick Cook |
+| Original Concept / Executive Producer | [[Patrick Cook]] |
 | Lead Simulation Programmer | David McClurg |
 | Lead Shell Programmer | Glen Wolfram |
 | Art Director | Ian Gilliland |
@@ -131,7 +131,7 @@ MobyGames lists 63 people in the credits (48 developers, 15 thanks)[^ref-19]. Ke
 | Sound Effects | Christopher Stevens |
 | Manual Writer | Randy Chase |
 
-Bill James is among those listed under special thanks[^ref-20]. The sound engine was by Human Machine Interfaces (HMI), and STATS, Inc. contributed to the release[^ref-19][^ref-22]. At launch CGW listed the price as $54.95, while Computer Game Review gave a retail price of $59.95[^ref-26][^ref-32].
+Bill James is among those listed under special thanks[^ref-20]. CGW's spec box named L. Allen McPheeters as designer and gave the copy protection as "Documentation Check"[^ref-26]. The sound engine was by Human Machine Interfaces (HMI), and STATS, Inc. contributed to the release[^ref-19][^ref-22]. At launch CGW listed the price as $54.95, while Computer Game Review gave a retail price of $59.95[^ref-26][^ref-32].
 
 ### Version History
 
@@ -185,7 +185,7 @@ CGW reported in May 1995 that a *Front Page Sports: Baseball '95* had been in th
 [^ref-23]: [MobyGames – Front Page Sports: Baseball '94 trivia](https://www.mobygames.com/game/4437/front-page-sports-baseball-94/trivia/) – Power Play Best Sports Game in 1994
 [^ref-24]: [MobyGames – Front Page Sports: Baseball '94 MobyRank (Wayback, 2018)](https://web.archive.org/web/20180709131143/http://www.mobygames.com/game/dos/front-page-sports-baseball-94/mobyrank) – per-publication critic scores and excerpts
 [^ref-25]: [Next Generation #4, April 1995 (Internet Archive)](https://archive.org/details/nextgen-issue-004) – Front Page Sports Baseball '94 review
-[^ref-26]: [Computer Gaming World #124, November 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_124) – George Jones, "Destined For Greatness" review, pp. 164–168
+[^ref-26]: [Computer Gaming World #124, November 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_124) – George Jones, "Destined For Greatness" review, pp. 164–168; spec box: designer L. Allen McPheeters, protection "Documentation Check"
 [^ref-27]: [Computer Gaming World #126, January 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_126) – "Playing Lately?" results for CGW #124
 [^ref-28]: [Computer Gaming World #127, February 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_127) – patch list: Baseball '94 V1.01
 [^ref-29]: [Computer Gaming World #129, April 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_129) – patch list: Baseball '94 V1.02
@@ -195,3 +195,5 @@ CGW reported in May 1995 that a *Front Page Sports: Baseball '95* had been in th
 [^ref-33]: [Computer Game Review, February 1995 (Internet Archive)](https://archive.org/details/computer-game-review-and-cd-rom-entertainment-february-1995) – Sports Game of the Year: 2nd place
 [^ref-34]: [MyAbandonware – Front Page Sports: Baseball '94](https://www.myabandonware.com/game/front-page-sports-baseball-94-2au) – DOS 1994 entry, 4.56/5 user rating
 [^ref-35]: [MobyGames – Front Page Sports: Baseball '94 – Legends & Stadiums](https://www.mobygames.com/game/168618/front-page-sports-baseball-94-legends-stadiums/) – add-on: 48 historic teams, 16 more ballparks
+[^ref-36]: [COMPUTE! #166, July 1994, p. 84 (Internet Archive)](https://archive.org/details/1994-07-compute-magazine/page/84) – Peter Olafson, "This diamond is a gem" (Game Insider): preview with 450+ statistics per player, situational ratings, weather, general-manager AI; text also at [AtariMagazines](https://www.atarimagazines.com/compute/issue166/84_This_diamond_is_a_ge.php)
+[^ref-37]: [Interactive Entertainment CD-ROM Magazine Episode 06, October 1994 (Internet Archive)](https://archive.org/details/IE_Interactive_Entertainment_CD_ROM_EPISODE06) – Front Page Sports: Baseball preview (article file dated 1994-09-30): owner/manager/player roles, CPU-controlled options
