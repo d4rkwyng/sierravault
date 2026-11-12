@@ -15,7 +15,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 ## 🔥 Q4 2026 (Oct– )
 
 > [!tip] Legends of Adventure — Animated AGI Vignettes, CNN Archive, Picture Lock by Year-End
-> **November 9, 2026** — The [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team's BackerKit update announced that Ernst Krogtoft (Retro365, owner of Copenhagen's Moose Studio) is producing a series of animated vignettes in the style of Sierra's AGI games, for moments with no surviving photos or video. The film has also licensed footage from CNN's archives, including interviews with Ken Williams from the early 1980s and coverage of CUC International's acquisition of Sierra in the mid-1990s. The team's goal is to complete **picture lock by the end of this year**; backer surveys and details of the first screening are to follow.
+> **November 9, 2026** — The [[Sierra Documentary - Legends of Adventure|Legends of Adventure]] team's BackerKit update announced that Ernst Krogtoft (Retro365, owner of Copenhagen's Moose Studio) is producing a series of animated vignettes in the style of Sierra's AGI games, for moments with no surviving photos or video. The film has also licensed footage from CNN's archives, including footage of Ken Williams from the early 1980s and coverage of CUC International's acquisition of Sierra in the mid-1990s. The team's goal is to complete **picture lock by the end of this year**; backer surveys and details of the first screening are to follow.
 >
 > [BackerKit update "Re-animating the History of Sierra On-Line!"](https://www.backerkit.com/c/projects/legends-of-adventure/legends-of-adventure/updates)
 

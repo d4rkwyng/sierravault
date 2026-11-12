@@ -5,16 +5,16 @@ production_company: "Decently Creative / CONTINUE, with MidBoss"
 director: "Dave Hodgson"
 editor: "Adam Schoales"
 producers: [Cade Peterson, Will Perkins, Dave Hodgson]
-status: "Post-production (~2-hour cut, July 2026)"
+status: "Post-production (~2-hour cut, July 2026; picture lock targeted by end of 2026, per November 2026 update)"
 announced: 2024
 expected_release: 2026
 subjects: [Ken Williams, Roberta Williams, Sierra On-Line, Adventure Games]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Sierra Documentary — Legends of Adventure
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -56,7 +56,7 @@ The film centers on Ken and Roberta Williams, "the unlikely team of designers an
 
 Archive materials gathered for the film include personal photographs from key Sierra figures, "contemporary news reports originally broadcast on CNN", and never-seen-in-public promotional footage and b-roll.[^ref-6]
 
-A November 2026 update says the producers have licensed footage from CNN's archives, including early-1980s footage of Ken Williams and mid-1990s coverage of CUC International's acquisition of Sierra.[^ref-25] The same update announces animated scenes for moments with no surviving photos or video, to be produced as "a series of animated vignettes" in the style of Sierra's AGI (Adventure Game Interpreter) by Ernst Krogtoft, known as Retro365, a vintage-game collector and YouTube historian who owns Moose Studio in Copenhagen.[^ref-25] The team states its goal is to complete picture lock, the milestone when the visual cut is finalized, by the end of 2026.[^ref-25]
+A November 2026 update says the producers have licensed footage from CNN's archives, including early-1980s footage of Ken Williams and mid-1990s coverage of CUC International's acquisition of Sierra.[^ref-25] The same update announces animated scenes for moments with no surviving photos or video, to be produced as "a series of animated vignettes" in the style of Sierra's AGI (Adventure Game Interpreter) by Ernst Krogtoft, known as Retro365, a vintage-game collector and YouTube historian who owns Moose Studio in Copenhagen.[^ref-25] The team states its goal is to complete picture lock, the milestone when the visual cut is finalized, by the end of 2026, and says backer surveys and details of the first screening, a perk for upper backer tiers, are coming soon.[^ref-25]
 
 ## Interviewees
 
