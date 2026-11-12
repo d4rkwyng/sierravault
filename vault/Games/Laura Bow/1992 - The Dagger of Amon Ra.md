@@ -36,8 +36,9 @@ The game showcases "gorgeous hand-painted, Art Deco-style backgrounds" and an "e
 > **Creative Consultant:** [[Roberta Williams]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI 1.1[^ref-7]
-> **Platforms:** MS-DOS, Windows 3.x, Windows[^ref-8]
-> **Release Year:** 1992
+> **Platforms:** DOS, Windows 3.x, Windows[^ref-8]
+> **Release Year:** 1992[^ref-8]
+> **Composer:** [[Chris Braymen|Christopher G. Braymen]][^ref-29]
 > **Series:** Laura Bow
 > **Protagonist:** Laura Bow
 > **Sierra Lineage:** Core Sierra
@@ -61,7 +62,7 @@ The game features four distinct endings depending on whether Laura gathers enoug
 
 *The Dagger of Amon Ra* utilizes Sierra's icon-based graphic interface, a significant departure from the text parser system used in *The Colonel's Bequest*[^ref-5]. This makes it more accessible than its predecessor and similar to other contemporary Sierra adventures[^ref-15]. The game adds an innovative "Ask" icon functionality that allows Laura to question characters about various topics, with a notebook system that automatically records important information[^ref-14].
 
-Players interact with the environment using standard Sierra icons including Walk, Look, Hand, Talk, and a magnifying glass for close examination[^ref-9]. The interface encourages thorough exploration, as many clues can only be discovered by examining objects carefully with the magnifying glass.
+Players interact with the environment using standard Sierra icons including Walk, Look, Hand, Talk, and a magnifying glass for close examination[^ref-9]. The interface encourages thorough exploration, as the magnifying glass can reveal details that are not visible to the naked eye[^ref-9].
 
 ### Structure and Progression
 
@@ -86,7 +87,7 @@ The original floppy version features copy protection requiring players to answer
 
 ### Contemporary Reviews
 
-*Computer Gaming World* praised the game as "much improved over *The Colonel's Bequest*" and described it as "a visual and aural treat" and "another quality adventure from the fertile minds at Sierra"[^ref-5]. Chuck Miller's review highlighted "the gorgeous hand-painted, Art Deco-style backgrounds to the evocative roaring 20s orchestrated soundtrack, a certain richness permeates the atmosphere of the game"[^ref-5]. He concluded that "armchair detectives and amateur sleuths alike will find *The Dagger of Amon Ra* an enjoyable adventure and a nostalgic excursion into 1920s America"[^ref-5].
+*Computer Gaming World* praised the game as "much improved over the original Laura Bow mystery, *The Colonel's Bequest*" and described it as "a visual and aural treat" and "another quality adventure from the fertile minds at Sierra"[^ref-5]. Chuck Miller's review highlighted "the gorgeous hand-painted, Art Deco-style backgrounds to the evocative roaring 20s orchestrated soundtrack, a certain richness permeates the atmosphere of the game"[^ref-5]. He concluded that "armchair detectives and amateur sleuths alike will find *The Dagger of Amon Ra* an enjoyable adventure and a nostalgic excursion into 1920s America"[^ref-5].
 
 *PC Games* called it "a captivating whodunit" with "near-perfect blending of sound effects, music, and graphics"[^ref-1]. *Dragon* magazine awarded it 4 out of 5 stars[^ref-1]. The game retailed for $69.95 at launch[^ref-5].
 
@@ -110,7 +111,7 @@ Hardcore Gaming 101 noted that "despite Roberta Williams' name on the box, she h
 
 The project originated from a proposal by writer [[Josh Mandel]], who recognized that Laura Bow needed to progress beyond the bayou setting of the first game[^ref-25]. "I knew that we could not have Laura still in the house on the bayou," Mandel explained. "She had to have progressed and become slightly older, so I suggested that, fresh out of journalism school, she become a cub reporter for a great metropolitan newspaper"[^ref-25].
 
-The Egyptian setting emerged organically from the team's brainstorming. "Something about ancient Egyptian lore seemed like a reasonably exotic and mysterious topic for the central mystery, around which all the murders would occur," Mandel recalled[^ref-25]. This choice capitalized on the ongoing public fascination with Egyptology sparked by Howard Carter's 1922 discovery of Tutankhamun's tomb.
+The Egyptian setting emerged organically from the team's brainstorming. "Something about ancient Egyptian lore seemed like a reasonably exotic and mysterious topic for the central mystery, around which all the murders would occur," Mandel recalled[^ref-25]. The story revolves around the 1920s Egyptology boom, spurred by Howard Carter's 1922 discovery of Tutankhamun's tomb[^ref-25].
 
 [[Roberta Williams]] took an "executive designer" role, simultaneously overseeing this project and *King's Quest VI*, turning over the nitty-gritty details to assistant designers[^ref-26].
 
@@ -120,27 +121,31 @@ The Egyptian setting emerged organically from the team's brainstorming. "Somethi
 
 PC Gamer's account says Mandel, who had been asked by Williams to design the game, felt Balfour was better suited to a murder mystery and ended up recommending Balfour to Williams for the design role[^ref-25]. In Mandel's recollection in the Campo Santo Quarterly, the then-head of Sierra's design and writing department had already swapped the assignments, giving Laura Bow to Balfour and the Larry spin-off to Mandel, without Williams's permission and was fired for it; Mandel, put in charge of the department, then asked Williams for the same swap, and she agreed as long as he oversaw it[^ref-17]. Mandel also describes working closely with Balfour on the game's writing[^ref-25]. Balfour pored over various art styles before finding inspiration in J.C. Leyendecker's work[^ref-25]. The game's Egyptology is heavily fictionalised; as TV Tropes notes, "Writer Josh Mandel admitted they didn't exactly have the budget to conduct extensive research"[^ref-27].
 
-The elaborate death scenes, in which each victim meets a gruesome end tied to a museum exhibit, were "Bruce's (slightly perverse) imagination at work," according to Mandel; he recalled that Lorelei Shannon "provided the inspiration for one of them: the Dermestid beetles"[^ref-25]. The game's mature content led some fans to observe that "some of the verbal content was raunchier than the Leisure Suit Larry games"[^ref-28].
+The elaborate death scenes, in which each victim meets a gruesome end tied to a museum exhibit, were "Bruce's (slightly perverse) imagination at work," according to Mandel; he recalled that [[Lorelei Shannon]] "provided the inspiration for one of them: the Dermestid beetles"[^ref-25]. The game's mature content led some fans to observe that "some of the verbal content was raunchier than the Leisure Suit Larry games"[^ref-28].
 
 **Development Credits:**[^ref-29]
 - **Producer / Director / Game Designer:** Bruce J. Balfour[^ref-29][^ref-5]
 - **Creative Consultant:** Roberta Williams
 - **Production Designer:** [[Andy Hoyos]][^ref-29]
 - **Writer:** [[Josh Mandel]]
-- **Additional Written Material:** Lorelei Shannon[^ref-29]
-- **Composer:** Christopher G. Braymen
+- **Additional Written Material:** [[Lorelei Shannon]][^ref-29]
+- **Composer:** [[Chris Braymen|Christopher G. Braymen]]
+- **Lyrics, "The Archaeologist Song":** Bruce J. Balfour[^ref-29]
 - **Music Director:** [[Mark Seibert]], who also played guitar on "The Archaeologist Song"[^ref-29]
+- **Executive Producer:** [[Ken Williams]][^ref-29]
 - **Creative Director:** [[Bill Davis]][^ref-1]
 - **Lead Programmer:** Brian K. Hughes[^ref-29]
 - **Special Thanks:** [[Stuart Moulder]][^ref-39]
 - **CD Conversion Programmers:** Bob Andrews, [[Scott Murphy]][^ref-29]
 - **Art Director:** Cheryl Sweeney[^ref-29]
+- **Cover Illustration:** John Gamache[^ref-29]
+- **CD Producer:** Daniel Carver[^ref-29]
 
 ### Technical Achievements
 
 The game runs on Sierra's SCI 1.1 engine[^ref-1], a more advanced version of the interpreter than the SCI0 engine used in *The Colonel's Bequest*[^ref-3]. It features 320x200 resolution with 256-color VGA graphics and a point-and-click interface[^ref-3].
 
-Creative director Bill Davis based the visual style on Leyendecker's artwork and named the museum after the artist[^ref-1]. The game cover is based on Leyendecker's cover for the 18 March 1905 issue of the Saturday Evening Post[^ref-21]. The museum exterior was based on the National Museum of Natural History in Washington, D.C.[^ref-8]
+Creative director [[Bill Davis]] based the visual style on Leyendecker's artwork and named the museum after the artist[^ref-1]. The game cover is based on Leyendecker's cover for the 18 March 1905 issue of the Saturday Evening Post[^ref-21]. The museum exterior was based on the National Museum of Natural History in Washington, D.C.[^ref-8]
 
 Lisa Crabtree, Sierra's receptionist, posed as Laura Bow for the box cover[^ref-3]. "By the way, on the box cover, we asked our receptionist Lisa Crabtree to pose as Laura Bow," Williams noted. "It was kind of cute how visitors would sometimes ask where they've seen her before"[^ref-3].
 
@@ -219,65 +224,58 @@ Clicking on the empty pyramid case where the dagger should be displays: "Congrat
 
 The game features four distinct endings, depending on whether Laura gathers enough evidence to expose both the murderer and the thief[^ref-1]. The final act (Act VI: The Coroner's Inquest) presents Laura with questions about the murders, victims, and motives. "Only thorough detective work will result in the best possible ending for Laura Bow, Cub Reporter. (You'll know it when you see it!)"[^ref-14]
 
-Key variables affecting endings include:
-- Whether all clues were collected
-- Whether all characters were thoroughly questioned
-- Whether secret passages were discovered
-- Accuracy of answers during the Coroner's Inquest
+The ending depends on two things:
+- Whether enough evidence was gathered to expose both the murderer and the thief[^ref-1]
+- The answers given to the questions at the Coroner's Inquest[^ref-1]
 
-As Hardcore Gaming 101 noted, "it's practically impossible to get the good ending the first time through"[^ref-4].
+The manual adds that asking as many questions as possible yields more notebook entries, and with them more information and a better chance at a successful conclusion[^ref-14].
 
 ### Voice Cast
 
 The cast below is from the 1993 CD-ROM version, which added voice acting; the original 1992 floppy release has no speech[^ref-1][^ref-8].
 
-| Character | Voice Actor |
-|-----------|-------------|
-| Laura Bow | [[Leslie Balfour\|Leslie Wilson]] (later Leslie Balfour)[^ref-29][^ref-17] |
-| Yvette Delacroix | Leslie Wilson[^ref-29] |
-| Narrator | Leslie Wilson[^ref-29] |
-| Dr. Pippin Carter | Bruce J. Balfour[^ref-29] |
-| Wolf Heimlich | Bruce J. Balfour[^ref-29] |
-| Lawrence "Ziggy" Ziegfeld | Bruce J. Balfour[^ref-29] |
-| Steve Dorian | Josh Mandel[^ref-29] |
-| Crodfoller T. Rhubarb | Josh Mandel[^ref-29] |
-| Henri Le Mort | Josh Mandel[^ref-29] |
-| Rex the Talking Dinosaur | Josh Mandel[^ref-29] |
-| Rocco the Taxi Driver | Josh Mandel[^ref-29] |
-| Detective Ryan O'Riley | John Smoot[^ref-29] |
-| Dr. Olympia Myklos | Kelli Spurgeon[^ref-29] |
-| Rameses Najeer | Richard Aronson[^ref-29] |
-| Countess Lavinia Waldorf-Carlton | Cynthia L. Swafford[^ref-29] |
-| Ernie Leech | Dennis Lewis[^ref-29] |
-| Dr. Ptahsheptut "Tut" Smith | Michael Eppley[^ref-29] |
-| Sam Augustini | Neal Grandstaff[^ref-29] |
-| Lo Fat | Robert W. Lindsley[^ref-29] |
-| Bartender/Bouncer | Brian K. Hughes[^ref-29] |
-| Biff/Desk Sergeant | Barry T. Smith[^ref-29] |
-| Bob the Taxi Driver | Daniel Carver[^ref-29] |
-| Blue Person | [[Stuart Moulder]][^ref-29] |
-| Drunk | J. Mark Hood[^ref-29] |
-| Flapper | [[Jane Jensen]][^ref-29] |
-| Luigi | James O'Keefe[^ref-29] |
-| Writing Man | Robert Holmes[^ref-29] |
-| Stinky | Lorelei Shannon[^ref-29] |
-| Miscellaneous People | Scott Murphy[^ref-29] |
-| Screams and Moans | Pat Murphy[^ref-29] |
+| Actor | Characters |
+|-------|------------|
+| [[Leslie Balfour\|Leslie Wilson]] (later Leslie Balfour)[^ref-29][^ref-17] | Laura Bow, Yvette Delacroix, Narrator |
+| Bruce J. Balfour[^ref-29] | Dr. Pippin Carter, Wolf Heimlich, Lawrence "Ziggy" Ziegfeld |
+| Josh Mandel[^ref-29] | Steve Dorian, Crodfoller T. Rhubarb, Henri Le Mort, Rex the Talking Dinosaur, Rocco the Taxi Driver |
+| John Smoot[^ref-29] | Detective Ryan O'Riley |
+| Kelli Spurgeon[^ref-29] | Dr. Olympia Myklos |
+| Richard Aronson[^ref-29] | Rameses Najeer |
+| Cynthia L. Swafford[^ref-29] | Countess Lavinia Waldorf-Carlton |
+| Dennis Lewis[^ref-29] | Ernie Leech |
+| Michael Eppley[^ref-29] | Dr. Ptahsheptut "Tut" Smith |
+| Neal Grandstaff[^ref-29] | Sam Augustini |
+| Robert W. Lindsley[^ref-29] | Lo Fat |
+| Brian K. Hughes[^ref-29] | Bartender/Bouncer |
+| Barry T. Smith[^ref-29] | Biff/Desk Sergeant |
+| Daniel Carver[^ref-29] | Bob the Taxi Driver |
+| [[Stuart Moulder]][^ref-29] | Blue Person |
+| J. Mark Hood[^ref-29] | Drunk |
+| [[Jane Jensen]][^ref-29] | Flapper |
+| James O'Keefe[^ref-29] | Luigi |
+| Robert Holmes[^ref-29] | Writing Man |
+| [[Lorelei Shannon]][^ref-29] | Stinky |
+| [[Scott Murphy]][^ref-29] | Miscellaneous People |
+| Pat Murphy[^ref-29] | Screams and Moans |
 
-Most of the voices were Sierra staff members, including some not involved in the game's production, such as Jane Jensen as the flapper[^ref-8][^ref-38][^ref-35]. The lead, Leslie Wilson, who voiced Laura, Yvette and the narrator, was not Sierra staff: Bruce Balfour cast her by audition after she showed she could do all three accents[^ref-17]. Josh Mandel's voice for Steve Dorian was electronically lowered[^ref-17]. One GOG.com user review called the voice acting "attrotious [sic] but in an endearing way"[^ref-6]. Leslie Balfour, who voiced Laura and several other characters, later reflected: "The Dagger of Amon Ra is a great game, but for me, the prize was my husband of 23 years"—she married designer Bruce Balfour[^ref-17].
+Most of the voices were Sierra staff members, including some not involved in the game's production, such as Jane Jensen as the flapper[^ref-8][^ref-38][^ref-35]. The lead, Leslie Wilson, who voiced Laura, Yvette and the narrator, was not Sierra staff: she auditioned for Bruce Balfour and was cast as Yvette; when no Laura or narrator could be found locally, she was asked to voice those too[^ref-17]. Josh Mandel's voice for Steve Dorian was electronically lowered[^ref-17]. One GOG.com user review called the voice acting "attrotious [sic] but in an endearing way"[^ref-6].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-The game retailed for $69.95[^ref-5]. Hardcore Gaming 101 writes that it "didn't quite take off, and thus spelled an end for the series"[^ref-4].
+Hardcore Gaming 101 writes that it "didn't quite take off, and thus spelled an end for the series"[^ref-4].
 
 ### Collections
 
 The game appeared in several Sierra compilations:
-- **1997 King's Quest Collection** - Included, like *The Colonel's Bequest*[^ref-38]
-- **Roberta Williams Anthology** - Collected Williams' adventure games[^ref-38]
+- **King's Quest: Collection Series** (1997) - Included, like *The Colonel's Bequest*[^ref-38][^ref-8]
+- **The Roberta Williams Anthology** (1996) - Collected Williams' adventure games[^ref-38][^ref-8]
+- **Best of Sierra Nr. 8** (1998)[^ref-8]
 - **CD-ROM 2 Pak: Crime City / The Dagger of Amon Ra** (1993)[^ref-8]
+
+A later Laura Bow release, [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|*Crazy Nick's Software Picks: Parlor Games with Laura Bow*]] (1992), is listed as the next entry in the series[^ref-8].
 
 ### Fan Projects
 
@@ -293,11 +291,11 @@ A fan sequel titled *Manhattan Murders* was planned but ultimately abandoned[^re
 
 *The Dagger of Amon Ra* occupies an interesting position in adventure gaming history. While not as commercially successful or well-remembered as Sierra's flagship King's Quest series, the Laura Bow games were "genuinely groundbreaking"[^ref-25] in their approach to mature mystery storytelling with a strong female protagonist.
 
-Its Art Deco visual style, orchestral soundtrack, and attention to period detail demonstrate the production values Sierra brought to even its secondary franchises.
+Computer Gaming World singled out its hand-painted, Art Deco-style backgrounds and orchestrated 1920s soundtrack[^ref-5].
 
 The contrast between Laura Bow and later heroines like Lara Croft is notable. As Adventure Classic Gaming observed, "Perhaps Laura does not have breasts hanging out like Tomb Raider's Lara Croft; then again, Laura is not meant to be a sex object like Lara"[^ref-3]. This design philosophy reflected Sierra's approach to female protagonists—intelligent, capable characters defined by their wit rather than their appearance.
 
-The game's challenging difficulty and possibility of unwinnable states reflect adventure gaming conventions of the era that modern players often find frustrating. The Adventurers' Guild reviewer argued that "the main purpose of a mystery story is to be logical"[^ref-37] and complained that "the plot has more holes than a minefield"[^ref-12]. Despite these criticisms, the game remains beloved by those who appreciate its atmosphere, humor, and period charm.
+The game's challenging difficulty and possibility of unwinnable states reflect adventure gaming conventions of the era that modern players often find frustrating. The Adventurers' Guild reviewer argued that "the main purpose of a mystery story is to be logical"[^ref-37] and complained that "the plot has more holes than a minefield"[^ref-12].
 
 ## Downloads
 
