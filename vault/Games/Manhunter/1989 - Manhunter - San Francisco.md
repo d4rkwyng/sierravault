@@ -10,7 +10,7 @@ series: Manhunter
 engine: Adventure Game Interpreter (AGI)
 protagonist: Unnamed Manhunter
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Barry Murry]
 description: 'Manhunter 2: San Francisco is a 1989 science fiction adventure game
   developed by Evryware and published by Sierra On-Line. Picking up immediately where
@@ -20,13 +20,13 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter 2: San Francisco
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Manhunter 2: San Francisco is a 1989 science fiction adventure game developed by Evryware and published by Sierra On-Line.[^ref-15] Picking up immediately where Manhunter: New York left off, the game has the player crash-landing their stolen Orb ship in the City by the Bay, continuing their covert rebellion against the alien occupation.[^ref-2] Like the first game, it is a huge departure from Sierra's normal adventure games, offering a dystopian horror theme with a first-person interface and mixing minigames with puzzles.[^ref-3]
 
-The Manhunter series stands as one of the weirdest science fiction adventures ever made, featuring a post-alien invasion apocalyptic dystopia with no dialogue at all.[^ref-4] The alien Orbs that terrorised New York have now spread to San Francisco, where humans must wear hooded robes and may not speak to one another on pain of death.[^ref-28] As a Manhunter working for orb-shaped aliens, players must find and join the underground movement to free the Earth from slavery while maintaining their cover.[^ref-6]
+The Manhunter series stands as one of the weirdest science fiction adventures ever made.[^ref-4] It presents a post-alien invasion apocalyptic dystopia with no dialogue at all.[^ref-3] The alien Orbs that terrorised New York have now spread to San Francisco, where humans must wear hooded robes and may not speak to one another on pain of death.[^ref-28] As a Manhunter working for orb-shaped aliens, players must find and join the underground movement to free the Earth from slavery while maintaining their cover.[^ref-6]
 
 Many of the things the Manhunter games did would later become popular in adventure gaming: first-person adventures, puzzles of the kind seen in Ripper and Black Dahlia, graphic horror, and detective-based gameplay.[^ref-3] The games foreshadowed later landmark titles like Myst with their first-person perspective.[^ref-7] Though not among Sierra's best-remembered titles, lacking the recognizability of Space Quest and Leisure Suit Larry, the series retains a cult following.[^ref-4]
 
@@ -81,7 +81,7 @@ The first game had fared well with critics: Power Play Issue 01/1990 named Manhu
 
 ### Modern Assessment
 
-PC Gamer's Richard Cobbett wrote that "these were not particularly good adventures, but it's easy to see why people remember them so fondly."[^ref-4] Jeremiah Kauffman of Adventure Classic Gaming wrote that, like the first game, Manhunter 2 "show some potentials in its delivery, but so much more is needed to develop this game to be considered more than just a worthy peculiarity."[^ref-32]
+PC Gamer's Richard Cobbett wrote that "these were not particularly good adventures, but it's easy to see why people remember them so fondly."[^ref-4] Kurt Kalata of Hardcore Gaming 101 wrote that the game "doesn't really fix many of the problems of its predecessor – it plays exactly the same, just with a new scenario", with the difficulty select for the arcade segments the only real improvement.[^ref-34] Jeremiah Kauffman of Adventure Classic Gaming wrote that, like the first game, Manhunter 2 "show some potentials in its delivery, but so much more is needed to develop this game to be considered more than just a worthy peculiarity."[^ref-32]
 
 The games are considered solid underdogs, but not for the faint of heart or anyone who is reflex-impaired due to the arcade sequences.[^ref-6] On GOG's old community wishlist page for the series, one player wrote in 2013 that the two Manhunter games were "great atmospheric games, with a superb story line and universe."[^ref-21]
 
@@ -102,7 +102,7 @@ The Adventure Gamer blog describes Blade Runner as an obvious inspiration for Ma
 
 According to a MobyGames player review, Evryware visited San Francisco and based the game on the city's layout and real locations.[^ref-2] For the original game, the Murrys had spent two days photographing New York locations.[^ref-12] The Murrys said that using real locations (New York and San Francisco) added realism to the game.[^ref-30]
 
-Development used Sierra's Adventure Game Interpreter (AGI), despite the newer SCI system being available by the time of Manhunter 2's development.[^ref-7] It was among the last AGI games: Alex Bevilacqua notes that only King's Quest IV and Manhunter 2 came out as AGI games after Manhunter: New York.[^ref-17] The fan modder Banjo calls Evryware's technical accomplishments with AGI "quite impressive, making a kind of game it was definitely not designed for".[^ref-3]
+Development used Sierra's Adventure Game Interpreter (AGI), despite the newer SCI system being available by the time of Manhunter 2's development.[^ref-7] Wikipedia calls it Sierra's final AGI-based title,[^ref-33] while Alex Bevilacqua writes that only King's Quest 4 and Manhunter 2 came out afterwards as AGI games.[^ref-17] Wikipedia's list of Sierra's AGI games dates Manhunter: New York, King's Quest IV and Gold Rush! to 1988 on MS-DOS.[^ref-33] The fan modder Banjo calls Evryware's technical accomplishments with AGI "quite impressive, making a kind of game it was definitely not designed for".[^ref-3]
 
 **Development Credits (DOS version):**[^ref-2]
 - **Lead Design:** Barry Murry, Dave Murry
@@ -123,7 +123,7 @@ The MAD tracking device was the series' signature mechanic, allowing players to 
 
 ### Cut Content
 
-Manhunter 3: London was planned as the conclusion to the trilogy but was never created.[^ref-14] Manhunter 2 ends unresolved, with the player literally hanging onto Phil's spaceship as it takes off.[^ref-4] The Murrys also had plans for a fourth and final game, if Sierra wanted one, set on the Orbs' home planet.[^ref-7]
+Manhunter 3: London was planned as the conclusion to the trilogy but was never created.[^ref-14] Hardcore Gaming 101 notes that posters throughout the series imply it was meant to be a trilogy, teasing a third installment called Manhunter: London.[^ref-34] Manhunter 2 ends unresolved, with the player literally hanging onto Phil's spaceship as it takes off.[^ref-4] The Murrys also had plans for a fourth and final game, if Sierra wanted one, set on the Orbs' home planet.[^ref-7]
 
 A Sierra Gamers forum thread records several accounts of why no third game appeared.[^ref-25] In posts from 2003 and 2004, Ken Williams recalled planning Manhunter 3 with the Murrys before they took The Ancient Art of War to Broderbund, which he thought had offered them a higher royalty; another poster pointed out that Ancient Art of War (1984) predated Manhunter. A 2004 poster noted that an old Evryware products page mentioned "Manhunter 3: Ultimate Online Adventure". In August 2008 Mike Murry, Barry's son, wrote that Evryware had pursued Manhunter 3 about ten years earlier but post-Ken Sierra was not interested and would not release the rights, and that since April 2008 the family had been building a prototype "featuring Day One, of Manhunter: New York" to test a new concept.[^ref-25]
 
@@ -154,7 +154,7 @@ The Murrys make creator cameos in both games, appearing after the player dies to
 
 - The game contains no dialogue whatsoever, telling its entire story through visuals.[^ref-16]
 - The series was notable for heavy gore, especially for its era;[^ref-16] Scorpia found this game "rather more gruesome than the last one".[^ref-29]
-- Manhunter 2 was one of only two AGI games, with King's Quest IV, released after Manhunter: New York.[^ref-17]
+- Wikipedia describes Manhunter 2 as Sierra's final AGI-based title.[^ref-33]
 - Manhunter: New York is set in 2004, two years after an alien invasion that its opening dates to 2002;[^ref-31] the sequel picks up immediately where it left off.[^ref-2] The Adventure Gamer blog notes the first game was set 16 years after its 1988 release.[^ref-12]
 
 ## Legacy
@@ -199,7 +199,8 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 
 - [[1988 - Manhunter - New York|← Previous: Manhunter - New York]]
 
-- **Next:** Manhunter 3: London (Cancelled)
+- **Next:** [[CXL - Manhunter 3|Manhunter 3: London (Cancelled)]]
+- **Series:** [[Manhunter Series]]
 
 ## References
 
@@ -230,3 +231,5 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 [^ref-30]: [Games Domain – Interview with Evryware (Part 1), 1997 (Wayback Machine)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) – Barry and Dave Murry on Manhunter's design, sales, and Sierra
 [^ref-31]: [Wikipedia – Manhunter: New York](https://en.wikipedia.org/wiki/Manhunter:_New_York) – 2002 invasion and 2004 setting, sales
 [^ref-32]: [Adventure Classic Gaming – Manhunter 2: San Francisco Review (Wayback Machine)](https://web.archive.org/web/20130508065520/http://www.adventureclassicgaming.com/index.php/site/reviews/183/) – Jeremiah Kauffman's review
+[^ref-33]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – "final AGI-based title" statement and list of AGI games with release years
+[^ref-34]: [Hardcore Gaming 101 – Manhunter 2: San Francisco, by Kurt Kalata, 11 September 2017 (Wayback Machine)](https://web.archive.org/web/20260430210813/https://www.hardcoregaming101.net/manhunter-2-san-francisco/) – "plays exactly the same, just with a new scenario"; Manhunter: London poster teaser
