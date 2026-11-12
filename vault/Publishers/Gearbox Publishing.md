@@ -5,15 +5,15 @@ founded: 2015
 headquarters: "Frisco, Texas, United States"
 parent_company: "The Gearbox Entertainment Company (Take-Two Interactive / 2K, since June 2024)"
 related_companies: ["Gearbox Software"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Gearbox Publishing
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Gearbox Publishing is the publishing arm of the Gearbox group.[^ref-3] [[Gearbox Software|Gearbox Software]] established it in 2015 to publish third-party games, and first announced it to the public in December 2016.[^ref-1] In 2019 The Gearbox Entertainment Company was set up as the parent of both Gearbox Software and Gearbox Publishing, and Embracer Group bought Gearbox Entertainment in April 2021.[^ref-1]
+Gearbox Publishing is the publishing arm of the Gearbox group.[^ref-3] [[Gearbox Software|Gearbox Software]] established it in 2015 to publish third-party games, and first announced it to the public in December 2016, according to Wikipedia.[^ref-1] Take-Two Interactive's 2024 acquisition announcement instead says "Gearbox Publishing was established in 2016."[^ref-22] In 2019 The Gearbox Entertainment Company was set up as the parent of both Gearbox Software and Gearbox Publishing, and Embracer Group bought Gearbox Entertainment in April 2021.[^ref-1]
 
 Take-Two Interactive announced on March 27, 2024 that it would buy Gearbox Entertainment for $460 million and add it to its 2K label (Embracer dated its own announcement March 28). The deal covered all four Gearbox Entertainment subsidiaries, Gearbox Publishing among them, and closed on June 11, 2024 (Embracer).[^ref-22][^ref-1][^ref-17][^ref-24] Wikipedia says the Gearbox Publishing division was later absorbed into 2K; no Take-Two or 2K primary source found states this directly, though 2K's own site lists Gearbox Entertainment among its studios.[^ref-1][^ref-27] Embracer kept a separate business, Gearbox Publishing San Francisco, and it should not be confused with this company. That business was the North American arm of Perfect World Entertainment, which Embracer bought in December 2021 and rebranded as Gearbox Publishing San Francisco on April 22, 2022; it was renamed Arc Games in April 2024.[^ref-25][^ref-10][^ref-16]
 
@@ -21,16 +21,18 @@ For information about the Gearbox development studio's work on Sierra properties
 
 ## Sierra Connection
 
-The Homeworld series was developed by [[Relic Entertainment|Relic Entertainment]] and first published by Sierra Studios in 1999.[^ref-4][^ref-11] Sierra also released the stand-alone expansion Homeworld: Cataclysm (2000) and Homeworld 2 (2003).[^ref-4][^ref-18]
+The Homeworld series was developed by [[Relic Entertainment|Relic Entertainment]] and first published by Sierra Studios in 1999 ([[1999 - Homeworld|Homeworld]]).[^ref-4][^ref-11] Sierra also released the stand-alone expansion [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] (2000) and [[2003 - Homeworld 2|Homeworld 2]] (2003).[^ref-4][^ref-18]
 
-After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auction in April 2013, paying $1.35 million.[^ref-23][^ref-8][^ref-14] This was two years before Gearbox Publishing existed. Gearbox Software released the Homeworld Remastered Collection in 2015, and in June 2017 released Cataclysm under the new title Homeworld: Emergence on GOG, where Gearbox Software is listed as publisher.[^ref-26] Gearbox Publishing later published two new Homeworld games developed by Blackbird Interactive: Homeworld: Deserts of Kharak (2016) and Homeworld 3 (2024).[^ref-20][^ref-19][^ref-21]
+After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auction in April 2013, paying $1.35 million.[^ref-23][^ref-8][^ref-14] This was two years before Gearbox Publishing existed. Gearbox Software released the Homeworld Remastered Collection in 2015, and in June 2017 released Cataclysm under the new title Homeworld: Emergence on GOG, where Gearbox Software is listed as publisher.[^ref-26] Gearbox Publishing later published two new Homeworld games developed by [[Blackbird Interactive]]: Homeworld: Deserts of Kharak (2016) and Homeworld 3 (2024).[^ref-20][^ref-19][^ref-21]
 
 ## Games Published
 
 - **2016** — [[2016 - Homeworld - Deserts of Kharak|Homeworld: Deserts of Kharak]] — Notes: Prequel, developed by Blackbird Interactive[^ref-19]
 - **2024** — [[2024 - Homeworld 3|Homeworld 3]] — Notes: New mainline entry, developed by Blackbird Interactive[^ref-21][^ref-2]
 
-[[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] (2015) was published by Gearbox Software, according to MobyGames and GOG; Steam now lists Gearbox Publishing and 2K as its publishers.[^ref-20][^ref-6][^ref-5]
+[[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] (2015) was published by Gearbox Software, according to MobyGames and GOG; Steam now lists Gearbox Publishing and 2K as its publishers.[^ref-20][^ref-6][^ref-5] Steam also lists Gearbox Publishing and 2K as publishers of Homeworld: Deserts of Kharak and Homeworld 3, while the Epic Games Store lists 2K Games, Inc. as publisher of Homeworld 3.[^ref-29][^ref-28][^ref-31]
+
+Beyond Homeworld, 2K's Gearbox history page credits Gearbox Publishing with launching Remnant 2 (developed by Gunfire Games) in 2023 and introducing Blanc and Relic Hunters Legend the same year.[^ref-30]
 
 ## Related
 
@@ -61,3 +63,7 @@ After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auct
 [^ref-25]: [TechRaptor - Perfect World Entertainment is Now Gearbox Publishing San Francisco (April 22, 2022)](https://techraptor.net/gaming/news/perfect-world-entertainment-is-now-gearbox-publishing) - "Perfect World Entertainment is now Gearbox Publishing San Francisco. The move comes a few months after Embracer Group bought the company back in December 2021"
 [^ref-26]: [GOG - Homeworld: Emergence](https://www.gog.com/game/homeworld_emergence) - Developer and publisher Gearbox Software; GOG release date June 22, 2017 (original release August 12, 2000)
 [^ref-27]: [2K - Gearbox Entertainment](https://2k.com/en-US/studios/gearbox/) - Gearbox Entertainment listed among 2K's studios; the page does not mention Gearbox Publishing
+[^ref-28]: [Steam - Homeworld 3](https://store.steampowered.com/app/1840080/Homeworld_3/) - "published by Gearbox Publishing and 2K"; released May 13, 2024
+[^ref-29]: [Steam - Homeworld: Deserts of Kharak](https://store.steampowered.com/app/281610/Homeworld_Deserts_of_Kharak/) - Blackbird Interactive; published by Gearbox Publishing and 2K; released January 20, 2016
+[^ref-30]: [2K - Gearbox history](https://2k.com/en-US/studios/gearbox/history/) - 2023: Remnant 2 "launched by Gearbox Publishing"; Blanc and Relic Hunters Legend introduced by Gearbox Publishing
+[^ref-31]: [Epic Games Store - Homeworld 3](https://store.epicgames.com/en-US/p/homeworld-3) - Developer Blackbird Interactive; Publisher 2K Games, Inc.
