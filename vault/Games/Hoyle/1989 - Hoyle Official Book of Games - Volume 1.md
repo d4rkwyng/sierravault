@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI0
 protagonist: None (card game collection)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games: Volume 1 is a 1989 Sierra On-Line collection
   of six card games, designed by Warren Schwader, in which players face 18 computer
@@ -19,13 +19,13 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Hoyle Official Book of Games: Volume 1 is a collection of six classic card games developed and published by Sierra On-Line in 1989[^ref-1][^ref-16][^ref-20]. The game is a tribute to Edmond Hoyle, the 18th-century card-game authority best known for his works on the rules of games[^ref-2][^ref-4][^ref-20]. It was the first entry in what became Sierra's long-running Hoyle series of computerized parlor games; MyAbandonware's description singles out its "excellent graphics, intuitive mouse-based user interface, and-- best of all-- the ability to choose popular Sierra game characters as your opponents"[^ref-3].
 
-Designer [[Warren Schwader]] had earlier written Sierra's Hi-Res Cribbage (1981)[^ref-22], and Wikipedia describes Volume 1 as a spiritual sequel to that game[^ref-4]. Players face up to three of 18 computer opponents, including characters such as Larry Laffer from Leisure Suit Larry, King Graham from King's Quest, Roger Wilco from Space Quest, and Officer Sonny Bonds from Police Quest[^ref-1]. Sierra's own magazine reported in 1990 that Volume 1 had been "a tremendous success, selling over 250,000 copies worldwide"[^ref-22].
+Designer [[Warren Schwader]] had earlier written Sierra's [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]] (1980[^ref-33]; Sierra's own magazine dates it 1981[^ref-22]), and Wikipedia describes Volume 1 as a spiritual sequel to that game[^ref-4]. Players face up to three of 18 computer opponents, including characters such as Larry Laffer from Leisure Suit Larry, King Graham from King's Quest, Roger Wilco from Space Quest, and Officer Sonny Bonds from Police Quest[^ref-1]. Sierra's own magazine reported in 1990 that Volume 1 had been "a tremendous success, selling over 250,000 copies worldwide"[^ref-22].
 
 Built with Sierra's Creative Interpreter (SCI), the engine Sierra developed for its adventure games[^ref-4][^ref-1], the collection includes Cribbage, Crazy Eights, Gin Rummy, Hearts, Old Maid, and Klondike Solitaire[^ref-5][^ref-28]. Sierra licensed the Hoyle name for the product; *The Games Machine* called it "a little bit of diversification for Sierra"[^ref-23]. Wikipedia notes that some titles in the Hoyle series used trademarks and designs from the Hoyle playing-card brand under license from Brown & Bigelow[^ref-4].
 
@@ -100,7 +100,7 @@ The Retro Spirit's 2010 Norwegian-language review called the game a tribute ("hy
 
 ### Origins
 
-According to Wikipedia, the concept for Hoyle Official Book of Games was submitted by designer [[Warren Schwader]] to Sierra co-founder [[Ken Williams]][^ref-4]. Schwader had "always enjoyed playing cards," which had led to his earlier Hi-Res Cribbage (1981); Volume 1 combined "six card games for gamers to play against eighteen computer opponents, including characters from several of Sierra's most popular adventure games"[^ref-22].
+According to Wikipedia, the concept for Hoyle Official Book of Games was submitted by designer [[Warren Schwader]] to Sierra co-founder [[Ken Williams]][^ref-4]. Schwader had "always enjoyed playing cards," which had led to his earlier [[1980 - Hi-Res Cribbage|Hi-Res Cribbage]] (1980[^ref-33]; Sierra's own magazine dates it 1981); Volume 1 combined "six card games for gamers to play against eighteen computer opponents, including characters from several of Sierra's most popular adventure games"[^ref-22].
 
 ### Production
 
@@ -250,7 +250,7 @@ Some modern players view Volume 1 more favorably than its contemporary reviews, 
 [^ref-16]: [IGDB – Hoyle Official Book of Games Volume 1](https://www.igdb.com/games/hoyle-official-book-of-games-volume-1) — Internet Games Database entry, release-year confirmation
 [^ref-20]: [Sierra Chest – Hoyle Official Book of Games: Volume 1](https://sierrachest.com/index.php?a=games&id=224&fld=general) – description, platforms, Value Pack 2 and 3 inclusion
 [^ref-21]: [Computer Gaming World #67 (January 1990), p. 48 – "These Characters Are Real Cards" by Michael S. Lasky](https://archive.org/download/Computer_Gaming_World_Issue_67/Computer_Gaming_World_Issue_67_djvu.txt) – review text, price, system requirements, opponents
-[^ref-22]: [Sierra News Magazine Vol. 3 No. 3 (Fall 1990)](https://archive.org/download/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US_djvu.txt) – sales of over 250,000, Hi-Res Cribbage (1981), Ken Williams' Klondike remark leading to Volume 2
+[^ref-22]: [Sierra News Magazine Vol. 3 No. 3 (Fall 1990)](https://archive.org/download/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US_djvu.txt) – sales of over 250,000, Hi-Res Cribbage (1981 per Sierra), Ken Williams' Klondike remark leading to Volume 2
 [^ref-23]: [The Games Machine #25 (December 1989)](https://archive.org/download/The_Games_Machine_Issue_025/The_Games_Machine_Issue_025_djvu.txt) – review, 67% overall, "a little bit of diversification for Sierra"
 [^ref-24]: [Computer Gaming World #64 (October 1989) – Rumor Bag](https://archive.org/download/Computer_Gaming_World_Issue_64/Computer_Gaming_World_Issue_64_djvu.txt) – pre-release mention of Hoyle's Book of Games
 [^ref-25]: [Computer Gaming World #70 (April 1990) – Conversions Received](https://archive.org/download/Computer_Gaming_World_Issue_70/Computer_Gaming_World_Issue_70_djvu.txt) – Amiga conversion of Hoyle Book of Games received
@@ -261,3 +261,4 @@ Some modern players view Volume 1 more favorably than its contemporary reviews, 
 [^ref-30]: [MobyGames – Hoyle: Official Book of Games - Volume 1 reviews](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/reviews/) – critic and player averages
 [^ref-31]: [Sierra InterAction, Issue 6 (Fall 1989) – "Hoyles Book of Games" by Bridget McKenna (fan transcription)](http://sierrainteraction.wikidot.com/hoyles-book-of-games) – "Designer/Programmer: Warren Schwader Graphics: Jerry Moore"
 [^ref-32]: [MobyGames – Hoyle: Official Book of Games - Volume 1 (Wayback, October 2023)](http://web.archive.org/web/20231021195937/https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – description: opponents include "Sierra employees (Warren Schwader and Jerry Moore) and their children"
+[^ref-33]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – Apple II release year 1980 (read via the MobyGames API)
