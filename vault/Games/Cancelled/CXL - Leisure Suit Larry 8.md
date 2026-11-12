@@ -10,17 +10,17 @@ series: Leisure Suit Larry
 engine: Unknown (planned 3D)
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '**Leisure Suit Larry 8: Lust in Space**, also known as **Leisure Suit Larry Explores Uranus**, was Al Lowe''s planned 3D sequel to Love for Sail!, cancelled by Sierra at the end of 1998 during contract negotiations.'
 tags: [adventure, al-lowe, leisure-suit-larry, sierra, cancelled]
 ---
 # Leisure Suit Larry 8: Lust in Space
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-**Leisure Suit Larry 8: Lust in Space**, also known by the alternate title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running adult comedy adventure series that was never released.[^ref-1] It was in early development at Sierra On-Line in 1998, with series creator [[Al Lowe]] as its designer.[^ref-1][^ref-2] The game was intended to be the first entry in the series rendered in full 3D.[^ref-1][^ref-2]
+**Leisure Suit Larry 8: Lust in Space**, also known by the alternate title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running adult comedy adventure series that was never released.[^ref-1] It was in early development at Sierra On-Line in 1998, with series creator [[Al Lowe]] as its designer.[^ref-1][^ref-2] Had it shipped, it would have been the first entry in the series rendered in full 3D; *Magna Cum Laude* (2004) became the first.[^ref-1][^ref-2][^ref-12] Wikipedia's series article notes that Lowe "was on contract rather than a salaried position at Sierra."[^ref-12]
 
 The project fell victim to the corporate upheaval that followed the acquisition of Sierra by CUC International. Al Lowe has written that "Sierra management was in turmoil after Ken and Roberta got bought out by CUC. The new management tried to get me to design my next game without a contract, saying 'we'll work it out later.'"[^ref-3][^ref-17] By his account, "At the end of 1998, while Sierra and I were negotiating a contract for *Leisure Suit Larry 8: Lust in Space*, Sierra cancelled production."[^ref-18]
 
@@ -98,7 +98,7 @@ During those months, Jason Zayas, lead animator on *Love for Sail!* and *King's 
 
 ### Technical Achievements
 
-The planned transition to full 3D graphics would have been a first for the series.[^ref-1][^ref-2] Only a few test renders and the short test movie survive.[^ref-1][^ref-18]
+The planned transition to full 3D graphics would have been a first for the series had the game shipped; *Magna Cum Laude* (2004) was instead "the first to feature full 3D graphics."[^ref-1][^ref-2][^ref-12] Only a few test renders and the short test movie survive.[^ref-1][^ref-18]
 
 ### Technical Specifications
 
@@ -143,7 +143,7 @@ Lowe has written that after cancelling Larry 8, Sierra "produced some games with
 
 In 2013 Lowe returned to the series with *Leisure Suit Larry: Reloaded*, a crowdfunded remake of the first game "released in collaboration with series creator Al Lowe."[^ref-12] That year he said Leisure Suit Larry 8 was "absolutely" still in the works: "Our fans deserve to see how Larry's life plays out!"[^ref-20] No such game has been released.
 
-The series was later revived with a more traditional approach in *Leisure Suit Larry: Wet Dreams Don't Dry* (2018), developed by CrazyBunch and published by Assemble Entertainment.[^ref-5][^ref-9] Shortly before it was removed from Steam and GOG on October 23, 2026, it held a "Very Positive" rating there, with 85% of 1,414 user reviews positive (as captured on October 9, 2026).[^ref-9][^ref-23][^ref-25] A sequel, *Leisure Suit Larry: Wet Dreams Dry Twice*, followed in 2020.[^ref-10]
+The series was later revived with a more traditional approach in *Leisure Suit Larry: Wet Dreams Don't Dry* (2018), developed by CrazyBunch and published by Assemble Entertainment.[^ref-5][^ref-9] Shortly before its announced removal from Steam and GOG on October 23, 2026, it held a "Very Positive" rating there, with 85% of 1,414 user reviews positive (as captured on October 9, 2026).[^ref-9][^ref-23][^ref-25] As of November 2026, its Steam store page states that the game "is no longer available on the Steam store."[^ref-26] A sequel, *Leisure Suit Larry: Wet Dreams Dry Twice*, followed in 2020.[^ref-10]
 
 ### Historical Context
 
@@ -209,7 +209,7 @@ Fan discussion has sometimes confused *Magna Cum Laude* with "Larry 8". In a 200
 
 [^ref-11]: [Hardcore Gaming 101 – Leisure Suit Larry Assorted](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) ([Wayback, February 9, 2025](https://web.archive.org/web/20250209031049/http://www.hardcoregaming101.net/leisure-suit-larry-assorted/)) – LSL8 advertised in Larry's Casino; Sierra's adventure studio closed; Larry's Casino as last Lowe-involved Larry game
 
-[^ref-12]: [Wikipedia – Leisure Suit Larry Series](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – 1997 collection, 10 million sales figure, Ken Williams quote, Reloaded (2013) made with Al Lowe
+[^ref-12]: [Wikipedia – Leisure Suit Larry Series](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – 1997 collection, 10 million sales figure, Ken Williams quote, Reloaded (2013) made with Al Lowe; Magna Cum Laude "the first to feature full 3D graphics"; Lowe "on contract rather than a salaried position at Sierra"
 
 [^ref-15]: [Screen Rant – Why You Should Play Leisure Suit Larry Games](https://screenrant.com/leisure-suit-larry-worth-steam-removal-op-ed/) – Love for Sail's ending sequel teaser, "coming in 1998"
 
@@ -230,3 +230,5 @@ Fan discussion has sometimes confused *Magna Cum Laude* with "Larry 8". In a 200
 [^ref-24]: [Al Lowe – Is Larry Dead?](https://allowe.com/games/larry/history-of-larry/is-larry-dead.html) – "On February 22, 1999, Sierra informed me they were going to stop development of Leisure Suit Larry 8: Lust in Space"; asked to clean out his office
 
 [^ref-25]: [Time Extension – Get Them Now Or Never: Leisure Suit Larry's Last Releases To Be Delisted From Steam And GOG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Wet Dreams Don't Dry and Wet Dreams Dry Twice delisted from Steam and GOG on October 23, 2026
+
+[^ref-26]: [Steam – Leisure Suit Larry: Wet Dreams Don't Dry](https://store.steampowered.com/app/765870/) – Store page notice (checked November 12, 2026): "is no longer available on the Steam store"
