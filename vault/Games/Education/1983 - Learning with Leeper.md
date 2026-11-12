@@ -10,20 +10,20 @@ series: Leeper
 engine: Machine Language
 protagonist: Leeper
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Learning with Leeper is a 1983 educational game developed and published
-  by Sierra On-Line for children aged three to six, offering four wordless activities
+  by Sierra On-Line for children aged three to six, offering four activities that need no reading
   (counting, shape matching, a maze and screen painting) and winning the 1984 Arkie
   Award for Best Educational Video Game/Computer Game.
 tags: [1980s, educational, leeper, sierra]
 ---
 # Learning with Leeper
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Learning with Leeper is an educational video game developed and published by [[Sierra On-Line]] in 1983[^ref-1]. It features a Leeper, the long-legged alien creature from Sierra's earlier arcade game [[1982 - Lunar Leeper|Lunar Leeper]], as the guide to four learning activities[^ref-3]. It is aimed at children aged three to six[^ref-3], and Sierra's own software catalog announced it as the company's "first educational production development"[^ref-21]. The Apple II title [[1982 - Bop-A-Bet|Bop-A-Bet]], first released by Sunnyside Soft, was republished by Sierra in 1983 as part of its Hi-Res Learning series, and the Atari manual likewise subtitles Leeper "Four Hi-Res Learning Games"[^ref-22].
+Learning with Leeper is an educational video game developed and published by [[Sierra On-Line]] in 1983[^ref-1]. It features a Leeper, the long-legged alien creature from Sierra's earlier arcade game [[1982 - Lunar Leeper|Lunar Leeper]], as the guide to four learning activities[^ref-3]. It is aimed at children aged three to six[^ref-3], and a Sierra software catalog blurb announcing the company's "first educational production development" starring Lunar Leeper appears to refer to it[^ref-21]. The Apple II title [[1982 - Bop-A-Bet|Bop-A-Bet]], first released by Sunnyside Soft, was republished by Sierra in 1983 as part of its Hi-Res Learning series[^ref-23], and the Atari manual likewise subtitles Leeper "Four Hi-Res Learning Games"[^ref-22].
 
 The judges of the Arkie Awards called it "a painless way for youngsters to learn such tricky concepts as counting and shape recognition"[^ref-4][^ref-1]. Children choose from four games: counting, matching, a maze, and painting[^ref-5]. The game was released for the Apple II, Commodore 64, Atari 8-bit computers, ColecoVision, DOS and ZX Spectrum[^ref-5].
 
@@ -85,6 +85,7 @@ Wikipedia also summarises later books and articles that mention the game. A 1985
 
 **Aggregate Scores:**
 - **MobyGames:** 3.5/5 (8 player ratings)[^ref-5]
+- **Atarimania (Atari 8-bit):** 6.8/10 from 9 votes, as of November 2026[^ref-24]
 - **GameFAQs:** Rated "Fair" (9 ratings), "Simple/Easy" difficulty, length "3 Hours"[^ref-12]
 
 ## Development
@@ -93,13 +94,13 @@ Wikipedia also summarises later books and articles that mention the game. A 1985
 
 Learning with Leeper reuses the Leeper character from Sierra's arcade game Lunar Leeper[^ref-1][^ref-2]. It was made for children aged three to six[^ref-3]. Nancy Anderton is credited with the design[^ref-5][^ref-13].
 
-Sierra's software catalog announced the project with the words "our first educational production development now, starring the lovable Lunar Leeper and his new friend, Dusty Dog"[^ref-21].
+A Sierra software catalog blurb, which appears to refer to this game, speaks of "our first educational production development now, starring the lovable Lunar Leeper and his new friend, Dusty Dog"[^ref-21].
 
 Wikipedia cites Michael M. Behrmann's 1984 article "A Brighter Future For Early Learning Through High Tech" in *The Pointer*[^ref-8]. Citing that article, it says several commercial developers had decided "there is a market for children as young as three", and names Learning with Leeper as one game aimed at that market[^ref-1].
 
 ### Production
 
-The Atari manual's credit reads "Design by Nancy Anderton" and "Program and Graphics by Bobbit"[^ref-22]. Robert A. Bobbio, credited as "Bobbit", did the program and graphics for the Atari 8-bit and Commodore 64 versions[^ref-13][^ref-5]. The C64 manual's own credit is "Program and graphics by Bobbit"[^ref-18]. Sierra Chest describes the game as "designed by 'Bobbit'"[^ref-3], but MobyGames and Pixelated Arcade credit the design to Nancy Anderton and the program and graphics to Bobbio[^ref-5][^ref-13].
+The Atari manual's credit reads "Design by Nancy Anderton" and "Program and Graphics by Bobbit"[^ref-22]. Robert A. Bobbio, credited as "Bobbit", did the program and graphics for the Atari 8-bit and Commodore 64 versions[^ref-13][^ref-5]; Atarimania lists Robert Bobbio as the Atari coder[^ref-24]. The C64 manual's own credit is "Program and graphics by Bobbit"[^ref-18]. Sierra Chest describes the game as "designed by 'Bobbit'"[^ref-3], but MobyGames and Pixelated Arcade credit the design to Nancy Anderton and the program and graphics to Bobbio[^ref-5][^ref-13].
 
 Other platforms had their own credits. Monier did the program and graphics for the ColecoVision version, and Ivan Strand and Brian Strand are credited ("Written by") for the IBM PC/compatible version[^ref-13].
 
@@ -240,3 +241,5 @@ Learning with Leeper is not currently sold on any digital storefront.
 [^ref-20]: [Hardcore Computist No. 13 (1984), Marco Hunter, "Softkey For Learning With Leeper", p. 8 – Internet Archive](https://archive.org/stream/computist-scan-13/issue13) – Apple II price $34.95, 48K Apple and DOS 3.3, nibble count on track 0
 [^ref-21]: [Sierra On-Line Software Catalog (Internet Archive)](https://archive.org/details/Sierra_Online_Software_Catalog) – official game blurb; announcement of the educational title starring Lunar Leeper and Dusty Dog
 [^ref-22]: [Learning with Leeper Atari 8-bit manual (Internet Archive)](https://archive.org/details/learning-with-leeper-sierra-online) – subtitle "Four Hi-Res Learning Games", "Design by Nancy Anderton / Program and Graphics by Bobbit", joystick Port #1
+[^ref-23]: [Retro365 – Bop-A-Bet, a new chapter](https://retro365.blog/2021/05/23/bits-from-my-personal-collection-bop-a-bet-al-lowes-second-game-kansasfest-san-francisco-november-1982/) – Sunnyside Soft's Bop-A-Bet re-released in 1983 in Sierra On-Line's Hi-Res Learning series, Apple II only
+[^ref-24]: [Atarimania – Learning with Leeper (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-learning-with-leeper_2952.html) – coder Bobbio, Robert; publisher Sierra On-Line; user rating 6.8/10, 9 votes
