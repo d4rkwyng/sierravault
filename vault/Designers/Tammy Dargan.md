@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "SWAT 3: Close Quarters Battle"]
 companies: ["Sierra On-Line", "Sierra Studios"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Tammy Dargan
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,7 @@ Before Sierra, she worked on the television show America's Most Wanted;[^ref-35]
 
 Tammy Dargan joined Sierra On-Line as a producer in 1991. Her Sierra-submitted MobyGames biography describes the company at the time as run by its founders, Ken and Roberta Williams, and "still very much a mom & pop organization and missing a shipping date meant losing the company, so everyone wore multiple hats."[^ref-4] Her first producer credits include [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]], the VGA remake of Police Quest, [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] and the five Crazy Nick's Software Picks packs.[^ref-19]
 
-Her America's Most Wanted background is often noted. One retrospective blogger wrote: "Ms. Dargan apparently had prior work experience on the American TV Show America's Most Wanted. Did this make her uniquely qualified to helm the creation of a Police Quest game? Who knows."[^ref-5] QFG3 co-designer Corey Cole recalled that she "strenuously objected to the use of [the word] 'native' in Quest for Glory III, and globally changed it to 'indigenous,'" adding: "But she was also a professional and did the jobs assigned to her."[^ref-17]
+Her America's Most Wanted background is often noted. One retrospective blogger wrote: "Ms. Dargan apparently had prior work experience on the American TV Show America's Most Wanted. Did this make her uniquely qualified to helm the creation of a Police Quest game? Who knows."[^ref-5] QFG3 co-designer Corey Cole ironically remembers her as one of the most stereotypically liberal of all Sierra's employees; he said she "strenuously objected to the use of [the word] 'native' in Quest for Glory III, and globally changed it to 'indigenous,'" adding: "But she was also a professional and did the jobs assigned to her."[^ref-17]
 
 ### Sierra Years
 
@@ -43,7 +43,7 @@ Dargan was game designer on SWAT 3: Close Quarters Battle (1999) and its Elite E
 
 Police Quest: Open Season is Dargan's best-known and most controversial game. PC Gamer wrote: "Daryl F. Gates was presented as the author of the game, but most of it was actually designed and written by Sierra staffer Tammy Dargan."[^ref-2] VICE adds that "Gates gave her script notes."[^ref-35] Hardcore Gaming 101 likewise concluded that the game "actually seems to be designed by Tammy Dargan."[^ref-39] MobyGames credits her with design, writing and direction, and as producer, with Gates credited as author.[^ref-19][^ref-37]
 
-The game has drawn heavy criticism for its racial content. PC Gamer says "it was Dargan who was responsible for a lot of the racial caricatures in the game."[^ref-2] According to the Starling Database, Dargan said her main inspiration for the dialogue of characters such as "Raymond Jones The Third" and "Yo Money" was Fab Five Freddy's slang dictionary Fresh Fly Flavor: Words and Phrases of the Hip-Hop Generation.[^ref-3] Starling does not name where she said this; Wikipedia's article on the game attributes the same defense to Joseph Tirella's "Video Vigilante" in Vibe, April 1994, p. 23, which this page has not been able to read directly, so the claim rests on those two secondary accounts.[^ref-3][^ref-40] Asked by Vibe magazine about the dialogue, Gates said: "I told [Sierra] that these people use the same language that you and I use."[^ref-35]
+The game has drawn heavy criticism for its racial content. PC Gamer says "it was Dargan who was responsible for a lot of the racial caricatures in the game."[^ref-2] Vibe's April 1994 profile "Video Vigilante" reports: "(According to Dargan, all the lingo was inspired by Fab 5 Freddy's Fresh Fly Flavor.)"[^ref-44] The Starling Database and Wikipedia repeat the defense, with Starling naming characters such as "Raymond Jones The Third" and "Yo Money"; Vibe's wording is "all the lingo," not specific characters.[^ref-3][^ref-40] Vibe says that although Gates is credited as author, he "insisted on changing some material penned by" Dargan, "a former segment producer for America's Most Wanted," whereas VICE says only that Gates gave her script notes.[^ref-44][^ref-35] On the colloquialisms, Gates told Vibe: "I told [Sierra] that these people use the same language that you and I use. A lot of that was changed."[^ref-44]
 
 ### Police Quest: SWAT (1995)
 
@@ -124,3 +124,4 @@ Dargan remained at the head of the SWAT series for much of its run.[^ref-17] Ope
 [^ref-41]: [MobyGames - SWAT 3: Close Quarters Battle, Windows credits (Wayback, December 22, 2023)](https://web.archive.org/web/20231222062439/https://www.mobygames.com/game/845/swat-3-close-quarters-battle/credits/windows/) — Producer Rod Fung; Game Designer, Writer and Director Tammy Dargan
 [^ref-42]: [MobyGames - Phantasmagoria: A Puzzle of Flesh, DOS credits (Wayback, October 12, 2023)](https://web.archive.org/web/20231012171315/https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/credits/dos/) — Project Manager Tammy Dargan
 [^ref-43]: [MobyGames - EcoQuest: The Search for Cetus, DOS credits (Wayback, December 9, 2024)](https://web.archive.org/web/20241209104911/https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) — Producer Tammy Dargan
+[^ref-44]: [Vibe, April 1994 - Joseph Tirella, "Video Vigilante" (archive.org)](https://archive.org/details/bub_gb_1SsEAAAAMBAJ) — Dargan: "all the lingo was inspired by Fab 5 Freddy's Fresh Fly Flavor"; Gates "insisted on changing some material penned by" Dargan; Gates quote on language
