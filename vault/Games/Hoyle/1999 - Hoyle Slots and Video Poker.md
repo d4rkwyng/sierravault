@@ -10,7 +10,7 @@ series: Hoyle Series
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Hoyle Slots & Video Poker is a Hoyle-branded casino game from Sierra,
   first released in 1999 under the Sierra Attractions label, with slot machines,
   video poker machines and a bonus horse racing game.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-series, sierra]
 ---
 # Hoyle Slots and Video Poker
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -61,7 +61,7 @@ MobyGames describes no campaign or progression structure: the player chooses mac
 
 The classic slots are all multi-coin machines. On most of them each coin in play activates another pay column; the Progressive machines "use multiple paylines instead of successive pay columns", so they can pay diagonally as well as horizontally[^ref-26]. On a $1,000 three-coin machine, a maximum bet costs $3,000 per spin[^ref-4].
 
-The help file gives a payoff rate for each video poker machine. Easy Money pays 100%, A-10 Shun 99.1% and Wild Party 99%, while Joker's Wild is "below 92%"[^ref-26]. Hang 10 is listed at "below 95%", and "offers nice payoffs for the Full House and Straight, but low payoffs for Two Pair"[^ref-26]. MobyGames summarises the range as 92% to 100%[^ref-4].
+The help file gives a payoff rate for each video poker machine. Easy Money pays 100%, Jacks Back 95.5%, A-10 Shun 99.1% and Wild Party 99%, while Crawdad is "below 93%", Wild Country "below 94%", Born 2 Be Wild "below 95%", Wild Thing "below 96%" and Joker's Wild "below 92%"[^ref-26]. Hang 10 is listed at "below 95%", and "offers nice payoffs for the Full House and Straight, but low payoffs for Two Pair"[^ref-26]. MobyGames summarises the range as 92% to 100%[^ref-4].
 
 ### Machines and Variations
 
@@ -110,7 +110,7 @@ The game is part of the Hoyle line that Sierra began in 1989 with Hoyle's Offici
 
 ### Production
 
-Sierra Chest and PCGamingWiki credit development to Sierra On-Line[^ref-7][^ref-8]. MobyGames lists Sierra On-Line, Inc. as publisher[^ref-4], while the US box carries the Sierra Attractions label[^ref-18]. No individual development credits have been documented. Sierra's product page was still offering the game at $19.95 in October 1999[^ref-23].
+Sierra Chest and PCGamingWiki credit development to Sierra On-Line[^ref-7][^ref-8]. MobyGames lists Sierra On-Line, Inc. as publisher[^ref-4], while the US box carries the Sierra Attractions label[^ref-18]. No individual development credits have been documented. Sierra's product page was still offering the game at $19.95 in October 1999[^ref-23]. The two Chips & Bits ads carry different date codes beside the title: "05/99" in *Computer Games Strategy Plus* (August 1999) and "08/99" in *Computer Games* (December 1999)[^ref-24][^ref-25].
 
 The help file says the game can be played with or without the CD in the drive, but without it "some features of the game are disabled", including "the horse racing announcer's speech and several of the animations in the various games"[^ref-26][^ref-4]. Sierra's product page likewise noted that the "hard drive version does not include character voices or animations"[^ref-22].
 
@@ -168,7 +168,7 @@ According to Wikipedia, publication of the Hoyle Casino series moved from Sierra
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- Not currently available on GOG or Steam (checked 2026-11-12)
 - No known digital distribution currently available. Encore's *Hoyle Slots & Video Poker 3* is a different product[^ref-29]
 
 **Download / Preservation**
