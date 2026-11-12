@@ -10,7 +10,7 @@ series: Gray Matter
 engine: null
 protagonist: Samantha Everett
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Gray Matter is a supernatural point-and-click adventure game created
   by designer Jane Jensen, her first adventure game in over a decade after Gabriel
   Knight 3.
@@ -18,7 +18,7 @@ tags: [2010s, adventure, jane-jensen, sierra]
 ---
 # Gray Matter
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -76,16 +76,18 @@ Puzzles include riddles, word games, visual puzzles, mazes and magic tricks[^ref
 | GameSpot (Xbox 360) | 6.5/10 | Awkward radial menu controls[^ref-14] |
 | IGN | 7.5/10 | Puzzles called "one of its less impressive aspects"[^ref-23] |
 | PC Gamer | 74/100 | "A welcome return for one of adventure gamings patron designers, if not quite a glorious return to form"[^ref-24] |
+| Adventure Classic Gaming | 5/5 | "A game that can easily measure up against the best of what the genre can offer"[^ref-44] |
 | Choicest Games | 9/10 | "Old-fashioned adventure gaming with a 21st century veneer"[^ref-2] |
 | Dread Central | 4.5/5 | "A handsomely produced title that never goes where you quite expect it to"[^ref-25] |
 | Grave Noise (Xbox 360) | 7/10 | Praised story and visuals; criticized length and replay value[^ref-17] |
 | PopMatters | 4/10 | Negative review[^ref-32] |
+| Edge (PC) | 5/10 | Issue 224, February 2011; score as listed by Wikipedia[^ref-6] |
 
 The game carries a PEGI 12 rating in Europe on both Windows and Xbox 360[^ref-30].
 
 ### Critical Consensus
 
-Metacritic aggregated the PC version to a score of 72/100 based on 27 critic reviews, which it classifies as "mixed or average"[^ref-7], while MobyGames shows a critics score of 78%[^ref-30]. According to Wikipedia, most criticism was directed at the quality of the cutscenes, which reviewers considered out of keeping with the quality of the rendered graphics[^ref-6].
+Metacritic aggregated the PC version to a score of 72/100 based on 27 critic reviews, which it classifies as "mixed or average"[^ref-7], while MobyGames shows a critics score of 78%[^ref-30]. Criticism centred on the cutscenes. Choicest Games thought they seemed "drawn by amateurs"[^ref-2], Adventure Gamers said they "often miss their mark"[^ref-1], and Dread Central wrote that they "unfold through unanimated hand-drawings that cheapen an otherwise great game"[^ref-25]. Wikipedia likewise summarizes most criticism as directed at the cutscenes, which were considered out of keeping with the quality of the rendered graphics[^ref-6].
 
 IGN's Nathan Meunier scored it 7.5/10. His verdict praised its "excellent visual flair, interesting characters, and creative storytelling," but said that the fact its puzzles "are one of its less impressive aspects is a major disappointment"[^ref-23].
 
@@ -113,7 +115,7 @@ Reviewers were critical of the voice work. Choicest Games found that "the emphas
 
 ### Music and Sound
 
-The soundtrack was composed by [[Robert Holmes]], Jane Jensen's husband, who also wrote the Gabriel Knight scores[^ref-1][^ref-38]. Vocal tracks are performed by The Scarlet Furies, an indie band whose members include Holmes and his daughter Raleigh Holmes[^ref-1][^ref-38]. Adventure Gamers singled out the band's songs, especially the lead track "Safe in Arms"[^ref-1].
+The soundtrack was composed by [[Robert Holmes]], Jane Jensen's husband, who also wrote the Gabriel Knight scores[^ref-1][^ref-38]. Vocal tracks are performed by The Scarlet Furies, an indie band whose members include Robert Holmes and Raleigh Holmes[^ref-1][^ref-38]. Adventure Gamers singled out the band's songs, especially the lead track "Safe in Arms"[^ref-1].
 
 According to a March 2010 dtp entertainment press release, Jensen, Holmes and dtp teamed up with Periscope Studio, a Hamburg sound company, which arranged Holmes's compositions and designed the game's sound effects and background atmospheres, while Jensen and Holmes kept control of the music and sound production. The soundtrack was inspired by 1970s science-fiction film scores, relying on synthesizers rather than orchestral sound, and Periscope produced 17 music tracks plus 10 very short tracks tied to the player's actions[^ref-51].
 
@@ -139,6 +141,13 @@ Jensen had envisioned a long series[^ref-9], but no sequel has been released. Gr
 
 On April 5, 2012, Jensen and [[Robert Holmes]] announced Pinkerton Road Studio and launched a Kickstarter campaign to fund its first year of development[^ref-46]. In 2014 the studio released Moebius: Empire Rising and Gabriel Knight: Sins of the Fathers 20th Anniversary Edition, but sales were too poor for the company to continue[^ref-46].
 
+### Trivia
+
+- In her introduction in the game manual, Jensen recommends three works for exploring the game's subject matter: Oliver Sacks's *The Man Who Mistook His Wife for a Hat*, V.S. Ramachandran and Sandra Blakeslee's *Phantoms in the Brain*, and Dean Radin's *The Conscious Universe*[^ref-4].
+- The game was originally planned for release in 2004 by The Adventure Company, to be developed by Jane Jensen's cofounded company Odyssey Digital Entertainment[^ref-4].
+- *Gray Matter 2* was one of three options offered to backers of Jensen's Pinkerton Road Kickstarter. According to MobyGames, its plot would have had David Styles and Samantha investigating the death of a young student with magical abilities[^ref-4].
+- In a February 2009 interview with Edge, Jensen said: "There are plans for a Wii port of Gray Matter, and I hope it happens."[^ref-53] The game was released only for Windows and Xbox 360[^ref-6].
+
 ## Technical Specifications
 
 | Specification | Details |
@@ -160,6 +169,7 @@ On April 5, 2012, Jensen and [[Robert Holmes]] announced Pinkerton Road Studio a
 ## See Also
 
 
+- [[Gabriel Knight Series]]
 - [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
@@ -194,7 +204,7 @@ On April 5, 2012, Jensen and [[Robert Holmes]] announced Pinkerton Road Studio a
 [^ref-15]: [Alternative Magazine](https://alternativemagazineonline.co.uk/2011/04/29/interview-in-conversation-with-jane-jensen-game-designer-gabriel-knight-trilogy-gray-matter/) – Jensen interview: themes, characters, reasons for the delays
 [^ref-16]: [Game Pressure](https://www.gamepressure.com/graymatter/) – Dual character perspective
 [^ref-17]: [Grave Noise (formerly GBHBL) – Gray Matter (Xbox 360) review](https://www.gravenoisemedia.com/gray-matter-review-xbox-360/) – 7/10, puzzle difficulty
-[^ref-18]: Adventure Gamers Preview *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – No pixel-hunting gameplay design
+[^ref-18]: Adventure Gamers Preview *(Marek, 30 Aug 2006, reprinted from Adventure-Treff; Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – No pixel-hunting gameplay design
 [^ref-19]: [GameFAQs Guide](https://gamefaqs.gamespot.com/xbox360/997937-gray-matter/faqs/62036) – Interactive elements highlighting feature
 [^ref-21]: [Hardcore Gaming 101 (Archived June 2024)](https://web.archive.org/web/20240621230038/http://www.hardcoregaming101.net/gray-matter/) *(the live site was in maintenance mode on 2026-11-11)* – Character perspective alternation and development history
 [^ref-22]: [GameSpot Review (PC)](https://www.gamespot.com/reviews/gray-matter-review/1900-6301045/) – Jane Douglas, 7/10; eight chapters, puzzle critique
@@ -217,6 +227,7 @@ On April 5, 2012, Jensen and [[Robert Holmes]] announced Pinkerton Road Studio a
 [^ref-47]: [Adventure Gamers – Jane Jensen's Gray Matter revived (Archived June 2025)](https://web.archive.org/web/20250604223513/https://adventuregamers.com/news/view/20105) – Jack Allin, August 16, 2006: "Project Jane-J" "put on hold" in May 2004; ANACONDA to publish; unveiling at the Games Convention in Leipzig
 [^ref-48]: [The A.V. Club – Gray Matter review (Archived October 2012)](https://web.archive.org/web/20121011021221/http://www.avclub.com/articles/gray-matter,53074/) – Rowan Kaiser: "it's the best traditional adventure game in a decade"
 [^ref-49]: [Gamersyde – Gray Matter on time for Christmas](https://www.gamersyde.com/news_gray_matter_on_time_for_christmas-10098_en.html) – Driftwood, October 19, 2010: France, Spain and Italy on December 2, Germany, Switzerland and Austria on November 12, UK in February 2011
-[^ref-50]: [MobyGames – Credits](https://www.mobygames.com/game/49129/gray-matter/credits/) *(read via the MobyGames API)* – Per-country release dates (Germany/Austria/Switzerland 2010-11-12, Italy 2011-01-27, United States 2011-02-22, United Kingdom 2011-02-25); development credits including Spiders SARL (Xbox 360 port) and Periscope Studio (sound)
+[^ref-50]: [MobyGames – Credits](https://www.mobygames.com/game/49129/gray-matter/credits/) – Per-country release dates (Germany/Austria/Switzerland 2010-11-12, Italy 2011-01-27, United States 2011-02-22, United Kingdom 2011-02-25); development credits including Spiders SARL (Xbox 360 port) and Periscope Studio (sound)
 [^ref-51]: [AFJV – Unique soundtrack for Jane Jensen adventure game Gray Matter](https://jeuvideo.afjv.com/news/801_gray_matter.htm) – dtp entertainment press release (March 2010) on Periscope Studio's arrangements, sound effects and 17 music tracks
 [^ref-52]: [GOG.com – Gray Matter store address](https://www.gog.com/en/game/gray_matter) – Checked 2026-11-11: redirects to the general GOG games catalogue (no product page)
+[^ref-53]: [Engadget – Jane Jensen's Gray Matter may puzzle Wii owners](https://www.engadget.com/2009-02-02-jane-jensens-gray-matter-may-puzzle-wii-owners.html) – JC Fletcher, February 2, 2009; Jensen quoted from an Edge interview on a planned Wii port
