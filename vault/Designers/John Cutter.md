@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Defender of the Crown", "Betrayal at Krondor", "Rocket Ranger", "Wings", "The Three Stooges", "Fairway Solitaire"]
 companies: ["Gamestar", "Cinemaware", "New World Computing", "Dynamix", "Cavedog Entertainment", "Gas Powered Games", "Big Fish Games", "Wooga"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # John Cutter
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -49,13 +49,13 @@ Cutter pitched a sequel and its budget to Dynamix CEO Tony Reyneke, who, Cutter 
 
 ### Middle Career (1994–2006)
 
-Cutter went on to work as a designer for Cavedog Entertainment, and later for Amaze Entertainment and Gas Powered Games.[^ref-1] At Cavedog he hired Neal Hallford again for Elysian, an episodic game set in a dream world that was cancelled before release.[^ref-10] At Gas Powered Games he is credited with additional design on Dungeon Siege II (2005), and he said Chris Taylor made him design director.[^ref-23][^ref-10] He is also credited under Adrenium Games' senior management on Samurai Jack: The Shadow of Aku (2004).[^ref-24]
+MobyGames credits him as producer and designer on The Muppet CD-ROM: Muppets Inside (1996, Windows).[^ref-9] Cutter went on to work as a designer for Cavedog Entertainment, and later for Amaze Entertainment and Gas Powered Games.[^ref-1] At Cavedog he hired Neal Hallford again for Elysian, an episodic game set in a dream world that was cancelled before release.[^ref-10] At Gas Powered Games he is credited with additional design on Dungeon Siege II (2005), and he said Chris Taylor made him design director.[^ref-23][^ref-10] He is also credited under Adrenium Games' senior management on Samurai Jack: The Shadow of Aku (2004).[^ref-24]
 
 During this period, Cutter observed significant changes in the industry. As he later reflected: "Publishers became a critical cog in the machine and as production costs increased many became risk averse, refusing [to] take chances on new concepts or ideas. I still loved my job, but I missed the old days."[^ref-4]
 
 ### Big Fish Games Era (2006–2014)
 
-In 2004, Cutter's wife discovered Big Fish Games' website and became addicted to the casual games there.[^ref-4] Cutter saw in the casual gaming space "glimpses of the old Wild West".[^ref-4] After a few months at Secret Lair Studios, an MMO startup, he was recruited by Big Fish studio VP Pat Wylie. MobyGames dates his move to Big Fish to 2006.[^ref-4][^ref-1]
+Cutter saw in casual games "glimpses of the old Wild West".[^ref-4] After a few months at Secret Lair Studios, an MMO startup, he was recruited by Big Fish studio VP Pat Wylie. MobyGames dates his move to Big Fish to 2006.[^ref-4][^ref-1]
 
 By 2014 he had been at Big Fish "for over 8 years" and had "designed nearly a dozen games", many of them early titles for an online community site that no longer exists.[^ref-4] He was Creative Director and Lead Designer of Fairway Solitaire.[^ref-25] His early credits include additional design on Mystic Inn (2006), Travelogue 360: Paris (2006) and Azada (2007), plus Azada's story.[^ref-26][^ref-27][^ref-9]
 
@@ -67,7 +67,7 @@ Fairway Solitaire was a finalist for both Casual Game of the Year and Mobile Gam
 
 ### Later Work (2014–Present)
 
-MobyGames credits Cutter with game design on Wings!: Remastered Edition (2014), a re-release of his Cinemaware game.[^ref-1][^ref-9] He later joined Wooga.[^ref-6]
+MobyGames credits Cutter with game design on Wings!: Remastered Edition (2014), a re-release of his Cinemaware game, and on the 2015 Macintosh release of Wings and the 2023 mobile game Ghost Detective.[^ref-1][^ref-9] He later joined Wooga.[^ref-6]
 
 ## Notable Works
 
@@ -89,7 +89,7 @@ Cutter designed and produced Fairway Solitaire.[^ref-33] For the downloadable ve
 
 ## Design Philosophy
 
-Cutter has said he is "easily inspired", naming his family, his co-workers, walks through Seattle, films, television, books and great games as sources. His favorite game of all time is M.U.L.E.[^ref-4]
+Cutter has said he is "easily inspired", naming his co-workers, walks through Seattle, films, television, books and great games as sources. His favorite game of all time is M.U.L.E.[^ref-4]
 
 His relationship with exceptional games is particularly noteworthy. Cutter explains: "When I play a really phenomenal game I don't want to play it anymore... I want to start creating MY masterwork!"[^ref-4]
 
@@ -139,6 +139,7 @@ Howard the Duck: Animation on the 1986 Commodore 64 version and "Created by" on 
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
+| 1996 | The Muppet CD-ROM: Muppets Inside | — | Producer, Designer |
 | 2002 | Defender of the Crown: Digitally Remastered | Cinemaware Inc. | Associate Producer, Artist (carried over from the original credits) |
 | 2002 | The Three Stooges: Digitally Remastered | Cinemaware Inc. | Producer/Director (carried over from the original credits) |
 | 2004 | Samurai Jack: The Shadow of Aku | Adrenium Games | Senior Management |
@@ -164,6 +165,8 @@ Howard the Duck: Animation on the 1986 Commodore 64 version and "Created by" on 
 | Year | Title | Role |
 |------|-------|------|
 | 2014 | Wings!: Remastered Edition | Game Design |
+| 2015 | Wings (Macintosh) | Game Design |
+| 2023 | Ghost Detective | Game Design |
 
 ## References
 
@@ -173,7 +176,7 @@ Howard the Duck: Animation on the 1986 Commodore 64 version and "Created by" on 
 [^ref-4]: [Academy of Interactive Arts & Sciences - John Cutter Interview](https://www.interactive.org/about/ams_john_cutter.asp) — Career interview: Pepperdine, BASIC/C64, junior coder, Big Fish hiring, Fairway Solitaire "sardines in peanut butter" quote, inspirations, advice
 [^ref-5]: [Legendary Games Interview (YouTube)](https://www.youtube.com/watch?v=0fBWh71rP9E) — March 2022 video; the English description quotes the "rock stars" line and summarizes his Cinemaware role
 [^ref-6]: [LinkedIn - John Cutter](https://www.linkedin.com/in/johnmcutter/) — Profile: "40 years as a game developer"; Honors & Awards list; current employer Wooga
-[^ref-9]: [MobyGames - John Cutter Credits](https://www.mobygames.com/person/64/john-cutter/credits/) — Game credits listing (89 credits on 34 games)
+[^ref-9]: [MobyGames - John Cutter Credits](https://www.mobygames.com/person/64/john-cutter/credits/) — Game credits listing (106 credits on 36 games)
 [^ref-10]: [Matt Chat Interviews John Cutter with Transcript](https://web.archive.org/web/20250220061636/https://mattbarton.net/?p=997) — Matt Barton, June 18, 2015: Employee #1 at Cinemaware; fired by Tony Reyneke over the sequel budget; Cavedog and Elysian; Dungeon Siege 2
 [^ref-12]: [GameFAQs - John Cutter Credits](https://gamefaqs.gamespot.com/games/credit/32044-john-cutter) — Defender of the Crown role credits
 [^ref-13]: [MobyGames - The King of Chicago](https://www.mobygames.com/game/26/the-king-of-chicago/) — Associate Producer and Associate Director credits (MobyGames ID 26)
