@@ -10,28 +10,28 @@ series: Disney
 engine: Pre-AGI
 protagonist: Mickey Mouse
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Al Lowe]
 description: Mickey's Space Adventure is a graphic adventure computer game developed
-  by Sierra On-Line in collaboration with Walt Disney Computer Software, released
+  by Sierra On-Line with the Walt Disney Personal Computer Software staff, released
   in December 1984.
 tags: [1980s, al-lowe, disney, educational, roberta-williams,
   sierra]
 ---
 # Mickey's Space Adventure
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Mickey's Space Adventure is a graphic adventure computer game developed by Sierra On-Line in collaboration with Walt Disney Computer Software, released in December 1984.[^ref-1] It was one of the first computer games to star Mickey Mouse; the Disney Fandom wiki calls it the first Mickey computer game,[^ref-2] while Atari's *Sorcerer's Apprentice* (Atari 2600, December 1983) had already starred him in a console game.[^ref-36] Designed by [[Roberta Williams]] with music composed by [[Al Lowe]],[^ref-8][^ref-32] the game was an early product of Sierra's Disney contract, which also produced Donald Duck's Playground and, later, The Black Cauldron.[^ref-3][^ref-1]
+Mickey's Space Adventure is a graphic adventure computer game developed by Sierra On-Line with the Walt Disney Personal Computer Software staff, released in December 1984.[^ref-1][^ref-32] It was one of the first computer games to star Mickey Mouse; the Disney Fandom wiki calls it the first Mickey computer game,[^ref-2] while Atari's *Sorcerer's Apprentice* (Atari 2600, December 1983) had already starred him in a console game.[^ref-36] Designed by [[Roberta Williams]], whom *Billboard* named as its author in December 1984, with music composed by [[Al Lowe]],[^ref-8][^ref-32][^ref-37] the game was an early product of Sierra's Disney contract, which also produced Donald Duck's Playground and, later, The Black Cauldron.[^ref-3][^ref-1]
 
 The game features Mickey Mouse and his faithful companion Pluto embarking on an interplanetary quest across the solar system, collecting nine pieces of a fragmented memory crystal for an alien race from the planet Oron.[^ref-4] As an educational title aimed at children, the game combines adventure gameplay with lessons about astronomy, planetary science, and problem-solving skills, exploring the solar system through approximately 150 captivating scenes.[^ref-5] The game was marketed under the Walt Disney Personal Computer Software banner with the motto "Playing for fun/learning for life," with its publisher's description promising to capture "your child's imagination while developing skills and knowledge."[^ref-7][^ref-5]
 
 Mickey's Space Adventure exemplified Sierra's approach to children's educational software during the mid-1980s, utilizing a simplified, typing-free interface aimed at young players of reading age.[^ref-6] Reviewing it alongside Winnie the Pooh in the Hundred Acre Wood, Apple User noted that software houses often build games around famous characters in the hope that the character sells the game, but concluded of both titles that "they deserve to succeed on merit alone."[^ref-7]
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]], Walt Disney Computer Software[^ref-4]
+> **Developer:** [[Sierra On-Line]], Walt Disney Personal Computer Software staff[^ref-32]
 > **Design/Writing:** [[Roberta Williams]], The Walt Disney Personal Computer Software Staff[^ref-32]
 > **Music:** [[Al Lowe]][^ref-8]
 > **Publisher:** Sierra On-Line, U.S. Gold Ltd., Tandy Corporation[^ref-9]
@@ -80,7 +80,7 @@ The planet visit order is randomized with each new game, so players cannot simpl
 
 ### Puzzles and Mechanics
 
-The gameplay involves exploring environments, managing an inventory of collected items, and solving simple puzzles;[^ref-20] Pixelated Arcade gives the target age as 8 and up.[^ref-19] Air is limited while Mickey is out in his spacesuit: after 50 commands without returning to the ship, the suits run out of air, and going back to the ship replenishes it.[^ref-11][^ref-19]
+The gameplay involves exploring environments, managing an inventory of collected items, and solving simple puzzles;[^ref-20] Pixelated Arcade gives the target age as 8 and up,[^ref-19] while *Billboard* described Disney's software line as geared for ages seven and up.[^ref-37] Air is limited while Mickey is out in his spacesuit: after 50 commands without returning to the ship, the suits run out of air, and going back to the ship replenishes it.[^ref-11][^ref-19]
 
 An educational element involves Mickey's weight: on Earth he weighs 100 lb, and if the player takes his bathroom scale along, Mickey can be weighed on each planet to show the effect of different gravities.[^ref-7][^ref-16] The manual adds suggested follow-up activities and a glossary of science terms.[^ref-7][^ref-19] GameFAQs users put its length at about 2 hours (PC) and 4 hours (C64), and rate it simple or easy.[^ref-5][^ref-22]
 
@@ -109,7 +109,7 @@ Another Grouvee user review judged it "a more complex adventure" than Sierra's t
 
 ### Origins
 
-Mickey's Space Adventure originated as a joint project between Sierra On-Line and Disney prior to their later collaboration on The Black Cauldron.[^ref-1] The game was intended for children.[^ref-1] The collaboration gave Sierra access to Mickey Mouse and Pluto for one of the earliest computer games to feature them.[^ref-2][^ref-36]
+Mickey's Space Adventure originated as a joint project between Sierra On-Line and Disney prior to their later collaboration on The Black Cauldron.[^ref-1] The game was intended for children.[^ref-1] *Billboard* reported in December 1984 that it took nearly seven months for Disney and Sierra to complete the first three games, and that Roberta Williams authored this one.[^ref-37] Jimmy Maher writes that Sierra bought the Disney license, with Disney's tacit approval, from Texas Instruments, and that oversight of Sierra's work fell to Disney's educational-films division, whose staff, in his words, "didn't even know how to boot a computer"; Sierra's artists were repeatedly told to make Mickey's ears "rounder", which the large square pixels made impossible.[^ref-38] The collaboration gave Sierra access to Mickey Mouse and Pluto for one of the earliest computer games to feature them.[^ref-2][^ref-36]
 
 ### Production
 
@@ -197,7 +197,7 @@ The alternate ending depends only on whether the player writes the optional lett
 
 ### Sales and Commercial Impact
 
-Mickey's Space Adventure was an early product of Sierra's profitable contract with Disney.[^ref-3] No sales figures have been found. Apple User's reviewers judged that it did not merely rely on its famous character and "could easily form part of a school's software library."[^ref-7]
+Mickey's Space Adventure was an early product of Sierra's contract with Disney.[^ref-3] Jimmy Maher writes that Sierra avoided Disney's huge upfront licensing fee by buying the existing contract from Texas Instruments, but "paid dearly for the license on the back end via exorbitant royalties"; the deal "resulted in only a handful of releases, including one each for Donald Duck, Mickey Mouse, and Winnie the Pooh."[^ref-38] No sales figures specific to this game have been published. *Billboard* reported in December 1984 that Sierra was selling three of the Disney titles, including this one, for about $40, and that "it is believed that initial orders numbered about 40,000" across them.[^ref-37] Maher notes that, like much Sierra software, the game was sold through Radio Shack; his illustration shows a copy with a sticker advertising Tandy 1000 compatibility.[^ref-38] Apple User's reviewers judged that it did not merely rely on its famous character and "could easily form part of a school's software library."[^ref-7]
 
 ### Collections
 
@@ -279,3 +279,5 @@ Apple User's reviewers reported that their seven-year-old "has enjoyed learning 
 [^ref-34]: [MobyGames – TRS-80 CoCo credits](https://www.mobygames.com/game/7273/mickeys-space-adventure/credits/trs-80-coco/) – user-contributed entry listing "Design: Al Lowe"
 [^ref-35]: [Al Lowe – Disc-o-graphy](http://allowe.com/al/disc-o-graphy.html) – lists Mickey's Space Adventure under "Music"
 [^ref-36]: [Wikipedia – Sorcerer's Apprentice (video game)](https://en.wikipedia.org/wiki/Sorcerer%27s_Apprentice_(video_game)) – Atari 2600, released December 1983; the player plays as Mickey Mouse
+[^ref-37]: [Internet Archive – Billboard, December 15, 1984](https://archive.org/details/bub_gb_nSQEAAAAMBAJ/page/n25/mode/2up) – "Walt Disney Productions teams with Sierra On-Line on five programs"; about $40, initial orders about 40,000, ages seven and up; "Roberta Williams authored 'Mickey's Space Adventure'"
+[^ref-38]: [Jimmy Maher – The Digital Antiquarian, "Splendid Isolation: Sierra at Mid-Decade" (7 August 2015)](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) – Texas Instruments license purchase, exorbitant royalties, Disney educational-films oversight, Radio Shack distribution
