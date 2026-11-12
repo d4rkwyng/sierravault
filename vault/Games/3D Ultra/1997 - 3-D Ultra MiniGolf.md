@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: Unknown
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 3D Ultra Minigolf is a miniature golf game released in 1997 by Sierra
   On-Line, developed by Dynamix and Jeff Tunnell Productions, and the first entry in
   the 3D Ultra Minigolf series.
@@ -19,7 +19,7 @@ last_modified: 2026-11-11T12:00:00-06:00
 ---
 # 3D Ultra Minigolf
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -62,6 +62,8 @@ The original release contains 18 different courses divided into two distinct 9-h
 
 - **Classic Holes (9 holes):** Traditional miniature golf designs such as the Windmill, Lighthouse, Fairytale Castle and Lost Mine[^ref-17]
 - **Out-of-This-World Holes (9 holes):** Fantasy-themed holes such as the Moon Base, Dinosaur Hole, Abominable Snowman and Volcanoes[^ref-17]
+
+The Dynamix press release for the Deluxe edition separates the original front and back nines from the new Deluxe nine, and lists Old Mother Hubbard's shoe among the front-nine holes, and a T. Rex in a prehistoric jungle and a volcanic crater among the back-nine holes.[^ref-23] The final course is the Incredible Machine.[^ref-16]
 
 The game supports multiple play modes that allow flexibility in how players approach the courses:[^ref-17]
 - **Traditional Minigolf:** Standard scoring across full courses
@@ -160,7 +162,7 @@ The multiplayer support for up to four players made it suitable for party gaming
 
 ### Technical Issues
 
-The game has known compatibility issues with modern operating systems. One user notes that without a fix "The game won't work on modern computers otherwise," and a Windows 10 user reports having to "change the compatibility to "win 98/me"" to see anything.[^ref-6] Another commenter could not get it to run on Windows 7.[^ref-6]
+The game has known compatibility issues with modern operating systems. One user notes that without a fix "The game won't work on modern computers otherwise," and a Windows 10 user reports having to "change the compatibility to "win 98/me"" to see anything.[^ref-6] Another commenter could not get it to run on Windows 7,[^ref-6] while a February 2021 commenter wrote "Works great on windows 10, no patch needed!"[^ref-6]
 
 Additionally, the Collection Chamber preservation site notes that the "Preferences button on main menu crashes the game" in their preserved version.[^ref-3]
 
@@ -203,7 +205,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam (original 1997 version)
+- Not listed on GOG or Steam (checked 2026-11-12)[^ref-27]
 - [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)[^ref-8] – 2006 sequel
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-1997)
 
@@ -248,7 +250,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 [^ref-12]: [Mini Golf Maniacs Mod](https://minigolfmaniacs.sourceforge.net/) — Fan mod site for the completed Minigolf Maniacs, with 2007 release news
 [^ref-13]: [MobyGames – 3-D Ultra Minigolf (1997)](https://www.mobygames.com/game/2295/3-d-ultra-minigolf/) — Canonical MobyGames database record for the 1997 original
 [^ref-14]: [MobyGames – 3-D Ultra Minigolf (1997) credits](https://www.mobygames.com/game/2295/3-d-ultra-minigolf/credits/) — Development team attribution, Dynamix and Jeff Tunnell Productions personnel
-[^ref-15]: [MobyGames – 3-D Ultra Minigolf (1997) reviews](https://www.mobygames.com/game/2295/3-d-ultra-minigolf/reviews/) — Aggregate critic and player reviews of the 1997 release
+[^ref-15]: [MobyGames – 3-D Ultra Minigolf (1997) reviews (Wayback Machine, 2026-10-04)](https://web.archive.org/web/20261004155201/https://www.mobygames.com/game/2295/3-d-ultra-minigolf/reviews/) — Aggregate critic and player reviews of the 1997 release
 [^ref-16]: [MobyGames – 3-D Ultra Minigolf (1997) screenshots](https://www.mobygames.com/game/2295/3-d-ultra-minigolf/screenshots/) — Visual documentation of the game's holes
 [^ref-17]: [Sierra Chest – 3-D Ultra Minigolf](https://sierrachest.com/index.php?a=g&id=108&fld=s) — First release 1997-04-15, Jeff Tunnell Productions, hole list, modes, putting techniques, patch 1.01, compilations
 [^ref-18]: [Internet Archive – Best Buy Presents 3-D Ultra Minigolf](https://archive.org/details/best-buy-presents-3-d-ultra-minigolf) — Best Buy-exclusive Sierra disc (install build 2/9/00) with Sierra demos and "3D Ultra Mini Golf 1.1 (1/28/00)"
@@ -260,3 +262,4 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 [^ref-24]: [ELI Software Encyclopedia – 3-D Ultra Minigolf (PC, CD-ROM) Sierra, 1997 USA/Canada release](https://elisoftware.org/wiki/3-D_Ultra_Minigolf_(PC,_CD-ROM)_Sierra_-_1997_USA,_Canada_Release) — Box data: Windows 3.1/95, 486-66, 8 MB RAM, 2X CD-ROM, SVGA 256 color, audio
 [^ref-25]: [MobyGames – 3-D Ultra Minigolf (Wayback Machine, 2026-09-12)](http://web.archive.org/web/20260912081458/https://www.mobygames.com/game/2295/3-d-ultra-minigolf/) — Full 17-person Windows credit list, Windows and Windows 16-bit releases, "Included in" compilations
 [^ref-26]: [MobyGames – 3-D Ultra Minigolf specs (Wayback Machine, 2023-06-12)](http://web.archive.org/web/20230612144444/https://www.mobygames.com/game/2295/3-d-ultra-minigolf/specs/) — Minimum Intel i486 DX2, 8 MB RAM, 2X CD-ROM
+[^ref-27]: Steam store search and GOG catalog search (checked 2026-11-12) — no listing for the 1997 *3-D Ultra Minigolf*; Steam returns only *3D Ultra Minigolf Adventures* (app 10140)
