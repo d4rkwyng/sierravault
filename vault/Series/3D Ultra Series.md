@@ -7,12 +7,12 @@ first_release: 1995
 last_release: 2010
 total_games: 16
 genre: "Casual, Pinball, Mini-Golf, Sports"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # 3D Ultra Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,7 +32,7 @@ The 3D Ultra series is Sierra's casual-game line of pinball, mini-golf, model-tr
 | 1998 | [[1998 - 3-D Ultra NASCAR Pinball\|3-D Ultra NASCAR Pinball]] | Pinball (NASCAR licence) | Windows, Mac | Dynamix / Sierra Attractions |
 | 1999 | [[1999 - 3-D Ultra Cool Pool\|3-D Ultra Cool Pool]] | Pool | Windows | Dynamix / Sierra Attractions |
 | 1999 | [[1999 - 3-D Ultra Lionel TrainTown\|3-D Ultra Lionel TrainTown]] | Model trains (Lionel licence) | Windows | Dynamix / Sierra Attractions[^ref-13] |
-| 1999 | [[1999 - 3-D Ultra Pinball - Power\|3-D Ultra Pinball: Power!]] | Pinball compilation (not counted as a game) | Windows, Windows 3.x, Mac | Dynamix / Sierra On-Line[^ref-16] |
+| 1999 | [[1999 - 3-D Ultra Pinball - Power\|3-D Ultra Pinball: Power!]] | Pinball compilation (not counted as a game); the US edition held Pinball 1 to 3, *The Incredible Machine 3.0* and a *Minigolf* demo, while the EU edition held Pinball 1 to 4 including *NASCAR Pinball*[^ref-32]; Sierra's UK 2000/2001 catalogue sold it as four pinball products totalling 36 tables[^ref-33] | Windows, Windows 3.x, Mac | Dynamix / Sierra On-Line[^ref-16] |
 | 1999 | [[1999 - 3-D Ultra Radio Control Racers\|3-D Ultra Radio Control Racers]] | Racing | Windows | Dynamix / Sierra On-Line |
 | 2000 | [[2000 - 3-D Ultra Lionel TrainTown Deluxe\|3-D Ultra Lionel TrainTown Deluxe]] | Model trains | Windows | Dynamix / Sierra Attractions |
 | 2000 | [[2000 - 3-D Ultra Pinball - Thrill Ride\|3-D Ultra Pinball: Thrillride]] | Pinball | Windows, Mac, Game Boy Color | Dynamix (PC/Mac), Left Field Productions (Game Boy Color) / Sierra On-Line[^ref-16] |
@@ -141,3 +141,5 @@ The Steam page lists Windows 2000/XP/Vista system requirements and Windows as th
 [^ref-29]: [Eurogamer — 3D Ultra Minigolf Adventures review, Dan Whitehead, April 23, 2007 (Wayback Machine)](https://web.archive.org/web/20140930214737/https://www.eurogamer.net/articles/3d-ultra-minigolf-adventures-review) — 5/10; "a curiously inert affair"
 [^ref-30]: [The Sierra Chest — 3D Ultra Minigolf Adventures Deluxe: General (Wayback Machine, March 2025)](http://web.archive.org/web/20250311183537/https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) — 36 holes plus 18-hole Lost Island (July 25, 2007) = 54 holes; originally created in 2000 as Mini Golf Maniacs; unreleased five years after the 2001 Dynamix division shutdown; completed by Wanako in 2006
 [^ref-31]: [Metacritic — 3D Ultra MiniGolf Adventures 2](https://www.metacritic.com/game/3d-ultra-minigolf-adventures-2/) — Metascore "tbd" after 4 critic reviews; user score 6.1 from 7 ratings
+[^ref-32]: [The Sierra Chest — 3-D Ultra Pinball Power: General](https://sierrachest.com/index.php?a=games&id=105&title=pinball-power&fld=general) — "there is a difference in content between the North American and European release"; EU release contains 3-D Ultra Pinball 1 through 4; US release 1 through 3 plus The Incredible Machine 3.0 and the Minigolf demo; read 2026-11-12
+[^ref-33]: [Sierra Games Catalogue 2000/2001, UK (archive.org scan)](https://archive.org/details/sierra-games-catalogue-2000-2001) — "Pinball Power - 4 classic pinball products in one great pack, totalling 36 Tables!"
