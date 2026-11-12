@@ -10,16 +10,16 @@ series: 3-D Ultra
 engine: Unknown/unnamed
 protagonist: N/A (Player-controlled RC cars)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: '3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style
   RC racing game developed by Dynamix and published by Sierra On-Line in 2000, an expanded
   update of the 1999 original with sixteen tracks and new Soccer and Battle Ball modes.'
 tags: [2000s, 3-d-ultra, racing, sierra]
-last_modified: 2026-11-05T12:00:00-07:00
+last_modified: 2026-11-12T12:00:00-07:00
 ---
 # 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -46,7 +46,7 @@ Unlike traditional racing games with narrative frameworks, 3-D Ultra Radio Contr
 
 The game's environments tell their own stories through creative track design. Players race through diverse locations including a frog pond, construction site, backyard setting, pirate cove, and a miniature golf course complete with a rocket, windmill, and waterfall.[^ref-1][^ref-2] Each track features unique obstacles and hazards that add personality to the racing experience—dodge bombs from garden gnomes and an aggressive dog in the backyard, evade a sea monster on the mini-golf track, swirl between tombs in a haunted graveyard, or avoid lava surrounding an Aztec Pyramid.[^ref-9]
 
-The career mode provides structured progression as players compete against fifteen opponents across circuits to earn money.[^ref-9] This economic element allows players to upgrade their vehicles and unlock additional content, creating a sense of advancement through the game's various challenges.
+The career mode provides structured progression as players compete against fifteen opponents across circuits to earn money.[^ref-9] The prize money is used to upgrade the car's tires, engine and shocks.[^ref-9][^ref-2]
 
 ## Gameplay
 
@@ -116,7 +116,7 @@ Players race against three other opponents at all times during standard races.[^
 
 ### Contemporary Reviews
 
-Neoseeker's Adam Byrant reviewed the game on November 23, 2000, awarding it a score of 78%.[^ref-2] The review acknowledged the game's nostalgic appeal, noting that "the ultimate Christmas present for any young child out there would have to be a radio controlled racecar" and praising the game for eliminating the "disappointing hourly charge-ups" of real RC cars.[^ref-2] However, Byrant identified significant issues with the audio design, stating "the biggest problem I had with this game was the sound. The music, announcer dialogue, and above all sound effects of the cars and powerups were the biggest turn-offs."[^ref-2] The review concluded that "RCR just doesn't come through in the lasting fun department, save for maybe the littler ones."[^ref-2]
+Neoseeker's Adam Byrant reviewed the game on November 23, 2000, awarding it a score of 78%.[^ref-2] MobyGames lists an average critic score of 55% based on 2 ratings (as of November 2026).[^ref-22] The review acknowledged the game's nostalgic appeal, noting that "the ultimate Christmas present for any young child out there would have to be a radio controlled racecar" and praising the game for eliminating the "disappointing hourly charge-ups" of real RC cars.[^ref-2] However, Byrant identified significant issues with the audio design, stating "the biggest problem I had with this game was the sound. The music, announcer dialogue, and above all sound effects of the cars and powerups were the biggest turn-offs."[^ref-2] The review concluded that "RCR just doesn't come through in the lasting fun department, save for maybe the littler ones."[^ref-2]
 
 Collection Chamber's retrospective covers the 1999 original (with its eight tracks), not this edition. It found that "3D Ultra has always valued entertainment value over depth of gameplay, and the lack of variety really shows here," while conceding "What is there is a lot of fun. I just wish there was more of it."[^ref-6]
 
@@ -135,14 +135,25 @@ Players have expressed nostalgia for the game, with users on its GOG.com Dreamli
 
 ### Production
 
-Development was handled by Jeff Tunnell Productions under the Dynamix banner.[^ref-9][^ref-1] The game was published under the Sierra Attractions label, listed by the Children's Software directory as "Sierra Attractions (Vivendi)."[^ref-12] Traxxas branding features in the game's Traxxas Raceway track.[^ref-1]
+Development was handled by Jeff Tunnell Productions under the Dynamix banner.[^ref-9][^ref-1] The game was published under the Sierra Attractions label, listed by the Children's Software directory as "Sierra Attractions (Vivendi)."[^ref-12] Traxxas Corporation is credited as licensor, and Traxxas branding features in the game's Traxxas Raceway track.[^ref-1]
 
 **Development Credits:**[^ref-16]
 - **Executive Producer:** Susan Folden
+- **Associate Producer:** Daryl L. Nichols Jr.
 - **Producer:** Randy Thompson
 - **Game Design:** Richard Tunnell, Shawn Bird, Jonathan Paton
+- **Production Assistant:** Jared W. Eden
 - **Lead Programmer:** David McClurg
+- **Car Physics Programmer:** David Merrill
+- **Art Director:** Shawn Bird
+- **Lead Artists:** Danny Ngan, Jonathan Paton, Sienna Chastain
+- **Conceptual Artists:** Don Carson, Marcelo Vignali
+- **Additional Car Skins:** Thomas C. Berry, Brian Davis, Jake Winter
 - **Original Music Composition:** Christopher Stevens
+- **Sound Effects:** Ken Rogers
+- **Voice Talent:** Bill Barrett
+- **QA Director:** Gary Stevens
+- **Documentation Writing:** The Russell Group
 
 ### Technical Achievements
 
@@ -150,14 +161,14 @@ The game uses 2D, top-down viewed tracks, which Neoseeker called "very well craf
 
 ### Technical Specifications
 
-**System Requirements** (from the Deluxe retail box, as transcribed by Eli's Software Encyclopedia, which lists Windows 95, 98 and 2000 with identical specifications):[^ref-17]
+**System Requirements** (from the Deluxe retail box, as transcribed by Eli's Software Encyclopedia, which lists Windows 95, 98 and 2000 with identical specifications;[^ref-17] Sierra's own product page for the Deluxe gives the same Windows 95/98/2000, Pentium 90 MHz, 32 MB RAM and 4X CD-ROM[^ref-21]):
 - **Operating System:** Windows 95, 98 or 2000 (the Amazon listing instead gives 95/98/ME[^ref-5])
 - **CPU:** Pentium 90
 - **RAM:** 32 MB (64 MB recommended)
 - **CD-ROM:** 4X (8X recommended)
 - **Graphics:** SVGA, 256 colors
 
-(PCGamingWiki's page for the 1999 original lists Windows 95/NT 4.0, DirectX 6.1 and 50 MB of storage;[^ref-10] no Deluxe source checked gives a disk-space figure.)
+Sierra's product page also lists 90 MB of hard drive space and a Windows-compatible sound device, with a mouse and keyboard.[^ref-21] PCGamingWiki's page (listed under the 1999 original) gives Windows 95, Pentium 90 MHz, 32 MB RAM, 90 MB storage and DirectX 6.1, citing the same Sierra product page.[^ref-10]
 
 **Media:**[^ref-5][^ref-14]
 - **Format:** CD-ROM
@@ -285,3 +296,7 @@ Collection Chamber, reviewing the 1999 original, observed that "3D Ultra has alw
 [^ref-19]: [IGN PC Cheats – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition Cheats](https://www.ign.com/wikis/pc-cheats/3-D_Ultra_Radio_Control_Racers_Deluxe:_Traxxas_Edition_Cheats) – user-edited wiki, posted March 15, 2017; pause-menu cheat codes
 
 [^ref-20]: [OGDB – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://ogdb.eu/index.php?section=title&titleid=75256) – user database: separate entry from the 1999 original (a.k.a. Funk-Flitzer), 2000, Dynamix, PC CD-ROM
+
+[^ref-21]: [Sierra Entertainment – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition (Wayback, 2003)](https://web.archive.org/web/20031003001620/http://www.sierra.com/product.do?gamePlatformId=292) – Sierra's product page: "hot-selling" original, eight new tracks, Windows 95/98/2000, Pentium 90 MHz, 32 MB RAM, 4X CD-ROM, 90 MB hard drive space
+
+[^ref-22]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition reviews](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/reviews/) – critic average 55% based on 2 ratings, read via the MobyGames site
