@@ -10,21 +10,21 @@ series: Hoyle Board Games
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
-description: Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a sixteen-game
+last_updated: '2026-11-12'
+description: Hoyle Board Games 2001 is a sixteen-game
   board game compilation for Windows and Macintosh, developed and published by Sierra
   On-Line and released in 2000.
 tags: [2000s, hoyle-board-games, sierra]
 ---
 # Hoyle Board Games 2001
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a compilation of classic board games developed and published by [[Sierra On-Line]][^ref-1]. It was released in 2000 for Windows and Macintosh[^ref-1]. Macworld credited the Mac version to Sierra Attractions, Sierra's casual gaming division, and gave its price as US$29.99[^ref-3]. The collection features sixteen classic board games, augmented by multimedia and full-color graphics[^ref-3]. TechWithKids listed the Mac and Windows release at 12/15/2000, described it as "a fabulous way to play 16 favorite board games," and named Sierra Attractions as the company[^ref-21].
+Hoyle Board Games 2001 is a compilation of classic board games developed and published by [[Sierra On-Line]][^ref-1]. MobyGames lists "Hoyle Board Games 5" as its install title[^ref-1]. It was released in 2000 for Windows and Macintosh[^ref-1]. Macworld credited the Mac version to Sierra Attractions, Sierra's casual gaming division, and gave its price as US$29.99[^ref-3]. The collection features sixteen classic board games, augmented by multimedia and full-color graphics[^ref-3]. TechWithKids listed the Mac and Windows release at 12/15/2000, described it as "a fabulous way to play 16 favorite board games," and named Sierra Attractions as the company[^ref-21].
 
-GameSpot's Tim Soete wrote that the games keep "the same challenging play elements as that of their real-world counterparts, but they are enhanced with graphics and sound for a more engaging PC experience"[^ref-5]. Players can compete against animated computer opponents or play with other people[^ref-1][^ref-3]; most games support up to four players on one computer, and an Internet option lets players challenge live opponents online[^ref-5][^ref-21]. The package includes Sierra's patented "facemaker" character creation system, which GameSpot said lets players mix and match eyes, noses, mouths, hairdos and skin tones[^ref-5]; MobyGames' description adds that the players' avatars can be customized, speak and are fully animated[^ref-1].
+GameSpot's Tim Soete wrote that the games keep "the same challenging play elements as that of their real-world counterparts, but they are enhanced with graphics and sound for a more engaging PC experience"[^ref-5]. Players can compete against animated computer opponents or play with other people[^ref-1][^ref-3]; most games support up to four players on one computer, and an Internet option lets players challenge live opponents online[^ref-5][^ref-21].
 
 The package includes a manual, both electronic and hard copy, "detailing the rules and histories of all its games," and Macworld concluded that "players of all ages and skill levels will find something to enjoy"[^ref-3]. It is rated E for Everyone by the ESRB[^ref-17].
 
@@ -39,9 +39,21 @@ The package includes a manual, both electronic and hard copy, "detailing the rul
 > **Protagonist:** N/A (Player-created avatar)
 > **Sierra Lineage:** Core Sierra
 
-## Game Content
+## Story Summary
 
-### Included Games
+Hoyle Board Games 2001 is a board game compilation and has no narrative. Players choose among its sixteen games and play against animated computer opponents or with other people[^ref-1][^ref-3].
+
+## Gameplay
+
+### Interface and Controls
+
+MobyGames classifies the interface as point and select[^ref-1]. In GameSpot's review, any of the games "are accessible from a pull-down menu at the bottom of the screen," and "the interface for each game is simple and intuitive"; most games can be played entirely with the mouse, with the keyboard as an option[^ref-5]. Macworld wrote that "pointing, clicking, and dragging are the only skills needed to enjoy the games provided"[^ref-3]. Soete singled out the backgammon move preview: running the cursor over a piece "brings up a pop-up graphic on the board" showing its possible moves[^ref-5].
+
+The game features Sierra's patented "facemaker" character creation system, which lets players "custom-tailor your own personality" by mixing and matching facial features and skin tones[^ref-5]. MobyGames' description states that the players' avatars can be customized, speak and are fully animated[^ref-1]. Personalized characters also carry over into the game's Internet play[^ref-5].
+
+### Structure and Progression
+
+#### Included Games
 
 Hoyle Board Games 2001 contains 16 games, as counted by IGN, MobyGames, Macworld and GameSpot[^ref-6][^ref-1][^ref-3][^ref-5]. MobyGames lists them as follows, with its notes on the real-world games they resemble[^ref-1]:
 
@@ -66,19 +78,7 @@ Hoyle Board Games 2001 contains 16 games, as counted by IGN, MobyGames, Macworld
 
 IGN lists Mahjong as "Mahjong Tiles"[^ref-6]. IGN adds that the package includes "three card games" as well[^ref-6].
 
-## Gameplay
-
-### Interface and Controls
-
-MobyGames classifies the interface as point and select[^ref-1]. In GameSpot's review, any of the games "are accessible from a pull-down menu at the bottom of the screen," and "the interface for each game is simple and intuitive"; most games can be played entirely with the mouse, with the keyboard as an option[^ref-5]. Macworld wrote that "pointing, clicking, and dragging are the only skills needed to enjoy the games provided"[^ref-3]. Soete singled out the backgammon move preview: running the cursor over a piece "brings up a pop-up graphic on the board" showing its possible moves[^ref-5].
-
-### Opponents and Customization
-
-For solo players the game includes computer opponents, which Macworld found "much less obnoxious than typical computer players"; they are "creatively voiced and often comment on specific action in the game"[^ref-3]. GameSpot noted that "the characters each have unique animations"[^ref-5], and each computer opponent has its own biography screen[^ref-8]. GameSpot described their personalities as "pretty odd," ranging "from a schizophrenic puppeteer to a Jamaican jazz bass player," and noted that the game lets players adjust the opponents' chattiness[^ref-5].
-
-The game features Sierra's patented "facemaker" character creation system, which lets players "custom-tailor your own personality" by mixing and matching facial features and skin tones[^ref-5]. MobyGames' description states that the players' avatars can be customized, speak and are fully animated[^ref-1]. Personalized characters also carry over into the game's Internet play[^ref-5].
-
-### Multiplayer Options
+#### Play Modes
 
 The collection supports multiple play modes[^ref-1]:
 - **Solo Play** – Against computer-controlled opponents[^ref-3]
@@ -87,7 +87,9 @@ The collection supports multiple play modes[^ref-1]:
 
 Some games allow choice between solo play and multiplayer with other people or computer controlled characters[^ref-1].
 
-### Rules and Layouts
+### Puzzles and Mechanics
+
+For solo players the game includes computer opponents, which Macworld found "much less obnoxious than typical computer players"; they are "creatively voiced and often comment on specific action in the game"[^ref-3]. GameSpot noted that "the characters each have unique animations"[^ref-5], and each computer opponent has its own biography screen[^ref-8]. GameSpot described their personalities as "pretty odd," ranging "from a schizophrenic puppeteer to a Jamaican jazz bass player," and noted that the game lets players adjust the opponents' chattiness[^ref-5].
 
 Macworld pointed players to the manual for the rules: "Don't know the rules to Reversi or Pachisi? That's not a problem, as this collection also includes an excellent, interesting manual"[^ref-3]. The Mahjong component includes a layouts editor for creating custom tile arrangements[^ref-8].
 
@@ -113,13 +115,11 @@ GameSpot's Gord Goble reviewed a later edition (the one following Hoyle Board Ga
 - **My Abandonware Users:** about 4.3 out of 5 (130 votes)[^ref-12]
 - **GameFAQs Users:** Good (6 ratings)[^ref-13]
 
-User comments on My Abandonware report compatibility problems on modern systems, alongside at least one report that the game runs well on Windows 10[^ref-12].
-
 ## Development
 
 ### Origins
 
-Hoyle Board Games 2001 (also known as Hoyle Board Games 5) followed the 1998 edition of Hoyle Board Games in Sierra's series[^ref-1][^ref-14]. Sierra's Hoyle board game compilations date back at least to 1991's *Hoyle: Official Book of Games – Volume 3*, which brought six board games to the computer[^ref-20].
+Hoyle Board Games 2001 followed the 1998 edition of Hoyle Board Games in Sierra's series[^ref-1][^ref-14]. Sierra's Hoyle board game compilations date back at least to 1991's *Hoyle: Official Book of Games – Volume 3*, which brought six board games to the computer[^ref-20].
 
 ### Production
 
@@ -171,17 +171,16 @@ However, some users have reported that the game runs well on Windows 10[^ref-12]
 
 No source we could verify gives a version number for any release.
 
-The game is also known as Hoyle Board Games 5[^ref-1].
-
 ### Easter Eggs and Trivia
 
-- MobyGames' description says the players' avatars can be customized, speak and are fully animated[^ref-1]
 - MobyGames' entry for Hoyle Card Games (2002) says player identities created there can be used in Hoyle Board Games and Hoyle Casino, and vice versa[^ref-9]
 - The game features multiple tile sets for Mahjong, including Classic tiles and Egyptian tiles[^ref-8]
 
 ## Legacy
 
 ### Collections and Related Titles
+
+The game was later included in the compilation "3 Hoyles: Card, Casino and Board Games" (2003)[^ref-1].
 
 The Hoyle Board Games series continued after this release, with Sierra Entertainment and later [[Encore Software]] publishing additional editions[^ref-25]:
 
