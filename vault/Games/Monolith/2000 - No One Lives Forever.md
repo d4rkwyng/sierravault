@@ -7,10 +7,10 @@ publisher: Fox Interactive
 genre: FPS
 platforms: [Windows, PS2, Mac OS X]
 series: No One Lives Forever
-engine: LithTech 2.5
+engine: LithTech
 protagonist: Cate Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-12'
 description: 'The Operative: No One Lives Forever is a story-driven 1960s spy first-person
   shooter developed by Monolith Productions and published by Fox Interactive in November
   2000, starring UNITY agent Cate Archer.'
@@ -18,7 +18,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # The Operative: No One Lives Forever
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -26,13 +26,13 @@ The Operative: No One Lives Forever is a story-driven first-person shooter devel
 
 Just when it seemed as if first-person shooters had run out of ideas, No One Lives Forever arrived to reinvigorate the genre.[^ref-4] The game's unrelenting inventiveness shows in virtually every aspect of its design.[^ref-4] The title earned widespread critical acclaim upon release, becoming one of the most celebrated shooters of 2000, with Computer Games Magazine naming it both Game of the Year and Action Game of the Year.[^ref-1] Its heroine has all the traits of a 1960s screen spy, except that she must also tackle the rampant sexism of the era, most visibly from her own mission coordinator, Mr. Smith.[^ref-5]
 
-No One Lives Forever combines a fantastic sense of style with great animation and voice acting, clever AI, industry-leading interactive music, and gameplay that keeps players coming back for more.[^ref-1] The game represents a turning point for Monolith Productions, who had previously released the troubled Blood 2 and Shogo, and demonstrates what their team could achieve when focused on polish over ambition.[^ref-6] Today, the game remains unavailable for legal purchase due to complex ownership disputes between multiple corporations, making it one of gaming's most notable preservation challenges.[^ref-7]
+No One Lives Forever combines a fantastic sense of style with great animation and voice acting, clever AI, industry-leading interactive music, and gameplay that keeps players coming back for more.[^ref-1] The game represents a turning point for Monolith Productions, who had previously released the troubled Blood 2 and Shogo, and demonstrates what their team could achieve when focused on polish over ambition.[^ref-6] Today, the game remains unavailable for legal purchase because ownership of the game is unclear across multiple corporations, making it one of gaming's most notable preservation challenges.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Monolith Productions]][^ref-1]
 > **Designer:** Craig Hubbard[^ref-1]
-> **Publisher:** Fox Interactive (original), Sierra Entertainment (Game of the Year Edition)[^ref-8]
-> **Engine:** LithTech 2.5[^ref-9][^ref-21]
+> **Publisher:** Fox Interactive (Windows, 2000); Fox Interactive and Sierra On-Line (Game of the Year Edition, 2001); Sierra Entertainment and Fox Interactive (PlayStation 2, 2002); MacPlay (Mac OS X, 2002)[^ref-8][^ref-22]
+> **Engine:** LithTech (version given as 2.0, 2.2 or 2.5 depending on source; see Version History)[^ref-9][^ref-21][^ref-7]
 > **Platforms:** Windows, PlayStation 2, Mac OS X[^ref-1]
 > **Release Year:** 2000
 > **Series:** No One Lives Forever
@@ -157,9 +157,9 @@ Character design was influenced by real-world models. In the original NOLF, Cate
 
 ### Technical Achievements
 
-No One Lives Forever utilized the LithTech game engine (version 2.5), with many custom additions and modifications to support the game's design, including vehicle support.[^ref-9][^ref-21] The engine had been developed by Monolith initially to showcase DirectX for Microsoft.[^ref-38]
+No One Lives Forever utilized the LithTech game engine, with many custom additions and modifications to support the game's design, including vehicle support (the version number is given differently by different sources; see the engine note under Version History).[^ref-9][^ref-21] The engine had been developed by Monolith initially to showcase DirectX for Microsoft.[^ref-38]
 
-The game featured industry-leading interactive music that dynamically adapted to gameplay situations—one of the first games to implement such a sophisticated adaptive soundtrack system.[^ref-25] Fox Interactive and Indiespace.com ran a worldwide music search that selected two unsigned Southern California bands for the game's "In the Lounge" music disc, and Best Buy customers received an exclusive bonus CD featuring a remix of six "In the Lounge" tracks.[^ref-41]
+The game featured interactive music that dynamically adapted to gameplay situations; Computer Games Magazine called it "industry-leading interactive music."[^ref-1] Composer Guy Whitmore described arranging each theme in separate music states, with tags such as "ambient", "suspenseful" and "action", and building the score with DirectMusic.[^ref-60] Fox Interactive and Indiespace.com ran a worldwide music search that selected two unsigned Southern California bands for the game's "In the Lounge" music disc, and Best Buy customers received an exclusive bonus CD featuring a remix of six "In the Lounge" tracks.[^ref-41]
 
 The AI system received particular praise, with enemies exhibiting believable patrol patterns and reactions. Stealthy players can listen in on enemy sentries' conversations, which range from their bands to their women.[^ref-14] Asked in 2002 whether anything had been cut from the sequel for being too silly, Hubbard replied, "The sillier an idea is, the more likely it is to end up in the game."[^ref-53]
 
@@ -193,12 +193,13 @@ The original male protagonist Adam Church was cut during pre-production when the
 | 1.0 | December 7-8, 2000 | Windows | EU release[^ref-1] |
 | 1.001 | December 2000 | Windows | Stability fixes, Intelligence Gallery feature[^ref-24] |
 | 1.002 | March 2001 | Windows | Improved networking, 8 new multiplayer maps, bandwidth optimizations[^ref-24] |
-| 1.003 | May 2001 | Windows | Prevents modified clients joining normal servers[^ref-24] |
-| 1.004 | October 3-4, 2001 | Windows | Game of the Year Edition[^ref-8] |
+| 1.003 | April 27, 2001 (TCRF, MobyGames); May 24, 2001 (Blue's News) | Windows | Prevents modified clients joining normal servers[^ref-24][^ref-39][^ref-56] |
+| GOTY Edition | October 3, 2001 (MobyGames, US); October 4, 2001 (TCRF, Wikipedia) | Windows | Game of the Year Edition, co-published by Fox Interactive and Sierra[^ref-8][^ref-39][^ref-1] |
+| 1.004 | October 8, 2001 (TCRF); October 13, 2001 (MobyGames) | Windows | Patch letting owners of the original game join servers hosted with the Game of the Year Edition[^ref-39][^ref-56] |
 | PS2 | April 17-29, 2002 | PlayStation 2 | Console port with exclusive content[^ref-22] |
 | Mac | November 21, 2002 | Mac OS X | MacPlay port by MumboJumbo[^ref-39] |
 
-**Engine:** The original release was built on LithTech 2.5, as stated in PC Gamer's January 2001 review and GA-Source's October 2000 gone-gold report.[^ref-21][^ref-33] (Some secondary sources give other version numbers, such as Hardcore Gaming 101's "LithTech 2.0".[^ref-5])
+**Engine:** Sources differ on the LithTech version. PC Gamer's January 2001 review and GA-Source's October 2000 gone-gold report give LithTech 2.5,[^ref-21][^ref-33] as does the text of Wikipedia's article, which calls it the first game to use that version, while Wikipedia's infobox gives LithTech 2.2.[^ref-1] PCGamingWiki lists LithTech 2.0 for the original 2000 release and LithTech 2.2 for the 2001 Game of the Year Edition,[^ref-7] and Hardcore Gaming 101 gives "LithTech 2.0".[^ref-5]
 
 ### Technical Issues
 
@@ -232,7 +233,7 @@ Save games from version 1.0 are incompatible with updated versions.[^ref-24] The
 - **Enemy Conversations:** Guards hold conversations, from their bands to their women, that can be overheard during stealth[^ref-14]
 - **Post-Credits Scene:** After the credits, Volkov is shown alive talking to a recurring drunk character who later becomes the head of H.A.R.M. in the sequel[^ref-17]
 
-## Voice Cast
+### Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -256,7 +257,7 @@ The voice work received exceptional praise, with critics noting that "the acting
 
 ### Sales and Commercial Impact
 
-The game sold 36,501 copies by the end of 2000, generating $1.32 million in revenue.[^ref-1] By January 2002, total sales had reached 350,000 copies.[^ref-1] The Game of the Year Edition was published by Sierra Entertainment.[^ref-8] One MyAbandonware reviewer recalled buying a copy from a bargain bin for $10.[^ref-14]
+The game sold 36,501 copies by the end of 2000, generating $1.32 million in revenue.[^ref-1] By January 2002, total sales had reached 350,000 copies.[^ref-1] The Game of the Year Edition was co-published: MobyGames lists both Fox Interactive and Sierra On-Line as publishers of the October 2001 US release,[^ref-8] and Wikipedia says the edition was co-published by Sierra On-Line,[^ref-1] while TCRF and PCGamingWiki list Sierra Entertainment as its publisher.[^ref-39][^ref-7] The PlayStation 2 port was published by Sierra Entertainment and Fox Interactive in the US,[^ref-22] and the Mac OS X port by MacPlay, ported by MumboJumbo.[^ref-8] One MyAbandonware reviewer recalled buying a copy from a bargain bin for $10.[^ref-14]
 
 ### Awards
 
@@ -293,7 +294,9 @@ Rock Paper Shotgun's John Walker reported playing community-patched versions at 
 
 Monolith released the NOLF Tools (including the DEdit world editor and ModelEdit) on January 12, 2001, and the source code for version 1.003 on June 20, 2001.[^ref-24] After GameSpy multiplayer support was discontinued in May 2014, the community developed alternative solutions to maintain online play.[^ref-45]
 
-Night Dive Studios attempted to secure rights for an official re-release, managing to obtain the source code for both the first and second games.[^ref-47] However, the complex ownership situation—split between Fox Interactive's former holdings, Activision's acquisitions, and Warner Bros.' ownership of Monolith—prevented any official release. As Night Dive's Larry Kuperman described it: "The image I get is the end of Indiana Jones... somewhere in a box, maybe in the bowels of Activision."[^ref-47] Despite setbacks, Night Dive CEO Stephen Kick maintains hope: "Never give up. We don't give up."[^ref-48]
+In 2015, Kotaku reported that Night Dive Studios had attempted to secure rights for an official re-release, managing to obtain the source code for both the first and second games.[^ref-47] However, the unclear ownership situation—split between Fox Interactive's former holdings, Activision's acquisitions, and Warner Bros.' ownership of Monolith—prevented any official release. As Night Dive's Larry Kuperman described it: "The image I get is the end of Indiana Jones... somewhere in a box, maybe in the bowels of Activision."[^ref-47]
+
+In March 2025, after Warner Bros. Games closed Monolith, Nightdive studio head Stephen Kick and director of business development Larry Kuperman told VGC that they remained hopeful of one day remastering the game. Kuperman said, "I'm still optimistic on that"; Kick said, "Never give up. We don't give up."[^ref-48] PCGamesN, reporting the interview on March 27, 2025, wrote that "the legal situation is still unclear", noting that Fox Interactive was bought by Vivendi in 2003, Vivendi later merged with Activision, and Activision is now owned by Microsoft.[^ref-59]
 
 ### Related Publications
 
@@ -306,12 +309,12 @@ No One Lives Forever occupies a unique position in gaming history as both a crit
 
 The game's feminist perspective was ahead of its time, presenting a female protagonist who was "every bit as wry, cunning and capable as a male hero" while also addressing the systemic barriers women faced in male-dominated professions.[^ref-32] This wasn't mere window dressing—the gender dynamics were integrated into the narrative, with Cate constantly proving herself against skeptical colleagues. The weapons disguised as feminine accessories served both practical and thematic purposes, turning "the objects of sexual desire back on the men they titillate."[^ref-25]
 
-However, the game's legacy has been complicated by its commercial unavailability. The ownership dispute that has prevented any official re-release represents one of gaming's most frustrating preservation failures. As of 2026, the game remains in legal limbo, with no digital storefronts offering it and no clear path to resolution.[^ref-7] This situation has made No One Lives Forever both a beloved classic and a symbol of the industry's inadequate approach to preserving its history. For many players, acquiring the game requires either finding increasingly rare physical copies or venturing into legally gray abandonware territory—a sad fate for a title that Eurogamer once called "one of the best single player first person shooters since Half-Life."[^ref-6]
+However, the game's legacy has been complicated by its commercial unavailability. The unclear ownership that has prevented any official re-release represents one of gaming's most frustrating preservation failures. As of 2026, the game remains in legal limbo, with no digital storefronts offering it and no clear path to resolution.[^ref-7] This situation has made No One Lives Forever both a beloved classic and a symbol of the industry's inadequate approach to preserving its history. For many players, acquiring the game requires either finding increasingly rare physical copies or venturing into legally gray abandonware territory—a sad fate for a title that Eurogamer once called "one of the best single player first person shooters since Half-Life."[^ref-6]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on any digital storefront due to licensing disputes[^ref-7]
+- Not currently available on any digital storefront due to licensing issues[^ref-7]
 
 **Download / Preservation**
 - [Internet Archive – Nordic Manuals Disc](https://archive.org/details/NOLFNordicDocs)
@@ -322,7 +325,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 - [Internet Archive – Soundtrack](https://archive.org/details/VariousTheOperativeNoOneLivesForever)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – Technical fixes and compatibility information
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (first game in the series)
 - **Next:** [[2002 - No One Lives Forever 2]]
@@ -337,7 +340,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-5]: [Hardcore Gaming 101 – No One Lives Forever](http://www.hardcoregaming101.net/the-operative-no-one-lives-forever/) – historical analysis, development context
 [^ref-6]: [Eurogamer Review](http://www.eurogamer.net/articles/r_nolf) – 8/10 score, Bond film comparisons
 [^ref-7]: [PCGamingWiki – The Operative: No One Lives Forever](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – licensing issues, technical information
-[^ref-8]: [MobyGames – Game of the Year Edition](https://www.mobygames.com/game/5110/the-operative-no-one-lives-forever-game-of-the-year-edition/) – publisher information, technical specs; 8.1/10 score read via the MobyGames API, October 2026
+[^ref-8]: [MobyGames – Game of the Year Edition](https://www.mobygames.com/game/5110/the-operative-no-one-lives-forever-game-of-the-year-edition/) – publisher information per release (US 2001: Fox Interactive and Sierra On-Line; Mac 2002: MacPlay), technical specs; 8.1/10 score read via the MobyGames API, October and November 2026
 [^ref-9]: [OldGames.sk – No One Lives Forever](https://www.oldgames.sk/en/game/no-one-lives-forever/download/9706/) – engine details, rating
 [^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/913839-the-operative-no-one-lives-forever/faqs/26950) – gameplay details
 [^ref-14]: [MyAbandonware – No One Lives Forever](https://www.myabandonware.com/game/the-operative-no-one-lives-forever-7q4) – user reviews, known issues
@@ -373,13 +376,15 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-45]: [Unity HQ Forums](https://nolfgirl.net/Unityhq/forums/files/category/13-mods/) – modding community
 [^ref-46]: GamePressure – "The Operative: No One Lives Forever – Widescreen Patch v2.0" mod page (cited as text only; the page's sidebar promotes adult mods) – mod information
 [^ref-47]: [Kotaku – Rights Investigation](https://kotaku.com/the-sad-story-behind-a-dead-pc-game-that-cant-come-back-1688358811) – Night Dive attempts, ownership issues
-[^ref-48]: [Video Games Chronicle – Night Dive Optimism](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – Stephen Kick quote
+[^ref-48]: [Video Games Chronicle – Nightdive Optimism](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – Chris Scullion, March 26, 2025; Kick and Kuperman quotes
 [^ref-49]: [NOLF Fandom Wiki – Strategy Guide](https://nolf.fandom.com/wiki/No_One_Lives_Forever_Prima's_Official_Strategy_Guide) – guide details
 [^ref-50]: [Discogs – Soundtrack](https://www.discogs.com/release/3173191-Various-The-Operative-No-One-Lives-Forever) – album information
 [^ref-52]: [Metacritic – PC Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=pc) – aggregate scores, critic quotes
 [^ref-53]: [Armchair Empire – No One Lives Forever 2 Interview (Archived, 2002)](https://web.archive.org/web/20020623131413/http://www.armchairempire.com:80/Interviews/no-one-lives-forever-2-interview.htm) – Craig Hubbard "sillier" quote
 [^ref-54]: [Game Developer – IGDA Forum: WB's Ryan On What It Takes](https://www.gamedeveloper.com/game-platforms/igda-forum-wb-s-ryan-on-what-it-takes) – Samantha Ryan on Monolith being "two weeks from death"; the article's own summary mentions the title's Bond-license conflicts
 [^ref-55]: [Open Library – No One Lives Forever: Prima's Official Strategy Guide](https://openlibrary.org/books/OL24941928M) – Steve Honeywell, Prima Games, 2000, 205 pages, ISBN 0761528148 (read via the Open Library ISBN API: [ISBN record](https://openlibrary.org/isbn/0761528148.json)); also catalogued with the same author, publisher, year and ISBN at the [Internet Archive lending library](https://archive.org/details/noonelivesforeve00hone)
-[^ref-56]: [MobyGames – The Operative: No One Lives Forever](https://www.mobygames.com/game/2617/the-operative-no-one-lives-forever/) – Windows original, 8.4/10 from 153 votes (read via the MobyGames API, October 2026)
+[^ref-56]: [MobyGames – The Operative: No One Lives Forever](https://www.mobygames.com/game/2617/the-operative-no-one-lives-forever/) – Windows original, 8.4/10 from 153 votes; patch list (v1.003 April 27, 2001; v1.004 October 13, 2001) (read via the MobyGames API, October and November 2026)
 [^ref-57]: [MobyGames – Action Pack (2002)](https://www.mobygames.com/game/27426/action-pack/) – budget FPS compilation with NOLF GOTY Edition; UK release by Sierra Entertainment and Fox Interactive (read via the MobyGames API)
 [^ref-58]: [MobyGames – Action Pack - 4 Killer Action Games!](https://www.mobygames.com/game/21974/action-pack-4-killer-action-games/) – 2003 US compilation including NOLF GOTY Edition and Gunman Chronicles (read via the MobyGames API)
+[^ref-59]: [PCGamesN – Classic FPS game No One Lives Forever might still get a new remaster](https://www.pcgamesn.com/no-one-lives-forever/classic-fps-remaster) – Ed Smith, March 27, 2025; rights chain, "the legal situation is still unclear"
+[^ref-60]: [Guy Whitmore – A Spy's Score: A Case Study for No One Lives Forever (Adaptive Audio Now!, IASIG, July 2, 2003; archived)](https://web.archive.org/web/20101112193648/http://www.iasig.org/aan/NoOneLivesForever.shtml) – composer's account of the adaptive score, music states and DirectMusic
