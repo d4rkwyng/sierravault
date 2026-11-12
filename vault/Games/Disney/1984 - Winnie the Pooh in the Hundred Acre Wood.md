@@ -11,7 +11,7 @@ series: Disney
 engine: Pre-AGI
 protagonist: Player (unnamed child)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure
   game developed by Sierra On-Line with the Walt Disney Personal Computer Software staff,
   released in 1984 for the Apple II and Commodore 64, in which players return lost
@@ -20,11 +20,11 @@ tags: [1980s, adventure, al-lowe, disney, sierra]
 ---
 # Winnie the Pooh in the Hundred Acre Wood
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure game developed by Sierra On-Line with the Walt Disney Personal Computer Software staff, released in December 1984 for the Apple II and Commodore 64.[^ref-1][^ref-9][^ref-32] It was one of a handful of Disney-licensed titles Sierra released during the mid-1980s,[^ref-19] and its manual states that it "develops reading comprehension, problem solving, logic and mapping skills."[^ref-10] Designer [[Al Lowe]], who would later achieve fame as the creator of the *Leisure Suit Larry* series, considers this children's game among his finest work.[^ref-3]
+*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure game developed by Sierra On-Line with the Walt Disney Personal Computer Software staff, released by December 1984 for the Apple II and Commodore 64.[^ref-1][^ref-9][^ref-32] It was one of a handful of Disney-licensed titles Sierra released during the mid-1980s,[^ref-19] and its manual states that it "develops reading comprehension, problem solving, logic and mapping skills."[^ref-10] Designer [[Al Lowe]], who would later achieve fame as the creator of the *Leisure Suit Larry* series, considers this children's game among his finest work.[^ref-3]
 
 Set in the familiar world of A.A. Milne's classic stories as depicted in Disney's animated featurettes, the game challenges young players to help the residents of the Hundred Acre Wood recover their belongings after a blustery wind scatters objects throughout the forest.[^ref-4] Like Lowe's earlier *Troll's Tale*, the game requires no typing: players pick from context-sensitive lists of actions, which made it accessible to early readers.[^ref-3][^ref-5] Disney shared artwork from their Pooh animated films, which Sierra's artists used as inspiration for the game's charming background illustrations.[^ref-3]
 
@@ -70,7 +70,7 @@ Locations named in the sources include Pooh's tree, which players can climb to s
 
 The core puzzle mechanic involves matching ten scattered objects to their correct owners or places in the Hundred Acre Wood.[^ref-14] While this may seem straightforward, young players must use logic and their knowledge of the characters to determine which item belongs to whom. For players who need assistance, Owl provides hints about item ownership when shown objects.[^ref-14]
 
-Random events add challenge and variety to the gameplay. At unpredictable moments, Tigger may bounce into the player, causing them to drop whatever item they are carrying.[^ref-9] Additionally, the wind periodically returns and redistributes any objects that haven't yet been returned to their owners, mixing up the player's progress and requiring them to re-explore the forest.[^ref-9] A mysterious mist can also appear, adding atmosphere and mild difficulty to navigation.[^ref-14]
+Random events add challenge and variety to the gameplay. At unpredictable moments, Tigger may bounce into the player, causing them to drop whatever item they are carrying.[^ref-9] Additionally, the wind periodically returns and redistributes any objects that haven't yet been returned to their owners, mixing up the player's progress and requiring them to re-explore the forest.[^ref-9] A mysterious mist can also appear, adding atmosphere and mild difficulty to navigation: *Apple User* wrote that "a thick mist can descend, and although you can keep walking, you're never sure of where you'll be when you emerge."[^ref-6]
 
 The game is designed primarily as an exercise in mapmaking and provides children with practice in directional awareness, logical deduction, and reading comprehension.[^ref-13] Recommended for ages 7 and up, the game develops these skills while keeping players engaged with beloved characters.[^ref-10]
 
@@ -98,7 +98,7 @@ A 2008 *Lemon Amiga* user comment, rating it 10/10, reads: "Great game for a chi
 - **MobyGames:** 63% (based on critic reviews)[^ref-1]
 - **Abandonware DOS:** 3.60/5.00[^ref-17]
 - **My Abandonware:** 3.42/5 (user rating, 12 votes)[^ref-2]
-- **IMDb:** 5.3/10 (24 ratings); IMDb lists a June 21, 1984 release date, while other sources give December 1984[^ref-18][^ref-9]
+- **IMDb:** 5.3/10 (24 ratings); IMDb lists a June 21, 1984 release date, while other sources give 1984[^ref-18][^ref-9]
 - **Lemon Amiga:** 7.33/10 (9 votes)[^ref-16]
 
 ## Development
@@ -107,13 +107,15 @@ A 2008 *Lemon Amiga* user comment, rating it 10/10, reads: "Great game for a chi
 
 *Winnie the Pooh in the Hundred Acre Wood* came out of Sierra's Disney license, which Sierra bought, with Disney's tacit approval, from Texas Instruments. According to Jimmy Maher, "Buying the preexisting contract from Texas Instruments allowed Sierra to dodge Disney's usual huge upfront licensing fee," but Sierra paid instead through high royalties.[^ref-19] The license produced only a handful of releases, including one each for Donald Duck, Mickey Mouse, and Winnie the Pooh.[^ref-19]
 
+*Billboard* reported in December 1984 that Ken Williams was offering a "buy two, get one free" promotion to build consumer demand, and that Sierra planned to sell the Commodore 64 versions through mass merchandisers while expecting the Apple versions to "sell primarily through specialty stores." It took nearly seven months for Disney and Sierra to complete the first three games, of which Lowe took charge of the Pooh title.[^ref-32]
+
 However, working with Disney proved challenging. According to John Williams, Ken Williams's brother and part of Sierra's founding group, Disney's educational films division provided oversight but "knew nothing about the media we were creating, didn't care, and didn't want to."[^ref-19] Industry historian Jimmy Maher noted that "Disney has always been known amongst their licensees as control freaks, but in this case they were control freaks who were also clueless."[^ref-19] Williams later characterized the Disney partnership as an "unproductive side trip" for Sierra.[^ref-19]
 
 Despite these corporate tensions, the development team found creative ways to leverage Disney's resources. Disney shared artwork from their animated Pooh featurettes, which Sierra's artists used to create the game's charming background illustrations.[^ref-3] Designer Al Lowe used this same artwork as inspiration for designing the game's locations and puzzles.[^ref-3]
 
 ### Production
 
-Al Lowe designed and programmed the game using the same engine he had created for *Troll's Tale*, though he modestly described this "engine" as too "high-falutin'" a word for such a simple system.[^ref-3] The game represented one of Lowe's earliest projects at Sierra before his later fame with the *Leisure Suit Larry* series, and he considers it among his finest work.[^ref-3]
+Al Lowe designed and programmed the game using the same engine he had created for *Troll's Tale*, though he modestly described this "engine" as too "high-falutin'" a word for such a simple system.[^ref-3] The game represented one of Lowe's earliest projects at Sierra before his later fame with the *Leisure Suit Larry* series, and he considers it among his finest work.[^ref-3] Lowe recalled that Ken Williams wanted the next game written in assembler, and that "I did Winnie the Pooh and several of my other games in assembly language."[^ref-35]
 
 The graphics team played a crucial role in bringing the Hundred Acre Wood to life. Mark Crowe, who would later co-create the *Space Quest* series, worked on the game as one of his first computer graphics projects at Sierra.[^ref-20] As Crowe recalled: "I started with Sierra in the Art Department, designing packaging and documentation and what not, so I used my illustration skills there. My first computer graphics project was creating the graphics for Winnie the Pooh and the One Hundred Acre Wood."[^ref-20]
 
@@ -156,7 +158,7 @@ Some databases label it AGI (Adventure Game Interpreter),[^ref-22] but ScummVM, 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | December 1984 | Apple II, Commodore 64 | Initial release (NA)[^ref-9] |
+| — | 1984 (on sale by December) | Apple II, Commodore 64 | Initial release (NA)[^ref-9][^ref-32] |
 | — | 1985 | MS-DOS | DOS port[^ref-1][^ref-23] |
 | — | 1985 | Atari ST | Atari ST port[^ref-1][^ref-23] |
 | — | October 1985 | Commodore 64 | UK release via U.S. Gold[^ref-1][^ref-23] |
