@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Christopher Braymen, Al Lowe]
 description: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA is a 1991
   remake of Sierra On-Line''s influential 1987 adult comedy adventure game, featuring
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Despite its risqué reputation, the game's actual content was remarkably tame. A
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** [[Al Lowe]] (art designer: Bil Skirvin, credited as William D. Skirvin)[^ref-1]; remake of the 1987 original, co-designed by Lowe and Mark Crowe and based on Chuck Benton's *Softporn Adventure*[^ref-5]
+> **Designer:** [[Al Lowe]] (art designer: Bil Skirvin, credited as William D. Skirvin)[^ref-1]; the 1987 original that this game remakes was co-designed by Lowe and Mark Crowe and based on Chuck Benton's *Softporn Adventure*,[^ref-5] while the remake's credits list Lowe as director and game designer[^ref-48]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI1 (Sierra Creative Interpreter)[^ref-6]
 > **Platforms:** MS-DOS, Amiga, Macintosh[^ref-1]
@@ -120,7 +120,7 @@ Some users have criticized the VGA remake compared to the original. MobyGames us
 
 The Leisure Suit Larry series has its roots in Sierra's 1981 text adventure Softporn Adventure, created by Chuck Benton.[^ref-11] This text-only game was remarkably successful for its time—at a point when Apple had only shipped 100,000 Apple II computers, Sierra had sold 25,000 copies of Softporn.[^ref-11] Time magazine even featured the game in their first computer entertainment column.[^ref-16]
 
-Accounts differ on who proposed the remake. Wikipedia says that in 1986, after Sierra lost a Disney license, [[Al Lowe]]—who had made his name at Sierra with Disney-licensed educational titles—suggested remaking Softporn Adventure with Sierra's improved tools, and Ken Williams agreed.[^ref-5] No Dice No Glory gives two versions: in one, Williams, spurred by the success of Infocom's *Leather Goddesses of Phobos*, invited Lowe to lunch and asked him to try a game based on Softporn; in the other, Lowe, looking for a new project after Sierra lost its Disney licenses, took the idea to Williams.[^ref-15] Sierra's Disney work was winding down at the time: most activity under the deal stopped well before the contract expired at the end of 1987.[^ref-45][^ref-46] When Lowe reviewed the original Softporn, he found it hopelessly dated. As he told Esquire: "I told Ken, 'This game is so out of touch it should be wearing a leisure suit.'"[^ref-20]
+Accounts differ on who proposed the remake. Wikipedia says that in 1986, after Sierra lost a Disney license, [[Al Lowe]]—who had made his name at Sierra with Disney-licensed educational titles—suggested remaking Softporn Adventure with Sierra's improved tools, and Ken Williams agreed.[^ref-5] No Dice No Glory gives two versions: in one, Williams, spurred by the success of Infocom's *Leather Goddesses of Phobos*, invited Lowe to lunch and asked him to try a game based on Softporn; in the other, Lowe, looking for a new project after Sierra lost its Disney licenses, took the idea to Williams.[^ref-15] Sierra's Disney work later wound down: the deal produced only a handful of releases, with most activity stopping well before the license expired,[^ref-45] and Sierra's contract with Disney ended at the end of 1987.[^ref-46] When Lowe reviewed the original Softporn, he found it hopelessly dated. As he told Esquire: "I told Ken, 'This game is so out of touch it should be wearing a leisure suit.'"[^ref-20]
 
 This offhand comment sparked the entire concept. Williams agreed, and Lowe set about reimagining the game with a comedic twist. Rather than a straight adaptation, Lowe decided to make the protagonist a "loser who thinks he's really with it but who really is out of it, who wants to be a ladies' man but never will be, naive, a little dumb, but still likable."[^ref-11] The character was designed so that "anybody playing the game would be able to feel superior to" him.[^ref-20]
 
@@ -133,6 +133,7 @@ According to MobyGames' trivia for the 1987 original, Larry owes his first name 
 The original was notably the first Sierra title to use beta testing through CompuServe, allowing players to provide feedback before the official release.[^ref-22]
 
 **1991 Remake Credits:**[^ref-1][^ref-48]
+- **Executive Producer:** Ken Williams[^ref-48][^ref-5]
 - **Creative Director:** [[Bill Davis]][^ref-1]
 - **Director and Game Designer:** Al Lowe
 - **Producer:** Stuart Moulder
@@ -183,7 +184,8 @@ A Sega CD version of the game was announced but never released.[^ref-5] The orig
 | 2.1 | 4 July 1991 | MS-DOS | Update with revised Sound Blaster and MT-32/SB drivers[^ref-39] |
 | — | 1991 | Amiga | Remake port (version number not documented)[^ref-1] |
 | — | 1992 | Macintosh | Remake port (version number not documented)[^ref-1] |
-| — | 1993 | MS-DOS, Amiga | Releases in Germany, the UK, France and Italy[^ref-1] |
+| — | 1993 | MS-DOS, Amiga | Releases in Germany, the UK, France and Italy, published by U.S. Gold (publishing label: Kixx XL)[^ref-1]; the Kixx-XL budget re-release came on a single CD-ROM[^ref-39] |
+| — | 17 January 2013 | Windows, macOS | GOG.com release of the *Leisure Suit Larry* bundle[^ref-50]; PCGamingWiki dates the ScummVM-based Windows and macOS releases to the same day[^ref-6] |
 
 The remake's suggested retail price was $59.95, with owners of the 1987 original offered an upgrade for $25.[^ref-5] For the 1987 original's release history, see [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]].
 
@@ -253,7 +255,7 @@ The VGA remake has appeared in numerous compilations:
 - **Leisure Suit Larry: Collection Series** (1997) – MobyGames lists both the EGA original and the VGA remake in it[^ref-1][^ref-49]
 - **Leisure Suit Larry: Ultimate Pleasure Pack** (1999)[^ref-1]
 
-The game is currently sold digitally through GOG.com as part of its *Leisure Suit Larry* bundle, published there by Codemasters; the store blurb still calls the bundle *Leisure Suit Larry's Greatest Hits and Misses*.[^ref-35][^ref-43] PCGamingWiki says the GOG release is based on the 1997 *Collection Series* and includes both the EGA and VGA versions of the first game.[^ref-6] It was formerly sold on Steam, where the VGA version was offered as a beta branch of the original; Steam now lists the game as no longer available.[^ref-44]
+The game is currently sold digitally through GOG.com as part of its *Leisure Suit Larry* bundle, published there by Codemasters; the store blurb still calls the bundle *Leisure Suit Larry's Greatest Hits and Misses*.[^ref-35][^ref-43] PCGamingWiki says the GOG release is based on the 1997 *Collection Series* and includes both the EGA and VGA versions of the first game.[^ref-6] It was formerly sold on Steam, where the VGA version was offered as a beta branch of the original; Steam now lists the game as no longer available.[^ref-44] Metro reported on 1 May 2025 that a Steam post said *Leisure Suit Larry* 1 through 7 would soon be leaving the store, though existing owners could still play and redownload them.[^ref-51]
 
 ### Official Remake
 
@@ -333,9 +335,9 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-20]: [Esquire – Leisure Suit Larry and Me (Archived)](https://web.archive.org/web/20160704192626/http://www.esquire.com/entertainment/a26554/leisure-suit-larry-and-me/) – development anecdotes, sales figures, character design
 
-[^ref-21]: [Al Lowe's Website – Developer Lookback](http://www.allowe.com/Larry/DeveloperLookback.htm) – development conditions, industry anecdotes
+[^ref-21]: [Al Lowe's Website – Developer Lookback](https://allowe.com/games/larry/inside-stories/sierra-history.html) – development conditions, industry anecdotes
 
-[^ref-22]: [Al Lowe's Website – Softporn History](http://www.allowe.com/Larry/softporn.htm) – complete development history, production details
+[^ref-22]: [Al Lowe's Website – Softporn History](https://allowe.com/games/larry/inside-stories/softporn.html) – complete development history, production details
 
 [^ref-23]: [MIDI Music Adventures – LSL1 Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl1/) – soundtrack details, audio specifications
 
@@ -376,3 +378,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 [^ref-48]: [MobyGames – Leisure Suit Larry 1 (1991) Credits (Wayback, 27 Feb 2010)](https://web.archive.org/web/20100227093445/http://www.mobygames.com/game/dos/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/credits) – full remake credits, including "Theme Song Composer Al Lowe"; no Chuck Benton credit
 
 [^ref-49]: [MobyGames – Leisure Suit Larry in the Land of the Lounge Lizards (1987)](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – "Included in" list for the EGA original (Greatest Hits and Misses!, Collection Series and others); read from the research dossier copy
+
+[^ref-50]: [GOG API – Leisure Suit Larry (product 1207659158)](https://api.gog.com/v2/games/1207659158) – bundle record: gogReleaseDate 2013-01-17
+
+[^ref-51]: [Metro – Super sexist Leisure Suit Larry franchise is being delisted from Steam (1 May 2025)](https://metro.co.uk/2025/05/01/super-sexist-leisure-suit-larry-franchise-delisted-steam-23007502/) – Steam post: Leisure Suit Larry 1 through 7 "will 'soon' be leaving Steam"; owners can still play and redownload them
