@@ -11,7 +11,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Mystery House is the 1980 Apple II murder-mystery adventure designed and
   illustrated by Roberta Williams and programmed by Ken Williams, released by On-Line
   Systems in May 1980 and widely regarded as the first graphical adventure game.
@@ -19,7 +19,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,6 +81,7 @@ Sales figures for Mystery House differ widely, and none comes from audited recor
 - **Chicago Tribune (1989):** the couple hoped "to sell a hundred copies of it. The game sold 10,000"[^ref-10].
 - **GamePro (2007):** the game sold "copies in the tens of thousands"[^ref-17].
 - ***High Score!* (DeMaria and Wilson):** puts the game's eventual worldwide sales, including the 1982 SierraVenture re-release, at 80,000 copies[^ref-8][^ref-1].
+- **Wikipedia (Sierra Entertainment article):** gives about 15,000 copies sold by mail order from May 1980, earning US$167,000[^ref-33].
 
 Revenue figures from the first months come from Steven Levy, quoted by both Maher and HistoryLink: "Ken and Roberta made eleven thousand dollars that May. In June, they made twenty thousand dollars. July was thirty thousand"[^ref-26][^ref-27].
 
@@ -111,6 +112,7 @@ Sources disagree on the number of pictures:
 - **Nooney:** "seventy or so" illustrations. Nooney also reports that Roberta first wanted around 100 locations, which Ken negotiated down[^ref-6].
 - **TouchArcade:** "70 simple 2D drawings"[^ref-21].
 
+### Technical Achievements
 Storing that many pictures as bitmaps would not have fit on one floppy disk. Ken's solution was to store each picture as a series of drawing commands, recorded from the stylus movements, which the game replays to redraw the scene each time it is shown[^ref-9].
 
 Sources also disagree on how long development took:
@@ -118,8 +120,23 @@ Sources also disagree on how long development took:
 - **Maher:** "In just one month during which Ken continued to hold down a day job, the couple implemented Mystery House in its entirety"[^ref-26].
 - **Ken Williams:** Roberta designed, wrote and illustrated it while he programmed it in the evenings, and "in all, it took about three months"[^ref-2].
 
+### Development Credits
+- **Designer, writer and artist:** [[Roberta Williams]][^ref-2]
+- **Programmer:** [[Ken Williams]][^ref-2]
+- **Publisher:** [[On-Line Systems]][^ref-27]
+
 ### Distribution
 The Williamses could not reach an acceptable distribution deal. They decided to sell Mystery House themselves for $24.95, with a full back-page ad in the May 1980 issue of *MICRO: The 6502 Journal*[^ref-6]. HistoryLink gives the release date as May 5, 1980[^ref-27]. Roberta packed disks and photocopied instructions into Ziploc bags and mailed out orders[^ref-6]. Ken recalled: "Driving from store to store, Roberta and I sold Mystery House ourselves"[^ref-2].
+
+## Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | May 1980 | Apple II | Sold by mail order by On-Line Systems as "Hi-Res Adventure"[^ref-6][^ref-27] |
+| SierraVenture re-release | 1982 | Apple II | Re-released under the SierraVenture label[^ref-12][^ref-13] |
+| Starcraft remake | 1983 | FM-7, PC-88, PC-98 | Faithful Japanese remake with improved artwork[^ref-19][^ref-13] |
+| Public-domain release | 1987 | Not specified | Released to celebrate Sierra's seventh anniversary, with a notice encouraging copying and sharing[^ref-21][^ref-22][^ref-13] |
+| iPhone adaptation | March 2009 | iOS | Released by Artsiness[^ref-21] |
 
 ## Legacy
 
@@ -184,7 +201,7 @@ A new game titled *Mystery House*, from Guillotine Games and published by MMMera
 [^ref-17]: [GamePro](https://web.archive.org/web/20070520142756/http://www.gamepro.com/gamepro/international/games/features/110028.shtml) – "The 52 Most Important Video Games of All Time" (April 2007)
 [^ref-18]: [The New York Times](https://www.nytimes.com/2025/04/10/arts/blue-prince.html) – Romig, Rollo (2025). "With Secrets in Every Room, This Manor Mystery Enthralls"
 [^ref-19]: [Hardcore Gaming 101](http://blog.hardcoregaming101.net/2010/05/mystery-of-japanese-mystery-house.html) – Kurt Kalata. "The Mystery of the Japanese Mystery House"
-[^ref-21]: [TouchArcade](http://toucharcade.com/2009/03/12/1980-adventure-mystery-house-comes-to-the-iphone/) – "1980 Adventure 'Mystery House' Comes to the iPhone"
+[^ref-21]: [TouchArcade (Wayback, Mar 2013)](https://web.archive.org/web/20130307004432/http://toucharcade.com/2009/03/12/1980-adventure-mystery-house-comes-to-the-iphone/) – "1980 Adventure 'Mystery House' Comes to the iPhone"
 [^ref-22]: [Adventure Gamers](https://web.archive.org/web/20130822113137/http://www.adventuregamers.com/articles/view/17880) – Mystery House review
 [^ref-23]: [IF Archive](https://ifarchive.org/if-archive/art/mhto/) – Mystery House Taken Over project materials
 [^ref-24]: [The Digital Antiquarian](https://www.filfre.net/2011/10/mystery-house-part-2/) – Jimmy Maher's "Mystery House, Part 2"
@@ -196,3 +213,4 @@ A new game titled *Mystery House*, from Guillotine Games and published by MMMera
 [^ref-30]: [Softalk, February 1981 (Internet Archive)](https://archive.org/details/softalkv1n06feb1981) – Article on Ken and Roberta Williams and On-Line Systems: "Mystery House was based on Agatha Christie's Ten Little Indians (And Then There Were None) and the board game Clue"
 [^ref-31]: [Computer Gaming World No. 54, December 1988 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_54) – Interview with Roberta Williams, p. 21
 [^ref-32]: [Steam – Mystery House (Guillotine Games)](https://store.steampowered.com/app/3108560/Mystery_House/) – Store listing, Windows, coming 2027; publisher MMMera, Inc
+[^ref-33]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – "about 15,000 copies sold, earning US$167,000" (mail order, May 1980)
