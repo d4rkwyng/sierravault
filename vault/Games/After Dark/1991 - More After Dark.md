@@ -203,7 +203,7 @@ More After Dark marks the point where Berkeley Systems' screensaver line first i
 [^ref-4]: [Internet Archive – After Dark 4.0 Deluxe](https://archive.org/details/after-dark-4.0-deluxe) – third-party modules, licensed editions
 [^ref-5]: [MobyGames – More After Dark: Volume 1](https://www.mobygames.com/game/137264/more-after-dark-volume-1/) – release date, developer/publisher, Lunatic Fringe gameplay description, specs, no Volume 2 released
 [^ref-7]: [MyAbandonware – More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf) – platforms, download archive sizes
-[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software%29) – After Dark 2.0 for Windows due February 1992 (InfoWorld, 17 Feb 1992), version history, assembly language and C, Flying Toasters as most famous module, Bad Dog TV series, MoveOn.org founders
+[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) – After Dark 2.0 for Windows due February 1992 (InfoWorld, 17 Feb 1992), version history, assembly language and C, Flying Toasters as most famous module, Bad Dog TV series, MoveOn.org founders
 [^ref-9]: [Internet Archive – After Dark (Windows)](https://archive.org/details/AFTERDARK_WIN) – intertextual references between modules
 [^ref-10]: [Low End Mac – On Mighty Toaster Wings: More After Dark History](https://lowendmac.com/2007/on-mighty-toaster-wings-more-after-dark-history/) – Patrick Beard interview (2007) on After Dark's origins and design
 [^ref-11]: [MobyGames – After Dark Games](https://www.mobygames.com/game/4821/after-dark-games/) – Sierra On-Line publication of After Dark Games, 1998
