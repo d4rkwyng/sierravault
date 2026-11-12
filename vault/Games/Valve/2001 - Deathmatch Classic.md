@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Spinoff
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Deathmatch Classic (DMC) is a multiplayer first-person shooter that recreates
   Quake's deathmatch in the GoldSrc engine. Valve released it as a free download on
   June 7, 2001, as a mod for the Sierra-published Half-Life; Sierra's July 2001 patch
@@ -19,15 +19,15 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Deathmatch Classic
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]]. Valve released it as a free 13 MB download on June 7, 2001, as a mod that required the retail version of Half-Life.[^ref-21][^ref-22][^ref-1] Valve conceived it as a tribute to id Software: it recreates the multiplayer deathmatch of id's Quake in GoldSrc, the engine that powered Half-Life.[^ref-23][^ref-5][^ref-18] Valve's Doug Lombardi told GameSpy the game had taken "about three months to develop".[^ref-23]
+Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]]. Valve released it as a free 13 MB download on June 7, 2001, as a mod that required the retail version of Half-Life.[^ref-21][^ref-22][^ref-1] Steam's own listing gives the release date as "Jun 1, 2001".[^ref-7] Valve conceived it as a tribute to id Software: it recreates the multiplayer deathmatch of id's Quake in GoldSrc, the engine that powered Half-Life.[^ref-23][^ref-5][^ref-18] Valve's Doug Lombardi told GameSpy the game had taken "about three months to develop".[^ref-23]
 
 About a month later, on July 11, 2001, Sierra released the Half-Life 1.1.0.7 and Half-Life: Counter-Strike 1.0.0.2 updates, which included "the addition of Deathmatch Classic", from Sierra's website and through the AutoUpdate program in the Sierra Utilities.[^ref-25] When Valve moved its games to Steam the game became a standalone release, sold on Steam since September 12, 2003, and Mac OS X and Linux support followed in a Steam update on July 31, 2013.[^ref-13][^ref-26]
 
-GameSpot described the mod as "an updated version of Id Software's classic first-person shooter, Quake", with updated textures, new character and weapon models, more detailed levels and better lighting.[^ref-22] GoldSrc was itself a heavily modified version of the Quake engine, which made the tribute fitting.[^ref-20][^ref-5] Rock Paper Shotgun's 2016 retrospective was blunter, judging that "it doesn't feel quite right".[^ref-5] On Steam, 82% of 1,291 English-language user reviews are positive as of October 2026.[^ref-7]
+GameSpot described the mod as "an updated version of Id Software's classic first-person shooter, Quake", with updated textures, new character and weapon models, more detailed levels and better lighting.[^ref-22] GoldSrc was itself a heavily modified version of the Quake engine, which made the tribute fitting.[^ref-20][^ref-5] Rock Paper Shotgun's 2016 retrospective was blunter, judging that "it doesn't feel quite right".[^ref-5] On Steam, 82% of 1,293 English-language user reviews are positive as of November 2026.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1][^ref-7][^ref-16]
@@ -38,7 +38,7 @@ GameSpot described the mod as "an updated version of Id Software's classic first
 > **Release Year:** 2001[^ref-21]
 > **Series:** Half-Life
 > **Protagonist:** N/A (multiplayer only)
-> **Sierra Lineage:** Spinoff (mod for the Sierra-published Half-Life, added to Half-Life by Sierra's July 2001 patch; MobyGames alone credits Sierra as publisher)
+> **Sierra Lineage:** Spinoff
 
 ## Story Summary
 
@@ -85,10 +85,10 @@ Rock Paper Shotgun's 2016 retrospective stated: "Interestingly, it's not very go
 User reviews on Metacritic include one calling it "one of the fairest shooters out there" and noting that "Deathmatch Classic is as simple as it gets. Start it up, connect and go shoot people."[^ref-4] Others report a thin player base: a 2012 review said the servers were "just full of bots", a 2022 review complained of "no players in 2022", and a 2020 Steam review called it "completely dead".[^ref-4][^ref-8]
 
 **Aggregate Scores:**
-- **Steam:** 82% positive (1,291 English-language reviews, October 2026)[^ref-7]
+- **Steam:** 82% positive (1,293 English-language reviews, November 2026)[^ref-7]
 - **Metacritic:** 7.0/10 user score (27 ratings); no critic reviews[^ref-1]
 - **MobyGames:** 2.6/5 (9 player ratings)[^ref-2]
-- **Glitchwave:** 2.81/5.0 (103 ratings)[^ref-9]
+- **Glitchwave:** 2.81/5.0 (105 ratings, November 2026)[^ref-9]
 
 ## Development
 
@@ -152,10 +152,10 @@ The retail-era game supported Direct3D 7 and OpenGL renderers; Direct3D support 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Mod release | June 7, 2001 | Windows | Free 13 MB download from Valve; required retail Half-Life[^ref-21][^ref-22] |
-| Half-Life 1.1.0.7 / Counter-Strike 1.0.0.2 patches | July 11, 2001 | Windows | Sierra's updates added Deathmatch Classic[^ref-25][^ref-2] |
+| Mod release | June 7, 2001 | Windows | Free 13 MB download from Valve; required retail Half-Life[^ref-21][^ref-22][^ref-28] |
+| Half-Life 1.1.0.7 / Counter-Strike 1.0.0.2 patches | July 11, 2001 | Windows | Sierra's updates added Deathmatch Classic[^ref-25][^ref-2][^ref-28] |
 | Steam release | September 12, 2003 | Windows | Standalone Steam release[^ref-13][^ref-9] |
-| SteamPipe update | July 31, 2013 | Windows, Mac OS X, Linux | Added Mac OS X and Linux support, Steam Cloud and an improved OpenGL renderer[^ref-26][^ref-13] |
+| SteamPipe update | July 31, 2013 | Windows, Mac OS X, Linux | Added Mac OS X and Linux support, Steam Cloud and an improved OpenGL renderer[^ref-26][^ref-13][^ref-28] |
 
 PCGamingWiki dates the macOS and Linux releases to March 30, 2013; Valve's own announcement of the public update is dated July 31, 2013, and MobyGames dates the Mac and Linux Steam releases to August 1, 2013.[^ref-10][^ref-26][^ref-13]
 
@@ -198,7 +198,7 @@ PCGamingWiki documents these problems and fixes:[^ref-10]
 
 Sierra did not publish Deathmatch Classic's original release. Valve released it as a free download on June 7, 2001; Shacknews and GameSpot announced it as a Valve release without mentioning Sierra.[^ref-21][^ref-22] What the records show:
 
-- **Sierra published the host game.** Deathmatch Classic was a mod for Half-Life, which Sierra published, and it required the retail game to run.[^ref-22]
+- **Sierra published the host game.** Deathmatch Classic was a mod for Half-Life, which Sierra published ("Half-Life was developed by Valve Software and published by Sierra"), and it required the retail game to run.[^ref-25][^ref-22]
 - **Sierra distributed the patch that added it.** On July 11, 2001, Sierra's Half-Life news page announced the Half-Life 1.1.0.7 and Counter-Strike 1.0.0.2 updates, which "include feature additions and bug fixes including the addition of Deathmatch Classic", downloadable "from this website or ... through AutoUpdate, a program included as part of the Sierra Utilities."[^ref-25]
 - **Only MobyGames credits Sierra as publisher.** MobyGames lists Sierra Entertainment as publisher of the June 7, 2001 Windows "download release", without a cited source.[^ref-13] Metacritic, Steam and the Valve Developer Community list Valve.[^ref-1][^ref-7][^ref-20]
 
@@ -222,7 +222,7 @@ Deathmatch Classic is included in these Valve bundles on Steam:[^ref-7]
 
 The game has inspired ongoing community interest, including:
 
-- **Deathmatch Classic: Refragged** – a community-made Source engine arena shooter by CoaXioN that builds on DMC with new modes and maps; its ModDB page says it "will release on Steam for free" and lists the release date as TBD[^ref-15]
+- **Deathmatch Classic: Refragged** – a community-made Source engine arena shooter by CoaXioN that builds on DMC with new modes and maps; its ModDB page says it "will release on Steam for free" and lists the release date as TBD; in its Devlog 6 (6 June 2026) the team wrote of "why we haven't made the Steam page publicly visible yet", because many assets were still placeholders or untextured[^ref-15]
 - Various custom maps and server modifications hosted on ModDB[^ref-6]
 - **DMC Pro** – a popular server-side modification with a Quake-style sound pack, custom maps and capture the flag[^ref-3]
 
@@ -267,7 +267,7 @@ Rock Paper Shotgun framed Deathmatch Classic as "a cover version of another deve
 [^ref-4]: [Metacritic User Reviews – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/user-reviews/) – user reviews (2012–2023): "fairest shooters", "full of bots", "no players in 2022", mouse problems
 [^ref-5]: [Rock Paper Shotgun – Have You Played... Deathmatch Classic? (Graham Smith, December 14, 2016)](https://www.rockpapershotgun.com/have-you-played-deathmatch-classic) – retrospective analysis, engine critique
 [^ref-6]: [ModDB – Deathmatch Classic](https://www.moddb.com/games/deathmatch-classic) – community maps, mods and files
-[^ref-7]: [Steam Store – Deathmatch Classic](https://store.steampowered.com/app/40/Deathmatch_Classic/) – developer and publisher Valve, price, platforms, system requirements, VAC, bundles, user reviews (82% of 1,291 English reviews, October 2026)
+[^ref-7]: [Steam Store – Deathmatch Classic](https://store.steampowered.com/app/40/Deathmatch_Classic/) – developer and publisher Valve, price, platforms, system requirements, VAC, bundles, user reviews (82% of 1,293 English reviews, November 2026; release date listed as Jun 1, 2001)
 [^ref-8]: [Steam Community Review – Snort Cannon](https://steamcommunity.com/id/snortcannon/recommended/40/) – April 2020 review: sound, textures, empty servers, high ping
 [^ref-9]: [Glitchwave – Deathmatch Classic](https://glitchwave.com/game/deathmatch-classic/) – ratings, 1-32 players, 2003 Steam release
 [^ref-10]: [PCGamingWiki – Deathmatch Classic](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic) – network specifications, renderers, bug documentation, Catalina incompatibility, retail availability via Half-Life updates
@@ -285,3 +285,4 @@ Rock Paper Shotgun framed Deathmatch Classic as "a cover version of another deve
 [^ref-25]: [Sierra Studios – Half-Life News (Wayback, August 1, 2001)](https://web.archive.org/web/20010801165659/http://www.sierrastudios.com:80/games/half-life/news.html) – July 11, 2001: Half-Life 1.1.0.7 and Counter-Strike 1.0.0.2 updates "include ... the addition of Deathmatch Classic", via Sierra's site or Sierra Utilities AutoUpdate
 [^ref-26]: [Steam Community – Deathmatch Classic Update released (July 31, 2013; Wayback)](https://web.archive.org/web/20160216043908/http://steamcommunity.com/games/40/announcements/detail/1603565219462494873) – SteamPipe conversion, "Added support for Mac OS X and Linux operating systems"
 [^ref-27]: [PC Zone #106 (September 2001) – Internet Archive](https://archive.org/details/PC_Zone_106_September_2001) – Modwatch: "HALF-LIFE DEATHMATCH CLASSIC (ON THE CD)"; "arrived too late to be reviewed in the Modwatch section"
+[^ref-28]: [Wikipedia – List of GoldSrc mods](https://en.wikipedia.org/wiki/List_of_GoldSrc_mods) – Deathmatch Classic: "released on June 7, 2001, and included in an update to Half-Life a month later. OS X and Linux ports ... through Steam in August 2013."
