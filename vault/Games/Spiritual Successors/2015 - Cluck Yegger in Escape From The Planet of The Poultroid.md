@@ -116,7 +116,7 @@ The game was released first to Kickstarter backers on October 29, 2015, "just in
 
 ### Technical Achievements
 
-The game was built on the Unity 4 engine[^ref-8] and released on Windows, macOS and Linux[^ref-18]; Wikipedia also lists an iOS version[^ref-1], but no Cluck Yegger app turned up in a US App Store search on October 29, 2026. The developers included a "Tame Mode" that replaces jump scares with humorous imagery[^ref-1]. Update #104 said that once the computer versions were out, the team would rework the game for iPad and Android tablets, and might eventually release it on smartphones as well[^ref-32].
+The game was built on the Unity 4 engine[^ref-8] and released on Windows, macOS and Linux[^ref-18]; Wikipedia also lists an iOS version[^ref-1]. The developers included a "Tame Mode" that replaces jump scares with humorous imagery[^ref-1]. Update #104 said that once the computer versions were out, the team would rework the game for iPad and Android tablets, and might eventually release it on smartphones as well[^ref-32].
 
 The intro and Cluck theme were provided by Ken Allen[^ref-18], one of the composers of Sierra's *King's Quest V*[^ref-25]. The voice acting was highlighted by reviewers, with one describing the lead as "Patrick Warburton styled voice acting"[^ref-7]. The game included radio segments with a singer and newscaster[^ref-18].
 
