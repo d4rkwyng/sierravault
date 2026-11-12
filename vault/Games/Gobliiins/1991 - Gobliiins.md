@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Asgard, Ignatius, and Oups (BoBo, Hooter, and Dwayne in US)
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Gobliiins is a quirky point-and-click adventure/puzzle game developed
   by French studio Coktel Vision and released in 1991. Created by Pierre Gilhodes
   and Muriel Tramis, it began the Gobliiins series.
@@ -18,11 +18,11 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Gobliiins
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Gobliiins is a quirky point-and-click adventure/puzzle game developed by French studio Coktel Vision and released in 1991.[^ref-1] Created by [[Pierre Gilhodes]] and co-designed by [[Muriel Tramis]], this whimsical title became the beginning of Coktel Vision's most beloved franchise.[^ref-2] The game represents "a strange blend of genres that includes point and click adventure with more traditional puzzle-style gameplay," with the player directing a team of three goblins, each with its own special ability, through a run of comic puzzles.[^ref-3][^ref-4] In Europe it was published in 1991 by [[Tomahawk]], a label Coktel Vision used for some of its own releases; [[Sierra On-Line]] published the US DOS release on September 11, 1992.[^ref-28][^ref-1][^ref-47]
+Gobliiins is a quirky point-and-click adventure/puzzle game developed by French studio [[Coktel Vision]] and released in 1991.[^ref-1] Created by [[Pierre Gilhodes]] and co-designed by [[Muriel Tramis]], this whimsical title became the beginning of Coktel Vision's most beloved franchise.[^ref-2] The game represents "a strange blend of genres that includes point and click adventure with more traditional puzzle-style gameplay," with the player directing a team of three goblins, each with its own special ability, through a run of comic puzzles.[^ref-3][^ref-4] In Europe it was published in 1991 by [[Tomahawk]], a label Coktel Vision used for some of its own releases; [[Sierra On-Line]] published the US DOS release on September 11, 1992.[^ref-28][^ref-1][^ref-47]
 
 The game's distinctive naming convention—with three "i"s in the title—indicates the number of playable characters, a tradition that would continue throughout the series.[^ref-5] The linear game consists of 22 levels, each occupying a single screen, where players must coordinate the three goblins' distinct abilities to progress.[^ref-5][^ref-6]
 
@@ -77,6 +77,8 @@ Puzzles often demand very specific sequences of actions. One blogger's example i
 
 Power Play magazine gave the Atari ST version 69/100 in March 1992.[^ref-21] Wikipedia reports Powerplay's ratings as 70% for the PC version and 69% for the Amiga and Atari ST versions.[^ref-5] Amiga Action awarded the game 81% (Alan Bunker, issue 35, August 1992), Amiga Format also gave 81% (Andy Nuttall, issue 38, September 1992), Amiga Mania 83% (July 1992) and Amiga Joker 62% (February 1992).[^ref-7] Dragon magazine gave the game a perfect 5/5 score in 1993.[^ref-5]
 
+Tilt (France, issue 98, January 1992) covered the game in its "Hits" section under the headline "Les Gobliiins de Tomahawk"; one reviewer called it "Original, simple, plein de charme" and another wrote that "les gobliiins sont tellement drôles qu'on leur pardonne."[^ref-51]
+
 Computer Gaming World noted that "the game will entertain a variety of light-hearted gamers," acknowledging both its appeal and niche audience.[^ref-5] ST Format ranked Gobliiins #33 in their "50 finest Atari ST games of all time" list in January 1993.[^ref-1]
 
 A 2000 MobyGames user review by Tomer Gabel called it "a landmark in computer gaming" and "a really neat game, super-original with no equal in that department."[^ref-1]
@@ -101,9 +103,9 @@ Pierre Gilhodes began his career as a graphic artist at a very early age and sta
 
 ### Production
 
-Development took place at Coktel Vision's French studios, with the team designing 22 single-screen puzzle environments.[^ref-2] On the floppy versions, characters speak in "goblinish" rather than recorded voices.[^ref-5]
+Development took place at Coktel Vision's French studios, with the team designing 22 single-screen puzzle environments.[^ref-2][^ref-1][^ref-5] On the floppy versions, characters speak in "goblinish" rather than recorded voices.[^ref-5]
 
-**Development Credits:**[^ref-1][^ref-7]
+**Development Credits:**[^ref-1][^ref-7] (Tilt's 1992 credit line reads "Editeur : Tomahawk. Chef de projet : Muriel Tramis ; concepteur/graphiste : Pierre Gilhodes ; Programmeur : Roland Lacoste."[^ref-51])
 - **Original Concept:** Pierre Gilhodes, Muriel Tramis
 - **Graphics / Artwork:** Pierre Gilhodes
 - **Programming:** Roland Lacoste, Eric Metens, M.D.O.
@@ -131,7 +133,7 @@ Pierre Gilhodes's angular, cartoonish art style gave the game a distinctive look
 - **CPU:** Intel 386 16 MHz minimum
 
 **CD-ROM Version (1992/1993):**[^ref-29]
-- **Audio:** CD Audio tracks for music
+- **Audio:** CD Audio tracks for music, by Charles Callet[^ref-28]
 - **Features:** Voices replacing the floppy versions' "goblinish" talk[^ref-5]
 - **Languages:** French, English, Italian, Spanish, German
 
@@ -156,10 +158,11 @@ The game also contains unused title screen music that can be found in the data f
 | Original | 1992 | Amiga, Atari ST | European release[^ref-1] |
 | US release | September 11, 1992 | DOS | Sierra On-Line release with changed character names[^ref-28][^ref-12] |
 | CD-ROM | 1992-1993 | DOS | Voices replace "goblinish"[^ref-5]; multilingual[^ref-29] |
-| iOS | November 8, 2010 | iPhone/iPad | Bulkypix port using ScummVM[^ref-31] |
 | Windows (ScummVM) | March 23, 2010 | Windows | DotEmu release, pre-packaged with ScummVM[^ref-9] |
+| iOS | November 8, 2010 | iPhone/iPad | Bulkypix port using ScummVM[^ref-31] |
 | Blacknut | 2018 | Cloud Gaming | Streaming version[^ref-1] |
 | Gobliiins Collection | May 27, 2026 | Switch, PS5, Xbox Series | Red Art Games re-release in a five-game collection[^ref-49] |
+| Gobliiins Collection | August 17, 2026 | Switch 2 | Nintendo Switch 2 release of the collection[^ref-50] |
 
 **Regional Naming Differences:**[^ref-12]
 The US release changed character names from the European originals:
@@ -176,7 +179,7 @@ Several patches were released to address compatibility issues:[^ref-32]
 | GOB1CD | 95.7 KB | CD version fixes for sound cards and CD-ROM drives |
 | GOB1CDb | 81.2 KB | Patch disk included with CD release |
 
-The Macintosh version has documented problems with music playback when running through ScummVM.[^ref-33] Announcing a 2009 ScummVM-based re-release, Alexander Souslov of Snowberry Connection said: "Thanks to ScummVM, thousands of gamers around the world can enjoy the good old Goblins without any compatibility problems and headache."[^ref-34]
+According to Wikipedia, the CD version also censors the nudity present in the original game.[^ref-5] The Macintosh version had documented problems with music playback in ScummVM as of version 1.5.0.[^ref-33] Announcing a 2009 ScummVM-based re-release, Alexander Souslov of Snowberry Connection said: "Thanks to ScummVM, thousands of gamers around the world can enjoy the good old Goblins without any compatibility problems and headache."[^ref-34]
 
 ### Easter Eggs and Trivia
 
@@ -189,7 +192,7 @@ The Macintosh version has documented problems with music playback when running t
 
 ### Sales and Commercial Impact
 
-While specific sales figures are not publicly available, Gobliiins was successful enough to spawn a franchise of six games released between 1991 and 2026.[^ref-5] The original trilogy was published in North America by Sierra On-Line, helping establish Coktel Vision as a notable developer in the adventure game genre.[^ref-35]
+While specific sales figures are not publicly available, Gobliiins was successful enough to spawn a franchise of six games released between 1991 and 2026.[^ref-5] Sierra On-Line published the first game in the US on September 11, 1992,[^ref-28] and also published Goblins Quest 3 in North America.[^ref-35]
 
 ### Collections
 
@@ -197,7 +200,7 @@ Gobliiins has appeared in numerous compilation releases:
 
 - **Gobliiins 1 & Gobliins 2** – Sierra Originals dual-pack (October 20, 1995)[^ref-29]
 - **Gobliiins Pack** – GOG.com digital bundle including first three games[^ref-8]
-- **Gobliiins Collection** – Red Art Games compilation of five games (May 27, 2026; Switch, PS5, Xbox Series)[^ref-49]
+- **Gobliiins Collection** – Red Art Games compilation of five games (May 27, 2026 for Switch, PS5 and Xbox Series; August 17, 2026 for Switch 2)[^ref-49][^ref-50]
 - **Gobliiins Gold** – CD-ROM version with voice acting in multiple languages[^ref-11]
 
 ### Fan Projects
@@ -241,36 +244,36 @@ The Gobliiins series spans six games released between 1991 and 2026, each with a
 
 **Purchase / Digital Stores**
 - [GOG – Gobliiins Pack](https://www.gog.com/en/game/gobliiins_pack) - Includes first three games
-- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available))
+- **Gobliiins Collection** (PS5 / Xbox Series / Switch) - Red Art Games digital compilation of the first five games, released May 27, 2026 ([announcement](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available)); Nintendo Switch 2 version released August 17, 2026 ([Gematsu](https://www.gematsu.com/games/gobliiins-collection))
 
 ## See Also
 
 - [[1992 - Gobliins 2 - The Prince Buffoon|→ Next: Gobliins 2 - The Prince Buffoon]]
-
 - [[1993 - Goblins Quest 3]]
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
 - [[2009 - Gobliiins 4]]
 - [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 - [[2026 - Gobliins 6]]
+- [[Coktel Adventures Series]]
 
 ## References
 
 [^ref-1]: [MobyGames – Gobliiins](https://www.mobygames.com/game/1154/gobliiins/) – developer credits, ratings, platform releases, trivia, awards
-[^ref-2]: Abandonware France – Coktel Vision History *(download link removed: the game is sold commercially)* – designer credits, development history
+[^ref-2]: Abandonware France – Coktel Vision History – designer credits, development history
 [^ref-3]: [Neoseeker – Gobliiins Walkthrough](https://www.neoseeker.com/gobliiins/faqs/85009-a.html) – gameplay mechanics, genre description
-[^ref-4]: DOS.Zone – Gobliiins *(download link removed: the game is sold commercially)* – game description
+[^ref-4]: DOS.Zone – Gobliiins – game description
 [^ref-5]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – release dates, ratings, awards, series information
 [^ref-6]: [Reddit r/Sierra – Gobliiins Discussion](https://www.reddit.com/r/Sierra/comments/1nv3ob0/gobliiins_1991_full_game/) – plot summary, level structure
 [^ref-7]: [Lemon Amiga – Gobliiins](https://www.lemonamiga.com/games/details.php?id=458) – review scores, credits, engine information
 [^ref-8]: [GOG.com – Gobliiins Pack](https://www.gog.com/en/game/gobliiins_pack) – user reviews, technical requirements, game description
 [^ref-9]: [PCGamingWiki – Gobliiins](https://www.pcgamingwiki.com/wiki/Gobliiins) – engine, technical specifications, compatibility
-[^ref-10]: DOS Games Archive – Gobliiins *(download link removed: the game is sold commercially)* – plot summary
-[^ref-11]: Classic DOS Games – Gobliiins *(download link removed: the game is sold commercially)* – gameplay mechanics, version information
-[^ref-12]: Retrogames.cz – Gobliiins *(download link removed: the game is sold commercially)* – character name differences, credits
+[^ref-10]: DOS Games Archive – Gobliiins – plot summary
+[^ref-11]: Classic DOS Games – Gobliiins – gameplay mechanics, version information
+[^ref-12]: Retrogames.cz – Gobliiins – character name differences, credits
 [^ref-13]: [Gamer Walkthroughs – Gobliiins](https://gamerwalkthroughs.com/gobliiins-1-walkthrough/) – character descriptions, gameplay
 [^ref-14]: [MobyGames – Goblins Quest 3](http://www.mobygames.com/game/goblins-quest-3) – Goblins Quest 3 user review quote
 [^ref-15]: [Family Friendly Gaming – Gobliiins Review](https://www.familyfriendlygaming.com/Reviews/2012/Gobliiins.html) – iOS review, rating
-[^ref-16]: Games Nostalgia – Gobliiins *(download link removed: the game is sold commercially)* – gameplay mechanics
+[^ref-16]: Games Nostalgia – Gobliiins – gameplay mechanics
 [^ref-17]: [GameFAQs – Gobliiins Walkthrough](https://gamefaqs.gamespot.com/pc/564707-gobliiins/faqs/1942) – level structure
 [^ref-18]: [The Adventurers' Guild – Gobliins 2 Review](https://advgamer.blogspot.com/2020/02/gobliins-2-final-rating.html) – puzzle design analysis
 [^ref-19]: [LaunchBox Games Database – Gobliiins 4](https://gamesdb.launchbox-app.com/games/details/57336-gobliiins-4) – Gobliiins 4 reception: GameRankings average, IT Reviews and Adventure Gamers quotes
@@ -283,14 +286,14 @@ The Gobliiins series spans six games released between 1991 and 2026, each with a
 [^ref-26]: [PCGamingWiki – Gobliiins](https://www.pcgamingwiki.com/wiki/Gobliiins) – DOS modes CGA, EGA, VGA; 320x200 only
 [^ref-27]: [TV Tropes – Gobliiins](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins) – character descriptions, easter eggs, trivia
 [^ref-28]: [Video Game Music Preservation Foundation – Gobliiins](https://www.vgmpf.com/Wiki/index.php?title=Gobliiins_(DOS)) – audio specifications, composer credits
-[^ref-29]: [Discogs – Charles Callet Gobliiins 1 & 2](https://www.discogs.com/release/3694705-Charles-Callet-Gobliins-1-2) – soundtrack release, languages
+[^ref-29]: [Discogs – Charles Callet Gobliiins 1 & 2](https://www.discogs.com/release/3694705-Charles-Callet-Gobliins-1-2) – French Sierra Originals 2xCD soundtrack release (October 20, 1995), languages
 [^ref-30]: [The Cutting Room Floor – Gobliiins](https://tcrf.net/Gobliiins) – unused content
 [^ref-31]: [Web Archive – iTunes App Store](https://web.archive.org/web/20101111024319/http://itunes.apple.com/us/app/gobliiins/id394372440) – iOS release details
 [^ref-32]: [Sierra Help – Gobliiins Patches](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html) – patch information
-[^ref-33]: [ScummVM – Gobliiins Compatibility](https://scummvm.org/compatibility/1.5.0/gob:gob1/) – technical issues
+[^ref-33]: [ScummVM – Gobliiins Compatibility](https://scummvm.org/compatibility/1.5.0/gob:gob1/) – technical issues (snapshot from ScummVM 1.5.0)
 [^ref-34]: [ScummVM – Snowberry Press Release](https://www.scummvm.org/press/snowberry) – ScummVM support quotes
 [^ref-35]: [Sierra Chest – Goblins Quest 3](https://sierrachest.com/index.php?a=games&id=146&fld=general) – series history, Sierra publishing
-[^ref-36]: Internet Archive – German DOS Release *(download link removed: the game is sold commercially)* – manual, copy protection documentation
+[^ref-36]: Internet Archive – German DOS Release – manual, copy protection documentation
 [^ref-37]: [Rock Paper Shotgun – Have You Played Gobliiins](https://www.rockpapershotgun.com/have-you-played-the-gobliiins-series) – retrospective quotes
 [^ref-38]: [Kickstarter – GOBLiiiNS5](https://www.kickstarter.com/projects/pierregilhodes/gobliiins5-pc) – crowdfunding details
 [^ref-39]: [Gamer Walkthroughs – Gobliins 2](https://gamerwalkthroughs.com/gobliins-2/) – plot summary
@@ -301,3 +304,5 @@ The Gobliiins series spans six games released between 1991 and 2026, each with a
 [^ref-47]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Tomahawk "was only a label that Coktel Vision used to publish" some of its games
 [^ref-48]: [MobyGames – Pierre Gilhodes](https://www.mobygames.com/person/10718/pierre-gilhodes/) – biography: presented his works to Coktel Vision in 1989
 [^ref-49]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – May 27, 2026; publisher Red Art Games, developer Red Art Studios; five point-and-click adventure games
+[^ref-50]: [Gematsu – Gobliiins Collection](https://www.gematsu.com/games/gobliiins-collection) – release dates: PS5, Xbox Series, Switch May 27, 2026; Switch 2 August 17, 2026; publisher Red Art Games
+[^ref-51]: [Internet Archive – Tilt n°98 (January 1992)](https://archive.org/details/Tilt098) – "Hits" review of Gobliiins and its credit line
