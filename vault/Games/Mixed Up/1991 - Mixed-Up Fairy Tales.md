@@ -10,14 +10,15 @@ series: Mixed-Up
 engine: SCI1
 protagonist: Player-selected child character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Mixed-Up Fairy Tales is an educational adventure game released in 1991
-  by Sierra On-Line for MS-DOS. The game serves as a follow-up to the earlier Mixed-Up...
+  by Sierra On-Line for MS-DOS. Players help the dragon Bookwyrm restore five classic
+  fairy tales that the mischievous Bookend has mixed up.
 tags: [1990s, educational, mixed-up, sci, sierra]
 ---
 # Mixed-Up Fairy Tales
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,7 +42,7 @@ The game's hand-drawn graphics have been compared to the level of detail in Sier
 
 ## Story Summary
 
-In the magical world of fairy tales, Bookwyrm serves as the keeper of all classic stories, maintaining them within a special book[^ref-10]. However, Bookend, a troublesome character, has created chaos by mixing up the contents of five beloved fairy tales: Cinderella, Jack and the Beanstalk, Beauty and the Beast, Bremen Town Musicians, and Snow White[^ref-2]. Bookend has hidden pieces of the five stories throughout an enchanted landscape, and the player must return them to restore each tale[^ref-23].
+In the magical world of fairy tales, Bookwyrm serves as the keeper of all classic stories, maintaining them within a special book[^ref-10]. However, Bookend, a troublesome character, has created chaos by mixing up the contents of five beloved fairy tales: Cinderella, Jack and the Beanstalk, Beauty and the Beast, Bremen Town Musicians, and Snow White[^ref-2]. Bookend has stolen pieces of the five stories, and the player must find them and return them to their owners to restore each tale[^ref-33].
 
 The player takes on the role of a child who must help Bookwyrm unscramble these classic tales[^ref-3]. As the protagonist explores the enchanted landscape, they encounter various fairy tale characters—both human and animal—who are displaced from their proper stories[^ref-11]. By correctly identifying which fairy tale each character belongs to using a special fairy tale book, the player initiates the process of restoration[^ref-11].
 
@@ -81,11 +82,11 @@ Players select one of six child avatars at the game's start and can name the cha
 
 ### Contemporary Reviews
 
-PC Zone awarded Mixed-Up Fairy Tales 8 out of 10 in Issue 3 (June 1993), in Phil South's educational-software round-up "That's Edutainment!"[^ref-34] [^ref-2] [^ref-24]. The review box gives an age range of 7 to adult, 9 for fun, 9 for educational value and 8 for value for money[^ref-34]. Wikipedia dates the issue May 1993, but the scanned cover reads June 1993[^ref-34].
+PC Zone awarded Mixed-Up Fairy Tales 8 out of 10 in Issue 3 (June 1993), in Phil South's educational-software round-up "That's Edutainment!"[^ref-34] [^ref-2] [^ref-24]. The review box gives an age range of 7 to adult, 9 for fun, 9 for educational value and 8 for value for money, with a price of £34.99[^ref-34]. South called it a sequel to Mixed Up Mother Goose for which "the phrase 'more of the same' applies", written by Lori Cole, and "better than the original if anything, with a big friendly dragon character and a number of terrific tunes"[^ref-34]. Wikipedia dates the issue May 1993, but the scanned cover reads June 1993[^ref-34].
 
 In PC Games (August/September 1992), Cynthia E. Field called it "an engaging, nonviolent, challenging game that appeals to both genders"[^ref-33] [^ref-2]. She described it as "a reading-enrichment tool for kids aged 7 and up" and an "ideal interactive 'lapware' program" for parents of children who cannot yet read, and noted that it could save games for up to 20 players[^ref-33].
 
-Eddie Huffman's review in Compute! (July 1993) found that the "well-designed, mouse-oriented interface" made restoring the tales "an entertaining, educational challenge loaded with enough difficulties to be interesting but not enough to become frustrating"[^ref-27]. He was less taken with the music, calling it "at best ... a synthesized approximation" of the classical pieces, and reported needing about 535K of free RAM to run the game[^ref-27].
+Eddie Huffman's review in Compute! (July 1993) found that the "well-designed, mouse-oriented interface" made restoring the tales "an entertaining, educational challenge loaded with enough difficulties to be interesting but not enough to become frustrating"[^ref-27]. He was less taken with the music, calling it "at best ... a synthesized approximation" of the classical pieces, and reported needing about 535K of free RAM to run the game[^ref-27]. Playing the 256-color VGA version, he found "a nice array of backdrops but rather choppy characters"[^ref-27]. He also wrote that Norton Antivirus flagged a virus in the game's sound drivers, that repeated calls to Sierra's technical-support line "yielded only busy signals", and that the same virus was later reported in an unrelated program's sound driver, leaving him unsure the report was accurate[^ref-27]. The review lists the game at $49.95[^ref-27].
 
 A MobyGames user reviewer noted that the hand-drawn graphics "mimic the same amount of detail used in games such as King's Quest V"[^ref-8].
 
@@ -98,7 +99,7 @@ User reviews on MobyGames present a mixed picture. One reviewer noted that the g
 The Adventure Gamer blog's retrospective analysis characterized the game as "very much a First Steps to Adventure-styled title, not something that really offers much for an older audience"[^ref-7]. The reviewer suggested that, when playing alongside a young child, having no voice acting may have actually helped[^ref-7].
 
 **Aggregate Scores:**
-- **MobyGames:** 83% (critic average, based on a single critic rating)[^ref-4]
+- **MobyGames:** 83% (critic average, based on a single critic rating)[^ref-4]; players' average 3.9 out of 5 (10 ratings, 2 reviews)[^ref-26]; Moby Score 7.5 (as of November 2026)[^ref-4]
 - **MyAbandonware:** 4.22/5 (user rating, as of October 2026)[^ref-3]
 
 ## Development
@@ -120,10 +121,10 @@ Development took place at Sierra's Oakhurst, California offices[^ref-15]. The ga
 **Development Credits:**[^ref-30]
 - **Director / Game Designer:** [[Lori Ann Cole]]
 - **Creative Director:** [[Bill Davis]]
-- **Producer:** Stuart Moulder
+- **Producer:** [[Stuart Moulder]]
 - **Lead Programmer:** [[Corey Cole]]
 - **Production Designer:** [[Andy Hoyos]] (also among the Background Artists)
-- **Art Designer:** Douglas Herring
+- **Art Designer:** [[Douglas Herring]]
 - **Music Arranged and Performed by:** [[Mark Seibert]], Paul Aleman, Christopher G. Braymen
 - **Executive Producer:** [[Ken Williams]]
 
@@ -247,12 +248,12 @@ Players who grew up with it have asked for a re-release, with one GOG user writi
 [^ref-23]: [A Games Room – Mixed-Up Fairy Tales](https://www.agamesroom.com/game/muft) – file size, random object placement, reading/logic/problem-solving skills
 [^ref-24]: [HandWiki – Mixed-Up Fairy Tales](https://handwiki.org/wiki/Software:Mixed-Up_Fairy_Tales) – designers, composer, review scores confirmation
 [^ref-25]: [Wikidata – Mixed-Up Fairy Tales](https://www.wikidata.org/wiki/Q13649739) – single-player mode, mouse input, platform confirmation
-[^ref-26]: [MobyGames Reviews Page](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/reviews/) – Bremen Town Musicians inclusion, Mozart and Bach composers, randomization confirmation
-[^ref-27]: [Compute! Issue 154 (July 1993), p. 108 – Eddie Huffman, "Mixed-Up Fairy Tales"](https://archive.org/details/1993-07-compute-magazine) – Bach and Mozart soundtrack, ages 7 and up, 535K RAM, manual, story book, coloring book with crayons, 256-color VGA
+[^ref-26]: [MobyGames Reviews Page](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/reviews/) – Bremen Town Musicians inclusion, Mozart and Bach composers, randomization confirmation, player average 3.9 out of 5 (10 ratings)
+[^ref-27]: [Compute! Issue 154 (July 1993), p. 108 – Eddie Huffman, "Mixed-Up Fairy Tales"](https://archive.org/details/1993-07-compute-magazine) – Bach and Mozart soundtrack, ages 7 and up, 535K RAM, manual, story book, coloring book with crayons, 256-color VGA, "rather choppy characters", Norton Antivirus/tech-support anecdote, $49.95
 [^ref-28]: [MobyGames – Mixed-Up Fairy Tales Releases](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/releases/) – US and German 3.5" releases Nov 13 1991, US 5.25" EGA v1.00 Nov 23 1991, US 5.25" 1992
 [^ref-29]: [MobyGames – Mixed-Up Fairy Tales Specs](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/specs/) – video modes, sound devices, media, minimum CPU/OS/RAM
 [^ref-30]: [MobyGames – Mixed-Up Fairy Tales Credits (DOS)](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/credits/dos/) – Director/Game Designer Lori Ann Cole, Creative Director Bill Davis, Producer Stuart Moulder, Lead Programmer Corey Cole, music, Executive Producer Ken Williams; "Production Designer Andy Hoyos", Background Artists incl. Hoyos
 [^ref-31]: [SCI Wiki – Mixed-Up Fairy Tales](http://sciwiki.sierrahelp.com/index.php/Mixed-Up_Fairy_Tales) – SCI1 (early), game version 1.000, interpreter 1.000.145, 1991/11/13
 [^ref-32]: [ScummVM Wiki – Mixed-Up Fairy Tales](https://wiki.scummvm.org/index.php?title=Mixed-Up_Fairy_Tales) – not available for purchase, supported since ScummVM 1.2.0
 [^ref-33]: [PC Games, August/September 1992, pp. 77–78 – Cynthia E. Field, "Mixed Up Fairy Tales"](https://archive.org/details/pc-games-1992-08) – period scan, checked against page images; Bookend's stolen pieces (Jack's beans, Cinderella's pumpkin), Snow White's dwarves' house, icon interface, Fairy Tales menu, ages 7 and up, lapware, 20 save slots, verdict quote
-[^ref-34]: [PC Zone Issue 3 (June 1993), pp. 80–82 – Phil South, "That's Edutainment!"](https://archive.org/details/pczone-magazine-complete-collection) – period scan (file PC_Zone_Issue_3__June_1993), checked against page images; 8/10, age range 7–adult, sub-scores, June 1993 cover date
+[^ref-34]: [PC Zone Issue 3 (June 1993), pp. 80–82 – Phil South, "That's Edutainment!"](https://archive.org/details/pczone-magazine-complete-collection) – period scan (file PC_Zone_Issue_3__June_1993), checked against page images; 8/10, age range 7–adult, sub-scores, £34.99 price, June 1993 cover date
