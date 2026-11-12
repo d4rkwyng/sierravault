@@ -10,7 +10,7 @@ series: N/A
 engine: Machine Language
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Crossfire is a multidirectional arcade shooter by Jay Sullivan, published
   by On-Line Systems (later Sierra On-Line) for the Apple II in 1981 and ported to
   the Atari 8-bit, VIC-20, Commodore 64, IBM PC and IBM PCjr.
@@ -18,7 +18,7 @@ tags: [1980s, shooter, sierra]
 ---
 # Crossfire
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ Crossfire employs an innovative two-handed keyboard control scheme that anticipa
 
 ### Structure and Progression
 
-The game takes place on a 7×6 grid representing city streets, viewed from a top-down perspective.[^ref-8] Players begin each game with three ships and earn a fresh ship for every 5,000 points scored.[^ref-2] Ammunition is limited—players start with 35 shots, and this decreases by 5 each level until reaching a minimum of 15 shots.[^ref-1] When ammunition runs low (10 shots remaining), players must collect a fresh supply that appears on the grid.[^ref-8]
+The game takes place on a 7×6 grid representing city streets, viewed from a top-down perspective.[^ref-8] Players begin each game with three ships and earn a fresh ship for every 5,000 points scored.[^ref-2] Ammunition is limited—players start with 35 shots, and this decreases by 5 each level until reaching a minimum of 15 shots.[^ref-1] When ammunition runs low (10 shots remaining), players must collect a fresh supply that appears on the grid;[^ref-8] *Softalk* likewise says new ammunition appears "when you are ten bullets from empty."[^ref-23] The same review says the aliens come "from three directions — later four."[^ref-23]
 
 Four bonus crystals appear per level, each worth twice as much as the previous one (100, 200, 400, and 800 points).[^ref-8] A bonus object appears for every 12 missiles fired, and the player has six shots in which to run over it before it disappears.[^ref-19][^ref-2] The game employs a restriction where only one shot can be active at a time, requiring precise timing and positioning.[^ref-1]
 
@@ -69,9 +69,9 @@ While Crossfire is primarily a reflex-based action game rather than a puzzle gam
 
 ### Contemporary Reviews
 
-Crossfire was generally well received on release. *Softline* magazine called it "a new twist at arcade games with delightfully colorful beasties and smooth animation" and said it "offers hours of challenge and enjoyment for the dedicated and persevering gamester," though it faulted the lack of a pause button.[^ref-16][^ref-1] *BYTE* magazine called it "one of the most difficult and challenging arcade games to play," adding that "the reflexes take a long time to master, but, once you get the hang of it, it's addictive."[^ref-1][^ref-21]
+Crossfire was generally well received on release. *Softline* magazine called it "a new twist at arcade games with delightfully colorful beasties and smooth animation" and said it "offers hours of challenge and enjoyment for the dedicated and persevering gamester," though it faulted the lack of a pause button.[^ref-16][^ref-1] The review was decidedly mixed: it opened by calling Crossfire "a blight on the hallowed number 6502," found the two-handed controls frustrating, and said that clearing the first screen takes "several playing hours."[^ref-16] *BYTE* magazine called it "one of the most difficult and challenging arcade games to play," adding that "the reflexes take a long time to master, but, once you get the hang of it, it's addictive."[^ref-1][^ref-21]
 
-*Softalk* magazine provided particularly effusive praise: "Critters come at you from four directions on a grid laid out like city blocks. Strategy and intense concentration required. Superb, smooth animation of a dozen pieces simultaneously. One of the great ones."[^ref-22] The French magazine *Tilt* awarded the game 5 out of 6 stars (approximately 83%) in their January 1983 issue.[^ref-10]
+*Softalk* magazine provided particularly effusive praise: "Critters come at you from four directions on a grid laid out like city blocks. Strategy and intense concentration required. Superb, smooth animation of a dozen pieces simultaneously. One of the great ones."[^ref-22] The French magazine *Tilt* rated the game 5/6 (UVList) in January 1983.[^ref-10]
 
 *Softalk*'s full review in January 1982 called Crossfire "the best home-arcade game to cross our screens since Alien Rain," said it "offers much opportunity for strategy—far more than normal in a shoot-'em-up," and concluded: "With Crossfire and the recent Threshold, On-Line moves firmly into the same league as Sirius, Broderbund, Cavalier, and the like as a purveyor of outstanding home-arcade fun."[^ref-23]
 
@@ -93,7 +93,7 @@ Modern retrospective assessments have been generally favorable. User "dmsph" on 
 
 ### Origins
 
-Crossfire was inspired by the arcade game *Targ*.[^ref-2] The *Addison-Wesley Book of Atari Software 1984* said it "has its roots in the arcade game, Targ," but noted that where *Targ* let players shoot only in their direction of travel, Crossfire let them stop at any intersection and shoot in any of four directions.[^ref-20] Retro365 adds that Sullivan drew on both *Targ* and *Space Invaders*, and that the game was first marketed as "Cross Fire."[^ref-18] Jay Sullivan designed and programmed the original Apple II version, which Data Driven Gamer identifies as the original and, judging from footage, the most advanced of the three early versions.[^ref-4] The game was originally published under Sierra's earlier name, On-Line Systems, in a small folder before being re-released in a small SierraVision box.[^ref-6]
+Crossfire was inspired by the arcade game *Targ*.[^ref-2] The *Addison-Wesley Book of Atari Software 1984* said it "has its roots in the arcade game, Targ," but noted that where *Targ* let players shoot only in their direction of travel, Crossfire let them stop at any intersection and shoot in any of four directions.[^ref-20] Retro365 adds that Sullivan drew on both *Targ* and *Space Invaders*, and that the game was first marketed as "Cross Fire."[^ref-18] On-Line Systems' January 1982 *Softline* advertisement spelled the name "CROSS FIRE" and billed it as "a unique new game by JAY SULLIVAN."[^ref-16] Jay Sullivan designed and programmed the original Apple II version, which Data Driven Gamer identifies as the original and, judging from footage, the most advanced of the three early versions.[^ref-4] The game was originally published under Sierra's earlier name, On-Line Systems, in a small folder before being re-released in a small SierraVision box.[^ref-6]
 
 ### Production
 
@@ -123,7 +123,8 @@ According to Retro365, Sullivan co-founded the Calsoft mail-order software busin
 **Atari 8-bit Versions:**[^ref-1]
 - **Cartridge Version:** Runs on 16K RAM, uses character mode graphics
 - **Floppy Version:** Requires 32K RAM, uses bitmap mode graphics duplicating Apple II appearance
-- **Cassette Version:** The Atari manual covers disk, ROM cartridge and cassette play[^ref-19][^ref-18]
+- **Cassette Version:** *BYTE* (December 1982) noted the Atari 400/800 version was also available on "disk, cassette, or cartridge"; the Atari manual likewise covers disk, ROM cartridge and cassette play[^ref-21][^ref-19][^ref-18]
+- **Addison-Wesley listing (1984):** 32K, machine language, disk, $29.95; defeating all the aliens on level one takes 48 kills[^ref-20]
 
 **IBM PC Version:**[^ref-1][^ref-2]
 - **Format:** Self-booting disk
@@ -145,16 +146,16 @@ No documented cut content has been identified in available sources.
 
 ### Version History
 
-| Date | Platform | Notes |
-|------|----------|-------|
-| 1981 | Apple II | Initial release under On-Line Systems[^ref-3] |
-| 1981 | Atari 8-bit | Disk, cartridge and cassette versions[^ref-1][^ref-19] |
-| 1981 | VIC-20 | Port by "Gordon"[^ref-1][^ref-4] |
-| 1982 | IBM PC | Self-booting disk, ported by Sullivan/Randak[^ref-1][^ref-8] |
-| 1983 | Commodore 64 | With SID music, ported by Chuck Benton[^ref-11] |
-| 1984 | IBM PCjr | Cartridge version with different colors[^ref-1][^ref-5] |
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Disk | 1981 | Apple II | Initial release under On-Line Systems[^ref-3] |
+| Disk / cartridge / cassette | 1981 | Atari 8-bit | Ported by Chris Iden[^ref-1][^ref-19][^ref-25] |
+| Cartridge | 1981 | VIC-20 | Port by "Gordon"[^ref-2][^ref-4] |
+| Self-booting disk | 1982 | IBM PC | Ported by Sullivan/Randak[^ref-1][^ref-8] |
+| Disk | 1983 | Commodore 64 | With SID music, ported by Chuck Benton[^ref-2][^ref-11] |
+| Cartridge | 1984 | IBM PCjr | Different colors from the PC version[^ref-1][^ref-5] |
 
-**Note:** The IBM PC version was later patched or republished to support Tandy/PCjr graphics, as that graphics standard did not exist until 1984.[^ref-12]
+**Note:** MobyGames lists the PC booter release as supporting a Tandy/PCjr video mode and sound device, with PCjr cartridge among its media types.[^ref-2] A UVList contributor suggests the PC version was patched or republished to support Tandy/PCjr graphics, since that standard did not exist until 1984.[^ref-12]
 
 ### Technical Issues
 
@@ -164,16 +165,10 @@ One Abandonware DOS commenter, "Andy Panda," recalled a scoring bug: "There was 
 
 - The game was one of the very few Sierra titles re-released for the IBM PCjr, alongside the original *King's Quest*.[^ref-6]
 - Both PC and PCjr bootable cartridge versions exist, with the PCjr version featuring different, more pleasing colors.[^ref-5]
-- The keyboard controls (ESDF/IJKL) anticipate WASD-style controls by nearly 15 years.[^ref-4]
 - The Commodore 64 version's title music was later reused, with slightly different instruments, in the game *Ballonjagd* (1984).[^ref-11]
-- A Windows remake titled *Gridfire* was created for the Retro Remakes competition in 2006.[^ref-2]
 - One MyAbandonware commenter recalled the Apple II version as a "High priority game back in the software piracy trade game in the 80s."[^ref-9]
 
 ## Legacy
-
-### Sales and Commercial Impact
-
-No sales figures are documented in available sources. The game stayed in print for several years across six platforms, including IBM-published PC and PCjr versions.[^ref-1][^ref-2]
 
 ### Awards
 
@@ -181,7 +176,7 @@ No sales figures are documented in available sources. The game stayed in print f
 
 ### Collections
 
-Crossfire appeared in Sierra's early catalog releases and was distributed through IBM's software channel for the PC and PCjr versions.[^ref-2] The game has been preserved across multiple abandonware and archival sites, including:
+IBM is credited as a co-publisher of the PC and PCjr versions.[^ref-1][^ref-2] The game has been preserved across multiple abandonware and archival sites, including:
 - Internet Archive (Apple II, Atari, MS-DOS versions)[^ref-3][^ref-7][^ref-13]
 - MyAbandonware[^ref-9]
 - ClassicReload (playable in browser)[^ref-14]
@@ -198,7 +193,7 @@ No dedicated strategy guides or hint books have been documented for Crossfire, t
 
 ### Critical Perspective
 
-Data Driven Gamer credits its two-handed keyboard controls with anticipating WASD-style controls by nearly 15 years.[^ref-4] User "Robotron 2084" on Lemon64 was cooler: "Crossfire is a no-frills reaction test from the stone age of C64 gaming featuring a groovy SID-cover of the 'Peter Gunn' theme."[^ref-11]
+User "Robotron 2084" on Lemon64 was cooler on the C64 version: "Crossfire is a no-frills reaction test from the stone age of C64 gaming featuring a groovy SID-cover of the 'Peter Gunn' theme." The High Voltage SID Collection entry is more careful, saying the tune "is not a cover, but is definitely inspired" by the Mancini theme.[^ref-11]
 
 "This game is so simple yet so addictive," noted user bbagnall, while Jan Wiberg observed: "A game that truly lives up to its title! Not nice to be the shooting target of so many enemy ships which take several shots to destroy!"[^ref-11]
 
@@ -252,13 +247,13 @@ Data Driven Gamer credits its two-handed keyboard controls with anticipating WAS
 [^ref-12]: [UVList – Crossfire MS-DOS](https://www.uvlist.net/game-169491-Crossfire) – Tandy/PCjr graphics patch history
 [^ref-13]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Crossfire_1983) – DOS release date, emulation details
 [^ref-14]: [ClassicReload – Crossfire](https://classicreload.com/crossfire.html) – gameplay description, browser emulation
-[^ref-16]: [Softline – January 1982 (Internet Archive scan)](https://archive.org/details/Softline_1982_01) – "Crossfire By Jay Sullivan" review (macho man/two-fisted quote, smooth animation, no pause button) and On-Line Systems ad ($29.95, 48K Apple II)
+[^ref-16]: [Softline – January 1982 (Internet Archive scan)](https://archive.org/details/Softline_1982_01) – "Crossfire By Jay Sullivan" review (macho man/two-fisted quote, "blight on the hallowed number 6502", smooth animation, no pause button) and On-Line Systems "CROSS FIRE" ad ("by JAY SULLIVAN", $29.95, 48K Apple II)
 [^ref-17]: [Arcade Express, Nov 7, 1982 (VideoGame Pavilion transcription)](https://vgpavilion.com/mags/1982/11/07ae/text) – 1983 Arcade Awards list: Best Arcade/Action Computer Game Certificates of Merit include "Crossfire (On-Line Systems, for the Atari 400/800)"
 [^ref-18]: [Retro365 – Bits from my personal collection: Crossfire](https://retro365.blog/2021/11/06/bits-from-my-personal-collection-crossfire-jay-sullivan-dick-sunderland/) – Calsoft, machine language, Targ and Space Invaders inspiration, "Cross Fire" marketing name, Atari floppy/cassette
 [^ref-19]: [Crossfire Atari manual (Internet Archive)](https://archive.org/details/agm_crossfire) – disk/cartridge/cassette loading, 35 missiles down to 15, bonus object every 12 missiles with six shots to collect it
-[^ref-20]: [The Addison-Wesley Book of Atari Software 1984 (Internet Archive scan)](https://archive.org/details/Atari_Software_1984) – p.98 Crossfire review: "has its roots in the arcade game, Targ", stationary joystick aiming, "one of the best strategy shoot-'em-ups to come along in a long while"
-[^ref-21]: [BYTE, December 1982 (Internet Archive scan)](https://archive.org/details/byte-magazine-1982-12) – "one of the most difficult and challenging arcade games to play… once you get the hang of it, it's addictive"
+[^ref-20]: [The Addison-Wesley Book of Atari Software 1984 (Internet Archive scan)](https://archive.org/details/Atari_Software_1984) – p.98 Crossfire review: "has its roots in the arcade game, Targ", stationary joystick aiming, Atari listing (32K, machine language, B+, 48 kills on level one), "one of the best strategy shoot-'em-ups to come along in a long while"
+[^ref-21]: [BYTE, December 1982 (Internet Archive scan)](https://archive.org/details/byte-magazine-1982-12) – "one of the most difficult and challenging arcade games to play… once you get the hang of it, it's addictive"; Atari version also on disk, cassette or cartridge
 [^ref-22]: [Softalk, November 1983 (Internet Archive scan)](https://archive.org/details/softalkv4n03nov1983) – Critic's Choice listing: "Critters come at you from four directions on a grid laid out like city blocks… One of the great ones"
-[^ref-23]: [Softalk, January 1982 (Internet Archive scan)](https://archive.org/details/softalkv2n05jan1982) – "Crossfire. By Jay Sullivan" review: "best home-arcade game to cross our screens since Alien Rain", "four stages of metamorphosis", comparison to Sirius and Broderbund
+[^ref-23]: [Softalk, January 1982 (Internet Archive scan)](https://archive.org/details/softalkv2n05jan1982) – "Crossfire. By Jay Sullivan" review: "best home-arcade game to cross our screens since Alien Rain", "four stages of metamorphosis", "three directions — later four", reload at ten bullets, comparison to Sirius and Broderbund
 [^ref-24]: [Softalk, December 1982 (Internet Archive scan)](https://archive.org/details/softalkv3n04dec1982) – Critic's Choice listing: "Each alien has four lives and metamorphoses into its next one when shot"
 [^ref-25]: [The Giant List of Classic Game Programmers](https://dadgum.com/giantlist/) – "Iden, Chris: Crossfire (1981, A8, On-Line) from AP2"
