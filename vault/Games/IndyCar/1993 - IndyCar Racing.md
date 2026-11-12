@@ -10,7 +10,7 @@ series: IndyCar Racing
 engine: Proprietary (Papyrus)
 protagonist: Player (Racing Driver)
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: IndyCar Racing is a 1993 MS-DOS racing simulation by Papyrus Design
   Group, an officially licensed recreation of the 1993 IndyCar season and the follow-up
   to Indianapolis 500 - The Simulation.
@@ -18,7 +18,7 @@ tags: [1990s, indycar-racing, papyrus, racing, sierra]
 ---
 # IndyCar Racing
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -56,7 +56,7 @@ Players can engage in single races or a full championship season mode, experienc
 
 ### Cars and Customization
 
-IndyCar Racing features a pure open-wheel simulation based on American races, with an extensive car setup system that mirrors real-world racing engineering.[^ref-10] Players can adjust numerous aspects of their car's performance, including tire pressure, wing angles, and other mechanical settings to optimize performance for each unique circuit.
+IndyCar Racing features a pure open-wheel simulation based on American races, with an extensive car setup system that mirrors real-world racing engineering.[^ref-10] Players can adjust numerous aspects of their car's performance, including tire pressure, wing angles, and other mechanical settings to optimize performance for each unique circuit.[^ref-8][^ref-25]
 
 ### Tracks
 
@@ -115,6 +115,7 @@ Development was led by David Kaemmer. The team secured an official license, ensu
 - **Sound:** Rob Wallace
 - **Producer:** Dan Scherlis
 - **Voice:** Paul Page
+- **Writing:** Steve Vandergriff, Jack Zinkan, Bill Tempero[^ref-2]
 
 Adam Levesque, who later co-founded Blue Fang Games, designed and produced all of the game's 3D models. He later said he "didn't have any strong background in racing" when he joined Papyrus.[^ref-17]
 
@@ -176,7 +177,7 @@ The game manual documented several known issues:[^ref-11]
 
 ### Easter Eggs and Trivia
 
-- **Missing Drivers:** The game notably lacked Nigel Mansell, while Mario Andretti and Danny Sullivan appeared with generic liveries rather than their real-world sponsors.[^ref-2][^ref-5] Mansell's #6 car carried a fictional stand-in, "Nick Montel" (nickname "NIGEL"), renamed "Mick Richards" in version 1.05.[^ref-6]
+- **Missing Drivers:** The game notably lacked Nigel Mansell, while Mario Andretti and Danny Sullivan appeared in generic liveries.[^ref-2][^ref-5] Mansell's #6 car carried a fictional stand-in, "Nick Montel" (nickname "NIGEL"), renamed "Mick Richards" in version 1.05.[^ref-6]
 - **Mario Andretti's Livery:** In earlier versions/patches, Mario Andretti had a different, orange livery that was later changed.[^ref-6]
 - **Paul Page Announcement:** Real-life IndyCar announcer Paul Page provided voice work for the game, introducing it with: "I am Paul Page. From Papyrus, this is IndyCar Racing."[^ref-6][^ref-26]
 - **Version 1.05 Changes:** Changed fictional driver names to make them less obvious representations of real drivers not officially licensed.[^ref-6]
@@ -223,12 +224,10 @@ Kaemmer later told GameSpot that IndyCar Racing "was the natural follow-on to In
 
 Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies,[^ref-7] and eventually Grand Prix Legends (1998), which "is still considered to be one of the finest racing games of all time."[^ref-21] After Vivendi Universal shut the studio down in May 2004, David Kaemmer recovered the rights to Papyrus's racing simulation technology.[^ref-21] With John W. Henry he formed a company that acquired the NASCAR Racing 2003 Season code, which Kaemmer developed into iRacing, released in 2008.[^ref-23]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam. GOG lists it only as a [Dreamlist](https://www.gog.com/dreamlist/game/indycar-racing-1993) request.[^ref-13]
-
-## Downloads
 
 **Download / Preservation**
 - [Internet Archive – IndyCar Racing](https://archive.org/details/indy-car-racing-mr-abandonware) – Installation package with expansion packs[^ref-22]
@@ -239,11 +238,11 @@ Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies
 
 ## See Also
 
+- **Previous:** [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989)
+
 - [[1995 - IndyCar Racing II|→ Next: IndyCar Racing II]]
 
 - [[1997 - CART Racing]]
-
-- **Previous:** [[1989 - Indianapolis 500 - The Simulation|Indianapolis 500: The Simulation]] (1989)
 
 ## References
 
