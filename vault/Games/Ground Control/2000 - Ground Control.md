@@ -10,7 +10,7 @@ series: Ground Control
 engine: Direct3D 7
 protagonist: Major Sarah Parker / Deacon Jarrod Stone
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Ola Strandh]
 description: Ground Control is a real-time tactics game developed by Swedish studio
   Massive Entertainment and published by Sierra Studios in 2000, set on the planet
@@ -19,11 +19,11 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Ground Control is a real-time tactics game developed by Swedish studio Massive Entertainment and published by Sierra Studios in 2000.[^ref-1] Set in the year 2419,[^ref-10] the game focuses on a conflict between two factions—the Crayven Corporation and the Order of the New Dawn—vying for control of a distant planet called Krig-7B and a series of mysterious alien artifacts.[^ref-2] The game was notable for completely eliminating traditional RTS mechanics such as base building and resource gathering, instead focusing entirely on tactical combat.[^ref-3]
+Ground Control is a real-time tactics game developed by Swedish studio Massive Entertainment and published by Sierra Studios in 2000.[^ref-1] Set in the year 2419,[^ref-10] the game focuses on a conflict between two factions—the Crayven Corporation and the Order of the New Dawn—vying for control of a distant planet called Krig-7B and a series of mysterious alien artifacts.[^ref-2] The game was notable for dispensing with traditional RTS resource management, instead focusing on tactical combat: GameSpot noted that "you'll never have to worry about managing resources"[^ref-3] and one early player review describes it as an RTS "without base building and resource gathering."[^ref-17]
 
 Ground Control represented a significant departure from the conventions of the real-time strategy genre: players win with the units they have available and the tactics they use, rather than by tank-rushing with an economy behind them.[^ref-2] The game was the debut title for Massive Entertainment, developed by a team of complete newcomers to the industry in Ronneby, Sweden.[^ref-5][^ref-6] Ola Strandh, who has been at Massive since the Ground Control days, calls it "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6] Massive's own retrospective calls the result "a groundbreaking (no pun intended) game, mixing state of the art graphics with intense, action filled gameplay."[^ref-6]
 
@@ -32,6 +32,7 @@ The game received widespread critical acclaim upon release, earning a Metacritic
 > [!info]- Game Info
 > **Developer:** [[Massive Entertainment]][^ref-1]
 > **Designer:** Henrik Sebring, Martin Walfisz[^ref-1]
+> **Composer:** Ola Strandh[^ref-1]
 > **Publisher:** Sierra Studios[^ref-1]
 > **Engine:** Direct3D 7[^ref-9]
 > **Platforms:** Windows[^ref-1]
@@ -46,7 +47,7 @@ The game is set in the 25th century, following a devastating "Sixteen-Minute War
 
 The Order of the New Dawn has laid claim to the barren planetoid, and the Crayven Corporation wants to know why.[^ref-11] As Major Sarah Parker of the Crayven Corporation, or as Deacon Jarrod Stone of the Order, players command ground and air forces through a series of intense tactical engagements.[^ref-12] What begins as a straightforward territorial dispute gradually reveals a much deeper mystery involving ancient alien technology and a terrifying secret that both factions are racing to control.[^ref-11]
 
-The narrative unfolds across a single 30-mission campaign divided in half, telling the story from the perspective of each of the two opposing factions in turn.[^ref-3] The story features espionage missions, dramatic betrayals, and the gradual uncovering of the alien artifacts' true nature and purpose.[^ref-11] The campaign is enhanced by fully voiced cutscenes featuring professional voice actors, with Jennifer Hale portraying Major Sarah Parker and Dee Bradley Baker voicing Deacon Jarrod Stone.[^ref-13]
+The narrative unfolds across a single 30-mission campaign divided in half, telling the story from the perspective of each of the two opposing factions in turn.[^ref-3] The story features espionage missions, dramatic betrayals, and the gradual uncovering of the alien artifacts' true nature and purpose.[^ref-11][^ref-2] The campaign is enhanced by fully voiced cutscenes featuring professional voice actors, with Jennifer Hale portraying Major Sarah Parker and Dee Bradley Baker voicing Deacon Jarrod Stone.[^ref-13]
 
 ## Gameplay
 
@@ -54,7 +55,7 @@ The narrative unfolds across a single 30-mission campaign divided in half, telli
 
 Ground Control features what was described as "a remarkably easy-to-use interface" that wrapped intense tactical combat in one of the most impressive 3D engines ever seen in a computer game at the time.[^ref-7] Managing combat was streamlined by issuing commands to squads rather than individual troops, significantly reducing the micromanagement burden that plagued many RTS games.[^ref-7] The fully 3D engine gave players full control over the camera, letting them view the battlefield from any angle, from a bird's-eye view down to a single unit's ground-level perspective.[^ref-14]
 
-The game supports keyboard and mouse controls, with improved joystick support added in a later patch.[^ref-15]
+The mouse rotates and tilts the view, while scrolling and zooming are on the keyboard, and squads' special abilities can be mapped to keyboard hotkeys.[^ref-3] Improved joystick support was added in a later patch.[^ref-15]
 
 ### Structure and Progression
 
@@ -71,7 +72,7 @@ Each squad is drawn from one of four unit categories (vehicles, support, aircraf
 
 Ground Control emphasizes tactical combat over strategic resource management. The core gameplay loop involves positioning units to take advantage of terrain, coordinating combined arms attacks, and preserving limited forces across missions.[^ref-16] The 3D terrain plays a crucial role, with hills and obstacles affecting line of sight, weapon effectiveness, and unit movement.[^ref-19]
 
-The game features a friendly fire mechanic, requiring careful attention to unit positioning during firefights.[^ref-17] Units have view range limitations, meaning reconnaissance and proper deployment are essential for success.[^ref-20] Special weapons, repair modules, and tactical abilities add layers of depth to combat encounters.[^ref-20]
+The game features a friendly fire mechanic, requiring careful attention to unit positioning during firefights.[^ref-17] Units have a view range,[^ref-20] and because there is no fog of war, GameSpot found it difficult to tell when units are close enough to detect their enemies.[^ref-3] Special weapons, repair modules, and tactical abilities add layers of depth to combat encounters.[^ref-20]
 
 One of the most controversial design decisions was the lack of mid-mission save capability.[^ref-7] As one reviewer noted, "There is no mid-mission save ability. That really sucks."[^ref-21] CNN/IDG's reviewer, however, noted that "most missions shouldn't take more than two or three tries to complete."[^ref-7]
 
@@ -106,12 +107,12 @@ The game was originally developed under the working title "Genesis."[^ref-16] Wa
 
 ### Production
 
-The development team consisted of over 20 programmers, artists, and game designers,[^ref-5] most of whom were in their early twenties.[^ref-6] Despite their inexperience, the team was "fueled by the passion and creativity that has since become an integral part of the studio culture."[^ref-31] Ground Control combined "classic strategy elements with incredible 3D technology previously reserved for action games."[^ref-5]
+The development team consisted of over 20 programmers, artists, and game designers,[^ref-5] most of whom were in their early twenties.[^ref-6] Massive's project page describes the studio's early work on the Ground Control saga as "fueled by the passion and creativity that has since become an integral part of the studio culture."[^ref-31] Ground Control combined "classic strategy elements with incredible 3D technology previously reserved for action games."[^ref-5]
 
 The development goal was straightforward, according to Walfisz: "Our goal with Ground Control is to simply create a new game that makes players say, 'Yeah, this is cool.'"[^ref-5] The team focused heavily on visual presentation, creating what was at the time one of the most graphically impressive strategy games on the market.[^ref-7]
 
 **Development Credits:**
-- **Directors:** Martin Walfisz, Mats Grahm[^ref-1]
+- **Directors:** Martin Walfisz, Mats Grahm[^ref-1] (MobyGames credits Walfisz as "Director & Lead Game Designer" and Grahm as "Technical Director"[^ref-27])
 - **Designers:** Henrik Sebring, Martin Walfisz[^ref-1]
 - **Writers:** Henrik Sebring, Arinn Dembo, Martin Walfisz[^ref-1]
 - **Lead Software Engineer:** Dan Andersson[^ref-27]
@@ -121,6 +122,26 @@ The development goal was straightforward, according to Walfisz: "Our goal with G
 - **Producer:** Jeff Pobst[^ref-1]
 - **Cinematic Director:** James Carey[^ref-13]
 - **Voice Director:** Jeff Pobst[^ref-12]
+
+### Voice Cast
+
+Cast as listed by Behind The Voice Actors and IMDb.[^ref-12][^ref-13]
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Major Sarah Parker | Jennifer Hale |
+| Deacon Jarrod Stone | Dee Bradley Baker |
+| Paladin Magnus | Gregg Berger |
+| Cardinal Aegeri | Philip Lewis Clarke |
+| Sergeant Cole | Nathan Carlson |
+| Major Dwight Thomas | David Jeremiah |
+| Bishop Delendre | Mark Klastorin |
+| M | Nicholas Guest |
+| Annie-1 | Allison Levine |
+| Ghost | Andre Ware |
+| Enrica Hayes | Tasia Valenza |
+
+Voice direction by Jeff Pobst.[^ref-12]
 
 ### Technical Achievements
 
@@ -168,26 +189,6 @@ Modern compatibility issues include startup crashes on Windows 10, which can be 
 - The game ships with an unsupported map editor, GenEd, which Massive used to build the game's single and multiplayer missions[^ref-27]
 - The base game was released as a free download in June 2004 to promote the release of Ground Control II[^ref-27]
 
-## Voice Cast
-
-Cast as listed by Behind The Voice Actors and IMDb.[^ref-12][^ref-13]
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Major Sarah Parker | Jennifer Hale |
-| Deacon Jarrod Stone | Dee Bradley Baker |
-| Paladin Magnus | Gregg Berger |
-| Cardinal Aegeri | Philip Lewis Clarke |
-| Sergeant Cole | Nathan Carlson |
-| Major Dwight Thomas | David Jeremiah |
-| Bishop Delendre | Mark Klastorin |
-| M | Nicholas Guest |
-| Annie-1 | Allison Levine |
-| Ghost | Andre Ware |
-| Enrica Hayes | Tasia Valenza |
-
-Voice direction by Jeff Pobst.[^ref-12]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -217,13 +218,13 @@ The expansion was released at an unusually low price point, with Sierra offering
 
 **Ground Control II: Operation Exodus (June 2004)**[^ref-44]
 
-The sequel, also developed by Massive Entertainment, takes place 320 years after the original game.[^ref-45] The Crayven Corporation and Order of the New Dawn no longer exist, replaced by a new conflict between the democratic Northern Star Alliance (NSA) and the warmongering Terran Empire.[^ref-44] The game received an 80/100 on Metacritic.[^ref-45]
+The sequel, also developed by Massive Entertainment, takes place 320 years after the original game.[^ref-45] The Crayven Corporation and Order of the New Dawn no longer exist, replaced by a new conflict between the Northern Star Alliance (NSA) and the Terran Empire.[^ref-44] MobyGames' description calls the NSA "democratic and freedom caring" and the Terran Empire "warmongering."[^ref-54] The game received an 80/100 on Metacritic.[^ref-45]
 
 ### Fan Projects
 
 The modding community has created several notable projects for Ground Control:[^ref-46]
 
-- **Ground Control: The Aftermath** – An 18-mission campaign continuing the story from Dark Conspiracy, bridging the narrative gap to Ground Control II[^ref-47]
+- **Ground Control: The Aftermath** – An 18-mission campaign that continues from where Dark Conspiracy left off, depicting events leading up to the theft of the CSS Astrid.[^ref-47] A re-release in November 2025 added AI voicing and moved the first six original missions to the custom campaign section.[^ref-47]
 - **Ground Control Rebellion Mod** – A sequel to the "Sigma Incident" mod set years after the original story[^ref-46]
 - **Ground Control Windows 10 Crash Fix** – Community patch enabling compatibility with modern operating systems[^ref-37]
 - **Ground Control Remaster Fan Edition** – An in-development project updating the game to Full HD with English and Russian language support[^ref-46]
@@ -295,11 +296,12 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-44]: [IGN – Ground Control II Review](https://www.ign.com/articles/2004/06/16/ground-control-ii-operation-exodus-review) – sequel details, timeline
 [^ref-45]: [Wikipedia – Ground Control II](https://en.wikipedia.org/wiki/Ground_Control_II:_Operation_Exodus) – Metacritic score, release dates
 [^ref-46]: [ModDB – Ground Control Mods](https://www.moddb.com/games/ground-control/mods) – mod listings, community projects
-[^ref-47]: [ModDB – The Aftermath](https://www.moddb.com/mods/ground-control-the-aftermath) – mod description, campaign details
+[^ref-47]: [ModDB – The Aftermath](https://www.moddb.com/mods/ground-control-the-aftermath) – mod description, 18-mission campaign, November 2025 re-release
 [^ref-48]: [Sierra Chest – Dark Conspiracy Manual](https://sierrachest.com/gfx/games/GC_DC/box/DarkConspiracyManual.pdf) – expansion documentation
 [^ref-49]: [Ubisoft News](https://news.ubisoft.com/en-us/article/4jSe6ey6u1ebgY94kVk7Az/the-division-massive-turns-20-the-permanent-quest-for-new-heights) – Massive founded 1997, joined Ubisoft 2008, later led The Division
 [^ref-50]: [Game Developer – Rebellion Acquires Vivendi Licenses](https://www.gamedeveloper.com/game-platforms/rebellion-acquires-vivendi-licenses-considers-new-franchise-titles) – IP acquisition, Kingsley quote
 [^ref-51]: [Computer Games Strategy Plus – Ground Control review (Wayback, 2003)](https://web.archive.org/web/20030304153144/http://www.cdmag.com/articles/028/157/groundc_review.html) – Nick McElveen, posted 07/07/2000, overall rating 4.5 of 5, "an outstanding game…" quote, omitted features
 [^ref-52]: [CNET Gamecenter – Ground Control review (Wayback, 2000)](https://web.archive.org/web/20000815084733/http://gamecenter.com/Reviews/Item/0,6,0-4328,00.html) – Bill McClendon, 6/15/2000, "The Bottom Line" and "The Bad" quotes
 [^ref-53]: [GameSpot – Ground Control: Dark Conspiracy Announced (Wayback, 2017 copy)](https://web.archive.org/web/20170809000446/https://www.gamespot.com/articles/ground-control-dark-conspiracy-announced/1100-2622680/) – "Developed by High Voltage Software and Massive Entertainment"; 15 new missions; third faction
+[^ref-54]: [MobyGames – Ground Control II: Operation Exodus](https://www.mobygames.com/game/14351/ground-control-ii-operation-exodus/) – game description (NSA "democratic and freedom caring", Terran Empire "warmongering", roughly 300 years after the original)
 
