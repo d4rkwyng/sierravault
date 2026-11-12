@@ -5,15 +5,16 @@ founded: 2004
 defunct: 2012
 headquarters: "International (online team)"
 successor_company: "Infamous Quests"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
+parent_company: null
 ---
 # Infamous Adventures
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Infamous Adventures was an amateur studio, founded in 2004[^ref-14] by Shawn Mills and Steven Alexander, that made and gave away free VGA remakes of classic Sierra On-Line adventure games. Gamezebo described it as a studio inspired by the work of Roberta Williams' King's Quest series.[^ref-26] Its project teams came "from around the globe".[^ref-3] It released two remakes: *King's Quest III* in 2006 and *Space Quest II* in 2011.[^ref-2][^ref-7][^ref-6] In a site post dated 27 July 2012 the founders announced that the studio had stopped making games and that they had started a new company, [[Publishers/Infamous Quests|Infamous Quests]], to make original commercial adventure games.[^ref-3][^ref-14] The Infamous Adventures name stayed in use after that: it released version 2.0 of its Space Quest II remake on 1 January 2020,[^ref-17][^ref-23] and a Mac Universal Binary of the Space Quest II remake followed on 10 September 2024.[^ref-25] A King's Quest IV remake attributed to it has been reported in development, but the only recent mention is a patron-only post on the Patreon of Infamous Quests, the founders' separate commercial studio, whose contents are not public.[^ref-18]
+Infamous Adventures was an amateur studio, founded in 2004[^ref-14] by Shawn Mills and Steven Alexander[^ref-3], that made and gave away free VGA remakes of classic Sierra On-Line adventure games. Gamezebo described it as a studio inspired by the work of Roberta Williams' King's Quest series.[^ref-26] Its project teams came "from around the globe".[^ref-3] It released two remakes: *King's Quest III* in 2006 and *Space Quest II* in 2011.[^ref-2][^ref-7][^ref-6] In a site post dated 27 July 2012 the founders announced that the studio had stopped making games and that they had started a new company, [[Publishers/Infamous Quests|Infamous Quests]], to make original commercial adventure games.[^ref-3][^ref-14] The Infamous Adventures name stayed in use after that: it released version 2.0 of its Space Quest II remake on 1 January 2020,[^ref-17][^ref-23] and a Mac Universal Binary of the Space Quest II remake followed on 10 September 2024.[^ref-25] A King's Quest IV remake attributed to it has been reported in development, but the only recent mention is a patron-only post on the Patreon of Infamous Quests, the founders' separate commercial studio, whose contents are not public.[^ref-18]
 
 In November 2006 the studio posted a trailer for a secret project called "Project X".[^ref-22][^ref-3] On 18 June 2010 it revealed the game as *King's Quest: Kingdom of Sorrow*, based on the King's Quest novel of the same name; it was cancelled on 27 July 2012.[^ref-3]
 
