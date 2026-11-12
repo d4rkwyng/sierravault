@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "Watertown, Massachusetts"
 notable_games: ["Indianapolis 500: The Simulation", "NASCAR Racing", "IndyCar Racing", "Grand Prix Legends"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Papyrus Design Group
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -40,13 +40,13 @@ According to Wikipedia, co-founder David Kaemmer left Papyrus in late 2002, just
 
 Papyrus developed the game for Electronic Arts, with David Kaemmer as designer.[^ref-25] Motor Sport notes: "The hardware limitations of the day – typically a mere 512K of RAM – translated into primitive vehicle dynamics, with the cars moving unrealistically along x-y axes." Even so, players could change car set-ups, and it had a car-damage model.[^ref-21]
 
-### NASCAR Racing (1994)
-
-GameSpot says NASCAR Racing "simply blew away the competition", selling more than a million units and showing that ultra-realistic racing was not a niche market.[^ref-10] Virgin published the MS-DOS version, and Sierra On-Line later published the Mac and PlayStation versions.[^ref-24]
-
 ### IndyCar Racing (1993)
 
 IndyCar Racing was an officially licensed open-wheel game, published by Virgin rather than EA, according to GameSpot, and it was the studio's first game after a four-year gap (MobyGames).[^ref-10][^ref-11]
+
+### NASCAR Racing (1994)
+
+GameSpot says NASCAR Racing "simply blew away the competition", selling more than a million units and showing that ultra-realistic racing was not a niche market.[^ref-10] Virgin published the MS-DOS version, and Sierra On-Line later published the Mac and PlayStation versions.[^ref-24]
 
 ### Grand Prix Legends (1998)
 
@@ -68,29 +68,29 @@ GameSpot's history of the studio said Papyrus's games were so realistic "that pr
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Racing Simulation |
-| 1991 | J.R.R. Tolkien's Riders of Rohan | Credit: developer (MobyGames)[^ref-34] |
-| 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Racing Simulation |
-| 1994 | Links: The Challenge of Golf (Sega CD version) | Credit: ported by (MobyGames)[^ref-40] |
-| 1993 | Nomad | Credit: developer (MobyGames)[^ref-35] |
-| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Racing Simulation |
-| 1996 | NASCAR Racing (PlayStation) | Credit: developer of the PlayStation version (MobyGames)[^ref-38] |
-| 1996 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | Racing Simulation (the vault page is filed under 1995; MobyGames gives 1996)[^ref-32] |
-| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | Racing Simulation |
-| 1996 | Road Rash (Windows version) | Credit: developer of the Windows version (MobyGames lists 1996)[^ref-39] |
-| 1997 | [[1997 - CART Racing\|CART Racing]] | Racing Simulation |
-| 1997 | [[1997 - NASCAR Racing 2 - Grand National Series Expansion\|NASCAR Racing 2: Grand National Series Expansion]] | Racing Simulation |
-| 1997 | SODA Off-Road Racing | Off-road racing; credit: producer (MobyGames)[^ref-36] |
-| 1998 | [[1998 - Grand Prix Legends\|Grand Prix Legends]] | Racing Simulation |
-| 1999 | [[1999 - NASCAR Craftsman Truck Series Racing\|NASCAR Craftsman Truck Series Racing]] | Racing Simulation |
-| 1999 | [[1999 - NASCAR Legends\|NASCAR Legends]] | Racing Simulation |
-| 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] | Racing Simulation |
-| 1999 | NASCAR Racing: 1999 Edition | Racing Simulation; credit: developer (MobyGames)[^ref-37] |
-| 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Racing Simulation |
-| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Racing Simulation |
-| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Racing Simulation |
+| Year | Game | Genre | Note |
+|------|------|-------|------|
+| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Racing Simulation | |
+| 1991 | J.R.R. Tolkien's Riders of Rohan | | Credit: developer (MobyGames)[^ref-34] |
+| 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Racing Simulation | |
+| 1993 | Nomad | | Credit: developer (MobyGames)[^ref-35] |
+| 1994 | Links: The Challenge of Golf (Sega CD version) | | Credit: ported by (MobyGames)[^ref-40] |
+| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Racing Simulation | |
+| 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | Racing Simulation | Some sources, including Wikipedia and MobyGames, give 1996.[^ref-28][^ref-32] |
+| 1996 | NASCAR Racing (PlayStation) | | Credit: developer of the PlayStation version (MobyGames)[^ref-38] |
+| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | Racing Simulation | |
+| 1996 | Road Rash (Windows version) | | Credit: developer of the Windows version (MobyGames lists 1996)[^ref-39] |
+| 1997 | [[1997 - CART Racing\|CART Racing]] | Racing Simulation | |
+| 1997 | [[1997 - NASCAR Racing 2 - Grand National Series Expansion\|NASCAR Racing 2: Grand National Series Expansion]] | Racing Simulation | |
+| 1997 | SODA Off-Road Racing | Off-road racing | Credit: producer (MobyGames)[^ref-36] |
+| 1998 | [[1998 - Grand Prix Legends\|Grand Prix Legends]] | Racing Simulation | |
+| 1999 | [[1999 - NASCAR Craftsman Truck Series Racing\|NASCAR Craftsman Truck Series Racing]] | Racing Simulation | |
+| 1999 | [[1999 - NASCAR Legends\|NASCAR Legends]] | Racing Simulation | |
+| 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] | Racing Simulation | |
+| 1999 | NASCAR Racing: 1999 Edition | Racing Simulation | Credit: developer (MobyGames)[^ref-37] |
+| 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Racing Simulation | |
+| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Racing Simulation | |
+| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Racing Simulation | |
 
 ## References
 
@@ -107,18 +107,18 @@ GameSpot's history of the studio said Papyrus's games were so realistic "that pr
 [^ref-26]: [iRacing – Papyrus](https://www.iracing.com/papyrus/) — iRacing "can trace its roots back to the 1980’s when Dave Kaemmer co-founded Papyrus"; GPL and NR2003 "monumental achievements in sim racing"; iRacing.com founded 2004
 [^ref-27]: [Wikipedia – NASCAR Racing (series)](https://en.wikipedia.org/wiki/NASCAR_Racing) — Series publisher table: Papyrus for NASCAR Racing (1994) and Track Pack; Sierra from NASCAR Racing 2 (1996) through NASCAR Racing 2003 Season, including NASCAR Legends and Craftsman Truck Series Racing (1999)
 [^ref-28]: [Wikipedia – IndyCar Racing II](https://en.wikipedia.org/wiki/IndyCar_Racing_II) — Publishers: Papyrus Design Group; Sierra On-Line (re-release)
-[^ref-29]: [MobyGames – IndyCar Racing](https://www.mobygames.com/game/983/indycar-racing/) — Release data (read via the MobyGames API): US 1993 published by Papyrus Publishing, Inc., distributed by Virgin Interactive Entertainment, Inc.; UK/DE/FR 1993 published by Virgin Interactive Entertainment (Europe) Ltd.
+[^ref-29]: [MobyGames – IndyCar Racing](https://www.mobygames.com/game/983/indycar-racing/) — US 1993 published by Papyrus Publishing, Inc., distributed by Virgin Interactive Entertainment, Inc.; UK/DE/FR 1993 published by Virgin Interactive Entertainment (Europe) Ltd.
 [^ref-30]: [Sierra On-Line, Inc. – Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback April 2018)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "On November 30, 1995 the Company merged with Papyrus, developers of NASCAR Racing and Indy Car Racing, in exchange for 1,169,404 shares"
 [^ref-31]: [GameSpot – History of Papyrus Racing Games, page 5 (Wayback, August 2004)](https://web.archive.org/web/20040805135144/http://www.gamespot.com/features/6103365/p-5.html) — NASCAR Racing 2 "remains as the second highest-selling Papyrus game of all time at 800,000 units worldwide"
-[^ref-32]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) — Release data (read via the MobyGames API): DOS 1996, US/France/Germany, published by Sierra On-Line, Inc., developed by Papyrus Design Group, Inc.
+[^ref-32]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) — DOS 1996, US/France/Germany, published by Sierra On-Line, Inc., developed by Papyrus Design Group, Inc.
 [^ref-33]: [iRacing Studios – About](https://iracingstudios.com/about/) — "iRacing Studios traces its roots back to 2003 when Dave Kaemmer and John Henry founded iRacing.com Motorsport Simulations"
-[^ref-34]: [MobyGames – J.R.R. Tolkien's Riders of Rohan](https://www.mobygames.com/game/9404/) — Release data (read via the MobyGames API): DOS 1991; Papyrus Design Group, Inc. "Developed by", Beam Software "Additional Design by"; published by Konami/Mirrorsoft and Personal Software Services
-[^ref-35]: [MobyGames – Nomad](https://www.mobygames.com/game/2855/) — Release data (read via the MobyGames API): DOS 1993; Papyrus Design Group and Intense! Interactive "Developed by"; published by GameTek
-[^ref-36]: [MobyGames – SODA Off-Road Racing](https://www.mobygames.com/game/3290/) — Release data (read via the MobyGames API): Windows 1997-12; Sierra On-Line published, Software Allies "Developed by", Papyrus Design Group "Produced by"
-[^ref-37]: [MobyGames – NASCAR Racing: 1999 Edition](https://www.mobygames.com/game/3223/) — Release data (read via the MobyGames API): Windows 1999; Sierra On-Line published, Papyrus Design Group "Developed by"
-[^ref-38]: [MobyGames – NASCAR Racing (PlayStation)](https://www.mobygames.com/game/51079/) — Release data (read via the MobyGames API): PlayStation 1996, Sierra On-Line published, Papyrus Design Group "Developed by"
-[^ref-39]: [MobyGames – Road Rash (Windows, PlayStation, Saturn, 3DO)](https://www.mobygames.com/game/17194/) — Release data (read via the MobyGames API): Windows 1996, Electronic Arts published, Papyrus Design Group "Developed by"
-[^ref-40]: [MobyGames – Links: The Challenge of Golf](https://www.mobygames.com/game/492/) — Release data (read via the MobyGames API): SEGA CD 1994, Virgin Interactive published, Access Software "Developed by", Papyrus Design Group "Ported by"
+[^ref-34]: [MobyGames – J.R.R. Tolkien's Riders of Rohan](https://www.mobygames.com/game/9404/) — DOS 1991; Papyrus Design Group, Inc. "Developed by", Beam Software "Additional Design by"; published by Konami/Mirrorsoft and Personal Software Services
+[^ref-35]: [MobyGames – Nomad](https://www.mobygames.com/game/2855/) — DOS 1993; Papyrus Design Group and Intense! Interactive "Developed by"; published by GameTek
+[^ref-36]: [MobyGames – SODA Off-Road Racing](https://www.mobygames.com/game/3290/) — Windows 1997-12; Sierra On-Line published, Software Allies "Developed by", Papyrus Design Group "Produced by"
+[^ref-37]: [MobyGames – NASCAR Racing: 1999 Edition](https://www.mobygames.com/game/3223/) — Windows 1999; Sierra On-Line published, Papyrus Design Group "Developed by"
+[^ref-38]: [MobyGames – NASCAR Racing (PlayStation)](https://www.mobygames.com/game/51079/) — PlayStation 1996, Sierra On-Line published, Papyrus Design Group "Developed by"
+[^ref-39]: [MobyGames – Road Rash (Windows, PlayStation, Saturn, 3DO)](https://www.mobygames.com/game/17194/) — Windows 1996, Electronic Arts published, Papyrus Design Group "Developed by"
+[^ref-40]: [MobyGames – Links: The Challenge of Golf](https://www.mobygames.com/game/492/) — SEGA CD 1994, Virgin Interactive published, Access Software "Developed by", Papyrus Design Group "Ported by"
 [^ref-41]: [WorthPlaying – Vivendi Restructures And Axes Employees (June 21, 2004)](https://worthplaying.com/article/2004/6/21/news/17630-vivendi-restructures-and-axes-employees/) — "a significant staff reduction in its North American based operations (Papyrus & Impressions, as well as some PR people) resulting in the elimination of 350 staff positions"
 [^ref-42]: [Game Developer – Cecropia Opens Game-Related Animation Studio in Orlando (November 15, 2004)](https://gamedeveloper.com/game-platforms/cecropia-opens-game-related-animation-studio-in-orlando) — "Cecropia Inc, formed by Papyrus Studios co-founder Omar Khudari"
 [^ref-43]: [GameSpot – History of Papyrus Racing Games, page 2 (Wayback, August 2004)](https://web.archive.org/web/20040805135144/http://www.gamespot.com/features/6103365/p-2.html) — "Papyrus operated primarily as a contract programming services company"; Kaemmer's goal "to build the first truly authentic PC racing simulation"
