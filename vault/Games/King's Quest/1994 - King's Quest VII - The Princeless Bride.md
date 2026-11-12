@@ -25,7 +25,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 
 King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released in November 1994 (Sierra's press release of November 22 announced that shipping was beginning), the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-33][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*; as Hardcore Gaming 101 puts it, a secondary goal is "to maybe find a groom for Rosella along the way, as the title implies."[^ref-3]
 
-Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] The Only Solitaire retrospective describes her earlier Sierra experience as having "mainly consisted of writing hintbooks for King's Quest," plus some writing for The Dagger of Amon Ra.[^ref-5] In her own account she joined Sierra as a writer for its in-house magazine *InterAction*, then moved to the design team, where she "started out just writing dialog for various games, including Police Quest and Dagger of Amon Ra," before design work on Pepper's Adventures in Time.[^ref-6] On King's Quest VII she co-designed the game with Williams. The King's Quest Omnipedia fan wiki quotes her, from what it describes as a short Facebook interview: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] In a 2011 interview she described the split differently: "Roberta did more of the puzzles than I did. I wrote most of the dialog. We created the story together."[^ref-6] Sierra's copy for the 1996 enhanced re-release recalled a "stirring soundtrack featuring over 100 original compositions."[^ref-7]
+Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project [[1995 - Phantasmagoria|Phantasmagoria]], making this her most intensive period at Sierra.[^ref-4] The Only Solitaire retrospective describes her earlier Sierra experience as having "mainly consisted of writing hintbooks for King's Quest," plus some writing for The Dagger of Amon Ra.[^ref-5] In her own account she joined Sierra as a writer for its in-house magazine *InterAction*, then moved to the design team, where she "started out just writing dialog for various games, including Police Quest and Dagger of Amon Ra," before design work on [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]].[^ref-6] On King's Quest VII she co-designed the game with Williams. The King's Quest Omnipedia fan wiki quotes her, from what it describes as a short Facebook interview: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] In a 2011 interview she described the split differently: "Roberta did more of the puzzles than I did. I wrote most of the dialog. We created the story together."[^ref-6] Sierra's copy for the 1996 enhanced re-release recalled a "stirring soundtrack featuring over 100 original compositions."[^ref-7]
 
 The game introduced several firsts for the series: two playable female protagonists (Queen Valanice and Princess Rosella), a chapter-based structure allowing players to skip ahead, and a simplified single-cursor interface that eliminated the multiple action icons of previous entries.[^ref-1][^ref-8] It shipped on CD-ROM only.[^ref-4]
 
@@ -33,7 +33,7 @@ Contemporary reviewers praised the animation quality while noting the reduced di
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Design/Writing:** [[Roberta Williams]], [[Lorelei Shannon]][^ref-1]
+> **Designers:** [[Roberta Williams]], [[Lorelei Shannon]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI2.1[^ref-11]
 > **Platforms:** MS-DOS, Windows 3.x, Macintosh[^ref-11]; Windows 95 support came with the 2.0 re-release[^ref-7][^ref-12]
@@ -85,7 +85,7 @@ The game received generally positive reviews, with critics praising the animatio
 |-------------|-------|----------|------|
 | Coming Soon Magazine | 92% | — | Dec 1994 |
 | Génération 4 | 63% | Thierry Falcoz | Jan 1995 |
-| MikroBitti | 92% | — | — |
+| MikroBitti | 92% (per Wikipedia) | — | — |
 | Computer Gaming World | 4/5 | Charles Ardai | Feb 1995 |
 | PC Zone | 93 | Teresa Maughan | Mar 1995 |
 | Next Generation | 4/5 stars | — | Mar 1995 |
@@ -107,7 +107,7 @@ Hardcore Gaming 101's retrospective noted that while "the game does look pretty 
 French gaming site Jeuxvideo.com rated it 16/20 in their retrospective review, praising its "ton léger et décalé" (light and offbeat tone) and noting that "its 'interactive cartoon' aspect gives it a special place in the series."[^ref-17]
 
 **Aggregate Scores:**
-- **MobyGames:** 7.3/10 (Moby Score), 79% (23 critic reviews)[^ref-1]
+- **MobyGames:** 7.3/10 (Moby Score), 78% (24 critic reviews); players 3.5/5 (101 ratings)[^ref-1]
 - **Glitchwave:** 3.23/5.0 from 45 ratings (#95 for 1994, November 2026)[^ref-19]
 - **GOG.com:** 3.9/5 (79 reviews, October 2026)[^ref-20]
 
@@ -117,7 +117,7 @@ French gaming site Jeuxvideo.com rated it 16/20 in their retrospective review, p
 
 Following the success of King's Quest VI, Roberta Williams wanted to take the series in a fresh direction while also developing her passion project Phantasmagoria.[^ref-4] Ken Williams was pushing Sierra into two completely different new directions—FMV (full-motion video) for Phantasmagoria, and Disney-style cartoon animation inspired by the success of Day of the Tentacle.[^ref-5] Williams was always inspired by Disney films and wanted the next King's Quest to capture that magic—with multimedia technology becoming standard, movie-quality animation could finally be achieved in games.[^ref-21]
 
-Williams envisioned King's Quest VII as a Disney-style animated adventure that would appeal to families and newcomers. She recruited co-designer Lorelei Shannon; according to the King's Quest Omnipedia fan wiki, Shannon had previously written the hint book for the King's Quest I remake and co-designed Pepper's Adventures in Time with Jane Jensen.[^ref-4] Shannon's own account traces her path through *InterAction* and dialog writing to Pepper's, after which "Roberta approached me to work with her on King's Quest VII."[^ref-6] Working out of Sierra's new Bellevue offices, Williams and Shannon created the story and characters together, employing "no idea was too wild to consider" in their approach.[^ref-21]
+Williams envisioned King's Quest VII as a Disney-style animated adventure that would appeal to families and newcomers. She recruited co-designer Lorelei Shannon; according to the King's Quest Omnipedia fan wiki, Shannon had previously written the hint book for the King's Quest I remake and co-designed Pepper's Adventures in Time with [[Jane Jensen]].[^ref-4] Shannon's own account traces her path through *InterAction* and dialog writing to Pepper's, after which "Roberta approached me to work with her on King's Quest VII."[^ref-6] Working out of Sierra's new Bellevue offices, Williams and Shannon created the story and characters together, employing "no idea was too wild to consider" in their approach.[^ref-21]
 
 ### Production
 
@@ -141,6 +141,7 @@ Producer Mark Seibert recalled the coordination challenges: "I recall going to w
 - **Art Director:** [[Andy Hoyos]]
 - **Director of Animation:** Marc Hudgins
 - **Lead Programmers:** Oliver Brelsford, Tom DeSalvo
+- **Programmer:** Henry Yu
 - **Composers:** Jay Usher, Neal Grandstaff, Dan Kehler, Mark Seibert[^ref-21]
 - **Voice Director:** Lorelei Shannon
 - **Quality Assurance Lead:** Danny A. Woolard
@@ -222,6 +223,7 @@ The game contains numerous hidden references:[^ref-28][^ref-29][^ref-12]
 
 - **Silence of the Lambs reference**: The rat in Dr. Cadaver's office quotes from the film
 - **Two Guys Glasses**: The Space Quest creators' signature eyewear appears in the Faux Shop
+- **Boogeyman conversation**: After wearing the cloak, meeting the boogeyman gets you an interesting conversation[^ref-28]
 - **Moose grunt**: Clicking the stove triggers Rosella commenting it's "large enough to cook a moose" followed by a moose grunt
 - **Gregor Samsa**: listed among the game's hidden references[^ref-29]
 - **Monty Python**: a reference listed as "One Ton Tomato of Antioch"[^ref-29]
@@ -316,7 +318,7 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-15]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7&fld=general) – 32-bit SCI-32 interpreter, 640×480 SVGA, "smart" pointer
 [^ref-16]: [All The Tropes – King's Quest VII](https://allthetropes.org/wiki/King%27s_Quest_VII) – impossible to lose, firecracker CPU bug, tropes analysis
 [^ref-17]: [Jeuxvideo.com – King's Quest VII Review](http://www.jeuxvideo.com/articles/0001/00012191-king-s-quest-vii-the-princeless-bride-test.htm) – French retrospective review 16/20, "interactive cartoon" assessment
-[^ref-18]: [Adventure Gamers – King's Quest VII review (Wayback Machine copy)](https://web.archive.org/web/20120630123628/http://www.adventuregamers.com/articles/view/17624) – Josh Roberts, September 5, 2003; the review's star graphic shows three and a half stars (the site's legend: "3.5 and 4.0 stars: A game of very high quality"); Wikipedia's review box lists 3/5
+[^ref-18]: [Adventure Gamers – King's Quest VII review (Wayback Machine copy)](https://web.archive.org/web/20120630123628/http://www.adventuregamers.com/articles/view/17624) – Josh Roberts, September 5, 2003; the review's star graphic shows 3.5 stars (the site's legend: "3.5 and 4.0 stars: A game of very high quality"); Wikipedia's review box lists 3/5
 [^ref-19]: [Glitchwave – King's Quest VII](https://glitchwave.com/game/kings-quest-vii-the-princeless-bride/) – 3.23/5.0 from 45 ratings, #95 for 1994, release date 23 November 1994 (November 2026)
 [^ref-20]: [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) – 3.9/5 rating (79 reviews, October 2026)
 [^ref-21]: [Geocities – King's Quest VII Development History](http://www.geocities.ws/petter_holmberg/kq7dev.html) – detailed development timeline, animation studios, traditional hand-drawn techniques, 3D inventory innovation
