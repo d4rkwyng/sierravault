@@ -10,7 +10,7 @@ series: Spelling Tricks
 engine: Unknown
 protagonist: Wali
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Gordon van Ekström]
 description: Spelling Blizzard is an educational adventure game developed by Bright
   Star Technology and published by Sierra On-Line in 1994 for Windows 3.x and Macintosh,
@@ -20,11 +20,11 @@ tags: [1990s, educational, sierra, spelling-tricks]
 ---
 # Spelling Blizzard
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-2][^ref-29][^ref-30]. It is the sequel to Spelling Jungle, keeping the same raft-journey premise and letter-collecting puzzles but moving them from a jungle to an arctic setting, with harder puzzles than the original[^ref-2][^ref-3][^ref-15].
+Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-2][^ref-29][^ref-30]. It is the sequel to Spelling Jungle, keeping the same raft-journey premise and letter-collecting puzzles but moving them from a jungle to an arctic setting, with harder puzzles than the original[^ref-2][^ref-8][^ref-15].
 
 Designed for children ages 9 to 12, Spelling Blizzard combines spelling instruction with logic-based puzzle solving: players navigate single-screen maps, collecting lettered stones in the correct order to spell words[^ref-30][^ref-31][^ref-32]. Sierra Chest groups it with Bright Star's Talking Tutor series[^ref-30], and a Sierra mail-in offer printed in Computer Gaming World's December 1995 issue lists it as "Talking Tutor: Spelling Blizzard"[^ref-33].
 
@@ -98,20 +98,34 @@ On Reddit's r/Sierra, a post titled "Spelling Blizzard or Spelling Jungle" said:
 
 Bright Star Technology was founded by Elon Gasper and Nedra Goedert in the early 1980s[^ref-22]. Gasper was teaching computer science at the California Institute of Technology while trying to teach his daughter to read, and he was inspired by the lip-sync charts used in Disney animation to build animated tutors whose mouths moved realistically[^ref-22]. The Spelling Blizzard manual credits the program's "Inventions by Elon Gasper" and lists two U.S. patents[^ref-31].
 
-Spelling Blizzard followed Spelling Jungle in 1994. It is nearly identical in gameplay and story but has an arctic theme and harder puzzles[^ref-3][^ref-15]. MobyGames calls it "basically a re-skinned level pack"[^ref-2].
+Spelling Blizzard followed Spelling Jungle in 1994. It is nearly identical in gameplay and story but has an arctic theme and harder puzzles[^ref-8][^ref-15]. MobyGames calls it "basically a re-skinned level pack"[^ref-2].
 
 ### Production
 
 Sierra On-Line acquired Bright Star Technology in July 1992, according to MobyGames' company history and the Corum Group's transaction record; Wikipedia and the Dynamix Wiki's Sierra history also give 1992[^ref-35][^ref-36][^ref-22][^ref-25]. Hardcore Gaming 101 gives the year as 1993[^ref-10]. The manual's copyright line describes Bright Star as "a wholly owned subsidiary of Sierra On-Line, Inc."[^ref-31]
 
-**Development Credits:**[^ref-2]
+**Development Credits:**[^ref-2][^ref-31]
 - **Producer:** Sherry Wrana
 - **Designer:** Mark Swardstrom
 - **Designer:** Ward Makielski
 - **Puzzle Designer:** Mark Krause
 - **Lead Engineer:** Mark Marion
-- **Audio Director / Composer:** Gordon van Ekström
-- **"Demonic Mnemonics":** Murray Suid
+- **Software Engineer:** Steve Schonberger
+- **Artists:** Ward Makielski, Travis Brady, Darrin Hart, Bill Olmstead, Alex Perry
+- **Audio Director / Composer:** Gordon van Ekström (spelled "Gordon van Eckstrom" in the manual)
+- **Lead Audio Engineer:** Kevin Cannon
+- **"Demonic Mnemonics":** Murray Suid (credited as "Mnemonics" in the manual)
+- **Quality Assurance:** Tim Knappenberger, Jay Williams
+- **User Guide (On-Line Conversion):** Bill Baker
+
+### Voice Cast
+
+| Actor | Characters |
+|-------|------------|
+| Eric Berne | Yobi |
+| Rebecca Armen | Crackers |
+
+Voice cast information documented in the game credits and manual[^ref-2][^ref-31].
 
 ### Technical Features
 
@@ -144,15 +158,6 @@ MobyGames, GameFAQs and MacUser's December 1994 issue support a 1994 release[^re
 - The credits list "Demonic Mnemonics" by Murray Suid[^ref-2]
 - A PDF manual is included on the disc[^ref-31]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Yobi | Eric Berne |
-| Crackers | Rebecca Armen |
-
-Voice cast information documented in game credits[^ref-2].
-
 ## Legacy
 
 ### Sierra and Bright Star
@@ -174,12 +179,10 @@ A Talking Tutor demo file containing demos of Alphabet Blocks, Beginning Reading
 
 Spelling Blizzard belongs to the educational line Sierra gained when it acquired Bright Star Technology[^ref-22][^ref-25]. At least one player credits it with their spelling[^ref-21], and Hardcore Gaming 101 found its later puzzles too hard for its target age range[^ref-10]. The sequel hook in its ending was never followed up[^ref-12].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently sold. [GOG Dreamlist](https://www.gog.com/dreamlist/game/spelling-blizzard-1994) – fan request entry only[^ref-26]
-
-## Downloads
 
 **Download / Preservation**
 - [Internet Archive – Spelling Blizzard](https://archive.org/details/spelling-blizzard) – Windows 3.1 and Macintosh versions
@@ -193,17 +196,18 @@ Spelling Blizzard belongs to the educational line Sierra gained when it acquired
 
 - [[1992 - Ready, Set, Read with Bananas & Jack]]
 - [[1993 - Spelling Jungle]]
-- [[1993 - Turbo Learning - Mega Math]]
+- [[1983 - Early Math]]
+- [[1993 - Kids' Typing]]
+- [[1982 - Alphabet Blocks]]
 
 ## References
 
 [^ref-1]: [GameFAQs – Spelling Blizzard](https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard) – release year, developer, publisher, PC and Mac listings, user rating "Great" (4 ratings)
 [^ref-2]: [MobyGames – Spelling Blizzard](https://www.mobygames.com/game/97671/spelling-blizzard/) – credits, alternate title, description, specs, Critics 60% (1 review)
-[^ref-3]: [Alchetron – Spelling Jungle](https://alchetron.com/Spelling-Jungle) – mirror of the Wikipedia Spelling Jungle article; used only for its statements on the 1994 sequel (arctic theme, harder)
 [^ref-5]: [Sierra Chest – Spelling Blizzard Demos](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=demos) – Talking Tutor demo file, included on Sierra's Sneak Peeks 2
 [^ref-8]: [GameFAQs – Spelling Blizzard FAQ by Lord Seth](https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard/faqs/43897) – 256-color requirement, space bar throws mackerel, puzzles harder than Jungle
 [^ref-9]: [TV Tropes – Bright Star Technology Inc](https://tvtropes.org/pmwiki/pmwiki.php/Creator/BrightStarTechnologyInc) – alternate title "Advanced Spelling"
-[^ref-10]: [Hardcore Gaming 101 – Spelling Blizzard](http://www.hardcoregaming101.net/spelling-blizzard/) – 101 levels, difficulty, Yobi and Crackers, spell-down up to ten words, acquisition year given as 1993
+[^ref-10]: [Hardcore Gaming 101 – Spelling Blizzard (Wayback, May 2026; live site under maintenance)](https://web.archive.org/web/20260514113321/https://www.hardcoregaming101.net/spelling-blizzard/) – 101 levels, difficulty, Yobi and Crackers, spell-down up to ten words, acquisition year given as 1993
 [^ref-12]: [TV Tropes – Spelling Jungle](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpellingJungle) – covers both games; Yobi's proverbs, Blizzard's heater ending and "Perhaps, we shall meet yet again" sequel hook, no third game
 [^ref-15]: [Wikipedia – Spelling Jungle](https://en.wikipedia.org/wiki/Spelling_Jungle) – Spelling Blizzard redirects here; used only for its statements on the 1994 sequel (arctic theme, more difficult, Allgame 2.5/5)
 [^ref-17]: [Macintosh Repository – Spelling Blizzard](https://www.macintoshrepository.org/3839-spelling-blizzard) – System 6.x–Mac OS 9 image labels, 68K, manual 256-color reduction
