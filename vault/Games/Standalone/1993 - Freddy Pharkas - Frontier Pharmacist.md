@@ -10,7 +10,7 @@ series: Freddy Pharkas
 engine: SCI1.1
 protagonist: Freddy Pharkas
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: '**Freddy Pharkas: Frontier Pharmacist** is a comic Old West adventure
   game created by Al Lowe and Josh Mandel at Sierra On-Line, released in 1993 for
   DOS, Windows and Macintosh.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, al-lowe, freddy-pharkas, sci, sierra]
 ---
 # Freddy Pharkas: Frontier Pharmacist
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -94,7 +94,7 @@ One MobyGames reviewer wrote, "Personally I think this is the best Sierra advent
 ### Origins
 The game concept originated from a conversation between Al Lowe and Roberta Williams in 1992. As Lowe recounted, "While discussing this with Roberta Williams, I started to say 'farmer' but my mouth tried to say 'rancher' and out came a tangled mess that kind of sounded like, 'farmer-cist.' Hey! A pharmacist? Why not?"[^ref-19][^ref-25]. Lowe was motivated by the absence of Western-themed computer games: "In 1992, I noticed that there wasn't a single Western computer game, even though Western movies had been popular off and on for years"[^ref-25]. Compute!'s 1993 account, from an interview with Lowe, says Sierra had already committed to a comedy Western, and that Lowe, Mandel and Williams were brainstorming a central character when "pharmacist" came out of Lowe's tongue-twist[^ref-37].
 
-The game was originally planned as part of a broader series spoofing different movie genres: "The original plan was that I was going to spoof all the favorite movie genres! Freddy was the Western genre parody"[^ref-32]. Unfortunately, this ambitious concept was never fully realized, leaving Freddy Pharkas as the only entry in the planned series.
+The game was originally planned as part of a broader series spoofing different movie genres: "The original plan was that I was going to spoof all the favorite movie genres! Freddy was the Western genre parody"[^ref-32]. Lowe planned to follow it with spoofs of spy movies, action movies, war movies and love stories, but called the whole scheme "a great idea that was never taken to fruition"[^ref-32].
 
 ### Production
 The game was developed at Sierra during 1992–93 as a collaboration between Al Lowe and Josh Mandel; by fall 1992 it was "actually up and running programming-wise," with a spring release planned[^ref-38]. Lowe worked out the story line, then turned to Mandel, who "wrote the text of the gags and dialogue" and created the manual; Compute! described Mandel as the adventure's "producer and writer"[^ref-37]. Lowe wrote the music for the opening "Ballad of Freddy Pharkas," with lyrics by Mandel and a MIDI arrangement by Aubrey Hodges, and Lowe sang it on the CD version[^ref-21][^ref-23]. The ballad needed someone who could "sing corny enough and funny enough, while still keeping the lyrics understandable"; in Lowe's words, "Everybody on 'Team Freddy' agreed: Al Lowe sings real funny!"[^ref-23] The rest of the score was composed by Hodges: "All the rest of the rather extensive musical score was written by Aubrey Hodges"[^ref-21].
@@ -136,7 +136,7 @@ Despite positive reviews, the game's sales pattern was unusual. Al Lowe noted: "
 
 Al Lowe confirmed that "there will be no sequel to Freddy Pharkas"[^ref-24], elaborating: "it turned out to be quite a successful game and probably should've had a sequel, but because it took three years to get those big numbers, Josh had moved on by then and other things had happened, so it fell through the cracks"[^ref-33]. The game is sold on GOG, where it runs in DOSBox[^ref-18]; PCGamingWiki notes the Windows 3.x version might be playable on 64-bit systems through ScummVM[^ref-5].
 
-Lowe described the potential: "Freddy would be so easy to sequelize. But we never planned a sequel for Freddy because it was part of a great idea that was never taken to fruition"[^ref-32]. Hardcore Gaming 101 summed up its tone: "it's much more Blazing Saddles than The Magnificent Seven"[^ref-26].
+Lowe described the potential: "Freddy would be so easy to sequelize. But we never planned a sequel for Freddy because it was part of a great idea that was never taken to fruition"[^ref-32]. Hardcore Gaming 101 summed up its tone: "it's much more Blazing Saddles than The Magnificent Seven"[^ref-26]. In August 2025 the medical-history podcast *Sawbones* devoted an episode to the game, discussing the real and fake medicine Freddy dispensed on the frontier[^ref-43].
 
 ### Easter Eggs
 
@@ -147,6 +147,7 @@ The game contains numerous references to other Sierra games and developers:
 - Zircon Jim Laffer appears in Act IV, described on the CD-ROM box as "the Great-Great Grandpappy of Leisure Suit Larry"[^ref-1][^ref-6]
 - Chester Field's store contains an ad signed by K. Graham of Daventry (referencing King's Quest)[^ref-6]
 - A wanted poster of Al Lowe appears in Chester Field's store[^ref-6]
+- The Macintosh version has an Easter egg absent from other versions: in the abandoned mine, looking at the hole at the top right gives a message from the developers, and talking to the developers several times makes a Macintosh rise out of the pool[^ref-42]
 
 ### Hidden Features
 
@@ -203,3 +204,5 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 [^ref-39]: [InterAction Vol. VI No. 3 (Holiday 1993), p. 12](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Sierra's own list of awards: "Best State-of-the-Art Adventure, Electronics Games"
 [^ref-40]: [MobyGames – Freddy Pharkas tech specs](https://www.mobygames.com/game/1785/freddy-pharkas-frontier-pharmacist/specs/) – DOS sound devices supported (AdLib, Sound Blaster, Roland MT-32, General MIDI, etc.); Windows 3.1, 8 MB RAM
 [^ref-41]: [Adventure Gamers – Top 100 All-Time Adventure Games, page 6 (Wayback, January 2013)](https://web.archive.org/web/20130118232856/http://www.adventuregamers.com/articles/view/18643/page6/) – "#78 – Freddy Pharkas: Frontier Pharmacist"
+[^ref-42]: [Le journal du lapin – L'Easter Egg de Freddy Pharkas: Frontier Pharmacist sur Mac](https://www.journaldulapin.com/2024/11/08/easter-egg-freedy-pharkas/) – Pierre Dandumont, 8 November 2024; Mac-only Easter egg in the abandoned mine
+[^ref-43]: [Sawbones: Freddy Pharkas, Frontier Pharmacist (Episode 550, 5 August 2025)](https://maximumfun.org/episodes/sawbones/sawbones-freddy-pharkas-frontier-pharmacist/) – Maximum Fun; Justin and Dr. Sydnee McElroy on the game's real and fake medicine
