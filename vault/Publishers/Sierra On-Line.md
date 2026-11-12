@@ -299,7 +299,7 @@ Sierra bought Impressions in 1995.[^ref-16] Earlier Impressions games were publi
 - 1992 — Crime City — Management sim
 - **1992** — [[1992 - Caesar|Caesar]] — Notes: City-builder; published by Impressions
 - **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II]] — Notes: Strategy sequel; published by Impressions
-- **1994** — [[1994 - Detroit|Detroit]] — Notes: Business sim
+- **1994** — [[1994 - Detroit|Detroit]] — Notes: Business sim; the 1994 DOS and Amiga releases were published by Impressions, and Sierra published a 1995 DOS reissue
 - **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Notes: Medieval strategy; published by Impressions
 - **1995** — [[1995 - Caesar II|Caesar II]] — Notes: City-builder
 - **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Notes: Trading sim
