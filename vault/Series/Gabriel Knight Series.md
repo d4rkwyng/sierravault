@@ -8,12 +8,12 @@ last_release: 2014
 total_games: 4
 unreleased_games: 1
 genre: "Adventure, Horror"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Gabriel Knight Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -48,7 +48,7 @@ When Jensen first pitched her Gothic horror concept, she recalls Ken Williams sa
 ### Gabriel Knight
 - **Background:** Struggling bookstore owner and novelist[^ref-2]
 - **Heritage:** Heir to the Schattenjäger line[^ref-2]
-- **Voice / actor:** Tim Curry (GK1, GK3); Dean Erickson (GK2, live action); Jason Victor (2014 remake)[^ref-10]
+- **Voice / actor:** Tim Curry (1946–2026; GK1, GK3); Dean Erickson (GK2, live action); Jason Victor (2014 remake)[^ref-10]
 
 ### Grace Nakimura
 - **Role:** Gabriel's assistant and researcher; a playable character in GK2 and GK3[^ref-10]
@@ -80,14 +80,14 @@ The original Sins of the Fathers featured a celebrated cast:[^ref-8]
 
 | Actor | Character |
 |-------|-----------|
-| Tim Curry | Gabriel Knight |
+| Tim Curry (1946–2026) | Gabriel Knight |
 | Mark Hamill | Detective Mosely |
 | Leah Remini | Grace Nakimura |
 | Michael Dorn | Dr. John |
 | Efrem Zimbalist Jr. | Wolfgang |
 | Virginia Capers | Narrator |
 
-Later games recast the leads: Dean Erickson and Joanne Takahashi played Gabriel and Grace in the live-action GK2, and Charity James voiced Grace in GK3, opposite the returning Tim Curry.[^ref-10]
+Later games recast the leads: Dean Erickson and Joanne Takahashi played Gabriel and Grace in the live-action GK2, and Charity James voiced Grace in GK3, opposite the returning Tim Curry.[^ref-10] Curry died on August 25, 2026, at the age of 80.[^ref-32]
 
 ## Technical Evolution
 
@@ -197,3 +197,4 @@ In July 2024 Jensen said she had written "basically like the first chapter of a 
 [^ref-29]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Top 150 Games Of All Time", p. 65: "17. Gabriel Knight 2 … A haunting tale from Jane Jensen, the interactive Ann Rice" (spelling checked on the page image)
 [^ref-30]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) – Developers: Phoenix Online Studios, Pinkerton Road Studio; Publisher: Pinkerton Road Studio
 [^ref-31]: [GOG.com — Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) – GOG v2 changelog (29 October 2026): "Added the Windows version running on ScummVM with its own tuned configuration, booting in SVGA mode."
+[^ref-32]: [Wikipedia - Tim Curry](https://en.wikipedia.org/wiki/Tim_Curry) – "Timothy James Curry (19 April 1946 – 25 August 2026)"; Time Extension (August 26, 2026) also reports his death at age 80 and his Gabriel Knight role
