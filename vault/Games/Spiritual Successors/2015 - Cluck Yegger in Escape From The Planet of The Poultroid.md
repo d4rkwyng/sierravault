@@ -10,7 +10,7 @@ series: SpaceVenture
 engine: Unity 4
 protagonist: Cluck Yegger
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Ken Allen]
 description: '*Cluck Yegger in Escape from the Planet of the Poultroid* is a survival
   horror point-and-click game developed and published by Guys From Andromeda LLC, released
@@ -19,13 +19,13 @@ tags: [2010s, sierra, spaceventure, two-guys]
 ---
 # Cluck Yegger in Escape from the Planet of the Poultroid
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 *Cluck Yegger in Escape from the Planet of the Poultroid* is a survival horror point-and-click game developed and published by Guys From Andromeda LLC, released on November 9, 2015[^ref-1]. Its store page calls it "a Five Nights at Freddy's style parody game," featuring similar survival horror mechanics with a humorous science fiction twist involving mutant chickens[^ref-3]. Created by [[Mark Crowe]] and Chris Pope[^ref-1]—with Crowe being one half of the "Two Guys from Andromeda" who created the *Space Quest* series at Sierra On-Line—the game draws on characters from the duo's then-upcoming adventure *SpaceVenture*[^ref-3].
 
-The game was developed as an offshoot of the much larger *SpaceVenture* project, which was successfully funded through Kickstarter in June 2012[^ref-6] with $539,767 from 10,809 backers[^ref-4]. With Scott Murphy needing time away from *SpaceVenture* for personal reasons, Crowe and Pope built the Cluck Yegger sequence as a playable game and decided to sell it publicly to raise additional funding for the main project[^ref-1]. The mini-game was released privately to Kickstarter backers on October 29, 2015—"just in time for Halloween," as Rock Paper Shotgun put it[^ref-6]—and then, after being Greenlit, was released publicly on Steam on November 9, 2015[^ref-1].
+The game was developed as an offshoot of the much larger *SpaceVenture* project, which was successfully funded through Kickstarter in June 2012[^ref-6] with $539,767 from 10,809 backers[^ref-4]. With [[Scott Murphy]] needing time away from *SpaceVenture* for personal reasons, Crowe and Pope built the Cluck Yegger sequence as a playable game and decided to sell it publicly to raise additional funding for the main project[^ref-1][^ref-32]. Since *SpaceVenture* v2.08.01 on December 23, 2025, the full *Cluck Yegger* has also been playable inside that game[^ref-31]. The mini-game was released privately to Kickstarter backers on October 29, 2015—"just in time for Halloween," as Rock Paper Shotgun put it[^ref-6]—and then, after being Greenlit, was released publicly on Steam on November 9, 2015[^ref-1].
 
 Despite its origins as a small side project, *Cluck Yegger* drew a mostly positive response from players. The game features voice acting, original music, and a "Tame Mode" option that replaces the jump scares with a picture of a cat dressed in a chicken costume[^ref-1]; the store listing describes the game as "kid-friendly(playtest with ages 10 and up)"[^ref-3]. One Steam reviewer called it "one of those parodies that's better than the original product," and another summed it up as "Cheaper than FNAF, Better than FNAF"[^ref-7].
 
@@ -68,7 +68,7 @@ After surviving the seventh night, Yegger escapes Planet Poultroid[^ref-10].
 
 Alongside the cameras, lights, doors and shield, the player must manage the ship's battery power to avoid running out of energy[^ref-1][^ref-3].
 
-The game includes a "Tame Mode" option that replaces all of the jump scares with a picture of a cat dressed in a chicken costume, accompanied by happy music[^ref-1]. The store listing describes the game's genre as "Survival horror with a funny, kid-friendly(playtest with ages 10 and up), sci-fi theme"[^ref-3].
+The game includes a "Tame Mode" option that replaces all of the jump scares with a picture of a cat dressed in a chicken costume, accompanied by happy music[^ref-1]. The developers explained it by pointing to the option in *Space Quest IV* that let players skip the arcade sequence when applying for a job at the Monolith Burger; the *Cluck Yegger* sequence could not be skipped entirely, but its jump scares could be switched off[^ref-33]. The store listing describes the game's genre as "Survival horror with a funny, kid-friendly(playtest with ages 10 and up), sci-fi theme"[^ref-3].
 
 ## Reception
 
@@ -96,15 +96,15 @@ Metacritic has a page for the game but shows no professional critic reviews avai
 
 ### Origins
 
-The genesis of *Cluck Yegger* lies in the broader *SpaceVenture* project, a Kickstarter campaign launched by the Two Guys from Andromeda—[[Mark Crowe]] and Scott Murphy—to create a spiritual successor to their beloved *Space Quest* series[^ref-4]. The campaign, which ran under the banner "Two Guys SpaceVenture - by the creators of Space Quest," reminded backers: "Remember the Space Quest series from Sierra's duo the Two Guys From Andromeda? Well they are back & making a brand new SpaceVenture™!"[^ref-4]
+The genesis of *Cluck Yegger* lies in the broader *SpaceVenture* project, a Kickstarter campaign launched by the Two Guys from Andromeda—[[Mark Crowe]] and [[Scott Murphy]]—to create a spiritual successor to their beloved *Space Quest* series[^ref-4]. The campaign, which ran under the banner "Two Guys SpaceVenture - by the creators of Space Quest," reminded backers: "Remember the Space Quest series from Sierra's duo the Two Guys From Andromeda? Well they are back & making a brand new SpaceVenture™!"[^ref-4]
 
-While working on *SpaceVenture*, Crowe and Pope had been looking for a sequence to use in the game for the Cluck Yegger character[^ref-1]. With Scott Murphy needing to take time away from the project for personal reasons, the two focused on building the playable Cluck Yegger sequence, which would not require writing from Murphy[^ref-1]. Rock Paper Shotgun reported the personal setbacks behind the delays and described the result as a mini-game "to be part of the final release" of *SpaceVenture*, spoofing *Five Nights at Freddy's*[^ref-6]. The game is based on characters from *SpaceVenture*[^ref-3].
+Cluck Yegger was established inside the *SpaceVenture* story before the standalone game existed. In Kickstarter Update #102 (May 7, 2015) the team wrote that "Cluck Yegger is a fictional video game character in the Ace Hardway universe," and noted that the previous update had introduced an 8-bit Cluck Yegger mini-game called "Clucky Bird"[^ref-34]. Update #104 (September 30, 2015), written by Crowe, Murphy and Pope together, describes the Cluck Yegger portion as a section of *SpaceVenture* "that has been planned since the beginning," whose story had been written although its design and mechanics only came together recently[^ref-32]. With Murphy's personal life having to be his focus, Crowe and Pope decided to concentrate on that portion, since it would not need most of the team to put in huge amounts of time; after a few months of work on artwork, mechanics and programming, it had grown into a mini-game parodying a popular game series, and the team decided to release it to the public[^ref-32]. Rock Paper Shotgun reported the personal setbacks behind the delays and described the result as a mini-game "to be part of the final release" of *SpaceVenture*, spoofing *Five Nights at Freddy's*[^ref-6]. The game is based on characters from *SpaceVenture*[^ref-3].
 
 ### Production
 
 Development of *Cluck Yegger* lasted about seven months from start to finish, with the team also working on parts of *SpaceVenture* during that time[^ref-1]. The team was kept extremely small, with only Crowe and Pope designing the gameplay[^ref-1]. Pope did the programming with support from developer Patrick Johnston, while Crowe focused on the artwork with the help of a couple of artists[^ref-1]. MobyGames links Johnston's "Programming Support" credit here to the same person record credited as producer, director and programmer of the fan-made *Space Quest: Vohaul Strikes Back* (2011)[^ref-18][^ref-24]. The team built the game using the Unity 4 engine (specifically build 4.6.9f1)[^ref-8].
 
-The game was released first to Kickstarter backers on October 29, 2015, "just in time for Halloween" in Rock Paper Shotgun's words[^ref-6]. It then went through Steam Greenlight before receiving full public release on November 9, 2015[^ref-1]. The decision to sell the game publicly, rather than keeping it exclusively for backers, was made to raise additional funding for the ongoing *SpaceVenture* development[^ref-1]. The game sells for $2.99 on Steam and itch.io[^ref-3][^ref-15].
+The game was released first to Kickstarter backers on October 29, 2015, "just in time for Halloween" in Rock Paper Shotgun's words[^ref-6]. It then went through Steam Greenlight before receiving full public release on November 9, 2015[^ref-1]. The decision to sell the game publicly, rather than keeping it exclusively for backers, was made to raise additional funding for the ongoing *SpaceVenture* development[^ref-1]; Update #104 said the extra income would help bring in a few more artists[^ref-32]. Update #106 (October 29, 2015) offered backers at $15 and up DRM-free Windows, Mac and Linux builds (32- and 64-bit) and asked for feedback on a forum rather than on Kickstarter[^ref-33]. The game sells for $2.99 on Steam and itch.io[^ref-3][^ref-15].
 
 **Development Credits:**[^ref-18]
 - **Design:** [[Mark Crowe]], Chris Pope
@@ -116,7 +116,7 @@ The game was released first to Kickstarter backers on October 29, 2015, "just in
 
 ### Technical Achievements
 
-The game was built on the Unity 4 engine[^ref-8] and released on Windows, macOS and Linux[^ref-18]; Wikipedia also lists an iOS version[^ref-1], but no Cluck Yegger app turned up in a US App Store search on October 29, 2026. The developers included a "Tame Mode" that replaces jump scares with humorous imagery[^ref-1].
+The game was built on the Unity 4 engine[^ref-8] and released on Windows, macOS and Linux[^ref-18]; Wikipedia also lists an iOS version[^ref-1], but no Cluck Yegger app turned up in a US App Store search on October 29, 2026. The developers included a "Tame Mode" that replaces jump scares with humorous imagery[^ref-1]. Update #104 said that once the computer versions were out, the team would rework the game for iPad and Android tablets, and might eventually release it on smartphones as well[^ref-32].
 
 The intro and Cluck theme were provided by Ken Allen[^ref-18], one of the composers of Sierra's *King's Quest V*[^ref-25]. The voice acting was highlighted by reviewers, with one describing the lead as "Patrick Warburton styled voice acting"[^ref-7]. The game included radio segments with a singer and newscaster[^ref-18].
 
@@ -128,13 +128,13 @@ The intro and Cluck theme were provided by Ken Allen[^ref-18], one of the compos
 
 ### Cut Content
 
-No cut content has been documented for this release. Rock Paper Shotgun reported at the backer launch that the mini-game was "to be part of the final release" of *SpaceVenture*[^ref-6].
+Rock Paper Shotgun reported at the backer launch that the mini-game was "to be part of the final release" of *SpaceVenture*[^ref-6], and Update #106 said the sequence contains important plot points that Ace Hardway discovers in *SpaceVenture*[^ref-33]. The full game was added to *SpaceVenture* in v2.08.01 on December 23, 2025[^ref-31].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | October 29, 2015 | Backers (DRM-free) | Private release to *SpaceVenture* Kickstarter backers[^ref-1][^ref-28] |
+| — | October 29, 2015 | Backers (DRM-free) | Private release to *SpaceVenture* Kickstarter backers[^ref-1][^ref-28][^ref-33] |
 | — | October 31, 2015 | Linux | Developer forum post: "The Linux build got an update"[^ref-19] |
 | — | November 9, 2015 | Steam | Public release[^ref-3] |
 | 1.1 | — | Windows, macOS | Build currently sold on itch.io (Linux file labelled v1)[^ref-15] |
@@ -157,6 +157,7 @@ Several technical issues have been documented by the community:
 - **Colonel Zanderz** is a parody of KFC founder Colonel Sanders, and appears in the cameras as a cardboard cutout[^ref-11]
 - **Joe Swanson:** One Steam reviewer's entire review reads "It has Joe Swanson"[^ref-7]; the Hero Wiki notes that Yegger's voice is "likely a play on the voice of actor 'Patrick Warburton,'" who also played Joe in *Family Guy*[^ref-10]
 - **Galactic FDA:** Yegger inspects operations "Under authority of the galactic FDA"[^ref-10]
+- **Chicken tradition:** Update #106 noted that "In past Two Guys From Andromeda games, there have been chickens," and said *Cluck Yegger* continued the tradition of chickens that poke fun at other games[^ref-33]
 
 ## Voice Cast
 
@@ -179,7 +180,7 @@ The game achieved Steam Greenlight approval before its public release[^ref-1]. I
 
 ### Collections
 
-*Cluck Yegger* was primarily distributed as a standalone digital title and has not been included in any major compilation packages. It remains connected to the *SpaceVenture* project, where Mike Schiff is again credited as Cluck Yegger[^ref-23].
+*Cluck Yegger* was first distributed as a standalone digital title. Since v2.08.01 of [[2022 - SpaceVenture|SpaceVenture]] (December 23, 2025), the full game is playable inside *SpaceVenture* itself: the Steam patch notes list "Full version of "Cluck Yegger Escape from the Planet of the Poultroids" available in game"[^ref-31]. Mike Schiff is again credited as Cluck Yegger in *SpaceVenture*[^ref-23].
 
 ### Fan Projects
 
@@ -206,21 +207,11 @@ Linux users have reported technical issues with camera displays and movement con
 
 ## See Also
 
-- [[1993 - Blue Force]]
-- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
-- [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
-- [[2013 - Fester Mudd - Curse of the Gold]]
-- [[2014 - Moebius - Empire Rising]]
-- [[2014 - Quest for Infamy]]
-- [[2015 - Order of the Thorne - The King's Challenge]]
-- [[2018 - Bolt Riley - A Reggae Adventure]]
-- [[2018 - Hero-U - Rogue to Redemption]]
-- [[2019 - Mage's Initiation - Reign of the Elements]]
 - [[2022 - SpaceVenture]]
-- [[2023 - Colossal Cave 3D Adventure]]
-- [[2023 - Summer Daze - Tilly's Tale]]
+- [[Space Quest Series]]
+- [[Spiritual Successors Catalog]]
+- [[Mark Crowe]]
+- [[Scott Murphy]]
 
 ## References
 
@@ -247,3 +238,7 @@ Linux users have reported technical issues with camera displays and movement con
 [^ref-28]: [Cliqist – Five Nights at Freddy's Parody Cluck Yegger Released to Backers](http://cliqist.com/2015/10/30/spaceventures-cluck-yegger-released-backers/) – Serena Nelson, Oct. 30, 2015; DRM-free copies for backers at $15 or more
 [^ref-29]: [Cliqist – Five Nights at Freddy's Clone Cluck Yegger Will Make You Scream and Shout](http://cliqist.com/2015/11/23/five-nights-at-freddys-clone-cluck-yegger-will-make-you-scream-and-shout/) – Serena Nelson, Nov. 23, 2015; impressions by a credited tester (not independent); Astro Chicken homage, Chickzilla, sales fund SpaceVenture
 [^ref-30]: [Steam Community – "The game ist not available in Germany anymore"](https://steamcommunity.com/app/416800/discussions/0/596267508946729641/) – user report, Feb. 21, 2025; developer reply and "Available again", Apr. 2025
+[^ref-31]: [Steam Community – SpaceVenture announcements (v2.08.01 Full Release, Dec. 23, 2025)](https://steamcommunity.com/app/1374960/announcements/) – full version of Cluck Yegger available in game
+[^ref-32]: [Kickstarter – Two Guys SpaceVenture, Update #104 (Sep. 30, 2015), Wayback Machine](http://web.archive.org/web/20160720183246/https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/1367531) – "planned since the beginning", reasons for the public release, tablet plans, backer builds
+[^ref-33]: [Kickstarter – Two Guys SpaceVenture, Update #106 (Oct. 29, 2015), Wayback Machine](http://web.archive.org/web/20160513204200/https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/1397704) – backer release and DRM-free builds, Tame Mode and Space Quest IV arcade-skip comparison, chicken tradition
+[^ref-34]: [Kickstarter – Two Guys SpaceVenture, Update #102 (May 7, 2015), Wayback Machine](http://web.archive.org/web/20160513194121/https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/1223285) – Cluck Yegger as a fictional video game character in the Ace Hardway universe; "Clucky Bird" mini-game
