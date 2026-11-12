@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: 'Not documented (sound engine by Human Machine Interfaces)'
 protagonist: Team Manager (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Front Page Sports: Baseball ''94 is a 1994 DOS baseball simulation developed
   by Dynamix and published by Sierra On-Line, the first baseball game in the Front Page
   Sports line, combining career-league management with physics-based on-field play.'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Baseball '94
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -121,7 +121,8 @@ MobyGames lists 63 people in the credits (48 developers, 15 thanks)[^ref-19]. Ke
 | Role | Credit |
 |------|--------|
 | Lead Designer | [[Allen Mcpheeters|L. Allen McPheeters]] |
-| Additional Design | Scott Youngblood, Doug Johnson |
+| Additional Design | [[Scott Youngblood]], Doug Johnson |
+| Associate Producer | [[Scott Youngblood]] |
 | Original Concept / Executive Producer | [[Patrick Cook]] |
 | Lead Simulation Programmer | David McClurg |
 | Lead Shell Programmer | Glen Wolfram |

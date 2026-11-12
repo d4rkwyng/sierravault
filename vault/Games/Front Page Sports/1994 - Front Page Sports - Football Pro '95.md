@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: null
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Front Page Sports: Football Pro ''95 is the third version of Dynamix''s
   Front Page Sports: Football simulation series, released for DOS on October 25, 1994
   with an official NFL licence, the CAMS camera system and an expanded play editor.'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football Pro '95
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -109,6 +109,7 @@ Development was led by [[Dynamix]], operating as a subsidiary studio under [[Sie
 - **Executive Producer / Designer:** Patrick Cook
 - **Associate Producer:** Steven Lee Miles
 - **Additional Design:** Steven Lee Miles, Scott Talley, L. [[Allen Mcpheeters|Allen McPheeters]], [[Scott Youngblood]], [[Doug Johnson]], Randy Teal, Scott Gilbert
+- **Testing:** [[Scott Youngblood]]
 - **Simulation Programming:** David McClurg, Tim Midkiff, Nels Bruckner, Stephen Cordon
 - **Art Director:** Ian Gilliland
 - **Title Theme Music:** Timothy Steven Clarke
