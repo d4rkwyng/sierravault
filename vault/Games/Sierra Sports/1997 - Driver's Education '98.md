@@ -10,7 +10,7 @@ series: Sierra's Driver's Education
 engine: null
 protagonist: Student Driver
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Driver's Education '98 is an educational driving simulator developed
   by Dynamix and published by Sierra On-Line in 1998, pairing a test-prep Driving
   Academy with a 3D Virtual City and a virtual driving instructor.
@@ -18,21 +18,21 @@ tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
 # Driver's Education '98
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Driver's Education '98 is an educational driving simulator developed by [[Dynamix]] and published by [[Sierra On-Line]] for Windows in 1998.[^ref-1][^ref-11][^ref-12] It was among the titles on Sierra's E3 1997 press CD (dated June 10, 1997), where it was listed as "Drivers Education".[^ref-25] The software was designed to help prepare aspiring drivers for both the written examination and the practical driving test.[^ref-1] Its box described it as "TWO-PRODUCTS-IN-ONE", with an interactive test-prep Driving Academy and a 3D Virtual City with real-world physics.[^ref-3]
 
-The game was one of the last titles published under Sierra's "Discovery Series" brand.[^ref-4] Players drive around a virtual city with a talkative virtual driving instructor. The MobyGames credits name him "Driver Ed", voiced by Jim Waid, while abandonware descriptions call him "Ed".[^ref-23][^ref-4] The program took into account the driving laws of different U.S. states, offering lessons and tests appropriate to the state the user selected at the start.[^ref-4]
+Players drive around a virtual city with a talkative virtual driving instructor. The MobyGames credits name him "Driver Ed", voiced by Jim Waid, while abandonware descriptions call him "Ed".[^ref-23][^ref-4] The program took into account the driving laws of different U.S. states, offering lessons and tests appropriate to the state the user selected at the start.[^ref-4]
 
-Driver's Education was sold with a money-back guarantee: if users didn't pass their driving test after using the program, they could get their money back.[^ref-4][^ref-7] Reviewing the Deluxe Edition in 1998, Cynthia A. Sorrels of Kids Domain concluded: "This program does exactly what it sets out to do: teaches Driver Education in a safe environment, without risking an accident."[^ref-27] Wired, previewing it in November 1997, called it "the first consumer-level driving instruction program in existence".[^ref-28]
+Driver's Education was sold with a money-back guarantee.[^ref-4][^ref-7] According to Kids Domain, "Sierra guarantees that Driver's Education will help you pass your state's actual written driver's test or they'll refund your money (within 30 days of purchase.)"[^ref-27] Reviewing the Deluxe Edition in 1998, Cynthia A. Sorrels of Kids Domain concluded: "This program does exactly what it sets out to do: teaches Driver Education in a safe environment, without risking an accident."[^ref-27] Wired, previewing it in November 1997, called it "the first consumer-level driving instruction program in existence".[^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Director:** Bill Money[^ref-23]
 > **Publisher:** Sierra On-Line[^ref-11]
-> **Engine:** Simulation engine "built nearly from scratch" for the game (Wired, 1997)[^ref-28]
+> **Engine:** Described by Wired (1997) as a simulation engine "built nearly from scratch"[^ref-28]
 > **Platforms:** Windows 95, Windows 98[^ref-3]
 > **Release Year:** 1998[^ref-1][^ref-12]
 > **Rating:** ESRB E for Everyone (Edutainment, Informational)[^ref-29]
@@ -67,8 +67,6 @@ The program was divided into two main components:[^ref-3]
 - **3D Virtual City:** a driving simulation with real-world physics, where users practised behind the virtual wheel.[^ref-3]
 
 While driving, users lost points both for breaking the rules and for not taking enough safety precautions. Point-losing events included speeding, pulling out into traffic without signalling, and not buckling the seatbelt. After the lessons, users eventually took a review test.[^ref-4]
-
-LaunchBox lists the 1998 edition with more than 30 lessons,[^ref-8] while Kids Domain's review of the '98 Deluxe Edition lists "Over 60 lesson plans".[^ref-27] The CodeWeavers listing for the 1999 edition gives 65 lessons, with testing for all 50 states and the District of Columbia.[^ref-9]
 
 ### Lessons and Scenarios
 
@@ -111,13 +109,13 @@ The driving-instruction website Driver's Ed Guru said the game "may actually be 
 
 ### Origins
 
-Driver's Education '98 was developed by Dynamix, a studio known for its flight simulations.[^ref-1][^ref-4] It was one of the last titles published under Sierra's "Discovery Series" brand.[^ref-4]
+Driver's Education '98 was developed by Dynamix, a studio known for its flight simulations.[^ref-1][^ref-4] An abandonware description calls it one of the last titles published under Sierra's "Discovery Series" brand.[^ref-4][^ref-7]
 
-The game appeared on Sierra's E3 1997 screenshot CD, dated June 10, 1997. The disc listed it alongside other Sierra titles, such as Front Page Sports: Baseball Pro '98 and Front Page Sports: Ski Racing.[^ref-25] In February 1998, Sierra's official Driver's Education website offered a tour of the Virtual City, driving education and safety articles, and the laws and legal exceptions for all 50 states and the District of Columbia.[^ref-26]
+The game appeared on Sierra's E3 1997 screenshot CD, dated June 10, 1997. The disc listed it alongside other Sierra titles, such as Front Page Sports: Baseball Pro '98 and Front Page Sports: Ski Racing.[^ref-25] In February 1998, Sierra's official Driver's Education website offered a tour of the Virtual City, driving education and safety articles, and the laws and legal exceptions for all 50 states and the District of Columbia. The same page carried the line "Don't open until November 1997".[^ref-26]
 
 ### Production
 
-Development was led by Director Bill Money, with Jeffrey Tunnell as Executive Producer and Ken Embery as Producer.[^ref-23] Embery told Wired in 1997 that racing simulations are "set up for going fast in circles and occasionally colliding with things", and of the driving program: "There's no other street-driving simulation. We've created a genre."[^ref-28] Glenn Wallace was Lead Programmer, with sim programmer James Poelke and shell programmer Nancy Hamilton.[^ref-23] The AI programming was credited to Jon Milnes, Brian Apgar, Art Peregrine and Damon Mitchell. Dan White handled vehicle physics.[^ref-23]
+Development was led by Director Bill Money, with Jeffrey Tunnell as Executive Producer and Ken Embery as Producer.[^ref-23] Embery told Wired in 1997 that racing simulations are "set up for going fast in circles and occasionally colliding with things", and of the driving program: "There's no other street-driving simulation. We've created a genre." He also said that once the car runs a light, plunges into oncoming traffic, or leaves the road, "the lesson stops; you flunk."[^ref-28] Glenn Wallace was Lead Programmer, with sim programmer James Poelke and shell programmer Nancy Hamilton.[^ref-23] The AI programming was credited to Jon Milnes, Brian Apgar, Art Peregrine and Damon Mitchell. Dan White handled vehicle physics.[^ref-23]
 
 The digital artists were Robert Borth, Lael Salaets and Anthony Lewis, and Justin Holman was Assistant Director.[^ref-23] Audio and sound effects came from Loudmouth, Inc.[^ref-1][^ref-23] Jim Waid voiced Driver Ed and Jane Chase voiced the classroom instructor.[^ref-23]
 
@@ -173,7 +171,7 @@ Lessons and tests were customized to the user's state.[^ref-4] Kids Domain noted
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Driver's Education '98 | 1998 | Windows 95/98 | Initial release; 30+ lessons per LaunchBox, "over 60" per Kids Domain (Deluxe Edition)[^ref-1][^ref-8][^ref-27] |
+| Driver's Education '98 | 1998 | Windows 95/98 | Initial release[^ref-1] |
 | Driver's Education 99 | 1998 | Windows | Improved graphics and more driving simulations; 65 lessons; force-feedback support[^ref-5][^ref-7][^ref-9] |
 
 The 1999 edition offered improved graphics and more driving simulations.[^ref-4][^ref-7] Its CodeWeavers listing adds new lessons on graduated licensing and road rage, force-feedback support, and an on-line parents' guide.[^ref-9]
@@ -218,7 +216,7 @@ IGCD lists the game's vehicles as not damageable.[^ref-17]
 
 ### Easter Eggs and Trivia
 
-- **Money-Back Guarantee:** The program was sold with a money-back guarantee for users who didn't pass their driving test after using it.[^ref-4][^ref-7]
+- **Money-Back Guarantee:** Per Kids Domain, Sierra guaranteed the program would help users pass their state's actual written driver's test, or refund their money within 30 days of purchase.[^ref-27][^ref-4][^ref-7]
 
 - **Middle School Memories:** One Reddit user recalled that the game "was installed on our middle school library computers back in the day."[^ref-18]
 
@@ -285,7 +283,7 @@ Driver's Education '98 is an example of educational software built by a studio b
 [^ref-12]: [Giant Bomb – Driver's Education '98](https://www.giantbomb.com/drivers-education-98/3030-3254/) – release year, developer (Wayback snapshot of June 12, 2025: [archived page](https://web.archive.org/web/20250612032304/https://www.giantbomb.com/drivers-education-98/3030-3254/))
 [^ref-13]: [Driver's Ed Guru – Product Reviews](https://driversedguru.com/product-reviews/driving-games/drivers-education-98/) – driver's-perspective comment, decision not to review
 [^ref-14]: [PC Review Forums – XP Compatibility](https://www.pcreview.co.uk/threads/cant-run-drivers-education-98-on-xp.514496/) – XP compatibility issues, compatibility-mode settings
-[^ref-15]: [Steam Community – Technical Discussion](https://steamcommunity.com/app/1675200/discussions/0/4629233576852855820/) – emulation recommendations, .bin/.cue file format, Lutris attempt
+[^ref-15]: [Steam Community – Getting Driver's Education 98 to Run (Steam Deck General Discussions)](https://steamcommunity.com/app/1675200/discussions/0/4629233576852855820/) – emulation recommendations, .bin/.cue file format, Lutris attempt
 [^ref-16]: [Internet Archive – DRIVERED](https://archive.org/details/DRIVERED) – preservation upload, Windows 10 note
 [^ref-17]: [IGCD – Vehicle Database](https://www.igcd.net/game.php?id=100003078) – vehicle list, no damage modeling
 [^ref-18]: [Reddit r/retrogaming](https://www.reddit.com/r/retrogaming/comments/1286hjr/anyone_ever_play_the_pc_game_drivers_education/) – middle school library recollection
