@@ -10,14 +10,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '*Quest for Infamy: Roehm to Ruin* is an unreleased point-and-click adventure
   RPG developed by Infamous Quests as a prequel to their 2014 title *Quest for Infamy*.'
 tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -144,7 +144,7 @@ The game features multiple story paths with different endings based on player ch
 |-----------|-------------|
 | Mr. Roehm | Steve Patrick |
 
-Voice recording for the lead character remains the final production milestone before release.[^ref-3] In a January 2026 Patreon update, Alexander said the only remaining task was to record Mr. Roehm's lines with Steve Patrick, edit them and put them in the game, which he hoped to do soon.[^ref-13] An April 4, 2026 follow-up said studio time was **booked for May 2026** to get Steve Patrick into the studio and finish recording all of Mr. Roehm's lines, and that Alexander hoped to "show our work off at RetroGameCon in Syracuse, NY in October".[^ref-21] In July 2026, Alexander wrote on Bluesky that his desire to work on video games "has been in a waning phase all year,"[^ref-22] and on July 22 that most of the crew he made games with "have moved on with their lives" and "I find my heart not in it as much as it used to be."[^ref-23] On September 28, 2026, he posted that RetroGameCon in Syracuse was "this weekend and we have a booth!";[^ref-24] no release of *Roehm to Ruin* has been reported since.[^ref-6] The most recent post on the Infamous Quests Patreon is the April 4, 2026 update, as of November 11, 2026.[^ref-21]
+Voice recording for the lead character remains the final production milestone before release.[^ref-3] A patron-only January 2026 Patreon update (its text is not publicly viewable) is reported to have said that the only remaining task was recording Mr. Roehm's lines with Steve Patrick.[^ref-13] An April 4, 2026 follow-up said studio time was **booked for May 2026** to get Steve Patrick into the studio and finish recording all of Mr. Roehm's lines, and that Alexander hoped to "show our work off at RetroGameCon in Syracuse, NY in October".[^ref-21] In July 2026, Alexander wrote on Bluesky that his desire to work on video games "has been in a waning phase all year,"[^ref-22] and on July 22 that most of the crew he made games with "have moved on with their lives" and "I find my heart not in it as much as it used to be."[^ref-23] On September 28, 2026, he posted that RetroGameCon in Syracuse was "this weekend and we have a booth!";[^ref-24] no release of *Roehm to Ruin* has been reported since.[^ref-6] The most recent post on the Infamous Quests Patreon is the April 4, 2026 update, as of November 11, 2026.[^ref-21]
 
 ## Legacy
 
