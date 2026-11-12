@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'King''s Quest V: Absence Makes the Heart Go Yonder! (1990) was Sierra''s
   first icon-based, point-and-click adventure and the first King''s Quest in 256-color
   VGA, later reissued as a fully voiced CD-ROM "talkie."'
@@ -18,11 +18,11 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest V: Absence Makes the Heart Go Yonder!
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-King's Quest V: Absence Makes the Heart Go Yonder! marks a pivotal turning point in Sierra On-Line's gaming philosophy, representing one of the most significant technological leaps in adventure game history.[^ref-1] Released in November 1990, it was Sierra's first icon-based, point-and-click adventure game, abandoning the text parser that had defined the series since its inception.[^ref-1][^ref-17] It was also the first King's Quest with 256-color VGA graphics,[^ref-10][^ref-32] and Adventure Classic Gaming calls it the first adventure game on Sierra's SCI1 interpreter,[^ref-1] though Quest for Glory II ran on an earlier, EGA-only SCI1 build (interpreter 1.000.041, against King's Quest V's 1.000.058).[^ref-61] A fully voiced CD-ROM edition followed in August 1991, the first of Sierra's full-fledged adventure games to ship on CD;[^ref-15] Adventure Classic Gaming goes further and calls it the first adventure game released on CD-ROM in Multimedia PC format.[^ref-1]
+King's Quest V: Absence Makes the Heart Go Yonder! was, in Adventure Classic Gaming's words, "a pivotal turning point in Sierra On-Line's gaming philosophy."[^ref-1] Released in November 1990, it was Sierra's first icon-based, point-and-click adventure game, abandoning the text parser that had defined the series since its inception.[^ref-1][^ref-17] It was also the first King's Quest with 256-color VGA graphics,[^ref-10][^ref-32] and Adventure Classic Gaming calls it the first adventure game on Sierra's SCI1 interpreter,[^ref-1] though Quest for Glory II ran on an earlier, EGA-only SCI1 build (interpreter 1.000.041, against King's Quest V's 1.000.058).[^ref-61] A fully voiced CD-ROM edition followed in August 1991, the first of Sierra's full-fledged adventure games to ship on CD;[^ref-15] Adventure Classic Gaming goes further and calls it the first adventure game released on CD-ROM in Multimedia PC format.[^ref-1]
 
 The Digital Antiquarian calls it "the most dramatic single visual leap forward" in Sierra's history.[^ref-15] It was made on a budget of more than one million dollars,[^ref-6] and Adventure Classic Gaming describes it as the first title to cost over $1 million to produce.[^ref-1] Its backgrounds were painted by hand on paper and then digitized,[^ref-15] and Computer Gaming World's Scorpia called the game "a graphic tour-de-force."[^ref-5] Computer Gaming World's 1996 list of the 150 best games of all time put it this way: "With King's Quest V, Roberta Williams horrified Sierra traditionalists by getting the parser out of the way of some of the most beautiful graphics ever."[^ref-64]
 
@@ -113,7 +113,7 @@ The game was built on the new SCI1 interpreter.[^ref-1] [[Corey Cole]], credited
 - **Lead Programmer:** Chris Iden
 - **Programmers:** Chris Iden, Oliver Brelsford, Juan Carlos Escobar, [[Doug Oldfield]], Chris Hoyt, Raoul Said, Robert W. Lindsley[^ref-56]
 - **Art Designer:** [[Andy Hoyos]]
-- **Artists:** Deena Benz, Ernie Chan, Jeff Crowe, Tamra Dayton, Dana Dean, Roger Hardy, Douglas Herring, Eric Kasner, Jim Larsen
+- **Artists:** Ernie Chan, Douglas Herring, Jeff Crowe, William D. Skirvin, Maurice Morgan, Vas Nokhoudian, Barry T. Smith, Cindy Walker, Deena Benz, Tamra Dayton, Dana Dean, Roger Hardy Jr., Harry McLaughlin, Jennifer Shontz, Deanna Yhalkee, Jim Larson, Cheryl Loyd, Jerry Moore, Cheryl Sweeney, Eric Kasner, Hector Martinez, Richard D. Zeigler-Martin[^ref-62]
 - **Composers:** [[Mark Seibert]], [[Ken Allen]]
 - **Development System:** [[Corey Cole]], Dan Foy, [[Pablo Ghenis]], Eric Hart, John Hartin, Robert E. Heitman, J. Mark Hood, John Rettig, Larry Scott, [[Jeff Stephenson]][^ref-62]
 
@@ -182,43 +182,45 @@ Common compatibility issues include:
 ### Easter Eggs and Trivia
 
 - **Game Title Pun:** The subtitle "Absence Makes the Heart Go Yonder" is a play on the proverb "Absence makes the heart grow fonder."[^ref-25]
-- **Sled/Cape Easter Egg:** In the floppy disk version, after Graham crashes the sled in the snowy mountains, using the cape on the broken sled pile causes a sea creature to mysteriously appear—this was removed from the CD-ROM version.[^ref-39]
+- **Sled/Cape Easter Egg:** In the floppy disk version, after Graham crashes the sled in the snowy mountains, using the cape on the broken sled pile causes a sea creature to mysteriously appear—this was removed from the CD-ROM version.[^ref-39][^ref-32]
 - **Contest Winners:** Sierra ran a contest where winners became characters in the game. Amanda Logue and Austin Hartman appear as in-game characters.[^ref-25]
 - **Real-World Architecture:** The desert temple exterior is based on "Al Khazneh" in Petra, Jordan.[^ref-25]
 - **Sierra Logo Mountain:** A mountain in the game is designed to resemble the Sierra On-Line logo.[^ref-25]
 - **Cedric References:** The owl Cedric became so notorious that he appeared as the brunt of jokes in later Sierra games including Freddy Pharkas: Frontier Pharmacist, Quest for Glory: Shadows of Darkness, and Space Quest VI.[^ref-26]
 - **Unused Dialogue:** Files contain one unused line where King Graham says "I'll take care of you, Cedric."[^ref-32]
 
-## Voice Cast
+### Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
-| King Graham / Innkeeper's Pal / Harpy | [[Josh Mandel]] |
-| Narrator | Art Lewicki |
-| Cedric the Owl | Richard Aronson |
-| Crispin / Toymaker / Innkeeper | Leonard "Ray" Bergeron |
-| Mordack | Andy Hoyos |
-| Prince Alexander / Eagle / Toymaker's Son / Rocky | Barry T. Smith |
-| Princess Cassima | Dianah Pressley |
-| Rosella / Alicia / Queen Beetrice / Willow | Diana Rose Wilson |
-| Queen Icebella | [[Lori Ann Cole]] |
-| The Genie / The Snake / Man in Town / Singing Ants | Mark Seibert |
-| The Rat / Amanda / Woman in Town / Harpy | Roberta Williams |
-| Gypsy Man | Kenny Long |
-| Baker / Baker's Brother | Dick Roberts |
-| Herbert / Gnome | Gregory James Thomas |
-| Shoemaker / King Antony | Dan Long |
-| Shoemaker's Wife / Gypsy Fortuneteller / Witch | Sarah Long |
-| Sir Greywolf | Frederic Gott |
-| Toymaker's Granddaughter | Kristen Hoyos |
-| Hermit | Bill Davis |
-| The Cat / Irate Customer | [[Guruka Singh Khalsa]] |
-| Harpy | Barbara Eicker |
-| Singing Willow Tree | Debbie Seibert |
-| Austin | Kevin Orcutt |
-| Tailor | D.J. Williams |
-| Elf / Harpy | Nancy Zdenek |
+| King Graham / Innkeeper's Pal / Harpy | [[Josh Mandel]][^ref-29][^ref-67] |
+| Narrator | Art Lewicki[^ref-29][^ref-67] |
+| Cedric the Owl | Richard Aronson[^ref-29][^ref-67] |
+| Crispin / Toymaker / Innkeeper | Leonard "Ray" Bergeron[^ref-29][^ref-67] |
+| Mordack | Andy Hoyos[^ref-29][^ref-67] |
+| Prince Alexander / Eagle / Toymaker's Son / Rocky | Barry T. Smith[^ref-29] |
+| Princess Cassima | Dianah Pressley[^ref-29][^ref-67] |
+| Rosella / Alicia / Queen Beetrice / Willow | Diana Rose Wilson[^ref-29][^ref-67] |
+| Queen Icebella | [[Lori Ann Cole]][^ref-29] |
+| The Genie / The Snake / Man in Town / Singing Ants | Mark Seibert[^ref-29][^ref-67] |
+| The Rat / Amanda / Woman in Town / Harpy | Roberta Williams[^ref-29][^ref-67] |
+| Gypsy Man | Kenny Long[^ref-29][^ref-67] |
+| Baker / Baker's Brother | Dick Roberts[^ref-29][^ref-67] |
+| Herbert / Gnome | Gregory James Thomas[^ref-29][^ref-67] |
+| Shoemaker / King Antony | Dan Long[^ref-29][^ref-67] |
+| Shoemaker's Wife / Gypsy Fortuneteller / Witch | Sarah Long[^ref-29][^ref-67] |
+| Sir Greywolf | Frederic Gott[^ref-29][^ref-67] |
+| Toymaker's Granddaughter | Kristen Hoyos[^ref-29][^ref-67] |
+| Hermit | Bill Davis[^ref-29][^ref-67] |
+| The Cat / Irate Customer | [[Guruka Singh Khalsa]][^ref-29][^ref-67] |
+| Harpy | Barbara Eicker[^ref-29][^ref-67] |
+| Singing Willow Tree | Debbie Seibert[^ref-29][^ref-67] |
+| Austin | Kevin Orcutt[^ref-29][^ref-67] |
+| Tailor | D.J. Williams[^ref-29][^ref-67] |
+| Elf / Harpy | Nancy Zdenek[^ref-29][^ref-67] |
 | Bandit Leader (Windows) | [[Stuart Moulder]][^ref-63] |
+
+MobyGames credits Josh Mandel as King Graham, Innkeeper's Pal and Harpy,[^ref-67] while IMDb's full credits list him as King Graham / Innkeeper's Pal only and give the Harpy voices to Nancy Zdenek (Elf / Harpy), Roberta Williams (The Rat / Amanda / Woman in Town / Harpy) and Barbara Eicker (Harpy).[^ref-29]
 
 Many of the voices were provided by Sierra staff, including the game's own developers, rather than professional actors.[^ref-29][^ref-28][^ref-6]
 
@@ -237,7 +239,7 @@ King's Quest V has been included in numerous compilation releases:
 - **King's Quest Collection Series (1999):** Re-released compilation[^ref-22]
 - **King's Quest Collection (2006):** Modern Windows compatible release[^ref-22]
 - **GOG.com King's Quest 4+5+6:** Digital distribution bundle[^ref-43]
-- **Steam King's Quest Collection:** Digital distribution[^ref-37]
+- **[Steam King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/):** Digital distribution[^ref-68]
 
 ### Fan Projects
 
@@ -257,7 +259,7 @@ In January 2026, kikems (AmigaWave) and Darasco of the [[2025 - SCP Sierra Conve
 
 ### Critical Perspective
 
-King's Quest V occupies a fascinating and somewhat contradictory place in adventure game history. On one hand, it represents a genuine technological milestone—the game's 256-color VGA graphics, point-and-click interface, and CD-ROM voice acting were genuinely revolutionary and helped define what adventure games could become.[^ref-1] Adventure Classic Gaming's Eivind Hagerup wrote that it "marks a pivotal turning point in Sierra On-Line's gaming philosophy which has forever changed the face of adventure game design."[^ref-1]
+King's Quest V occupies a fascinating and somewhat contradictory place in adventure game history. On one hand, it represents a genuine technological milestone—Adventure Classic Gaming credits it with "numerous groundbreaking technologies," among them 256-color VGA graphics and a point-and-click interface.[^ref-1] Adventure Classic Gaming's Eivind Hagerup wrote that it "marks a pivotal turning point in Sierra On-Line's gaming philosophy which has forever changed the face of adventure game design."[^ref-1]
 
 On the other hand, the game also exemplifies design philosophies that would eventually contribute to the adventure genre's decline. The numerous dead-ends, illogical puzzle solutions, and frequent deaths frustrated players; Hardcore Gaming 101 called it "filled to the brim with impossibly frustrating dead ends and illogical puzzles."[^ref-8] Adventure Classic Gaming notes that some gamers felt the icon interface cheapened the puzzles, though the interface went on to be used across Sierra's later series.[^ref-1] The game stands as both a monument to technological progress and a cautionary tale about game design, its legacy defined as much by what it achieved as by what its successors would improve upon.
 
@@ -265,9 +267,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 
 **Purchase / Digital Stores**
 - [GOG – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6)
-- Steam – King's Quest Collection
-
-**Download / Preservation**
+- [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/)
 
 **Manuals & Extras**
 - [Internet Archive – Game Manual](https://archive.org/details/vgmuseum_sierra_kq5-manual)
@@ -275,6 +275,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 
 ## See Also
 
+- [[King's Quest Series]]
 - [[1984 - King's Quest - Quest for the Crown]]
 - [[1985 - King's Quest II - Romancing the Throne]]
 - [[1986 - King's Quest III - To Heir Is Human]]
@@ -288,7 +289,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 ## References
 
 [^ref-1]: [Adventure Classic Gaming – King's Quest V Review](http://www.adventureclassicgaming.com/index.php/site/reviews/70/) – technical specifications, awards, review score, development milestones
-[^ref-5]: [Computer Gaming World Museum – Issue 80](http://www.cgwmuseum.org/galleries/index.php?year=1991&pub=2&id=80) – Scorpia review
+[^ref-5]: [Computer Gaming World #80 (March 1991), Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_80/page/n49/mode/2up) – p. 50, Scorpia's "Scorpion's View" on King's Quest V: "Without question, King's Quest V is a graphic tour-de-force."
 [^ref-6]: [Wikipedia – King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – comprehensive development, sales, awards, platform information
 [^ref-8]: [Hardcore Gaming 101 – King's Quest V (Wayback, January 2025)](https://web.archive.org/web/20250122040213/http://www.hardcoregaming101.net/kings-quest-v-absence-makes-the-heart-go-yonder/) – retrospective analysis, version comparisons, "filled to the brim with impossibly frustrating dead ends"
 [^ref-10]: [DOS Days – King's Quest V](https://www.dosdays.co.uk/topics/Games/game_kq5.php) – technical specifications, installation details
@@ -303,7 +304,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-26]: [Wikipedia – King's Quest Series](https://en.wikipedia.org/wiki/King's_Quest) – series overview, Serenia connection, Cedric references
 [^ref-28]: [The Adventurer's Guild – Introduction](https://advgamer.blogspot.com/2015/03/game-52-kings-quest-v-absence-makes.html) – Corey Cole comments, SCI engine details
 [^ref-29]: [IMDB – King's Quest V Full Credits](https://www.imdb.com/title/tt0212279/fullcredits) – complete production credits, voice cast
-[^ref-32]: [GameFAQs – King's Quest V Trivia](https://gamefaqs.gamespot.com/pc/565071-kings-quest-v-absence-makes-the-heart-go-yonder/trivia) – cut content, unused assets
+[^ref-32]: [GameFAQs – King's Quest V Trivia](https://gamefaqs.gamespot.com/pc/565071-kings-quest-v-absence-makes-the-heart-go-yonder/trivia) – cut content, unused assets, sled/cape easter egg removed from the CD release
 [^ref-35]: [ScummVM Wiki – SCI/Japanese Games (Wayback, September 2021)](https://web.archive.org/web/20210927060926/https://wiki.scummvm.org/index.php/SCI/Japanese_Games) – King's Quest V (FM-Towns) "features Japanese + English voice acting"
 [^ref-37]: [Telltale Community Forums](https://community.telltale.com/discussion/23636/kings-quest-collection-steam-version-help-needed) – Steam version issues, patches
 [^ref-38]: [Sierra Help Pages – King's Quest V Help](https://sierrahelp.com/Games/KingsQuest/KQ5Help.html) – audio initialization and out-of-heap errors
@@ -325,3 +326,5 @@ On the other hand, the game also exemplifies design philosophies that would even
 [^ref-64]: [Computer Gaming World #148 (November 1996) – "150 Best Games of All Time"](https://archive.org/details/Computer_Gaming_World_Issue_148/page/n79/mode/2up) – p. 76, entry 94: "With King's Quest V, Roberta Williams horrified Sierra traditionalists by getting the parser out of the way of some of the most beautiful graphics ever."
 [^ref-65]: [Sierra InterAction, Winter 1992 (Vol. V No. 4)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – p. 50: "the readers of MPC World magazine voted… Roberta Williams' King's Quest V was selected as 'Best Multimedia Fantasy/Adventure Game'" (publisher's own magazine)
 [^ref-66]: [Nintendo Power #51 (August 1993) – King's Quest V walkthrough](https://archive.org/details/nintendo-power-issue-051-august-1993/page/94/mode/2up) – pp. 93–94: amulet at "the entrance to the Dark Forest"; the witch's frog spell fails and the Genie bottles her up
+[^ref-67]: [MobyGames – King's Quest V credits](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits/) – cast list: "King Graham, Innkeeper's Pal, Harpy: Josh Mandel"; also "Elf, Harpy" (Zdenek), "The Rat, Amanda, Woman in Town, Harpy" (Williams), "Harpy" (Eicker)
+[^ref-68]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – store page for the seven-game collection; description includes "Absence Makes the Heart Go Yonder"
