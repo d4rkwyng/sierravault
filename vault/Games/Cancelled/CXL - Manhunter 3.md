@@ -10,7 +10,7 @@ series: Manhunter
 engine: Unknown (never entered production)
 protagonist: The Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: 'Manhunter 3: London is a cancelled post-apocalyptic adventure game, planned
   as the third installment in the Manhunter series. Teased in Manhunter 2: San Francisco,
   it never went beyond the concept stage after Evryware and Sierra parted ways in 1989.'
@@ -18,13 +18,13 @@ tags: [adventure, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Manhunter 3: London is a cancelled post-apocalyptic adventure game that was planned as the third installment in the Manhunter series.[^ref-1] The game was to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line, continuing the story of the unnamed Manhunter protagonist as he tracks down the serial killer Phil Cook to London and attempts to drive the alien Orbs away from Earth.[^ref-1] The game's existence was teased in 1989 through an in-game Easter egg in Manhunter 2: San Francisco, where a poster advertising "Manhunter 3: London" can be seen on the side of a tram at the Cable Car Barn.[^ref-1]
 
-Manhunter 3: London was never made, although the second game had ended on a dramatic cliffhanger that left fans anticipating the continuation of the story.[^ref-2][^ref-4] The Science Fiction Encyclopedia likewise says Evryware's intended third game, meant to tie up plot threads from Manhunter 2, "was never released."[^ref-23] The series was originally conceived as a trilogy, and the Murrys also envisioned a fourth game following the London chapter.[^ref-1][^ref-2][^ref-5] The rights to Manhunter are held by Activision, and according to Wikipedia "there are no plans for resumption"; the only revival claims found in the sources cited here are two unverified posts, one from a 2000 newsgroup thread and one from a 2008 forum (see Revival Attempts).[^ref-10][^ref-25][^ref-3]
+Manhunter 3: London was never made, although the second game had ended on a dramatic cliffhanger that left fans anticipating the continuation of the story.[^ref-2][^ref-4] Hardcore Gaming 101 notes that posters throughout the series imply a trilogy, teasing a third installment called Manhunter: London, and says "this never happened"; PC Gamer's Richard Cobbett likewise writes that "There were plans for a third adventure, Manhunter: London, but the series ended there."[^ref-27][^ref-28] The Science Fiction Encyclopedia also says Evryware's intended third game, meant to tie up plot threads from Manhunter 2, "was never released."[^ref-23] The series was originally conceived as a trilogy, and the Murrys also envisioned a fourth game following the London chapter.[^ref-1][^ref-2][^ref-5] The rights to Manhunter are held by Activision, and according to Wikipedia "there are no plans for resumption"; the only revival claims found in the sources cited here are unverified posts, one from a 2000 newsgroup thread and two from August 2008 forums (see Revival Attempts).[^ref-10][^ref-25][^ref-3][^ref-4]
 
 > [!info]- Game Info
 > **Developer:** [[Evryware]][^ref-1]
@@ -41,7 +41,7 @@ Manhunter 3: London was never made, although the second game had ended on a dram
 
 No plot for Manhunter 3: London was ever published. The Manhunter shrine at Larry Laffer Dot Net states that "the plot is completely unknown" and that, since no deal was struck to move the game into production, it probably "never went beyond the conceptual stage."[^ref-2]
 
-What is known comes from the end of the second game and from fan wikis. Manhunter 2: San Francisco closes with Phil Cook escaping in an Orb ship with the player hanging on to the outside, flying off towards London.[^ref-10] The Manhunter Wiki describes the third game as taking place in London, with the Manhunter tracking down Phil Cook and driving the Orbs away from Earth.[^ref-1] The shrine adds that, as the "third and deciding game" in the trilogy, it is "likely safe to assume" the Orbs would have been driven not only from London but from Earth as well.[^ref-2]
+What is known comes from the end of the second game and from fan wikis, with Hardcore Gaming 101 and PC Gamer both noting that a third game was planned but never made.[^ref-27][^ref-28] Manhunter 2: San Francisco closes with Phil Cook escaping in an Orb ship with the player hanging on to the outside, flying off towards London.[^ref-10] The Manhunter Wiki describes the third game as taking place in London, with the Manhunter tracking down Phil Cook and driving the Orbs away from Earth.[^ref-1] The shrine adds that, as the "third and deciding game" in the trilogy, it is "likely safe to assume" the Orbs would have been driven not only from London but from Earth as well.[^ref-2]
 
 A 2008 forum post, discussed under Revival Attempts below, claimed that a revived London game would have the player control a new Manhunter for the first half and the original protagonist for the second.[^ref-3] That claim concerns a possible later revival, not the original Sierra-era project, and was never confirmed.[^ref-3]
 
@@ -61,23 +61,6 @@ Because the game never entered production, its structure is unknown.[^ref-2] In 
 
 The previous Manhunter games combined tracking sequences using the MAD device, first-person investigation of locations, and arcade-style challenges.[^ref-8][^ref-9] Manhunter 2 kept the arcade challenges but added difficulty modes, and its investigations still centred on gruesome murders whose clues could seem arbitrary.[^ref-6] Players had to follow suspects through their daily movements, identify key locations, and gather evidence to progress the story.[^ref-5][^ref-8]
 
-## Reception
-
-### Contemporary Reviews
-
-As Manhunter 3: London was never released, no contemporary reviews exist for the title itself. However, the context for its anticipated reception can be understood through the success of its predecessors.
-
-According to the Larry Laffer Dot Net shrine, Manhunter: New York was released in 1988 to overwhelmingly positive reviews and was voted "Adventure Game of the Year" by several computer gaming magazines.[^ref-2] The developers reported that each Manhunter game sold more than 100,000 copies.[^ref-16] Manhunter 2: San Francisco followed in 1989 with sales roughly equaling those of the first game, and the shrine considers it the better game of the two.[^ref-2]
-
-### Modern Assessment
-
-The question of why no third game appeared has been raised by fans in forums such as a 2003 Sierra Gamers thread asking "Why was there never a third game?"[^ref-4] The Manhunter series as a whole is remembered for its gritty, sometimes gory visuals, unique interface, and use of real-life locations that set it apart from Sierra's other, more family-oriented titles.[^ref-5][^ref-19]
-
-The shrine credits the series with bizarre camera angles, picture-in-a-picture views, long pans, extreme close-ups, overhead shots, and faux 3-D sequences.[^ref-2] Modern reviews are mixed: Just Games Retro's review of Manhunter 2 criticises its repetitive structure and still-painful arcade sequences.[^ref-6] Adventure Classic Gaming's review of Manhunter 2 rated it 3 out of 5 and said of the arcade sequences that they "have made a comeback and are worse than ever."[^ref-26]
-
-**Aggregate Scores:**
-- Not applicable (game was never released)
-
 ## Development
 
 ### Origins
@@ -90,7 +73,7 @@ While the Murrys were working on The Ancient Art of War at Sea, Sierra offered t
 
 No production of Manhunter 3: London is documented. The Larry Laffer Dot Net shrine states that "the association between Evryware and Sierra ended in 1989 and the two companies never partnered up again," and that no deal was ever struck to move the third game into production.[^ref-2] The next Evryware project discussed in a 1997 interview, after the two Manhunter games, was The Ancient Art of War in the Skies, begun "to complete our war trilogy"; it was published by MicroProse in 1992.[^ref-16][^ref-20][^ref-21] Evryware's own chronology lists no third Manhunter game between Manhunter: San Francisco (1989) and that 1992 title.[^ref-21]
 
-Sierra co-founder Ken Williams offered a different recollection in a 2003 Sierra Gamers forum post, opening with "I hope I am remembering this right." He wrote that he had the Murrys "planned for Manhunter 3," but encouraged them to pursue their idea for Ancient Art of War, which Brøderbund then convinced them to publish; under his rule of never being the "high bidder," they never returned to Sierra.[^ref-4] Williams's account does not match the published chronology: The Ancient Art of War was released by Brøderbund in 1984, four years before Manhunter: New York, as another poster in the same thread pointed out.[^ref-4][^ref-18][^ref-19] In the same post Williams recalled that Brøderbund recalled the first Ancient Art of War box because the writing on its pictured vase turned out to be x-rated; this anecdote rests only on his recollection.[^ref-4]
+A 2003 Sierra Gamers forum post signed "Ken W" and attributed to Sierra co-founder Ken Williams offered a different recollection, opening with "I hope I am remembering this right." The post says it had the Murrys "planned for Manhunter 3," but encouraged them to pursue their idea for Ancient Art of War, which Brøderbund then convinced them to publish; under his rule of never being the "high bidder," they never returned to Sierra.[^ref-4] The post's account does not match the published chronology: The Ancient Art of War was released by Brøderbund in 1984, four years before Manhunter: New York, as another poster in the same thread pointed out.[^ref-4][^ref-18][^ref-19] The same post recalled that Brøderbund recalled the first Ancient Art of War box because the writing on its pictured vase turned out to be x-rated; this anecdote rests only on the writer's recollection.[^ref-4]
 
 **Development Credits:**[^ref-1]
 - **Designers:** Barry Murry, Dave Murry, Dee Dee Murry
@@ -134,6 +117,8 @@ In a November 2000 thread on the Usenet group comp.sys.ibm.pc.games.adventure, t
 
 In August 2008, a first-time poster on the AGD Interactive forums claimed to have emailed "the one Murray, Mike," who said the developers were working on a Manhunter London game and trying to polish a demo to pitch to a publisher.[^ref-3] The same post said the game would not necessarily be called "London" because, after 20 years, the developers wanted to bring in new players, and claimed the shrine's operator had been in contact with them about it.[^ref-3] The claim is second-hand and unverified, and the thread's final reply stated: "Nothing has been confirmed."[^ref-3]
 
+Also in August 2008, in the Sierra Gamers thread cited above, a poster who signed as Mike Murry wrote that Evryware "seriously pursued Manhunter 3 about 10 years ago, but Sierra was going through 'changes' (post Ken era) and they were not interested. Nor would they release the rights to the series." The same post said that, since April 2008, the writer's side had been developing a prototype "featuring Day One, of Manhunter: New York," described as a proof of concept rather than a full game.[^ref-4] The poster's identity is self-declared and not independently confirmed, and the outcome of the prototype is unknown. The account of a pursuit blocked over the rights is of the same kind as the 2000 Usenet claim, though the dates are not identical (about 1998 by his count; "earlier this year" in the 2000 post), and the prototype he describes is built around Manhunter: New York, not the London game described by the AGD Interactive poster.[^ref-4][^ref-25][^ref-3]
+
 No further announcements followed. The rights to Manhunter are held by Activision, and there are no plans for resumption.[^ref-7][^ref-10]
 
 ### Easter Eggs and Trivia
@@ -142,6 +127,18 @@ The most famous Easter egg related to Manhunter 3: London appears in Manhunter 2
 - **London Poster:** Looking at the side of the tram at Cable Car Barn reveals posters advertising both "Manhunter: New York" and "Manhunter 3: London", a preview of the sequel that was never to be.[^ref-1]
 
 ## Legacy
+
+### Contemporary Reviews
+
+As Manhunter 3: London was never released, no contemporary reviews exist for the title itself. However, the context for its anticipated reception can be understood through the success of its predecessors.
+
+According to the Larry Laffer Dot Net shrine, Manhunter: New York was released in 1988 to overwhelmingly positive reviews and was voted "Adventure Game of the Year" by several computer gaming magazines.[^ref-2] The developers reported that each Manhunter game sold more than 100,000 copies.[^ref-16] Manhunter 2: San Francisco followed in 1989 with sales roughly equaling those of the first game, and the shrine considers it the better game of the two.[^ref-2]
+
+### Modern Assessment
+
+The question of why no third game appeared has been raised by fans in forums such as a 2003 Sierra Gamers thread asking "Why was there never a third game?"[^ref-4] The Manhunter series as a whole is remembered for its gritty, sometimes gory visuals, unique interface, and use of real-life locations that set it apart from Sierra's other, more family-oriented titles.[^ref-5][^ref-19]
+
+The shrine credits the series with bizarre camera angles, picture-in-a-picture views, long pans, extreme close-ups, overhead shots, and faux 3-D sequences.[^ref-2] Modern reviews are mixed: Just Games Retro's review of Manhunter 2 criticises its repetitive structure and still-painful arcade sequences.[^ref-6] Adventure Classic Gaming's review of Manhunter 2 rated it 3 out of 5 and said of the arcade sequences that they "have made a comeback and are worse than ever."[^ref-26]
 
 ### Sales and Commercial Impact
 
@@ -160,7 +157,7 @@ The series was meant to be a trilogy with the third game set in London, but only
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- No GOG or Steam listing for the Manhunter games as of November 2026 (checked November 12, 2026)
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
@@ -182,13 +179,14 @@ The series was meant to be a trilogy with the third game set in London, but only
 
 - [[1988 - Manhunter - New York]]
 - [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]]
+- [[Manhunter Series]]
 
 ## References
 
 [^ref-1]: [Manhunter Wiki – Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) – cancelled game information, designers, Easter egg details, London/Phil Cook/Orbs premise
 [^ref-2]: [Larry Laffer Dot Net – Manhunter History](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-history) – development history, Murry biographies, sales, "the plot is completely unknown", association ended 1989
 [^ref-3]: [AGD Interactive Forums – Manhunter 3: London coming soon](http://www.agdinteractive.com/forum/viewtopic.php?t=12634) – unverified 2008 forum claim of a revival demo; final reply "Nothing has been confirmed"
-[^ref-4]: [Sierra Gamers Forums – Why was there never a third game? (archived)](https://web.archive.org/web/20240523164946/https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – 2003 thread; Ken Williams's recollection and a reply noting the 1984 date of Ancient Art of War
+[^ref-4]: [Sierra Gamers Forums – Why was there never a third game? (archived)](https://web.archive.org/web/20240523164946/https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – 2003-2008 thread; post signed "Ken W" (attributed to Ken Williams), a reply noting the 1984 date of Ancient Art of War, and an August 2008 post signed Mike Murry
 [^ref-5]: [ClassicReload – Manhunter: New York](https://classicreload.com/manhunter-new-york.html) – gameplay description, interface details, trilogy plan, "foreshadowed later games like Myst"
 [^ref-6]: [Just Games Retro – Manhunter 2: San Francisco](https://www.justgamesretro.com/dos/manhunter-2-san-francisco) – review: arcade challenges, MAD tracking, investigations
 [^ref-7]: [Sierra Wiki – Manhunter](https://sierra.fandom.com/wiki/Manhunter) – series overview, trilogy plan, current IP ownership
@@ -206,3 +204,5 @@ The series was meant to be a trilogy with the third game set in London, but only
 [^ref-24]: [Retro365 – The Manhunter series, two Sierra adventure game deviants](https://retro365.blog/2021/01/09/bits-from-my-personal-collection-the-manhunter-series-two-sierra-adventure-game-deviants/) – third installment "never materialized"; Sierra approach in late 1987; company established 1980; techniques became standard
 [^ref-25]: [Usenet comp.sys.ibm.pc.games.adventure – manhunter series - what ever happened](https://groups.google.com/g/comp.sys.ibm.pc.games.adventure/c/gmFHdSYTXog) – 24 Nov 2000 thread; unverified claim that Manhunter 3 "looked like it was a go"; "Manhunter 3: London" as the original plan
 [^ref-26]: [Adventure Classic Gaming – Manhunter 2: San Francisco review](https://www.adventureclassicgaming.com/index.php/site/reviews/183/) – Jeremiah Kauffman review; 3 of 5; arcade sequences "worse than ever"
+[^ref-27]: [Hardcore Gaming 101 – Manhunter 2: San Francisco (archived)](https://web.archive.org/web/20260430210813/https://www.hardcoregaming101.net/manhunter-2-san-francisco/) – posters imply a trilogy, teasing "Manhunter: London"; "For whatever reasons, this never happened"
+[^ref-28]: [PC Gamer – Saturday Crapshoot: Manhunter: New York](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york/) – Richard Cobbett: "There were plans for a third adventure, Manhunter: London, but the series ended there"
