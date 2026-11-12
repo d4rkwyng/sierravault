@@ -179,7 +179,7 @@ A "Classic's Reillustrated" (SCI EGA) version for the Atari ST was announced in 
 
 ### Easter Eggs and Trivia
 
-- **Box Art Cameo:** The picture of Mother Goose on the original game box is [[Roberta Williams]] herself in costume. MobyGames' trivia says the two children beside her are her own; a 2016 version of the Wikipedia article said, without a citation, that they are not; Sierra's 1987 newsletter calls them "a couple of Sierra children."[^ref-2][^ref-35][^ref-40]
+- **Box Art Cameo:** The picture of Mother Goose on the original game box is [[Roberta Williams]] herself in costume. Sierra's 1987 newsletter describes the children beside her as "a couple of Sierra children."[^ref-2][^ref-40]
 - **Space Quest V Reference:** The game is humorously referenced in Space Quest V: when Roger is squashed in the Goliath's elevator shaft, the death message refers to Mixed Up Mother Goose.[^ref-37]
 - **Dunce Cap:** After the player returns Mary's lamb, following Mary into the schoolhouse shows one of her classmates sitting in the corner wearing a dunce cap.[^ref-10]
 - **Debug Mode Mystery:** Mixed-Up Mother Goose's debug functionality remains unverified despite debug words being present in its words.tok file.[^ref-21]
@@ -288,7 +288,6 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-30]: [Sierra Fandom Wiki – Mixed-Up Mother Goose](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – gameplay, 18 rhymes, version history
 [^ref-33]: [Compute! – "Mother Goose" (Donald B. Trivette), April 1988, p. 59](https://archive.org/details/1988-04-compute-magazine) – contemporary review: ages 4+, no reading needed, cursor keys or joystick, poster, system requirements, copy protection, price
 [^ref-34]: [Computer Gaming World #83 – "Celebrating Software", June 1991](https://archive.org/details/Computer_Gaming_World_Issue_83) – SPA award for "the multimedia version of Mixed-Up Mother Goose"
-[^ref-35]: [Wikipedia – Mixed-Up Mother Goose (Wayback 2016-12-31)](https://web.archive.org/web/20161231053607/https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – uncited trivia: "Roberta Williams herself, with two children (not hers) reading a book of nursery rhymes" (no longer in the current article)
 [^ref-36]: [Wikipedia – The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game)) – AGI game for which "the text parser was removed in favor of the function keys"
 [^ref-37]: [SpaceQuest.net – SQ5 Spoofs and References](https://spacequest.net/sq5/spoofref/) – Goliath elevator-shaft death message "displays a reference to 'Mixed Up Mother Goose', a Sierra game"
 [^ref-38]: [MobyGames – Mixed-Up Mother Goose credits, DOS (entry 1085)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/credits/dos/) – "Producer (Floppy Disk) Stuart Moulder"; "Producer (CD-ROM) Josh Mandel"
