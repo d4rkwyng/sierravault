@@ -10,15 +10,15 @@ series: 3-D Ultra
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 3-D Ultra Cool Pool is a billiards simulation game developed by Dynamix
   and published by Sierra Attractions in 1999.
 tags: [1990s, 3-d-ultra, sierra]
-last_modified: 2026-11-11T12:00:00-06:00
+last_modified: 2026-11-12T12:00:00-06:00
 ---
 # 3-D Ultra Cool Pool
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Contemporary reviewers credited its physics: *Computer Games Strategy Plus* wrot
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-24][^ref-22] (Sierra Chest credits [[Jeff Tunnell Productions]][^ref-2])
-> **Publisher:** Sierra Attractions[^ref-3]
+> **Publisher:** Sierra Attractions[^ref-3] (MobyGames: Sierra On-Line, Inc.[^ref-24])
 > **Engine:** Unknown[^ref-23]
 > **Platforms:** Windows 95/98[^ref-20][^ref-18]
 > **Release Year:** 1999
@@ -49,7 +49,7 @@ The game's premise centers on providing both authentic billiards experiences and
 
 ### Interface and Controls
 
-3-D Ultra Cool Pool features a super-easy interface designed for accessibility[^ref-9]. The tables are pre-rendered rather than built from real-time 3D polygons[^ref-11]; *Computer Games Strategy Plus* found them "well-detailed from the felt to the ornately carved bumpers"[^ref-18], and a reseller's description calls them "photorealistic wooden tables"[^ref-8]. Players can adjust their viewing angle and aim shots using keyboard and mouse controls, with the game requiring SVGA 800×600 resolution and Direct3D support, per the Internet Archive uploader's specifications[^ref-6]. Shots are set up by moving the cue over the table and struck by pulling back a separate cue on the right side of the screen, with an icon for placing spin on the cue ball[^ref-18][^ref-20].
+3-D Ultra Cool Pool features a super-easy interface designed for accessibility[^ref-9]. The tables are pre-rendered rather than built from real-time 3D polygons[^ref-11]; *Computer Games Strategy Plus* found them "well-detailed from the felt to the ornately carved bumpers"[^ref-18], and a reseller's description calls them "photorealistic wooden tables"[^ref-8]. Players can adjust their viewing angle and aim shots using keyboard and mouse controls, with the game requiring SVGA 800×600 resolution and Direct3D support, per the Internet Archive uploader's specifications[^ref-6]. Sierra Chest says the game can be played with the mouse only, including precision controls to set the exact angle and cue ball control to use spin or even jump the cue ball[^ref-25]. Shots are set up by moving the cue over the table and struck by pulling back a separate cue on the right side of the screen, with an icon for placing spin on the cue ball[^ref-18][^ref-20].
 
 A notable feature is the inclusion of a top-down mode similar to the look and feel of Yahoo Pool, providing players with familiar perspective options[^ref-12]. The game supports 1-4 players and can be played turn-based on the same PC for local multiplayer[^ref-5][^ref-9]. MobyGames' description lists three difficulty levels and differently shaped tables (triangular, circular and T-shaped), and says multiplayer is by hot seat or online play with up to four players in doubles[^ref-24]. Metacritic lists an ESRB rating of E (Everyone)[^ref-26].
 
@@ -167,7 +167,7 @@ When running through DOSBox emulation (Daum build running Windows 95), users mus
 
 ### Sales and Commercial Impact
 
-According to PriceCharting data, 3-D Ultra Cool Pool has maintained modest collector interest with approximately 6 loose copies sold on eBay between 2021-2024, representing roughly 1 sale per year[^ref-5]. Retro retailer 1-Up has listed a used complete-in-box copy at £5.00, shown as sold out as of 11 November 2026[^ref-15].
+According to PriceCharting data, 3-D Ultra Cool Pool has maintained modest collector interest with approximately 6 loose copies sold on eBay between 2021-2024, representing roughly 1 sale per year[^ref-5]. Retro retailer 1-Up has listed a used complete-in-box copy at £5.00 as of November 2026[^ref-15].
 
 ### Collections
 
@@ -175,6 +175,8 @@ The Eight Ball demo was included as bonus content with several Sierra products[^
 - **3-D Ultra Pinball 5: Thrillride** – PC CD-ROM, US, version 1.0, fliptop box with flap
 - **Hoyle Solitaire & Mahjong Tiles 2 (2000)** – PC/Mac CD-ROM, US, flip-top box
 - **Incredible Machine: Contraptions (Return of the)** – PC CD-ROM, US, flip-top box with flap
+
+The game was also bundled with its successor in a later Internet Archive record titled "3D Ultra Maximum Cueball + Ultra Cool Pool" (2000), listing a Maximum Cueball disc image and a Cool Pool disc image[^ref-27].
 
 ### Fan Projects
 
@@ -239,7 +241,7 @@ Reviewers consistently placed Cool Pool on the casual side of the billiards genr
 [^ref-12]: [My Abandonware – 3D Ultra Cool Pool](https://www.myabandonware.com/game/3-d-ultra-cool-pool-hur) – user ratings, user review, version information, file sizes
 [^ref-13]: [GameSpot – 3D Ultra Cool Pool User Reviews (Wayback, 2014)](https://web.archive.org/web/20140321013715/http://www.gamespot.com:80/3d-ultra-cool-pool/user-reviews/2200-37820/) – DemonKyoto review (10 April 2005, 7/10), user quotes; live page no longer shows review text
 [^ref-14]: [Old-Games.RU Downloads](https://www.old-games.ru/game/download/8288.html) – patch version information
-[^ref-15]: [1UP Retrogaming](https://www.1upretrogaming.com/products/3d-ultra-cool-pool-pc-games) – used complete-in-box listing, £5.00, marked "Sold out" (checked 2026-11-11)
+[^ref-15]: [1UP Retrogaming](https://www.1upretrogaming.com/products/3d-ultra-cool-pool-pc-games) – used complete-in-box listing, £5.00 (checked 2026-11-12)
 [^ref-16]: [MobyGames – 3-D Ultra Cool Pool Reviews](https://www.mobygames.com/game/38902/3-d-ultra-cool-pool/reviews/) – critic average 62% from 8 ratings; per-outlet scores
 [^ref-18]: [Computer Games Strategy Plus – 3-D Ultra Cool Pool Review (Wayback)](https://web.archive.org/web/20050406122955/http://www.cdmag.com/articles/024/170/ultracpool_review.html) – Brett Todd, posted 12/08/1999, 2.5 of 5; requirements and multiplayer options
 [^ref-19]: [Absolute Games – Обзор игры 3-D Ultra Cool Pool (Wayback)](https://web.archive.org/web/20180316050114/http://www.ag.ru/games/3-d-ultra-cool-pool/review) – Andrey Martynov, 07.10.1999, AG score 70%; release date 11 September 1999
@@ -250,3 +252,4 @@ Reviewers consistently placed Cool Pool on the casual side of the billiards genr
 [^ref-24]: [MobyGames – 3-D Ultra Cool Pool](https://www.mobygames.com/game/38902/3-d-ultra-cool-pool/) – Windows 1999 release: "Developed by Dynamix, Inc.", "Published by Sierra On-Line, Inc."; no individual credits (read via the MobyGames API, 27 October 2026)
 [^ref-25]: [Sierra Chest – 3-D Ultra Cool Pool](https://sierrachest.com/index.php?a=games&id=112&title=cool-pool) – game page: series "designed by Jeff Tunnell Productions, part of Dynamix"
 [^ref-26]: [Metacritic – 3D Ultra Cool Pool](https://www.metacritic.com/game/3d-ultra-cool-pool/) – Initial Release Date Sep 20, 1999; "Rated E for Everyone" (checked 2026-11-11)
+[^ref-27]: [Internet Archive – 3D Ultra Maximum Cueball + Ultra Cool Pool](https://archive.org/details/3-d-ultra-maximum-cueball) – 2000 record of the bundle; lists "3D Ultra Maximum Cueball.iso" and "CoolPool.iso"; Sierra On-Line / Dynamix (cited as a record, not a download link)
