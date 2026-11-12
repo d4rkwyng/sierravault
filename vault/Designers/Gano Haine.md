@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["EcoQuest: The Search for Cetus", "EcoQuest: Lost Secret of the Rainforest", "Pepper's Adventures in Time"]
 companies: ["Sierra On-Line", "Electronic Arts", "The ImagiNation Network", "Stunt Puppy Entertainment", "LimeLife"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Gano Haine
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,7 @@ After Sierra she held design and producer positions at Electronic Arts and The I
 
 Haine holds a Bachelor of Arts from Duke University (magna cum laude, Phi Beta Kappa) and a master's degree in Theatre and Drama from the University of Wisconsin, where she directed the Children's Theater Workshop. She completed doctoral studies at Northwestern University's School of Speech, but did not finish the doctorate: Polygon describes her as having "most of a Ph.D. in performance art from Northwestern University."[^ref-9][^ref-12]
 
-She was a junior-high teacher of fifteen years' standing, and in the late 1980s "a prominent voice in the Gamers Forum on CompuServe," where she wrote about the good and bad of each game she played.[^ref-1] She was one of CompuServe's original adventure-game sysops.[^ref-9] Sierra's own InterAction magazine later named her among the people the company found through CompuServe's GAMERS Forum, alongside customer-service staffer Rob Koeppel.[^ref-24] Of her adventure-game habit, she said: "I don't think it's something you do to yourself on purpose. I soon realized that I needed to find a way to make it a profession or I'd starve."[^ref-1] She took part, as "Eeyore," in the CompuServe conference on adventure-game design of August 1990.[^ref-16]
+She was a junior-high teacher of fifteen years' standing, and in the late 1980s "a prominent voice in the Gamers Forum on CompuServe," where she wrote about the good and bad of each game she played.[^ref-1] She was one of CompuServe's original adventure-game sysops.[^ref-9] Sierra's own InterAction magazine later named her among the people the company found through CompuServe's GAMERS Forum, alongside customer-service staffer Rob Koeppel.[^ref-24] Of her adventure-game habit, she said: "I don't think it's something you do to yourself on purpose. I soon realized that I needed to find a way to make it a profession or I'd starve."[^ref-1] Under the handle "Eeyore" she submitted questions to the CompuServe conference on adventure-game design of August 1990: Maher thanks "Eeyore" among those who sent questions, and Corey Cole's comment on the article identifies Eeyore as Haine.[^ref-16]
 
 ### Sierra Years (1991–1993)
 
@@ -41,7 +41,7 @@ While she was working on Lost Secret of the Rainforest, Ken Williams brought a v
 
 After the Sierra layoffs Haine became a producer at Electronic Arts, as [[Corey Cole]] recalled in 2018, and also held a producer position at The ImagiNation Network, where she was one of the producers of the online dungeon game [[1995 - The Ruins of Cawdor|The Ruins of Cawdor]] (1995).[^ref-16][^ref-9] She then co-founded Stunt Puppy Entertainment, a developer of children's CD-ROM games, and served as its President and CEO; the company worked with licensors including Mattel, Disney/Buena Vista Games, Atari/Infogrames and LeapFrog.[^ref-9] Her MobyGames credits from this period include Barbie as Sleeping Beauty (1999) and Barbie Generation Girl Gotta Groove (2000), both also credited for Script & Dialogue, \*NSYNC: Get to the Show (2001), several Dora the Explorer games (2002–2003) and Thomas & Friends: Thomas Saves the Day (2003).[^ref-9][^ref-4] IMDb separately lists her as designer of Thomas & Friends: Building the New Line (2002).[^ref-2]
 
-She was next a co-founder and Vice President of Product Development at LimeLife, a mobile publisher aimed at women and girls, and later principal of The ONAG Group, a consultancy for new-media start-ups.[^ref-9] She has served on the steering committee of Women in Games International (WIGI).[^ref-9] Speaking at a WIGI event in 2006 as LimeLife's vice president of product development, she raised gender-specific marketing in retail: "In Toys 'R' Us, you walk down the girl aisle and you walk down the boy aisle. At Best Buy, there is no girl aisle."[^ref-13]
+She was next a co-founder and Vice President of Product Development at LimeLife, a mobile publisher aimed at women and girls, and later principal of The ONAG Group, a consultancy for new-media start-ups.[^ref-9] Her own MobyGames biography says that under her leadership Stunt Puppy "had four Number 1 ranking titles," and that at LimeLife she was "instrumental in achieving partnerships with media entities such as Time-Warner, Hallmark, NBC Universal, Bravo TV New Media, and Play First."[^ref-9] She has served on the steering committee of Women in Games International (WIGI).[^ref-9] Speaking at a WIGI event in 2006 as LimeLife's vice president of product development, she raised gender-specific marketing in retail: "In Toys 'R' Us, you walk down the girl aisle and you walk down the boy aisle. At Best Buy, there is no girl aisle."[^ref-13]
 
 ## Notable Works
 
@@ -61,9 +61,9 @@ The game sends Adam into the rainforest near Iquitos, Peru, to help a fictional 
 
 ## Design Philosophy
 
-Haine describes herself as a storyteller first: speaking of the sequel's Ecorder, she said, "But I'm a storyteller, so of course that's the part I liked the best."[^ref-12] She links her approach to archetypes studied in education, saying such figures "are cross-cultural quite often."[^ref-12] On the science in EcoQuest, she said she and her team tried to resolve the tension between "bizarre imagination and scientific verifiability" wherever they could.[^ref-12]
+Haine describes EcoQuest as a game that teaches through play rather than lecture: "If you play the game, and you solve the puzzles, you'll find that you've acquired quite a lot of knowledge about environmental techniques and issues. It's the kind of experience where you'll feel as if you're Adam, really living the adventures. You won't feel like you're hearing a lecture or taking a class."[^ref-23] She framed the first game as "a story of empowerment": "King Cetus used to solve all of the undersea characters' problems for them. Now, for the first time, they have to think for themselves." The designers were, she said, "very careful not to imply any final solutions to the whole problem of pollution"; the player is empowered "to take care of one situation at a time, to do your part."[^ref-23]
 
-Her taste as a player is on record in Sierra's InterAction magazine. In a 1992 column on King's Quest III, she likened an ideal adventure game to the "crepe paper surprise balls we used to buy as kids," unwrapped slowly as the player explores and solves puzzles.[^ref-23] She also said that helper characters "are some of the most interesting elements in Sierra games," and recalled wishing Delphineus the Dolphin could help Adam more in EcoQuest: creating "an alternate game ego that was an animal seemed like the next logical step," which led to Lockjaw in Pepper's Adventures in Time.[^ref-24] In the sequel she deliberately simplified the writing after complaints that the first game's text was too advanced for some children.[^ref-1]
+Her taste as a player is also on record in Sierra's InterAction magazine. In a 1992 column on King's Quest III, she likened an ideal adventure game to the "crepe paper surprise balls we used to buy as kids," unwrapped slowly as the player explores and solves puzzles.[^ref-23] She also said that helper characters "are some of the most interesting elements in Sierra games," and recalled wishing Delphineus the Dolphin could help Adam more in EcoQuest: creating "an alternate game ego that was an animal seemed like the next logical step." That thinking shaped her work on Davis's dog character Lockjaw once his proposal reached her for development in Pepper's Adventures in Time.[^ref-24]
 
 ## Legacy
 
