@@ -7,10 +7,10 @@ publisher: Sierra FX
 genre: Real-Time Tactics
 platforms: [Windows]
 series: Police Quest / SWAT
-engine: Proprietary (Windows)
+engine: null
 protagonist: SWAT Commander / Dante (Terrorist Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Police Quest: SWAT 2 is a real-time tactics game from 1998, developed
   by Yosemite Entertainment and published by Sierra FX. Where its predecessor was
   an interactive movie, it puts players in command of an LAPD SWAT team or a domestic
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, sierra]
 ---
 # Police Quest: SWAT 2
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,10 +30,9 @@ The game distinguished itself by offering dual campaigns—players could take co
 Created with the assistance of former Los Angeles Police Chief [[Daryl Gates|Daryl F. Gates]]—billed by Sierra's InterAction magazine as "the creator of the original SWAT team in the 1960's"—the game emphasized authentic police procedures and realistic tactical situations.[^ref-6][^ref-30] Many missions were based on actual LAPD cases, including scenarios inspired by the North Hollywood shootout of February 1997 and events paralleling the 1992 Los Angeles riots.[^ref-1] The game shipped with a 206-page manual containing an extensive database on SWAT tactics and procedures.[^ref-3]
 
 > [!info]- Game Info
-> **Developer:** Yosemite Entertainment[^ref-1]
+> **Developer:** [[Yosemite Entertainment]][^ref-1]
 > **Designer:** Susan Frischer[^ref-1][^ref-21]
 > **Publisher:** Sierra FX[^ref-1]
-> **Engine:** Proprietary
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 1998
 > **Series:** Police Quest / SWAT
@@ -104,7 +103,7 @@ Giant Bomb's wiki notes that "the game was overall better received than Police Q
 
 **Aggregate Scores:**
 - **GameRankings:** 70%[^ref-1]
-- **MobyGames:** 69% (26 critic ratings)[^ref-9]
+- **MobyGames:** 69% (27 critic ratings, as of November 2026)[^ref-9]
 - **IMDb:** 6.7/10 (38 ratings, November 2025 snapshot)[^ref-7]
 - **Metacritic:** 6.8/10 user score (6 ratings)[^ref-16]
 - **Steam:** 78% positive (113 reviews)[^ref-5]
@@ -266,9 +265,15 @@ By late 1999, the game had surpassed 400,000 copies sold.[^ref-1][^ref-13] In a 
 ### Collections
 
 The game has been bundled in several compilation releases:
-- **Police Quest: SWAT 1+2** – Digital bundle on GOG.com[^ref-4]
-- **SWAT Career Pack** – Compilation release[^ref-18]
+- **Police Quest: SWAT 1+2** – Digital bundle on GOG.com;[^ref-4] MobyGames also lists a Police Quest: SWAT 1+2 compilation dated 1999[^ref-9]
+- **Gold Games 4** (1999)[^ref-9]
+- **SWAT Career Pack** (2000) – Compilation release[^ref-9][^ref-18]
+- **Best of Sierra Nr. 18** (2000)[^ref-9]
+- **Game-Hits 2** (2001)[^ref-9]
+- **SWAT: Sondereinsatzkommando** (2001)[^ref-9]
 - **Police Quest: SWAT Generation** – Sierra Entertainment compilation; GameFAQs dates it 2004,[^ref-25] while MobyGames lists 2003[^ref-9]
+- **Gamers Pack** (2004)[^ref-9]
+- **Classic Activision Bundle** (2017)[^ref-9]
 
 ### Fan Projects
 
@@ -322,7 +327,7 @@ The game's transition from the Police Quest adventure format to real-time tactic
 [^ref-6]: [Internet Archive – AllGame Review](https://web.archive.org/web/20141116181925/http://www.allgame.com/game.php?id=13475&tab=review) – Peter Suciu review, Gates involvement, realism claims, mission settings
 [^ref-7]: [IMDb – Police Quest: SWAT 2 (Wayback snapshot, November 1, 2025)](https://web.archive.org/web/20251101104156/https://www.imdb.com/title/tt1855309/) – voice cast, plot summary, user rating
 [^ref-8]: [CheatCC – Strategy Guide (Wayback Machine, April 2008)](https://web.archive.org/web/20080423091554/http://www.cheatcc.com/pc/sg/police_quest_swat_2.html) – AI description, mission structure, evidence and final briefing
-[^ref-9]: [MobyGames – Police Quest: SWAT 2](https://www.mobygames.com/game/153/police-quest-swat-2/) – critic average (69%, 26 ratings), technical specs, player reviews, trivia
+[^ref-9]: [MobyGames – Police Quest: SWAT 2](https://www.mobygames.com/game/153/police-quest-swat-2/) – critic average (69%, 27 ratings, November 2026), "Included in" compilation list, technical specs, player reviews, trivia
 [^ref-10]: [IGN – SWAT 2 Review](https://www.ign.com/articles/1998/08/12/swat-2) – Jason Bates review, score, gameplay critique
 [^ref-11]: [GameSpot – Police Quest: SWAT 2 Review](https://www.gamespot.com/reviews/police-quest-swat-2-review/1900-2533216/) – Scott Krol review, score, gameplay criticism
 [^ref-12]: [Internet Archive – PC Gamer Review](https://web.archive.org/web/20000311204758/http://www.pcgamer.com/reviews/64.html) – Stephen Poole review (November 1998), 52%, system requirements, multiplayer specs, $50,000 budget exploit
