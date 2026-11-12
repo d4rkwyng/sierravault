@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 1999 Edition engine
 protagonist: N/A (racing simulation)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: NASCAR Craftsman Truck Series Racing is a 1999 Windows racing simulation
   by Papyrus Design Group, published by Sierra, that sold the truck-racing portion of
   NASCAR Racing 1999 Edition as a standalone game.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Craftsman Truck Series Racing
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -75,7 +75,7 @@ The MobyGames player review notes that owners of NASCAR Racing 2 with the Grand 
 
 ### Contemporary Reviews
 
-MobyGames records a critic average of 85% from three ratings and a player average of 4.6 out of 5 from two ratings.[^ref-3] No full contemporary review text was found for this page.
+MobyGames records a critic average of 85% from three ratings and a player average of 4.6 out of 5 from two ratings.[^ref-3] Reviewing the parent game, NASCAR Racing 1999 Edition, in Gamecenter (January 14, 1999), Gordon Goble called it "essentially a reworked NASCAR 2" and "a stopgap", while listing "most realistic stock-car racing available" among its strengths.[^ref-30]
 
 The Daily Downforce writes that the parent game, NASCAR Racing 1999 Edition, "was not as well received by critics as its predecessors".[^ref-10]
 
@@ -134,7 +134,7 @@ Papyrus's NASCAR Racing 3, also released in 1999, won GameSpot's 1999 "Driving G
 - [[1994 - NASCAR Racing|NASCAR Racing]] (1994)
 - [[1996 - NASCAR Racing 2|NASCAR Racing 2]] (1996)
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion|NASCAR Racing 2: Grand National Series Expansion]] (1997)
-- NASCAR Racing 1999 Edition (1998)
+- NASCAR Racing 1999 Edition (announced September 1998 for an October release; MobyGames lists 1999)[^ref-4][^ref-31]
 - NASCAR Craftsman Truck Series Racing (1999)
 - [[1999 - NASCAR Racing 3|NASCAR Racing 3]] (1999)
 - [[1999 - NASCAR Legends|NASCAR Legends]] (1999)
@@ -149,12 +149,12 @@ Sears held the naming rights from 1995 through 2008. Camping World and Gander sp
 
 ### Preservation
 
-The game is not sold on GOG or Steam. It is preserved on the Internet Archive and MyAbandonware.[^ref-1][^ref-2]
+The game is not sold on GOG or Steam (checked November 2026). It is preserved on the Internet Archive and MyAbandonware.[^ref-1][^ref-2]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- Not sold on GOG or Steam (checked November 2026)
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-craftsman-truck-series-racing)
 
 **Download / Preservation**
@@ -164,6 +164,7 @@ The game is not sold on GOG or Steam. It is preserved on the Internet Archive an
 
 ## See Also
 
+- [[NASCAR Racing Series]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion|← Previous: NASCAR Racing 2: Grand National Series Expansion]]
 - [[1999 - NASCAR Racing 3|→ Next: NASCAR Racing 3]]
 
@@ -198,3 +199,5 @@ The game is not sold on GOG or Steam. It is preserved on the Internet Archive an
 [^ref-27]: [Papyrus Design Group - Products (archived site)](https://papyold.racesimcentral.net/products.html) - undated; "700hp truck", "standalone game based on the NASCAR Racing 1999 Edition", 1998 drivers Ron Hornaday Jr. and Jack Sprague, "eight of NASCAR's toughest tracks"
 [^ref-28]: [Sierra Sports - NASCAR Racing 1999 Features (Wayback, March 2000)](https://web.archive.org/web/20000307024426/http://www.sierrasports.com/sierrasports/nascar99/features.html) - feature list of the parent game, NASCAR Racing 1999 Edition: truck physics model, 34 tracks, paintshop
 [^ref-29]: [Race Sim Central - NASCAR 3 Truck Series Expansion Pack Available](https://racesimcentral.net/nascar-3-truck-series-expansion-pack-available/) - repost of the May 8, 2000 Sierra Studios/Papyrus press release: $19.95; 1999 truck season; six new tracks plus night Las Vegas and Texas
+[^ref-30]: [Gamecenter (CNET) - NASCAR Racing 1999 Edition review by Gordon Goble (Wayback, Aug 2000)](https://web.archive.org/web/20000816100312/http://www.gamecenter.com/Reviews/Item/0,6,0-2409,00.html) - 1/14/1999 review of the parent game: "essentially a reworked NASCAR 2"; "A stopgap, if you will"; Ups: "Most realistic stock-car racing available"
+[^ref-31]: [MobyGames - NASCAR Racing: 1999 Edition](https://www.mobygames.com/game/3223/nascar-racing-1999-edition/) - Windows, 1999 (read via the MobyGames API)
