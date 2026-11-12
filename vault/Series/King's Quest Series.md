@@ -7,12 +7,12 @@ first_release: 1984
 last_release: 2016
 total_games: 10
 genre: "Adventure"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # King's Quest Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -153,6 +153,7 @@ The series maintains an active fan community decades after the original games:
 - **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|KQ3 Remake (IA)]] — Developer: Infamous Adventures, Download: [IA](https://infamousadventures.itch.io/kings-quest-iii-vga-remake)
 - **2011** — [[2011 - King's Quest III Redux - To Heir is Human|KQ3 Redux]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq3/)
 - **2021** — [[2021 - King's Quest IV Retold|KQ4 Retold]] — Developer: DrSlash,[^ref-18] Download: [AGS](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/)
+- **2025** — [[2021 - King's Quest IV Retold|KQ4 Retold VGA Talkie]] — Developer: Magic Quest Entertainment,[^ref-26] Download: [AGS](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/)
 - **TBD** — [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake (IA)]] — Developer: Infamous Adventures — Unreleased; status unconfirmed
 
 ### Fan Sequels
@@ -181,6 +182,7 @@ The series maintains an active fan community decades after the original games:
 - [[2006 - King's Quest III Remake (Infamous Adventures)]]
 - [[2011 - King's Quest III Redux - To Heir is Human]]
 - [[2021 - King's Quest IV Retold]]
+- [[2021 - King's Quest IV Retold|King's Quest IV Retold VGA Talkie (2025)]][^ref-26]
 - [[TBD - King's Quest IV Remake (Infamous Adventures)]]
 - [[2010 - The Silver Lining]]
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
@@ -211,3 +213,4 @@ The series maintains an active fan community decades after the original games:
 [^ref-23]: [SCI Wiki - Sierra SCI Release List](https://sciwiki.sierrahelp.com/index.php/Sierra_SCI_Release_List) – lists the King's Quest I SCI remake (interpreter S.old.010, demo dated 1990/09/19) under "SCI0.1" (SCI01); ScummVM's own source (engines/sci/engine/features.cpp) also treats KQ1 as an SCI_VERSION_01 game
 [^ref-24]: [Phoenix Online Studios blog - The Silver Lining Haunted Castle Experience available now, and Episode 5 coming in 2017 (Katie Hallahan, November 10, 2016)](https://www.postudios.com/blog/the-silver-lining-haunted-castle-experience-available-now-and-episode-5-coming-in-2017/) – final episode "will be releasing in 2017"
 [^ref-25]: [Phoenix Online Studios blog - The Silver Lining updates (Katie Hallahan, January 31, 2019)](https://www.postudios.com/blog/the-silver-lining-updates/) – "No, this isn't a release date announcement. It's a progress report!"
+[^ref-26]: [Adventure Game Studio - King's Quest IV Retold VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – released 29 November 2025; developer Magic Quest Entertainment
