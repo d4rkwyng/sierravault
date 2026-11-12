@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Card Game
 platforms: [Windows, Mac]
 series: Hoyle Card Games
-engine: Proprietary (Windows)
+engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Fifth release of Sierra's Hoyle Card Games, shipped autumn 2001 as a hybrid
   PC/Mac CD that added Skat and Tarot and bundled Palm OS solitaire.
 tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2002
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -34,10 +34,9 @@ Sierra's October 2001 Hoyle listing described the game as "eighteen of your favo
 > **Designer:** No individual designer credit listed[^ref-1][^ref-7]
 > **Publisher:** Sierra On-Line, Sierra Attractions label (listed by ESRB as Sierra Entertainment)[^ref-21][^ref-22][^ref-6]
 > **Platforms:** Windows, Macintosh[^ref-1]
-> **Release Year:** 2001 (Amazon.com: 25 September 2001; "2002" is the edition name; GameFAQs and Metacritic list 7 September 2002)[^ref-22][^ref-4][^ref-7][^ref-16]
+> **Release Year:** 2001 (Amazon.com: 25 September 2001; The Sierra Chest: first release 2001-09-25; "2002" is the edition name; GameFAQs and Metacritic list 7 September 2002, and MobyGames dates both platforms 2002)[^ref-22][^ref-32][^ref-4][^ref-7][^ref-16][^ref-1]
 > **Series:** Hoyle Card Games
 > **Sierra Lineage:** Core Sierra
-> **Engine:** Proprietary (Windows)
 > **Protagonist:** N/A
 
 ## Games Included
@@ -141,11 +140,12 @@ A 2025 retrospective by the blogger Jefklak, written as personal opinion, found 
 | Date | Platform | Notes |
 |------|----------|-------|
 | August 2001 | PC/Mac | Amazon.com pre-order at $29.99: "This item will be released on September 25, 2001"[^ref-22] |
-| September 25, 2001 | PC/Mac | Amazon release date[^ref-22][^ref-4] |
+| September 25, 2001 | PC/Mac | Amazon release date; The Sierra Chest lists the same first release date for "Hoyle Card Games 5 (2001)"[^ref-22][^ref-4][^ref-32] |
 | September 30, 2001 | PC/Mac | Macworld reports the 2002 Hoyle line "has released"[^ref-3] |
 | September 7, 2002 | PC | Date listed by GameFAQs and Metacritic[^ref-7][^ref-16] |
+| 2002 | Windows, Macintosh | MobyGames dates both platforms 2002[^ref-1] |
 
-Note: Contemporary sources place the release in autumn 2001; "2002" is part of the product name. GameFAQs and Metacritic list September 7, 2002, which conflicts with both Amazon and Macworld. A further conflicting date comes from WorthPlaying's 15 April 2002 report on Sierra's Hoyle announcement, which lists Hoyle Card Games (16 games plus the "Hoyle International Game Section" with Skat and Tarot) for PC/Mac as "Available: May 31st 2002"; that date is reported here as WorthPlaying's and is not reconciled with the 2001 sources.[^ref-30]
+Note: Contemporary sources place the release in autumn 2001; "2002" is part of the product name. GameFAQs and Metacritic list September 7, 2002, and MobyGames dates both the Windows and Macintosh releases 2002; these conflict with Amazon, Macworld and The Sierra Chest, which give 25 September 2001.[^ref-32] A further conflicting date comes from WorthPlaying's 15 April 2002 report on Sierra's Hoyle announcement, which lists Hoyle Card Games (16 games plus the "Hoyle International Game Section" with Skat and Tarot) for PC/Mac as "Available: May 31st 2002"; that date is reported here as WorthPlaying's and is not reconciled with the 2001 sources.[^ref-30]
 
 ### Trivia
 
@@ -169,16 +169,20 @@ The wider Hoyle series also reached the Dreamcast.[^ref-13] A separate Game Boy 
 ## Downloads
 
 **Purchase / Digital Stores**
-- No current digital release of this edition is known (the Steam Hoyle collection is a different product)
+- No current digital release of this edition is known (checked November 2026; the Steam Hoyle collection is a different product)
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/hoyle-card-games-2002)
+
+**Manuals & Extras**
+- [The Sierra Help Pages](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) - patches and fixes[^ref-28]
 
 **Retail (Sealed/Used)**
 - [PriceCharting](https://www.pricecharting.com/game/pc-games/hoyle-card-games) - market pricing (generic "Hoyle Card Games" listing; edition not specified)
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[2001 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2002 - Hoyle Casino Empire|→ Next: Hoyle Casino Empire]]
 
@@ -261,3 +265,4 @@ The wider Hoyle series also reached the Dreamcast.[^ref-13] A separate Game Boy 
 [^ref-29]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – "On February 19, 2002, Sierra On-Line announced the name change to Sierra Entertainment, Inc."
 [^ref-30]: [WorthPlaying – Sierra Goes 'Hoyle' Crazy (15 Apr 2002)](https://worthplaying.com/article/2002/4/15/news/3235-sierra-goes-hoyle-crazy) – Sierra Hoyle announcement; Hoyle Card Games entry (16 games, "New for 2002" International Game Section) listed as "Available: May 31st 2002" for PC/Mac
 [^ref-31]: [Jefklak's Codex – Hoyle Card Games (2002 Edition) (22 Aug 2025)](https://jefklakscodex.com/games/pc/hoyle-card-games-2002/) – personal-blog retrospective (opinion only): nothing special, music, Internet play no longer works
+[^ref-32]: [The Sierra Chest – Hoyle Card Games 5 (2001) (Wayback, 30 Apr 2023)](https://web.archive.org/web/20230430175923/http://sierrachest.com/index.php?a=games&id=807&title=hoyle-card-games-5&fld=general) – database record: first release 2001-09-25, developer Sierra On-Line, platforms IBM PC and Macintosh
