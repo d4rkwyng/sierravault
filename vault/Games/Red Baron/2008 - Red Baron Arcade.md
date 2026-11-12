@@ -221,7 +221,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 
 [^ref-1]: [MobyGames – Red Baron: Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – developer, publisher, engine, platforms, release dates, official description
 [^ref-2]: [IGN – Red Baron Arcade Review (PC)](https://www.ign.com/articles/2008/07/25/red-baron-arcade-review-2) – PC review score 5.8, gameplay criticism, release date
-[^ref-3]: [Gas Bandit Gaming – "Review: Red Baron Arcade"](http://gasbandit.blogspot.com/2008/04/review-red-baron-arcade.html), 2 April 2008 – B+ grade, control modes, 23 missions, 8 unlockable planes, $19.99 pricing, joystick recommendation
+[^ref-3]: Gas Bandit Gaming (blog) – "Review: Red Baron Arcade", 2 April 2008 – B+ grade, control modes, 23 missions, 8 unlockable planes, $19.99 pricing, joystick recommendation
 [^ref-4]: [GameFAQs – Red Baron Arcade](https://gamefaqs.gamespot.com/ps3/952621-red-baron-arcade/data) – release dates, ESRB rating, multiplayer specs, official description
 [^ref-5]: [Internet Archive – Red Baron Arcade](https://archive.org/details/red-baron_202304) – disc image download; the item description is the uploader's pasted text
 [^ref-6]: [GamesRadar+ – Red Baron Arcade Review](https://www.gamesradar.com/red-baron-arcade-review/) – PS3 review (Aug 11, 2009); delay after Activision absorbed Sierra, technical issues, critical quotes
