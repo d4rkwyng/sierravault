@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Margaret Lowe]
 description: 'King''s Quest III: To Heir Is Human is the third installment in the
   landmark King''s Quest series of graphic adventure games, released for MS-DOS in
@@ -20,13 +20,13 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest III: To Heir Is Human
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 King's Quest III: To Heir Is Human is the third installment in the landmark King's Quest series of graphic adventure games, released for MS-DOS in November 1986, with versions for the Apple II, Amiga, Atari ST and other platforms following in 1987–88.[^ref-1][^ref-6] Designed by [[Roberta Williams]] and developed by Sierra On-Line, the game marked a significant departure from its predecessors by moving away from Daventry and King Graham to the land of Llewdor and a new protagonist.[^ref-14] The subtitle is a play on the saying "to err is human".[^ref-7]
 
-This installment represented a maturation of the series, moving beyond what Williams called "treasure hunts with lots of simple goals [...] and fun puzzles" to present a more complex, narrative-driven experience.[^ref-1] The PC release required DOS 2.11 or later and 256K of RAM,[^ref-26] and its PC releases supported CGA, Hercules and Tandy graphics, with later versions adding EGA and 3½-inch disk support.[^ref-1][^ref-26] Just Games Retro's reviewer saw it as "the first time Roberta and crew actually put a story together,"[^ref-4] and Williams herself later called it "very dark."[^ref-14]
+This installment represented a maturation of the series, moving beyond what Williams called "treasure hunts with lots of simple goals [...] and fun puzzles" to present a more complex, narrative-driven experience.[^ref-1] The PC release required DOS 2.11 or later and 256K of RAM,[^ref-26] and its PC releases supported CGA, Hercules and Tandy/PCjr graphics at launch; version 2.14 (1988) added MCGA support and 3½-inch disks,[^ref-26] and Wikipedia also notes EGA graphics support among the game's technical advances.[^ref-1] Just Games Retro's reviewer saw it as "the first time Roberta and crew actually put a story together,"[^ref-4] and Williams herself later called it "very dark."[^ref-14]
 
 The game sold 100,000 copies by the end of 1988[^ref-1] and was certified Platinum by the SPA (at least 250,000 audited units) by February 1993;[^ref-31] in Winter 1988 Sierra called it "the bestselling game in Sierra's nine year history."[^ref-30] Its launch drew some hostility from fans who felt it was not a proper King's Quest game because King Graham was not in it.[^ref-8]
 
@@ -66,9 +66,9 @@ The parser system was described as "stubborn" by reviewers, requiring precise ph
 
 The game is structured around a real-time clock mechanic that governs the wizard Manannan's schedule of departures and returns.[^ref-7] This creates distinct gameplay phases:
 
-- **Manannan's Mountain:** The opening area where Gwydion must complete chores while secretly gathering spell ingredients during the wizard's absences.
+- **Manannan's Mountain:** The opening area where Gwydion must complete chores while secretly gathering spell ingredients during the wizard's absences.[^ref-32][^ref-7]
 - **Llewdor Wilderness:** An explorable overworld containing various locations needed for spell components, including a village, seashore, and the three bears' cottage.[^ref-7]
-- **The Sea Journey:** Passage on a pirate ship to Daventry.
+- **The Sea Journey:** Passage on a pirate ship to Daventry.[^ref-1][^ref-35]
 - **Kingdom of Daventry:** The final act where Gwydion must reach and defeat the dragon to rescue Princess Rosella.[^ref-1]
 
 Roberta Williams later put the game at about 104 "rooms" (screens), against about 80 in King's Quest I and 92 in King's Quest II.[^ref-25] Players can earn up to 210 possible points, with approximately 140 points (two-thirds of the total) obtainable only through successfully casting the manual-based spells.[^ref-14]
@@ -87,7 +87,15 @@ The time pressure created by Manannan's schedule makes the first portion of the 
 
 Roy Wagner reviewed the game in Computer Gaming World ("OFF on a QUEST", issue 38, June/July 1987, p. 18), covering the Amiga and IBM PC versions. He found it "more challenging than its two predecessors" and said a buyer should "add the price for the Hint Book too"; of the hidden magic map, he wrote, "That is going beyond fair game play."[^ref-27]
 
-Other contemporary reviews were generally positive. *Tilt* praised the size and variety of the game world and called it the best of the three games; Stephen Pietrowicz of *Amazing Computing* found it "more complex and much more satisfying"; Sol and Rebecca Guber of *Antic* and the reviewer from *Computer Entertainer* thought it better than the first two but harder; Rick Teverbaugh of *Atari Explorer* felt it lacked gameplay innovation since King's Quest I but praised its graphics.[^ref-1]
+Other contemporary reviews were generally positive. *Tilt* praised the size and variety of the game world and called it the best of the three games, and the reviewer from *Computer Entertainer* thought it better than the first two but harder.[^ref-1]
+
+Stephen R. Pietrowicz reviewed the Amiga version for *Amazing Computing* (August 1987) as part of a survey of the series. He noted that the characters were "much more animated than characters in the other two games," that the parser "seemed more advanced than the others," and concluded: "I enjoy King's Quest III much more than the first two games... KQ III is more complex and much more satisfying."[^ref-32]
+
+Rick Teverbaugh reviewed the Atari ST version for *Atari Explorer* (September/October 1987). He wrote that it "isn't a bad game by any means" and "certainly ranks a cut above the average with graphics that are among the best and most life-like on the market," but was disappointed that the series "follows in its own footsteps a little too closely," calling it "a shame that such a fine game series has undergone so little innovation." He also called it "a game for the patient."[^ref-33]
+
+Sol and Rebecca Guber reviewed the ST version for *Antic* (January 1988) alongside Space Quest and Tass Times in Tonetown. They found that "the graphics are more sophisticated than in earlier games" and called it "the hardest one so far, but it's also the best, and I recommend it strongly."[^ref-34]
+
+*ST Action* (August 1988) described it as "one of the more challenging titles currently in Sierra's range," noting that "the game is fifty per cent larger than any other previous game" and recommending it "only to the more seasoned players."[^ref-35]
 
 The release was initially met with controversy from the fanbase. As documented in the King's Quest Collection II Manual, "The release of this product in 1986 was quickly met with loud protests from gamers claiming that King's Quest III wasn't really a King's Quest at all" due to the absence of King Graham as the protagonist.[^ref-14] Before the internet, games like this "could take several weeks or even months to complete," so fans were slow to realise the connection between Gwydion and Graham.[^ref-8]
 
@@ -118,7 +126,7 @@ Adventure Classic Gaming reports that Williams said seeing Rosella on screen nea
 
 ### Production
 
-King's Quest III was developed using Sierra's AGI engine, which saw significant improvements for this release. The PC release required DOS 2.11 or later and 256K of RAM,[^ref-26] and its PC releases supported CGA, Hercules and Tandy graphics, with later versions adding EGA and 3½-inch disk support.[^ref-1][^ref-26] Due to advances in both computer technology and improvements to the AGI engine, the game is longer and features more difficult puzzles than its predecessors.[^ref-10]
+King's Quest III was developed using Sierra's AGI engine, which saw significant improvements for this release. The PC release required DOS 2.11 or later and 256K of RAM,[^ref-26] and its PC releases supported CGA, Hercules and Tandy/PCjr graphics at launch; version 2.14 (1988) added MCGA support and 3½-inch disks,[^ref-26] and Wikipedia also notes EGA graphics support among the game's technical advances.[^ref-1] Due to advances in both computer technology and improvements to the AGI engine, the game is longer and features more difficult puzzles than its predecessors.[^ref-10]
 
 The development team consisted of 18 credited personnel.[^ref-6] The Apple II version filled both sides of five disks, which Sierra called the second-largest game in computer entertainment history after its own Time Zone.[^ref-22] The original PC release came on three 5.25-inch disks; version 2.14 (1988) was the first on 3.5-inch disks (two).[^ref-26]
 
@@ -141,8 +149,8 @@ The game used a real-time clock displayed on screen, creating genuine tension as
 
 **Original DOS Version:**[^ref-6][^ref-26]
 - **Resolution:** 160x200
-- **Graphics:** CGA, Hercules, Tandy/PCjr (EGA/MCGA in later versions)
-- **Audio:** PC Speaker
+- **Graphics:** CGA, Hercules, Tandy/PCjr (MCGA added in version 2.14; the 2.936 interpreter runs in EGA mode by default)
+- **Audio:** PC Speaker or Tandy/PCjr
 - **Memory:** 256K RAM
 - **Media:** Three 5.25" disks (versions 1.01 and 2.00); two 3.5" disks (version 2.14)
 - **Controls:** Keyboard, Joystick
@@ -187,7 +195,7 @@ The game contains several notable Easter eggs and hidden responses:[^ref-14]
 
 - **Colonel Sanders Reference:** Typing "eat chickens" generates the response "Sorry, Colonel; they're not even dead yet!" referencing the KFC founder.
 - **Wizard Upbringing:** Using curse words triggers the message "Obviously, you were raised by a naughty wizard."
-- **Developer Information:** The tapestry in the game contains an Easter egg mentioning King's Quest IV developers.
+- **Developer Information:** Looking behind the tapestry gives information about King's Quest developers, along with a mention of the upcoming King's Quest IV.
 - **Three Bears Cottage:** Players can sleep in one of the three bears' beds and steal their porridge for spell ingredients, referencing the Goldilocks fairy tale.[^ref-7]
 
 **Additional Trivia:**
@@ -195,10 +203,6 @@ The game contains several notable Easter eggs and hidden responses:[^ref-14]
 - The music that plays upon Gwydion's arrival in Daventry reminded one reviewer "vaguely of the theme song to Johnny Sokko and his Flying Robot."[^ref-13]
 - If playing with CGA graphics when the wizard casts a powerful spell, the entire screen would shake—accomplished by tweaking CGA registers to scroll the screen rapidly.[^ref-19]
 - This was the first King's Quest game where characters have pinkish skin tones; however, King Graham in the final reunion scene still has yellow skin as in the first two games.[^ref-19]
-
-## Voice Cast
-
-King's Quest III did not feature voice acting, relying entirely on text-based dialogue delivered through the parser interface.
 
 ## Legacy
 
@@ -233,7 +237,14 @@ However, the game also exemplifies the design philosophy that would eventually f
 - [GOG](https://www.gog.com/game/kings_quest_1_2_3) - Available in King's Quest 1+2+3 bundle
 - [Steam](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) - Part of King's Quest Collection
 
+**Manuals & Extras**
+- [Internet Archive - Original Manual](https://archive.org/details/manual_Kings_Quest_3_-_Manual)[^ref-36]
+
 ## See Also
+
+- [[King's Quest Series]]
+- **Previous:** [[1985 - King's Quest II - Romancing the Throne]]
+- **Next:** [[1988 - King's Quest IV - The Perils of Rosella]]
 
 - [[1984 - King's Quest - Quest for the Crown]]
 - [[1985 - King's Quest II - Romancing the Throne]]
@@ -272,3 +283,8 @@ However, the game also exemplifies the design philosophy that would eventually f
 [^ref-29]: [AGD Interactive – About Us](https://www.agdinteractive.com/about/about.html) – AGDI (Anonymous Game Developers Interactive) remakes classic Sierra games as free downloads
 [^ref-30]: [Sierra Newsletter Vol. 1 No. 4, Winter 1988](https://archive.org/details/004_Sierra_Newsletter_Volume_1_Number_4_Winter_1988/page/4/mode/2up) – "Three More Sierra Games Go for the Gold!" (SPA Gold Medal for King's Quest III); front-page Apple IIGS article calls it "the bestselling game in Sierra's nine year history"
 [^ref-31]: [Computer Gaming World #103 (February 1993), p. 154, "Platinum Plateau" letter](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/) – SPA Platinum "indicates that 250,000 units have been sold. King's Quest III, King's Quest V and Battle Chess were the most recent certifications"
+[^ref-32]: [Amazing Computing, Vol. 2 No. 8 (August 1987) – "Exploring the King's Quest Adventure Series" by Stephen R. Pietrowicz](https://archive.org/details/amazing-computing-magazine-1987-08) – Amiga review: animated characters, parser, spells, Manannan's schedule, "much more satisfying"
+[^ref-33]: [Atari Explorer, Vol. 7 No. 5 (September/October 1987), pp. 64–65 – King's Quest III review by Rick Teverbaugh](https://archive.org/details/Atari_Explorer_Volume_7_Number_5_1987-10_Atari_Explorer_Publications_US) – Atari ST review: graphics, seven spells, lack of innovation
+[^ref-34]: [Antic, Vol. 6 No. 9 (January 1988) – "STrange Adventure Worlds" by Sol and Rebecca Guber](https://archive.org/details/1988-01-anticmagazine) – Atari ST review: graphics, clock, difficulty, recommendation
+[^ref-35]: [ST Action, Vol. 1 No. 4 (August 1988) – Sierra feature](https://archive.org/details/ST_Action_Volume_1_Issue_4_1988-08_Gollner_Publishing_GB) – plot summary, pirates' sea voyage, difficulty and size
+[^ref-36]: [King's Quest III Manual](https://archive.org/details/manual_Kings_Quest_3_-_Manual) – original game manual, Internet Archive
