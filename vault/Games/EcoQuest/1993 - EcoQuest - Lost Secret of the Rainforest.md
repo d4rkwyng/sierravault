@@ -50,7 +50,7 @@ At the docks, Adam encounters suspicious characters, including employees of a ma
 
 The Forest Heart reveals to Adam that she once had a sprout to replace her, but it did not survive, meaning another must be found somewhere.[^ref-10] Adam's quest takes him through the indigenous village, where he must help numerous villagers with their problems before gaining access to the shaman.[^ref-11] He assists a potter whose baby was stung by a bee, helps patch up a quarrel between a young man, Llusti, and the weaver Churana,[^ref-10] and gathers ingredients for a healing poultice.[^ref-11] The village contains a great hut where a storyteller tells tales to children, while weavers, hunters, and gardeners go about their daily lives.[^ref-10]
 
-Adam's journey eventually leads him to be kidnapped by a goon working for Maxim Slaughter, who runs a camp filled with disturbing trophies including a jaguar-skin rug, stuffed gorilla hand, zebra-skin covered box, elephant foot stool, and a mounted rare dolphin.[^ref-12] With the help of Paquita, a very rare golden bat, he must escape from Slaughter's prison while avoiding a patrolling guard,[^ref-18] and continue his quest to find the lost City of Gold in pursuit of a remedy for the Grove People.[^ref-6] According to *Pelit*, the game places more emphasis on the dangers of selfishness and greed than its predecessor did.[^ref-1]
+Adam's journey eventually leads him to be kidnapped by a goon working for Maxim Slaughter, who runs a camp filled with disturbing trophies including a jaguar-skin rug, stuffed gorilla hand, zebra-skin covered box, elephant foot stool, and a mounted rare dolphin.[^ref-12] With the help of Paquita, a very rare golden bat, he must escape from Slaughter's prison while avoiding a patrolling guard,[^ref-18] and continue his quest to find the lost City of Gold in pursuit of a remedy for the Grove People.[^ref-6]
 
 ## Gameplay
 
@@ -78,7 +78,7 @@ According to *Compute!*, the game gives no instructions for solving its problems
 
 Inventory management plays a significant role, with Adam collecting items like a clay cup, bark cup filled with sap, seed pods, and a special branch from the Forest Heart.[^ref-10][^ref-11] The camp escape sequence features timed elements where the goon will catch Adam if he's in the wrong place too long, requiring careful planning of movements.[^ref-17] Unlike the first game, these tightly timed sequences can be jarring and require repeated attempts.[^ref-17]
 
-Like the first game, it does not let the player get irrevocably stuck or let Adam die.[^ref-6] According to *Pelit*, the puzzles are somewhat harder than the predecessor's.[^ref-1] The Adventurers' Guild reviewer also struggled with unclear and invisible exits in several places.[^ref-17]
+Like the first game, it does not let the player get irrevocably stuck or let Adam die.[^ref-6] The Adventurers' Guild reviewer also struggled with unclear and invisible exits in several places.[^ref-17]
 
 ## Reception
 
@@ -88,7 +88,7 @@ Lisa Young's review in *Compute!* (November 1993) was positive overall. She wrot
 
 According to *Pelit* magazine, the game is somewhat harder than its predecessor and places more emphasis on the dangers of selfishness and greed, as opposed to the blight of man.[^ref-1]
 
-European magazines reviewed the English-language release in 1993, and several marked it down for being untranslated. France's *Tilt* (issue 120, late 1993) scored it 78%, praising the graphics and the soundtrack while faulting the game's short length and its English-only text.[^ref-37] Germany's *Power Play* (5/93) gave it 74% and called it one of the cutest games its reviewer had seen, but judged it aimed at younger players and families, with puzzle density suffering under the weight of information.[^ref-38] *PC Joker* (4/93) gave 60%: it thought the ecological message came across sensibly, but that the puzzles and the many hints were designed for young adventurers who would need good English, or who should wait for the announced German version.[^ref-39] MobyGames' critic list also records *PC Games* (Germany) at 73, *PC Player* (Germany) at 65 and *Play Time* at 83, and *ASM* at 10 out of 12.[^ref-36] In Britain, the teletext service *Digitiser* (27 March 1993) liked the Sierra trademarks of "top sound and graphics" and "superb control" but found the "obsessively eco-friendly story-line" too much, closing its three-and-a-half-block rating with "Pass the sick bag...".[^ref-40]
+European magazines reviewed the English-language release in 1993, and several marked it down for being untranslated. France's *Tilt* (hors-série no. 120, 1993) scored it 78%, praising the graphics and the soundtrack while faulting the game's short length and its English-only text.[^ref-37] Germany's *Power Play* (5/93) gave it 74% and called it one of the cutest games its reviewer had seen, but judged it aimed at younger players and families, with puzzle density suffering under the weight of information.[^ref-38] *PC Joker* (4/93) gave 60%: it thought the ecological message came across sensibly, but that the puzzles and the many hints were designed for young adventurers who would need good English, or who should wait for the announced German version.[^ref-39] MobyGames' critic list also records *PC Games* (Germany) at 73, *PC Player* (Germany) at 65 and *Play Time* at 83,[^ref-36] and *ASM* (4/93) gave it 10 out of 12.[^ref-42] In Britain, the teletext service *Digitiser* (27 March 1993) liked the Sierra trademarks of "top sound and graphics" and "superb control" but found the "obsessively eco-friendly story-line" too much, closing its three-and-a-half-block rating with "Pass the sick bag...".[^ref-40]
 
 ### Modern Assessment
 
@@ -115,7 +115,7 @@ The game designer [[Gano Haine]] took sole creative control for the sequel, as c
 
 ### Production
 
-Development took place at Sierra On-Line's headquarters in Oakhurst, California, where Haine was working on the game in late 1992.[^ref-21] Peter Fisher is credited as producer, with Cheryl Sweeney credited under production.[^ref-31] Robert (Bob) Fischbach and [[Doug Oldfield]] led the programming, and Andy Hoyos and Arturo Sinclair were the art directors.[^ref-31] The game was built on Sierra's SCI1.1 engine, the same technology powering other contemporary Sierra adventures.[^ref-5]
+Development took place at Sierra On-Line's headquarters in Oakhurst, California, where Haine was working on the game in late 1992.[^ref-21] Peter Fisher is credited as producer, with Cheryl Sweeney credited under production.[^ref-31] Robert (Bob) Fischbach and [[Doug Oldfield]] led the programming, and Andy Hoyos and Arturo Sinclair were the art directors.[^ref-31] The game was built on Sierra's SCI1.1 engine, the same technology powering other contemporary Sierra adventures.[^ref-5] Sierra's *InterAction* magazine announced a six-page feature on the game for the December issue of *National Geographic World*, for which the magazine interviewed Haine and other members of the team and spent five days taking photographs at Sierra's Oakhurst headquarters.[^ref-43]
 
 The game's description on GameFAQs says it "is based on scientifically accurate information."[^ref-3] The box also held an "EcoNews" booklet with reading material, a coloring activity and a word search; it explains how to use the Ecorder, and a question asked when Adam first meets the Grove People can only be answered from it.[^ref-30]
 
@@ -148,6 +148,7 @@ The music, composed by Dan Kehler, contributed significantly to the game's atmos
 - **Media:** 4 3½" floppy diskettes
 - **Minimum CPU:** Intel i286
 - **Minimum RAM:** sources disagree: 2 MB per MobyGames and PCGamingWiki's DOS requirements;[^ref-35][^ref-5] Sierra Wiki lists 4 MB,[^ref-23] the figure PCGamingWiki gives for the Windows 3.x version[^ref-5]
+- **Period requirements:** contemporary magazines quoted 640 KB RAM for DOS (*Tilt*, *Power Play*)[^ref-37][^ref-38] and a 386SX with 2 MB RAM for Windows (*PC Joker*)[^ref-39]
 
 **Windows Version:**[^ref-5]
 - **Platform:** Windows 3.x (16-bit)
@@ -253,10 +254,12 @@ It was the last *EcoQuest* game. Sierra acquired Bright Star Technology on July 
 [^ref-32]: [MobyGames – Cover Art](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/covers/) – "DOS and Windows 16-bit" boxed 3.5" and 5.25" disk releases
 [^ref-33]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – for King's Quest VI, Sierra "brought over Jane Jensen, who was fresh off the task of co-designing" EcoQuest: The Search for Cetus with Gano Haine
 [^ref-34]: [The Digital Antiquarian – The Sierra Discovery Adventures](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Discovery Series line, Cetus "did well enough", sequel released early 1993, end of the Discovery Series and of EcoQuest; also dates Cetus to early 1992
-[^ref-35]: [MobyGames – Lost Secret of the Rainforest: Tech Specs](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/specs/) – DOS minimum RAM 2 MB, Intel 80286, EGA/MCGA/VGA (read via the MobyGames API)
+[^ref-35]: [MobyGames – Lost Secret of the Rainforest: Tech Specs](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/specs/) – DOS minimum RAM 2 MB, Intel 80286, EGA/MCGA/VGA
 [^ref-36]: [MobyGames – Lost Secret of the Rainforest: Critic Reviews](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/reviews/) – critic average 75% from 11 ratings; PC Games, PC Player, Play Time, ASM and Digitiser entries (checked 2026-11-11)
-[^ref-37]: [Internet Archive – Tilt issue 120 (scan)](https://archive.org/details/Tilt120) – p. 87: Lost Secret of the Rain Forest review, "Oui, mais..." verdict, overall 78%, durée de vie 50%
-[^ref-38]: [Kultboy – Power Play 5/93 review scan, EcoQuest 2](https://www.kultboy.com/index.php?site=t&id=3654) – p. 38: MS-DOS 74%, Grafik 78%, Sound 67%
-[^ref-39]: [Kultboy – PC Joker 4/93 review scan, Eco Quest II](https://www.kultboy.com/index.php?site=t&id=1939) – p. 30: overall 60%; Grafik 83%, Sound 69%, Atmosphäre 64%, Motivation 56%
+[^ref-37]: [Internet Archive – Tilt hors-série no. 120 (1993), p. 87](https://archive.org/details/Tilt120) – Lost Secret of the Rain Forest review, "Oui, mais..." verdict, overall 78%, durée de vie 50%; configuration: PC 286, EGA/VGA, 640 KB RAM, 7.5 MB hard disk
+[^ref-38]: [Kultboy – Power Play 5/93 review scan, EcoQuest 2](https://www.kultboy.com/index.php?site=t&id=3654) – p. 38: MS-DOS 74%, Grafik 78%, Sound 67%; "Minimal: 286er mit 12 MHz, 640 KByte, VGA"
+[^ref-39]: [Kultboy – PC Joker 4/93 review scan, Eco Quest II](https://www.kultboy.com/index.php?site=t&id=1939) – p. 30: overall 60%; Grafik 83%, Sound 69%, Atmosphäre 64%, Motivation 56%; "unter Windows braucht man einen 386SX mit 2 MB RAM und DOS 5.0"
 [^ref-40]: [Super Page 58 – Digitiser review archive: Lost Secret of the Rainforest (PC), 27/3/93](https://www.superpage58.com/digitiser-video-game-reviews-archive-lost-secret-of-the-rainforest-pc-1993.htm) – Teletext PC review pages 1-2: "OVERALL" three and a half blocks, "Pass the sick bag..."
 [^ref-41]: [Sierra On-Line Form 10-Q, quarter ended June 30, 1995, filed 1995-08-14 (SEC accession 0000891020-95-000357; Wayback)](https://web.archive.org/web/2020/https://www.sec.gov/Archives/edgar/data/724991/0000891020-95-000357.txt) – "On July 6, 1992, the Company acquired Bright Star, a developer and publisher of educational computer software"
+[^ref-42]: [Kultboy – Eco Quest 2: Lost Secret of the Rainforest, review overview](https://www.kultboy.com/testbericht-uebersicht/1732/) – ASM 4/93 (Antje Hink): Grafik 10/12, Sound 10/12, Wertung 10/12
+[^ref-43]: [Internet Archive – InterAction Magazine, Vol. V No. 4 (Winter 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "A six-page feature on the upcoming EcoQuest: Lost Secret of the Rainforest will run in the December issue of National Geographic World"; five days shooting pictures at Sierra's Oakhurst headquarters
