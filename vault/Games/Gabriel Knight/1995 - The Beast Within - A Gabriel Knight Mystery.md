@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'The Beast Within: A Gabriel Knight Mystery is a 1995 full-motion video
  adventure game by Sierra On-Line. Jimmy Maher wrote that "at its best and judged in
  the context of its time, it was one of the most impressive interactive narratives
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -70,7 +70,7 @@ Inventory items must be made the active item before they can be used on objects 
 
 ### Contemporary Reviews
 
-The Beast Within received widespread critical acclaim upon release, winning Computer Gaming World's 1995 Game of the Year and Computer Games Strategy Plus's Best Adventure Game of 1995[^ref-12]. The game achieved a 90.50% aggregate score on GameRankings (based on 6 reviews), indicating strong consensus among reviewers[^ref-58].
+The Beast Within received widespread critical acclaim upon release, winning Computer Gaming World's overall Game of the Year in its Premier Awards (issue #143, June 1996)[^ref-72] and Computer Games Strategy Plus's Best Adventure Game of 1995[^ref-12]. The game achieved a 90.50% aggregate score on GameRankings (based on 6 reviews), indicating strong consensus among reviewers[^ref-58].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -79,7 +79,7 @@ The Beast Within received widespread critical acclaim upon release, winning Comp
 | Computer Gaming World | 5/5 stars | Called it "a graphic adventure benchmark"[^ref-12] |
 | Computer Game Review | 91/94/96 | Three reviewers[^ref-12][^ref-61] |
 
-Computer Gaming World named The Beast Within their 1995 Game of the Year, with its staff calling it "the continuation of a brilliant tradition—the graphic adventure as art"[^ref-12]. In 1996, the magazine ranked the game the 17th-best computer game ever — the highest position for any graphic adventure at that point[^ref-12] — and its entry described the game as "a haunting tale from Jane Jensen, the interactive Ann Rice" [*sic*][^ref-71]. GameSpot's Jeff Sengstack declared it "light years beyond the first" Gabriel Knight game and praised it as "well-executed, visceral, mentally exhausting, and exciting entertainment"[^ref-59].
+Computer Gaming World's June 1996 Premier Awards issue (#143), recognizing the best of the past year, headed its overall winner "Game of the Year: Gabriel Knight 2: The Beast Within", called it "a clear-cut choice", and described it as "the continuation of a brilliant tradition— the graphic adventure as art"[^ref-72]. In 1996, the magazine ranked the game the 17th-best computer game ever — the highest position for any graphic adventure at that point[^ref-12] — and its entry described the game as "a haunting tale from Jane Jensen, the interactive Ann Rice" [*sic*][^ref-71]. GameSpot's Jeff Sengstack declared it "light years beyond the first" Gabriel Knight game and praised it as "well-executed, visceral, mentally exhausting, and exciting entertainment"[^ref-59].
 
 ### Modern Assessment
 
@@ -99,7 +99,7 @@ GameSpot's reviewer noted that "author Jane Jensen did some serious investigatin
 
 ### Production
 
-The Beast Within was directed by Will Binder, a UCLA film-school graduate who had worked as a director's assistant on films such as *Scent of a Woman*[^ref-15][^ref-17]. The game used the same engine as Sierra's Phantasmagoria[^ref-12], but swapped its 3D-modelled backgrounds for retouched photographs of real German locations[^ref-15].
+The Beast Within was directed by Will Binder, a UCLA film-school graduate who had worked as a director's assistant on films such as *Scent of a Woman*[^ref-15][^ref-17]. Sierra's original choice as director had been the music-video maker Mark Miremont, but those plans fell through at the last minute[^ref-15]. The game used the same engine as Sierra's Phantasmagoria[^ref-12], but swapped its 3D-modelled backgrounds for retouched photographs of real German locations[^ref-15].
 
 Dean Erickson, who replaced Tim Curry as Gabriel Knight, recalled three and a half months on the production during the late summer and early fall of 1995, working Monday through Friday, eight to ten hours a day[^ref-3]. Jimmy Maher instead dates the shoot on Sierra's new Oakhurst sound stage from May 1995, lasting almost four months, with a few days on location at Seattle's opera house[^ref-15]. Budget constraints meant director Will Binder rarely ran more than two takes of any scene, and all of Erickson's voice-over narration was recorded in a single day[^ref-12].
 
@@ -115,9 +115,31 @@ The Beast Within represented a significant technical achievement in FMV gaming, 
 
 Roughly 90 percent of the script was shot on the sound stage, with only a few scenes filmed on location[^ref-17]; the fictional Rittersberg was modelled on Rothenburg ob der Tauber[^ref-17].
 
+### Development Credits
+
+MobyGames' credits for the DOS release list the following key roles[^ref-70]:
+
+| Role | Credit |
+|------|--------|
+| Game Designer / Writer | [[Jane Jensen]] |
+| Producer and Project Manager | Sabine Duvall |
+| Director (film production) | Will Binder |
+| Creative Director | Nathan Gams |
+| Art Designer | Darlou Gams |
+| Artists | Layne Gifford, John Shroades |
+| Lead Programmer | Jerry Shaw |
+| Programmers | David Artis, Adam Bentley, Chris Carr, Steve Conrad, William Shockley (credited as Bill Schrodes) |
+| Director of Music/Audio | Jay D. Usher |
+| Music | [[Robert Holmes]] (main themes and opera sequences) |
+| Casting | Dan Parada |
+| Costume Designer | Marcelle Gravel |
+| Director of Photography | Randy Littlejohn |
+
 ### Cast
 
-As an FMV game, The Beast Within featured a full cast of live-action performers filmed at Sierra's Oakhurst sound stage.[^ref-15] Dean Erickson replaced Tim Curry. The budget only allowed Screen Actors Guild minimum pay, which ruled out "name" stars,[^ref-15] and Jensen felt Curry did not look the part.[^ref-12]
+As an FMV game, The Beast Within featured a full cast of live-action performers filmed at Sierra's Oakhurst sound stage.[^ref-15] Dean Erickson replaced Tim Curry. The budget only allowed Screen Actors Guild minimum pay, which ruled out "name" stars,[^ref-15] and Jensen felt Curry did not look the part.[^ref-12] Erickson was 36 and had worked in finance on Wall Street before deciding at age 30 to become an actor; his best-known credit at the time was a bit part in three episodes of *Frasier*[^ref-15]. Joanne Takahashi took over the role of Grace from Leah Remini[^ref-55]. Peter Lucas played Baron Von Glower, and the cast was rounded out with more than 40 other speaking parts, all recruited from Screen Actors Guild members[^ref-15].
+
+Because the actors were chroma-keyed over the backgrounds, costumer Marcelle Gravel could not use blue, white or reflective black; Gabriel, planned in a black jacket, white T-shirt and blue jeans, ended up wearing green instead[^ref-15].
 
 **Principal Cast:**[^ref-31][^ref-16]
 
@@ -147,6 +169,16 @@ As an FMV game, The Beast Within featured a full cast of live-action performers 
 | Retail | July 9, 1996 | Mac OS | Macintosh release[^ref-12][^ref-57] |
 | Digital | February 23, 2010 | Windows | GOG.com release[^ref-67][^ref-41] |
 | Digital | August 29, 2016 | Windows | Steam release[^ref-68]; store lists Activision as publisher[^ref-66][^ref-68] |
+| Digital | April 23, 2018 | Windows | GOG internal update: DOSBox replaced with ScummVM 2.0, cloud saves enabled; existing saves incompatible[^ref-73] |
+
+### Patches and Technical Issues
+
+An official Sierra update to version 1.11, dated January 15, 1996, fixed an out-of-memory message at Schloss Ritter in Chapter 4, "Error 99" when switching to CD 2, a dead end in the dialogue with Leber, a Neuschwanstein border that kept blinking, a missing "Lost Opera" topic for Georg, and continuous drive "thrashing", and it lets Grace take holy water only once; saved games made before the patch do not work with it[^ref-10]. DOS Days also lists fan-made patches that remove the interlacing effect in the movies and add English subtitles[^ref-10]. The Macintosh version used a video player developed by Sierra rather than QuickTime and tended to crash or run slowly on 680x0 processors[^ref-12].
+
+### Collections and Re-releases
+
+- **Gabriel Knight Mysteries Limited Edition (1998):** bundled Gabriel Knight 1 and 2 (v1.11) with a soundtrack disc that also holds the game manuals, a comic for the first game and a digital copy of its 419-page novel, plus a 20-page graphic-novel prelude to Gabriel Knight 3[^ref-10].
+- **Italian DVD reprint:** an XP-compatible DVD reprint with de-interlaced movies was released exclusively in Italy[^ref-12].
 
 ### German Version
 
@@ -154,18 +186,8 @@ When the game was first released in Germany it shipped in English, without dubbi
 
 ## Trivia
 
-- The werewolf story was originally intended to be the first Gabriel Knight game, but [[Jane Jensen]] felt she "needed to go back further in the characters' history"[^ref-15]
-- Jensen chose werewolves thematically because she wanted Gabriel to confront "those baser aspects of his personality"—his womanizing ways[^ref-17]
-- Dean Erickson replaced Tim Curry: the budget only allowed Screen Actors Guild minimum pay, which ruled out "name" stars,[^ref-15] and Jensen felt Curry did not look the part[^ref-12]
-- Due to budget constraints, director Will Binder rarely ran more than two takes of any scene[^ref-12]
-- All of Dean Erickson's voice-over work was completed in a single day[^ref-12]
-- The production required three separate trips to Germany during the second half of 1994 to photograph backgrounds[^ref-15]
-- Robert Holmes wrote the music for a scene from the fictional opera "Der Fluch Des Engelhart," with libretto by Jane Jensen[^ref-12][^ref-16]
-- The game is equivalent to five feature films in scope, with a 600-page script[^ref-17] and 763 video files[^ref-16]
-- VICE described the game as "a subversively campy adventure, bursting at the seams with ambition"[^ref-55]
-- Computer Gaming World's 1996 top-150 entry for the game called Jane Jensen "the interactive Ann Rice" [*sic*][^ref-71]
-- The game was the fourth-best-selling US computer game of January 1996,[^ref-56] but Jensen was disappointed: "I thought it would be top ten. And it was—for about a week"[^ref-12]
-- Sierra initially tried to use local actors to cut costs before deciding to cast from Los Angeles—Jensen recalled: "We said, 'Screw it,' and started casting people from L.A."[^ref-17]
+- Rabenstein Castle in Upper Franconia served as the setting for Schloss Ritter, and the paintings in Neuschwanstein's Singer's Hall were altered to match the plot[^ref-12]
+- The filming was partly documented by the British series *Bad Influence!*, whose presenter Violet Berlin has a brief walk-on cameo[^ref-12]
 - The Bavaria photographs benefited from luck: the weather was "fairly overcast" on all three trips, which suited creative director Nathan Gams, who wanted "a soft, gloomy kind of European spring feel"[^ref-15]
 
 ## Legacy
@@ -217,3 +239,5 @@ The game reached fourth place among US computer-game sales in January 1996[^ref-
 [^ref-69]: [PC Games – Gabriel Knight 2: FMV, Schauspiel & deutsche Fassung](https://www.pcgames.de/Gabriel-Knight-2-The-Beast-Within-Spiel-2918/Specials/Retro-Adventure-Legende-1483735/4/) – German retro feature on the localization: main characters in standard German, locals in Bavarian dialect
 [^ref-70]: [MobyGames – The Beast Within credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) – "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
 [^ref-71]: [Computer Gaming World #148 (November 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Top 150 Games Of All Time", p. 65: "17. Gabriel Knight 2 … A haunting tale from Jane Jensen, the interactive Ann Rice" (spelling checked on the page image)
+[^ref-72]: [Computer Gaming World #143 (June 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_143) – Premier Awards: "GAME OF THE YEAR Gabriel Knight 2: The Beast Within"; "This year's winner was a clear-cut choice"; "Gabriel Knight II is the continuation of a brilliant tradition— the graphic adventure as art"
+[^ref-73]: [GOG – Gabriel Knight 2: The Beast Within changelog](https://api.gog.com/products/1207658837?expand=changelog) – "[WIN] Internal Update (23 April 2018): replaced DOSBox with ScummVM 2.0; enabled Cloud Saves support"
