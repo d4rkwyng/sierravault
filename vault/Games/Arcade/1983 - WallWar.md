@@ -10,14 +10,14 @@ series: Standalone
 engine: Machine Language
 protagonist: Player-controlled Microbot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: WallWar is an action game designed by Peter Oliphant and published by
   Sierra On-Line under its SierraVision label for the Atari 8-bit computers in 1983. It was originally titled "Force Fields" during development.
 tags: [1980s, sierra, standalone]
 ---
 # WallWar
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -74,7 +74,7 @@ Jim Bumpas reviewed WallWar in the April 1983 *Atari Computer Enthusiasts* (ACE)
 
 *Softline*'s May–June 1983 "Gameline" review (signed DB, p. 42) compared the game to a two-player *Breakout*, an idea Atari itself had tried with *Warlords*, and said "The game is Wall War, and it is slick." It criticized the "badly written instructions" and the weak computer opponent, which was "not much of a challenge . . . even when the computer opponent is set to the highest of fifteen levels", but concluded that these shortcomings "do not negate Wall War's superb hi-res graphics" and that the game "is highly conducive to repeat play"[^ref-27].
 
-In its June 1983 newsletter, ACE gave Wall War four stars out of five in a star-rated list of new third-party Atari software[^ref-31]. The Twin City Atari Interest Group's March 1983 newsletter was cooler, saying the game play "leaves something to be desired" and "I am used to a little better from Sierra On-Line"[^ref-30].
+In its June 1983 newsletter, ACE gave Wall War four stars out of five in a star-rated list of new third-party Atari software[^ref-31]. The Twin City Atari Interest Group's March 1983 newsletter was cooler: it allowed that "This program has nice visual effects" but said the game play "leaves something to be desired" and "I am used to a little better from Sierra On-Line"[^ref-30].
 
 *A.N.A.L.O.G. Computing* #12 (p. 17) was harsher. Its "New Products" column by The Program Doctors listed Wall War with *Marauder*, *Lunar Leeper* and the rewritten *Jawbreaker* as releases through which Sierra was "rapidly losing the respect they have earned from ATARI owners". It wrote: "WALL WAR is a graphic symphony, and upon first boot-up, we began to think that maybe On-Line had come to their senses. Then we played it, and realized that the game is totally pointless"[^ref-32].
 
