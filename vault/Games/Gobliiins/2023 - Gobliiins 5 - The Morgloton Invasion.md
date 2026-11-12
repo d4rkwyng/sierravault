@@ -10,15 +10,15 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Oups, Asgard, and Ignatius
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Gobliiins 5: The Morgloton Invasion (titled GOBLiiiNS5 on Steam) is a 2D
   point-and-click adventure game by Pierre Gilhodes, released in 2023 as the first
   new Gobliiins game since 2009.'
-tags: [2020s, adventure, coktel, gobliiins, sierra]
+tags: [2020s, adventure, coktel, gobliiins, puzzle, sierra]
 ---
 # Gobliiins 5: The Morgloton Invasion
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The game was largely a solo effort, with Gilhodes handling the scenario, graphic
 
 > [!info]- Game Info
 > **Developer:** [[Pierre Gilhodes]][^ref-20]
-> **Designer:** Pierre Gilhodes[^ref-8]
+> **Designer:** [[Pierre Gilhodes]][^ref-8]
 > **Publisher:** [[Schnibble Productions]][^ref-20]
 > **Engine:** Adventure Game Studio[^ref-8]
 > **Platforms:** Windows[^ref-20]
@@ -43,7 +43,7 @@ The game was largely a solo effort, with Gilhodes handling the scenario, graphic
 
 In the kingdom of King Angoulafre, the mad scientist Morglott plans to turn all of the king's subjects into potatoes with a mysterious magic ray[^ref-8][^ref-29]. Oups, Asgard, and Ignatius—the original trio from the first Gobliiins game—set out to find the source of the ray and stop him[^ref-1][^ref-8].
 
-The adventure runs across sixteen levels in four parts[^ref-2][^ref-5]. Along the way the goblins visit Flatus Square, the king's chamber, a giant snail-boat, Morglot's kitchen and laboratory, and a greenhouse[^ref-14]. In Part 3 they enter Morglot's memories of his school days, where they deal with figures such as Ademard and Frippone and settle the grievances he has carried since his school days[^ref-14][^ref-16][^ref-25]. The last level, "The Wedding of the King," centres on a royal wedding: the goblins use an "unpotatotizer" to restore the potato-fied guests and finally King Angoulafre himself[^ref-14]. As is usual for the series, the plot mainly serves as a framework for the puzzles[^ref-11]. Riot Pixels found the story thin, with no coherent introduction or ending, and noted that the tale breaks off with a new global problem just as the main task is done[^ref-25].
+The adventure runs across sixteen levels in four parts[^ref-2][^ref-5]. Along the way the goblins visit Flatus Square, the king's chamber, a giant snail-boat, Morglot's kitchen and laboratory, and a greenhouse[^ref-14]. In Part 3 they enter Morglot's memories of his school days, where they deal with figures such as Ademard and Frippone (spelled Friponne in the walkthrough) and settle the grievances he has carried since his school days[^ref-14][^ref-16][^ref-25]. The last level, "The Wedding of the King," centres on a royal wedding: the goblins use an "unpotatotizer" to restore the potato-fied guests and finally King Angoulafre himself[^ref-14]. As is usual for the series, the plot mainly serves as a framework for the puzzles[^ref-11]. Riot Pixels found the story thin, with no coherent introduction or ending, and noted that the tale breaks off with a new global problem just as the main task is done[^ref-25].
 
 ## Gameplay
 
@@ -78,7 +78,7 @@ One Steam reviewer found the puzzles "logical and not to difficult" [sic][^ref-1
 
 Gobliiins 5 was received warmly by long-time fans of the series. Riot Pixels (Oleg Zaitsev, November 11, 2023) gave it 65%. The review summed it up as, in translation, "a curiosity from a half-forgotten era. Even if its puzzles aren't always logical, a seasoned adventurer will hardly regret a few evenings spent in its company"[^ref-25]. It criticised the abrupt story, the lack of saving within levels, the sparse animation and the rough English translation[^ref-25].
 
-Steam user reviews praised the game's faithfulness to the original trilogy. One reviewer wrote: "What an amazing game. It has the exact feel like the first three Gobliiins (haven't played 4 yet). It's funny, the puzzles are logical and not to difficult and the story is nice"[^ref-17]. Another wrote that it "feels unpolished on first glance but its a truly fun game and harks back to my childhood with GOBLIINS 3"[^ref-24]. On Steam, 92% of 71 user reviews are positive (October 2026), and on itch.io the game is rated 4.9 out of 5 from 40 ratings[^ref-10][^ref-20].
+Steam user reviews praised the game's faithfulness to the original trilogy. One reviewer wrote: "What an amazing game. It has the exact feel like the first three Gobliiins (haven't played 4 yet). It's funny, the puzzles are logical and not to difficult and the story is nice"[^ref-17]. Another wrote that it "feels unpolished on first glance but its a truly fun game and harks back to my childhood with GOBLIINS 3"[^ref-24]. On Steam, 92% of 71 user reviews are positive (November 2026), and on itch.io the game is rated 4.9 out of 5 from 40 ratings[^ref-10][^ref-20].
 
 ### Modern Assessment
 
@@ -88,7 +88,7 @@ A comment on Gobliiins 5's GOG.com wishlist page read: "This is a perfect match 
 
 **Scores:**
 - **Riot Pixels:** 65%[^ref-25]
-- **Steam:** 92% positive of 71 user reviews (October 2026)[^ref-20]
+- **Steam:** 92% positive of 71 user reviews (November 2026)[^ref-20]
 - **itch.io:** 4.9/5 from 40 user ratings[^ref-10]
 
 ## Development
@@ -101,7 +101,7 @@ The project was crowdfunded in 2022, on Ulule in French and on Kickstarter in En
 
 ### Production
 
-Development was largely a solo effort. Gilhodes is credited with the scenario, graphics, animations and programming, built in Adventure Game Studio (AGS)[^ref-8]. Forum observers noted that "Even though Pierre is not a programmer, he seems to be doing all the work with AGS"[^ref-6]. Unlike Gobliiins 4, the game returns to the series' 2D graphics, at 640×480[^ref-2].
+Development was largely a solo effort. Gilhodes is credited with the scenario, graphics, animations and programming, built in Adventure Game Studio (AGS)[^ref-8]. Forum observers noted that "Even though Pierre is not a programmer, he seems to be doing all the work with AGS"[^ref-6]. Unlike Gobliiins 4, the game returns to the series' 2D graphics, at 640×480[^ref-2]. Gilhodes discussed the game in an interview on the New Game Old Flame podcast on 10 May 2025[^ref-33].
 
 Gilhodes's art style stayed recognisable. One forum player laughed at "how much the guy's artstyle remained almost exactly the same over the years in some aspects"[^ref-16]. Reviewers praised the hand-drawn art and character animation but noted the lack of background animation[^ref-5][^ref-25].
 
@@ -121,8 +121,9 @@ The game runs at a fixed 640×480 resolution with 2D hand-drawn art[^ref-2][^ref
 - **Resolution:** 640×480; windowed or full-screen via winsetup.exe[^ref-2][^ref-10]
 - **Graphics Style:** 2D scrolling, hand-drawn art[^ref-5][^ref-8]
 - **Input:** Mouse-driven point-and-select interface[^ref-8]
-- **OS (Steam requirements):** Windows Vista, 7, 8, 10[^ref-20]
-- **Languages:** French and English (German, Spanish, Russian announced as planned)[^ref-10]
+- **OS (Steam requirements):** Windows Vista, 7, 8, 10; Windows only[^ref-20][^ref-32]
+- **Minimum requirements (Steam):** DirectX 11, 2 GB RAM, 915 MB storage[^ref-32]
+- **Languages:** French and English (German, Spanish, Russian announced as planned on itch.io); the Steam listing offers English and French[^ref-10][^ref-32]
 
 **Distribution:**
 - **File Structure:** 4 separate executable files (one per game part)[^ref-2][^ref-10]
@@ -191,6 +192,7 @@ Its return to 2D after the poorly received 3D Gobliiins 4 was welcomed by review
 
 ## See Also
 
+- [[Coktel Adventures Series]]
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
 
 - [[1991 - Gobliiins]]
@@ -226,3 +228,5 @@ Its return to 2D after the poorly received 3D Gobliiins 4 was welcomed by review
 [^ref-29]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – May 27, 2026 collection of the first five games
 [^ref-30]: [Gematsu – Gobliiins Collection now available for Switch 2](https://www.gematsu.com/2026/08/gobliiins-collection-now-available-for-switch-2) – Aug 17, 2026; free upgrade from the Switch version, mouse controls, all five games in 4K
 [^ref-31]: [Nintendo UK – Gobliiins Collection (Nintendo Switch 2)](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Gobliiins-Collection-3156165.html) – release date 06/08/2026 (6 August 2026)
+[^ref-32]: [Steam Store API – GOBLiiiNS5](https://store.steampowered.com/api/appdetails?appids=2475980) – supported languages English and French; Windows only; minimum DirectX 11, 2 GB RAM, 915 MB
+[^ref-33]: [New Game Old Flame – Interview with Pierre Gilhodes](https://www.newgameoldflame.com/episodes/2025/66-interview-pierre-gilhodes/) – episode of 10 May 2025 about "the creative madness behind Gobliiins 5"
