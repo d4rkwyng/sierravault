@@ -10,7 +10,7 @@ series: EcoQuest
 engine: SCI1.1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Dan Kehler]
 description: '*EcoQuest 2: Lost Secret of the Rainforest* is an educational adventure
   game developed and published by Sierra On-Line in 1993 as the sequel to *EcoQuest:
@@ -19,7 +19,7 @@ tags: [1990s, ecoquest, educational, sci, sierra]
 ---
 # EcoQuest 2: Lost Secret of the Rainforest
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,6 +33,7 @@ Unlike its predecessor, which was co-designed by [[Jane Jensen]], *Lost Secret o
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Gano Haine]][^ref-1]
 > **Producer:** Peter Fisher[^ref-31]
+> **Composer:** Dan Kehler[^ref-31]
 > **Publisher:** Sierra On-Line (NA), [[Coktel Vision]] (EU)[^ref-1]
 > **Engine:** SCI1.1[^ref-5]
 > **Platforms:** MS-DOS, Windows 3.x, PC-98[^ref-6]
@@ -87,6 +88,8 @@ Lisa Young's review in *Compute!* (November 1993) was positive overall. She wrot
 
 According to *Pelit* magazine, the game is somewhat harder than its predecessor and places more emphasis on the dangers of selfishness and greed, as opposed to the blight of man.[^ref-1]
 
+European magazines reviewed the English-language release in 1993, and several marked it down for being untranslated. France's *Tilt* (issue 120, late 1993) scored it 78%, praising the graphics and the soundtrack while faulting the game's short length and its English-only text.[^ref-37] Germany's *Power Play* (5/93) gave it 74% and called it one of the cutest games its reviewer had seen, but judged it aimed at younger players and families, with puzzle density suffering under the weight of information.[^ref-38] *PC Joker* (4/93) gave 60%: it thought the ecological message came across sensibly, but that the puzzles and the many hints were designed for young adventurers who would need good English, or who should wait for the announced German version.[^ref-39] MobyGames' critic list also records *PC Games* (Germany) at 73, *PC Player* (Germany) at 65 and *Play Time* at 83, and *ASM* at 10 out of 12.[^ref-36] In Britain, the teletext service *Digitiser* (27 March 1993) liked the Sierra trademarks of "top sound and graphics" and "superb control" but found the "obsessively eco-friendly story-line" too much, closing its three-and-a-half-block rating with "Pass the sick bag...".[^ref-40]
+
 ### Modern Assessment
 
 Andrea Morstabilini's review for Adventure Gamers (January 2010) gave the game 3 out of 5 stars, a "Decent" rating that the site's scale defines as "a qualified success; the positive aspects still outnumber the negative, but the weaknesses noticeably hinder the experience."[^ref-18] The review praised the "luxuriant, colorful graphics" and "varied and captivating musical score" with "some good, intelligent puzzles," while criticizing the "often uninspired" writing, "predictable plot without any real twist," and gameplay that "feels a bit stretched from time to time."[^ref-18] The verdict concluded: "Less enjoyable than its predecessor, EcoQuest 2 is still a good edutainment title for children and a fair choice for adventurers in search of a less demanding adventure."[^ref-18]
@@ -97,6 +100,7 @@ MobyGames user reviews are generally positive, with one calling it "a truly magn
 
 **Aggregate Scores:**
 - **MobyGames:** Moby Score 7.7; players 4.0/5 (33 ratings)[^ref-6]
+- **MobyGames critics:** 75% average from 11 ratings[^ref-36]
 - **Abandonware DOS:** 3.95/5.00 (43 votes)[^ref-4]
 - **MyAbandonware:** 4.37/5 (64 votes)[^ref-20]
 - **GameFAQs User Average:** "Good" (19 ratings)[^ref-3]
@@ -105,7 +109,7 @@ MobyGames user reviews are generally positive, with one calling it "a truly magn
 
 ### Origins
 
-*Lost Secret of the Rainforest* belongs to the Discovery Series, Sierra's brief-lived educational line of the early 1990s, which also included two *Dr. Brain* puzzle games and the first *EcoQuest*.[^ref-34] *EcoQuest: The Search for Cetus*, released in early 1992, "did well enough" that Sierra funded a CD-ROM version and a further adventure for Adam, released in early 1993.[^ref-34] Sierra sought to continue the franchise with a new environmental focus, selecting the endangered rainforests of South America as the setting for the sequel.[^ref-2]
+*Lost Secret of the Rainforest* belongs to the Discovery Series, Sierra's brief-lived educational line of the early 1990s, which also included two *Dr. Brain* puzzle games and the first *EcoQuest*.[^ref-34] *EcoQuest: The Search for Cetus*, which Jimmy Maher's article dates to early 1992, "did well enough" that Sierra funded a CD-ROM version and a further adventure for Adam, released in early 1993.[^ref-34] Sierra sought to continue the franchise with a new environmental focus, selecting the endangered rainforests of South America as the setting for the sequel.[^ref-2]
 
 The game designer [[Gano Haine]] took sole creative control for the sequel, as co-designer Jane Jensen had moved on to *King's Quest VI* and then to create the *Gabriel Knight* series.[^ref-33][^ref-1] Haine was simultaneously working on the project while navigating Sierra's busy development environment, which included high-profile visitors like Daryl F. Gates, to whom she reluctantly provided orientation on Sierra's development tools.[^ref-21]
 
@@ -125,6 +129,10 @@ The game's description on GameFAQs says it "is based on scientifically accurate 
 - **Sound:** Richard Spurgeon
 - **Voiceovers:** Richard Aronson, Neal Grandstaff, Trisha Korte, Greg Tomko-Pavia
 - **Playtesting (among others):** Geoff Keighley
+
+### Voice Cast
+
+The game has no full voice acting. The floppy release contains only a couple of spoken lines for a few characters; Adam, Noah and the animals are not voiced.[^ref-30] The DOS credits list four people under Acting / Voiceovers: Richard Aronson, Neal Grandstaff, Trisha Korte and Greg Tomko-Pavia.[^ref-31]
 
 ### Technical Achievements
 
@@ -169,19 +177,11 @@ The Windows 3.x release does not function on 64-bit versions of Windows.[^ref-5]
 - **Forest Heart Comparison:** The magical Forest Heart tree bears resemblance to another giant tree encountered in *Quest for Glory 3*, suggesting some idea-sharing between Sierra development teams.[^ref-14]
 - **Point System:** The game awards extra points for thorough exploration and talking to everyone, though the game can advance without collecting all points.[^ref-8]
 
-## Voice Cast
-
-The game has no full voice acting. The floppy release contains only a couple of spoken lines for a few characters; Adam, Noah and the animals are not voiced.[^ref-30] The DOS credits list four people under Acting / Voiceovers: Richard Aronson, Neal Grandstaff, Trisha Korte and Greg Tomko-Pavia.[^ref-31]
-
 ## Legacy
-
-### Sales and Commercial Impact
-
-While specific sales figures are not documented in available sources, *Lost Secret of the Rainforest* has maintained a dedicated following among adventure game enthusiasts and those who played it during childhood.[^ref-24]
 
 ### Collections
 
-The game has appeared on various community wishlists for digital re-release, with GOG.com's Dreamlist showing 403 votes requesting the title.[^ref-24] As of the research date, the game has not received an official digital re-release through major platforms like GOG or Steam.
+The game has an entry on GOG.com's Dreamlist, where users vote for titles they want released on the store.[^ref-24] As of November 2026 it is not sold on GOG or Steam.
 
 ### Fan Projects
 
@@ -243,7 +243,7 @@ It was the last *EcoQuest* game. The Discovery Series itself ended in 1993, when
 [^ref-21]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst: A Cop Drama](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Gano Haine designing the game at Sierra's Oakhurst HQ, late 1992; Daryl Gates visit
 [^ref-22]: [TV Tropes – Dan Kehler](https://tvtropes.org/pmwiki/pmwiki.php/Music/DanKehler) – composer credits
 [^ref-23]: [Sierra Wiki – EcoQuest 2 Technical](http://wiki.sierrahelp.com/index.php/EcoQuest_2:_Lost_Secret_of_the_Rainforest_Technical) – system requirements, audio hardware
-[^ref-24]: [GOG.com – EcoQuest II Dreamlist](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest-1993) – Dreamlist votes (403 as of 2026-10-12)
+[^ref-24]: [GOG.com – EcoQuest II Dreamlist](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest-1993) – Dreamlist votes (420 as of 2026-11-11)
 [^ref-25]: [GameFAQs – Guide and Walkthrough by odino](https://gamefaqs.gamespot.com/pc/564688-lost-secret-of-the-rainforest/faqs/64006) – walkthrough data
 [^ref-26]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_EcoQuest_2_-_Lost_Secret_of_the_Rainforest_1993) – game preservation
 [^ref-27]: [Internet Archive – Alternative Upload](https://archive.org/details/ecoquest-2) – game preservation
@@ -252,5 +252,10 @@ It was the last *EcoQuest* game. The Discovery Series itself ended in 1993, when
 [^ref-31]: [MobyGames – DOS Credits](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/credits/dos/) – producer, production, programming, art direction, sound, voiceovers, playtesting
 [^ref-32]: [MobyGames – Cover Art](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/covers/) – "DOS and Windows 16-bit" boxed 3.5" and 5.25" disk releases
 [^ref-33]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – for King's Quest VI, Sierra "brought over Jane Jensen, who was fresh off the task of co-designing" EcoQuest: The Search for Cetus with Gano Haine
-[^ref-34]: [The Digital Antiquarian – The Sierra Discovery Adventures](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Discovery Series line, Cetus "did well enough", sequel released early 1993, end of the Discovery Series and of EcoQuest
+[^ref-34]: [The Digital Antiquarian – The Sierra Discovery Adventures](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) – Discovery Series line, Cetus "did well enough", sequel released early 1993, end of the Discovery Series and of EcoQuest; also dates Cetus to early 1992
 [^ref-35]: [MobyGames – Lost Secret of the Rainforest: Tech Specs](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/specs/) – DOS minimum RAM 2 MB, Intel 80286, EGA/MCGA/VGA (read via the MobyGames API)
+[^ref-36]: [MobyGames – Lost Secret of the Rainforest: Critic Reviews](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/reviews/) – critic average 75% from 11 ratings; PC Games, PC Player, Play Time, ASM and Digitiser entries (checked 2026-11-11)
+[^ref-37]: [Internet Archive – Tilt issue 120 (scan)](https://archive.org/details/Tilt120) – p. 87: Lost Secret of the Rain Forest review, "Oui, mais..." verdict, overall 78%, durée de vie 50%
+[^ref-38]: [Kultboy – Power Play 5/93 review scan, EcoQuest 2](https://www.kultboy.com/index.php?site=t&id=3654) – p. 38: MS-DOS 74%, Grafik 78%, Sound 67%
+[^ref-39]: [Kultboy – PC Joker 4/93 review scan, Eco Quest II](https://www.kultboy.com/index.php?site=t&id=1939) – p. 30: overall 60%; Grafik 83%, Sound 69%, Atmosphäre 64%, Motivation 56%
+[^ref-40]: [Super Page 58 – Digitiser review archive: Lost Secret of the Rainforest (PC), 27/3/93](https://www.superpage58.com/digitiser-video-game-reviews-archive-lost-secret-of-the-rainforest-pc-1993.htm) – Teletext PC review pages 1-2: "OVERALL" three and a half blocks, "Pass the sick bag..."
