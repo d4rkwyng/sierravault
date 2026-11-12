@@ -10,14 +10,14 @@ series: Bolt Riley
 engine: Unity
 protagonist: Bolt Riley
 sierra_lineage: Alumni Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Omri Lahav]
 description: 'Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by Quest for Glory creators Corey and Lori Cole, following a poor Jamaican boy on his pathway to reggae stardom.'
 tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 ---
 # Bolt Riley: A Reggae Adventure
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -58,6 +58,8 @@ Bolt Riley uses a traditional point-and-click interface[^ref-1], built in Unity 
 
 The game was planned as an episodic adventure, with each chapter focusing on a different aspect of Bolt's journey to reggae stardom[^ref-1]. Rock Paper Shotgun reported three planned chapters, each stand-alone[^ref-5]; by 2018 Sharon wanted the whole story told in "either 2 or 3 chapters"[^ref-28]. Chapter 2 was planned with almost all new screens and characters, including the Trench Town market, a local DJ and a back alley, while Chapter 3 would revisit earlier scenes with new goals, puzzles and dialog[^ref-28].
 
+According to Just Adventure's review, Chapter 1 opens with a concert tutorial, then offers two interactive scenes and a single quest: Bolt, pressured by Rude Boys leader Demonde, must obtain a radio from an old man, with Smokey accompanying him. It ends with an animated "to be continued" sequence. The reviewer describes "find and use" puzzles and lengthy dialog trees, and noted that inventory items and "inspiration" items can be combined[^ref-34].
+
 ### Puzzles and Mechanics
 
 Bolt Riley features classic adventure game puzzle design, including:
@@ -71,7 +73,7 @@ Bolt Riley features classic adventure game puzzle design, including:
 
 ### Contemporary Reviews
 
-Bolt Riley: A Reggae Adventure received little critical coverage: Metacritic lists no critic reviews for the game[^ref-29]. Just Adventure's Cindy Kyser reviewed Chapter 1 on March 6, 2018 and graded it C+[^ref-34]. Her pros were that it "shows promise of evolving into a solid point-and-click adventure with a reggae theme", "excellent music with professional voice acting" and high-quality graphics and animation; her cons were that Chapter 1 "is so short that it almost qualifies as a teaser or a demo" and that the limited content offered for purchase was "very disappointing" after so long in development. She completed the chapter in "well under an hour"[^ref-34]. Before release, Rock Paper Shotgun's preview called the project "an interesting team-up"[^ref-5].
+Bolt Riley: A Reggae Adventure received little critical coverage: Metacritic lists no critic reviews for the game[^ref-29]. Just Adventure's Cindy Kyser reviewed Chapter 1 on March 6, 2018 and graded it C+[^ref-34]. Her pros were that it "shows promise of evolving into a solid point-and-click adventure with a reggae theme", "excellent music with professional voice acting" and high-quality graphics and animation; her cons were that Chapter 1 "is so short that it almost qualifies as a teaser or a demo" and that the limited content offered for purchase was "very disappointing" after so long in development. She completed the chapter in "well under an hour"[^ref-34]. On technical problems, Kyser wrote that on a 9-inch Samsung Galaxy tablet running Android 7 "the top and bottom portions of the game screen were cut off", making dialog inaccessible, so she switched to the PC version. About halfway through, the game crashed and the save file could not be used to continue, which forced her to start over; she added that "there are still some kinks in the interface which need to be worked out"[^ref-34]. Before release, Rock Paper Shotgun's preview called the project "an interesting team-up"[^ref-5].
 
 Chapter 1 debuted as an Early Access title on April 20, 2016, on Steam, the Humble Store, and Razer ForgeTV[^ref-26]. In February 2018 Sharon released iOS and Android versions and took the game out of Early Access on Steam[^ref-22]. In a February 2018 Patreon post, Sharon reported combined net revenue from Chapter 1 sales of $1,835, and said that, with no steady income, "every single person who worked for Adventure Mob is currently busy with other projects."[^ref-28] He estimated that $42,000 was needed to complete Chapter 2 and proposed funding it through Patreon[^ref-28][^ref-22]. In April 2018 Sharon told patrons that Bolt Riley had been accepted to ID@Xbox and that he was waiting for devkits[^ref-32]; a month later he wrote that getting the game onto tvOS and Xbox One was "a harder challenge than I would have expected", as obsolete Adventure Creator functions meant the project needed upgrading first[^ref-33]. MobyGames lists no tvOS or Xbox One release[^ref-9].
 
@@ -91,6 +93,8 @@ Steam user reviews are mixed[^ref-1]. Reviewers consistently criticise how short
 ### Origins
 
 Oded Sharon is the CEO of Tel Aviv-based Adventure Mob[^ref-6]. In 2007 he started Corbomite Games, which made games including Zbang, Pizza Morgana, and Star Shipping Inc.[^ref-6] Adventure Mob later created the first demo for Leisure Suit Larry[^ref-6]; Sharon's Kickstarter biography says the studio "created a unique framework that help us make Adventure games in Unity3D"[^ref-2].
+
+In a November 2013 NoCamels interview, Sharon said the reggae theme came about while the team was talking to a publisher they were working with at the time, which "had licensing for some Reggae musicians"; he described adventure games as usually Sci-Fi or Fantasy themed. NoCamels reported that production began in June 2011, and that the studio meant to market and distribute the game began to go under, leaving Sharon by March 2012 with an unfinished game that the team continued out of pocket[^ref-35].
 
 Replay Games raised more than $600,000 on Kickstarter to remake Leisure Suit Larry[^ref-27]. As GamesBeat reported in an exclusive in July 2012: "The plan was to have Adventure Mob, a Tel Aviv-based game studio, build a cross-platform game using the Unity Technologies game engine. But now the company will use N-Fusion Interactive, a Manalapan, N.J.-based game studio"[^ref-27]. The report gave no reason for the switch beyond Replay founder Paul Trowe calling it "a good thing for us"[^ref-27].
 
@@ -138,7 +142,7 @@ Sharon's connection to The Journey Down developers Skygoblin helped bring in Sar
 | Early Access | April 20, 2016 | Steam, Humble Store, Razer ForgeTV | Chapter 1 debut[^ref-26] |
 | Ouya | September 2016 | Ouya | MobyGames release date[^ref-9] |
 | Chapter 1 | February 8, 2018 | Windows, macOS, Linux, iOS, Android | Steam and MobyGames date; Steam exit from Early Access, iOS and Android launch[^ref-1][^ref-9][^ref-22] |
-| Chapter 1 | January 11, 2018 | Windows, macOS, Linux, iOS, Android | Release date as listed in Just Adventure's review; the page does not say which store it refers to[^ref-34] |
+| Chapter 1 | January 11, 2018 | Windows, macOS, Linux, iOS, Android | Just Adventure's listing; store unspecified[^ref-34] |
 
 ## Legacy
 
@@ -204,4 +208,5 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 [^ref-31]: [IMDb – Bolt Riley: A Reggae Adventure (2016), full credits](https://www.imdb.com/title/tt8707024/fullcredits/) — Writers: Corey Cole (co-writer), Lori Ann Cole (co-writer), Oded Sharon (written by); user-contributed database
 [^ref-32]: [Patreon – Oded Sharon, "Bolt Riley accepted to ID@Xbox + TvOS" (2018-04-16)](https://www.patreon.com/posts/18010468) — "It got accepted! Now I am waiting for the devkits to arrive and will build and launch it."
 [^ref-33]: [Patreon – Oded Sharon, "Bolt Riley on TVoS and XBOX One" (2018-05-10)](https://www.patreon.com/posts/18639631) — "a harder challenge than I would have expected"; obsolete Adventure Creator functions require an upgrade
-[^ref-34]: [Just Adventure – Bolt Riley: A Reggae Adventure (Chapter 1) review by Cindy Kyser (2018-03-06)](https://www.justadventure.com/2018/03/06/bolt-riley-a-reggae-adventure-chapter-1/) — Grade C+; pros/cons; "well under an hour"; lists release date January 11, 2018
+[^ref-34]: [Just Adventure – Bolt Riley: A Reggae Adventure (Chapter 1) review by Cindy Kyser (2018-03-06)](https://www.justadventure.com/2018/03/06/bolt-riley-a-reggae-adventure-chapter-1/) — Grade C+; pros/cons; "well under an hour"; lists release date January 11, 2018; Chapter 1 content, Android screen cut-off and crash
+[^ref-35]: [NoCamels – Israeli Kickstarter Campaign Tries To Bring A Reggae Adventure Game To Life (Miles Rosenblatt, 2013-11-23, Wayback Machine)](https://web.archive.org/web/20131229104731/http://nocamels.com/2013/11/israeli-kickstarter-campaign-tries-to-bring-a-reggae-adventure-game-to-life/) — Origin of the reggae theme (publisher with reggae licensing), June 2011 production start, March 2012 distributor trouble
