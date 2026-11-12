@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Softporn Adventure", "BC's Quest for Tires", "Frogger", "Leisure Suit Larry in the Land of the Lounge Lizards"]
 companies: ["Blue Sky Software", "Sierra On-Line", "Technology Systems Inc."]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Chuck Benton
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ Benton met Ken Williams at a trade show where he was selling *Softporn Adventure
 
 His contract work for Sierra included:
 
-- **Frogger** (1982–1983): MobyGames credits him on the Atari 8-bit (1982) and Commodore 64 (1983) versions.[^ref-4] Retro365 describes his Atari work as an upgrade of John Harris's version that added a two-player option, released in 1983.[^ref-18] Lemon64 credits "Charles Benton" as creator and musician of the C64 version.[^ref-20]
+- **Frogger** (1982–1983): MobyGames credits him on the Atari 8-bit (1982) and Commodore 64 (1983) versions.[^ref-4] Retro365 describes his Atari work as an upgrade of John Harris's version that added a two-player option, released in 1983, and adds that his Atari and Commodore 64 versions were released together as a combo in 1984 under the generic Sierra name.[^ref-18] Lemon64 credits "Charles Benton" as creator and musician of the C64 version.[^ref-20]
 - **BC's Quest for Tires** (1983–1984): Programmer of the Atari 8-bit and Commodore 64 versions; Lemon64 lists "Charles Benton" as coder of the C64 release.[^ref-4][^ref-21] He told The New Yorker, "I caught up with their programmers and so began designing the second half of the game myself, even though it wasn't part of the contract."[^ref-17] Get Lamp's notes add that it was meant to be a port of the ColecoVision version and that he ended up composing the latter part of the game himself.[^ref-5] Electronic Games' May 1984 review of the Atari version credited "Programmer Chuck Benton."[^ref-25] He said it "won some magazine's 'bug of the month' award," because at one spot "your character would actually land in the code as opposed to on the screen."[^ref-3]
 - **Crossfire** (1983): Programmer of the Commodore 64 version, for which Lemon64 also credits him with the music.[^ref-4][^ref-19] Benton recalled, "I did the Commodore 64 and Atari versions I believe," adding that the game "requires a trance-like concentration."[^ref-3]
 - **Wizard of Id's WizType and WizMath** (1984): Programmer of both Apple II titles.[^ref-4]
@@ -49,7 +49,7 @@ Sierra released *Leisure Suit Larry in the Land of the Lounge Lizards* in 1987; 
 
 ### Later Career
 
-Benton's 2014 biography for a U.S. House committee hearing says that "in 1987, Chuck was lured back into the simulation business by the Defense Advanced Research Projects Agency, at which time he formed Technology Systems, Inc."; Get Lamp's timeline dates TSI's start to 1985.[^ref-16][^ref-5] The New Yorker says DARPA approached him to create training games for soldiers, work that led to the SIMNET project.[^ref-17] Benton's 2003 convention keynote biography said he "helped launch the PC industry, broke new ground in the development of network protocols, and has fueled technical innovations that have produced broad and far reaching impacts in national capability."[^ref-5]
+Benton's 2014 biography for a U.S. House committee hearing says that "in 1987, Chuck was lured back into the simulation business by the Defense Advanced Research Projects Agency, at which time he formed Technology Systems, Inc."; Get Lamp's timeline dates TSI's start to 1985, and The Atlantic and Wikipedia's *Softporn Adventure* article likewise place the company's founding in 1985.[^ref-16][^ref-5][^ref-14][^ref-1] The New Yorker says DARPA approached him to create training games for soldiers, work that led to the SIMNET project.[^ref-17] Benton's 2003 convention keynote biography said he "helped launch the PC industry, broke new ground in the development of network protocols, and has fueled technical innovations that have produced broad and far reaching impacts in national capability."[^ref-5]
 
 At TSI he worked on training simulators for the military and, he says, "the first large-scale voice over IP implementation", a classified project in thirteen countries.[^ref-3][^ref-16] He wrote code for the first five years, then "jokingly referred to it that I programmed in Powerpoint"; the company "bounced between ten and twenty people over the years."[^ref-3]
 
@@ -67,7 +67,7 @@ During COVID he co-wrote three thriller novels with author Steven Becker: *The A
 
 ### Softporn Adventure (1981)
 
-*Softporn Adventure* is a text adventure in which the player tries to win over three women.[^ref-1][^ref-3] Softline's January 1982 review credits Benton and Blue Sky Software as the authors and names Chris Iden of Yosemite Software Products for the [Atari] version, so Benton is the original author and the Atari conversion is credited to Iden; MobyGames, by contrast, lists Benton as writer of the Atari release.[^ref-26][^ref-4] Benton sold the first version himself: "I made 1000 and sold 100," he told Get Lamp.[^ref-5] The box cover's hot tub photo was Ken Williams's idea, according to historian Laine Nooney, and was shot at the Williamses' home; the women in it were Sierra staff, Roberta Williams among them.[^ref-14][^ref-1][^ref-5] Time ran a story mentioning the game on October 5, 1981, by which point 4,000 copies had been sold; Benton recalled his mother's reaction to the article: "oh, now everybody knows…"[^ref-14][^ref-3] Get Lamp puts total sales "up past the 50,000 mark."[^ref-5] Benton said On-Line's sales rose because customers "came in and bought multiples of their product line, to hide the fact that they only wanted Softporn Adventure."[^ref-3]
+*Softporn Adventure* is a text adventure in which the player tries to win over three women.[^ref-1][^ref-3] Softline's January 1982 review credits Benton and Blue Sky Software as the authors and names Chris Iden of Yosemite Software Products for the [Atari] version, so Benton is the original author and the Atari conversion is credited to Iden; MobyGames, by contrast, lists Benton as writer of the Atari release.[^ref-26][^ref-4] MobyGames also lists later releases of the game: a 1991 DOS version ("Apple version by" Benton), a 2002 browser version and a 2013 Commodore 64 version (both "Written by" Benton).[^ref-4] Benton sold the first version himself: "I made 1000 and sold 100," he told Get Lamp.[^ref-5] The box cover's hot tub photo was Ken Williams's idea, according to historian Laine Nooney, and was shot at the Williamses' home; the women in it were Sierra staff, Roberta Williams among them.[^ref-14][^ref-1][^ref-5] Time ran a story mentioning the game on October 5, 1981, by which point 4,000 copies had been sold; Benton recalled his mother's reaction to the article: "oh, now everybody knows…"[^ref-14][^ref-3] Get Lamp puts total sales "up past the 50,000 mark."[^ref-5] Benton said On-Line's sales rose because customers "came in and bought multiples of their product line, to hide the fact that they only wanted Softporn Adventure."[^ref-3]
 
 Nooney writes that Benton "claims parts of the game were drawn from his own experience, but has never fessed up to which parts"; Get Lamp files one interview clip under the title "It's Semi-Autobiographical."[^ref-14][^ref-5]
 
@@ -95,19 +95,19 @@ Benton disliked "games that had an endless number of empty rooms and scenes"; hi
 
 ### Blue Sky Software / Independent (1981–1982)
 
-- **1981** — [[1981 - Softporn Adventure|Softporn Adventure]] — Platform: Apple II, Role: Writer (designer, programmer); Softline's January 1982 review credits the game "By Chuck Benton, Blue Sky Software. [Atari] version by Chris Iden, Yosemite Software Products," while MobyGames lists Benton as writer of the Atari 8-bit release[^ref-26][^ref-4]
-- 1982 — Jump Jet — Apple II — Author (distributed by Avant-Garde Creations)
+- **1981** — [[1981 - Softporn Adventure|Softporn Adventure]] — Platform: Apple II, Role: Writer (designer, programmer); Softline's January 1982 review credits the game "By Chuck Benton, Blue Sky Software. [Atari] version by Chris Iden, Yosemite Software Products," while MobyGames lists Benton as writer of the Atari 8-bit release; later MobyGames credits are "Apple version by" (DOS, 1991) and "Written by" (browser, 2002; Commodore 64, 2013)[^ref-26][^ref-4]
+- 1982 — Jump Jet — Apple II — Author (distributed by Avant-Garde Creations)[^ref-9][^ref-3][^ref-4]
 
 ### Sierra On-Line Contract Work (1982–1984)
 
-- **1982–83** — [[1981 - Frogger|Frogger]] — Platform: Atari 8-bit, Role: Programmer (upgrade of John Harris's version; MobyGames dates the credit 1982, Retro365 dates the two-player upgrade 1983)
-- **1983** — [[1981 - Frogger|Frogger]] — Platform: Commodore 64, Role: Programmer, Music
-- **1983** — [[1981 - Crossfire|Crossfire]] — Platform: Commodore 64, Role: Programmer, Music
-- **1983** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Atari 8-bit, Role: Programmer
-- **1984** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Commodore 64, Role: Programmer
-- **1984** — [[1984 - Wizard of Id's WizType|Wizard of Id's WizType]] — Platform: Apple II, Role: Programmer
-- **1984** — [[1984 - Wizard of Id's WizMath|Wizard of Id's WizMath]] — Platform: Apple II, Role: Programmer
-- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Platform: Commodore 64 (per MobyGames; Benton recalls Atari and Apple), Role: Programmer
+- **1982–83** — [[1981 - Frogger|Frogger]] — Platform: Atari 8-bit, Role: Programmer (upgrade of John Harris's version; MobyGames dates the credit 1982, Retro365 dates the two-player upgrade 1983 and a combined Atari/C64 release 1984)[^ref-4][^ref-18]
+- **1983** — [[1981 - Frogger|Frogger]] — Platform: Commodore 64, Role: Programmer, Music[^ref-4][^ref-20]
+- **1983** — [[1981 - Crossfire|Crossfire]] — Platform: Commodore 64, Role: Programmer, Music[^ref-4][^ref-19]
+- **1983** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Atari 8-bit, Role: Programmer[^ref-4]
+- **1984** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Commodore 64, Role: Programmer[^ref-4][^ref-21]
+- **1984** — [[1984 - Wizard of Id's WizType|Wizard of Id's WizType]] — Platform: Apple II, Role: Programmer[^ref-4]
+- **1984** — [[1984 - Wizard of Id's WizMath|Wizard of Id's WizMath]] — Platform: Apple II, Role: Programmer[^ref-4]
+- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Platform: Commodore 64 (per MobyGames; Benton recalls Atari and Apple), Role: Programmer; Lemon64 and the FRGCB blog instead credit Al Lowe as C64 coder[^ref-4][^ref-3][^ref-22][^ref-23]
 
 ### Other Contract Work
 
@@ -115,11 +115,11 @@ Benton disliked "games that had an endless number of empty rooms and scenes"; hi
 
 ### Design Credits
 
-- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Design ("Designed by" / "Original game design by")
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Design ("Designed by" / "Original game design by")[^ref-4]
 
 ### Later Acknowledgments (2018)
 
-- **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Leisure Suit Larry: Wet Dreams Don't Dry]] — Role: Special Thanks
+- **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Leisure Suit Larry: Wet Dreams Don't Dry]] — Role: Special Thanks[^ref-4]
 
 ## References
 
@@ -138,7 +138,7 @@ Benton disliked "games that had an endless number of empty rooms and scenes"; hi
 [^ref-19]: [Lemon64 - Crossfire (Wayback, January 2026)](http://web.archive.org/web/20260116021045/https://www.lemon64.com/game/crossfire-sierra-on-line) — C64, 1983, Sierra On-Line; Creator Charles Benton, Jay Sullivan; Musician Charles Benton
 [^ref-20]: [Lemon64 - Frogger (Wayback, January 2025)](http://web.archive.org/web/20250126195800/https://www.lemon64.com/game/frogger) — C64, 1983, Sierra On-Line; Creator and Musician Charles Benton
 [^ref-21]: [Lemon64 - B.C.'s Quest for Tires (Wayback, November 2025)](http://web.archive.org/web/20251121212014/https://www.lemon64.com/game/bcs-quest-for-tires) — C64, 1984; Coder Charles Benton
-[^ref-22]: [Lemon64 - Donald Duck's Playground](https://www.lemon64.com/game/donald-ducks-playground) — C64, Sierra On-Line (US); Coder: Al Lowe; Musician: Al Lowe
+[^ref-22]: [Lemon64 - Donald Duck's Playground (Wayback, July 2026)](http://web.archive.org/web/20260710065237/https://www.lemon64.com/game/donald-ducks-playground) — C64, Sierra On-Line (US); Coder: Al Lowe; Musician: Al Lowe
 [^ref-23]: [FRGCB - Donald Duck's Playground (US Gold/Sierra On-Line, 1984) (April 2014)](http://frgcb.blogspot.com/2014/04/donald-ducks-playground-us-goldsierra.html) — "Written by Al Lowe for the Commodore 64"
 [^ref-24]: [MobyGames - The American Challenge: A Sailing Simulation](https://www.mobygames.com/game/1467/the-american-challenge-a-sailing-simulation/) — read via the MobyGames API: DOS 1986-05; published by Mindscape, developed by Tom Snyder Productions
 [^ref-25]: [Electronic Games, Vol. 2 No. 12 (May 1984), Internet Archive scan](https://archive.org/details/Electronic_Games_Volume_02_Number_12_1984-05_Reese_Communications_US) — review of B.C.'s Quest for Tires (Sierra On-Line, Atari computers): "Programmer Chuck Benton has translated all of the comic strip's considerable charm"
