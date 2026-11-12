@@ -10,13 +10,13 @@ series: Mixed-Up
 engine: SCI0
 protagonist: Player-chosen child character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Mixed-Up Mother Goose (SCI Remake) is Sierra On-Line's SCI0 EGA floppy remake of Roberta Williams' 1987 AGI children's adventure, with improved graphics and sound card support but the same gameplay.
 tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -47,7 +47,7 @@ The manual pitches the game at "children ages 4 and up", with "over 44 delightfu
 
 Old King Cole's rhyme "is missing three different items which must be returned to him in the correct order"[^ref-26]. The CD version cut this, and its manual counts "18 missing characters and objects"[^ref-30][^ref-7].
 
-"The Inventory Window can hold only one object at a time"; picking up a new object drops the old one[^ref-26]. MobyGames adds that "each time the game is played objects will be in a new location"[^ref-19][^ref-5]. The kid moves by mouse, joystick or the keyboard, and Sierra packed a map and a poster in the box[^ref-26].
+"The Inventory Window can hold only one object at a time"; picking up a new object drops the old one[^ref-26]. MobyGames adds that "each time the game is played objects will be in a new location"[^ref-19]. The kid moves by mouse, joystick or the keyboard, and Sierra packed a map and a poster in the box[^ref-26].
 
 Adventure Gamers' database entry calls it "a children's adventure game so simple that once you start the game, even a young child can take over"[^ref-3].
 
@@ -76,8 +76,10 @@ MobyGames credits this version (DOS) as follows[^ref-19]:
 - "Mother Goose" theme: Amenda Lombardo
 - Music arrangements and sound effects: Ken Allen
 - Documentation: Marti McKenna
+- SCI Development System: Jeff Stephenson, Robert Eric Heitman, Pablo Ghenis, John Hartin, Dan Foy, John Rettig, Corinna Abdul, Corey Cole
+- Quality Assurance: Sharon Hoban-Smith, Sharon Simmons, Victor Sadauskas
 
-The manual's own credits use the short forms Jerry Moore and Carlos Escobar, spell the composer "James William Eliot", and add additional artist Cheryl Loyd and programmers Scott Murphy, Chris Smith and Chris Hoyt[^ref-26].
+The manual's own credits use the short forms Jerry Moore and Carlos Escobar, list the development-system programmers as "Jeff Stevenson" and "Robert E. Heitman", spell the composer "James William Eliot", and add additional artist Cheryl Loyd and programmers Scott Murphy, Chris Smith and Chris Hoyt[^ref-26].
 
 ### Atari ST upgrade
 
@@ -86,6 +88,10 @@ The manual's own credits use the short forms Jerry Moore and Carlos Escobar, spe
 ### Platforms
 
 MobyGames also lists Apple II and Apple IIgs releases[^ref-19], but no period source supports an Apple version of this SCI game. In 1989 Ken Williams said "the SCI development language... is just too big and too complex for the relatively slow CPU of the Apple IIGS machine", and Sierra stopped SCI development for that computer[^ref-28]. Neither the manual nor ScummVM's data lists an Apple version[^ref-26][^ref-29]. Sierra's Fall 1991 *InterAction* listed the SCI version beside the separate Multimedia CD: "Recently redesigned and redrawn, Mixed-Up Mother Goose (SCI) features better, more enjoyable art and a lively, fun soundtrack"[^ref-27].
+
+## Technical Specifications
+
+ScummVM's SCI detection table identifies the English DOS floppy EGA release as game version 1.011 (from its VERSION file), running SCI interpreter version 0.000.685[^ref-29]. A mail-order ad in *Computer Gaming World* (April 1991) priced "Mother Goose Enhanced" at $24.95[^ref-24].
 
 ## Legacy
 
@@ -97,7 +103,11 @@ This version was followed by the 1991 VGA/CD remake and by *Mixed-Up Mother Goos
 
 Mixed-Up Mother Goose is not currently sold on GOG or Steam. GOG's old community wishlist entry for the game is still online. One comment reads "A true hidden gem, and a great game for kids!"[^ref-9]
 
-- **Internet Archive:** [Mixed-Up Mother Goose (MS-DOS, 1991)](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991) is the SCI version, whose description matches MobyGames' entry for this remake[^ref-5]
+No verified archive copy of the SCI version is linked here (checked November 2026).
+
+**Manuals & Extras**
+
+- [Mixed-Up Mother Goose (SCI) manual scan](https://archive.org/details/vgmuseum_sierra_mothergoose-manual)[^ref-26]
 
 ## See Also
 
@@ -109,7 +119,6 @@ Mixed-Up Mother Goose is not currently sold on GOG or Steam. GOG's old community
 ## References
 
 [^ref-3]: [Adventure Gamers - Roberta Williams' Mixed-Up Mother Goose (SCI remake)](https://web.archive.org/web/20211201155930/https://adventuregamers.com/games/view/36614) - Wayback Machine copy (2021-12-01) of the database entry for the SCI remake
-[^ref-5]: [Internet Archive - Mixed-Up Mother Goose (MS-DOS, 1991)](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991) - SCI version, with the MobyGames description
 [^ref-7]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) - Gameplay, the three remakes (SCI0 "Enhanced" 1990, VGA/CD 1991, Deluxe 1995), and the Atari ST upgrade
 [^ref-9]: [GOG Community Wishlist - Mixed-Up Mother Goose](https://www.gog.com/wishlist/games/mixedup_mother_goose) - Archived community wishlist entry with user comments
 [^ref-17]: [MobyGames - Mixed-Up Mother Goose (1991 VGA remake, #1085)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) - The separate VGA version: "VGA graphics, complete digitized speech"
