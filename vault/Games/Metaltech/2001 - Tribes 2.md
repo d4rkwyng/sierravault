@@ -10,7 +10,7 @@ series: Starsiege
 engine: Torque Game Engine
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Tribes 2 is a sci-fi first-person shooter multiplayer video game developed
   by Dynamix and published by Sierra On-Line in 2001 as the sequel to Starsiege: Tribes,
   featuring large-scale team-based combat with jetpack-powered movement.'
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, starsiege]
 ---
 # Tribes 2
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,12 +30,16 @@ DailyRadar's review of the game said of the original *Tribes*: "Unlike anything 
 > **Developer:** [[Dynamix]][^ref-7]
 > **Designer:** Eric Lanz, Dave Meddish, Jesse Russell[^ref-7][^ref-29]
 > **Publisher:** Sierra On-Line[^ref-7]
+> **Engine:** Torque Game Engine[^ref-7][^ref-34]
 > **Platforms:** Windows, Linux[^ref-5]
-> **Release Year:** 2001
+> **Release Year:** 2001[^ref-7]
 > **Series:** Starsiege
+> **Protagonist:** Tribal Warrior (player-created)[^ref-7]
 > **Sierra Lineage:** Core Sierra
-> **Engine:** Torque Game Engine
-> **Protagonist:** Tribal Warrior (player-created)
+> **Producer:** David Georgeson[^ref-7][^ref-29]
+> **Programmer:** Mark Frohnmayer[^ref-7][^ref-29]
+> **Artist:** Craig Maitlen[^ref-7][^ref-29]
+> **Composer:** Timothy Steven Clarke[^ref-7][^ref-29]
 
 ## Story Summary
 
@@ -84,28 +88,68 @@ Development began as a sequel to Starsiege: Tribes, which came out at the very e
 
 ### Production
 
-David Georgeson was producer and director, with Mark Frohnmayer as lead programmer and Eric Lanz, David Meddish and Jesse Russell as designers[^ref-29]. The voice talent was John Armstrong, Mark Berry, Kiamalise Budak, Kymberli Colbourne, Craig English, Kit Harris, Jay Hopper, Mike Madeoy, Dex Manley, Kate Myre, Matt Reidy, Gary Schwartz and Jen Taylor[^ref-29]. The musical score was composed by Timothy Steven Clarke[^ref-7].
+David Georgeson was producer and director, with Mark Frohnmayer as lead programmer and Eric Lanz, David Meddish and Jesse Russell as designers[^ref-29]. Craig Maitlen is credited as art director and Blake Hutchins as writer[^ref-29]. The musical score was composed by Timothy Steven Clarke[^ref-7].
+
+The Linux version was a port by Loki; its credits list programming by Sam Lantinga, Joseph I. Valenzuela and Michael Vance[^ref-29].
+
+Sierra also announced a tie-in with Mötley Crüe, billed as "the year's largest musical venture in the gaming industry." The band was to create guitar and drum loops for sound effects, write a new song for the soundtrack and appear in-game as digitised skins, but Rock Paper Shotgun reported that the game launched without any of it[^ref-45].
 
 On August 10, 2001, only months after launch, Slashdot relayed reports that Sierra's parent Vivendi was shutting Dynamix down[^ref-43]. The author of a GameFAQs beginner's guide thanked the team: "While corporate America may not appreciate all you've done, the community always will"[^ref-11].
+
+### Voice Cast
+
+The Dynamix wiki credits roll lists the following voice talent; it does not give character roles[^ref-29].
+
+| Actor | Credit |
+|-------|--------|
+| John Armstrong | Voice talent |
+| Mark Berry | Voice talent |
+| Kiamalise Budak | Voice talent |
+| Kymberli Colbourne | Voice talent |
+| Craig English | Voice talent |
+| Kit Harris | Voice talent |
+| Jay Hopper | Voice talent |
+| Mike Madeoy | Voice talent |
+| Dex Manley | Voice talent |
+| Kate Myre | Voice talent |
+| Matt Reidy | Voice talent |
+| Gary Schwartz | Voice talent |
+| Jen Taylor | Voice talent |
 
 ### Technical Achievements
 
 Tribes 2 ran on an early version of the Torque Game Engine[^ref-7][^ref-34]. It demanded substantial hardware for its time: PC Gamer listed a Pentium II 300, 64MB RAM and a 12MB 3D card as required[^ref-22], and GameSpot recommended at least a 600MHz Pentium III and a GeForce or Radeon graphics card[^ref-16]. Eurogamer noted 512x512 high-quality player models "tucked away on the CD"[^ref-19], and the game supports both Direct3D 7 and OpenGL[^ref-5].
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| North America release | March 29, 2001 | Windows | Original release[^ref-7][^ref-29][^ref-48] |
+| Europe release | April 13, 2001 | Windows | PAL region release[^ref-7][^ref-29] |
+| Linux | April 19, 2001 | Linux | Port by Loki[^ref-7][^ref-29][^ref-48] |
+| Freeware | May 4, 2004 | Windows | Sierra released the game as a freeware download[^ref-7] |
+| Freeware (Hi-Rez) | October 2015 | Windows | Hi-Rez Studios made every Tribes game free to download[^ref-42] |
+| TribesNEXT | January 2009 onward | Windows | Community account system and master server; stable patch RC2a, plus a PREVIEW build for modern systems[^ref-49] |
+
+Sources differ on the Windows release date: Metacritic and GameFAQs give March 28, 2001[^ref-20][^ref-3]; MobyGames, Wikipedia and the Dynamix wiki give March 29[^ref-48][^ref-7][^ref-29]; IGN and PCGamingWiki give March 30[^ref-21][^ref-5].
+
 ## Legacy
 
 The game's engine became the Torque Game Engine[^ref-7][^ref-44], which was later superseded by Torque 3D[^ref-44]. On September 10, 2012, GarageGames announced that it would release Torque 3D as open source under the MIT license[^ref-38]. Shortly after launch in 2001, DailyRadar counted "over 300 servers hosting games around the world"[^ref-4].
 
-The community created extensive modifications and content, including approximately 65 mods, multiple map packs, and more than 1000 scripts and utilities[^ref-40]. When Sierra discontinued official online support in 2008[^ref-41], the community developed TribesNext, a revival project that brought multiplayer functionality back online[^ref-24]. In October 2015, Hi-Rez Studios made every Tribes game available to download for free[^ref-42].
+The community created extensive modifications and content, including approximately 65 mods, multiple map packs, and more than 1000 scripts and utilities[^ref-40]. When Sierra discontinued official online support in 2008[^ref-41], the community developed TribesNext, a revival project that brought multiplayer functionality back online[^ref-24]. IGN noted that after the game went free in 2004, Sierra stopped distributing CD keys, which TribesNext removed the need for[^ref-24]. TribesNEXT describes itself as the multiplayer account system, master server and long-term support update for the freeware release, in public operation since January 2009[^ref-49]; as of November 11, 2026 its forum still showed replies from that month[^ref-47]. In October 2015, Hi-Rez Studios made every Tribes game available to download for free[^ref-42].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Currently available as freeware[^ref-42]
+- Currently available as freeware: Sierra released it as a freeware download in May 2004[^ref-7], and Hi-Rez Studios made every Tribes game free in October 2015[^ref-42]
 
 **Download / Preservation**
 - [Internet Archive - Tribes 2 Ultimate Game Pack](https://archive.org/details/Tribes2UltimateGamePack)
 - [TribesNext Community Project](https://www.tribesnext.com/)
+
+**Manuals & Extras**
+- [Tribes 2 Manual](https://archive.org/details/Tribes_2_Manual)[^ref-46]
 
 ## See Also
 
@@ -150,3 +194,8 @@ The community created extensive modifications and content, including approximate
 [^ref-42]: [GameSpot - Get every Tribes game for free](https://www.gamespot.com/articles/get-every-tribes-game-for-free/1100-6431870/) - Freeware announcement coverage (October 30, 2015)
 [^ref-43]: [Slashdot - Dynamix Closed Down?](https://games.slashdot.org/story/01/08/10/1157223/dynamix-closed-down) - August 10, 2001 report of Dynamix's shutdown
 [^ref-44]: [Wikipedia - Torque (game engine)](https://en.wikipedia.org/wiki/Torque_(game_engine)) - Engine developed by Dynamix for Tribes 2; superseded by Torque 3D
+[^ref-45]: [Rock Paper Shotgun - The Mötley Crüe Tribes 2 Theme Song Time Tried To Forget](https://www.rockpapershotgun.com/tribes-2-motley-crue-song) - Mötley Crüe tie-in (published July 17, 2014)
+[^ref-46]: [Internet Archive - Tribes 2 Manual](https://archive.org/details/Tribes_2_Manual) - Game manual item page
+[^ref-47]: [TribesNext - Forum discussions](https://www.tribesnext.com/forum/discussions) - Community forum activity (fetched November 11, 2026)
+[^ref-48]: [MobyGames - Tribes 2](https://www.mobygames.com/game/3566/tribes-2/) - Release dates (Windows March 29, 2001; Linux April 19, 2001); read via the MobyGames API
+[^ref-49]: [TribesNext - Home](https://www.tribesnext.com/) - Project description, in operation since January 2009; stable patch RC2a and PREVIEW build (fetched November 11, 2026)
