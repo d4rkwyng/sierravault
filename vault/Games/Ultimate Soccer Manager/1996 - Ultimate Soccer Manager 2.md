@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Ultimate Soccer Manager 2 is a 1996 football management game for DOS,
   developed by Impressions and published by Sierra On-Line, with English, French and
   German leagues, a tactics editor for set plays and hotseat play for up to eight managers.
@@ -18,7 +18,7 @@ tags: [1990s, sierra, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager 2
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -46,7 +46,7 @@ Games Domain reported that the box asked "Best buy of the season?", and that the
 
 USM2 keeps the first game's office-based interface. It moves it to SVGA at 640x480, and an icon bar at the top of the screen jumps to any area in one click[^ref-1][^ref-22]. Games Domain's Barak Engel called it "one of the best interfaces I've ever seen"[^ref-22]. The main screen shows a view of the club's stadium and its surroundings. From it, the manager reaches four working areas: his own office, the chairman's office, the changing room and the bank[^ref-22].
 
-The player picks a club from the English, French or German leagues. The English game runs from the Premiership down to the Conference[^ref-22][^ref-24]. Teams and players can be edited before the first season, and starting cash sets the difficulty. PC Review mentions options from £50,000 up to £10 million[^ref-22][^ref-25]. PC Review found the data "correct to the beginning of the 1996 season" and noted that the European players have real names[^ref-25]. Every player has nine skill ratings and a hidden personality value. Players have no fixed positions, so the manager must place each one according to his skills[^ref-1][^ref-22][^ref-28].
+The player picks a club from the English, French or German leagues. The English game runs from the Premiership down to the Conference[^ref-22][^ref-24]. In an editor's note to the Games Domain review, Tim Chown wrote that the French league has 4 divisions and the German 6 (2 main ones and 4 feeder divisions)[^ref-22]. Teams and players can be edited before the first season, and starting cash sets the difficulty. PC Review mentions options from £50,000 up to £10 million[^ref-22][^ref-25]. PC Review found the data "correct to the beginning of the 1996 season" and noted that the European players have real names[^ref-25]. Every player has nine skill ratings and a hidden personality value. Players have no fixed positions, so the manager must place each one according to his skills[^ref-1][^ref-28].
 
 ### Tactics and Training
 
@@ -130,7 +130,7 @@ PC Joker noted that the German edition's menus, many of them animated, now appea
 | Sierra Originals | 1997 | DOS | Budget re-release at £9.99[^ref-30] |
 | 2 Good 2 Be True: Volume 1 | 1997 | DOS | Compilation including USM2[^ref-1] |
 
-A playable demo appeared on the cover CD of PC Gamer UK #38 (Christmas 1996). It installed to `C:\SIERRA\USM2DEMO`[^ref-26]. PC Review #63 also carried a playable demo[^ref-25].
+A playable demo appeared on the cover CD of PC Gamer UK #38 (Christmas 1996). It installed to `C:\SIERRA\USM2DEMO`[^ref-26]. PC Review #63 also carried a playable demo on its cover CD, which let players pick a team and play a limited number of games. The magazine noted that sound was not included in the demo and that the tactics editor had been turned off[^ref-25].
 
 ## Legacy
 
