@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: Unconfirmed (not SCI)
 protagonist: Player (guided by Elaina)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Jonathan Cunningham]
 description: The Lost Mind of Dr. Brain is an educational puzzle game released in
   August 1995 by Sierra On-Line, developed by Bright Star Technology. The third game
@@ -19,7 +19,7 @@ tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Lost Mind of Dr. Brain
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -79,6 +79,8 @@ Giant Bomb sums up the topics as "memorization, programming, and musical reading
 
 Next Generation reviewed the Macintosh version in its September 1995 issue and gave it 3 out of 5 stars.[^ref-1][^ref-28] The review called it "borderline edutainment" but said the game "actually gets quite fun and not a little tense."[^ref-28] Macworld's Deke McClelland gave it 4 out of 5 in October 1995.[^ref-1] He called it "one of the very few games that I've found absolutely captivating from one hilarious puzzle to the next."[^ref-29]
 
+The CD Access retail page quotes two further magazine reviews. Computer Shopper (August 1995) wrote: "This entertaining program offers brain-numbing logic puzzles wrapped in rich graphics and warped by a zany theme."[^ref-33] PC Gamer (December 1996) judged that the game "has great educational value, but the lessons are well camouflaged."[^ref-33]
+
 Consumer Reports (December 1995) quoted Evan Rigterink: "If you want to challenge and test your brain, The Lost Mind of Dr. Brain is definitely the game for you. And it isn't just for young kids."[^ref-4] In its kids' software ratings, where the game was top-rated, the magazine said the "Dr. Brain series has been among the most successful at presenting pure problem-solving skills."[^ref-4]
 
 The Software Publishers Association named it Best Home Learning Game for Adolescents in 1995.[^ref-4][^ref-1]
@@ -105,21 +107,35 @@ The game was originally titled "Dr. Brain 3: Brain Damage".[^ref-22][^ref-17]
 
 ### Production
 
-Bright Star Technology developed the game for Sierra.[^ref-10][^ref-17] Wikipedia's infobox also lists Coktel Vision as a co-developer, but it gives no citation for this and it is not confirmed here.[^ref-1] The engine is likewise unconfirmed. The ScummVM wiki states that this game and The Time Warp of Dr. Brain "do not use the SCI engine."[^ref-27] In a MobyGames review, Adam Baratz praised "Sierra's trademark lipsyncing technology."[^ref-13]
+Bright Star Technology developed the game for Sierra.[^ref-10][^ref-17] Sources disagree on the credit, however: MobyGames and PCGamingWiki list Sierra On-Line, Inc. as developer, while Wikipedia and Giant Bomb's description name the Bright Star team.[^ref-34][^ref-35][^ref-1][^ref-10] Wikipedia's infobox also lists Coktel Vision as a co-developer, but it gives no citation for this and it is not confirmed here.[^ref-1] The engine is likewise unconfirmed. The ScummVM wiki states that this game and The Time Warp of Dr. Brain "do not use the SCI engine."[^ref-27] In a MobyGames review, Adam Baratz praised "Sierra's trademark lipsyncing technology."[^ref-13]
 
-**Development Credits** (MobyGames):[^ref-13]
+**Development Credits** (MobyGames):[^ref-13][^ref-34]
 - **Producer:** Sherry Wrana
 - **Designer:** Ward Makielski
 - **Lead Engineer:** Mark Marion
+- **Engineers:** Willie Eide, Stuart Seeyle, Steve Schonberger
+- **Artists:** Tony Benedict, Travis Brady, Bill Olmstead, Alex Perry
+- **Audio Engineers:** Johnathan Cunningham, Mark Krause
 - **Script:** Tony Benedict, Stephen Cosgrove, Dee Dickinson, Ward Makielski, Rodney Sherwood
 - **Creative Script Consultant:** Stephen Cosgrove
 - **Brain Consultant:** Dee Dickinson
 - **Composer:** Jonathan Cunningham (credited as "Johnathan")
 - **Voice Talent:** Rodney Sherwood, Kayce Glasse
+- **Quality Assurance:** Tim Knappenberger, Jay Williams
 
 ### Presentation and Design
 
 The game uses a new cartoon style of art, sound, and humour, with a large amount of animated voice acting.[^ref-10] Its Amazon product description says the puzzles require "the combined efforts of your seven intelligences," as described in Dr. Howard Gardner's Theory of Multiple Intelligences.[^ref-20]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Dr. Thaddeus P. Brain III | Rodney Sherwood[^ref-25] |
+| Elaina (Dr. Brain's niece) | Kayce Glasse[^ref-2][^ref-25] |
+| Rathbone (Lab rat) | Not separately credited. MobyGames lists only Sherwood and Glasse as voice talent.[^ref-13] |
+
+Elaina is the player's guide,[^ref-2] while Rathbone comments on the puzzles in a range of accents and personas.[^ref-8][^ref-13]
 
 ### Technical Specifications
 
@@ -148,7 +164,7 @@ According to The Cutting Room Floor, two incomplete puzzle games called "Hydra" 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | August 1995 | Windows 3.x, Macintosh | Initial release[^ref-1] |
+| — | August 1995 | Windows 3.x, Macintosh | Initial release[^ref-1][^ref-36] |
 | — | 1995 | Windows 95 | Updated Windows release[^ref-10] |
 | Retail listing | May 10, 2002 | Windows 95/98, Mac OS 9 | Amazon "Date First Available" for a Vivendi Universal-manufactured listing. Not confirmed as a distinct re-release.[^ref-7] |
 
@@ -164,16 +180,6 @@ A Sierra Gamers forum user wrote that the game "was designed to work under Windo
 - **Hidden Developer Message:** The game's resource files contain a hidden message that reads: "Why are you looking at the resources in this file?"[^ref-22]
 - **Twilight Zone Parody:** The File Sorting memory game has a Twilight Zone/television motif, "complete with a Rod Serling-alike."[^ref-17][^ref-13]
 - **IBM Bundling:** The game was included as free software with 1995 IBM Aptiva PCs.[^ref-5]
-
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Dr. Thaddeus P. Brain III | Rodney Sherwood[^ref-25] |
-| Elaina (Dr. Brain's niece) | Kayce Glasse[^ref-2][^ref-25] |
-| Rathbone (Lab rat) | Not separately credited. MobyGames lists only Sherwood and Glasse as voice talent.[^ref-13] |
-
-Elaina is the player's guide,[^ref-2] while Rathbone comments on the puzzles in a range of accents and personas.[^ref-8][^ref-13]
 
 ## Legacy
 
@@ -252,3 +258,7 @@ Both contemporary and later reviewers held that the game works as entertainment,
 [^ref-30]: [IMDb – The Lost Mind of Dr. Brain: Dr. Brain quotes](https://www.imdb.com/title/tt0455148/characters/nm1022189/) – Brain Drain, honeybee test, reconstruction plan
 [^ref-31]: [Computer Gaming World #94, May 1992 (Internet Archive full text)](https://archive.org/download/Computer_Gaming_World_Issue_94/Computer_Gaming_World_Issue_94_djvu.txt) – Castle of Dr. Brain review box, "DESIGNER: Corey Cole"
 [^ref-32]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (Wayback copy of SEC filing)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "The Company has sold more than 350,000 copies in this series"
+[^ref-33]: [CD Access – The Lost Mind of Dr. Brain (Wayback, March 2016)](https://web.archive.org/web/20160304122409/http://www.cdaccess.com/html/shared/drbrain.htm) – retailer page quoting Computer Shopper (August 1995) and PC Gamer (December 1996)
+[^ref-34]: [MobyGames – The Lost Mind of Dr. Brain (Wayback, June 2026)](https://web.archive.org/web/20260619203741/https://www.mobygames.com/game/2605/the-lost-mind-of-dr-brain/) – "Developed by Sierra On-Line Inc."; full credits (producer, engineers, artists, audio, script, QA)
+[^ref-35]: [PCGamingWiki – The Lost Mind of Dr. Brain](https://www.pcgamingwiki.com/wiki/The_Lost_Mind_of_Dr._Brain) – lists Sierra On-Line as developer; Windows 3.x and Windows 1995, Mac OS release dates
+[^ref-36]: [Giant Bomb – The Lost Mind of Dr. Brain](https://www.giantbomb.com/the-lost-mind-of-dr-brain/3030-6644/) – gives a release date of July 14, 1994; Wikipedia (August 1995), Computer Shopper (August 1995), Next Generation (September 1995), Macworld (October 1995) and MobyGames (1995) all date the game to 1995
