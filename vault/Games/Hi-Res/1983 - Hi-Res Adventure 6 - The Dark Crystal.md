@@ -10,7 +10,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Roberta Williams'' 1983 graphic adventure adaptation of Jim Henson''s film
   The Dark Crystal, the sixth and final Hi-Res Adventure, made with art direction
   from Henson Associates.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #6: The Dark Crystal
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ It was the sixth and final game in Sierra's Hi-Res Adventure series[^ref-5], fol
 
 ## Story Summary
 
-Set on Thra, a world whose three suns come together every thousand years in the Great Conjunction, the game casts the player as Jen, one of the last two surviving Gelflings, who must find the missing shard and repair the crystal[^ref-8][^ref-40]. Adventure Gamers' description reads: "In a faraway world, an event of cosmic importance is about to occur: a Great Conjunction of the planet's Three Suns. A thousand years ago, when the Suns last came together, a cruel and selfish tribe known as the Skeksis seized control of the radiant Crystal that once brought harmony to all beings"[^ref-1].
+Set on Thra, a world whose three suns come together every thousand years in the Great Conjunction, the game casts the player as Jen, one of the last two surviving Gelflings, who must find the missing shard and repair the crystal[^ref-8][^ref-40][^ref-44]. Adventure Gamers' description reads: "In a faraway world, an event of cosmic importance is about to occur: a Great Conjunction of the planet's Three Suns. A thousand years ago, when the Suns last came together, a cruel and selfish tribe known as the Skeksis seized control of the radiant Crystal that once brought harmony to all beings"[^ref-1].
 
 The official product description sets out the goal: "As Jen, the good Gelfling, find and restore the missing shard of the Great Crystal that will stop the evil Skeksis and their henchmen, the Garthim, from taking over the world"[^ref-9]. Along the way Jen is helped by Kira, another Gelfling, and her pet Fizzgig[^ref-9]. The game follows the film's plot but leaves room to deviate. Christopher Cerf, who edited the game, said: "Your game can end differently than in the movie. You can try out other possibilities. You can say, 'What would happen if I tried this.'"[^ref-4][^ref-39]
 
@@ -112,6 +112,8 @@ Cerf called the result "interactive fiction"[^ref-4]. Ken Williams told Creative
 
 Wikipedia and Bevilacqua, both drawing on MobyGames' cover data, describe it as the first Hi-Res Adventure released directly under the SierraVenture label[^ref-11][^ref-2]. The Atari 8-bit port is credited to Yosemite Software Products, with Chris Iden as programmer[^ref-7][^ref-13]. Hi-Res noted that copy protection was light: "Sierra has eschewed any sort of copy protection for all but Side A," so players could back up the data disks[^ref-41].
 
+The official manual (stock number DCD-001) lists the Apple II requirements as an Apple II or II+ with 48K, a disk drive and a monitor, colour for the best effect, and states that "Side A of Disk 1 is copy-protected. Side B of Disk 1 and both sides of Disk 2 are not"[^ref-44]. It credits Mary Ann Horstmeyer (Henson Associates) and Roberta Williams (Sierra) as project managers, and describes the game as produced by Sierra On-Line "in Great Conjunction with the Muppet Labs Division of Henson Associates, Inc., and Christopher Cerf Associates, Inc."[^ref-44]
+
 According to MobyGames, the Apple II and Atari 8-bit editions contain the same adventure and differ mainly in palette, screen layout and visual presentation. The Japanese versions were localized and published by Starcraft[^ref-7].
 
 ## Legacy
@@ -130,6 +132,7 @@ The Jim Henson Company hosts a free official re-creation of the game on the Dark
 - [MyAbandonware - Hi-Res Adventure #6: The Dark Crystal](https://www.myabandonware.com/game/hi-res-adventure-6-the-dark-crystal-7nz)[^ref-14]
 
 **Manuals & Extras**
+- [Official game manual (PDF, stock number DCD-001)](https://www.darkcrystal.com/game-assets/DarkCrystalManual.pdf)[^ref-44]
 - [Atarimania entry (instructions PDF and The Book of Atari Software review)](https://www.atarimania.com/game-atari-400-800-xl-xe-hi-res-adventure-6-the-dark-crystal_2468.html)[^ref-13]
 
 **Community Resources**
@@ -176,3 +179,4 @@ The Jim Henson Company hosts a free official re-creation of the game on the Dark
 [^ref-41]: [Hi-Res, Vol. 1 No. 3 (March 1984) - Reviews: The Dark Crystal by Mark S. Murley](https://www.atarimagazines.com/hi-res/v1n3/reviews.php) – Atari version: three double-sided disks, Side A-only copy protection, verb-noun parser, linear design
 [^ref-42]: [Softline, May–June 1983 (Internet Archive)](https://archive.org/details/Softline_1983_05_06) – review: "In a way, it's better than the movie"; Jim Mahon's graphics; "delightful"
 [^ref-43]: [The Dark Crystal (official site) - Play, archived July 2013](http://web.archive.org/web/20130721162232/http://www.darkcrystal.com/play/) – "We invite you to play our re-creation of The Dark Crystal computer game"; © 2013 The Jim Henson Company
+[^ref-44]: [The Dark Crystal (official site) - Computer Game Instruction Manual (PDF)](https://www.darkcrystal.com/game-assets/DarkCrystalManual.pdf) – Apple II/II+ with 48K; Disk 1 Side A copy-protected; stock number DCD-001; project managers Mary Ann Horstmeyer and Roberta Williams; Muppet Labs / Christopher Cerf Associates production credit; "two Gelfling, and two Gelfling alone, survived"; graphic artist spelled "Gregg Rowland" in the manual
