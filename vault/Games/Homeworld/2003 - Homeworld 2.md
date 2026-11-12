@@ -10,7 +10,7 @@ series: Homeworld
 engine: Custom 3D Engine
 protagonist: Karan S'jet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Paul Ruskay]
 description: Homeworld 2 is a 2003 three-dimensional real-time strategy game from
   Relic Entertainment and Sierra that continues the Hiigaran saga about a century after
@@ -19,7 +19,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -85,7 +85,7 @@ GameZone scored it 94/100, declaring that "everything that made the first one me
 
 PC Gameworld gave 92/100, stating "simply an amazing game. I can't say it any clearer than that. Nearly every aspect of the game is perfect, polished, and most importantly, fun"[^ref-21]. Gamers' Temple also scored 92/100 while noting "Homeworld 2 has established itself as the benchmark game in real-time strategy space combat. Its intense difficulty will be a turn off to many casual gamers, though"[^ref-21].
 
-PC Format declared it "this year's best RTS" with a 91/100 score[^ref-21]. IGN's Dan Adams gave the game a positive review, observing that Relic "didn't really outdo it, they just made it bigger, prettier, and easier to control"[^ref-14]. Impulse Gamer awarded 9.0/10, describing it as "a combination of RTS meets the space battles of Return of the Jedi"[^ref-22].
+PC Format declared it "this year's best RTS" with a 91/100 score[^ref-21]. IGN's Dan Adams scored it 9 out of 10 with an Editors' Choice badge, observing that Relic "didn't really outdo it, they just made it bigger, prettier, and easier to control"[^ref-14]. Impulse Gamer awarded 9.0/10, describing it as "a combination of RTS meets the space battles of Return of the Jedi"[^ref-22].
 
 ### Modern Assessment
 
@@ -100,7 +100,8 @@ However, some retrospective analysis has been more critical. One reviewer noted:
 - **Metacritic (Remastered Collection):** 86/100[^ref-23]
 - **MobyGames:** 81% (critic), 3.8/5 (player)[^ref-9]
 - **IMDB:** 8.2/10[^ref-27]
-- **Glitchwave:** 3.71/5.0[^ref-13]
+- **GameRankings:** 84.99% (46 reviews)[^ref-56]
+- **IGN:** 9/10, Editors' Choice[^ref-14]
 - **GOG User Score:** Generally positive with noted issues[^ref-24]
 
 ## Development
@@ -125,6 +126,21 @@ Genevieve Ostergard of Sierra addressed the delays, stating: "As for why it's ta
 - **Script:** Joshua Mosqueira, Mary C. DeMarle, Rob Cunningham[^ref-49]
 - **Composer:** Paul Ruskay
 - **Original Concept:** Alex Garden
+
+### Voice Cast
+
+| Character | Voice Actor (Original) | Voice Actor (Remastered) |
+|-----------|----------------------|-------------------------|
+| Karan S'jet (Fleet Command) | Jennifer Dawne Graveness | Heidi Ernest |
+| Fleet Intelligence | Eli Gabay | Michael Sunczyk |
+| Makaan | Mark Oliver | — |
+| Bentusi | Campbell Lane | — |
+| Captain Soban | Jean-Michel Legal | — |
+| Pilot Voices | Henry Faber, Jason Wingham, Ty Olsson | — |
+
+Original cast per the game's credits[^ref-49]; the Remastered column lists only the documented recasts[^ref-1].
+
+Voice recording for the original game was produced at Studio X Labs, with Campbell Lane's recording being the very first voice recording session ever conducted at that facility[^ref-37].
 
 ### Technical Achievements
 
@@ -158,6 +174,10 @@ The audio design continued the series' tradition of atmospheric excellence, with
 - **Optical Drive:** 8x CD-ROM
 
 **Multiplayer:** Up to 6 players via LAN or Internet[^ref-6]
+
+### Cut Content
+
+One Glitchwave user reviewer speculated that the skyboxes' giant derelicts might be "a remnant of when the game was to feature massive space structures that impacted gameplay"[^ref-13]. The dynamic difficulty system was controversial from the start, with critics noting the absence of traditional difficulty settings led to frustrating gameplay spikes[^ref-2].
 
 ### Version History
 
@@ -201,30 +221,19 @@ The Remastered version introduced additional issues, particularly affecting Home
 - Campbell Lane, who voiced the narrator and Bentusi in the original game[^ref-37], returned as the Bentusi for Homeworld 2[^ref-49]
 - The voice of Karan S'jet was recast from Heidi Ernest to Jennifer Dawne Graveness for Homeworld 2. Gearbox's Chris Faylor explained that "Heidi at the time was very pregnant, and that had changed some of her vocal cords, so she didn't sound like herself"[^ref-38]; Ernest returned for the Remastered Collection[^ref-1]
 
-### Cut Content
-
-One Glitchwave user reviewer speculated that the skyboxes' giant derelicts might be "a remnant of when the game was to feature massive space structures that impacted gameplay"[^ref-13]. The dynamic difficulty system was controversial from the start, with critics noting the absence of traditional difficulty settings led to frustrating gameplay spikes[^ref-2].
-
-## Voice Cast
-
-| Character | Voice Actor (Original) | Voice Actor (Remastered) |
-|-----------|----------------------|-------------------------|
-| Karan S'jet (Fleet Command) | Jennifer Dawne Graveness | Heidi Ernest |
-| Fleet Intelligence | Eli Gabay | Michael Sunczyk |
-| Makaan | Mark Oliver | — |
-| Bentusi | Campbell Lane | — |
-| Captain Soban | Jean-Michel Legal | — |
-| Pilot Voices | Henry Faber, Jason Wingham, Ty Olsson | — |
-
-Original cast per the game's credits[^ref-49]; the Remastered column lists only the documented recasts[^ref-1].
-
-Voice recording for the original game was produced at Studio X Labs, with Campbell Lane's recording being the very first voice recording session ever conducted at that facility[^ref-37].
-
 ## Legacy
 
 ### Ownership After Release
 
 The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. After THQ filed for Chapter 11 bankruptcy in December 2012[^ref-51], the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition, which Gearbox won at auction for $1.35 million[^ref-39][^ref-12].
+
+### Collections
+
+The Homeworld Remastered Collection, released on February 25, 2015, is the version of Homeworld 2 sold on Steam and GOG. It contains Homeworld Remastered and Homeworld 2 Remastered, and as a free bonus the original, non-remastered Homeworld Classic and Homeworld 2 Classic, which both store pages describe as preserving the originals with compatibility for modern operating systems (store pages checked 2026-11-11)[^ref-54][^ref-55].
+
+### Homeworld: Vast Reaches
+
+FarBridge's virtual-reality entry in the series, *Homeworld: Vast Reaches*, is set between the events of Homeworld 1 and Homeworld 2 and features Karan S'jet returning to command the Kushan Mothership. It reached SteamVR on November 7, 2025, following an earlier release on Meta Quest[^ref-57].
 
 ## Downloads
 
@@ -260,7 +269,7 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-32]: [Macworld – Homeworld 2](https://www.macworld.com/article/1031525/homeworld2.html) – Mac port news (April 2004): Beenox, preliminary Mac system requirements
 [^ref-12]: [Polygon – Gearbox releasing remakes of Homeworld and Homeworld 2](https://www.polygon.com/2013/7/20/4540132/gearbox-releasing-remakes-of-homeworld-and-homeworld-2-for-windows-pc/) – "bought the Homeworld IP for $1.35 million in April"; Brian Martel statement
 [^ref-13]: [Glitchwave – Homeworld 2](https://glitchwave.com/game/homeworld-2/) – user review (story, fleet, art direction, skybox speculation), ratings
-[^ref-14]: [IGN – Homeworld 2 Review](https://www.ign.com/articles/2003/09/17/homeworld2-review) – Dan Adams review
+[^ref-14]: [IGN – Homeworld 2 Review](https://www.ign.com/articles/2003/09/17/homeworld2-review) – Dan Adams review (2003): score 9, Editors' Choice
 [^ref-16]: [GameFAQs – Homeworld 2 FAQ by Marc Novakouski](https://gamefaqs.gamespot.com/pc/533091-homeworld-2/faqs/26295) – gameplay tips, capture mechanics, dynamic difficulty
 [^ref-17]: [GameFAQs – Homeworld 2 Guide by Orgulo](https://gamefaqs.gamespot.com/pc/533091-homeworld-2/faqs/43499) – campaign structure, Mothership comparison
 [^ref-18]: [Neoseeker – Homeworld 2 FAQ](https://www.neoseeker.com/homeworld2/faqs/67973-homeworld-2-b.html) – dynamic difficulty explanation
@@ -288,3 +297,7 @@ The franchise changed hands multiple times following release. THQ acquired the H
 [^ref-51]: [Wikipedia – THQ](https://en.wikipedia.org/wiki/THQ) – "filed for Chapter 11 bankruptcy in December 2012"
 [^ref-52]: [Homeworld Wiki – Relic Entertainment](https://homeworld.fandom.com/wiki/Relic_Entertainment) – "the game was radically redesigned several times"
 [^ref-53]: [Shacknews – Homeworld 2 v1.1 Patch](https://www.shacknews.com/article/29830/homeworld-2-v11-patch) – Steve Gibson, December 23, 2003: v1.1 patch made available
+[^ref-54]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/) – release date Feb 25, 2015; bonus "Homeworld Classic" and "Homeworld 2 Classic" (checked 2026-11-11)
+[^ref-55]: [GOG – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) – same contents and bonus Classic versions (checked 2026-11-11)
+[^ref-56]: [GameRankings – Homeworld 2 (Wayback, 2019-12-09)](https://web.archive.org/web/20191209011304/https://www.gamerankings.com/pc/533091-homeworld-2/index.html) – 84.99% based on 46 reviews
+[^ref-57]: [FarBridge – Homeworld: Vast Reaches SteamVR announcement](https://farbridge.com/news/blog/homeworld-vast-reaches-brings-classic-real-time-strategy-gameplay-new-vr-interface-and-epic-space-battles-to-steamvr-on-october-23-with-upgraded-visuals-and-expanded-content) – set between Homeworld 1 and 2; SteamVR release November 7, 2025 after Meta Quest launch
