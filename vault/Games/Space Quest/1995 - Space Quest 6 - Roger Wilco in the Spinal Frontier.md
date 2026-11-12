@@ -69,6 +69,8 @@ PC Gamer US's Gary Meredith (Issue 16, September 1995) wrote that the game, "des
 
 A critic for Next Generation (Issue 10, October 1995) wrote that "If you've played one of the earlier installments, you've played Space Quest 6. The only thing different are the puzzles Roger Wilco faces," giving it three out of five stars and concluding: "If you liked the first five, you'll want this. If not, you probably aren't even reading this review"[^ref-29].
 
+Peter Lamberton's review for Adventure Classic Gaming (first posted 24 August 1998) scored it 4 of 5 ("Very Good"), calling it "still a fun game for both long-time series fans and novice adventure gamers" and "undoubtly the best game in the Space Quest series yet!"[^ref-41].
+
 ### Modern Assessment
 Dante Kleinberg's 2011 review for Adventure Gamers rated the game "Underwhelming," calling it "certainly the weakest game in the franchise"[^ref-26]. The review praised the "great graphics" and "excellent narration" by Gary Owens, but criticized the "aimless design," "weak plot and characters," and "fun-killingly difficult" puzzles[^ref-26]. The reviewer noted the Datacorder puzzle required external documentation not included in the Space Quest Collection, and estimated completion time at "more than 12 hours"[^ref-26].
 
@@ -138,7 +140,7 @@ The game features extensive voice acting. MobyGames credits voice direction to S
 
 ### Cut Content
 Sierra Chest records that, because of poor communication during development, several parts of the original design were cut, primarily in the latter stages of the game[^ref-2]. The best-known loss is the comic book CD that held the Datacorder puzzle hints (see Origins above)[^ref-31]. The Cutting Room Floor documents further material left in the game's resource files[^ref-39]:
-- Unused graphics, including inventory art for the rag, the handcuffs and the bundle of nerves, a single-buckazoid image, and talking animations for the DeepShip shuttle bay guards
+- Unused graphics, including inventory art for the handcuffs and the bundle of nerves (a description of the rag exists, but no inventory graphic for it), a single-buckazoid image, and talking animations for the DeepShip shuttle bay guards
 - An earlier version of the interface graphic that refers to verbs instead of body parts and calls the pockets "loot"
 - A death animation left over from the high-resolution version of *Leisure Suit Larry 6*, which was in development at the same time
 - Unused music tracks, among them "Amen (Liver)", "In Town" and two Mr. Soylent songs, plus a track that was later used in *King's Quest VII*
@@ -310,7 +312,8 @@ This game has been included in the following collections:
 [^ref-34]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Space Quest 6 rated "Good"
 [^ref-35]: [PC Gamer US Issue 15, August 1995](https://archive.org/details/pc-gamer-issue-15-august-1995) – cover CD demo of Space Quest 6, "its own little adventure, with puzzles that aren't found in the final game"; disc identified as "The CD #9"
 [^ref-36]: [Adventure Gamers – Josh Mandel interview (Wayback copy)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 2013: "From the very beginning, I wanted Scott to be co-designer on the game"
-[^ref-37]: [MobyGames – Adventure: 3 Out-Of-This-World Games](https://www.mobygames.com/game/21816/adventure-3-out-of-this-world-games/) – read via the MobyGames API: 1996 DOS/Windows compilation of Lighthouse, Police Quest: Open Season and Space Quest 6
+[^ref-37]: [MobyGames – Adventure: 3 Out-Of-This-World Games](https://www.mobygames.com/game/21816/adventure-3-out-of-this-world-games/) – 1996 DOS/Windows compilation of Lighthouse, Police Quest: Open Season and Space Quest 6
 [^ref-38]: [MobyGames – Space Quest 6 credits](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/credits/) – DOS credits: design, programming, producer Oliver Brelsford, music composers, sound, documentation, voice direction and recording studios, acting credits
 [^ref-39]: [The Cutting Room Floor – Space Quest 6: Roger Wilco in the Spinal Frontier](https://tcrf.net/Space_Quest_6:_Roger_Wilco_in_the_Spinal_Frontier) – unused graphics and music, leftover LSL6 animation, SCI debugger, release dates
 [^ref-40]: [MobyGames – Space Quest 6 credits (Wayback copy, Dec 8, 2015)](https://web.archive.org/web/20151208004947/http://www.mobygames.com/game/dos/space-quest-6-roger-wilco-in-the-spinal-frontier/credits) – Popular Janitronics Magazine: Magazine Editor Leslie Balfour; Magazine Design Lori Lucia; contributors Josh Mandel, Scott Murphy, Leslie Balfour
+[^ref-41]: [Adventure Classic Gaming – Space Quest 6 review by Peter Lamberton (24 August 1998)](http://www.adventureclassicgaming.com/index.php/site/reviews/80/) – 4 of 5 overall; "still a fun game for both long-time series fans and novice adventure gamers"
