@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Conquests of Camelot", "Conquests of the Longbow"]
 companies: ["Sierra On-Line", "Marvel Comics", "Sunbow Productions", "Zynga"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Christy Marx
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -39,13 +39,13 @@ For the sequel, Marx originally planned a game based on Greek mythology focused 
 
 Marx was designer, writer and director on Longbow, the second game of the [[Conquests Series]].[^ref-11] She "threw a little bit of Druid magic in" and gave Maid Marian "a more mystic background."[^ref-2] Had she remained at Sierra, she was thinking of Conquests of Charlemagne for a third game; "He would have fit nicely into the theme of the games."[^ref-5]
 
-### Later Career
+### Post-Sierra Career
 
-After completing the Conquests games, Marx returned to animation writing, working on Bucky O'Hare, Mighty Max, and leading development on Conan: The Adventurer (1992-1993).[^ref-1][^ref-2] Tragedy struck on November 18, 1994, when Peter Ledger was killed in a car accident with a semi-trailer.[^ref-2] Marx continued living in Oakhurst, and years later met her second husband, writer Randy Littlejohn, when she returned to Sierra in the late 1990s to work on [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]].[^ref-2] That game was cancelled in 1999 during Sierra's corporate restructuring.[^ref-2]
+After completing the Conquests games, Marx returned to animation writing, working on Bucky O'Hare, Mighty Max, and leading development on Conan: The Adventurer (1992-1993).[^ref-1][^ref-2] She also developed the live-action ABC science-fiction series Hypernauts (1996) and served as its executive story editor.[^ref-1][^ref-11] Tragedy struck on November 18, 1994, when Peter Ledger was killed in a car accident with a semi-trailer.[^ref-2] Years later she met her second husband, writer Randy Littlejohn, when she returned to Sierra in the late 1990s to work on [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]].[^ref-2] Her credits page also lists a first-season episode of the TV series Babylon 5, "Grail."[^ref-11] That game was cancelled in 1999 during Sierra's corporate restructuring.[^ref-2]
 
 From July 2007 to December 2009 Marx was head writer and lead story designer on Project Redwood, a transmedia MMORPG at John Romero's Slipgate Ironworks (later Gazillion Entertainment); it was cancelled.[^ref-11][^ref-2]
 
-From December 2010 to 2017, by her own credits page, Marx worked at Zynga as Principal Game Designer and Narrative Director on titles including Hidden Chronicles, CastleVille: Legends and FarmVille: Tropic Escape (Polygon dates her arrival to late 2011).[^ref-11][^ref-2] A 2015 Game Developer article describes CastleVille Legends as her first mobile project.[^ref-7] She also contributed story editing and additional writing to Lord of the Rings: War in the North.[^ref-11] She has written DC comics including Sword of Sorcery and Birds of Prey, and the guide *Writing for Animation, Comics, and Games*, now in its second edition.[^ref-1][^ref-2][^ref-14]
+From December 2010 to 2017, by her own credits page, Marx worked at Zynga as Principal Game Designer and Narrative Director on titles including Hidden Chronicles, CastleVille: Legends and FarmVille: Tropic Escape (Polygon dates her arrival to late 2011).[^ref-11][^ref-2] A 2015 Game Developer article describes CastleVille Legends as her first mobile project.[^ref-7] She also contributed story editing and additional writing to Lord of the Rings: War in the North.[^ref-11] She has written DC comics including Sword of Sorcery and Birds of Prey, and the guide *Writing for Animation, Comics, and Games*, now in its second edition.[^ref-1][^ref-2][^ref-14][^ref-28]
 
 In November 2026 Marx returned to Conan with "Child of Cimmeria" in *The Savage Sword of Conan* #17, a sequel to her first comic story, "Child of Sorcery" (*Savage Sword of Conan* #29, 1979). She wrote on her Substack that it "picks up the daughter's story" of the original, that Geof Isherwood illustrated it, and that Heroic Signatures, "the company that currently holds the rights to Conan," gave her the opportunity.[^ref-22] Titan Comics' issue went on sale on November 11, 2026 (64 pages, black and white, $6.99), according to The Pullbox's preview.[^ref-23]
 
@@ -75,7 +75,7 @@ Marx views constraints as creative challenges rather than limitations. "No matte
 
 In animation, Marx developed Jem and the Holograms and received the Writers Guild of America's Animation Writers Caucus award in 2000.[^ref-2][^ref-20] Black Gate notes that "she began developing content for video games before the title 'video game developer' even existed."[^ref-8]
 
-Her guide *Writing for Animation, Comics, and Games* is now in its second edition.[^ref-14] The Storybeat podcast introduced her in 2019 as having "an eclectic career as a transmedia writer, TV and animation series developer, game designer and narrative designer."[^ref-16]
+Her guide *Writing for Animation, Comics, and Games* is now in its second edition.[^ref-14][^ref-28] The Storybeat podcast introduced her in 2019 as having "an eclectic career as a transmedia writer, TV and animation series developer, game designer and narrative designer."[^ref-16]
 
 She writes the Substack publication "Remarks by Marx."[^ref-17] MobyGames describes her Sierra work as "design/writing/director of two award-winning adventure games."[^ref-18]
 
@@ -83,22 +83,25 @@ She writes the Substack publication "Remarks by Marx."[^ref-17] MobyGames descri
 
 ### Sierra On-Line (1988–c.1991; late 1990s)
 
-- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Designer, Writer, Director
-- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Designer, Writer, Director
-- **1999** — [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]] — Role: Design & Writing (Cancelled; made at Sierra's [[Yosemite Entertainment]])
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Designer, Writer, Director[^ref-18][^ref-11]
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Designer, Writer, Director[^ref-18][^ref-11]
+- **1999** — [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]] — Role: Design & Writing (Cancelled; made at Sierra's [[Yosemite Entertainment]])[^ref-11]
 
 ### Post-Sierra (2001–2017)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 2001 | The Legend of Alon D'ar | Stormfront Studios | Lead Writer; story & narrative design |
-| 2002 | Earth & Beyond | EA/Westwood | Character & Dialogue Writing |
-| 2002 | The Lord of the Rings: The Two Towers | Stormfront Studios | Story and cinematic development work (credited: Special Thanks) |
-| 2003 | Tao Feng: Fist of the Lotus | Studio Gigante | Additional Story (world history, back story, character bios) |
-| 2007–2009 | Project Redwood (cancelled MMORPG) | Slipgate Ironworks/Gazillion | Head Writer, Lead Story Designer |
-| 2007 | CSI: Hard Evidence | Telltale Games | Additional Writing (narrative design and writing for one case, co-written with Randy Littlejohn) |
-| 2011 | Lord of the Rings: War in the North | Snowblind Studios | Story Editing, Additional Writing |
-| 2010–2017 | Hidden Chronicles; CastleVille: Legends; FarmVille: Tropic Escape | Zynga | Principal Game Designer, Narrative Director |
+| 2001 | The Legend of Alon D'ar | Stormfront Studios | Lead Writer; story & narrative design[^ref-18][^ref-11] |
+| 2002 | Earth & Beyond | EA/Westwood | Character & Dialogue Writing[^ref-18][^ref-11] |
+| 2002 | The Lord of the Rings: The Two Towers | Stormfront Studios | Story and cinematic development work (credited: Special Thanks)[^ref-11][^ref-18] |
+| 2003 | Tao Feng: Fist of the Lotus | Studio Gigante | Additional Story (world history, back story, character bios)[^ref-18][^ref-11] |
+| 2007 | CSI: Hard Evidence | Telltale Games | Additional Writing (narrative design and writing for one case, co-written with Randy Littlejohn)[^ref-18][^ref-11] |
+| 2007–2009 | Project Redwood (cancelled MMORPG) | Slipgate Ironworks/Gazillion | Head Writer, Lead Story Designer[^ref-11] |
+| 2010–2017 | Hidden Chronicles; CastleVille: Legends; FarmVille: Tropic Escape | Zynga | Principal Game Designer, Narrative Director[^ref-11] |
+| 2011 | Lord of the Rings: War in the North | Snowblind Studios | Story Editing, Additional Writing[^ref-18][^ref-11] |
+| — | The Matrix Online | Monolith Productions | Supplemental writing for the game website[^ref-11][^ref-18] |
+| — | Uru: Ages Beyond Myst | Ubisoft | Story and game evaluation[^ref-11] |
+| — | Wazzamba.com | Wazzamba.com | Design consultation and quest writing[^ref-11] |
 
 ## References
 
@@ -117,7 +120,7 @@ She writes the Substack publication "Remarks by Marx."[^ref-17] MobyGames descri
 [^ref-15]: [Wikipedia - Conquests of Camelot](https://en.wikipedia.org/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) — March 1990 release; designer Christy Marx, artist Peter Ledger; Chalice Well, Glastonbury Tor, Pool of Siloam
 [^ref-16]: [Storybeat Podcast - Christy Marx](https://www.storybeat.net/christy-marx/) — transmedia career discussion
 [^ref-17]: [Remarks by Marx Substack](https://christymarx.substack.com/) — current writing and publications
-[^ref-18]: [MobyGames - Christy Marx (Wayback 2024-12-26)](https://web.archive.org/web/20241226170744/https://www.mobygames.com/person/14231/christy-marx/) — live page: https://www.mobygames.com/person/14231/christy-marx/ (blocks bots); bio and credits: Camelot Game Designer, Longbow Lead Design, Alon D'ar (2001) Lead Writer, Two Towers Special Thanks, Tao Feng Additional Story
+[^ref-18]: [MobyGames - Christy Marx (Wayback 2024-12-26)](https://web.archive.org/web/20241226170744/https://www.mobygames.com/person/14231/christy-marx/) — live page: https://www.mobygames.com/person/14231/christy-marx/ ; bio and credits: Camelot Game Designer, Longbow Lead Design, Alon D'ar (2001) Lead Writer, Two Towers Special Thanks, Tao Feng Additional Story
 [^ref-19]: [COMPUTE! #140 (May 1992), p. 86 - Conquests of the Longbow review](https://www.atarimagazines.com/compute/issue140/86_Conquests_of_the_Lon.php) — "an authentic ancient English game called Nine Men's Morris"; arcade level can be set to 0
 [^ref-20]: [Writers Guild of America West - Previous AWC Animation Writing Award recipients (Wayback 2018)](https://web.archive.org/web/20180115001925/http://awards.wga.org/wga-awards/previous-awc-animation) — "2000 - Christy Marx  1999 - Paul Dini  1998 - Gordon Bressack"
 [^ref-21]: [Video Games & Computer Entertainment, February 1991, p. 96 (Internet Archive scan)](https://archive.org/details/video-games-computer-entertainment-february-1991/page/n95/mode/1up) — 1990 awards, "Best Computer Adventure": Conquest of Camelot is the category winner, ahead of honorable mentions Ultima VI, Circuit's Edge and Secret of the Silver Blades
@@ -127,3 +130,4 @@ She writes the Substack publication "Remarks by Marx."[^ref-17] MobyGames descri
 [^ref-25]: [Deadline - 'Jem And The Holograms' Live-Action Series In Works At Amazon With Kilter Films & Hasbro](https://deadline.com/2026/06/jem-and-the-holograms-live-action-series-amazon-kilter-films-1236942573/) – Nellie Andreeva, 8 Jun 2026; Amazon MGM Studios, Kilter Films, Hasbro; series "created by Christy Marx"
 [^ref-26]: [Christy Marx - Peter Ledger Biography (Wayback 2016-09-03)](https://web.archive.org/web/20160903115126/http://www.christymarx.com/ledger/plbio.htm) – written by Marx; Sisterhood of Steel graphic novel, Camelot, Sierra move
 [^ref-27]: [The Adventurers' Guild - Conquests of Pop Culture: An Interview with Christy Marx](https://advgamer.blogspot.com/2016/05/conquests-of-pop-culture-interview-with.html) – 8 May 2016: "my husband at the time, Australian artist Peter Ledger"; headhunter call
+[^ref-28]: [Open Library - Writing for Animation Comics and Games 2nd Edition](https://openlibrary.org/works/OL25772084W) – work record titled "Writing for Animation Comics and Games 2nd Edition", created 2021
