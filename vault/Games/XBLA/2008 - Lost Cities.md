@@ -10,12 +10,14 @@ series: "Standalone"
 engine: null
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
+description: "Lost Cities is a 2008 Xbox Live Arcade adaptation of Reiner Knizia's card game, developed by Sierra Online Shanghai and published by Sierra Online. It was removed from the service in early 2009."
+tags: [2000s, card-game, xbla, sierra-online]
 ---
 
 # Lost Cities
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -25,12 +27,11 @@ Players mount expeditions to five lost cities, each represented by a colored sui
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Shanghai[^ref-8][^ref-15]
+> **Designer:** N/A
 > **Publisher:** Sierra Online (Vivendi Games)[^ref-8][^ref-21][^ref-28]
-> **Engine:** Not documented
 > **Platforms:** Xbox 360 (Xbox Live Arcade)[^ref-21]
 > **Release Year:** 2008 (April 23)[^ref-21][^ref-15]
 > **Series:** Standalone
-> **Designer:** N/A
 > **Protagonist:** N/A
 > **Based On:** Lost Cities card game by Reiner Knizia (1999)[^ref-6][^ref-2]
 > **Sierra Lineage:** Sierra Published
@@ -125,14 +126,15 @@ MobyGames counts roughly 15 Sierra Online releases between 2006 and 2008. It rec
 
 ### Delisting
 
-Lost Cities disappeared from the Xbox Live Marketplace between January 22, 2009 (last confirmed available) and February 20, 2009 (availability questioned), according to Delisted Games.[^ref-14] 1UP reported it on April 16, 2009, as "just the second time since the Xbox Live Arcade was launched" that a game had been removed; the first was *Yaris*.[^ref-27] At the time 1UP called the reason "unclear" and pointed to Joystiq's theory of licensing problems after the Activision–Vivendi merger.[^ref-27]
+The sources differ on when Lost Cities disappeared from the Xbox Live Marketplace. Delisted Games dates the delisting to January–February 2009, with the game last confirmed available on January 22, 2009 and its availability questioned by February 20, 2009.[^ref-14] Joystiq, by contrast, wrote that the game had disappeared from Xbox Live Arcade "as recently as early March" 2009.[^ref-29] 1UP reported it on April 16, 2009, as "just the second time since the Xbox Live Arcade was launched" that a game had been removed; the first was *Yaris*.[^ref-27] At the time 1UP called the reason "unclear" and pointed to Joystiq's theory of licensing problems after the Activision–Vivendi merger.[^ref-27]
 
-On April 28, 2009, Joystiq reported, citing *Official Xbox Magazine* via GamerBytes, that "the Lost Cities license reverted back to the original licensor after the merger". Without that license, Activision could no longer sell the game.[^ref-29] Joystiq added that the trial version could still be re-downloaded but the full version could not.[^ref-29] Delisted Games likewise attributes the delisting to Sierra Online losing the license from Reiner Knizia. It records the game as last confirmed available on January 22, 2009, with its availability questioned by February 20, 2009.[^ref-14] TrueAchievements lists the game as removed from the Microsoft Store.[^ref-12]
+On April 28, 2009, Joystiq reported, citing *Official Xbox Magazine* via GamerBytes, that "the Lost Cities license reverted back to the original licensor after the merger". Without that license, Activision could no longer sell the game.[^ref-29] Joystiq added that the trial version could still be re-downloaded but the full version could not.[^ref-29] Delisted Games likewise attributes the delisting to Sierra Online losing the license from Reiner Knizia.[^ref-14] TrueAchievements lists the game as removed from the Microsoft Store.[^ref-12]
 
 ### Related Games
 
 Reiner Knizia's Lost Cities has been adapted digitally again since the XBLA release:
 - BlueLine Games released a separate, officially licensed *Lost Cities* on Steam on May 19, 2018.[^ref-30][^ref-14] It is not the Sierra version.
+- Delisted Games notes that "a similar version of Lost Cities is currently available on iTunes as of July 2016."[^ref-14]
 
 ## Downloads
 
