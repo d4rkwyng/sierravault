@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: Proprietary (Dynamix)
 protagonist: Player-created angler
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Trophy Bass is a 1995 bass fishing simulation developed by Dynamix and
   published by Sierra On-Line for Windows and Macintosh, endorsed by the Bass Anglers
   Sportsman Society and set on five real American bass lakes.
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -128,6 +128,8 @@ Klett wrote that "Sierra has made every effort to accurately model bass habitat 
 - **Executive Producer:** Jeffrey Tunnell
 - **Producer / Designer:** Randy Dersham
 - **Lead Programmer:** Steven D. Letsom
+- **Art Directors:** Shawn Bird, [[Brian Hahn]][^ref-3]
+- **Programmers:** Richard Rayl, Becky Jones, William Cupps[^ref-3]
 - **Writer:** Michael Waite
 - **Music and Sounds:** Neal Grandstaff, Ken Rogers
 - **Bass Fishing Pros:** Larry Nixon, Denny Brauer, Kevin VanDam, George Cochran
@@ -208,12 +210,14 @@ The series continued through the late 1990s and into the 2000s:
 
 Trophy Bass is a case study in how a game's commercial weight and its place in collective memory can come apart. Maher ranks the Trophy Bass line as Dynamix's most profitable game (he does not say which entry), ahead of titles that "are still discussed today" such as *Betrayal at Krondor* and *The Incredible Machine*, while noting that, as of his 2024 writing, it had no player reviews on MobyGames.[^ref-6] Sierra kept working the outdoor-sports market. In November 1997, betas of *Front Page Sports: Trophy Rivers* were going out to the press,[^ref-23] and Sierra's support pages group the Trophy Bass patches with those for the *Trophy Buck* hunting games.[^ref-17]
 
-## Purchase
+### Collections
 
-**Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (checked November 1, 2026)
+MobyGames lists Trophy Bass as included in six compilations: 3 Free (King's Quest VII / Earthsiege 2 / Trophy Bass) (1997), 486 Game Pack (1998), All American Sports Series Six-Pack (1998), Front Page Sports: All Pro Collection - Collection Series (1997), MacPack Blitz (1997) and MacPak (1998). It also records a re-release title, "Trophy Bass: AllAmerican Sports Series."[^ref-3]
 
 ## Downloads
+
+**Purchase / Digital Stores**
+- Not sold on GOG or Steam as of November 2026
 
 **Download / Preservation**
 - [Internet Archive – Trophy Bass Demo](https://archive.org/details/TROPHY) – 1995 demo version
