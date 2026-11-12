@@ -10,7 +10,7 @@ series: Hoyle Games
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: The 2001 edition of Hoyle Kids Games, sold as Hoyle Kids Games 2002,
   is a fifteen-game children's compilation from Sierra On-Line that added the new
   bumper-car game Bump 'Em.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-games, puzzle, sierra]
 ---
 # Hoyle Kids Games 2001
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -82,12 +82,12 @@ The Hoyle Genie, "just a lamp rub away", provides spoken rules and hints, and an
 
 The ESRB rates *Hoyle Kids Games 2002* E (Everyone) with the descriptor "Mild Violence", for Macintosh and Windows PC,[^ref-37] matching GameFAQs.[^ref-26]
 
-Macworld's September 30, 2001 news item reported that *Hoyle Kids' Games 2002* was priced at $19.95 and that the 2002 Hoyle titles shipped as hybrid PC/Mac games on one CD-ROM. It repeats the older "twelve fun kids' games" count, which conflicts with Sierra's fifteen.[^ref-36] A WorthPlaying news item of April 15, 2002 listed Hoyle Kids Games for PC/Mac with an announced availability of May 31, 2002.[^ref-39]
+Macworld's September 30, 2001 news item reported that *Hoyle Kids' Games 2002* was priced at $19.95, lower than the 2000 edition's $29.95 launch MSRP,[^ref-28] and that the 2002 Hoyle titles shipped as hybrid PC/Mac games on one CD-ROM. It repeats the older "twelve fun kids' games" count, which conflicts with Sierra's fifteen.[^ref-36] A WorthPlaying news item of April 15, 2002 listed Hoyle Kids Games for PC/Mac with an announced availability of May 31, 2002.[^ref-39]
 
 ## Development
 
 ### Origins
-The game belongs to Sierra's Hoyle series, which ran from 1989 to 2016.[^ref-5] Sierra announced the first edition on September 7, 2000 as the first title in Sierra's Hoyle series designed just for kids, "Developed by Sierra's Casual Entertainment Division" and priced at an MSRP of $29.95.[^ref-28] That edition advertised "Twelve favorite games" and "a talkative cast of eight animated players";[^ref-27] MobyGames also notes two bonus games, The Music Game and Tic Tac Toe.[^ref-34] The 2001 edition lists fifteen games, including The Music Game, Tic Tac Toe and the new Bump 'em, and a cast of 12.[^ref-23] The two editions were sold under different barcodes, 020626709903 for the 2000 edition and 020626712880 for this one.[^ref-32][^ref-2]
+The game belongs to Sierra's Hoyle series, which ran from 1989 to 2016.[^ref-5] Sierra announced the first edition on September 7, 2000 as the first title in Sierra's Hoyle series designed just for kids, "Developed by Sierra's Casual Entertainment Division" and priced at an MSRP of $29.95.[^ref-28] Wikipedia's list of Hoyle titles, however, includes an earlier Hoyle Children's Collection (1996).[^ref-5] That edition advertised "Twelve favorite games" and "a talkative cast of eight animated players";[^ref-27] MobyGames also notes two bonus games, The Music Game and Tic Tac Toe.[^ref-34] The 2001 edition lists fifteen games, including The Music Game, Tic Tac Toe and the new Bump 'em, and a cast of 12.[^ref-23] The two editions were sold under different barcodes, 020626709903 for the 2000 edition and 020626712880 for this one.[^ref-32][^ref-2]
 
 Sierra's 2001 Hoyle catalog listed Hoyle Kids Games for both PC and Mac, describing it as "fifteen children's favorites". Its Mac list also included Hoyle Board Games, Card Games, Casino and Word Games, and its PC list added Hoyle Classic Casino and Hoyle Classic Games.[^ref-25] Sierra's product page carries a © 2001 Sierra On-Line, Inc. notice and the Sierra Attractions trademark, but it does not name a developer.[^ref-23] No credits list for this edition was found.
 
@@ -133,6 +133,7 @@ The Macintosh Repository hosts the hybrid Mac/PC disc as "Hoyle Kids' Games 2".[
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[2001 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2001 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 
@@ -205,11 +206,11 @@ The Macintosh Repository hosts the hybrid Mac/PC disc as "Hoyle Kids' Games 2".[
 [^ref-28]: [Sierra press release – Hoyle Kids' Games, September 7, 2000 (Wayback)](http://web.archive.org/web/20010202165500/http://hoylegames.com/hoylekid_pressrelease.html) – first Hoyle title for kids, developed by Sierra's Casual Entertainment Division, MSRP $29.95
 [^ref-29]: [hoylegames.com front page (Wayback, Oct 2000)](http://web.archive.org/web/20001017122638/http://hoylegames.com:80/) – Pepper, Penny and Red Riding Hood bios posted 09/08/00 for the original Kids Games
 [^ref-30]: [Computer Gaming World #198 (January 2001), "Holiday Hit List: family & kids"](https://archive.org/details/Computer_Gaming_World_Issue_198) – 2000 edition ranked first; "a collection of 12 classic games for all ages"
-[^ref-31]: [MacHome Journal, December 2001, p. 26](https://archive.org/details/MacHome-Journal-December-2001) – gift guide (Kids): Hoyle Kids Games, $30, "sure to amuse school-age children (and their parents) for hours"; edition not stated
+[^ref-31]: [MacHome Journal, December 2001, pp. 26–27](https://archive.org/details/MacHome-Journal-December-2001) – gift guide (Kids): Hoyle Kids Games, $30, "sure to amuse school-age children (and their parents) for hours"; edition not stated
 [^ref-32]: [GameFAQs – Hoyle Kids Games (2000)](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games/data) – 2000 edition: US release 09/07/00, barcode 020626709903, ESRB "Mild Animated Violence"
 [^ref-33]: [Sierra Chest – Hoyle Kids Games (2000) (Wayback, Nov 2022)](http://web.archive.org/web/20221128144445/https://sierrachest.com/index.php?a=games&id=581&title=hoyle-kids-games&fld=general) – separate entry for the 2000 edition, first release 2000-09-07
 [^ref-34]: [MobyGames – Hoyle Kids Games (2000 edition)](https://www.mobygames.com/game/49352/hoyle-kids-games/) – 2000 edition only: 12 games plus two bonus games (The Music Game, Tic Tac Toe), internet play
-[^ref-35]: [GameIndustry.com – "Hoyle Kids Games Tops Family Fun" by Marie Flanigan, Feb 20, 2002](https://www.gameindustry.com/?p=9929) – review of Hoyle Kids Games 2002 (PC, Mac); "a wonderful compilation of 15 of the most popular children's games of all time"; 5 out of 5 GiN Gems
+[^ref-35]: [GameIndustry.com – "Hoyle Kids Games Tops Family Fun" by Marie Flanigan, Feb 20, 2002](https://www.gameindustry.com/reviews/game-review/hoyle-kids-games-tops-family-fun/) – review of Hoyle Kids Games 2002 (PC, Mac); "a wonderful compilation of 15 of the most popular children's games of all time"; 5 out of 5 GiN Gems
 [^ref-36]: [Macworld – "Sierra releases new Hoyle games for 2002", Sep 30, 2001](https://www.macworld.com/article/163096/hoyle.html) – $19.95 price, hybrid PC/Mac CD-ROM; its "twelve" game count conflicts with Sierra's fifteen and is not used
 [^ref-37]: [ESRB – Hoyle Kids Games 2002](https://www.esrb.org/ratings/6799/hoyle-kids-games-2002/) – rated E (Everyone), Mild Violence; Macintosh, Windows PC; Sierra Entertainment
 [^ref-38]: [Metacritic – Hoyle Kids Games 2002](https://www.metacritic.com/game/hoyle-kids-games-2002/) – release September 25, 2001; E; "Critic reviews are not available yet"
