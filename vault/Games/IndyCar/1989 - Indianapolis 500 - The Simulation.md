@@ -11,18 +11,18 @@ series: "IndyCar Racing"
 engine: null
 protagonist: null
 sierra_lineage: "Sierra Label (Papyrus)"
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: "Indianapolis 500: The Simulation is Papyrus Design Group's first game, a 1989 Indy car racing simulation published by Electronic Arts for MS-DOS and later the Amiga."
 tags: [1980s, racing, simulation, papyrus, electronic-arts, indycar, david-kaemmer]
 composer: ["Rob Hubbard"]
 ---
 # Indianapolis 500: The Simulation
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Indianapolis 500: The Simulation is a racing simulation of the Indianapolis 500. It was developed by [[Papyrus Design Group]] and published by [[Electronic Arts]] for MS-DOS in December 1989, and an Amiga version followed in 1990.[^ref-1][^ref-3] It was the first game from Papyrus, the Massachusetts studio that David Kaemmer and Omar Khudari founded in 1987. Sierra On-Line bought Papyrus in late 1995, which is why the studio's whole catalogue is covered here.[^ref-4][^ref-5]
+Indianapolis 500: The Simulation is a racing simulation of the Indianapolis 500. It was developed by [[Papyrus Design Group]] and published by [[Electronic Arts]] for MS-DOS in December 1989, and an Amiga version followed in 1990.[^ref-1][^ref-3] It was the first game from Papyrus, the Massachusetts studio that David Kaemmer and Omar Khudari founded in 1987. Sierra On-Line acquired Papyrus in late 1995.[^ref-5] Indianapolis 500 was the first of the studio's Indy-car games, and iRacing's 2025 press release lists *IndyCar Racing* and *IndyCar Racing II* as the games that followed it.[^ref-21]
 
 The game models a single track, the Indianapolis Motor Speedway, and the field of 33 cars from the 1989 race.[^ref-1][^ref-6] Kaemmer built it around a detailed physics model. In his words, "when you move the joystick, it does no more than change the steering angle of the front wheels", and every change in speed or direction is then worked out "using gobs of Newtonian mechanics".[^ref-7] Players can adjust wings, tyre pressures, wheel stagger, suspension, gearing and turbo boost, and test each change in practice.[^ref-1][^ref-6]
 
@@ -71,13 +71,17 @@ Most European magazines gave it high marks. The Amiga Magazine Rack's review ind
 
 | Publication | Platform | Score |
 |-------------|----------|-------|
+| Génération 4 #18 (January 1990) | PC | 100% |
 | Zero #5 (March 1990), Duncan MacDonald | PC | 94% |
 | Joystick #2 (February 1990) | PC | 91% |
 | Joystick #11 (December 1990) | Amiga | 98% |
 | Génération 4 #26 (October 1990) | Amiga | 96% |
+| AUI Vol 5 No 2 (February 1991), Tony Horgan | Amiga | 93% |
 | Amiga Format #17 (December 1990), Neil Jackson | Amiga | 92% |
 | Zero #13 (November 1990), David McCandless | Amiga | 92% |
 | Computer + Video Games #108 (November 1990) | Amiga | 90% |
+| The One for 16-bit Games #16 (January 1990), Gary Whitta | PC | 89% |
+| CU Amiga (October 1990), Tony Dillon | Amiga | 85% |
 | Amiga Joker (December 1990), Max Magenauer | Amiga | 82% |
 
 Not every review was as warm. The same index lists lower marks for the original release from *The Games Machine* (83%, PC) and, for the Amiga, *Amiga Action* (79%), *ACAR* (73%) and *Zzap!* (69%).[^ref-13]
@@ -138,7 +142,7 @@ Computer Entertainer's November 1989 issue announced the game for MS-DOS "next m
 
 The sources disagree on how well the game sold. In 1993 Kaemmer told *Computer Gaming World* that "Indy 500 never sold as well as we and EA thought it would", and that for Papyrus "financially for us it's been about a break-even". He added that the game had helped the studio's visibility.[^ref-7] A year later the *Boston Globe* reported that it "sold more than 200,000 units, noted Kaemmer", and GameSpot later gave the same figure.[^ref-10][^ref-9]
 
-The game also helped pay for Papyrus's next project. The *Globe* reported that Steven Dalton, an Indianapolis financial adviser and "a fan of their first game", funded most of *IndyCar Racing*'s $550,000 development cost.[^ref-10] GameSpot wrote that Indy 500 "was to form the nucleus for every Papyrus game to follow".[^ref-9] Papyrus followed it with *IndyCar Racing* (1993), *NASCAR Racing* (1994) and *IndyCar Racing II* (1995).[^ref-14] Sierra On-Line acquired the studio in late 1995.[^ref-5] Papyrus's technology later passed to iRacing, and Top Gear calls Papyrus the studio "that eventually morphed into simracing behemoth iRacing".[^ref-5][^ref-15]
+The game also helped pay for Papyrus's next project. The *Globe* reported that Steven Dalton, an Indianapolis financial adviser and "a fan of their first game", funded most of *IndyCar Racing*'s $550,000 development cost.[^ref-10] GameSpot wrote that Indy 500 "was to form the nucleus for every Papyrus game to follow".[^ref-9] Papyrus followed it with *IndyCar Racing* (1993), *NASCAR Racing* (1994) and *IndyCar Racing II* (1995).[^ref-14] Sierra On-Line acquired the studio in late 1995.[^ref-5] Papyrus's technology later passed to iRacing, and Top Gear calls Papyrus the studio "that eventually morphed into simracing behemoth iRacing".[^ref-5][^ref-15] iRacing's August 2025 press release calls Papyrus Racing Games the company's predecessor and says iRacing was founded in 2003 by Kaemmer. It announced a standalone INDYCAR game for the second half of 2026.[^ref-21] On 10 July 2026 INDYCAR and iRacing announced the game, *INDYCAR Racing The Game*, for early 2027 on PlayStation 5, Xbox and PC via Steam.[^ref-24]
 
 ### Collections
 
@@ -159,7 +163,7 @@ MobyGames lists the game in several compilations: *Air●Land●Sea* (1992), *Sp
 
 ## See Also
 
-Indianapolis 500: The Simulation was Papyrus Design Group's first game. Its physics-first approach carried into the studio's IndyCar and NASCAR games, which Sierra published after buying Papyrus in 1995.
+Indianapolis 500: The Simulation was Papyrus Design Group's first game. Its physics-first approach carried into the studio's later IndyCar and NASCAR games. According to GameSpot, *IndyCar Racing* was "published by Virgin rather than EA", and Wikipedia says *NASCAR Racing* (1994) was published by Virgin for MS-DOS, with Sierra On-Line publishing its Mac and PlayStation versions.[^ref-22][^ref-23]
 
 - **Next:** [[1993 - IndyCar Racing|IndyCar Racing]] (1993)
 - [[1995 - IndyCar Racing II]]
@@ -181,7 +185,7 @@ Indianapolis 500: The Simulation was Papyrus Design Group's first game. Its phys
 [^ref-10]: [The Boston Globe, 18 May 1994, p. 46 – "Race Cars, kings & castles" (Newspapers.com clip)](https://www.newspapers.com/clip/107876381/the-boston-globe/) – $70,000 EA contract, 18 months development, more than 200,000 units, Steven Dalton funding IndyCar Racing ($550,000)
 [^ref-11]: [Computer Entertainer, November 1989 (Vol. 8 No. 8)](https://archive.org/details/computer-entertainer-8-8) – pre-release announcement: due next month for MS-DOS, MSR $49.95, "only Indianapolis 500-licensed computer game"
 [^ref-12]: [Electronic Arts 1990–91 catalogue (MOCAGH scan on Internet Archive)](https://archive.org/details/vgmuseum_ea_ea-90-91catalog) – catalogue entry quoting Automobile Magazine; IBM and Amiga availability
-[^ref-13]: [Amiga Magazine Rack – Indianapolis 500 review index](https://amr.abime.net/review_54326) – review scores from Zero, Joystick, Génération 4, Amiga Format, C+VG, Amiga Joker and others
+[^ref-13]: [Amiga Magazine Rack – Indianapolis 500 review index](https://amr.abime.net/review_54326) – review scores from Zero, Joystick, Génération 4, AUI, Amiga Format, C+VG, The One, CU Amiga, Amiga Joker and others
 [^ref-14]: [DOS Days – Indianapolis 500: The Simulation](https://dosdays.co.uk/topics/Games/game_indy500.php) – system requirements, media (two 5.25" 360 KB disks or one 3.5" 720 KB disk), copy protection, race formats, cars, save options, version 1.0 December 1989 disk listing, later Papyrus titles
 [^ref-15]: [Top Gear – Mike Channell, "Remembering classic games: Indianapolis 500: The Simulation (1989)" (16 July 2021)](https://www.topgear.com/car-news/gaming/remembering-classic-games-indianapolis-500-simulation-1989) – retrospective, "first proper PC sim" claim, iRacing lineage
 [^ref-16]: [Highway Forever – "Indianapolis 500 (Papyrus, 1989)" (16 May 2016)](https://highwayforever.wordpress.com/2016/05/16/indianapolis-500-papyrus-1989/) – 1989 grid and Rich Vogler's car, car choices, retrospective assessment of handling, sound and AI
@@ -189,3 +193,7 @@ Indianapolis 500: The Simulation was Papyrus Design Group's first game. Its phys
 [^ref-18]: [MyAbandonware – Indianapolis 500: The Simulation](https://www.myabandonware.com/game/indianapolis-500-the-simulation-oe) – release regions (US 1989, Brazil 1990), Amiga availability
 [^ref-19]: [Internet Archive – Indianapolis 500: The Simulation (MS-DOS)](https://archive.org/details/msdos_Indianapolis_500_The_Simulation_1989) – preserved, browser-playable DOS version
 [^ref-20]: [GOG Dreamlist – Indianapolis 500: The Simulation](https://www.gog.com/dreamlist/game/indianapolis-500-the-simulation-1989) – listed as a requested title, not sold on GOG
+[^ref-21]: [iRacing – "iRacing Studios To Produce Standalone INDYCAR Video Game in 2026" (26 August 2025)](https://www.iracing.com/iracing-studios-to-produce-standalone-indycar-video-game-in-2026/) – "The company's predecessor, Papyrus Racing Games, created the iconic Indianapolis 500: The Simulation in 1989, followed by IndyCar Racing and IndyCar Racing II in 1993 and 1995"; iRacing founded 2003 by Dave Kaemmer; INDYCAR title planned for the second half of 2026
+[^ref-22]: [GameSpot – Gord Goble, "History of Papyrus Racing Games" (Wayback Machine, January 2020)](https://web.archive.org/web/20200104210717/https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – "In IndyCar, published by Virgin rather than EA"; Sierra as Papyrus's parent company
+[^ref-23]: [Wikipedia – NASCAR Racing (video game)](https://en.wikipedia.org/wiki/NASCAR_Racing_(video_game)) – published in 1994 by Virgin for MS-DOS; Sierra On-Line published the Mac and PlayStation versions
+[^ref-24]: [INDYCAR – "Name, Logo, Launch Plan Unveiled for INDYCAR Video Game" (10 July 2026)](https://www.indycar.com/news/2026/07/07-10-video-game-title) – INDYCAR Racing The Game "set to launch in early 2027 on PlayStation 5, Xbox consoles and PC via Steam"
