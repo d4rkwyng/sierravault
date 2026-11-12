@@ -10,7 +10,7 @@ series: Phantasmagoria
 engine: SCI2.1
 protagonist: Adrienne Delaney
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Phantasmagoria is a 1995 live-action horror adventure game designed by
   Roberta Williams and published by Sierra On-Line on seven CD-ROMs, a sharp departure
   from her family-friendly King's Quest series.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, phantasmagoria, roberta-williams, sci, sierra]
 ---
 # Phantasmagoria
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -117,7 +117,7 @@ The game was essentially finished by late 1994, but Sierra chose to call back ca
 - **Director:** Peter Maris, who directed the live-action filming[^ref-1][^ref-4][^ref-33]
 - **Game Directors:** J. Mark Hood, Andy Hoyos, Mark Seibert, Roberta Williams (MobyGames)[^ref-33]
 - **Producers:** [[Mark Seibert]], J. Mark Hood, Roberta Williams (game manual; Wikipedia agrees)[^ref-1][^ref-30]. MobyGames also lists Stanley Liu among the producers[^ref-9]; the manual credits him separately, as "Producer" under Kronos, the firm it also credits for modeling and SGI animations, renderings and effects[^ref-30]
-- **Art Directors:** Albert Co, Andy Hoyos
+- **Art Directors:** Albert Co, [[Andy Hoyos]]
 - **Lead Programming:** [[Doug Oldfield]]
 - **Composers:** Mark Seibert, Jay Usher
 - **Lead Actress:** Victoria Morsell (Adrienne Delaney)
