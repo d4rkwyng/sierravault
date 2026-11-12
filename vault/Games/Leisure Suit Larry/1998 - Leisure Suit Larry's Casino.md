@@ -10,21 +10,25 @@ series: Leisure Suit Larry
 engine: "Custom (Hoyle-based)"
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra On-Line in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-*Leisure Suit Larry's Casino* is a casino simulation game developed and published by Sierra On-Line, released on June 30, 1998 for Windows (MobyGames gives July 17, 1998 for the US release).[^ref-1][^ref-2] The game is a spinoff from the main Leisure Suit Larry adventure series: Sierra's promotional site announced that Larry Laffer "has been named manager of his very own Vegas-style gaming resort."[^ref-17] Series creator [[Al Lowe]] is credited as designer, writer and director,[^ref-2] and his 1997 design document describes the game as using "the existing Hoyle's Casino code base as a starting point for a totally new product."[^ref-18]
+*Leisure Suit Larry's Casino* is a casino simulation game developed and published by Sierra On-Line, released on June 30, 1998 for Windows (MobyGames gives July 17, 1998 for the US release;[^ref-2] IGN's database gives June 15, 1998,[^ref-5] and Game Over Online's review is dated June 16, 1998[^ref-27]).[^ref-1] The game is a spinoff from the main Leisure Suit Larry adventure series: Sierra's promotional site announced that Larry Laffer "has been named manager of his very own Vegas-style gaming resort."[^ref-17] Series creator [[Al Lowe]] is credited as designer, writer and director,[^ref-2] and his 1997 design document describes the game as using "the existing Hoyle's Casino code base as a starting point for a totally new product."[^ref-18]
 
 The official description lists five casino games, three party games, a full gift shop, three restaurants, three bars, and "a few surprises."[^ref-2] Players picked a persona from characters of earlier Larry games and could play against computerized opponents drawn from those games, or against live opponents via WON, which Sierra's site called "Cendant's on-line gaming service."[^ref-17] Cendant was Sierra's parent company at the time,[^ref-19] and online play was free.[^ref-6][^ref-17]
 
 The game's roots go back to "LarryLand," a Lowe concept that was eventually realized only in part on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3][^ref-18] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that added *Larry's Casino* and the full *Love for Sail!* to the contents of the earlier Larry collection.[^ref-7][^ref-16]
+
+## Story Summary
+
+In Lowe's 1997 design document, Larry is picked "at random" to create and "front" a casino, but players eventually learn that he is "merely the stooge, a puppet fronting 'his' casino for its mob owners."[^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line[^ref-2]
@@ -54,7 +58,7 @@ Sierra listed five casino games, each with three tables at different betting lim
 - **Poker** – Variations include Seven Card Stud, Seven Card Stud Hi-Lo, Texas Hold'em, Omaha Hold'em, Omaha Hold'em Hi-Lo, and an online-only Five Card Draw[^ref-5]
 - **Roulette** – The traditional wheel-spinning betting game
 - **Craps** – Dice-based casino betting
-- **Slots** – Quarter, dollar and five-dollar machines[^ref-17]
+- **Slots** – Quarter, dollar and five-dollar machines[^ref-17]; Sierra's *InterAction* magazine named three slot machines: Babes in Space, The Coconut Monkey and XXX Bowling[^ref-23]
 
 The game offers a Wheel of Fortune option, but IGN reported that the game "was shoved out the door before the WOF game could be programmed."[^ref-5] A player walkthrough confirms it does not work and that the game's configuration file ships with `WheelOfFortune=OFF`.[^ref-15]
 
@@ -66,11 +70,11 @@ Sierra described "three on-line only party games," playable by up to 15 players.
 - **Pickup Master** – Players write pick-up lines on a submitted topic; Sierra warned that all lines became Al Lowe's property, and that he promised to use the best (and worst) in a future Larry adventure
 - **Larry's Comedy Club** – An online joke-telling contest
 
-Lowe's 1997 design document had planned four party games, including a story-writing game called "The Bottom Line."[^ref-18] Sierra's *InterAction* magazine previewed the game in Spring 1998 with six casino games (Blackjack, Poker, Craps, Roulette, Slots and Wheel of Fortune) and four online party games: Larry's Comedy Club, [Group Grope] (a story-writing game), Pick Me Up! (pickup lines) and You Don't Know Dick! (a word-definition game). Those names differ from the three party games Sierra's later product page listed.[^ref-24][^ref-17]
+Lowe's 1997 design document had planned four party games, including a story-writing game called "The Bottom Line."[^ref-18] Sierra's *InterAction* magazine previewed the game in Spring 1998 with six casino games (Blackjack, Poker, Craps, Roulette, Slots and Wheel of Fortune) and four online party games: Larry's Comedy Club, Group Grope (a story-writing game), Pick Me Up! (pickup lines) and You Don't Know Dick! (a word-definition game). Those names differ from the three party games Sierra's later product page listed.[^ref-24][^ref-17]
 
 ### Virtual Economy
 
-Off-line gambling is "practice only," with unlimited money. Online, the bankroll is tracked between sessions, and a player who goes broke must earn money back in the party games.[^ref-17] Online winnings are paid in "Larrybucks," which can be spent on:[^ref-17]
+Off-line gambling is "practice only," with unlimited money. Online, the bankroll is tracked between sessions, and a player who goes broke must earn money back in the party games.[^ref-17] *InterAction* described the player starting with $5,000 Larrybucks and a hotel-room upgrade, available online, costing $10,000.[^ref-23] Online winnings are paid in "Larrybucks," which can be spent on:[^ref-17]
 
 - Virtual gifts, drinks and food
 - Hotel room upgrades at the front desk
@@ -83,19 +87,6 @@ The chat areas include three restaurants (The Food Trough, Planet Larry, and Mol
 
 Players could select their online persona from a roster of characters drawn primarily from *Leisure Suit Larry 7: Love for Sail!*, with Cavaricchi Vuarnet from *Leisure Suit Larry 6: Shape Up or Slip Out!* also available.[^ref-5] Jan Rabson voices Larry Laffer.[^ref-1]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Leisure Suit Larry | Jan Rabson |
-| Annette Boning | Tasia Valenza |
-| Captain Thygh | Sheryl Bernstein |
-| Cavaricchi Vuarnet | Mary Kay Bergman |
-| Dick | S. Scott Bullock |
-| Johnson | Kevin Michael Richardson |
-
-Source: MobyGames credits[^ref-2] and IMDb[^ref-1]
-
 ## Reception
 
 ### Contemporary Reviews
@@ -104,7 +95,9 @@ IGN's Chris Buckman scored the game 6.2/10 ("Okay") in a review whose URL is dat
 
 *Computer Gaming World* (October 1998, issue 171) ran Charles Ardai's review under the headline "Sim Vegas," subtitled "It's Not the Casino Games, It's the Camaraderie." He wrote that "through its relationship with WON.net, Sierra has turned a bud[d]ing retread into a dynamic, intriguing, and occasionally disturbing experiment in communal behavior." He noted that all the casino games could be played offline, while the restaurants, bars, comedy clubs, gift shops and wedding chapel could be reached only over the Internet, and he described the secret "audio codes" players used to trigger sounds on each other's computers. He was less kind to the rest: the game was "at times crude and clumsy" and "often technologically weak."[^ref-22]
 
-Metacritic has no Metascore for the game. Its summary blurb calls the pairing of the Larry franchise and a casino game "a match made in sleaze heaven."[^ref-8]
+Metacritic has no Metascore for the game. Its summary blurb, reprinted from GameSpot's review by Tahsin Shamma, calls the pairing of the Larry franchise and a casino game "a match made in sleaze heaven."[^ref-8][^ref-26]
+
+GameSpot scored it 6.1 ("Fair"), calling it "more of a virtual casino simulation than a gambling game" and noting that the online party games "do offer some fun," with *Say What?!* the most entertaining.[^ref-26] Game Over Online's reviewer "Stikman" scored it 47% on June 16, 1998, saying it "just seems to be a pretty generic casino game"; he could not get online play to work ("the on-line option did nothing") and found the Wheel of Fortune table "under construction."[^ref-27]
 
 ### Modern Assessment
 
@@ -112,7 +105,9 @@ Hardcore Gaming 101 found that "other than the constantly-playing Larry theme so
 
 **Known Scores:**
 - **IGN:** 6.2/10[^ref-5]
-- **IMDb:** 6.4/10 (33 ratings)[^ref-1]
+- **GameSpot:** 6.1 ("Fair")[^ref-26]
+- **Game Over Online:** 47%[^ref-27]
+- **IMDb:** about 6.4/10 (a few dozen ratings)[^ref-1]
 - **MobyGames:** critics 69% (10 ratings); players 3.4/5 (11 ratings)[^ref-2]
 
 ## Development
@@ -130,6 +125,19 @@ Al Lowe designed, wrote and directed the game, and also served as voice casting 
 Development took place while Sierra was owned by CUC International, whose acquisition of Sierra closed in July 1996. CUC merged with HFS in December 1997 to become Cendant, which announced the sale of its consumer software division to Havas in November 1998.[^ref-19]
 
 The online component used WON (World Opponent Network). Sierra had rebranded its Sierra Internet Gaming System (SIGS) as WON in December 1997, and the service officially launched in April 1998.[^ref-19] Lowe's design document set the goal to "completely integrate SIGS into all the games."[^ref-18]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Leisure Suit Larry | Jan Rabson |
+| Annette Boning | Tasia Valenza |
+| Captain Thygh | Sheryl Bernstein |
+| Cavaricchi Vuarnet | Mary Kay Bergman |
+| Dick | S. Scott Bullock |
+| Johnson | Kevin Michael Richardson |
+
+Source: MobyGames credits[^ref-2] and IMDb[^ref-1]
 
 ### Technology
 
@@ -156,7 +164,7 @@ The game has connections to Sierra's earlier Larry-themed casino software:
 
 ### Online Service Shutdown
 
-The WON service is no longer available, so the game's online features no longer work.[^ref-13] Sierra's WON servers were closed in stages, with many long-running titles shut down on August 16, 2007 and the last servers on November 1, 2008.[^ref-25][^ref-19] The sources checked do not say when this game's own online play ended. The casino games themselves still play off-line.[^ref-13][^ref-14]
+The WON service is no longer available, so the game's online features no longer work.[^ref-13] Sierra's WON servers were closed in stages, with many long-running titles shut down on August 16, 2007 and the last servers on November 1, 2008.[^ref-25][^ref-19] The sources checked do not say when this game's own online play ended. The game has an off-line mode.[^ref-14] Game Over Online's 1998 review already reported that the online option did nothing at the time.[^ref-27]
 
 ### Promotional Materials
 
@@ -230,4 +238,6 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-23]: [InterAction Magazine, Summer 1998 – Internet Archive](https://archive.org/details/InterAction_Magazine_Summer_1998_1998_Sierra_On-Line_US) – Rob Bakie's preview in Sierra's own magazine: Hoyle Casino engine as starting point, Larrybucks, online-only party games and chat areas
 [^ref-24]: [InterAction Magazine, Spring 1998 – Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1998_1998_Sierra_On-Line_US) – Paul Quinn's pre-release feature in Sierra's own magazine: six casino games including Wheel of Fortune, four planned party games
 [^ref-25]: [World Opponent Network – Wikipedia](https://en.wikipedia.org/wiki/World_Opponent_Network) – Staged WON server closures: August 16, 2007 and November 1, 2008
+[^ref-26]: [Leisure Suit Larry's Casino Review – GameSpot (Wayback, 2019)](https://web.archive.org/web/20191112114920/https://www.gamespot.com/reviews/leisure-suit-larrys-casino-review/1900-2535683/) – Tahsin Shamma's review (6.1 "Fair"): "match made in sleaze heaven" lede, five casino games, online party games
+[^ref-27]: [Leisure Suit Larry Casino – Game Over Online (Wayback, 2011)](https://web.archive.org/web/20111122071055/http://www.game-over.com/reviews/pc/Leisure_Suit_Larry_Casino.html) – "Stikman" review dated June 16, 1998 (47%): generic casino game, online option did nothing, Wheel of Fortune under construction
 [^ref-21]: [Is Larry Dead? – Al Lowe](https://allowe.com/games/larry/history-of-larry/is-larry-dead.html) – Lowe: "On February 22, 1999, Sierra informed me they were going to stop development of Leisure Suit Larry 8"
