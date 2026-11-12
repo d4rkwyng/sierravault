@@ -6,11 +6,11 @@ defunct: 2004
 headquarters: "United Kingdom; US studio in Cambridge, Massachusetts"
 notable_games: ["Caesar III", "Pharaoh", "Zeus: Master of Olympus"]
 parent_company: "Sierra On-Line (1995-2004)"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Impressions Games
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -71,7 +71,7 @@ A medieval strategy game developed by Impressions and published by Sierra On-Lin
 
 ## Legacy
 
-The Impressions name outlived the studio on storefronts: Steam lists Caesar 3 with Impressions Games as developer and Activision as publisher.[^ref-44] Many of the people behind the later City Building games carried on at Tilted Mill Entertainment, which Wikipedia says Chris Beatrice co-founded with Peter Haffenreffer and Jeff Fiske.[^ref-30] Lester and Bradbury went on to co-found Firefly Studios in 1999.[^ref-20]
+The Impressions name outlived the studio on storefronts: Steam lists Caesar 3 with Impressions Games as developer and Activision as publisher.[^ref-44] Many of the people behind the later City Building games carried on at Tilted Mill Entertainment, which Wikipedia says Chris Beatrice co-founded with Peter Haffenreffer and Jeff Fiske.[^ref-30] Lester and Bradbury went on to co-found Firefly Studios in 1999.[^ref-20] After the Activision Blizzard merger in 2008, MobyGames says, the City Building franchise remained with the holding company while Lords of the Realm was sold to Rebellion Developments; it lists [[2023 - Pharaoh - A New Era|Pharaoh: A New Era]] (2023) as the most recent credit.[^ref-37]
 
 ## Games
 
@@ -88,46 +88,46 @@ Years for linked titles follow their SierraVault pages. Unlinked titles are pre-
 | 1991 | The Charge of the Light Brigade | Strategy |
 | 1991 | Tornado Ground Attack | Action |
 | 1991 | Great Napoleonic Battles | Turn-Based Strategy |
-| 1992 | [[1992 - Air Bucks\|Air Bucks]] | Simulation |
+| 1992 | [[1992 - Air Bucks\|Air Bucks]] | Business Simulation |
 | 1992 | Air Force Commander | Strategy |
-| 1992 | [[1992 - Caesar\|Caesar]] | City Building |
+| 1992 | [[1992 - Caesar\|Caesar]] | City-Building |
 | 1992 | Conquest of Japan | Strategy |
 | 1992 | Warriors of Releyne | Turn-Based Strategy |
 | 1992 | Discovery: In the Steps of Columbus | Turn-Based Strategy |
-| 1993 | [[1993 - Cohort II - Fighting for Rome\|Cohort II: Fighting for Rome]] | Strategy |
+| 1993 | [[1993 - Cohort II - Fighting for Rome\|Cohort II: Fighting for Rome]] | Real-Time Tactics |
 | 1993 | Global Domination | Strategy |
 | 1993 | [[1993 - The Blue & the Gray\|The Blue & the Gray]] | Turn-Based Strategy |
 | 1993 | WW2 Air Force Commander | Strategy |
 | 1993 | When Two Worlds War | Strategy |
 | 1994 | [[1994 - D-Day - The Beginning of the End\|D-Day: The Beginning of the End]] | Turn-Based Strategy |
-| 1994 | [[1994 - Detroit\|Detroit]] | Simulation |
+| 1994 | [[1994 - Detroit\|Detroit]] | Business Simulation |
 | 1994 | Front Lines | Turn-Based Strategy |
 | 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Strategy |
-| 1995 | [[1995 - Breach 3\|Breach 3]] | Strategy |
-| 1995 | [[1995 - Caesar II\|Caesar II]] | City Building |
-| 1995 | [[1995 - Casino De Luxe\|Casino De Luxe]] | Simulation |
+| 1995 | [[1995 - Breach 3\|Breach 3]] | Real-Time Tactics |
+| 1995 | [[1995 - Caesar II\|Caesar II]] | City-Building |
+| 1995 | [[1995 - Casino De Luxe\|Casino De Luxe]] | Casino |
 | 1995 | [[1995 - High Seas Trader\|High Seas Trader]] | Strategy |
 | 1995 | [[1995 - Powerhouse\|PowerHouse]] | Business Simulation |
-| 1995 | [[1995 - Ultimate Soccer Manager\|Ultimate Soccer Manager]] | Sports |
-| 1996 | [[1996 - Casino Deluxe 2\|Casino Deluxe 2]] | Simulation |
+| 1995 | [[1995 - Ultimate Soccer Manager\|Ultimate Soccer Manager]] | Sports Management |
+| 1996 | [[1996 - Casino Deluxe 2\|Casino Deluxe 2]] | Casino |
 | 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Strategy |
-| 1996 | [[1996 - Robert E. Lee - Civil War General\|Robert E. Lee: Civil War General]] | Strategy |
+| 1996 | [[1996 - Robert E. Lee - Civil War General\|Robert E. Lee: Civil War General]] | Turn-Based Strategy |
 | 1996 | [[1996 - Space Bucks\|Space Bucks]] | Business Simulation |
 | 1996 | [[1996 - The Rise & Rule of Ancient Empires\|The Rise & Rule of Ancient Empires]] | Strategy |
 | 1996 | [[1996 - Ultimate Soccer Manager 2\|Ultimate Soccer Manager 2]] | Sports Management |
 | 1997 | [[1997 - Civil War Generals 2 - Grant–Lee–Sherman\|Civil War Generals 2: Grant, Lee, Sherman]] | Turn-Based Strategy |
 | 1997 | [[1997 - Lords of Magic\|Lords of Magic]] | Strategy |
 | 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Strategy |
-| 1998 | [[1998 - Caesar III\|Caesar III]] | City Building |
+| 1998 | [[1998 - Caesar III\|Caesar III]] | City-Building |
 | 1998 | [[1998 - Lords of Magic - Special Edition\|Lords of Magic: Special Edition]] | Strategy |
-| 1998 | [[1998 - Ultimate Soccer Manager 98\|Ultimate Soccer Manager 98]] | Sports |
-| 1999 | [[1999 - Pharaoh\|Pharaoh]] | City Building |
-| 1999 | [[1999 - Ultimate Soccer Manager 98-99\|Ultimate Soccer Manager 98-99]] | Sports |
-| 2000 | [[2000 - Cleopatra - Queen of the Nile\|Cleopatra: Queen of the Nile]] | City Building |
-| 2000 | [[2000 - Zeus - Master of Olympus\|Zeus: Master of Olympus]] | City Building |
-| 2001 | [[2001 - Poseidon - Master of Atlantis\|Poseidon: Master of Atlantis]] | City Building |
-| 2002 | [[2002 - Emperor - Rise of the Middle Kingdom\|Emperor: Rise of the Middle Kingdom]] | City Building |
-| 2004 | [[2004 - Lords of the Realm III\|Lords of the Realm III]] | Strategy |
+| 1998 | [[1998 - Ultimate Soccer Manager 98\|Ultimate Soccer Manager 98]] | Sports Management |
+| 1999 | [[1999 - Pharaoh\|Pharaoh]] | City-Building |
+| 1999 | [[1999 - Ultimate Soccer Manager 98-99\|Ultimate Soccer Manager 98-99]] | Sports Management |
+| 2000 | [[2000 - Cleopatra - Queen of the Nile\|Cleopatra: Queen of the Nile]] | City-Building |
+| 2000 | [[2000 - Zeus - Master of Olympus\|Zeus: Master of Olympus]] | City-Building |
+| 2001 | [[2001 - Poseidon - Master of Atlantis\|Poseidon: Master of Atlantis]] | City-Building |
+| 2002 | [[2002 - Emperor - Rise of the Middle Kingdom\|Emperor: Rise of the Middle Kingdom]] | City-Building |
+| 2004 | [[2004 - Lords of the Realm III\|Lords of the Realm III]] | Real-Time Strategy |
 
 ## References
 
@@ -146,15 +146,15 @@ Years for linked titles follow their SierraVault pages. Unlinked titles are pre-
 [^ref-31]: [Chris Beatrice - Wikipedia](https://en.wikipedia.org/wiki/Chris_Beatrice) — "In 2001 he founded Tilted Mill Entertainment"
 [^ref-32]: [Tilted Mill Entertainment - People (Wayback snapshot, October 2005)](http://web.archive.org/web/20051028114720/http://www.tiltedmill.com:80/people/) — Chris Beatrice: Lords of the Realm III "Lead Designer, Project Lead & Director of Development (through 9/2001)"
 [^ref-33]: [Lords of the Realm II - Wikipedia](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) — developed by Impressions, published by Sierra On-Line for DOS, Windows and Macintosh; NA release 20 November 1996; among the highest-selling computer games of 1997 and 1998
-[^ref-34]: [MobyGames - Kenny Dalglish Soccer Manager](https://www.mobygames.com/game/18008/kenny-dalglish-soccer-manager/) — read via the MobyGames API; 1989 on Amiga, Atari ST, C64, Atari 8-bit, ZX Spectrum and Amstrad CPC
-[^ref-35]: [MobyGames - Kenny Dalglish Soccer Match](https://www.mobygames.com/game/16110/kenny-dalglish-soccer-match/) — read via the MobyGames API; Amiga/Atari ST 1989; "This was his second licensed game"
+[^ref-34]: [MobyGames - Kenny Dalglish Soccer Manager](https://www.mobygames.com/game/18008/kenny-dalglish-soccer-manager/) — 1989 on Amiga, Atari ST, C64, Atari 8-bit, ZX Spectrum and Amstrad CPC
+[^ref-35]: [MobyGames - Kenny Dalglish Soccer Match](https://www.mobygames.com/game/16110/kenny-dalglish-soccer-match/) — Amiga/Atari ST 1989; "This was his second licensed game"
 [^ref-36]: [Computer Gaming World #103 (February 1993), p. 98, "No 'Impressions' Of Lion Tamers For U.K. Expatriate David Lester" – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_103) – "David Lester and Edward Grabowski established their company"; working together since 1984 on *Just Imagine ...!*
 [^ref-37]: [MobyGames - Impressions Games (Wayback, October 4, 2026)](https://web.archive.org/web/20261004061547/https://www.mobygames.com/company/102/impressions-games/) – "founded in 1989 by David Lester"; "Edward Grabowski, who was crucial to the birth of Impressions"
 
 [^ref-38]: [Sierra On-Line Form 10-Q for the quarter ended June 30, 1995, filed August 14, 1995 (SEC EDGAR, Wayback Machine)](https://web.archive.org/web/2018/https://www.sec.gov/Archives/edgar/data/724991/0000891020-95-000357.txt) – "On June 20, 1995 the Company also merged with Software Inspiration, Ltd. ... in exchange for 730,352 shares"; "accounted for as poolings-of-interests"; no price stated
-[^ref-39]: [MobyGames - Tornado Ground Attack](https://www.mobygames.com/game/70432/tornado-ground-attack/) – read via the MobyGames API; Amiga and Atari ST, 1991; Action / Shooter
-[^ref-40]: [MobyGames - Great Napoleonic Battles](https://www.mobygames.com/game/32025/great-napoleonic-battles/) – read via the MobyGames API; DOS, Amiga and Atari ST, 1991; turn-based strategy
-[^ref-41]: [MobyGames - Warriors of Releyne](https://www.mobygames.com/game/50154/warriors-of-releyne/) – read via the MobyGames API; Amiga and Atari ST, 1992; turn-based strategy
-[^ref-42]: [MobyGames - Discovery: In the Steps of Columbus](https://www.mobygames.com/game/27734/discovery-in-the-steps-of-columbus/) – read via the MobyGames API; DOS, Amiga and Atari ST, 1992; turn-based strategy
-[^ref-43]: [MobyGames - When Two Worlds War](https://www.mobygames.com/game/7689/when-two-worlds-war/) – read via the MobyGames API; DOS (June 1993) and Amiga (1993); strategy
+[^ref-39]: [MobyGames - Tornado Ground Attack](https://www.mobygames.com/game/70432/tornado-ground-attack/) – Amiga and Atari ST, 1991; Action / Shooter
+[^ref-40]: [MobyGames - Great Napoleonic Battles](https://www.mobygames.com/game/32025/great-napoleonic-battles/) – DOS, Amiga and Atari ST, 1991; turn-based strategy
+[^ref-41]: [MobyGames - Warriors of Releyne](https://www.mobygames.com/game/50154/warriors-of-releyne/) – Amiga and Atari ST, 1992; turn-based strategy
+[^ref-42]: [MobyGames - Discovery: In the Steps of Columbus](https://www.mobygames.com/game/27734/discovery-in-the-steps-of-columbus/) – DOS, Amiga and Atari ST, 1992; turn-based strategy
+[^ref-43]: [MobyGames - When Two Worlds War](https://www.mobygames.com/game/7689/when-two-worlds-war/) – DOS (June 1993) and Amiga (1993); strategy
 [^ref-44]: [Caesar 3 on Steam](https://store.steampowered.com/app/517790/) – Developer: Impressions Games; Publisher: Activision
