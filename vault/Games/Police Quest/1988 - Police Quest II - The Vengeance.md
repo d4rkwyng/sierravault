@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI0
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Mark Seibert]
 description: 'Police Quest II: The Vengeance is a 1988 Sierra On-Line adventure game
   designed by Jim Walls and the direct sequel to Police Quest: In Pursuit of the Death
@@ -19,7 +19,7 @@ tags: [1980s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest II: The Vengeance
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ The game's scenarios were based on situations that Jim Walls or his friends expe
 
 One year has passed since Officer Sonny Bonds brought Jessie Bains, the "Death Angel," to justice in Police Quest, and Bonds has been promoted to Homicide Detective.[^ref-29] He has begun dating Marie Wilkans, a former prostitute who helped him apprehend Bains.[^ref-1] The calm ends when Bains, brought back to Lytton for a retrial, escapes from the jail and Bonds leads the investigation to recapture him.[^ref-1][^ref-12]
 
-Bains's vendetta against Sonny becomes intensely personal when he abducts Marie Wilkans, Sonny's girlfriend.[^ref-8] The threat is made explicit through a chilling note discovered in a car trunk: "You're a DEAD man, Sonny Bonds!"[^ref-9] What follows is a tense investigation that takes Bonds across the fictional city of Lytton and beyond, as he works to track down Bains before it's too late.
+Bains's vendetta against Sonny becomes intensely personal when he abducts Marie Wilkans, Sonny's girlfriend.[^ref-8] The threat is made explicit through a chilling note discovered in a car trunk: "You're a DEAD man, Sonny Bonds!"[^ref-9] The investigation carries Bonds from Lytton to Steelton, where a traced phone call sends him to a local park and he follows Bains into the sewer system below it.[^ref-1]
 
 While the first game was largely based on street police work, this sequel shifts focus to forensics field work, emphasizing the collection of evidence that links Bains to the crimes occurring throughout the game.[^ref-6] The investigation leads Bonds through multiple crime scenes, including Cotton Cove, where he trades shots with Bains and later dives into the river, which yields the missing jail guard's body.[^ref-1][^ref-14] The trail eventually takes him beyond city limits, involving airplane travel and culminating in a chase through the sewers beneath a Steelton park.[^ref-1]
 
@@ -56,7 +56,7 @@ One player review on My Abandonware called it "one of the most nerveracking endi
 
 Police Quest II utilizes Sierra's text parser interface, where commands are given in verb/noun combinations such as "Unlock Door" or "Take Keys," though some keyboard shortcuts are available for common actions.[^ref-1] The game supports mouse navigation, an improvement over the purely keyboard-driven original.[^ref-3][^ref-29] The command line of the first game is gone: the player simply starts typing and a message input window appears.[^ref-29]
 
-Unlike its predecessor, the game removes the driving mini-game sequences that required players to manually navigate streets. Instead, players simply type "drive to [location]" for automatic travel between destinations.[^ref-14] This streamlined approach allows the game to focus on its investigation and puzzle-solving elements rather than navigation challenges.
+Unlike its predecessor, the game removes the driving mini-game sequences that required players to manually navigate streets. Instead, players simply type "drive to [location]" for automatic travel between destinations.[^ref-14] Computer Gaming World's reviewer described the change the same way: instead of driving, "one simply types in the location where he needs to go and the game does the rest."[^ref-29]
 
 ### Structure and Progression
 
@@ -64,7 +64,7 @@ The game follows a linear investigation structure that takes Sonny Bonds through
 
 - **Lytton Police Station:** The game begins at the police department where Bonds must check in, retrieve his equipment, and learn about Bains's escape[^ref-14]
 - **Various Crime Scenes:** Investigation takes Bonds to multiple murder scenes where evidence must be collected forensically[^ref-1][^ref-6]
-- **Cotton Cove:** A critical crime scene requiring detailed evidence gathering[^ref-14]
+- **Cotton Cove:** Bonds asks a jogger about blood, returns fire when Bains shoots, then photographs and collects blood and a footprint before a diving team arrives[^ref-14]
 - **Lytton Airport / flight to Steelton:** Bonds and his partner fly to Steelton and avert a terrorist hijacking on board[^ref-1]
 - **Underwater Sequence:** A diving section requiring proper equipment and procedure[^ref-13]
 - **Final Confrontation:** In the sewers beneath a Steelton park, Bonds rescues Marie and kills Bains in a shootout[^ref-1]
@@ -142,7 +142,7 @@ Mark Seibert composed the soundtrack, which was his first full soundtrack for Si
 - **Minimum RAM:** 512 KB
 - **Recommended RAM:** 640 KB
 - **Media:** 3.5" and 5.25" Floppy Disks[^ref-6]
-- **Audio:** Roland MT-32, AdLib and IBM PC speaker (CGW: "the Roland MT-32, the AdLib & the IBM")[^ref-29]
+- **Audio:** Roland MT-32, AdLib and IBM music cards (CGW: "the Roland MT-32, the AdLib & the IBM")[^ref-29]
 
 **Modern Version (GOG Police Quest Collection):**[^ref-20]
 - **Minimum OS:** Windows 10 or 11
@@ -169,7 +169,7 @@ The driving mini-game that was a prominent feature of the first Police Quest was
 
 ### Technical Issues
 
-Players have reported several technical issues with Police Quest II. The game can result in unwinnable states if certain actions are not performed or objects are not obtained during specific segments—for example, failing to collect necessary items in the first half can make the second half impossible to complete.[^ref-18]
+Players have reported several technical issues with Police Quest II. Retro Freak Reviews says the game can result in unwinnable states if certain actions are not performed or objects are not obtained during specific segments—for example, failing to collect necessary items in the first half can make the second half impossible to complete.[^ref-18] Hardcore Gaming 101 disagrees on the evidence: finding all of it "isn't even really mandatory," and the game "lets you proceed without any major penalty even if you miss them, without any threat of a dead end." Its one exception is the gun, which must be recalibrated at the firing range twice or the player gets killed, "one of the few times you can find yourself in unwinnable situations."[^ref-30]
 
 One player found some objects in the scuba diving scene "almost impossible to see"; another recalled that in the CGA version the diving section's colours "were all blue and red and some obvious clues were hidden as a result."[^ref-13] Additionally, pipes in the sewers section carry roughly a 25% chance of pushing Sonny into the sewage, a figure the guide's author revised down from an earlier 50%.[^ref-15]
 
@@ -196,7 +196,7 @@ Police Quest II contains several hidden references and Easter eggs typical of Si
 - **"Let's Roll" Phrase:** The game contains the phrase "Let's Roll" pre-dating its famous association with 9/11. As one guide author noted: "Pre-9/11 you would not have heard about this term much and it is more of a coincidence it appears in the game."[^ref-14]
 
 **Japanese PC-98 Version:**
-The NEC PC-9801 version used redrawn sprites in an anime-esque style to appeal to the Japanese market.[^ref-1]
+The NEC PC-9801 version used redrawn sprites in an anime-esque style to appeal to the Japanese market.[^ref-1] Hardcore Gaming 101 says the port redraws the characters "in a manga style": Sonny has green hair, the villain Bains blue hair, the larger, rounder eyes show even in the copy-protection mugshots, and the locker-room pin-up became an anime character. It also has a unique Game Over screen, a newspaper showing Sonny "gone crazy" if the player fires the pistol at random. The text parser still understands English commands, and the game can be played entirely in English with subtitled Japanese text beneath it.[^ref-30] Kotaku's Luke Plunkett (June 16, 2011) wrote that, unlike the Japanese versions of Space Quest and Quest for Glory, which "simply translated the language," the work on Police Quest 2 "went above and beyond," and that Sonny also traded his jeans-and-jacket outfit for an all-blue suit.[^ref-33]
 
 ## Legacy
 
@@ -217,6 +217,7 @@ Police Quest II: The Vengeance has appeared in numerous compilation releases:[^r
 - **SWAT: Career Pack**
 - **Police Quest Collection (XP)**
 - **Police Quest Collection** (GOG.com digital release)[^ref-20]
+- **Police Quest™ Collection** (Steam store listing, $9.99)[^ref-32]
 
 ### Fan Projects
 
@@ -230,7 +231,7 @@ The game is playable through ScummVM, providing modern compatibility for preserv
 
 ### Critical Perspective
 
-Adventure Gamers credited Police Quest II with having, "pre-Gabriel Knight, set the standard for the serious adventure game."[^ref-3] While Sierra's other major series dealt with fantasy kingdoms, comedic situations, or space exploration, Police Quest offered a grounded experience that asked players to think like actual law enforcement officers.
+Adventure Gamers credited Police Quest II with having, "pre-Gabriel Knight, set the standard for the serious adventure game."[^ref-3] The proper procedures for collecting and handling evidence are the main focus of many of the game's puzzles,[^ref-1] and Computer Gaming World's reviewer stressed that "one must always follow proper police procedures in order to succeed in this game."[^ref-29]
 
 Adventure Gamers called it "the best game of its series,"[^ref-3] and Hardcore Gaming 101 found it "more interesting than any of the others."[^ref-30] Because Sierra gave the first game a VGA remake but never this one, A Force For Good called it "the poor relation of the series."[^ref-17]
 
@@ -238,6 +239,7 @@ Adventure Gamers called it "the best game of its series,"[^ref-3] and Hardcore G
 
 **Purchase / Digital Stores**
 - [GOG.com – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) - Digital collection including Police Quest II
+- [Steam – Police Quest Collection](https://store.steampowered.com/app/494740/) - Digital collection including Police Quest II
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/Police_Quest_2_Manual_JAP) - Japanese PC-98 manual
@@ -252,6 +254,7 @@ Adventure Gamers called it "the best game of its series,"[^ref-3] and Hardcore G
 - [[1991 - Police Quest III - The Kindred]]
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 - [[1993 - Police Quest - Open Season]]
+- [[Police Quest Series]]
 
 ## References
 
@@ -278,6 +281,8 @@ Adventure Gamers called it "the best game of its series,"[^ref-3] and Hardcore G
 [^ref-26]: [Internet Archive – The Police Quest Casebook](https://archive.org/details/the-police-quest-casebook/page/140/) – strategy guide publication details
 [^ref-27]: [Internet Archive – Police Quest 2 Hint Book](https://archive.org/stream/Police_Quest_2_Hint_Book/Police_Quest_2_Hint_Book_djvu.txt) – official hint book
 [^ref-28]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) – Walls in 1985 "on administrative leave for post-traumatic stress"; Walls on the series' antagonists: "These kinds of people are actually running around out there"
-[^ref-29]: [Computer Gaming World #56 (February 1989) – "Curse of the Fallen Angel" by Michael Chaut](https://archive.org/details/Computer_Gaming_World_Issue_56) – contemporary review (pp. 42–43): doubled graphic resolution, mouse and music-card support (Roland MT-32, AdLib, IBM), new typing interface, detective duties done "by the book", gun sights, Walls' real-life basis, "Jessie Bains" still on the loose
+[^ref-29]: [Computer Gaming World #56 (February 1989) – "Curse of the Fallen Angel" by Michael Chaut](https://archive.org/details/Computer_Gaming_World_Issue_56) – contemporary review (pp. 42–43; listed as "Revenge of the Death Angel" in the issue contents): doubled graphic resolution, mouse and music-card support (Roland MT-32, AdLib, IBM), new typing interface, detective duties done "by the book", gun sights, Walls' real-life basis, "Jessie Bains" still on the loose
 [^ref-30]: [Hardcore Gaming 101 – Police Quest 2: The Vengeance (Wayback, 5 Dec 2022)](http://web.archive.org/web/20221205091351/http://www.hardcoregaming101.net/police-quest-2-the-vengeance/) – retrospective by Kurt Kalata: "something of an overlooked classic"
 [^ref-31]: [Adventure Gamers – Top 100 All-Time Adventure Games, page 17 (Wayback, 18 Jan 2013)](https://web.archive.org/web/20130118232706/http://www.adventuregamers.com/articles/view/18643/page17) – December 2011 list: "#24 – Police Quest 2: The Vengeance"
+[^ref-32]: [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – Steam store listing: four-game collection including Police Quest II ("THE VENGEANCE OF BAINS"), $9.99
+[^ref-33]: [Kotaku – Japan, What the Hell Did You do to This Classic PC Adventure Game?](https://kotaku.com/japan-what-the-hell-did-you-do-to-this-classic-pc-adve-5812431) – Luke Plunkett, June 16, 2011: Japanese Police Quest 2 localisation, redrawn characters
