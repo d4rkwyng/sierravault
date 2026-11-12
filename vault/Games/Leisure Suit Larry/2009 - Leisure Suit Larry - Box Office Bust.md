@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unreal Engine 3
 protagonist: Larry Lovage
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Leisure Suit Larry: Box Office Bust is a 2009 open-world action-adventure
   by Team17, published by Codemasters after Sierra''s demise, and one of the most critically
   panned games of its era.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Box Office Bust
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,12 +31,12 @@ The game was developed by Team17 Software Limited[^ref-48] and announced by Sier
 > **Designer:** Paul Dunstan[^ref-74]
 > **Writer:** Allen Covert[^ref-67][^ref-31]
 > **Publisher:** Codemasters[^ref-21]
+> **Engine:** Unreal Engine 3[^ref-54][^ref-77]
 > **Platforms:** PC, PlayStation 3, Xbox 360[^ref-45]
 > **Release Year:** 2009
 > **Series:** Leisure Suit Larry
-> **Sierra Lineage:** Post-Sierra
-> **Engine:** Unreal Engine 3
 > **Protagonist:** Larry Lovage
+> **Sierra Lineage:** Post-Sierra
 
 ## Story Summary
 
@@ -72,7 +72,7 @@ Box Office Bust received overwhelmingly negative reviews on all platforms; Al Lo
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| IGN | 2.0/10 (PS3); 2.2 (PC/X360) | "An awful, awful game"[^ref-30][^ref-41][^ref-42][^ref-40] |
+| IGN | 2.2/10 (PC); 2.0/10 (PS3) | "An awful, awful game"[^ref-30][^ref-42][^ref-41] |
 | GameSpot | 2.5/10 (PC/X360); 2.0 (PS3) | "Soul-crushing, mind-poisoning shame"[^ref-22][^ref-24] |
 | Eurogamer | 2/10 | Quoted a colleague: "It's actually physically unpleasant to play"[^ref-10][^ref-3] |
 | Official Xbox Magazine UK | 1/10 | Its worst-rated game of the year so far[^ref-8] |
@@ -101,13 +101,48 @@ Development was handled by Team17 Software Limited[^ref-48], best known for the 
 
 The production faced significant challenges when Activision Blizzard, which inherited Sierra's slate in the July 2008 merger, dropped the project[^ref-66][^ref-8], leaving the game in limbo until Codemasters picked up publishing rights[^ref-23]. One IMDb user reviewer later called the whole production "rushed"[^ref-32].
 
-The voice cast featured established comedians and actors including Jeffrey Tambor as Larry Laffer, Josh Keaton as Larry Lovage, Carmen Electra as Ginger Vitus, Shannon Elizabeth as Amy Loveheart, and Patrick Warburton as Damone LeCoque[^ref-34]. GamesRadar's John Walker called Tambor and Jane Lynch "great actors" and said Tom Arnold gave a strong performance, but added that "the words they're saying are gibberish"[^ref-25].
+Team17's own 2018 retrospective calls it "our most ambitious game to date": an open-world game with "a huge script with full voice-acting and our first Unreal Engine development", and "a change of publisher mid-way through production"[^ref-77]. Programmer Charles Blessing said, "To be honest, I think we bit off a little more than we could chew," adding that there were so many different gameplay elements that the team "didn't really get a chance to do them all justice"[^ref-77]. Designer Mark Dimond recalled that "We had a lot of publisher freedom to sketch out story direction, which was then fleshed out and splattered with obligatory Larry-style dodgy puns by a Hollywood scriptwriter"[^ref-77]. The retrospective describes a Hollywood setting with movie parody stages "influenced by the likes of Thriller, Titanic and various westerns", and artist Rory Little recalled that "All the 50 or so characters had to be modelled, high-poly sculpted and textured, all inside a single year"[^ref-77]. It also describes the game as a work-for-hire project whose income helped Team17 fund its own games[^ref-77].
+
+MobyGames credits the Windows version with Paul Tapper as lead programmer, Jay Waters and Oliver Wood on audio, John Dennis as design manager, Paul Dunstan as lead designer, Aten Skinner as lead artist and Billy Allison as lead animator; Mark Baldwin and Paul Kilburn are listed as Team 17 senior producers, and Hugh Pearson as producer at Codemasters[^ref-74]. Allen Covert is credited as writer, with additional dialogue by John Melchior and Kelly Wand[^ref-74]. GamesRadar's John Walker called Tambor and Jane Lynch "great actors" and said Tom Arnold gave a strong performance, but added that "the words they're saying are gibberish"[^ref-25].
+
+### Voice Cast
+
+| Character | Voice actor |
+|-----------|-------------|
+| Larry Lovage | Josh Keaton[^ref-34][^ref-74] |
+| Larry Laffer | Jeffrey Tambor[^ref-34][^ref-74] |
+| Al Jones | Artie Lange[^ref-34][^ref-74] |
+| Kip Whiteman | Jay Mohr[^ref-74] |
+| Amy Loveheart | Shannon Elizabeth[^ref-74] |
+| Damone LeCoque | Patrick Warburton[^ref-74] |
+| Merv Wallski | Dave Attell[^ref-34][^ref-74] |
+| Denise Lemon | Jane Lynch[^ref-34][^ref-74] |
+| Ginger Vitus | Carmen Electra[^ref-74] |
+| Jenna | Nikki Cox[^ref-34][^ref-74] |
+| Hugh Jassdick | Tom Arnold[^ref-34][^ref-74] |
+| Clark Tasslemuff | Peter Graves[^ref-34][^ref-74] |
+| Additional voices | Jess Harnell, Debi Mae West[^ref-74] |
+
+Allen Covert, the game's writer, is also credited with the roles of Big Anus and Little Anus[^ref-74]. Team17's retrospective names Tambor, Elizabeth, Warburton, Electra and Peter Graves among the cast[^ref-77].
 
 ### Technical Achievements
 
 The game's technical implementation proved to be its greatest weakness rather than achievement. Built on Unreal Engine 3[^ref-54], the game suffered from glitchy movement, barely functioning interaction and a camera that regularly flipped itself 180 degrees[^ref-25].
 
 The PlayStation 3 version fared worst: GameSpot's Chris Watters cited a choppy frame rate, screen tearing and slow-loading textures, summing it up as "poor technical performance"[^ref-24], and IGN wrote that the PS3 version's graphical performance "veers into unacceptable territory, with an erratic framerate"[^ref-30].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| United Kingdom | March 27, 2009 | PC, Xbox 360 | Retail launch on the Funsta label, S.R.P. £19.99[^ref-21][^ref-45] |
+| Germany | March 27, 2009 | PC, Xbox 360 | Distributed by Codemasters GmbH[^ref-45] |
+| North America | March 31, 2009 | PC, Xbox 360 | US price $19.99[^ref-71][^ref-73][^ref-24] |
+| France | April 2, 2009 | PC | Release listed by MobyGames[^ref-45] |
+| Finland | April 8, 2009 | PC | Distributed by Midway Games Limited[^ref-45] |
+| Europe | April 24, 2009 | PlayStation 3 | Release date from the Wikipedia infobox[^ref-8] |
+| Australia | April 30, 2009 | — | Release date from the Wikipedia infobox[^ref-8] |
+| North America | May 5, 2009 | PlayStation 3 | US price $29.99[^ref-45][^ref-75][^ref-24] |
 
 ## Legacy
 
@@ -125,6 +160,12 @@ Trophy hunters still take it on; one PlayStation player who earned its platinum 
 
 ## See Also
 
+- [[Leisure Suit Larry Series]]
+- Previous: [[2004 - Leisure Suit Larry - Magna Cum Laude]]
+- Next: [[2013 - Leisure Suit Larry - Reloaded]]
+
+**Other Leisure Suit Larry games:**
+
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
@@ -133,8 +174,6 @@ Trophy hunters still take it on; one PlayStation player who earned its platinum 
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - [[1996 - Leisure Suit Larry 7 - Love for Sail]]
 - [[1998 - Leisure Suit Larry's Casino]]
-- [[2004 - Leisure Suit Larry - Magna Cum Laude]]
-- [[2013 - Leisure Suit Larry - Reloaded]]
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 - [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 
@@ -177,3 +216,4 @@ Trophy hunters still take it on; one PlayStation player who earned its platinum 
 [^ref-74]: https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/credits/windows/ - MobyGames Windows credits (Lead Designer: Paul Dunstan)
 [^ref-75]: https://web.archive.org/web/20130501082351/http://www.gamerankings.com/ps3/944567-leisure-suit-larry-box-office-bust/index.html - Archived GameRankings PS3 scores (16.00%)
 [^ref-76]: https://web.archive.org/web/20150509133313/http://www.gamesradar.com/worst-games-all-time/ - GamesRadar, "The 100 worst games of all time" (#28)
+[^ref-77]: https://www.team17.com/team17s-100-games-part-eleven-2009-worms-2-armageddon-alien-breed-evolution-and-er-leisure-suit-larry/ - Team17, "Team17's 100 Games – Part Eleven: 2009" (21 Nov 2018), entry 53/100 with developer quotes
