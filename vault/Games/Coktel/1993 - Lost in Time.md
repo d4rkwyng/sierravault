@@ -5,20 +5,19 @@ developer: Coktel Vision
 designer: [Muriel Tramis]
 publisher: Coktel Vision, Sierra On-Line
 genre: Adventure
-platforms: [DOS]
+platforms: [DOS, Windows 3.1]
 series: Standalone (Doralice duology)
 engine: Gob
 protagonist: Doralice Prunelier
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Charles Callet]
-description: Lost in Time is a 1993 first-person point-and-click adventure game developed
-  by French studio Coktel Vision and published in North America by Sierra...
+description: "Lost in Time is a 1993 first-person point-and-click adventure game developed by French studio Coktel Vision and published in North America by Sierra On-Line."
 tags: [1990s, adventure, coktel, sierra, standalone-doralice-duology]
 ---
 # Lost in Time
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +32,7 @@ Lost in Time has been described as "sort of like a bizarro French version of Bac
 > **Designer:** [[Muriel Tramis]][^ref-1]
 > **Publisher:** Coktel Vision (EU), [[Sierra On-Line]] (NA)[^ref-6]
 > **Engine:** Gob[^ref-7]
-> **Platforms:** MS-DOS[^ref-1]
+> **Platforms:** MS-DOS[^ref-1], Windows 3.1[^ref-9]
 > **Release Year:** 1993
 > **Series:** Standalone (Doralice duology)
 > **Protagonist:** Doralice Prunelier
@@ -73,13 +72,15 @@ Lost in Time is notorious for its inventory-intensive puzzle design[^ref-14]. Pl
 
 Typical puzzle solutions involve creative item combinations, such as using battery acid to rust locks, or combining seemingly unrelated objects to create functional tools[^ref-13]. The manual's profile of Doralice says "She touches everything but does not take time to examine things more closely"[^ref-27], suggesting that players must be proactive in experimenting with inventory items.
 
-The game includes a hint system called "Jokers," found in various places throughout the game; the manual states "You are only allowed to use three"[^ref-27][^ref-7]. Electronic Entertainment warned that once all three were used, players had to call Sierra's paid 900-number hint line or BBS for further help[^ref-30]. Home of the Underdogs called it "one of the most fiendishly difficult and intricate puzzle games you'll ever come across"[^ref-14].
+The game includes a hint system called "Jokers," found in various places throughout the game; the manual states "You are only allowed to use three"[^ref-27][^ref-7]. Electronic Entertainment cautioned that "you may end up painting yourself into the proverbial corner, making it impossible to come back and win", but noted that players could "save as many games as you need to", limited only by hard disk space[^ref-30]. It also warned that once all three jokers were used, players had to call Sierra's paid 900-number hint line or BBS for further help[^ref-30]. Home of the Underdogs called it "one of the most fiendishly difficult and intricate puzzle games you'll ever come across"[^ref-14].
 
 ## Reception
 
 ### Contemporary Reviews
 
 Lost in Time received mixed to positive reviews upon release. PC Zone awarded the game 69% in its November 1993 issue[^ref-6]. Electronic Entertainment gave it 8/10 in March 1994[^ref-6]; reviewer Al Giovetti called it "a good, solid, high-quality game. But the puzzles are very hard and often obscure, while the digitized, full-motion video is not the best"[^ref-30]. Computer Gaming World's April 1994 CD-ROM round-up said "game play is interesting and movement through the 3D world is fluid," but found the video less crisp and the music weaker than in Inca, adding that "some puzzles border on the obtuse, but there's still enough going on to entice those gamers who missed catching reruns of Time Tunnel"[^ref-29].
+
+French magazines reviewed the game earlier. Génération 4 covered it in its June 1993 issue (#56) under the headline "Sur les traces de Mac Gyver"; MobyGames lists its score as 88%[^ref-32][^ref-17]. One of its two reviewers advised that, "à moins d'être un disciple du Grand Mac Gyver", players should gather the family to beat the game's challenges, and found that the lack of alternative solutions would keep players busy for a long time[^ref-32]. Tilt's issue 120 (a 1993 special issue) called Doralice "une sorte de MacGiver féminin" who gets out of complex situations with harmless objects. It praised the "scénario en béton armé" and the logic of the puzzles, and criticised the amount of text in the ending, the uneven difficulty and the video overlays on the drawings[^ref-33]. Tilt's rating table lists the game at 85, and MobyGames records the same figure[^ref-33][^ref-17].
 
 ### Modern Assessment
 
@@ -88,7 +89,7 @@ Later assessments remain mixed. Home of the Underdogs described it as "arguably 
 Some players remember it fondly. One player on GOG's wishlist noted: "This is the first game I played on the PC many years ago. Very underrated. Or possibly just my nostalgia talking"[^ref-18]. Another fan wrote: "Honestly, Lost In Time is one of my favorite games... the storyline is gripping and the puzzles are tastefully challenging"[^ref-16], and noted that "even those that don't like the game love the storyline"[^ref-16].
 
 **Aggregate Scores:**
-- **MobyGames:** 73% critic average (24 ratings); player average 3.2/5 (32 ratings); Moby Score 7.0[^ref-1]
+- **MobyGames:** 74% critic average (25 ratings); player average 3.2/5 (32 ratings); Moby Score 7.0 (checked November 11, 2026)[^ref-1][^ref-17]
 - **Abandonware DOS:** 3.90/5.00 (72 votes)[^ref-19]
 - **MyAbandonware:** 4.36/5 (61 votes)[^ref-14]
 - **Amazon:** 3.2/5 stars[^ref-20]
@@ -99,7 +100,7 @@ Some players remember it fondly. One player on GOG's wishlist noted: "This is th
 
 Lost in Time was developed by Coktel Vision, a French game company that had made its name with the Gobliiins series of adventure games[^ref-13]. After the Gobliiins games, Coktel moved into interactive movies with Inca and Inca II, and Lost in Time was the next of these[^ref-13]. Doralice had previously been the heroine of Coktel's adult-oriented adventure Fascination, making Lost in Time effectively a sequel featuring the same protagonist[^ref-5][^ref-13][^ref-18]. [[Muriel Tramis]] is credited for creation/project management, with Corinne Carrère as co-scenario writer[^ref-1].
 
-The game was developed during a period of significant change for Coktel Vision: Sierra On-Line acquired the company on October 29, 1993[^ref-28]. The game was out in Europe by November 1993, when PC Zone reviewed it[^ref-6], with Coktel Vision handling European distribution while Sierra On-Line published the North American release[^ref-6][^ref-29][^ref-30].
+The game was developed during a period of significant change for Coktel Vision: Sierra On-Line acquired the company on October 29, 1993[^ref-28]. The French two-episode release was out by June 1993, when Génération 4 reviewed it; the same issue listed the CD-ROM version as due in autumn 1993[^ref-32]. PC Zone reviewed the game in November 1993[^ref-6]. Coktel Vision handled European distribution while Sierra On-Line published the North American release[^ref-6][^ref-29][^ref-30]. Coktel's later live-action adventure [[1996 - Urban Runner]] has its own page.
 
 ### Production
 
@@ -110,7 +111,15 @@ The development team created three distinct visual styles for the game's major l
 **Development Credits:**[^ref-1]
 - **Creation/Project Manager:** Muriel Tramis
 - **Co-scenario Writer:** Corinne Carrère
-- **Composer:** Charles Callet
+- **Program Manager:** Philippe Lamarque
+- **Programming:** MDO, Emmanuel Maguet, Roland Lacoste
+- **Graphics:** Pascal Pautrot (Paco), Joseph Kluytmans, Jeff Rey
+- **Drawings:** Thierry Ségur
+- **3D Precalculated Graphics:** Frédéric Chauvelot
+- **Video Pictures (camera):** Frédéric Chauvelot, Pascal Legrand
+- **Composer / Sound Effects:** Charles Callet
+- **Front Illustration:** Jeff Rey
+- **Production Supervision:** Roland Oskian
 
 ### Technical Achievements
 
@@ -128,6 +137,12 @@ The game used the Gob engine[^ref-7], a modified version of the Gobliiins engine
 - **CD-ROM:** 2x CD-ROM drive required[^ref-21]
 - **OS:** MS-DOS 5.0 or greater[^ref-21]
 - **CPU:** 386 or better[^ref-21]
+
+**French Edition (as listed by Tilt):**[^ref-33]
+- **CPU / Graphics:** PC 386, VGA
+- **RAM:** 550 KB free
+- **Disk Space:** 23 MB
+- **Language:** Game and documentation in French, with code-based copy protection
 
 **Floppy Version:**[^ref-19]
 - **Media:** 3.5" Floppy Disks
@@ -153,7 +168,7 @@ Audio analysis of the game files has revealed three unused audio tracks: dora1.a
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Floppy (Parts 1 & 2) | 1993 | DOS | European release, divided into two parts[^ref-6] |
+| Floppy (Parts 1 & 2) | 1993 (France, by June 1993) | DOS | European release, divided into two parts[^ref-6]; Génération 4 reviewed the two-episode French release in June 1993[^ref-32] |
 | CD-ROM | 1993 | DOS | Single disc with both parts, longer video and digitized speech[^ref-6] |
 | US Floppy | 1993 | DOS | Single combined release via Sierra[^ref-15][^ref-5] |
 | CD-ROM (NA) | 1993–94 | DOS | Sierra's Holiday 1993 InterAction listed it on diskettes and CD-ROM, but said the limited Christmas 1993 CD stock went almost entirely to Canada[^ref-31]; Sierra issued a CD-ROM update, dated 2/09/94, that fixed problems with Mitsumi and Orchid CD drives and some Sound Blaster-compatible sound cards[^ref-29] |
@@ -264,7 +279,7 @@ Electronic Entertainment saw the game as "the first in a planned series of Doral
 [^ref-14]: [MyAbandonware – Lost in Time](https://www.myabandonware.com/game/lost-in-time-1zq) – HOTUD review quotes, difficulty description, ratings
 [^ref-15]: [Adventure Gamer Blog – Lost in Time Introduction](https://advgamer.blogspot.com/2023/06/game-135-lost-in-time-introduction-1993.html) – Sierra acquisition timing, manual quote, release details
 [^ref-16]: [GameFAQs – Lost in Time FAQ](https://gamefaqs.gamespot.com/pc/564643-lost-in-time/faqs/55450) – fan testimonials, storyline praise
-[^ref-17]: [MobyGames Reviews – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/reviews/) – MAT user review quotes, critic aggregate score
+[^ref-17]: [MobyGames Reviews – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/reviews/) – MAT user review quotes, critic aggregate score (74%, 25 ratings, checked 2026-11-11), Génération 4 and Tilt scores
 [^ref-18]: [GOG Wishlist – Lost in Time](https://www.gog.com/wishlist/games/lost_in_time) – user testimonials, Fascination sequel revelation, compatibility issues
 [^ref-19]: [Abandonware DOS – Lost in Time](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Lost+in+Time&gid=1998) – rating, floppy version details
 [^ref-20]: [Amazon – Lost in Time](https://www.amazon.com/Sierra-On-Line-Inc-Lost-Time/dp/B0002T87RM) – customer rating
@@ -279,3 +294,5 @@ Electronic Entertainment saw the game as "the first in a planned series of Doral
 [^ref-29]: [Computer Gaming World #117, April 1994 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_117) – CD-ROM round-up capsule review; "Sierra On-Line, DOS, $39.95"; "Lost In Time CD-ROM Update" dated 2/09/94: fixes problems with Mitsumi and Orchid CD drives and certain Sound Blaster-compatible audio cards
 [^ref-30]: [Electronic Entertainment #3, March 1994, p. 104 (Internet Archive)](https://archive.org/details/ElectronicEntertainment03Mar1994) – Al Giovetti review: locations, jokers, Ségur drawings, 14 actors, 45 minutes of video on CD, prices
 [^ref-31]: [InterAction Magazine, Holiday 1993 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Sierra's feature on the game, blue-screen production, CD supply sent mostly to Canada
+[^ref-32]: [Génération 4 #56, June 1993 (Internet Archive)](https://archive.org/details/generation4-magazine-056) – "Lost in Time: Sur les traces de Mac Gyver" review (two episodes, 23 MB of data); CD preview list "Lost In Time Part 1 & 2 (CD Rom PC, automne 93)"
+[^ref-33]: [Tilt #120, 1993 (Internet Archive)](https://archive.org/details/Tilt120) – Lost in Time review: "MacGiver féminin", "scénario en béton armé", pros and cons, French edition configuration (PC 386, VGA, 550 Ko RAM libre, 23 Mo DD)
