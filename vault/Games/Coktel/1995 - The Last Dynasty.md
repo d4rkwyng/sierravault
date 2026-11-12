@@ -10,7 +10,7 @@ series: Coktel
 engine: Gob
 protagonist: Mel Raauq
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: The Last Dynasty is a hybrid action-adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1995, combining space combat with first-person
   adventure segments.
@@ -18,13 +18,13 @@ tags: [1990s, adventure, coktel, sierra]
 ---
 # The Last Dynasty
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 The Last Dynasty is a hybrid action-adventure game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995.[^ref-6] The game ambitiously combines space combat simulation sequences reminiscent of Wing Commander with first-person puzzle-solving adventure segments in the style of Myst.[^ref-2] Players assume the role of Mel Raauq, an intergalactic hero tasked with preserving the "Ultimate Knowledge" while battling the villainous Lord Iron across the galaxy.[^ref-1][^ref-9]
 
-Coming Soon Magazine called it "probably the largest production from Sierra On-Line to this day with a budget of over two million dollars," featuring several hours of dialogue, SVGA graphics throughout, and extensive video sequences.[^ref-4] The demo's marketing promised players could "Play the adventure and combat phases simultaneously and experience total gaming freedom," with all action in real time.[^ref-5] Reviews were split: Coming Soon Magazine scored it 91%, while Computer Gaming World gave it 40% and found its endless video clips and two-CD structure wearing.[^ref-4][^ref-1][^ref-6]
+Coming Soon Magazine called it "probably the largest production from Sierra On-Line to this day with a budget of over two million dollars," featuring several hours of dialogue, SVGA graphics throughout, and extensive video sequences.[^ref-4] The demo's marketing promised players could "Play the adventure and combat phases simultaneously and experience total gaming freedom," with all action in real time.[^ref-5] Reviews were split: Coming Soon Magazine scored it 91%, while Computer Gaming World gave it 2/5 stars (40% in Wikipedia's conversion) and found its endless video clips and two-CD structure wearing.[^ref-4][^ref-1][^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-6]
@@ -76,7 +76,7 @@ Contemporary reviews of The Last Dynasty were sharply split.
 
 **Coming Soon Magazine** awarded the game an exceptional **91%** score, writing that it "blends action and adventure into a fabulous story throughout space that will rave you from the beginning to the end."[^ref-4]
 
-**Computer Gaming World** (November 1995) was far less enthusiastic, giving the game **40%**.[^ref-6] Reviewer Martin E. Cirulis treated it as an odd Euro-import, writing: "If this game was a big hit in Europe, then I guess it all comes back to the mystery of different sensibilities and expectations of a game. For all the glitter, The Last Dynasty doesn't offer anything more than you could have found on an Atari ST ten years ago, and the endless video clips leave the player feeling like flotsam carried away on the raging current of unchecked multimedia."[^ref-1][^ref-6]
+**Computer Gaming World** (November 1995) was far less enthusiastic, giving the game **2/5 stars** (Wikipedia converts this to 40%).[^ref-1][^ref-6] Reviewer Martin E. Cirulis treated it as an odd Euro-import, writing: "If this game was a big hit in Europe, then I guess it all comes back to the mystery of different sensibilities and expectations of a game. For all the glitter, The Last Dynasty doesn't offer anything more than you could have found on an Atari ST ten years ago, and the endless video clips leave the player feeling like flotsam carried away on the raging current of unchecked multimedia."[^ref-1][^ref-6]
 
 ### Modern Assessment
 
@@ -127,7 +127,7 @@ The Last Dynasty runs on the Gob engine, Coktel Vision's in-house engine.[^ref-7
 
 ### Cut Content
 
-In October 1996 MAN!AC previewed Saturn and PlayStation conversions as Sierra's first console title, listing a German release for November.[^ref-3] The Sega Saturn version was "all but complete" but never released.[^ref-17] According to Sega Saturn Shiro, the port was "basically finished and ready to go (minus a few bug fixes here and there)" but was pulled at the last minute, which the site speculates was "most likely" due to the Saturn's poor market performance.[^ref-17] Prototype CD-Rs had been auctioned off some years earlier, and the game was finally dumped publicly in March 2021.[^ref-17][^ref-18]
+In October 1996 MAN!AC previewed Saturn and PlayStation conversions as Sierra's first console title, whose summary box gives a German (BRD) release of November.[^ref-3] The Sega Saturn version was "all but complete" but never released.[^ref-17] According to Sega Saturn Shiro, the port was "basically finished and ready to go (minus a few bug fixes here and there)" but was pulled at the last minute, which the site speculates was "most likely" due to the Saturn's poor market performance.[^ref-17] Prototype CD-Rs had been auctioned off some years earlier, and the game was finally dumped publicly in March 2021.[^ref-17][^ref-18]
 
 ### Version History
 
@@ -136,7 +136,7 @@ In October 1996 MAN!AC previewed Saturn and PlayStation conversions as Sierra's 
 | Original release | 1995 (reviewed July 1995) | Windows 3.x | Two CD-ROMs[^ref-4] |
 | Retail | 1995 | Windows 3.x | Released in the US, UK and Germany[^ref-12] |
 | Limited Edition | 1995 | Windows 3.x | Germany; shipped with a baseball cap[^ref-12][^ref-2] |
-| Sierra Originals | Undated | Windows 3.x | German budget re-release[^ref-12] |
+| Sierra Originals | 1995 | Windows 3.x | German budget re-release[^ref-12] |
 | Prototype | Nov 12, 1996 | Sega Saturn | Unreleased, dumped March 2021[^ref-18] |
 
 ### Technical Issues
@@ -224,12 +224,14 @@ The Last Dynasty is not currently sold digitally on GOG or Steam.
 - [[1991 - Fascination]]
 - [[1992 - Bargon Attack]]
 - [[1992 - Ween - The Prophecy]]
+- [[Coktel Adventures Series]]
 - [[1993 - Lost in Time]]
-- [[1996 - Urban Runner]]
+- [[1995 - The Bizarre Adventures of Woodruff and the Schnibble]] (previous Coktel release)
+- [[1996 - Urban Runner]] (next Coktel release)
 
 ## References
 
-[^ref-1]: [Computer Gaming World #136 (November 1995) – "Mel and Dok's Annoying Adventure" by Martin E. Cirulis](https://archive.org/details/Computer_Gaming_World_Issue_136) – review (pp. 176–178): story, 7th Guest-style movement, two-CD swapping, puzzles, price, requirements, "big hit in Europe" quote
+[^ref-1]: [Computer Gaming World #136 (November 1995) – "Mel and Dok's Annoying Adventure" by Martin E. Cirulis](https://archive.org/details/Computer_Gaming_World_Issue_136) – review (pp. 176–178; rating box on p. 178 shows 2 of 5 stars): story, 7th Guest-style movement, two-CD swapping, puzzles, price, requirements, "big hit in Europe" quote
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores
 [^ref-3]: [MAN!AC 10/96 (October 1996), "Cutthroat Dynastie", p. 12 (German)](https://archive.org/details/MANiAC.N036.1996.10/page/n11/mode/1up) – preview of the Saturn/PlayStation conversions; nearly a year of planning, 30 days of blue-screen filming with professional actors
 [^ref-2]: [MobyGames – The Last Dynasty](https://www.mobygames.com/game/1230/the-last-dynasty/) – gameplay description, credits, technical specs, ratings, version info, trivia
@@ -241,7 +243,7 @@ The Last Dynasty is not currently sold digitally on GOG or Steam.
 [^ref-10]: [The Collection Chamber – The Last Dynasty](https://collectionchamber.blogspot.com/2017/01/the-last-dynasty.html) – 2017 retrospective review, character analysis, movement, DOSBox installer
 [^ref-11]: [Behind The Voice Actors – The Last Dynasty](https://www.behindthevoiceactors.com/video-games/the-last-dynasty/) – English voice cast
 [^ref-17]: [Sega Saturn Shiro – The Last Dynasty](https://www.segasaturnshiro.com/2021/04/01/unreleased-last-dynasty-dumped-no-april-fools/) – unreleased Saturn port, cancellation, prototype dump
-[^ref-12]: [MobyGames – The Last Dynasty Releases](https://www.mobygames.com/game/1230/the-last-dynasty/releases/) – US/UK/German releases, Limited Edition with baseball cap, Sierra Originals release
+[^ref-12]: [MobyGames – The Last Dynasty Releases](https://www.mobygames.com/game/1230/the-last-dynasty/releases/) – US/UK/German releases, Limited Edition with baseball cap, Sierra Originals release (1995, Germany); read via the MobyGames API
 [^ref-13]: [MobyGames – The Last Dynasty (Wayback Machine, 13 December 2025)](http://web.archive.org/web/20251213210656/https://www.mobygames.com/game/1230/the-last-dynasty/) – critic average 64% based on 10 ratings
 [^ref-14]: [GameFAQs – The Last Dynasty](https://gamefaqs.gamespot.com/pc/918466-the-last-dynasty) – user ratings, difficulty, length, similar games
 [^ref-15]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Coktel Vision acquisition, game catalog
