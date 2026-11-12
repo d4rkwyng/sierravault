@@ -10,7 +10,7 @@ series: Lords Series
 engine: GameScript (PostScript-based)
 protagonist: Player-created Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Keith Zizza]
 description: 'Lords of Magic: Special Edition is a 1998 fantasy strategy game from Impressions
   Games that combines turn-based exploration with real-time combat and resource management,
@@ -19,17 +19,19 @@ tags: [1990s, impressions, lords-series, sierra, strategy]
 ---
 # Lords of Magic: Special Edition
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Lords of Magic: Special Edition is a fantasy strategy game that combines turn-based exploration with real-time combat and resource management,[^ref-1] set in the world of Urak.[^ref-3] Released in September 1998 as an enhanced version of the original Lords of Magic (December 1997), the Special Edition addresses numerous bugs and shortcomings while adding substantial new content including the Legends of Urak Quest Pack, a lord editor, a map editor,[^ref-6] 8 new buildings, 17 new monsters, and 5 new storylines based on legendary characters.[^ref-2] The game was developed by Impressions Games and published by Sierra On-Line, and GOG's store page describes it as "a fine mix of the best qualities from Heroes of Might and Magic and Lords of the Realm."[^ref-3]
+Lords of Magic: Special Edition is a fantasy strategy game that combines turn-based exploration with real-time combat and resource management,[^ref-1] set in the world of Urak.[^ref-3] Released in 1998 as an enhanced version of the original Lords of Magic (December 1997), the Special Edition addresses numerous bugs and shortcomings while adding substantial new content including the Legends of Urak Quest Pack, a lord editor, 8 new buildings, 17 new monsters, and 5 new storylines based on legendary characters.[^ref-2] Computer Games Strategy Plus's July 1998 announcement also listed a map editor among its enhancements.[^ref-6] The exact release date is given differently by different sources: Sierra announced September 15, 1998, GameRankings lists September 30, and GOG and GOGDB list November 7, 1998 (see Version History).[^ref-6][^ref-23][^ref-3][^ref-29] The game is published today by Rebellion on GOG and Steam.[^ref-3][^ref-9] The game was developed by Impressions Games and published by Sierra On-Line, and GOG's store page describes it as "a fine mix of the best qualities from Heroes of Might and Magic and Lords of the Realm."[^ref-3]
 
 The game tasks players with defeating Balkoth, Lord of Death, who has unleashed a nightmare of war and terrorism across Urak after a thousand years of peace.[^ref-3] Players can choose from eight different faiths—Life, Death, Order, Chaos, Air, Earth, Fire, and Water—each with distinct strengths, weaknesses, and over 160 different spells and 90 artifacts to discover.[^ref-5] Chris Beatrice, general manager of Impressions, declared that "Lords of Magic Special Edition is the game we always wanted to make. The game ties together all of the rich diverse elements that make up classic high fantasy and weaves from them a wonderful, different story every time you play."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** Jeffrey Fiske, Gregor Koomey, Steven Serafino[^ref-5]
+> **Producer:** Glenn Oliver[^ref-5]
+> **Programmer:** Mike Gingerich[^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** GameScript (PostScript-based)[^ref-7]
 > **Platforms:** Windows[^ref-1]
@@ -40,7 +42,7 @@ The game tasks players with defeating Balkoth, Lord of Death, who has unleashed 
 
 ## Story Summary
 
-In the fantasy world known as Urak, supporters of eight different religions once coexisted in relative peace for a thousand years.[^ref-5] This era of tranquility was shattered when forces of darkness, led by the evil sorcerer Balkoth, unleashed a devastating campaign of war and terrorism that destroyed the people and laid waste to the land.[^ref-3] Once magnificent cities now lie in ruin, and the Great Temples devoted to learning have been overrun by Balkoth's worshippers.[^ref-8]
+In the fantasy world known as Urak, GOG's store page says, "For a thousand years, peace reigned on the pastoral lands of Urak."[^ref-3] The game's eight faiths each have an opposite, and Wikipedia says the people of those faiths are "bitter enemies."[^ref-5] This era of tranquility was shattered when forces of darkness, led by the evil sorcerer Balkoth, unleashed a devastating campaign of war and terrorism that destroyed the people and laid waste to the land.[^ref-3] Once magnificent cities now lie in ruin, and the Great Temples devoted to learning have been overrun by Balkoth's worshippers.[^ref-8]
 
 The people of Urak cry out for a savior—a champion to drive away the forces of evil and restore peace to their shattered world.[^ref-9] Players assume this role, choosing a character and a religion, training heroes, and building armies to crush Balkoth and his Death cult while managing the cities and resources that support their forces in the field.[^ref-2] The main goal of the game is to defeat Balkoth, Lord of Death, by any means necessary, whether through military conquest, diplomatic maneuvering, or strategic alliance.[^ref-5]
 
@@ -99,20 +101,20 @@ Reviewing the original, PC Gamer UK was notably less impressed, awarding only 56
 
 GameCenter's February 1998 review of the original delivered a harsh 4/10, with Hugh Falk noting that "Lords of Magic is riddled with bugs, and the real tragedy is that my hypothetical box cover would have suited its contents more accurately."[^ref-21] Computer Games Strategy Plus's Tim Royal offered a more nuanced take on the original, describing the experience poetically: "Lords of Magic smells, acts, and cries like a muconium drenched infant, but its baby blue eyes put a tractor beam lock onto your soul, screaming 'Keep me!'"[^ref-22]
 
-For the Special Edition, GameRankings lists Computer Games Magazine at 4/5, Electric Playground at 6.5/10, and Games First! at 4/5.[^ref-23] Game Revolution's January 1998 review of the original assigned a B+ grade under the headline "It's like a Warcraft and Ultima fruit-roll-up!"[^ref-11]
+For the Special Edition, Computer Games Strategy Plus's Jim Pedicord (December 1, 1998) wrote that "many of the frustrating bugs apparent in the original have been rectified," while noting that "the multiplayer aspects are still extremely slow" and listing multiplayer as "2-4 players, Internet, LAN, modem, serial."[^ref-39] The Electric Playground's John McLean-Foreman reviewed it on August 25, 1999, giving it 6.5/10 (reader score 4.5/10).[^ref-40] GameRankings additionally lists Computer Games Magazine at 4/5 and Games First! at 4/5.[^ref-23] Game Revolution's January 1998 review of the original assigned a B+ grade under the headline "It's like a Warcraft and Ultima fruit-roll-up!"[^ref-11]
 
 ### Modern Assessment
 
 The Home of the Underdogs write-up reproduced on My Abandonware calls it "one of the best strategy games ever made" and argues that it, "much more so than G.O.D.'s overhyped Age of Wonder, deserves to be considered the true spiritual sequel to SimTex's acclaimed Master of Magic."[^ref-24] The same write-up quotes Games Domain's review of the Special Edition, which praised its atmosphere: "LOM:SE is lush with atmosphere. The strategic component, where you will maneuver all your armies and characters in a turn-based environment, is beautiful." That review concluded the game was "the best computer implementation I've yet seen of pencil-and-paper fantasy campaigning for one, with all the trimmings."[^ref-24]
 
-Steam user reviews are "Very Positive" at 92% approval.[^ref-9] GOG.com users rate it 4.2/5 based on 118 reviews.[^ref-3] However, some modern players find it dated—one Steam reviewer noted: "It might be a great game in 1997 but it is at best mediocre in 2025."[^ref-25] Another defended it: "OG Sierra development at it's finest. Just remember the game is almost 30 yrs old, so it's not a modern interface, and there is no hand-holding."[^ref-25]
+Steam user reviews are "Very Positive" at 92% approval.[^ref-9] GOG.com users rate it 4.2/5 based on 120 reviews (as of November 2026).[^ref-3] However, some modern players find it dated—one Steam reviewer noted: "It might be a great game in 1997 but it is at best mediocre in 2025."[^ref-25] Another defended it: "OG Sierra development at it's finest. Just remember the game is almost 30 yrs old, so it's not a modern interface, and there is no hand-holding."[^ref-25]
 
 **Aggregate Scores:**
 - **GameRankings (Original):** 76.50% (4 reviews)[^ref-26]
 - **GameRankings (Special Edition):** 73.75% (4 reviews)[^ref-23]
 - **MobyGames:** 77% critics aggregate[^ref-27]
 - **Steam:** Very Positive (92%)[^ref-9]
-- **GOG.com:** 4.2/5 (118 reviews)[^ref-3]
+- **GOG.com:** 4.2/5 (120 reviews, as of November 2026)[^ref-3]
 - **My Abandonware:** 4.43/5 (7 votes)[^ref-24]
 
 ## Development
@@ -127,11 +129,13 @@ Impressions Games, described as "a small part of the Sierra family," developed t
 
 The original Lords of Magic shipped in December 1997; the Home of the Underdogs write-up describes "a wonderful concept bogged down by a frustrating amount of bugs and unfulfilled promises."[^ref-24] Computer Games Strategy Plus's review noted the game "shows signs of being delivered into the cuddling arms of gamers well short of its due date," describing numerous technical issues including disappearing hired champions, crashes from the high-level zoom feature, and units getting caught in "endless decision loops."[^ref-22]
 
-Sierra responded with multiple patches, culminating in the Special Edition release in September 1998 which incorporated all updates and patches along with substantial new content.[^ref-6] The Special Edition was announced with an estimated retail price of $39.95, with existing Lords of Magic owners eligible for a $20 rebate.[^ref-6] New features included the Legends of Urak Quest Pack, improved AI, a map editor, custom maps, eight new magical creatures, 17 new wandering monsters, and new buildings, artifacts, and spells.[^ref-6]
+Sierra responded with multiple patches, culminating in the Special Edition release in 1998 (Sierra announced September 15; GameRankings lists September 30; GOG and GOGDB list November 7) which incorporated all updates and patches along with substantial new content.[^ref-6][^ref-23][^ref-3][^ref-29] The Special Edition was announced with an estimated retail price of $39.95, with existing Lords of Magic owners eligible for a $20 rebate.[^ref-6] New features included the Legends of Urak Quest Pack, improved AI, custom maps, eight new magical creatures, 17 new wandering monsters, and new buildings, artifacts, and spells.[^ref-6] The announcement also listed a map editor, though Game Revolution's review of the original already praised "the nice map editor"[^ref-17] and eBay's Special Edition listing describes "The map editor, available in the original edition."[^ref-14]
 
 **Development Credits:**[^ref-27]
 - **Lead Design:** [[Chris Beatrice]]
 - **Designers:** Jeffrey Fiske, Gregor Koomey, Steven Serafino
+- **Producer:** Glenn Oliver[^ref-5]
+- **Programmer:** Mike Gingerich[^ref-5]
 - **Composer:** Keith Zizza
 - **Total Credited:** 95 people (Windows version)
 
@@ -177,7 +181,7 @@ No specific cut content has been documented in available sources.
 | 1.03 | Undated | Windows | Update (lomv103b)[^ref-28] |
 | 2.0 | Undated | Windows | Patch with enhancements and bug fixes[^ref-28] |
 | 2.0a | Undated | Windows | Last official patch for the original release[^ref-12][^ref-28] |
-| Special Edition | September 1998 (NA; announced for Sept. 15, GameRankings lists Sept. 30) | Windows | Retail release[^ref-5][^ref-6][^ref-23] |
+| Special Edition | 1998 (announced for Sept. 15 by CGSP; Sept. 30 per GameRankings and Wikipedia's text; Nov. 7 per GOG and GOGDB; CGSP's product line reads "11/98") | Windows | Retail release[^ref-5][^ref-6][^ref-23][^ref-3][^ref-29] |
 | 3.01 | Undated | Windows | Special Edition update; last official patch[^ref-12][^ref-28] |
 | 3.02 | March 11, 2007 | Windows | Unofficial community patch by ascension64, first released[^ref-7] |
 | 3.02 Build 0014.3 | December 11, 2007 | Windows | Latest build of the unofficial patch[^ref-7] |
@@ -258,10 +262,12 @@ The Special Edition itself functions as a compilation, bundling:[^ref-2][^ref-6]
 - The original Lords of Magic game
 - The Legends of Urak Quest Pack expansion
 - Lord Editor
-- Map Editor
+- Map Editor (listed in CGSP's announcement; see Production)
 - Additional content (8 new buildings, 17 new monsters, 5 new storylines)
 
 The US retail release included a Caesar III Demo disc.[^ref-35]
+
+MobyGames lists the Special Edition as included in later compilations: Best of Sierra Nr. 20 (2000), Game-Hits 2 (2001), Gamers Pack (2004), Legendary Lords (2000), Lords of the Realm Complete (2015) and Play the Top of Games: Edition 2001 (2001).[^ref-27] Steam lists a "Lords of the Realm Complete" bundle of 4 items that includes it.[^ref-9]
 
 ### Fan Projects
 
@@ -273,7 +279,8 @@ A dedicated subreddit (r/LoMSE) maintains an active community with discussions o
 
 ### Related Publications
 
-- **Game Manual:** 100+ pages of instructions, essential for learning the game's complex mechanics[^ref-11]
+- **Game Manual (original release):** Game Revolution's review of the original refers to "100 pages of instructions"[^ref-11]
+- **Game Manual (GOG edition):** 240 pages, included as bonus content with the GOG release, along with a reference card, tech tree, unit tree and HD wallpaper[^ref-29]
 - **Quick Reference Card:** Included with retail copies[^ref-35]
 - **Poster:** Listed as included content[^ref-35]
 
@@ -339,3 +346,5 @@ The game remains on sale through modern digital platforms, and its modding commu
 [^ref-36]: [ModDB – LoMSE Update Mod](https://www.moddb.com/mods/lords-of-magic-special-edition-update-mod) – mod description, creator quote
 [^ref-37]: [Reddit r/LoMSE Subreddit](https://www.reddit.com/r/LoMSE/) – community activity, gameplay discussions
 [^ref-38]: [Steam Community Discussions – Sequel Thread](https://steamcommunity.com/app/404040/discussions/0/135511379836100156/) – fan requests, rights complications
+[^ref-39]: [Computer Games Strategy Plus – Lords of Magic: Special Edition Review (Wayback Machine)](https://web.archive.org/web/20030518205459/http://www.cdmag.com/articles/015/174/lordsm_se_review.html) – Jim Pedicord, posted 12/01/1998; bug fixes, multiplayer, product line "11/98"
+[^ref-40]: [The Electric Playground – Lords of Magic: Special Edition Review (Wayback Machine)](https://web.archive.org/web/20020906131444/http://www.elecplay.com/review.html?article=903&full=1) – John McLean-Foreman, review date 1999-08-25, 6.5/10
