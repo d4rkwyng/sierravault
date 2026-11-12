@@ -10,7 +10,7 @@ series: Standalone
 engine: WinG
 protagonist: Player as Powerhouse CEO
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: PowerHouse is a 1995 Windows business simulation about competing energy
   megacorporations, developed by Edward Grabowski Communications Ltd. and published
   by Impressions Games.
@@ -18,7 +18,7 @@ tags: [1990s, impressions, sierra, simulation, standalone]
 ---
 # PowerHouse
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -90,7 +90,7 @@ Home of the Underdogs was critical, writing that "The game's over-ambitious atte
 The review hosted on Old-Games.com was kinder, noting that "PowerHouse comes close to being that game but for an inexplicable reason one of the most important and obvious ingredients is missing which knocks the game down a peg or two" (the missing ingredient being meaningful help in learning the game), and praising its "good AI competition" once learned[^ref-7].
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 66% average (10 ratings, as of November 11, 2026)[^ref-1]
+- **MobyGames Critics:** 66% average (9 ratings, as of January 2026)[^ref-1]
 - **MobyGames Players:** 2 ratings[^ref-1]
 - **MobyGames Moby Score:** 6.8[^ref-1]
 - **GameFAQs:** Fair (4 user ratings)[^ref-9]
@@ -106,7 +106,7 @@ The design team of Edward Grabowski, David Lester and Chris Foster drew inspirat
 
 ### Production
 
-Development of PowerHouse was completed in May 1995[^ref-2][^ref-3]. On June 20, 1995, Sierra On-Line merged with Software Inspiration Ltd., the parent company of Impressions, in a share exchange, so the game reached stores under Sierra ownership of its publisher[^ref-23]. The game represented a significant technical milestone for Impressions Games, being their first product developed for Microsoft Windows rather than DOS[^ref-5][^ref-8][^ref-11]. This transition required the development team to solve the graphics performance issues that plagued early Windows gaming.
+Development of PowerHouse was completed in May 1995[^ref-2][^ref-3]. Sierra Chest lists the game's first release as June 12, 1995[^ref-13]. On June 20, 1995, Sierra On-Line merged with Software Inspiration Ltd., the parent company of Impressions, in a share exchange[^ref-23]. The game represented a significant technical milestone for Impressions Games, being their first product developed for Microsoft Windows rather than DOS[^ref-5][^ref-8][^ref-11].
 
 The team's solution was to utilize the WinG interface, which allowed PowerHouse to bypass Windows' graphics overhead problems while still taking advantage of the operating system's features[^ref-5]. The developers emphasized their philosophy of creating engaging games rather than mere "spreadsheets with graphics," striving to make the complex economic simulation accessible and entertaining[^ref-5].
 
@@ -115,11 +115,14 @@ An Amiga version of PowerHouse was previewed during development by publications 
 **Development Credits:**[^ref-1]
 
 - **Designers:** Edward Grabowski, David Lester, Christopher J. Foster
-- **Producer:** Chris Bamford[^ref-11]
-- **Programming:** Ben Bloss, Steven Goodwin, Edward Grabowski, Darren White[^ref-1][^ref-11]
-- **Graphics:** Erik Casey, Gary Ward[^ref-1][^ref-11]
-- **Additional Graphics:** Gerri Allen, James Horsler, Heidi Mann, Dennis Rose[^ref-1][^ref-11]
-- **Composers:** Jeremy A. Bell, Jay Rinaldi
+- **Producer:** Chris Bamford[^ref-24]
+- **Programming:** Ben Bloss, Steven Goodwin, Edward Grabowski, Darren White[^ref-1][^ref-24]
+- **Graphics:** Erik Casey, Gary Ward[^ref-1][^ref-24]
+- **Additional Graphics:** Gerri Allen, James Horsler, Heidi Mann, Dennis Rose[^ref-1][^ref-24]
+- **Composers:** Jeremy A. Bell, Jay Rinaldi[^ref-24]
+- **Voice Cast:** Robert Cook as Todd Peterson, Lezli Whitehouse as Kate Bell, Chris Bamford as Charles Milner[^ref-24]
+- **Research and Documentation:** Todd Capute, Jennifer Hawthorne[^ref-24]
+- **Testing:** Phillip Conrad, Jeff Fiske, Ken Ford, Gregor Koomey, Mike Lescault, Joe McGuire, Edward Pugsley, Steve Serafino[^ref-24]
 - **Additional Credits:** 31 people total credited
 
 ### Technical Achievements
@@ -197,6 +200,7 @@ PowerHouse appeared in the following compilation:
 
 **Manuals & Extras**
 - [Internet Archive – Manual and Tutorial Guide](https://archive.org/details/powerhouse-manual/page/n56/mode/1up)[^ref-11]
+- [Sierra Help – PowerHouse Update (power11), v1.1 patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/MiscGamesUpdates.html#PowerHouse)[^ref-10]
 - [ReplacementDocs – Quick Reference Card](http://www.replacementdocs.com/download.php?view.8244)[^ref-12]
 
 **Information**
@@ -216,6 +220,10 @@ PowerHouse appeared in the following compilation:
 - [[1994 - Detroit]]
 - [[1995 - Breach 3]]
 - [[1995 - Casino De Luxe]]
+- [[1995 - High Seas Trader]]
+- [[1995 - Caesar II]]
+- [[1996 - Space Bucks]]
+- [[1994 - Lords of the Realm]]
 - [[2002 - Emperor - Rise of the Middle Kingdom]]
 
 ## References
@@ -242,3 +250,4 @@ PowerHouse appeared in the following compilation:
 [^ref-21]: [Home of the Underdogs – PowerHouse](https://www.homeoftheunderdogs.net/game.php?name=PowerHouse) – description and criticism (weak AI, dubious economic model, few random events), Detroit predecessor
 [^ref-22]: [Hyper – September 1995 (Issue 22)](https://archive.org/details/hyper-022/page/67/mode/1up) – Chris Wheeler review, p. 67: overall 75, "nine different power sources", presentation praise
 [^ref-23]: [Sierra On-Line Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback Machine)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On June 20, 1995 the Company also merged with Inspiration, a developer of strategy games, in exchange for 730,352 shares of Sierra's common stock"
+[^ref-24]: [Internet Archive – PowerHouse Manual, credits page](https://archive.org/details/powerhouse-manual/page/n3/mode/1up) – manual credits: designers, producer, programming, graphics, sound and music, voice cast, research and documentation, testing
