@@ -7,16 +7,17 @@ publisher: Impressions Software
 genre: Strategy
 platforms: [DOS, Amiga]
 series: Standalone
+engine: null
 protagonist: Ship Captain (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: High Seas Trader is a naval strategy and trading simulation game that
   puts players in the role of a young impoverished nobleman who must take to the high seas to regain fame and fortune.
 tags: [1990s, sierra, standalone, strategy]
 ---
 # High Seas Trader
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -68,7 +69,7 @@ Ship combat takes place in the same first-person view as sailing, with a choice 
 |-------------|-------|-------|
 | Computer Gaming World | 2½/5[^ref-42] | Johnny L. Wilson, May 1995. Pros: "Great trading interface". Cons: "Very limited combat sequences, weak boarding sequences and lack of sailing mechanics"[^ref-29] |
 | Next Generation | 3/5 | July 1995: "Although the subject material may be a little too dry for some gamers, High Seas Trader is definitely a must for strategy fans"[^ref-33] |
-| Dragon | 2/5 (per Wikipedia)[^ref-6] | John Brunkhart, "Eye of the Monitor" column, issue #221 (September 1995)[^ref-38] |
+| Dragon | 2 stars (2/5 per Wikipedia[^ref-6])[^ref-38] | John Brunkhart, "Eye of the Monitor" column, issue #221 (September 1995)[^ref-38] |
 | PC Games (UK) | 73% | Alex Simmons, June 1995[^ref-37] |
 | Amiga Action | 81% | Andy Sharp, June 1995[^ref-20] |
 | CU Amiga | 80% | Rik Skews, June 1995[^ref-20] |
@@ -89,7 +90,7 @@ One GOG wishlist commenter wrote: "I learned so much about the spice trades, wor
 
 ### Origins
 
-High Seas Trader was developed by Impressions, a strategy publisher founded in the UK by David Lester that later moved its headquarters to the United States; MobyGames lists Edward Grabowski among its "partners and freelancers", while a 1993 *Computer Gaming World* profile describes Lester and Grabowski as the two partners who established it[^ref-41][^ref-32]. *Computer Gaming World* described Lester in 1993 as "Impressions President and Managing Director"[^ref-32], and by 1995 the company was based in Cambridge, Massachusetts[^ref-29]. MobyGames describes the game as a follow-up to Impressions' earlier Merchant Colony[^ref-8].
+High Seas Trader was developed by Impressions, a strategy publisher founded in the UK in 1989 by David Lester; in 1992 it opened a US division in Farmington, Connecticut, which eventually moved to Cambridge, Massachusetts[^ref-41]. MobyGames lists Edward Grabowski among its "partners and freelancers", while a 1993 *Computer Gaming World* profile describes Lester and Grabowski as the two partners who established it[^ref-41][^ref-32]. *Computer Gaming World* described Lester in 1993 as "Impressions President and Managing Director"[^ref-32], and by 1995 the company was based in Cambridge, Massachusetts[^ref-29]. MobyGames describes the game as a follow-up to Impressions' earlier Merchant Colony[^ref-8].
 
 During development, under the working title High Seas Trader, the design team chose to leave slavery out of the game. *Computer Gaming World* reported in September 1994 that the team, like the designers of Sid Meier's Colonization, found the idea "to be repugnant" and resisted "rewarding" the gamer for it[^ref-31].
 
@@ -97,7 +98,7 @@ Sierra On-Line announced in 1995 that it had acquired Impressions Software, "cre
 
 ### Production
 
-MobyGames credits David Lester with the concept, Christopher J. Foster and David Lester with the design, Chris Gurski with programming, Chris Beatrice with art direction, and Jeremy A. Bell and Jason P. Rinaldi with sound and music; Foster also produced[^ref-8]. Speech was recorded by PolyLang Multimedia[^ref-8]. MobyGames lists the AIL/Miles Sound System as the game's sound engine[^ref-8].
+MobyGames credits David Lester with the concept, Christopher J. Foster and David Lester with the design, Chris Gurski with programming, Chris Beatrice with art direction, and Jeremy A. Bell and Jason P. Rinaldi with sound and music; Foster also produced[^ref-8]. Speech was recorded by PolyLang Multimedia[^ref-8]. MobyGames also credits Christopher Bamford as development manager and Todd Capute with documentation and research, and Chin-Mei Yu, Julie Airoldi and Heidi Mann with graphics and animation[^ref-8]. For the Amiga version, Lemon Amiga lists Tony Hosier for the conversion, Chris Bamford as manager and Chris Gurski as coder, with the same three graphics artists and Jason P. Rinaldi and Jeremy A. Bell as musicians[^ref-43]. MobyGames lists the AIL/Miles Sound System as the game's sound engine[^ref-8].
 
 According to *Dragon*, the designers' notes explained that the player commands only one ship because they "didn't want anything to interfere with the game's 'first-person' perspective"[^ref-38].
 
@@ -108,6 +109,15 @@ The game shipped on both CD-ROM and 3.5" floppy disks at $69.95[^ref-29]. Requir
 The CD-ROM version loads graphics such as LBM files from the disc and assumes the CD is drive D, which matters when running it under DOSBox[^ref-23]. The setup program only allows one sound card to be selected, so players cannot combine Sound Blaster effects with General MIDI music[^ref-24][^ref-29]. PCGamingWiki documents a driver-file workaround for this[^ref-9].
 
 Players can edit saved games with a hex editor to change money and ship or cargo capacity[^ref-25], and to add soldiers, sailors or apprentices to the crew[^ref-16].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Floppy and CD-ROM | 1995 | DOS | Shipped on both 3.5" floppy disks and CD-ROM[^ref-29][^ref-8] |
+| 1.02 patch | 1995 | DOS | Internet Archive item "High Seas Trader 1.02 Patch"; its archive holds one file, an updated HST.EXE[^ref-45] |
+| 1.02 patch (CD) | 1995 | DOS | Internet Archive item "High Seas Trader 1.02 (CD-version) Patch"; likewise a single HST.EXE[^ref-44] |
+| Amiga | 1995 | Amiga | AGA, four disks; published by Impressions[^ref-43] |
 
 ## Legacy
 
@@ -142,7 +152,7 @@ After the acquisition, Sierra sold the CD-ROM version for $24.95 in its Holiday 
 [^ref-3]: [MyAbandonware](https://www.myabandonware.com/game/high-seas-trader-24p) – User rating and HOTUD review
 [^ref-4]: [Metacritic](https://www.metacritic.com/game/high-seas-trader/) – Summary text ("you are there 3-D perspective"); author of the blurb not stated
 [^ref-5]: [GOG Wishlist – High Seas Trader](https://www.gog.com/wishlist/games/high_seas_trader) – User comments
-[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/High_Seas_Trader) – Developer, platforms, gameplay summary; Dragon star rating as reported there
+[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/High_Seas_Trader) – Developer, platforms, gameplay summary; Dragon "2 out of 5" scale as reported there
 [^ref-7]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=High+Seas+Trader&gid=2184) – Designer credits
 [^ref-8]: [MobyGames](https://www.mobygames.com/game/4256/high-seas-trader/) – Publisher, platforms, credits, critic average (63% from 18 ratings; [Wayback snapshot, February 2026](https://web.archive.org/web/20260203134751/https://www.mobygames.com/game/4256/high-seas-trader/)), sound engine
 [^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/High_Seas_Trader) – Resolution, minimum requirements, sound workaround
@@ -169,8 +179,11 @@ After the acquisition, Sierra sold the CD-ROM version for $24.95 in its Holiday 
 [^ref-35]: [InterAction, Holiday 1995 (Sierra On-Line), scan page 52](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US/page/n51) – "Current Sierra Products" list: High Seas Trader, DOS CD, $24.95
 [^ref-36]: [InterAction, Spring 1996 (Sierra On-Line), p. 31](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US/page/n34) – "Swashbuckling Strategy" feature
 [^ref-37]: [PC Games (UK) #11 (June 1995), scan page 52](https://archive.org/details/pc-games-issue-11-june-1995/page/n51) – Alex Simmons review, 73%
-[^ref-38]: [Dragon #221 (September 1995), pp. 115–118](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23221%5Bocr%5D/page/n116) – "Eye of the Monitor" (Jay & Dee); review by John Brunkhart, rated 2 of 5 per Wikipedia (star glyphs unreadable in the scan)
+[^ref-38]: [Dragon #221 (September 1995), pp. 115–118](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23221%5Bocr%5D/page/n116) – "Eye of the Monitor" (Jay & Dee); review by John Brunkhart, Overall Rating shows two stars on p. 118 and the "Ratings at a glance" table on p. 115 shows 2, both read from the page image; the scan does not print the scale maximum, so "of 5" rests on Wikipedia
 [^ref-39]: [High Seas Trader Game Manual (Impressions, 1995)](https://archive.org/details/high-seas-trader-manual) – pp. 6, 9, 12, 15, 22: setting, ranks, nationality, crew, rations
 [^ref-40]: [High Seas Trader Technical Supplement and Tutorial (Impressions, 1995), p. 5](https://archive.org/details/extras_msdos_High_Seas_Trader_1995) – Installation sizes (p. 5); keyboard commands
 [^ref-41]: [MobyGames - Impressions Games (company 102), Wayback snapshot October 2026](https://web.archive.org/web/20261004061547/https://www.mobygames.com/company/102/impressions-games/) – "founded in 1989 by David Lester"; "With a stable of partners and freelancers, including Edward Grabowski and Simon Bradbury"
 [^ref-42]: [Computer Gaming World #130 (May 1995), p. 156](https://archive.org/details/Computer_Gaming_World_Issue_130/page/n157) – "The Editors Speak" box for High Seas Trader: two full stars, one half star, two empty (2½ of 5), read from the page image
+[^ref-43]: [Lemon Amiga – High Seas Trader](https://www.lemonamiga.com/games/details.php?id=1573) – Amiga credits (conversion, manager, coder, graphics, musicians, documentation); hardware AGA, 4 disks
+[^ref-44]: [High Seas Trader 1.02 (CD-version) Patch (Internet Archive)](https://archive.org/details/HSTCD102_ZIP) – item title and date 1995; archive contains HST.EXE only
+[^ref-45]: [High Seas Trader 1.02 Patch (Internet Archive)](https://archive.org/details/HSTDK102_ZIP) – item title and date 1995; archive contains HST.EXE only
