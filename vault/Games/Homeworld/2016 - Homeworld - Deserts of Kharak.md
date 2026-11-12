@@ -10,7 +10,7 @@ series: Homeworld
 engine: Unity 5
 protagonist: Rachel S'jet
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Homeworld: Deserts of Kharak is a 2016 real-time strategy prequel to
   the classic Homeworld series, set on the desert planet Kharak over a century before
   the original game.'
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld: Deserts of Kharak
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -118,7 +118,20 @@ Pre-ordering the game on Steam came with a free copy of Homeworld Remastered Col
 ### Technical Achievements
 Homeworld: Deserts of Kharak was built using the Unity 5 engine[^ref-9][^ref-52], representing a modern technical foundation for the classic gameplay mechanics. As Yossarian King of Blackbird Interactive noted, "We're happy to be Made With Unity"[^ref-52]. The game requires a minimum of 3 GB RAM and 8 GB storage space, with recommended specifications including 8 GB RAM and 12 GB storage[^ref-9]. The technical implementation supports both 32-bit and 64-bit Windows executables and uses Direct3D 9.0c and Direct3D 11[^ref-9]. The game supports seven languages including English, German, Spanish, French, Italian, Polish, and Russian[^ref-57].
 
-The audio design features Paul Ruskay's musical composition, maintaining the series' signature atmospheric soundtrack[^ref-31]. The credits list string recording by the Prague Radio Orchestra at Smecky Studio Prague, and Indian musicians on instruments such as sarod, sitar and tabla recorded at Village Studios in Delhi, India[^ref-63]. The complete soundtrack spans 3 hours and 8 minutes across 117 tracks[^ref-32], including 15 bonus tracks; Bandcamp sells it as MP3 or FLAC downloads at 16-bit/44.1kHz[^ref-31]. Rachel S'jet herself delivers the campaign's opening narration[^ref-36]. Speedrun.com lists 10 runs of the game as of October 2026[^ref-59].
+The audio design features Paul Ruskay's musical composition, maintaining the series' signature atmospheric soundtrack[^ref-31]. The credits list string recording by the Prague Radio Orchestra at Smecky Studio Prague, and Indian musicians on instruments such as sarod, sitar and tabla recorded at Village Studios in Delhi, India[^ref-63]. The complete soundtrack, released on Apple Music on August 23, 2023, spans 3 hours and 8 minutes across 117 tracks[^ref-32], including 15 bonus tracks; Bandcamp sells it as MP3 or FLAC downloads at 16-bit/44.1kHz[^ref-31]. Rachel S'jet herself delivers the campaign's opening narration[^ref-36]. Speedrun.com lists 10 runs of the game as of October 2026[^ref-59].
+
+### Version History
+
+| Date | Platform | Release | Notes |
+|------|----------|---------|-------|
+| January 20, 2016 | Windows | Initial release | Steam release date[^ref-6][^ref-9] |
+| January 20, 2016 | Steam | Expedition Guide | Companion DLC at $5.99[^ref-65] |
+| March 22, 2016 | Steam | Soban Fleet Pack | Adds the Kiith Soban faction[^ref-43] |
+| April 26, 2016 | Steam | Khaaneph Fleet Pack | Adds the Khaaneph faction[^ref-64] |
+| June 21, 2016 | macOS | Mac release | Listed as the macOS (OS X) release date[^ref-9][^ref-2] |
+| November 21, 2017 | PC | Patch 1.3.0 | Tactical Pause, Hard AI resource-harvesting changes, AI air sortie change, DLC softlock fix[^ref-66] |
+| August 23, 2023 | Digital audio | Original soundtrack album | Paul Ruskay; 117 songs, 3 hours 8 minutes; Laced Records[^ref-32] |
+| April 2026 | PC | 2K Tactics and Tycoons Humble Bundle | Included in the bundle, available until April 24; also 90% off on Steam at the time[^ref-67] |
 
 ## Legacy
 
@@ -186,8 +199,8 @@ The guide features eleven sections covering different story aspects with develop
 [^ref-35]: [The Wert Zone](https://thewertzone.blogspot.com/2024/05/franchise-familiariser-homeworld.html) – Universe lore foundation establishment
 [^ref-36]: [Polygon Review](https://www.polygon.com/2016/2/3/10906294/homeworld-deserts-of-kharak-review-pc-gearbox-blackbird/) – 13 missions, opening narration and survival motive
 [^ref-43]: [Soban Fleet Pack on Steam](https://store.steampowered.com/app/433241/) – Soban faction DLC, released Mar 22, 2016, still on sale
-[^ref-45]: [Metacritic - All Reviews](https://www.metacritic.com/game/homeworld-deserts-of-kharak/critic-reviews/) – GamingTrend and Ragequit scores
-[^ref-46]: [MobyGames Critics](https://www.mobygames.com/game/76585/homeworld-deserts-of-kharak/rating/) – Aggregated critic score
+[^ref-45]: [Metacritic - All Reviews](https://www.metacritic.com/game/homeworld-deserts-of-kharak/critic-reviews/) – GamingTrend 95 (Jan 19, 2016) and Ragequit.gr 85 (Apr 6, 2016) scores, as listed on Metacritic's critic-reviews page (Ragequit.gr entry from a January 2026 capture)
+[^ref-46]: [MobyGames](https://www.mobygames.com/game/76585/homeworld-deserts-of-kharak/) – Critics 82% (8 ratings), as shown on the game page on November 11, 2026
 [^ref-47]: [IMDb - Homeworld: Deserts of Kharak (Video Game 2016)](https://www.imdb.com/title/tt5397422/) – User rating
 [^ref-48]: [Hey Poor Player Review](https://www.heypoorplayer.com/2016/01/22/homeworld-deserts-of-kharak-review/) – "Far greater than spiritual successor"
 [^ref-52]: [Unity Made With](https://web.archive.org/web/20160207030650/http://madewith.unity.com/stories/blackbirds-epic-road-trip) – Development history and challenges
@@ -200,3 +213,5 @@ The guide features eleven sections covering different story aspects with develop
 [^ref-63]: [MobyGames - Credits (Windows)](https://www.mobygames.com/game/76585/homeworld-deserts-of-kharak/credits/windows/) – Prague Radio Orchestra and Village Studios recording credits
 [^ref-64]: [Khaaneph Fleet Pack on Steam](https://store.steampowered.com/app/433242/) – Khaaneph faction DLC, released Apr 26, 2016, still on sale
 [^ref-65]: [Deserts of Kharak Expedition Guide on Steam](https://store.steampowered.com/app/433240/) – Released Jan 20, 2016; $5.99 normal price
+[^ref-66]: [Homeworld: Deserts of Kharak Update Information (2K Support)](https://support.gearboxsoftware.com/hc/en-us/articles/207562616-Homeworld-Deserts-of-Kharak-Update-Information) – Patch 1.3.0 release notes, dated November 21, 2017
+[^ref-67]: [PC Gamer - Get the Homeworld Remastered Collection, Deserts of Kharak, and 8 more RTS games for just $8](https://www.pcgamer.com/games/rts/get-the-homeworld-remastered-collection-deserts-of-kharak-and-8-more-rts-games-for-just-usd8/) – Andy Chalk, April 3, 2026; Humble Bundle available until April 24
