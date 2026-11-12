@@ -2,7 +2,7 @@
 title: 'B.C. II: Grog''s Revenge'
 release_year: 1984
 developer: Sydney Development Corp.
-designer: [Rick Banks, Michael Bate]
+designer: [Rick Banks]
 publisher: Sierra On-Line
 genre: Action
 platforms: [C64, ColecoVision, Coleco Adam, MSX]
@@ -10,7 +10,7 @@ series: B.C.
 engine: N/A
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Paul Butler]
 description: 'B.C. II: Grog''s Revenge is a 1984 action game developed by Sydney Development
   Corp. and published by Sierra On-Line for the Commodore 64, ColecoVision, Coleco Adam and MSX.'
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C. II: Grog's Revenge
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,9 @@ The game was released on multiple platforms through various international publis
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-1]
-> **Designer:** Rick Banks, Michael Bate[^ref-6][^ref-26] (MobyGames and Lemon64 credit only Rick Banks for this game[^ref-2][^ref-11])
+> **Designer:** Rick Banks[^ref-2][^ref-6]
+> **Developer credits:** C64-Wiki also lists Rick Banks and Michael Bates as developers[^ref-3]
+> **Composer:** Paul Butler[^ref-3]
 > **Publisher:** [[Sierra On-Line]], U.S. Gold, Comptiq, Erbe Software, Spectravideo, Eaglesoft[^ref-1]
 > **Engine:** N/A
 > **Platforms:** Commodore 64, ColecoVision, Coleco Adam, MSX[^ref-2]
@@ -41,7 +43,7 @@ The game was released on multiple platforms through various international publis
 
 ## Story Summary
 
-Thor has completed his Quest for Tires in the previous adventure. Now he must discover the Meaning of Life[^ref-4]. But this philosophical journey won't be easy—the Meaning of Life is hidden away somewhere in a long maze of mountains[^ref-7]. Thor must navigate treacherous paths on his trusty stone unicycle while avoiding the menacing Grog, who stalks him throughout his journey[^ref-5].
+Thor, the hero of *B.C.'s Quest for Tires*, returns and is now searching "not for Sweet Chick, but for the meaning of life"[^ref-16]. He must discover the Meaning of Life[^ref-4]. But this philosophical journey won't be easy—the Meaning of Life is hidden away somewhere in a long maze of mountains[^ref-7]. Thor must navigate treacherous paths on his trusty stone unicycle while avoiding the menacing Grog, who stalks him throughout his journey[^ref-5].
 
 The only way to reach Peter and the toll bridge that leads to enlightenment is through the "real scary caves"[^ref-7]. Each mountain is covered with clams, the currency of the prehistoric world as established in Hart's comic strip[^ref-6]. Thor needs to gather enough clams to pay the toll and advance to the next mountain[^ref-6]. Peter, a character from the original comics[^ref-10], serves as the toll collector who guards passage between mountain regions[^ref-9].
 
@@ -79,7 +81,11 @@ The MSX version runs to a Level F, with these warp tunnel codes documented by pl
 
 The core gameplay loop involves collecting clams while avoiding hazards and the pursuing Grog[^ref-3]. As one Lemon64 commenter put it: "Collecting clams is okay. But what raises the game a couple of notches is how you have to develop a strategy to avoid Grog!"[^ref-11]. Players must balance efficient clam collection with safe navigation around obstacles.
 
-The game lacks continues and has no pause feature, creating significant challenge[^ref-10]. Death comes through various means including hitting walls, falling off edges, and encounters with Grog. Notably, "the strength and appeal of Grog's Revenge is also its weakness, because it's much more fun getting killed off than collecting clams and freewheeling round the mountain"[^ref-14]—the cartoon death animations proving particularly entertaining to players[^ref-15].
+The game lacks continues and has no pause feature, creating significant challenge[^ref-10]. Death comes through various means including hitting walls, falling off edges, and encounters with Grog.
+
+Two enemies pursue Thor. The wheel-munching Tiredactyl chases him on sight, hoping to consume his tire, and costs him a life if it catches him[^ref-6][^ref-16]. Grog is the second: when he and Thor are on the same level an alarm melody plays, and if he catches Thor he shouts "GROG" and launches him skyward, ending the game[^ref-6].
+
+The caves change the rules. Inside a cave the screen is dark except for a beam of light from Thor's position, and Thor moves from side to side, avoiding stalagmites[^ref-6]. Compute!'s Gazette lists the dangerous caves alongside the Tiredactyls, the toll attendants and the twisting mountain paths among the things in Thor's way[^ref-16]. Notably, "the strength and appeal of Grog's Revenge is also its weakness, because it's much more fun getting killed off than collecting clams and freewheeling round the mountain"[^ref-14]—the cartoon death animations proving particularly entertaining to players[^ref-15].
 
 ## Reception
 
@@ -128,15 +134,16 @@ The development was handled by the Canadian developer Sydney Development Corp.[^
 
 ### Production
 
-Wikipedia names Rick Banks and Michael Bate as the designers (its Grog's Revenge article spells the name "Bates"; its Quest for Tires article, "Bate")[^ref-6][^ref-26]. MobyGames and Lemon64, however, credit only Rick Banks with the design of this game[^ref-2][^ref-11]. The game maintained the comic aesthetic of its predecessor but employed "more restrained colors" in its visual presentation, primarily featuring grey and blue tones rather than the brighter palette of the first game[^ref-3].
+Rick Banks is credited as designer by MobyGames ("Design: Rick Banks" in the Commodore 64 credits) and by Wikipedia[^ref-2][^ref-6]. C64-Wiki lists Rick Banks and Michael Bates as developers of the game[^ref-3]. The game maintained the comic aesthetic of its predecessor but employed "more restrained colors" in its visual presentation, primarily featuring grey and blue tones rather than the brighter palette of the first game[^ref-3].
 
 The programming team included J. Stuart Easterbrook, P.C. Kelly, and Tris Orendorff as coders, while J. Meinert and Scott Fiander handled the graphics[^ref-11]. The result preserved the cartoon-like quality that made the original notable while adapting it to the new gameplay structure.
 
 **Development Credits:**[^ref-11]
-- **Design:** Rick Banks; Michael Bate per Wikipedia only[^ref-6][^ref-26]
+- **Design:** Rick Banks[^ref-2][^ref-6]
+- **Developers (per C64-Wiki):** Rick Banks, Michael Bates[^ref-3]
 - **Programmers:** J. Stuart Easterbrook, P.C. Kelly, Tris Orendorff
 - **Graphics:** J. Meinert, Scott Fiander
-- **Composer:** Paul Butler
+- **Composer:** Paul Butler[^ref-3]
 
 ### Cancelled ZX Spectrum Version
 
