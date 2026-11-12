@@ -10,7 +10,7 @@ series: Conquests
 engine: SCI1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '*Conquests of the Longbow: The Legend of Robin Hood* is a graphic adventure
   game developed and published by Sierra On-Line in 1991, the second and final installment
   in the Conquests series.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of the Longbow: The Legend of Robin Hood
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -83,7 +83,7 @@ The copy protection was innovatively integrated into gameplay rather than using 
 
 *Conquests of the Longbow* received strong reviews upon release, particularly for the DOS version. French gaming magazine *Génération 4* awarded the PC version 93% in December 1991.[^ref-16] *Joystick* gave it 92% the same month.[^ref-16] *ACE: Advanced Computer Entertainment* awarded a score of 985 in February 1992 (reviewer Gary Whitta).[^ref-16]
 
-*Dragon* magazine gave the game a perfect 5 out of 5 stars, with reviewers Hartley Lesser, Patricia Lesser, and Kirk Lesser praising its quality.[^ref-1] *White Wolf* magazine's Jim Trunzo wrote in the May/June 1992 issue: "Most impressive is the game's diversity. Combat, puzzles, and arcade sequences (set to whatever degree of difficulty you like) all add to the overall feel of the product."[^ref-1]
+*Dragon* magazine (issue #179, March 1992) gave the game a perfect 5 out of 5 stars, with reviewers Hartley Lesser, Patricia Lesser, and Kirk Lesser praising its quality.[^ref-1] *White Wolf* magazine's Jim Trunzo wrote in the May/June 1992 issue: "Most impressive is the game's diversity. Combat, puzzles, and arcade sequences (set to whatever degree of difficulty you like) all add to the overall feel of the product."[^ref-1]
 
 Swedish publication *Datormagazin* awarded the PC version 4/5 in May 1992 (reviewer Göran Fröjdh) and the Amiga version 90% in September 1992 (reviewer Pia Wester).[^ref-16] *Amiga Games* gave the Amiga version 87% in November 1992.[^ref-16]
 
@@ -129,6 +129,7 @@ Some of Marx's ambitions exceeded technical capabilities. She noted: "What I wan
 - **Creative Director:** [[Bill Davis]]
 - **Producer:** [[Guruka Singh Khalsa]]
 - **Lead Programmer:** Richard Aronson
+- **Additional Programming:** Juan Carlos Escobar, Brian K. Hughes
 - **Combat System:** [[Douglas Herring]], Richard Aronson
 - **Art Designer:** Kenn Nishiuye
 - **Music Director:** [[Mark Seibert]]
@@ -140,7 +141,7 @@ Some of Marx's ambitions exceeded technical capabilities. She noted: "What I wan
 
 The game utilizes Sierra's SCI1 engine, providing 256-color VGA graphics and support for sound hardware including the Roland MT-32 and Sound Blaster.[^ref-9][^ref-13] Marx wanted music that suited the time period; the project's art director "kept pushing for a more modern sound," but she insisted on the period approach, and composer Mark Seibert "was fully in sync" with her.[^ref-15]
 
-The original soundtrack was later re-orchestrated by Mark Seibert in summer 1992 for inclusion on the *Sierra Soundtrack Collection*, recorded at Maximus Recording Studios in Fresno, California.[^ref-21]
+The original soundtrack was later re-orchestrated by Mark Seibert in summer 1992 for inclusion on the *Sierra Soundtrack Collection*, recorded at Maximus Recording Studios in Fresno, California.[^ref-21] The fan site Sierra Music Central, by contrast, credits the composer as Aubrey Hodges, with additional music by Ken Allen, Chris Braymen and Orpheus Hanley.[^ref-32]
 
 ### Technical Specifications
 
@@ -179,7 +180,7 @@ A CD-ROM version with full speech was planned for distribution around 1993 but w
 | 1.0 | December 9, 1991 | IBM PC/DOS | Initial DOS release[^ref-22] |
 | 1.1 | Unknown | DOS | Later revision; the version distributed by GOG[^ref-26] |
 | N/A | 1992 | Amiga | Amiga port; Lemon Amiga calls it Sierra's last title for the Amiga[^ref-18] |
-| N/A | 1992 | Macintosh | Mac port[^ref-1][^ref-30] |
+| N/A | 1992 | Macintosh | Mac port; MobyGames records no Mac release, and the sources for it are Wikipedia's infobox and a *Computer Gaming World* #100 mail-order ad[^ref-1][^ref-30] |
 | N/A | May 4, 2017 | Windows | GOG.com digital release, run with ScummVM[^ref-3][^ref-26] |
 
 ### Technical Issues
@@ -306,5 +307,6 @@ The game's focus on historical accuracy and cultural research also distinguishes
 [^ref-26]: [Speedrun.com – Guide](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood/guides/5px6w) – speedrun strategies, Snowy Skips, version 1.1/pixie note
 [^ref-27]: [Reddit r/Sierra – 4K Rendering Post](https://www.reddit.com/r/Sierra/comments/16g07ln/conquests_of_the_longbow_rendered_in_4k_simulated/) – fan project
 [^ref-29]: [MobyGames – Conquests of the Longbow credits (DOS)](https://www.mobygames.com/game/1967/conquests-of-the-longbow-the-legend-of-robin-hood/credits/dos/) – production credits
-[^ref-31]: [COMPUTE! Issue 140, May 1992 (Internet Archive)](https://archive.org/details/1992-05-compute-magazine) – Clayton Walnum review (p. 86): research bibliography, authenticity, days structure, arcade level
+[^ref-31]: [COMPUTE! Issue 140, May 1992, p. 86](https://www.atarimagazines.com/compute/issue140/86_Conquests_of_the_Lon.php) – Clayton Walnum review (p. 86): research bibliography, authenticity, days structure, arcade level
 [^ref-30]: [Computer Gaming World #100, November 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_100) – Adventure Game of the Year nomination and winner; mail-order ad listing a Mac version
+[^ref-32]: [Sierra Music Central – Conquests of the Longbow](http://www.sierramusiccentral.com/longbow.html) – fan-site composer credit
