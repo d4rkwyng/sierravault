@@ -1,7 +1,7 @@
 ---
 title: Sabotage
 release_year: 1981
-developer: On-Line Systems
+developer: Mark Allen
 designer: [Mark Allen]
 publisher: On-Line Systems
 genre: Shooter
@@ -10,7 +10,7 @@ series: Standalone
 engine: Machine Language
 protagonist: Anti-aircraft gunner
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Sabotage is a fixed shooter arcade game developed by Mark Allen and published
   by On-Line Systems in 1981 for the Apple II computer, an original design whose turret-versus-paratroopers
   concept was widely cloned.
@@ -18,7 +18,7 @@ tags: [1980s, shooter, sierra, standalone]
 ---
 # Sabotage
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Sabotage is a fixed shooter arcade game developed by Mark Allen and published by
 The game's scoring system was original for its time: one point is subtracted every time a shell is fired, discouraging the "spray & pray" style of play.[^ref-1][^ref-4] Retro365 notes that this made players "strive to aim and shoot only where it mattered".[^ref-4] Sabotage entered *Softalk*'s Top Thirty bestseller chart at no. 11 for May 1981.[^ref-18] Readers later voted it 17th in *Softalk*'s poll of the most popular Apple programs of 1981.[^ref-17] Retro365 adds that the game was "vastly pirated".[^ref-4] It spawned numerous clones across multiple platforms, including the PC title Paratrooper.[^ref-3][^ref-4][^ref-6]
 
 > [!info]- Game Info
-> **Developer:** [[On-Line Systems]][^ref-2]
+> **Developer:** Mark Allen[^ref-2][^ref-18]
 > **Designer:** Mark Allen[^ref-1][^ref-3][^ref-18][^ref-24]
 > **Publisher:** On-Line Systems[^ref-2][^ref-3]
 > **Engine:** Machine Language[^ref-6]
@@ -262,7 +262,7 @@ On the technical side, Andy McFadden's disassembly documents pixel-accurate coll
 
 [^ref-10]: [Player/Missile Podcast – Episode 6: Mar 1981: Sabotage](https://playermissile.com/podcast/ep006.html) – March 1981 magazine episode featuring Sabotage; interview with AtariAge user Shamus about his Atari conversion
 
-[^ref-11]: [Internet Archive – Sabotage by Mark Allen](https://archive.org/details/a2_asimov_sabotage) – Preserved Apple II disk image (1981)
+[^ref-11]: [Internet Archive – Sabotage by Mark Allen](https://archive.org/details/a2_asimov_sabotage) – Apple II disk image of Sabotage (sabotage.dsk, DOS 3.3 format), dated 1981
 
 [^ref-12]: [Apple II History – 1981](https://www.apple2history.org/appendix/aha/aha81/) – Lists "Sabotage by Allen, On-Line Systems; arcade" among 1981 releases
 
