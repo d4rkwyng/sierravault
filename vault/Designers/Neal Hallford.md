@@ -4,16 +4,16 @@ type: designer
 birth_year: 1966
 death_year: null
 notable_games: ["Betrayal at Krondor", "Dungeon Siege", "Might & Magic III: Isles of Terra"]
-companies: ["New World Computing", "Dynamix", "Gas Powered Games", "Rapid Eye Entertainment", "Sony Computer Entertainment America"]
-last_updated: '2026-11-11'
+companies: ["New World Computing", "Dynamix", "7th Level", "Cavedog Entertainment", "Gas Powered Games", "Rapid Eye Entertainment", "Sony Computer Entertainment America"]
+last_updated: '2026-11-12'
 ---
 # Neal Hallford
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Neal Hallford is an American author, computer game designer, screenwriter, independent film director and audio drama producer.[^ref-6] Born in 1966[^ref-8] in Sapulpa, Oklahoma, to school teachers Henry Hallford and Betty Hallford, he was "raised into an academically-oriented family that he says were also gifted, natural storytellers who supported his varied creative and dramatic interests in writing, acting, and film making."[^ref-6][^ref-2]
+Neal Hallford is an American author, computer game designer, screenwriter, independent film director and audio drama producer.[^ref-6] Born in 1966[^ref-8] in Sapulpa, Oklahoma,[^ref-6][^ref-2] he studied radio, television and film production before entering the games industry.[^ref-6]
 
 He is best known for the computer role-playing game [[1993 - Betrayal at Krondor|Betrayal at Krondor]] and for the book "Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games," which he co-wrote with his wife Jana Ondrechen Hallford.[^ref-3][^ref-6][^ref-16] In his game production work he has written and directed actors including John Rhys-Davies, Kate Mulgrew and Ron Perlman.[^ref-6]
 
@@ -27,9 +27,12 @@ In 1990, six months after graduating, Hallford joined New World Computing as a w
 
 ### Gaming Industry Years
 
-After T&T he began the initial design for Might & Magic III: Isles of Terra, where on story he describes himself as "unofficially on the side as sort of creative consultant," and then began design on Planet's Edge.[^ref-4][^ref-23] His friend Ron Bolinger moved to Los Angeles to take over the writing on Might & Magic III while Hallford developed Planet's Edge.[^ref-25] His boss at New World, [[John Cutter]], had taken him under his wing as his game design protégé; when Cutter left for Dynamix and asked him to join him on a licensed game for Raymond E. Feist, Hallford accepted. His last day at New World was Halloween 1991, and he moved to Eugene, Oregon, to join Dynamix as a writer and co-designer on [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (1993).[^ref-4][^ref-25]
+After T&T he began the initial design for Might & Magic III: Isles of Terra, where on story he describes himself as "unofficially on the side as sort of creative consultant," and then began design on Planet's Edge.[^ref-4][^ref-23] His friend Ron Bolinger moved to Los Angeles to take over the writing on Might & Magic III while Hallford developed Planet's Edge.[^ref-25] His boss at New World, [[John Cutter]], had taken him under his wing as his game design protégé; when Cutter left for Dynamix and asked him to join him on a licensed game for Raymond E. Feist, Hallford accepted. His last day at New World was Halloween 1991, and he joined Dynamix, then based in Eugene, Oregon, as a writer and co-designer on [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (1993).[^ref-4][^ref-25][^ref-34]
 
-After a 1994 restructuring closed Dynamix's role-playing department and cancelled the planned sequel, Thief of Dreams,[^ref-4] *Computer Gaming World* reported in April 1994 that Dynamix had elected "to terminate both the project and the project's guiding force on the computer side, John Cutter."[^ref-26] Hallford wrote the manual for Metaltech: Battledrome, which credits him among its writers,[^ref-4][^ref-28] and then consulted for 7th Level on the design and story of [[1998 - Return to Krondor|Return to Krondor]] (1998), for which he received an "Original Story Concept" credit.[^ref-4][^ref-9][^ref-29] He provided story and dialogue for Gas Powered Games' Dungeon Siege (2002) and story and writing for Dungeon Siege II (2005).[^ref-9] At Rapid Eye Entertainment he was made lead designer on Lords of EverQuest (2003), and during that time he also wrote material for Snowblind Studios' Champions of Norrath (2004).[^ref-4] He later returned to Gas Powered Games, contracted to provide story and dialogue for Supreme Commander (2007) (credited: Additional Writing).[^ref-4][^ref-9]
+After a 1994 restructuring closed Dynamix's role-playing department and cancelled the planned sequel, Thief of Dreams,[^ref-4] *Computer Gaming World* reported in April 1994 that Dynamix had elected "to terminate both the project and the project's guiding force on the computer side, John Cutter."[^ref-26] Hallford wrote the manual for Metaltech: Battledrome, which credits him among its writers alongside [[David Selle]],[^ref-4][^ref-28] and then consulted for 7th Level on the design and story of [[1998 - Return to Krondor|Return to Krondor]] (1998), for which he received an "Original Story Concept" credit.[^ref-4][^ref-9][^ref-29] His MobyGames biography also records that in 1997-98 he co-created the story and design of *Elysium* with John Cutter for Cavedog Entertainment, and that in 1999 he rewrote material for Cavedog's *Amen: The Awakening* and wrote the manual for Westwood Studios' *Nox*.[^ref-4] He provided story and dialogue for Gas Powered Games' Dungeon Siege (2002) and story and writing for Dungeon Siege II (2005).[^ref-9] At Rapid Eye Entertainment he was made lead designer on Lords of EverQuest (2003), and during that time he also wrote material for Snowblind Studios' Champions of Norrath (2004).[^ref-4] He later returned to Gas Powered Games, contracted to provide story and dialogue for Supreme Commander (2007) (credited: Additional Writing).[^ref-4][^ref-9] In 2005 Sony Computer Entertainment America contracted him to provide scripting and design for the PSP game *Neopets: Petpet Adventures: The Wand of Wishing* (released 2006).[^ref-4]
+
+
+In 2016 he began *Betrayal at Krondor: Remastered*, a tech demo remaking a small portion of the game in Amazon's Lumberyard engine, as a way to teach himself the engine.[^ref-33]
 
 A colleague at Sony SCEA San Diego wrote: "I worked with Neal at Sony SCEA San Diego. He was a designer and he was an absolute pleasure to work with. He put in a lot of details into every level he described and designed which made it so much easier for the artists to envision."[^ref-5]
 
@@ -41,7 +44,7 @@ Hallford did not become directly involved with film and television work until he
 
 ### [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (1993)
 
-Betrayal at Krondor is set in Raymond E. Feist's Midkemia. MobyGames credits Hallford with Level / Scenario Design and, with Feist, Writing / Dialogue / Story, under designer and director [[John Cutter]].[^ref-24] Feist wrote in his afterword to *Krondor: The Betrayal* that he was busy writing *The King's Buccaneer* during the game's production, and that the plot, text and new characters were created by Hallford and Cutter; Feist had editorial final say, but most of what they created was left intact.[^ref-12] Hallford recalled the burst of early work on the game as "one of the best weeks of my life."[^ref-31] MobyGames also lists him on the 2010 Windows release of the game, with credits for Original Story, Event Design and Game Text.[^ref-9] Hallford later co-authored, with Feist and Cutter, the original story behind Feist's novelization *Krondor: The Betrayal*, first published in November 1998.[^ref-8][^ref-27]
+Betrayal at Krondor, the first game of the [[Krondor Series]], is set in Raymond E. Feist's Midkemia. MobyGames credits Hallford with Level / Scenario Design and, with Feist, Writing / Dialogue / Story, under designer and director [[John Cutter]].[^ref-24] Feist wrote in his afterword to *Krondor: The Betrayal* that he was busy writing *The King's Buccaneer* during the game's production, and that the plot, text and new characters were created by Hallford and Cutter; Feist had editorial final say, but most of what they created was left intact.[^ref-12] Hallford recalled the burst of early work on the game as "one of the best weeks of my life."[^ref-31] MobyGames also lists him on the 2010 Windows release of the game, with credits for Original Story, Event Design and Game Text.[^ref-9] Hallford later co-authored, with Feist and Cutter, the original story behind Feist's novelization *Krondor: The Betrayal*, first published in November 1998.[^ref-8][^ref-27]
 
 ### Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games (2001)
 
@@ -65,26 +68,30 @@ Hallford maintains a website and Substack newsletter offering "insights and behi
 
 ## Games
 
-### New World Computing & Dynamix (1990–1994)
+### Dynamix (1991–1994)
 
-- 1990 — Tunnels & Trolls: Crusaders of Khazan — Documentation[^ref-21]
-- 1991 — Might & Magic III: Isles of Terra — Game Designers (uncredited, per MobyGames)[^ref-9]
-- 1991 — Planet's Edge — Designed By (MobyGames dates the DOS release to 1991; his own MobyGames bio and Wikipedia give 1992)[^ref-4][^ref-8]
-- **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] — Role: Level / Scenario Design; Writing / Dialogue / Story (with Raymond E. Feist)[^ref-24]
-- 2010 — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (Windows re-release) — Original Story; Event Design; Game Text (per MobyGames)[^ref-9]
-- **1994** — [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] — Role: Writer[^ref-28]
+| Year | Title | Role |
+|------|-------|------|
+| 1993 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] | Level / Scenario Design; Writing / Dialogue / Story (with Raymond E. Feist)[^ref-24] |
+| 1994 | [[1994 - Metaltech - Battledrome\|Metaltech: Battledrome]] | Writer[^ref-28] |
 
-### Post-Dynamix (1998–2008)
+### Other Credits
 
-- **1998** — [[1998 - Return to Krondor|Return to Krondor]] — Role: Original Story Concept[^ref-29]
-- 2002 — Dungeon Siege — Story and Dialogue
-- 2003 — Lords of EverQuest — Lead Designer
-- 2004 — Champions of Norrath — Story and Dialog
-- 2005 — Dungeon Siege II — Story and Writing
-- 2007 — Supreme Commander — Additional Writing
-- 2008 — Golden Axe: Beast Rider — Writer
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1990 | Tunnels & Trolls: Crusaders of Khazan | New World Computing | Documentation[^ref-21] |
+| 1991 | Might & Magic III: Isles of Terra | New World Computing | Game Designers (uncredited, per MobyGames)[^ref-9] |
+| 1991 | Planet's Edge: The Point of No Return | New World Computing | Designed By; Technical & Creative Writing; Manual (MobyGames dates the DOS release to 1991; his MobyGames bio and Wikipedia give 1992)[^ref-9][^ref-4][^ref-8] |
+| 1998 | [[1998 - Return to Krondor\|Return to Krondor]] | 7th Level | Original Story Concept[^ref-29] |
+| 2002 | Dungeon Siege | Gas Powered Games | Story and Dialogue[^ref-9] |
+| 2003 | Lords of EverQuest | Rapid Eye Entertainment | Lead Designer[^ref-9] |
+| 2004 | Champions of Norrath | Snowblind Studios | Story and Dialog[^ref-9] |
+| 2005 | Dungeon Siege II | Gas Powered Games | Story and Writing[^ref-9] |
+| 2007 | Supreme Commander | Gas Powered Games | Additional Writing[^ref-9] |
+| 2008 | Golden Axe: Beast Rider | — | Writer[^ref-9] |
+| 2010 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] (Windows re-release) | — | Original Story; Event Design; Game Text[^ref-9] |
 
-Credits per MobyGames.[^ref-9]
+Further work described in his MobyGames biography:[^ref-4] *Elysium* (1997-98, Cavedog Entertainment, story and design with John Cutter); *Amen: The Awakening* (1999, Cavedog, rewrites); *Nox* (1999, Westwood Studios, manual); *The Legend of Alon D'ar* (2000, Stormfront Studios, writer on the PlayStation 2 title that became it); *Neopets: Petpet Adventures: The Wand of Wishing* (2005-06, Sony Computer Entertainment America, scripting and design).
 
 ## References
 
@@ -110,3 +117,5 @@ Credits per MobyGames.[^ref-9]
 [^ref-30]: [Penguin Random House – Heroes of Might and Magic: 30th Anniversary Retrospective](https://www.penguinrandomhouse.com/books/804012/heroes-of-might-and-magic-30th-anniversary-retrospective-by-written-by-neal-hallford/) — Dark Horse Books; hardcover Nov 25, 2025, 192 pages; ebook Dec 23, 2025
 [^ref-31]: [Filfre – "Betrayal at Krondor" (Oct 2019)](https://www.filfre.net/2019/10/betrayal-at-krondor/) — "Cutter would be the systems guy while Hallford would be the story guy"; Hallford: "one of the best weeks of my life"
 [^ref-32]: [Neal Hallford – "HEROES OF MIGHT & MAGIC: 30th Anniversary Retrospective Announced!", The Many Worlds of Neal Hallford (May 19, 2025)](https://www.nealhallford.com/p/heroes-of-might-and-magic-30th-anniversary) — Dark Horse press release as republished by Hallford
+[^ref-33]: [RPG Codex – Check out Neal Hallford's Betrayal at Krondor: Remastered Tech Demo (Mar 18, 2016)](https://rpgcodex.net/article.php?id=10244) – Hallford teaching himself Amazon Lumberyard by remaking a small portion of Betrayal at Krondor
+[^ref-34]: [Retro365 – Betrayal at Krondor: Celebrating 30 Years (May 18, 2023)](https://retro365.blog/2023/05/18/betrayal-at-krondor-celebrating-30-years/) – Dynamix's offices in Eugene, Oregon (Atrium Building, later Riverfront Research Park)
