@@ -3,17 +3,16 @@ title: Colossal Cave 3D Adventure
 release_year: 2023
 developer: Cygnus Entertainment
 designer: [Roberta Williams]
-creative_director: [Roberta Williams]
 publisher: Cygnus Entertainment
 genre: Adventure
 platforms: [Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox
-    One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, SteamVR, PlayStation VR2,
-  Pico VR, SideQuest VR, iOS]
+    One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, Meta Quest 3, Meta Quest
+    3S, Meta Quest Pro, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS, Android]
 series: Standalone
 engine: Unity
 protagonist: Unnamed Adventurer
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Colossal Cave 3D Adventure is a 3D and VR reimagining of the seminal
   1976 text adventure game created by William Crowther and Don Woods, developed by
   Cygnus Entertainment, the studio of Sierra founders Ken and Roberta Williams, with
@@ -22,7 +21,7 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 ---
 # Colossal Cave 3D Adventure
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 
 ## Overview
@@ -35,10 +34,11 @@ Colossal Cave was released on January 19, 2023 for PC, Mac, Linux, Steam Deck, P
 
 > [!info]- Game Info
 > **Developer:** Cygnus Entertainment[^ref-6][^ref-20]
+> **Designer:** [[Roberta Williams]][^ref-24]
 > **Creative Director:** [[Roberta Williams]] (also credited as Producer and Voice Actor)[^ref-15][^ref-24]
 > **Publisher:** Cygnus Entertainment[^ref-6][^ref-20]
 > **Engine:** Unity[^ref-3][^ref-6]
-> **Platforms:** Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS[^ref-6]
+> **Platforms:** Windows, macOS, Linux, Steam Deck, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Meta Quest 2, Meta Quest 3, Meta Quest 3S, Meta Quest Pro, SteamVR, PlayStation VR2, Pico VR, SideQuest VR, iOS[^ref-6][^ref-25], Android[^ref-27]
 > **Release Year:** 2023[^ref-6]
 > **Series:** Standalone
 > **Protagonist:** Unnamed Adventurer
@@ -168,7 +168,11 @@ No cut content has been documented. Ken Williams wrote that the team released th
 | SteamVR | June 20, 2023 | PC VR | SteamVR release[^ref-6]; MobyGames dates the separate Colossal Cave VR edition June 21, 2023[^ref-21] |
 | Xbox | July 25, 2023 | Xbox One, Xbox Series X/S | Xbox platform release[^ref-6] |
 | September 2023 wave | September 20, 2023 | PS4, PlayStation VR2, Pico VR, iOS, SideQuest VR | Released alongside the Boxed Collector's Edition[^ref-6] |
-| Announced | "Coming Soon" (December 2024) | Apple Vision Pro, Meta Quest 3 | Listed as coming soon on the official fact sheet[^ref-6] |
+| Meta Quest 3, 3S, Pro | Listed as of November 11, 2026 | Meta Quest | The Meta Quest store lists Quest 3, Quest 3S, Quest 2 and Quest Pro as supported devices[^ref-14] |
+| iOS App Store | September 19, 2023 (first build) | iPhone, iPad | Free download with an in-app "Full Version" purchase of $9.99; version history lists build 1.2.23004 on 09/19/2023, and "Casual Mode, enhanced graphics, bug fixes, additional animations" added in builds dated September 2024[^ref-25] |
+| Android | June 7, 2024 | Android | Cygnus Entertainment press release of June 10, 2024: release date June 7, 2024, launch price $4.99, Android 13 or newer, redesign for Android by Roberta Williams[^ref-27] |
+| Colossal Cave 3D Remastered | October 4, 2024 | macOS (Mac App Store) | Separate Mac App Store listing from Cygnus Entertainment; version history lists 2.0.7 on 10/04/2024 and 2.0.12 as the current version (March 27, 2026)[^ref-26] |
+| Colossal Cave Retro | February 28, 2025 | Apple Vision Pro | Separate App Store listing from Cygnus Entertainment for Apple Vision Pro; version history lists 1.0 on 02/28/2025[^ref-28] |
 
 ### Technical Issues
 
@@ -291,3 +295,7 @@ This fidelity to the source material was intentional. In 2022, Ars Technica repo
 [^ref-22]: [Colossal Cave 3D blog – Showtime! (Wayback, June 2022)](https://web.archive.org/web/20220629103356/https://www.colossalcave3d.com/2022/03/06/showtime/) – Ken Williams, March 6, 2022: "We now have 15 people working on the game!"
 [^ref-23]: [MobyGames – Ken Williams credits (Wayback, May 2024)](https://web.archive.org/web/20240505105836/https://www.mobygames.com/person/59/ken-williams/credits/) – Colossal Cave (2023, Windows): "Lead Engineers" and "Executive Producer"
 [^ref-24]: [MobyGames – Roberta Williams credits (Wayback, June 2023)](https://web.archive.org/web/20230618023150/https://www.mobygames.com/person/60/roberta-williams/credits/) – Colossal Cave (Windows, 2023): "Creative Director", "Produced by", "Voice Actor: Greeter Elfs"
+[^ref-25]: [App Store – Colossal Cave 3D (iPhone/iPad)](https://apps.apple.com/us/app/colossal-cave-3d/id6443992938) – Cygnus Entertainment, LLC; in-app purchase, version history (first build 09/19/2023; Casual Mode, September 2024); checked November 11, 2026
+[^ref-26]: [Mac App Store – Colossal Cave 3D Remastered](https://apps.apple.com/us/app/colossal-cave-3d-remastered/id6651817868?mt=12) – Cygnus Entertainment, LLC; version history (2.0.7 on 10/04/2024; 2.0.12 on March 27); checked November 11, 2026
+[^ref-27]: [PR Newswire – Legends Reborn: Roberta Williams Reimagines the First Adventure Game in Colossal Cave 3D, Out Now for Android](https://prnewswire.com/news-releases/legends-reborn-roberta-williams-reimagines-the-first-adventure-game-in-colossal-cave-3d-out-now-for-android-302167866.html) – Cygnus Entertainment press release, Seattle, June 10, 2024; release date June 7, 2024, launch price $4.99
+[^ref-28]: [App Store – Colossal Cave Retro (Apple Vision Pro)](https://apps.apple.com/us/app/colossal-cave-retro/id6741536628) – Cygnus Entertainment, LLC; version history (1.0 on 02/28/2025); checked November 11, 2026
