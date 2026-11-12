@@ -10,7 +10,7 @@ series: Police Quest/SWAT
 engine: null
 protagonist: Kurt Wolfe
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'SWAT: Target Liberty is a third-person tactical shooter developed by
   3G Studios and published by Vivendi Games under the Sierra Entertainment label exclusively
   for the PlayStation Portable in October 2007.'
@@ -18,7 +18,7 @@ tags: [2000s, police-quest-swat, shooter, sierra]
 ---
 # SWAT: Target Liberty
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -74,13 +74,13 @@ Missions involve rescuing hostages, restraining or eliminating suspects, and dis
 
 ### Contemporary Reviews
 
-SWAT: Target Liberty received mixed to negative reviews upon release, with critics acknowledging its ambitions while criticizing its execution. GameSpot awarded the game 5.5/10, with Kevin VanOrd declaring it "too short, too tedious, and too absurd to take seriously" and calling it "a generic shooter that is neither tactical nor especially action-packed."[^ref-7] IGN's Sam Bishop gave it 4.5/10, lamenting that "I can't help but feel like there's a good game somewhere in Target Liberty, but there's so much that's working against the overall experience."[^ref-17]
+SWAT: Target Liberty received mixed to negative reviews upon release, with critics acknowledging its ambitions while criticizing its execution. GameSpot awarded the game 5.5/10, with Kevin VanOrd declaring it "too short, too tedious, and too absurd to take seriously" and calling it "a generic shooter that is neither tactical nor especially action-packed." The review's list of good points was short: "Teammate AI is pretty good" and highly detailed graphics.[^ref-7] IGN's Sam Bishop gave it 4.5/10, lamenting that "I can't help but feel like there's a good game somewhere in Target Liberty, but there's so much that's working against the overall experience."[^ref-17]
 
-Eurogamer was particularly harsh, scoring the game 4/10 and stating: "Boot up this game and you too can journey back, way back, to a time when it was okay for videogame characters to be implausibly stupid... Unless you live in 1992, this game is highly likely to disappoint."[^ref-22] GamePro's Spenser Hall noted that "though the tactical isometric shooting game, SWAT: Target Liberty shows a lot of promise, ultimately the allied AI and some control issues hold it back from truly shining," concluding that "Target Liberty will only serve to frustrate even the most die hard of tactical shooter fans."[^ref-23]
+Eurogamer was particularly harsh, scoring the game 4/10 and stating: "Boot up this game and you too can journey back, way back, to a time when it was okay for videogame characters to be implausibly stupid... Unless you live in 1992, this game is highly likely to disappoint."[^ref-22] GamePro's Spenser Hall noted that "though the tactical isometric shooting game, SWAT: Target Liberty shows a lot of promise, ultimately the allied AI and some control issues hold it back from truly shining," concluding that "Target Liberty will only serve to frustrate even the most die hard of tactical shooter fans." The review scored it 1 out of 5.[^ref-23]
 
 GameZone awarded 5.0/10, with Natalie Romano writing that "SWAT: Target Liberty for the PSP could have been a really great game since it does have all the right elements in place but with so many faults this is more an exercise in frustration."[^ref-10] Game Informer gave 5/10 and declared that "Target Liberty should receive a citation for roughing up the prestigious SWAT franchise."[^ref-24] VideoGamer's Will Freeman scored it 5/10, observing that "SWAT on the PSP is in fact a game of slow methodical progress and tentative gunplay" and that "while it is hard to hate the first outing for SWAT on the PSP, enthusiasm towards this mediocre release is hard to muster."[^ref-25]
 
-Defunct Games gave 57%, with Cyril Lachel criticizing the game as "a messy game full of small graphics, a boring story and repetitive action" where "the pace of this game is unbearably slow."[^ref-11] GameSpy's Cameron Lewis was similarly disappointed, noting "nobody said being a cop was easy, but surely it should be more fun than a dreary hike through a glorified dungeon crawl."[^ref-26] Pocket Gamer UK suggested that "instead of setting its sights on liberty, the game should have perhaps concerned itself with offering a more engaging experience."[^ref-6] Pocket Gamer's own review (Tracy Erickson, October 19, 2007) scored it 3 out of 5, praising the presentation and "incredible detail in its environments" while finding the single-player game uninspired.[^ref-36] The lone positive review on Metacritic came from Official PlayStation 2 Magazine UK, which scored it 80: "With 45 hours of missions to do and its PSP-specific design, this is one of the best games on the handheld."[^ref-6]
+Defunct Games gave 57%, with Cyril Lachel criticizing the game as "a messy game full of small graphics, a boring story and repetitive action" where "the pace of this game is unbearably slow."[^ref-11] GameSpy's Cameron Lewis was similarly disappointed, noting "nobody said being a cop was easy, but surely it should be more fun than a dreary hike through a glorified dungeon crawl." The review scored it 2 out of 5.[^ref-26] Worthplaying's Tim McCullough (December 21, 2007) scored it 6.8/10, writing that having played the PC SWAT games, "I expected a poor knock-off, but I have to admit that I was pleasantly surprised; the game is fun to play — up to a point."[^ref-39] Pocket Gamer UK suggested that "instead of setting its sights on liberty, the game should have perhaps concerned itself with offering a more engaging experience."[^ref-6] Pocket Gamer's own review (Tracy Erickson, October 19, 2007) scored it 3 out of 5, praising the presentation and "incredible detail in its environments" while finding the single-player game uninspired.[^ref-36] The lone positive review on Metacritic came from Official PlayStation 2 Magazine UK, which scored it 80: "With 45 hours of missions to do and its PSP-specific design, this is one of the best games on the handheld."[^ref-6]
 
 ### Modern Assessment
 
@@ -146,7 +146,7 @@ GamesRadar found a preview build "pretty easy to get into," and was told that by
 | — | October 16, 2007 | PSP | North America | Initial release[^ref-1] |
 | — | October 25, 2007 | PSP | Australia | PAL release[^ref-1] |
 | — | October 26, 2007 | PSP | Europe | EU release[^ref-1] |
-| PSN | – | PSP/PSN | Various | Listed by VGChartz as a PlayStation Network version[^ref-31] |
+| PSN | September 30, 2009 | PSP/PSN | North America | Digital release on the PlayStation Store, since removed from sale[^ref-40][^ref-41] |
 
 ### Technical Issues
 
@@ -187,7 +187,7 @@ The game was published during a transitional period for Sierra Entertainment, th
 
 ### Collections
 
-VGChartz lists a PlayStation Network version alongside the UMD release.[^ref-31]
+A digital PlayStation Store version was released in 2009 alongside the UMD release and has since been removed from sale.[^ref-40][^ref-41] VGChartz also lists a PlayStation Network version.[^ref-31]
 
 ### Fan Projects
 
@@ -207,7 +207,7 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- VGChartz lists a PlayStation Network version, which no other source confirms[^ref-31]
+- A PlayStation Store version was released in 2009 and later removed from sale[^ref-40][^ref-41]
 
 **Download / Preservation**
 - Physical copies available through secondary market retailers
@@ -262,3 +262,6 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 [^ref-36]: [Pocket Gamer – Review](https://www.pocketgamer.com/swat-target-liberty/review/) – Tracy Erickson, October 19, 2007; 3/5, 12 missions, multiplayer mode names, R-button cursor
 [^ref-37]: [Pocket Gamer – Hands-On](https://www.pocketgamer.com/swat-target-liberty/hands-on-with-swat-target-liberty/) – Tracy Erickson, May 23, 2007; Sony Gamers' Day, a dozen missions, two handheld iterations
 [^ref-38]: [Pocket Gamer – Announcement](https://www.pocketgamer.com/swat-target-liberty/swat-target-liberty-hoping-to-storm-psp/) – Joao Diniz Sanches, April 20, 2007; Vivendi publisher, 3G Studios, Cindy Cook quote
+[^ref-39]: [Worthplaying – PSP Review](https://www.worthplaying.com/article/2007/12/21/reviews/47614-psp-review-swat-target-liberty/) – Tim McCullough, December 21, 2007; 6.8/10, third-person overhead view, four training missions
+[^ref-40]: [GameFAQs – SWAT: Target Liberty Release Data](https://gamefaqs.gamespot.com/psp/939011-swat-target-liberty/data) – US PlayStation Store PSP release, ULUS-10314, 09/30/09
+[^ref-41]: [PSprices – SWAT: Target Liberty](https://psprices.com/region-us/game/12271/swat-target-liberty) – PlayStation Store listing, release date Oct. 1, 2009, item removed from sale
