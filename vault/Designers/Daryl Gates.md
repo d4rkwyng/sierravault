@@ -5,15 +5,15 @@ birth_year: 1926
 death_year: 2010
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "Police Quest: SWAT 2", "SWAT 3: Close Quarters Battle"]
 companies: ["Los Angeles Police Department", "Sierra On-Line"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Daryl Gates
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Daryl F. Gates (1926–2010) was Chief of the Los Angeles Police Department from 1978 to 1992 who, after leaving the force, lent his name and advice to Sierra On-Line's Police Quest and SWAT games[^ref-6][^ref-18]. Born in Glendale, California on August 30, 1926[^ref-2], Gates joined the LAPD in 1949[^ref-4][^ref-20] and served until his resignation on June 28, 1992[^ref-6] — 43 years of police service by the count in Sierra's own SWAT 3 strategy guide[^ref-18]. His tenure was associated both with SWAT and the DARE program and with intense controversy over police brutality, the Rodney King beating and the 1992 Los Angeles riots[^ref-3][^ref-4].
+Daryl F. Gates (1926–2010) was Chief of the Los Angeles Police Department from 1978 to 1992 who, after leaving the force, lent his name and advice to Sierra On-Line's Police Quest and SWAT games[^ref-6][^ref-18]. Born in Glendale, California on August 30, 1926[^ref-2] (the Guardian gives his birth name as Darrel Francis Gates, which he changed to Daryl; LAPD Online and GOG spell it "Darryl")[^ref-4][^ref-25][^ref-29], Gates joined the LAPD in 1949[^ref-4][^ref-20] and served until his resignation in June 1992 (June 28 according to The Digital Antiquarian; Wikipedia gives June 27)[^ref-27][^ref-6][^ref-20] — 43 years of police service by the count in Sierra's own SWAT 3 strategy guide[^ref-18]. His tenure was associated both with SWAT and the DARE program and with intense controversy over police brutality, the Rodney King beating and the 1992 Los Angeles riots[^ref-3][^ref-4].
 
 Months after his resignation, Sierra founder [[Ken Williams]] approached Gates about the next Police Quest game[^ref-19]. According to Sierra's then director of product design [[Josh Mandel]], Williams expected Gates' notoriety to draw attention: "He thought that would get a lot of press and publicity for the game"[^ref-5]. The result was Police Quest: Open Season (1993), which The Digital Antiquarian describes as the first Sierra game "that could be called a full-blown full-motion-video adventure"[^ref-6]. Gates was credited as the game's "Author", but it was designed and written by [[Tammy Dargan]][^ref-5][^ref-21]. VICE's 2018 retrospective on the game ran under the headline "How Sierra and a Disgraced Cop Made the Most Reactionary Game of the 90s"[^ref-5].
 
@@ -25,7 +25,7 @@ After Navy service, Gates was taking pre-law courses at the University of Southe
 
 Gates is often credited with the creation of police SWAT teams[^ref-4][^ref-18][^ref-20]; The New York Times obituary says he "helped develop" the LAPD's SWAT unit[^ref-27]. The LAPD's own history of the unit says the special weapons and tactics concept was presented to him by Officer John Nelson, and that Gates, then an inspector, approved it[^ref-25][^ref-20]. According to Wikipedia's summary of his 1992 memoir, *Chief: My Life in the LAPD*, he wrote that he developed neither SWAT's tactics nor its equipment, but supported the concept and lent his people moral support[^ref-20]. By July 1975, according to The Digital Antiquarian, there were 500 other SWAT teams in the United States[^ref-6]. In 1983 Gates started the DARE (Drug Abuse Resistance Education) program with the Los Angeles Unified School District[^ref-18][^ref-3].
 
-In March 1991 a bystander's videotape captured the beating of motorist Rodney King by four LAPD officers; according to the Guardian, Gates termed it an aberration, while a commission headed by Warren Christopher "identified pervasive racist behaviour and called for Gates to be replaced"[^ref-4]. Wikipedia gives the Christopher Commission report's date as July 10, 1991, and says Gates announced his intention to resign on July 13, 1991[^ref-20]. He remained in office until June 28, 1992[^ref-6]; The New York Times obituary says he was "forced to resign" in the wake of the riots that followed the acquittal of the four officers[^ref-27], and the Guardian's obituary subtitle describes him as "forced to resign after the 1992 riots"[^ref-4]. Gates published his memoir, *Chief: My Life in the LAPD*, with Diane K. Shah (Bantam Books) in 1992[^ref-4][^ref-28].
+In March 1991 a bystander's videotape captured the beating of motorist Rodney King by four LAPD officers; according to the Guardian, Gates termed it an aberration, while a commission headed by Warren Christopher "identified pervasive racist behaviour and called for Gates to be replaced"[^ref-4]. Wikipedia gives the Christopher Commission report's date as July 10, 1991, and says Gates announced his intention to resign on July 13, 1991[^ref-20]. He remained in office until June 1992 (June 28 per The Digital Antiquarian; Wikipedia gives June 27)[^ref-6][^ref-20]; The New York Times obituary says he was "forced to resign" in the wake of the riots that followed the acquittal of the four officers[^ref-27], and the Guardian's obituary subtitle describes him as "forced to resign after the 1992 riots"[^ref-4]. Gates published his memoir, *Chief: My Life in the LAPD*, with Diane K. Shah (Bantam Books) in 1992[^ref-4][^ref-28].
 
 ### Transition to Game Development (1992)
 
@@ -47,7 +47,7 @@ Gates' name also appeared on the title of Police Quest: SWAT (1995), which was d
 
 [[1993 - Police Quest - Open Season|Police Quest: Open Season]] moved the series from the fictional town of Lytton to Los Angeles and made extensive use of digitized scenes and actors[^ref-6][^ref-10]. Gates himself appears in the game as the chief of police; the credits list him in the cast "as Chief Gates"[^ref-20][^ref-21]. Kotaku's 2010 obituary notes that under Gates the series "dealt less with law enforcement procedure and more with storyline", and that both Open Season and SWAT "were considered disappointments"[^ref-10].
 
-The game's dialogue for black characters drew criticism; VICE quotes lines such as "This be my 'hood". Asked about it by Vibe, Gates said: "I told [Sierra] that these people use the same language that you and I use"[^ref-5].
+The game's dialogue for black characters drew criticism; VICE quotes lines such as "This be my 'hood". Asked about it by Vibe in 1994, Gates said the colloquialisms were not his idea: "I told [Sierra] that these people use the same language that you and I use. A lot of that was changed."[^ref-30]
 
 ### Police Quest: SWAT (1995)
 
@@ -59,7 +59,7 @@ Gates was credited as "Content Consultant" on [[1998 - Police Quest - SWAT 2|Pol
 
 ## Legacy
 
-The Guardian's obituary notes that after leaving the force he "helped create two video games, Police Quest: Open Season and Swat"[^ref-4]. The New York Times obituary describes his approach to policing as "both admired for its innovation and criticized for the racial unrest it provoked"[^ref-27]. Of the games, Kotaku's 2010 obituary says both were "considered disappointments"[^ref-10]; Sierra marketing director John Williams said in 1993, as quoted by VICE, that Ken Williams had come to think that Gates "had been pinned as the fall guy for the whole LA Riot thing"[^ref-5]. Gates himself presented the SWAT games as a way to show the challenges of police work[^ref-18]. As of November 2026 GOG sells *Police Quest: SWAT 1+2*[^ref-29]. Gates died of cancer on April 16, 2010, at his home in Dana Point, California, aged 83[^ref-2][^ref-3][^ref-4].
+The Guardian's obituary notes that after leaving the force he "helped create two video games, Police Quest: Open Season and Swat"[^ref-4]. The New York Times obituary describes his approach to policing as "both admired for its innovation and criticized for the racial unrest it provoked"[^ref-27]. Of the games, Kotaku's 2010 obituary says both were "considered disappointments"[^ref-10]; Sierra marketing director John Williams said in 1993, as quoted by VICE, that Ken Williams had come to think that Gates "had been pinned as the fall guy for the whole LA Riot thing"[^ref-5]. Gates himself presented the SWAT games as a way to show the challenges of police work[^ref-18]. As of November 2026 GOG sells *Police Quest: SWAT 1+2*[^ref-29]. After leaving the force he also set up his own investigation company and a security and surveillance consultancy, Global ePoint, and worked briefly as a radio talk-show host, according to the Guardian[^ref-4]. Gates died of cancer on April 16, 2010, at his home in Dana Point, California, aged 83[^ref-2][^ref-3][^ref-4][^ref-27].
 
 ## Games
 
@@ -69,6 +69,7 @@ The Guardian's obituary notes that after leaving the force he "helped create two
 - **1995** — [[1995 - Police Quest - SWAT|Police Quest: SWAT]] — Role: Namesake (title); Special Thanks in credits
 - **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Content Consultant
 - **1999** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle]] — Role: Consultant
+
 ## References
 
 [^ref-2]: [NNDB](https://www.nndb.com/people/190/000023121/) — Birth (30 Aug 1926, Glendale, CA), death (16 Apr 2010, Dana Point, CA), Chief of LAPD 1978–92
@@ -92,3 +93,4 @@ The Guardian's obituary notes that after leaving the force he "helped create two
 [^ref-27]: [The New York Times – Daryl F. Gates, L.A.P.D. Chief in Rodney King Era, Dies at 83](https://www.nytimes.com/2010/04/17/us/17gates.html) — Keith Schneider, April 16, 2010 (preview text read via ScraperAPI): "forced to resign in June 1992"; "helped develop the Special Weapons and Tactics, or SWAT, unit"
 [^ref-28]: [Chief: My Life in the L.A.P.D. (Internet Archive)](https://archive.org/details/chiefmylifeinl00gate) — Gates, Daryl F.; New York: Bantam Books, 1992 (catalogue record)
 [^ref-29]: [GOG – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) — Store page, checked 2026-11-11
+[^ref-30]: [Vibe, April 1994 (Internet Archive)](https://archive.org/details/bub_gb_1SsEAAAAMBAJ) — Joseph V. Tirella, "Video Vigilante": Gates on the Open Season dialogue ("I told [Sierra] that these people use the same language that you and I use. A lot of that was changed.")
