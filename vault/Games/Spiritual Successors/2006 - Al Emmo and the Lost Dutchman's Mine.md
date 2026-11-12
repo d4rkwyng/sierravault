@@ -10,23 +10,23 @@ series: Al Emmo
 engine: Adventure Game Studio
 protagonist: Al Emmo
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game
-  developed and published by Himalaya Studios, released on September 6, 2006 for
+  developed and published by Himalaya Studios, released in September 2006 for
   Windows, with later Linux and iOS versions.
 tags: [2000s, adventure, al-emmo, sierra]
 ---
 # Al Emmo and the Lost Dutchman's Mine
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game developed and published by [[Himalaya Studios]], released on September 6, 2006 for Windows, according to Himalaya's launch press release and MobyGames (Wikipedia gives September 5)[^ref-36][^ref-8][^ref-1]; a Linux version followed with the Steam release on May 9, 2014[^ref-8][^ref-25]. It was the studio's first original commercial release, made by the team behind the free fan remakes of King's Quest I and King's Quest II[^ref-2]. Built using Chris Jones' Adventure Game Studio (AGS) engine[^ref-3], the game pays homage to the classic point-and-click adventures popularized by Sierra and LucasArts in the 1980s and 1990s[^ref-1]. Himalaya's launch press release invoked King's Quest, Leisure Suit Larry and Monkey Island[^ref-2], and Just Adventure compared Al to Larry Laffer and Koko the pharmacist to Freddy Pharkas[^ref-4].
+Al Emmo and the Lost Dutchman's Mine is a point-and-click adventure game developed and published by [[Himalaya Studios]], released for Windows on September 5, 2006, the date given by Himalaya's own tenth-anniversary forum post, Steam, PCGamingWiki and Wikipedia[^ref-37][^ref-6][^ref-25][^ref-1]; Himalaya's launch press release, dated September 6, 2006, announced that the game was shipping, and MobyGames lists September 6[^ref-36][^ref-8]; a Linux version followed with the Steam release on May 9, 2014[^ref-8][^ref-25]. It was the studio's first original commercial release, made by the team behind the free fan remakes of King's Quest I and King's Quest II[^ref-2]. Built using Chris Jones' Adventure Game Studio (AGS) engine[^ref-3], the game pays homage to the classic point-and-click adventures popularized by Sierra and LucasArts in the 1980s and 1990s[^ref-1]. Himalaya's launch press release invoked King's Quest, Leisure Suit Larry and Monkey Island[^ref-2], and Just Adventure compared Al to Larry Laffer and Koko the pharmacist to Freddy Pharkas[^ref-4].
 
 Set in the fictional Wild West town of Anozira—Arizona spelled backwards[^ref-3]—the game follows the misadventures of Al Emmo, a forty-two-year-old virgin and unlikely hero who arrives seeking his mail-order bride, Ivanna Lottakash[^ref-4]. The story is loosely based on actual events and locations in Arizona[^ref-5], including the legend of the Lost Dutchman's Gold Mine[^ref-1], and is wrapped in parody and absurdist humor. Adventure Classic Gaming declared the game "undoubtedly among the funniest adventure games I have ever played," praising its witty writing and engaging story[^ref-3].
 
-The game features over 120 high-resolution, hand-painted background scenes, more than 15,000 frames of pre-rendered character animation, and detailed speech portraits for all characters, fully voiced and lip-synced[^ref-6]. An Enhanced Edition (version 4.0) was released on November 26, 2013, featuring a new voice actor for the protagonist, improved 2D cutscenes, a 500-point scoring system, and 20 achievements[^ref-7]. The Enhanced Edition was subsequently released on Steam in May 2014[^ref-1], with MobyGames dating the Steam release May 9, 2014[^ref-8].
+The game features over 120 high-resolution, hand-painted background scenes, more than 15,000 frames of pre-rendered character animation, and detailed speech portraits for all characters, fully voiced and lip-synced[^ref-6]. An Enhanced Edition (version 4.0) was released on November 26, 2013, featuring a new voice actor for the protagonist, improved 2D cutscenes, a 500-point scoring system, and 20 achievements[^ref-7]. Himalaya put the Enhanced Edition (v4.0) on Steam Greenlight on September 8, 2012, promising current owners a free Steam code if it reached Steam[^ref-38]. It was released on Steam in May 2014, with MobyGames dating the Steam release May 9, 2014[^ref-1][^ref-8]; Himalaya's announcement of May 10, 2014 thanked everyone who voted on Greenlight, and buyers from the Himalaya store could request a Steam key by sending their original receipt or license key number[^ref-39].
 
 > [!info]- Game Info
 > **Developer:** [[Himalaya Studios]][^ref-1]
@@ -61,7 +61,7 @@ The game features fully lip-synced dialogue portraits[^ref-1] for over 24 intera
 
 The game is divided into nine acts[^ref-4]. According to Adventure Gamers' preview, the first several acts follow Al's attempts to win Rita's heart while Antonio Bandana keeps foiling him, before the romance gives way to the mystery of her father's death[^ref-5]. Capsule Computers notes that the Lost Dutchman's Mine only comes into play around act seven, and the mine itself does not appear until the endgame[^ref-10].
 
-The game spans over 100 screens of explorable environments, including the town of Anozira, surrounding desert locations, an oasis, a cemetery, and various indoor locations like Lou Heifer's establishment and the Hospitality House[^ref-5][^ref-3][^ref-14].
+The game spans over 100 screens of explorable environments, including the town of Anozira, surrounding desert locations, an oasis, a cemetery, and various indoor locations like Lou Heifer's establishment and the Hospitality House[^ref-5][^ref-3][^ref-14][^ref-24].
 
 ### Puzzles and Mechanics
 
@@ -86,6 +86,8 @@ GameZone scored the game 75 out of 100[^ref-18], while Quandary gave it 80 out o
 ### Modern Assessment
 
 The Enhanced Edition released in 2013 addressed many of the original's criticisms, particularly regarding the protagonist's voice. Hardcore Gamer praised the updated version as "a game that was crafted with such love for the genre that it stands beside the best of Sierra and Lucasarts," comparing Al to "the Larry Laffer of the wild west"[^ref-15]. The review highlighted that "the writing is reminiscent of Sierra's best releases, chock-full of absurd and memorable characters, witty dialog, and an endearing story with a ridiculous premise that somehow works flawlessly"[^ref-15].
+
+Capsule Computers' Claire Phillips scored the Enhanced Edition 5.0 out of 10 in December 2013, finding it too long before the plot reaches the mine of the title but crediting the 2D artwork, music and puzzles, and noting that the replacement voice for Al was a clear improvement on the 2006 one[^ref-10].
 
 Adventure Classic Gaming's review, first posted on 21 February 2012, last updated on 7 December 2013 and covering version 3.0 and the 2013 Enhanced Edition, awarded the game 5 out of 5 (Excellent), with reviewer Mervyn Graham declaring it "undoubtedly among the funniest adventure games I have ever played" and "a breath of fresh air" that he could "unreservedly recommend to all adventure game fans who enjoy a witty, humorous, and engaging story"[^ref-3].
 
@@ -175,11 +177,12 @@ The Enhanced Edition replaced the original 3D pre-rendered cutscenes with new 2D
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Demo | July 3, 2006 | Windows | Initial demo release[^ref-26] |
-| 1.0 | September 6, 2006 | Windows | Initial commercial release[^ref-36][^ref-2] |
+| 1.0 | September 5, 2006 | Windows | Initial commercial release; the launch press release announcing shipping is dated September 6, 2006[^ref-37][^ref-36][^ref-2] |
 | 3.0 | 2010 | Windows | New high resolution graphics[^ref-3] |
 | 4.0 | November 26, 2013 | Windows | Enhanced Edition with new voice actors, 2D cutscenes, achievements, scoring system[^ref-7] |
 | 4.1 | Unknown | Windows | Version number confirmed by a Steam community guide; release date and changes undocumented[^ref-27] |
-| Steam | May 9, 2014 | Windows, Linux | Steam release of Enhanced Edition[^ref-1][^ref-8] |
+| Steam Greenlight | September 8, 2012 | Windows | Enhanced Edition v4.0 submitted to Steam Greenlight[^ref-38] |
+| Steam | May 9, 2014 | Windows, Linux | Steam release of Enhanced Edition (Himalaya's announcement is dated May 10, 2014)[^ref-1][^ref-8][^ref-39] |
 | iOS | July 9, 2015 | iPhone, iPad | Mobile port[^ref-8] |
 
 **Engine:**[^ref-9]
@@ -250,7 +253,7 @@ Original cast as listed in MobyGames' Windows credits[^ref-32].
 
 Al Emmo was Himalaya Studios' first original commercial release[^ref-1]. Adventure Gamers' preview called it "polished and focused, which is more than can be said for a lot of games with much bigger budgets"[^ref-5].
 
-Distribution expanded over time from direct sales through the Himalaya store and Desura[^ref-7] to Steam in 2014[^ref-1], and the game appeared in the Indie Royale bundle (November 2013) and the Retro Groupee 2 bundle (January 2014)[^ref-34]. As of October 2026, the AGS game database listed 21,391 all-time downloads[^ref-9].
+Distribution expanded over time from direct sales through the Himalaya store and Desura[^ref-7] to Steam in 2014[^ref-1][^ref-39], and the game appeared in the Indie Royale bundle (November 2013) and the Retro Groupee 2 bundle (January 2014)[^ref-34]. As of October 2026, the AGS game database listed 21,391 all-time downloads[^ref-9].
 
 ### Awards and Nominations
 
@@ -271,6 +274,10 @@ The game was released in multiple editions:
 ### Fan Projects
 
 Given Himalaya Studios' origins in fan game development, Al Emmo exists within a broader ecosystem of Sierra-style adventures created by passionate fans. The game includes a Spanish fan translation available for download[^ref-25]. Community members wrote walkthroughs[^ref-24][^ref-28] and a Steam guide listing every collectible item for the "Hoarder" achievement[^ref-27].
+
+### Al Emmo's Postcards from Anozira
+
+Himalaya Studios also made *Al Emmo's Postcards from Anozira*, a hidden-object game set in the same town and listed in the same Al Emmo series[^ref-40]. PCGamingWiki gives its Windows release as August 2, 2010[^ref-40], and Steam's store page shows the same date[^ref-41], while MobyGames lists a Windows release of June 2, 2015[^ref-42].
 
 ### Related Publications
 
@@ -348,3 +355,9 @@ The Enhanced Edition's 2013 release demonstrated the studio's willingness to res
 [^ref-34]: [AGDInteractive Forum – Al Emmo & the Lost Dutchmans Mine thread, page 4](https://www.agdinteractive.com/forum/viewtopic.php?t=11122&start=75) – Indie Royale (Nov 27, 2013) and Retro Groupee 2 (Jan 22, 2014) bundle posts
 [^ref-35]: [Himalaya Studios – Al Emmo and the Lost Dutchman's Mine (archived February 17, 2013)](https://web.archive.org/web/20130217044809/http://www.himalayastudios.com/alemmo.php) – official game page, features, German and Russian localizations
 [^ref-36]: [Himalaya Studios – Press Releases (archived October 27, 2006)](https://web.archive.org/web/20061027055921/http://www.himalayastudios.com:80/press_releases.htm) – "Al Emmo ships! Phoenix, Arizona - September 6, 2006"; "Order fulfillment commenced on Wednesday morning"
+[^ref-37]: [Himalaya Studios Forum – Happy 10th Anniversary Al Emmo! (September 5, 2016)](http://www.himalayastudios.com/forum/index.php?topic=1115.0) – "Al Emmo and the Lost Dutchman's Mine was first released on September 5th 2006!"
+[^ref-38]: [Himalaya Studios Forum – Al Emmo (Enhanced Edition) on Steam Greenlight (September 8, 2012)](http://www.himalayastudios.com/forum/index.php?topic=824.0) – Enhanced Edition v4.0 added to Greenlight; current owners promised a free Steam code
+[^ref-39]: [Himalaya Studios Forum – Al Emmo now available on Steam (May 10, 2014)](http://www.himalayastudios.com/forum/index.php?topic=1046.0) – Steam launch announcement; reply on how existing buyers can request a Steam key
+[^ref-40]: [PCGamingWiki – Al Emmo's Postcards from Anozira](https://www.pcgamingwiki.com/wiki/Al_Emmo%27s_Postcards_from_Anozira) – hidden-object genre, Windows release August 2, 2010; Al Emmo series listing
+[^ref-41]: [Steam Store Page – Al Emmo's Postcards from Anozira](https://store.steampowered.com/app/375020/) – store listing for the hidden-object spin-off
+[^ref-42]: [MobyGames – Al Emmo's Postcards from Anozira](https://www.mobygames.com/game/174122/al-emmos-postcards-from-anozira/) – hidden object, Western; Windows release 2015-06-02
