@@ -10,7 +10,7 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Player-controlled Terrorist or Counter-Terrorist operatives
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Half-Life: Counter-Strike is a 2000 tactical first-person shooter developed
   by Valve Corporation and published by Sierra Studios, which began life as a free
   Half-Life modification created by Minh Le and Jess Cliffe.'
@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Half-Life: Counter-Strike
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -113,7 +113,7 @@ The name "Counter-Strike" was chosen on March 15, 1999, during an ICQ chat betwe
 
 ### Production
 
-The first public beta was released in June 1999 (CS Nation dates it June 18, 1999, while the Counter-Strike.net retrospective says June 19th) and included nine weapons; the maps CS Nation names from it are cs_prison, cs_wpndepot, and cs_siege, though Wikipedia counts four maps in total.[^ref-29][^ref-30][^ref-1] Le handled all coding and 3D modeling himself, while Cliffe focused on community management and recruiting mappers.[^ref-28] The initial coding for Beta 1 took approximately 1.5 months, though the character models required 6-7 months of work.[^ref-28]
+The first public beta was released in June 1999 (CS Nation dates it June 18, 1999, while the Counter-Strike.net retrospective says June 19th) and included nine weapons; the maps CS Nation names from it are cs_prison, cs_wpndepot, and cs_siege, though Wikipedia counts four maps in total.[^ref-29][^ref-30][^ref-1] Le handled all coding and 3D modeling himself, while Cliffe, who ran the project's website and public relations, recruited the mappers.[^ref-29][^ref-28] The initial coding for Beta 1 took approximately 1.5 months, though the character models required 6-7 months of work.[^ref-28]
 
 "I just wanted to customise the game to fit my vision of what a game should be. First and foremost, it is MY vision," Le explained of his development philosophy.[^ref-29] He described enjoying "working at a snail's pace, and seeing all the pieces fit together."[^ref-29] The game's rapid iteration through multiple beta versions was key to its growth—"The most important thing is if you keep releasing new versions, it keeps the interest going. People tell their friends, and that sort of thing, and it just grows and grows."[^ref-28]
 
@@ -121,9 +121,11 @@ Valve's acquisition of the rights is believed to have taken place in early 2000;
 
 By Beta 5, external studio Barking Dog had joined the development effort; Le said Barking Dog "practically made BETA 5."[^ref-16] The continued labeling of each version as a "beta" became something of a running joke in the community until the 1.0 release finally dropped the designation.[^ref-31]
 
-**Development Credits:**[^ref-2]
-- **Lead Developer/Coder:** Minh "Gooseman" Le
-- **Community Manager/Co-Designer:** Jess "Cliffe" Cliffe
+MobyGames credits Sierra On-Line, Inc. as publisher and Valve L.L.C. as developer of the November 9, 2000 US release, with Barking Dog Studios, Ltd. and Maverick Developments Ltd. as additional developers.[^ref-2] The retail manual carries a Sierra Studios credit block alongside the Counter-Strike team and Valve credits, and its copyright line reads "©1998-2000 Sierra On-Line, Inc. or Valve LLC".[^ref-50] Steam's current store listing names Valve as developer and publisher.[^ref-69]
+
+**Development Credits:**[^ref-50][^ref-2]
+- **Lead Programmer/Modeller/Animator/Skinner:** Minh "Gooseman" Le
+- **Webmaster/Public Relations/Business:** Jess "Cliffe" Cliffe
 - **Publisher:** Sierra Studios
 - **Additional Development:** Barking Dog Studios (Beta 5+)
 - **Xbox Port:** Ritual Entertainment and Turtle Rock Studios[^ref-1]
@@ -178,6 +180,7 @@ The Escape scenario mode, which appeared in early beta versions, was eventually 
 | 1.6 | September 12, 2003 | PC | Released via Steam, VGUI2 interface[^ref-1] |
 | Xbox | November 18, 2003 | Xbox | Console port by Ritual Entertainment and Turtle Rock Studios[^ref-36][^ref-1] |
 | Mac/Linux | January 25, 2013 (PCGamingWiki); February 14, 2013 (Steam update) | Mac/Linux | Native ports via Steam; sources disagree on the date[^ref-7][^ref-68] |
+| 25th Anniversary update | November 22, 2023 | PC (Steam) | Counter-Strike updated to support many of the features from the Half-Life 25th Anniversary update[^ref-70] |
 
 **Retail Patch Dates:**[^ref-37]
 | Version | Date |
@@ -192,7 +195,7 @@ The Escape scenario mode, which appeared in early beta versions, was eventually 
 
 Early beta versions suffered from numerous crashing bugs due to Le's inexperience with the Half-Life codebase.[^ref-28] On modern systems the retail version can fail with a memory detection error ("Your system reported only -0.00K of physical memory"), which PCGamingWiki documents a fix for.[^ref-7] In one Spanish release, the localized edition's updater never worked, because it only updated the English version and there was no website for updating the Spanish release.[^ref-39]
 
-The original retail version (1.0–1.5) is separate from the Steam version (1.6 and newer), and the two have different system requirements.[^ref-7]
+The original retail version (1.0–1.5) is separate from the Steam version (1.6 and newer), and the two have different system requirements.[^ref-7] A Steam update of November 22, 2023 brought many features of the Half-Life 25th Anniversary update to Counter-Strike; Valve suggested the "steam_legacy" beta branch for players still seeing compatibility or stability issues.[^ref-70]
 
 Cheating became a significant problem, with players discovering ways to turn invisible, make enemies appear brighter, or crash servers using scripts.[^ref-5] These issues led to the implementation of anti-cheat measures in version 1.4.[^ref-1]
 
@@ -201,7 +204,7 @@ Cheating became a significant problem, with players discovering ways to turn inv
 - **Hidden Smarties:** The de_dust map contains a Smarties pack hidden inside a wall, visible only in free-look mode.[^ref-2]
 - **as_highrise Sign:** In as_highrise, a sign is hidden behind a door in the corridor behind the boards, visible only in observer mode.[^ref-2]
 
-Eurogamer reported in 2000 that on most days more people played Counter-Strike online than Quake 3 Arena or Unreal Tournament, even though it was a free mod.[^ref-16] German magazine GameStar reported that between 100,000 and 200,000 people were playing Counter-Strike at any time on more than 10,000 servers worldwide, according to GameSpy's statistics.[^ref-11]
+German magazine GameStar reported that between 100,000 and 200,000 people were playing Counter-Strike at any time on more than 10,000 servers worldwide, according to GameSpy's statistics.[^ref-11]
 
 ## Legacy
 
@@ -277,7 +280,7 @@ Community efforts have preserved online play functionality. The Insignia project
 ## References
 
 [^ref-1]: [Wikipedia – Counter-Strike (video game)](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) – development history, version info, sales, Xbox port developers, Brazil and Germany controversies
-[^ref-2]: [MobyGames – Half-Life: Counter-Strike](https://www.mobygames.com/game/2726/half-life-counter-strike/) – credits, ratings, awards, hidden-map secrets
+[^ref-2]: [MobyGames – Half-Life: Counter-Strike](https://www.mobygames.com/game/2726/half-life-counter-strike/) – publisher and developer credits (read via the MobyGames API), ratings, awards, hidden-map secrets
 [^ref-3]: [GameSpot – Greatest Games Feature (Archived)](https://web.archive.org/web/20071012131015/http://www.gamespot.com/gamespot/features/all/greatestgames/p-12.html) – historical significance, weekly player average, economy
 [^ref-5]: [GameRevolution – Counter-Strike Review (Archived, January 2001)](https://web.archive.org/web/20010125115200/http://www.game-revolution.com:80/games/pc/action/half-life_counterstrike.htm) – Joe Dodson's review, "A" report-card grade, cheating
 [^ref-7]: [PCGamingWiki – Half-Life: Counter-Strike](https://www.pcgamingwiki.com/wiki/Half-Life:_Counter-Strike) – engine, release dates, player count, retail vs Steam versions, fixes
@@ -313,10 +316,10 @@ Community efforts have preserved online play functionality. The Insignia project
 [^ref-45]: [Polygon – Condition Zero Linux Release](https://www.polygon.com/2013/3/6/4072666/counter-strike-condition-zero-now-available-linux-steam) – sequel developers
 [^ref-46]: [Sierra Chest – Counter-Strike](https://sierrachest.com/index.php?a=games&id=60&fld=general) – Source remake, Vivendi dispute
 [^ref-49]: [Pure Xbox – Insignia Xbox Live Replacement](https://www.purexbox.com/news/2023/11/xbox-live-1-0-replacement-insignia-now-supports-150-games) – preservation project
-[^ref-50]: [Internet Archive – Counter-Strike Manual](https://archive.org/details/counter-strike-manual) – original documentation; system requirements p. 4, tutorial p. 5
+[^ref-50]: [Internet Archive – Counter-Strike Manual](https://archive.org/details/counter-strike-manual) – original documentation; system requirements p. 4, tutorial p. 5; Counter-Strike team, Sierra Studios and Valve credit blocks; copyright line
 [^ref-54]: [Shacknews – Counter-Strike v1.0](https://www.shacknews.com/article/10411/counter-strike-v10) – release announcement
 [^ref-59]: [Counter-Strike.net – News Archive, June 2000 (Archived)](https://web.archive.org/web/20010405142131/http://www.counter-strike.net/haxornews/june2000.html) – official Beta 6.5 changelog (June 8, 2000)
-[^ref-60]: [Metacritic – Counter-Strike (PC) (Archived)](https://web.archive.org/web/20251022122505/https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc) – aggregated reviews, critic scores (live page returns 404)
+[^ref-60]: [Metacritic – Counter-Strike (PC) (Archived)](https://web.archive.org/web/20251022122505/https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc) – aggregated critic reviews and Metascore for the PC version (Metascore 88, 11 critic reviews); current page: [Metacritic – Counter-Strike (PC)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc)
 [^ref-61]: [Computer Gaming World #233 (December 2003), "The Creators of Counter-Strike," p. 107](https://archive.org/details/computer-gaming-world-issue-233-december-2003) – 1.5 million boxed copies sold, Jess Cliffe interview
 [^ref-62]: [Computer Gaming World #220 (November 2002), Hall of Fame, p. 110](https://archive.org/details/Computer_Gaming_World_Issue_220) – Counter-Strike inducted into the CGW Hall of Fame
 [^ref-63]: [Amazon – Half-Life: Counter-Strike (PC)](https://www.amazon.com/Half-Life-Counter-Strike-pc/dp/B000066B42) – manufacturer's product description
@@ -325,3 +328,5 @@ Community efforts have preserved online play functionality. The Insignia project
 [^ref-66]: [Gamasutra – Analysis: Valve's Lifetime Retail Sales For Half-Life, Counter-Strike Franchises (Archived)](https://web.archive.org/web/2010/http://www.gamasutra.com/php-bin/news_index.php?story=21319) – December 3, 2008; Valve's retail estimates: Counter-Strike 4.2 million, Condition Zero 2.9 million, Source 2.1 million
 [^ref-67]: [CS-Nation – Steam Update, February 26, 2002 (Archived)](https://web.archive.org/web/20020605065615/http://csnation.counter-strike.net/comments.php?id=4065) – "The first phase of Anti-Cheating is now implemented and integrated into CS 1.4" (beta-tester email from Valve)
 [^ref-68]: [Steam News – Counter-Strike 1.6 update released, February 14, 2013](https://store.steampowered.com/news/app/10/view/2904214312357638787) – Valve: "Converted Counter-Strike 1.6 to the new SteamPipe content system" and "Added support for Mac OS X and Linux operating systems" (text read via Steam's news feed API)
+[^ref-69]: [Steam Store – Counter-Strike](https://store.steampowered.com/app/10/) – current store listing: developer and publisher Valve, release date Nov 1, 2000
+[^ref-70]: [Steam News – November 22, 2023 Update](https://store.steampowered.com/news/app/10/view/3889483182499845804) – Valve: "Counter-Strike has been updated to support many of the features from the Half-Life 25th Anniversary update."
