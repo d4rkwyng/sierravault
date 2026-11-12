@@ -26,23 +26,23 @@ Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game develope
 
 Designed by [[Lori Ann Cole]] and [[Corey Cole]], it is the sequel to Quest for Glory: So You Want to Be a Hero and continues the story of the Hero of Spielburg[^ref-1][^ref-3].
 
-The game was the last EGA game created by Sierra On-Line, following development processes intended for the graphically superior VGA games, which made its development difficult[^ref-1][^ref-34].
-
 The manual is illustrated by Marvel Comics artist Ernie Chan[^ref-1].
 
-According to Corey Cole, the game cost $450,000 to develop[^ref-1][^ref-4].
-
-Trial by Fire is the only game in the series that Sierra never produced with anything beyond EGA graphics, though AGD Interactive released a free VGA fan remake in 2008[^ref-1][^ref-29].
+AGD Interactive released a free VGA fan remake in 2008[^ref-1][^ref-29].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Lori Ann Cole]], [[Corey Cole]][^ref-1]
-> **Publisher:** [[Sierra On-Line]]; 1994 European budget re-release by U.S. Gold (Kixx XL label)[^ref-28]
+> **Publisher:** [[Sierra On-Line]]; 1994 European budget re-release by U.S. Gold (Kixx XL label)[^ref-28]; Windows (DOSBox) digital release by Activision[^ref-13]
+> **Executive Producer:** [[Ken Williams]][^ref-3]
 > **Director:** [[Bill Davis]] (creative)[^ref-1]
 > **Producer:** [[Guruka Singh Khalsa|Guruka Singh-Khalsa]][^ref-1]
 > **Programmer:** Robert Fischbach[^ref-1]
 > **Artist:** Kenn Nishiuye[^ref-1]; [[Douglas Herring]] (desert-section art design and combat system, per his own résumé and the Fan Fair biography)[^ref-35][^ref-36]
 > **Composer:** [[Chris Braymen|Christopher Braymen]], [[Mark Seibert]][^ref-1]
+> **Amiga Version:** Steve Coallier, John Rettig[^ref-3]
+> **Documentation:** Bridget McKenna[^ref-3]
+> **Illustration:** Ernie Chan[^ref-3]
 > **Engine:** SCI1, EGA (Sierra Creative Interpreter)[^ref-33]
 > **Platforms:** MS-DOS, Amiga[^ref-1]
 > **Release Year:** 1990 (MS-DOS: November 1990)[^ref-1][^ref-13]
@@ -79,7 +79,7 @@ The game follows the path of its predecessor, with distinctions in gameplay[^ref
 - A Fighter may earn membership in the Eternal Order of Fighters[^ref-1]
 - A Thief may perform several thefts, including stealing the Maltese Falcon[^ref-1]
 - Cross-class quests are possible; characters can become a Wizard, complete every theft, and join the Eternal Order of Fighters[^ref-1][^ref-3]
-- This is the first game where the Hero may be awarded the title of Paladin by acting honorably throughout the game[^ref-1][^ref-3]
+- This is the first game where the Hero may be awarded the title of Paladin by acting honorably throughout the game, and the ending varies for heroes who earn the title[^ref-1][^ref-3][^ref-27]
 
 ## Reception
 
@@ -105,20 +105,29 @@ The free VGA fan remake by AGD Interactive (released August 24, 2008) replaced t
 ## Development
 
 ### Production
-According to Corey Cole, Quest for Glory II cost $450,000, almost double the first game's budget[^ref-1][^ref-4]. It was the last EGA game created by Sierra On-Line, developed using processes intended for VGA games[^ref-1][^ref-34]. The antagonist Ad Avis is named after Sierra's then-new creative director, Bill Davis, and the city Raseir is an anagram for "Sierra" – both chosen as subtle parodies referencing a changing atmosphere within Sierra, with Raseir depicted as an Orwellian city under a totalitarian dictator[^ref-1][^ref-34].
+Corey Cole has said the first game had a relatively tiny budget, which he once calculated at $150K but thought was probably closer to $250K; the budget almost doubled to $450K for Quest for Glory II, and again to $750K for games 3 and 4. Quest for Glory V was budgeted at $1.5M, but had massive overruns and, in his estimate, ended up costing around $4 million[^ref-4]. Quest for Glory II was the last EGA game created by Sierra On-Line, developed using processes intended for VGA games[^ref-1][^ref-34]. The antagonist Ad Avis is named after Sierra's then-new creative director, Bill Davis, and the city Raseir is an anagram for "Sierra" – both chosen as subtle parodies referencing a changing atmosphere within Sierra, with Raseir depicted as an Orwellian city under a totalitarian dictator[^ref-1][^ref-34].
 
 ### Art and Combat System Credit
-[[Douglas Herring]], a Sierra artist and animator, lists the game on his own résumé as "Art design desert section - Combat System."[^ref-35] The Adventure Game Fan Fair guest biography likewise says he "designed the combat system and a few backgrounds for Quest for Glory II."[^ref-36] Both are Herring's own accounts rather than an on-screen credit checked here, and the Wikipedia article this page relies on lists only Kenn Nishiuye as artist.[^ref-1]
+[[Douglas Herring]], a Sierra artist and animator, lists the game on his own résumé as "Art design desert section - Combat System."[^ref-35] The Adventure Game Fan Fair guest biography likewise says he "designed the combat system and a few backgrounds for Quest for Glory II."[^ref-36] Both are Herring's own accounts; Wikipedia lists only Kenn Nishiuye as artist.[^ref-1]
 
-### Technical Achievements
-- Last Quest for Glory game using EGA graphics[^ref-1][^ref-3]
-- Last EGA game developed by Sierra On-Line[^ref-1][^ref-34]
-- Development budget of $450,000[^ref-1]
-- Complex 30-day time management system[^ref-1]
-- Class-specific side quests, and a variation in the ending for heroes who earn the Paladin title[^ref-1][^ref-27]
-- First game in which the Hero can earn the title of Paladin; Paladin abilities are only usable in characters imported into QFG III and later[^ref-1]
-- Manual illustrated by Marvel Comics artist Ernie Chan[^ref-1]
-- Platform releases: 1990 (MS-DOS and Amiga, United States; PCGamingWiki dates the MS-DOS release to November 1990[^ref-13]); May 1991 (Amiga, United Kingdom); 1994 Kixx XL budget re-release by U.S. Gold in Europe[^ref-28]
+### Version History
+- 1990: MS-DOS and Amiga, United States; PCGamingWiki dates the MS-DOS release to November 1990[^ref-13][^ref-28]
+- May 1991: Amiga, United Kingdom[^ref-28]
+- 1994: Kixx XL budget re-release by U.S. Gold in Europe[^ref-28]
+- August 24, 2008: free VGA fan remake by AGD Interactive[^ref-29]
+- May 10, 2012: Windows (DOSBox) release, with Activision as digital publisher[^ref-13]
+
+### Technical Specifications
+- Engine: SCI1[^ref-13]
+- DOS video modes: CGA, EGA, MCGA, VGA[^ref-13]
+- DOS requirements: Intel 286 processor, 640 KB RAM, 4.5 MB of storage[^ref-13]
+- The GOG and Steam versions come pre-packaged with DOSBox[^ref-13]
+
+### Technical Issues
+The GOG version had problems importing characters from Quest for Glory I (the character was always identified as a fighter); an official patch for the issue was released[^ref-13].
+
+### Cut Content
+An unused daytime version of the background where Iblis rises survives in the game data[^ref-24].
 
 ### Easter Eggs and Cultural References
 
@@ -128,11 +137,11 @@ The game is filled with pop-culture references and hidden jokes[^ref-22]:
 - Caricatures of the Marx Brothers, and the Starship Enterprise in the opening credits[^ref-1]
 - A Thief can steal the Maltese Falcon, a running gag; the Falcon appears in Raseir alongside Casablanca's Signor Ferrari and Ugarte[^ref-1]
 - Raseir is depicted as an Orwellian city, a subtle parody of changing atmosphere within Sierra at the time[^ref-1]
-- Typing "suck blue frog" at the text prompt unlocks a hidden debug mode, and an unused daytime version of the background where Iblis rises survives in the game data[^ref-24]
+- Typing "suck blue frog" at the text prompt unlocks a hidden debug mode[^ref-24]
 
 ## Legacy
 
-Quest for Glory II is the only game in the series that Sierra never produced with anything beyond EGA graphics[^ref-1]. However, AGD Interactive released a free VGA remake on August 24, 2008, using the Adventure Game Studio engine[^ref-1][^ref-29]. AGD describes it as a faithful recreation that keeps the original's dialogue, scenes, characters and Easter eggs intact[^ref-21].
+AGD Interactive released a free VGA remake on August 24, 2008, using the Adventure Game Studio engine[^ref-1][^ref-29]. AGD describes it as a faithful recreation that keeps the original's dialogue, scenes, characters and Easter eggs intact[^ref-21].
 
 The game is also notable for being the only Quest for Glory title without any direct influence of the character Erana, though she is referenced in a portrait at the Wizards' Institute of Technocery[^ref-1][^ref-3]. Paladin abilities earned here can be used by characters imported into Quest for Glory III and later games[^ref-1].
 
@@ -187,7 +196,7 @@ This game has been included in the following collections:
 [^ref-10]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – purchase, user reviews
 [^ref-11]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – purchase, user reviews
 [^ref-12]: [HowLongToBeat – Quest for Glory II](https://howlongtobeat.com/game/7480) – completion times
-[^ref-13]: [PCGamingWiki – Quest for Glory II](https://www.pcgamingwiki.com/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – technical specs
+[^ref-13]: [PCGamingWiki – Quest for Glory II](https://www.pcgamingwiki.com/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – technical specs, release dates, Windows (DOSBox) release and digital publisher, GOG import patch
 [^ref-14]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_II) – series information
 [^ref-15]: [Hardcore Gaming 101 – Quest for Glory II: Trial by Fire (Wayback, 2026-09-28)](http://web.archive.org/web/20260928182953/https://www.hardcoregaming101.net/quest-for-glory-ii/) – Kurt Kalata retrospective; live site under maintenance in October 2026
 [^ref-16]: [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – historical analysis
