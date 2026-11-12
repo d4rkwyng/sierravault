@@ -10,7 +10,7 @@ series: Standalone
 engine: Applesoft BASIC
 protagonist: Unnamed male protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Softporn Adventure is Chuck Benton's 1981 adult-oriented comedy text adventure,
   published by On-Line Systems as Sierra's only non-graphic game and later remade as Leisure
   Suit Larry in the Land of the Lounge Lizards.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, standalone]
 ---
 # Softporn Adventure
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ The death system is notably harsh and somewhat random. A dead player is sent to 
 
 ### Contemporary Reviews
 
-Softline magazine's January 1982 review offered a mixed assessment, calling the game "a refreshing change of pace from the average software game" while criticizing it for reinforcing "the notion that all computer freaks are emotionally underdeveloped high school and college boys."[^ref-48][^ref-7] The review described the game as "hopelessly addicting" and credited Benton with "being the first to plumb these depths on a commercial basis," but lamented that "it's just a shame that he didn't take the time to make his program a bit classier."[^ref-48] Softline listed it at $29.95 for 48K Apple II and Atari 800 systems.[^ref-48]
+Softline magazine's January 1982 review offered a mixed assessment, calling the game "a refreshing change of pace from the average software game" while criticizing it for reinforcing "the notion that all computer freaks are emotionally underdeveloped high school and college boys."[^ref-48][^ref-7] The review described the game as "hopelessly addicting" and credited Benton with "being the first to plumb these depths on a commercial basis," but lamented that "it's just a shame that he didn't take the time to make his program a bit classier."[^ref-48] Softline listed it at $29.95 for 48K Apple II and Atari 800 systems.[^ref-48] Time's text instead gives the price as $29.25.[^ref-47]
 
 ANTIC magazine's December 1982 review by Davey Saba was more positive, stating "When you get tired of shoot 'em up attacks, Softporn Adventures by ONLINE SYSTEMS could be a refreshing break."[^ref-25] Saba noted the game was one of his first adventure game purchases and concluded that "Even though my favorite game is still Centipede, Softporn is a welcome addition to my software library."[^ref-25]
 
@@ -92,8 +92,8 @@ Modern retrospectives have been significantly harsher. PC Gamer's Richard Cobbet
 However, some modern critics have found merit in the game. The Digital Antiquarian's Jimmy Maher wrote "I found Softporn really, genuinely funny."[^ref-26] Academic researcher Laine Nooney of NYU offered a more nuanced perspective, arguing that "Softporn is a game that is least interesting as a game, and is most interesting as a piece of social theatre" and that "The dialogue around Softporn was perhaps the first time a cultural debate was happening in and around a computer gaming community itself."[^ref-29]
 
 **Aggregate Scores:**
-- **MobyGames:** 70% (Critics, 3 ratings), 3.0/5 (Players, 23 ratings)[^ref-2]
-- **IMDB:** 6.7/10 (30 ratings)[^ref-30]
+- **MobyGames:** 70% (Critics, 3 ratings), 3.2/5 (Players, 23 ratings), as of November 2026[^ref-2]
+- **IMDB:** 6.7/10 (31 ratings)[^ref-30]
 - **GameFAQs:** 2/5 (13 users), ranked #1 lowest rated Atari 800 adventure game[^ref-31]
 - **IFDB:** 12 ratings, most of them 2 or 3 stars[^ref-21]
 
@@ -118,7 +118,7 @@ Upon acquisition by On-Line Systems, Benton rewrote portions of the game for pub
 
 ### Technical Achievements
 
-Written in Applesoft BASIC for the Apple II, Softporn Adventure required 48K of memory.[^ref-26][^ref-48] The game utilized disk-based text files for its narrative content[^ref-26][^ref-14] and employed a simple two-word parser system.[^ref-18] While technically modest compared to contemporaneous Infocom titles,[^ref-13][^ref-32] the game sold strongly: Get Lamp calls its sales "a true blockbuster for the time."[^ref-5]
+Written in Applesoft BASIC for the Apple II, Softporn Adventure required 48K of memory.[^ref-26][^ref-48] The game utilized disk-based text files for its narrative content[^ref-26][^ref-14] and employed a simple two-word parser system.[^ref-18] While technically modest compared to contemporaneous Infocom titles,[^ref-13][^ref-32] the game sold strongly: Get Lamp calls its sales "a true blockbuster for the time."[^ref-5] The Digital Antiquarian notes that Benton had 48K of memory to Scott Adams's 16K, plus a disk drive to fetch text from a file during play, which let him include far more text than Adams could.[^ref-26] Softline said the game resembled Scott Adams's work in visual design, with locations, objects and exits in the upper third of the screen and scrolling text below, regretted that the Atari version had no sound, and noted slot payouts of $300 for a pair and $1,500 for triples, with a $100 minimum blackjack bet.[^ref-48]
 
 The game's structure—featuring multiple locations, inventory management, casino minigames, and three seductions—carried straight into Leisure Suit Larry; Al Lowe wrote that "Softporn's puzzles, characters, and locations were all solid. I kept them all."[^ref-46]
 
@@ -166,7 +166,7 @@ The MS-DOS port by Gary Thompson contained several bugs in early versions. Most 
 - **Phone Number:** The wine delivery phone number 555-0987 must be remembered from a radio commercial[^ref-27]
 - **TV Distraction:** Setting the TV to channel 6 can distract certain characters[^ref-27]
 - **Television Channels:** A MobyGames player review singles out the amusing descriptions shown when flipping through TV channels[^ref-2]
-- **Hot Tub Cover Photo:** The cover photograph was staged in the Williamses' hot tub at their home.[^ref-6][^ref-40] Get Lamp says the original plan was to use hired models, "but the ladies insisted, and in doing so became part of history," and that Roberta Williams is the woman on the right.[^ref-5] The Atlantic describes the image as "a warm, risqué photo of three brunettes in an outdoor hot tub, their breasts bobbing and nudging the waterline,"[^ref-6] while the Sierra Fandom wiki says the women were nude but only visible from the shoulders up.[^ref-40]
+- **Hot Tub Cover Photo:** The cover photograph was staged in the Williamses' hot tub at their home.[^ref-6][^ref-40] Get Lamp says the original plan was to use hired models, "but the ladies insisted, and in doing so became part of history," and that Roberta Williams is the woman on the right.[^ref-5] The Atlantic describes the image as "a warm, risqué photo of three brunettes in an outdoor hot tub."[^ref-6]
 - **Time Magazine:** The cover image ran with Time's "Software for the Masses" on October 5, 1981, which Al Lowe calls "Time Magazine's first column on computer entertainment"[^ref-47][^ref-46][^ref-6]
 - **Tom Clancy Connection:** Tom Clancy was acquainted with Chuck Benton. In The Hunt for Red October, sonar operator Jones mentions knowing someone from college who "was making good money with Sierra On-Line Systems"; Jimmy Maher writes that this line was inspired by Benton[^ref-26]
 
@@ -227,7 +227,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 ## References
 
 [^ref-1]: [Al Lowe's Official Website – Downloads](http://www.allowe.com/downloads/games.html) – confirmation as only non-graphic Sierra game, download availability
-[^ref-2]: [MobyGames – Softporn Adventure](https://www.mobygames.com/game/9303/softporn-adventure/) – developer, designer, publishers, 1981 Apple II and Atari 8-bit releases, critic (70%, 3) and player (3.0/5, 23 ratings) scores, player review
+[^ref-2]: [MobyGames – Softporn Adventure](https://www.mobygames.com/game/9303/softporn-adventure/) – developer, designer, publishers, 1981 Apple II and Atari 8-bit releases, critic (70%, 3) and player (3.2/5, 23 ratings) scores, player review
 [^ref-3]: [Sierra Chest – Softporn Adventure](https://sierrachest.com/index.php?a=games&id=206&title=softporn-adventure&fld=general) – game setting, year 2020 premise, narrative description
 [^ref-4]: [MobyGames – Softporn Adventure Trivia](https://www.mobygames.com/game/9303/softporn-adventure/trivia/) – Ken Williams sales claim, database-programming origin, cover-photo trivia
 [^ref-5]: [Get Lamp Interview – Chuck Benton](http://getlamp.com/cast/20060526benton/index.html) – development history, original title, autobiographical elements, sales figures
