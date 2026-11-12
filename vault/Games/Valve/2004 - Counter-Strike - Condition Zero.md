@@ -10,7 +10,7 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Counter-Terrorist Operative
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Counter-Strike: Condition Zero is a tactical first-person shooter released
   in March 2004, representing the only game in the Counter-Strike franchise to feature a
   dedicated single-player campaign.'
@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Counter-Strike: Condition Zero
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -41,9 +41,11 @@ Despite its troubled gestation, the game sold 2.9 million copies at retail[^ref-
 
 The developer list above includes every studio that worked on the game. The shipped game is credited to Valve, Ritual Entertainment and Turtle Rock Studios; Gearbox Software's 2001–2002 version never shipped.[^ref-48][^ref-50]
 
+On publishing, MobyGames credits Sierra Entertainment, Inc. as publisher of the US, UK, French, German, Italian, Australian, Brazilian and Singapore releases, with Vivendi regional units distributing in several of those markets; Capcom published the Japanese release, and Valve published the worldwide entry and the 2013 releases.[^ref-52] Steam lists Valve alone as publisher.[^ref-21]
+
 ## Story Summary
 
-Condition Zero has no single continuous story. During Gearbox Software's 2002 stint on the project, Randy Pitchford described it as "the story of an elite special forces soldier who is attached to various counter-terrorist units around the world,"[^ref-7] but that design did not ship. In the released game, the Tour of Duty campaign is a series of Counter-Strike matches against bots, played only as a Counter-Terrorist.[^ref-27] Wikipedia describes the mode as standing apart from the Deleted Scenes' storyline.[^ref-50]
+Condition Zero has no single continuous story. During Gearbox Software's 2002 stint on the project, Randy Pitchford described it as "the story of an elite special forces soldier who is attached to various counter-terrorist units around the world,"[^ref-7] but that design did not ship. In the released game, the Tour of Duty campaign is a series of Counter-Strike matches against bots, played only as a Counter-Terrorist.[^ref-27] Wikipedia notes that Deleted Scenes stands apart from other Counter-Strike releases because it has a storyline.[^ref-50]
 
 The Deleted Scenes campaign, originally developed by Ritual Entertainment, provides a more traditional linear single-player experience with 12 Counter-Terrorist missions set in locales around the world, each opening with an introduction.[^ref-43] The missions are unconnected, and in each one the player belongs to that region's counter-terrorist force.[^ref-27][^ref-20] Settings include a helicopter crash site in the Middle East, recovering a lost nuke in arctic Russia and drug labs in Colombia,[^ref-20] while Hankagai has the player protect a Japanese businessman from assassins at a Japanese shopping mall.[^ref-43] Each mission leans heavily on scripted sequences.[^ref-27]
 
@@ -109,7 +111,7 @@ In Japan, where Capcom released the game on March 25, 2004, Game Watch's reviewe
 
 ### Modern Assessment
 
-A 2020 retrospective on Reddit's r/patientgamers argued that Counter-Strike: Source's release later in 2004 "all but buried" Condition Zero, though it found the Deleted Scenes campaign "halfway decent."[^ref-20] As of November 1, 2026, Steam shows 91% positive from 7,618 user reviews (all languages).[^ref-21]
+A 2020 retrospective on Reddit's r/patientgamers argued that Counter-Strike: Source's release later in 2004 "all but buried" Condition Zero, though it found the Deleted Scenes campaign "halfway decent."[^ref-20] As of November 2026, Steam shows 91% positive from 7,634 English-language user reviews.[^ref-21]
 
 "Counter-Strike: Condition Zero isn't really worth playing for its multiplayer content due to other games in the Counter-Strike series offering much the same experience but with a more active userbase," noted one HowLongToBeat user review.[^ref-45]
 
@@ -117,8 +119,8 @@ A 2020 retrospective on Reddit's r/patientgamers argued that Counter-Strike: Sou
 - **Metacritic:** 65/100 (33 critics)[^ref-50]
 - **GameRankings:** 67%[^ref-50]
 - **IMDB:** 7.1/10 (about 1.2K ratings)[^ref-23]
-- **Metacritic User Score:** 7.4/10 (354 ratings, October 2026)[^ref-24]
-- **Steam Reviews:** 91% positive (7,618 reviews, November 1, 2026)[^ref-21]
+- **Metacritic User Score:** 7.4/10 (358 ratings, November 2026)[^ref-24]
+- **Steam Reviews:** 91% positive (7,634 English reviews, November 2026)[^ref-21]
 
 ## Development
 
@@ -150,7 +152,7 @@ Turtle Rock Studios, led by bot AI developer Michael Booth, finalized the game w
 
 The bot AI underwent public beta testing in the original Counter-Strike from June 5 to September 9, 2003.[^ref-1] Michael Booth, Condition Zero's project lead and lead designer, went on to lead design on Left 4 Dead, for which he created the AI Director.[^ref-47]
 
-On October 10, 2003, Valve announced that the game had gone gold and would be in stores on November 18, 2003,[^ref-27] but it did not ship until March 23, 2004. Valve blamed publisher Vivendi Universal Games for intentionally delaying the release and made this part of its ongoing lawsuit with the publisher.[^ref-5]
+On October 10, 2003, Valve announced that the game had gone gold and would be in stores on November 18, 2003,[^ref-27] but it did not ship until March 23, 2004 according to Wikipedia, which cites a Vivendi Universal Games press release (MobyGames dates the US release March 21, 2004).[^ref-50][^ref-52] Valve blamed publisher Vivendi Universal Games for intentionally delaying the release and made this part of its ongoing lawsuit with the publisher.[^ref-5]
 
 **Development Credits:**[^ref-6][^ref-48]
 - **Community Designers (Gearbox Era):** David Johnston, Christopher Auty, Alexander Manilov
@@ -215,7 +217,7 @@ Significant content was cut or altered throughout the development cycle:
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | March 23, 2004 | Windows | Initial retail release[^ref-50] |
+| 1.0 | March 23, 2004 (Wikipedia); March 21, 2004 for the US (MobyGames) | Windows | Initial retail release[^ref-50][^ref-52] |
 | 1.1 | April 28, 2004 | Windows | Added custom campaign support, enhanced player models, buy packages[^ref-32] |
 | 1.2 | June 2, 2004 | Windows | Updated hostage AI, new factions (Midwest Militia, Spetsnaz), location system[^ref-1] |
 | Mac/Linux beta | February 21, 2013 | Mac OS X, Linux | Beta made available; Steam announcement: "This beta adds Linux and OS X support"[^ref-51] |
@@ -274,6 +276,7 @@ As of April 15, 2009, Counter-Strike: Condition Zero remained one of the ten mos
 
 Counter-Strike: Condition Zero has been included in various Counter-Strike and Valve compilations:
 - Counter-Strike Complete (Steam bundle; Condition Zero and Counter-Strike: Source)[^ref-21]
+- Counter-Strike 1 Anthology (Steam bundle; Condition Zero, Day of Defeat, Deathmatch Classic and Ricochet)[^ref-21]
 - Valve Complete Pack (Steam bundle)[^ref-21]
 - The game continues to be sold on Steam as a standalone title
 
@@ -298,14 +301,11 @@ Condition Zero remains the only game in the Counter-Strike franchise with a sing
 
 Its bot AI was one of the most praised aspects of the game,[^ref-50] and its creator, Michael Booth, went on to lead design on Left 4 Dead and create that game's AI Director.[^ref-47]
 
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike-condition-zero-2004)
-
 ## Downloads
 
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike-condition-zero-2004)
 
 **Manuals & Extras**
 - [Prima Official eGuide (Internet Archive)](https://archive.org/details/Counter_Strike_Condition_Zero_Prima_Official_eGuide)
@@ -341,7 +341,7 @@ Its bot AI was one of the most praised aspects of the game,[^ref-50] and its cre
 [^ref-18]: [Eurogamer – Review](https://www.eurogamer.net/r-conditionzero-pc) – Tom Bramwell review, 6/10; "millstone around Valve's neck", four developers, pre-release review versions
 [^ref-19]: [Game Watch (Japan)](https://game.watch.impress.co.jp/docs/20040326/cscz.htm) – Japanese release details, BRZRK review, Turtle Rock CEO quote, system requirements
 [^ref-20]: [Reddit r/patientgamers – A review of a forgotten game (January 2020)](https://www.reddit.com/r/patientgamers/comments/erxwpz/a_review_of_a_forgotten_game_counterstrike/) – user retrospective: Source "all but buried" CZ, Deleted Scenes settings and enemy respawning
-[^ref-21]: [Steam Store – Counter-Strike: Condition Zero](https://store.steampowered.com/app/80/) – Steam reviews, system requirements, user scores
+[^ref-21]: [Steam Store – Counter-Strike: Condition Zero](https://store.steampowered.com/app/80/) – Steam reviews, system requirements, user scores, bundles, publisher listing
 [^ref-23]: [IMDB – Counter-Strike: Condition Zero](https://www.imdb.com/title/tt0466736/) – user ratings, trivia, bugs
 [^ref-24]: [Metacritic – Counter-Strike: Condition Zero](https://www.metacritic.com/game/counter-strike-condition-zero/) – Metascore, user score, review breakdown
 [^ref-25]: [VoodooExtreme Archive (Wayback Machine)](https://web.archive.org/web/20010527020610/http://www.voodooextreme.com/comments.taf?postID=15167&_start=156) – Gabe Newell quotes on single-player vision
@@ -367,3 +367,4 @@ Its bot AI was one of the most praised aspects of the game,[^ref-50] and its cre
 [^ref-49]: [ModDB – Counter-Strike: Condition Zero 25th Anniversary Patch](https://www.moddb.com/games/counter-strike-condition-zero/addons/counter-strike-condition-zero-25th-anniversary-patch) – fan menu/UI update with HD background and animated logo
 [^ref-50]: [Wikipedia – Counter-Strike: Condition Zero](https://en.wikipedia.org/wiki/Counter-Strike:_Condition_Zero) – release dates, review scores, development history, critical reception; infobox developers Ritual Entertainment, Turtle Rock Studios and Valve; Gearbox ceased development in July 2002
 [^ref-51]: [Steam Community – Counter-Strike: Condition Zero announcements (Wayback Machine, Mar 2013)](https://web.archive.org/web/20130315061707/https://steamcommunity.com/games/80/announcements) – Feb 21, 2013 beta "adds Linux and OS X support"; Mar 6, 2013 update "Added support for Mac OS X and Linux operating systems"
+[^ref-52]: [MobyGames – Counter-Strike: Condition Zero](https://www.mobygames.com/game/13487/counter-strike-condition-zero/) – regional release dates, publishers and distributors (read via the MobyGames API)
