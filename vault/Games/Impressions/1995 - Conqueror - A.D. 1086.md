@@ -10,20 +10,20 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created Knight
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [David Milner]
 description: 'Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing,
   and action game released in 1995, developed by Software Sorcery and published by
-  Sierra...'
+  Sierra On-Line.'
 tags: [1990s, rpg, sierra, standalone, strategy]
 ---
 # Conqueror: A.D. 1086
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing, and action game released in 1995, developed by Software Sorcery and published by [[Sierra On-Line]][^ref-1][^ref-23]. The project began at Time Warner Interactive, whose name appears on the game's voice-cast credits[^ref-24][^ref-27]. Set in medieval England during the reign of William the Conqueror, the game places players in control of a young knight tasked with building a domain, managing resources, raising armies, and ultimately choosing between two distinct paths to victory: overthrowing the King of England or slaying a fearsome dragon that has been terrorizing the land[^ref-2]. 336GameReviews called it "an extremely ambitious title, especially for 1995"[^ref-3], and it has been compared to Cinemaware's *Defender of the Crown* since its first preview[^ref-1][^ref-24].
+Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing, and action game released in 1995, developed by Software Sorcery and published by [[Sierra On-Line]][^ref-1][^ref-23]. The game was first announced as a Time Warner title, and Time Warner Interactive's name appears on its voice-cast credits[^ref-35][^ref-24][^ref-27]. Set in medieval England during the reign of William the Conqueror, the game places players in control of a young knight tasked with building a domain, managing resources, raising armies, and ultimately choosing between two distinct paths to victory: overthrowing the King of England or slaying a fearsome dragon that has been terrorizing the land[^ref-2]. 336GameReviews called it "an extremely ambitious title, especially for 1995"[^ref-3], and it has been compared to Cinemaware's *Defender of the Crown* since its first preview[^ref-1][^ref-24].
 
 The game distinguished itself through its multi-genre approach, combining strategic territory management with first-person combat sequences, jousting tournaments, castle building, and RPG character development elements[^ref-4]. Character creation begins with the player as a 12-year-old boy with only some money and a basic sword; at 18 he is assigned a fiefdom, and all games end at his 30th birthday regardless of progress[^ref-2]. Contemporary reviews were mixed: *Computer Gaming World* judged it "an above-average entry" that was "more prince than pretender"[^ref-23], while *Computer Game Review* wrote that "The scope of this project was more than either its budget or its talent could handle"[^ref-25].
 
@@ -106,7 +106,7 @@ One GameFAQs guide author wrote that "Despite the various flaws of the game, it 
 
 ### Origins
 
-Conqueror: A.D. 1086 started life as a Time Warner Interactive title. *Computer Gaming World*'s February 1995 issue (#127) ran a sneak preview of it as "Time-Warner's new strategy game", one that evoked memories of *Defender of the Crown*[^ref-24]. MobyGames' credits still list the voice cast under Time Warner Interactive and thank "the TWI Marketing Department"[^ref-27]. By its release the game was published by Sierra On-Line, with *Hyper* describing developer Software Sorcery as "one of Sierra's new strategy recruits"[^ref-26]. The studio had earlier self-published the World War I naval game *Jutland* (1993)[^ref-29], and also made *Fast Attack* for Sierra[^ref-6].
+Conqueror: A.D. 1086 started life as a Time Warner title. *Computer Game Review* (March 1995) reported from Winter CES that Time Warner's affiliate Software Sorcery had announced two games, the submarine simulation *Fast Attack* and *Conqueror*, which "takes place in medieval England, with players trying to bring their fiefdom to heights of glory"[^ref-35]. *Computer Gaming World*'s February 1995 issue (#127) ran a sneak preview of it as "Time-Warner's new strategy game", one that evoked memories of *Defender of the Crown*[^ref-24]. MobyGames' credits still list the voice cast under Time Warner Interactive and thank "the TWI Marketing Department"[^ref-27]. By its release the game was published by Sierra On-Line, with *Hyper* describing developer Software Sorcery as "one of Sierra's new strategy recruits"[^ref-26]. The studio had earlier self-published the World War I naval game *Jutland* (1993)[^ref-29], and also made *Fast Attack* for Sierra[^ref-6].
 
 The design emphasized player freedom in a historically-grounded setting: as one retro site puts it, "you can marry and peacefully develop your lands, you can start a war with Wilhelm himself and become the ruler of all of England, or you can even delve into fantasy adventures"[^ref-8].
 
@@ -118,11 +118,22 @@ The development team faced the significant challenge of implementing multiple ga
 
 **Development Credits:**[^ref-27][^ref-28]
 - **Developer:** Software Sorcery & Havokware
-- **Technical Director:** Joe Pasquarello
 - **Executive Producers:** Catherine R. Jones, James R. Jones III
-- **Original Music:** David Milner
+- **Program Manager:** Bernie Tyler
+- **Technical Director:** Joe Pasquarello
+- **Associate Producer:** Shon Damron
+- **Game Text Writing:** Rachel Shaw, Kristi Jennings
+- **Lead Programmers:** Bruce Moore, Joe Pasquarello, Lee Waggoner
+- **3-D Programmer:** James O'Keane
+- **Special Programming By:** Ofer Estline, Jim Frantz, Alex Shatsky, Ron Yarnall
 - **Art Director:** Daniel MacGibbon
+- **Lead Artist:** Scott McDaniel
+- **Graphic Artists:** Torin Hill, Jeff Hydorn, Benjamin Lazzaro, Russ Sabin, Dale Sedenquist, Richard Sjoberg, Laurie Fuller, Majorie Taylor
+- **Sound Engineers:** Rade Stojsavljevic, David Yee
+- **Original Music:** David Milner
+- **Executive Producer (Sierra On-Line):** Anthony R. Reyneke
 - **Producer (Sierra On-Line):** Graeme Bayless
+- **Associate Producer (Sierra On-Line):** Larry Sayre
 - **Director of Dialog (Time Warner Interactive):** Lena Marie Pousette
 - **Writer (Time Warner Interactive):** Brooks Wachtel
 
@@ -173,8 +184,10 @@ Failure to achieve either victory by the player character's 30th birthday result
 
 ### Version History
 
-- **1995** — original DOS CD-ROM release, published by Sierra On-Line[^ref-1]
-- **2017** — Windows re-release, published by Activision and sold on GOG.com[^ref-1][^ref-6]
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | 1995 | DOS (CD-ROM) | Published by Sierra On-Line[^ref-1] |
+| GOG.com re-release | 2017-11-08 | Windows | Published by Activision; packaged with DOSBox[^ref-1][^ref-6][^ref-7] |
 
 ## Voice Cast
 
@@ -272,9 +285,10 @@ Conqueror has maintained a fan following. The 2017 digital re-release drew long-
 [^ref-26]: [Hyper #29 (March 1996) – Conqueror 1086 A.D. review by Julian Schoffel](https://archive.org/details/hyper-029/page/52/mode/2up) – review, score, modes of play, resolution
 [^ref-27]: [MobyGames – Conqueror: A.D. 1086 credits (DOS)](https://www.mobygames.com/game/4658/conqueror-ad-1086/credits/dos/) – full credits incl. Time Warner Interactive voice cast, Director of Dialog, writer, localisation
 [^ref-28]: [MobyGames – Conqueror: A.D. 1086 credits (DOS), Wayback Machine capture of 7 December 2015](https://web.archive.org/web/20151207231116/http://www.mobygames.com/game/dos/conqueror-ad-1086/credits) – Software Sorcery & Havokware credits, Time Warner Interactive voice cast with spellings, localisation
-[^ref-29]: [MobyGames – Jutland](https://www.mobygames.com/game/5248/jutland/) – 1993 DOS release, published and developed by Software Sorcery (read via the MobyGames API)
+[^ref-29]: [MobyGames – Jutland](https://www.mobygames.com/game/5248/jutland/) – 1993 DOS release, published and developed by Software Sorcery
 [^ref-30]: [Internet Archive – Conqueror AD 1086 (1995) German manual](https://archive.org/details/conqueror-ad-1086-1995-manual-de) – German manual scans (gamemanuals collection)
 [^ref-31]: [GameFAQs – Fan Guide by mikel123456 (Wayback Machine, 29 May 2019)](https://web.archive.org/web/20190529185940/https://gamefaqs.gamespot.com/pc/574792-conqueror-1086-ad/faqs/66730) – "Version: 2.00 | Updated: 04/29/15"
 [^ref-32]: [MobyGames – Conqueror: A.D. 1086 (Wayback Machine capture of 28 November 2025)](https://web.archive.org/web/20251128164329/https://www.mobygames.com/game/4658/conqueror-ad-1086/) – "Average score: 65% (based on 14 ratings)"; players 2.5 out of 5 (6 ratings)
 [^ref-33]: [Coming Soon Magazine – Conqueror: A.D. 1086 review (Wayback Machine capture of 4 April 2006)](https://web.archive.org/web/20060404120522/http://www.csoon.com/issue13/conqad86.htm) – 80% overall, subscores, conclusion, battle-control criticism
 [^ref-34]: [Worldvillage Gamer's Zone – "Quest for the English Crown: A Review of Conqueror A.D. 1086" by Craig Majaski (Wayback Machine capture of 9 March 2009)](https://web.archive.org/web/20090309095126/http://www2.worldvillage.com/wv/gamezone/html/reviews/conq.htm) – review text and scorecard
+[^ref-35]: [Computer Game Review #44 (March 1995)](https://archive.org/details/computer-game-review-issue-44-march-1995) – Winter CES report: Time Warner affiliate Software Sorcery announces Fast Attack and Conqueror, set in medieval England
