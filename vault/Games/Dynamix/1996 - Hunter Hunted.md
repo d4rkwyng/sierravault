@@ -7,17 +7,17 @@ publisher: Sierra On-Line
 genre: Action Platformer
 platforms: [Windows]
 series: k.a.a.
-engine: Proprietary (Windows/DirectX)
+engine: Proprietary
 protagonist: Jake / Garathe Den
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Hunter Hunted is a side-scrolling action computer game developed by Dynamix
   under its k.a.a. label and published by Sierra On-Line in November 1996.
 tags: [1990s, dynamix, k.a.a., sierra]
 ---
 # Hunter Hunted
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -52,7 +52,7 @@ The manual's description of cooperative play warns, "If you've never owed your l
 
 ### Interface and Controls
 
-Hunter Hunted is a side-scrolling action game that supports multiple input methods including keyboard, mouse, and gamepad/joystick[^ref-10]. It uses a side view, but most levels consist of several parallel planes, and characters can move into doors or windows to reach other rooms[^ref-1]. Characters can also press against walls to avoid incoming projectiles[^ref-1].
+Hunter Hunted is a side-scrolling action game that supports multiple input methods including keyboard, mouse, and gamepad/joystick[^ref-10]. It uses a side view, but most levels consist of several parallel planes, and characters can move into doors or windows to reach other rooms[^ref-1]. Characters can also press against walls to avoid incoming projectiles, which Wikipedia compares to Blackthorne[^ref-1].
 
 Each playable character has distinct capabilities: Garathe Den possesses superior strength and stamina, while Jake can take advantage of more sophisticated weaponry[^ref-12].
 
@@ -66,7 +66,7 @@ The game features a substantial amount of content spread across multiple game mo
 
 Each mission tasks players with navigating through the arena, defeating enemies, and reaching the stage exit alive[^ref-14]. There are three selectable difficulty levels: Easy, Medium, and Hard[^ref-11]. Head-to-head mode allows players to set timers and minimum kill requirements, adding competitive structure to the versus matches[^ref-11].
 
-*Next Generation* singled out the split-screen two-player mode as giving "plenty of re-playability"[^ref-24]. An optional add-on mission pack extended the content with 15 new single-player missions, 2 new head-to-head missions, and 3 cooperative missions[^ref-1].
+*Next Generation* singled out the split-screen two-player mode as giving "plenty of re-playability"[^ref-24]. An optional add-on mission pack extended the content with 15 new single-player missions, 2 new head-to-head missions, and 3 cooperative missions, for 120 missions in total[^ref-1]. Missions fall into two groups: "Hunter" missions feature slaying numerous monsters with a good amount of ammunition, while "Hunted" missions emphasize staying alive with limited resources against obstacles and AI hunters. The first few missions are tutorials, and missions can be completed in any order, though the ascending order takes fewer clicks[^ref-1].
 
 ### Puzzles and Mechanics
 
@@ -74,7 +74,7 @@ While primarily an action game, Hunter Hunted incorporates puzzle elements into 
 
 The two playable characters offer different gameplay experiences. Jake, the human champion, comes equipped with more sophisticated weaponry[^ref-12]. Garathe Den, in contrast, relies on greater strength and stamina[^ref-12].
 
-Players must collect parts throughout the game to ultimately build the SCURVe escape vehicle[^ref-10]. The game has been described as a "kill-em-all type game"[^ref-2].
+Players must collect parts throughout the game to ultimately build the SCURVe escape vehicle[^ref-10]. The game has been described as a "kill-em-all type game"[^ref-2]. The box copy promises "Soundtrack includes 10 ass-kickin' tunes, along with stereo sound effects that rule"[^ref-8].
 
 ## Reception
 
@@ -92,8 +92,8 @@ One Reddit player posted in 2023 about finally finishing the game 27 years after
 
 **Aggregate Scores:**
 - **MobyGames:** Moby Score 7.1; critics 70% (22 ratings, checked November 11, 2026)[^ref-27]
-- **IMDB:** 8.2/10[^ref-14]
-- **MyAbandonware (user rating):** 4.64/5[^ref-17]
+- **IMDB:** 8.2/10 (9 votes)[^ref-14]
+- **MyAbandonware (user rating):** 4.64/5 (50 votes)[^ref-17]
 
 ## Development
 
@@ -205,7 +205,7 @@ PCGamingWiki lists the Collector's New Installer, "an alternative to the origina
 
 Hunter Hunted was one of Sierra's attempts to move beyond its adventure game catalog: InterAction framed the k.a.a. label as a deliberate break from adventure games, with Rhett Andersen saying "we wanted to do something different"[^ref-23].
 
-Not everyone accepted that framing. A *Computer Gaming World* editorial in the January 1997 issue said: "I find it hard to believe that the designers of Hunter/Hunted and CyberGladiators really think they are part of the rebel underground at Sierra (see Sierra's Fall '96 Interaction magazine)", adding that "you're not going to get a lot of acknowledgment when your first offerings are a side-scroller with 3D effects and a 3D fighting robot game"[^ref-29]. The same issue carried a full-page advertisement that described the game as a deadly arsenal "on bovine steroids" and "the first PC game that lets you fight head-to-head with a split screen"[^ref-29].
+Not everyone accepted that framing. A *Computer Gaming World* editorial in the January 1997 issue said: "I find it hard to believe that the designers of Hunter/Hunted and CyberGladiators really think they are part of the rebel underground at Sierra (see Sierra's Fall '96 Interaction magazine)", adding that "you're not going to get a lot of acknowledgment when your first offerings are a side-scroller with 3D effects and a 3D fighting robot game"[^ref-29]. The same issue carried an advertisement that described the game as a deadly arsenal "on bovine steroids" and "the first PC game that lets you fight head-to-head with a split screen"[^ref-29].
 
 Critics gave the game moderately positive reviews[^ref-1]; MobyGames contributor Tomer Gabel later called it "a completely underrated action game"[^ref-27].
 
@@ -251,7 +251,7 @@ Critics gave the game moderately positive reviews[^ref-1]; MobyGames contributor
 [^ref-12]: [GOG Dreamlist – Hunter Hunted](https://www.gog.com/dreamlist/game/hunter-hunted) – character abilities, Dreamlist votes
 [^ref-13]: [Internet Archive – Hunter Hunted](https://archive.org/details/hunter-hunted) – full CD image (HUNTED.bin, 566,886,096 bytes)
 [^ref-14]: [IMDB – Hunter Hunted](https://www.imdb.com/title/tt11296126/) – user rating, game description
-[^ref-15]: [Sierra Gamers – Hunter Hunted](https://www.sierragamers.com/hunter-hunted/) – gameplay description
+[^ref-15]: [Sierra Gamers – Hunter Hunted (Wayback copy)](https://web.archive.org/web/20240724222617/https://www.sierragamers.com/hunter-hunted/) – gameplay description
 [^ref-17]: [MyAbandonware – Hunter Hunted](https://www.myabandonware.com/game/hunter-hunted-cnp) – Home of the Underdogs review, alternate title ジェイクバースト/Jake Burst, regional releases, user rating
 [^ref-18]: [PCGamingWiki – Hunter Hunted](https://www.pcgamingwiki.com/wiki/Hunter_Hunted) – system requirements, technical specifications
 [^ref-19]: [Internet Archive – Best Of Sierra No.06 (1998) (Hunter Hunted & Aces Over Europe) (Deutsch)](https://archive.org/details/best-of-sierra-volume-06-hunter-hunted-aces-over-europe-1998-de.-7z) – bundle information
