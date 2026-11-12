@@ -10,14 +10,14 @@ series: Pharaoh
 engine: Caesar III engine
 protagonist: Player's family lineage (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Pharaoh is an isometric city-building game set in ancient Egypt, developed
-  by Impressions Games and published by Sierra Studios for Windows in November 1999.
+  by Impressions Games and published by Sierra Studios for Windows around the turn of October and November 1999.
 tags: [1990s, impressions-city-building-series, sierra]
 ---
 # Pharaoh
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -79,6 +79,7 @@ Monuments are new to the series: they can be built on a variety of missions, req
 | Game Informer | 8.5/10 | Reviewed by Paul Bergren[^ref-1] |
 | PC Gamer (US) | 83% | Reviewed by Andrew S. Bub; verdict: "A Caesar III redux, but with plenty of refreshing differences and gameplay depth"; lows were the "bit old" graphics engine and "numerous slowdowns"[^ref-30] |
 | Game-Over | 90% | Reviewed by "Fresh"; called it "a fabulous game that captures the era to perfection" but felt that veterans must "wrestle through 9 cities before the game gets interesting for the hardcore Caesar 3-players"[^ref-29] |
+| GameSpy | Written review | Allen "slowdrag" Eccles, 19 November 1999; wrote that after playing for a while "instant gratification became secondary while the fun of maintaining godly rule over my kingdom became totally engrossing"[^ref-38] |
 | Eurogamer | 7/10 | Reviewed by John "Gestalt" Bye[^ref-1] |
 | GameRankings | 82.45% | Aggregate based on 29 reviews[^ref-18] |
 | jeuxvideo.com | 17/20 | Praised its clear, precise controls and exemplary ergonomics[^ref-19] |
@@ -117,7 +118,7 @@ Credits as listed in the manual[^ref-25] and on MobyGames (Windows version)[^ref
 - **Music:** Keith Zizza, Henry Beckett
 - **Sound:** Ed Saltzman
 - **Quality Assurance Manager:** Jon Payne
-- **Lead Animator:** Mike Malone (manual only)[^ref-25]
+- **Lead Animator / Animation Lead:** Mike Malone[^ref-25][^ref-39]
 
 ### Technical Specifications
 
@@ -141,7 +142,7 @@ Credits as listed in the manual[^ref-25] and on MobyGames (Windows version)[^ref
 | GOG | 24 May 2012 | Windows | Sold as Pharaoh + Cleopatra[^ref-7] |
 | Steam | 15 December 2016 | Windows | Sold as Pharaoh + Cleopatra, published by Activision[^ref-37] |
 
-The Impressions Games Wiki places the Mission Editor in patch 1.1[^ref-32], while PCGamingWiki and MobyGames associate the editor with the 1.2 Enhancement Pack and v1.2 patch[^ref-3][^ref-11]. PCGamingWiki adds that the patches are already included in the digital releases[^ref-3]. MeriStation reported in July 2000 that Impressions had recently released a patch including the level editor[^ref-36].
+The Impressions Games Wiki places the Mission Editor in patch 1.1[^ref-32], while PCGamingWiki and MobyGames associate the editor with the 1.2 Enhancement Pack and v1.2 patch[^ref-3][^ref-11]. PCGamingWiki adds that the patches are already included in the digital releases[^ref-3]. jeuxvideo.com's review of 9 November 1999 already states that "un éditeur permet de créer ses cartes" (an editor lets players create their own maps)[^ref-19]. MeriStation reported in July 2000 that Impressions had recently released a patch including the level editor[^ref-36].
 
 ### Release
 
@@ -211,3 +212,5 @@ A remake, Pharaoh: A New Era, was released by Triskell Interactive and Dotemu on
 [^ref-35]: [VUD / Media Control – CD-ROM Spiele über DM 55,-- (second half of December 1999) (Wayback Machine, 21 May 2000 capture)](https://web.archive.org/web/20000521212124/http://www.vud.de/charts/chart1.html) – Pharao at number 5, sixth week in the charts
 [^ref-36]: [MeriStation – Últimas noticias de Impressions Games, los padres de Faraón (Wayback Machine, 27 October 2004 capture)](https://web.archive.org/web/20041027004341/http://www.meristation.com/noticias/2000/julio/20000707-11.htm) – 7 July 2000 report: patch with level editor, more than 1,000,000 copies between Pharaoh and Caesar III
 [^ref-37]: [Steam Store API – Pharaoh + Cleopatra (app 564530)](https://store.steampowered.com/api/appdetails?appids=564530) – release date listed as Dec 15, 2016; publisher Activision, developer Impressions Games
+[^ref-38]: [GameSpy – Pharaoh review by Allen "slowdrag" Eccles (Wayback Machine, 13 February 2002 capture)](https://web.archive.org/web/20020213162351/http://www.gamespy.com/legacy/reviews/pharaoh_a.shtm) – review dated 11/19/99, no numeric score shown
+[^ref-39]: [MobyGames – Pharaoh credits](https://www.mobygames.com/game/538/pharaoh/credits/) – lists Animation Lead Mike Malone
