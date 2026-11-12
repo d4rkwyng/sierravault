@@ -10,7 +10,7 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Austin Haynes, Matthew Florianz]
 description: 'Cognition: An Erica Reed Thriller is a four-part episodic point-and-click
   adventure from Phoenix Online Studios, released 2012-2013, with Gabriel Knight creator
@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -144,7 +144,7 @@ Following the campaign, the team developed the game using the Unity engine, with
 | Jason Victor | Robert Goodman |
 | Lisa Visotski | Gwen Graham |
 
-Voice acting was led by Raleigh Holmes as Erica Reed, praised for her "authentic Bostonian twang."[^ref-3] In her own words, "My Dad, Robert Holmes, is in The Furies"; Robert Holmes is Jane Jensen's husband.[^ref-35]
+Voice acting was led by Raleigh Holmes as Erica Reed, praised for her "authentic Bostonian twang."[^ref-3] In an interview she discussed the role and her approach to it.[^ref-35]
 
 **Music:**
 The score is by Austin Haynes, with additional music by Matthew Florianz; the song "The Taking" was written by Robert Holmes and Raleigh Holmes and performed by Raleigh Holmes.[^ref-34][^ref-13] The Phoenix Online Store describes the soundtrack: "From tense shootouts to melancholy moments, the atmospheric music of Austin Haynes sets the mood for Cognition: An Erica Reed Thriller."[^ref-25]
@@ -241,7 +241,7 @@ The game's story consultant, Jane Jensen, created the [[1993 - Gabriel Knight - 
 [^ref-14]: [God is a Geek - Episode 1 review](https://web.archive.org/web/20130107124146/https://www.godisageek.com/2013/01/cognition-erica-reed-thriller-episode-1-hangman-review/) - Benjamin Maltbie; dark narrative, around 5 hours of gameplay
 [^ref-18]: [1000 Guías - Episode 1 walkthrough](http://1000guias.blogspot.com/2013/05/cognition-erica-reed-thriller-episode-1.html) - Spanish walkthrough; mouse or keyboard controls, description of Erica's abilities
 [^ref-19]: [Adventure Gamers - Episode 1 review](https://web.archive.org/web/20240612200145/https://adventuregamers.com/articles/view/23196) - Evan Dickens, October 31, 2012, 3.5/5; hint system, closing verdict
-[^ref-20]: [IMDb - Raleigh Holmes](https://m.imdb.com/name/nm4817490/?ref_=m_tt_mv) - Episode ratings; daughter of Robert Holmes, stepdaughter of Jane Jensen
+[^ref-20]: [IMDb - Raleigh Holmes](https://m.imdb.com/name/nm4817490/?ref_=m_tt_mv) - Episode ratings
 [^ref-21]: [MobyGames GOTY Edition](https://www.mobygames.com/game/68533/cognition-game-of-the-year-edition/) - Released September 12, 2013 (Windows and Macintosh); keyboard and mouse input; critic average 90% from one rating; bonus content
 [^ref-25]: [Phoenix Online Store - Cognition Soundtrack Vol. 1](https://store.postudios.com/products/sound-track-cognition-an-erica-reed-thriller) - Austin Haynes score description, "The Taking"
 [^ref-27]: [Kickstarter - Cognition: An Erica Reed Thriller (Wayback, 2014)](https://web.archive.org/web/20141214163344/https://www.kickstarter.com/projects/postudios/cognition-an-erica-reed-thriller) - "634 backers $34,247 pledged of $25,000 goal"
@@ -252,7 +252,7 @@ The game's story consultant, Jane Jensen, created the [[1993 - Gabriel Knight - 
 [^ref-32]: [Steam - Cognition: An Erica Reed Thriller](https://store.steampowered.com/app/242780/) - Game of the Year Edition store description ("Winner of six 2013 Reader's Choice Aggie Awards, including Game of the Year"), system requirements, macOS 10.15 incompatibility
 [^ref-33]: [Game Informer - Cognition preview and game page](https://gameinformer.com/games/cognition/b/pc/archive/2012/03/06/a-supernatural-adventure-with-mystifying-visuals) - Platforms PC, iOS, Android; iOS/Android release February 8, 2018
 [^ref-34]: [MobyGames - Episode 1 Windows credits](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/credits/windows/) - Season design Bittar and Hallahan; music Austin Haynes, additional music Matthew Florianz, "The Taking" by Robert Holmes
-[^ref-35]: [Alternative Magazine Online – Interview: In Conversation With Raleigh Holmes](https://alternativemagazineonline.co.uk/2012/12/18/interview-in-conversation-with-raleigh-holmes-erica-reed-cognition-an-erica-reed-thriller/) – Marty Mulrooney, December 18, 2012; Raleigh Holmes: "My Dad, Robert Holmes, is in The Furies"; interviewer names Jane Jensen as her stepmother
+[^ref-35]: [Alternative Magazine Online – Interview: In Conversation With Raleigh Holmes](https://alternativemagazineonline.co.uk/2012/12/18/interview-in-conversation-with-raleigh-holmes-erica-reed-cognition-an-erica-reed-thriller/) – Marty Mulrooney, December 18, 2012; interview with the voice of Erica Reed
 [^ref-36]: [Metacritic - Episode 1 critic reviews (PC)](https://www.metacritic.com/game/cognition-an-erica-reed-thriller-episode-1-the/critic-reviews/?platform=pc) - CD-Action, January 6, 2013, 75: "Cognition feels like some old game by Sierra and this is its biggest strength." [1/2013, p.72]
 [^ref-37]: [Phoenix Online Studios blog - Developer Diary: Managing an Online Team on a Shoestring Budget (Wayback)](https://web.archive.org/web/20160303212513/http://www.postudios.com/blog/?p=1643) - Skype for team calls; file sharing via Tortoise SVN and Dropbox
 [^ref-38]: [Kickstart Adventure - Cognition Episode 4: The Cain Killer review (Wayback)](https://web.archive.org/web/20131101050537/http://www.kickstartadventure.com/home/cognition-episode-4-the-cain-killer-review/) - Reviewer reports Cesar Bittar "has hinted that there might be a second season"
