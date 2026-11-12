@@ -10,7 +10,7 @@ series: Space Quest
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel
   to Sierra On-Line''s Space Quest series, developed by the volunteer Team VSB in
   Adventure Game Studio. Released free on December 22, 2011 after more than nine
@@ -20,11 +20,11 @@ tags: [2010s, adventure, sierra, space-quest]
 ---
 # Space Quest: Vohaul Strikes Back
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel to Sierra On-Line's Space Quest series, developed by a volunteer team known as Team VSB using the Adventure Game Studio engine.[^ref-1][^ref-26] Released on December 22, 2011, the game had been in development for over nine years, beginning in April 2002.[^ref-1] The game features space janitor Roger Wilco facing off against his resurrected arch-nemesis Sludge Vohaul on the treacherous ice world of Radon, where he must outwit an army of simian commandos and lead an indigenous revolution.[^ref-3]
+Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel to Sierra On-Line's Space Quest series, developed by a volunteer team known as Team VSB using the Adventure Game Studio engine.[^ref-1][^ref-26] Released on December 22, 2011, the game had been in development for over nine years, beginning in April 2002.[^ref-1] MobyGames credits the game as based on "Space Quest" created by [[Scott Murphy]] and [[Mark Crowe]].[^ref-15] The game features space janitor Roger Wilco facing off against his resurrected arch-nemesis Sludge Vohaul on the treacherous ice world of Radon, where he must outwit an army of simian commandos and lead an indigenous revolution.[^ref-3]
 
 By the team's own estimate, the game is "larger than any installment of the original Space Quest series."[^ref-8] It contains approximately 90 playable rooms, 70 speaking characters, 8,000 lines of dialogue, 7,700 sprites, 50 pieces of music, 80 inventory items, and 60-70 unique ways for Roger Wilco to die.[^ref-1] Rock, Paper, Shotgun praised it as "an excellent tribute to the series and a very enjoyable game in its own right," while GameCola's Nathaniel Hoover went so far as to call it "the best adventure game I've ever played."[^ref-5][^ref-6]
 
@@ -61,7 +61,7 @@ The game presents itself in third-person perspective with 2D animated graphics, 
 
 ### Structure and Progression
 
-The game spans approximately 90 playable screens across multiple distinct environments:[^ref-1]
+The game spans approximately 90 playable screens across multiple distinct environments:[^ref-1][^ref-10]
 
 - **Romanticon VII:** The opening vacation planet where Roger's adventure begins
 - **Radon Ice World:** The treacherous frozen planet serving as the main setting, featuring "gorgeous" ice landscapes[^ref-7]
@@ -132,16 +132,16 @@ Adventure Gamers' Rob Murrant likened the visuals to "a combination of SQ5 and 6
 **Development Credits:**[^ref-26][^ref-15]
 
 **Design:**
-- **Project Leads:** pcj, olzen (Frederik Olsen)
-- **Designers:** Frederik Olsen, Patrick C. Johnston (pcj), Andres Kalle, Chris Ushko, Martin DeMontfort
+- **Project Leads:** pcj, olzen (Frederik Olsen)[^ref-3][^ref-15]
+- **Lead Developers:** Frederik Olsen, Patrick C. Johnston (pcj), Andres Kalle, Chris Ushko, Martin DeMontfort, as named by Sierra Chest[^ref-26][^ref-15]
 
 **Art:**
-- **Background Art:** Martin de Montfort[^ref-15]
+- **Background Art:** Martin DeMontfort (Martin de Montfort)[^ref-15]
 - **Animation:** Chris Ushko (also worked on Space Quest: Incinerations)[^ref-15][^ref-1]
 
 **Music & Audio:**
-- **Primary Composer:** Frederik Olsen (olzen)
-- **Additional Composers:** Robert Bäckman, Matthew Chastney, Robert Piwowarczyk, Nigel Thomas, Raggit
+- **Primary Composer:** Frederik Olsen (olzen)[^ref-15]
+- **Additional Composers:** Robert Bäckman, Matthew Chastney, Robert Piwowarczyk, Nigel Thomas, Raggit[^ref-15]
 
 **Additional Team:**
 - Total of 46 people credited (36 developers, 10 thanks)[^ref-15]
@@ -251,7 +251,7 @@ Several authors from Team VSB, most notably Chris Ushko, also worked on Space Qu
 
 ### Related Publications
 
-The game included a PDF manual accessible through the start menu folder, providing players with background information and instructions.[^ref-13]
+The game included a PDF manual accessible through the start menu folder, providing players with background information and instructions.[^ref-13] In August 2026, Frederik Olsen was a guest on the Classic Gamers Guild Podcast.[^ref-30]
 
 ### Critical Perspective
 
@@ -264,7 +264,7 @@ Just Adventure's Greg Collins described it as a "professionally wrought AGS adve
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- Not currently available on GOG or Steam (checked November 12, 2026)
 - [Adventure Game Studio](https://www.adventuregamestudio.co.uk/play/game/1509/) – Free download
 
 **Download / Preservation**
@@ -285,6 +285,7 @@ Adventure Gamers' Rob Murrant likened its visuals to "a combination of SQ5 and 6
 
 ## See Also
 
+- [[Space Quest Series]]
 - [[2001 - King's Quest I VGA Remake]]
 - [[2001 - Space Quest - The Lost Chapter]]
 - [[2002 - King's Quest II+ - Romancing the Stones]]
@@ -325,3 +326,4 @@ Adventure Gamers' Rob Murrant likened its visuals to "a combination of SQ5 and 6
 [^ref-27]: [Adventure Game Studio – Game #1509 (Archived April 2013)](https://web.archive.org/web/20130402140141/http://www.adventuregamestudio.co.uk/site/games/game/1509/) – 91% Overall Enjoyment from 11 ratings; AGS Awards 2011 win and nominations incl. Best Sound Effects
 [^ref-28]: [Team VSB – FAQ (current)](https://www.sqvsb.com/faq/) – Linux installer and Mac Wine-wrapped version
 [^ref-29]: [Team VSB – Official site](https://www.sqvsb.com/) – "Winner for Best Non-Player Character (Rodney) at the 2011 AGS Awards"
+[^ref-30]: [Classic Gamers Guild Podcast – Space Quest: Vohaul Strikes Back (with Developer Frederik Olsen)](https://www.cggpodcast.com/e/space-quest-vohaul-strikes-back-with-developer-frederik-olsen/) – episode dated August 25, 2026
