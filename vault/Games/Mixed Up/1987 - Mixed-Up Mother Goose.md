@@ -10,7 +10,7 @@ series: Mixed-Up Mother Goose
 engine: AGI
 protagonist: Player-created child character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Mixed-Up Mother Goose is Roberta Williams' 1987 educational adventure
   game for young children, in which the player returns lost items to 18 nursery-rhyme
   characters in Mother Goose Land.
@@ -18,15 +18,13 @@ tags: [1980s, agi, educational, mixed-up-mother-goose, roberta-williams, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Mixed-Up Mother Goose is an educational adventure game designed by [[Roberta Williams]] and developed by Sierra On-Line, originally released in November 1987.[^ref-1] Sierra's own newsletter reported that "In November, Sierra shipped its first-ever 3-D adventure game for young children, Roberta Williams' Mixed-up Mother Goose."[^ref-40] Sierra's own product description called it Williams' "first adventure game for kids," combining her adventure game design with classic nursery rhymes for young players.[^ref-4] Sierra's December 1995 *PC Gamer* advertisement said the game had "introduced more than 500,000 little ones to the computer."[^ref-39] In June 1991 Computer Gaming World listed Roberta Williams among the Software Publishers Association award winners for Best Early Education Program "for the multimedia version of Mixed-Up Mother Goose."[^ref-34]
+Mixed-Up Mother Goose is an educational adventure game designed by [[Roberta Williams]] and developed by Sierra On-Line, originally released in November 1987.[^ref-1] Sierra's own newsletter reported that "In November, Sierra shipped its first-ever 3-D adventure game for young children, Roberta Williams' Mixed-up Mother Goose."[^ref-40] Sierra's own product description called it Williams' "first adventure game for kids," combining her adventure game design with classic nursery rhymes for young players.[^ref-4] A second item in the same issue called it "the first 3-D animated adventure game for young children," "requiring absolutely no reading skills."[^ref-40] In June 1991 Computer Gaming World listed Roberta Williams among the Software Publishers Association award winners for Best Early Education Program "for the multimedia version of Mixed-Up Mother Goose."[^ref-34]
 
-The game tasks players with exploring Mother Goose Land, where all the nursery rhymes have become "mixed up," requiring the player to locate missing items and return them to their rightful owners to restore order.[^ref-3][^ref-7] Unlike most of Sierra's other adventure titles of the era, which used text parsers, Mixed-Up Mother Goose was deliberately designed to be simple enough that "even young children can play it when adults are out of the room."[^ref-4][^ref-10] Wikipedia lists three remakes, in 1990, 1991 and 1995; MobyGames dates the releases of the SCI0 remake to 1991, and Sierra Fandom dates the VGA/CD remake to 1992.[^ref-1][^ref-9][^ref-30]
-
-The picture of Mother Goose on the original game box is Roberta Williams herself in costume. Sources differ about the two children pictured beside her: MobyGames' trivia says they are hers, a 2016 version of the Wikipedia article said, without a citation, that they are not, and Sierra's 1987 newsletter describes them as "a couple of Sierra children."[^ref-2][^ref-35][^ref-40] Contemporary reviews praised the game, with Compute! magazine declaring "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-33]
+The game tasks players with exploring Mother Goose Land, where all the nursery rhymes have become "mixed up," requiring the player to locate missing items and return them to their rightful owners to restore order.[^ref-3][^ref-7] Unlike most of Sierra's other adventure titles of the era, which used text parsers, Mixed-Up Mother Goose was deliberately designed to be simple enough that "even young children can play it when adults are out of the room."[^ref-4] Wikipedia lists three remakes, in 1990, 1991 and 1995; MobyGames dates the releases of the SCI0 remake to 1991, and Sierra Fandom dates the VGA/CD remake to 1992.[^ref-1][^ref-9][^ref-30] Contemporary reviews praised the game.[^ref-33]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -43,7 +41,7 @@ The picture of Mother Goose on the original game box is Roberta Williams herself
 
 One night, while preparing for bed, a child (the player's avatar) is sent into the dreamlike world of Mother Goose, who needs help: all the nursery rhymes in the land have gotten mixed up, and none of the inhabitants have the items their rhymes need.[^ref-1] Humpty Dumpty needs a ladder to climb onto his wall, Mary needs her little lamb and Jack and Jill need a pail;[^ref-1] Bo Peep has lost her sheep,[^ref-33] and Old King Cole is missing his pipe, his bowl and his fiddlers three.[^ref-12]
 
-Players take on the role of a child character chosen at the start of the game; Compute! noted that the player can pick an icon of his or her own race and sex.[^ref-1][^ref-33] The player's mission is to "fix mixed up rhymes" by finding scattered objects throughout the land and returning them to the appropriate characters.[^ref-8]
+Players take on the role of a child character chosen at the start of the game; Compute! noted that the player can pick an icon of his or her own race and sex, adding: "This is the only adventure game I've seen where the hero can be a black girl, if the player wishes."[^ref-1][^ref-33] Sierra's newsletter said the player could be a boy in blue footed pajamas or a girl in a pink nightgown, with a choice of four hair colors.[^ref-40] The player's mission is to "fix mixed up rhymes" by finding scattered objects throughout the land and returning them to the appropriate characters.[^ref-8]
 
 As players explore the various locations of Mother Goose Land—including houses, a school, a castle and other storybook settings—they encounter characters like Old King Cole, Little Miss Muffet, Jack and Jill, and many others.[^ref-3][^ref-8] Each character is missing something vital to their nursery rhyme, and the player must match the correct items with the correct characters. The game features 18 classic nursery rhymes to restore.[^ref-9][^ref-33]
 
@@ -53,7 +51,7 @@ MobyGames' description of the SCI0 remake (entry 22295) says that when an item i
 
 ### Interface and Controls
 
-Mixed-Up Mother Goose was designed for children ages four and up, and Compute! noted that "It's not necessary for the child to read": when the player approaches a character such as Bo Peep, a cartoon balloon appears over her head with a picture of what she needs.[^ref-33] Unlike most of Sierra's other adventure games of the era, which relied on typed commands, the original 1987 AGI version lacked the text parser entirely; talking to someone was as simple as walking up to them, and picking something up meant walking over it.[^ref-10]
+Mixed-Up Mother Goose was designed for children ages four and up, and Compute! noted that "It's not necessary for the child to read": when the player approaches a character such as Bo Peep, a cartoon balloon appears over her head with a picture of what she needs.[^ref-33] Unlike most of Sierra's other adventure games of the era, which relied on typed commands, the original 1987 AGI version lacked the text parser entirely; talking to someone was as simple as walking up to them, and picking something up meant walking over it.[^ref-10] Sierra's 1987 newsletter gave the projected age range as "approximately 4 to 8," against "approximately 8 and up" for Sierra's usual 3-D adventures, and said Sierra "performed extensive playtesting with local kindergarten and preschool children" to be sure the game was playable in those age ranges.[^ref-40] It also said that up to 12 children could save their games under their own names.[^ref-40]
 
 Players steer their character with the cursor keys or a joystick; according to Compute!, when tests showed that small children had a heavy finger on the cursor keys, Sierra changed the program to accommodate them.[^ref-33] Any missing object the player finds automatically attaches to the character until it is delivered to its owner, and only one item can be carried at a time.[^ref-1][^ref-33] The 1991 VGA remake later introduced a point-and-click interface.[^ref-10]
 
@@ -62,17 +60,17 @@ Players steer their character with the cursor keys or a joystick; according to C
 Mother Goose Land is open to explore from the beginning, and there are no restrictions on the order in which rhymes are fixed, except that Old King Cole requires three items in a specific succession.[^ref-12]
 
 - **Exploration Phase:** Players navigate through various screens representing different locations in Mother Goose Land, including houses, a school and a castle.[^ref-8]
-- **Item Collection:** Every item except the watering can is placed in a different location each time a new game is started, which adds replay value.[^ref-3][^ref-6]
+- **Item Collection:** Every item except the watering can is placed in a different location each time a new game is started, which adds replay value.[^ref-1][^ref-3]
 - **Character Matching:** Players must determine which item belongs to which character; a character in need shows the item in a "thought bubble" when approached.[^ref-1]
 - **Rhyme Completion:** Successfully matching an item to a character triggers the nursery rhyme sequence, and a point is awarded for each fixed rhyme.[^ref-1][^ref-9]
 
-Players can only carry one item at a time, so they may need to remember where they spotted or dropped other items.[^ref-6] The original game came with a colorfully illustrated wall poster containing the text of all 18 rhymes;[^ref-33] Sierra's 1987 newsletter said the original game included "a free full color map of Mother Goose Land," with pop-out windows revealing the characters from the story;[^ref-40] similar Sierra product copy on GameFAQs' Deluxe listing promises "a free color map of Mother Goose Land."[^ref-4] Wikipedia separately says that in the 1991 VGA remake the player was given a map of the land.[^ref-1]
+Players can only carry one item at a time;[^ref-1] the description of the SCI0 remake adds that players may need to remember where they spotted or dropped items they are not carrying.[^ref-6] The original game came with a colorfully illustrated wall poster containing the text of all 18 rhymes;[^ref-33] Sierra's 1987 newsletter said the original game included "a free full color map of Mother Goose Land," with pop-out windows revealing the characters from the story;[^ref-40] similar Sierra product copy on GameFAQs' Deluxe listing promises "a free color map of Mother Goose Land."[^ref-4] Wikipedia separately says that in the 1991 VGA remake the player was given a map of the land.[^ref-1]
 
 ### Puzzles and Mechanics
 
 The core puzzle mechanic involves matching items to their corresponding nursery rhyme characters.[^ref-3] As walkthrough author ASchultz noted, Old King Cole "may be a merry old soul, but he sure is stingy with points and fussy for order," since he requires his three items in a specific succession.[^ref-12]
 
-ASchultz also observed: "I'm 99% certain an item can't be found in the right place to begin with," so players must always engage with the exploration and delivery mechanics rather than finding items already in place.[^ref-12] Because item placement is randomized, walkthroughs can only provide character locations and item requirements, not fixed item positions.[^ref-6][^ref-12]
+ASchultz also observed: "I'm 99% certain an item can't be found in the right place to begin with," so players must always engage with the exploration and delivery mechanics rather than finding items already in place.[^ref-12] Because item placement is randomized, walkthroughs can only provide character locations and item requirements, not fixed item positions.[^ref-3][^ref-12]
 
 TV Tropes sums up the game's place in Sierra's catalog as "Sierra goes Lighter and Softer," one of a few Sierra games made for young children.[^ref-10]
 
@@ -82,8 +80,6 @@ TV Tropes sums up the game's place in Sierra's catalog as "Sierra goes Lighter a
 
 Compute! reviewed the game in its April 1988 issue. Donald B. Trivette wrote that it was "great for small children and even better for nostalgic adults," praised the documentation, and concluded: "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-33]
 
-Sierra's December 1995 *PC Gamer* advertisement for the Deluxe edition said the game had "introduced more than 500,000 little ones to the computer" (Wikipedia renders this as over 500,000 copies sold).[^ref-1][^ref-39]
-
 ### Modern Assessment
 
 On MyAbandonware, the original 1987 version holds a user rating of 4.41/5,[^ref-13] the 1991 VGA version 4.94/5,[^ref-11] and the Deluxe version 4.29/5 from 35 votes.[^ref-14] One commenter called it "one of my two favorite games as a small child (the other was 'Big Bird's Funhouse')."[^ref-13]
@@ -91,7 +87,7 @@ On MyAbandonware, the original 1987 version holds a user rating of 4.41/5,[^ref-
 GOG.com wishlist commenters describe it as "a true hidden gem, and a great game for kids," with users sharing memories of playing it on school library computers.[^ref-15] A user review of the indie game The Spirit and the Mouse said it "hearkened back to the simplicity of a 90s educational adventure game from my childhood 'Mixed Up Mother Goose' where you need to help each member of a storybook town."[^ref-16]
 
 **Aggregate Scores:**
-- **MobyGames (1987 original, Moby Score):** 7.1/10 (35 player ratings)[^ref-3]
+- **MobyGames (1987 original, Moby Score):** 7.1/10 (35 player ratings); player average 3.7/5[^ref-3]
 - **MobyGames (1991 release, entry 22295, player average):** 4.2/5 (7 ratings)[^ref-9]
 - **MobyGames (1991 VGA/CD release, entry 1085):** Moby Score 7.5/10; player average 4.0/5 (10 ratings), as of November 2026[^ref-2]
 - **MyAbandonware (1987):** 4.41/5[^ref-13]
@@ -179,7 +175,7 @@ Technical documentation notes that "of all the AGI games, it is unknown whether 
 
 ### Atari ST "Classic's Reillustrated" Upgrade
 
-A "Classic's Reillustrated" (SCI EGA) version for the Atari ST was announced in Sierra News Magazine in spring 1991. Owners were told to send disk #1 or the front cover of the manual, plus $15, to upgrade their copy; a retail boxed version was not sold in stores.[^ref-1]
+A "Classic's Reillustrated" (SCI EGA) version for the Atari ST was announced in Sierra News Magazine in spring 1991. Owners were told to send disk #1 or the front cover of the manual, plus $15, to upgrade their copy; a retail boxed version was not sold in stores.[^ref-1] The Sierra Fandom wiki says the upgrade was announced but "was later cancelled."[^ref-30]
 
 ### Easter Eggs and Trivia
 
@@ -238,7 +234,7 @@ The game has been preserved through emulation and abandonware communities. The S
 
 Mixed-Up Mother Goose is one of a few Sierra games made for young children, compared to the rest of the company's library.[^ref-10] While [[Roberta Williams]] is primarily remembered for adventure games like King's Quest, Laura Bow and Phantasmagoria, this title was designed for children ages four and up.[^ref-10][^ref-33]
 
-One retrospective user noted that the game remains "playable by a preschooler with lots of assistance, a kindergartner with some assistance or ideally by 1st graders (early readers)."[^ref-11]
+One MyAbandonware commenter wrote that the game is "*just* playable by a preschooler with lots of assistance, a kindergartner with some assistance or ideally by 1st graders (early readers.)" and that "A 2nd grader might find it fun but probably not very challenging."[^ref-11]
 
 With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade Game' in Sierra's whole library."[^ref-10]
 
@@ -268,7 +264,7 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 
 [^ref-1]: [Wikipedia – Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – release date, platforms, story, gameplay, remakes, Atari ST upgrade offer, sales figures, first multimedia PC game on CD-ROM
 [^ref-2]: [MobyGames – Mixed-Up Mother Goose (VGA)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – VGA/CD credits, voice cast, technical specifications, official description, box-art and first-CD-ROM trivia, Moby Score 7.5 and player average 4.0/5 from 10 ratings
-[^ref-3]: [MobyGames – Roberta Williams' Mixed-Up Mother Goose (1987)](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) – platform releases, original credits (Atari ST version), Moby Score 7.1 from 35 player ratings, gameplay description, watering can placement
+[^ref-3]: [MobyGames – Roberta Williams' Mixed-Up Mother Goose (1987)](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) – platform releases, original credits (Atari ST version), Moby Score 7.1 and player average 3.7/5 from 35 player ratings, gameplay description, watering can placement
 [^ref-4]: [GameFAQs – Mixed-Up Mother Goose Deluxe](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – Sierra product description, features incl. "free color map", user ratings
 [^ref-6]: [Play Classic Games – Mixed-Up Mother Goose](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) – gameplay mechanics, randomization
 [^ref-7]: [Sierra Gamers – Mixed-Up Mother Goose](https://www.sierragamers.com/mixed-up-mother-goose/) – game description, nursery rhyme premise
@@ -297,4 +293,4 @@ With three remakes, TV Tropes calls it "Probably the contender for 'Most Remade 
 [^ref-37]: [SpaceQuest.net – SQ5 Spoofs and References](https://spacequest.net/sq5/spoofref/) – Goliath elevator-shaft death message "displays a reference to 'Mixed Up Mother Goose', a Sierra game"
 [^ref-38]: [MobyGames – Mixed-Up Mother Goose credits, DOS (entry 1085)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/credits/dos/) – "Producer (Floppy Disk) Stuart Moulder"; "Producer (CD-ROM) Josh Mandel"
 [^ref-39]: [PC Gamer US #19, December 1995 (archive.org scan)](https://archive.org/details/pc-gamer-usa-019-december-1995) – Sierra ad, p.62: Mixed-Up Mother Goose Deluxe "has introduced more than 500,000 little ones to the computer"
-[^ref-40]: [Sierra Newsletter, Vol. 1 No. 2 (1987)](https://archive.org/details/Sierra_Newsletter_The_Volume_1_Number_2_1987_Sierra_On-Line_US) – "In November, Sierra shipped its first-ever 3-D adventure game for young children"; box cover "accompanied by a couple of Sierra children and a temperamental goose"; "free full color map of Mother Goose Land"
+[^ref-40]: [Sierra Newsletter, Vol. 1 No. 2 (1987)](https://archive.org/details/Sierra_Newsletter_The_Volume_1_Number_2_1987_Sierra_On-Line_US) – "In November, Sierra shipped its first-ever 3-D adventure game for young children"; box cover "accompanied by a couple of Sierra children and a temperamental goose"; "free full color map of Mother Goose Land"; leaves n7 and n11 also give the "first 3-D animated adventure game for young children" wording, no reading skills, projected ages 4 to 8, playtesting, 12 saved games and character choices
