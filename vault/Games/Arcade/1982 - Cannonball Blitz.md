@@ -10,14 +10,14 @@ series: N/A
 engine: Machine Language
 protagonist: Rebel Soldier
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Cannonball Blitz is a 1982 action platformer developed by Olaf Lubeck
   and published by On-Line Systems, the company that would later become Sierra On-Line.
 tags: [1980s, sierra]
 ---
 # Cannonball Blitz
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -58,9 +58,9 @@ The game features three distinct screens that players must complete sequentially
 
 - **Level 1:** Features seesaws instead of traditional ladders, requiring players to use timing and momentum to ascend. The objective is to reach a flag at the top of the screen, accomplished by grabbing onto a balloon that carries the player to the goal platform.[^ref-2][^ref-6]
 
-- **Level 2:** The player starts on the lowest of six floors connected by ladders and must run over all twelve rivets to bring the structure down, while cannons pursue the player up and down ladders; hammers on two floors can be used to smash the cannons.[^ref-24]
+- **Level 2:** The player starts on the lowest of six floors connected by ladders and must run over all twelve rivets to bring the structure down, while cannons pursue the player up and down ladders; hammers on two floors can be used to smash the cannons.[^ref-24] MobyGames describes the same stage differently: the player crosses a series of trapdoors to open holes in the platforms and remove the supports beneath the redcoat, mobile cannons can be jumped over or destroyed with a hammer, and completing the level awards an extra life.[^ref-5]
 
-- **Level 3:** Described as "particularly challenging" and by one MobyGames reviewer as "just impossible," this final screen pushes player skills to their limits.[^ref-3][^ref-2]
+- **Level 3:** *Computer Gaming World* describes the player starting on a ledge surrounded by ladders, steps, and two large elevators (one going up, one going down); cannons, bouncing bombs, flying cannonballs, and a big soldier with a very big cannon stand between the player and the flag.[^ref-24] MobyGames describes separated platforms and moving elevators, with the player timing jumps between them, avoiding the cannons, and using a second balloon to reach the final position; after all three levels the sequence restarts with more aggressive timing, additional cannonballs, and increased cannon fire.[^ref-5] The screen is described as "particularly challenging" and, by one MobyGames reviewer, as "just impossible."[^ref-3][^ref-2]
 
 ### Puzzles and Mechanics
 
@@ -224,7 +224,7 @@ On-Line Systems had published action games from its start, but the company "was 
 [^ref-2]: [MobyGames – Cannonball Blitz Reviews](https://www.mobygames.com/game/9300/cannonball-blitz/reviews/) – John Romero review, development history, contemporary analysis
 [^ref-3]: [Wikipedia – Cannonball Blitz](https://en.wikipedia.org/wiki/Cannonball_Blitz) – gameplay description, reviews, copy protection notoriety
 [^ref-4]: [Sierra Chest – Cannonball Blitz](https://www.sierrachest.com/index.php?a=games&id=442&title=cannonball-blitz&fld=general) – original promotional text, engine details, platform list
-[^ref-5]: [MobyGames – Cannonball Blitz Main Page](https://www.mobygames.com/game/9300/cannonball-blitz/) – credits, technical specs, ratings, platform releases
+[^ref-5]: [MobyGames – Cannonball Blitz Main Page](https://www.mobygames.com/game/9300/cannonball-blitz/) – credits, technical specs, ratings, platform releases, level descriptions (read via the MobyGames API)
 [^ref-6]: [LaunchBox Games Database – Cannonball Blitz](https://gamesdb.launchbox-app.com/games/details/83426-cannonball-blitz) – gameplay mechanics, platform information
 [^ref-7]: [GOG Dreamlist – Cannonball Blitz](https://www.gog.com/dreamlist/game/cannonball-blitz-1982) – community wishlist entry (not sold); gameplay description
 [^ref-9]: [Glitchwave – Cannonball Blitz](https://glitchwave.com/game/cannonball-blitz/) – aggregate rating
