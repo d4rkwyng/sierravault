@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity and Ink
 protagonist: Tilly Appleberry
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Brandon Blume, Paul Korman, Ryan Grogan]
 description: '*Summer Daze: Tilly''s Tale* is a visual novel set at Hero University,
   designed by Lori Ann Cole and Corey Cole and released by Transolar Games on March
@@ -19,7 +19,7 @@ tags: [2020s, coles, hero-u, sierra]
 ---
 # Summer Daze: Tilly's Tale
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 
 ## Overview
@@ -28,7 +28,7 @@ tags: [2020s, coles, hero-u, sierra]
 
 The game is set before the events of *Hero-U: Rogue to Redemption*[^ref-12] and has been called an "airy spiritual sequel" to it[^ref-6]. It takes place at Hero University, "a school where famous adventurers teach young people how to be heroes"[^ref-1]. Players take on the role of Tilly Appleberry, a mischievous Rogue student who values people and fun above rules and authority[^ref-1][^ref-2]. The Coles deliberately chose the visual novel format to create a lower-budget project after losing money on their previous large-scale RPG[^ref-3].
 
-Billed by its store description as "a funny and charming visual novel adventure"[^ref-2], *Tilly's Tale* was successfully funded through Kickstarter in November 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The project took four years to complete, a delay that Choicest Games' reviewer noted came at a time when many studios struggled with development during COVID-19[^ref-8]. As the Coles explained, the visual novel format allowed them to strip out many of the more costly and time-consuming parts of game creation[^ref-3][^ref-20].
+Billed by its store description as "a funny and charming visual novel adventure"[^ref-2], *Tilly's Tale* was successfully funded through Kickstarter in November 2019, with 1,639 backers pledging $106,155 USD[^ref-7]. Choicest Games' reviewer put development at four years and noted that it came at a time when many studios struggled during COVID-19[^ref-8]; Corey Cole later said Tilly's Tale took "another three years" after *Hero-U*[^ref-24]. As the Coles explained, the visual novel format allowed them to strip out many of the more costly and time-consuming parts of game creation[^ref-3][^ref-20].
 
 > [!info]- Game Info
 > **Developer:** [[Transolar Games]][^ref-1]
@@ -101,13 +101,13 @@ Steam user reviews show a "Mixed" rating, with 69% of 13 reviews being positive[
 
 Following the release of *Hero-U: Rogue to Redemption* on July 10, 2018, a project whose total budget exceeded $1 million as of April 2018[^ref-22], [[Lori Ann Cole]] and [[Corey Cole]] found it "hard to consider committing to another large-scale game" after the financial losses they experienced[^ref-3]. The couple, who had been designing games together for over 30 years at Sierra On-Line and later at their independent studio Transolar Games, sought a more sustainable approach to game development[^ref-1][^ref-5].
 
-The project was originally conceived as *Summer Daze at Hero-U*, featuring two playable characters: a rogue named Tilly and a wizard named Ifeyo[^ref-7][^ref-8]. Due to the scope of development and various delays, the project was split into two separate games, with *Tilly's Tale* releasing first and *Ifeyo's Adventure* planned for later release[^ref-7][^ref-8]. The Coles have also named a third game, *Summer Daze: Sami's Story*, featuring Sami, a humanoid Corgi warrior[^ref-20][^ref-21].
+The project was originally conceived as *Summer Daze at Hero-U*, featuring two playable characters: a rogue named Tilly and a wizard named Ifeyo[^ref-7][^ref-8]. Due to the scope of development and various delays, the project was split into two separate games, with *Tilly's Tale* releasing first and *Ifeyo's Adventure* planned for later release[^ref-7][^ref-8]. The Coles have also named a third game, *Summer Daze: Sami's Story*, featuring Sami, whom Corey Cole's September 2026 BackerKit update describes as "an anthropomorphic Corgi" and a member of the Warrior school at Hero-U[^ref-20][^ref-21][^ref-24].
 
 ### Production
 
-The Kickstarter campaign launched in 2019 and was successfully funded on November 5, 2019, with 1,639 backers pledging $106,155 USD[^ref-7][^ref-8]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
+The Kickstarter campaign launched in 2019 and was successfully funded on November 6, 2019, with 1,639 backers pledging $106,155 USD[^ref-7]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
 
-Development took four years[^ref-8], although the Coles say Lori finished writing the game in under a year[^ref-20]. In January 2022 the game was announced for a March 31, 2022 release[^ref-7], but it did not ship until March 28, 2023[^ref-1]. Choicest Games' reviewer noted that many studios struggled with development during COVID-19[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
+Choicest Games' reviewer gave the development time as four years[^ref-8], while Corey Cole's September 2026 BackerKit update says Tilly's Tale took "another three years" after the more than five years spent on *Hero-U: Rogue to Redemption*[^ref-24]. The Coles say Lori finished writing the game in under a year[^ref-20]. In January 2022 the game was announced for a March 31, 2022 release[^ref-7], but it did not ship until March 28, 2023[^ref-1]. Cole wrote that the original schedule was "close to accurate until we decided to add professional voiceovers"[^ref-24]. Choicest Games' reviewer noted that many studios struggled with development during COVID-19[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
 
 **Development Credits:**[^ref-5][^ref-1]
 - **Designer:** [[Lori Ann Cole]], [[Corey Cole]]
@@ -119,7 +119,7 @@ Development took four years[^ref-8], although the Coles say Lori finished writin
 
 ### Technical Achievements
 
-The game was programmed in Unity and Ink by Cidney Hamilton and Philip Elder[^ref-1][^ref-5].
+The game was programmed in Unity and Ink by Cidney Hamilton and Philip Elder[^ref-1][^ref-5]. In the September 2026 update, Cole said the team currently has "five developers" on the Summer Daze games, against thirty on *Hero-U: Rogue to Redemption*[^ref-24].
 
 The Coles told RPGFan that working "with fixed sets and minimal animation" kept the development budget "slightly more reasonable"[^ref-17]. The professionally voiced dialogue carries the story, while each character is drawn as a handful of still images[^ref-3].
 
@@ -140,13 +140,14 @@ The Coles told RPGFan that working "with fixed sets and minimal animation" kept 
 - **Manual:** 6.6 MB
 
 **Nintendo Switch Version:**[^ref-2]
-- **File Size:** 498 MB
+- **File Size:** 498 MB on Nintendo Switch and 498 MB on Nintendo Switch 2
+- **Nintendo Switch 2:** Listed as compatible ("Supported")
 - **Supported Modes:** TV mode, Tabletop mode, Handheld mode
 - **Languages:** American English
 
 ### Cut Content
 
-The most significant cut content involved the splitting of the original project. The game was initially designed to allow players to choose between two playable characters: Tilly (a rogue) and Ifeyo (a wizard)[^ref-7][^ref-8]. After numerous delays, Ifeyo's story was separated into a standalone sequel titled *Ifeyo's Adventure*[^ref-7][^ref-8]. It was announced for 2023 in January 2022[^ref-7]; by May 2023 Adventure Game Hotspot expected it "in a year or so"[^ref-3].
+The most significant cut content involved the splitting of the original project. The game was initially designed to allow players to choose between two playable characters: Tilly (a rogue) and Ifeyo (a wizard)[^ref-7][^ref-8]. After numerous delays, Ifeyo's story was separated into a standalone sequel titled *Ifeyo's Adventure*[^ref-7][^ref-8]. It was announced for 2023 in January 2022[^ref-7], and in May 2023 Adventure Game Hotspot expected it "in a year or so"[^ref-3]. In a September 16, 2026 BackerKit update, Corey Cole wrote: "Expect Ifeyo's Adventure in late Spring or early Summer 2027"[^ref-24].
 
 ### Version History
 
@@ -217,6 +218,8 @@ With two critic reviews listed on Metacritic[^ref-15] and 13 Steam user reviews[
 
 The game is described as "the first game in a new series of interactive visual novels set at Hero-U"[^ref-1][^ref-12]. *Ifeyo's Adventure*, featuring the wizard character originally planned for this game, was announced as the next installment[^ref-7][^ref-8]. The Hero-U site lists Ifeyo, a Wizard Apprentice, and Sami as protagonists of the Summer Daze series, each assigned to organize the Harvest Festival[^ref-21].
 
+In his September 16, 2026 BackerKit update, Corey Cole wrote that "we still plan to finish all three games" (*Tilly's Tale*, *Ifeyo's Adventure* and *Sami's Story*), though he called them "an expensive hobby rather than money-making professional productions"[^ref-24]. He said the game takes place "a year after Tilly's Tale, and just after the events of Hero-U: Rogue to Redemption", with Lori Ann Cole as lead writer and designer, and that the principal art for the second and third games and the music for *Ifeyo's Adventure* are done[^ref-24]. He also wrote that *Tilly's Tale* had been updated "a few months ago with improvements to the endgame and faster loading times"[^ref-24].
+
 ### Related Publications
 
 - **Digital Manual:** Included with itch.io purchase (6.6 MB)[^ref-10]
@@ -240,21 +243,10 @@ Jimmy Maher of The Digital Antiquarian, writing about the Coles' return to game-
 
 ## See Also
 
-- [[1993 - Blue Force]]
-- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
-- [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
-- [[2013 - Fester Mudd - Curse of the Gold]]
-- [[2014 - Moebius - Empire Rising]]
-- [[2014 - Quest for Infamy]]
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
-- [[2015 - Order of the Thorne - The King's Challenge]]
-- [[2018 - Bolt Riley - A Reggae Adventure]]
 - [[2018 - Hero-U - Rogue to Redemption]]
-- [[2019 - Mage's Initiation - Reign of the Elements]]
-- [[2022 - SpaceVenture]]
-- [[2023 - Colossal Cave 3D Adventure]]
+- [[Lori Ann Cole]]
+- [[Corey Cole]]
+- [[Transolar Games]]
 
 
 ## References
@@ -280,3 +272,4 @@ Jimmy Maher of The Digital Antiquarian, writing about the Coles' return to game-
 [^ref-21]: [Hero-U – Official site](https://www.hero-u.com) – Summer Daze description, Ifeyo and Sami character blurbs
 [^ref-22]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) – commercial release July 10, 2018; total budget exceeded $1 million as of April 2018 (Hero-U context only)
 [^ref-23]: [Steam Community – Summer Daze: Tilly's Tale user reviews](https://steamcommunity.com/app/1139490/reviews/) – user reports only, not editorial; one reviewer completed the game in roughly 2 hours (checked November 6, 2026)
+[^ref-24]: [BackerKit – Summer Daze at Hero-U project updates](https://summerdaze.backerkit.com/hosted_preorders/project_updates) – Corey Cole, "What We Did Last Summer... and What We're Doing for Next Summer", September 16, 2026; Ifeyo's Adventure timing, three games, Sami as a Corgi, development time, team size, endgame update, voiceovers
