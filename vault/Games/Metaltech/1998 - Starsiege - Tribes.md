@@ -10,7 +10,7 @@ series: Starsiege
 engine: Darkstar
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Starsiege: Tribes was a pioneering multiplayer-focused first-person
   shooter developed by Dynamix and published by Sierra On-Line in 1998, which GameSpot
   later called the first retail FPS designed specifically for multiplayer competition.'
@@ -18,11 +18,11 @@ tags: [1990s, shooter, sierra, starsiege]
 ---
 # Starsiege: Tribes
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Starsiege: Tribes was a pioneering multiplayer-focused first-person shooter developed by Dynamix and published by Sierra On-Line in 1998[^ref-5]. GameSpot's review of Tribes 2 later called it "the first of its kind: a retail first-person shooter designed specifically for multiplayer competition"[^ref-2], and it took the market risk of being essentially a multiplayer-only game with only training missions for single-player content[^ref-3][^ref-28]. Set in the 40th century within the Starsiege universe, the game featured multiple human tribes fighting for territory[^ref-5].
+Starsiege: Tribes was a pioneering multiplayer-focused first-person shooter developed by Dynamix and published by Sierra On-Line in 1998[^ref-5]. GameSpot's review of Tribes 2 later called it "the first of its kind: a retail first-person shooter designed specifically for multiplayer competition"[^ref-2], and it took the market risk of being essentially a multiplayer-only game with only training missions for single-player content[^ref-16][^ref-30][^ref-28]. Set in the 40th century within the Starsiege universe, the game featured multiple human tribes fighting for territory[^ref-5].
 
 The game was built around jetpack movement, large outdoor maps and team objectives[^ref-5]. A later retrospective in SuperJump Magazine argued that "Starsiege: Tribes was, arguably, the birth of the team-based, objective-focused multiplayer shooter as a subgenre in its own right"[^ref-6]. Its "skiing" movement technique, which The Ringer says "became a core part of competitive Tribes", began as an unintended physics bug that the designers chose to keep[^ref-7][^ref-28].
 
@@ -45,7 +45,7 @@ Starsiege: Tribes is set in the 40th century[^ref-5].
 
 Conflict has broken out between several factions of humans, with innumerable splinter tribes constantly fighting for territory[^ref-5].
 
-Unlike traditional single-player focused games, Tribes concentrated almost entirely on multiplayer combat scenarios with only basic training missions providing narrative context[^ref-3].
+Tribes was built around online team play; its single-player content consisted of training missions, which Sierra's January 1999 release counted as eight[^ref-30] and PC Gamer described as "a series of single-player training tutorials"[^ref-36].
 
 The game follows the story of Metaltech: Earthsiege and Starsiege[^ref-5].
 
@@ -96,6 +96,9 @@ Ladder competition was fierce, and the community later developed individual play
 |-------------|-------|-------|
 | GameSpot | 8.6/10 | "Ambitious game that successfully delivers a rich and addictive multiplayer gaming experience"[^ref-16] |
 | Next Generation | 5/5 | "Tribes has the design and the technology to be the next standard in Internet action gaming"[^ref-5] |
+| IGN | 9.3/10 | Editors' Choice; review signed Trent C. Ward[^ref-32] |
+| PC Gamer US | 92% | "The new high-water mark" (April 1999)[^ref-36] |
+| GameZone | 9 | Overall 9; Game Play 10, Graphics 9, Sound 8; reviewer Kemuel[^ref-35] |
 | Loaded Inc | 93/100 | Professional review score[^ref-17] |
 | CNET Gamecenter | 8/10 | Reviewed by Paul Schuytema[^ref-18] |
 | PC Gamer UK | 80/100 | Professional review score[^ref-17] |
@@ -106,6 +109,10 @@ Ladder competition was fierce, and the community later developed individual play
 Modern retrospective reviews have maintained the game's reputation as a classic. Metacritic shows an 8.7/10 user score based on 28 user ratings[^ref-15], while MobyGames shows a Moby Score of 8.1 and a critic average of 86% from 22 reviews[^ref-4]. As of October 2026, ModDB's community rates it 9.2/10 from 29 votes[^ref-10]. Long-term players continue to praise the game, with one 2021 review calling it "Still the best online multiplayer game, 23 years later..."[^ref-9].
 
 ## Development
+
+### Release Dates
+
+Sources give different release dates for the game. MobyGames lists December 23, 1998 for both the United States and Canada[^ref-4], and a GameSpot news item posted December 23, 1998 lists "Starsiege Tribes from Sierra" among that day's new releases[^ref-31]. GameSpot's game page and Metacritic both give November 30, 1998[^ref-40][^ref-15]. Sierra's press release dated January 4, 1999 says the game "began shipping to stores" that day[^ref-30], and IGN's page lists January 4, 1999 as the initial release[^ref-32]. That release describes the game as "developed and published by Dynamix, Inc."[^ref-30], while GameSpot and Metacritic list Sierra On-Line as publisher[^ref-40][^ref-15]. The same release expected the game "to sell-in more than 250,000 copies" at an estimated street price of $42[^ref-30].
 
 ### Origins
 
@@ -121,9 +128,9 @@ Dynamix's announcement promised terrain stretching for miles, seamless movement 
 
 ## Legacy
 
-Starsiege: Tribes won the Academy of Interactive Arts & Sciences' Online Action/Strategy Game of the Year, Computer Games Strategy Plus' 1998 Online Game of the Year, IGN's Best Online Game of the Year for 1998, and PC Gamer US's 1999 Special Achievement in Innovation award, with PC Gamer writing that "Tribes re-wrote the rules of online combat"[^ref-5]. It sold 98,840 copies during 1999[^ref-5].
+Starsiege: Tribes won the Academy of Interactive Arts & Sciences' Online Action/Strategy Game of the Year[^ref-5]. Computer Games Strategy Plus named it its Online Game of the Year in its Best of 1998 awards, posted February 11, 1999[^ref-34], and IGN's Best of 1998 awards gave it Best Online Game of the Year[^ref-33]. It also received PC Gamer US's 1999 Special Achievement in Innovation award, with PC Gamer writing that "Tribes re-wrote the rules of online combat"[^ref-5]. It sold 98,840 copies during 1999[^ref-5].
 
-The game spawned several sequels including Tribes 2 (2001) and Tribes: Vengeance (2004)[^ref-23], and later the free-to-play Tribes: Ascend (2012)[^ref-29]. Tribes 2 kept the original's core mechanics while adding larger network games and more items, vehicles, and equipment[^ref-2]. A planned expansion pack, Tribes Extreme, was cancelled; it was to add single-player missions, multiplayer maps, and bot AI[^ref-5]. Discussing its bots in 1999, Tribes Extreme lead designer Scott Rudi said that "no AI created with today's technology can be as smart or as effective as a human player"[^ref-21]. The original game was released as freeware in 2004[^ref-24], distributed free from May 4, 2004 on a Computer Gaming World DVD and on FilePlanet to promote Tribes: Vengeance[^ref-5].
+The game spawned several sequels including Tribes 2 (2001) and Tribes: Vengeance (2004)[^ref-23], and later the free-to-play Tribes: Ascend (2012)[^ref-29]. Tribes 2 kept the original's core mechanics while adding larger network games and more items, vehicles, and equipment[^ref-2]. A planned expansion pack, Tribes Extreme, was cancelled; it was to add single-player missions, multiplayer maps, and bot AI[^ref-5]. Discussing its bots in 1999, Tribes Extreme lead designer Scott Rudi said that "no AI created with today's technology can be as smart or as effective as a human player"[^ref-21]. On May 4, 2004, TechSpot reported that VUGames had released the full versions of both Tribes and Tribes 2 for free as a promotion for Tribes: Vengeance, downloadable from FilePlanet[^ref-37]; MobyGames dates this "public domain re-release" by Vivendi Universal Games to April 2004[^ref-4], and Wikipedia adds that it was also distributed on a Computer Gaming World DVD[^ref-5]. The Spokesman-Review noted in August 2015 that the game had been released as freeware in 2004[^ref-24]. On October 30, 2015, GameSpot reported that Hi-Rez Studios was giving away every game in the Tribes series, Starsiege: Tribes included[^ref-38]. Players still organize pickup games through the community hub PlayT1.com[^ref-39].
 
 The skiing mechanic began as a bug: about halfway through development, software engineer Dave Moore showed lead designer Scott Youngblood a collision bug: jumping repeatedly while descending a slope let players accelerate far faster than the jetpack alone allowed, and Youngblood told him, "Nope, don't fix it. This is now a feature"[^ref-28].
 
@@ -158,8 +165,7 @@ Tribes offered several team-based, non-deathmatch modes that, as The Ringer note
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) – developer and credits infobox
 [^ref-2]: [GameSpot Tribes 2 Review](https://www.gamespot.com/reviews/tribes-2-review/1900-2705268/) – description of original Starsiege: Tribes as first multiplayer-focused retail FPS; Tribes 2 additions
-[^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/285280305214) – game's multiplayer focus and training missions only for single-player
-[^ref-4]: [MobyGames Entry](https://www.mobygames.com/game/2661/starsiege-tribes/) – Moby Score 8.1, critics 86% (22), input devices
+[^ref-4]: [MobyGames Entry](https://www.mobygames.com/game/2661/starsiege-tribes/) – Moby Score 8.1, critics 86% (22), input devices; release dates (December 23, 1998 US/Canada; April 2004 re-release) read via the MobyGames API
 [^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Starsiege:_Tribes) – setting, game types, armor, packs, base systems, weapons, awards, sales, Next Generation review, freeware release
 [^ref-6]: [Super Jump Magazine](https://www.superjumpmagazine.com/tribes-the-great-fps-underdog-part-1/) – retrospective on historical significance as birth of team-based objective shooters
 [^ref-7]: [Tribes Fandom Wiki](https://tribes.fandom.com/wiki/Starsiege:_Tribes) – skiing as an exploitation of the physics engine
@@ -177,8 +183,19 @@ Tribes offered several team-based, non-deathmatch modes that, as The Ringer note
 [^ref-21]: [IGN Tribes Extreme Interview](https://www.ign.com/articles/1999/10/15/tribes-extreme-interview) – Scott Rudi on bot AI for Tribes Extreme
 [^ref-22]: [Archived CD Mag Review](https://web.archive.org/web/20030518211037/http://www.cdmag.com/articles/016/119/tribes_review.html) – Computer Games Strategy Plus review: graphics support and requirements
 [^ref-23]: [Tribes Fandom Wiki](https://tribes.fandom.com/wiki/Tribes_%28series%29) – series continuity and sequel information
-[^ref-24]: [Spokesman.com](https://www.spokesman.com/blogs/tech-deck/2015/aug/31/weeks-free-game-starsiege-tribes/) – freeware release in 2004
+[^ref-24]: [Spokesman.com](https://www.spokesman.com/stories/2015/aug/31/weeks-free-game-starsiege-tribes/) – "This week's free game" (Kip Hill, August 31, 2015): freeware release in 2004
 [^ref-26]: [MobyGames Credits](https://www.mobygames.com/game/2661/starsiege-tribes/credits/windows/) – design, direction, production, engineering and voice credits; 68 people
 [^ref-27]: [TribesDepot Wiki](https://wiki.tribesdepot.com/wiki/Starsiege:_Tribes) – publisher, Darkstar engine, community ladders and leagues
 [^ref-28]: [The Ringer](https://www.theringer.com/2018/12/05/video-games/starsiege-tribes-anniversary-first-person-shooters-fortnite-influence) – Ben Lindbergh's 2018 retrospective: skiing bug, development team, network code, competitive community
 [^ref-29]: [Wikipedia – Tribes: Ascend](https://en.wikipedia.org/wiki/Tribes:_Ascend) – free-to-play successor released April 12, 2012
+[^ref-30]: [Archived Sierra Press Release](https://web.archive.org/web/19991003041858/http://www.sierra.com:80/corp/mr/release/0,2760,135,00.html) – January 4, 1999: began shipping to stores, eight "training" missions, 250,000 sell-in forecast, $42 street price
+[^ref-31]: [Archived GameSpot News: New Releases](https://web.archive.org/web/20000608223826/http://headline.gamespot.com/news/98_12/23_pc_release/index.html) – posted 12/23/98: new releases for December 23 include Starsiege Tribes
+[^ref-32]: [IGN Review](https://www.ign.com/articles/1999/01/16/tribes-3) – Trent C. Ward review, 9.3, Editors' Choice; initial release listed as Jan 4, 1999
+[^ref-33]: [IGN's Best of 1998 Awards](https://www.ign.com/articles/1999/01/29/ignpcs-best-of-1998-awards) – Best Online Game of the Year: Starsiege: Tribes
+[^ref-34]: [Archived CGO Best of 1998 Awards](https://web.archive.org/web/20050210212245/http://www.cdmag.com/articles/017/163/online_of_year.html) – Computer Games Online and Computer Games Strategy Plus, posted 02/11/1999: Online Game of the Year
+[^ref-35]: [Archived GameZone Review](https://web.archive.org/web/20010630181107/http://www.gamezone.com/gzreviews/r11985.htm) – reviewer Kemuel, ratings Game Play 10, Graphics 9, Sound 8, Overall 9
+[^ref-36]: [Archived PC Gamer Review](https://web.archive.org/web/19991013174734/http://www.pcgamer.com/reviews/1255.html) – April 1999 review: 92%, "The new high-water mark"; single-player training tutorials
+[^ref-37]: [Archived TechSpot News](https://web.archive.org/web/20130404064608/http://www.techspot.com/news/12832-get-tribes-and-tribes-2-free.html) – Julio Franco, May 4, 2004: VUGames releases Tribes and Tribes 2 free via FilePlanet
+[^ref-38]: [GameSpot: Get Every Tribes Game for Free](https://www.gamespot.com/articles/get-every-tribes-game-for-free/1100-6431870/) – Chris Pereira, October 30, 2015: Hi-Rez giveaway of the Tribes series including Starsiege: Tribes
+[^ref-39]: [PlayT1.com](https://playt1.com/) – community site: daily pickup games organized through its Discord; "Tribes is 100% free"
+[^ref-40]: [GameSpot Game Page](https://www.gamespot.com/games/starsiege-tribes/) – first released Nov 30, 1998; publisher listed as Sierra On-Line
