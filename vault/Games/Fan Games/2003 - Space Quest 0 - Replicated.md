@@ -10,7 +10,7 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Interpreter (AGI)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest 0: Replicated is a free AGI fan-made prequel to Sierra On-Line''s
   Space Quest series, created single-handedly by Jeff Stewart and released for Windows
   on June 25, 2003.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, agi, sierra, space-quest-fan-game]
 ---
 # Space Quest 0: Replicated
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -83,7 +83,7 @@ Upon release, Space Quest 0: Replicated received enthusiastic reception from the
 
 Netjak.com's Jozef "NetDanzr" Purdes (July 9, 2003) scored it 7.5/10 overall and called it "a must-play for every serious adventure gamer," while faulting its short length, frequent instant deaths, and humor "not up to par with the official series."[^ref-22] Jerz's Literacy Weblog relayed the Broomcloset's release announcement on June 30, 2003.[^ref-23] Hardcore Gaming 101, covering the two AGI Space Quest fan games, wrote that "Space Quest 0 shows quite a bit more professionalism" than The Lost Chapter.[^ref-5] The Space Quest Omnipedia's collaborative review awarded the game 80%, calling it "a truly good game" and "a breath of fresh air for those Space Quest and non Space Quest fans out there."[^ref-13]
 
-### Modern Assessment
+### Retrospective Assessment
 
 Jeffry Houser reviewed the game on his blog on October 17, 2005, two years after its release. He praised the visuals but found the humor weaker than the official series'. He observed that "the game did a great job of visually capturing the feel of the first two Space Quest games," but noted that "the game lacked the humor inherent in the SQ series, sticking instead to Star Trek and Star Wars references" rather than the broader satirical comedy of the originals.[^ref-8]
 
