@@ -171,7 +171,7 @@ An archived Portuguese (PT-PT) version also includes other languages[^ref-7]. Di
 [^ref-23]: [MobyGames – 3-D Ultra Pinball: Creep Night Releases](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/releases/) – Release dates by platform and country
 [^ref-24]: [Metacritic - 3-D Ultra Pinball: Creep Night](https://www.metacritic.com/game/3-d-ultra-pinball-creep-night/) - Game summary (premise)
 [^ref-25]: [Gamezilla - 3D Ultra Pinball: Creep Night review by Bob Mandel (Wayback Machine, February 4, 1999)](https://web.archive.org/web/19990204025732/http://www.gamezilla.com/reviews/c/cnpinball.asp) - Contemporary review
-[^ref-26]: [MobyGames – 3-D Ultra Pinball: Creep Night Credits](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/credits/) – Windows (1996) credits, read via the MobyGames API/ScraperAPI
+[^ref-26]: [MobyGames – 3-D Ultra Pinball: Creep Night Credits](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/credits/) – Windows (1996) credits
 [^ref-27]: [PC Multimedia & Entertainment – 3D Ultra Pinball: Creepnight review by Rod White, November 7, 1996 (Wayback Machine, June 7, 1997)](https://web.archive.org/web/19970607151043/http://www.pcme.com/ACTION/3DPBALL/3dpball.htm) – Contemporary review, overall 88%
 [^ref-28]: [Mac Game Gate – Creepnight review by Robert Edvardsson (Wayback Machine, January 27, 1999)](https://web.archive.org/web/19990127212621/http://www.macgate.torget.se/Games/reviews/Creepnight.html) – Contemporary review of the Macintosh demo
 [^ref-29]: [Gamecenter – Creep Night review by Chuck Miller (Wayback Machine, February 5, 1997)](https://web.archive.org/web/19970205032340/http://www.gamecenter.com/Reviews/Item/0,6,251,00.html) – Contemporary review

@@ -23,7 +23,7 @@ Mills, who is from Australia, later wrote *The Sierra Adventure*, a history of S
 
 ### Founding and Early Years
 
-Around the end of 2002, Alexander and Mills "got the idea to start making video games" and founded Infamous Adventures, a studio inspired by Roberta Williams' *King's Quest* and Lori Ann and Corey Cole's *Quest for Glory*.[^ref-10] By September 2004 the team was posting on fan forums about its first projects: the Quest for Glory fan game *Quest for Infamy* and a *King's Quest III* remake.[^ref-2] Its project teams of programmers, musicians and artists came "from around the globe".[^ref-13]
+Around the end of 2002, Alexander and Mills "got the idea to start making video games" and went on to found Infamous Adventures, a studio inspired by Roberta Williams' *King's Quest* and Lori Ann and Corey Cole's *Quest for Glory*.[^ref-10] By September 2004 the team was posting on fan forums about its first projects: the Quest for Glory fan game *Quest for Infamy* and a *King's Quest III* remake.[^ref-2] Its project teams of programmers, musicians and artists came "from around the globe".[^ref-13]
 
 The studio's first release was a remake of *King's Quest III*, which came out on 19 June 2006. It had a point-and-click interface and VGA graphics, following AGD Interactive's remakes of the first two King's Quest games.[^ref-13][^ref-21] A voice pack followed on 20 August 2006, released alongside version 2.0 of the game.[^ref-23] It voiced every character and the narrator, and its cast included former Sierra staff Josh Mandel as Graham and Andy Hoyos as Manannan.[^ref-13][^ref-23] The 2.0 update also added a new ending for players who finish with full points.[^ref-23]
 
@@ -95,7 +95,7 @@ MobyGames credits the studio with the two remakes, *King's Quest III* and *Space
 [^ref-28]: [Adventure Gamers - "SQ2VGA confirmed, Project X details revealed" (Luke Jensen, 1 Apr 2007, Wayback 2011)](https://web.archive.org/web/20110707090039/http://www.adventuregamers.com/newsitem.php?id=1424) — IA "today announced the development of a VGA remake" of Space Quest II
 [^ref-29]: [GameWatcher - "Space Quest II remake released for free" (Jonah A. Falcon, 1 Jan 2012)](https://www.gamewatcher.com/2012-01-01-space-quest-ii-remake-released-for-free) — "a full voice pack containing 4000 recorded lines… completely free"
 [^ref-30]: [Steam - Quest for Infamy](https://store.steampowered.com/app/264560/) — Release Date: Jul 10, 2014
-[^ref-31]: [MobyGames - Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) — Windows release 2014-07-10 (read via the MobyGames API)
-[^ref-32]: [MobyGames - Space Quest II: Roger Wilco in Vohaul's Revenge](https://www.mobygames.com/game/60817/space-quest-ii-roger-wilco-in-vohauls-revenge/) — Windows 2011-12-30, Macintosh 2012-02-05, Linux 2020-01-01 (read via the MobyGames API)
+[^ref-31]: [MobyGames - Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) — Windows release 2014-07-10
+[^ref-32]: [MobyGames - Space Quest II: Roger Wilco in Vohaul's Revenge](https://www.mobygames.com/game/60817/space-quest-ii-roger-wilco-in-vohauls-revenge/) — Windows 2011-12-30, Macintosh 2012-02-05, Linux 2020-01-01
 [^ref-33]: [Space Quest II VGA Remake - itch.io](https://infamousadventures.itch.io/space-quest-ii-vga-remake) — "UNIVERSAL BINARY RELEASED FOR MAC Sept 10th, 2024"; runs natively on Apple Silicon and Intel; Windows, macOS, Linux; name your own price
 [^ref-34]: [King's Quest III VGA Remake - itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) — "A downloadable game for Windows and macOS"; name your own price
