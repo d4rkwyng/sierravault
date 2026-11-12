@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Proprietary
 protagonist: Larry Lovage
 sierra_lineage: Late Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Leisure Suit Larry: Magna Cum Laude (2004) is the seventh main Leisure
   Suit Larry game, a minigame-driven 3D comedy by High Voltage Software starring Larry
   Laffer''s nephew Larry Lovage, made without series creator Al Lowe.'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Magna Cum Laude
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ The game is structured around Larry's pursuit of various women across the campus
 - **Main Campus** – Outdoor hub with the Swingles stage, hackey-sack players and a bridge leading to the library[^ref-10]
 - **Greek Quad** – The area around the Frat House and the Sorority House, reached through an archway from the library[^ref-10]
 - **Swingles Stage** – Where Uma hosts the Swingles challenges on campus[^ref-10]
-- **Lefty's Too** – A bar off the "Crappy Streets" area, a duplicate of the bar from the first Leisure Suit Larry remake[^ref-10][^ref-47]
+- **Lefty's Too** – A bar on Crappy Streets, a duplicate of the bar from the first Leisure Suit Larry remake[^ref-10][^ref-47]
 - **Library** – Campus building reached over a bridge, with several flights of stairs where girls such as Ione and Morgan are found[^ref-10]
 - **Power Station** – A club down the road from campus with a bar and bartender, which also has a V.I.P. Lounge[^ref-10][^ref-52]
 - **Sorority House** – Second-floor bedroom doors bear names grouped by classic TV casts[^ref-18][^ref-40]
@@ -104,6 +104,7 @@ Leisure Suit Larry: Magna Cum Laude received mixed reviews upon release, with cr
 **Negative Reviews:**
 - Electronic Gaming Monthly (issue 185, December 2004) gave a devastating 2.5/10 for PS2 and Xbox versions;[^ref-1] the review's verdict box lists "Bad: Playing Quarters for the 100th time"[^ref-51]
 - Official Xbox Magazine (US, December 2004) scored it 2.3/10[^ref-1]
+- Computer Gaming World (issue 246, December 2004) rated it 2/5, and Official U.S. PlayStation Magazine rated the PS2 version 2.5/5[^ref-1]
 - PC Gamer (US, December 2004) awarded only 39%[^ref-1]
 - GameRevolution's Joe Dodson called it "Leisure Suit Larry: Magna Cum Laude is one of the worst games we've ever seen" and "possibly the most powerful anti-sex weapon ever devised."[^ref-21]
 - GameCritics gave 3.5/10, stating "it's really just a terrible, terrible game that wouldn't be able to justify its own existence without the gleefully gratuitous content."[^ref-23]
@@ -120,6 +121,7 @@ Modern retrospectives have generally been unkind to Magna Cum Laude, viewing it 
 - **MobyGames:** 60% critic average (42 ratings, as archived May 2026)[^ref-3]
 - **IMDB:** 5.9/10[^ref-30]
 - **GOG User Reviews:** 2.6/5 (113 reviews, October 2026)[^ref-9]
+- **Steam User Reviews:** "Mostly Positive", 78% of 769 reviews positive (November 2026)[^ref-53]
 - **HowLongToBeat:** 61% user rating[^ref-32]
 
 **Awards and Dubious Honors:**[^ref-2]
@@ -295,7 +297,7 @@ The game was effectively banned in Australia: the OFLC refused classification to
 
 The game has been available through digital distribution:
 - **GOG.com:** Released May 14, 2013 as "Leisure Suit Larry: Magna Cum Laude - Uncut and Uncensored"[^ref-36]
-- **Steam:** The game was previously available but was removed from the Steam store following [[Assemble Entertainment]]'s April 30, 2025 announcement; existing owners keep it in their libraries[^ref-46][^ref-42]
+- **Steam:** Released on Steam on December 18, 2017 as "Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored";[^ref-53] it was later removed from the Steam store following [[Assemble Entertainment]]'s April 30, 2025 announcement; existing owners keep it in their libraries[^ref-46][^ref-42]
 
 ### Cancelled Sequel
 
@@ -392,3 +394,4 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 [^ref-50]: [IGN – "Leisure Suit Larry Is Gold" (David Adams, September 16, 2004 per the URL and Wikipedia's citation)](https://www.ign.com/articles/2004/09/16/leisure-suit-larry-is-gold) – Vivendi Universal Games announced the game "has officially gone gold"; October 5 release for PC, PlayStation 2 and Xbox
 [^ref-51]: [Electronic Gaming Monthly #185, December 2004 (Internet Archive)](https://archive.org/details/electronicgamingmonthlyissue185december2004600dpi) – Magna Cum Laude review by Demian, Crispin and Jon D.; "Bad: Playing Quarters for the 100th time"
 [^ref-52]: [Neoseeker – Leisure Suit Larry: Magna Cum Laude cheats (PC)](https://www.neoseeker.com/leisuresuitlarry-magna/cheats/pc/) – Porn Fairy locations list, including the Power Station V.I.P. Lounge
+[^ref-53]: [Steam – Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored](https://store.steampowered.com/app/765900/) – release date Dec 18, 2017; user reviews "Mostly Positive", 78% of 769
