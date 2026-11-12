@@ -11,7 +11,7 @@ series: "Aces"
 engine: "3-Space"
 protagonist: "Player-created pilot"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: "WWII: 1946 is Dynamix's 1992 alternate-history expansion disk for Aces of the Pacific, adding seven prototype and early-jet aircraft and a campaign over a hypothetical 1945–46 invasion of Japan."
 tags: [1990s, simulation, flight-simulation, aces, dynamix, sierra, expansion, damon-slye]
 composer: null
@@ -19,7 +19,7 @@ composer: null
 
 # Aces of the Pacific: WWII: 1946
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ composer: null
 > **Release Year:** 1992[^ref-1][^ref-3]
 > **Series:** Aces (expansion for Aces of the Pacific)
 > **Protagonist:** Player-created pilot
-> **Sierra Lineage:** Dynamix
+> **Sierra Lineage:** Sierra Label (Dynamix)
 > **Assistant Director:** Christopher Shen[^ref-2]
 > **Historical Research:** John Bruning Sr.[^ref-2]
 
@@ -127,6 +127,17 @@ MobyGames credits list:[^ref-2]
 - **Manual Writing:** Barbara Ray, Christopher Shen; **Editing:** Bob Lindstrom, Barbara Ray
 - **Quality Assurance Manager:** Forrest Walker; **Sim Line Manager:** Lloyd Madden; **Lead Tester:** Tucker Hatfield
 
+### Technical Specifications
+
+MobyGames lists these requirements and supported hardware for the DOS release:[^ref-1]
+
+- **Operating system:** PC/MS-DOS 5.0
+- **Processor:** Intel i386 SX
+- **Memory:** 2 MB RAM
+- **Video:** VGA
+- **Media:** 3.5" and 5.25" floppy disks
+- **Sound devices:** AdLib, Roland MT-32 (and LAPC-I), Sound Blaster, Thunderboard
+
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -134,6 +145,9 @@ MobyGames credits list:[^ref-2]
 | Expansion disk | Late 1992 | MS-DOS | Published by Sierra On-Line in the US; the December 1992 CGW Hits List charts it.[^ref-11] MobyGames also lists a German release distributed by Sierra On-Line Ltd.[^ref-1] |
 | *Aces of the Pacific with WWII: 1946* | 1993 | MS-DOS | Bundle listed by The Sierra Chest[^ref-14] |
 | *Aces: Collection Series* | 1997 | Not stated | MobyGames lists the expansion as included in this collection.[^ref-16] |
+| Expansion disk, US version 1.0 | Not stated | MS-DOS | PC 3.5" floppies in a slipcover box.[^ref-3] |
+| Expansion disk, US version 1.01 | Not stated | MS-DOS | PC 3.5" floppies in a slipcover box.[^ref-3] |
+| Expansion disk, International Version 1.0 | Not stated | MS-DOS | PC 3.5" floppies in a slipcover box.[^ref-3] |
 | Update patch | 10 March 1993 | MS-DOS | *Computer Gaming World*'s update-patch list gives "Aces of the Pacific 1946 Add-On Disk Update", dated 3/10/93: "Single Missions will now be saved correctly, and several fixes have been made to Career Pilots, including the elimination of known Shell System Errors".[^ref-20] *Game Players PC Entertainment* separately noted a "Patch A" that was "not included with" the disk.[^ref-18] |
 
 ## Legacy
@@ -145,7 +159,7 @@ The Dynamix team itself was proud of the alternate history. Lindstrom concluded 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available. As of October 2026 neither Aces of the Pacific nor this expansion is sold on GOG or Steam.
+- Not currently available. As of November 2026 neither Aces of the Pacific nor this expansion is sold on GOG or Steam.
 
 **Download / Preservation**
 - [Internet Archive – Aces of the Pacific: WWII: 1946 (IBM PC floppy image)](https://archive.org/details/001054-AcesOfThePacificWwii1946). Requires Aces of the Pacific.[^ref-13]
@@ -168,7 +182,7 @@ The Dynamix team itself was proud of the alternate history. Lindstrom concluded 
 
 [^ref-1]: [MobyGames – Aces of the Pacific: Expansion Disk – WWII: 1946](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/) – developer Dynamix, publisher Sierra On-Line, DOS 1992 (US and German releases), description, aircraft list. Retrieved via the MobyGames API, 2026-10-09
 [^ref-2]: [MobyGames – WWII: 1946 page with credits (Wayback Machine, 2008)](http://web.archive.org/web/20080513002029/http://www.mobygames.com:80/game/dos/aces-of-the-pacific-expansion-disk-wwii-1946) – full credit list
-[^ref-3]: [The Sierra Chest – Aces of the Pacific: WWII: 1946](https://sierrachest.com/index.php?a=games&id=252&fld=general) – first release 1992, developer Dynamix, publisher Sierra On-Line, engine 3-Space, Aces series
+[^ref-3]: [The Sierra Chest – Aces of the Pacific: WWII: 1946](https://sierrachest.com/index.php?a=games&id=252&fld=general) – first release 1992, developer Dynamix, publisher Sierra On-Line, engine 3-Space, Aces series; packaging tab (fld=box) lists the US 1.0, US 1.01 and International 1.0 slipcover-box releases
 [^ref-4]: [InterAction Magazine, Winter 1992 (Sierra On-Line), Bob Lindstrom, "WWII: 1946 – How Dynamix Rewrote the Second World War", and "Coming Up" update – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "first expansion disk", scenario premises, aircraft selection, research method, alternate-history narrative, November release
 [^ref-5]: [Computer Gaming World #104 (March 1993), Doug Fick, "A Flight Into the Hypothetical With Dynamix' Aces of the Pacific Expansion Disk", p. 116 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_104) – review: designer, seven aircraft, campaign structure, jet combat, verdict
 [^ref-6]: [InterAction Magazine, Fall 1992 (Sierra On-Line) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "Coming up from Sierra and Dynamix" progress report (three-quarters finished, early November) and "What if – WWII: 1946?" advertisement (designed by Damon Slye, aircraft, hit-and-run combat, Aces required)
