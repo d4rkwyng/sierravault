@@ -3,22 +3,22 @@ title: '3-D Ultra Pinball: The Lost Continent'
 release_year: 1997
 developer: Dynamix
 designer: [Kyle Miller]
-publisher: Sierra
+publisher: Sierra On-Line
 genre: Pinball
 platforms: [Windows 3.x, Windows 95, Macintosh]
 series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball physics-based game engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '3-D Ultra Pinball: The Lost Continent is an arcade-style pinball game
-  underscored by an action-adventure story line that was released in 1997 by Sierra...'
+  underscored by an action-adventure story line that was released in 1997 by Sierra On-Line, developed by Dynamix.'
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-11-11T12:00:00-07:00
+last_modified: 2026-11-12T12:00:00-07:00
 ---
 # 3-D Ultra Pinball: The Lost Continent
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ The game is essentially a combination of Jurassic Park, Indiana Jones, and pinba
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-9]
 > **Designer:** Kyle Miller[^ref-9]
-> **Publisher:** Sierra[^ref-3]
+> **Publisher:** Sierra On-Line[^ref-9]
 > **Platforms:** Windows 3.x/95, Macintosh[^ref-27]
 > **Release Year:** 1997
 > **Series:** 3-D Ultra Pinball
@@ -39,7 +39,7 @@ The game is essentially a combination of Jurassic Park, Indiana Jones, and pinba
 
 ## Story Summary
 
-The Lost Continent follows an adventure story involving crash-landed explorers on a mysterious island. An airplane carrying three explorers is hit by lightning and crashes on an island somewhere in Africa[^ref-10]. The island is full of dinosaurs, long thought extinct[^ref-10], and is controlled by the diabolical Doktor Hekla, who has been transforming the local inhabitants into dinosaurs[^ref-2]. Your task is to lead Rex Hunter, Professor Spector, Mary, and Neeka to a safe place[^ref-4] while battling savage prehistoric tribes and surviving dinosaur stampedes[^ref-11].
+The Lost Continent follows an adventure story involving crash-landed explorers on a mysterious island. An airplane carrying three explorers is hit by lightning and crashes on an island somewhere in Africa[^ref-10]. The island is full of dinosaurs, long thought extinct[^ref-10], and is controlled by the diabolical Doktor Hekla, who has been transforming the local inhabitants into dinosaurs[^ref-10][^ref-11][^ref-14]. The villain's name is spelled "Hekla" by Metacritic and NewTechReview and "Heckla" by NeverDieMedia, GameSpot and Wikipedia[^ref-10][^ref-11][^ref-14][^ref-4][^ref-2]. Your task is to lead Rex Hunter, Professor Spector, Mary, and Neeka to a safe place[^ref-4] while battling savage prehistoric tribes and surviving dinosaur stampedes[^ref-11].
 
 The story, although very short, involves crash landing on an island taken over by a mad scientist, who is turning the inhabitants into dinosaurs[^ref-9]. The Collection Chamber reviewer describes the plot as "a rip-roaring yarn inspired by the serials of the 1930s and the B-movie schlock of the 1950s"[^ref-7], and one MobyGames user found the character dialogue "straight from a 'B' movie" and fun[^ref-16]. As the game progresses, players must discover the hidden laboratory of Doktor Hekla and ultimately earn the ultimate game payoff - a fully animated escape from the Lost Continent[^ref-11].
 
@@ -67,16 +67,16 @@ Dinosaurs interact with the ball occasionally, and notably, the T. Rex can be ki
 
 ### Contemporary Reviews
 
-The Lost Continent received mixed to positive ratings from critics and players over the years. GameSpot users rated the game 8.1 out of 10[^ref-4], while IMDb users gave it a score of 6.8/10[^ref-19]. Critics on MobyGames provided an aggregate score of 68% from 17 ratings[^ref-18], and MyAbandonware users rated it 4.79/5[^ref-20].
+The Lost Continent received mixed to positive ratings from critics and players over the years. A GameSpot user review dated June 21, 2004 scored the game 8.1 out of 10[^ref-4], while IMDb users gave it a score of 6.8/10[^ref-19]. Critics on MobyGames provided an aggregate score of 68% from 17 ratings[^ref-18], and MyAbandonware users rated it 4.79/5[^ref-20].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| GameSpot (User) | 8.1/10 | User rating[^ref-4] |
+| GameSpot (User) | 8.1/10 | Single user review, June 21, 2004[^ref-4] |
 | IMDb (User) | 6.8/10 | User rating[^ref-19] |
 | MobyGames (Critics) | 68% | Average of 17 critic ratings[^ref-18] |
 | MyAbandonware (User) | 4.79/5 | User rating[^ref-20] |
 
-Contemporary reviewers praised various aspects of the game, with GameRevolution's Nebojsa Radakovic noting that "Sierra really has a good grasp on smooth and colorful design"[^ref-15] and praising the soundtrack as "one of the best I've heard" as far as game soundtracks are concerned[^ref-15]. However, the same reviewer noted that "Despite some of its annoying quirks, it's a solid game"[^ref-15], acknowledging both strengths and weaknesses.
+Contemporary reviewers praised various aspects of the game, with GameRevolution's Nebojsa Radakovic noting that "Sierra really has a good grasp on smooth and colorful design"[^ref-15] and praising the soundtrack as "one of the best I've heard" as far as game soundtracks are concerned[^ref-15]. However, the same reviewer noted that "Despite some of its annoying quirks, it's a solid game"[^ref-15], acknowledging both strengths and weaknesses. Ink 19's Ian Koss called it "a fairly good interpretation of a classic game of skill" and singled out the option to sacrifice a ball to stay at a table or keep it and be demoted a level[^ref-17].
 
 ### Modern Assessment
 
@@ -90,11 +90,29 @@ Hardcore Gaming 101's retrospective assessment noted that "The Lost Continent is
 
 The Lost Continent was developed by Dynamix in cooperation with Sierra[^ref-3], with Dynamix getting far more adventurous for their third game in the series[^ref-7]. The credits list Jerry Carathers as pinball design consultant and Dariusz Lukaszuk on physics programming[^ref-12]. GamePressure lists Jeff Tunnell Productions alongside Dynamix[^ref-3]; MobyGames credits [[Jeff Tunnell|Jeffrey Tunnell]] as executive producer[^ref-12].
 
+### Development Credits
+
+MobyGames lists these credits for the Windows version[^ref-12]:
+
+- **Executive Producer:** Jeffrey Tunnell
+- **Producer:** Ken Embery
+- **Designer:** Kyle Miller
+- **Art Director:** Kyle Miller
+- **Lead Programmer:** Piotr Lukaszuk
+- **Mac Programmer:** Jon Milnes
+- **Game Logic Programmer:** Richard Tunnell
+- **Pinball Design Consultant:** Jerry Carathers
+- **Physics Programming:** Dariusz Lukaszuk
+- **Technical Assistance:** David McClurg, Rhett Anderson
+- **3D Art Models, Animations:** Computoons, Terrell Enterprises, Inc. (Director: Robert Terrell)
+- **Original Music Composition:** Timothy Steven Clarke, LOUDMOUTH
+- **On-Line Manual Writing/Editor:** Kevin Lamb, WordWorks, Inc.
+
 The game's development was influenced by the popularity of the Jurassic Park film[^ref-6]. The dinosaur theme replaced the space and horror motives of the previous games[^ref-9] in the series.
 
 ### Production
 
-The voice cast included Bill Barrett, Jane Chase, Lani Minella, Mike Shapiro, and Ed Ragozzino[^ref-19]. The credits name Robert Terrell as director for Terrell Enterprises, which handled 3D art and animation, and Kevin Lamb for on-line manual writing[^ref-12]. The production utilized the same engine series as previous versions[^ref-3], though Sierra emphasized that nothing comes close to their physics-based game engine[^ref-7].
+The voice cast included Bill Barrett, Jane Chase, Lani Minella, Mike Shapiro, and Ed Ragozzino[^ref-19]. The credits name Robert Terrell as director for Terrell Enterprises, which handled 3D art and animation, and Kevin Lamb for on-line manual writing[^ref-12]. Other databases credit the game differently: IMDb lists Rob Terrell as director and Kevin Lamb as writer[^ref-19], while Metacritic lists Kevin Lamb as director and Bill Barrett as writer[^ref-11]. The production utilized the same engine series as previous versions[^ref-3], though Sierra emphasized that nothing comes close to their physics-based game engine[^ref-7].
 
 The technical specifications included 640x480 resolution with 256 colors[^ref-5], delivered on CD-ROM format[^ref-5]. GamePressure lists the Windows requirements as a 486/DX2 66 MHz, 8 MB RAM, 25 MB of hard disk space and Windows 3.x/95[^ref-3]. MobyGames lists a PowerPC 601, System 7.5 and 12 MB RAM for the Macintosh version[^ref-27]. Both versions shipped on one hybrid CD-ROM, which NewTechReview noted was new for the series[^ref-14].
 
@@ -141,9 +159,7 @@ MobyGames records German ("3-D Ultra Pinball: Der Vergessene Kontinent"), Brazil
 
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
-- [[1997 - 3-D Ultra MiniGolf]]
 - [[1998 - 3-D Ultra MiniGolf Deluxe]]
-- [[1998 - 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Lionel TrainTown]]
 - [[1999 - 3-D Ultra Pinball - Power]]
@@ -166,16 +182,16 @@ MobyGames records German ("3-D Ultra Pinball: Der Vergessene Kontinent"), Brazil
 [^ref-6]: [GamePressure - Game Score](https://www.gamepressure.com/games/game_score.asp?ID=15445) – Jurassic Park film inspiration, trivia details
 [^ref-7]: [Collection Chamber - 3D Ultra Pinball: Lost Continent](https://collectionchamber.blogspot.com/p/3d-ultra-pinball-lost-continent.html) – Marketing quotes, technical specifications, review conclusion, development notes
 [^ref-8]: [Bunny Gamer - The Lost Continent First Impressions](https://bunnygamer.com/3d-ultra-pinball-the-lost-continent-computer-game-first-impressions/) – Modern first-impressions review, Windows 10 compatibility, money-back guarantee
-[^ref-9]: [MobyGames – 3-D Ultra Pinball: The Lost Continent](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – Developer (Dynamix, Inc.), designer information, plot description, series order
+[^ref-9]: [MobyGames – 3-D Ultra Pinball: The Lost Continent](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – Developer (Dynamix, Inc.), publisher (Sierra On-Line, Inc.), designer information, plot description, series order
 [^ref-10]: [NeverDieMedia - Product Listing](https://www.neverdiemedia.com/products/3d-ultra-pinball-the-lost-continent-1) – Story premise, game overview description, 15 story tables plus secret 16th, used-copy listing
-[^ref-11]: [Metacritic - Game Details](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/details/) – Marketing description of gameplay features
-[^ref-12]: [MobyGames - The Lost Continent credits](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/credits/) – Development credits (pinball design consultant, physics programming, 3D art direction, manual writing)
+[^ref-11]: [Metacritic - Game Details](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/details/) – Marketing description of gameplay features, villain name (Doktor Hekla), publisher (Sierra On-Line), credits (directed by / written by)
+[^ref-12]: [MobyGames - The Lost Continent credits](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/credits/) – Development credits (producer, designer, art director, programmers, pinball design consultant, physics programming, 3D art direction, music, manual writing)
 [^ref-14]: [NewTechReview - The Lost Continent Review](https://www.newtechreview.com/NewTechReview/review.asp?ID=3) – Gameplay quality assessment, final recommendation
 [^ref-15]: [GameRevolution - Review](https://www.gamerevolution.com/review/32949-3dlost-review) – Technical praise, physics commentary, soundtrack praise, overall assessment
 [^ref-16]: [MobyGames - User Review by piltdown_man](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/user-review/2393280/) – Table progression description, gameplay mechanics
-[^ref-17]: [Ink 19 - Review](https://ink19.com/1997/12/magazine/screen-reviews/yyo8fi-3d-ultra-pinball-the-lost) – Dinosaur interaction details
+[^ref-17]: [Ink 19 - Review](https://ink19.com/1997/12/magazine/screen-reviews/yyo8fi-3d-ultra-pinball-the-lost) – Dinosaur interaction details, overall verdict, save-or-sacrifice feature
 [^ref-18]: [MobyGames – 3-D Ultra Pinball: The Lost Continent Reviews](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/reviews/) – Critic average 68% (17 ratings)
-[^ref-19]: [IMDb - Game Entry](https://www.imdb.com/title/tt5652794/) – Voice cast, user rating
+[^ref-19]: [IMDb - Game Entry](https://www.imdb.com/title/tt5652794/) – Voice cast, director and writer credits, user rating
 [^ref-20]: [MyAbandonware - Game Page](https://www.myabandonware.com/game/3-d-ultra-pinball-the-lost-continent-3fi) – User rating, user comments
 [^ref-21]: [Bunny Gamer - ThrillRide Impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) – Comparison to later series entries
 [^ref-23]: [Archive.org - Primary Entry](https://archive.org/details/3dultrapinball_thelostcontinent) – Preservation availability
