@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Custom engine with cell and portal technologies
 protagonist: LAPD SWAT Element Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [Gary Spinrad]
 description: 'SWAT 3: Close Quarters Battle is a 1999 tactical squad-based first-person
   shooter that moved the Police Quest / SWAT series from adventure games and isometric
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -92,10 +92,15 @@ GamePro reviewer Peter Olafson wrote: "For the most part, Sierra does it right h
 
 Player reviews on store and database sites are mostly positive. GOG user phanboy4 described it as "One of the finest tactical squad-based sims ever. Easily as good as the (real) Rainbow Six titles."[^ref-4] On MobyGames, user Evil-Jim titled his review "Great game tarnished by shoddy AI," elaborating that "SWAT 3 is most like Ghost Recon placed indoors, that is Rainbow 6 with relaxed realism."[^ref-25] User Kasey Chang called it a "Great tactical sim in desperate need of a technology update," while also praising its "minimal-violence approach" as "refreshing among all the other tactical shooters on the market."[^ref-25]
 
+### Modern Assessment
+
+The game remains available today through GOG as the Tactical Game of the Year Edition.[^ref-4]
+
 **Aggregate Scores:**
 - **GameRankings:** 84% (83.76% from 23 reviews, archived 2019)[^ref-22]
 - **Metacritic (Elite Edition):** 81[^ref-26]
 - **MobyGames:** 81% (critics average, 34 ratings)[^ref-18]
+- **MobyGames Moby Score:** 7.7[^ref-18]
 - **IMDB:** 7.7/10 (user rating)[^ref-11]
 - **ModDB Community:** 8.5/10[^ref-7]
 
@@ -116,9 +121,11 @@ To ensure authenticity, developers spent considerable time with actual LAPD SWAT
 Motion capture technology was employed extensively, with most of the game's roughly 500 motion-captured animations performed by an LAPD SWAT officer.[^ref-27] Thatcher himself performed more than 500 SWAT actions at House of Moves in Venice, California.[^ref-12] Sierra advertised more than 150 dynamic motion-captured characters.[^ref-2][^ref-44] Former LAPD Chief [[Daryl Gates|Daryl F. Gates]], who joined Sierra's Police Quest series after retiring in 1992 (beginning with Police Quest: Open Season) and became lead advisor for its Police Quest and SWAT games, is credited as "Consultant" on SWAT 3.[^ref-42][^ref-12][^ref-2][^ref-50]
 
 **Development Credits:**[^ref-1][^ref-25]
-- **Game Designer:** [[Tammy Dargan]][^ref-51]
+- **Game Designer, Director and Writer:** [[Tammy Dargan]][^ref-51][^ref-1]
 - **Producer:** Rod Fung[^ref-3]
+- **Art Director:** Cyrus Kanga[^ref-53][^ref-1]
 - **Lead Programmer:** Jim Napier
+- **AI Programmer:** John D. Anderson[^ref-53]
 - **Composer:** Gary Spinrad
 - **Additional Music/SFX (Elite Edition):** Evan Buehler
 - **Publisher:** Sierra Studios
@@ -151,11 +158,6 @@ The ballistics system represented a significant technical achievement. IGN decla
 - **Operating Systems:** Windows 95, 98, 2000, ME
 - **Swap File:** 50 MB
 
-**Soundtrack Specifications:**[^ref-30]
-- **Total Files:** 92 audio tracks
-- **Total Size:** 61 MB
-- **Total Duration:** 47 minutes 54 seconds
-
 ### Cut Content
 
 The most significant cut feature was multiplayer support, which was originally planned but postponed to focus on delivering a polished single-player experience for the Christmas 1999 release window.[^ref-3] As IGN reported, the game "was welcomed with plenty of praise from the press with one minor exception—no multiplayer capability."[^ref-31] When the schedule proved too ambitious, the team sorted features into required, optional and later-version categories, but Napier writes that "in the end we implemented most of the optional ones."[^ref-3]
@@ -166,7 +168,7 @@ A Dreamcast version was planned but never released; *Electronic Gaming Monthly*'
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | November 23, 1999 | Windows | Initial US release[^ref-1] |
+| 1.0 | November 23, 1999 | Windows | Initial US release. The release date is given variously: November 19, 1999 in Wikipedia's article text,[^ref-1] November 23, 1999 in Wikipedia's infobox and on MobyGames,[^ref-1][^ref-18] and November 30, 1999 on GameSpot and GameRankings[^ref-52][^ref-22] |
 | 1.1 | Undated | Windows | Close Quarters Battle release eligible for the 1.6 multiplayer upgrade[^ref-32] |
 | 1.2 | Undated | Windows | Close Quarters Battle release eligible for the 1.6 multiplayer upgrade[^ref-32] |
 | 1.4 | Undated | Windows | Minimum version for the 2.0 update[^ref-32] |
@@ -319,7 +321,6 @@ The game's insistence that players be "cops, not soldiers" set it apart from the
 [^ref-26]: [Metacritic – SWAT 3: Elite Edition](https://www.metacritic.com/game/swat-3-elite-edition/) ([archived copy, October 2023](https://web.archive.org/web/20231012234114/https://www.metacritic.com/game/swat-3-elite-edition/)) – Metascore 81 from 9 critic reviews; multiplayer addition
 [^ref-27]: [IGN Interview (Archived)](https://web.archive.org/web/20230405054837/https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) – Rod Fung quote, about 500 motion-captured animations mostly performed by an LAPD SWAT officer
 [^ref-29]: [PCGamingWiki – SWAT 3](https://www.pcgamingwiki.com/wiki/SWAT_3:_Close_Quarters_Battle) – compatibility issues, API details
-[^ref-30]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/swat-3-close-quarters-battle-windows-gamerip-1999) – soundtrack specifications
 [^ref-31]: [IGN – Elite Edition Upgrade](https://www.ign.com/articles/2000/10/13/swat-3-elite-edition-upgrade) – multiplayer addition, development tools, patch sizes
 [^ref-32]: [Sierra Help – SWAT Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/SWATUpdates.html) – version history, bugs, patch notes
 [^ref-33]: [ModDB – Version 1.7](https://www.moddb.com/games/swat-3/downloads/swat-3-close-quarters-battle-v17) – international network play
@@ -340,3 +341,5 @@ The game's insistence that players be "cops, not soldiers" set it apart from the
 [^ref-49]: [Electronic Gaming Monthly #137 (December 2000), Internet Archive](https://archive.org/details/electronic-gaming-monthly-issue-137-december-2000) – "Coming Soon – December 2000" (p.68), Dreamcast list: "SWAT 3D – Sierra"
 [^ref-50]: [MobyGames – SWAT 3: Close Quarters Battle Credits (Archived September 2005)](http://web.archive.org/web/20050912074406/http://www.mobygames.com:80/game/swat-3-close-quarters-battle/credits) – "Consultant: Daryl F. Gates (LAPD Ret.)"; "LAPD SWAT Advisor: Kenneth A. Thatcher (LAPD)"
 [^ref-51]: [MobyGames – SWAT 3: Close Quarters Battle, Windows credits (Wayback, December 22, 2023)](https://web.archive.org/web/20231222062439/https://www.mobygames.com/game/845/swat-3-close-quarters-battle/credits/windows/) – "Producer Rod Fung; Game Designer Tammy Dargan; Writer Tammy Dargan; Director Tammy Dargan"
+[^ref-52]: [GameSpot – SWAT 3: Close Quarters Battle (game page)](https://www.gamespot.com/games/swat-3-close-quarters-battle/) – "First released: Nov 30, 1999", PC
+[^ref-53]: [MobyGames – SWAT 3: Close Quarters Battle, Windows credits](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/credits/windows/) – Art Director Cyrus Kanga; Artificial Intelligence Programmer John D. Anderson; Director, Writer and Game Designer Tammy Dargan
