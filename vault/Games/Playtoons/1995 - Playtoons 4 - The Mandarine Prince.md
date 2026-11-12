@@ -3,14 +3,14 @@ title: 'Playtoons 4: The Mandarine Prince'
 release_year: 1995
 developer: Coktel Vision
 designer: [Coktel]
-publisher: Sierra On-Line
+publisher: Sierra On-Line (Coktel Vision in France)
 genre: Adventure
-platforms: [Windows 3.x, Mac]
+platforms: [Windows 3.x, Macintosh]
 series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Emmanuel Chagnas]
 description: 'Playtoons 4: The Mandarine Prince is a 1995 interactive comic book and
   animation kit by Coktel Vision, published by Sierra On-Line, in which Spirou and
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coktel, playtoons, sierra]
 ---
 # Playtoons 4: The Mandarine Prince
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,6 +32,7 @@ The fourth game again features the Franco-Belgian comic heroes Spirou and Fantas
 > **Designer:** Coktel (credited as studio; based on the Spirou comic)[^ref-16]
 > **Publisher:** [[Sierra On-Line]] (Coktel Vision in France)[^ref-18]
 > **Engine:** Gob engine[^ref-2][^ref-5]
+> **Composer:** Emmanuel Chagnas[^ref-16]
 > **Platforms:** Windows 3.x, Macintosh[^ref-3][^ref-7]
 > **Release Year:** 1995[^ref-3][^ref-7]
 > **Series:** Playtoons
@@ -81,7 +82,7 @@ On the French site SensCritique, the game has an average rating of 6.5/10 from 1
 Coktel Vision made the game under licence. The credits read "© Dupuis - TF1 - Ciné groupe 1995."[^ref-16] The credits also list two people from Dupuis: Léon Perahia (Audiovisual and Development Director) and Patrick Pinchart (in charge of Multimedia Development).[^ref-16] Design is credited to Coktel, "based on an original comic strip by Spirou."[^ref-16] The game runs on Coktel's Gob engine.[^ref-2][^ref-5]
 
 **Development Credits:**[^ref-16]
-- **Graphics:** Jean-Christophe Charter, Jacques Dimier, Patrick Dumas, Pierre Gilhodes, Pascal Pautrot
+- **Graphics:** Jean-Christophe Charter, Jacques Dimier, Patrick Dumas, [[Pierre Gilhodes]], Pascal Pautrot
 - **Sound Track:** Studio Big Wheels, Emmanuel Chagnas
 - **Voices:** Studio Big Wheels, Karen Strassman
 - **Editing:** Adrien Hermans, Cécile Turet
@@ -102,7 +103,7 @@ MobyGames' specification list matches the processor and system versions but give
 
 ### Pricing and Ratings
 
-Sierra's Spring 1996 catalogue sold the game for $24.95 for ages 4 to 10, or for $34.90 in "Playtoons Bundle 2" with *The Secret of the Castle*.[^ref-25] By the Fall 1996 catalogue the price had dropped to $14.95.[^ref-26] *MacFormat* listed it at £24.99,[^ref-21] and in Italy CTO distributed it for 119,000 lire.[^ref-24] The ESRB rated it E (Everyone) with no content descriptors, for Macintosh and Windows PC;[^ref-27] GameFAQs records the original US rating as K-A.[^ref-28]
+Sierra's Spring 1996 catalogue sold the game for $24.95 for ages 4 to 10, or for $34.90 in "Playtoons Bundle 2" with *The Secret of the Castle*.[^ref-25] Sierra's Summer 1996 guide still listed it at $24.95,[^ref-36] and by the Fall 1996 catalogue the price had dropped to $14.95.[^ref-26] A retailer's price list in *MacFormat* no. 50 (May 1997) gave £14.95.[^ref-37] *MacFormat* listed it at £24.99,[^ref-21] and in Italy CTO distributed it for 119,000 lire.[^ref-24] The ESRB rated it E (Everyone) with no content descriptors, for Macintosh and Windows PC;[^ref-27] GameFAQs records the original US rating as K-A.[^ref-28]
 
 ### Version History
 
@@ -139,11 +140,10 @@ The ScummVM wiki (archived April 2026) lists the game as unsupported ("Support: 
 ## See Also
 
 - [[1995 - Playtoons 3 - The Secret of the Castle|← Previous: Playtoons 3 - The Secret of the Castle]]
-
 - [[1994 - Playtoons 1 - Uncle Archibald]]
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
-
 - **Next:** [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]]
+- [[Coktel Adventures Series]]
 
 ## References
 
@@ -174,8 +174,10 @@ The ScummVM wiki (archived April 2026) lists the game as unsupported ("Support: 
 [^ref-28]: [GameFAQs – Playtoons 4: The Mandarine Prince release data](https://gamefaqs.gamespot.com/pc/591382-playtoons-4-the-mandarine-prince/data) – US, Sierra On-Line, 1995, rating K-A, genre Edutainment
 [^ref-29]: [SVM Multimédia, issue 1 (October 1995)](https://archive.org/details/svm-multimedia-01) – Coktel announces for the autumn its Mac collection and "le Prince Mandarine (avec Spirou) et la Pierre de Wakan"
 [^ref-30]: [SVM Multimédia, issue 3 (December 1995)](https://archive.org/details/svm-multimedia-03) – retailer advertisement listing "Le Prince Mandarine (P)"
-[^ref-31]: [PC Magazine, 24 September 1996, "The Top 100 CD-ROMs"](https://archive.org/details/PC-Mag-1996-09-24) – the Playtoons Collection of four stories including The Mandarine Prince; street price $24.95 (series); Windows 3.1/95 and Mac; construction game
+[^ref-31]: [PC Magazine, 24 September 1996, "The Top 100 CD-ROMs"](https://archive.org/details/PC-Mag-1996-09-24) – the Playtoons Collection of four interactive mystery stories including The Mandarine Prince; street price $24.95 (series), Sierra On-Line; Windows 3.1/95 and Mac programs that each include a construction game
 [^ref-32]: [ScummVM source – engines/gob/detection/tables_playtoons.h (master, fetched 2026-11-11)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/gob/detection/tables_playtoons.h) – three "playtoons4" detection entries (French v1.002, German "Der Mandarin-Prinz", English), none flagged unsupported
 [^ref-33]: [PC Open, February 1996 (n. 4), News, "Il principe di Mandarancia"](https://archive.org/details/pc-open-1996-02) – "È in arrivo il quarto titolo della collezione Playtoons, distribuita da Cto" [the fourth title of the Playtoons collection, distributed by CTO, is on its way]; available for PC and Macintosh
 [^ref-34]: [PC Novice no. 32 (January 1996), Playtoons roundup](https://archive.org/details/pcnovice-magazine-32) – "Cinq titres déjà disponibles", including "Le Prince Mandarine, une nouvelle aventure du célèbre Spirou"
 [^ref-35]: [SVM Multimédia, issue 6 (March 1996)](https://archive.org/details/svm-multimedia-06) – photo caption "LE PRINCE MANDARINE : SPIROU DANS LA COLLECTION PLAYTOONS" in a Dupuis feature; caption-level mention only
+[^ref-36]: [Sierra Buyer's Guide, Summer 1996 (Retro Gaming Product Catalogs)](https://archive.org/details/RetroGamingProductCatalogs) – "Playtoons: The Mandarin Prince $24.95"; Playtoons Bundle 2 $34.90
+[^ref-37]: [MacFormat, issue 50 (May 1997), retailer price list](https://archive.org/details/mac-format-050-may-1997) – "The Mandarine Prince £14.95" among the Playtoons titles
