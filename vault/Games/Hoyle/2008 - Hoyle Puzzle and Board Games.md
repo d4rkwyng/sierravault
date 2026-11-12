@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Puzzle and Board Games 2008 is a compilation of classic
  puzzle and board games released by Encore Software for Windows and Macintosh
  in October 2007.
@@ -18,11 +18,11 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2008
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle and Board Games 2008 is a compilation of classic puzzle, word and board games released by [[Encore Software]] for Windows and Macintosh in October 2007; GameSpot's weekly release list, compiled from retailer information, listed "Hoyle Puzzle and Board 2008 (PC)" under October 1, 2007, alongside Hoyle Casino 2008 and Hoyle Card Games 2008[^ref-1][^ref-2][^ref-22][^ref-27]. The "2008" in the title is the edition name, not the release year. Encore's own product page called it "21 classic and new challenging favorites", including Hangman, Mahjongg, Anagrams, Sudoku and "over 1200 different Crosswords"[^ref-22][^ref-29]. A box description now shown on GameFAQs advertises "60+ classic games! Bonus 105 puzzle adventures"[^ref-2]; that does not match Encore's count of 21, and the GameFAQs page does not say which package it describes. The same feature list ("Over 60 classic games including all the favourites!" and "BONUS 105 puzzle adventures!") appears in Impulse Gamer's review of the Australian, Mindscape-distributed release, so the GameFAQs text may describe a different SKU from the 21-game box sold in the United States[^ref-33]. The tagline was "HOYLE – The Official Name in Gaming"[^ref-2][^ref-22].
+Hoyle Puzzle and Board Games 2008 is a compilation of classic puzzle, word and board games released by [[Encore Software]] for Windows and Macintosh in October 2007; GameSpot's weekly release list, compiled from retailer information, listed "Hoyle Puzzle and Board 2008 (PC)" under October 1, 2007, alongside Hoyle Casino 2008 and Hoyle Card Games 2008[^ref-1][^ref-2][^ref-22][^ref-27]. The "2008" in the title is the edition name, not the release year. Encore's own product page called it "21 classic and new challenging favorites", including Hangman, Mahjongg, Anagrams, Sudoku and "over 1200 different Crosswords"[^ref-22][^ref-29]. A box description now shown on GameFAQs advertises "60+ classic games! Bonus 105 puzzle adventures"[^ref-2]; that does not match Encore's count of 21, and the GameFAQs page does not say which package it describes. The same feature list ("Over 60 classic games including all the favourites!" and "BONUS 105 puzzle adventures!") appears in Impulse Gamer's review of the Australian, Mindscape-distributed release, so the GameFAQs text may describe a different SKU from the 21-game box sold in the United States[^ref-33]. The tagline was "HOYLE – The Official Name in Gaming"[^ref-2][^ref-22]. Retail listings also vary the title: Encore's October 2007 product page describes the collection as "HOYLE® Puzzle Games 2008", and Newegg's description says "HOYLE Puzzle Games 2008", while the page headings use "Puzzle & Board Games (2008)"[^ref-22][^ref-29].
 
 The collection uses the Hoyle Bucks reward system: players automatically earn Hoyle Bucks as they play ("the more you play the more you earn") and spend them on new backgrounds and music tracks[^ref-6][^ref-22]. It also includes a Face Creator for building a player character and interactive computer opponents with multiple skill levels[^ref-6][^ref-22]. The Windows and Mac versions shipped together on a combined PC/Mac DVD retailing for $19.99; a contemporary Inside Mac Games forum post greeted it as the first time Hoyle games had been released with Mac OS X compatibility[^ref-22][^ref-24].
 
@@ -53,7 +53,7 @@ Hoyle Bucks are earned automatically while playing; the more a player plays, the
 
 ### Players and Opponents
 
-Encore's page described "Interactive computer opponents with multiple skill levels to challenge everybody", with the option to "Play together on the same computer and challenge your friends and family with old classics, or play alone and take the high score"[^ref-22][^ref-29]. Players could also build their own character with the Face Creator[^ref-22].
+Encore's page described "Interactive computer opponents with multiple skill levels to challenge everybody", with the option to "Play together on the same computer and challenge your friends and family with old classics, or play alone and take the high score"[^ref-22][^ref-29]. Impulse Gamer's review of the Australian release lists the chance to "Compete with 12 virtual opponents with adjustable skill levels and 'attitudes'"[^ref-33]. Players could also build their own character with the Face Creator[^ref-22].
 
 ## Reception
 
@@ -178,7 +178,7 @@ The 2008 edition was used as the active control condition in a randomized contro
 
 ## References
 
-[^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, ESRB rating, review status
+[^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, review status
 [^ref-2]: [GameFAQs – Hoyle Puzzle and Board Games 2008](https://gamefaqs.gamespot.com/pc/943486-hoyle-puzzle-and-board-games-2008) – release date, developer, publisher, user ratings, game description, Dominoes question
 [^ref-4]: [MobyGames – Hoyle Puzzle & Board Games (2009 edition)](https://www.mobygames.com/game/54289/hoyle-puzzle-board-games/) – entry for the following 2009 edition, released September 25, 2008; not this game
 [^ref-5]: [Software Informer – Hoyle Puzzle and Board Games 2008](https://hoyle-puzzle-and-board-games-2008.software.informer.com/votes/) – user vote count
