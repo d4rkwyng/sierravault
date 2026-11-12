@@ -10,13 +10,13 @@ series: Standalone
 engine: Macromedia Director
 protagonist: The Player
 sierra_lineage: Sierra Published
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Stay Tooned! is a 1996 cartoon adventure developed by Funnybone Interactive and published by Sierra On-Line for Windows and Macintosh, in which escaped toons steal the player's TV remote and overrun an apartment building.
 tags: [1990s, adventure, sierra, standalone]
 ---
 # Stay Tooned!
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -71,13 +71,15 @@ The manual marks five games as ToonVision 3-D: "Ask Frank", "Ham-a-roids", "Make
 
 ### Contemporary Reviews
 
-MobyGames lists an average critic score of 76% from five ratings: Gamezilla 83%, HonestGamers 80%, World Village (Gamer's Zone) 80%, The Electric Playground 75% (Windows and Mac) and Gamecenter 60%[^ref-20][^ref-3].
+MobyGames lists an average critic score of 76% from five ratings: Gamezilla 83% (a later review, which MobyGames dates to 13 December 2000), HonestGamers 80%, World Village (Gamer's Zone) 80%, The Electric Playground 75% (Windows and Mac) and Gamecenter 60%[^ref-20][^ref-3].
 
 Bonnie James of The Electric Playground gave the game 7.5 out of 10 on December 5, 1996. She called it "Itchy and Scratchy meets Tiny Toons" and praised its humour as "truly unique." She concluded: "If you find yourself getting up Saturday mornings to watch cartoons in your pajamas and eat sugar cereal on the couch, then I think you'll like Stay Tooned"[^ref-17].
 
-MacAddict's March 1997 issue (#7) had a panel of ten-year-old Brisbane Elementary School students review it among its kids' CD-ROMs. The magazine listed it for grades "5 to Adult" and its final report read: "Wise-cracking game 'toons' kids in to real quality programming." Holly liked the opening TV channels such as "Whinefeld" and "Frauds," Hilary praised the "very, very good graphics and colors," and Max's one complaint was "This program has a lot of bad words"[^ref-28].
+MacAddict's March 1997 issue (#7) had a panel of ten-year-old Brisbane Elementary School students review it among its kids' CD-ROMs. The magazine listed it for grades "5 to Adult" and its final report read: "Wise-cracking game 'toons' kids in to real quality programming." Holly liked the opening TV channels such as "Whinefeld" and "Frauds," Hilary praised the "very, very good graphics and colors," and Max's one complaint was "This program has a lot of bad words." All eight panelists listed Stay Tooned! as their "Pick of the month," and a demo was on that issue's cover disc[^ref-28].
 
-World Village's Gamer's Zone praised the graphics ("It is almost like watching Saturday morning cartoons") and "the high level of randomization." Its reviewer was less impressed by the ToonVision glasses and wrote that "this attempt still leaves a lot to be desired"[^ref-24].
+Barry Brenesal's Gamecenter review opened by saying that Stay Tooned "doesn't simply appear on the heels of Toonstruck" but "treads on its corns." He judged that the game "clearly draws its philosophy on life from the Nickelodeon Network, and it has all the sophistication of a purple goop pie hitting you in the face," which he called "a strength, and a weakness"[^ref-31].
+
+Rich Cunningham of World Village's Gamer's Zone praised the graphics ("It is almost like watching Saturday morning cartoons") and "the high level of randomization." He was less impressed by the ToonVision glasses and wrote that "this attempt still leaves a lot to be desired"[^ref-24].
 
 ### Modern Assessment
 
@@ -107,18 +109,45 @@ The manual's credits list Susan Decker, Ben Howard, Kevin O'Neill and Christophe
 - **Executive Producer:** Joel Fried
 - **Creative Director:** Susan Swanson-Decker
 - **Product Manager:** Kevin O'Neill
+- **Programming Supervisor:** Andy Keplinger
 - **Lead Programmer:** Ben Howard
 - **Director of Animation:** John Siciliano
+- **Sound Design Supervisor:** Edgar Gresores
 - **Lead Sound Designer:** Joel Gould
+- **Original Music:** Bruce Zimmerman, among others
+- **User Manual:** Chris Lewis
 - **Davidson Producer:** Michele Lichtenstein
 
 Funnybone's MobyGames credits run from 1994 to 2006. Later titles include *Fisher-Price: Time to Play – Pet Shop* (1998), *Fisher-Price Big Action Construction* (2002) and several *JumpStart* titles[^ref-18]. According to MobyGames, Vivendi Universal Games closed the studio in 2003[^ref-18].
+
+### Voice Cast
+
+| Actor | Characters |
+|-------|------------|
+| Susan Swanson-Decker | Pixel[^ref-21][^ref-19] |
+| Joel Fried | Chisel[^ref-21][^ref-19] |
+| Bill Gusky | Fiddle[^ref-21][^ref-19] |
+| Scott Martin | Schmooze, Frank[^ref-21][^ref-19] |
+| Jim Blanchard | Schmooze[^ref-21][^ref-19] |
+| Angelo N. Scalise | Scoops (singing voice: Jerome Daly)[^ref-21][^ref-19] |
+| Greg Izzo | Dr. Pickles[^ref-21][^ref-19] |
+| Joan Zei | Katrina[^ref-19] |
+| Ben Howard | Himself, The Purple Glops, Al Extra Bucks[^ref-21][^ref-19] |
+
+Joel Fried, who voiced Chisel, was also president of Funnybone Interactive. Susan Decker, the voice of Pixel, was the game's creative director[^ref-16][^ref-21].
 
 ### Technical Achievements
 
 The game was built with Macromedia Director, which the MobyGames player review calls "an animation tool quite popular in the Nineties"[^ref-3][^ref-15]. The press release lists 50,000 frames of hand-drawn animation, "over 50 different worlds," and 20 original musical numbers that can also be played on an audio CD player[^ref-16].
 
 The 3-D effects came from clear-cellophane ToonVision glasses. In the press release's words, "The ChromaDepth™ lenses in these glasses are licensed from and manufactured by Chromatek Inc. Unlike the traditional red-and-blue filters," the method lets players without glasses see the same images "in crisp 2-D without any distortion"[^ref-16]. The Collection Chamber reviewer, who did not own the glasses, found the 3-D colour scheme did not work with ordinary red-and-cyan glasses[^ref-13].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| CD-ROM | October 1996 | Windows 3.1 / Windows 95 | 486DX/33 MHz minimum, QuickTime included[^ref-16]; preserved Windows 3.x image 330 MB[^ref-5] |
+| CD-ROM | October 1996 | Macintosh / Power Macintosh | System 7.1 or higher, QuickTime 2.0 included[^ref-16]; reviewed by MacAddict in March 1997[^ref-28]; preserved image 302 MB[^ref-5] |
 
 ### Technical Specifications
 
@@ -147,24 +176,9 @@ Stay Tooned! contains several creator cameos and fourth-wall jokes:
 
 Additional trivia:
 - The box was designed to look like a cereal box, "with the nutritional information and ingredients listing down the side"[^ref-17][^ref-13]
+- Sierra advertised the game in Disney Adventures in November and December 1996 with an offer of a Stay Tooned! demo CD-ROM by phone "while supplies last"; the ad's fine print says the free demo CD-ROM offer expired 12/31/96[^ref-32][^ref-33]
 - The official website (stay-tooned.com) offered Shockwave mini-games, including a game in which players could "beat the snot out of Frank"[^ref-26][^ref-22]
 - The TV spoofs include "Whinefeld" (*Seinfeld*), "Frauds" and "Schlepardy" (*Jeopardy!*)[^ref-16]
-
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Pixel | Susan Swanson-Decker[^ref-21][^ref-19] |
-| Chisel | Joel Fried[^ref-21][^ref-19] |
-| Fiddle | Bill Gusky[^ref-21][^ref-19] |
-| Schmooze | Scott Martin, Jim Blanchard[^ref-21][^ref-19] |
-| Scoops | Angelo N. Scalise (singing voice: Jerome Daly)[^ref-21][^ref-19] |
-| Frank | Scott Martin[^ref-21][^ref-19] |
-| Dr. Pickles | Greg Izzo[^ref-21][^ref-19] |
-| Katrina | Joan Zei[^ref-19] |
-| Ben Howard (himself), The Purple Glops, Al Extra Bucks | Ben Howard[^ref-21][^ref-19] |
-
-Joel Fried, who voiced Chisel, was also president of Funnybone Interactive. Susan Decker, the voice of Pixel, was the game's creative director[^ref-16][^ref-21].
 
 ## Legacy
 
@@ -186,12 +200,12 @@ The manual includes a page of hints, and Sierra's press release said the officia
 
 ### Critical Perspective
 
-Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. The Collection Chamber suggests this competition helps explain why it is little remembered[^ref-13]. HonestGamers argues that it is often wrongly filed as edutainment when it is really a graphic adventure[^ref-25]. Reviewers in 1996–97 and later retrospectives agree on its strengths: the cartoon humour aimed at the player, the shuffled building that rewards replaying, and a large set of mini-games that vary in quality[^ref-17][^ref-24][^ref-13]. MyAbandonware users remember it fondly. One calls it "one of the greatest memories" of their childhood, and another was "so happy" to share it with a daughter[^ref-5].
+Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. Gamecenter's 1997 review made the same comparison at the time, saying it "treads on its corns"[^ref-31], and The Collection Chamber suggests this competition helps explain why it is little remembered[^ref-13]. HonestGamers argues that it is often wrongly filed as edutainment when it is really a graphic adventure[^ref-25]. Reviewers in 1996–97 and later retrospectives agree on its strengths: the cartoon humour aimed at the player, the shuffled building that rewards replaying, and a large set of mini-games that vary in quality[^ref-17][^ref-24][^ref-13]. MyAbandonware users remember it fondly. One calls it "one of the greatest memories" of their childhood, and another was "so happy" to share it with a daughter[^ref-5].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on any digital storefront.
+- No GOG or Steam listing (checked November 2026)
 
 **Download / Preservation**
 - [The Collection Chamber](https://collectionchamber.blogspot.com/2018/09/stay-tooned.html) - Pre-configured DOSBox + Windows 3.1 installer[^ref-13]
@@ -206,12 +220,13 @@ Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. The 
 
 - [[1993 - Pepper's Adventures in Time]]
 - [[1993 - Slater & Charlie Go Camping]]
+- [[1997 - Eat My Dust]] - same studio, Funnybone Interactive
 
 ## References
 
 [^ref-2]: [Wikipedia – Stay Tooned! (video game)](https://en.wikipedia.org/wiki/Stay_Tooned!_(video_game)) – subtitle, platforms, character list (Pixel as leader, Chisel as twin), ending, Ben Howard's channel cameo
 [^ref-3]: [MobyGames – Stay Tooned!](https://www.mobygames.com/game/12362/stay-tooned/) – platforms, perspective/interface, Director engine group, critic score 76% (5), player review by Katakis (2019): hallway map, audio bug, randomness quote
-[^ref-4]: [TV Tropes – Stay Tooned!](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StayTooned) – in-game dialogue transcriptions (Frank's warning; Pixel and Chisel's ending lines)
+[^ref-4]: [TV Tropes – Stay Tooned!](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StayTooned) ([archived copy, 6 April 2026](http://web.archive.org/web/20260406143745/https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StayTooned)) – in-game dialogue transcriptions (Frank's warning; Pixel and Chisel's ending lines)
 [^ref-5]: [MyAbandonware – Stay Tooned!](https://www.myabandonware.com/game/stay-tooned-3qw) – user rating 4.44/5 (43 votes, Oct 2026), download sizes, perspective, user comments
 [^ref-7]: [Internet Archive – Stay Tooned! (USA)](https://archive.org/details/staytoonedusa) – disc preservation, original media
 [^ref-12]: [Giant Bomb – Stay Tooned!](https://giantbomb.com/wiki/Games/Stay_Tooned) – game database entry, 1996, PC and Mac
@@ -225,10 +240,13 @@ Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. The 
 [^ref-21]: [Stay Tooned! User's Manual (Sierra On-Line / Davidson, 1996; scan archived from Sierra Chest)](https://web.archive.org/web/20220904050913/https://sierrachest.com/gfx/games/StayTooned/box/01_manual.pdf) – cover subtitle, story (p. 1), ToonVision 3D games (p. 14), hints (p. 15), credits (pp. 16–17)
 [^ref-22]: [Official Stay Tooned! website (stay-tooned.com, archived 30 December 1996)](https://web.archive.org/web/19961230232956/http://www.stay-tooned.com:80/) – official site, Shockwave interactive version, "FUNNYBONE Interactive: a Davidson Company"
 [^ref-23]: [Official Stay Tooned! website – Character Biographies (archived 2 March 1997)](https://web.archive.org/web/19970302001659/http://www.stay-tooned.com:80/BIOS.HTML) – five main characters: Schmooze, Scoops, Fiddle and the twins Chisel and Pixel
-[^ref-24]: [World Village Gamer's Zone – Stay Tooned! review (1997, archived)](https://web.archive.org/web/19970709101550/http://www.worldvillage.com:80/wv/gamezone/html/reviews/tooned.htm) – graphics, randomisation, Duncan the doughnut, ToonVision 3-D glasses assessment
+[^ref-24]: [World Village Gamer's Zone – Stay Tooned! review by Rich Cunningham (1997, archived)](https://web.archive.org/web/19970709101550/http://www.worldvillage.com:80/wv/gamezone/html/reviews/tooned.htm) – review by Rich Cunningham: graphics, randomisation, Duncan the doughnut, ToonVision 3-D glasses assessment
 [^ref-25]: [HonestGamers – Stay Tooned! staff review by Zack Little (13 January 2006)](https://www.honestgamers.com/4454/pc/stay-tooned/review.html) – "decade-old graphic adventure that gets wrongly marked as edutainment"; 4/5 on game page
 [^ref-26]: [Official Stay Tooned! website – Stay Tooned Games! (archived 2 March 1997)](https://web.archive.org/web/19970302001630/http://www.stay-tooned.com:80/ARCADE.HTML) – Shockwave web mini-games featuring Frank, the "resident strongman"
 [^ref-27]: [PC Magazine, 17 December 1996, p. 354 (holiday gift guide, unsigned)](https://archive.org/details/PC-Mag-1996-12-17) – $40, over 30 games, over 50 environments, five 3-D games
-[^ref-28]: [MacAddict, issue 7 (March 1997), p. 86 (kids' CD-ROM panel, Brisbane Elementary School)](https://archive.org/details/MacAddict-007-199703) – Mac requirements, $40 street price, grades 5 to Adult, panel quotes, final report
+[^ref-28]: [MacAddict, issue 7 (March 1997), p. 86 (kids' CD-ROM panel, Brisbane Elementary School)](https://archive.org/details/MacAddict-007-199703) – Mac requirements, $40 street price, grades 5 to Adult, panel quotes, final report, all eight panelists' "Pick of the month", demo on the cover disc
 [^ref-29]: [PC Computing, March 1998, p. 162 (Stay Tooned review, unsigned)](https://archive.org/details/PC_Computing_1998_03) – three of five circles, "between a children's game and an adult satire", "take two aspirin"
 [^ref-30]: [Animation World Magazine vol. 1 no. 9 (December 1996), p. 14, Judith Shane, "Lettuce Entertain You: A Visit to Sierra On-Line"](https://archive.org/details/awn-magazine-volume-1-9) – CUC purchase of Sierra and Davidson; Funnybone acquired by Davidson; released under the Sierra label
+[^ref-31]: [Gamecenter – StayTooned review by Barry Brenesal (1997, archived)](https://web.archive.org/web/19970401005519/http://gamecenter.com/Reviews/Item/0,6,552,00.html) – "treads on its corns" (Toonstruck comparison), Nickelodeon "purple goop pie" line, "a strength, and a weakness"
+[^ref-32]: [Disney Adventures, vol. 6 no. 14 (November 1996), Sierra "Stay Tooned!" advertisement](https://archive.org/details/disney-adventures-magazine-volume-06-number-14-november-1996) – "Start Your Day off with an Explosive Cartoon Adventure"; call for a Stay Tooned! demo CD-ROM "(while supplies last)"; "Free demo CD-ROM offer expires 12/31/96"
+[^ref-33]: [Disney Adventures, vol. 7 no. 2 (December 1996), Sierra "Stay Tooned!" advertisement](https://archive.org/details/disney-adventures-magazine-volume-07-number-02-december-1996) – same ad; "Free demo CD-ROM offer expires 12/31/96"
