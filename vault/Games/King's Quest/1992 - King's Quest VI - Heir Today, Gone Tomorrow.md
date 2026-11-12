@@ -10,15 +10,16 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
-  finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
+  finest entry in Sierra''s flagship adventure series, representing a remarkable leap
+  forward in storytelling, puzzle design, and production values.'
 tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierra]
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -65,7 +66,7 @@ George Starostin's retrospective praised the refinement: "there are now many mor
 
 The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, usually no more than half a dozen screens[^ref-9], but puzzles interlock across locations—solving challenges on one island often requires objects gathered on another, much as in LucasArts' Monkey Island 2, released the previous December[^ref-12][^ref-58].
 
-A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-41]. This reflects the game's signature feature: roughly half of the game's puzzles are optional[^ref-41][^ref-5]. The design offers two major paths—a quicker "short path" and a "long path" that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures; only the long path reaches the full 231 points[^ref-14][^ref-41].
+A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-41]. This reflects the game's signature feature: roughly half of the game's puzzles are optional[^ref-41][^ref-5]. Hardcore Gaming 101 notes that the box's claim that over half the game is optional is "a pretty big exaggeration, but it's still a relatively significant chunk for something you don't need to do"[^ref-9]. The design offers two major paths—a quicker "short path" and a "long path" that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures; only the long path reaches the full 231 points[^ref-14][^ref-41].
 
 Lead programmer Robert Lindsley emphasized this nonlinear design in InterAction Magazine: "It's a very deep game. Players are going to see a lot of things they've never seen before. You're going to be able to play this game two or three times over. It's not linear at all. In fact, if anyone ever makes it through the game, if you ever solve it 100%, let us know. We'll give you a medal"[^ref-3].
 
@@ -138,7 +139,7 @@ Jensen wrote over 6,000 messages for the game—reportedly four times the script
 - **Additional Programming:** [[Doug Oldfield]], [[Carlos Escobar|Juan Carlos Escobar]][^ref-55]
 - **Senior Artists:** Michael Hutchison, John Shroades
 - **Artists:** Russell Truelove, Deanna Yhalkee, Darlou Gams, Tim Loucks, Rick Morgan, Jennifer Shontz, Cindy Walker, Karin A. Young
-- **Composer:** Christopher G. Braymen
+- **Composer:** [[Chris Braymen|Christopher G. Braymen]]
 - **Additional Music:** Dan Kehler, [[Mark Seibert]], Richard Spurgeon
 - **Quality Assurance Lead:** Robin Bradley
 - **Additional QA:** Mike Brosius, John Ratcliffe
@@ -148,7 +149,7 @@ The opening movie was created by Kronos Digital Entertainment, led by Stanley Li
 
 ### Technical Achievements
 
-King's Quest VI was Sierra's first adventure game to feature lip-syncing technology, acquired through Sierra's July 1992 purchase of Bright Star Technology for $1 million[^ref-7]. The technology came from Bright Star founder Elon Gasper, whom Ken Williams described as "a genius ex-college professor specializing in linguistics"[^ref-46]. This enabled character portraits to synchronize with voice acting, though only the CD-ROM version featured full voice acting throughout.
+King's Quest VI was Sierra's first adventure game to feature lip-syncing technology, acquired through Sierra's July 1992 purchase of [[Bright Star Technology]] for $1 million[^ref-7]. The technology came from Bright Star founder Elon Gasper, whom [[Ken Williams]] described as "a genius ex-college professor specializing in linguistics"[^ref-46]. This enabled character portraits to synchronize with voice acting, though only the CD-ROM version featured full voice acting throughout.
 
 The game employed video-captured actors for realistic character animation, with over 2,000 character actions recorded via motion capture[^ref-3][^ref-4]. Technical advances included "scaling" technology allowing characters to change size based on screen position for correct perspective, and "pather" technology enabling intelligent obstacle avoidance[^ref-3].
 
@@ -184,7 +185,7 @@ George Starostin noted the significance of the cast: "The first ever appearance 
 
 The love theme "Girl in the Tower" became an unusual case study in video game marketing. Composed by Mark Seibert with lyrics by Jane Jensen[^ref-29] and performed by Bob Bergthold and Debbie Seibert, the ballad elaborates on Seibert's "Princess Cassima's Theme" from King's Quest V[^ref-48].
 
-Ken Williams envisioned the song becoming a radio hit comparable to popular movie tie-in ballads of the era[^ref-7]. Sierra sent promotional CD singles to radio stations nationwide and included an 8-page pamphlet in every game box with phone numbers for major radio stations, urging customers to call and request the song[^ref-7].
+[[Ken Williams]] envisioned the song becoming a radio hit comparable to popular movie tie-in ballads of the era[^ref-7]. Sierra sent promotional CD singles to radio stations nationwide and included an 8-page pamphlet in every game box with phone numbers for major radio stations, urging customers to call and request the song[^ref-7].
 
 The campaign backfired spectacularly. Jimmy Maher recounts that many program directors called Ken to complain and "sometimes issued vague legal threats regarding obscure Federal Communications Commission laws"; Ken finally "agreed to pull the pamphlet from future King's Quest VI boxes"[^ref-7]. Williams later defended the effort: "In my opinion, the radio stations were the criminals for ignoring their customers, something I believe no business should ever do. Oh, well... the song was great"[^ref-7].
 
@@ -243,15 +244,15 @@ Critics attribute much of the game's quality to Jensen's involvement. TV Tropes 
 
 ### Commercial Performance
 
-King's Quest VI became Sierra's biggest success of 1992. According to Ken Williams, it sold around 400,000 copies in its first week[^ref-4][^ref-44], and it topped sales charts for DOS games upon release, still holding the number one position in December 1992[^ref-4]. Jimmy Maher calls it "by far the hottest game in the industry that Christmas"[^ref-7]. It was the first computer game certified gold (100,000 units) by the Software Publishers Association before shipping, based on pre-orders alone[^ref-7].
+King's Quest VI became Sierra's biggest success of 1992. According to [[Ken Williams]], it sold around 400,000 copies in its first week[^ref-4][^ref-44], and it topped sales charts for DOS games upon release, still holding the number one position in December 1992[^ref-4]. Jimmy Maher calls it "by far the hottest game in the industry that Christmas"[^ref-7]. It was the first computer game certified gold (100,000 units) by the Software Publishers Association before shipping, based on pre-orders alone[^ref-7]. Estimates of its total sales vary widely, but Maher judges it "seems likely that it sold 300,000 copies in all at a minimum, and quite possibly as many as 500,000 copies"[^ref-7].
 
 Sierra duplicated a million and a half disks in the two weeks before the October 13, 1992 launch, which came with an unprecedented number of pre-orders[^ref-42]. By November 1993, the CD-ROM version ranked as the 5th best-selling CD-ROM game[^ref-4]. PC Data tracked 300,000-400,000 units sold in the US by 2000[^ref-4].
 
 ### Soundtrack Releases
 
-The original soundtrack was composed by Christopher Braymen, with additional contributions from Dan Kehler and Mark Seibert[^ref-31]. Nightingale recordings were licensed from the Library of Natural Sounds at Cornell Laboratory of Ornithology[^ref-41].
+The original soundtrack was composed by [[Chris Braymen|Christopher Braymen]], with additional contributions from Dan Kehler and Mark Seibert[^ref-31]. Nightingale recordings were licensed from the Library of Natural Sounds at Cornell Laboratory of Ornithology[^ref-41].
 
-In 2024, Two Guys Records and Magic Map Studio released "King's Quest VI – An Ode to the Isles," a two-LP remastered reorchestration of Chris Braymen's score, produced by violinist Eric Elsom, with a bonus "Girl in the Tower" cover by Error 47 and Troels Pleimert on drums[^ref-30]. Pleimert, the Space Quest Historian, had earlier released his own KQ6 reorchestration EP in 2021[^ref-31].
+In 2024, Two Guys Records and Magic Map Studio released "King's Quest VI – An Ode to the Isles," a two-LP remastered reorchestration of [[Chris Braymen]]'s score, produced by violinist Eric Elsom, with a bonus "Girl in the Tower" cover by Error 47 and Troels Pleimert on drums[^ref-30]. Pleimert, the Space Quest Historian, had earlier released his own KQ6 reorchestration EP in 2021[^ref-31].
 
 ### Multiple Endings
 
@@ -271,10 +272,19 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 - Hull-hole detector (King's Quest V)
 - Cat-cookie mix (King's Quest III)
 - Golden bridle finder (King's Quest IV)
+- Self-adhesive emeralds (King's Quest V)
 - Tongue climbing gear (King's Quest IV)
+- Uvula tickler (King's Quest IV)
+- Cheese hook (King's Quest V)
+- A grave-digging shovel (King's Quest IV)
 - Bridge repair kit (King's Quest II)
-- Owl courage potion
 - Stair traction pads (various AGI-era games)
+- Owl Courage Potion, a nod to Cedric the owl in King's Quest V
+- Gnome-be-gone (King's Quest I)
+- Miniature carpet cleaner for castles in a bottle (King's Quest V)
+- Magic mirror glass cleaner
+- Shark repellant (King's Quest III or IV)
+- Talking to the bear on the shelf gives a "Talking Bear" reference
 
 **Name Origins:**
 - **Abdul Alhazred:** Shares his name with the "mad Arab" author of the Necronomicon in H.P. Lovecraft's stories[^ref-54]; TV Tropes lists the name as a shout-out[^ref-2]
@@ -291,6 +301,8 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 - An earlier, lower-quality Cassima voice recording exists in the DOS floppy version
 
 **Other Trivia:**
+- At the entrance gates of the Realm of the Dead, the player can play a set of bones like a xylophone, triggering a musical number in which skeletons dance in a chorus line[^ref-9]
+- In King's Quest (2015) Chapter 1, "A Knight to Remember", one of the tapestries in Gwendolyn's room is the cover art of King's Quest 6[^ref-11]
 - If Alexander falls from the first steps of the Cliffs of Logic three times, he tells the player to "Quit making me fall!"[^ref-50]
 - KQ6 references appear in Torin's Passage (Girl in the Tower behind theater curtain) and Leisure Suit Larry 6 ("Girl in the Shower" gag)[^ref-48]; an unused Space Quest IV easter egg, the "Room removed for Legal Reasons", reuses graphics of the secret passages in KQ6's Castle of the Crown[^ref-60]
 
@@ -302,7 +314,7 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 
 **Guidebook to the Land of the Green Isles:** Written by Jane Jensen and illustrated by John Shroades, this copy protection manual is presented as the travel journal of Derek Karlavaegen[^ref-13]. The guidebook includes island descriptions, the Ancient Ones' alphabet, Logic Cliffs riddles, and the Mali Mellin genie legend[^ref-13].
 
-**King's Quest VI Hintbook:** Written by Lorelei Shannon and designed by Mark Empey, the official hint book included "The Royal Family: A Celebration," a supplementary text written in-universe by "Bryanne Eridiphal" for King Graham's 25th anniversary[^ref-41].
+**King's Quest VI Hintbook:** Written by [[Lorelei Shannon]] and designed by Mark Empey, the official hint book included "The Royal Family: A Celebration," a supplementary text written in-universe by "Bryanne Eridiphal" for King Graham's 25th anniversary[^ref-41].
 
 **The King's Quest Companion:** Peter Spear's hint book series included a novelization of King's Quest VI titled "Heir Today, Gone Tomorrow: From the Chronicles of Daventry, Part VI" by eluki bes shahar, narrated by Derek Karlavaegen[^ref-49].
 
@@ -335,6 +347,7 @@ This game has been included in[^ref-20][^ref-21]:
 
 ## See Also
 
+- [[King's Quest Series]]
 - [[1984 - King's Quest - Quest for the Crown]]
 - [[1985 - King's Quest II - Romancing the Throne]]
 - [[1986 - King's Quest III - To Heir Is Human]]
@@ -356,7 +369,7 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-8]: [SCI Wiki – King's Quest VI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – SCI1.1 engine, version numbers, interpreter details
 [^ref-9]: [Hardcore Gaming 101 – King's Quest VI](http://www.hardcoregaming101.net/kings-quest-vi-heir-today-gone-tomorrow/) – Plot summary, Cassima backstory as Mordack's slave, pawn shop items ([archived copy, 2026-06-12](http://web.archive.org/web/20260612172428/https://www.hardcoregaming101.net/kings-quest-vi-heir-today-gone-tomorrow/))
 [^ref-10]: [KQ Omnipedia – Land of the Green Isles](https://kingsquest.fandom.com/wiki/Land_of_the_Green_Isles) – Three months voyage, Edge of World location, star navigation
-[^ref-11]: [Sierra Chest – King's Quest VI](https://www.sierrachest.com/index.php?a=games&id=6) – Plot summary, Alhazred's marriage plot
+[^ref-11]: [Sierra Chest – King's Quest VI, Easter eggs tab](https://www.sierrachest.com/index.php?a=games&id=6&title=kings-quest-6&fld=eggs) – pawnshop shelf items incl. "Owl Courage Potion" (Cedric), KQ2015 Chapter 1 cover-art tapestry, Space Quest IV removed room; plot summary and Alhazred's marriage plot are on the [General tab](https://www.sierrachest.com/index.php?a=games&id=6)
 [^ref-12]: [George Starostin – KQ6 Review](https://onlysolitaire.substack.com/p/game-review-kings-quest-vi-heir-today) – Island theme descriptions: Arabian Nights, Beauty and the Beast
 [^ref-13]: [KQ Omnipedia – Guidebook to the Land of the Green Isles](https://kingsquest.fandom.com/wiki/Guidebook_to_the_Land_of_the_Green_Isles) – Isle of Wonder comma shape, rival queens, Isle of Sacred Mountain Winged Ones
 [^ref-14]: [Sierra Help – KQ6 Endings](https://sierrahelp.com/Misc/Trivia/KQ6Endings.html) – Land of the Dead quest to rescue Cassima's parents
