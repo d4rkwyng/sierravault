@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks, Laura Bow
 engine: SCI1.1
 protagonist: Laura Bow (opponent)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a 1992
   Sierra On-Line budget release that pairs Yacht and Dominoes, taken from Hoyle 3,
   with Laura Bow as the opponent.'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -200,7 +200,6 @@ No hint book or strategy guide for this title is known. Sierra's InterAction mag
 - Not sold digitally; PCGamingWiki lists only the original retail release, and the game is on GOG's Dreamlist rather than its store[^ref-5][^ref-11]
 
 **Download / Preservation**
-- [CDRomance](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) - bundle of all five Crazy Nick's packs, prepared for ScummVM[^ref-9]
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-bo1) - DOS version[^ref-4]
 
 **Emulation**
@@ -224,7 +223,6 @@ No hint book or strategy guide for this title is known. Sierra's InterAction mag
 [^ref-4]: [MyAbandonware – Parlor Games with Laura Bow](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-bo1) – user rating (1 vote), download
 [^ref-5]: [PCGamingWiki – Parlor Games with Laura Bow](https://www.pcgamingwiki.com/wiki/Parlor_Games_with_Laura_Bow) – engine version (SCI1.1), availability (retail only)
 [^ref-7]: [MobyGames – Screenshots](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/screenshots/dos/901540/) – 320x200 screenshot of the difficulty selection screen
-[^ref-9]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – ScummVM bundle of all five packs
 [^ref-10]: [MyAbandonware – Alternative Entry](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-36u) – user rating (10 votes)
 [^ref-11]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow) – community wishlist votes (28 as of 2026-10-12)
 [^ref-12]: [PCGamingWiki – Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – the five series entries, all 1992
