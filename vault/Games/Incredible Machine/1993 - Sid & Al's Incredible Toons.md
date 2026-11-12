@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: The Incredible Machine engine
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Sid & Al's Incredible Toons is a cartoon-themed puzzle spin-off of The
   Incredible Machine, developed by Jeff Tunnell Productions (credited to Dynamix in
   some sources) and published by Sierra On-Line in 1993 for MS-DOS.
@@ -18,7 +18,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # Sid & Al's Incredible Toons
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -80,7 +80,7 @@ CGW also praised smaller improvements over The Incredible Machine: progress save
 
 ### Contemporary Reviews
 
-Sid & Al's Incredible Toons was well reviewed. Wayne Kawamoto of *Electronic Entertainment* (March 1994) called it "Rube Goldberg meets Wile E. Coyote" and "one of the best puzzle games on the market"[^ref-32]; Wikipedia records the magazine's score as 8 out of 10[^ref-2]. According to Wikipedia, the German magazine *PC Games* scored it 89 and *Wiz* 90[^ref-2]. *Power Play* reviewed it in issue 1/94[^ref-15].
+Sid & Al's Incredible Toons was well reviewed. Wayne Kawamoto of *Electronic Entertainment* (March 1994) called it "Rube Goldberg meets Wile E. Coyote" and "one of the best puzzle games on the market"[^ref-32]; Wikipedia records the magazine's score as 8 out of 10[^ref-2]. According to Wikipedia, the German magazine *PC Games* scored it 89 and *Wiz* 90[^ref-2]. The German magazine *Power Play* (issue 1/94) scored it 89%[^ref-15], and the French magazine *Tilt* (issue 122, January 1994) gave it an "Intérêt" rating of 86%[^ref-36].
 
 In *Computer Gaming World* #115 (February 1994), Neil Harris wrote: "It's exactly what I wanted from a sequel to The Incredible Machine. The puzzles are more challenging, the animation and sound effects are hysterically funny, and there are a host of small improvements"[^ref-29]. He praised the manual by Michael Waite and Richard Tunnell and predicted that the game "will certainly show up on best game of the year lists"[^ref-29]. In its June 1994 awards, CGW named the game one of two titles that "put new subject matter in the strategic orbit" in the Strategy Game of the Year category, which *Master of Orion* won[^ref-30]. Wikipedia describes it as a runner-up for that award[^ref-2].
 
@@ -97,7 +97,7 @@ Retro sites still rate the game well. Users of Abandonware DOS rate it 4.07/5.00
 - **GamePressure:** 8.1 (users)[^ref-7]
 - **Classic Gaming Network:** 65 points (staff review); 85.5% (users)[^ref-6]
 
-*Computer Gaming World*'s November 1996 fifteenth-anniversary issue placed the game 12th in "The Funniest Games Of All Time," writing that "Bouncing cartoon characters around Rube Goldberg-style devices was never this amusing before or since"[^ref-31]. MobyGames also lists a *Power Play* "Best Puzzle Game in 1994" award (issue 02/1995)[^ref-1].
+*Computer Gaming World*'s November 1996 fifteenth-anniversary issue placed the game 12th in "The Funniest Games Of All Time," writing that "Bouncing cartoon characters around Rube Goldberg-style devices was never this amusing before or since"[^ref-31]. The same issue's Computer Gaming Poll, a survey of CGW subscribers, ranked it second in "Top Classic/Puzzle Games" with a score of 7.18, behind *You Don't Know Jack* (8.06)[^ref-31]. MobyGames also lists a *Power Play* "Best Puzzle Game in 1994" award (issue 02/1995)[^ref-1].
 
 ## Development
 
@@ -126,6 +126,10 @@ The Sierra Chest dates the release to November 5, 1993[^ref-28], while GamePress
 - **Manual, Poster & Trading Cards Design:** Shawn Bird
 - **Original Game Concept:** Ryan Hahn
 
+### Voice Cast
+
+The DOS original has no voiced cutscenes, though some sound effects are spoken (a gun says "Bang")[^ref-6]. The Incredible Toon Machine added fully voiced cutscenes, and its CD-ROM release has voice-over animations before each puzzle[^ref-11][^ref-34].
+
 ### Technical Achievements
 
 The game runs on The Incredible Machine's engine[^ref-30]. Seven parts carry a "computer" handle that lets them be programmed, for example to set how many eggs Hildegard will lay[^ref-28].
@@ -139,6 +143,7 @@ The 30-track soundtrack includes pieces listed as "Bach," "Mozart," "Strauss" an
 - **RAM:** 2 MB[^ref-7][^ref-19]
 - **Operating System:** DOS 5.0[^ref-19]
 - **Graphics:** VGA[^ref-19]
+- **Sound:** Adlib, General MIDI, Pro Audio Spectrum, PS/1 Audio Card, Roland MT-32 (and LAPC-I), Sound Blaster, Sound Blaster Pro[^ref-1]
 - **Input:** Mouse[^ref-1]
 - **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk[^ref-1]
 
@@ -177,10 +182,6 @@ MyAbandonware lists the game as fully supported in DOSBox 0.70[^ref-5].
 
 - **Japanese Crossover:** In 1996 a Japan-only version of this game for PlayStation and Sega Saturn[^ref-1] replaced the toon characters and objects with monsters and items from Capcom's *Ghosts 'n Goblins*[^ref-11]; see [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]].
 
-## Voice Cast
-
-The DOS original has no voiced cutscenes, though some sound effects are spoken (a gun says "Bang")[^ref-6]. The Incredible Toon Machine added fully voiced cutscenes, and its CD-ROM release has voice-over animations before each puzzle[^ref-11][^ref-34].
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -205,12 +206,10 @@ No organized fan projects are documented. The HomeToons editor lets players save
 
 Writing about the whole series, Jimmy Maher says it was "more than just one of the pioneers of casual games in the abstract: it became the urtext of the entire genre of so-called 'physics simulators'"[^ref-9]. For this entry specifically, *Computer Gaming World* said the game "moves beyond the boundaries of the genre into a new generation of software toys"[^ref-30], and Classic Gaming Network's reviewer credited it with "perfecting" The Incredible Machine's idea[^ref-6].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently sold on GOG or Steam (checked October 2026).
-
-## Downloads
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993)
@@ -248,7 +247,7 @@ Writing about the whole series, Jimmy Maher says it was "more than just one of t
 [^ref-12]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Sid+&gid=2512) – user rating, graphics description, series info
 [^ref-13]: [Sierra Chest – Easter Eggs](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=eggs) – Quarky reference, Johnny Castaway sounds
 [^ref-14]: [SuperCheats – Bonus Levels](https://www.supercheats.com/pc/sidalsincredibletoons.htm) – WIND password cheat
-[^ref-15]: [Kultboy – Power Play 1/94](http://www.kultboy.com/index.php?site=t&id=3347) – scan of the Power Play review
+[^ref-15]: [Kultboy – Power Play 1/94](https://www.kultboy.com/index.php?site=t&id=3347) – scan of the Power Play review (p. 30–32): 89% overall, graphics 66%, sound 87%
 [^ref-16]: [MobyGames – Reviews](https://www.mobygames.com/game/3116/sid-als-incredible-toons/reviews/) – critic average 82% (17 ratings), player average 3.9/5 (14 ratings)
 [^ref-18]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=music) – soundtrack track listing
 [^ref-19]: [PCGamingWiki – Sid & Al's Incredible Toons](https://www.pcgamingwiki.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – developer, save file locations, system requirements, copy protection
@@ -257,8 +256,9 @@ Writing about the whole series, Jimmy Maher says it was "more than just one of t
 [^ref-28]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=walkthrough) – release date, puzzle counts, 71 parts, Pro-Parts, 99 sound effects, 30 songs, Toon Box, bonus puzzles
 [^ref-29]: [Computer Gaming World #115 (February 1994), pp. 148–150](https://archive.org/details/Computer_Gaming_World_Issue_115) – Neil Harris, "Saturday Morning Fever!" review
 [^ref-30]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards, Strategy Game of the Year coverage
-[^ref-31]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Funniest Games Of All Time", #12
+[^ref-31]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Funniest Games Of All Time", #12; Computer Gaming Poll, Top Classic/Puzzle Games, 2nd at 7.18 (p. 368)
 [^ref-32]: [Electronic Entertainment, March 1994, p. 90](https://archive.org/details/ElectronicEntertainment03Mar1994) – Wayne Kawamoto review
 [^ref-33]: [MobyGames – Credits (DOS)](https://www.mobygames.com/game/3116/sid-als-incredible-toons/credits/dos/) – full DOS credits incl. manual writers and original game concept
 [^ref-34]: [Sierra Chest – Sid & Al's Incredible Toons](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons) – developer, origami box, Incredible Toon Machine re-release details
 [^ref-35]: [Sierra Help Pages – The Incredible Machine Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TheIncredibleMachineUpdates.html) – STB video card Update (STBVID) listed under Sid & Al's Incredible Toons
+[^ref-36]: [Tilt #122 (January 1994), p. 40](https://archive.org/details/Tilt122) – review of Incredible Toons: Intérêt 86% (graphics 82, animation 85, music 78, sound effects 85)
