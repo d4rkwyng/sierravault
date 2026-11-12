@@ -66,7 +66,7 @@ The game includes a password-protected censoring option. When it is enabled, the
 
 ### Puzzles and Mechanics
 
-One MobyGames reviewer called Phantasmagoria "woefully easy," its puzzles little more than "trivially obvious item manipulations along the lines of 'use key on door'"[^ref-17]. The same reviewer counted only "a handful of what could be considered puzzles"[^ref-17], and computer game reviewers at the time complained that the gameplay was "much too easy and linear"[^ref-13].
+One MobyGames reviewer called Phantasmagoria "woefully easy," its puzzles little more than "trivially obvious item manipulations along the lines of 'use key on door'"[^ref-17]. The same reviewer counted only "a handful of what could be considered puzzles"[^ref-17], and Phil LaRose of *The Advocate* judged the game too linear, with overly simple puzzles[^ref-1].
 
 The inventory system follows standard adventure game conventions, with players collecting items throughout the mansion to solve environmental obstacles. However, a GameFAQs reviewer warns that some puzzles can soft-lock the game if done incorrectly, singling out the puzzle that involves sliding a newspaper under a door[^ref-18]. In the final chapter, missing certain religious artifacts can prevent completion[^ref-17].
 
@@ -76,7 +76,7 @@ The inventory system follows standard adventure game conventions, with players c
 
 Phantasmagoria received mixed reviews, with praise for its graphics and suspenseful tone and criticism of its slow pacing and easy puzzles[^ref-1]. *Computer Gaming World*'s Arinn Dembo wrote that the game "achieved a new height of realism and beauty in a computer game"[^ref-1], while the same publication declared: "For horror fans, Phantasmagoria is a signal event, one of the most powerful titles ever released in the genre, and easily the most single-mindedly horrific"[^ref-4].
 
-*PC Gamer US* awarded the game 88% and an Editor's Choice Award[^ref-1]. *Billboard* magazine proclaimed it "Hotly awaited and, well, just hot, Phantasmagoria lives up to the advance billing"[^ref-4]. The *Houston Chronicle*'s Dwight Silverman called it "as close as it gets to a film you control"[^ref-1].
+*PC Gamer US* awarded the game 88% and an Editor's Choice Award[^ref-1]. *Billboard* magazine proclaimed it "Hotly awaited and, well, just hot, Phantasmagoria lives up to the advance billing"[^ref-4]. The *Houston Chronicle*'s Dwight Silverman declared it the best game of the year, calling it a "masterwork" and "as close as it gets to a film you control," although he said not everyone would appreciate it because of its violent content[^ref-1]. It was one of three nominees for *PC/Computing*'s Game of the Year[^ref-1].
 
 However, *GameSpot*'s Jeff Sengstack gave the game a 6.0/10, calling it "generally unchallenging, the characters weak, the violence over-the-top, and the script just lame"[^ref-1]. The site's official review stated that "Sierra's first attempt at a full-blown, live-action, interactive video adventure, and their ambition far outweighs the results"[^ref-14]. *Power Play* magazine named it the "Biggest Disappointment in 1995"[^ref-9].
 
@@ -97,7 +97,7 @@ The game has achieved cult status among retro gaming enthusiasts, though origina
 
 ### Origins
 
-The concept for Phantasmagoria had been in Roberta Williams' mind for several years before production began, representing "something dramatically different from the family-friendly King's Quest series"[^ref-13]. Williams had wanted to make a horror game for eight years and had started to design one on several occasions, but she felt that software technology was not yet capable of an effective, frightening game, so she waited for faster CD-ROMs[^ref-1][^ref-18]. In an interview with David Becker published by Retro Replay on October 26, 2026, Williams said of the horror idea: "I was playing with it in my mind for about a year"[^ref-37].
+The concept for Phantasmagoria had been in Roberta Williams' mind for several years before production began, representing "something dramatically different from the family-friendly King's Quest series"[^ref-13]. Williams had wanted to make a horror game for eight years and had started to design one on several occasions, but she felt that software technology was not yet capable of an effective, frightening game, so she waited for faster CD-ROMs[^ref-1][^ref-18]. In an interview with David Becker published by Retro Replay on October 26, 2026, Williams said of the horror idea: "I was playing with it in my mind for about a year"[^ref-37]. In the same interview she recalled deciding, "I want to see if we can scare people with this computer," and said of the setting: "You'd be surprised how much the house in Phantasmagoria is very similar in structure and the layout of the rooms to Mystery House"[^ref-37].
 
 Williams explained her motivation: "I felt I had more to offer than fairy stories. I wanted to explore games with a lot of substance and deep emotions"[^ref-1]. Around the game's release, she spoke of her dream of becoming "the Steven Spielberg of interactivity"[^ref-4].
 
@@ -109,7 +109,7 @@ Sierra built a new video studio in Oakhurst for the game, overseen by studio man
 
 A professional Hollywood special effects house worked on the game's gore sequences[^ref-1]. Props were built by local Oakhurst craftsmen[^ref-4]. The game featured more than 1,000 different background views compared to the typical 80-100 for adventure games of the era[^ref-1]. The 550-page script was four times the length of an average Hollywood screenplay, and it came with a further 100 pages of storyboards representing 800 scenes in total[^ref-1].
 
-The game was essentially finished by late 1994, but Sierra chose to call back cast and crew members for two additional sessions of filming[^ref-9]. After multiple delays, including a date change to August 3, Phantasmagoria was released in stores on August 24, 1995[^ref-1]. Sierra Help, GameSpot, Steam and GOG list its release date as July 31, 1995[^ref-8][^ref-14][^ref-20][^ref-15].
+The game was essentially finished by late 1994, but Sierra chose to call back cast and crew members for two additional sessions of filming[^ref-9]. After multiple delays, including a date change to August 3, Phantasmagoria was released in stores on August 24, 1995, the same day as Windows 95[^ref-1]. Sierra Help, GameSpot, Steam and GOG list its release date as July 31, 1995[^ref-8][^ref-14][^ref-20][^ref-15].
 
 **Development Credits:**[^ref-9]
 - **Lead Design:** [[Roberta Williams]]
@@ -180,7 +180,7 @@ The original working title for the game was "Scary Tales"[^ref-9]. A directory f
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | August 24, 1995 | DOS/Windows | Initial North American release; in stores August 24 per Wikipedia[^ref-1]. Sierra Help, GameSpot, Steam and GOG give July 31, 1995[^ref-8][^ref-14][^ref-20][^ref-15] |
+| Original | August 24, 1995 | DOS/Windows | Initial North American release; in stores August 24, the same day as Windows 95, per Wikipedia[^ref-1]. Sierra Help, GameSpot, Steam and GOG give July 31, 1995[^ref-8][^ref-14][^ref-20][^ref-15] |
 | 1.100.000 | 1995 | DOS/Windows | Latest retail version[^ref-8] |
 | Mac | 1995 | Macintosh | Mac OS Classic port. Wikipedia gives November 1995[^ref-1]; MobyGames and PCGamingWiki give August 1995[^ref-9][^ref-24] |
 | Saturn | August 8, 1997 | Sega Saturn | Japanese release (*Phantasm*), 8 CDs; ported by Infini Entertainment Technology and published by Outrigger[^ref-1]. GameSpot also lists Infini as a developer[^ref-14] |
@@ -215,7 +215,6 @@ Players and reference sites report several technical problems, including:
 - **Leisure Suit Larry Reference:** The office of Bob Thompkins is decorated with posters of girls from Leisure Suit Larry 6[^ref-9]
 - **Absinthe Bottle:** In the bar on the first floor, a bottle of absinthe gradually empties as the game progresses[^ref-9]
 - **Chapter 7 Recording:** The game records all player actions in Chapter 7, allowing playback viewing[^ref-17]
-- **Real Relationship:** Victoria Morsell (Adrienne) and David Homb (Don) began dating a week after they started filming together[^ref-9]
 - **Costume Trivia:** Sierra's *InterAction* magazine reported that the producer liked the jeans and top Victoria Morsell wore to her first day of filming better than her planned costume, so she kept wearing the same jeans to the set every day of the 15 weeks of filming; by the end, "duct tape, patches and prayers" held them together[^ref-2][^ref-34]
 
 ## Legacy
@@ -243,6 +242,7 @@ Parents' groups, religious organizations, community action committees and specia
 - 1995 Best FMV of the Year from *Computer Game Review*[^ref-1]
 - Best Adventure Game of the Year by *Games Magazine*[^ref-1]
 - Game of the Month by *Windows Magazine*[^ref-1]
+- One of three nominees for Game of the Year from *PC/Computing*[^ref-1]
 
 ### Collections
 
@@ -295,7 +295,7 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 [^ref-8]: [Sierra Help Wiki – Phantasmagoria](https://wiki.sierrahelp.com/index.php/Phantasmagoria) – engine information, version numbers, technical details
 [^ref-9]: [MobyGames – Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/) – credits, trivia, easter eggs, awards, regional versions
 [^ref-12]: [Amazon – Phantasmagoria](https://www.amazon.com/Roberta-Williams-Phantasmagoria-Pray-Nightmare-DOS/dp/B000W8JFS8) – customer reviews, technical issues, controversy details
-[^ref-13]: [US Modern Culture Wiki – Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) – development costs, studio construction, reception
+[^ref-13]: [US Modern Culture Wiki – Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) – anonymous fan-wiki overview; concept as a departure from King's Quest, Poe/King-style horror, studio built for the game
 [^ref-14]: [GameSpot Reviews – Phantasmagoria](https://www.gamespot.com/games/roberta-williams-phantasmagoria/reviews/) – official score, user average, critical quotes
 [^ref-15]: [GOG.com – Phantasmagoria](https://www.gog.com/en/game/phantasmagoria) – store page; user reviews, technical issues
 [^ref-16]: [GameFAQs Walkthrough – Comix122](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2110) – gameplay tips
@@ -317,5 +317,5 @@ Other players remember it more fondly. A GameSpot user retrospective says the ga
 [^ref-34]: [Internet Archive – *InterAction* Magazine, Vol. VII No. 1, Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra On-Line; p. 81, "The Story of Tori's Jeans" (scan page checked): "She had worn them to the set every single day of the 15 weeks of filming"
 [^ref-35]: [Internet Archive – *InterAction* Magazine, Vol. VII No. 2, Holiday 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_2_Holiday_1994_1994_Sierra_On-Line_US_partial) – Sierra On-Line; p. 26, "The Cast" (scan page checked): "Marie is played by film and TV star Traci Clauson"
 [^ref-36]: [Entertainment Weekly – Phantasmagoria (Harold Goldberg, September 22, 1995; Wayback copy)](https://web.archive.org/web/20150405204214/http://www.ew.com/article/1995/09/22/phantasmagoria) – grade B+; "An ambitious seven-disc interactive movie that cost a reported $4 million to produce, the long-delayed Phantasmagoria is one of the surest signs yet of computer games approaching the quality level of the movies"
-[^ref-37]: [Retro Replay – Roberta Williams Interview: From Mystery House to a Life of Adventure (David Becker, October 26, 2026)](https://retro-replay.com/roberta-williams-interview/) – Williams on Phantasmagoria: "I was playing with it in my mind for about a year"
+[^ref-37]: [Retro Replay – Roberta Williams Interview: From Mystery House to a Life of Adventure (David Becker, October 26, 2026)](https://retro-replay.com/roberta-williams-interview/) – Williams on Phantasmagoria: "I was playing with it in my mind for about a year"; "I want to see if we can scare people with this computer"; house layout "very similar" to Mystery House
 [^ref-38]: [Mothership – The horror of Phantasmagoria was 30 years ahead of its time (Ashley Bardhan, November 2, 2026)](https://www.mothership.blog/the-horror-of-phantasmagoria-was-30-years-ahead-of-its-time/) – retrospective; visit to the Strong National Museum of Play; game "created, written, and designed by a woman"
