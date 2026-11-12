@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess by David Kittinger
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Guy Whitmore]
 description: Power Chess is a 1996 Windows 95 chess program from Sierra On-Line, built
   on David Kittinger's WChess engine, pairing an adaptive King opponent with a talking
@@ -19,13 +19,13 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Power Chess is a chess program released by Sierra On-Line on September 30, 1996, for Windows 95[^ref-1][^ref-6]. Its engine is WChess by David Kittinger, which had played against Deep Blue at the 1995 World Computer Chess Championship[^ref-1][^ref-27]. Wikipedia credits it with two main innovations: the program adjusts its level to match the player's, and after each game a female voice, the Queen, walks the player through the game and explains where they could have played better[^ref-1].
 
-The program was designed and directed by Elon Gasper[^ref-22][^ref-25], whom Sierra CEO Ken Williams later called the "genius" behind it: "Power Chess was Elon's baby"[^ref-16]. It won Computer Games Strategy Plus's 1996 award for Traditional Game of the Year[^ref-17], and in March 1997 the German magazine PC Joker rated it highest of four new chess programs[^ref-20].
+The program was designed and directed by Elon Gasper[^ref-22][^ref-25], whom Sierra CEO Ken Williams later called the "genius" behind it: "Power Chess was Elon's baby"[^ref-16]. It won Computer Games Strategy Plus's 1996 award for Traditional Game of the Year[^ref-17], and in March 1997 the German magazine PC Joker gave it the highest scores of four new chess programs, and in the magazine's own tournament it shared first place with Mephisto[^ref-20].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-11]
@@ -68,12 +68,12 @@ One chess.com forum user, recalling the program in 2019, wrote: "Twin game engin
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| PC Joker | 80% | Highest of four chess programs compared, issue 3/97[^ref-20] |
+| PC Joker | 80% | Highest scores of four chess programs compared (first place shared with Mephisto in the magazine's own tournament), issue 3/97[^ref-20] |
 | Computer Games Strategy Plus | 4/5 | As quoted in Sierra's InterAction magazine[^ref-21] |
 | GameSpot | 6.8/10 | Ron Dulin, November 15, 1996[^ref-13] |
 | MobyGames Critics | 78% | Average of 11 critic ratings[^ref-11] |
 
-PC Joker's comparison scored Power Chess 78% for presentation, 72% for controls, 80% for options and 86% for playing strength, for an overall 80%. That put it ahead of Mephisto Genius 3.5 (78%), Chessmaster 5000 (76%) and Grandmaster Chess Ultra (69%)[^ref-20]. The magazine noted that, unthrottled, the program had even drawn against Deep Blue[^ref-20].
+PC Joker's comparison scored Power Chess 78% for presentation, 72% for controls, 80% for options and 86% for playing strength, for an overall 80%. That put it ahead of Mephisto Genius 3.5 (78%), Chessmaster 5000 (76%) and Grandmaster Chess Ultra (69%)[^ref-20]. PC Joker listed the price as about 129 DM, against about 119 DM for Mephisto, about 99 DM for Chessmaster 5000 and about 19.80 DM for Grandmaster Chess Ultra[^ref-20]. The magazine also ran its own editorial tournament in which each program played two games against every other: "Power Chess und Mephisto belegten gemeinsam den ersten Platz, knapp gefolgt von Chess Master" (translation mine: Power Chess and Mephisto shared first place, narrowly followed by Chess Master)[^ref-20]. The magazine noted that, unthrottled, the program had even drawn against Deep Blue[^ref-20].
 
 Sierra's own InterAction magazine later quoted Computer Games Strategy Plus as calling it "a fresh, addictive, and innovative way for the rest of us to improve our play"; the line comes from Chuck Klimushyn's 1996 review.[^ref-24] It also quoted *Wired*: "one of the best things to happen to on-screen chess since there was such a thing"[^ref-21].
 
@@ -89,7 +89,7 @@ Power Chess keeps a small following. A 2015 Reddit post called it "literally the
 
 ### Origins
 
-Ken Williams has described Power Chess as part of his push to expand Sierra "into additional categories besides adventure games". Chess, in his recollection, was a predictable and solid category dominated by one entrenched product[^ref-16]. He planned for a long campaign: "My goal was to have an awesome product, but recognize that our plan was going to be to take 5-10% of the business in year one, and then add 5-10 points per year for each of the next five years"[^ref-16].
+Elon Gasper co-founded Bright Star Technology, which Sierra acquired in 1992, and then served as Sierra's vice president of educational games[^ref-31]. Ken Williams has described Power Chess as part of his push to expand Sierra "into additional categories besides adventure games". Chess, in his recollection, was a predictable and solid category dominated by one entrenched product[^ref-16]. Williams planned for a long campaign: "My goal was to have an awesome product, but recognize that our plan was going to be to take 5-10% of the business in year one, and then add 5-10 points per year for each of the next five years"[^ref-16].
 
 In Sierra's InterAction magazine in 1996, Gasper said he built his first chess engine on a university mainframe 25 years earlier. He said the idea of running two engines as separate processes, talking to a multi-threaded front end through anonymous pipes, came to him in early 1995[^ref-25]. The team then took WChess, which InterAction says won the Harvard Cup man-machine tournament, and Gasper "modified WChess to create a human-like competitor", the King. Playing the Queen means "playing WChess itself, straight out of the bottle"[^ref-25]. The Chessprogramming Wiki records that WChess scored 5/6 at the 1994 Harvard Cup and took part in the 1995 World Computer Chess Championship[^ref-29]. It describes Kittinger as the author of the Chessmaster 2000 engine who released WChess as a DOS program in 1995, with a Windows 95 version of Power Chess on the market from 1996[^ref-30].
 
@@ -109,10 +109,18 @@ Power Chess won the Traditional category of Computer Games Strategy Plus's 1996 
 
 Ken Williams counted it a success: "We launched the product, to critical aclaim [sic]... My recollection is that we exceeded my target market share of 5% by at least double." After Sierra was sold, he recalled, the new owners asked why they were spending "a million a year to build a chess product that is a distant #2 in the category" and "promptly axed the product"[^ref-16].
 
+## Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Power Chess | September 30, 1996 | Windows 95 | Original release[^ref-1][^ref-6] |
+| Power Chess 98 | November 3, 1997 (Sierra Chest); Wikipedia gives 1997 | Windows 95/98 | Updated version[^ref-1][^ref-32] |
+| Power Chess 2.0 | 1999 (Sierra Chest); 1998 per Wikipedia, citing Sierra UK's Catalog 98/99 | Windows | Later revision[^ref-1][^ref-33] |
+
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam
+- No Steam or GOG listing (checked November 2026)
 
 ## See Also
 
@@ -143,3 +151,6 @@ Ken Williams counted it a success: "We launched the product, to critical aclaim 
 [^ref-28]: [PC Games, Vol. 4 No. 01, January 1997 (Internet Archive)](https://archive.org/details/pc-games-vol.-4-no.-01-january-1997-kitsunebi) – Gamewire item on the Sierra Internet Gaming Service for Power Chess; Scott Lynch quote
 [^ref-29]: [Chessprogramming Wiki – WChess](https://www.chessprogramming.org/WChess) – 5/6 at Harvard Cup 1994, WCCC 1995, engine of Sierra's Power Chess (Windows 95, 1996)
 [^ref-30]: [Chessprogramming Wiki – David Kittinger](https://www.chessprogramming.org/David_Kittinger) – Kittinger background, Chessmaster 2000 engine, WChess 1995 DOS release, Power Chess engine
+[^ref-31]: [Wikipedia – Elon Gasper](https://en.wikipedia.org/wiki/Elon_Gasper) – co-founder of Bright Star Technology; after Sierra's 1992 acquisition, VP of Educational Games
+[^ref-32]: [Sierra Chest – Power Chess 98](https://sierrachest.com/index.php?a=games&id=411&title=power-chess-98&fld=general) – first release 1997-11-03
+[^ref-33]: [Sierra Chest – Power Chess 2.0](https://sierrachest.com/index.php?a=games&id=541&title=power-chess-2&fld=general) – first release 1999-01-01
