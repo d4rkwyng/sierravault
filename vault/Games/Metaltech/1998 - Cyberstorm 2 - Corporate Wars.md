@@ -10,7 +10,7 @@ series: Cyberstorm
 engine: Turn-based tactical combat engine with optional real-time mode
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Cyberstorm 2: Corporate Wars is a 1998 tactical strategy game developed
   by Dynamix and published by Sierra On-Line, in which rival corporations fight with
   customizable HERCs.'
@@ -18,11 +18,11 @@ tags: [1990s, cyberstorm, sierra, strategy]
 ---
 # Cyberstorm 2: Corporate Wars
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Cyberstorm 2: Corporate Wars is a strategy game developed by Dynamix and published by Sierra On-Line. It went gold on April 28, 1998[^ref-1] and had reached retailers by June 4, 1998[^ref-26]. The game serves as a sequel to MissionForce: CyberStorm, taking place long after the events of the first game with the Cybrids no longer representing a major threat[^ref-2]. Set in the Typhoeus star system (spelled "Typheous" in some online sources) where a jumpgate has been discovered, eight Earth corporations fight for control of it[^ref-3][^ref-8].
+Cyberstorm 2: Corporate Wars is a strategy game developed by Dynamix and published by Sierra On-Line. GameSpot News reported on April 28, 1998 that Dynamix had told it on Monday that the game had gone gold, with shelves expected by June 1[^ref-1]; a June 4, 1998 GameSpot News item said it had made it to retailers[^ref-26]. The game serves as a sequel to MissionForce: CyberStorm, taking place long after the events of the first game with the Cybrids no longer representing a major threat[^ref-2]. Set in the Typhoeus star system (spelled "Typheous" in some online sources) where a jumpgate has been discovered, eight Earth corporations fight for control of it[^ref-3][^ref-8].
 
 The biggest change from its predecessor is the addition of real-time play alongside the traditional turn-based tactical combat[^ref-6]. Players become a representative of one of eight corporations[^ref-1] and lead mechs called HERCs (short for "HERCULAN: Humaniform-Emulation Roboticized Combat Unit with Leg-Articulated Navigation")[^ref-3] into battle against rival corporations and their armies[^ref-5]. As GameSpot's review put it, "Cyberstorm 2 takes its predecessor's compelling and sophisticated tactical engine and adds to it a much more complex campaign and a host of new features"[^ref-6].
 
@@ -47,7 +47,7 @@ The central conflict revolves around the discovery of a jumpgate in the Typhoeus
 
 ### Interface and Controls
 
-The game is played from a top-down isometric view-perspective, similar to MissionForce: CyberStorm while using many of the same graphical assets[^ref-10]. However, significant changes were made to the core mechanics, including a shift from the original's hexagonal grid system to a square-based battlefield[^ref-11]. This gives units eight directions of facing instead of six, and shields are now octagonal to fit the new map layout[^ref-3].
+The game is played from a top-down isometric view-perspective, similar to MissionForce: CyberStorm while using many of the same graphical assets[^ref-3]; MobyGames describes the view as "top-down semi-isometric"[^ref-7]. However, significant changes were made to the core mechanics, including a shift from the original's hexagonal grid system to a square-based battlefield[^ref-11]. This gives units eight directions of facing instead of six, and shields are now octagonal to fit the new map layout[^ref-3].
 
 Players can choose between turn-based and real-time modes, though GameRevolution judged the game's essence to be RTS[^ref-12]. GameSpot's Greg Kasavin called the real-time option "an obvious attempt to attract the more common breed of strategy gamer," adding that the game "moves far too quickly, and is far too complicated in general, to make it worth playing in real time"[^ref-6].
 
@@ -55,7 +55,7 @@ Players can choose between turn-based and real-time modes, though GameRevolution
 
 Each of the eight corporations has different areas of expertise and limitations, requiring players to adapt their strategies accordingly[^ref-13]. Players build forces, defend their facilities and colonies, and fight to claim their position as ruler of an entire solar system[^ref-1]. One player recalled on GOG's Dreamlist that "working your way up the corporate ladder by means of explosions was hilarious to me"[^ref-14].
 
-Customization is the game's strongest suit; Dan Hutchings of Games Domain, as quoted by MyAbandonware, wrote that "Cyberstorm 2 shines in one (and really only one) area - customization"[^ref-15]. Another GOG Dreamlist user remembered "more hercs, more 'derms, more mission types, more planets, actual research, and even entirely new classes of unit" compared to the original[^ref-14]. GamePressure counts 27 available units and about 300 components to choose from when modifying them[^ref-4].
+Customization is the game's strongest suit; Dan Hutchings of Games Domain, as quoted by MyAbandonware, wrote that "Cyberstorm 2 shines in one (and really only one) area - customization"[^ref-15]. Another GOG Dreamlist user remembered "more hercs, more 'derms, more mission types, more planets, actual research, and even entirely new classes of unit" compared to the original[^ref-14]. GamePressure's description gives 27 available units and as many as 300 components to choose from when modifying them[^ref-4], and MobyGames describes "plenty of different vehicles and HERCs and a plethora of different components" to modify and customize[^ref-7].
 
 ### Puzzles and Mechanics
 
@@ -68,14 +68,16 @@ The core gameplay revolves around tactical combat with HERCs and other vehicles,
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot | 6.8/10 | Mixed reception with technical criticisms[^ref-17] |
-| MobyGames | 59% | Critic average from 12 ratings; players average 2.5/5 from 5 ratings[^ref-7] |
+| MobyGames | 60% | Critic average from 15 ratings; players average 2.5/5 from 5 ratings[^ref-7] |
+| Computer Gaming World | 2/5 stars | Tim Carter, October 1998 (issue 171, p. 270), "Split Personality": "another half-baked sequel"; listed pros "Mech building and tactical real-time combat are okay"[^ref-29] |
+| CombatSim | 63 (overall rating) | Maurice Fitzgerald, July 15, 1998: interface "deep and covers pretty much all angles of asset management and research", but "real-time is a real letdown"[^ref-30] |
 | GameRevolution | C+ | Reviewed by Calvin Hubble, 8/98: "There's nothing extremely horrid about Cyberstorm 2, but there's nothing extremely good either"[^ref-27] |
 | MyAbandonware | 4.13/5 | Community rating[^ref-15] |
 | GameFAQs | Great | Based on 4 user ratings[^ref-16] |
 
 ### Critical Analysis
 
-Critics questioned the value of the hybrid design. GameRevolution asked whether the choice of real-time or turn-based play was "really useful (or necessary)" and answered "Well, not really"[^ref-12], while GameSpot felt real-time elements "occasionally permeate the preferable turn-based mode and bring it down"[^ref-6].
+Critics questioned the value of the hybrid design. GameRevolution asked whether the choice of real-time or turn-based play was "really useful (or necessary)" and answered "Well, not really"[^ref-12], while GameSpot felt real-time elements "occasionally permeate the preferable turn-based mode and bring it down"[^ref-6]. Computer Gaming World's Tim Carter wrote that the game "delivers a real-time engine with a few stop-action parameters that give the cursory illusion of a turn-based game," and concluded that Cyberstorm 2 "isn't an awful game; it just doesn't offer anything that's new or different"[^ref-29]. CombatSim's Maurice Fitzgerald judged that "This game should have followed the route of CS1 and been TB only"[^ref-30].
 
 The visual presentation drew particular criticism. GameSpot's review said that "Cyberstorm 2's haggard appearance will repulse those who've grown accustomed to high-end graphics, even as it makes the real-time play mode feel that much more inappropriate in light of beautiful games like Starcraft"[^ref-6]. GameRevolution likewise found that "Cyberstorm 2 can hardly compete with the big-name strategy games on today's market"[^ref-12].
 
@@ -97,19 +99,53 @@ MobyGames credits 82 people on the game, including designer/director Graeme Bayl
 
 Version 1.01 fixed "some timing problems that affected some new machines with 100-mhz bus speeds"[^ref-21]. Its July 2, 1998 readme added: "We are paying close attention to the user feedback we are getting and will look into doing further updates in the future"[^ref-21].
 
+### Development Credits
+
+MobyGames lists the following credits for the Windows version[^ref-28]:
+
+- **Designer/Director:** Graeme Bayless
+- **Associate Designer:** Scott Bandy
+- **Producer:** Neil Haldar
+- **Lead Software Engineer:** Stephen Cordon
+- **Software Engineers:** Michael Lytton, Cristina Negoita, Gary J. Shannon, Christopher K. Singleton
+- **Mission Scripting:** Cristina Negoita
+- **Art Director:** Mary Ann Fernandes
+- **Conceptual Art:** Mary Ann Fernandes, Richard Hescox
+- **3D Artists:** Jared Keller, Michael Price, Thomas Van Velkinburgh
+- **2D Artists:** James Anderson, Sienna Chastain, Michael DeSalvo, Jared W. Eden, K. Maren Wyatt, Michael Price
+- **Music:** Charles Barth, Loudmouth
+- **Sound Engineer:** Ken Rogers
+- **Voice Talent:** Kate Alley, Scott Bandy, Trish Bayless, Matthew Berliner, Andrew Binder, Barry Corkery, Ryan Honey, Chandler Melvin, Torri Mulvhaney, Jennifer Stewart, Mark Zolan
+- **Voice Recordings:** Loudmouth
+- **Manual Writer:** Kevin Lamb
+- **QA Manager:** Lloyd Madden
+- **Brand Manager:** Jeff Hoff
+
 ### Technical Achievements
 
 The game reuses many graphical assets from MissionForce: CyberStorm[^ref-3]. Van Velkinburgh's second-pass lighting let the robots' lights flicker and blink "from all angles and frames"[^ref-20], a detail that stands apart from reviewers' broader criticism of the graphics[^ref-6][^ref-12].
 
-The game required specific technical considerations for proper installation, with documentation noting "Don't create a path with a space in it or else the AVI videos will not play"[^ref-22]. System requirements included an IBM-compatible Pentium-133 processor, Windows 95, 24 MB RAM, and a 4X CD-ROM drive for minimum specifications[^ref-8]. A fan-made 32-bit redo of Sierra's 1.01 patch exists because Sierra's original patcher ran only on 16-bit Windows[^ref-21][^ref-23].
+The game required specific technical considerations for proper installation, with documentation noting "Don't create a path with a space in it or else the AVI videos will not play"[^ref-22]. A fan-made 32-bit redo of Sierra's 1.01 patch exists because Sierra's original patcher ran only on 16-bit Windows[^ref-21][^ref-23].
 
 Multiplayer supported up to eight players via Internet, network, or modem[^ref-1], with online play through the WON network[^ref-12].
+
+### Technical Specifications
+
+- **Minimum (manual):** an IBM-compatible Pentium-133, Windows 95, 4X CD-ROM drive, 24 MB RAM, 1 MB local bus video card, a hard disk with 40 MB free (minimum installation), an SVGA graphics card and monitor, and a mouse[^ref-8].
+- **Preferred (manual):** Pentium 166 or better, 8x CD-ROM drive, 32 MB RAM, a PCI video card, and a hard disk with 55 MB free (typical installation)[^ref-8].
+- **Display (MobyGames):** 256 colors required, full screen; 640×480, 800×600 and 1024×768 supported; an analog joystick is listed as a supported controller[^ref-31].
+- **Multiplayer (MobyGames):** Internet, LAN and modem[^ref-31].
+- **Ratings (MobyGames):** ESRB Everyone, USK 12, ACB G8+[^ref-31].
+
+### Release Dates
+
+Sources give different dates for the game's release. GameSpot's game page lists "First released: May 31, 1998"[^ref-32], and GameFAQs lists May 31, 1998[^ref-16]. A GameSpot News item posted June 4, 1998 said the game "has made it to retailers"[^ref-26]. MobyGames lists a June 1998 U.S. release, published by Sierra On-Line under the Sierra FX label, and a separate 1998 German release distributed by Cendant Software Deutschland GmbH[^ref-33]. The earlier gold report had given June 1 as the expected shelf date[^ref-1].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | April 28, 1998 | Windows 95 | Went gold[^ref-1]; at retail by June 4, 1998[^ref-26] |
+| 1.0 | Reported gold April 28, 1998 | Windows 95 | GameSpot News: Dynamix said on Monday the game had gone gold[^ref-1]; GameSpot News reported it at retailers June 4, 1998[^ref-26] |
 | 1.01 | July 2, 1998 | Windows 95 | Fixed timing issues on 100MHz bus machines[^ref-21] |
 
 ## Legacy
@@ -135,6 +171,10 @@ Cyberstorm 2 is the last entry in the Cyberstorm series; MobyGames lists no late
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/cyberstorm-2-corporate-wars-a2r)
 
+**Manuals & Extras**
+- [Cyberstorm 2: Corporate Wars manual (Internet Archive)](https://archive.org/details/CyberStorm_2-_Corporate_Wars_-_Manual)
+- [Patch 1.01 and 32-bit redo (ModDB)](https://www.moddb.com/downloads/cyberstorm2-corporate-wars-patch-v101)
+
 ## See Also
 
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
@@ -153,15 +193,14 @@ Cyberstorm 2 is the last entry in the Cyberstorm series; MobyGames lists no late
 
 ## References
 
-[^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – "CyberStorm 2 Goes Gold" (04/28/98): gold master, eight corporations, up to eight players, US$39.95
+[^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – "CyberStorm 2 Goes Gold" (posted 04/28/98): Dynamix informed GameSpot News on Monday that the game had gone gold, expected on shelves by June 1; eight corporations, up to eight players, US$39.95
 [^ref-2]: [ModDB Game Page](https://www.moddb.com/games/cyberstorm-2-corporate-wars) – Story background and series context
-[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/CyberStorm_2:_Corporate_Wars) – Plot summary, HERC name, grid/facing changes
-[^ref-4]: [GamePressure](https://www.gamepressure.com/games/cyberstorm-2-corporate-wars/z5186f) – Unit and component counts
+[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/CyberStorm_2:_Corporate_Wars) – Plot summary, HERC name, top-down isometric view, grid/facing changes
+[^ref-4]: [GamePressure](https://www.gamepressure.com/games/cyberstorm-2-corporate-wars/z5186f) – Description giving unit and component counts
 [^ref-5]: [AbeBooks Strategy Guide](https://www.abebooks.com/9780761515746/Cyberstorm-Corporate-Wars-Primas-Official-0761515747/plp) – Prima guide by Shane Mooney; game premise
 [^ref-6]: [GameSpot Review](https://www.gamespot.com/reviews/cyberstorm-2-corporate-wars-review/1900-2538492/) – Greg Kasavin's review
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/) – Credits, description, critic (59%, 12 ratings) and player (2.5/5) scores, series listing
-[^ref-8]: [Archive.org Manual](https://archive.org/stream/CyberStorm_2-_Corporate_Wars_-_Manual/CyberStorm_2-_Corporate_Wars_-_Manual_djvu.txt) – Prologue, system requirements, multiplayer modes
-[^ref-10]: [KHInsider Downloads](https://downloads.khinsider.com/game-soundtracks/album/cyberstorm-2-corporate-wars-1998-windows) – Visual perspective description
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/) – Description, critic (60%, 15 ratings) and player (2.5/5) scores, series listing
+[^ref-8]: [Archive.org Manual](https://archive.org/details/CyberStorm_2-_Corporate_Wars_-_Manual) – Prologue, system requirements, multiplayer modes
 [^ref-11]: [MobyGames Reviews](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/reviews/) – Battlefield system changes
 [^ref-12]: [GameRevolution](https://www.gamerevolution.com/review/33208-cyberstorm-2-corporate-wars-review) – Review text (current site repost)
 [^ref-13]: [GamesDB LaunchBox](https://gamesdb.launchbox-app.com/games/details/129606-cyberstorm-2-corporate-wars) – Corporation mechanics
@@ -179,3 +218,9 @@ Cyberstorm 2 is the last entry in the Cyberstorm series; MobyGames lists no late
 [^ref-25]: [GitHub Repository](https://github.com/juanitogan/rbxit) – Preservation patches
 [^ref-26]: [Web Archive GameSpot News – New Releases](https://web.archive.org/web/20000612113807/http://headline.gamespot.com/news/98_06/04_release/index.html) – 06/04/98: "Cyberstorm 2: Corporate Wars from Sierra On-Line has made it to retailers"
 [^ref-27]: [Web Archive GameRevolution Review (1998)](https://web.archive.org/web/19990221065521/http://www.game-revolution.com:80/games/pc/strategy/cyberstorm.htm) – Original review by Calvin Hubble, 8/98, grade C+
+[^ref-28]: [MobyGames Credits](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/credits/) – Windows credits (1998): 82 people, 94 credits
+[^ref-29]: [Computer Gaming World no. 171 (October 1998), p. 270](https://archive.org/details/Computer_Gaming_World_Issue_171/page/n273) – Tim Carter, "Split Personality: Cyberstorm 2 Isn't Fulfilling, Whether Real-time or Turn-Based"; two of five stars
+[^ref-30]: [CombatSim Review](http://www.combatsim.com/review.php?id=58) – Maurice Fitzgerald, July 15, 1998; Overall Rating 63
+[^ref-31]: [MobyGames Specs](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/specs/) – Tech specs, attributes and age ratings
+[^ref-32]: [GameSpot Game Page](https://www.gamespot.com/games/cyberstorm-2-corporate-wars/) – "First released: May 31, 1998"
+[^ref-33]: [MobyGames Releases](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/releases/) – Jun 1998 U.S. release (Sierra FX label); 1998 German release
