@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: 'Unknown (sound: AIL / Miles Sound System)'
 protagonist: Player-controlled Lord
 sierra_lineage: Acquired Franchise
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Lords of the Realm is a 1994 medieval strategy game by Impressions Games
   in which six lords compete for the empty English throne through farming, castle-building
   and real-time battles.
@@ -18,7 +18,7 @@ tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -51,13 +51,13 @@ As players progress, they must navigate the harsh realities of medieval governan
 
 ### Interface and Controls
 
-Lords of the Realm features a top-down strategic map view where players manage their counties and plan their campaigns.[^ref-5] The game utilizes a mouse-driven interface with keyboard support for various functions.[^ref-12] Players interact with their realm through a series of menus and screens that allow management of population, resources, military forces, and diplomatic relations with rival lords.
+Lords of the Realm features a top-down strategic map view where players manage their counties and plan their campaigns.[^ref-5] The game utilizes a mouse-driven interface with keyboard support for various functions.[^ref-12] An integrated system of charts and graphs lets players follow activity across their realm and compare themselves with their opponents.[^ref-12]
 
 Statistics screens show each county's grain produced, eaten and stored, livestock gained and lost, and population changes and their causes,[^ref-6] and the game uses point-and-select controls.[^ref-7]
 
 ### Structure and Progression
 
-The game operates on a turn-based system where each turn represents a single season of a four-season year, starting in spring and ending in winter.[^ref-10] Winter is the harshest time of year, when previous decisions can make or break the populace's survival.[^ref-10]
+The game operates on a turn-based system where each turn represents a single season of a four-season year, starting in spring and ending in winter.[^ref-10] Winter is the harshest time of year, when previous decisions can make or break the populace's survival.[^ref-10] Production is linked to the seasons but is also affected by external and random events such as drought, floods and barren fields,[^ref-12] and GOG's listing for the Royal Edition likewise advertises "random events like drought or flooding."[^ref-11]
 
 Players begin with control of a single county and must expand their domain by conquering neighboring territories. The kingdom map has 32 counties to contest,[^ref-6] with the player cast as a noble lord of England or Wales in 1268.[^ref-20] Victory is achieved by capturing all territories and eliminating rival lords, ultimately claiming the throne.
 
@@ -79,9 +79,9 @@ Rather than traditional puzzles, Lords of the Realm challenges players with comp
 
 ### Contemporary Reviews
 
-Lords of the Realm received positive reviews upon release in 1994. The One Amiga awarded the game 84%, with reviewer Matt Broughton praising its strategic depth.[^ref-16] AUI magazine gave an even higher score of 91%, reflecting the game's strong reception in the Amiga community.[^ref-16] CU Amiga's Alan Dykes awarded 87%, while Amiga Dream's Grégory Halliday scored it 86%.[^ref-16]
+Lords of the Realm received mostly positive reviews. The Amiga Magazine Rack lists six Amiga magazine reviews of the AGA version, published between December 1994 and February 1995.[^ref-16] The One (issue 75, December 1994) gave the game 84%, with Matt Broughton as reviewer, and AUI (February 1995) gave 91%.[^ref-16] CU Amiga's Alan Dykes awarded 87% (January 1995), while Amiga Dream's Grégory Halliday scored it 86% (issue 14, January 1995).[^ref-16]
 
-Amiga Power's Rich Pelley gave the game 82%, and even the more critical Amiga Joker awarded 65% from reviewer Manfred Duy.[^ref-16] Amiga Format's Steve McGill gave it 80% in issue 66 (December 1994).[^ref-23] Next Generation rated it four stars out of five and concluded: "Strategy fans must own this title."[^ref-40] Michael House of Allgame wrote that "whatever faults can be attributed to the game's mechanics or contents are almost uniformly minor" and noted that "the detail, background and presentation of the game is so professional and well done that the obvious care and dedication of the designers and their staffs shines through from every aspect."[^ref-12]
+Amiga Power's Rich Pelley gave the game 82% (issue 44, December 1994), and Amiga Joker awarded 65% from reviewer Manfred Duy (January 1995).[^ref-16] Amiga Format's Steve McGill gave it 80% in issue 66 (December 1994).[^ref-23] Next Generation rated it four stars out of five and concluded: "Strategy fans must own this title."[^ref-40] Michael House of Allgame wrote that "whatever faults can be attributed to the game's mechanics or contents are almost uniformly minor" and noted that "the detail, background and presentation of the game is so professional and well done that the obvious care and dedication of the designers and their staffs shines through from every aspect."[^ref-12]
 
 PC Gamer honored the game with its Best Historical Simulation award for 1994, and it received a nomination from Computer Gaming World for Strategy Game of the Year.[^ref-4] CGW's May 1995 awards feature, which gave the prize to X-COM, called it "a medieval combat fest that is so fresh in its approach, it even makes animal husbandry fun."[^ref-41] Computer Game Review bestowed the Golden Triad Award upon the title.[^ref-18]
 
@@ -119,6 +119,7 @@ The game shipped on four 3.5" 1.44MB high-density diskettes, with an install siz
 - **Art Direction:** [[Chris Beatrice]]
 - **Music/Sound:** Jason P. Rinaldi
 - **Documentation:** Jennifer Hawthorne
+- **Amiga version:** conversion by Tony Hosier; manager Chris Bamford; producer Chris Foster; graphics by Chin Mei Yu, Heidi Mann, Julie Airoldi and Scot B. Forbes[^ref-23]
 
 ### Technical Achievements
 
@@ -152,7 +153,7 @@ The game included a custom castle design tool that allowed players to create the
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | June 1994 | DOS | Initial US release[^ref-4] |
-| 1.0 | 1994 | Amiga | UK release[^ref-16] |
+| 1.0 | 1994 | Amiga | UK release[^ref-6]; OCS/ECS version on 3 disks, with a separate AGA version[^ref-23] |
 | 1.02 | — | DOS | Floppy update (rlm102fd)[^ref-24] |
 | 1.03 | — | DOS | CD update (rlm103cd); fixes siege problems including disappearing armies, adds/enhances modem play[^ref-24] |
 | CD Edition | 1997 | Windows | Published by Crucial Entertainment, distributed in the UK by Sierra On-Line Ltd.[^ref-6]; added FMV intro, voices, Germany map[^ref-39] |
@@ -160,6 +161,16 @@ The game included a custom castle design tool that allowed players to create the
 | Mac (DOSBox) | April 23, 2013 | macOS | DOSBox-packaged release[^ref-7] |
 | Steam Release | December 3, 2015 | Windows | Published by Rebellion Developments[^ref-6] |
 | Linux Release | February 21, 2024 | Linux | DOSBox-packaged release[^ref-7] |
+
+### Amiga Version
+
+Lemon Amiga lists the Amiga release as 1994, published by Impressions, for OCS and ECS hardware on three disks, for one to six players and in English, with an AGA version as a variant.[^ref-23] The Amiga conversion is credited to Tony Hosier, with Simon Bradbury as coder and Jason P. Rinaldi as musician.[^ref-23] The six Amiga magazine reviews collected by the Amiga Magazine Rack are all listed under the AGA version.[^ref-16]
+
+### Multiplayer and Localization
+
+PCGamingWiki lists hot-seat play for up to six players, plus two-player LAN play (when using DOSBox) and two-player online play (via IPX tunneling or Classic Gaming Arena), both for the DOS version only.[^ref-7] GOG's listing notes that the game's multiplayer servers have been taken offline, though multiplayer over LAN is still available.[^ref-11]
+
+French and Polish localizations are listed by PCGamingWiki as retail only, and the GOG release carries a Polish translation transferred from the original Polish version.[^ref-7] GOG states that German language support is available only for the CD version of Lords of the Realm and for Lords of the Realm II.[^ref-11] PCGamingWiki notes that save files in the German CD version use the extension .svg instead of .sav, and that a free demo version is available from Archive.org and SierraHelp.[^ref-7]
 
 ### Technical Issues
 
@@ -232,16 +243,16 @@ Games Nostalgia sees it as "the ancestor to titles like the 'Total War' series."
 [^ref-4]: [Wikipedia – Lords of the Realm](https://en.wikipedia.org/wiki/Lords_of_the_Realm) – release dates, designers, composers, awards, battles, historical background PDF, sequels
 [^ref-5]: MyAbandonware – Lords of the Realm *(download link removed: the game is sold commercially)* – user ratings, HOTUD review, M. Evan Brooks quote
 [^ref-6]: [MobyGames – Lords of the Realm](https://www.mobygames.com/game/4303/lords-of-the-realm/) – ratings, description, technical specs, awards, engine, credits, release info, Edward I book trivia
-[^ref-7]: [PCGamingWiki – Lords of the Realm](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm) – platform release dates, DOSBox packaging, system requirements
+[^ref-7]: [PCGamingWiki – Lords of the Realm](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm) – platform release dates, DOSBox packaging, system requirements, multiplayer types, localizations, demo
 [^ref-10]: [Impressions Games Fandom Wiki – Lords of the Realm](https://impressionsgames.fandom.com/wiki/Lords_of_the_Realm) – seasonal turns, alliances, player count
-[^ref-11]: [GOG.com – Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – user ratings, game description, bundle contents, manual page count
-[^ref-12]: [Web Archive – Allgame Review](https://web.archive.org/web/20110203081251/http://www.allgame.com/game.php?id=13350&tab=review) – controls, interface description, review
+[^ref-11]: [GOG.com – Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – user ratings, game description, bundle contents, manual page count, random events, multiplayer and language notices
+[^ref-12]: [Web Archive – Allgame Review](https://web.archive.org/web/20110203081251/http://www.allgame.com/game.php?id=13350&tab=review) – controls, interface description, charts and graphs, random events, review
 [^ref-13]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – "a British video game developer founded by David Lester"; sold to Sierra On-Line in 1995
-[^ref-16]: [Amiga Magazine Rack – Lords of the Realm Reviews](https://amr.abime.net/review_28219) – contemporary magazine reviews and scores
+[^ref-16]: [Amiga Magazine Rack – Lords of the Realm Reviews](https://amr.abime.net/review_28219) – contemporary Amiga magazine review scores, issue dates and hardware (AGA)
 [^ref-18]: [Steam Store – Lords of the Realm](https://store.steampowered.com/app/254920/Lords_of_the_Realm/) – user reviews, awards, store description
 [^ref-19]: [Rock Paper Shotgun – Have You Played Lords of the Realm](https://www.rockpapershotgun.com/have-you-played-lords-of-the-realm) – gameplay analysis, message easter egg
 [^ref-20]: [Lilura1 Blog – Lords of the Realm Review](https://lilura1.blogspot.com/2022/04/Lords-of-the-Realm-IBM-PC-MS-DOS-1994-Impressions-Games-Original-Version.html) – technical specifications, manual page counts, setting
-[^ref-23]: [Lemon Amiga – Lords of the Realm](https://www.lemonamiga.com/game/lords-of-the-realm) – development credits, Amiga Format score, magazine average
+[^ref-23]: [Lemon Amiga – Lords of the Realm](https://www.lemonamiga.com/game/lords-of-the-realm) – development credits (including Amiga conversion), OCS/ECS and AGA versions, Amiga Format score, magazine average
 [^ref-24]: [Sierra Help – Lords of the Realm Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – patch versions
 [^ref-25]: [VOGONS Forums – Lords of the Realm 1: graphical mess](https://www.vogons.org/viewtopic.php?t=104795) – Holy Roman Empire scenario on the original CD
 [^ref-26]: [Microsoft Learn – 16-bit Application Support](https://learn.microsoft.com/en-us/answers/questions/2410263/unsupported-16-bit-application-lords-of-the-realm) – compatibility information
