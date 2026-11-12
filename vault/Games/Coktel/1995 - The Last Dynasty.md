@@ -10,7 +10,7 @@ series: Coktel
 engine: Gob
 protagonist: Mel Raauq
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: The Last Dynasty is a hybrid action-adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1995, combining space combat with first-person
   adventure segments.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, sierra]
 ---
 # The Last Dynasty
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -127,7 +127,7 @@ The Last Dynasty runs on the Gob engine, Coktel Vision's in-house engine.[^ref-7
 
 ### Cut Content
 
-In October 1996 MAN!AC previewed Saturn and PlayStation conversions as Sierra's first console title, whose summary box gives a German (BRD) release of November.[^ref-3] The Sega Saturn version was "all but complete" but never released.[^ref-17] According to Sega Saturn Shiro, the port was "basically finished and ready to go (minus a few bug fixes here and there)" but was pulled at the last minute, which the site speculates was "most likely" due to the Saturn's poor market performance.[^ref-17] Prototype CD-Rs had been auctioned off some years earlier, and the game was finally dumped publicly in March 2021.[^ref-17][^ref-18]
+In October 1996 MAN!AC previewed Saturn and PlayStation conversions as Sierra's first console title, whose summary box gives a German (BRD) release of November.[^ref-3] MAN!AC described the console version as Sierra's first spaceship simulation, in which the player is the prince of a strong space clan that cooperates with pirates; the preview mentions docking at a space station with a bar, informants and paid repairs, outfitting the ship in a shipyard, and an outside view that can be toggled for the scanner.[^ref-3] The Sega Saturn version was "all but complete" but never released.[^ref-17] According to Sega Saturn Shiro, the port was "basically finished and ready to go (minus a few bug fixes here and there)" but was pulled at the last minute, which the site speculates was "most likely" due to the Saturn's poor market performance.[^ref-17] Prototype CD-Rs had been auctioned off some years earlier, and the game was finally dumped publicly in March 2021.[^ref-17][^ref-18]
 
 ### Version History
 
@@ -198,7 +198,7 @@ In March 2021, a preservation milestone was achieved when the previously unrelea
 
 ### Related Publications
 
-- **Game Manual:** Shipped with the retail release; copies still circulate with secondhand boxes and in The Collection Chamber's package[^ref-9][^ref-10]
+- **Game Manual:** Shipped with the retail release; copies still circulate with secondhand boxes (NeverDieMedia lists it with the manual)[^ref-9]
 
 ### Critical Perspective
 
