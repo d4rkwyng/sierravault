@@ -37,6 +37,7 @@ Despite its risqué reputation, the game's actual content was remarkably tame. A
 > **Platforms:** MS-DOS, Amiga, Macintosh[^ref-1]
 > **Release Year:** 1991
 > **Series:** Leisure Suit Larry
+> **Composer:** Christopher Braymen, Al Lowe[^ref-48]
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Core Sierra
 
@@ -130,7 +131,7 @@ The original 1987 game was written in about three months, followed by two months
 
 According to MobyGames' trivia for the 1987 original, Larry owes his first name to a friend of Lowe's "who believed himself to be a great lover", and his surname to economist Arthur Laffer.[^ref-40] According to Esquire, Lowe said in a Reddit AMA that the character was inspired by a Sierra software salesman who bragged about his conquests on sales trips.[^ref-20] In the original's small sprite, Larry's large nose was a technical limitation: "On the standard character, if you add a dot, he had a huge nose. If he had no dot, he had no nose," Lowe explained.[^ref-20]
 
-The original was notably the first Sierra title to use beta testing through CompuServe, allowing players to provide feedback before the official release.[^ref-22]
+For the original, Lowe persuaded Ken Williams to try "something new: beta-testing": Williams posted an announcement on CompuServe's Gamers Forum asking for volunteers, and about a dozen beta testers were chosen.[^ref-22]
 
 **1991 Remake Credits:**[^ref-1][^ref-48]
 - **Executive Producer:** Ken Williams[^ref-48][^ref-5]
@@ -163,7 +164,7 @@ The VGA remake also updated some content for contemporary relevance—references
 - **Memory:** 640 KB RAM
 - **Storage:** 3.5 MB hard drive space (DOS Days: 3.2 MB installed)[^ref-25][^ref-39]
 - **Graphics:** VGA (256 colors); the game was also sold in a 16-color package supporting EGA, MCGA, VGA and Tandy/PCjr[^ref-42]
-- **Audio:** Thunderboard Pro Aud Spectrum, AdLib, MT-32/LAPC-1/CM-32L, or Sound Blaster
+- **Audio:** Thunderboard, Pro Audio Spectrum, AdLib, MT-32/LAPC-1/CM-32L, or Sound Blaster
 - **Input:** Mouse recommended, with joystick support included[^ref-3]; keyboard shortcuts include F5 (save), F7 (load) and Ctrl-Q (quit)[^ref-12]
 - **Media:** 256-color version on 3.5" HD or 5.25" HD floppy disks; 16-color version on 3.5" DD or 5.25" HD disks[^ref-42] (Adventure Classic Gaming says the remake shipped only on 3.5" disks,[^ref-3] but DOS Days documents 5.25" HD disk releases[^ref-39])
 
@@ -186,6 +187,8 @@ A Sega CD version of the game was announced but never released.[^ref-5] The orig
 | — | 1992 | Macintosh | Remake port (version number not documented)[^ref-1] |
 | — | 1993 | MS-DOS, Amiga | Releases in Germany, the UK, France and Italy, published by U.S. Gold (publishing label: Kixx XL)[^ref-1]; the Kixx-XL budget re-release came on a single CD-ROM[^ref-39] |
 | — | 17 January 2013 | Windows, macOS | GOG.com release of the *Leisure Suit Larry* bundle[^ref-50]; PCGamingWiki dates the ScummVM-based Windows and macOS releases to the same day[^ref-6] |
+| — | 17 December 2015 | Linux | ScummVM-based Linux release, per PCGamingWiki[^ref-6] |
+| — | 18 December 2017 | Steam | Steam release, published by Assemble Entertainment[^ref-44] |
 
 The remake's suggested retail price was $59.95, with owners of the 1987 original offered an upgrade for $25.[^ref-5] For the 1987 original's release history, see [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]].
 
@@ -266,6 +269,7 @@ The Reloaded version featured high-resolution, completely repainted visuals, ful
 ### Related Publications
 
 - **Package documents:** The remake shipped with a Palomino Ranch brochure, a "Whose Whom in America" letter, a *Lost Wages After Dark* visitors' guide and a Lost Wages Mystery Hole leaflet; version 2.1 asks a copy-protection question drawn from the brochure or letter[^ref-39][^ref-3]
+- **Age quiz and copy protection:** At startup the game asks the player's age and then quizzes them with adult-knowledge questions. As in the original, a backdoor (Ctrl-Alt-X) skips the quiz, showing a "CHEATER, CHEATER, CHEATER!!!" dialog before letting the player in. On version 2.1, the game then asks one random question that sends the player to the "Palomino Ranch" brochure or the "Whose Whom" letter.[^ref-39]
 - **Hint Books:** Sierra claimed it sold more hint books than copies of the original 1987 game[^ref-40]
 
 ### Critical Perspective
@@ -286,8 +290,12 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 **Compatibility**
 - ScummVM rates its support for this SCI remake as "Excellent"[^ref-41]
 
+**Manuals & Extras**
+- [Sierra Help – LSL1 VGA Help](https://sierrahelp.com/Games/LeisureSuitLarry/LSL1VGAHelp.html) – reference page with system requirements and technical notes[^ref-25]
+
 ## See Also
 
+- [[Leisure Suit Larry Series]]
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
@@ -367,7 +375,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-43]: [GOG.com – Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) – current digital store page, publisher Codemasters
 
-[^ref-44]: [Steam – Leisure Suit Larry 1 - In the Land of the Lounge Lizards](https://store.steampowered.com/app/763970/) – "no longer available on the Steam store"; VGA version offered as a beta branch
+[^ref-44]: [Steam – Leisure Suit Larry 1 - In the Land of the Lounge Lizards](https://store.steampowered.com/app/763970/) – "no longer available on the Steam store"; VGA version offered as a beta branch; publisher Assemble Entertainment, released Dec 18, 2017
 
 [^ref-45]: [The Digital Antiquarian – Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) – Disney deal produced "only a handful of releases ... with most activity stopping well before the license itself actually expired"
 
@@ -377,7 +385,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 [^ref-48]: [MobyGames – Leisure Suit Larry 1 (1991) Credits (Wayback, 27 Feb 2010)](https://web.archive.org/web/20100227093445/http://www.mobygames.com/game/dos/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/credits) – full remake credits, including "Theme Song Composer Al Lowe"; no Chuck Benton credit
 
-[^ref-49]: [MobyGames – Leisure Suit Larry in the Land of the Lounge Lizards (1987)](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – "Included in" list for the EGA original (Greatest Hits and Misses!, Collection Series and others); read from the research dossier copy
+[^ref-49]: [MobyGames – Leisure Suit Larry in the Land of the Lounge Lizards (1987)](https://www.mobygames.com/game/379/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – "Included in" list for the EGA original (Greatest Hits and Misses!, Collection Series and others)
 
 [^ref-50]: [GOG API – Leisure Suit Larry (product 1207659158)](https://api.gog.com/v2/games/1207659158) – bundle record: gogReleaseDate 2013-01-17
 
