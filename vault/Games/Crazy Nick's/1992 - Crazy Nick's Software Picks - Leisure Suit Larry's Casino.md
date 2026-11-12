@@ -2,7 +2,7 @@
 title: 'Crazy Nick''s Software Picks: Leisure Suit Larry''s Casino'
 release_year: 1992
 developer: Sierra On-Line
-designer: [Unknown]
+designer: null
 publisher: Sierra On-Line
 genre: Casino
 platforms: [DOS]
@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Crazy Nick''s Software Picks: Leisure Suit Larry''s Casino is a budget
   gambling title released by Sierra On-Line on June 5, 1992 for MS-DOS, one of five
   Crazy Nick''s Software Picks packs.'
@@ -18,7 +18,7 @@ tags: [1990s, leisure-suit-larry, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 *Not to be confused with [[1998 - Leisure Suit Larry's Casino]], Sierra's separate 1998 Windows casino game.*[^ref-16][^ref-5]
 
@@ -26,7 +26,7 @@ tags: [1990s, leisure-suit-larry, sci, sierra]
 
 Crazy Nick's Software Picks: Leisure Suit Larry's Casino is a budget gambling title released by [[Sierra On-Line]] on June 5, 1992 for MS-DOS.[^ref-1][^ref-15] It was one of five "Crazy Nick's Software Picks" packs, which Sierra released in the summer of 1992 as budget compilations of mini arcade sequences, casino games and board games originally included in its adventure and Hoyle games, sold in blister cards on a single 3.5" floppy.[^ref-2] This pack takes its Slot Machine and Blackjack from the 1991 VGA remake of Leisure Suit Larry 1 and its Poker from Leisure Suit Larry 5.[^ref-2]
 
-Sierra's own InterAction magazine announced the line in its Summer 1992 issue, listing "Leisure Suit Larry's Casino: With blackjack, Poker, and Slot Machine, all rendered in the incomparable Al Lowe style," and saying the packs would come in blister packs and retail for around $10.[^ref-19] The player starts with 100.00 "Larry Dollars" and can take out a loan after losing everything.[^ref-1] The pack was later included in the Leisure Suit Larry: Collection Series (1997) and the Leisure Suit Larry: Ultimate Pleasure Pack (1999).[^ref-1]
+Sierra's own InterAction magazine announced the line in its Summer 1992 issue, listing "Leisure Suit Larry's Casino: With blackjack, Poker, and Slot Machine, all rendered in the incomparable [[Al Lowe]] style," and saying the packs would come in blister packs and retail for around $10.[^ref-19] The player starts with 100.00 "Larry Dollars" and can take out a loan after losing everything.[^ref-1] The pack was later included in the Leisure Suit Larry: Collection Series (1997) and the Leisure Suit Larry: Ultimate Pleasure Pack (1999).[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -76,7 +76,7 @@ The pack got one short signed review and several notices in the 1992 press. No s
 | *Computer Gaming World* #99, "Taking A Peek" | October 1992 | Capsule preview | Describes the three games[^ref-28] |
 | *PC Games* #17, "Software for $9.95" | October 1992 | News item | Lists all five packs[^ref-29] |
 
-Stephen Poole's review in *Game Players PC Entertainment* gave the price as $9.95 and noted that the player enters the casino "alone — there is no two-player option" with $100. He found that "Rules for each game aren't included", which mattered most for blackjack, that "There are only four game screens in Larry's Casino", and that "the redraw time on a 386SX is just a bit slow". He concluded: "You won't learn anything about these three games by picking up Larry's Casino, but they do offer a quick dose of gambling action that's easy to play and fun to look at."[^ref-26]
+Stephen Poole's review in *Game Players PC Entertainment* gave the price as $9.95 and noted that the player enters the casino "alone — there is no two-player option" with $100. He found that "Rules for each game aren't included", which mattered most for blackjack, that "There are only four game screens in Larry's Casino", and that "the redraw time on a 386SX is just a bit slow". He called it "the debut in the series" of Nick's Picks, and noted that a short primer on blackjack's "finer points" such as splitting, doubling down and buying insurance would help novices; he added that the program "will make use of any extended memory to speed things up". He concluded: "You won't learn anything about these three games by picking up Larry's Casino, but they do offer a quick dose of gambling action that's easy to play and fun to look at."[^ref-26] MobyGames' screenshot set for the pack includes a "Rules description" screen, which sits oddly beside Game Players' remark that the rules are not included.[^ref-1]
 
 *Computer Gaming World*'s September 1992 survey of budget software gave the line's price as $9.95, "pre-printed on the packaging as 'marked down' from $14.95 — although we know of no copies released at the higher price", with "VGA / EGA graphics and full sound support". It was blunt about this pack: "Gambling aficionados may want to stay clear of this latter product, for Leisure Suit Larry's Casino is to gambling games what Larry himself is to a desirable date for your 15-year old daughter (the Poker game, by the way, is really Video Poker)."[^ref-27]
 
@@ -98,7 +98,7 @@ A 2012 editor note on the Universal Videogame List says the pack "was also inclu
 
 ### Origins
 
-InterAction introduced Crazy Nick as "the hack 'n' slash hero of discount software buyers everywhere" and Nick's Picks as "a line of low-priced (but high-quality) VGA games" due in software stores in May or June 1992. The magazine said all five packs were "contained on a single disk for quick bursts of computer entertainment" and featured "VGA graphics and major sound card support."[^ref-19]
+InterAction introduced Crazy Nick as "the hack 'n' slash hero of discount software buyers everywhere" and Nick's Picks as "a line of low-priced (but high-quality) VGA games" due in software stores in May or June 1992. The magazine said all five packs were "contained on a single disk for quick bursts of computer entertainment" and featured "VGA graphics and major sound card support."[^ref-19] *Game Players PC Entertainment* Vol. 5 No. 4 later reported in its news pages that "a new line of $9.95 titles called Nick's Picks" was "on shelves now", naming this pack among the five.[^ref-30]
 
 The sources disagree on where the art came from. The Sierra Chest says the slot machine and blackjack come from the LSL1 VGA remake and the poker game from Leisure Suit Larry 5.[^ref-2] *Game Players PC Entertainment*'s review said instead that "The interface and cartoonish graphics for each game are lifted straight from the VGA versions of Space Quest I and Leisure Suit Larry I, as well as Leisure Suit Larry V."[^ref-26] No other source found names Space Quest I.
 
@@ -175,6 +175,9 @@ MobyGames places the pack in the Leisure Suit Larry series between [[1991 - Leis
 
 ## See Also
 
+- [[Leisure Suit Larry Series]]
+- Previous: [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]]
+- Next: [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]]
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
@@ -225,3 +228,5 @@ MobyGames places the pack in the Leisure Suit Larry series between [[1991 - Leis
 [^ref-28]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", p. 12: Leisure Suit Larry's Casino entry; price markdown in the King Graham entry on the same page
 
 [^ref-29]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
+
+[^ref-30]: [Game Players PC Entertainment Vol. 5 No. 4, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – news column on Sierra: "Also on shelves now is a new line of $9.95 titles called Nick's Picks", listing the five packs including Leisure Suit Larry's Casino
