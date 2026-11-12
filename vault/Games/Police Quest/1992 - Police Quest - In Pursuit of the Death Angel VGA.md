@@ -275,7 +275,7 @@ Jim Walls had no involvement in the remake, but his story was carried over intac
 [^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – commercial availability; mentions "PQ1's enhanced remake" (the page's EGA-version option applies to Police Quest 3, not PQ1)
 [^ref-17]: [MobyGames – Original Game Entry](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – easter eggs (incl. the Helen Hots phone number and "Police Commissioner's wife"), driving view, original credits
 [^ref-18]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=1243) – driving difficulty quotes, parsing problems
-[^ref-19]: [Retro Freak Reviews – Police Quest I](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – review of the 1987 original: manual detail, Sonny Bonds named after Jim Walls' son
+[^ref-19]: [Retro Freak Reviews – Police Quest I](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – review of the 1987 original: manual detail
 [^ref-22]: [Wikipedia – Police Quest: In Pursuit of the Death Angel](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – development history, original credits, plot, sales data, reviews of the original, source code preservation
 [^ref-23]: [Antic Magazine Vol. 7 No. 3](https://www.atarimagazines.com/v7n3/stgamesgallery.html) – Teverbaugh review of the original (Atari ST)
 [^ref-25]: [Choicest Games – Review](https://www.choicestgames.com/2019/08/police-quest-in-pursuit-of-death-angel.html) – review of the 1987 original: contemporary reception, Allegan PD training use
