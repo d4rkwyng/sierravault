@@ -10,7 +10,7 @@ series: Turbo Learning
 engine: Dynamix Game Development System (DGDS)
 protagonist: Player (child)
 sierra_lineage: Sierra Label (Discovery)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Timothy Steven Clarke (Tim Clark)]
 description: 'Turbo Learning: Mega Math is a 1993 math-facts practice game for DOS, developed
   by Jeff Tunnell Productions and published by Sierra On-Line as the second and last
@@ -19,7 +19,7 @@ tags: [1990s, dgds, educational, sierra, turbo-learning]
 ---
 # Turbo Learning: Mega Math
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -61,7 +61,7 @@ A notable technical quirk involves the game's mouse functionality being tied to 
 The game is structured around three distinct mini-games that each teach the same mathematical concepts through different gameplay approaches[^ref-4]. Players begin at Knowledge Central with Dr. Krista and progress through increasingly difficult sets of math facts by passing tests[^ref-2][^ref-3].
 
 - **Knowledge Central:** The hub where players change player data or partner, print information, or open the teacher's area[^ref-21]
-- **Das Liquidator's Challenge:** A "frantic high energy" game in which Quarky or Quaysoo, steered with the mouse, smash robot animals carrying the correct answer with a hammer[^ref-3][^ref-21]
+- **Das Liquidator's Challenge:** A "frantic high energy" game in which Quarky or Quaysoo, steered with the mouse, smash robot animals carrying the correct answer with a hammer[^ref-3][^ref-21]; *InterAction* describes the targets as "creatures (mostly ladybugs and spiders)" with answers on their backs[^ref-26]
 - **Dr. D. Vious' Mind Masher:** The player steers a falling, shape-changing object onto the number that answers the equation[^ref-21]
 - **Orff Strategy:** A strategy board game against the Orffs, where each move requires answering an equation[^ref-3][^ref-21]
 - **Odessa's Fast Facts:** The timed test area; passing a set earns a printable certificate and moves the player to the next, harder set[^ref-3][^ref-21]
@@ -103,12 +103,25 @@ Both Turbo Learning titles were released under the Sierra Discovery Series[^ref-
 
 Jeff Tunnell Productions utilized the Dynamix Game Development System (DGDS) for the game's creation[^ref-8]. This engine "allowed for programmers, artists, and writers to work simultaneously on a project within the same environment," streamlining the development process[^ref-8]. The use of DGDS connected Mega Math to a lineage of Dynamix-developed titles despite being produced by Tunnell's Dynamix spin-off[^ref-25].
 
-The development team included designers Randy Dersham and Jeff Tunnell, with music composed by Timothy Steven Clarke (credited as Tim Clark)[^ref-2]. Jane Chase, Lloyd Brass, Emily Orton and Emily Kokal are credited as voice talent, though the credits do not say which characters each voiced[^ref-2].
+The development team included designers Randy Dersham and Jeff Tunnell, with music composed by Timothy Steven Clarke (credited as Tim Clark)[^ref-2]. MobyGames also credits Randy Dersham as director and Jeff Tunnell as producer[^ref-6]. Jane Chase, Lloyd Brass, Emily Orton and Emily Kokal are credited as voice talent, though the credits do not say which characters each voiced[^ref-2].
 
-**Development Credits:**[^ref-2]
-- **Designers:** Randy Dersham, Jeff Tunnell
-- **Composer:** Timothy Steven Clarke (Tim Clark)
-- **Voice Cast:** Jane Chase, Lloyd Brass, Emily Orton, Emily Kokal
+**Development Credits** (as listed by MobyGames[^ref-6]; the Dynamix Wiki lists designers, composer and voice cast[^ref-2]):
+- **Design:** Randy Dersham, Jeffrey Tunnell
+- **Producer:** Jeffrey Tunnell
+- **Director:** Randy Dersham
+- **System Programming:** Richard Rayl
+- **Programmers:** Richard Rayl, Becky Jones
+- **Art Director:** [[Brian Hahn]]
+- **Lead Production Artist:** Rhonda Conley
+- **Animation:** Sherry Wheeler, Kuni Bowen
+- **Background & Character Design:** Shawn Bird
+- **Writer:** Ken Embery
+- **Production Art:** [[Richard Tunnell]], Dennis Clevenger, Patricia Sanders Ruggiero
+- **Voice Casting:** Sher Alltucker
+- **Voice Talent:** Jane Chase, Lloyd Brass, Emily Orton, Emily Kokal
+- **Music:** Timothy Steven Clarke (credited as Tim Clark)
+- **Sound, Voice & Effects:** Jan Paul Moorhead, Ken Rogers
+- **Quality Assurance:** David Steele
 
 ### Design Goals
 
@@ -123,7 +136,7 @@ The DGDS engine provided a robust foundation for the game's animated sequences a
 ### Technical Specifications
 
 **Floppy Version:**
-- **Resolution:** 320 x 200[^ref-14]
+- **Resolution:** 320 x 200 (MobyGames screenshots)[^ref-6][^ref-14]
 - **Graphics:** VGA[^ref-22]
 - **Audio:** The Sierra Chest's music page lists the game's five music tracks (Intro, Das Liquidator Challenge, Dr. D. Vious Mind Masher, Orff Strategy, Odessa's Fast Facts) in two versions, labelled MUNT and SB (Sound Blaster)[^ref-27]
 - **Media:** 3.5" floppy disks[^ref-22]
@@ -134,7 +147,7 @@ The DGDS engine provided a robust foundation for the game's animated sequences a
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1993-10-27 (Sierra Chest); MobyGames gives 1993-12-20 | IBM PC/DOS | Initial release[^ref-22][^ref-6] |
-| 1.01 | Unknown | IBM PC/DOS | Later boxed release; changes not documented[^ref-22] |
+| 1.01 | Unknown | IBM PC/DOS | Second version listed by the Sierra Chest; date and changes not documented[^ref-22] |
 
 **Patch Information:**[^ref-2]
 - **Megamath Patch (megpat):** Corrects voice and sound problems with Sound Blaster 16 and Pro Audio Spectrum sound cards
@@ -218,7 +231,7 @@ Mega Math is a straightforward drill-and-practice title. Its own description sum
 [^ref-1]: [GameFAQs – Turbo Learning: Mega Math](https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data) – developer, publisher, release year
 [^ref-2]: [Dynamix Fandom Wiki – Turbo Learning: Mega Math](https://dynamix.fandom.com/wiki/Turbo_Learning:_Mega_Math) – credits, voice cast, patch information, release date
 [^ref-4]: [Old-Games.com – Mega Math](https://www.old-games.com/download/3317/mega-math) – gameplay description, character information, critical assessment
-[^ref-6]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Dr. Krista description, Knowledge Central, release date
+[^ref-6]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Dr. Krista description, Knowledge Central, release date, credits, 320x200 screenshots
 [^ref-7]: [MobyGames – Turbo Learning: Mega Math Reviews](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/) – 2015 Katakis player review, speech on floppy; no critic reviews listed
 [^ref-8]: [Dynamix Fandom Wiki – DGDS](https://dynamix.fandom.com/wiki/Dynamix_Game_Development_System) – engine information, development workflow
 [^ref-9]: [MobyGames Forums – Mega Math](https://www.mobygames.com/game/dos/turbo-learning-mega-math/forums/dga,2/dgb,8/dgm,210915/) – DOSBox configuration, mouse issues
