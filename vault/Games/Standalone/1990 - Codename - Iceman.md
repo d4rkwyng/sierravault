@@ -10,7 +10,7 @@ series: Codename (standalone)
 engine: SCI0
 protagonist: Johnny Westland
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [Mark Seibert]
 description: 'Codename: ICEMAN is a graphical adventure game made with the SCI engine
   and published by Sierra On-Line. The lead designer was Jim Walls, a retired California
@@ -19,12 +19,12 @@ tags: [1990s, adventure, codename-standalone, sci, sierra]
 ---
 # Codename: ICEMAN
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 
 ## Overview
 
-Codename: ICEMAN is a graphical adventure game made with the SCI engine and published by Sierra On-Line.[^ref-1] Sources disagree on the release year: MobyGames records a December 1989 US release for DOS, and IGDB, Wikidata and PCGamingWiki also give 1989. Wikipedia gives March 1990 (see Version History), although its own Jim Walls article lists the game under 1989.[^ref-13][^ref-15][^ref-16][^ref-17][^ref-1][^ref-27] The lead designer was [[Jim Walls]], a retired California Highway Patrol officer who also designed the first three Police Quest games.[^ref-27][^ref-28] *Computer Gaming World* introduced the game as "the latest adventure by retired law enforcement officer Jim Walls."[^ref-23] The game was an ambitious attempt to combine a parser-driven adventure with detailed simulations of real-world procedures, from CPR to piloting a submarine.[^ref-2]
+Codename: ICEMAN is a graphical adventure game made with the SCI engine and published by Sierra On-Line.[^ref-1] Sources disagree on the release year: MobyGames records a December 1989 US release for DOS (the Police Quest Omnipedia also gives December 1989), and IGDB, Wikidata and PCGamingWiki also give 1989. Wikipedia gives March 1990 (see Version History), although its own Jim Walls article lists the game under 1989.[^ref-13][^ref-6][^ref-15][^ref-16][^ref-17][^ref-1][^ref-27] The lead designer was [[Jim Walls]], a retired California Highway Patrol officer who also designed the first three Police Quest games.[^ref-27][^ref-28] *Computer Gaming World* introduced the game as "the latest adventure by retired law enforcement officer Jim Walls."[^ref-23] The game was an ambitious attempt to combine a parser-driven adventure with detailed simulations of real-world procedures, from CPR to piloting a submarine.[^ref-2]
 
 Set during a near-future global oil shortage, the game casts the player as naval officer Johnny Westland, who is sent on a mission to rescue a kidnapped US ambassador from terrorists in Tunisia.[^ref-1] It is known for its emphasis on realistic military procedures, which require players to consult the manual often.[^ref-3] Sierra's product description calls the game "a thrilling adventure" with "a story as chillingly authentic as tomorrow's headlines."[^ref-4]
 
@@ -127,6 +127,7 @@ The game was built on Sierra's SCI0 engine.[^ref-6][^ref-17] *Computer Gaming Wo
 - **Documentation:** Marti McKenna, James Walls
 - **Additional Programming:** Larry Scott, Carlos Escobar, Robert Lindsley, Dave Skinner (as listed in the manual)[^ref-12]
 - **Additional Artwork:** Jeff Crowe, Jerry Moore, Kenn Nishiuye, Cindy Walker (as listed in the manual)[^ref-12]
+- **Atari ST Version:** [[Corey Cole]], John Rettig (credited on the Atari ST release)[^ref-30][^ref-6]
 
 ### Technical Achievements
 
@@ -156,11 +157,12 @@ One reviewer noted an issue with the game's internal clock: "in some situations 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | December 1989 | MS-DOS | US release as listed by MobyGames[^ref-13]. Sierra's Spring 1990 shipping schedule projected the IBM version for March 1990, the date Wikipedia uses[^ref-25][^ref-1] |
+| — | December 1989 | MS-DOS | US release as listed by MobyGames[^ref-13]. Sierra's Autumn 1989 shipping schedule had projected the IBM version for November 1989[^ref-31]. Its Spring 1990 shipping schedule projected March 1990, the date Wikipedia uses, and the order form in that issue lists it as "1st qtr."[^ref-25][^ref-1] |
 | 1.023 | March 1990 | MS-DOS | Canadian release distributed by InterTAN[^ref-13] |
 | 1.033 | June 8, 1990 | MS-DOS | US release[^ref-13] |
-| — | 1990 | Atari ST | MobyGames lists 1989[^ref-13]. Sierra's Spring 1990 newsletter said it would ship "Later in the year" and projected April 1990[^ref-25]. It appears in Sierra's Fall 1990 catalog at $59.95[^ref-24] |
+| — | 1990 | Atari ST | MobyGames lists 1989[^ref-13]. Sierra's Spring 1990 newsletter said it would ship "Later in the year" and projected April 1990 on the shipping schedule, while the issue's order form lists the Atari ST version as "2nd qtr."[^ref-25]. The Atari ST version is credited to [[Corey Cole]] and John Rettig.[^ref-30][^ref-6] It appears in Sierra's Fall 1990 catalog at $59.95[^ref-24] |
 | — | 1990 | Amiga | Year per MobyGames[^ref-13]. Listed in Sierra's Fall 1990 catalog at $59.95 ("requires 1 meg")[^ref-24] |
+| — | 1989 | Mac OS (Classic) | Listed by PCGamingWiki as a 1989 release[^ref-17] |
 | — | April 13, 2017 | Windows | GOG.com release, published by Activision[^ref-13] |
 
 ### Easter Eggs and Trivia
@@ -190,7 +192,7 @@ The fan game includes "a bunch of jokes that poke fun at JW's frequently naive a
 ### Related Publications
 
 - **Codename Iceman Manual:** Original documentation, including the U.S.S. Blackhawk procedures and a CPR section[^ref-10][^ref-12]
-- **Codename Iceman Hint Book:** Official Sierra hint book[^ref-10]
+- **Codename Iceman Hint Book:** Official Sierra hint book[^ref-10]. Sierra's Spring 1990 shipping schedule projected it for April 1990, while the order form in the same issue lists it as "1st qtr."[^ref-25]
 - **Codename Iceman Map:** Game map included with the packaging[^ref-10]
 
 ### Critical Perspective
@@ -247,7 +249,7 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 [^ref-3]: [GameFAQs – Code-name: ICEMAN Review](https://gamefaqs.gamespot.com/pc/564617-code-name-iceman/reviews/90559) – user review by kain50bc (2005); controls, Boss Dice, clock issue
 [^ref-4]: [GOG.com – Codename: ICEMAN](https://www.gog.com/en/game/codename_iceman) – Sierra product description, store tags, user rating (3.1/5 from 25 reviews as of 2026-10-14)
 [^ref-5]: [Time Extension – Codename: Iceman Fanmade Prequel](https://www.timeextension.com/news/2024/11/sierras-brutally-difficult-adventure-codename-iceman-just-got-a-hilarious-fanmade-prequel) – Jack Yarwood, November 22, 2024; difficulty reputation, fan project details
-[^ref-6]: [Police Quest Omnipedia – Codename: Iceman](https://policequest.fandom.com/wiki/Codename:_Iceman) – engine (SCI0), Activision ownership
+[^ref-6]: [Police Quest Omnipedia – Codename: Iceman](https://policequest.fandom.com/wiki/Codename:_Iceman) – engine (SCI0), Activision ownership; release listed as December 1989; credits list "Atari ST Version: Corey Cole and John Rettig"
 [^ref-7]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – game description: interface, procedures, submarine simulation
 [^ref-8]: [The Adventurers' Guild – Codename: ICEMAN Final Rating](https://advgamer.blogspot.com/2012/11/game-25-codename-iceman-final-rating.html) – detailed gameplay critique, parser issues, puzzle analysis
 [^ref-9]: [ST Format #21 (May 1991) – Codename: Iceman review by Ed Ricketts](https://www.everygamegoing.com/larticle/codename-iceman-000/49056/) – transcription of p. 66; Atari ST review, 77% overall
@@ -263,8 +265,10 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 [^ref-22]: [Computer Gaming World #71 (May 1990) – "Taking a Peek"](https://archive.org/details/Computer_Gaming_World_Issue_71) – p. 56: mouse interface, disk count, IBM $59.95
 [^ref-23]: [Computer Gaming World #69 (March 1990) – "The Entertainment Software Capital of the World" (Winter CES report)](https://archive.org/details/Computer_Gaming_World_Issue_69) – p. 38: preview, CPR and naval etiquette
 [^ref-24]: [Sierra News Magazine Vol. 3 No. 3 (Fall 1990)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – catalog pp. 55–56: MS-DOS, Atari ST and Amiga versions at $59.95; p. 27 "Sierra's Top Ten Best Sellers, July 1 to September 1, 1990" (CODENAME: Iceman listed, no ranks printed)
-[^ref-25]: [Sierra News Magazine Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – p. 12 rumor column (late shipping), p. 28 ST plans, p. 29 product shipping schedule (page image checked: Codename: Iceman IBM March 1990; Atari and Hint Book April 1990)
+[^ref-25]: [Sierra News Magazine Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – p. 12 rumor column (late shipping), p. 28 ST plans, p. 29 product shipping schedule (page image checked: Codename: Iceman IBM March 1990; Atari and Hint Book April 1990); pp. 42-43 order form (page images checked): Code Name: Iceman (512K) MS-DOS "1st qtr.", Atari ST double-sided "2nd qtr.", hint book "1st qtr."
 [^ref-26]: [Adventure Gamers – Codename: ICEMAN review (Wayback Machine, 2012 capture)](https://web.archive.org/web/20121014004302/http://www.adventuregamers.com/articles/view/18068) – Dante Kleinberg, October 19, 2007; 1.5 stars, PHOENIX "Coming Soon" notices
 [^ref-27]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) – CHP career, Sierra games, Tsunami Media and Westwood Studios
 [^ref-28]: [MobyGames – James Walls](https://www.mobygames.com/person/83001/james-walls/) – biography and credits (Game Designer on Code-Name: Iceman and Police Quest 3; Blue Force; Blade Runner)
 [^ref-29]: [MobyGames – Code-Name: Iceman credits (DOS)](https://www.mobygames.com/game/436/code-name-iceman/credits/dos/) – full in-game credits
+[^ref-30]: [MobyGames – Code-Name: Iceman credits (Atari ST)](https://www.mobygames.com/game/436/code-name-iceman/credits/atari-st/) – lists "Atari ST Version by" Corey Cole and John Rettig
+[^ref-31]: [Sierra News Magazine Vol. 2 No. 2 (Autumn 1989)](https://archive.org/details/Sierra_News_Magazine_Volume_2_Number_2_Autumn_1989) – p. 29 product shipping schedule (page image checked: Codename: Iceman, IBM, under November 1989)
