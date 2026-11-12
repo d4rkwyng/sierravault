@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 composer: [Evan Schiller]
 description: The October 2000 edition of Sierra's Hoyle Casino, sold at retail as
   Hoyle Casino 2001 for Windows and Macintosh, with Dreamcast and Game Boy Color versions
@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2001
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ This page covers the October 2000 edition of [[Sierra On-Line]]'s Hoyle Casino, 
 
 Players start with $5,000 and enter the casino to try their luck at 350 Vegas-style game variations across a dozen games[^ref-22], with tournaments against computer opponents and online play against friends[^ref-3]. A "Facemaker" feature lets players build their own virtual persona[^ref-22], and Amazon's product description promises a cast of 10 computer characters to challenge, "including a dog, a dinosaur, and an alien"[^ref-24].
 
-Alongside the Windows and Macintosh release, Sierra brought the game to the Sega Dreamcast and Game Boy Color in autumn 2000, where it was sold simply as Hoyle Casino[^ref-20][^ref-6][^ref-8]. Sierra's Steve Van Horn called it "our #1 selling casino game for PC and Macintosh" when announcing the Dreamcast version[^ref-20]. HonestGamers lists the Dreamcast release as September 29, 2000, and GameFAQs gives October 3, 2000[^ref-31][^ref-29].
+Alongside the Windows and Macintosh release, Sierra brought the game to the Sega Dreamcast and Game Boy Color in autumn 2000, where it was sold simply as Hoyle Casino[^ref-20][^ref-6][^ref-8]. Sierra's Steve Van Horn called it "our #1 selling casino game for PC and Macintosh" when announcing the Dreamcast version[^ref-20]. HonestGamers and IGN list the Dreamcast release as September 29, 2000, and GameFAQs gives October 3, 2000[^ref-31][^ref-7][^ref-29].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-3]
@@ -56,7 +56,7 @@ Help and strategy tips are available for each game, and tutorials are included f
 
 **Games (PC version):** GameSpot counted 12 casino games, including keno, slots, horse racing, video poker, seven variations of poker, roulette, blackjack and craps; Let It Ride, Caribbean Stud and three-card poker were new to this edition[^ref-25]. Amazon's product description gives variation counts for several games: Blackjack 20, Craps five, Keno four, Pai Gow Poker two, Poker seven, Slots and Video Slots 275, and Video Poker 44, with up to four players on one machine or over the Internet[^ref-24]. Each game has an in-game tutorial, and a practice mode gives strategy tips during play[^ref-25].
 
-**Games (Dreamcast version):** The Dreamcast manual covers Blackjack, Craps, Pai Gow Poker, Poker, Roulette, Slots, Video Poker and Video Slots, plus tournament play[^ref-1].
+**Games (Dreamcast version):** The Dreamcast manual covers Blackjack, Craps, Pai Gow Poker, Poker, Roulette, Slots, Video Poker and Video Slots, plus tournament play[^ref-1]. It includes a credit cards and loans chapter, in which each player's credit card reflects their standing with the casino, and a statistics screen showing Bankroll, Total Net, Game Play Net and Tournament Net; a Visual Memory Unit can save players, bankrolls and statistics[^ref-1].
 
 ### Games and Mechanics
 
@@ -104,7 +104,7 @@ MobyGames credits the Windows version to a Sierra On-Line team led by Executive 
 - **Lead 3D Artist:** Julian Love
 - **Composer:** Evan Schiller
 
-The Game Boy Color version was developed by Pulsar Interactive, with John Harris as lead programmer[^ref-6].
+The Game Boy Color version was developed by Pulsar Interactive, with John Harris as lead programmer[^ref-6]. MobyGames' Game Boy Color credits list James Harmon as lead artist; W. Bryan Ellis and John Harris on art and animation; Chris Iden, Corey Cole and David Mace on programming; John Harris, Marie Iden and Jason Rameriz on sound; Dana Armstrong as writer; and, on the Sierra On-Line side, Robert L. Jerauld and Steve Epstein as producers with Eric Hook as associate producer[^ref-6].
 
 ### Technical Achievements
 
@@ -113,6 +113,9 @@ The Windows and Macintosh versions were distributed on CD-ROM[^ref-3]. Multiplay
 ### Technical Specifications
 
 **Windows Version:**
+- **Minimum OS:** Windows 95[^ref-3]
+- **Minimum CPU:** Intel Pentium[^ref-3]
+- **Minimum RAM:** 16 MB[^ref-3]
 - **Minimum Resolution:** 640x480 @ 16-bit color[^ref-11]
 - **Recommended Resolution:** 640x480 @ True Color[^ref-11]
 - **Media:** CD-ROM[^ref-3]
@@ -141,8 +144,8 @@ The Dreamcast review noted several minor shortcomings: no choice of seat at blac
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0.0.0[^ref-27] | October 3, 2000 | IBM PC, Macintosh | First release per Sierra Chest[^ref-10]; AllGame lists October 9, 2000[^ref-22]; GameSpot and GameFAQs list November 14, 2000 (US) and GameFAQs November 3, 2000 (Europe)[^ref-25][^ref-30] |
-| — | September 29, 2000 | Dreamcast | Console release per HonestGamers[^ref-31]; GameFAQs lists October 3, 2000[^ref-29] |
-| — | October 2000 | Game Boy Color | Developed by Pulsar Interactive[^ref-6]; GameFAQs lists October 24, 2000[^ref-29] |
+| — | September 29, 2000 | Dreamcast | Console release per HonestGamers and IGN's review page[^ref-31][^ref-7]; GameFAQs lists October 3, 2000[^ref-29] |
+| — | October 2000 | Game Boy Color | Developed by Pulsar Interactive[^ref-6]; IGN's review page lists October 30, 2000[^ref-21]; GameFAQs lists October 24, 2000[^ref-29] |
 
 Wikipedia's list of editions records further Hoyle Casino releases dated 2001, 2002, 2003 and 2004[^ref-4]; the next edition is covered at [[2001 - Hoyle Casino]].
 
