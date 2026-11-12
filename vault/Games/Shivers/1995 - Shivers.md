@@ -10,7 +10,7 @@ series: Shivers
 engine: SCI32
 protagonist: Unnamed teenager
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Shivers is a first-person horror adventure game released by Sierra On-Line
   in 1995, a Myst-style puzzle adventure in which the player captures ten spirits called
   Ixupi inside a haunted museum.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, shivers, sierra]
 ---
 # Shivers
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ What distinguished Shivers from contemporaries like Myst and The 7th Guest was i
 
 The narrative begins with a group of teenagers daring the protagonist to spend the night inside Professor Windlenot's abandoned Museum of the Strange and Unusual, located in Mt. Pleasant, Ohio[^ref-7][^ref-3]. The museum was constructed by the eccentric archaeologist Professor Hubert Windlenot, who filled it with strange artifacts and elaborate puzzles before mysteriously dying before its planned 1980 opening[^ref-8]. "Was this place a failed dream or was it the waking nightmare of an eccentric old man?" asks the game's promotional material[^ref-9].
 
-Fifteen years prior to the game's events, two teenagers named Beth Ann Nelson and Merrick Campbell broke into the museum and accidentally released evil spirits called Ixupi from an exhibited set of ancient ceramic vessels[^ref-1]. These malevolent entities from South American legend—their culture based partially on Egyptian mythology—drain the life essence from humans, and they killed both teenagers and Professor Windlenot himself[^ref-3][^ref-1]. Thirteen Ixupi had originally been sealed in their own vessels[^ref-8]; three of the thirteen escaped into the world, leaving ten in the museum[^ref-1]. The ghosts of Beth and Merrick now wander the museum, warning visitors with desperate pleas: "Get out—get out—They are evil!"[^ref-2]
+Fifteen years prior to the game's events, two teenagers named Beth Ann Nelson and Merrick Campbell broke into the museum and accidentally released evil spirits called Ixupi from an exhibited set of ancient ceramic vessels[^ref-5][^ref-24][^ref-1]. These malevolent entities from South American legend—their culture based partially on Egyptian mythology—drain the life essence from humans, and they killed both teenagers and Professor Windlenot himself[^ref-3][^ref-1]. Thirteen Ixupi had originally been sealed in their own vessels[^ref-8]; three of the thirteen escaped into the world, leaving ten in the museum[^ref-1]. The ghosts of Beth and Merrick now wander the museum, warning visitors with desperate pleas: "Get out—get out—They are evil!"[^ref-2]
 
 Once locked inside by their friends with the ominous warning "If you die in the museum tonight, I'll make sure she gives the eulogy at your funeral," the player discovers the horrifying truth about the museum's past[^ref-2]. The Ixupi roam freely throughout the various exhibits, each spirit tied to a specific element—ash, wood, metal, crystal, wax, tar, sand, cloth, water, and lightning[^ref-11]. Players must piece together the mystery by exploring the museum, reading Windlenot's journals, and understanding the ancient curse that binds these spirits to the mortal realm.
 
@@ -56,7 +56,7 @@ The only hope for survival lies in reassembling the ceremonial vessels and captu
 
 Shivers employs a first-person slideshow-style presentation similar to Myst, where players navigate through pre-rendered still images by clicking on movement hotspots[^ref-2]. The interface uses node-based movement with forward, left, and right directional options controlled via mouse cursor positioning[^ref-5]. Unlike many contemporary Sierra adventures, "Shivers is a Myst-like game" that eschews the traditional parser or icon-based interfaces for a purely point-and-click exploration system[^ref-12].
 
-Unusually for FMV games of the era, Shivers provides closed captions for its dialogue[^ref-1], a suggestion by Lead Game Developer Willie Eide who came from a deaf family: "Having deaf individuals or hard-of-hearing individuals play our game is very important to me. So we really tried to make sure that the hard-of-hearing person, although he will miss the cool stereo ambient sounds that we have in each of the rooms, will at least be able to play the game and all the puzzles"[^ref-7]. Wikipedia describes the captions as "somewhat of a deviation from other FMV-based games of the era"[^ref-1].
+Unusually for FMV games of the era, Shivers provides closed captions for its dialogue[^ref-1], a suggestion by Lead Game Developer Willie Eide[^ref-7]: "Having deaf individuals or hard-of-hearing individuals play our game is very important to me. So we really tried to make sure that the hard-of-hearing person, although he will miss the cool stereo ambient sounds that we have in each of the rooms, will at least be able to play the game and all the puzzles"[^ref-7]. The manual describes the Text On/Off option as "especially designed for people who are hearing-impaired or deaf"[^ref-43]. Wikipedia describes the captions as "somewhat of a deviation from other FMV-based games of the era"[^ref-1].
 
 ### Structure and Progression
 
@@ -168,10 +168,9 @@ Significant unused content has been documented by researchers at The Cutting Roo
 - **Inaccessible clocktower surveillance view**
 - **Unused Stone Ixupi animation** featuring a noticeably different art style
 - **Demo leftovers:** screens and narration from a demo, including the line "Available at your local retailer, November '95"—TCRF notes the game was actually released in September instead of November
-- **Marcia Bales insult image:** An unused image apparently mocking the game's designer
 - **Invisible Phantasmagoria document** on Mac CD
 
-Additionally, Just Adventure's review noted that "Several extremely interesting elements in the museum never get used, including intriguing doors in the basement with skeleton hands and skulls for doorknobs"[^ref-23].
+Additionally, Just Adventure's review noted "several extremely interesting elements in the museum, in particular some intriguing doors in the basement with wonderful skeleton hands and skulls for doorknobs, that never get used in the game"[^ref-23].
 
 ### Version History
 
@@ -241,7 +240,7 @@ GOG.com's blog retrospective noted: "The spooky first-person adventure game Shiv
 
 Shivers has been re-released digitally through GOG.com since June 21, 2018, priced at $5.99 with occasional discounts of 20-30%[^ref-30]. The digital release includes ScummVM compatibility for modern Windows systems, cloud saves, and single-player support[^ref-30].
 
-German language patches have been created by fan communities for both Shivers and its sequel, restoring German text menus while keeping English voice acting (which was never localized)[^ref-37].
+A German language patch for Shivers has been created by a fan community, restoring German text menus while keeping English voice acting (which was never localized for the German release)[^ref-37].
 
 ### Fan Projects
 
@@ -256,7 +255,7 @@ An active speedrunning community maintains records at Speedrun.com, with categor
 
 Shivers was a Myst-style first-person puzzle adventure from a company better known for its third-person adventures; GameSpot's Ron Dulin found it "more like Myst or The 7th Guest than Mystery House or King's Quest VII"[^ref-19]. Adventure Classic Gaming concluded: "While the unique nonlinear design of Shivers may not appeal to all adventure gamers, the authentic look of the game and original logic puzzles will win many fans over"[^ref-3].
 
-The closed captioning stemmed from lead developer Willie Eide's own deaf family[^ref-7]. On the horror elements, PC Gamer's Steve Poole found the Ixupi "closer to Casper than to the essence of evil," and PC Games Magazine called the tone "more Scooby-Doo than Psycho"[^ref-17][^ref-18].
+The closed captioning was suggested by lead developer Willie Eide[^ref-7]. On the horror elements, PC Gamer's Steve Poole found the Ixupi "closer to Casper than to the essence of evil," and PC Games Magazine called the tone "more Scooby-Doo than Psycho"[^ref-17][^ref-18].
 
 Players have remained fond of it—it holds an 8.4/10 user rating on IMDb and a 4.7/5 user rating on GOG.com[^ref-24][^ref-25]—though Just Adventure's Ray Ivey dismissed it as "a protracted scavenger hunt punctuated with irrelevant puzzles"[^ref-23].
 
