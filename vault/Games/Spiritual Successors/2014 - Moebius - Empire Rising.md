@@ -10,14 +10,14 @@ series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Moebius: Empire Rising is a 2014 point-and-click adventure designed by Jane Jensen, developed by Pinkerton Road and Phoenix Online Studios, and published by Phoenix Online Publishing.'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
 composer: [Robert Holmes]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Moebius: Empire Rising is a point-and-click adventure game developed by Pinkerto
 The store page describes it as "a contemporary adventure that merges classic point-and-click puzzle solving with Jane Jensen’s sophisticated storytelling"[^ref-4]. Cult of Mac called it "the first installment in a planned series revolving around Malachi Rector"[^ref-10]. Alongside standard inventory and dialogue puzzles, the game sets challenges built around analysing people and matching them with historical figures[^ref-5], a profiling skill one reviewer likened to Sherlock Holmes[^ref-16]. Built in the Unity engine[^ref-7], the game blends 2D and 3D graphics[^ref-15]. The publisher tagged it "A Metaphysical Thriller"[^ref-5], and GameCritics' reviewer described it as "a metaphysical thriller in the vein of Jensen's Gabriel Knight games"[^ref-6].
 
 > [!info]- Game Info
-> **Developer:** Pinkerton Road, Phoenix Online Studios[^ref-7][^ref-15]
+> **Developer:** Pinkerton Road, [[Phoenix Online Studios]][^ref-7][^ref-15]
 > **Designer:** [[Jane Jensen]][^ref-2]
 > **Publisher:** [[Phoenix Online Publishing]][^ref-7]
 > **Engine:** Unity[^ref-7]
@@ -70,6 +70,9 @@ The game's signature feature is its character analysis. GOG's store page introdu
 | Game Informer | 6/10 | "Moebius is missing a spark — something that makes you want to keep playing"[^ref-8] |
 | GamesRadar+ | 2.5/5 | Donny Tarin, April 15, 2014: "strikingly underwhelming"[^ref-34] |
 | PCMag | 3.0/5 ("Average") | Isaac Rouse, July 23, 2015: "hindered by mediocre execution"[^ref-35] |
+| Adventure Gamers | 2.5/5 | Nathaniel Berens, April 17, 2014: "While mildly entertaining at times, Moebius is disappointingly light on the charm, intrigue, and ingenuity that marked Jane Jensen's earlier work"[^ref-36] |
+| GameRevolution | 4/5 | Gil Almogi, April 15, 2014; score as listed on Wikipedia[^ref-2] |
+| Joystiq | 2/5 | Jessica Conditt, April 22, 2014; score as listed on Wikipedia[^ref-2] |
 | Polygon | 4/10 | Criticised the lead character, writing, puzzle design and sexism[^ref-2][^ref-25] |
 | Eurogamer.de (Germany) | 5/10 | German edition of Eurogamer[^ref-13] |
 | Eurogamer Italy | 4/10 | Italian edition of Eurogamer[^ref-2] |
@@ -137,8 +140,8 @@ PCWorld's review reported "Cursor disappearances, sluggish animations, stutterin
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | April 15, 2014 | Windows | Original release[^ref-7][^ref-30] |
-| 1.0 | April 15, 2014 | macOS | Original release; 32-bit-only build[^ref-7][^ref-31] |
+| Initial release | April 15, 2014 | Windows | Original release[^ref-7][^ref-30] |
+| Launch | April 15, 2014 | macOS | Original release; 32-bit-only build[^ref-7][^ref-31] |
 
 ## Legacy
 
@@ -172,6 +175,7 @@ The game remains available on Steam and GOG[^ref-4][^ref-15]. GOG lists it as wo
 ## See Also
 
 - [[Spiritual Successors Catalog]]
+- [[Jane Jensen]]
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: 20th Anniversary Edition]]
 - [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
@@ -224,3 +228,4 @@ The game remains available on Steam and GOG[^ref-4][^ref-15]. GOG lists it as wo
 [^ref-33]: [Adventure Game Hotspot – An interview with Jane Jensen](https://adventuregamehotspot.com/interview/381/an-interview-with-jane-jensen-legendary-designer-of-the-gabriel-knight-trilogy) – Jack Allin, published 2023-04-14; Jensen on the $400K, self-funding and publishers
 [^ref-34]: [GamesRadar+ – Moebius: Empire Rising review](https://www.gamesradar.com/moebius-empire-rising-review/) – Donny Tarin, April 15, 2014; 2.5/5
 [^ref-35]: [PCMag – Moebius: Empire Rising (for PC) Review](https://www.pcmag.com/reviews/moebius-empire-rising-for-pc) – Isaac Rouse, July 23, 2015; 3.0 Average
+[^ref-36]: [Adventure Gamers – Moebius: Empire Rising review (Wayback, April 21, 2014)](https://web.archive.org/web/20140421072501/http://www.adventuregamers.com/articles/view/26292) – Nathaniel Berens, April 17, 2014; 2.5/5 stars and verdict quote
