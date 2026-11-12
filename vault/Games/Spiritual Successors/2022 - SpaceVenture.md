@@ -10,14 +10,15 @@ series: SpaceVenture
 engine: Unity
 protagonist: Ace Hardway
 sierra_lineage: Alumni Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: SpaceVenture is a science fiction comedy adventure game developed by
-  the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest...
+  the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest
+  series, funded through Kickstarter in 2012 and released to backers in 2022.
 tags: [2020s, adventure, sierra, spaceventure, two-guys]
 ---
 # SpaceVenture
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 
 ## Overview
@@ -119,7 +120,7 @@ MobyGames lists 41 people on the Windows release (28 in professional roles, 13 i
 
 ### Soundtrack
 
-On November 24, 2025, Guys from Andromeda announced the official SpaceVenture soundtrack, promising "40+ brand-new musical tracks" composed by Ken Allen, plus some of the game's parody cues, and expecting a release in the winter of 2025[^ref-28]. In Kickstarter Update 136 (August 12, 2026) the team said Allen had completed the soundtrack and that all backers at $30 and up would receive access; delivery had originally been planned through Steam keys, but complications with distributing the soundtrack through Steam meant another platform might be used[^ref-27].
+On November 24, 2025, Guys from Andromeda announced the official SpaceVenture soundtrack, promising "40+ brand-new musical tracks" composed by Ken Allen, plus some of the game's parody cues, and expecting a release in the winter of 2025[^ref-28]. Allen released the SpaceVenture Original Soundtrack on Bandcamp on July 14, 2026[^ref-29]. In Kickstarter Update 136 (August 12, 2026) the team said Allen had completed the soundtrack and that all backers at $30 and up would receive access; delivery had originally been planned through Steam keys, but complications with distributing the soundtrack through Steam meant another platform might be used[^ref-27].
 
 ### Technical Achievements
 SpaceVenture was developed using the Unity engine; Crowe described the goal as a 2.5D adventure game using "traditional 2D background art while taking advantage of some of the more modern 3D game tech, such as real-time 3D characters and particle effects"[^ref-17]. At its Early Access launch the game booted fullscreen at 1920×1080 with no other settings options[^ref-14]; v2.08.10 (February 2026) added native 4K support on supported systems[^ref-21]. The save system was a long-running problem, still unfixed to Adventure Game Hotspot's satisfaction at the 2022 backer release[^ref-1].
@@ -176,6 +177,8 @@ The team has continued supporting the game after its full release, with patches 
 
 ## See Also
 
+- [[Space Quest Series]]
+- [[Spiritual Successors Catalog]]
 - [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
@@ -222,3 +225,4 @@ The team has continued supporting the game after its full release, with patches 
 [^ref-26]: [Kickstarter Update 117 – Things are moving forward quickly!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/2257627) – Cast introductions, alpha testing, voice-over sessions starting Monday August 13 in Los Angeles
 [^ref-27]: [Kickstarter Update 136 – SpaceVenture Is Coming to Linux & Mac, Plus DVD and Soundtrack News!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/4767801) – Linux and Mac builds, DVDs ordered, soundtrack completed (August 12, 2026)
 [^ref-28]: [Guys from Andromeda – SpaceVenture: ANNOUNCING The Soundtrack That May Save the Galaxy!](https://guysfromandromeda.com/uncategorized/spaceventure-announcing-the-soundtrack-that-may-save-the-galaxy/) – Official announcement, November 24, 2025; 40+ tracks by Ken Allen
+[^ref-29]: [Ken Allen – SpaceVenture Original Soundtrack (Bandcamp)](https://kenallen.bandcamp.com/album/spaceventure-original-soundtrack) – Album page: released July 14, 2026
