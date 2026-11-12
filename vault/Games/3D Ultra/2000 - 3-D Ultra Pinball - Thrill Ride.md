@@ -10,15 +10,15 @@ series: 3-D Ultra Pinball
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: '3-D Ultra Pinball: Thrillride is a pinball simulation game developed
   by Dynamix and published by Sierra On-Line in 2000 for Windows and Macintosh platforms,...'
 tags: [2000s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-10-27T12:00:00-07:00
+last_modified: 2026-11-11T12:00:00-07:00
 ---
 # 3-D Ultra Pinball: Thrillride
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -71,9 +71,9 @@ The game offers three difficulty levels with adjustable features to accommodate 
 
 ### Puzzles and Mechanics
 
-The primary gameplay mechanic involves completing various "events" themed around amusement park rides. Featured attractions include The Wave Swinger, Coal Cracker, and The Wildcat roller coaster[^ref-5]. The Flying Falcon attraction activates a multiball mode featuring four balls with different colors: blue, red, yellow, and green[^ref-8].
+The primary gameplay mechanic involves completing various "events" themed around amusement park rides. Featured attractions include The Wave Swinger, Coal Cracker, and The Wildcat roller coaster[^ref-5]. The Flying Falcon attraction is a three-ball multiball: the manual's objective is to "get each of the three colored balls into the matching colored section of the Flying Falcon," "Yellow is wild," and "Getting all three balls to match scores 500,000 points"[^ref-22]. Adrenaline Vault likewise describes it as "Flying Falcon (with three-ball multi-ball)"[^ref-23].
 
-Special events and hidden features add depth to the experience. The Hershey's Hide and Seek event is triggered after hitting the Snack Bar target 50 times[^ref-1]. Mini-games include river rafting adventures and virtual coaster rides that provide variety beyond standard pinball gameplay[^ref-3]. Multi-ball madness is a core feature across all versions, with the system supporting up to 4 players taking turns, mimicking the traditional arcade pinball experience[^ref-4].
+Special events and hidden features add depth to the experience. Each visit to the Chocolate World snack shop awards one of fifty snacks or gifts, and the manual says "if you collect them all, you'll get a special surprise"[^ref-22]. Wikipedia describes a Hershey's Hide and Seek event triggered after hitting the Snack Bar target 50 times, a detail the manual and Adrenaline Vault do not mention[^ref-1]. Mini-games include river rafting adventures and virtual coaster rides that provide variety beyond standard pinball gameplay[^ref-3]. Multi-ball madness is a core feature across all versions, with the system supporting up to 4 players taking turns, mimicking the traditional arcade pinball experience[^ref-4].
 
 ## Reception
 
@@ -84,6 +84,8 @@ Critical reception for 3-D Ultra Pinball: Thrillride was mixed, with most review
 GameSpot's Ron Dulin awarded the PC version a score of 6.3/10, noting that the game "is meant as nothing more than a fun diversion and not as a hard-core pinball simulation aimed at silver-ball fanatics" and that "it is simply too easy. My first game lasted more than 30 minutes before I finally quit out, and I was only on ball two." He added that "the lack of a challenge makes the game seem a bit tedious"[^ref-21]. IGN's Jason Song gave the PC version a more favorable 7.9/10, praising the simulation quality: "The quality of the simulation is excellent. Balls roll convincingly around the table, losing or gaining momentum according to the rules of physics"[^ref-3]. However, Song also criticized the single table design, stating that "one lonely table's destined to lose its appeal faster than the Survivor phenomenon"[^ref-3].
 
 Game Over Online's Dick Ritchie scored the game at 68%, praising the presentation while criticizing the difficulty: "The audio and visuals in 3D Ultra Pinball: Thrill Ride are spectacular" but noted "it's not difficult in the least. I was able to complete half of the events in just my first game"[^ref-6]. Ritchie concluded with a pointed comparison: "Think of 3D Ultra Pinball: Thrill Ride as that new rollercoaster that just opened up at your local amusement park... Now imagine having paid $30 for such a short ride... a little hard to swallow"[^ref-6].
+
+Bob Mandel's October 16, 2000 review for Adrenaline Vault noted that Sierra's series had no entry in 1999, and that Thrillride "offers a single table with a wide variety of 15 amusement park rides"[^ref-23]. AllGame's Jason White found it "a fairly decent game" that "doesn't do anything special to further the pinball genre," said "at times it seems like just one huge advertisement for Hershypark," and faulted keyboard-only play for lacking nudge controls and the occasional slowdown[^ref-24].
 
 The Game Boy Color version received significantly lower scores. IGN's Nix awarded it only 5/10, harshly criticizing the visuals: "3D Ultra Pinball is an absolute misnomer -- the visuals are flat as a pinball table's glass"[^ref-7]. AllGame's Jon Thompson criticized the portable version's physics, noting "the physics of the table are not great...as the ball is quite floaty and reacts oddly to many hits and shots"[^ref-1].
 
@@ -97,7 +99,7 @@ Nostalgic user comments still appear alongside reports of technical bugs. One fa
 
 **Aggregate Scores:**
 - **MobyGames:** 64% critic average (9 reviews), 4.2/5 player average (6 ratings)[^ref-11]
-- **MyAbandonware:** 4.58/5 (43 votes)[^ref-10]
+- **MyAbandonware:** 4.6/5 (51 votes, as of November 11, 2026)[^ref-10]
 - **Amazon UK:** 5.0/5 stars (customer reviews)[^ref-4]
 - **Software Informer (users):** 4/5 stars (3 votes)[^ref-5]
 
@@ -113,7 +115,19 @@ The PC and Macintosh versions were developed by Dynamix, Inc.[^ref-10][^ref-19] 
 
 The partnership with Hersheypark provided authentic ride names and theming, including its new Lightning Racer coaster by Great Coasters International, which the park was promoting at the time[^ref-2].
 
-**Development Credits:**
+**Development Credits (Windows, per MobyGames):**[^ref-16]
+- **Executive Producer:** Susan Folden
+- **Producer:** Randy Thompson
+- **Associate Producer:** Daryl L. Nichols Jr.
+- **Designer:** Kyle Miller
+- **Art Director:** Anthony Lewis
+- **Lead Programmer:** Stephen Cordon
+- **Programmers:** Hugh Markfield, John Leavens
+- **Pinball Design Consultant:** Jerry Carathers
+- **Lead 3D Artists:** Jon Lanz, Jared Keller
+- **Original Music & Sound Effects:** Timothy Steven Clarke (as Tim Clarke, Score! Music & Sound Design)
+
+**Companies:**
 - **Developer (PC/Mac):** Dynamix, Inc.[^ref-10]
 - **Developer (Game Boy Color):** Left Field Productions[^ref-1]
 - **Publisher (Original):** Sierra On-Line, Inc.[^ref-10]
@@ -175,11 +189,11 @@ The Collection Chamber has tested the game with DxWind for Windows 10 compatibil
 
 ### Easter Eggs and Trivia
 
-- **Hershey's Hide and Seek:** A hidden event triggered by hitting the Snack Bar target 50 times[^ref-1]
+- **Snack collection:** Collecting all fifty Chocolate World snacks earns a "special surprise," per the manual[^ref-22]; Wikipedia separately names a Hershey's Hide and Seek event triggered by hitting the Snack Bar target 50 times[^ref-1]
 - **Extra Bonus:** Additional hidden content available for skilled players who explore the tables thoroughly[^ref-7]
 - **Real Rides Featured:** The Great Bear, Sidewinder, SooperDooperLooper, and Tidal Force from Hersheypark[^ref-2]
 - **Night-time Fantasy:** Complete all rides to unlock a fireworks celebration[^ref-4]
-- **Multiball Colors:** The Flying Falcon ride triggers multiball with distinctly colored balls (blue, red, yellow, green)[^ref-8]
+- **Multiball Colors:** The Flying Falcon ride is a three-ball multiball with colored balls, where yellow is wild[^ref-22][^ref-23]; Bunny Gamer's first-impressions post describes four colors[^ref-8]
 - **Alternate Titles:** Released in Germany as "3-D Ultra Pinball: Achterwahn" and in France as "3-D Ultra Pinball: Le Grand Huit"[^ref-11]
 
 ## Legacy
@@ -198,6 +212,7 @@ The game has appeared in various distribution forms:
 - **Budget Release:** Empire Xplosiv (UK, 2003)[^ref-4]
 - **German Release:** Dice Multi Media Europe B.V. (2005)[^ref-10]
 - **French Release:** Mindscape SA "Hits Collection" (2005)[^ref-19]
+- **Compilations:** Included in *10 Spiele-Hits Vol. 2* (2004) and *Arcade 2 Collection* (2004)[^ref-19]
 
 In January 2026, MobyGames' price listing showed used copies on Amazon at $5.47 for both the Windows and Macintosh versions[^ref-11]; such prices change over time.
 
@@ -231,6 +246,7 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 
 **Manuals & Extras**
 - [Manual PDF](https://www.myabandonware.com/game/3-d-ultra-pinball-thrillride-3fj) - 718 KB download available through MyAbandonware[^ref-10]
+- [Original manual (scan)](https://archive.org/details/3D_Ultra_Pinball-_Thrillride_-_Manual) - Internet Archive[^ref-22]
 
 ## See Also
 
@@ -274,3 +290,6 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [^ref-19]: [MobyGames – 3-D Ultra Pinball: Thrillride (2000)](https://www.mobygames.com/game/2706/3-d-ultra-pinball-thrillride/) – Windows/Macintosh 2000 release, Sierra On-Line publisher, Dynamix developer
 [^ref-20]: [Kotaku – 3-D Ultra Pinball: Thrillride](https://kotaku.com/games/3-d-ultra-pinball-thrillride) – database entry with game overview and features list
 [^ref-21]: [GameSpot – 3D Ultra Pinball Thrillride Review](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2617851/) – Ron Dulin, 6.3 "Fair"; ease and length criticism
+[^ref-22]: [3-D Ultra Pinball: Thrillride manual (Internet Archive)](https://archive.org/details/3D_Ultra_Pinball-_Thrillride_-_Manual) – Flying Falcon three-ball multiball, Chocolate World fifty snacks and "special surprise" (text read via the item's OCR file)
+[^ref-23]: [Adrenaline Vault – 3-D Ultra Pinball Thrillride review (Bob Mandel, October 16, 2000)](http://web.archive.org/web/20050206044836/http://avault.com/reviews/review_temp.asp?game=thrilr) – single table, 15 rides, fifty Chocolate World items, three-ball Flying Falcon multiball
+[^ref-24]: [AllGame – 3-D Ultra Pinball: Thrillride (PC) review by Jason White](https://web.archive.org/web/20101119145815/http://www.allgame.com/game.php?id=26756&tab=review) – Hersheypark advertisement criticism, keyboard-only controls, slowdown
