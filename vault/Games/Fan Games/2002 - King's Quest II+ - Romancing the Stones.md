@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sierra''s
  1985 classic *King''s Quest II: Romancing the Throne*, developed and released free
  of charge by AGD Interactive in 2002.'
@@ -19,7 +19,7 @@ composer: [Tom Lewandowski, Dianne Lewandowski]
 ---
 # King's Quest II: Romancing the Stones
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ AGD Interactive's FAQ says players who know the original should not expect an ea
 
 ### Contemporary Reviews
 
-As a free fan project, Romancing the Stones received limited commercial review coverage. Within the Adventure Game Studio community, it won six categories at the 2002 AGS Awards: Best Game Created with AGS, Best Story, Best Animation, Best Music, Best Scripting and Best AGS Documentation[^ref-27]. Wikipedia's article on AGD Interactive reports that Sierra fans greeted the KQ1 and KQ2 remakes with enthusiasm[^ref-1].
+As a free fan project, Romancing the Stones received limited commercial review coverage. Within the Adventure Game Studio community, it won six categories at the 2002 AGS Awards: Best Game Created with AGS, Best Story, Best Animation, Best Music, Best Scripting and Best AGS Documentation[^ref-27]. It was also a nominee, without winning, in Best Dialogue Scripting, Best Supporting Character (for Hagatha and Caldaur), Best Gameplay, Best Puzzles, Best Room Art, Best Character Art and Best Sound Effects[^ref-27]. Wikipedia's article on AGD Interactive reports that Sierra fans greeted the KQ1 and KQ2 remakes with enthusiasm[^ref-1].
 
 ### Modern Assessment
 
@@ -83,7 +83,7 @@ By September 2010, AGD Interactive reported the remake had been downloaded over 
 
 AGD Interactive was founded in 2001 by Britney Brimhall and Christopher Warren as Tierra Entertainment; its first release was a remake of King's Quest I in August 2001[^ref-1]. The team's December 3, 2002 designer journal entry says the game was ready to download "after over a year of nonstop hard work"[^ref-31]. According to AGD Interactive, many people regarded King's Quest II as the King's Quest game most in need of an update, since players felt the puzzles did not vary widely from the first game and the storyline was sparse[^ref-5]. Sierra had made no plans to give it an official upgrade after the commercial failure of its own SCI remake of King's Quest I[^ref-5].
 
-The team retitled the game *Romancing the Stones*: "Aside from bringing it closer to the film from which the original title was derived, the new title more accurately reflects the revamped plot"[^ref-25]. Wikipedia notes the project was meant as a "retelling" of the game, a form of fan fiction[^ref-26]. On December 10, 2003, a year after release, the group stopped using the Tierra name and became AGD Interactive[^ref-1]. The team's own journal entry says that "after more than 2 years in the remake business" Tierra had become Anonymous Game Developers Interactive, or AGDI[^ref-32].
+The team retitled the game *Romancing the Stones*: "Aside from bringing it closer to the film from which the original title was derived, the new title more accurately reflects the revamped plot"[^ref-25]. Wikipedia notes the project was meant as a "retelling" of the game, a form of fan fiction[^ref-26]. On December 10, 2003, a year after release, the group stopped using the Tierra name and became AGD Interactive[^ref-1]. In a 2006 Adventure Classic Gaming interview Britney Brimhall said the team was contacted "both by past and present employees, supporting our work, and Vivendi Universal (VU) themselves," and that "we had made it apparent from the get go that we would discontinue our project if VU decided it was inappropriate"; "luckily, this never happened and we now have permission to create these games"[^ref-39]. Wikipedia likewise describes the game as released under a fan license from Vivendi[^ref-26]. The team's own journal entry says that "after more than 2 years in the remake business" Tierra had become Anonymous Game Developers Interactive, or AGDI[^ref-32].
 
 ### Production
 
@@ -165,13 +165,14 @@ AGD Interactive's *King's Quest III Redux* (2011) continues the non-canon plot a
 
 ## See Also
 
-- [[2001 - King's Quest I VGA Remake]]
+- [[King's Quest Series]]
+- ← Previous: [[2001 - King's Quest I VGA Remake]]
+- → Next: [[2011 - King's Quest III Redux - To Heir is Human]]
 - [[2001 - Space Quest - The Lost Chapter]]
 - [[2003 - Space Quest 0 - Replicated]]
 - [[2006 - King's Quest III Remake (Infamous Adventures)]]
 - [[2008 - Quest for Glory II VGA Remake]]
 - [[2010 - The Silver Lining]]
-- [[2011 - King's Quest III Redux - To Heir is Human]]
 - [[2011 - Space Quest - Vohaul Strikes Back]]
 - [[2011 - Space Quest II VGA Remake]]
 - [[2012 - Space Quest - Incinerations]]
@@ -204,3 +205,4 @@ AGD Interactive's *King's Quest III Redux* (2011) continues the non-canon plot a
 [^ref-36]: [AGD Interactive – King's Quest II Character List](https://www.agdinteractive.com/games/kq2/hints/characterlist.html) – Gervain as Prime Minister, The Father and the black cloak society
 [^ref-37]: [AGD Interactive – King's Quest II Odds & Eggs](https://www.agdinteractive.com/games/kq2/hints/oddseggs.html) – anagrams, Ludwig II, Possum Magic
 [^ref-38]: [AGD Interactive – King's Quest II Hints](https://www.agdinteractive.com/games/kq2/hints/hints.html) – hint document; "nearly 85% of the puzzles have been altered"
+[^ref-39]: [Adventure Classic Gaming – Britney Brimhall (Himalaya Studios) interview](http://web.archive.org/web/20241207072147/http://www.adventureclassicgaming.com/index.php/site/interviews/210/) – posted May 26, 2006 (Wayback copy, December 7, 2024); Vivendi Universal contact and permission to create the remakes
