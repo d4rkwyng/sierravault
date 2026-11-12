@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Barney Calhoun
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Half-Life: Blue Shift is the second expansion pack to Valve''s acclaimed
   1998 first-person shooter Half-Life, developed by Gearbox Software and published by
   Sierra Entertainment in 2001.'
@@ -18,11 +18,11 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life: Blue Shift
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Half-Life: Blue Shift is the second expansion pack to Valve's acclaimed 1998 first-person shooter Half-Life, developed by [[Gearbox Software]] and published by Sierra Entertainment[^ref-1]. Originally conceived as an exclusive bonus episode for the ill-fated Sega Dreamcast port of Half-Life, the expansion was announced as a standalone Windows release on March 29, 2001; Sierra cancelled the Dreamcast port on June 16, 2001, days after the PC version shipped[^ref-1]. The game puts players in the role of Barney Calhoun, a Black Mesa security guard whom Valve's own Steam announcement called "the security guard sidekick who helped Gordon out of so many sticky situations"[^ref-3]. His story runs concurrently with the base game, so he experiences the catastrophic resonance cascade from a different perspective than scientist Gordon Freeman[^ref-21], and he would later become a major supporting character in Half-Life 2[^ref-15].
+Half-Life: Blue Shift is the second expansion pack to Valve's acclaimed 1998 first-person shooter Half-Life, developed by [[Gearbox Software]] and published by Sierra Entertainment[^ref-1]. (Wikipedia's infobox lists the publisher as Sierra On-Line, while Combine OverWiki lists Sierra Entertainment as the former distributor[^ref-2].) Originally conceived as an exclusive bonus episode for the ill-fated Sega Dreamcast port of Half-Life, the expansion was announced as a standalone Windows release on March 29, 2001; Sierra cancelled the Dreamcast port on June 16, 2001, days after the PC version shipped[^ref-1]. The game puts players in the role of Barney Calhoun, a Black Mesa security guard whom Valve's own Steam announcement called "the security guard sidekick who helped Gordon out of so many sticky situations"[^ref-3]. His story runs concurrently with the base game, so he experiences the catastrophic resonance cascade from a different perspective than scientist Gordon Freeman[^ref-21], and he would later become a major supporting character in Half-Life 2[^ref-15].
 
 Released on June 12, 2001 in North America, Blue Shift offered a notably shorter campaign than its predecessor Opposing Force, with Eurogamer clocking it at three hours for hardened players and IGN calling it a six-hour expansion[^ref-4][^ref-26]. Despite its brevity, a retrospective review on Metrocop found its short length "a bit of a blessing in disguise": leaner than Opposing Force, and one that "never gets as annoying or frustrating"[^ref-5]. The retail package included the High Definition Pack, which upgraded character models and weapon textures for both the original Half-Life and Opposing Force, doubling polygon counts and adding smoother animations[^ref-6]. Blue Shift sold approximately 800,000 retail copies, cementing its place in the Half-Life franchise despite mixed critical reception regarding its length and value proposition[^ref-7].
 
@@ -166,7 +166,7 @@ Animation sets for a dead security guard, HEV-suited Gordon Freeman, and a scien
 | 1.0.0.0 | April 20, 2001 | Windows | Original retail build date[^ref-23] |
 | Retail | June 12, 2001 | Windows | North American release[^ref-1] |
 | Retail | June 15, 2001 | Windows | European release[^ref-1] |
-| Steam | August 2005 (week of August 22) | Windows | Digital distribution release. Valve's August 26, 2005 post says "earlier this week we released" it, and Eurogamer reported it on August 25; TCRF gives August 24. Wikipedia gives August 29, which Valve's post rules out as the release date[^ref-3][^ref-58][^ref-23][^ref-1] |
+| Steam | August 2005 (week of August 22) | Windows | Digital distribution release. Valve's August 26, 2005 post says "earlier this week we released" it, and Eurogamer reported it on August 25; TCRF gives August 24. Wikipedia gives August 29, which Valve's post rules out as the release date. Steam's store page lists the release date as June 1, 2001[^ref-3][^ref-58][^ref-23][^ref-1][^ref-47] |
 | Steam beta update | April 4, 2013 | Steam | Corrected the HUD color; TCRF calls it a beta update[^ref-23] |
 | macOS/Linux | July 31, 2013 | macOS, Linux | Platform expansion (Wikipedia, TCRF); MobyGames lists August 1, 2013, so the sources differ by a day[^ref-1][^ref-23][^ref-21] |
 | 25th Anniversary Update | Date not confirmed | Steam | Engine update; PCGamingWiki says it made widescreen Hor+ and fixed OpenGL overbright lighting[^ref-41] |
@@ -221,7 +221,7 @@ Note: Mike Shapiro, credited here for the security guards and scientists, is lis
 
 ### Sales and Commercial Impact
 
-Half-Life: Blue Shift sold approximately 800,000 retail copies, a respectable figure that nonetheless fell short of Opposing Force's 1.1 million units[^ref-7]. The expansion sold for $30 at launch in North America; Sierra offered a $10 rebate to owners who sent in their Opposing Force CD, bringing it to around $20[^ref-25][^ref-26]. In the UK, a Virgin Megastores advertisement in PC Zone's September 2001 issue listed Blue Shift at an RRP of £14.99 (or £29.99 bundled with Half-Life: Generation), and the same issue's Virgin Megastores PC chart had it as a new entry at number one for August[^ref-52]. Despite criticism of its length relative to price, the inclusion of the High Definition Pack and a full copy of Opposing Force in retail packages helped justify the purchase for many consumers[^ref-26].
+Half-Life: Blue Shift sold approximately 800,000 retail copies, a respectable figure that nonetheless fell short of Opposing Force's 1.1 million units[^ref-7]. The expansion sold for $30 at launch in North America; Sierra offered a $10 rebate to owners who sent in their Opposing Force CD, bringing it to around $20[^ref-25][^ref-26]. In the UK, a Virgin Megastores advertisement in PC Zone's September 2001 issue listed Blue Shift at an RRP of £14.99 (or £29.99 bundled with Half-Life: Generation), and the same issue's Virgin Megastores PC chart had it as a new entry at number one for August[^ref-52]. Despite criticism of its length relative to price, the High Definition Pack[^ref-6] and, in the U.S. release, a full stand-alone version of Opposing Force helped justify the purchase for many consumers; the international edition instead contained only the multiplayer-only Opposing Force CTF[^ref-2].
 
 PC Zone framed it as "a stopgap before Half-Life 2" that "H-L addicts with cash to burn should certainly give it a go"[^ref-29]. At the same time, the game's reception also established that fans expected substantial new content in expansion packs, not merely additional levels[^ref-28].
 
@@ -231,7 +231,7 @@ Blue Shift has been included in several Half-Life compilation packages over the 
 
 - **Half-Life: Generation** (2002) – Compilation release[^ref-1]
 - **Half-Life 1: Anthology** (September 26, 2005) – Collection including original game and expansions[^ref-1]
-- **Steam Release** (week of August 22, 2005; Valve's August 26 post says "earlier this week we released"; TCRF gives August 24) – Individual digital distribution[^ref-3][^ref-58][^ref-23][^ref-47]
+- **Steam Release** (week of August 22, 2005; Valve's August 26 post says "earlier this week we released"; TCRF gives August 24; Steam's store page lists June 1, 2001) – Individual digital distribution[^ref-3][^ref-58][^ref-23][^ref-47]
 
 ### Fan Projects
 
@@ -241,7 +241,7 @@ The modding community has produced various modifications for Blue Shift, includi
 - **Half-Life: Blue Shift HL1 OST Mod:** Provides options for both the original Dreamcast soundtrack and revised track placements[^ref-48]
 - **The Infinite Shift:** A fan-made continuation that picks up where Blue Shift ended, with Barney being teleported to the alien dimension due to a computer error[^ref-49]
 
-The speedrunning community has embraced Blue Shift, with dedicated leaderboards tracking completion times[^ref-50]. The current world record for Any% on Easy difficulty stands at 24 minutes 21 seconds[^ref-50]. As of November 1, 2026, the game has 432 followers on Speedrun.com with 303 total runs from 84 registered players[^ref-50].
+The speedrunning community has embraced Blue Shift, with dedicated leaderboards tracking completion times[^ref-50]. The current world record for Any% on Easy difficulty stands at 24 minutes 21 seconds[^ref-50]. As of November 2026, the game has 432 followers on Speedrun.com, with 302 runs from 83 players[^ref-50].
 
 ### Related Publications
 
