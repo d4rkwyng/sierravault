@@ -10,14 +10,14 @@ series: Standalone (Doralice duology)
 engine: Gob
 protagonist: Doralice Prunelier
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Callet]
 description: "Lost in Time is a 1993 first-person point-and-click adventure game developed by French studio Coktel Vision and published in North America by Sierra On-Line."
 tags: [1990s, adventure, coktel, sierra, standalone-doralice-duology]
 ---
 # Lost in Time
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -78,9 +78,9 @@ The game includes a hint system called "Jokers," found in various places through
 
 ### Contemporary Reviews
 
-Lost in Time received mixed to positive reviews upon release. PC Zone awarded the game 69% in its November 1993 issue[^ref-6]. Electronic Entertainment gave it 8/10 in March 1994[^ref-6]; reviewer Al Giovetti called it "a good, solid, high-quality game. But the puzzles are very hard and often obscure, while the digitized, full-motion video is not the best"[^ref-30]. Computer Gaming World's April 1994 CD-ROM round-up said "game play is interesting and movement through the 3D world is fluid," but found the video less crisp and the music weaker than in Inca, adding that "some puzzles border on the obtuse, but there's still enough going on to entice those gamers who missed catching reruns of Time Tunnel"[^ref-29].
+Lost in Time received mixed to positive reviews upon release; MobyGames' critic scores run from 95% (Secret Service) through ASM 92%, Top Secret 90% and Excalibur 88% down to PC Player (Germany) 61%, High Score 40% and The Adventurer's Guild 39%[^ref-17]. PC Zone awarded the game 69% in its November 1993 issue[^ref-6]. Electronic Entertainment gave it 8/10 in March 1994[^ref-6]; reviewer Al Giovetti called it "a good, solid, high-quality game. But the puzzles are very hard and often obscure, while the digitized, full-motion video is not the best"[^ref-30]. Computer Gaming World's April 1994 CD-ROM round-up said "game play is interesting and movement through the 3D world is fluid," but found the video less crisp and the music weaker than in Inca, adding that "some puzzles border on the obtuse, but there's still enough going on to entice those gamers who missed catching reruns of Time Tunnel"[^ref-29].
 
-French magazines reviewed the game earlier. Génération 4 covered it in its June 1993 issue (#56) under the headline "Sur les traces de Mac Gyver"; MobyGames lists its score as 88%[^ref-32][^ref-17]. One of its two reviewers advised that, "à moins d'être un disciple du Grand Mac Gyver", players should gather the family to beat the game's challenges, and found that the lack of alternative solutions would keep players busy for a long time[^ref-32]. Tilt's issue 120 (a 1993 special issue) called Doralice "une sorte de MacGiver féminin" who gets out of complex situations with harmless objects. It praised the "scénario en béton armé" and the logic of the puzzles, and criticised the amount of text in the ending, the uneven difficulty and the video overlays on the drawings[^ref-33]. Tilt's rating table lists the game at 85, and MobyGames records the same figure[^ref-33][^ref-17].
+French magazines reviewed the game earlier. Génération 4 covered it in its June 1993 issue (#56) under the headline "Sur les traces de Mac Gyver"; MobyGames lists its score as 88%[^ref-32][^ref-17]. One of its two reviewers advised that, "à moins d'être un disciple du Grand Mac Gyver", players should gather the family to beat the game's challenges, and found that the lack of alternative solutions would keep players busy for a long time[^ref-32]. Tilt reviewed the game in issue 115 (June 1993), where it was the cover game under the headline "LE PLUS GRAND JEU D'AVENTURE DU MOIS"[^ref-34]. The magazine's Christmas guide (issue 120) reprints the review with a rating table and calls Doralice "une sorte de MacGiver féminin" who gets out of complex situations with harmless objects. It praised the "scénario en béton armé" and the logic of the puzzles, and criticised the amount of text in the ending, the uneven difficulty and the video overlays on the drawings[^ref-33]. The guide's rating table lists the game at 85 (Intérêt), and MobyGames records the same figure[^ref-33][^ref-17].
 
 ### Modern Assessment
 
@@ -98,7 +98,7 @@ Some players remember it fondly. One player on GOG's wishlist noted: "This is th
 
 ### Origins
 
-Lost in Time was developed by Coktel Vision, a French game company that had made its name with the Gobliiins series of adventure games[^ref-13]. After the Gobliiins games, Coktel moved into interactive movies with Inca and Inca II, and Lost in Time was the next of these[^ref-13]. Doralice had previously been the heroine of Coktel's adult-oriented adventure Fascination, making Lost in Time effectively a sequel featuring the same protagonist[^ref-5][^ref-13][^ref-18]. [[Muriel Tramis]] is credited for creation/project management, with Corinne Carrère as co-scenario writer[^ref-1].
+Lost in Time was developed by Coktel Vision, a French game company that had made its name with the Gobliiins series of adventure games[^ref-13]. After the Gobliiins games, Coktel moved into interactive movies with Inca and Inca II, and Lost in Time was the next of these[^ref-13]. Doralice had previously been the heroine of Coktel's adult-oriented adventure Fascination, making Lost in Time effectively a sequel featuring the same protagonist[^ref-5][^ref-13][^ref-18]. [[Muriel Tramis]] is credited for creation/project management, with Corinne Carrère as co-scenario writer[^ref-1]; Tilt's June 1993 credit box likewise lists "Conception et scénario: Muriel Tramis" and "Co-scénariste: Corinne Carrère"[^ref-34].
 
 The game was developed during a period of significant change for Coktel Vision: Sierra On-Line acquired the company on October 29, 1993[^ref-28]. The French two-episode release was out by June 1993, when Génération 4 reviewed it; the same issue listed the CD-ROM version as due in autumn 1993[^ref-32]. PC Zone reviewed the game in November 1993[^ref-6]. Coktel Vision handled European distribution while Sierra On-Line published the North American release[^ref-6][^ref-29][^ref-30]. Coktel's later live-action adventure [[1996 - Urban Runner]] has its own page.
 
@@ -172,6 +172,9 @@ Audio analysis of the game files has revealed three unused audio tracks: dora1.a
 | CD-ROM | 1993 | DOS | Single disc with both parts, longer video and digitized speech[^ref-6] |
 | US Floppy | 1993 | DOS | Single combined release via Sierra[^ref-15][^ref-5] |
 | CD-ROM (NA) | 1993–94 | DOS | Sierra's Holiday 1993 InterAction listed it on diskettes and CD-ROM, but said the limited Christmas 1993 CD stock went almost entirely to Canada[^ref-31]; Sierra issued a CD-ROM update, dated 2/09/94, that fixed problems with Mitsumi and Orchid CD drives and some Sound Blaster-compatible sound cards[^ref-29] |
+| CD-ROM (Germany) | Dec 1993 | DOS | Distributed in Germany by Bomico Entertainment Software[^ref-35] |
+| SierraOriginals (US) | 1995 | DOS | Published by Sierra On-Line[^ref-35] |
+| SierraOriginals (Germany) | 1996 | DOS | Published by Sierra On-Line, distributed by Sierra Coktel Deutschland[^ref-35] |
 | Windows | Unknown | Windows 3.1 | Listed by the ScummVM wiki alongside DOS[^ref-9] |
 
 **Gob Engine Information:**[^ref-7]
@@ -222,6 +225,8 @@ Source: Sierra Chest[^ref-11]
 Lost in Time was part of Coktel Vision's portfolio when Sierra On-Line acquired the French developer on October 29, 1993[^ref-28]. Sierra published it in North America (CGW listed it at $39.95; Electronic Entertainment gave $59.95 for DOS and $69.95 for the CD version)[^ref-29][^ref-30]. InterAction reported that Coktel's CD versions that Christmas, including Lost in Time, were "of surprising high quality but also in very limited supply," with almost all of the shipment allotted to Canada[^ref-31]. No sales figures have been found.
 
 ### Collections
+
+The game was included in the 1994 compilation "An Introduction to Multimedia Value Pack: 3 Great CD Games"[^ref-1].
 
 The game has been made available through abandonware channels following the end of its commercial availability[^ref-3]. Archive.org hosts multiple versions of the game for preservation purposes, including installation packages compatible with modern systems through DOSBox[^ref-3].
 
@@ -279,7 +284,7 @@ Electronic Entertainment saw the game as "the first in a planned series of Doral
 [^ref-14]: [MyAbandonware – Lost in Time](https://www.myabandonware.com/game/lost-in-time-1zq) – HOTUD review quotes, difficulty description, ratings
 [^ref-15]: [Adventure Gamer Blog – Lost in Time Introduction](https://advgamer.blogspot.com/2023/06/game-135-lost-in-time-introduction-1993.html) – Sierra acquisition timing, manual quote, release details
 [^ref-16]: [GameFAQs – Lost in Time FAQ](https://gamefaqs.gamespot.com/pc/564643-lost-in-time/faqs/55450) – fan testimonials, storyline praise
-[^ref-17]: [MobyGames Reviews – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/reviews/) – MAT user review quotes, critic aggregate score (74%, 25 ratings, checked 2026-11-11), Génération 4 and Tilt scores
+[^ref-17]: [MobyGames Reviews – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/reviews/) – MAT user review quotes, critic aggregate score (74%, 25 ratings), individual critic scores including Génération 4 and Tilt
 [^ref-18]: [GOG Wishlist – Lost in Time](https://www.gog.com/wishlist/games/lost_in_time) – user testimonials, Fascination sequel revelation, compatibility issues
 [^ref-19]: [Abandonware DOS – Lost in Time](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Lost+in+Time&gid=1998) – rating, floppy version details
 [^ref-20]: [Amazon – Lost in Time](https://www.amazon.com/Sierra-On-Line-Inc-Lost-Time/dp/B0002T87RM) – customer rating
@@ -295,4 +300,6 @@ Electronic Entertainment saw the game as "the first in a planned series of Doral
 [^ref-30]: [Electronic Entertainment #3, March 1994, p. 104 (Internet Archive)](https://archive.org/details/ElectronicEntertainment03Mar1994) – Al Giovetti review: locations, jokers, Ségur drawings, 14 actors, 45 minutes of video on CD, prices
 [^ref-31]: [InterAction Magazine, Holiday 1993 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Sierra's feature on the game, blue-screen production, CD supply sent mostly to Canada
 [^ref-32]: [Génération 4 #56, June 1993 (Internet Archive)](https://archive.org/details/generation4-magazine-056) – "Lost in Time: Sur les traces de Mac Gyver" review (two episodes, 23 MB of data); CD preview list "Lost In Time Part 1 & 2 (CD Rom PC, automne 93)"
-[^ref-33]: [Tilt #120, 1993 (Internet Archive)](https://archive.org/details/Tilt120) – Lost in Time review: "MacGiver féminin", "scénario en béton armé", pros and cons, French edition configuration (PC 386, VGA, 550 Ko RAM libre, 23 Mo DD)
+[^ref-33]: [Tilt #120, 1993 Christmas guide (Internet Archive)](https://archive.org/details/Tilt120) – reprint of the Lost in Time review with rating table: "MacGiver féminin", "scénario en béton armé", pros and cons, French edition configuration (PC 386, VGA, 550 Ko RAM libre, 23 Mo DD)
+[^ref-34]: [Tilt #115, June 1993 (Internet Archive)](https://archive.org/details/Tilt115) – cover game, "LE PLUS GRAND JEU D'AVENTURE DU MOIS"; original Lost in Time review and credit box (Conception et scénario: Muriel Tramis; Co-scénariste: Corinne Carrère)
+[^ref-35]: [MobyGames – Lost in Time releases](https://www.mobygames.com/game/6098/lost-in-time/releases/) – Dec 1993 German CD-ROM (Bomico), 1995 US and 1996 German SierraOriginals releases
