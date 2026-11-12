@@ -1,11 +1,11 @@
 ---
 title: "Sierra On-Line History"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Sierra On-Line: The Complete History
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Sierra Entertainment, Inc. (formerly On-Line Systems and Sierra On-Line, Inc.) was an American video game developer and publisher that pioneered the graphic adventure game genre. Founded in 1979 by husband-and-wife team [[Ken Williams]] and [[Roberta Williams]], Sierra became synonymous with interactive storytelling before the brand was shut down in 2008. As of March 31, 1996, shortly before its sale to CUC International, Sierra and its subsidiaries employed approximately 888 people[^ref-24], and it published some of the most influential games in computer entertainment history.
 
@@ -48,7 +48,7 @@ The Wizard and the Princess improved on Mystery House with color graphics and di
 
 ### The Name Change
 
-In 1982, On-Line Systems, by then based in Oakhurst near the Sierra Nevada mountains, was renamed **Sierra On-Line**[^ref-2], with its new logo incorporating the imagery of Half Dome mountain[^ref-5]. A new headquarters on Victoria Lane in Oakhurst opened in 1983[^ref-2].
+On-Line Systems, by then based in Oakhurst near the Sierra Nevada mountains, was renamed **Sierra On-Line**, with its new logo incorporating the imagery of Half Dome mountain[^ref-5]. Sources differ on the year: Wikipedia gives 1982[^ref-5], while HistoryLink says the new headquarters on Victoria Lane in Oakhurst would open in 1983 and that "at this time the company name was changed"[^ref-2].
 
 By early 1984, *InfoWorld* estimated Sierra was the world's 12th-largest microcomputer software company, with $12.5 million in 1983 sales[^ref-5].
 
@@ -94,6 +94,8 @@ A planned 1987 stock offering was cancelled after the "Black Monday" crash; Sier
 | 1995[^ref-25] | [[Impressions Games]] | Caesar, Pharaoh, city builders |
 | 1995[^ref-24][^ref-25] | [[Papyrus Design Group]] | Racing sims; NASCAR Racing and IndyCar Racing predate the merger, Grand Prix Legends followed it |
 
+In August 1993 Sierra began moving its headquarters from Oakhurst to Bellevue, Washington, a move that continued into 1994[^ref-48].
+
 Not every deal went through: on March 8, 1991, Sierra and Broderbund announced a letter of intent to merge as Sierra-Broderbund, Inc.[^ref-53], but the talks were terminated on March 27, 1991[^ref-45].
 
 ### The Sierra Network
@@ -134,9 +136,9 @@ SCI32's first interpreter shipped with [[1993 - Gabriel Knight - Sins of the Fat
 
 ### The Sale
 
-On February 19, 1996, Sierra signed a merger agreement to be acquired by CUC International[^ref-24]; the deal closed on July 24, 1996[^ref-5]. By then Michael Brochu had been Sierra's president and chief operating officer since October 1995, with Ken Williams as founder and chairman[^ref-25]. Ken stayed on after the sale and left CUC in November 1997[^ref-5].
+On February 19, 1996, Sierra signed a merger agreement to be acquired by CUC International[^ref-24]; the transaction was valued at approximately $1.06 billion[^ref-54]. Wikipedia gives July 24, 1996 as the closing date[^ref-5]; HistoryLink gives July 26, 1996[^ref-2]. By then Michael Brochu had been Sierra's president and chief operating officer since October 1995, with Ken Williams as founder and chairman[^ref-25]. Ken stayed on after the sale and left CUC in November 1997[^ref-5].
 
-CUC, which merged with HFS in December 1997 to form Cendant, was found in 1998 to have committed massive accounting fraud[^ref-5]. Roberta Williams stayed with Sierra to finish King's Quest: Mask of Eternity, which shipped on November 24, 1998[^ref-40], and retired in 1999[^ref-2].
+CUC, which merged with HFS in December 1997 to form Cendant, was found in 1998 to have committed massive accounting fraud[^ref-5]. Cendant announced the sale of its consumer software division, including Sierra, to Havas on November 20, 1998[^ref-55], and completed it on January 12, 1999[^ref-56]. Roberta Williams stayed with Sierra to finish King's Quest: Mask of Eternity, which shipped on November 24, 1998[^ref-40], and retired in 1999[^ref-2].
 
 ### Sub-Labels
 
@@ -163,6 +165,8 @@ Despite internal turmoil, Sierra published major external titles:
 Ken Williams later reflected on Half-Life: "By the time I decided we wanted into the [FPS] genre, we were too far behind. With 20/20 hindsight, I blew it when I had the chance to buy id and didn't... Valve was the first group I had spoken with that could put Sierra in front of id."[^ref-20]
 
 ### The End
+
+In August 2001 Sierra announced a reorganization that closed Dynamix, on August 14, 2001[^ref-58], with 97 Dynamix employees laid off[^ref-57]; Wikipedia separately reports layoffs of 148 employees at the Bellevue headquarters as part of the same reorganization[^ref-5]. In early 2004 Vivendi Universal Games shut down Impressions Games and Papyrus Design Group, Sierra's last owned studios[^ref-5].
 
 Sierra was formally disestablished as a company in August 2004 and reformed as a division of the former CUC Software group, which Vivendi branded as Vivendi Games in 2006[^ref-5]. The Sierra division continued operating through Vivendi Games's merger with Activision to form Activision Blizzard, which closed on July 9, 2008[^ref-26], but was shut down later that year[^ref-5].
 
@@ -231,7 +235,7 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 ## References
 
 [^ref-1]: [Wikipedia – Ken Williams](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) – Ken born October 30, 1954, in Evansville; Industry Icons award 2014; memoir published July 24, 2020
-[^ref-2]: [HistoryLink – Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) – Roberta's birth; Ken born in Evansville; marriage November 4, 1972; Ken's 1979 IBM-mainframe consulting; Coarsegold (Oct 1980) and Oakhurst office (Dec 1, 1980); 1982 rename; Roberta retired 1999
+[^ref-2]: [HistoryLink – Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) – Roberta's birth; Ken born in Evansville; marriage November 4, 1972; Ken's 1979 IBM-mainframe consulting; Coarsegold (Oct 1980) and Oakhurst office (Dec 1, 1980); 1982 rename; Roberta retired 1999; acquisition "completed on July 26, 1996"
 [^ref-3]: [Wikipedia – Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) – Early game development, Mystery House creation, Wizard and the Princess sales
 [^ref-5]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Company history: Mystery House sales, InfoWorld ranking, Sierra Network, CUC close July 24, 1996, 1998 sub-brands, Vivendi era, Microsoft ownership
 [^ref-17]: [Wikipedia – Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) – "originally budgeted for $800,000, but it ultimately cost $4.5 million"
@@ -270,3 +274,8 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-51]: [Softalk, Vol. 1 No. 4 (December 1980), Internet Archive](https://archive.org/details/softalkv1n04dec1980) – On-Line Systems listing: "Hi-Res Adventure #0, Mission: Asteroid"
 [^ref-52]: [Softalk, Vol. 1 No. 3 (November 1980), Internet Archive](https://archive.org/details/softalkv1n03nov1980) – Top Thirty: "2. — 82.53 Hi-Res Adventure #2: The Wizard and the Princess"
 [^ref-53]: [Computer Gaming World #82 (May 1991), p. 58, Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_82) – "On March 8, 1991, publicly-held Sierra On-Line and privately-held Broderbund Software announced the signing of a letter of intent to merge ... Sierra-Broderbund, Inc."
+[^ref-54]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/) – quotes the CUC–Sierra announcement: 1.225 CUC shares per Sierra share; "The transaction is valued at approximately $1.06 billion"
+[^ref-55]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – "On November 20, 1998 ... it was announced that the now-former Cendant software division had become a new subsidiary of the Vivendi empire, under the name of Havas Interactive."
+[^ref-56]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR, via Wayback)](https://web.archive.org/web/20250430200024/https://www.sec.gov/Archives/edgar/data/723612/0000950136-99-000391.txt) – "on January 12, 1999, we completed the sale of our consumer software division, Cendant Software and its subsidiaries, to Paris-based Havas SA"
+[^ref-57]: [GameSpot – Sierra closes Dynamix (Wayback)](https://web.archive.org/web/20190718152841/https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) – "The closure includes lay-offs for 97 Dynamix employees"
+[^ref-58]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – "The Dynamix studio was closed by Sierra On-Line on August 14, 2001, as part of Sierra's restructuring under Vivendi Universal Interactive Publishing"

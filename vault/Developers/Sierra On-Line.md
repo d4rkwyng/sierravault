@@ -115,7 +115,7 @@ Al Lowe created Leisure Suit Larry, which draws on Chuck Benton's text adventure
 
 ## Key People
 
-Ken Williams was Sierra's chairman and CEO until the July 1996 sale to CUC International.[^ref-54][^ref-55] He approached games as tool-building, including engines, and said: "I was an unusual CEO, in that I had the engineering skills to be able to hold the respect of the engineers who worked for Sierra".[^ref-1] Roberta Williams designed Mystery House, the King's Quest series and Phantasmagoria.[^ref-7][^ref-45][^ref-42] Michael Brochu, hired as chief financial officer in 1994, became president and chief operating officer in October 1995.[^ref-54]
+Ken Williams was Sierra's chairman and CEO from 1979 until the July 1996 sale to CUC International, and stayed on to guide its strategic direction until November 1997.[^ref-54][^ref-55][^ref-43] He approached games as tool-building, including engines, and said: "I was an unusual CEO, in that I had the engineering skills to be able to hold the respect of the engineers who worked for Sierra".[^ref-1] Roberta Williams designed Mystery House, the King's Quest series and Phantasmagoria.[^ref-7][^ref-45][^ref-42] Michael Brochu, hired as chief financial officer in 1994, became president and chief operating officer in October 1995.[^ref-54]
 
 Other key figures included Al Lowe, creator of Leisure Suit Larry;[^ref-47] Jim Walls, designer of the first three Police Quest games;[^ref-49] Corey and Lori Ann Cole, creators of Quest for Glory;[^ref-48] Jane Jensen, who worked with Roberta Williams on King's Quest VI's story and then created Gabriel Knight;[^ref-3] and Mark Crowe and Scott Murphy, the "Two Guys from Andromeda" behind Space Quest.[^ref-44]
 
