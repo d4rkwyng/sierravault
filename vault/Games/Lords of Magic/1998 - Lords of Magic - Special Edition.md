@@ -10,7 +10,7 @@ series: Lords Series
 engine: GameScript (PostScript-based)
 protagonist: Player-created Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Keith Zizza]
 description: 'Lords of Magic: Special Edition is a 1998 fantasy strategy game from Impressions
   Games that combines turn-based exploration with real-time combat and resource management,
@@ -19,13 +19,13 @@ tags: [1990s, impressions, lords-series, sierra, strategy]
 ---
 # Lords of Magic: Special Edition
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Lords of Magic: Special Edition is a fantasy strategy game that combines turn-based exploration with real-time combat and resource management,[^ref-1] set in the world of Urak.[^ref-3] Released in 1998 as an enhanced version of the original Lords of Magic (December 1997), the Special Edition addresses numerous bugs and shortcomings while adding substantial new content including the Legends of Urak Quest Pack, a lord editor, 8 new buildings, 17 new monsters, and 5 new storylines based on legendary characters.[^ref-2] Computer Games Strategy Plus's July 1998 announcement also listed a map editor among its enhancements.[^ref-6] The exact release date is given differently by different sources: Sierra announced September 15, 1998, GameRankings lists September 30, and GOG and GOGDB list November 7, 1998 (see Version History).[^ref-6][^ref-23][^ref-3][^ref-29] The game is published today by Rebellion on GOG and Steam.[^ref-3][^ref-9] The game was developed by Impressions Games and published by Sierra On-Line, and GOG's store page describes it as "a fine mix of the best qualities from Heroes of Might and Magic and Lords of the Realm."[^ref-3]
 
-The game tasks players with defeating Balkoth, Lord of Death, who has unleashed a nightmare of war and terrorism across Urak after a thousand years of peace.[^ref-3] Players can choose from eight different faiths—Life, Death, Order, Chaos, Air, Earth, Fire, and Water—each with distinct strengths, weaknesses, and over 160 different spells and 90 artifacts to discover.[^ref-5] Chris Beatrice, general manager of Impressions, declared that "Lords of Magic Special Edition is the game we always wanted to make. The game ties together all of the rich diverse elements that make up classic high fantasy and weaves from them a wonderful, different story every time you play."[^ref-6]
+The game tasks players with defeating Balkoth, Lord of Death, who has unleashed a nightmare of war and terrorism across Urak after a thousand years of peace.[^ref-3] Players can choose from eight different faiths—Life, Death, Order, Chaos, Air, Earth, Fire, and Water—each with distinct strengths and weaknesses; Wikipedia counts over 160 different spells, which differ for each faction.[^ref-5] PC Gamer's review of the original counts "more than 160 different military units, each well designed for its specific faith."[^ref-18] Chris Beatrice, general manager of Impressions, declared that "Lords of Magic Special Edition is the game we always wanted to make. The game ties together all of the rich diverse elements that make up classic high fantasy and weaves from them a wonderful, different story every time you play."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -87,7 +87,7 @@ A GameFAQs walkthrough reproduces the difficulty and time estimates from Sierra'
 
 Resource management forms a core gameplay pillar, with players balancing gold, ale, and crystals to maintain their empire and armies.[^ref-13] The diplomacy system allows players to forge alliances, negotiate with other faiths, or pursue conquest—"You can be a peacemaker, warmonger, backstabber, or whatever you like to be called."[^ref-17] 
 
-Building management occurs across 8 distinct capitals that players vie to control through conquest or allegiance.[^ref-8] Up to 80 different kinds of units can be raised, providing substantial variety in army composition and tactical options.[^ref-11] The game features over 160 different spells and 90 different artifacts to discover and utilize.[^ref-5]
+Building management occurs across 8 distinct capitals that players vie to control through conquest or allegiance.[^ref-8] Game Revolution's review of the original says up to 80 different kinds of units can be raised,[^ref-11] while PC Gamer's review of the original refers to "all 160 different units."[^ref-18] Wikipedia counts over 160 different spells[^ref-5] and over 90 different artifacts to discover and collect.[^ref-41]
 
 ## Reception
 
@@ -101,7 +101,7 @@ Reviewing the original, PC Gamer UK was notably less impressed, awarding only 56
 
 GameCenter's February 1998 review of the original delivered a harsh 4/10, with Hugh Falk noting that "Lords of Magic is riddled with bugs, and the real tragedy is that my hypothetical box cover would have suited its contents more accurately."[^ref-21] Computer Games Strategy Plus's Tim Royal offered a more nuanced take on the original, describing the experience poetically: "Lords of Magic smells, acts, and cries like a muconium drenched infant, but its baby blue eyes put a tractor beam lock onto your soul, screaming 'Keep me!'"[^ref-22]
 
-For the Special Edition, Computer Games Strategy Plus's Jim Pedicord (December 1, 1998) wrote that "many of the frustrating bugs apparent in the original have been rectified," while noting that "the multiplayer aspects are still extremely slow" and listing multiplayer as "2-4 players, Internet, LAN, modem, serial."[^ref-39] The Electric Playground's John McLean-Foreman reviewed it on August 25, 1999, giving it 6.5/10 (reader score 4.5/10).[^ref-40] GameRankings additionally lists Computer Games Magazine at 4/5 and Games First! at 4/5.[^ref-23] Game Revolution's January 1998 review of the original assigned a B+ grade under the headline "It's like a Warcraft and Ultima fruit-roll-up!"[^ref-11]
+For the Special Edition, Computer Games Strategy Plus's Jim Pedicord (December 1, 1998) wrote that "many of the frustrating bugs apparent in the original have been rectified," while noting that "the multiplayer aspects are still extremely slow" and listing multiplayer as "2-4 players, Internet, LAN, modem, serial."[^ref-39] The Electric Playground's John McLean-Foreman reviewed it on August 25, 1999, giving it 6.5/10 (reader score 4.5/10).[^ref-40] GameRankings additionally lists Computer Games Magazine at 4/5 and Games First! at 4/5.[^ref-23] Game Revolution's January 1998 review of the original assigned a B+ grade under the headline "It's like a Warcraft and Ultima fruit-roll-up!"[^ref-11][^ref-17]
 
 ### Modern Assessment
 
@@ -129,14 +129,18 @@ Impressions Games, described as "a small part of the Sierra family," developed t
 
 The original Lords of Magic shipped in December 1997; the Home of the Underdogs write-up describes "a wonderful concept bogged down by a frustrating amount of bugs and unfulfilled promises."[^ref-24] Computer Games Strategy Plus's review noted the game "shows signs of being delivered into the cuddling arms of gamers well short of its due date," describing numerous technical issues including disappearing hired champions, crashes from the high-level zoom feature, and units getting caught in "endless decision loops."[^ref-22]
 
-Sierra responded with multiple patches, culminating in the Special Edition release in 1998 (Sierra announced September 15; GameRankings lists September 30; GOG and GOGDB list November 7) which incorporated all updates and patches along with substantial new content.[^ref-6][^ref-23][^ref-3][^ref-29] The Special Edition was announced with an estimated retail price of $39.95, with existing Lords of Magic owners eligible for a $20 rebate.[^ref-6] New features included the Legends of Urak Quest Pack, improved AI, custom maps, eight new magical creatures, 17 new wandering monsters, and new buildings, artifacts, and spells.[^ref-6] The announcement also listed a map editor, though Game Revolution's review of the original already praised "the nice map editor"[^ref-17] and eBay's Special Edition listing describes "The map editor, available in the original edition."[^ref-14]
+Sierra responded with multiple patches, culminating in the Special Edition release in 1998 (Sierra announced September 15; GameRankings lists September 30; GOG and GOGDB list November 7) which incorporated all updates and patches along with substantial new content.[^ref-6][^ref-23][^ref-3][^ref-29] The Special Edition was announced with an estimated retail price of $39.95, with existing Lords of Magic owners eligible for a $20 rebate.[^ref-6] New features included the Legends of Urak Quest Pack, improved AI, custom maps, eight new magical creatures, 17 new wandering monsters, and new buildings, artifacts, and spells.[^ref-6] The announcement also listed a map editor, though Game Revolution's review of the original already praised "the nice map editor"[^ref-17] and eBay's Special Edition listing describes "The map editor, available in the original edition."[^ref-14] GameSpot's review of the Special Edition, by contrast, refers to "the new map editor."[^ref-13]
 
 **Development Credits:**[^ref-27]
 - **Lead Design:** [[Chris Beatrice]]
 - **Designers:** Jeffrey Fiske, Gregor Koomey, Steven Serafino
 - **Producer:** Glenn Oliver[^ref-5]
 - **Programmer:** Mike Gingerich[^ref-5]
-- **Composer:** Keith Zizza
+- **Programming:** Jason Benham, Chris Gurski, Thanh Pham, Dave LeCompte, Jim Solomon, Scott Delekta
+- **Graphics / Artwork:** Ron Alpert, Adam Carriuolo, Peter Crafts, Bob Curtis, Mike Malone, Heidi Mann, Dennis Rose
+- **Art Director for Special Edition:** Darrin Horbal
+- **Music:** Keith Zizza
+- **Sound:** Edward Saltzman
 - **Total Credited:** 95 people (Windows version)
 
 ### Technical Achievements
@@ -167,10 +171,6 @@ The modding community discovered "there is enough customization out there to mak
 - **RAM:** 1 GB
 - **Graphics:** DirectX 7 compatible with hardware T&L (DirectX 9 recommended)
 - **Storage:** 600 MB
-
-### Cut Content
-
-No specific cut content has been documented in available sources.
 
 ### Version History
 
@@ -224,8 +224,8 @@ Press Ctrl+C before entering codes:
 - The unofficial 3.02 patch adds a script console opened with the tilde (~) key
 - Its `cheatbalkoth` command adds one to the count of Balkoth kills, allowing play as Death without killing Balkoth
 
-**Secret Character:**[^ref-30]
-Select Legends of Urak from the starting screen. Click the very center dot in the middle of the circle of life to unlock a new playable character.
+**Secret Character:**
+Select Legends of Urak from the starting screen and click the very center dot in the middle of the circle of life. IGN describes the result as a new playable character,[^ref-30] while the GameFAQs walkthrough calls it a secret quest, put in "to show thanks to the Germans who helped in the making of this game."[^ref-15]
 
 **Development Trivia:**
 - According to patch author ascension64, the game uses Blizzard's DLLs and contains references to battle.net[^ref-7]
@@ -265,7 +265,7 @@ The Special Edition itself functions as a compilation, bundling:[^ref-2][^ref-6]
 - Map Editor (listed in CGSP's announcement; see Production)
 - Additional content (8 new buildings, 17 new monsters, 5 new storylines)
 
-The US retail release included a Caesar III Demo disc.[^ref-35]
+The US retail release included a Caesar III demo.[^ref-35]
 
 MobyGames lists the Special Edition as included in later compilations: Best of Sierra Nr. 20 (2000), Game-Hits 2 (2001), Gamers Pack (2004), Legendary Lords (2000), Lords of the Realm Complete (2015) and Play the Top of Games: Edition 2001 (2001).[^ref-27] Steam lists a "Lords of the Realm Complete" bundle of 4 items that includes it.[^ref-9]
 
@@ -282,7 +282,7 @@ A dedicated subreddit (r/LoMSE) maintains an active community with discussions o
 - **Game Manual (original release):** Game Revolution's review of the original refers to "100 pages of instructions"[^ref-11]
 - **Game Manual (GOG edition):** 240 pages, included as bonus content with the GOG release, along with a reference card, tech tree, unit tree and HD wallpaper[^ref-29]
 - **Quick Reference Card:** Included with retail copies[^ref-35]
-- **Poster:** Listed as included content[^ref-35]
+- **Poster:** Listed among the box contents; scan missing[^ref-35]
 
 ### Critical Perspective
 
@@ -301,6 +301,10 @@ The game remains on sale through modern digital platforms, and its modding commu
 **Patches & Mods**
 - [Unofficial 3.02 Patch](https://impz.proboards.com/thread/1769/release-lom-se-unofficial-patch)
 - [ModDB – Update Mod](https://www.moddb.com/mods/lords-of-magic-special-edition-update-mod)
+
+**Manuals & Extras**
+- [GOG Database – Lords of Magic: Special Edition](https://www.gogdb.org/product/1207658778) - GOG bonus content: manual (240 pages), reference card, tech tree, unit tree and HD wallpaper[^ref-29]
+- [Sierra Chest – Box Contents](https://sierrachest.com/index.php?a=games&id=170&title=lords-of-magic-special-edition&fld=box) - Scans of the retail game manual and quick reference card[^ref-35]
 
 ## See Also
 
@@ -348,3 +352,4 @@ The game remains on sale through modern digital platforms, and its modding commu
 [^ref-38]: [Steam Community Discussions – Sequel Thread](https://steamcommunity.com/app/404040/discussions/0/135511379836100156/) – fan requests, rights complications
 [^ref-39]: [Computer Games Strategy Plus – Lords of Magic: Special Edition Review (Wayback Machine)](https://web.archive.org/web/20030518205459/http://www.cdmag.com/articles/015/174/lordsm_se_review.html) – Jim Pedicord, posted 12/01/1998; bug fixes, multiplayer, product line "11/98"
 [^ref-40]: [The Electric Playground – Lords of Magic: Special Edition Review (Wayback Machine)](https://web.archive.org/web/20020906131444/http://www.elecplay.com/review.html?article=903&full=1) – John McLean-Foreman, review date 1999-08-25, 6.5/10
+[^ref-41]: [Wikipedia – Lords of Magic (revision of August 20, 2024)](https://en.wikipedia.org/w/index.php?title=Lords_of_Magic&oldid=1241353032) – spell and artifact counts
