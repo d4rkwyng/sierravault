@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 2016
 total_games: 50
 genre: "Card Games, Casino, Board Games, Puzzle"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # Hoyle Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -77,7 +77,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 2007 | [[2008 - Hoyle Puzzle and Board Games\|Hoyle Puzzle and Board Games 2008]] | |
 | 2010 | [[2010 - Hoyle Puzzle and Board Games 2011\|Hoyle Puzzle and Board Games 2011]] | |
 | 2010 | [[2010 - Hoyle Swashbucklin Slots\|Hoyle Swashbucklin' Slots]] | [^ref-27][^ref-17] |
-| 2015 | [[2015 - Hoyle Official Card Games Collection\|Hoyle Official Card Games Collection 2015]] | Webfoot/Viva Media; Steam release November 18, 2015; unlisted on Steam ([store page](https://store.steampowered.com/app/397420/)) |
+| 2015 | [[2015 - Hoyle Official Card Games Collection\|Hoyle Official Card Games Collection 2015]] | Webfoot/Viva Media; Steam release November 18, 2015; unlisted on the Steam store at the publisher's request ([store page](https://store.steampowered.com/app/397420/)) |
 | 2016 | [[2016 - Hoyle Casino Games Collection\|Hoyle Official Casino Games Collection]] | Latest release; Encore, September 2016 (Steam: October 14, 2016)[^ref-26][^ref-13][^ref-1] |
 
 The vault does not yet have a page for every Hoyle edition: Sierra Chest and Wikipedia list editions not covered here, such as *Hoyle Hearts & Spades*. The timeline above has 50 entries covering the vault's 55 Hoyle pages, with duplicate pages for one product grouped in a single entry.[^ref-4][^ref-1]
@@ -101,7 +101,7 @@ Sierra reported in its Fall 1990 newsletter that Volume 1 had sold more than 250
 
 ## Commercial History
 
-After the 1996 sale of [[Sierra On-Line]] (see [[Corporate Lineage]]) the series continued under the Sierra label, with yearly releases.[^ref-1] On December 21, 2004, VU Games announced the assignment of the Hoyle games licence to [[Encore Software]], effective December 23, 2004.[^ref-18] Encore's own announcement the same day described an exclusive five-year agreement with The United States Playing Card Company, a Jarden Corporation subsidiary, giving Encore worldwide publishing rights to the Hoyle brand for PC within most retail and electronic download channels.[^ref-28] Encore (MobyGames: "Encore, Inc.", also known as Encore Software, Inc.)[^ref-11] published Hoyle titles from 2005; the *Hoyle Casino* line continued through *Hoyle Official Casino Games Collection* in 2016, which Steam lists under Encore with an October 14, 2016 release.[^ref-17][^ref-13]
+After the 1996 sale of [[Sierra On-Line]] (see [[Corporate Lineage]]) the series continued under the Sierra label, with yearly releases.[^ref-1] On December 21, 2004, VU Games announced the assignment of the Hoyle games licence to [[Encore Software]], effective December 23, 2004.[^ref-18] Encore's own announcement the same day described an exclusive five-year agreement with The United States Playing Card Company, a Jarden Corporation subsidiary, giving Encore worldwide publishing rights to the Hoyle brand for PC within most retail and electronic download channels.[^ref-28] Encore (MobyGames: "Encore, Inc.", also known as Encore Software, Inc.)[^ref-11] published Hoyle titles from 2005; the *Hoyle Casino* line continued through *Hoyle Official Casino Games Collection* in 2016, which Steam shows under Encore with an October 14, 2016 release; that page (app 532950) is now unlisted on the Steam store at the publisher's request.[^ref-17][^ref-13] Encore later put its Hoyle content on Steam as the *Encore Card Games Collection* (December 19, 2019) and *Encore Casino Games Collection* (December 29, 2019).[^ref-30][^ref-31]
 
 ## Critical Reception
 
@@ -109,7 +109,11 @@ After the 1996 sale of [[Sierra On-Line]] (see [[Corporate Lineage]]) the series
 
 ## Playing Today
 
-*Hoyle Official Card Games* (Webfoot Games, published by Viva Media) is listed on Steam with a release date of November 18, 2015; its store page describes a collection of "over 70 new and classic card games".[^ref-29] The 2016 *Hoyle Official Casino Games* Steam listing is cited in the Commercial History section above.[^ref-13]
+*Hoyle Official Card Games* (Webfoot Games, published by Viva Media; Steam app 397420, released November 18, 2015) and *Hoyle Official Casino Games* (Encore; Steam app 532950, released October 14, 2016) are both unlisted on the Steam store at the publisher's request. The 2015 page describes a collection of "over 70 new and classic card games".[^ref-29][^ref-13]
+
+## Technical Evolution
+
+The first two volumes were programmed in Sierra's proprietary scripting language, the Sierra Creative Interpreter (SCI), which had been created for the company's adventure games; implementing card games and character AI in it "proved challenging".[^ref-1] Volume 3 (1991) was made with Sierra's newer VGA engine.[^ref-1] *Hoyle Classic Card Games* (1993, Hoyle 4) remade Volume 1 with VGA support, speech and an original soundtrack.[^ref-1][^ref-19]
 
 ## Related Sierra Online Games (not Hoyle-branded)
 
@@ -121,7 +125,7 @@ These Xbox Live Arcade card and board games were published by Sierra Online, not
 
 ## Legacy
 
-Hoyle ran for 27 years, from Volume 1 in 1989 to the 2016 *Hoyle Official Casino Games Collection*, the last two decades under first Sierra's later owners and then Encore.[^ref-1][^ref-18] Encore later continued with its own *Encore Classic Games* series from 2020.[^ref-1]
+Hoyle ran for 27 years, from Volume 1 in 1989 to the 2016 *Hoyle Official Casino Games Collection*, the last two decades under first Sierra's later owners and then Encore.[^ref-1][^ref-18] Encore later continued with its own *Encore Classic Games* series from 2020, which Steam shows as *Encore Classic Card Games* (September 15, 2020), *Encore Classic Casino Games* (October 5, 2020) and *Encore Classic Puzzle & Board Games* (September 15, 2020).[^ref-1][^ref-32][^ref-33][^ref-34]
 
 For more on the founding era, see the [[Warren Schwader]] designer page; for the engine, see [[Sierra Creative Interpreter]].
 
@@ -147,14 +151,19 @@ For more on the founding era, see the [[Warren Schwader]] designer page; for the
 [^ref-16]: [Wikipedia — Lost Cities](https://en.wikipedia.org/wiki/Lost_Cities) — "published by Sierra Online for the Xbox Live Arcade platform on April 23, 2008"
 [^ref-17]: [Wikipedia — Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — Spin-off series 1996–2016; Encore from 2005; editions list (1998 and 1999; Swashbucklin' Slots 2010); Hoyle Casino Empire business simulation
 [^ref-18]: [Worthplaying — Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) — "assignment of the Hoyle games license"; effective December 23, 2004
-[^ref-19]: [MobyGames — Hoyle Classic Card Games](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) — ID 30264 (verified via API): DOS, Windows 3.x and Macintosh, 1993
-[^ref-20]: [MobyGames — Hoyle Classic Games](https://www.mobygames.com/game/28770/hoyle-classic-games/) — ID 28770 (verified via API): Windows 3.x, November 22, 1995
-[^ref-21]: [MobyGames — Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) — ID 17466 (verified via API): Windows, 1996 only
-[^ref-22]: [MobyGames — Hoyle Solitaire](https://www.mobygames.com/game/1232/hoyle-solitaire/) — ID 1232 (verified via API): Windows 3.x June 1996, Macintosh 1997, Windows January 1998
-[^ref-23]: [MobyGames — Hoyle Classic Board Games](https://www.mobygames.com/game/45136/hoyle-classic-board-games/) — ID 45136 (verified via API): Windows, 1997
+[^ref-19]: [MobyGames — Hoyle Classic Card Games](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) — ID 30264: DOS, Windows 3.x and Macintosh, 1993
+[^ref-20]: [MobyGames — Hoyle Classic Games](https://www.mobygames.com/game/28770/hoyle-classic-games/) — ID 28770: Windows 3.x, November 22, 1995
+[^ref-21]: [MobyGames — Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) — ID 17466: Windows, 1996 only
+[^ref-22]: [MobyGames — Hoyle Solitaire](https://www.mobygames.com/game/1232/hoyle-solitaire/) — ID 1232: Windows 3.x June 1996, Macintosh 1997, Windows January 1998
+[^ref-23]: [MobyGames — Hoyle Classic Board Games](https://www.mobygames.com/game/45136/hoyle-classic-board-games/) — ID 45136: Windows, 1997
 [^ref-24]: [The Sierra Chest — Hoyle Casino 3 (1998)](https://www.sierrachest.com/index.php?a=games&id=800&fld=general) — "First release: 1998-10-01"; developer Sierra On-Line
 [^ref-25]: [GameOver — Hoyle Casino 99 review (Wayback Machine)](http://web.archive.org/web/20010419015509/http://www.game-over.net:80/review/october/hoyle99/index.html) — "Hoyle Casino 99 (c) Sierra", reviewed October 1998
 [^ref-26]: [IGN — Hoyle Official Casino Games Collection 2016](https://www.ign.com/games/hoyle-official-casino-games-collection-2016) — "Initial Release: Sep 19, 2016"
 [^ref-27]: [Hoyle Gaming (Encore) — Hoyle Swashbucklin' Slots (Wayback, July 5, 2010)](https://web.archive.org/web/20100705114633/http://www.hoylegaming.com:80/p-34-hoyle-swashbucklin-slots.aspx) — store page selling the game, "© 2010 Encore Software, Inc."
 [^ref-28]: [Encore (Navarre) press release — exclusive Hoyle licensing agreement with The United States Playing Card Company (Wayback, April 28, 2005)](https://web.archive.org/web/20050428205939/http://www.encoreusa.com:80/PressRelease/Press263.htm) — "exclusive licensing agreement with The United States Playing Card Company"; "this five-year agreement"; worldwide publishing rights to the Hoyle brand for PC
 [^ref-29]: [Steam — Hoyle Official Card Games](https://store.steampowered.com/app/397420/) — Developer Webfoot Games, publisher Viva Media; released November 18, 2015; "Over 70 new and classic card games to learn, practice and master!"
+[^ref-30]: [Steam — Encore Card Games Collection](https://store.steampowered.com/app/906240/) — Developer Webfoot, publisher Encore Software; released December 19, 2019
+[^ref-31]: [Steam — Encore Casino Games Collection](https://store.steampowered.com/app/906250/) — Developer Webfoot, publisher Encore Software LLC; released December 29, 2019
+[^ref-32]: [Steam — Encore Classic Card Games](https://store.steampowered.com/app/1246930/) — Developer Webfoot, publisher Encore Inc.; released September 15, 2020
+[^ref-33]: [Steam — Encore Classic Casino Games](https://store.steampowered.com/app/1246940/) — Developer Encore, publisher Encore Inc.; released October 5, 2020
+[^ref-34]: [Steam — Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/) — Developer Webfoot, publisher Encore Software LLC; released September 15, 2020
