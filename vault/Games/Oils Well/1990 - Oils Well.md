@@ -10,16 +10,14 @@ series: Oil's Well
 engine: Unknown/unnamed
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 composer: [Ken Allen]
-description: Oil's Well (1990) is an arcade-style action game published by Sierra
-  On-Line and developed by Banana Development, Inc. The game serves as an enhanced
-  remake...
+description: "Oil's Well (1990) is an arcade-style action game published by Sierra On-Line and developed by Banana Development, Inc., an enhanced remake of the 1983 original with 256-color VGA graphics and animated cartoons between levels."
 tags: [1990s, oil-s-well, sierra]
 ---
 # Oil's Well (1990)
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -64,6 +62,8 @@ The game features eight distinct levels that players must navigate through, with
 - **Levels 1-8:** Core gameplay stages with increasing difficulty[^ref-1]
 - **Cartoon Rewards:** Each completed level unlocks a short animated movie featuring Slater[^ref-1][^ref-5]
 
+Each level also hides a bonus "Petromin," which appears as a larger dot; collecting it slows the critters and other moving items, except the drill bit, for a time.[^ref-12] The manual describes petromins as rare minerals that leave "a bad taste" in even the most vicious critters, though land mines are not deterred by them.[^ref-21] A goblet also appears now and then and, like the land mines, passes across the pipe safely.[^ref-12] Per the manual text, oil pellets are worth 10 points each, goblets 1,000 points each, and critters up to 170 points each, with values increasing as the player digs deeper.[^ref-21] PixelatedArcade notes that the level design remains "nearly identical" to the 1983 original, with eight mazes of increasing complexity.[^ref-12]
+
 The game supports 1-2 players; the two-player mode is alternating, not co-operative, with players switching turns each time one loses a drill bit.[^ref-5][^ref-21]
 
 ### Puzzles and Mechanics
@@ -86,7 +86,7 @@ Recorded critical response to the 1990 remake is sparse: MobyGames lists three c
 
 ### Modern Assessment
 
-Later assessments disagree on which version is better. Home of the Underdogs' review of the 1984 original (reproduced on MyAbandonware) called it "a fun little clone of classic Digger" that is "fast, fun, but somehow missing the longevity that makes Digger a classic," and concluded: "The 1990 remake version is much better. Good for nostalgia, but little else" – the last remark aimed at the original, not the remake.[^ref-11] Retro365 took the opposite view in 2021: "while the 1990 release of Oil's Well is cute and enjoyable, the original version is the better of the two."[^ref-6]
+Later assessments disagree on which version is better. Home of the Underdogs' review of the 1984 original (reproduced on MyAbandonware) called it "a fun little clone of classic Digger" that is "fast, fun, but somehow missing the longevity that makes Digger a classic," and concluded: "The 1990 remake version is much better. Good for nostalgia, but little else."[^ref-11] Retro365 took the opposite view in 2021: "while the 1990 release of Oil's Well is cute and enjoyable, the original version is the better of the two."[^ref-6]
 
 On MyAbandonware, one 2010 commenter called the 1990 game "frustrating, annoying, and lame, even by 1990s standards."[^ref-9] Katakis described it on MobyGames as "an addictive arcade game where you control a robotic arm trying to mine oil in the underground tunnels."[^ref-5]
 
@@ -161,6 +161,7 @@ No documented cut content has been identified in research for the 1990 remake.
 |---------|------|----------|-------|
 | 1.14 | 1990 | DOS | VGA Remake - instruction manual for this version listed; release order not documented[^ref-12] |
 | 1.15 | 1990 | DOS | VGA Remake - instruction manual for this version listed; changes not documented[^ref-12] |
+| n/a | 1991 | DOS | US re-release; MobyGames lists it as a separate release with Sierra On-Line as publisher and Banana Development as developer[^ref-29] |
 
 For versions of the original 1983 game, see [[1983 - Oils Well|Oil's Well (1983)]].
 
@@ -186,6 +187,10 @@ Users have reported several compatibility issues with the 1990 DOS version:[^ref
 The original 1983 Oil's Well "managed to do what Anteater couldn't and became a solid hit."[^ref-6] The game's success earned it Computer Games Magazine's 1984 Golden Floppy Award for Excellence in the Maze Game of the Year category.[^ref-3][^ref-6]
 
 The 1990 remake was part of the run of enhanced remakes Sierra produced as the 1980s closed; most were adventure games, and Oil's Well was one of the few arcade titles given the treatment.[^ref-5][^ref-12] No sales figures for the remake have been found. Sierra's own Sierra News Magazine (Fall 1990) said the game was "released in October of this year" and listed it as new at $34.95;[^ref-22] a Sierra advertisement in the 26 November 1990 MicroTimes pitched "eight levels of arcade action, dodging dozens of land mines and underground critters" and promised "the time of your life mining black gold in your very own full color oil field";[^ref-24] and the order form in Sierra's InterAction magazine (Fall 1991, prices effective 11/1/91 to 3/31/92) still listed the MS-DOS version at $34.95.[^ref-25]
+
+Sierra's marketing manager, John Williams, offered a period explanation for the original game's fate in Sierra News Magazine (Fall 1990): Oil's Well "was born at the end of an era; 8-bit computers took a dive, and Oil's Well went with them." He called it the victim of bad timing, a great game that everyone who saw it loved but few had the chance to see: "it was the right game at the wrong time."[^ref-22]
+
+The GameFAQs entry for the 1990 game reproduces the game's description text, which opens "FOR A GOOD TIME PLAY THIS GAME! We're not being crude, Oil's Well is good clean fun! It's silly, it's absurd, it's mindless entertainment for your home computer," and promises a "jazzy, original soundtrack" and "eight levels of fast-paced arcade action."[^ref-2]
 
 ### Collections
 
@@ -213,7 +218,7 @@ The remake shows Sierra updating its back catalog in the same year its art staff
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on any digital store.
+- Not sold on Steam or GOG as of November 2026.
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Oils_Well_1990)[^ref-1]
@@ -224,7 +229,7 @@ The remake shows Sierra updating its back catalog in the same year its art staff
 - [PlayClassic.Games – Oil's Well](https://playclassic.games/games/arcade-dos-games-online/play-oils-well-online/)[^ref-16]
 
 **Manuals & Extras**
-- Manual available at [Sierra Gamers](https://www.sierragamers.com/oils-well-1990/)[^ref-15]
+- Manual available at [Sierra Gamers](https://www.sierragamers.com/oils-well-1990/) ([Wayback copy](http://web.archive.org/web/20260419102232/https://www.sierragamers.com/oils-well-1990/))[^ref-15]
 
 ## See Also
 
@@ -235,7 +240,7 @@ The remake shows Sierra updating its back catalog in the same year its art staff
 [^ref-20]: [YouTube – Oil's Well Gameplay (VGA)](https://www.youtube.com/watch?v=JYj-5wQVbYc) – gameplay footage reference
 
 [^ref-1]: [Internet Archive – Oil's Well (1990)](https://archive.org/details/msdos_Oils_Well_1990) – preservation entry, basic metadata, description
-[^ref-2]: [GameFAQs – Oil's Well (1990)](https://gamefaqs.gamespot.com/pc/605484-oils-well-1990/videos/1206971) – developer, publisher confirmation
+[^ref-2]: [GameFAQs – Oil's Well (1990)](https://gamefaqs.gamespot.com/pc/605484-oils-well-1990) – developer, publisher confirmation; game description text
 [^ref-3]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – comprehensive history, reviews, awards, platform releases
 [^ref-5]: [MobyGames – Oil's Well (1990)](https://www.mobygames.com/game/1416/oils-well/) – full credits, ratings, trivia, description
 [^ref-6]: [Retro365 – Bits from My Personal Collection: Oil's Well](https://retro365.blog/2021/08/01/bits-from-my-personal-collection-oils-well-what-you-get-when-you-mix-dig-dug-snake-and-pac-man/) – development history, version comparisons, retrospective analysis
@@ -244,10 +249,10 @@ The remake shows Sierra updating its back catalog in the same year its art staff
 [^ref-9]: [MyAbandonware – Oil's Well (1990)](https://www.myabandonware.com/game/oil-s-well-z1) – user reviews, technical issues, ratings
 [^ref-10]: [SquakeNet – Oil's Well Remake](https://www.squakenet.com/game/oil-s-well-remake/) – gameplay description, genre classification
 [^ref-11]: [MyAbandonware – Oil's Well (1984)](https://www.myabandonware.com/game/oil-s-well-2jg) – version comparisons, user reviews
-[^ref-12]: [Pixelated Arcade – Oil's Well (1990)](https://www.pixelatedarcade.com/games/oil-s-well-1990) – version numbers, technical specs, credits
+[^ref-12]: [Pixelated Arcade – Oil's Well (1990)](https://www.pixelatedarcade.com/games/oil-s-well-1990) – version numbers, technical specs, credits, Petromin and goblet description, level design
 [^ref-13]: [VOGONS Forum – Compatibility Testing](https://www.vogons.org/viewtopic.php?t=93423) – vintage hardware compatibility issues
 [^ref-14]: [The Cutting Room Floor – Oil's Well (DOS, 1990)](https://tcrf.net/Oil's_Well_(DOS,_1990)) – debug mode documentation
-[^ref-15]: [Sierra Gamers – Oil's Well (1990)](https://www.sierragamers.com/oils-well-1990/) – available downloads, manual
+[^ref-15]: [Sierra Gamers – Oil's Well (1990)](https://www.sierragamers.com/oils-well-1990/) ([Wayback copy, 19 April 2026](http://web.archive.org/web/20260419102232/https://www.sierragamers.com/oils-well-1990/)) – available downloads, manual
 [^ref-16]: [PlayClassic.Games – Oil's Well](https://playclassic.games/games/arcade-dos-games-online/play-oils-well-online/) – gameplay description
 [^ref-17]: [Metacritic – Oil's Well (1990)](https://www.metacritic.com/game/oils-well-1990) – basic metadata; lists developer Banana Development and publisher Sierra On-Line (no reviews)
 [^ref-18]: [VGTimes.ru – System Requirements](https://vgtimes.ru/games/oils-well-1990/system-requirements/) – developer/publisher confirmation
@@ -259,3 +264,4 @@ The remake shows Sierra updating its back catalog in the same year its art staff
 [^ref-26]: [COMPUTE! Magazine Issue 142 (July 1992) – Internet Archive](https://archive.org/details/1992-07-compute-magazine) – dealer price list entry for the Action 5 bundle (OCR; price not relied on)
 [^ref-27]: [COMPUTE! Magazine Issue 145 (October 1992) – Internet Archive](https://archive.org/details/1992-10-compute-magazine) – dealer price list entry for the Action 5 bundle (OCR; price not relied on)
 [^ref-28]: [PCompatibles Informatique 42 (September 1990) – Internet Archive](https://archive.org/details/pcompatibles-informatique-42-septembre-1990) – French news item on Sierra's new releases (printed p. 16): Banana Development, 256-color graphics
+[^ref-29]: [MobyGames – Oil's Well: Releases](https://www.mobygames.com/game/1416/oils-well/releases/) – lists a 1990 DOS release and a 1991 US re-release
