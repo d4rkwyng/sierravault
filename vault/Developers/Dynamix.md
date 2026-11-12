@@ -6,11 +6,11 @@ defunct: 2001
 headquarters: "Eugene, Oregon, USA"
 notable_games: ["Red Baron", "The Incredible Machine", "Tribes"]
 parent_company: "Sierra On-Line"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Dynamix
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -22,7 +22,7 @@ Sierra On-Line bought the company in 1990.[^ref-11][^ref-14] MobyGames' Dynamix 
 
 ### Founding and Early Years
 
-Tunnell and Slye, both University of Oregon graduates, first called the company Software Entertainment Company and renamed it Dynamix in 1984.[^ref-11] Kevin Ryan and Richard Hicks, also UO graduates, then joined them as co-owner partners.[^ref-11][^ref-14] Slye was working on Stellar 7 when he met Tunnell, and Stellar 7 (1983) was released before the company was founded.[^ref-9][^ref-1][^ref-18] Sword of Kadash followed in 1985 for the Apple II and Commodore 64.[^ref-1]
+Tunnell and Slye, both University of Oregon graduates, first called the company Software Entertainment Company and renamed it Dynamix in 1984, according to MobyGames.[^ref-11] Sierra News (Summer 1990) gives a different account: the company "was founded as Dynamix Software Development in 1984" and became Dynamix, Inc. in September 1986.[^ref-26] Kevin Ryan and Richard Hicks, also UO graduates, then joined them as co-owner partners.[^ref-11][^ref-14] Slye was working on Stellar 7 when he met Tunnell, and Stellar 7 (1983) was released before the company was founded.[^ref-9][^ref-1][^ref-18] Sword of Kadash followed in 1985 for the Apple II and Commodore 64.[^ref-1]
 
 MobyGames says Dynamix's first contract was with Electronic Arts, which led to Arcticfox (1986), and that the game "was a hit and took home the SPA's Gold Award".[^ref-11] Sierra's own 1990 profile of the company dates the Electronic Arts deal to 1985, after Sword of Kadash, and says Arcticfox sold "over 100,000 copies".[^ref-26] Before joining Sierra, Dynamix made titles published by Penguin Software, Activision, Electronic Arts and others;[^ref-18] its 1989 releases included Project Firestart, Deathtrack and David Wolf: Secret Agent.[^ref-1] MobyGames credits Dynamix as developer of F-14 Tomcat (published by Activision; Commodore 64, February 1989) and, on DOS in 1989, Ghostbusters II.[^ref-30][^ref-31]
 
@@ -76,7 +76,7 @@ A selection of notable Dynamix-developed titles that have SierraVault pages, not
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Genre: Vehicle Simulation/Role-Playing
 - **1990** — [[1990 - Red Baron|Red Baron]] — Genre: Flight Simulation
 - **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Genre: Adventure
-- **1990** — [[1990 - Stellar 7|Stellar 7]] — Genre: Tank Combat
+- **1990** — [[1990 - Stellar 7|Stellar 7]] (DOS remake of the 1983 Apple II game) — Genre: Tank Combat
 - **1991** — [[1991 - Heart of China|Heart of China]] — Genre: Adventure
 - **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Genre: Tank Combat
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Genre: Adventure
