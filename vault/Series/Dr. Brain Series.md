@@ -7,12 +7,12 @@ first_release: 1991
 last_release: 2011
 total_games: 8
 genre: "Educational, Puzzle"
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 
 # Dr. Brain Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ CUC International completed its purchase of Sierra in July 1996.[^ref-19] It ann
 |------|-------|-----------|-------|
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Sierra On-Line | Founding entry; Corey Cole design[^ref-24] |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Sierra On-Line | Second entry[^ref-25] |
-| 1995 | [[1995 - The Lost Mind of Dr. Brain\|The Lost Mind of Dr. Brain]] | Sierra On-Line | Developed by [[Bright Star Technology]][^ref-26] |
+| 1995 | [[1995 - The Lost Mind of Dr. Brain\|The Lost Mind of Dr. Brain]] | Sierra On-Line | Developed by [[Bright Star Technology]] per Wikipedia; MobyGames credits Sierra On-Line[^ref-26][^ref-34] |
 | 1996 | [[1996 - The Time Warp of Dr. Brain\|The Time Warp of Dr. Brain]] | Sierra On-Line | Time-travel entry; developer credit disputed (see below)[^ref-8] |
 | 1998 | [[1998 - Dr. Brain Thinking Games - Puzzle Madness\|Dr. Brain Thinking Games: Puzzle Madness]] | Knowledge Adventure | *Dr. Brain Thinking Games*[^ref-22] |
 | 1998 | [[1998 - Dr. Brain Thinking Games - IQ Adventure\|Dr. Brain Thinking Games: IQ Adventure]] | Knowledge Adventure | *Dr. Brain Thinking Games*; re-released digitally in 2023 as *Dr. Brain: Mind Venture*[^ref-9][^ref-31] |
