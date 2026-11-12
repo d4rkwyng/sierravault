@@ -5,11 +5,11 @@ founded: 1987
 defunct: 2000
 headquarters: "Berkeley, California, United States"
 parent_company: "Sierra On-Line (CUC International), acquired 1997"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -19,9 +19,9 @@ For the company's full history and people, see [[Developers/Berkeley Systems|Ber
 
 ## Sierra Connection
 
-CUC International bought Berkeley Systems in April 1997 and placed it under Sierra On-Line, which CUC had acquired the year before.[^ref-16][^ref-17][^ref-1][^ref-21][^ref-24] MobyGames lists it as the first of two acquisitions Sierra completed that April.[^ref-4] The Los Angeles Times reported that up to a third of Berkeley's 120 employees would be laid off and that the unit's new general manager, Chris Deyo, would report to executives at Sierra.[^ref-17]
+CUC International bought Berkeley Systems in April 1997[^ref-21] and placed it under Sierra On-Line, which CUC had acquired the year before.[^ref-16][^ref-17][^ref-1][^ref-24] Wired reported on 8 April 1997 that Berkeley would "function as an R&D studio for CUC", with the acquisition official on 11 April; Wikipedia words the buyer as "the Sierra On-Line division of CUC International".[^ref-29][^ref-1] By September 1997 Tech Monitor described it as "quietly acquired by giant software publisher CUC International Inc earlier this year".[^ref-30] MobyGames lists it as the first of two acquisitions Sierra completed that April.[^ref-4] The Los Angeles Times reported that up to a third of Berkeley's 120 employees would be laid off and that the unit's new general manager, Chris Deyo, would report to executives at Sierra.[^ref-17] Wired named the executive as Sierra president Mike Brochu.[^ref-29] That autumn Berkeley worked with Jellyvision and NBC on a themed You Don't Know Jack edition featuring stars from NBC's fall line-up, to air on the beZerk network the week of 29 September.[^ref-30]
 
-In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would feature family and board-style games, "stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license", listing HeadRush and the After Dark Game Pack among its 1998 releases.[^ref-22] Both appeared that year: After Dark Games, released by Sierra Attractions and Berkeley Systems, and Head Rush, a teen spin-off of You Don't Know Jack released on August 31, 1998.[^ref-3][^ref-20]
+In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would feature family and board-style games, "stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license", listing HeadRush and the After Dark Game Pack among its 1998 releases.[^ref-22] The same article listed You Don't Know Jack volume 4 and You Don't Know Jack The Irreverent Collection (both November) and Don't Touch That Dial (October) for the division.[^ref-22] Both appeared that year: After Dark Games, released by Sierra Attractions and Berkeley Systems, and Head Rush, a teen spin-off of You Don't Know Jack released on August 31, 1998.[^ref-3][^ref-20]
 
 CUC merged with HFS Incorporated in December 1997 to become Cendant, and Cendant agreed to sell its consumer software division, Sierra included, to Paris-based Havas in November 1998.[^ref-27] By May 1999 IGN described Berkeley Systems as "a party of the happy, French family of Havas Interactive" while reporting that it had begun shipping the CD-ROM trivia game Austin Powers: Operation Trivia.[^ref-28]
 
@@ -60,3 +60,5 @@ Berkeley Systems titles with SierraVault pages:
 [^ref-26]: [MobyGames - You Don't Know Jack trivia (Wayback, June 2024)](https://web.archive.org/web/20240621020055/https://www.mobygames.com/game/1407/you-dont-know-jack/trivia/) - "originally prototyped as a Hypercard program ... at a company called Jellyvision"; "they immediately thought of Berkeley Systems"
 [^ref-27]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) - "CUC merged with Henry Silverman's HFS Incorporated in December 1997 and became the Cendant Corporation"; sale of the consumer software division to Havas announced 20 November 1998
 [^ref-28]: [News Briefs - IGN (25 May 1999)](https://www.ign.com/articles/1999/05/25/news-briefs-322) - "Berkeley Systems, a party of the happy, French family of Havas Interactive, has begun shipping Austin Powers: Operation Trivia"
+[^ref-29]: [Berkeley Buy-Out Brings Layoffs - Wired (8 April 1997)](https://www.wired.com/1997/04/berkeley-buy-out-brings-layoffs/) - "Berkeley will function as an R&D studio for CUC"; "the acquisition will be official on 11 April"; Chris Deyo "will take the helm as general manager and report to Mike Brochu, the president of Sierra On-line"
+[^ref-30]: [Tech Monitor (24 September 1997)](https://techmonitor.ai/?p=190157) - Berkeley Systems "was quietly acquired by giant software publisher CUC International Inc earlier this year"; NBC-themed You Don't Know Jack edition on beZerk, week of 29 September
