@@ -10,7 +10,7 @@ series: Stellar 7
 engine: 3Space
 protagonist: Captain John Alex
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Nova 9: The Return of Gir Draxon is a first-person futuristic tank
   combat game designed by Paul Bowman, developed by Dynamix and published by Sierra
   On-Line for DOS in 1991 and the Amiga in 1992; it is the sequel to Stellar 7.'
@@ -18,7 +18,7 @@ tags: [1990s, sierra, stellar-7]
 ---
 # Nova 9: The Return of Gir Draxon
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ Alongside the combat, some levels include environmental puzzles. A 2000 MobyGame
 | Computer Gaming World | Positive | Issue 93 (April 1992), reviewed by Todd Threadgill: "an excellent offering for arcade fans everywhere"[^ref-24] |
 | Dragon | 4½/5 | Issue 180 (April 1992), "The Role of Computers" column by Hartley, Patricia and Kirk Lesser[^ref-29] |
 | Datormagazin | 87% | November 1992 review by Göran Fröjdh[^ref-18] |
-| Amiga Games | 83% | November 1992 review by Martin Klaus[^ref-28] |
+| Amiga Games | 83% | November 1992 review by Martin Klaus (sub-scores: Gameplay 80%, Sound 75%, Graphics 85%, Motivation 85%)[^ref-28][^ref-31] |
 | Amiga Mania | 77% | November 1992 review by Tony Jones[^ref-18] |
 | Amiga Joker | 68% | October 1992 review by Max Magenauer[^ref-18] |
 | The One Amiga | 59% | October 1992 review by Simon Byron[^ref-18] |
@@ -101,7 +101,9 @@ Computer Gaming World's Todd Threadgill praised the creative enemy designs, the 
 
 Dragon called Nova 9 "a tremendous, well-coded, futuristic battle arcade game". The reviewers judged its graphics "not quite on a par with Origin's Wing Commander II" and called the sound through their Roland systems "an exciting enhancement to the game's overall feel and play"[^ref-29]. Génération 4's Jean Delaite went further and called Nova 9 "le plus beau jeu d'arcade sur PC" (the most beautiful arcade game on the PC)[^ref-30].
 
-On the Amiga, Amiga Games recommended the game to arcade fans and praised its graphics as a "grafisches Feuerwerk" (graphical fireworks). The magazine found the speed on a standard Amiga disappointing and warned that the game could crash on machines with Kickstart 2.0[^ref-28].
+On the Amiga, Amiga Games recommended the game to arcade fans and praised its graphics as a "grafisches Feuerwerk" (graphical fireworks). The magazine found the speed on a standard Amiga disappointing and warned that the game could crash on machines with Kickstart 2.0[^ref-28][^ref-31].
+
+Before its release, Génération 4 previewed the PC version in its September 1991 issue (p. 82), noting that the game was published by Dynamix in October 1991. The preview called Nova 9 "un jeu d'arcade de type shoot'em up en 3D, très maniable et prenant, avec des arguments techniques irréprochables" (a very manageable, gripping 3D shoot-'em-up arcade game with flawless technical arguments)[^ref-32][^ref-18].
 
 ### Modern Assessment
 
@@ -127,6 +129,9 @@ MobyGames credits 37 people on the DOS version, including[^ref-26]:
 - Paul Bowman (Designer; also Programmer)
 - David Selle (Writer; World Design)
 - Nels Bruckner, Jeff Johannigman (Design Contributions)
+- Lynne Tunstill, Jerry Luttrell (Direction)
+- Sue Roberts (Design and Production; also Illustration)
+- Jerry Luttrell, Sue Roberts, David Selle (Writing)
 
 **Programming and Art:**
 - Paul Bowman, Nels Bruckner (Programmers)
@@ -145,6 +150,27 @@ The Mr. DOS archive entry lists the same core development team[^ref-8].
 InterAction credited the game's look to "the newest 3Space™ 3D technology and a literal barrage of special effects"[^ref-25]. Sierra Chest lists the engine as 3-Space[^ref-11].
 
 According to MobyGames, the DOS version supports VGA, EGA and Tandy/PCjr graphics. It supports AdLib, Sound Blaster, Pro Audio Spectrum, Roland MT-32/LAPC-I, Tandy, Thunderboard and PC speaker sound. It requires 640 KB of RAM and shipped on both 3.5" and 5.25" floppy disks[^ref-27]. Dragon's review likewise listed support for Tandy, EGA and VGA graphics with Thunderboard Pro, AdLib, Roland or Sound Blaster boards[^ref-29]. The Amiga version requires 1 MB and uses the 64-color Extra Half-Brite (EHB) mode[^ref-27].
+
+### Technical Specifications
+
+| Specification | Details |
+|---------------|---------|
+| Engine | 3Space[^ref-25] |
+| Graphics (DOS) | VGA, EGA, Tandy/PCjr[^ref-27] |
+| Sound (DOS) | AdLib, Sound Blaster, Pro Audio Spectrum, Roland MT-32/LAPC-I, Tandy, Thunderboard, PC speaker[^ref-27] |
+| Input | Keyboard, mouse, analog joystick[^ref-27] |
+| Perspective | First-person[^ref-7] |
+| Save System | None on DOS (two continues)[^ref-24]; password on Amiga[^ref-27] |
+| Planets | 9[^ref-24] |
+| Media | 3.5" and 5.25" floppy disks (DOS); 3.5" floppy (Amiga)[^ref-27] |
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| DOS (US) | 1991 | DOS | United States release, published by Sierra On-Line[^ref-7] |
+| DOS (Europe) | 1991 | DOS | Dual Media release in France, Germany and the United Kingdom[^ref-7] |
+| Amiga (US) | 1992 | Amiga | United States release, published by Sierra On-Line[^ref-7] |
 
 ## Legacy
 
@@ -169,19 +195,6 @@ Nova 9 sits within the Stellar 7 series:
 3. **Stellar 7: Draxon's Revenge** (1993) - 3DO version
 4. **Stellar-Fire** (1993) - Listed by MobyGames as the next game in the series[^ref-7]
 
-## Technical Specifications
-
-| Specification | Details |
-|---------------|---------|
-| Engine | 3Space[^ref-25] |
-| Graphics (DOS) | VGA, EGA, Tandy/PCjr[^ref-27] |
-| Sound (DOS) | AdLib, Sound Blaster, Pro Audio Spectrum, Roland MT-32/LAPC-I, Tandy, Thunderboard, PC speaker[^ref-27] |
-| Input | Keyboard, mouse, analog joystick[^ref-27] |
-| Perspective | First-person[^ref-7] |
-| Save System | None on DOS (two continues)[^ref-24]; password on Amiga[^ref-27] |
-| Planets | 9[^ref-24] |
-| Media | 3.5" and 5.25" floppy disks (DOS); 3.5" floppy (Amiga)[^ref-27] |
-
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -192,6 +205,9 @@ Nova 9 sits within the Stellar 7 series:
 - [Internet Archive](https://archive.org/details/msdos_Nova_9_-_Return_of_Gir_Draxon_1991)
 - [Internet Archive – Demo](https://archive.org/details/Nova9ReturnOfGirDraxonDemo)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Nova+9:+The+Return+of+Gir+Draxon&gid=3182)
+
+**Manuals & Extras**
+- The game came with a manual and a reference card; Amiga Games mentions "die dem Handbuch beiliegende Referenzkarte" (the reference card enclosed with the manual)[^ref-28]. MyAbandonware lists scans of the manual (14 MB) and the refcard (2 MB)[^ref-14]
 
 ## See Also
 
@@ -222,3 +238,5 @@ Nova 9 sits within the Stellar 7 series:
 [^ref-28]: [Amiga Games, November 1992, p. 50](https://archive.org/details/Amiga_Games_1992-11) – Review by Martin Klaus ("mk"), overall 83%
 [^ref-29]: [Dragon #180 (April 1992), p. 60](https://archive.org/details/dragon-magazine/Dragon%20Magazine%20%23180%5Bocr%5D/page/60/mode/1up) – "The Role of Computers": Nova 9 rated 4½ stars, PC/MS-DOS $34.95
 [^ref-30]: [Génération 4 #39 (December 1991), pp. 84–85](https://archive.org/details/generation4-magazine-039) – Review by Jean Delaite, 91%
+[^ref-31]: [Kultboy – Amiga Games 11/92 scan](https://www.kultboy.com/index.php?site=t&id=9025) – Scan of the Nova 9 review, p. 50: Game Facts box with Gameplay 80%, Sound 75%, Grafik 85%, Motivation 85%, overall 83%, price ca. DM 90, signed "mk"
+[^ref-32]: [Génération 4 #36 (September 1991), p. 82](https://archive.org/details/generation4-magazine-036) – "Previews" spread headed "Édité par Dynamix Octobre 91 sur PC"; Nova 9 described as a 3D shoot'em up
