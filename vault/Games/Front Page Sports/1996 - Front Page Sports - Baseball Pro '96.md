@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-controlled team/manager
 sierra_lineage: Core Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: 'Front Page Sports: Baseball Pro ''96 Season is a simulation game developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1996. It was the second Front Page Sports baseball title, following Baseball
   ''94, and its reviewers praised the management depth and physics but found its
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Baseball Pro '96 Season
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -59,7 +59,7 @@ Wikipedia's series article lists single-player, multiplayer, and career modes fo
 
 ### Management and Simulation
 
-The game's complexity came from its management systems. Computer Game Review noted that hurt players could be put on the disabled list or sent down to AAA, and found "the ball physics are very true": grass versus artificial turf made a difference, wind speed made "a noticeable difference on the flight of the ball," weather ranged from sunny to an actual rain-out, and game-time temperature affected how fast the bullpen warmed up[^ref-8]. Altitude appears to have come later: old-games.com's description of Baseball Pro '98 lists "the addition of altitude data" to the physics engine among that edition's new features[^ref-10].
+The game's complexity came from its management systems. Computer Game Review noted that hurt players could be put on the disabled list or sent down to AAA, and found "the ball physics are very true": grass versus artificial turf made a difference, wind speed made "a noticeable difference on the flight of the ball," weather ranged from sunny to an actual rain-out, and game-time temperature affected how fast the bullpen warmed up[^ref-8]. Altitude, by contrast, is documented for the '98 edition: old-games.com's description of Baseball Pro '98 lists "the addition of altitude data" to the physics engine among that edition's new features[^ref-10].
 
 Wikipedia's series article describes the Front Page Sports Baseball games' pb.ini, a standard Windows configuration file whose sections adjust gameplay factors such as pitch breaks and turf resistance and bounce[^ref-3]. The article does not say which edition introduced it.
 
@@ -74,6 +74,10 @@ Jim Gindin's October 1996 Computer Gaming World review, "Outpost In Left Field",
 CGW's own September 1996 "On the Shelf" capsule, "Front Page Sports: Baseball Pro is back-but is it better?", was more mixed than its later review: reviewer T. Kaiafas called graphical performance, "even in Windows 95 and a speedy system, ... its weakest position," but said "the superb ball physics" added to the sense of statistical realism[^ref-24]. T. Kaiafas also wrote the Computer Game Review piece.
 
 Computer Game Review awarded the game 86/100, with reviewer Tasos Kaiafas noting that "Front Page Sports: Baseball Pro '96 is for aspiring managers and maybe pitchers. You won't find a good arcade experience here"[^ref-8]. Next Generation magazine gave the related '94 edition 4 out of 5 stars, praising its "amazingly realistic approach to the management of baseball"[^ref-9]. GameSpot later awarded the '98 sequel 8/10. Stephen Poole wrote that "it's obvious the company spent a lot of time and energy correcting the problems of the '96 edition"[^ref-19], observing of the '98 game that "the game looks and feels a lot like real baseball - the animations are dead-on without looking canned and the ball physics seem to be about right"[^ref-19].
+
+Computer Games Strategy Plus, in a December 1996 news item on Interactive Magic's recall of *Destiny*, praised that company for admitting its mistake: "Unlike other companies (Sierra comes to mind with Outpost and Baseball Pro 96), they admitted their mistake and are correcting it"[^ref-27]. The item was credited to Steve Bauman.
+
+Computer Game Review's verdict box was blunter than its score. Under "The Bad" it listed "Unbearable graphics performance, especially with a minimum installation, and a poor relationship with Windows"[^ref-8].
 
 Hugo Foster of GameSpot noted in his October 1996 review that "Baseball management fans will revel as they guide a team over several seasons"[^ref-11]. However, he also cautioned that "this game may be one of the rare sports sims that's more fun when you are not playing"[^ref-11].
 
@@ -103,6 +107,12 @@ The game was developed by Dynamix, Inc. and published by Sierra On-Line[^ref-1].
 - **Lead Designer:** Doug Johnson
 - **Director/Additional Designer:** Bill Money
 - **Additional Designer:** Scott Youngblood
+- **Lead Programmer:** Glenn Wallace
+- **Stadium/Action Programmer:** David Merrill
+- **Front Office Programmer:** Glen Wolfram
+- **Sound Programmer:** James Poelke
+- **Art Direction:** Ian Gilliland, Thomas Van Velkinburgh
+- **Music and Sound:** Loudmouth, Inc.
 
 ### Technical Achievements
 
@@ -153,7 +163,9 @@ According to Sierra, combined sales of the Front Page Sports series, across all 
 
 ### Collections
 
-Front Page Sports: Baseball Pro '96 Season was part of Sierra's broader sports gaming initiative during the mid-1990s. The game complemented Front Page Sports: Football Pro '96, which received cosmetic updates including "new high-res SVGA graphics"[^ref-18]. 
+Front Page Sports: Baseball Pro '96 Season was part of Sierra's broader sports gaming initiative during the mid-1990s. The game complemented Front Page Sports: Football Pro '96, which received cosmetic updates including "new high-res SVGA graphics"[^ref-18].
+
+It was also included in *Front Page Sports: All Pro Collection - Collection Series* (Windows, 1997), which MobyGames lists as a collection of previously released games: Baseball Pro '96 alongside Football Pro '97, Golf, Trophy Bass and You Don't Know Jack: Sports.[^ref-26]
 
 ### Fan Projects
 
@@ -219,3 +231,5 @@ Not currently sold on GOG or Steam (checked October 2026).
 [^ref-23]: [Computer Gaming World #144 (July 1996) – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_144/page/n82/mode/1up) – Dennis McCauley, "Base Instincts" preview: native Windows 95, '94 team import, career mode
 [^ref-24]: [Computer Gaming World #146 (September 1996), pp. 33–34 – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_146/page/n36/mode/1up) – "On the Shelf" capsule, T. Kaiafas: Windows 95 windows, 3D mode, weak graphical performance, "superb ball physics"
 [^ref-25]: [Computer Gaming World #149 (December 1996), p. 424 – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_149/page/n427/mode/1up) – Computer Gaming Poll: Top Sports Games "10 FPS Baseball Pro 96 Sierra 6.97"; Top 100 "82 FPS Baseball Pro 96 Sierra SP 6.97"
+[^ref-26]: [MobyGames - Front Page Sports: All Pro Collection - Collection Series](https://www.mobygames.com/game/247528/front-page-sports-all-pro-collection-collection-series/) - 1997 Windows collection contents (read via the MobyGames API)
+[^ref-27]: [Computer Games Strategy Plus #73 (December 1996) - Internet Archive scan](https://archive.org/details/computer-games-strategy-plus-issue-73-december-1996) - Steve Bauman's news item "Destiny recalled": "Unlike other companies (Sierra comes to mind with Outpost and Baseball Pro 96), they admitted their mistake"
