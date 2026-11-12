@@ -268,6 +268,7 @@ The game is not currently sold on any digital store.
 ## See Also
 
 - [[1983 - BC's Quest for Tires|← Previous: BC's Quest for Tires]]
+- [[1984 - Wizard of Id's WizMath]]
 
 ## References
 

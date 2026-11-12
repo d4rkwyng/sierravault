@@ -10,7 +10,7 @@ series: N/A
 engine: Machine Language
 protagonist: Spook
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Paul Butler]
 description: Wizard of Id's WizMath is a 1984 educational mathematics game published
   by Sierra On-Line and developed by Sydney Development Corp., starring Spook from
@@ -19,7 +19,7 @@ tags: [1980s, educational, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -90,7 +90,7 @@ Blocks also work against the jailers. "If you kick a block into a Turnkey, you'l
 
 ### Contemporary Reviews
 
-No contemporary magazine review of WizMath has been located for this page.
+ROM Magazine's August 1984 report from the Summer Consumer Electronics Show singled out WizMath among Sierra's new Wizard of Id educational games. The writer said the line had "good graphics and gameplay" and that "One that impressed me was 'Wizard of ID'S Wizmath' which makes addition through algebra more enjoyable."[^ref-30]
 
 ### Modern Assessment
 
@@ -110,6 +110,8 @@ On My Abandonware, user Olddantrucker recalled: "I played this at age 5 when Dad
 ### Origins
 
 Sydney Development Corporation was a Canadian software company, founded in 1978, that moved from business software into publishing and developing microcomputer games.[^ref-27] It had already worked with Sierra on a Johnny Hart license. B.C.'s Quest for Tires (1983), based on Hart's B.C. strip, was developed by Sydney and published by Sierra.[^ref-24]
+
+In February 1984, Computer Games reported an agreement between Sierra On-Line and Sydney Development Corp. to turn Johnny Hart's comic strips, B.C. and Wizard of Id, into computer games. The first batch of an announced 80 games was to be Quest for Tires, Wiztype, Wizworld, Wizlab, Wizmath, Wizspell, Dot to Dot Zot and Bung Juggler. The educational titles were to be available for "all major home computers" and ColecoVision, with Wiztype the first independent product for Coleco's Adam computer.[^ref-31]
 
 The Wizard of Id began on November 9, 1964. In 1984 it was syndicated by Publishers Newspaper Syndicate/North America Syndicate, which handled the strip from 1964 to 1989; Creators Syndicate took it over in 1989.[^ref-20] The 1984 packaging credits the characters to News Group Chicago, Inc., and the reference card credits them to Field Enterprises, Inc.[^ref-23]
 
@@ -205,6 +207,8 @@ WizMath was one of two Wizard of Id educational games Sierra released in 1984, a
 - [[1984 - Wizard of Id's WizType]]
 - [[1992 - Ready, Set, Read with Bananas & Jack]]
 - [[1993 - Kids' Typing]]
+- [[1983 - BC's Quest for Tires]]
+- [[1984 - BC II - Grog's Revenge]]
 
 ## References
 
@@ -228,3 +232,5 @@ WizMath was one of two Wizard of Id educational games Sierra released in 1984, a
 [^ref-27]: [Wikipedia – Sydney Development Corporation](https://en.wikipedia.org/wiki/Sydney_Development_Corporation) – Canadian software company founded 1978, early microcomputer game publisher
 [^ref-28]: [Wikipedia – B.C. II: Grog's Revenge](https://en.wikipedia.org/wiki/B.C._II:_Grog%27s_Revenge) – 1984 Sydney Development game, sequel to B.C.'s Quest for Tires; publishers include Sierra On-Line
 [^ref-29]: [MobyGames – B.C. II: Grog's Revenge](https://www.mobygames.com/game/10328/bc-ii-grogs-revenge/) – read via the MobyGames API; Commodore 64 US release December 1984, published by Sierra On-Line, developed by Sydney Development Corp.
+[^ref-30]: [Internet Archive – ROM Magazine, vol. 1 no. 7 (August 1984)](https://archive.org/details/ROM_Magazine_v1i7) – summer CES report; "Wizard of ID'S Wizmath" comment
+[^ref-31]: [Internet Archive – Computer Games, February 1984](https://archive.org/details/computer_games_feb84) – "Video Game Gazette" item on the Sierra On-Line and Sydney Development Corp. Johnny Hart agreement and the eight announced titles

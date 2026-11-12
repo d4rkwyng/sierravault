@@ -282,6 +282,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 ## See Also
 
 - [[1984 - BC II - Grog's Revenge|→ Next: BC II - Grog's Revenge]]
+- [[1984 - Wizard of Id's WizMath]]
 
 ## References
 
