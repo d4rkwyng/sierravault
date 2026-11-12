@@ -32,16 +32,16 @@ This adventure game alternates control between series protagonist Larry Laffer a
 > **Designer:** [[Al Lowe]][^ref-4][^ref-50]
 > **Composer:** Craig Safan, Al Lowe, Christopher Braymen[^ref-15][^ref-50][^ref-52]
 > **Publisher:** Sierra On-Line[^ref-9]
+> **Engine:** SCI1[^ref-12]
 > **Platforms:** DOS, Amiga, Macintosh; Windows re-release 2017[^ref-10][^ref-4]
 > **Release Year:** 1991[^ref-4]
 > **Series:** Leisure Suit Larry
-> **Sierra Lineage:** Core Sierra
-> **Engine:** SCI1[^ref-12]
 > **Protagonist:** Larry Laffer / Passionate Patti
+> **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-The plot begins with Larry Laffer being assigned a dream job: traveling across the United States to find and secretly film three of America's sexiest women for his company's show[^ref-16][^ref-14]. The boss's logic is that a woman willing to go with someone as hapless as Larry must be ideal for the show[^ref-14]. Meanwhile, the FBI recruits Passionate Patti to go undercover and find out how organized crime has infiltrated the entertainment industry through subliminal messages hidden in rock and rap recordings[^ref-4].
+The plot begins with Larry Laffer being assigned a dream job: traveling across the United States to find and secretly film three of America's sexiest women for his company's show[^ref-16][^ref-14]. His boss, Silas Scruemall of PornProdCorp, sends him after three candidates for "America's Sexiest Home Videos": Michelle Milken, a junk bond dealer in New York City; Lana Luscious, a professional mud wrestler in Atlantic City; and Chi Chi Lambada, a dental hygienist in Miami[^ref-4][^ref-7]. The boss's logic is that a woman willing to go with someone as hapless as Larry must be ideal for the show[^ref-14]. Meanwhile, the FBI Inspector Desmond recruits Passionate Patti to go undercover and find out how organized crime has infiltrated the entertainment industry through subliminal messages hidden in rock and rap recordings; her targets are Des Rever Records in Baltimore and K-RAP Radio in Philadelphia[^ref-4].
 
 The game's premise cleverly incorporates the mystery of the missing Leisure Suit Larry 4 into its narrative. Larry has supposedly forgotten his fourth adventure due to amnesia caused by the villainous Julius Biggs, who stole the "missing floppies" containing the fourth game[^ref-4][^ref-15]. This tongue-in-cheek explanation became part of the series mythology, with Larry 4 from then on referred to as "The Case of the Missing Floppies"[^ref-16].
 
@@ -51,7 +51,7 @@ The game's premise cleverly incorporates the mystery of the missing Leisure Suit
 
 Leisure Suit Larry 5 was the first new Larry game with a point-and-click interface, abandoning the text parser that had defined the earlier original entries; only the 1991 VGA remake of the first game had used it before[^ref-12]. Al Lowe later reflected that this change had unexpected consequences: "I put the same amount of puzzles in Larry 5 as in Larry 3 but people solved the game much faster because they didn't have to guess which words we wanted them to type"[^ref-3]. The new system featured what the developers cheekily described as a "no-typing 'grope and click' interface for quick-feel, one-hand action scoring"[^ref-7].
 
-The game introduced several unique interface elements, including the infamous "Zipper" icon for erotic actions[^ref-4] and the "Bodily Function Keys"[^ref-7]. According to Al Lowe, these sound effect keys were added just three days before shipping: "We added these about three days before we shipped because it was late at night, we were tired, we were high on caffeine and pizza, we were all Letterman fans, it seemed like a good idea at the time, and we could"[^ref-7].
+The game included the infamous "Zipper" icon for erotic actions[^ref-4] and the "Bodily Function Keys"[^ref-7]. Computer Gaming World noted that, with a Sound Blaster card, "Every function key has a rude noise contributed by each of the development team members respectively"[^ref-46]. According to Al Lowe, these sound effect keys were added just three days before shipping: "We added these about three days before we shipped because it was late at night, we were tired, we were high on caffeine and pizza, we were all Letterman fans, it seemed like a good idea at the time, and we could"[^ref-7].
 
 ### Structure and Progression
 
@@ -89,7 +89,7 @@ Computer Gaming World's J.D. Lambright called it "a thoroughly enjoyable game" i
 
 ### Modern Assessment
 
-Later retrospective reviews have been mixed. Adventure Classic Gaming's 1999 review rated it 4/5, with the reviewer writing, "Among all the titles in the Leisure Suit Larry series, my favorite is Leisure Suit Larry 5"[^ref-7]. Alex Bevilacqua's blog review gave it 55%, noting that "playing this game sort of felt like I was 'going through the motions'. There wasn't much challenge, the game world felt very small and there wasn't much to explore"[^ref-8].
+Later retrospective reviews have been mixed. Adventure Classic Gaming's 1999 review rated it 4/5, with the reviewer writing, "Among all the titles in the Leisure Suit Larry series, my favorite is Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work"[^ref-7]. Alex Bevilacqua's blog review gave it 55%, noting that "playing this game sort of felt like I was 'going through the motions'. There wasn't much challenge, the game world felt very small and there wasn't much to explore"[^ref-8].
 
 Some MobyGames user reviews are harsh, with one reviewer stating "Larry 5 is unabashedly, mind-numbingly, infuriatingly easy" and criticizing that "all the puzzles in the game are there only to score extra points"[^ref-30]. Another user compared the game's quality to Larry's romantic failures: "Larry 5 is to adventure games (Larry legacy included) what Larry is to women"[^ref-26].
 
@@ -103,7 +103,7 @@ This decision solved what Lowe called the "mind share problem" - how to grab peo
 
 ### Production
 
-The game was developed using Sierra's SCI1 engine[^ref-12]. Like the VGA remake of the first game, released shortly before it, Larry 5 uses 256-colour VGA graphics[^ref-16][^ref-7]. The production team included creative director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4]. [[Andy Hoyos]] is credited under Graphics / Artwork and for Production[^ref-50][^ref-15].
+The game was developed using Sierra's SCI1 engine[^ref-12]. Like the VGA remake of the first game, released shortly before it, Larry 5's 256-colour version uses VGA graphics[^ref-16][^ref-7][^ref-55]. The production team included creative director Bill Davis alongside Al Lowe, producer Guruka Singh Khalsa, programmer Brian K. Hughes, and artist Jane Cardinal[^ref-4]. [[Andy Hoyos]] is credited under Graphics / Artwork and for Production[^ref-50][^ref-15].
 
 Adventure Classic Gaming describes the game's original score as the work of "Emmy nominee and Hollywood composer Craig Safan, whose credits include the Cheers TV show, The Last Starfighter, and A Nightmare on Elm Street 4"[^ref-7]. The Sierra Wiki's credits list "Music: Christopher Braymen, Al Lowe, Craig Safan" and "Music / Sound Programming: Mark Seibert"[^ref-15]; MobyGames' credits name the same three composers (Christopher G. Braymen, Al Lowe, Craig Safan) and Mark Seibert[^ref-50], and VGMrips credits Al Lowe, Chris Braymen and Craig Safan[^ref-52]. The soundtrack was later preserved digitally, featuring Roland MT-32 score with Sound Canvas enhancements[^ref-31].
 
@@ -137,10 +137,11 @@ Adventure Classic Gaming's technical data gives the floppy version's requirement
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | September 7, 1991 (Wikipedia, Sierra Wiki); 1991-09-11 (Sierra Chest) | DOS | Original release[^ref-4][^ref-15][^ref-16] |
+| Original (16-colour) | 1991 | DOS | Released in four packages: a 16-colour version (EGA, MCGA, VGA, Tandy/PCjr) on 3.5" DD or 5.25" HD disks, and a 256-colour version (MCGA, VGA) on 3.5" HD or 5.25" HD disks[^ref-55]. Computer Gaming World's November 1991 review said the game was then available in a VGA version "with the EGA to be released soon"[^ref-46] |
 | Original | 1991 | Macintosh | MobyGames release list[^ref-9] |
 | Original | 1992 | Amiga | MobyGames release list[^ref-9] |
-| Re-release | December 20, 2017 | Windows | Steam release by Assemble Entertainment[^ref-9][^ref-4] |
-| Delisting | April 30, 2025 | Windows | Assemble Entertainment announced the game's removal from Steam[^ref-44] |
+| Re-release | December 18, 2017 (Steam); MobyGames lists December 20, 2017 | Windows | Steam release by Assemble Entertainment[^ref-37][^ref-9][^ref-4] |
+| Delisting announced | April 30, 2025 | Windows | Assemble Entertainment announced the game's removal from Steam[^ref-44] |
 
 ### Technical Issues
 
@@ -152,11 +153,11 @@ Sierra Help's Leisure Suit Larry Easter egg list records two hidden risqué scen
 
 ## Legacy
 
-Leisure Suit Larry 5's impact on the series was significant but controversial. It brought VGA graphics and the icon interface to a new Larry adventure, but some later reviewers rate it poorly; 3rd World Geeks felt it "falls in the 'miss' category" of the series[^ref-1]. Just Games Retro warned that for anyone who has "ever played another adventure game, this one will be insultingly simplistic"[^ref-28].
+Leisure Suit Larry 5's impact on the series was significant but controversial. It brought VGA graphics and the icon interface to a new Larry adventure, but some later reviewers rate it poorly; 3rd World Geeks felt it "falls in the 'miss' category" in the Leisure Suit Larry Greatest Hits and Misses collection[^ref-1]. Just Games Retro warned that for anyone who has "ever played another adventure game, this one will be insultingly simplistic"[^ref-28].
 
 The mysterious "missing" Larry 4 became a running gag that persisted throughout the series' history. Fans were left to guess for years what happened to it; The Sierra Chest jokes that it "was never made but, by all means, DO keep looking for it!"[^ref-16]. Al Lowe later explained that Larry 4 was meant to be "the first multi-player on-line adventure game", and recalls that he, Jeff Stephenson and Matthew George began coding it in January 1991[^ref-47]. The adventure design proved unworkable, and the board games built to test the system grew into Sierra's online service instead: "Constant Companion became The Sierra Network"[^ref-47][^ref-48]. After six months Lowe "realized my folly and begged off the project"; with "the sales department … clamoring for Larry 4", he decided to give them one, and it became Larry 5[^ref-48]. The dates in Lowe's accounts don't line up neatly with the record: he dates the start of coding to January 1991[^ref-47], but Sierra's own magazine was already reporting talk of a modem-based Larry in Spring 1990[^ref-49], and Lowe also says Larry 3's crunch was to get it out "in time for the 1990 holiday shopping season"[^ref-45], although Larry 3 was released in 1989[^ref-51].
 
-The game was a commercial success. On November 15, 1991, the Nashua Telegraph reported that more than 125,000 copies had been sold since its September release[^ref-35]. Sierra's SEC filings put combined sales of the Leisure Suit Larry series at over 1.4 million copies[^ref-34].
+The game was a commercial success. On November 15, 1991, the Nashua Telegraph reported more than 125,000 copies of the Larry game sold since its September release[^ref-35]. Sierra's SEC filings put combined sales of the Leisure Suit Larry series at over 1.4 million copies[^ref-34].
 
 ### Collections
 
@@ -174,6 +175,7 @@ The Sierra Chest lists the game as included in Leisure Suit Larry's Greatest Hit
 
 ## See Also
 
+- [[Leisure Suit Larry Series]]
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
@@ -217,7 +219,7 @@ The Sierra Chest lists the game as included in Leisure Suit Larry's Greatest Hit
 [^ref-34]: [SEC Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Sierra series sales figures
 [^ref-35]: [Newspaper Archive](https://newspaperarchive.com/nashua-telegraph-nov-15-1991-p-15/) – 1991 sales data
 [^ref-36]: [GOG Database – Leisure Suit Larry (product 1207659158)](https://www.gogdb.org/product/1207659158) – GOG bundle including LSL 1, 1 VGA, 2, 3, 5, 6 and 6 VGA
-[^ref-37]: [Steam Store – Leisure Suit Larry 5](https://store.steampowered.com/app/765860/) – Store page notice: "no longer available on the Steam store"
+[^ref-37]: [Steam Store – Leisure Suit Larry 5](https://store.steampowered.com/app/765860/) – Release date December 18, 2017 (Steam store data; publisher Assemble Entertainment); store page notice: "no longer available on the Steam store"
 [^ref-39]: [Internet Archive Manual](https://archive.org/details/Leisure_Suit_Larry_5_-_Manual) – Manual preservation project
 [^ref-40]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – Technical compatibility information
 [^ref-44]: [Steam News: "Time for Larry to Retire (Just a Little Bit)" (Assemble Entertainment, April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – Announcement that LSL 1, 2, 3, 5, 6, 7 and Magna Cum Laude leave the Steam store; owners keep them
@@ -231,3 +233,4 @@ The Sierra Chest lists the game as included in Leisure Suit Larry's Greatest Hit
 [^ref-52]: [VGMrips – Leisure Suit Larry 5 (IBM PC/AT) pack](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) – Composers: Al Lowe, Chris Braymen, Craig Safan
 [^ref-53]: [Sierra Help – Leisure Suit Larry 5 Help](https://sierrahelp.com/Games/LeisureSuitLarry/LSL5Help.html) – Installer system-test crash, hidden setup window on Windows XP
 [^ref-54]: [Sierra Help – Leisure Suit Larry Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/LSLEasterEggs.html) – Leisure Suit Larry 5 entries
+[^ref-55]: [MobyGames – Leisure Suit Larry 5 trivia](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/trivia/) – Four packages: 16-colour (EGA, MCGA, VGA, Tandy/PCjr) and 256-colour (MCGA, VGA)
