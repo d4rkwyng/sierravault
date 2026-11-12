@@ -10,15 +10,14 @@ series: Half-Life
 engine: Source
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Kelly Bailey]
-description: Half-Life 2 is a first-person shooter developed and published by Valve
-  Corporation, released on November 16, 2004 for Windows PC. Representing one of the...
+description: "Half-Life 2 is a first-person shooter developed and published by Valve Corporation, released on November 16, 2004 for Windows PC, in which physicist Gordon Freeman fights the Combine occupation of Earth."
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life 2
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -141,17 +140,19 @@ Writer Marc Laidlaw and the narrative team pioneered environmental storytelling 
 
 ### Technical Specifications
 
-**Minimum Requirements:**[^ref-5]
+**Minimum Requirements (2004 retail release):**[^ref-5]
 - **CPU:** 1.2 GHz
 - **RAM:** 256 MB
 - **Graphics:** DirectX 7 compatible
 - **Disk Space:** 4.5 GB
 - **Internet:** Required for Steam activation
 
-**Recommended Requirements:**[^ref-5]
+**Recommended Requirements (2004 retail release):**[^ref-5]
 - **CPU:** 2.4 GHz
 - **RAM:** 512 MB
 - **Graphics:** DirectX 9 compatible
+
+**Current Steam listing (November 11, 2026):** Windows and Linux, $9.99 USD. Minimum requirements: Windows 7, Vista or XP; 1.7 GHz processor; 512 MB RAM; DirectX 8.1-level graphics card with SSE support; 6,500 MB disk space[^ref-57]
 
 **CD-ROM Version:**[^ref-24]
 - **Media:** 6 CDs
@@ -171,11 +172,11 @@ Newell described the aftermath: "We were paralyzed. We knew we weren't going to 
 
 ### Legal Battles
 
-Valve's relationship with publisher Vivendi Universal Games (parent company of Sierra Entertainment) deteriorated during development. The dispute centered on Steam distribution rights and alleged contract violations[^ref-28]. Game Developer reported that the original complaint "was that Sierra was placing copies of Valve games in Internet cafes across the globe – a practice that Valve claim was not covered by the publisher's license."[^ref-28]
+Valve's relationship with publisher Vivendi Universal Games (parent company of Sierra Entertainment) deteriorated during development. The dispute centered on Sierra's distribution of Valve games to Internet cafés, unpaid royalties and the delay of Counter-Strike: Condition Zero, and Vivendi's counterclaim[^ref-28]. Game Developer reported that the original complaint "was that Sierra was placing copies of Valve games in Internet cafes across the globe – a practice that Valve claim was not covered by the publisher's license."[^ref-28]
 
 Valve alleged that "Vivendi has refused to pay the developer royalties owed and unreasonably delayed Counter-Strike: Condition Zero so that it missed the Christmas 2003 retail period."[^ref-28] In response, "Vivendi lawyers made a counter-claim that they hoped would invalidate their publishing agreement with Valve and grant them ownership of the Half-Life intellectual property."[^ref-28]
 
-Sierra's lawyers argued that "Valve was aware of its business plan for Steam long before the contract was signed. They considered that Steam would be revolutionary technology that would take sales away from the traditional retail channel. None of that was disclosed."[^ref-29] The dispute was eventually settled, with VU Games president Phil O'Neil stating: "We have actually settled our dispute very very amicably."[^ref-30]
+Sierra's lawyers argued that "Valve was aware of its business plan for Steam long before the contract was signed. They considered that Steam would be revolutionary technology that would take sales away from the traditional retail channel. None of that was disclosed."[^ref-29] On November 22, 2004, the court granted Valve's cross-motion on cyber-café rights and denied Sierra and Vivendi's motion[^ref-56]. Its written opinion of December 14, 2004 held that the 2001 agreement licensed distribution only as "Retail Packaged Product" in the "Retail Channel", and that this did not cover cyber cafés[^ref-55]. Valve and Vivendi announced a settlement on April 29, 2005[^ref-3]. VU Games president Phil O'Neil stated: "We have actually settled our dispute very very amicably."[^ref-30]
 
 ### Cut Content
 
@@ -231,7 +232,7 @@ Half-Life 2 contains numerous hidden references and secrets discovered by the co
 
 Robin Williams was reportedly a fan of the series and was in talks to provide a voice for the games, but scheduling conflicts prevented this[^ref-8].
 
-## Voice Cast
+### Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -348,14 +349,10 @@ Perhaps most significantly, Half-Life 2's role in launching Steam fundamentally 
 
 The game's unresolved narrative has become part of gaming culture. Half-Life 3 remains one of the most requested sequels in history. Yet Half-Life 2's achievements stand complete: a technical marvel, a storytelling breakthrough, and a business model revolution that shaped the modern gaming landscape.
 
-## Purchase
-
-- [Steam](https://store.steampowered.com/app/220/HalfLife_2/) - Official digital distribution
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/220/HalfLife_2/) - Official digital distribution
+- [Steam](https://store.steampowered.com/app/220/HalfLife_2/) - Official digital distribution; $9.99 USD, Windows and Linux (as of November 11, 2026)[^ref-57]
 
 **Community Resources**
 - [Combine OverWiki](https://combineoverwiki.net/) - Comprehensive fan wiki
@@ -427,3 +424,6 @@ The game's unresolved narrative has become part of gaming culture. Half-Life 3 r
 [^ref-52]: [Combine OverWiki – Seven Hour War](https://combineoverwiki.net/wiki/Seven_Hour_War) – "defeating all of its armed forces in only seven hours"
 [^ref-53]: [Combine OverWiki – Pheropod](https://combineoverwiki.net/wiki/Pheropod) – introduced in Sandtraps; summons and directs Antlions
 [^ref-54]: [Wikipedia – 3rd Visual Effects Society Awards](https://en.wikipedia.org/wiki/3rd_Visual_Effects_Society_Awards) – Outstanding Visuals in a Video Game: Half-Life 2 (winner)
+[^ref-55]: [CourtListener – Valve Corp. v. Sierra Entertainment, 431 F. Supp. 2d 1091 (W.D. Wash. Dec. 14, 2004)](https://www.courtlistener.com/opinion/2335905/valve-corp-v-sierra-entertainment-inc/) – cyber-café rights; "Retail Packaged Product" in the "Retail Channel"; reasons for the November 22, 2004 order
+[^ref-56]: [CourtListener – Valve Corporation v. Sierra Entertainment, 2:02-cv-01683 docket](https://www.courtlistener.com/docket/4409951/valve-corporation-v-sierra-entertainment/?page=3) – entry 226, November 22, 2004 order; entry 258, April 12, 2005 dismissal with prejudice
+[^ref-57]: [Steam Store API – Half-Life 2 (app 220)](https://store.steampowered.com/api/appdetails?appids=220&cc=us) – platforms (Windows, Linux), $9.99 USD price, current minimum requirements; read November 11, 2026
