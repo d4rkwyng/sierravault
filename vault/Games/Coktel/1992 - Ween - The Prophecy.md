@@ -10,7 +10,7 @@ series: Standalone
 engine: Gob
 protagonist: Ween
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Charles Callet]
 description: '*The Prophecy* (known as *Ween: The Prophecy* in Europe) is a first-person
   point-and-click adventure game developed by Coktel Vision, published in Europe by Coktel
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coktel, sierra, ween]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -74,7 +74,27 @@ The puzzles received a mixed reception, with some critics finding them intricate
 
 *The Prophecy* received mixed reviews. The DOS version scored well in the French and British PC press: *Joystick* gave it 91/100, *Tilt* 17/20, *Génération 4* 78/100 and *PC Format* 75/100.[^ref-16] MobyGames lists a critic average of 66% from 16 reviews.[^ref-7]
 
-The Amiga version was received more coolly. Lemon Amiga lists 11 magazine reviews averaging 68%. They range from 84% in *Amiga Action* (Steve McNally) and 81% in *Amiga Power* down to 52% in *CU Amiga*, 51% in *Datormagazin* and *The One*, and 50% in *Amiga Format*.[^ref-10] *CU Amiga* felt the puzzles were completely illogical.[^ref-6]
+Two French magazines reviewed the game in November 1992. In *Tilt* (issue 107, pp. 130-131), Jean-Loup Jovanovic wrote that "Il ne manque rien à Ween. Rien, si ce n'est un peu plus de liberté d'action. Peut-être parce que le jeu est trop linéaire?" ("Ween lacks nothing, except a little more freedom of action. Perhaps because the game is too linear?"). He praised the VGA graphics, the video animation during play and a soundtrack he called at last worthy of the name.[^ref-34][^ref-16] In *Joystick* (issue 32, p. 192), the reviewer Moulinex concluded: "En un mot, voilà un superbe jeu d'aventure, original et très attachant" ("In a word, a superb adventure game, original and very engaging"), while noting that the graphics were superb on PC, reasonable on Atari ST and well below the machine's possibilities on Amiga.[^ref-35]
+
+The Amiga version was received more coolly. Lemon Amiga lists 11 magazine reviews averaging 68%:[^ref-10]
+
+| Magazine | Issue | Reviewer | Score |
+|----------|-------|----------|-------|
+| *Amiga Action* | No. 39, Dec 1992, p. 38 | Steve McNally | 84% |
+| *Amiga Power* | No. 20, Dec 1992, p. 54 | Les Ellis | 81% |
+| *Amiga Games* | Dec 1992, p. 34 | Hans Ippisch and Martin Klaus | 80% |
+| *Amiga Computing* | No. 56, Jan 1993, p. 147 | Paul Roundell | 78% |
+| *Amiga User International* | Mar 1993, p. 90 | not listed | 75% |
+| *Amiga Joker* | Dec 1992, p. 39 | Monika Lechl and Oskar Dzierzynski | 68% |
+| *CU Amiga* | Jan 1993, p. 80 | Tony Horgan | 52% |
+| *Datormagazin* | No. 22, Dec 1992, p. 74 | Göran Fröjdh | 51% |
+| *The One* | No. 51, Dec 1992, p. 80 | Simon Byron | 51% |
+| *Amiga Format* | No. 42, Jan 1993, p. 137 | Andy Nuttall | 50% |
+| *Amiga Magazine* | No. 23, Sep 1993, p. 60 | Michel van der Ven | 8/10 |
+
+*CU Amiga* felt the puzzles were completely illogical.[^ref-6]
+
+The Atari ST version was reviewed in *ST Review* issue 8 (December 1992), which gave it 83%.[^ref-36][^ref-37]
 
 *White Wolf* magazine's James Trunzo called it "an excellent game" that "boasts some beautifully digitized screens, fascinating humorous creatures and intricate solvable puzzles."[^ref-6]
 
@@ -120,6 +140,10 @@ The DOS version uses VGA graphics, and its hand-painted backgrounds have drawn p
 
 The audio system supported multiple sound cards and devices, including AdLib, Sound Blaster, Pro AudioSpectrum, Intersound MDO, and PC Speaker.[^ref-18] Composer Charles Callet wrote a full OPL2 (AdLib) soundtrack.[^ref-19] Adventure Gamers felt that composing only for AdLib, when other companies were using the Roland MT-32 and General MIDI, limited the soundtrack.[^ref-3] The Amiga version has different audio tracks from the DOS version.[^ref-18]
 
+### Technical Achievements
+
+*Tilt* reported that the game benefited from the programming methods of Inca, which allowed animated characters to be cut out automatically and placed over a drawn background, and called the effect impressive. It described the interface as an improved version of the one used in *Fascination*, with a Sierra-style menu bar that appears when the mouse moves to the top of the screen.[^ref-34] *Joystick* noted that the game offers 15 save slots and that the PC version supports Coktel's MDO sound card.[^ref-35]
+
 ### Technical Specifications
 
 **DOS Version:**[^ref-20][^ref-28]
@@ -157,7 +181,7 @@ According to Lemon Amiga commenters, the Amiga version lacks many of the DOS ver
 
 The game suffered from some technical issues common to adventure games of its era. Pixel hunting was identified as a problem, where important items could be difficult to locate on screen.[^ref-7] The puzzle logic was considered non-obvious by many players, with solutions that seemed irrational or impossible to deduce without trial and error.[^ref-14] The difficulty ramped up significantly near the ending, frustrating some players who had otherwise enjoyed the experience.[^ref-7]
 
-The Amiga version in particular suffered from color reduction and missing animations, making it an inferior experience compared to the DOS original.[^ref-14] On modern systems the game can be run through ScummVM,[^ref-20] and My Abandonware lists it as fully supported in DOSBox 0.73.[^ref-11]
+The Amiga version in particular suffered from color reduction and missing animations, making it an inferior experience compared to the DOS original.[^ref-14] On modern systems the game can be run through ScummVM,[^ref-20] and a January 2024 snapshot of the My Abandonware page lists it as "Fully supported on 0.73" in DOSBox.[^ref-33]
 
 ### Easter Eggs and Trivia
 
@@ -248,3 +272,8 @@ Community members on GOG.com have asked for an official re-release. One commente
 [^ref-30]: [MobyGames – Legend of Djel (Wayback Machine, Apr 2025)](https://web.archive.org/web/20250415154647/https://www.mobygames.com/game/3839/legend-of-djel/) – design credited to Joseph Kluytmans and Muriel Tramis; player is the gnome Djel; character Azeulisses
 [^ref-31]: [The Sierra Help Pages – Legend of Djel Walkthrough](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html) – "talk to Petroy"; "Petroy makes the potion"
 [^ref-32]: [The Adventurers' Guild – Missed Classic 31: Legend of Djel (1989), Dec 2016](https://advgamer.blogspot.com/2016/12/missed-classic-31-legend-of-djel-1989.html) – "the game had a sequel of sorts, Ween: The Prophecy"
+[^ref-33]: [My Abandonware – The Prophecy (Wayback Machine, 17 Jan 2024)](https://web.archive.org/web/20240117054730/https://www.myabandonware.com/game/the-prophecy-225) – "Dosbox support: Fully supported on 0.73"
+[^ref-34]: [Internet Archive – Tilt no. 107 (Nov 1992), Ween review by Jean-Loup Jovanovic, pp. 130-131](https://archive.org/details/Tilt107) – graphics, video animation, Inca methods, interface, linearity
+[^ref-35]: [Internet Archive – Joystick (France) no. 32 (Nov 1992), Ween review, p. 192](https://archive.org/details/joystick032) – verdict, platform comparison, 15 save slots, MDO card support
+[^ref-36]: [Atari Legend – Ween: The Prophecy](https://www.atarilegend.com/games/ween-the-prophecy) – Atari ST Review 8 (Dec 1992), 83%
+[^ref-37]: [Atarimania – Ween: The Prophecy (Atari ST)](https://www.atarimania.com/games/atari-st-games-ween-the-prophecy-10823) – ST Review, December 1992, 83%
