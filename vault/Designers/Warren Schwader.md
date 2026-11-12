@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Threshold", "Hoyle Official Book of Games series", "Jones in the Fast Lane", "Jewel Quest series"]
 companies: ["On-Line Systems", "Sierra On-Line", "ImagiNation Network", "iWin", "Solitaire Network"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Warren Schwader
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -49,7 +49,7 @@ In March 1988, Ken Williams met Schwader at the post office and asked him to com
 
 Schwader's love of card games led to the traditional games collection [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] (1989), which Sierra's magazine credited to "Hoyle's designer and programmer Warren Schwader."[^ref-sierranews1989][^ref-mobygames] "I'm a card player, so I really looked forward to working on this project," he said, adding: "I had to develop a system for card games within the Sierra system, that would include not only rules, but the strategies the computer will use against the player."[^ref-sierranews1989] The game included 18 computer opponents, among them characters from other Sierra games and Schwader himself as an opponent.[^ref-archive-hoyle][^ref-sierranews1990] By fall 1990 Sierra reported that it had "sold more than 250,000 copies worldwide."[^ref-sierranews1990]
 
-The series continued with [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] (1990), "a collection of 28 old and new solitaire games," which he designed and programmed.[^ref-sierranews1990][^ref-mobygames] Sierra's magazine said he also designed "two entirely new, never before seen solitaire games exclusively for Hoyle's II — Slide and Bowling,"[^ref-sierranews1990] and Wikipedia credits him with designing Bowling solitaire (it dates the game to 1988, which does not match the 1990 release; the date is uncertain).[^ref-wikipedia-bowling] Volume 3 followed: [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] (1991), which focused on board games.[^ref-wikipedia-hoyle] On Volume 3, MobyGames credits him as lead programmer, with Marti and Bridget McKenna as game designers; Wikipedia instead says he designed it.[^ref-mobygames][^ref-wikipedia-hoyle]
+The series continued with [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] (1990), "a collection of 28 old and new solitaire games," which he designed and programmed.[^ref-sierranews1990][^ref-mobygames] Sierra's magazine said he also designed "two entirely new, never before seen solitaire games exclusively for Hoyle's II — Slide and Bowling,"[^ref-sierranews1990] and Wikipedia credits him with designing Bowling solitaire (it dates the game to 1988, which does not match the 1990 release; Solitaire Network likewise describes the Hoyle II Solitaire collection as "developed in 1988"; the date is uncertain).[^ref-wikipedia-bowling][^ref-solitaire-network] Volume 3 followed: [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] (1991), which focused on board games.[^ref-wikipedia-hoyle] On Volume 3, MobyGames credits him as lead programmer, with Marti and Bridget McKenna as game designers; Wikipedia instead says he designed it.[^ref-mobygames][^ref-wikipedia-hoyle]
 
 Sierra put Schwader on [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (1990), a game it had bought as an outside design, and teamed him with Bill Davis and Bill Skirvin. He was its lead programmer and also wrote its dialogue.[^ref-sierranews1990][^ref-mobygames] He later recalled that when Sierra acquired it, "It was in text form," and that "Jones had a four-person design team."[^ref-retrogamer94] He called the 1992 CD-ROM edition "Sierra's first multimedia product released on CD."[^ref-halcyon] He was also the lead programmer of the "Original Board Game Challenge Team" credited on [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] (1992), which reused Hoyle Volume 3's games.[^ref-mobygames] He designed and programmed [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (1993).[^ref-mobygames] Sierra's *InterAction* magazine traced it to Ken Williams learning Bridge on The Sierra Network: Ken "talked to Warren Schwader (designer of the original Hoyle games) about adding it to a VGA revision of Hoyle 1." Schwader and project manager Robert Holmes then added Euchre, and "Warren (who's originally from Wisconsin) was a Euchre expert." He also appeared in the game's video cameos: "Warren himself appears as the straight-jacketed card shark."[^ref-interaction1993][^ref-mobygames]
 
@@ -111,7 +111,7 @@ The Hoyle series that began with his Volume 1 continued from 1989 to 2016.[^ref-
 |------|-------|------|
 | 1980 | [[1980 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Designer, Programmer (On-Line disk release dated 1980 by MobyGames, 1981 by Sierra) |
 | 1981 | Thrilogy of Games | Designer, Programmer |
-| 1981 | [[1981 - Threshold\|Threshold]] | Designer, Programmer |
+| 1981 | [[1981 - Threshold\|Threshold]] | Designer, Programmer (Ken Williams also credited; *Softalk* bylines it "by Warren Schwader and Ken Williams")[^ref-softalk] |
 | 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]] | Special Features Development |
 | 1982 | Threshold (Atari 2600, Tigervision) | Designer |
 | 1983 | [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] (Apple II, Commodore 64) | Creator |
@@ -124,7 +124,7 @@ The Hoyle series that began with his Volume 1 continued from 1989 to 2016.[^ref-
 |------|-------|------|
 | 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | Designer, Programmer, Artist |
 | 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] (DOS; Atari ST version also credited) | Designer, Programmer, Artist |
-| 1990 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Lead Programmer, Dialogue |
+| 1990 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Lead Programmer, Dialogue (MobyGames lists the DOS release as 1991)[^ref-mobygames-jones] |
 | 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | Lead Programmer |
 | 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane CD-ROM]] | Lead Programmer, Writer |
 | 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Credited lead programmer of the original Hoyle 3 team (code reused) |
@@ -174,4 +174,5 @@ Credits from MobyGames.[^ref-mobygames] James Hague's *Giant List of Classic Gam
 [^ref-wikipedia-sammy]: [Wikipedia - Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot) — Apple II and C64 1983, ColecoVision 1984, PC-88 1985; unfinished sequel Sammy's Icehouse
 [^ref-wikipedia-bowling]: [Wikipedia - Bowling (solitaire)](https://en.wikipedia.org/wiki/Bowling_(solitaire)) — "designed by Warren Schwader" for Hoyle Official Book of Games Vol 2: Solitaire (Wikipedia gives 1988)
 [^ref-retro365-sammy]: [Retro365 - Sammy Lightfoot: from violence to light-hearted action (2022)](https://retro365.blog/2022/08/17/bits-from-my-personal-collection-sammy-lightfoot-from-violence-to-light-hearted-action/) — Threshold royalties of nearly a hundred thousand dollars; Sammy Lightfoot development notes
+[^ref-mobygames-jones]: [MobyGames - Jones in the Fast Lane](https://www.mobygames.com/game/370/) — DOS release dated 1991 (read via the MobyGames API)
 [^ref-giantlist]: [Hague - Giant List of Classic Game Programmers](https://dadgum.com/giantlist/) — Index entry for Schwader, Warren: Hi-Res Cribbage (1980), Thrilogy (1981), Threshold, Sammy Lightfoot, Hoyle 1–3, Jones in the Fast Lane
