@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI0
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'The Colonel''s Bequest: A Laura Bow Mystery is a 1989 murder-mystery
   adventure game from Sierra On-Line, written by Roberta Williams and set on an isolated
   Louisiana bayou island in 1925.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Colonel's Bequest
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -43,7 +43,7 @@ Events take place around the island "whether you are present or not"[^ref-12], a
 
 The game opens on "a dark and stormy night"[^ref-9] in 1925 as young Laura Bow, a Tulane University student and aspiring journalist[^ref-2], accompanies her friend Lillian to visit Colonel Henri Dijon's isolated plantation mansion on an island in the Louisiana bayou[^ref-12][^ref-2]. At dinner the Colonel announces that his relatives will "all inherit EQUALLY" on his death, and that the share of anyone who dies before him will be divided among the survivors[^ref-12]. Greed soon leads to murders over the course of the night[^ref-28].
 
-Laura finds herself playing detective, and at the end of the night her notebook of everything she witnessed and found is reviewed[^ref-58]. The mansion's inhabitants include a colorful cast of potential victims and suspects: Lillian Prune, the Colonel's flapper niece; her alcoholic mother Ethel; Gertrude "Gertie" Dijon, widow of the Colonel's brother, and her children Gloria and Rudy; the Colonel's physician Dr. Wilbur C. Feels; his lawyer Clarence Sparrow; and the butler Jeeves[^ref-2][^ref-12]. As the night progresses, Laura must carefully observe the interactions between characters, eavesdrop on conversations, and piece together clues to understand the complex web of motives driving the killings[^ref-16].
+Laura finds herself playing detective, and at the end of the night her notebook of everything she witnessed and found is reviewed[^ref-58]. The mansion's inhabitants include a colorful cast of potential victims and suspects: Lillian Prune, the Colonel's flapper niece; her alcoholic mother Ethel; Gertrude "Gertie" Dijon, widow of the Colonel's brother, and her children Gloria and Rudy; the Colonel's physician Dr. Wilbur C. Feels; his lawyer Clarence Sparrow; and the butler Jeeves[^ref-2][^ref-12]. As the night progresses, Laura must carefully observe the interactions between characters, overhear conversations, and piece together clues to understand the complex web of motives driving the killings[^ref-16].
 
 The story unfolds across eight acts, one for each hour of the night; the clock advances when Laura witnesses certain events or reaches certain places, rather than with each death[^ref-17][^ref-4]. Players can discover multiple possible endings depending on how much of the mystery they uncover and whether they successfully identify the true culprit behind the murders[^ref-18].
 
@@ -73,18 +73,20 @@ Death scenarios play a significant role in the gameplay, with Laura facing numer
 
 The Colonel's Bequest received generally positive reviews from gaming publications, though scores varied significantly across different platforms and regions. The game achieved particularly strong reception in French gaming magazines, with Génération 4 awarding it an exceptional 95% score[^ref-32]. Other notable contemporary scores included 92% from Joystick magazine[^ref-32], 89% from The Games Machine[^ref-2], and 88% from AUI[^ref-33].
 
-| Publication | Score | Notes |
-|-------------|-------|-------|
-| Génération 4 | 95% | February 1990[^ref-32] |
-| Joystick | 92% | March 1990[^ref-32] |
-| The Games Machine | 89% | April 1990[^ref-2] |
-| AUI | 88% | June 1991[^ref-33] |
-| Zero | 85% | October 1990[^ref-32] |
-| CU Amiga | 84% | September 1990[^ref-34] |
-| Computer + Video Games | 83% | May 1990[^ref-32] |
-| The One | 80% | March 1990[^ref-2] |
-| Zzap!64 | 79% | October 1990[^ref-34] |
-| Amiga Format | 60% | October 1990 (issue 15)[^ref-33] |
+| Publication | Platform | Score | Notes |
+|-------------|----------|-------|-------|
+| Génération 4 | PC | 95% | February 1990[^ref-32] |
+| Joystick | PC | 92% | March 1990[^ref-32] |
+| The Games Machine | n/a | 89% | April 1990[^ref-2] |
+| AUI | Amiga | 88% | June 1991[^ref-33] |
+| Zero | Amiga | 85% | October 1990[^ref-32] |
+| CU Amiga | Amiga | 84% | September 1990[^ref-34] |
+| Computer + Video Games | PC | 83% | May 1990[^ref-32] |
+| The One | PC | 80% | March 1990[^ref-2] |
+| Info | Amiga | 4/5 | November 1990 (issue 34)[^ref-33] |
+| Zzap!64 | Amiga | 79% | October 1990[^ref-34] |
+| Amiga Joker | Amiga | 71% | October 1990 (Max Magenauer)[^ref-33] |
+| Amiga Format | Amiga | 60% | October 1990 (issue 15)[^ref-33] |
 
 Critics praised the game's atmospheric presentation and innovative storytelling approach. Computer Gaming World's Johnny L. Wilson described it as a "forerunner of one style of future entertainment software" while acknowledging it might not appeal to "hard-core adventure gamers"[^ref-2]. Games International's Theo Clarke gave it 8 out of 10, calling it "solid genre stuff" and noting "I have found all of the Sierra games quite obsessive but The Colonel's Bequest has a charm all of its own"[^ref-2].
 
@@ -106,7 +108,7 @@ The manual credits the game as "Written by Roberta Williams", with "Creative Des
 
 The game ran on Sierra's SCI0 interpreter and was one of Sierra's last EGA SCI0 games before the VGA-capable SCI1 interpreter arrived with King's Quest V[^ref-20]. The manual credits "Backgrounds by Douglas Herring, Jerry Moore", with Herring also doing the animation[^ref-60]. Ken Allen composed the original music, including the memorable title theme that has since been covered by independent musicians[^ref-39].
 
-The box included a red-lined fold-out of fingerprints for the game's characters, read through a red lens "magnifying glass", which served as the game's copy protection[^ref-20]. Sierra's promotional video catalogs of the late 1980s featured The Colonel's Bequest among their adventure game lineup[^ref-41].
+The box included a red-lined fold-out of fingerprints for the game's characters, read through a red lens "magnifying glass", which served as the game's copy protection[^ref-20]. DOS Days lists the original media as ten 5.25" and four 3.5" floppy disks, with a stated requirement of 512 KB RAM (640 KB on Tandy/PCjr)[^ref-20]. Sierra's promotional video catalogs of the late 1980s featured The Colonel's Bequest among their adventure game lineup[^ref-41].
 
 ### Technical Achievements
 
@@ -114,7 +116,9 @@ The trigger-based event system was the game's most distinctive design feature: t
 
 The game contains a rarely seen easter egg that triggers randomly, with a 1-in-200 chance, when entering the room outside the back of the mansion; fans only pinned down its trigger by decompiling the game's scripts[^ref-44]. The same analysis found that the object the egg uses, shown as a statue, contains a never-before-seen airplane animation loop[^ref-44].
 
-The benshoof.org blog, whose author decompiled the game's scripts, found only three release builds, one each for DOS, Amiga and Atari ST[^ref-24], and DOS Days likewise says only one DOS version was released[^ref-20]. The game is sold on GOG, which released an emulated Windows version in February 2017[^ref-36][^ref-2] and documented on PCGamingWiki for modern systems[^ref-8].
+The benshoof.org blog, whose author decompiled the game's scripts, found only three release builds, one each for DOS, Amiga and Atari ST[^ref-24], and DOS Days likewise says only one DOS version was released[^ref-20]. The game is sold on GOG, which released an emulated Windows version in February 2017[^ref-36][^ref-2] and documented on PCGamingWiki for modern systems[^ref-8]. It has also been included in two compilations, The Roberta Williams Anthology (1996) and King's Quest: Collection Series (1997)[^ref-1].
+
+The game supports a variety of sound cards and MIDI modules[^ref-22]; its soundtrack was written by Ken Allen on a Roland MT-32[^ref-20]. Modern players can access walkthroughs and detailed Act-by-Act guides[^ref-14][^ref-56][^ref-57] to fully experience the game's complex narrative structure.
 
 ### Version History
 
@@ -124,13 +128,11 @@ The benshoof.org blog, whose author decompiled the game's scripts, found only th
 | Ports (1.000.059, 1.000.062) | 1990 (June and September builds) | Amiga, Atari ST | Computer ports[^ref-2][^ref-24] |
 | GOG release | February 16, 2017 | Windows | Emulated version sold on GOG.com[^ref-2][^ref-36] |
 
-The game supports a variety of sound cards and MIDI modules[^ref-22]; its soundtrack was written by Ken Allen on a Roland MT-32[^ref-20]. Modern players can access walkthroughs and detailed Act-by-Act guides[^ref-14][^ref-56][^ref-57] to fully experience the game's complex narrative structure.
-
 ## Legacy
 
 The Colonel's Bequest was the first of the short-lived Laura Bow Mysteries series[^ref-2]. Adventure Gamers credits Williams with achieving the closed-setting, non-linear detective game she set out to make[^ref-3]. Its influence is visible in Julia Minamata's The Crimson Diamond[^ref-48][^ref-54]. A direct sequel, The Dagger of Amon Ra, followed in 1992, designed and directed by Bruce Balfour with Williams credited as creative consultant[^ref-49].
 
-The franchise has experienced renewed interest in recent years, with independent developer NineZyme Entertainment announcing Laura Bow and the Mechanical Codex, a direct sequel to the original games[^ref-50]. After Microsoft acquired Activision (and with it the Sierra properties), NineZyme met with Microsoft about the license, but later said the game "is still mostly on hold, for the time being, until something more concrete is decided on the licensing"[^ref-43]. The Steam page lists the release as "To be announced"[^ref-50]. The game is planned to maintain the classic point-and-click adventure formula while incorporating modern design sensibilities[^ref-51].
+The franchise has experienced renewed interest in recent years, with independent developer NineZyme Entertainment announcing Laura Bow and the Mechanical Codex, a direct sequel to the original games[^ref-50]. After Microsoft acquired Activision (and with it the Sierra properties), NineZyme met with Microsoft about the license, but later said the game "is still mostly on hold, for the time being, until something more concrete is decided on the licensing"[^ref-43]. The Steam page lists the release as "To be announced"[^ref-50]. NineZyme describes it as "a modern point-and-click adventure game" in which Laura Bow "returns for a new mystery with modern touches for today's audiences"[^ref-51].
 
 Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ars Technica revisited it as "a different type of adventure game", noting that it inspired The Crimson Diamond[^ref-54].
 
@@ -176,7 +178,7 @@ Speedrunning communities maintain leaderboards for the game[^ref-53]. In 2025 Ar
 [^ref-30]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1natvkl/the_colonels_bequest_featuring_laura_bow_1989/) – Psycho shower scene reference
 [^ref-31]: [Choice Games Review](https://www.choicestgames.com/2020/06/the-colonels-bequest-review.html) – Death scenes, including the Psycho tribute
 [^ref-32]: [AMR Archive Reviews](https://amr.abime.net/review_30401) – Génération 4 score and date
-[^ref-33]: [AMR Archive Database](https://amr.abime.net/review_5364) – AUI magazine score; Amiga Format 15 (October 1990) score
+[^ref-33]: [AMR Archive Database](https://amr.abime.net/review_5364) – AUI, Amiga Joker (October 1990), Info 34 (November 1990) and Amiga Format 15 (October 1990) scores; platform labels
 [^ref-34]: [Web Archive Amiga Reviews](https://web.archive.org/web/20071223012716/http://amigareviews.classicgaming.gamespy.com/colonels.htm) – CU Amiga detailed score breakdown
 [^ref-35]: [Web Archive Adventure Gamers](https://web.archive.org/web/20131004232247/http://www.adventuregamers.com/articles/view/17513) – Johann Walter retrospective review
 [^ref-36]: [GOG.com](https://www.gog.com/en/game/the_colonels_bequest) – User review scores and store page
