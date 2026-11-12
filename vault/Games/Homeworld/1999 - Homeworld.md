@@ -10,14 +10,14 @@ series: Homeworld
 engine: Custom 3D engine (audio mixed with Relic Audio Tool)
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Homeworld is a groundbreaking real-time strategy game released on September
   28, 1999, that revolutionized the RTS genre by introducing fully...
 tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -225,7 +225,7 @@ Homeworld won numerous awards before and after its release:
 - **1999:** GameSpy Strategy Game of the Year[^ref-10]
 - **1999:** PC Gamer Game of the Year[^ref-44]
 - **1999:** IGN Game of the Year[^ref-44]
-- **2000:** Computer Gaming World Strategy Game of the Year (March 2000 issue)[^ref-10]
+- **2000:** Strategy Game of the Year in *Computer Gaming World*'s Premier Awards (March 2000, #188)[^ref-58]
 - **2000 Eurogamer Gaming Globes:** Best Original Score (Paul Ruskay and Roger Savoie) and Best Original Storyline[^ref-43]
 - **AIAS:** Nominated for Computer Game of the Year and Computer Strategy Game of the Year[^ref-5]
 
@@ -361,3 +361,4 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-55]: [Arinn Dembo – Early Games (Wayback, December 2016)](https://web.archive.org/web/20161207052509/http://arinndembo.com/early-games/) – Dembo's account of the Homeworld writing credit: she and Martin Cirulis credited under the joint pseudonym "Marcus Skyler"
 [^ref-56]: [GameSpy – Homeworld review by John Keefer III, 10/22/99 (Wayback, September 2008)](https://web.archive.org/web/20080905044816/http://www.gamespy.com/legacy/reviews/homeworld_a.shtm) – "The visuals are astounding and the gameplay remarkable"; 16 missions; 54 different ship types
 [^ref-57]: [CDMag – Homeworld preview, "Calling all Starbucks", 08/31/1998 (Wayback, February 2005)](https://web.archive.org/web/20050221104409/http://www.cdmag.com/articles/014/025/homeworld_preview.html) – Battlestar Galactica similarities; Garden's "almost a fluke" remark
+[^ref-58]: [Computer Gaming World #188 (March 2000) – Premier Awards](https://archive.org/details/Computer_Gaming_World_Issue_188) – Homeworld review: "a title that deserves CGW's Strategy Game Of The Year award"
