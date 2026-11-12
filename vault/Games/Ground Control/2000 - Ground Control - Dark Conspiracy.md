@@ -10,7 +10,7 @@ series: Ground Control
 engine: Custom (DirectX 7)
 protagonist: Major Sarah Parker
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Ola Strandh]
 description: 'Ground Control: Dark Conspiracy is a 2000 expansion pack for the real-time
   tactics game Ground Control, developed by High Voltage Software with Massive Entertainment
@@ -19,11 +19,11 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control: Dark Conspiracy
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Ground Control: Dark Conspiracy is an expansion pack for the critically acclaimed real-time tactics game Ground Control, developed by High Voltage Software in collaboration with [[Massive Entertainment]] and published by [[Sierra On-Line]] in December 2000[^ref-1]. The expansion continues the story of Major Sarah Parker following the conclusion of the original game's campaign on the distant planet Krig-7B[^ref-2]. Set in the year 2419, where warfare has been outlawed on Earth and moved to the stars[^ref-3], Dark Conspiracy builds on Ground Control's award-winning gameplay and technology while introducing a new playable faction, the Phoenix Mercenaries[^ref-15].
+Ground Control: Dark Conspiracy is an expansion pack for the critically acclaimed real-time tactics game Ground Control, developed by High Voltage Software in collaboration with [[Massive Entertainment]] and published by Sierra Studios in December 2000[^ref-1][^ref-33]. The expansion continues the story of Major Sarah Parker following the conclusion of the original game's campaign on the distant planet Krig-7B[^ref-2]. Set in the year 2419, where warfare has been outlawed on Earth and moved to the stars[^ref-3], Dark Conspiracy builds on Ground Control's award-winning gameplay and technology while introducing a new playable faction, the Phoenix Mercenaries[^ref-15].
 
 What made this expansion particularly notable was Sierra's distribution strategy—the expansion was offered free to owners of the original Ground Control, with only a $4.95 shipping and handling fee required[^ref-4]. New purchasers of Ground Control would receive the expansion at no additional cost[^ref-4]. Reviewers welcomed the price, with IGN's Dan Adams declaring that owners who didn't take advantage of the offer were "seriously in danger of your children falling backwards on the evolutionary ladder"[^ref-6].
 
@@ -68,7 +68,7 @@ Mission structure follows the tactical deployment model established in the origi
 
 The expansion introduces several new unit types across all factions. For the Phoenix Mercenaries, players gain access to snipers, grenadiers, armored marines, the Pyrodyne anti-personnel vehicle, and Phoenix Swarm Aerodynes[^ref-6]. The existing Crayven Corporation and Order of the New Dawn factions also receive new units and weapons[^ref-7].
 
-One notable design decision that carried over from the original game was the lack of an in-mission save feature[^ref-18]. This meant that failed missions required complete restarts, and reviewers noted that "often, you'll find yourself having to memorize where attacks come from in order to prevent losing a mission"[^ref-6]. Players also cannot adjust game speed during missions, adding to the tactical tension[^ref-18]. Some technical issues persisted from the original game, including pathfinding problems with ground vehicles and units occasionally "playing bumper cars" when moving in formation[^ref-6].
+One notable design decision that carried over from the original game was the lack of an in-mission save feature[^ref-18]. This meant that failed missions required complete restarts, and IGN noted that "often, you'll find yourself having to memorize where attacks come from in order to prevent losing a mission"[^ref-6]. Players also cannot adjust game speed during missions, adding to the tactical tension[^ref-18]. Some technical issues persisted from the original game, including pathfinding problems with ground vehicles and units occasionally "playing bumper cars" when moving in formation[^ref-6].
 
 ## Reception
 
@@ -103,17 +103,17 @@ Génération 4, a French gaming publication, scored the expansion **15/20 (75%)*
 - **ESRB Rating:** Teen[^ref-20][^ref-29]
 - **PEGI Rating:** 12[^ref-3]
 
-The Ground Control Anthology, bundling the original game with Dark Conspiracy, was released in 2001[^ref-22] and came to GOG.com on July 8, 2009[^ref-10].
+The Ground Control Anthology, bundling the original game with Dark Conspiracy, was released in 2001[^ref-22] and came to GOG.com on July 8, 2009[^ref-10]. It was later listed on Steam as Ground Control Anthology, published by Rebellion, on July 8, 2015, at $4.99[^ref-34].
 
 ## Development
 
 ### Origins
 
-Ground Control: Dark Conspiracy was first announced in August 2000 by Sierra Studios, as an expansion to its award-winning 3D real-time strategy game[^ref-7][^ref-17]. The expansion was developed by Chicago-based High Voltage Software in collaboration with the original game's developer, Massive Entertainment of Sweden[^ref-11]. It was released about six months after the original Ground Control[^ref-18].
+Ground Control: Dark Conspiracy was first announced in August 2000 by Sierra Studios, as an expansion to its award-winning 3D real-time strategy game[^ref-7][^ref-17]. The expansion was developed by Chicago-based High Voltage Software in collaboration with the original game's developer, Massive Entertainment of Sweden[^ref-11]. It was released about six months after the original Ground Control[^ref-18]. In a GameSpot Q&A, Sierra Studios was named as the publisher that announced the expansion from the show floor of ECTS, with Tom Smith as High Voltage's lead designer[^ref-33]. Smith said that the actual plans for the expansion "didn't start until just before Ground Control was released"[^ref-33].
 
 ### Production
 
-The expansion was developed to continue the Ground Control saga with substantial new content—15 single-player missions, new environments and terrain, and the introduction of a third playable faction[^ref-7]. GameSpot described the expansion as "Created by American studio High Voltage Software", with several new multiplayer maps "designed by the original Ground Control team" at Massive Entertainment[^ref-18]. MobyGames' credits list both a High Voltage Software team and a Massive Entertainment team, the latter including "3D Game Engine" credits[^ref-9].
+The expansion was developed to continue the Ground Control saga with substantial new content—15 single-player missions, new environments and terrain, and the introduction of a third playable faction[^ref-7]. GameSpot described the expansion as "Created by American studio High Voltage Software", with several new multiplayer maps "designed by the original Ground Control team" at Massive Entertainment[^ref-18]. Smith said that Massive "did a great job of building a flexible engine with a lot of possibilities, which allowed us to focus on design issues rather than reworking their code", crediting tools like GenEd and "the frequent assistance of Massive"[^ref-33]. He described the new faction as "a darker, dirtier view of the Ground Control universe" that has to "scrape together what they can from spare parts and leftovers"[^ref-33]. MobyGames' credits list both a High Voltage Software team and a Massive Entertainment team, the latter including "3D Game Engine" credits[^ref-9].
 
 **Development Credits:**[^ref-9]
 - **High Voltage Software:** Tom Smith (Lead Designer); Jeff Marks, David A. Rodriguez, Leif Lathrop (Designers)
@@ -127,6 +127,23 @@ The development team totaled 178 people across all contributing studios, accumul
 
 - **Blur Studio** – Produced the expansion's cutscenes[^ref-17][^ref-9]
 - **Sierra Studios** – Publishing and production oversight[^ref-1]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Major Sarah Parker | Jennifer Hale |
+| Deacon Jarred Stone | Dee Bradley Baker |
+| Marc Herra | Scott Weil |
+| Enrica Hayes | Tasia Valenza |
+| Wallace Davidson | Michael Bell |
+| Coral Manning | Mari Weiss |
+| Sergeant Cole | Nathan Carlson |
+| Rachel Morton | Paty Lombard |
+| Cardinal Kila Balor | Jennifer Darling |
+| Cardinal Galen Yi | Tom Kane |
+
+Voice direction by Jeff Pobst[^ref-26]. Cast also confirmed by IMDb[^ref-31].
 
 ### Technical Achievements
 
@@ -156,6 +173,7 @@ The game utilized DirectX 7 technology with textured polygon graphics[^ref-10]. 
 - **Graphics:** DirectX 9.0c compatible
 - **Storage:** 4 GB
 - **File Size:** 834 MB
+- **Compatibility:** GOG's listing carries the notice "This game is not compatible with Windows 10 and newer."[^ref-3]
 
 ### Technical Issues
 
@@ -170,6 +188,7 @@ Online multiplayer servers were operated through WON.net, which was shut down on
 | 1.0 | December 2000 | Windows | Initial release[^ref-1] |
 | Anthology | 2001 | Windows | Bundled with original Ground Control[^ref-22] |
 | GOG Release | July 8, 2009 | Windows | Bundled with Ground Control on GOG.com, by Rebellion[^ref-10] |
+| Steam Release | July 8, 2015 | Windows | Ground Control Anthology on Steam, published by Rebellion, $4.99[^ref-34] |
 
 ### Easter Eggs and Trivia
 
@@ -178,23 +197,6 @@ Online multiplayer servers were operated through WON.net, which was shut down on
 - Dark Conspiracy was given away with every new purchase of Ground Control[^ref-4]; an order form was also included in specially marked boxes[^ref-5].
 - According to the game manual, as summarised by Wikipedia, the Phoenix Mercenaries are Crayven outcasts relocated to the mined-out planet Crim-12, who built a new society from scavenged parts[^ref-1].
 - The story is set in 2419, when war has been outlawed on Earth and mega-corporations fight endless battles across colonized worlds[^ref-3].
-
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Major Sarah Parker | Jennifer Hale |
-| Deacon Jarred Stone | Dee Bradley Baker |
-| Marc Herra | Scott Weil |
-| Enrica Hayes | Tasia Valenza |
-| Wallace Davidson | Michael Bell |
-| Coral Manning | Mari Weiss |
-| Sergeant Cole | Nathan Carlson |
-| Rachel Morton | Paty Lombard |
-| Cardinal Kila Balor | Jennifer Darling |
-| Cardinal Galen Yi | Tom Kane |
-
-Voice direction by Jeff Pobst[^ref-26]. Cast also confirmed by IMDb[^ref-31].
 
 ## Legacy
 
@@ -207,6 +209,7 @@ No sales figures for Dark Conspiracy have been found. Sierra gave the expansion 
 The expansion was bundled with the original Ground Control in the **Ground Control: Anthology**, released in 2001[^ref-22]. Related releases:
 - **GOG.com:** Released July 8, 2009, by Rebellion, bundled with Ground Control[^ref-10]
 - The original Ground Control (not the expansion) was made a free download by Vivendi Universal on June 25, 2004, to promote Ground Control II[^ref-8]
+- **Steam:** Released July 8, 2015, as Ground Control Anthology, published by Rebellion, with the original Ground Control and the Dark Conspiracy expansion; the store listed it at $4.99 (checked 2026-11-11)[^ref-34]
 - Rebellion Developments is listed as distributor of Dark Conspiracy on Wikidata[^ref-27] and as a publisher of Ground Control: Anthology on MobyGames[^ref-22]
 
 ### Fan Projects
@@ -230,6 +233,7 @@ The game's legacy is preserved through digital distribution on platforms like GO
 
 **Purchase / Digital Stores**
 - [GOG.com – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion)
+- [Steam – Ground Control Anthology](https://store.steampowered.com/app/254820/)
 
 **Resources**
 - [GameFAQs Strategy Guides](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy/faqs)
@@ -268,3 +272,5 @@ The game's legacy is preserved through digital distribution on platforms like GO
 [^ref-29]: [MobyGames – Ground Control: Dark Conspiracy](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/) – critic score (79%), ESRB, multiplayer options, WON server shutdown trivia
 [^ref-31]: [IMDB – Ground Control: Dark Conspiracy](https://www.imdb.com/title/tt0416788/) – release date, voice cast confirmation
 [^ref-32]: [PCGamingWiki – Ground Control](https://www.pcgamingwiki.com/wiki/Ground_Control) – default resolutions, widescreen Resolution Changer fix, `-mod DARKCONS` launch argument for Dark Conspiracy
+[^ref-33]: [GameSpot – Dark Conspiracy Q&A](https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
+[^ref-34]: [Steam – Ground Control Anthology](https://store.steampowered.com/app/254820/) – Rebellion, July 8, 2015, $4.99, includes the original game and the Dark Conspiracy expansion (read via the Steam appdetails API, 2026-11-11)
