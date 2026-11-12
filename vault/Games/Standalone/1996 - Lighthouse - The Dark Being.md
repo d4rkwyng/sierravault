@@ -10,20 +10,20 @@ series: Lighthouse
 engine: SCI3
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Lighthouse: The Dark Being is a first-person adventure game developed
   and published by Sierra On-Line in 1996. The game was conceived when Sierra''s Ken Williams challenged designer Jon Bock to create a Myst-style game.'
 tags: [1990s, adventure, lighthouse, sci, sierra]
 ---
 # Lighthouse: The Dark Being
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Lighthouse: The Dark Being is a first-person adventure game developed and published by Sierra On-Line in 1996[^ref-1]. The game was conceived when Sierra's Ken Williams challenged designer Jon Bock to create something similar to Myst, pulling out a copy of the game and asking "Can you do this?"[^ref-4][^ref-2]. Set in a "supernatural mechanical world," the game follows a struggling writer who becomes embroiled in a parallel dimension crisis involving a mysterious lighthouse and its eccentric inhabitants[^ref-3].
+Lighthouse: The Dark Being is a first-person adventure game developed and published by Sierra On-Line in 1996[^ref-1], with a release date of 20 September 1996 on DOS and Windows[^ref-5][^ref-2]. The game was conceived when Sierra's Ken Williams challenged designer Jon Bock to create something similar to Myst, pulling out a copy of the game and asking "Can you do this?"[^ref-4][^ref-2]. Set in a "supernatural mechanical world," the game follows a struggling writer who becomes embroiled in a parallel dimension crisis involving a mysterious lighthouse and its eccentric inhabitants[^ref-3].
 
-Often dismissed as a "Myst clone" due to its first-person perspective and pre-rendered environments[^ref-29], Lighthouse manages to leave its own mark on the genre by carrying Sierra's traditionally challenging puzzle design into the new style of graphic adventure games[^ref-4]. The game features pre-rendered 3D graphics created using Autodesk 3D Studio and Alias, with Jon Bock describing it as a "Science Fiction Folk Tale" inspired by the machine age, Leonardo da Vinci drawings, and H.G. Wells stories[^ref-4][^ref-28].
+Adventure Gamers' reviewer wrote that on release it was "probably dismissed by many as a myst-clone", noting its first-person perspective[^ref-29]; Lighthouse nonetheless manages to leave its own mark on the genre by carrying Sierra's traditionally challenging puzzle design into the new style of graphic adventure games[^ref-4]. The game features pre-rendered 3D graphics created using Autodesk 3D Studio and Alias, with Jon Bock describing it as a "Science Fiction Folk Tale" inspired by the machine age, Leonardo da Vinci drawings, and H.G. Wells stories[^ref-4][^ref-28].
 
 PC Gamer (US) called Lighthouse "a fantasy-horror adventure that's a cut above most post-Myst games"[^ref-17]. Comparing it to its obvious inspiration, PC Gamer's T. Liam McDonald asked "Is it better than Myst? Much better (though, around here, that's not saying much)".[^ref-17] The game's tagline—"Outwit Evil in a Supernatural Mechanical World"[^ref-3]—captures its blend of horror, science fiction, and steampunk aesthetics.
 
@@ -39,7 +39,7 @@ PC Gamer (US) called Lighthouse "a fantasy-horror adventure that's a cut above m
 
 ## Story Summary
 
-The player takes control of a struggling writer who has recently moved into a cottage on the Oregon coast[^ref-6]. Near the cottage stands a lighthouse inhabited by the eccentric Dr. Jeremiah Krick and his daughter Amanda[^ref-1]. Dr. Krick's experiments have opened a portal to a parallel world, and a creature he calls the "Dark Being" comes through it and steals baby Amanda[^ref-17].
+The player takes control of a struggling writer who has recently moved into a cottage on the Oregon coast[^ref-1][^ref-7]; one MobyGames player review instead describes the writer as having bought a new apartment on the Oregon coast[^ref-6]. Near the cottage stands a lighthouse inhabited by the eccentric Dr. Jeremiah Krick and his daughter Amanda[^ref-1]. Dr. Krick's experiments have opened a portal to a parallel world, and a creature he calls the "Dark Being" comes through it and steals baby Amanda[^ref-17].
 
 The protagonist must venture into this alternate dimension to rescue Amanda, encountering a mechanical birdman, a Nautilus-like submarine, an ornithopter and a sunken wreck along the way[^ref-17]. GOG's store description calls it "a world teeming with invention, discovery... and evil"[^ref-3]. Bock describes the result as "a steam punk-like universe" inspired by the machine age and by folk stories[^ref-4].
 
@@ -86,7 +86,7 @@ Contemporary reception was mixed. Rebecca Anderson's GameSpot review noted that 
 
 ### Modern Assessment
 
-Modern retrospective reviews have been more appreciative of the game's ambitious design. Adventure Classic Gaming awarded it 4/5 stars in 2009, while Just Adventure gave it a B+ rating in 2003[^ref-19]. Adventure Gamers rated it 3.5/5 stars ("A solid adventure that is generally enjoyable, though it lacks enough polish or ambition to recommend without caution")[^ref-16], with its review's verdict reading "Entertaining and beguiling game, however, if you hate mazes steer clear"[^ref-29]. GOG.com users have rated it 4.1/5 based on 42 reviews (as of October 2026)[^ref-20]. MobyGames lists a critic average of 70% based on 28 ratings[^ref-1].
+Modern retrospective reviews have been more appreciative of the game's ambitious design. Adventure Classic Gaming awarded it 4/5 stars in 2009, while Just Adventure gave it a B+ rating in 2003[^ref-19]. Adventure Gamers rated it 3.5/5 stars ("A solid adventure that is generally enjoyable, though it lacks enough polish or ambition to recommend without caution")[^ref-16], with its review's verdict reading "Entertaining and beguiling game, however, if you hate mazes steer clear"[^ref-29]. GOG.com users have rated it 4.1/5 based on 42 reviews (as of November 2026)[^ref-20]. MobyGames lists a critic average of 69% based on 30 ratings (as of November 2026)[^ref-1].
 
 ## Development
 
@@ -94,11 +94,13 @@ Modern retrospective reviews have been more appreciative of the game's ambitious
 
 The game's development began when Sierra's Ken Williams called Jon Bock into his office, showed him a copy of Myst, and asked "Can you do this?" Bock responded affirmatively, and the game went into development as Sierra's attempt to capitalize on Myst's success[^ref-4][^ref-2]. Sierra's InterAction magazine described Lighthouse as "Bock's first feature title"; since 1989 he had contributed art and direction to titles such as Space Quest 6, Phantasmagoria and King's Quest 7[^ref-28]. Bock himself recalls having been art director on The Island of Dr. Brain and Outpost before pushing for a full-time design role[^ref-4].
 
-The timing was deliberate: Myst had taken the gaming world by storm in 1993, and Sierra sought to capture some of that market while maintaining their own design philosophy. Unlike pure Myst imitators, Lighthouse retained Sierra's challenging puzzle design and willingness to let players fail—characteristics that defined the company's adventure games.
+Obscuritory describes Sierra's unforgiving third-person adventure style as having fallen out of favor, replaced by contemplative first-person adventures popularized by Myst, and calls Lighthouse the company's one shot at that style[^ref-4]. Bock acknowledged the similarity to Myst in promotional interviews, but said he was working to create more character interaction and a stronger focus on story than Myst had[^ref-2]. Obscuritory also credits the game with carrying Sierra's "player-hostile house style" over to the new genre[^ref-4].
 
 ### Production
 
 The game's landscapes were created using Autodesk 3D Studio and Alias software, with models built and animated on SGI machines and motion capture handled by Biovision[^ref-4][^ref-28][^ref-7]. One of the parallel-world areas, the Roost, grew out of a role-playing module Bock had written years earlier[^ref-4][^ref-28].
+
+MobyGames' credits list Oliver Brelsford as producer and Craig Alexander as executive producer; Jon Bock as art director and, with Susan Frischer, as writer; Sean Mooney as lead programmer and William Shockley as programmer; Michael Hutchison as 3D Studio senior artist; and Charles de Vries for casting and voice directing[^ref-31]. The manual's team page gives the same producer, executive producer, lead programmer, writers and casting credits, and lists Bock as designer and art director[^ref-7].
 
 The voice cast included Phil Proctor as Dr. Jeremiah Krick, Kerrigan Mahan as the Dark Being, Romy Cutler-Lengyel as Liryl, and Leigh French as Mom[^ref-23]. Marc Eckelberry voiced the Computer, and Andy Goldberg played the Editor[^ref-7]. The manual credits Brian Min as composer and Victor Crews as assistant composer, with Jay Usher as senior sound consultant[^ref-7]; InterAction instead named Usher as the team's composer[^ref-28].
 
@@ -107,6 +109,13 @@ Jon Bock drew inspiration from diverse sources, referring to the game as a "Scie
 ### Technical Achievements
 
 Lighthouse utilized Sierra's SCI (Sierra Creative Interpreter) engine[^ref-5][^ref-12] and featured pre-rendered 3D environments[^ref-12]. Sierra billed it as "the first Sierra title to have fully 3-D rendered character animation"[^ref-28], and Bock considers it "one of the first adventure games with fully rendered and motion captured characters"[^ref-4].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | 20 September 1996 | DOS, Windows | Sierra On-Line retail release[^ref-5][^ref-1] |
+| GOG.com release | February 2018 | Windows (ScummVM) | Published by Activision, distributed by GOG; MobyGames dates it 8 February 2018 and PCGamingWiki 9 February 2018[^ref-1][^ref-5][^ref-20] |
 
 ## Legacy
 
@@ -158,6 +167,7 @@ Sierra's version 2.0 patch (listed by MobyGames as v2.0a, May 1997) added a hint
 [^ref-25]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LighthouseTheDarkBeing) – "Sierra's take on Myst"
 [^ref-26]: [MobyGames Patches](https://www.mobygames.com/game/266/lighthouse-the-dark-being/patches/) – Lists "Patch v2.0a released", 1997-05-15
 [^ref-27]: [GameSpot – Lighthouse Review by Rebecca Anderson](https://www.gamespot.com/reviews/lighthouse-review/1900-2535697/) – "Novices and wanna-be adventurers, beware"; "a moving picture book"
+[^ref-31]: [MobyGames – Lighthouse: The Dark Being credits (DOS, 1996)](https://www.mobygames.com/game/266/lighthouse-the-dark-being/credits/) – Producer, executive producer, programmers, art director, writers, music and cast credits
 [^ref-collection]: [The Collection Chamber – Lighthouse: The Dark Being (November 22, 2015)](https://collectionchamber.blogspot.com/2015/11/lighthouse-the-dark-being.html) – Retrospective: interface, difficulty, hint-system patch
 [^ref-28]: [InterAction Magazine, Summer 1996 (Sierra On-Line), "Lighthouse: The New Pinnacle of Interactive Design"](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) – "Lighthouse is Bock's first feature title"; "the first Sierra title to have fully 3-D rendered character animation"; the Roost based on Bock's FRP module; endings "from total success to total failure"
 [^ref-29]: Adventure Gamers, review of *Lighthouse: The Dark Being* (text citation; the live site is not linked, and no casino-free archived copy of the review text was found) – "dismissed by many as a myst-clone"; maze "takes up almost a quarter of game play"; verdict "Entertaining and beguiling game, however, if you hate mazes steer clear"
