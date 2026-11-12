@@ -10,22 +10,21 @@ series: Standalone
 engine: Unknown
 protagonist: Player as Bug General
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
-description: Battle Bugs is a real-time tactics video game developed by Epyx,
-  Inc. and published by Sierra On-Line in 1994 for MS-DOS. The game presents a...
+last_updated: '2026-11-12'
+description: Battle Bugs is a real-time tactics video game developed by Epyx, Inc. and published by Sierra On-Line in 1994 for MS-DOS, in which the player commands insect armies across household battlefields.
 tags: [1990s, sierra, standalone]
 ---
 # Battle Bugs
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Battle Bugs is a real-time tactics video game developed by Epyx, Inc. and published by [[Sierra On-Line]] in 1994 for MS-DOS.[^ref-1] The game presents a humorous take on military strategy, casting players as commanders of insect armies battling across miniaturized household battlefields such as kitchen floors and tabletops strewn with junk food.[^ref-3][^ref-6] Distinguished by its semi-real-time gameplay that allows pausing at any moment, Battle Bugs offered an accessible entry point into tactical gaming while maintaining strategic depth across its 56-mission campaign.[^ref-1]
+Battle Bugs is a real-time tactics video game developed by Epyx, Inc. and published by [[Sierra On-Line]] in 1994 for MS-DOS.[^ref-1] The game presents a humorous take on military strategy, casting players as commanders of insect armies battling across miniaturized household battlefields such as kitchen floors and tabletops strewn with junk food.[^ref-3][^ref-6] Distinguished by its semi-real-time gameplay that allows pausing at any moment, MobyGames' description calls Battle Bugs "a very unique real-time strategy game," with 22 different insects commanded across a 56-mission campaign.[^ref-1]
 
 The Steam store page says the game was "designed primarily by Dennis Caswell, legendary creator of such classics as *Impossible Mission* and *Pitstop II*."[^ref-3] MobyGames credits the original concept to Craig Nelson, with design by Caswell, Nelson, Stephen B. Lewis and Mark Holmes.[^ref-1] Battle Bugs leaned on irreverent humor and parody of military conventions: Sierra's advertising featured the fictional military leader "Winston Anthill" declaring "We will fight in the pizza. We will fight in the cookies. We will fight in the coleslaw. We will never give up."[^ref-11][^ref-4] The front cover spoofs the famous World War II photograph *Raising the Flag on Iwo Jima*,[^ref-1] with cockroaches raising a flag "above the carnage in the pepperoni," in the words of Sierra's box copy.[^ref-4]
 
-Following its initial DOS release, Battle Bugs was later ported to the PlayStation, releasing in Japan on September 18, 1997 through Manning Co., Ltd.[^ref-5] The game found renewed life on November 23, 2020, when it was re-released on Steam under the Pixel Games UK label.[^ref-3][^ref-5]
+Following its initial DOS release, Battle Bugs was later ported to the PlayStation, releasing in Japan on September 18, 1997 through Manning Co., Ltd.[^ref-5] The game found renewed life on November 23, 2020, when it was re-released on Steam[^ref-5][^ref-12] under the Pixel Games UK label.[^ref-3][^ref-5]
 
 > [!info]- Game Info
 > **Developer:** Epyx, Inc.[^ref-1]
@@ -36,7 +35,7 @@ Following its initial DOS release, Battle Bugs was later ported to the PlayStati
 > **Release Year:** 1994
 > **Series:** Standalone
 > **Protagonist:** Player as Bug General
-> **Sierra Lineage:** Sierra Published (Epyx Developed)
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 
@@ -90,6 +89,8 @@ The Steam store page also quotes *Secret Service* magazine: "'Battle Bugs' delig
 
 *Game Bytes Magazine* Issue 21 (1994) featured a review by Kevin T. Neely, who described it as "a strategy/comedy game incorporating common household insects as your armies to pit against either the computer or a fellow bug-lover," noting that "it's just your bugs against theirs, and the one with the most legs remaining at the end wins!"[^ref-9]
 
+The same issue carries a second review, by Rob Jellinghaus, billed "BATTLE BUGS by Dynamix/Sierra On-Line." He opens "To start with, Battle Bugs is fun!", calls it "a small-unit real-time cartoon-like tactical wargame," and closes "Three-and-a-half stars."[^ref-34] His review says "there are 50 missions" in single-player, against the 56 given by *Computer Gaming World*, *Computer Game Review* and *InterAction*.[^ref-34][^ref-6][^ref-31][^ref-33]
+
 ### Modern Assessment
 
 The game has maintained a positive reputation among retro gaming enthusiasts. MobyGames user Drew Dorton wrote: "This game kind of took me by surprise the first time I played it. After all, it's a real-time tactical strategy game released in 1994 with a fun, cartoony feel to it. … It's addictive, funny, and most importantly it's fun. Battle Bugs belongs in any strategy fan's collection."[^ref-1]
@@ -123,9 +124,14 @@ Epyx developed the game and Sierra On-Line published it; *Computer Game Review*'
 **Development Credits:**[^ref-1]
 - **Original Concept:** Craig Nelson
 - **Game Design:** Dennis Caswell, Craig Nelson, Stephen B. Lewis, Mark Holmes
+- **Programming:** Dennis Caswell
+- **Graphics and Animation:** Stephen B. Lewis, Mark Holmes
+- **Writing:** Bill Lanphear, Dennis Caswell, Kurt Weber
 - **Voice Characterizations:** Dennis Caswell
-- **Music/Sound:** Byte-Size Sound Inc.
-- **Additional Sound:** Halestorm, Inc., THE Audio Solution Inc.[^ref-5]
+- **Music:** Byte-Size Sound
+- **Sound Effects:** Halestorm
+- **Internal Speaker Digitized Sound Driver:** Craig Nelson
+- **Other Sound and Music Drivers:** THE Audio Solution
 
 ### Technical Achievements
 
@@ -213,14 +219,6 @@ The *Game Bytes Magazine* review noted that the game "warns about using disk cac
 - Spiders are depicted "whirling into battle in a Tasmanian-devil-like tornado."[^ref-6]
 - Rhino beetle sentries serve as copy protection guards, with the manual warning that "once annoyed, rhino beetles stay annoyed."[^ref-8]
 
-## Voice Cast
-
-| Role | Voice Actor |
-|------|-------------|
-| Voice Characterizations | Dennis Caswell[^ref-1] |
-
-Dennis Caswell, credited with design and programming, also provided the game's voice characterizations.[^ref-1]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -252,12 +250,12 @@ Fans asked for a GOG.com release on its community wishlist in comments dating fr
 
 ## Soundtrack
 
-The PlayStation soundtrack consists of 14 tracks with a total runtime of approximately 18 minutes.[^ref-24] Music and sound were produced by Byte-Size Sound Inc., with additional sound work by Halestorm, Inc. and THE Audio Solution Inc.[^ref-5]
+For the 1994 and 1996 DOS releases and the 2020 Windows (Steam) release, MobyGames credits music to Byte-Size Sound Inc. and additional sound to Halestorm, Inc. and THE Audio Solution Inc.[^ref-5]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/1462210/Battle_Bugs/) - $4.99 on the US store as of October 2026[^ref-3]
+- [Steam](https://store.steampowered.com/app/1462210/Battle_Bugs/) - $4.99 on the US store as of November 2026[^ref-3]
 
 **Download / Preservation**
 - [Internet Archive - Manual](https://archive.org/details/battle-bugs-manual)[^ref-26]
@@ -275,7 +273,7 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 ## References
 
 [^ref-1]: [MobyGames – Battle Bugs](https://www.mobygames.com/game/308/battle-bugs/) – credits, ratings, development details, trivia
-[^ref-3]: [Steam Store – Battle Bugs](https://store.steampowered.com/app/1462210/Battle_Bugs/) – release date, developer credits, review scores, Dennis Caswell background
+[^ref-3]: [Steam Store – Battle Bugs](https://store.steampowered.com/app/1462210/Battle_Bugs/) – developer and publisher listing, price, review scores, Dennis Caswell background
 [^ref-4]: [Amazon – Battle Bugs](https://www.amazon.com/IBM-Battle-Bugs/dp/B000BK6H9W) – product description, Winston Anthill quotes, customer reviews
 [^ref-5]: [MobyGames – Battle Bugs Releases](https://www.mobygames.com/game/308/battle-bugs/releases/) – release dates by region/platform, publisher details, sound credits
 [^ref-6]: [Computer Gaming World No. 124 (November 1994), pp. 222–224 – "A Few Good Bugs" by Robert L. Hayes Jr.](https://archive.org/details/Computer_Gaming_World_Issue_124/page/n223/mode/1up) – review scan; 3½-star rating, 56 battles, pausable real-time, 800x600 mode, two-player orders time, closing verdict
@@ -293,9 +291,9 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 [^ref-21]: [Steam Community – Battle Bugs](https://steamcommunity.com/app/1462210) – technical issues, performance problems
 [^ref-22]: [GameFAQs – Battle Bugs FAQ](https://gamefaqs.gamespot.com/pc/565086-battle-bugs/faqs/16689) – AMC walkthrough details
 [^ref-23]: [Neoseeker – Battle Bugs FAQ](https://www.neoseeker.com/battlebugs/faqs/49273-battle-bugs.html) – walkthrough, level strategies
-[^ref-24]: [KHInsider – Battle Bugs Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/battle-bugs-psx-soundtrack) – soundtrack track count, runtime
 [^ref-26]: [Internet Archive – Battle Bugs Manual](https://archive.org/details/battle-bugs-manual) – manual preservation
 [^ref-27]: [Free Game Empire – Manual](https://www.freegameempire.com/games/Battle-Bugs/manual) – bug statistics, interface documentation
 [^ref-31]: [Computer Game Review (November 1994), p. 28 – "I'll Kill You, You Fargin' Cockroach!"](https://archive.org/details/computer-game-review-and-cd-rom-entertainment-november-1994/page/n27/mode/1up) – review scan; 88% overall, "Designed by: Epyx Software", "Distributed by: Sierra On-Line", 56 scenarios, 22 insects
 [^ref-32]: [Electronic Games (December 1994), p. 170 – Battle Bugs review by Russ Ceccola](https://archive.org/details/electronic-games-1994-12/page/n169/mode/1up) – review scan; B+ grade, "DESIGNER: Epyx", "the last game designed by Epyx"
 [^ref-33]: [InterAction (Sierra On-Line), Vol. VII No. 1 (Fall 1994), pp. 32–33 – "Finally, a Humorous, Approachable War Strategy Game"](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US/page/n31/mode/1up) – Sierra house magazine; 56 battles, 22 insect warriors, unit roles, system requirements
+[^ref-34]: [Game Bytes Magazine Issue 21 (1994) – Rob Jellinghaus review](http://www.ibiblio.org/GameBytes/issue21/greviews/bbugs1.html) – 3½-star verdict, "50 missions", system memory needs
