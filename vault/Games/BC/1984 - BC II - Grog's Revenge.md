@@ -10,7 +10,7 @@ series: B.C.
 engine: N/A
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Paul Butler]
 description: 'B.C. II: Grog''s Revenge is a 1984 action game developed by Sydney Development
   Corp. and published by Sierra On-Line for the Commodore 64, ColecoVision, Coleco Adam and MSX.'
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C. II: Grog's Revenge
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -63,9 +63,9 @@ The game structure varies significantly between platform versions. The Commodore
 
 Players can choose from three mountains of increasing difficulty at the start[^ref-10]. Each mountain features:
 
-- **Outdoor paths:** Winding roads around mountainsides where Thor collects clams
-- **Cave sections:** Dark interiors where Thor's unicycle inexplicably features headlights[^ref-5]
-- **Toll bridges:** Checkpoints guarded by Peter, who must be paid in clams for passage[^ref-6]
+- **Outdoor paths:** Winding roads around mountainsides where Thor collects clams[^ref-24]
+- **Cave sections:** Dark interiors where Thor's unicycle inexplicably features headlights[^ref-5][^ref-6][^ref-24]
+- **Toll bridges:** Checkpoints guarded by Peter, who must be paid in clams for passage[^ref-6]; *Zzap!64* put the price at 100 clams, which Thor "must pay" as "the exorbitant sum of 100 clams to a waiting toll-man"[^ref-24]
 - **Warp tunnels:** Hidden shortcuts with number codes in each mountain level[^ref-3]
 
 Levels are lettered. On the Commodore 64 the mountains of each chain are marked A to E, with the Meaning of Life on the peak of mountain E; on the easy chain the warp codes are 2 pressed twice (A to B), 3 twice (B to C) and 4 twice (C to D)[^ref-3].
@@ -93,7 +93,7 @@ The caves change the rules. Inside a cave the screen is dark except for a beam o
 
 The game received generally positive reviews from the gaming press of the mid-1980s, with particular praise for its graphics and animation.
 
-*Zzap!64* reviewed the game in its June 1985 issue (#2), with Gary Penn, Julian Rignall and Bob Wade on the panel[^ref-11]. One reviewer's comment read: "This is the first game where I have laughed every time I died," calling it "an addictive and amusing game"[^ref-24]. The issue mistakenly printed *Shadowfire*'s ratings box (91%, "Stunningly impressive program") beside the review; the same issue's "Apology Corner" admitted the swap and reprinted Grog's Revenge's real box, which gave 75% for value for money, with the verdicts "Amusing new scenario on the collect and dodge theme" and "Wonderful sense of humour keeps you laughing and playing"[^ref-24][^ref-3]. Some secondary sources, including Wikipedia, still repeat the 91% figure[^ref-6].
+*Zzap!64* reviewed the game on pp. 24-25 of its June 1985 issue (#2), with Gary Penn, Julian Rignall and Bob Wade on the panel[^ref-11]. One reviewer's comment read: "This is the first game where I have laughed every time I died," calling it "an addictive and amusing game"[^ref-24]. The issue mistakenly printed *Shadowfire*'s ratings box (91%, "Stunningly impressive program") beside the review; the same issue's "Apology Corner" admitted the swap and reprinted Grog's Revenge's real box, which gave 75% for value for money, with the verdicts "Amusing new scenario on the collect and dodge theme" and "Wonderful sense of humour keeps you laughing and playing"[^ref-24][^ref-3]. Some secondary sources, including Wikipedia, still repeat the 91% figure[^ref-6].
 
 *Computer and Video Games*' 1989 *Complete Guide to Consoles* rated the ColecoVision version 87%: "Hilarious graphical touches and jolly gameplay makes this a game that's both addictive and highly amusing"[^ref-25].
 
@@ -130,13 +130,13 @@ Community members continue to appreciate the game's qualities. A Lemon64 comment
 
 B.C. II: Grog's Revenge emerged as a direct sequel to the successful B.C.'s Quest for Tires, released in 1983[^ref-2]. The original game had won several awards[^ref-26], and the sequel kept its connection to Johnny Hart's comic strip[^ref-3].
 
-The development was handled by the Canadian developer Sydney Development Corp.[^ref-1] The team opted to move away from the Moon Patrol-style side-scrolling of the original, instead creating a more open exploration-based experience that gave players greater agency in how they navigated the prehistoric landscape[^ref-10].
+The development was handled by the Canadian developer Sydney Development Corp.[^ref-1] The Vancouver company was formed in 1978 by Tarrnie Williams[^ref-28] and has been described as the first publicly traded software company in Canada; it filed for bankruptcy on 23 May 1989[^ref-27]. The team opted to move away from the Moon Patrol-style side-scrolling of the original, instead creating a more open exploration-based experience that gave players greater agency in how they navigated the prehistoric landscape[^ref-10].
 
 ### Production
 
 Rick Banks is credited as designer by MobyGames ("Design: Rick Banks" in the Commodore 64 credits) and by Wikipedia[^ref-2][^ref-6]. C64-Wiki lists Rick Banks and Michael Bates as developers of the game[^ref-3]. The game maintained the comic aesthetic of its predecessor but employed "more restrained colors" in its visual presentation, primarily featuring grey and blue tones rather than the brighter palette of the first game[^ref-3].
 
-The programming team included J. Stuart Easterbrook, P.C. Kelly, and Tris Orendorff as coders, while J. Meinert and Scott Fiander handled the graphics[^ref-11]. The result preserved the cartoon-like quality that made the original notable while adapting it to the new gameplay structure.
+The programming team included J. Stuart Easterbrook, P.C. Kelly, and Tris Orendorff as coders, while J. Meinert and Scott Fiander handled the graphics[^ref-11]. The Game Base 64 "Game of the Week" page likewise credits the programming to T. Orendorff, P.C. Kelly and J.S. Easterbrook[^ref-29]. The result preserved the cartoon-like quality that made the original notable while adapting it to the new gameplay structure.
 
 **Development Credits:**[^ref-11]
 - **Design:** Rick Banks[^ref-2][^ref-6]
@@ -316,8 +316,14 @@ The game is not currently sold on any digital store.
 
 [^ref-23]: [Generation MSX](https://www.generation-msx.nl/software/sierra-on-line-sydney/bc-ii---grogs-revenge/cheats/2601/) – Level F bug documentation
 
-[^ref-24]: [Internet Archive – Zzap!64 #2 (June 1985)](https://archive.org/details/ZZap64Issue0021985Jun) – Grog's Revenge review; misprinted Shadowfire 91% box; "Apology Corner" reprints Grog's real ratings box (75%)
+[^ref-24]: [Internet Archive – Zzap!64 #2 (June 1985)](https://archive.org/details/ZZap64Issue0021985Jun) – Grog's Revenge review, pp. 24-25; 100-clam toll; misprinted Shadowfire 91% box; "Apology Corner" reprints Grog's real ratings box (75%)
 
 [^ref-25]: [Internet Archive – Computer and Video Games: Complete Guide to Consoles (1989)](https://archive.org/details/Computer_and_Video_Games_Complete_Guide_to_Consoles_1) – "Grog's Revenge – Coleco", overall 87%
 
 [^ref-26]: [Wikipedia – B.C.'s Quest for Tires](https://en.wikipedia.org/wiki/B.C.%27s_Quest_for_Tires) – predecessor's awards (Arkie, Billboard, Golden Floppy)
+
+[^ref-27]: [Wikipedia – Sydney Development Corporation](https://en.wikipedia.org/wiki/Sydney_Development_Corporation) – first publicly traded software company in Canada; Vancouver headquarters; bankruptcy filed 23 May 1989
+
+[^ref-28]: [Georgia Straight – Video game family tree](https://www.straight.com/article-198534/video-game-family-tree) – Sydney Development formed 1978; Tarrnie Williams; publisher of Evolution
+
+[^ref-29]: [Game Base 64 – Game of the Week: B.C. II – Grog's Revenge (Wayback, 2025-02-23)](https://web.archive.org/web/20250223074327/http://www.gb64.com/oldsite/gameofweek/2/gotw_grogsrevenge.htm) – programmer credits (T. Orendorff, P.C. Kelly, J.S. Easterbrook)
