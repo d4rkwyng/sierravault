@@ -10,7 +10,7 @@ series: Standalone
 engine: Pre-AGI
 protagonist: Young child adventurer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Troll's Tale is a 1983 children's adventure game programmed by Al Lowe
   and published by Sierra On-Line, in which young players recover sixteen treasures
   stolen from the Dwarf King using only the spacebar and RETURN key.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, sierra, standalone]
 ---
 # Troll's Tale
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 
 ## Overview
@@ -35,7 +35,7 @@ Lowe says Troll's Tale "was the inspiration for 'The Black Cauldron' game": Disn
 > **Publisher:** [[Sierra On-Line]][^ref-7]
 > **Engine:** Pre-AGI[^ref-12]
 > **Platforms:** Apple II (1983); Atari 8-bit, Commodore 64, IBM PC/PCjr booter (1984)[^ref-7]
-> **Release Year:** 1983
+> **Release Year:** 1983[^ref-7][^ref-33]
 > **Series:** Standalone
 > **Protagonist:** Young child adventurer
 > **Sierra Lineage:** Core Sierra
@@ -58,7 +58,50 @@ The game was built so that children did not need to type. CGW: "Keyboard skills 
 
 There are no real puzzles. The game is a treasure hunt through an interconnected map with "no fatalities or dead ends"[^ref-14]. If the troll appears on a screen where a treasure lies, the treasure cannot be taken until the player leaves and comes back after the troll has gone[^ref-4][^ref-17]. CGW noted that mapping skills are "not necessary to enjoy the game but they are encouraged," and that the game gives "practice in reasoning and logic" as well as reading[^ref-23]. Players report finishing it in about an hour or less: the Gaming After 40 playthrough took "about an hour while making notes"[^ref-14], and Hayes calls it easy enough to complete in "less that [sic] an hour"[^ref-17].
 
-## Technical Specifications
+## Packaging and Documentation
+
+The CGW review describes "a large paper map" that "is incomplete and must be finished by the player," and "sixteen colored stickers... used to mark the locations of the treasures"[^ref-23]. Creative Computing's November 1983 evaluation lists the package contents as "a disk, Parent Guide, a poster-size map, 16 treasure stickers, and a compass sticker"[^ref-33]. Sierra's Parent Guide calls it an "outline map of the troll's territory," with circles the child labels and peel-off treasure stickers, and adds a compass decal: "Just peel it off and place it on the monitor near the screen"[^ref-27]. Pixelated Arcade likewise describes a partial map with space for players to fill in the gaps[^ref-4]. Sierra Gamers catalogs two box variants, a "Yellow Box" and a "Rainbow Box"[^ref-1].
+
+## Reception
+
+### Contemporary Reviews
+
+Creative Computing's November 1983 "Hi-Res Learning Games" evaluation, by Betsy Staples, covered Troll's Tale alongside Dragon's Keep. It calls the game "very similar to Dragon's Keep," "for slightly older children--ages eight and up," with "Reading is at the third grade level." Its criticisms are that "the appearance of the troll on a scene is tiresome and pointless, and the keyboard control could be improved," but it concludes: "Troll's Tale is a good game. It seems to be effective in accomplishing the educational objectives it sets for itself, and it does so in an entertaining non-drill-oriented way."[^ref-33]
+
+Computer Gaming World's "Learning Game" column (Vol. 4 No. 3, June 1984) calls the game "very similar to Dragon's Keep," with a slightly "older" vocabulary, and closes: "Another winner from Sierra On-line!"[^ref-23]
+
+Antic's November 1984 "Adventure Trends" column, by Michael Ciraolo, describes Dragon's Keep and Troll's Tale as "graphics/text adventures intended for kids as young as seven," and describes a typical Troll's Tale screen: "the top 80 percent of the display filled with a picture of a room or a field," with lines of text and a menu of options below. Its manufacturer list gives "48K disk with BASIC, $29.95 each" for the two Sierra titles.[^ref-32]
+
+### Modern and User Ratings
+
+These are later site ratings, most of them small user samples, and are not period reviews:
+
+| Source | Score | Notes |
+|-------------|-------|-------|
+| MobyGames | 67% critics / 3.3 of 5 players | Critic figure from 1 rating; players from 19 ratings[^ref-7] |
+| DOSGames.com | 2.5/5 | Site staff review[^ref-9] |
+| MyAbandonware | 4.33/5 | User score, 12 votes[^ref-16] |
+| OldGames.sk | 40% listed; 50% user average | The game page shows "40%" beside the release year and a separate user-rating block reading "AVERAGE: 50%" from 20 votes (page read November 11, 2026)[^ref-8] |
+
+### Modern Assessment
+
+MyAbandonware's HOTUD review calls it "a charming, early kid's game from Al Lowe, creator of Leisure Suit Larry series," praises the bundled map and treasure markers, and warns that "the 4-color CGA palette will probably discourage kids from playing this one"[^ref-16]. Gaming After 40 found "no real challenge," but wrote that "its open structure makes it a lot less linear than many 'more sophisticated' games"[^ref-14]. Tom Hayes calls it "a well made adventure, but it is easy"[^ref-17].
+
+## Development
+
+### Origins
+
+Arcade Express reported on April 10, 1983 that Sierra On-Line had "acquired the product line originally developed by Sunnyside Soft," naming the three educational programs Bop-A-Bet, Dragon's Keep and Troll's Tale, "all aimed at elementary students." In the same report Ken Williams predicted they would "fit in very nicely with our plans to enter the home educational software market"[^ref-25]. Jimmy Maher writes that Sierra also hired Lowe as a designer and programmer, and that "Al learned assembly language at Ken's insistence and wrote a children's adventure game in it called Troll's Tale"[^ref-15]. Lowe programmed Dragon's Keep, his first game, in Applesoft BASIC in 1982[^ref-3]. Lowe's own "Disc-O-Graphy" list of his Sierra products dates Dragon's Keep, Bop-A-Bet and Troll's Tale to 1982 ("Troll's Tale | Children's adventure game"), a year earlier than the 1983 Apple II date MobyGames gives[^ref-29][^ref-7]. Creative Computing reviewed the game in its November 1983 issue[^ref-33].
+
+### Production
+
+MobyGames' Apple II credits list Al Lowe as programmer. Text and graphics are credited to Michael MacChesney, Al Lowe, Margaret Lowe and Rae Lynn MacChesney, and the Graphics Magician routines to Mark Pelczarski, David Lubar and Chris Jochumson[^ref-7]. Pixelated Arcade's credits for the IBM PC version list Michael MacChesney (written by), Peter Oliphant (conversion), Doug MacNeill (graphic art) and Al Lowe (original version)[^ref-4]. Sierra's 1984 multi-platform manual gives the credits for each port: the Atari version was "Programmed by Dave Scruton", the Commodore 64 version has "Program and Graphics by Al Lowe", and the IBM PC/PCjr version was programmed by Peter Oliphant with graphics by Doug MacNeill[^ref-28].
+
+### Technical Notes
+
+Gaming After 40 notes that the graphics were drawn with Penguin's The Graphics Magician, "a step up from Ken Williams' homegrown fill-and-vector graphics tool used for the early Hi-Res Adventures," and that this let all the illustrations fit on a single-sided disk[^ref-14]. The game's menu-driven approach is the same one used in Dragon's Keep[^ref-14][^ref-23]. On the PC port, "the whole logo is pink and scanlined" on the Sierra title logo[^ref-21].
+
+### Technical Specifications
 
 | Component | Specification |
 |-----------|---------------|
@@ -72,44 +115,14 @@ There are no real puzzles. The game is a treasure hunt through an interconnected
 | Recommended age | 7 and up (CGW, 1984)[^ref-23] |
 | Price | $29.95 (Apple II, 1984)[^ref-23] |
 
-## Packaging and Documentation
+### Version History
 
-The CGW review describes "a large paper map" that "is incomplete and must be finished by the player," and "sixteen colored stickers... used to mark the locations of the treasures"[^ref-23]. Sierra's Parent Guide calls it an "outline map of the troll's territory," with circles the child labels and peel-off treasure stickers, and adds a compass decal: "Just peel it off and place it on the monitor near the screen"[^ref-27]. Pixelated Arcade likewise describes a partial map with space for players to fill in the gaps[^ref-4]. Sierra Gamers catalogs two box variants, a "Yellow Box" and a "Rainbow Box"[^ref-1].
-
-## Reception
-
-### Contemporary Reviews
-
-The one contemporary review located is Computer Gaming World's "Learning Game" column (Vol. 4 No. 3, June 1984). It calls the game "very similar to Dragon's Keep," with a slightly "older" vocabulary, and closes: "Another winner from Sierra On-line!"[^ref-23]
-
-### Modern and User Ratings
-
-These are later site ratings, most of them small user samples, and are not period reviews:
-
-| Source | Score | Notes |
-|-------------|-------|-------|
-| MobyGames | 67% critics / 3.3 of 5 players | Critic figure from 1 rating; players from 19 ratings[^ref-7] |
-| DOSGames.com | 2.5/5 | Site staff review[^ref-9] |
-| MyAbandonware | 4.33/5 | User score, 12 votes[^ref-16] |
-| OldGames.sk | 40% | Site rating[^ref-8] |
-
-### Modern Assessment
-
-MyAbandonware's HOTUD review calls it "a charming, early kid's game from Al Lowe, creator of Leisure Suit Larry series," praises the bundled map and treasure markers, and warns that "the 4-color CGA palette will probably discourage kids from playing this one"[^ref-16]. Gaming After 40 found "no real challenge," but wrote that "its open structure makes it a lot less linear than many 'more sophisticated' games"[^ref-14]. Tom Hayes calls it "a well made adventure, but it is easy"[^ref-17].
-
-## Development
-
-### Origins
-
-Arcade Express reported on April 10, 1983 that Sierra On-Line had "acquired the product line originally developed by Sunnyside Soft," naming the three educational programs Bop-A-Bet, Dragon's Keep and Troll's Tale, "all aimed at elementary students." In the same report Ken Williams predicted they would "fit in very nicely with our plans to enter the home educational software market"[^ref-25]. Jimmy Maher writes that Sierra also hired Lowe as a designer and programmer, and that "Al learned assembly language at Ken's insistence and wrote a children's adventure game in it called Troll's Tale"[^ref-15]. Lowe programmed Dragon's Keep, his first game, in Applesoft BASIC in 1982[^ref-3].
-
-### Production
-
-MobyGames' Apple II credits list Al Lowe as programmer. Text and graphics are credited to Michael MacChesney, Al Lowe, Margaret Lowe and Rae Lynn MacChesney, and the Graphics Magician routines to Mark Pelczarski, David Lubar and Chris Jochumson[^ref-7]. Pixelated Arcade's credits for the IBM PC version list Michael MacChesney (written by), Peter Oliphant (conversion), Doug MacNeill (graphic art) and Al Lowe (original version)[^ref-4]. Sierra's 1984 multi-platform manual gives the credits for each port: the Atari version was "Programmed by Dave Scruton", the Commodore 64 version has "Program and Graphics by Al Lowe", and the IBM PC/PCjr version was programmed by Peter Oliphant with graphics by Doug MacNeill[^ref-28].
-
-### Technical Notes
-
-Gaming After 40 notes that the graphics were drawn with Penguin's The Graphics Magician, "a step up from Ken Williams' homegrown fill-and-vector graphics tool used for the early Hi-Res Adventures," and that this let all the illustrations fit on a single-sided disk[^ref-14]. The game's menu-driven approach is the same one used in Dragon's Keep[^ref-14][^ref-23]. On the PC port, "the whole logo is pink and scanlined" on the Sierra title logo[^ref-21].
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | 1983 | Apple II | First release; Al Lowe credited as programmer[^ref-7] |
+| Port | 1984 | Atari 8-bit | "Programmed by Dave Scruton"[^ref-7][^ref-28] |
+| Port | 1984 | Commodore 64 | "Program and Graphics by Al Lowe"[^ref-7][^ref-28] |
+| Port | 1984 | IBM PC (PC Booter) | Programmed by Peter Oliphant, graphics by Doug MacNeill[^ref-7][^ref-28] |
 
 ### Multi-Platform Development
 
@@ -121,6 +134,8 @@ Coleco also planned a version. In September 1983 Electronic Fun reported that Co
 
 Troll's Tale's lasting influence came through Disney. In Lowe's account, Disney "had seen my very early game, 'Troll's Tale.' They asked me to do a movie spinoff using its simplified Spacebar & Enter key-only interface," which became The Black Cauldron[^ref-3]. Lowe also reused what he calls his "Troll's Tale" engine for Winnie the Pooh in the Hundred Acre Wood[^ref-3].
 
+ScummVM's AGI engine lists Troll's Tale (ID agi:troll) and detects the PC booter disk image; its detection table states that "MS-DOS versions of Troll's Tale are not currently supported"[^ref-31]. ScummVM's development-version compatibility chart rates it "Good" ("Games can be played all the way through"), lists the supported platform as DOS and notes "Game lacks sound"[^ref-30].
+
 In 2023 Tyler Wright ("Outgrabe") released Troll's Tale 2023, a fan remake/demake built in the Bitsy engine. It is unrelated to Sierra or Lowe[^ref-20].
 
 ## Downloads
@@ -129,12 +144,15 @@ In 2023 Tyler Wright ("Outgrabe") released Troll's Tale 2023, a fan remake/demak
 - Not sold digitally. Al Lowe offers the game as a free download from his official website[^ref-3]
 
 **Purchase / Digital Stores**
-- Not sold (no GOG or Steam listing, checked 2026-10-29)
+- Not sold on GOG or Steam as of November 2026
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_Trolls_Tale_1984) - PC version, stream only
 - [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) - Download with browser play option[^ref-22]
 - [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) - Full-version download package (82 kB)[^ref-10]
+
+**Compatible Engines**
+- [ScummVM compatibility entry](https://www.scummvm.org/compatibility/DEV/agi:troll/) - AGI engine, PC booter version[^ref-30][^ref-31]
 
 **Manuals & Extras**
 - [Troll's Tale Parent Guide (1983)](https://www.mocagh.org/sierra/trollstale-manual.pdf) - Sierra's original manual, via MOCAGH[^ref-27]
@@ -158,7 +176,7 @@ In 2023 Tyler Wright ("Outgrabe") released Troll's Tale 2023, a fan remake/demak
 [^ref-5]: [Game Pressure](https://www.gamepressure.com/games/trolls-tale/zf2526) – Description of the PC version's CGA graphics and PC speaker sound
 [^ref-6]: [Play DOS Games](https://www.playdosgames.com/online/trolls-tale/) – Freeware listing; controls (Space changes option, Enter confirms)
 [^ref-7]: [MobyGames](https://www.mobygames.com/game/7271/trolls-tale/) – Release dates by platform, Apple II credits, Graphics Magician, scores
-[^ref-8]: [Old Games SK](https://www.oldgames.sk/en/game/trolls-tale/) – Site rating (40%)
+[^ref-8]: [Old Games SK](https://www.oldgames.sk/en/game/trolls-tale/) – Site rating (40% listed; user average 50% from 20 votes, read 2026-11-11)
 [^ref-9]: [DOS Games](https://dosgames.com/game/trolls-tale/) – Staff review (2.5), 320×200 resolution
 [^ref-10]: [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) – Full-version MS-DOS download, 82 kB
 [^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Troll's_Tale) – Pre-AGI engine, freeware, supported PC video modes
@@ -175,3 +193,8 @@ In 2023 Tyler Wright ("Outgrabe") released Troll's Tale 2023, a fan remake/demak
 [^ref-26]: [Computer Gaming World No. 100 (November 1992), "From Pictures to Pixels: Old Hollywood to New Hollywood"](https://archive.org/details/Computer_Gaming_World_Issue_100) – Peter Oliphant profile: programmed the conversions of Troll's Tale and Dragon's Keep
 [^ref-27]: [Sierra On-Line – Troll's Tale Parent Guide (1983), via MOCAGH](https://www.mocagh.org/sierra/trollstale-manual.pdf) – Third-grade reading level, 16 treasures, outline map, peel-off stickers, compass decal, space bar and return key
 [^ref-28]: [Sierra On-Line – Troll's Tale manual (1984 multi-platform edition), via MOCAGH](https://www.mocagh.org/sierra/trollstale-alt-manual.pdf) – Per-platform credits (Atari: Dave Scruton; C64: Al Lowe; IBM PC/PCjr: Peter Oliphant, Doug MacNeill); sound toggle
+[^ref-29]: [Al Lowe – Disc-O-Graphy](https://allowe.com/al/disc-o-graphy.html) – Lowe's own list of products he worked on at Sierra: 1982 Dragon's Keep, Bop-A-Bet, Troll's Tale
+[^ref-30]: [ScummVM Compatibility – Troll's Tale (agi:troll), DEV](https://www.scummvm.org/compatibility/DEV/agi:troll/) – Support level Good; platform DOS; "Game lacks sound"
+[^ref-31]: [ScummVM source, engines/agi/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/agi/detection_tables.h) – Troll's Tale (PC Booter) entries; "MS-DOS versions of Troll's Tale are not currently supported."
+[^ref-32]: [Antic Vol. 3 No. 7 (November 1984), "Adventure Trends" by Michael Ciraolo](https://www.atarimagazines.com/v3n7/Adventure_Trends.php) – Dragon's Keep and Troll's Tale for kids as young as seven; 48K disk, $29.95
+[^ref-33]: [Creative Computing Vol. 9 No. 11 (November 1983), p. 114, "Hi-Res Learning Games" by Betsy Staples](https://www.atarimagazines.com/creative/v9n11/114_HiRes_Learning_Games.php) – Ages eight and up, third-grade reading, package contents; "Troll's Tale is a good game."
