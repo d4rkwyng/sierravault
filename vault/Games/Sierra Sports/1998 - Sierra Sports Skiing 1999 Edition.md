@@ -10,7 +10,7 @@ series: Sierra Sports
 engine: Unknown
 protagonist: Player-controlled skier
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Sierra Sports Skiing 1999 Edition is a 1998 alpine skiing simulation
   for Windows, developed by Dynamix as a lightly updated follow-up to Front Page Sports:
   Ski Racing.'
@@ -18,11 +18,11 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Sierra Sports Skiing 1999 Edition
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Sierra Sports Skiing 1999 Edition was an alpine skiing simulation game developed by [[Dynamix]] and released in 1998 for Windows[^ref-11][^ref-14][^ref-15][^ref-17]. It was also known as *Skiing with Picabo Street, 1999 Edition*, and was released in Europe as *Ski Racing: Extreme Edition*[^ref-11][^ref-12]. The game followed [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]], which Dynamix had released in late 1997; GameSpot lists its first release as November 30, 1997[^ref-23]. Sierra had unveiled its Sierra Sports brand at the 1998 Daytona 500[^ref-8], and Gamecenter's reviewer wondered whether Sierra's aim was "to consolidate its skiing franchise under the new Sierra Sports mantle"[^ref-16].
+Sierra Sports Skiing 1999 Edition was an alpine skiing simulation game developed by [[Dynamix]] and released in 1998 for Windows[^ref-11][^ref-15][^ref-17]. It was also known as *Skiing with Picabo Street, 1999 Edition*, and was released in Europe as *Ski Racing: Extreme Edition*[^ref-11][^ref-12]. The game followed [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]], which Dynamix had released in late 1997; GameSpot lists its first release as November 30, 1997[^ref-23]. Sierra had unveiled its Sierra Sports brand at the 1998 Daytona 500[^ref-8], and Gamecenter's reviewer wondered whether Sierra's aim was "to consolidate its skiing franchise under the new Sierra Sports mantle"[^ref-16].
 
 The game offered several camera perspectives, including a first-person view, across six World Cup venues[^ref-16]. U.S. Olympian Picabo Street returned from the predecessor "to dole out advice in the form of full-motion video clips"[^ref-17]. Sierra announced multiplayer support through WON.net alongside single-player seasons and single races[^ref-18], and Computer Games Strategy Plus listed hotseat multiplayer for 2–9 players[^ref-19]; the controls were joystick-driven[^ref-16].
 
@@ -33,7 +33,7 @@ Critics found little new in it. Gamecenter called it "little more than a rerelea
 > **Designer:** Unknown
 > **Publisher:** Sierra Sports[^ref-11]
 > **Engine:** Unknown
-> **Platforms:** Windows[^ref-11]
+> **Platforms:** Windows[^ref-11][^ref-14]
 > **Release Year:** 1998[^ref-11]
 > **Series:** Sierra Sports
 > **Protagonist:** Player-controlled skier
@@ -63,7 +63,7 @@ The game had five racing disciplines: Slalom, Giant Slalom, Super-G, All-Around 
 
 ### Courses and Locations
 
-Gamecenter described the racing as "a shortened, six-venue version of skiing's annual World Cup championship chase"[^ref-16]. MobyGames' entry for the game's German release names the six World Cup slopes as Garmisch, Aspen, Mt. Bachelor, Val-d'Isère, Vail and Whistler[^ref-5]. The predecessor had the same six courses[^ref-2]. Computer Games Strategy Plus noted that the game offered "the same seven mountains" as the 1998 version[^ref-19]. PC Gamer and PC Accelerator both named the two new freestyle slopes as Mt. Sierra and Mt. Dynamix[^ref-17][^ref-22].
+Gamecenter described the racing as "a shortened, six-venue version of skiing's annual World Cup championship chase"[^ref-16]. MobyGames' entry for the game's German release names the six World Cup slopes as Garmisch, Aspen, Mt. Bachelor, Val-d'Isère, Vail and Whistler[^ref-5]. The predecessor had the same six courses[^ref-2]. Computer Games Strategy Plus noted that the game offered "the same seven mountains" as the 1998 version[^ref-19]. PC Gamer and PC Accelerator both named the two new freestyle slopes as Mt. Sierra and Mt. Dynamix[^ref-17][^ref-22]. PC Gaming World disagreed on which were new: it wrote that the real resorts and the Dynamix freestyle mountain "were available in the first version of the game, so the only new experience in this release is the Sierra mountain"[^ref-26].
 
 ### Puzzles and Mechanics
 
@@ -119,8 +119,6 @@ Picabo Street had already appeared in video clips in the predecessor[^ref-2], an
 
 The game was developed by Dynamix[^ref-17], whose studio was in Eugene, Oregon[^ref-6]. Sierra On-Line had acquired Dynamix in 1990, and the studio brought expertise in simulation development from its work on titles like Red Baron and the Front Page Sports franchise[^ref-7].
 
-The production approach at Dynamix emphasized authenticity in sports simulation[^ref-8]. According to Sean Gleason, Director of Marketing for Sierra Sports, the development philosophy for their racing titles involved sending "developers to racing school" and flying "artists across the country to painstakingly record the unique aspects of each track"[^ref-8]. That quote was about NASCAR Racing 1999 Edition, not this game[^ref-8].
-
 Reviewers saw the game as only a small update to Front Page Sports: Ski Racing. Gamecenter found that "Apart from a few minor upgrades, Skiing 1999 is little more than a rerelease of Ski Racing"[^ref-16]. PC Gamer said that apart from "a change in name and packaging" and the new freestyle mode, "it seems much the same as the original"[^ref-17].
 
 **Development Credits:**
@@ -130,7 +128,7 @@ Specific individual credits for Sierra Sports Skiing 1999 Edition are not availa
 
 Sierra Sports Skiing 1999 Edition supported 3D acceleration. PC Gamer said it "supposedly incorporates Voodoo Rush support"[^ref-17], and PC Accelerator wrote that "Voodoo Rush support has been added"[^ref-22]. PC Gamer also found that the terrain graphics did not always show where the bumps and slopes were[^ref-17].
 
-The game offered several viewing perspectives, including first-person[^ref-16]. Computer Games Strategy Plus listed multiplayer as 2–9 players, hotseat only[^ref-19]. PC Gamer's spec box, by contrast, listed "Multi-player Options: None"[^ref-17].
+The game offered several viewing perspectives, including first-person[^ref-16]. The sources disagree about multiplayer. PC Gamer's spec box listed "Multi-player Options: None"[^ref-17], and Gamecenter rated multiplayer "Poor"[^ref-16]. Computer Games Strategy Plus listed 2–9 players, hotseat only[^ref-19], and its news item reported multiplayer support through WON.net[^ref-18]. PC Gaming World's UK listing gave "1-8 players (2-8 via same PC, IPX LAN, Internet)"[^ref-26].
 
 The weather and snow conditions affected racing. PC Gamer wrote that "weather, temperature, and snow consistency (slushy, powdery, etc.), can affect a run by slowing you down or allowing faster times"[^ref-17].
 
@@ -139,7 +137,7 @@ The weather and snow conditions affected racing. PC Gamer wrote that "weather, t
 **Windows Version:**[^ref-3][^ref-19]
 - **Requirements:** Windows 95/98, 90 MHz Pentium, 16 MB RAM, 4X CD-ROM[^ref-19]
 - **Resolution:** Undocumented; 3D acceleration supported[^ref-17]
-- **Players:** 1; 2–9 hotseat[^ref-19]
+- **Players:** Sources differ: none[^ref-17]; 2–9 hotseat only[^ref-19]; 1–8 including IPX LAN and Internet (UK listing)[^ref-26]
 - **Input:** Joystick[^ref-16]
 - **Media:** CD-ROM[^ref-19]
 - **Rating:** ESRB E (Everyone)[^ref-3]
@@ -152,10 +150,11 @@ No documentation exists regarding cut content or features removed during develop
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Retail | 1998 | Windows | North American retail release, in stores by November 10, 1998[^ref-18] |
+| Retail | 1998 | Windows | North American retail release. GameSpot reported on October 19, 1998 that Sierra Sports would start shipping it to retailers on Friday, October 30, at US$29.95[^ref-28]; Computer Games Strategy Plus reported it in stores by November 10, 1998[^ref-18] |
+| UK release | By February 1999 | Windows | *Ski Racing Extreme Edition*. PC Zone's January 1999 issue called it "forthcoming" and said it added "a new course at Mount Sierra Winter Park"[^ref-27]; PC Gaming World's February 1999 review listed it as "Out Now" at £34.99 with Force Feedback support[^ref-26] |
 | German release | 1999 | Windows | *DSF Ski '99: Extreme Edition*, listed on MobyGames as *Front Page Sports: Ski Racing '99*[^ref-5] |
 
-The game was the follow-up to Front Page Sports: Ski Racing, which had been repackaged simply as "Ski Racing" [^ref-2].
+The game was the follow-up to Front Page Sports: Ski Racing, which had been repackaged simply as "Ski Racing"[^ref-2].
 
 ### Technical Issues
 
@@ -227,7 +226,7 @@ Sierra closed Dynamix in August 2001, as part of restructuring under Vivendi Uni
 [^ref-5]: [MobyGames – Front Page Sports: Ski Racing '99 (German release, aka DSF Ski '99: Extreme Edition)](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – 1999 German Windows release by Dynamix/Sierra On-Line; six World Cup slopes named; no Moby Score
 [^ref-6]: [Higher Intellect Vintage Wiki – Dynamix](https://wiki.preterhuman.net/Dynamix) – Dynamix studio description, Eugene Oregon location, mention of an upcoming Front Page Sports skiing title (the 1997 original)
 [^ref-7]: [The Sierra Chest – Dynamix](https://sierrachest.com/index.php?a=devs&id=3&title=dynamix&fld=general) – Dynamix company information, Sierra acquisition, 2001 closure
-[^ref-8]: [Race Sim Central – NASCAR Racing 1999 Edition Announcement](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) – Sierra Sports unveiled at the 1998 Daytona 500, NASCAR Racing 2 sales ranking, Sean Gleason quote
+[^ref-8]: [Race Sim Central – NASCAR Racing 1999 Edition Announcement](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) – Sierra Sports unveiled at the 1998 Daytona 500, NASCAR Racing 2 sales ranking
 [^ref-9]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on Steam
 [^ref-10]: No GOG listing found (GOG store search, checked October 29, 2026) – game not available on GOG
 
@@ -235,7 +234,7 @@ Sierra closed Dynamix in August 2001, as part of restructuring under Vivendi Uni
 
 [^ref-12]: [HandWiki – Sierra Sports Skiing 1999 Edition](https://handwiki.org/wiki/Software:Sierra_Sports:_Skiing_1999_Edition) – technical documentation and platform information
 
-[^ref-14]: [Amazon – Sierra Sports Skiing 1999 Edition PC](https://www.amazon.com/Sierra-Sports-Skiing-99-PC/dp/B00001JJLQ) – retail release documentation, product details
+[^ref-14]: [Amazon – Sierra Sports Skiing 1999 Edition PC](https://www.amazon.com/Sierra-Sports-Skiing-99-PC/dp/B00001JJLQ) – retail listing titled "Sierra Sports Skiing 99 - PC"; Windows 95, rated Everyone
 
 [^ref-15]: [GameFAQs – Sierra Sports Skiing 1999 Edition](https://gamefaqs.gamespot.com/pc/577416-sierra-sports-skiing-1999-edition) – game database entry, PC sports game released in 1998
 
@@ -258,3 +257,4 @@ Sierra closed Dynamix in August 2001, as part of restructuring under Vivendi Uni
 [^ref-25]: [PC Joker 3/99 (archive.org full text)](https://archive.org/download/PCJoker0399/PCJoker0399_djvu.txt) – review index: "DSF Ski '99 Extreme Edition", 2/99, Sport, 60%
 [^ref-26]: [PC Gaming World #26, February 1999 (archive.org full text)](https://archive.org/download/pc-gaming-world-issue-26-february-1999/PC%20Gaming%20World%20Issue%2026%20%28February%201999%29_djvu.txt) – review "Ski Racing Extreme Edition" by Mike Allen: "extremely dated", "the only new experience in this release is the Sierra mountain", "Out Now"
 [^ref-27]: [PC Zone #72, January 1999 (archive.org full text)](https://archive.org/download/PC_Zone_72_January_1999/PC_Zone_72_January_1999_djvu.txt) – news "Sierra Get Piste Again": "Sierra's forthcoming Ski Racing Extreme Edition", "previously appalling ski game"
+[^ref-28]: [GameSpot – "Sierra Plays Picabo on the Slopes", Oct 19, 1998](https://www.gamespot.com/articles/sierra-plays-picabo-on-the-slopes/1100-2465252/) – "Next Friday, Oct. 30, Sierra Sports will start shipping Skiing - 1999 Edition to retailers"; US$29.95; Windows 95/98, 3Dfx Voodoo and force-feedback support
