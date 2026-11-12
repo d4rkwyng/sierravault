@@ -6,15 +6,15 @@ defunct: null
 headquarters: "Tokyo, Japan"
 notable_games: ["Lunar: The Silver Star", "Grandia", "Thexder"]
 parent_company: "GungHo Online Entertainment"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Game Arts
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Game Arts Co., Ltd. is a Japanese video game developer and publisher based in Chiyoda, Tokyo, founded in 1985. It began with the action game Thexder and is best known in the West for the Lunar and Grandia role-playing series and the Gungriffon vehicle-simulation games.[^ref-1] The company was co-founded by brothers Yoichi and Takeshi Miyaji.[^ref-1][^ref-23][^ref-24]
+Game Arts Co., Ltd. is a Japanese video game developer and publisher based in Chiyoda, Tokyo, founded in 1985. It began with the action game Thexder and is best known in the West for the Lunar and Grandia role-playing series and the Gungriffon vehicle-simulation games.[^ref-1] The company was co-founded by brothers Yoichi and Takeshi Miyaji.[^ref-1][^ref-23][^ref-24] A 1998 interview translated by Shmuplations introduces Yoichi Miyaji, alongside Chunsoft founder Koichi Nakamura, as one of the two founders of their respective companies, and notes that Yoichi is less well known than his late brother Takeshi.[^ref-40]
 
 Sierra On-Line licensed several of its early computer games for the North American market, including Thexder and Silpheed.[^ref-1][^ref-26][^ref-31] GungHo Online Entertainment acquired Game Arts in 2005.[^ref-25] Japanese Wikipedia currently lists GungHo Online Entertainment as the sole shareholder (「ガンホー・オンライン・エンターテイメント株式会社 100.0%」 [GungHo Online Entertainment Co., Ltd. 100.0%]) and the company's representative as Kazuki Morishita (「森下一喜（代表取締役社長）」 [Kazuki Morishita (Representative Director and President)]); it dates the start of the consolidated-subsidiary relationship to 「2005年10月17日より」 [from October 17, 2005].[^ref-33] No Game Arts or GungHo corporate profile page could be fetched to confirm the officer name or ownership share, so those two details rest on Wikipedia alone.
 
@@ -32,6 +32,8 @@ Silpheed followed on the PC-8801 in December 1986, designed by Takeshi Miyaji.[^
 
 Sierra On-Line published Game Arts games in North America in the late 1980s and 1990: Thexder (US 1987), Silpheed (1988 on the CoCo per MobyGames; Sierra dated its US release to April 1989), Zeliard (US 1990) and Fire Hawk: Thexder – The Second Contact (US 1990).[^ref-1][^ref-31]
 
+Wikipedia's Game Arts games table lists Thexder 95 (1995) as published by Game Arts in Japan and Sierra Entertainment in the US,[^ref-1] while MobyGames credits Synergistic Software as the developer of the 1995 Windows game, with Sierra On-Line as publisher; see [[1995 - Thexder 95|Thexder 95]].[^ref-38]
+
 Thexder came first. In the Spring 1988 Sierra Newsletter, Ken Williams wrote that it "was released in September of 1987, was Sierra's first import from Japan, and has already sold more than 100,000 units in this country."[^ref-32] (A Sierra News profile two years later instead said it "debuted in U.S. computer stores just in time for Christmas 1986," while another article in the same issue gives 1987.[^ref-31]) The same 1988 newsletter previewed Silpheed, listing it for the fourth quarter of 1988, with the IBM version programmed by Gary Butts and the Apple IIGS version by John Rettig.[^ref-32] Sierra's Fall 1990 magazine dates the US release to April 1989, and Wikipedia's games table gives 1988.[^ref-31][^ref-1] MobyGames gives platform-specific first-release years: 1988 for the TRS-80 CoCo version and 1989 for DOS (Apple IIgs: July 1989).[^ref-36]
 
 In Fall 1990, Sierra News announced "the cementing of a long-term alliance with Game Arts of Japan, makers of Sierra's first Japanese imports Thexder and Silpheed," adding that Sierra "will begin converting and distributing all Game Arts products in the U.S. and Europe."[^ref-31] The same article describes Game Arts as "located in Ikebukuro, in Northwest Tokyo" (spelling the founder "Youichi Miyaji"), says Thexder was "a phenomenon in Japan, selling 500,000 units and winning Japan's BHS (Best Hit Software) award," and that it "became Sierra's best seller for 1987."[^ref-31] The article quoted Game Arts President Yoichi Miyaji: "Sierra On-Line is a superior software house. When we were users, Sierra was established as a company, and was already releasing wonderful games." It named Firehawk and Zeliard, "Game Arts' answer to the role playing adventure," as that year's releases.[^ref-31]
@@ -44,7 +46,7 @@ Williams's recollection was hedged ("I think the only Game Arts' games we publis
 
 ### Later Years
 
-In the 1990s Game Arts moved toward console role-playing games. Lunar: The Silver Star (Sega Mega-CD, 1992) was planned as a "different kind of RPG" that used the CD-ROM format for full-motion video, high-quality audio and voice acting, built around animated story sequences by artist Toshiyuki Kubooka.[^ref-21] Grandia followed on the Sega Saturn in December 1997, with a PlayStation version in 1999.[^ref-1]
+In the 1990s Game Arts moved toward console role-playing games. Lunar: The Silver Star (Sega Mega-CD, 1992) was planned as a "different kind of RPG" that used the CD-ROM format for full-motion video, high-quality audio and voice acting, built around animated story sequences by artist Toshiyuki Kubooka.[^ref-21] Grandia followed on the Sega Saturn in December 1997, with a PlayStation version in 1999.[^ref-1][^ref-39]
 
 On October 18, 2005, GamesIndustry.biz reported that GungHo Online Entertainment had acquired "veteran development studio Game Arts," noting that GungHo had "a long-standing relationship" with the company.[^ref-25] Game Arts developed Ragnarok Odyssey (PlayStation Vita, 2012), which GungHo published.[^ref-30] The company marked its 40th anniversary on March 2, 2025.[^ref-27]
 
@@ -68,7 +70,7 @@ Released for the Sega Mega-CD in June 1992, with a North American release by Wor
 
 ### Grandia (1997)
 
-Released for the Sega Saturn in Japan on December 18, 1997, and later ported to the PlayStation (Japan June 1999, US September 1999).[^ref-1]
+Released for the Sega Saturn in Japan on December 18, 1997, and later ported to the PlayStation (Japan June 24, 1999). Sources differ on the US date: the Game Arts article's table gives September 30, 1999,[^ref-1] while the Grandia article gives October 28, 1999.[^ref-39]
 
 ## Key People
 
@@ -81,21 +83,24 @@ Released for the Sega Saturn in Japan on December 18, 1997, and later ported to 
 
 ### In This Archive (Sierra-published)
 
-Years are given as Japanese release / US release.[^ref-1][^ref-31][^ref-32]
+Listed by Japanese release year; years are given as Japanese release / US release.[^ref-1][^ref-31][^ref-32]
 
 - **JP 1985 / US 1987** — [[1985 - Thexder|Thexder]] — Genre: Action
 - **JP 1986 / 1988 (TRS-80 CoCo), 1989 (DOS)** — [[1988 - Silpheed|Silpheed]] — Genre: Shooter
-- **JP 1989 / US 1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder: The Second Contact]] — Genre: Action
 - **JP 1987 / US 1990** — [[1990 - Zeliard|Zeliard]] — Genre: Action RPG
+- **JP 1989 / US 1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder: The Second Contact]] — Genre: Action
 
 ### Related Pages in This Archive
 
 - **2009** — [[2009 - Thexder Neo|Thexder Neo]] — a remake developed by Zereo and published by Square Enix, with Game Arts credited as presenter. Sierra had no part in it.
 
 ### Other Notable Games (Non-Sierra)
+- Alisia Dragoon — 1992 (Sega Mega Drive/Genesis; Sega published outside Japan)[^ref-1]
+- Rise of the Dragon (Sega CD port) — 1992 (Japan; ported by Game Arts from the Dynamix original, see [[1990 - Rise of the Dragon]])[^ref-37]
 - Lunar: The Silver Star — 1992 (Sega Mega-CD)[^ref-1]
 - Lunar: Eternal Blue — 1994 (Sega Mega-CD)[^ref-1]
-- Grandia — 1997 (Sega Saturn; PlayStation 1999)[^ref-1]
+- Gungriffon — 1996 (Sega Saturn)[^ref-1]
+- Grandia — 1997 (Sega Saturn; PlayStation 1999)[^ref-1][^ref-39]
 - Lunar: Silver Star Story Complete — 1998 (PlayStation)[^ref-1]
 - Lunar 2: Eternal Blue Complete — 1999 (PlayStation; US 2000)[^ref-1]
 - Grandia II — 2000 (Dreamcast)[^ref-1]
@@ -123,3 +128,7 @@ Years are given as Japanese release / US release.[^ref-1][^ref-31][^ref-32]
 [^ref-34]: [Shmuplations - Thexder developer interview (Wayback, April 18, 2026)](https://web.archive.org/web/20260418142346/https://shmuplations.com/thexder/) — "Hibiki Godai - Director/Designer", "Satoshi Uesaka - Designer"
 [^ref-35]: [Game Arts - official news feed (Wayback, copy dated April 18, 2025)](https://web.archive.org/web/2026/https://www.gamearts.co.jp/en/rss/news.xml) — Grandia PS Plus (Nov 21, 2023), Silpheed EGG Switch (Dec 21, 2023), GRANDIA HD Collection (Mar 26, 2024), LUNAR Remastered Collection (Apr 18, 2025)
 [^ref-36]: [MobyGames - Silpheed](https://www.mobygames.com/game/167/silpheed/) — first-release dates by platform: TRS-80 CoCo 1988, DOS 1989, Apple IIgs 1989-07 (read via the MobyGames API)
+[^ref-37]: [MobyGames - Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) — SEGA CD version first released 1992-09-25 (Japan); Game Arts Co., Ltd. credited "Ported by", Dynamix "Developed by" (read via the MobyGames API)
+[^ref-38]: [MobyGames - Thexder (Windows, 1995)](https://www.mobygames.com/game/2857/thexder/) — Windows version 1995; Synergistic Software, Inc. credited "Developed by" (read via the MobyGames API)
+[^ref-39]: [Grandia (video game) - Wikipedia](https://en.wikipedia.org/wiki/Grandia_(video_game)) — Saturn Japan December 18, 1997; PlayStation Japan June 24, 1999, North America October 28, 1999
+[^ref-40]: [Shmuplations - Game Arts x Chunsoft, 1998 developer interview (Wayback, 2026-10-30)](https://web.archive.org/web/20261030011908/https://shmuplations.com/miyajixnakamura/) — introduces Koichi Nakamura and Yoichi Miyaji as the founders of Chunsoft and Game Arts; Yoichi "is not as well known as his brother Takeshi, who passed away in 2011"
