@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI2.1
 protagonist: Torin
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: '**Torin''s Passage** is a family-oriented fantasy adventure game designed
   by Al Lowe and released by Sierra On-Line in 1995, in which young Torin and his
   shape-shifting pet Boogle search the nested worlds of Strata for his kidnapped parents.'
@@ -18,11 +18,11 @@ tags: [1990s, adventure, al-lowe, sci, sierra]
 ---
 # Torin's Passage
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-**Torin's Passage** is a point-and-click adventure game designed by Al Lowe and released by Sierra On-Line in 1995[^ref-1]. Unlike Lowe's adult-oriented Leisure Suit Larry series, Torin's Passage was specifically created as a family-friendly adventure that could be enjoyed by both children and adults[^ref-2][^ref-39]. The game was inspired by Lowe's experience watching Mrs. Doubtfire with his daughter, where he observed that "the audience was laughing in two different pitches: high little giggles when the kids laughed at the slapstick parts of the film, and deep knowing guffaws when the adults caught something that they knew the kids wouldn't get"[^ref-3].
+**Torin's Passage** is a point-and-click adventure game designed by Al Lowe and released by Sierra On-Line on October 31, 1995[^ref-21][^ref-12]. Unlike Lowe's adult-oriented Leisure Suit Larry series, Torin's Passage was specifically created as a family-friendly adventure that could be enjoyed by both children and adults[^ref-2][^ref-39]. The game was inspired by Lowe's experience watching Mrs. Doubtfire with his daughter, where he observed that "the audience was laughing in two different pitches: high little giggles when the kids laughed at the slapstick parts of the film, and deep knowing guffaws when the adults caught something that they knew the kids wouldn't get"[^ref-3].
 
 Set in a fantasy world of nested planets called Strata, the game follows young Torin and his shape-shifting companion Boogle on a quest to rescue Torin's adoptive parents from the sorceress Lycentia[^ref-1][^ref-11]. It combines hand-drawn cel animation with oil-paint backgrounds[^ref-21], and its themes were composed by three-time Academy Award winner Michel Legrand[^ref-38][^ref-8]. Reviews ranged from lukewarm to enthusiastic[^ref-34][^ref-35][^ref-36]. Al Lowe says the game sold well over 200,000 copies but still had a reputation as a failure inside Sierra[^ref-41]. It was planned as the first of five games, but no sequel was made[^ref-28].
 
@@ -35,6 +35,7 @@ Set in a fantasy world of nested planets called Strata, the game follows young T
 > **Engine:** SCI2.1[^ref-7][^ref-10]
 > **Platforms:** DOS, Windows 3.x, Windows 95, Macintosh (all on CD-ROM)[^ref-10][^ref-40]
 > **Release Year:** 1995[^ref-45]
+> **Release Date:** October 31, 1995[^ref-21][^ref-45]
 > **Series:** Standalone
 > **Protagonist:** Torin
 > **Sierra Lineage:** Core Sierra
@@ -79,6 +80,13 @@ Computer Gaming World's review ran under the headline "Kings Quest VIII?". Ardai
 
 In a 1999 interview Lowe said that "even Torin's Passage sold over 200,000 copies"[^ref-42]. In another interview the same year he said that Torin's Passage and Freddy Pharkas "had a reputation as failures at Sierra, in spite of the fact that each sold well over 200,000 copies"[^ref-41]. Historian Jimmy Maher calls the game "another mediocre performer" for Sierra in that period[^ref-43].
 
+### Aggregate Scores
+
+| Source | Score | Basis |
+|--------|-------|-------|
+| MobyGames | 7.7 | 73 votes (as of November 2026)[^ref-1] |
+| GOG.com users | 4.4/5 | 309 ratings (as of November 2026)[^ref-26] |
+
 ### Modern Assessment
 
 Later assessments are mixed. Adventure Gamers rated the game 2.5/5 stars, calling it "a promising fairy tale that just never breaks through the wall of mediocrity"[^ref-24]. A 2023 review gave it 44%, stating "I would not recommend this title to anyone. It's just not fun, or interesting, or innovative in any way"[^ref-25]. Hardcore Gaming 101, by contrast, calls it "quite an excellent game that has the tragedy of being somewhat overlooked, or at least misunderstood by the gaming community"[^ref-15]. GOG.com users rate it 4.4/5 (309 ratings, 72 of them written reviews, as of November 2026)[^ref-26].
@@ -95,11 +103,47 @@ Mark Seibert produced the game[^ref-27][^ref-8]. Lead background artist Bruce Sh
 
 Michel Legrand, winner of three Academy Awards, was hired to write the score[^ref-38]. Lowe said beforehand that Torin's Passage would be "the first Sierra game that uses real digitized music, as opposed to MIDI music, throughout"[^ref-38]. Legrand "composed these songs and recorded them in his studio" so that Lowe could hear his ideas and suggest changes[^ref-5]. Critics were less impressed: Computer Gaming World found the soundtrack generic[^ref-34], and PC Games called it "the boring musical score"[^ref-37]. The visuals combined "hand-drawn cell animation, oil paint backgrounds, 3-D rendered objects, and the less fluid computer-generated art", which GameSpot found "harmonious"[^ref-21].
 
+### Voice Cast
+
+Al Lowe directed the voices[^ref-12][^ref-8]. Behind The Voice Actors lists 16 voice actors for 39 characters, with credits marked as official[^ref-12].
+
+**Principal Cast:**[^ref-12]
+
+| Actor | Characters |
+|-------|------------|
+| Mike Shapiro (credited as Michael Shapiro on MobyGames[^ref-8]) | Torin, Boogle |
+| Cristine McMurdo-Wallis | Lycentia, Odalisque, and others |
+| Chuck McQuary | Archer, Slim, Tripe |
+| Robert Zenk | Slime, Viscera, R. Kyvest |
+| Bob Nadir | Sam, Max, Sap Tree |
+| Frank Corrado | Pecand, Carpenter, Dreep |
+| John Gilbert | Herman, Acrobat, Policeman |
+| Ted D'Arms | Rupert, Judge, Mr. Fahrman |
+| Tracey Leigh | Di, Inchworm, Smetana |
+| Ken Boynton | Veder, Centipede, Zippy the Magician |
+| Stephan Weyte | Bags Bunny, Zax, Sergeant Roland |
+| Susan Ronn | Leenah, Grass, Bobby Bitternut |
+| Kathy Levin | Mrs. Bitternut, Mrs. Fahrman |
+| Krisha Fairchild | Mrs. Plant |
+| Shelly Rae Emil | Assistant Director |
+| Glenn Mazen | Kurtzwell |
+
 ### Technical Achievements
 
 Torin's Passage was built using Sierra's SCI2.1 engine (interpreter 2.100.002), the same interpreter version as Space Quest 6; Leisure Suit Larry 7 moved on to SCI3[^ref-7]. Sierra Help lists the original minimum requirements as a 486/25, 8 MB RAM, 256-color SVGA and a 2x CD-ROM drive[^ref-29]; contemporary reviews gave the minimum as a 486/33 with 8 MB RAM, SVGA and a double-speed CD-ROM drive[^ref-22][^ref-36]. PC Gamer described the animation as "a blend of styles inspired by Disney and Warner Bros."[^ref-22]
 
 A VOGONS forum user reports that in the DOS version the game's video sequences use the VMD (Video and Music Data) format with a native resolution of 316x158 and a 2:1 aspect ratio[^ref-30]. Players could enable various visual effects, including a "psychedelic mode" accessible by pressing Ctrl-P during gameplay[^ref-31].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | October 31, 1995 | DOS, Windows 3.x, Windows | CD-ROM release[^ref-40][^ref-10][^ref-21][^ref-45] |
+| Macintosh | 1995 | Macintosh | Listed with a release year only[^ref-1][^ref-10] |
+| Patch | December 20, 1995 | DOS, Windows | Official update fixing the "Error 47" and General Protection Fault errors when saving or restoring games[^ref-47][^ref-29] |
+| GOG.com release | May 17, 2012 | Windows | Digital re-release[^ref-46][^ref-10] |
+
+The original release uses SCI interpreter 2.100.002[^ref-7].
 
 ## Legacy
 
@@ -125,20 +169,20 @@ None listed (sold on GOG).
 
 ## References
 
-[^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – Release year and developer information; game description (parents imprisoned by a spell cast by Lycentia), read via the MobyGames API
+[^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – Release year and developer information; game description (parents imprisoned by a spell cast by Lycentia); Moby Score 7.7 from 73 votes (November 2026); platforms DOS, Windows, Windows 16-bit and Macintosh, all 1995; read via the MobyGames API
 [^ref-2]: [Wikipedia - Torin's Passage](https://en.wikipedia.org/wiki/Torin%27s_Passage) – Family-friendly design philosophy
 [^ref-3]: [Al Lowe's Website - About Torin](https://allowe.com/games/torin/about-torin.html) – Mrs. Doubtfire inspiration quote; Jim Murphy left Sierra for Pixar
 [^ref-4]: GamesNostalgia - Torin's Passage *(download link removed: the game is sold commercially)* – Plot summary with Lycentia and Boogle
 [^ref-5]: [Al Lowe's Website - Music Downloads](https://allowe.com/games/torin/music-downloads.html) – Legrand recorded demo songs in his studio for Lowe's feedback
 [^ref-7]: [ScummVM Wiki – Sierra Game Versions](https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – Interpreter versions: Torin's Passage on SCI21 2.100.002, Leisure Suit Larry 7 on SCI3
 [^ref-8]: [MobyGames - Credits](https://www.mobygames.com/game/1228/torins-passage/credits/dos/) – Designer/writer, producer, art, animation, voice and recording-studio credits
-[^ref-10]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Torin%27s_Passage) – Platform information
+[^ref-10]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Torin%27s_Passage) – Platform information; per-platform release dates (DOS, Windows 3.x and Windows October 31, 1995; Mac OS Classic 1995; Windows via GOG May 17, 2012)
 [^ref-11]: [Game Boomers Review](http://www.gameboomers.com/reviews/Tt/Torinsbysyd.htm) – Plot summary with royalty reveal; five chapters playable in any order
-[^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Torins-Passage/) – Michael Shapiro voices Torin and Boogle
+[^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Torins-Passage/) – Release date Oct 31, 1995; voice cast (16 voice actors, official credits); Mike Shapiro voices Torin and Boogle
 [^ref-13]: [Al Lowe's Website - Worlds of Strata](https://allowe.com/games/torin/the-worlds-of-strata.html) – Phenocryst and world structure
 [^ref-14]: [UHS Hints](https://www.uhs-hints.com/uhsweb/torin.php) – List of game worlds
 [^ref-15]: [Hardcore Gaming 101 (Wayback copy, January 2026; live site was under maintenance on 2026-11-01)](https://web.archive.org/web/20260101135619/http://www.hardcoregaming101.net/torins-passage/) – Lycentia character analysis; Boogle shapeshifting; "quite an excellent game"
-[^ref-21]: [GameSpot Review – Jeffrey Adam](https://www.gamespot.com/reviews/torins-passage-review/1900-2559962/) – Animation and background techniques, "harmonious", difficulty quote
+[^ref-21]: [GameSpot Review – Jeffrey Adam](https://www.gamespot.com/reviews/torins-passage-review/1900-2559962/) – Animation and background techniques, "harmonious", difficulty quote; "First Released Oct 31, 1995", platforms MAC, PC
 [^ref-22]: [PC Gamer Archive – Michael Wolf, April 1996](https://web.archive.org/web/20000308113833/http://www.pcgamer.com/reviews/1081.html) – 79% score, hint-button time limit, chapter structure, required specs
 [^ref-23]: [PC Magazine Archive](https://web.archive.org/web/20001215045100/http://www.zdnet.com/pcmag/issues/1505/pcm00091.htm) – Four-star rating, "marvelous, light-hearted game", hint scoring
 [^ref-24]: [Adventure Gamers Archive](https://web.archive.org/web/20041015004331/http://www.adventuregamers.com/article/id,221) – 2.5/5 score and quote; KQ7-style smart pointer, two inventories, phenocrysts, puzzle types
@@ -162,3 +206,5 @@ None listed (sold on GOG).
 [^ref-43]: [The Digital Antiquarian – Jimmy Maher, "Making Sierra Pay" (2021)](https://www.filfre.net/2021/08/making-sierra-pay/) – "another mediocre performer"
 [^ref-44]: [Verbosity – "Leisure Time with Al Lowe"](http://verbosity.wiw.org/issue7/allowe.html) – "designed for a parent to share with a child"; Megan, then 11
 [^ref-45]: [GameSpot – Torin's Passage review summary (Wayback, 2003)](https://web.archive.org/web/20030405122125/http://www.gamespot.com:80/pc/adventure/torinspassage/review.html) – GameSpot score 7.0; release date 10/31/1995
+[^ref-46]: [GOG Database – Torin's Passage](https://www.gogdb.org/product/1207659044) – Global release date 1995-10-31; GOG release date 2012-05-17
+[^ref-47]: [Sierra Wiki – Torin's Passage Technical](https://wiki.sierrahelp.com/index.php/Torin%27s_Passage_Technical) – Official patch "Update for Torin's Passage 12-20-95": fixes Error 47 "Not an object" and General Protection Fault when saving/restoring
