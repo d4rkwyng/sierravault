@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech Jupiter
 protagonist: John Jack
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Contract J.A.C.K. (where J.A.C.K. stands for "Just Another Contract Killer")
   is a 2003 first-person shooter developed by Monolith Productions and published by
   Sierra Entertainment, a prequel to No One Lives Forever 2.
@@ -18,7 +18,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # Contract J.A.C.K.
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -320,7 +320,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-15]: [Sierra Chest – Contract J.A.C.K. Easter Eggs](https://sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=eggs) – easter eggs and references
 [^ref-16]: [Neoseeker – Contract J.A.C.K. Cheats](https://www.neoseeker.com/nolf-contractjack/cheats/pc/) – cheat codes and activation method
 [^ref-17]: [NOLF Wiki – Contract J.A.C.K.](https://nolf.fandom.com/wiki/Contract_J.A.C.K.) – gameplay differences, location details, Man-Handler weapon
-[^ref-18]: [MobyGames – Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) – official description, Moby score (6.3 from 33 player ratings, read via the MobyGames API on 2026-10-29), censorship, trivia, awards, Special Edition
+[^ref-18]: [MobyGames – Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) – official description, Moby score (6.3 from 33 player ratings), censorship, trivia, awards, Special Edition
 [^ref-19]: [Cheatbook – Contract J.A.C.K. Walkthrough](https://www.cheatbook.de/wfiles/contractjack.htm) – gameplay description
 [^ref-21]: [IMFDB – Contract J.A.C.K.](https://www.imfdb.org/wiki/Contract_J.A.C.K.) – weapon identifications (Desert Eagle Mark XIX, Contender as "Bakalov Corrector"), anachronism notes
 [^ref-22]: [GameSpy – Contract J.A.C.K. Review](http://pc.gamespy.com/pc/contract-jack/6344p1.html) – "Average" rating, 15 missions over 7 chapters, asset recycling
@@ -349,4 +349,4 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-50]: [MobyGames – Contract J.A.C.K. Releases](https://www.mobygames.com/game/11245/contract-jack/releases/) – regional release dates, distributors, middleware
 [^ref-51]: [MobyGames – Contract J.A.C.K. Patches](https://www.mobygames.com/game/11245/contract-jack/patches/) – v1.1 patch date
 [^ref-52]: [Joystick (France) issue 154, December 2003 – Internet Archive](https://archive.org/details/joystick154) – review by Bishop, pp. 124–25: score boxes read Technique 6, Artistique 7, Intérêt 6; verdict quoted
-[^ref-53]: [Computer Gaming World issue 235, February 2004 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_235) – review by Robert Coffey, p. 79: two-of-five-star verdict (read from the page image) and quoted verdict line
+[^ref-53]: [Computer Gaming World issue 235, February 2004 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_235) – review by Robert Coffey, p. 79: two-of-five-star verdict and quoted verdict line
