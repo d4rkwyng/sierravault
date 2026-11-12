@@ -1,11 +1,11 @@
 ---
 title: "Where to Buy & Play"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Where to Buy & Play Sierra Classics
 
-<small style="color: gray">Last updated: November 11, 2026 (US prices checked October 16, 2026; Wet Dreams delisting checked October 26; GOG and Steam listing changes checked November 11)</small>
+<small style="color: gray">Last updated: November 12, 2026 (US prices checked November 12, 2026; Wet Dreams delisting checked October 26; GOG and Steam listing changes checked November 11)</small>
 
 Legal ways to acquire Sierra games, from digital storefronts to physical collecting. Availability shifts over time; use this as a starting point. For compatibility help, see the [[Compatibility Guide]].
 
@@ -17,15 +17,15 @@ Legal ways to acquire Sierra games, from digital storefronts to physical collect
 
 A strong option for classic Sierra adventures. GOG packages include extras such as manuals and hint books, many come pre-configured with ScummVM, and all purchases are DRM-free.[^ref-2][^ref-3][^ref-5]
 
-**Collections** (US prices as of 2026-10-16):
+**Collections** (US prices as of 2026-11-12):
 - [King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3), [4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6), and [7+8](https://www.gog.com/en/game/kings_quest_7_8) — $9.99 each; the 1+2+3 pack "includes the original King's Quest: Quest for the Crown," not the 1990 SCI remake[^ref-1]
 - [Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) and [4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) — $9.99 each; since February 20, 2026 the 1+2+3 pack also includes the 1991 VGA remake of Space Quest 1[^ref-2]
-- [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) — $9.99; *Greatest Hits and Misses*, "five complete adventures" (LSL1 in both EGA and VGA versions, 2, 3, 5 and 6 — there is no LSL4)[^ref-3][^ref-5]; [Leisure Suit Larry 7: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) is sold separately ($5.99)[^ref-6]; so is [Leisure Suit Larry: Magna Cum Laude: Uncut and Uncensored!](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) ($5.99, checked 2026-10-26)[^ref-28]
+- [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) — $9.99; *Greatest Hits and Misses*, "five complete adventures" (LSL1 in both EGA and VGA versions, 2, 3, 5 and 6 — there is no LSL4)[^ref-3][^ref-5]; [Leisure Suit Larry 7: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) is sold separately ($5.99)[^ref-6]; so is [Leisure Suit Larry: Magna Cum Laude: Uncut and Uncensored!](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) ($5.99, checked 2026-10-26)[^ref-28]; [Leisure Suit Larry: Reloaded](https://www.gog.com/en/game/leisure_suit_larry_reloaded) (Replay Games, 2013) is sold on GOG ($9.95) and was delisted from Steam on November 24, 2017[^ref-38][^ref-39]
 - [Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) — $9.99; "Includes both: VGA and original version of Quest for Glory 1"[^ref-4]
 - [Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) — $9.99; PQ1–4 with manuals, map, reference cards and avatar as extras[^ref-7]; since February 20, 2026 the games run on ScummVM instead of DOSBox with cloud saves, and Police Quest 3 has an optional EGA version through an updated DOSBox build on an optional branch[^ref-31]. [Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) is a separate pack[^ref-8]
 - Gabriel Knight — [Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers), [The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) and [Blood of the Sacred, Blood of the Damned](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) are sold separately ($5.99 each), plus the [20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) ($19.99)[^ref-9]. GOG's v2 update of October 29, 2026 gave *Sins of the Fathers* a Windows build running on ScummVM alongside the DOS version on DOSBox, with a launcher and cloud saves in both[^ref-32]
 
-**Individual Titles:** Phantasmagoria 1–2, Torin's Passage, Shivers, [The Colonel's Bequest](https://www.gog.com/en/game/the_colonels_bequest), [The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra), [Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot), [Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) and [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) ($5.99 each, checked 2026-10-26)[^ref-29], the Betrayal at Krondor Pack, Arcanum, Caesar 3, Pharaoh + Cleopatra, Zeus + Poseidon, the Red Baron Pack, SWAT 3, and more.[^ref-10] RAMA, The Incredible Machine and the Aces series are not currently sold on GOG.[^ref-10]
+**Individual Titles:** Phantasmagoria 1–2, Torin's Passage, Shivers, [The Colonel's Bequest](https://www.gog.com/en/game/the_colonels_bequest), [The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra), [Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot), [Conquests of the Longbow](https://www.gog.com/en/game/conquests_of_the_longbow) and [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) ($5.99 each, checked 2026-10-26)[^ref-29], [Lighthouse: The Dark Being](https://www.gog.com/en/game/lighthouse_the_dark_being) and [Emperor: Rise of the Middle Kingdom](https://www.gog.com/en/game/emperor_rise_of_the_middle_kingdom) ($5.99 each, checked 2026-11-12)[^ref-40], the Betrayal at Krondor Pack, Arcanum, Caesar 3, Pharaoh + Cleopatra, Zeus + Poseidon, the Red Baron Pack, SWAT 3, and more.[^ref-10] RAMA, The Incredible Machine and the Aces series are not currently sold on GOG.[^ref-10]
 
 **More GOG listings** (live store pages, checked 2026-11-11): [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], [[1991 - Heart of China|Heart of China]] and [[1996 - MissionForce - Cyberstorm|MissionForce: CyberStorm]], [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]], [[1990 - Codename - Iceman|Codename: Iceman]] and [[2001 - Empire Earth|Empire Earth: Gold Edition]].[^ref-33][^ref-34] GOG's listing credits Outpost 2 to "Sierra / Activision", while Wikipedia describes it as developed by Dynamix and released by Sierra.[^ref-35]
 
@@ -33,7 +33,7 @@ A strong option for classic Sierra adventures. GOG packages include extras such 
 
 Activision's Sierra catalog on Steam overlaps heavily with GOG's. One notable difference: the King's Quest I in Steam's King's Quest Collection is the 1990 SCI remake.[^ref-12]
 
-**Collections** (US prices as of 2026-10-16):
+**Collections** (US prices as of 2026-11-12):
 - [King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) — "Seven classic games in one collection" (KQ1–7), $19.99[^ref-11][^ref-12]
 - [Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) — SQ1–6, $19.99[^ref-11]
 - [Quest for Glory 1-5](https://store.steampowered.com/app/502750/Quest_for_Glory_15/) — all five games, including both versions of QFG1, $9.99[^ref-11]
@@ -71,7 +71,7 @@ New titles arrive in irregular batches rather than on a fixed monthly schedule.[
 - *Colossal Cave* (Cygnus Entertainment's 3D remake) — PC, Mac, Linux, Steam Deck, PlayStation 5, Nintendo Switch and Meta Quest 2 at launch (January 19, 2023), later SteamVR, Xbox One/Series X|S, PlayStation 4, PlayStation VR2, Pico VR and iOS[^ref-21]
 - *King's Quest (2015)* — released for Windows, PlayStation 3/4 and Xbox 360/One[^ref-23]; on Steam the base app is free, with further chapters sold as add-on content[^ref-11]
 
-*Leisure Suit Larry: Wet Dreams Dry Twice* was also released on iOS and Android;[^ref-27] Delisted Games marked both mobile versions as already delisted on October 23, 2026.[^ref-24]
+*Leisure Suit Larry: Wet Dreams Dry Twice* was also released on iOS and Android;[^ref-27] Delisted Games marked both mobile versions, and the Xbox Store listings of both Wet Dreams games, as already delisted on October 23, 2026.[^ref-24]
 
 **Legacy console editions:** Console releases such as *Leisure Suit Larry: Magna Cum Laude* and *Box Office Bust* are out of print. Check backward compatibility before buying used copies.
 
@@ -165,7 +165,7 @@ Some storefront titles are not sold in every country. Check storefront availabil
 [^ref-21]: [Colossal Cave – Official Press Fact Sheet (Wayback, December 2024)](https://web.archive.org/web/20241218130847/https://colossalcave3d.com/press/) – Release dates and platform list
 [^ref-22]: [SteamGifts – Humble Sierra the 3rd Bundle](https://www.steamgifts.com/discussion/yQysW/humble-bundle-humble-sierra-the-3rd-bundle) – "3 Tiers, 17 Items 05 May 2020 - 19 May 2020"; tier contents
 [^ref-23]: [Wikipedia – King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) – Platforms: Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One
-[^ref-24]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – update of October 23, 2026: "GOG has confirmed that the games will be leaving their storefront today as well at 5pm EST"; Android and iOS links struck through as already delisted
+[^ref-24]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – update of October 23, 2026: "GOG has confirmed that the games will be leaving their storefront today as well at 5pm EST"; Android, iOS and Xbox Store links struck through as already delisted
 [^ref-25]: [Time Extension – 'Get Them Now or Never' - Leisure Suit Larry's Last Releases To Be Delisted From Steam And GoG This Month](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) – Kris Moyse, October 9, 2026; both games "will be delisted later this month from Steam and GoG"
 [^ref-26]: [Steam – Wet Dreams Don't Dry (app 765870)](https://store.steampowered.com/app/765870/) and [Wet Dreams Dry Twice (app 1373430)](https://store.steampowered.com/app/1373430/) – checked October 26, 2026: "no longer available on the Steam store"
 [^ref-27]: [Steam – "Is That a Phone in your Pocket? Wet Dreams Dry Twice available on iOS & Android!"](https://store.steampowered.com/news/app/1373430/view/4237325463688992580) – Assemble Entertainment announcement of the iOS and Android release (title and gid confirmed via the Steam news API, 2026-10-26)
@@ -179,3 +179,16 @@ Some storefront titles are not sold in every country. Check storefront availabil
 [^ref-35]: [Wikipedia – Outpost 2: Divided Destiny](https://en.wikipedia.org/wiki/Outpost_2:_Divided_Destiny) – "a real-time strategy computer game developed by Dynamix, released in 1997 by Sierra Entertainment"
 [^ref-36]: [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) – app 254760; publisher Rebellion; release date May 26, 2026; $5.99 (Steam store data read 2026-11-11)
 [^ref-37]: [Steam – Hoyle Official Card Games](https://store.steampowered.com/app/397420/) – app 397420; developer Webfoot Games, publisher Viva Media; release date Nov 18, 2015 (Steam store data read 2026-11-11)
+[^ref-38]: [GOG – Leisure Suit Larry: Reloaded](https://www.gog.com/en/game/leisure_suit_larry_reloaded) – live store page; developer/publisher Replay Games, release date June 27, 2013; US base price $9.95 (GOG price API, checked 2026-11-12)
+[^ref-39]: [Delisted Games – Leisure Suit Larry: Reloaded](https://delistedgames.com/leisure-suit-larry-reloaded/) – "Leisure Suit Larry: Reloaded was delisted from Steam on November 24th, 2017"; "currently available to buy on GOG.com"
+[^ref-40]: GOG store pages for [Lighthouse: The Dark Being](https://www.gog.com/en/game/lighthouse_the_dark_being) and [Emperor: Rise of the Middle Kingdom](https://www.gog.com/en/game/emperor_rise_of_the_middle_kingdom) – both live, US base price $5.99 each (GOG price API, checked 2026-11-12)
+
+---
+
+## See Also
+
+- [[Playing Sierra Games Today]]
+- [[Collections Guide]]
+- [[Compatibility Guide]]
+- [[Fan Remake Projects]]
+- [[Fan Resources]]
