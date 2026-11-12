@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: Dynamix' Terrain and 3DSpace technologies
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '**Silent Thunder: A-10 Tank Killer II** is a flight simulation video
   game developed by Dynamix and published by Sierra On-Line in 1996 for Windows
   95 and Windows 3.1, the sequel to 1989''s A-10 Tank Killer.'
@@ -18,11 +18,11 @@ tags: [1990s, a-10-tank-killer, sierra, simulation]
 ---
 # Silent Thunder: A-10 Tank Killer II
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-**Silent Thunder: A-10 Tank Killer II** is a flight simulation video game developed by Dynamix and published by Sierra On-Line in 1996[^ref-1][^ref-2]. The Dynamix wiki and Wikidata give a release date of February 29, 1996, while Wikipedia says March 1996[^ref-1][^ref-34][^ref-14]. The game serves as the sequel to A-10 Tank Killer, which was released six years earlier[^ref-3]. Players take the role of an American A-10 Thunderbolt II aircraft pilot who fights in various campaigns across the world in order to keep peace[^ref-4].
+**Silent Thunder: A-10 Tank Killer II** is a flight simulation video game developed by Dynamix and published by Sierra On-Line in 1996[^ref-1][^ref-2]. The Dynamix wiki and Wikidata give a release date of February 29, 1996, while Wikipedia says March 1996[^ref-1][^ref-34][^ref-14], as does GameSpot's 1997 data panel ("03/96")[^ref-13]. The game serves as the sequel to A-10 Tank Killer, which was released six years earlier[^ref-3]. Players take the role of an American A-10 Thunderbolt II aircraft pilot who fights in various campaigns across the world in order to keep peace[^ref-4].
 
 The game simulates the Fairchild-Republic A-10A Thunderbolt II, a very powerful anti-tank aircraft developed for the US Air Force in the 1970s[^ref-2]. Designed to give the beginning gamer an introduction to flight simulation, Silent Thunder delivers intense gameplay and serious details while remaining accessible to newcomers[^ref-16].
 
@@ -36,7 +36,7 @@ GameSpot's Chris Hudak awarded the game an impressive 8.5/10, praising it as "a 
 > **Engine:** Dynamix Terrain and 3DSpace technologies[^ref-6][^ref-12]
 > **Platforms:** Windows 95, Windows 3.1[^ref-7]
 > **Release Year:** 1996
-> **Release Date:** February 29, 1996 (Dynamix Wiki, Wikidata); March 1996 (Wikipedia)[^ref-1][^ref-34][^ref-14]
+> **Release Date:** February 29, 1996 (Dynamix Wiki, Wikidata); March 1996 (Wikipedia; GameSpot 1997 data panel "03/96")[^ref-1][^ref-34][^ref-14][^ref-13]
 > **Series:** A-10 Tank Killer
 > **Protagonist:** A-10 Warthog Pilot
 > **Sierra Lineage:** Core Sierra
@@ -49,7 +49,7 @@ Silent Thunder: A-10 Tank Killer II places players in the cockpit of the A-10 Th
 
 ### Mission Structure
 
-The game has 24 missions, with friendly and enemy aircraft and ground vehicles[^ref-2][^ref-9]. GameSpot noted that "the challenging continuity of campaign games can be found here as well"[^ref-6]. InterAction quoted producer/director Frank Evers on campaign continuity: "you might be sent out on a mission to blow up a bridge as your primary target. If you blow up the bridge, on your next mission you will see that the bridge is still blown up"[^ref-31].
+The game has 24 missions, split into three campaigns[^ref-28], with friendly and enemy aircraft and ground vehicles[^ref-2][^ref-9]. GameSpot noted that "the challenging continuity of campaign games can be found here as well"[^ref-6]. InterAction quoted producer/director Frank Evers on campaign continuity: "you might be sent out on a mission to blow up a bridge as your primary target. If you blow up the bridge, on your next mission you will see that the bridge is still blown up"[^ref-31].
 
 ## Gameplay
 
@@ -89,13 +89,15 @@ A significant gameplay enhancement in version 1.01 allows players to drop weapon
 |-------------|-------|-------|
 | GameSpot | 8.5/10 | Chris Hudak praised the terrain graphics and the realism without sim minutiae[^ref-6][^ref-14] |
 | Computer Gaming World | 2/5 | Scott A. May's critical review[^ref-1] |
-| Computer Games Magazine | 4/5 | Rod White's positive assessment[^ref-1] |
 | Computer Game Review (May 1996) | 87/100 | Frank Snyder: "plays more like an arcade, air-combat game than a dedicated flight simulator"[^ref-27] |
-| PC Games (June 1996) | — | Anthony Lukban: "a solid action game with exciting visuals, awesome effects, and a rockin' soundtrack"[^ref-28] |
+| PC Games (June 1996) | B+ overall (Game Play B+, Getting Started A, Graphics A, Sound Check B+) | Anthony Lukban: "a solid action game with exciting visuals, awesome effects, and a rockin' soundtrack"[^ref-28] |
 | Computer Player (June 1996) | — | Bernard Dy: designed "to be an action-based simulator—not a purist sim game"[^ref-29] |
 | Computer Games Strategy Plus (June 1996) | — | Short Enhanced Review: "an excellent update to the classic original game"[^ref-30] |
+| PC Gamer | 70% | Score as listed by MobyGames[^ref-15] |
 | MobyGames | 72% | Critic average of 13 ratings[^ref-15] |
 | ESRB | K-A (Kids to Adults) | Original content rating (Animated Violence)[^ref-7] |
+
+Computer Games Magazine's Rod White later gave the game 4/5 in a review dated January 13, 1999[^ref-1].
 
 Most 1996 print reviews described the game as an action title rather than a purist flight simulation. Where they differed was on whether that counts as a fault[^ref-6][^ref-26][^ref-27][^ref-28][^ref-29][^ref-30].
 
@@ -164,7 +166,7 @@ The game shipped for both Windows 95 and Windows 3.1[^ref-7]; the jewel-case ins
 
 | Version | Date | Notes |
 |---------|------|-------|
-| 1.0 | February 29, 1996 (Dynamix Wiki, Wikidata); March 1996 (Wikipedia) | Initial release[^ref-1][^ref-34][^ref-14] |
+| 1.0 | February 29, 1996 (Dynamix Wiki, Wikidata); March 1996 (Wikipedia; GameSpot 1997 data panel "03/96") | Initial release[^ref-1][^ref-34][^ref-14][^ref-13] |
 | 1.01 | 1996 | Enhanced DirectSound and DirectDraw support[^ref-10] |
 
 The 1.01 patch addressed several issues:
@@ -185,7 +187,7 @@ GameSpot's review said Silent Thunder "has one of the shortest, meanest cinemati
 
 ### A-10 Simulation Genre
 
-Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game in the series[^ref-3]. Its working title was *Silent Thunder: A-10 Revenge*[^ref-25].
+Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game in the series[^ref-3]. Its working title was *Silent Thunder: A-10 Revenge*[^ref-25]. Combined sales of A-10 Tank Killer and its sequel surpassed 250,000 units by the end of March 1996[^ref-35].
 
 ## Technical Specifications
 
@@ -196,7 +198,7 @@ Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game i
 | Resolution | 640×480 @ 256 colors[^ref-7] |
 | Sound API | DirectSound[^ref-10], Redbook Audio[^ref-6][^ref-9] |
 | Input Support | Keyboard, Mouse, Analog joystick[^ref-7] |
-| Missions | 24[^ref-2] |
+| Missions | 24[^ref-28] |
 | Weapons | 10 (MobyGames[^ref-2]); 14 (InterAction, Spring 1996[^ref-31]) |
 | ESRB Rating | K-A (Kids to Adults), Animated Violence[^ref-7] |
 | 3D Accelerator | Rendition Vérité (bundle version only)[^ref-21] |
@@ -222,6 +224,8 @@ Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game i
 
 - [[1989 - A-10 Tank Killer]] - Original in the series
 
+- [[Dynamix Catalog]]
+
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Silent_Thunder:_A-10_Tank_Killer_II) – Development credits, team information and release date (February 29, 1996)
@@ -235,7 +239,7 @@ Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game i
 [^ref-10]: [Internet Archive Patch](https://archive.org/details/SILENT_201604) – Version 1.01 patch notes and improvements
 [^ref-11]: [GamePressure](https://www.gamepressure.com/games/silent-thunder-a-10-tank-killer-ii/zd15c4) – User score
 [^ref-12]: [Neoseeker](https://www.neoseeker.com/silent-thunder-a10-tank-killer-ii/) – Engine and technology information
-[^ref-13]: [Web Archive GameSpot](https://web.archive.org/web/19970605052718/http://www.gamespot.com/simulation/silentth/index.html) – Target audience assessment
+[^ref-13]: [Web Archive GameSpot](https://web.archive.org/web/19970605052718/http://www.gamespot.com/simulation/silentth/index.html) – Target audience assessment; data panel lists the release as 03/96
 [^ref-14]: [Wikipedia](https://en.wikipedia.org/wiki/Silent_Thunder:_A-10_Tank_Killer_II) – Review score compilation; release listed as March 1996
 [^ref-15]: [MobyGames Reviews](https://www.mobygames.com/game/632/silent-thunder-a-10-tank-killer-ii/reviews/) – Critic average 72% (13 ratings); player average 4.1/5
 [^ref-16]: [eBay](https://www.ebay.com/itm/265648127555) – Box description (beginner pitch, campaigns, weapons)
@@ -256,3 +260,4 @@ Silent Thunder followed Dynamix's *A-10 Tank Killer* (1989) as the second game i
 [^ref-32]: [Silent Thunder Jewel Case Booklet](https://archive.org/details/silent-thunder-a-10-tank-killer-2-jewel-case-booklet) – Installation guide: Windows 95 and Windows 3.1 setup, On-Line Manual
 [^ref-33]: [Silent Thunder Quick Reference Card](https://archive.org/details/silent-thunder-a-10-tank-killer-ii-quick-reference-card) – Controls and weapon key reference
 [^ref-34]: [Wikidata Q7514699](https://www.wikidata.org/wiki/Q7514699) – Publication date 29 February 1996 (imported from Wikimedia project; stated in the Internet Game Database)
+[^ref-35]: [Sierra On-Line Form 10-K, FY ending March 31, 1996 (Wayback Machine)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – primary source for combined A-10 series sales over 250,000
