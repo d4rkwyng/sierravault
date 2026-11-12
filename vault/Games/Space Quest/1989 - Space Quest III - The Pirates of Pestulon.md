@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI0
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest III: The Pirates of Pestulon is a 1989 graphic adventure
   game developed and published by Sierra On-Line, the first Space Quest game built
   on the SCI engine.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest III: The Pirates of Pestulon
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Space Quest III: The Pirates of Pestulon is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 24, 1989 for MS-DOS, with the Atari ST port coming out in April, the Amiga version in October, and the Macintosh version in 1991[^ref-2][^ref-5].
@@ -61,7 +61,7 @@ Space Quest III was developed using an early version of Sierra's SCI engine[^ref
 
 ### Structure and Progression
 - The game takes place across multiple locations including the garbage freighter, the desert planet Phleebhut, the orbital Monolith Burger station, the volcanic planet Ortega, and ScumSoft headquarters on Pestulon[^ref-1][^ref-38]
-- The highest possible score is 738 points[^ref-44]
+- The highest possible score is 738 points[^ref-44]; Dragon's 1989 review counted 728 possible points[^ref-36]
 - The game includes various science fiction allusions, including wrecks of a TIE fighter, an ACME Rocket, and the Jupiter 2 spacecraft visible in the garbage freighter[^ref-1]
 - Pestulon, the moss-covered moon where ScumSoft is headquartered, is probably a pun on Star Wars' jungle moon Yavin IV, which sat behind an uninhabitable gas giant[^ref-20]
 - The USS Enterprise warps away from Monolith Burger as Roger arrives, a Star Trek reference[^ref-24]
@@ -215,7 +215,7 @@ This game has been included in the following collections:
 - [TVTropes – Space Quest III](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIIThePiratesOfPestulon) – tropes, parodies, gameplay analysis[^ref-26]
 - [GameFAQs – Space Quest III](https://gamefaqs.gamespot.com/pc/565076-space-quest-iii-the-pirates-of-pestulon) – guides, FAQs, user ratings[^ref-27]
 - [Virtual Broomcloset – Two Guys SQ3 Interview](https://wiw.org/~jess/2guys_sq3.html) – Spring 1989 Sierra Newsletter interview[^ref-28]
-- [StrategyWiki – SQ3 Appendices](https://strategywiki.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon/Appendices) – easter eggs, minigames[^ref-29]
+- [StrategyWiki – SQ3 Minigames](https://strategywiki.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon/Minigames) – Astro Chicken, Dukem Nukem Robots, Space Battle[^ref-29]
 
 ## See Also
 
@@ -249,7 +249,7 @@ This game has been included in the following collections:
 [^ref-26]: [TVTropes – Space Quest III](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestIIIThePiratesOfPestulon) – tropes, fourth wall breaks, continuity errors, gameplay mechanics
 [^ref-27]: [GameFAQs – Space Quest III](https://gamefaqs.gamespot.com/pc/565076-space-quest-iii-the-pirates-of-pestulon) – user ratings, guides
 [^ref-28]: [Virtual Broomcloset – Two Guys SQ3 Interview](https://wiw.org/~jess/2guys_sq3.html) – a little over a year of development, SCI learning curve, Bob Siebenberg film scoring approach, Mark Seibert sound effects
-[^ref-29]: [StrategyWiki – Space Quest III Appendices](https://strategywiki.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon/Appendices) – postcard easter egg, minigames
+[^ref-29]: [StrategyWiki – Space Quest III Minigames](https://strategywiki.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon/Minigames) – Astro Chicken, Dukem Nukem Robots, Space Battle
 [^ref-30]: [Computer Gaming World – August 1989 (Issue 62)](https://archive.org/details/Computer_Gaming_World_Issue_62) – Chris Lombardi review, pp. 36-37, PRICE: $59.95: "marked improvement over predecessors", "EGA graphics...some of the best from Sierra to date", parser improvements
 [^ref-31]: [Computer Gaming World – October 1989 (Issue 64)](https://archive.org/details/Computer_Gaming_World_Issue_64) – 1989 Awards issue: "Special Award for Achievement in Sound" (first time CGW gave this award for sound), Bob Siebenberg score "perfectly captures the silly, tongue-in-cheek nature"
 [^ref-32]: [Compute! – November 1989 (Issue 114)](https://archive.org/details/1989-11-compute-magazine) – "best-looking game in the series", "sounds as good as it looks, thanks to a 30-minute musical score"
