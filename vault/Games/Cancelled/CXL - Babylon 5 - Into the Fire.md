@@ -2,7 +2,7 @@
 title: 'Babylon 5: Into the Fire'
 release_year: 1999
 developer: Yosemite Entertainment
-designer: [Randy Littlejohn]
+designer: [Randy Littlejohn, Dan Foy]
 publisher: Sierra Entertainment
 genre: Space Combat
 platforms: [Windows]
@@ -10,15 +10,16 @@ series: Babylon 5
 engine: Proprietary (patent-pending inertial flight mode)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 composer: [Christopher Franke, Victor Crews]
-description: 'Babylon 5: Into the Fire was an ambitious space combat simulator developed
-  by Yosemite Entertainment and published by Sierra Entertainment, based on the...'
+description: 'Babylon 5: Into the Fire was a space combat simulator developed by Yosemite
+  Entertainment and published by Sierra Entertainment, based on the Babylon 5 television
+  series. Sierra cancelled it in September 1999, when it was about 65% complete.'
 tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -26,11 +27,11 @@ Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yo
 
 Development began in 1998 with the goal of creating what Sierra described as a "self-evolving universe" that would allow players to experience the major conflicts of the Babylon 5 timeline[^ref-3]. The game utilized ships based on the television show's original digital models, created in Lightwave 3D but optimized with lower polygon counts for real-time gameplay[^ref-1]. Sierra cited figures of up to 1,000 simultaneous ships in some battles[^ref-1], with over 60 unique ship models from Earth Alliance and alien factions[^ref-3][^ref-5].
 
-Tragically, despite being approximately 65% complete[^ref-1][^ref-16], with live-action footage already filmed with the primary cast[^ref-2][^ref-4], the game was cancelled on September 21, 1999[^ref-2][^ref-18], as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105, matching Sierra's announcement as quoted on Usenet)[^ref-16][^ref-17][^ref-24]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A beta build dated September 1999 surfaced online in 2014, fifteen years after the cancellation[^ref-1].
+Tragically, despite being approximately 65% complete[^ref-1][^ref-16], with live-action footage already filmed with the primary cast[^ref-2][^ref-4], the game was cancelled on September 21, 1999[^ref-2][^ref-18] (MobyGames gives the date as 20 September 1999[^ref-25]), as part of Sierra's corporate reorganization—one of four titles IGN reported Sierra dropping as it laid off more than 100 people (Wired put the figure at 105, matching Sierra's announcement as quoted on Usenet)[^ref-16][^ref-17][^ref-24]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A beta build dated September 1999 surfaced online in 2014, fifteen years after the cancellation[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]
-> **Designer:** Randy Littlejohn[^ref-2]
+> **Designer:** Randy Littlejohn[^ref-2]; Dan Foy (credited as principal designer by Abandonware France)[^ref-1]
 > **Writers:** Randy Littlejohn, [[Christy Marx]][^ref-2]
 > **Lead Programmer:** Dan Foy[^ref-16]
 > **Publisher:** Sierra Entertainment[^ref-1]
@@ -90,12 +91,16 @@ The project originated from a partnership between Sierra and Warner Bros. announ
 
 Development began in earnest in 1998, with the team utilizing the same 3D models created for the television series' special effects, albeit with reduced polygon counts for real-time gameplay[^ref-1]. Series creator J. Michael Straczynski had input on all game elements, ensuring authenticity to the Babylon 5 universe[^ref-1]. The game's 100-page script was written by Randy Littlejohn and [[Christy Marx]], who had written the first-season episode "Grail" of the television series[^ref-1][^ref-2].
 
+Sources disagree on who held the lead design role. The Babylon 5 Fandom wiki lists Randy Littlejohn as Designer[^ref-2]. Abandonware France says "Le concepteur principal d'Into the Fire était Dan Foy" (the principal designer of Into the Fire was Dan Foy), a longtime Sierra programmer and one of the authors of the SCI engine, "assisted" by Randy Littlejohn and Christy Marx, "qui se chargeaient des scripts intermédiaires" (who handled the intermediate scripts)[^ref-1]. Wired, for its part, describes Foy as the game's lead programmer[^ref-16].
+
+Jimmy Maher of The Digital Antiquarian says the game was "[c]reated with heavy input from Christy Marx" and that it "got to within a few months of completion, got as far as having the box art prepared" before its cancellation in late 1999[^ref-9]. He quotes its pitch as promising "a brilliant modular refit job on nearly five hours of [television composer] Christopher Franke's music"[^ref-9].
+
 In February 1999, the development team was relocated to Bellevue, Washington as part of broader changes at Sierra[^ref-1][^ref-3]. The FMV (full-motion video) sequences were directed by Janet Greek, featuring a week-long shoot on the standing Babylon 5 sets followed by a three-day blue screen shoot[^ref-2]. Optic Nerve Studios provided the alien makeup effects for the live-action sequences[^ref-2].
 
 By E3 1999, a playable demo was shown that demonstrated the game's potential[^ref-1]. After the cancellation, Wired reported that lead programmer Dan Foy described the game as 65 percent complete, with the engine "pretty much done" but artificial intelligence and some missions still needing work[^ref-16].
 
-**Development Credits:**[^ref-2][^ref-16]
-- **Designer:** Randy Littlejohn
+**Development Credits:**[^ref-1][^ref-2][^ref-16]
+- **Designer:** Randy Littlejohn (Fandom wiki); Dan Foy (principal designer per Abandonware France)
 - **Lead Programmer:** Dan Foy
 - **Writers:** Randy Littlejohn, [[Christy Marx]]
 - **Composer:** Christopher Franke, Victor Crews
@@ -166,7 +171,7 @@ Four series leads—Bruce Boxleitner, Jerry Doyle, Mira Furlan and Tracy Scoggin
 
 ### Sales and Commercial Impact
 
-Into the Fire never reached commercial release, representing a significant financial loss for Sierra. Following the cancellation, four unnamed publishers reportedly showed interest in acquiring the project[^ref-1][^ref-16], and negotiations occurred with Codemasters, but nothing materialized[^ref-1]. Giant Bomb's wiki adds that a few of the developers set up their own company, Sector 14 Studios, and almost put together a deal to rework the game as an Xbox launch title[^ref-15]. Sector 14's CEO, Richard Brewer, thanked Mike Abrash for helping the studio "get in touch with the X-box team at Microsoft"[^ref-19]. On October 5, 2000, a Wing Commander fan forum reprinted Brewer's message to FirstOnes.com announcing that the effort to finish the game had failed: "It is not due to problems with Sector 14 Studios, nor is it due to lack of interest by publishers, or lack of funding, but rather the current holder of the materials recently informed us they were no longer interested in selling the game assets. Appeals to the highest levels of management at Havas in France were not able to change their stance"[^ref-19]. GameSpot's report of the announcement says the same, naming Sierra as the party no longer interested in selling the assets[^ref-20]. Giant Bomb adds that Sierra's owner Havas was at first unwilling to sell the rights and that a fan campaign came too late for the Xbox launch[^ref-15]; Brewer's statement does not mention a change of heart and says Havas did not change its stance, so this Giant Bomb clause is unconfirmed by Sector 14's own account. A 2014 forum post claims, unverified, that Sierra cancelled the game to move funds to a WWF tie-in game[^ref-6].
+Into the Fire never reached commercial release, representing a significant financial loss for Sierra. Following the cancellation, Abandonware France says four unnamed publishers came forward to take over the project[^ref-1]. Wired quoted Dave Williamson, Sierra's senior vice president of business development: "There are four companies who have shown interest in purchasing B5. We are now in discussions with all of them"[^ref-16]. Negotiations occurred with Codemasters, but nothing materialized[^ref-1]. Giant Bomb's wiki adds that a few of the developers set up their own company, Sector 14 Studios, and almost put together a deal to rework the game as an Xbox launch title[^ref-15]. Sector 14's CEO, Richard Brewer, thanked Mike Abrash for helping the studio "get in touch with the X-box team at Microsoft"[^ref-19]. On October 5, 2000, a Wing Commander fan forum reprinted Brewer's message to FirstOnes.com announcing that the effort to finish the game had failed: "It is not due to problems with Sector 14 Studios, nor is it due to lack of interest by publishers, or lack of funding, but rather the current holder of the materials recently informed us they were no longer interested in selling the game assets. Appeals to the highest levels of management at Havas in France were not able to change their stance"[^ref-19]. GameSpot's report of the announcement says the same, naming Sierra as the party no longer interested in selling the assets[^ref-20]. Giant Bomb adds that Sierra's owner Havas was at first unwilling to sell the rights and that a fan campaign came too late for the Xbox launch[^ref-15]; Brewer's statement does not mention a change of heart and says Havas did not change its stance, so this Giant Bomb clause is unconfirmed by Sector 14's own account. A 2014 forum post claims, unverified, that Sierra cancelled the game to move funds to a WWF tie-in game[^ref-6].
 
 ### Collections
 
@@ -225,3 +230,4 @@ Into the Fire was never released or sold. An unfinished alpha leaked online in 2
 [^ref-22]: [LinuxLinks – Babylon 5: I've Found Her (14 Dec 2017)](https://www.linuxlinks.com/babylon5ivefoundher/) – freeware space combat simulator by Space Dream Factory
 [^ref-23]: [IndieDB – Space Dream Factory](https://www.indiedb.com/company/space-dream-factory) – "Danger & Opportunity" listed as released 2003; the team later fell apart
 [^ref-24]: [alt.babylon5.uk – "B5 game DEAD!" (22 Sep 1999)](https://groups.google.com/g/alt.babylon5.uk/c/2atrocFoKUU) – Usenet quote of Sierra's announcement: Babylon 5 among cancelled titles, loss of 105 jobs
+[^ref-25]: [MobyGames – Babylon 5: Into the Fire](https://www.mobygames.com/game/263647/babylon-5-into-the-fire/) – game description states it "was cancelled on 20 September 1999" (read via the MobyGames API)
