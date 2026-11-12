@@ -10,7 +10,7 @@ series: Ground Control
 engine: Direct3D 7
 protagonist: Major Sarah Parker / Deacon Jarrod Stone
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Ola Strandh]
 description: Ground Control is a real-time tactics game developed by Swedish studio
   Massive Entertainment and published by Sierra Studios in 2000, set on the planet
@@ -19,13 +19,13 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Ground Control is a groundbreaking real-time tactics game developed by Swedish studio Massive Entertainment and published by Sierra Studios in 2000.[^ref-1] Set in the year 2419,[^ref-10] the game focuses on a conflict between two factions—the Crayven Corporation and the Order of the New Dawn—vying for control of a distant planet called Krig-7B and a series of mysterious alien artifacts.[^ref-2] The game was notable for completely eliminating traditional RTS mechanics such as base building and resource gathering, instead focusing entirely on tactical combat.[^ref-3]
+Ground Control is a real-time tactics game developed by Swedish studio Massive Entertainment and published by Sierra Studios in 2000.[^ref-1] Set in the year 2419,[^ref-10] the game focuses on a conflict between two factions—the Crayven Corporation and the Order of the New Dawn—vying for control of a distant planet called Krig-7B and a series of mysterious alien artifacts.[^ref-2] The game was notable for completely eliminating traditional RTS mechanics such as base building and resource gathering, instead focusing entirely on tactical combat.[^ref-3]
 
-Ground Control represented a significant departure from the conventions of the real-time strategy genre: players win with the units they have available and the tactics they use, rather than by tank-rushing with an economy behind them.[^ref-2] The game was the debut title for Massive Entertainment, developed by a team of complete newcomers to the industry in Ronneby, Sweden.[^ref-5][^ref-6] Ola Strandh, who has been at Massive since the Ground Control days, calls it "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6]
+Ground Control represented a significant departure from the conventions of the real-time strategy genre: players win with the units they have available and the tactics they use, rather than by tank-rushing with an economy behind them.[^ref-2] The game was the debut title for Massive Entertainment, developed by a team of complete newcomers to the industry in Ronneby, Sweden.[^ref-5][^ref-6] Ola Strandh, who has been at Massive since the Ground Control days, calls it "one of the first games, if not the first, to take advantage of full 3D rendering for strategic gameplay."[^ref-6] Massive's own retrospective calls the result "a groundbreaking (no pun intended) game, mixing state of the art graphics with intense, action filled gameplay."[^ref-6]
 
 The game received widespread critical acclaim upon release, earning a Metacritic score of 86/100[^ref-24] and being described as "simply one of the most beautiful games you are likely to see this year."[^ref-7] Ground Control was followed by an expansion pack, Dark Conspiracy,[^ref-41] and a sequel, Ground Control II: Operation Exodus.[^ref-45][^ref-8]
 
@@ -83,14 +83,14 @@ Ground Control received overwhelmingly positive reviews upon release. GameSpot a
 
 Eurogamer awarded an impressive 9/10, declaring the game "a marvellous game" that "sparkles with polish, detail and originality."[^ref-22] GameSpy gave 90/100 and stated: "If you are a fan of action, strategy, RTS, or just like to see beautiful battles rendered in 3D, this one's for you."[^ref-23] PC Gameworld awarded 93/100 with the memorable proclamation that it was "the best thing to come out of Sweden since meatballs and tall, big busted, long legged blondes wearing high heels."[^ref-23]
 
-Gaming Age awarded 91/100, calling it "currently the best real-time strategy title I have played since 'Homeworld.'"[^ref-23] FiringSquad gave 90/100, stating "as far as 3-D RTS games go, this is the best one we have ever played. With very few flaws this game pleases in almost every aspect."[^ref-23] Computer Games Magazine praised it as "an outstanding game, both for its graphics and its gameplay, but it is not for everyone."[^ref-24]
+Gaming Age awarded 91/100, calling it "currently the best real-time strategy title I have played since 'Homeworld.'"[^ref-23] FiringSquad gave 90/100, stating "as far as 3-D RTS games go, this is the best one we have ever played. With very few flaws this game pleases in almost every aspect."[^ref-23] Computer Games Strategy Plus gave it 4.5 out of 5 (reviewer Nick McElveen, 7 July 2000), calling it "an outstanding game, both for its graphics and its gameplay, but it is not for everyone," while noting that "there is no in-mission save, no speed control, no skirmish mode, and the AI is hit or miss."[^ref-51][^ref-24] CNET Gamecenter's Bill McClendon (15 June 2000) summed it up as "Easily the best, most accessible 3D real-time strategy game to date," listing "Occasional pathfinding problems; some scenarios are frustrating" among the drawbacks.[^ref-52]
 
 ### Modern Assessment
 
-Ground Control has maintained its strong reputation in the years since release. The game was nominated for Computer Games Magazine's 2000 "Real-time Strategy Game of the Year"[^ref-1] and was also a BAFTA Games Award nominee in the Games - PC category for 2000.[^ref-25]
+The game was nominated for Computer Games Magazine's 2000 "Real-time Strategy Game of the Year"[^ref-1] and was also a BAFTA Games Award nominee in the Games - PC category for 2000.[^ref-25]
 
 **Aggregate Scores:**
-- **Metacritic:** 86/100 (26 reviews)[^ref-1]
+- **Metacritic:** 86/100 (26 reviews)[^ref-24]
 - **MobyGames:** 85% (Critics)[^ref-27]
 - **IMDB:** 6.9/10 (38 votes, checked October 29, 2026)[^ref-28]
 - **GOG.com:** 4.4/5[^ref-29]
@@ -100,7 +100,7 @@ Ground Control has maintained its strong reputation in the years since release. 
 
 ### Origins
 
-Massive Entertainment was founded in 1997[^ref-5][^ref-49] by a team of young developers with no prior professional game development experience.[^ref-6] When Sierra Studios signed Ground Control in 1999, the studio was located in Ronneby, Sweden.[^ref-5] The studio's CEO, Martin Walfisz, set out to create something new in the RTS genre. "We changed that formula for Ground Control and wanted to focus more on the tactics of the battles, instead of the resource gathering and strategizing," Walfisz explained.[^ref-6]
+Massive Entertainment was founded in 1997[^ref-5][^ref-49] by Martin Walfisz,[^ref-6] who has said he started the company with Christian Pérez, whom he met after finishing his software engineering studies in 1996.[^ref-16] The small team behind Ground Control was made up of complete newcomers to the games industry, in their early 20s.[^ref-6] When Sierra Studios signed Ground Control in 1999, the studio was located in Ronneby, Sweden.[^ref-5] The studio's CEO, Martin Walfisz, set out to create something new in the RTS genre. "We changed that formula for Ground Control and wanted to focus more on the tactics of the battles, instead of the resource gathering and strategizing," Walfisz explained.[^ref-6]
 
 The game was originally developed under the working title "Genesis."[^ref-16] Walfisz was an avid player of Warcraft II and Command & Conquer at the time, and his vision was to make classic strategy game features work in a 3D environment.[^ref-16] The team then shifted the focus to the tactics of the battles instead of resource gathering.[^ref-6] Sierra Studios signed on to publish the game, recognizing its potential to stand out in an increasingly crowded RTS market.[^ref-5]
 
@@ -114,6 +114,8 @@ The development goal was straightforward, according to Walfisz: "Our goal with G
 - **Directors:** Martin Walfisz, Mats Grahm[^ref-1]
 - **Designers:** Henrik Sebring, Martin Walfisz[^ref-1]
 - **Writers:** Henrik Sebring, Arinn Dembo, Martin Walfisz[^ref-1]
+- **Lead Software Engineer:** Dan Andersson[^ref-27]
+- **Art Director:** Tobias Strömvall[^ref-27]
 - **Composer:** Ola Strandh[^ref-1]
 - **Sound Design:** Ola Strandh[^ref-13]
 - **Producer:** Jeff Pobst[^ref-1]
@@ -135,7 +137,8 @@ The graphics were so impressive that CNN/IDG declared Ground Control "simply one
 - **Recommended RAM:** 64 MB
 - **Graphics:** 3D graphics card compatible with DirectX 7
 - **Storage:** 250 MB minimum, 450 MB recommended
-- **OS:** Windows 95/98[^ref-11]
+- **OS:** Windows 98/ME minimum, Windows 2000/XP recommended (PCGamingWiki);[^ref-9] the Amazon retail listing for the original release names Windows 95, 98 and Me[^ref-11]
+- **Video Memory:** 4 MB[^ref-9]
 
 **Graphics Features:**[^ref-22]
 - **Resolution:** 640x480, 800x600 and 1024x768 by default[^ref-9]
@@ -189,9 +192,13 @@ Voice direction by Jeff Pobst.[^ref-12]
 
 ### Sales and Commercial Impact
 
-Ground Control was a commercial disappointment. In 2003, writer Mark H. Walker reported that the game "didn't sell", placing its sales at "a few tens of thousands of copies".[^ref-1] Walfisz later recalled that despite the reviews, "it hadn't made the kind of money we needed to sustain the company long term."[^ref-16] It still received an expansion pack, and Massive went on to make World in Conflict.
+Ground Control was a commercial disappointment. In 2003, writer Mark H. Walker reported that the game "didn't sell", placing its sales at "a few tens of thousands of copies".[^ref-1] Walfisz later recalled that despite the reviews, "it hadn't made the kind of money we needed to sustain the company long term."[^ref-16] It still received an expansion pack,[^ref-53] and Massive went on to make World in Conflict.[^ref-49]
 
-Ground Control was made available as a free download in June 2004 by Vivendi Universal to promote the release of Ground Control II: Operation Exodus.[^ref-27] This promotional strategy introduced the game to a new generation of players and contributed to its lasting cult status.
+Ground Control was made available as a free download in June 2004 by Vivendi Universal to promote the release of Ground Control II: Operation Exodus.[^ref-27]
+
+### Releases and Availability
+
+GOG.com re-released the game as Ground Control Anthology in 2009, and Rebellion re-released it on Steam in 2015.[^ref-1] As of November 11, 2026, Steam lists Rebellion as the publisher at $4.99,[^ref-10] and GOG sells the DRM-free Windows version at $5.99.[^ref-29]
 
 ### Collections
 
@@ -204,7 +211,7 @@ The game was released in several compilation formats:
 
 **Ground Control: Dark Conspiracy (December 2000)**[^ref-41]
 
-Developed by High Voltage Software[^ref-41] on Massive Entertainment's engine,[^ref-35] this expansion pack continued the story of Major Sarah Parker.[^ref-42] After defeating both the Crayven Corporation and Order of the New Dawn forces on Krig-7B, Parker must enlist a group of mercenaries—the Phoenix Mercenaries—to help her escape the deserted planet.[^ref-42] The expansion included 15 new missions across 3 planets[^ref-41] and introduced the third playable faction.[^ref-42]
+Sierra's announcement, as reported by GameSpot, named the developers as High Voltage Software and Massive Entertainment;[^ref-53] GameFAQs lists High Voltage Software alone,[^ref-41] and the expansion runs on Massive's engine.[^ref-35] This expansion pack continued the story of Major Sarah Parker.[^ref-42] After defeating both the Crayven Corporation and Order of the New Dawn forces on Krig-7B, Parker must enlist a group of mercenaries—the Phoenix Mercenaries—to help her escape the deserted planet.[^ref-42] The expansion included 15 new missions across 3 planets[^ref-41] and introduced the third playable faction.[^ref-42]
 
 The expansion was released at an unusually low price point, with Sierra offering it to owners of the original for about five dollars; GameZone wrote that "Sierra is basically giving it away free."[^ref-43] IGN noted: "If you own the original Ground Control, and you don't send the five bucks in to get this game, you're seriously in danger of your children falling backwards on the evolutionary ladder."[^ref-43]
 
@@ -228,9 +235,9 @@ The modding community has created several notable projects for Ground Control:[^
 
 ### Critical Perspective
 
-Ground Control occupies a significant position in the history of real-time strategy games. By stripping away the resource and economic management found in real-time strategy games, it is classed as a real-time tactics game rather than an RTS.[^ref-2] The game showed that tactical depth could carry an entire experience without the traditional RTS framework.
+By stripping away the resource and economic management found in real-time strategy games, Ground Control is classed as a real-time tactics game rather than an RTS.[^ref-2]
 
-The game's influence on Massive Entertainment's subsequent development cannot be understated. The studio went on to create World in Conflict, joined Ubisoft in 2008, and later took the lead on Tom Clancy's The Division.[^ref-49] As Walfisz reflected: "We were, in that sense at least, ahead of our time. We focused more on action, and less on strategic, long-term aspects of RTS games."[^ref-16]
+Massive Entertainment went on to create World in Conflict, joined Ubisoft in 2008, and later took the lead on Tom Clancy's The Division.[^ref-49] As Walfisz reflected: "We were, in that sense at least, ahead of our time. We focused more on action, and less on strategic, long-term aspects of RTS games."[^ref-16]
 
 In 2009, Rebellion acquired the Ground Control intellectual property from Vivendi following the Activision merger.[^ref-50] CEO Jason Kingsley stated: "We have complete ownership of the IP from the past and going forwards, so yes we're putting our plans together for new titles in each series."[^ref-50] However, no new Ground Control titles have been announced as of this writing.
 
@@ -292,3 +299,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-48]: [Sierra Chest – Dark Conspiracy Manual](https://sierrachest.com/gfx/games/GC_DC/box/DarkConspiracyManual.pdf) – expansion documentation
 [^ref-49]: [Ubisoft News](https://news.ubisoft.com/en-us/article/4jSe6ey6u1ebgY94kVk7Az/the-division-massive-turns-20-the-permanent-quest-for-new-heights) – Massive founded 1997, joined Ubisoft 2008, later led The Division
 [^ref-50]: [Game Developer – Rebellion Acquires Vivendi Licenses](https://www.gamedeveloper.com/game-platforms/rebellion-acquires-vivendi-licenses-considers-new-franchise-titles) – IP acquisition, Kingsley quote
+[^ref-51]: [Computer Games Strategy Plus – Ground Control review (Wayback, 2003)](https://web.archive.org/web/20030304153144/http://www.cdmag.com/articles/028/157/groundc_review.html) – Nick McElveen, posted 07/07/2000, overall rating 4.5 of 5, "an outstanding game…" quote, omitted features
+[^ref-52]: [CNET Gamecenter – Ground Control review (Wayback, 2000)](https://web.archive.org/web/20000815084733/http://gamecenter.com/Reviews/Item/0,6,0-4328,00.html) – Bill McClendon, 6/15/2000, "The Bottom Line" and "The Bad" quotes
+[^ref-53]: [GameSpot – Ground Control: Dark Conspiracy Announced (Wayback, 2017 copy)](https://web.archive.org/web/20170809000446/https://www.gamespot.com/articles/ground-control-dark-conspiracy-announced/1100-2622680/) – "Developed by High Voltage Software and Massive Entertainment"; 15 new missions; third faction
+
