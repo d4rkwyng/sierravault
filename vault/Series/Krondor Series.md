@@ -7,12 +7,12 @@ first_release: 1993
 last_release: 1998
 total_games: 3
 genre: "Role-Playing"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Krondor Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -58,11 +58,11 @@ A spin-off rather than a direct sequel, set in a different world (Ramar), with a
 - **New world**: Sierra had lost the rights to make another game based on Feist's *Riftwar Cycle*, so it created the world of Ramar.[^ref-6][^ref-21]
 - **Protagonists**: the story follows William Escobar, Aren Cordelaine and Kaelyn.[^ref-6]
 
-**Reception:** Mixed. GameSpot gave it 6.6/10[^ref-7] and *Next Generation* rated it three stars out of five.[^ref-6] Between January and July 1998 it sold 52,309 copies in the United States.[^ref-6] It is sold alongside *Betrayal at Krondor* on GOG.com in the Betrayal at Krondor Pack[^ref-5] and on Steam in the "Betrayal Collection".[^ref-19]
+**Reception:** Mixed. GameSpot gave it 6.6/10[^ref-7] and *Next Generation* rated it three stars out of five in October 1997, concluding that "Antara succeeds it in the fashion of *Doom II*".[^ref-33] PC Data's top 12 best-selling adventure games for 1998, "as of July," listed it at 52,309 copies.[^ref-32] It is sold alongside *Betrayal at Krondor* on GOG.com in the Betrayal at Krondor Pack[^ref-5] and on Steam in the "Betrayal Collection".[^ref-19]
 
 ## Return to Krondor (1998)
 
-The series finale, and the officially licensed sequel to *Betrayal at Krondor*.[^ref-8] 7th Level bought the license, developed the game basics, produced the backgrounds and added the character voices. It then brought in Cincinnati-based PyroTechnix for the more technical development work. Sierra agreed on December 8, 1997 to buy PyroTechnix, with the *Return to Krondor* rights, for $1.2 million.[^ref-22] PyroTechnix finished the game, and it was among GameSpot's new releases for November 24, 1998.[^ref-8][^ref-23] Andy Ashcraft and Jeryd Pojawa were the designers, and Neal Hallford is among the credited writers.[^ref-8]
+The series finale, and the officially licensed sequel to *Betrayal at Krondor*.[^ref-8] 7th Level bought the license, developed the game basics, produced the backgrounds and added the character voices. It then brought in Cincinnati-based PyroTechnix for the more technical development work. Sierra agreed on December 8, 1997 to buy PyroTechnix, with the *Return to Krondor* rights, for $1.2 million.[^ref-22] PyroTechnix finished the game, and it was among GameSpot's new releases for November 24, 1998.[^ref-8][^ref-23] Andy Ashcraft and Jeryd Pojawa were the designers, and Neal Hallford is credited with the Original Story Concept (MobyGames credits),[^ref-25] while Wikipedia's infobox also lists him among the writers.[^ref-8]
 
 **Design notes:**
 - **Pre-rendered backgrounds** with changing camera angles for exploration, and **3D character models**,[^ref-20] running on the True3D engine.[^ref-8]
@@ -79,7 +79,7 @@ The series finale, and the officially licensed sequel to *Betrayal at Krondor*.[
 
 ## Rights History
 
-The license changed hands several times. Floppy-disk sales of *Betrayal at Krondor* were slow, so Sierra sold the *Riftwar* rights back to Feist. The game became a hit once it was re-released on CD-ROM.[^ref-1] In 1994 Dynamix cancelled a planned sequel, *Thief of Dreams*.[^ref-8] *Next Generation* wrote in December 1995 that Dynamix "fumbled badly when it decided to stop work on the Krondor sequel", leading Feist "to promptly take Midkemia, his fantasy world, over to 7th Level".[^ref-24] Without the license, Sierra made *Betrayal in Antara* in its own world.[^ref-6] 7th Level licensed the rights in 1995 and renamed the game *Return to Krondor*.[^ref-8] When 7th Level ran into financial difficulties, Sierra bought back the rights along with PyroTechnix's development contract.[^ref-8][^ref-15][^ref-22] *Return to Krondor* was the last game in the series. Feist kept writing Midkemia novels until 2013, ending with *Magician's End*.[^ref-15]
+The license changed hands several times. Floppy-disk sales of *Betrayal at Krondor* were slow, so Sierra sold the *Riftwar* rights back to Feist. The game became a hit once it was re-released on CD-ROM.[^ref-1] In 1994 Dynamix cancelled a planned sequel, *Thief of Dreams*.[^ref-8] *Next Generation* wrote in December 1995 that Dynamix "fumbled badly when it decided to stop work on the Krondor sequel", leading Feist "to promptly take Midkemia, his fantasy world, over to 7th Level".[^ref-24] Without the license, Sierra made *Betrayal in Antara* in its own world.[^ref-6] 7th Level licensed the rights in 1995 and renamed the game *Return to Krondor*.[^ref-8] The Digital Antiquarian dates the 7th Level deal to 1996, though *Next Generation*'s December 1995 issue already has Feist at 7th Level.[^ref-15][^ref-24] When 7th Level ran into financial difficulties, Sierra bought back the rights along with PyroTechnix's development contract.[^ref-8][^ref-15][^ref-22] *Return to Krondor* was the last game in the series. Feist kept writing Midkemia novels until 2013, ending with *Magician's End*.[^ref-15]
 
 ## Critical Legacy
 
@@ -125,8 +125,8 @@ Availability was checked on November 11, 2026. Prices vary by store and over tim
 
 [^ref-1]: [Wikipedia — Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) — Developer, release date, designers, gameplay, wordlocks, characters, rights sale, GOG re-release
 [^ref-3]: [Raymond E. Feist — Krondor: The Betrayal](https://en.wikipedia.org/wiki/Krondor:_The_Betrayal) — Novelization of the game's plot, first published November 1998
-[^ref-5]: [GOG.com — Betrayal at Krondor](https://www.gog.com/en/game/betrayal_at_krondor) — Current commercial availability
-[^ref-6]: [Wikipedia — Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) — Developer, credits, release date, Ramar setting, sales, Next Generation review
+[^ref-5]: [GOG.com — Betrayal at Krondor Pack](https://www.gog.com/en/game/betrayal_at_krondor) — Current commercial availability
+[^ref-6]: [Wikipedia — Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) — Developer, credits, release date, Ramar setting
 [^ref-7]: [GameSpot — Betrayal in Antara review](https://www.gamespot.com/reviews/betrayal-in-antara-review/1900-2537979/) — Desslock's review, 6.6/10, SVGA graphics
 [^ref-8]: [Wikipedia — Return to Krondor](https://en.wikipedia.org/wiki/Return_to_Krondor) — Developers, credits, engine, characters, development and licensing history
 [^ref-10]: [GOG.com — Return to Krondor](https://www.gog.com/en/game/return_to_krondor) — Current commercial availability
@@ -140,10 +140,12 @@ Availability was checked on November 11, 2026. Prices vary by store and over tim
 [^ref-22]: [7th Level press release — 7th Level in Pact To Sell PyroTechnix to Sierra On-Line, December 8, 1997 (Wayback Machine)](https://web.archive.org/web/19980129181814/http://www.7thlevel.com/newpages/press/1997/19971208.html) — Agreement in principle to sell Cincinnati-based PyroTechnix with the Return to Krondor rights for $1.2 million
 [^ref-23]: [GameSpot News — New Releases, November 24, 1998 (Wayback Machine)](https://web.archive.org/web/20000606102406/http://headline.gamespot.com/news/98_11/24_pc_new/index.html) — Return to Krondor from Sierra among the week's new releases
 [^ref-24]: [Next Generation #12 (December 1995), Internet Archive](https://archive.org/details/NEXT_Generation_12/page/n27/mode/2up) — Dynamix stopped work on the Krondor sequel; Feist took Midkemia to 7th Level
-[^ref-25]: [MobyGames – Return to Krondor credits, Windows (Wayback, 2017-06-21)](https://web.archive.org/web/20170621212024/http://www.mobygames.com:80/game/windows/return-to-krondor/credits) — "Original Story Concept: Neal Hallford"; Special Thanks "for their vision in creating Betrayal at Krondor": John Cutter, Neal Hallford
-[^ref-26]: [Computer Gaming World #139 (February 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_139) – Hall of Fame "Induction Ceremony": "We do hereby induct Betrayal at Krondor (BAK) into this august collection of classics"
-[^ref-27]: [Steam — Return to Krondor](https://store.steampowered.com/app/564960/Return_to_Krondor/) – Store page, checked 2026-11-11; Windows XP/Vista minimum requirements listed
-[^ref-28]: [xBaK project site](https://xbak.sourceforge.net/) – "A fan-made remake of 'Betrayal at Krondor'", alpha stage, GPL, xbak-0.1.5 released 2010-02-17
-[^ref-29]: [RPG Codex — Check out Neal Hallford's Betrayal at Krondor: Remastered Tech Demo](https://rpgcodex.net/article.php?id=10244) – March 18, 2016 news post: Hallford's remake of a small portion of the game in Amazon Lumberyard
-[^ref-30]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) – "the winner of the PREMIER Role-Playing Game of the Year award is Betrayal at Krondor"; "bold use of the company's proprietary 3-Space (3-D) technology"
-[^ref-31]: [Wikipedia — Krondor: Tear of the Gods](https://en.wikipedia.org/wiki/Krondor:_Tear_of_the_Gods) – Feist novel, published November 20, 2000, a novelization of Return to Krondor
+[^ref-25]: [MobyGames — Return to Krondor credits, Windows (Wayback, 2017-06-21)](https://web.archive.org/web/20170621212024/http://www.mobygames.com:80/game/windows/return-to-krondor/credits) — "Original Story Concept: Neal Hallford"; Special Thanks "for their vision in creating Betrayal at Krondor": John Cutter, Neal Hallford
+[^ref-26]: [Computer Gaming World #139 (February 1996), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_139) — Hall of Fame "Induction Ceremony": "We do hereby induct Betrayal at Krondor (BAK) into this august collection of classics"
+[^ref-27]: [Steam — Return to Krondor](https://store.steampowered.com/app/564960/Return_to_Krondor/) — Store page, checked 2026-11-11; Windows XP/Vista minimum requirements listed
+[^ref-28]: [xBaK project site](https://xbak.sourceforge.net/) — "A fan-made remake of 'Betrayal at Krondor'", alpha stage, GPL, xbak-0.1.5 released 2010-02-17
+[^ref-29]: [RPG Codex — Check out Neal Hallford's Betrayal at Krondor: Remastered Tech Demo](https://rpgcodex.net/article.php?id=10244) — March 18, 2016 news post: Hallford's remake of a small portion of the game in Amazon Lumberyard
+[^ref-30]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) — "the winner of the PREMIER Role-Playing Game of the Year award is Betrayal at Krondor"; "bold use of the company's proprietary 3-Space (3-D) technology"
+[^ref-31]: [Wikipedia — Krondor: Tear of the Gods](https://en.wikipedia.org/wiki/Krondor:_Tear_of_the_Gods) — Feist novel, published November 20, 2000, a novelization of Return to Krondor
+[^ref-32]: [Computer Gaming World #172 (November 1998), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_172) — PC Data "top 12 best-selling adventure games for 1998, as of July": Betrayal at Antara, 52,309 copies, $674,058
+[^ref-33]: [Next Generation (October 1997), Internet Archive](https://archive.org/details/next-generation-1997-10) — Betrayal in Antara review, three stars: "Antara succeeds it in the fashion of Doom II"
