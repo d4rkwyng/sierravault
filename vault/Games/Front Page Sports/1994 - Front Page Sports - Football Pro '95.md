@@ -10,18 +10,19 @@ series: Front Page Sports
 engine: null
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Front Page Sports: Football Pro ''95 is the third version of Dynamix''s
-  Front Page Sports: Football simulation series, released on October 25, 1994...'
+  Front Page Sports: Football simulation series, released for DOS on October 25, 1994
+  with an official NFL licence, the CAMS camera system and an expanded play editor.'
 tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football Pro '95
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Front Page Sports: Football Pro '95 is the third version of [[Dynamix]]'s Front Page Sports: Football simulation series, released on October 25, 1994 for DOS[^ref-1]. It was officially licensed by the NFL, featuring the complete rosters of all 28 NFL teams with the 1994/95 NFLPA players and their stats[^ref-1]; it was the first version of the series to include real NFL players and teams[^ref-6]. The game was published by [[Sierra On-Line]][^ref-1].
+Front Page Sports: Football Pro '95 is the third version of [[Dynamix]]'s Front Page Sports: Football simulation series, released on October 25, 1994 for DOS[^ref-1]. It was officially licensed by the NFL, featuring the complete rosters of all 28 NFL teams with the 1994/95 NFLPA players and their stats[^ref-1]; it was the first game in the series with an NFL team licence, Sierra's licensing agreement being with both the NFL and the NFLPA[^ref-1][^ref-30]. The 1993 *Football Pro* had already added real player names under an NFLPA agreement, but with fictional team names[^ref-24][^ref-33]. The game was published by [[Sierra On-Line]][^ref-1].
 
 The '95 edition was released during a transitional period for Sierra On-Line, with [[Dynamix]], "the most consistent of Sierra's subsidiary studios", delivering "solid performers" in non-adventure games including Football Pro '95[^ref-3]. Home of the Underdogs called it "the definitive version of Dynamix' excellent FPS: Football series -- at least until Internet play was included with the FPS: Football Pro '97 version"[^ref-4]. It was available in both diskette and CD-ROM formats, with the CD-ROM version containing more stock plays (10,000 against the floppy's 3,000)[^ref-1][^ref-6].
 
@@ -72,6 +73,12 @@ While not a puzzle game in the traditional sense, Front Page Sports: Football Pr
 
 MobyGames lists a critics' average of 78% for the game[^ref-1]. In November 1996, Computer Gaming World ranked it #11 in its "150 Best Games of All Time" list[^ref-1][^ref-6]. The earlier entries in the series had also been honoured by the magazine: CGW named the original *Front Page Sports: Football* (1992) the 1993 Sports Game of the Year[^ref-6], and MobyGames lists the 1993 *Front Page Sports: Football Pro* as CGW's Sports Game of the Year (June 1994) and a Hall of Fame inductee (March 1996)[^ref-24].
 
+Computer Gaming World's February 1995 review, by Dennis McCauley, said the new version offered "enough enhancements to shake the most ardent football fan out of his post-season depression", and that Sierra had "come up with the best looking football game ever to break the pane of a graphical goal line". It judged that the CAMS camera system "may be the best viewing and replay setup in the sports sim field", called the play editor "perhaps the best of any in the computer football genre", and named cycling through receivers and throwing the ball away among the biggest improvements. McCauley wrote that in a simulated league he "found no hint of statistical bugs"[^ref-30].
+
+The review also listed flaws. The stands were empty even though crowd sounds were included ("there isn't one!"), team uniforms lacked helmet insignia, computer-controlled teams proposed "strangely lopsided trades", the extra plays on the CD-ROM version could not be found by the game and had to be copied to the hard drive (where they were read-only), there was no modem play, and the plays from the manual's tutorial were missing from the game. Its verdict was that Football Pro '95 was "deep enough, solid enough, and good looking enough" to pull the most ardent fan out of his post-Superbowl depression; the editors' box credited a "great ratings editor, more play selection options, and rotoscoped player animation" and noted "minor bugs" and AI trouble with player trades[^ref-30].
+
+In its May 1995 sports round-up, Computer Gaming World wrote: "if you buy one sports game all year, Front Page Sports: Football '95 is the one for you. Patrick Cook and his Dynamix team have won CGW's best sports game three years running for a reason", and, in the same issue's Premier Awards section, that "This year's championship ring will be worn by FPS: Football '95, for an unprecedented third year in a row"[^ref-32].
+
 Home of the Underdogs gave Football Pro '95 a user rating of 9.02, saying that it "has everything you could ever want in a football game" and praising the "360-degree, fully rotoscoped VGA animation"[^ref-4].
 
 ### Modern Assessment
@@ -92,7 +99,7 @@ In its 2008 feature "Ten Sports Games That Need To Be Remade", IGN included the 
 
 The Front Page Sports: Football series began in 1992 as [[Dynamix]]'s entry into the sports simulation market[^ref-6]. Lead designer [[Patrick Cook]] came to the series from "his earlier tenure with Cinemaware's TV Sports series of games", in Computer Gaming World's words[^ref-27]; MobyGames credits him on Cinemaware's *TV Sports: Football* as Executive Producer (DOS), Head Coach (Atari ST) and Producer (Commodore 64)[^ref-28]. Home of the Underdogs' review of the original *Front Page Sports: Football* (not Football Pro '95), also reproduced on MyAbandonware, calls it "One of the best sports games ever made, period" and says Cook "pulled out a masterpiece that few football games have rivalled since"[^ref-29][^ref-25].
 
-The '95 edition followed *Front Page Sports: Football Pro* (1993), which had been named Computer Gaming World's Sports Game of the Year[^ref-24]. Football Pro '95 was the first version of the series to include real NFL players and teams[^ref-6].
+The '95 edition followed *Front Page Sports: Football Pro* (1993), which had been named Computer Gaming World's Sports Game of the Year[^ref-24]. Football Pro '95 was the first game in the series with an NFL team licence; Football Pro (1993) had carried real player names under an NFLPA agreement, but its teams were fictional[^ref-1][^ref-24][^ref-33].
 
 ### Production
 
@@ -117,6 +124,8 @@ The adaptive AI made running the same plays over and over "much less effective a
 
 ### Technical Specifications
 
+**System requirements (Computer Gaming World, February 1995):** $59.95, CD-ROM and 3.5" floppy; IBM compatible 386-33MHz or better (486 recommended), 4 MB RAM, VGA graphics, 10 MB hard drive space; supports PAS and Sound Blaster compatible sound cards; the CD version requires a 2x CD-ROM drive; copy protection is a documentation check (floppy only)[^ref-30]
+
 **CD-ROM Version:**[^ref-1][^ref-4]
 - **Graphics:** VGA, 360-degree rotoscoped animation
 - **Play Database:** 10,000 stock plays
@@ -131,14 +140,15 @@ The CD-ROM edition therefore carried 7,000 more stock plays than the floppy edit
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | October 1994[^ref-1] | DOS | Initial release; three tutorial plays missing[^ref-11] |
-| 1.02 | — | DOS | Update fbp95; its README describes the changes the 1.02 patch makes to version 1.00[^ref-19] |
+| 1.02 | January 26, 1995 (as listed by CGW)[^ref-31] | DOS | Update fbp95; Computer Gaming World's patch list says it "Adds fans to the stands and enables the CD-ROM version of the game to access extra plays from the CD, plus many other enhancements"[^ref-31]; its README describes the changes the 1.02 patch makes to version 1.00[^ref-19] |
 | fbp95_13 | — | DOS | Later update (1.13 MB), no description listed[^ref-19] |
 
 A forum user describes the fully patched version as "v1.03"[^ref-15].
 
 ### Technical Issues
 
-- Three tutorial plays from the manual are missing in version 1.0; with the patch installed they appear as shown in the manual[^ref-11]
+- Three tutorial plays from the manual are missing in version 1.0; with the patch installed they appear as shown in the manual[^ref-11]. Computer Gaming World's February 1995 review likewise reported that the tutorial plays "are nowhere to be found in the game"[^ref-30]
+- At release the stands were empty, and the game could not find the extra plays on the CD-ROM version, which had to be copied to the hard drive as read-only files[^ref-30]
 - The game is started by typing "hike", according to a user comment on MyAbandonware[^ref-17]
 - On Android DOSBox ports, the unpatched game "tends to crash at half-time", while the patched version triggers manual look-up copy protection[^ref-15]
 
@@ -162,6 +172,7 @@ The Front Page Sports Football series had ripple effects throughout the sports g
 ### Awards
 
 - **Computer Gaming World 150 Best Games of All Time:** Ranked #11 (November 1996)[^ref-1][^ref-6]
+- **Computer Gaming World, May 1995:** described as winning CGW's best sports game "three years running" and as the "championship ring" holder "for an unprecedented third year in a row" (see Reception for the exact wording)[^ref-32]
 
 Awards for other editions: CGW named *Front Page Sports: Football* (1992) the 1993 Sports Game of the Year[^ref-6], and *Front Page Sports: Football Pro* (1993) was CGW's Sports Game of the Year (June 1994) and entered CGW's Hall of Fame (March 1996)[^ref-24].
 
@@ -199,6 +210,7 @@ The series as a whole influenced later sports games: Wikipedia credits it with f
 - [[1994 - Front Page Sports - Baseball Pro|← Previous: Front Page Sports - Baseball Pro]]
 - [[1995 - Front Page Sports - Football Pro '96|→ Next: Front Page Sports - Football Pro '96]]
 
+- [[Front Page Sports Series]] - Series overview
 - [[1992 - Front Page Sports Football 92]]
 - [[1993 - Front Page Sports - Football Pro]]
 - [[1996 - Front Page Sports - Baseball Pro '96]]
@@ -234,3 +246,7 @@ The series as a whole influenced later sports games: Wikipedia credits it with f
 [^ref-27]: [Computer Gaming World, Issue 140 (March 1996), p. 242 – Hall of Fame](https://archive.org/details/Computer_Gaming_World_Issue_140/page/n245/mode/1up) – Football Pro induction; "Project leader Patrick Cook", "his earlier tenure with Cinemaware's TV Sports series of games"
 [^ref-28]: [MobyGames – Patrick Cook credits](https://www.mobygames.com/person/74/patrick-cook/credits/) – TV Sports: Football credits: Executive Producers (1989, DOS), Head Coach (1989, Atari ST), Producer (1990, Commodore 64)
 [^ref-29]: [Home of the Underdogs – Front Page Sports: Football (game #1753)](https://homeoftheunderdogs.net/game.php?id=1753) – original 1992 game: "One of the best sports games ever made, period"; Patrick Cook "pulled out a masterpiece that few football games have rivalled since"
+[^ref-30]: [Computer Gaming World, Issue 127 (February 1995), pp. 138–140 – "Open-Field Running" by Dennis McCauley](https://archive.org/details/Computer_Gaming_World_Issue_127) – review, NFL/NFLPA licensing, flaws, price and system requirements
+[^ref-31]: [Computer Gaming World, Issue 129 (April 1995) – patch list](https://archive.org/details/Computer_Gaming_World_Issue_129) – "Front Page Sports: Football Pro 95 V1.02: Adds fans to the stands and enables the CD-ROM version of the game to access extra plays from the CD", listed with the date 1/26/95
+[^ref-32]: [Computer Gaming World, Issue 130 (May 1995) – sports round-up and Premier Awards](https://archive.org/details/Computer_Gaming_World_Issue_130) – "Front Page Sports: Football '95 is the one for you"; "best sports game three years running"; "championship ring … third year in a row"
+[^ref-33]: [Electronic Entertainment, January 1994, p. 124 – Internet Archive scan](https://archive.org/details/ElectronicEntertainment01Jan1994) – Wayne Kawamoto on Football Pro (1993): "the teams are fictional (Troy Aikman plays for the Dallas "Ranchers")"; real NFL players, stats, names and numbers
