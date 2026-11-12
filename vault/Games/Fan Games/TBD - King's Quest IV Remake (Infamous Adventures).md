@@ -37,32 +37,6 @@ After completing their Space Quest II remake in December 2011, the founders anno
 > **Protagonist:** Princess Rosella
 > **Sierra Lineage:** Fan Project
 
-## Development
-
-### Origins
-
-Infamous Adventures was founded in 2004 by Shawn Mills and Steven Alexander to make games in the classic Sierra and LucasArts adventure style. Its games were built in Adventure Game Studio (AGS).[^ref-9] Its King's Quest III remake, released on June 19, 2006, replaced the original's text parser with a point-and-click interface and updated VGA graphics. A voice pack followed on August 21, 2006.[^ref-9] Infamous Adventures confirmed its Space Quest II VGA remake on April 1, 2007, and released it on December 30, 2011.[^ref-9] That remake featured hand-drawn graphics meant to emulate VGA and a voice pack of 4,000 recorded lines.[^ref-17]
-
-In July 2012 the founders announced that Infamous Adventures would no longer produce games and that they had started Infamous Quests to make original adventure games.[^ref-9] *Quest for Infamy*, an adventure RPG inspired by Sierra's Quest for Glory series, was released on July 7, 2014.[^ref-9][^ref-23] Infamous Adventures later updated its free Space Quest II remake to version 2.0 on January 1, 2020.[^ref-18]
-
-When work on the KQ4 remake began is not documented publicly, and the team working on it has not been publicly named. A King's Quest IV VGA remake has been linked to Infamous Adventures since at least 2005. That April, an AGDI forum thread noted that the Sponge Factory's KQ4 VGA project was "on Infamous Adventures". The project's lead wrote that he had not decided "whether I'll ever find the time in my busy life to work on this anymore."[^ref-19] No public source connects that project to the current one.
-
-### Original Game Significance
-
-King's Quest IV: The Perils of Rosella represented a major technical milestone for Sierra when released in 1988.[^ref-4] It was Sierra's first game to use the SCI (Sierra Creative Interpreter) engine, doubling the resolution and adding support for MIDI music.[^ref-4] Sierra was uncertain whether players had hardware capable of running the new engine, so they released a parallel AGI version at lower resolution.[^ref-4]
-
-The game was marketed with considerable fanfare. One Sierra advertisement asked "Can a Computer Game Make a Person Cry?", and the back of the box boasted of over 40 minutes of music by William Goldstein.[^ref-4] Hardcore Gaming 101 notes that Sierra hyped the game as "a true work of art on par with literature and cinema," and that what stirred up emotions at the time "is now positively quaint."[^ref-4]
-
-The same review says the game "goes a little too far" by showing Roberta Williams' face whenever the player dies or tries to quit.[^ref-4]
-
-### Current Status
-
-The only recent source is a patron-only post, so the details below cannot be checked publicly. The post is titled "Small Development Update" and dated January 11, 2026.[^ref-1] SierraVault recorded its wording at the time, and the quotes below come from that copy. The post said: "The team has been really active again and hustling away to finish this up. They have been polishing some things up and doing just some amazing work." It added: "As usual, there's no release date or timeline for any of this."[^ref-1] It reportedly included promotional box and poster art made by two team members, a few in-game images, and examples of reworked backgrounds.[^ref-1]
-
-In the comments, one backer said the shots "look like what Sierra would have released for a remake of the game."[^ref-1] Replying to another comment, the Infamous Quests account said the work made them want to finish their old King's Quest III "gold" remake, adding: "CONSIDERING THAT OUR KING'S QUEST III Remake is 20 years old this year!!"[^ref-1]
-
-No public source confirms the remake's engine, interface, platforms, or whether it will include voice acting. Infamous Adventures' earlier games were made in Adventure Game Studio,[^ref-9] but that has not been stated for this project.
-
 ## Story Summary
 
 The remake will retell the story of the original King's Quest IV: The Perils of Rosella (1988), designed by [[Roberta Williams]].[^ref-4][^ref-12] The story begins immediately following King's Quest III, with King Graham suffering a massive heart attack as he tosses his adventurer's cap to his children.[^ref-5] Princess Rosella must travel to the enchanted land of Tamir to find a magical fruit that can save her dying father.[^ref-4]
@@ -95,7 +69,6 @@ The bridle needed to capture the unicorn is not even a single pixel. It is entir
 
 The game's real-time clock meant certain events could only occur during specific periods, which "can naturally muck you up if you dawdle."[^ref-4] DrSlash's Retold version included an option to remove dead ends, addressing one of the original's most frustrating aspects.[^ref-5]
 
-
 ## Reception
 
 ### Contemporary Reviews
@@ -115,15 +88,41 @@ Infamous Adventures' earlier remakes are well rated on itch.io. King's Quest III
 
 Several other fan groups have attempted King's Quest IV remakes over the years:[^ref-19][^ref-20]
 
-- **King's Quest IV Retold** by DrSlash (2021) is a point-and-click AGS remake. It was nominated for "Best Game Created with AGS" at the 2021 AGS Awards, and it stays faithful to the original's story and graphics while adding quality-of-life features.[^ref-5] The AGS database page shows over 9,000 downloads, and the game was selected as "Pick of the Month" in August 2022.[^ref-5]
+- **King's Quest IV Retold** by DrSlash (2021) is a point-and-click AGS remake. It was nominated for "Best Game Created with AGS" at the 2021 AGS Awards, and it stays faithful to the original's story and graphics while adding quality-of-life features.[^ref-5] The AGS database page lists the game with over 9,000 downloads, and the game was selected as "Pick of the Month" in August 2022.[^ref-5]
 - **King's Quest IV Retold VGA + Talkie** by Magic Quest Entertainment (released 29 November 2025) is a standalone version of DrSlash's Retold, made with his blessing, with 256-colour graphics and voices. Its VGA graphics draw on unfinished KQ4 projects, and its description thanks contributors including Steven Alexander of Infamous Quests and notid1 of the Sponge Factory.[^ref-6]
-- **Unicorn Tales** announced a 3D remake of King's Quest IV. The same site reports that Magic Mirror Games stopped work on its own 2D remake.[^ref-20]
+- **Unicorn Tales** announced a 3D remake of King's Quest IV. Its 2013 post also mentions Magic Mirror Games' 2D remake, which that group said it had not abandoned.[^ref-20]
 
 A 2009 VOGONS post by the user Malik preferred Infamous Adventures' remakes to AGD Interactive's. The post said AGDI's King's Quest II remake "strayed slightly away from the classic," while IA's King's Quest III remake "stayed quite close to the original."[^ref-7]
 
 ### Original Game Context
 
 The original King's Quest IV: The Perils of Rosella (1988) remains available for purchase on GOG.com as part of the King's Quest 4+5+6 collection,[^ref-10] and on Steam in the King's Quest Collection.[^ref-13] GOG's store description says King's Quest IV has "great puzzles and a day/night cycle which was a big thing at the time." It also calls it "the last in the series which used the typing interface, and the first to have a female protagonist."[^ref-10]
+
+## Development
+
+### Origins
+
+Infamous Adventures was founded in 2004 by Shawn Mills and Steven Alexander to make games in the classic Sierra and LucasArts adventure style. Its games were built in Adventure Game Studio (AGS).[^ref-9] Its King's Quest III remake, released on June 19, 2006, replaced the original's text parser with a point-and-click interface and updated VGA graphics. A voice pack followed on August 21, 2006.[^ref-9] Infamous Adventures confirmed its Space Quest II VGA remake on April 1, 2007, and released it on December 30, 2011.[^ref-9] That remake featured hand-drawn graphics meant to emulate VGA and a voice pack of 4,000 recorded lines.[^ref-17]
+
+In July 2012 the founders announced that Infamous Adventures would no longer produce games and that they had started Infamous Quests to make original adventure games.[^ref-9] *Quest for Infamy*, an adventure RPG inspired by Sierra's Quest for Glory series, was released on July 7, 2014.[^ref-9][^ref-23] Infamous Adventures later updated its free Space Quest II remake to version 2.0 on January 1, 2020.[^ref-18]
+
+When work on the KQ4 remake began is not documented publicly, and the team working on it has not been publicly named. A King's Quest IV VGA remake has been linked to Infamous Adventures since at least 2005. That April, an AGDI forum thread noted that the Sponge Factory's KQ4 VGA project was "on Infamous Adventures". The project's lead wrote that he had not decided "whether I'll ever find the time in my busy life to work on this anymore."[^ref-19] No public source connects that project to the current one.
+
+### Original Game Significance
+
+King's Quest IV: The Perils of Rosella represented a major technical milestone for Sierra when released in 1988.[^ref-4] It was Sierra's first game to use the SCI (Sierra Creative Interpreter) engine, doubling the resolution and adding support for MIDI music.[^ref-4] Sierra was uncertain whether players had hardware capable of running the new engine, so they released a parallel AGI version at lower resolution.[^ref-4]
+
+The game was marketed with considerable fanfare. One Sierra advertisement asked "Can a Computer Game Make a Person Cry?", and the back of the box boasted of over 40 minutes of music by William Goldstein.[^ref-4] Hardcore Gaming 101 notes that Sierra hyped the game as "a true work of art on par with literature and cinema," and that what stirred up emotions at the time "is now positively quaint."[^ref-4]
+
+The same review says the game "goes a little too far" by showing Roberta Williams' face whenever the player dies or tries to quit.[^ref-4]
+
+### Current Status
+
+The only recent source is a patron-only post, so the details below cannot be checked publicly. The post is titled "Small Development Update" and dated January 11, 2026.[^ref-1] SierraVault recorded its wording at the time, and the quotes below come from that copy. The post said: "The team has been really active again and hustling away to finish this up. They have been polishing some things up and doing just some amazing work." It added: "As usual, there's no release date or timeline for any of this."[^ref-1] It reportedly included promotional box and poster art made by two team members, a few in-game images, and examples of reworked backgrounds.[^ref-1]
+
+In the comments, one backer said the shots "look like what Sierra would have released for a remake of the game."[^ref-1] Replying to another comment, the Infamous Quests account said the work made them want to finish their old King's Quest III "gold" remake, adding: "CONSIDERING THAT OUR KING'S QUEST III Remake is 20 years old this year!!"[^ref-1]
+
+No public source confirms the remake's engine, interface, platforms, or whether it will include voice acting. Infamous Adventures' earlier games were made in Adventure Game Studio,[^ref-9] but that has not been stated for this project.
 
 ## Legacy
 
@@ -135,7 +134,7 @@ If the remake is released, it would mark a return to fan remakes after the found
 
 ### The Challenge of Multiple KQ4 Remakes
 
-Hardcore Gaming 101's coverage of the original King's Quest IV noted that "A fan-made VGA remake has been in the works for a few years, but nothing has been released outside of some demo footage," without naming the project.[^ref-4] Attempts have included the Sponge Factory's stalled VGA project,[^ref-19] Unicorn Tales' 3D version and Magic Mirror Games' abandoned project.[^ref-20]
+Hardcore Gaming 101's coverage of the original King's Quest IV noted that "A fan-made VGA remake has been in the works for a few years, but nothing has been released outside of some demo footage," without naming the project.[^ref-4] Attempts have included the Sponge Factory's stalled VGA project,[^ref-19] Unicorn Tales' 3D version and Magic Mirror Games' 2D project.[^ref-20]
 
 Whether the activity described in patron-only posts leads to a release is unknown. The public April 2026 Patreon update said others had been working "behind the scenes to make some amazing things that I hope we can get out this year," but did not name King's Quest IV.[^ref-22]
 
@@ -153,21 +152,10 @@ Whether the activity described in patron-only posts leads to a release is unknow
 
 ## See Also
 
-- [[2001 - King's Quest I VGA Remake]]
-- [[2001 - Space Quest - The Lost Chapter]]
-- [[2002 - King's Quest II+ - Romancing the Stones]]
-- [[2003 - Space Quest 0 - Replicated]]
-- [[2008 - Quest for Glory II VGA Remake]]
-- [[2010 - The Silver Lining]]
-- [[2011 - King's Quest III Redux - To Heir is Human]]
-- [[2011 - Space Quest - Vohaul Strikes Back]]
-- [[2011 - Space Quest II VGA Remake]]
-- [[2012 - Space Quest - Incinerations]]
-- [[2021 - King's Quest IV Retold]]
-- [[2025 - SCP Sierra Conversion Project]]
-
 - **Original Game:** [[1988 - King's Quest IV - The Perils of Rosella]]
 - **Previous IA Remake:** [[2006 - King's Quest III Remake (Infamous Adventures)]]
+- [[2011 - Space Quest II VGA Remake]]
+- [[2021 - King's Quest IV Retold]]
 
 ## References
 
@@ -175,7 +163,7 @@ Whether the activity described in patron-only posts leads to a release is unknow
 [^ref-2]: [Infamous Quests Patreon – Working on stuff](https://www.patreon.com/posts/139794477) – Post dated September 26, 2025, locked to patrons; reportedly describes activity on the Infamous Adventures Discord without naming King's Quest IV
 [^ref-3]: [King's Quest III VGA Remake by Infamous Adventures – itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) – "Rated 4.9 out of 5 stars (8 total ratings)"
 [^ref-4]: [Hardcore Gaming 101 – King's Quest IV](http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) ([archived copy](http://web.archive.org/web/20240118085940/http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/)) – Original game analysis, whale tongue section, hidden bridle, one in-game day, fan remake status, SCI/AGI versions
-[^ref-5]: [Adventure Game Studio – King's Quest IV Retold](https://www.adventuregamestudio.co.uk/play/game/2533/) – DrSlash's 2021 remake, AGS Awards 2021 nominee for Best Game Created with AGS, Pick of the Month August 2022, 9,663 downloads (October 2026)
+[^ref-5]: [Adventure Game Studio – King's Quest IV Retold](https://www.adventuregamestudio.co.uk/play/game/2533/) – DrSlash's 2021 remake, AGS Awards 2021 nominee for Best Game Created with AGS, Pick of the Month August 2022, over 9,000 downloads
 [^ref-6]: [Adventure Game Studio – King's Quest IV Retold VGA + Talkie](https://www.adventuregamestudio.co.uk/play/game/2907/) – Magic Quest Entertainment's standalone version released 29 November 2025; "this is a standalone project"; VGA graphics credits include Steven Alexander (and Infamous Quests)
 [^ref-7]: [VOGONS Forums – Space Quest II VGA Remake - by Infamous Adventures](https://www.vogons.org/viewtopic.php?t=22863) – First post by Malik, 2009-09-16: IA's KQ3 remake "stayed quite close to the original"
 [^ref-8]: [MobyGames – King's Quest IV: The Perils of Rosella](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – Original 1988 game; "Moby Score 7.7", "Critics 77% (24)" per the [December 2025 archived copy](https://web.archive.org/web/20251203220758/https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/)
@@ -187,7 +175,7 @@ Whether the activity described in patron-only posts leads to a release is unknow
 [^ref-17]: [GameWatcher – Space Quest II remake released for free](https://www.gamewatcher.com/2012-01-01-space-quest-ii-remake-released-for-free) – Jan 1, 2012: "hand-drawn graphics intended to emulate VGA, as well as a full voice pack containing 4000 recorded lines"
 [^ref-18]: [Space Quest II VGA Remake by Infamous Adventures – itch.io](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – "Rated 4.8 out of 5 stars (22 total ratings)"; version 2.0 released January 1, 2020; Universal Binary Mac build September 10, 2024
 [^ref-19]: [AGDInteractive Forums – King's Quest IV: The Perils of Rosella VGA](http://www.agdinteractive.com/forum/viewtopic.php?t=9856) – April 2005 thread: Sponge Factory's KQ4 VGA remake "is on Infamous Adventures"; project lead unsure he will find time to continue
-[^ref-20]: [Unicorn Tales – King's Quest Remakes](https://unicorntales.org/kq4-perilsofrosella-remake/category/kings-quest-remakes/) – Unicorn Tales "remaking the game in 3D graphics"; Magic Mirror "stopped dev on it and the project got killed"
+[^ref-20]: [Unicorn Tales – King's Quest Remakes](https://unicorntales.org/kq4-perilsofrosella-remake/category/kings-quest-remakes/) ([archived copy of the "King's Quest IV Remakes" post](http://web.archive.org/web/20161117235600/http://unicorntales.org/kq4-perilsofrosella-remake/2013/kings-quest-remakes/kings-quest-iv-remakes/): Unicorn Tales "remaking the game in 3D graphics"; Magic Mirror Games listed as a separate KQ4 remake party) – Unicorn Tales "remaking the game in 3D graphics"; Magic Mirror "stopped dev on it and the project got killed"
 [^ref-21]: [Infamous Quests Patreon – Oh man](https://www.patreon.com/posts/149935749) – Public post, February 4, 2026, teasing an Easter egg "in one of our games"; does not name King's Quest IV
 [^ref-22]: [Infamous Quests Patreon – update (April 4, 2026)](https://www.patreon.com/posts/154760603) – Public post, April 4, 2026: "lots of other people that have been scurrying behind the scenes to make some amazing things"; does not name King's Quest IV
 [^ref-23]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – Founded 2012 by Steven Alexander and Shawn Mills; Quest for Infamy "an adventure RPG made with Adventure Game Studio"

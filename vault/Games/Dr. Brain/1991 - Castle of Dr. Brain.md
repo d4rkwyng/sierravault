@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: SCI1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Castle of Dr. Brain is a 1991 educational puzzle game designed by Corey
   Cole and published by Sierra On-Line, the first Dr. Brain game and the best-selling
   title of Sierra's Discovery Series.
@@ -18,15 +18,15 @@ tags: [1990s, coles, dr-brain, educational, sci, sierra]
 ---
 # Castle of Dr. Brain
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Castle of Dr. Brain is an educational puzzle game developed and published by Sierra On-Line in 1991, one of the first games created for the educational line that Sierra began branding as the Discovery Series in 1992.[^ref-1][^ref-4] The game was designed by [[Corey Cole]], co-creator of the Quest for Glory series, and stands as his only solo design credit at Sierra.[^ref-2] Marketed with the tagline "Welcome to the Castle of Dr. Brain, where your mind is the key to every door," the game challenges players to navigate an eccentric scientist's castle filled with mind-bending puzzles to earn a position as his laboratory assistant.[^ref-3]
+Castle of Dr. Brain is an educational puzzle game developed and published by Sierra On-Line in 1991, one of the first games created for the educational line that Sierra began branding as the Discovery Series in 1992.[^ref-1][^ref-4] The game was designed by [[Corey Cole]], co-creator of the Quest for Glory series, and, in his own words from a 2015 blog comment, "my one game as a solo designer."[^ref-2] Marketed with the tagline "Welcome to the Castle of Dr. Brain, where your mind is the key to every door," the game challenges players to navigate an eccentric scientist's castle filled with mind-bending puzzles to earn a position as his laboratory assistant.[^ref-3]
 
-The game launched the Dr. Brain series and became, in Jimmy Maher's words, "by far the most commercially successful of all the Discovery Series."[^ref-4] Charles Ardai of Computer Gaming World called it "one of the most entertaining agglomerations of puzzles ever stuffed into a single package," a game "so well put together, so copiously animated and richly scored" that "it has a real shot at converting puzzle haters into puzzle lovers."[^ref-33] Cole estimates it sold over 100,000 copies in its initial full-price release and another 150,000 as a budget re-release.[^ref-4]
+The game launched the [[Dr. Brain Series|Dr. Brain series]] and became, in Jimmy Maher's words, "by far the most commercially successful of all the Discovery Series."[^ref-4] Charles Ardai of Computer Gaming World called it "one of the most entertaining agglomerations of puzzles ever stuffed into a single package," a game "so well put together, so copiously animated and richly scored" that "it has a real shot at converting puzzle haters into puzzle lovers."[^ref-33] Cole estimates it sold over 100,000 copies in its initial full-price release and another 150,000 as a budget re-release.[^ref-4] Computer Gaming World listed the IBM version at $49.95.[^ref-33]
 
-Unlike Sierra's traditional adventure games, Castle of Dr. Brain adopted a first-person perspective with an unnamed protagonist meant to represent the player directly.[^ref-4] The game featured three adjustable difficulty levels—Novice, Standard, and Expert—allowing players to tailor the challenge to their skill level at any time during gameplay.[^ref-4] This design philosophy, combined with a hint system using collectible "puzzle coins," made the game accessible to younger players while still providing satisfying challenges for experienced puzzle enthusiasts.[^ref-4]
+Unlike Sierra's traditional adventure games, Castle of Dr. Brain adopted a first-person perspective with an unnamed protagonist meant to represent the player directly.[^ref-4] The game featured three adjustable difficulty levels—Novice, Standard, and Expert—allowing players to tailor the challenge to their skill level at any time during gameplay.[^ref-4] In Charles Ardai's description, "Novice" means "solving a 3x3 magic square instead of a 5x5, and only needing to find eighteen of the twenty-five words in the word search rather than all of them."[^ref-33] This design philosophy, combined with a hint system using collectible "puzzle coins," made the game accessible to younger players while still providing satisfying challenges for experienced puzzle enthusiasts.[^ref-4]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -53,7 +53,7 @@ The ultimate goal is to reach Dr. Brain's inner office and prove oneself capable
 
 ### Interface and Controls
 
-Castle of Dr. Brain utilizes Sierra's standard point-and-click interface from the SCI1 era, similar to that used in King's Quest V and Space Quest IV.[^ref-12] Players interact with the environment using eye and hand cursor icons, with the eye allowing examination of objects and the hand enabling manipulation and interaction.[^ref-13] The Adventurers' Guild called it "a fantastic introduction to the Sierra interface because it doesn't require very much of the player."[^ref-13]
+Castle of Dr. Brain utilizes Sierra's standard point-and-click interface from the SCI1 era, similar to that used in [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]].[^ref-12] Players interact with the environment using eye and hand cursor icons, with the eye allowing examination of objects and the hand enabling manipulation and interaction.[^ref-13] The Adventurers' Guild called it "a fantastic introduction to the Sierra interface because it doesn't require very much of the player."[^ref-13]
 
 ### Structure and Progression
 
@@ -113,7 +113,7 @@ The Adventurers' Guild blog gave the game a 46/100 in their systematic playthrou
 
 ### Origins
 
-The genesis of Castle of Dr. Brain traces back to late 1990, shortly after [[Corey Cole]] completed work on Quest for Glory II: Trial by Fire.[^ref-2] Sierra founder Ken Williams called the company's writers and designers into a meeting and asked each to submit ideas for educational games; one of his own example proposals was "Mathemagical Mansion," a game about solving math problems to explore a house.[^ref-2][^ref-4] Cole pitched Castle of Dr. Brain as a riff on that idea, broadening it beyond math, and got the go-ahead after a prototype.[^ref-2][^ref-4]
+The genesis of Castle of Dr. Brain traces back to late 1990, shortly after [[Corey Cole]] completed work on [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]].[^ref-2] Sierra founder [[Ken Williams]] called the company's writers and designers into a meeting and asked each to submit ideas for educational games; one of his own example proposals was "Mathemagical Mansion," a game about solving math problems to explore a house.[^ref-2][^ref-4] Cole pitched Castle of Dr. Brain as a riff on that idea, broadening it beyond math, and got the go-ahead after a prototype.[^ref-2][^ref-4]
 
 Cole approached the project with personal enthusiasm, aiming the game at his own twelve-year-old self rather than consulting education professionals during development.[^ref-4] Digital historian Jimmy Maher, reviewing the game, wrote: "I don't believe Corey Cole is capable of making a game that's less than thoroughly likable."[^ref-4] Cole told Maher that by the time the game was finished he finally felt "like a real game designer,"[^ref-4] and later wrote that he "got to lead the team and do most of the design myself."[^ref-2]
 
@@ -121,22 +121,22 @@ Cole approached the project with personal enthusiasm, aiming the game at his own
 
 Development proved remarkably smooth by Sierra standards. Cole later reflected that "It might be the only Sierra game completed ahead of schedule, under budget, and almost bug-free."[^ref-2] According to Maher, Cole still describes Castle of Dr. Brain as the most satisfying single project of his career.[^ref-4]
 
-Research for the puzzle design proved challenging. Cole discovered that "The puzzle books were useless. A book advertising 'over 60 puzzles and brainteasers' typically had four formats, and 15 puzzles in each format."[^ref-4] Cole instead came up with original ideas and "brainstormed a few more with Lori" (Lori Ann Cole, credited with Additional Material).[^ref-2][^ref-34]
+Research for the puzzle design proved challenging. Cole discovered that "The puzzle books were useless. A book advertising 'over 60 puzzles and brainteasers' typically had four formats, and 15 puzzles in each format."[^ref-4] Cole instead came up with original ideas and "brainstormed a few more with Lori" ([[Lori Ann Cole]], credited with Additional Material).[^ref-2][^ref-34]
 
-Cole recalls that Ken Williams first assigned artist Jon Bock to build the prototype, then "a different lead artist (Andy Hoyos)" for production.[^ref-2] In the credits, Hoyos is listed for Art Design and Douglas Herring as Lead Artist.[^ref-34] Cole also recalls that "Sierra took the sequel away from me and assigned it to a junior member of the writing staff."[^ref-2]
+Cole recalls that Ken Williams first assigned artist Jon Bock to build the prototype, then "a different lead artist ([[Andy Hoyos]])" for production.[^ref-2] In the credits, Hoyos is listed for Art Design and [[Douglas Herring]] as Lead Artist.[^ref-34] Cole also recalls that "Sierra took the sequel away from me and assigned it to a junior member of the writing staff."[^ref-2]
 
 **Development Credits** (DOS release):[^ref-34]
-- **Executive Producer:** Ken Williams
-- **Creative Director:** Bill Davis
+- **Executive Producer:** [[Ken Williams]]
+- **Creative Director:** [[Bill Davis]]
 - **Designed and Directed by:** [[Corey Cole]]
-- **Producer:** Stuart Moulder
+- **Producer:** [[Stuart Moulder]]
 - **Art Design:** [[Andy Hoyos]]
-- **Lead Artist:** Douglas Herring (credited as Art Designer on the Amiga version)[^ref-35]
+- **Lead Artist:** [[Douglas Herring]] (credited as Art Designer on the Amiga version)[^ref-35]
 - **Programmed by:** Corey Cole, Steve Conrad, Jack Magné, Brett Miller, John Wentworth
 - **Art and Animation:** Jay Allan Friedmann, Jon Bock, Dana Moody, Bob Gleason, Douglas Herring, Andy Hoyos, Jerry Jesserun, Deena Krutak, Dennis Lewis, Vasken Sayre, John Shroades, Arturo Sinclair, Diana Wilson
-- **Music Director:** Mark Seibert
-- **Music and Sound Effects:** Ken Allen, Robert Atesalp, Christopher G. Braymen, Orpheus Hanley, Mark Seibert
-- **Additional Material:** Lori Ann Cole
+- **Music Director:** [[Mark Seibert]]
+- **Music and Sound Effects:** [[Ken Allen]], Robert Atesalp, [[Chris Braymen|Christopher G. Braymen]], Orpheus Hanley, [[Mark Seibert]]
+- **Additional Material:** [[Lori Ann Cole]]
 - **Manual Writer:** Bridget McKenna
 - **Macintosh Programming:** Krishnan Shankar, Jason Hickingbottom[^ref-36]
 
@@ -202,21 +202,21 @@ The Amiga version suffered from performance issues: Amiga Power complained of "s
 
 Castle of Dr. Brain contains numerous hidden references to other Sierra games and pop culture:
 
-- **Mirror Reference:** Looking in the mirror in the first hallway provides a reference to Mixed-Up Fairy Tales.[^ref-15]
+- **Mirror Reference:** Looking in the mirror in the first hallway provides a reference to [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]].[^ref-15]
 - **Developer Names:** The word search puzzle hides names such as BRETT, COREY, DENNIS, and JOHN; Cole confirmed they are team credits (including himself, Steve Conrad, Jack Magné, Brett Miller, John Wentworth, and Dennis Lewis).[^ref-28]
 - **Quest for Glory References:** The completed jigsaw puzzle shows a room decorated with props from other Sierra games, including Aziza's table from the Quest for Glory series.[^ref-28]
-- **Conquests of the Longbow:** An arrow quiver in the jigsaw puzzle references the Robin Hood game.[^ref-15]
+- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]:** An arrow quiver in the jigsaw puzzle references the Robin Hood game.[^ref-15]
 - **2001: A Space Odyssey:** The game includes the quote "Oh my God! – It's full of puzzles!" referencing the famous film.[^ref-15]
 - **The Terminator:** Exiting the game produces the message "I'll be Back!"[^ref-15]
 - **Crossbar Names:** In the crossbar game, selecting certain names triggers humorous instructions.[^ref-27]
 - **Book References:** The clock room contains books referencing works by Stephen Hawking, Robert Heinlein, Martin Heidegger, and Madeleine L'Engle.[^ref-24]
 - **TSN Reference:** Dr. Brain's office notes board contains a reference to TSN (The Sierra Network).[^ref-24]
 - **Metallica:** In the Star Room, one alien planet is described as "Metallica exports heavy metal bands."[^ref-24]
-- **Pepper's Adventures Reference:** An office note reading "Help little girl find lost dog" may reference Pepper's Adventures in Time.[^ref-24]
+- **Pepper's Adventures Reference:** An office note reading "Help little girl find lost dog" may reference [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]].[^ref-24]
 - **Trinity Reference:** A reader comment on The Digital Antiquarian notes that clicking the hand on the sundial's gnomon in the room with the noise-silencing control panel gives a message pointing to the sundial in Infocom's Trinity.[^ref-4]
 - **Solomon's Key:** The game text mentions keeping "Solomon's Key" book around.[^ref-28]
 
-The hint coins used in the game visually resemble the "buckazoids" currency from Space Quest IV.[^ref-8] The end credits include videos of the developers displayed on tiny monitors.[^ref-8]
+The hint coins used in the game visually resemble the "buckazoids" currency from [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]].[^ref-8] The end credits include videos of the developers displayed on tiny monitors.[^ref-8]
 
 ## Legacy
 
@@ -224,7 +224,7 @@ The hint coins used in the game visually resemble the "buckazoids" currency from
 
 Castle of Dr. Brain proved to be a commercial success: Cole estimates it sold over 100,000 copies in its initial full-price release and an additional 150,000 copies as a budget re-release.[^ref-4] Maher calls it "by far the most commercially successful of all the Discovery Series."[^ref-4]
 
-The game was marketed in Sierra catalogs as featuring an "outrageous gauntlet of mind-twisting puzzles and nerve-wracking challenges."[^ref-2] A free puzzle book was included with retail copies as an additional educational resource.[^ref-14]
+The game was marketed in Sierra catalogs as featuring an "outrageous gauntlet of mind-twisting puzzles and nerve-wracking challenges."[^ref-2] A free puzzle book was included with retail copies as an additional educational resource.[^ref-14] Computer Gaming World identified it as Muriel Mandell's Fantastic Book of Logic Puzzles, pitched at the youngest players and teaching "the rudiments of logic in a friendly manner."[^ref-33]
 
 ### Collections
 
@@ -237,7 +237,7 @@ The game has been preserved through various abandonware sites and digital archiv
 ### Related Publications
 
 - **Game Manual:** The game used document look-up copy protection;[^ref-33] the Sierra Help Pages host the manual, the "Ultra Top Secret Decoder Grid" and the copy protection codes.[^ref-30] A Spanish edition of the manual (*El Castillo del Dr. Brain*) is also online.[^ref-29]
-- **Free Puzzle Book:** Bundled with retail copies providing additional puzzles[^ref-14]
+- **Free Puzzle Book:** Muriel Mandell's Fantastic Book of Logic Puzzles, bundled with retail copies[^ref-14][^ref-33]
 - **Sierra Discovery Series Materials:** Educational content highlighting academic value[^ref-4]
 
 ### Critical Perspective
@@ -270,6 +270,7 @@ Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows
 
 ## See Also
 
+- [[Dr. Brain Series]]
 - [[1992 - The Island of Dr. Brain|→ Next: The Island of Dr. Brain]]
 - [[1995 - The Lost Mind of Dr. Brain]]
 - [[1996 - The Time Warp of Dr. Brain]]
@@ -289,7 +290,7 @@ Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows
 [^ref-7]: [StrategyWiki – Front Hall](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Front_hall) – puzzle progression, gameplay structure
 [^ref-8]: [MobyGames – Castle of Dr. Brain Reviews](https://www.mobygames.com/game/1523/castle-of-dr-brain/reviews/) – user reviews, trivia, educational context
 [^ref-9]: [StrategyWiki – Castle of Dr. Brain](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain) – basic game information, age recommendation
-[^ref-10]: [Quest Studios – Castle of Dr. Brain Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/castle-of-dr-brain/) – track listing, room names
+[^ref-10]: [Quest Studios – Castle of Dr. Brain Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/castle-of-dr-brain/) – track listing, room names; [archived copy, 2015-11-24](https://web.archive.org/web/20151124230611/http://www.midimusicadventures.com/queststudios/digital-soundtracks/castle-of-dr-brain/)
 [^ref-11]: [StrategyWiki – Job Skills](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Job_skills) – final puzzle description
 [^ref-12]: [Sierra Fandom Wiki – Castle of Dr. Brain](https://sierra.fandom.com/wiki/Castle_of_Dr._Brain) – interface comparison, Bach music reference
 [^ref-13]: [The Adventurers' Guild – Final Rating](https://advgamer.blogspot.com/2016/01/castle-of-dr-brain-final-rating.html) – review score, graphics assessment, interface praise
@@ -309,7 +310,7 @@ Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows
 [^ref-28]: [The Adventurers' Guild – Mazes and Codes](https://advgamer.blogspot.com/2015/12/castle-of-dr-brain-mazes-and-codes.html) – cryptogram solution, developer names in word search
 [^ref-29]: [Scribd – Castle of Dr. Brain Manual](https://www.scribd.com/document/522383897/Castle-of-Dr-Brain-Manual) – manual documentation
 [^ref-30]: [Sierra Help Pages](https://sierrahelp.com/Games/DrBrain/CastleOfDrBrainHelp.html) – CD-ROM system requirements, audio troubleshooting
-[^ref-33]: [Computer Gaming World #94 (May 1992), "A Visit to the Mind-Bender" by Charles Ardai, p. 20](https://archive.org/details/Computer_Gaming_World_Issue_94) – review text, "DESIGNER: Corey Cole"
+[^ref-33]: [Computer Gaming World #94 (May 1992), "A Visit to the Mind-Bender" by Charles Ardai, p. 20](https://archive.org/details/Computer_Gaming_World_Issue_94) – review text, price ($49.95), difficulty levels, bundled puzzle book, "DESIGNER: Corey Cole"
 [^ref-34]: [MobyGames – Castle of Dr. Brain DOS credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/dos/) – full DOS credit list
 [^ref-35]: [MobyGames – Castle of Dr. Brain Amiga credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/amiga/) – Amiga credit list (Douglas Herring, Art Designer)
 [^ref-36]: [MobyGames – Castle of Dr. Brain Macintosh credits](https://www.mobygames.com/game/1523/castle-of-dr-brain/credits/macintosh/) – Mac port programmers
