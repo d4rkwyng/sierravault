@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: SCI1.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Official Book of Games Volume 4 is another name for Hoyle Classic
   Card Games (1993), Sierra On-Line's VGA remake of Hoyle Volume 1 with eight card
   games, digitized speech and Sierra characters as opponents.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 4
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 > [!note] Duplicate entry
 > "Hoyle Official Book of Games Volume 4" is the same game as **[[1993 - Hoyle Classic Card Games]]**, which is the main entry for it. There was no separate 1991 release: the fourth Hoyle volume came out in 1993 as Hoyle Classic Card Games[^ref-1][^ref-4]. This page has been corrected to describe that 1993 game.
@@ -195,7 +195,6 @@ The Internet Archive holds a DOS copy installed from the original floppies, whic
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
 - [[1993 - Hoyle Official Book of Games - Volume 5]]
 - [[1996 - Hoyle Blackjack]]
 - [[1996 - Hoyle Casino]]
