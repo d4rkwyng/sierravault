@@ -84,13 +84,13 @@ A May 2024 Backloggd user review called it "handily the best of their card game 
 
 ### Production
 
-MobyGames credits 61 people on the Windows version, including designer and documentation manager Ryan Spain, executive producer Stephen H. Van Horn, project lead John Gilmore, art director Rabih AbouJaoudé, and composer and sound engineer Mike Caviezel[^ref-7]. MobyGames describes the game as an updated version of the 1999 *Hoyle Card Games* whose content "closely resembles" the previous year's *Card Games: Hoyle 2004 Edition*[^ref-7].
+MobyGames credits 61 people on the Windows version, including designer and documentation manager Ryan Spain, executive producer Stephen H. Van Horn, project lead John Gilmore, art director [[Rabih AbouJaoudé]], and composer and sound engineer Mike Caviezel[^ref-7]. MobyGames describes the game as an updated version of the 1999 *Hoyle Card Games* whose content "closely resembles" the previous year's *Card Games: Hoyle 2004 Edition*[^ref-7].
 
 **Development Credits:**[^ref-7]
 - **Designer:** Ryan Spain
 - **Executive Producer:** Stephen H. Van Horn
 - **Principal Software Engineer, Project Lead:** John Gilmore
-- **Art Director:** Rabih AbouJaoudé
+- **Art Director:** [[Rabih AbouJaoudé]]
 - **Composer:** Mike Caviezel
 
 The game was released during Vivendi's 2004 cutbacks at Sierra; Wikipedia notes that in that process some assets, "like the *Hoyle* franchise", were sold to other publishers or developers[^ref-17].

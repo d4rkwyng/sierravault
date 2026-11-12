@@ -114,7 +114,7 @@ GamesDomain framed the game as part of Sierra's case for card games: not every c
 
 ### Credits
 
-MobyGames credits 39 people.[^ref-1] Jim Love designed the game, and Stephen H. Van Horn produced it. Earl Malmrose was lead engineer, with Frank T. Hollander as senior software engineer. Character animation was by Rabih AbouJaoudé, Heather Ivy and Gayle Rowbotham, and Julian Love did the intro animation. Evan Schiller composed the music, with additional music and sound by Jim Love. The voice actors were Pat Cashman, Amy De Bourget, Jeff Hoyt, Linda Mathews and Kate Myre.[^ref-1]
+MobyGames credits 39 people.[^ref-1] Jim Love designed the game, and Stephen H. Van Horn produced it. Earl Malmrose was lead engineer, with Frank T. Hollander as senior software engineer. Character animation was by [[Rabih AbouJaoudé]], Heather Ivy and Gayle Rowbotham, and Julian Love did the intro animation. Evan Schiller composed the music, with additional music and sound by Jim Love. The voice actors were Pat Cashman, Amy De Bourget, Jeff Hoyt, Linda Mathews and Kate Myre.[^ref-1]
 
 ### Package and Requirements
 

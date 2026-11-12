@@ -97,7 +97,7 @@ The series is named after the 18th-century playing-card expert Edmond Hoyle.[^re
 
 ### Production
 
-The credits list a Sierra Entertainment team: executive producer Stephen H. Van Horn, designer Ryan Spain, project lead Eric Fleming, art director Rabih AbouJaoudé, and composer and sound engineer Mike Caviezel. MobyGames counts 59 people with 65 credits.[^ref-8] The credits also note use of the Miles Sound System audio library (RAD Game Tools) and LIPSinc voice synchronization.[^ref-8]
+The credits list a Sierra Entertainment team: executive producer Stephen H. Van Horn, designer Ryan Spain, project lead Eric Fleming, art director [[Rabih AbouJaoudé]], and composer and sound engineer Mike Caviezel. MobyGames counts 59 people with 65 credits.[^ref-8] The credits also note use of the Miles Sound System audio library (RAD Game Tools) and LIPSinc voice synchronization.[^ref-8]
 
 The game was built under Sierra and first sold by Sierra, then sold on its own by Encore. Sierra's late-2003 Hoyle catalog listed Hoyle Table Games ("Backgammon, Checkers, Dominoes, Pool & More!") as its board-game title,[^ref-30] and Sierra's fall-2004 product index listed Hoyle Card Games 2005 and Hoyle Puzzle & Board 2005 but no standalone Hoyle Board Games 2005.[^ref-28] The board games first appeared in the Puzzle & Board bundle, which Sierra's product page dates to September 16, 2004 and copyrights to Sierra Entertainment and Vivendi Universal Games; Metacritic gives September 14, 2004.[^ref-27][^ref-14]
 
@@ -109,7 +109,7 @@ Navarre Corporation's annual report for the fiscal year ended March 31, 2005 des
 - **Executive Producer:** Stephen H. Van Horn
 - **Designer:** Ryan Spain
 - **Principal Software Engineer – Project Lead:** Eric Fleming
-- **Art Director:** Rabih AbouJaoudé
+- **Art Director:** [[Rabih AbouJaoudé]]
 - **Composer / Sound Engineer:** Mike Caviezel
 
 ### Voice Cast

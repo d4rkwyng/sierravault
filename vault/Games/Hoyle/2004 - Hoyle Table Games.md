@@ -30,7 +30,7 @@ The game is rated E for Everyone by the ESRB[^ref-5][^ref-9], and Metacritic and
 
 > [!info]- Game Info
 > **Developer:** Buzz Monkey Software, LLC[^ref-11]
-> **Designer:** Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely[^ref-23]
+> **Designer:** Ryan Spain, [[Rabih AbouJaoudé]], Eric Fleming, Michael Katz, Cara Ely[^ref-23]
 > **Publisher:** Sierra Entertainment[^ref-5]
 > **Engine:** Unknown
 > **Platforms:** Windows 95, Windows 98, Windows Me[^ref-3][^ref-26]
@@ -119,9 +119,9 @@ Hoyle Table Games 2004 was developed by Buzz Monkey Software, LLC and published 
 **Development Credits:**[^ref-23]
 - **Executive Producer:** Stephen H. Van Horn
 - **Producer:** Cara Ely
-- **Designers:** Ryan Spain, Rabih AbouJaoudé, Eric Fleming, Michael Katz, Cara Ely
+- **Designers:** Ryan Spain, [[Rabih AbouJaoudé]], Eric Fleming, Michael Katz, Cara Ely
 - **Principal Software Engineer – Project Lead:** Michael Katz
-- **Art Director:** Rabih AbouJaoudé
+- **Art Director:** [[Rabih AbouJaoudé]]
 - **Documentation Manager & Writer:** Ryan Spain
 - **Composer and Sound Engineer:** Mike Caviezel
 - **Voice Synchronization:** Powered by LIPSinc

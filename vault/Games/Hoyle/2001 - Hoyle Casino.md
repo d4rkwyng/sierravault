@@ -28,7 +28,7 @@ The game offers fourteen casino games with "over four hundred combinations", a t
 > **Developer:** Sierra Entertainment[^ref-17]
 > **Designer:** Jason Willig, Ryan Spain, Jonathan Watts, Will Barker[^ref-1]
 > **Producer:** Jason Willig[^ref-1]
-> **Art Director:** Rabih AbouJaoudé[^ref-1]
+> **Art Director:** [[Rabih AbouJaoudé]][^ref-1]
 > **Publisher:** Sierra Entertainment[^ref-17]
 > **Engine:** Unknown
 > **Platforms:** Windows, Mac OS[^ref-7][^ref-18]
@@ -90,14 +90,14 @@ Hoyle Casino 2002 was released alongside Hoyle Card Games 2002, Hoyle Board Game
 
 ### Production
 
-MobyGames credits 58 people on the Windows version, including executive producer Stephen H. Van Horn, producer Jason Willig, designers Jason Willig, Ryan Spain, Jonathan Watts and Will Barker, project lead John Gilmore, and art director Rabih AbouJaoudé[^ref-1].
+MobyGames credits 58 people on the Windows version, including executive producer Stephen H. Van Horn, producer Jason Willig, designers Jason Willig, Ryan Spain, Jonathan Watts and Will Barker, project lead John Gilmore, and art director [[Rabih AbouJaoudé]][^ref-1].
 
 **Development Credits:**[^ref-1]
 - **Executive Producer:** Stephen H. Van Horn
 - **Producer:** Jason Willig
 - **Designers:** Jason Willig, Ryan Spain, Jonathan Watts, Will Barker
 - **Principal Software Engineer – Project Lead:** John Gilmore
-- **Art Director:** Rabih AbouJaoudé
+- **Art Director:** [[Rabih AbouJaoudé]]
 - **Composers:** Mike Caviezel, Evan Schiller[^ref-28]
 - **Sound Engineer:** Mike Caviezel[^ref-28]
 

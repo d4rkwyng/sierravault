@@ -30,7 +30,7 @@ The package includes a manual, both electronic and hard copy, "detailing the rul
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Designer:** Rabih AbouJaoudé, Paul Horn, Robert L. Jerauld, Michael Katz[^ref-1]
+> **Designer:** [[Rabih AbouJaoudé]], Paul Horn, Robert L. Jerauld, Michael Katz[^ref-1]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-1]
@@ -123,15 +123,15 @@ Hoyle Board Games 2001 (also known as Hoyle Board Games 5) followed the 1998 edi
 
 ### Production
 
-The game was developed by Sierra On-Line, Inc.[^ref-1] Its four credited designers – Rabih AbouJaoudé, Paul Horn, Robert L. Jerauld and Michael Katz – were also credited with the design of the 1998 edition[^ref-1][^ref-14].
+The game was developed by Sierra On-Line, Inc.[^ref-1] Its four credited designers – [[Rabih AbouJaoudé]], Paul Horn, Robert L. Jerauld and Michael Katz – were also credited with the design of the 1998 edition[^ref-1][^ref-14].
 
 **Development Credits:**[^ref-1]
 - **Producer:** Robert L. Jerauld
 - **Associate Producer:** Eric Hook
 - **Sr. Software Engineer-Project Lead:** Roger Key
 - **Creative Director:** Herb Perez
-- **Lead Artists:** Rabih AbouJaoudé, Julian Love
-- **Designers:** Rabih AbouJaoudé, Paul Horn, Robert L. Jerauld, Michael Katz
+- **Lead Artists:** [[Rabih AbouJaoudé]], Julian Love
+- **Designers:** [[Rabih AbouJaoudé]], Paul Horn, Robert L. Jerauld, Michael Katz
 
 ### Technical Specifications
 

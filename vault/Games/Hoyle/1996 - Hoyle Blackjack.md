@@ -112,7 +112,7 @@ Hoyle Blackjack was produced in-house at Sierra On-Line[^ref-6]. MobyGames credi
 - **Creative Director:** Julie Pogue Barnes
 - **Lead Engineer:** Earl Malmrose; **Engineers:** Tim Knappenberger, Frank T. Hollander
 - **Script:** Rodney Sherwood, Allan Batchelder, Joe Vespaziani
-- **Character Animators:** Rabih AbouJaoudé, Heather Ivy
+- **Character Animators:** [[Rabih AbouJaoudé]], Heather Ivy
 - **Artists:** Tina Dickey, Gayle Rowbotham, Julie Pogue Barnes
 - **Composer & Sound Designer:** Jonathan Cunningham
 - **Sound Effects & Editing:** James Ackley, Keith Bowers, Kevin Cannon
@@ -120,7 +120,7 @@ Hoyle Blackjack was produced in-house at Sierra On-Line[^ref-6]. MobyGames credi
 
 The voices were recorded at Clatter & Din[^ref-24]. Internet play ran on Sierra's Internet Gaming System (SIGS)[^ref-4][^ref-24]. In InterAction's Holiday 1996 profile of the Hoyle team, producer Steve Van Horn said Blackjack, Poker and Casino "all have Internet play capabilities"[^ref-37].
 
-Sierra's own magazine, InterAction (Holiday 1996), names Van Horn as the producer who led the team that made Hoyle Solitaire and Hoyle Blackjack, Earl Malmrose as lead programmer, and the artists Rabih AbouJaoudé (lead artist) and Heather Ivy, who sketched the table characters; it credits the comedian Rodney Sherwood as the source of the characters' attitude[^ref-37]. InterAction's Fall 1996 issue says the animated characters from Hoyle Blackjack were reused in Hoyle Casino[^ref-36]. It also reports that beta testers played a Sierra Blackjack tournament over the Net in June[^ref-36].
+Sierra's own magazine, InterAction (Holiday 1996), names Van Horn as the producer who led the team that made Hoyle Solitaire and Hoyle Blackjack, Earl Malmrose as lead programmer, and the artists [[Rabih AbouJaoudé]] (lead artist) and Heather Ivy, who sketched the table characters; it credits the comedian Rodney Sherwood as the source of the characters' attitude[^ref-37]. InterAction's Fall 1996 issue says the animated characters from Hoyle Blackjack were reused in Hoyle Casino[^ref-36]. It also reports that beta testers played a Sierra Blackjack tournament over the Net in June[^ref-36].
 
 The CD also carried the "Larry Pops Up" mini program, in which Larry appears after a period of inactivity and says a funny line. It also included a Hoyle 5: Classic Games trailer and demos of Indy Car Racing 2 and The Lost Mind of Dr. Brain[^ref-28].
 

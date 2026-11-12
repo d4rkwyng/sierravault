@@ -29,7 +29,7 @@ The series is named after the 18th-century playing-card expert Edmond Hoyle, and
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment, Inc.[^ref-1]
-> **Designer:** Paul Horn, Rabih AbouJaoudé, Michael Katz, Robert L. Jerauld[^ref-24]
+> **Designer:** Paul Horn, [[Rabih AbouJaoudé]], Michael Katz, Robert L. Jerauld[^ref-24]
 > **Publisher:** [[Encore Software]], Inc.[^ref-1]
 > **Engine:** Unknown
 > **Platforms:** Windows (98, 2000, Me, XP)[^ref-3]
@@ -113,10 +113,10 @@ MobyGames credits 68 people on the Windows release, including an Encore Software
 - **Executive Producer:** Stephen H. Van Horn[^ref-11]
 - **Producer:** Karen Thomas
 - **Associate Producer:** Robert L. Jerauld
-- **Designers:** Paul Horn, Rabih AbouJaoudé, Michael Katz, Robert L. Jerauld
+- **Designers:** Paul Horn, [[Rabih AbouJaoudé]], Michael Katz, Robert L. Jerauld
 - **Lead Engineers:** Earl Malmrose, Michael Katz[^ref-24]
 - **Software Engineers:** Paul Horn, John Tighe, Tim Weiss, Eric Tangborn[^ref-13]
-- **Lead Artist / 3D Illustrator:** Rabih AbouJaoudé
+- **Lead Artist / 3D Illustrator:** [[Rabih AbouJaoudé]]
 - **Senior 3D Artists:** Julian Love, Eric Hook[^ref-12]
 - **Composer:** Evan Schiller
 - **Corporate Product Certification:** Andrea Stone[^ref-14]

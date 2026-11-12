@@ -30,7 +30,7 @@ The game arrived during a turbulent period in Sierra's corporate history, shortl
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Designer:** Paul Horn, Rabih AbouJaoudé, Michael Katz, Robert L. Jerauld[^ref-1]
+> **Designer:** Paul Horn, [[Rabih AbouJaoudé]], Michael Katz, Robert L. Jerauld[^ref-1]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-1][^ref-2][^ref-9]
@@ -99,7 +99,7 @@ Sierra Chest gives the game's first release date as March 15, 1999.[^ref-6] All 
 - **Executive Producer:** Stephen H. Van Horn
 - **Producer:** Karen Thomas
 - **Associate Producer:** Robert L. Jerauld
-- **Designers:** Paul Horn, Rabih AbouJaoudé, Michael Katz, Robert L. Jerauld
+- **Designers:** Paul Horn, [[Rabih AbouJaoudé]], Michael Katz, Robert L. Jerauld
 - **Lead Engineers:** Earl Malmrose, Michael Katz
 - **Script Writers:** Jeff Hoyt, Allan Batchelder, Rodney Sherwood, Robert L. Jerauld
 - **Composer:** Evan Schiller

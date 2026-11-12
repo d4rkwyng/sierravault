@@ -92,7 +92,7 @@ InterAction's Holiday 1996 profile of the Hoyle team says producer Steve Van Hor
 
 - Lead programmer Earl Malmrose
 - Jim Love, whom Van Horn called "our Hoyle Designer" (series-level wording; the article does not call him Casino's designer)
-- Lead artist Rabih AbouJaoude and artist Heather Ivy, who drew the Casino characters
+- Lead artist [[Rabih AbouJaoudé|Rabih AbouJaoude]] and artist Heather Ivy, who drew the Casino characters
 
 The characters' attitude came from comedian Rodney Sherwood, "who did most of the voices on the last two Dr. Brain projects"[^ref-59]. Sierra's Holiday 1996 InterAction reported that "the latest Hoyle game, Hoyle Casino, has just been released"[^ref-59].
 
