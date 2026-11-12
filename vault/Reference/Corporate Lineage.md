@@ -1,14 +1,14 @@
 ---
 title: "Corporate Lineage"
 type: reference
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 description: "The acquisition chain that took Sierra On-Line from its 1979 founding to the Microsoft Gaming catalog, including dates, dollar amounts, and key executives."
 tags: [reference, sierra-history, acquisitions, corporate]
 ---
 
 # Corporate Lineage
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -51,7 +51,7 @@ Through the late 1980s and 1990s, Sierra established flagship adventure franchis
 
 Sierra went public in October 1988 at $9.00 a share, trading on NASDAQ as "Sier".[^ref-39] Its headquarters move from California to Bellevue, Washington, began August 1993 and continued into 1994.[^ref-41][^ref-66][^ref-67][^ref-68] In the fiscal year ending March 31, 1996, Sierra's revenues were USD 158.2 million.[^ref-16]
 
-## Era 3 — CUC International / Cendant (1996–1998)
+## Era 3 — CUC International / Cendant (1996–1999)
 
 On February 20, 1996, **CUC International** — a Connecticut-based consumer-services company best known for its Comp-U-Card discount-shopping membership business — announced that it would acquire Sierra On-Line in a transaction "valued at approximately $1.06 billion", based on CUC's share price.[^ref-19] The merger agreement was dated February 19, 1996, and the merger was completed on July 24, 1996.[^ref-18] CUC grouped Sierra with Davidson & Associates (owner of Blizzard Entertainment) and, from 1997, [[Knowledge Adventure|Knowledge Adventure]] and [[Berkeley Systems|Berkeley Systems]].[^ref-20][^ref-1] Studio changes in the CUC years:
 
@@ -63,9 +63,9 @@ Ken Williams stayed on after the sale but left CUC in November 1997; Roberta Wil
 
 In December 1997 CUC merged with HFS Incorporated to form **Cendant Corporation**. On April 15, 1998, Cendant announced that it had discovered accounting irregularities in certain former CUC business units;[^ref-57][^ref-58] for three years before the merger CUC had overstated its income by over USD 500 million.[^ref-20] Cendant later sold its consumer-software business.
 
-## Era 4 — Havas Interactive (1998–2001)
+## Era 4 — Havas Interactive (1999–2001)
 
-On November 20, 1998, Cendant confirmed it would sell its consumer software unit — Sierra On-Line, Davidson & Associates and Knowledge Adventure — to the French media group **Havas** for USD 800 million, plus up to USD 200 million more under a contingency, giving "Havas and its parent Vivendi" control.[^ref-24] The sale to "Paris-based Havas SA, a subsidiary of Vivendi SA" closed on January 12, 1999.[^ref-57] The unit traded as **Havas Interactive** from 1998 to 2001.[^ref-27]
+On November 20, 1998, Cendant confirmed it would sell its consumer software unit — Sierra On-Line, Davidson & Associates and Knowledge Adventure — to the French media group **Havas** for USD 800 million, plus up to USD 200 million more under a contingency, giving "Havas and its parent Vivendi" control.[^ref-24] The sale to "Paris-based Havas SA, a subsidiary of Vivendi SA" closed on January 12, 1999, ending the Cendant years.[^ref-57] Wikipedia dates the **Havas Interactive** name from 1998 to 2001.[^ref-27]
 
 On February 22, 1999 ("Chainsaw Monday"), mass layoffs hit Oakhurst, where the original Sierra office was by then known as [[Yosemite Entertainment]]; about a third of the staff were offered relocation to Bellevue, and two of its projects were to resume there.[^ref-26][^ref-1] Relic's [[1999 - Homeworld|Homeworld]] was published by Sierra Studios on September 28, 1999.[^ref-33]
 
@@ -148,7 +148,6 @@ The current state of major Sierra-lineage IPs (October 2026):
 [^ref-39]: [Sierra News Magazine, Vol. 3 No. 2 (Summer 1990) — Internet Archive](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990/page/n11/) — p.12 (checked against page image): "In October of 1988… Sierra did finally go public, at $9.00 a share… NASDAQ… 'Sier'"; p.43 (page image): "On March 27, 1990, Sierra announced intent to acquire… Dynamix"; Ken Williams: "We bought an Apple 2"; timeline: May 1980 Mystery House, 1983 move from Coarsegold to Oakhurst
 [^ref-40]: [Wikipedia — Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) — Seattle; "acquired by Sierra On-Line in 1996"; World Builders engine games War in Middle Earth (1988), Conan: The Cimmerian (1991)
 [^ref-41]: [The Seattle Times — Sierra's Game Plan (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) — the company "moved from California to Bellevue two years ago this month"; acquisitions list: "September 1995: Arion Software Inc., Austin, Texas"; "November 1995: SubLogic Inc., Champaign, Ill. Produces non-military flight-simulation games. Employees: 12"
-[^ref-54]: [Engadget — Take-Two is buying Gearbox from Embracer for $460 million](https://www.engadget.com/take-two-is-buying-gearbox-from-embracer-for-460-million-145711528.html) — March 28, 2024 (Take-Two's own release is dated March 27, 2024; Embracer's is March 28); Take-Two "will fully own the… Homeworld" franchise; update: divestment closed June 12, 2024
 [^ref-42]: [Time Extension — Jane Jensen Has Written A Story For Gabriel Knight 4 (July 2024)](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — Jensen: "Now that the licenses are with Microsoft, I think there's at least a chance of that"
 [^ref-43]: [Wikipedia — Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — Codemasters published Box Office Bust (2009); "Assemble Entertainment released two Leisure Suit Larry games", Wet Dreams Don't Dry (2018), Wet Dreams Dry Twice (2020)
 [^ref-44]: [Steam — SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) — Guys from Andromeda; "Release Date: Dec 23, 2025"; "Created by the minds behind the beloved Space Quest series"
@@ -161,9 +160,10 @@ The current state of major Sierra-lineage IPs (October 2026):
 [^ref-51]: [Wikipedia — Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) — developer and publisher Prophecy Games; 2024
 [^ref-52]: [Wikipedia — King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) — developed by The Odd Gentlemen, "published by Activision under the Sierra Entertainment brand name"
 [^ref-53]: [Wikipedia — Half-Life (video game)](https://en.wikipedia.org/wiki/Half-Life_(video_game)) — developer Valve; publisher Sierra Studios; released November 19, 1998
+[^ref-54]: [Engadget — Take-Two is buying Gearbox from Embracer for $460 million](https://www.engadget.com/take-two-is-buying-gearbox-from-embracer-for-460-million-145711528.html) — March 28, 2024 (Take-Two's own release is dated March 27, 2024; Embracer's is March 28); Take-Two "will fully own the… Homeworld" franchise; update: divestment closed June 12, 2024
 [^ref-55]: [Adventure Game Hotspot — Jane Jensen releases Gabriel Knight short story Five Hearts (November 19, 2024)](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) — "First chapter of original new story available to download from Robert Holmes' website"
 [^ref-56]: [Wikipedia — Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) — 2004; "published by Vivendi Universal Games and their subsidiary Sierra Entertainment"
-[^ref-57]: [SEC EDGAR — Cendant Corporation Form 10-K/A for fiscal 1998](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699001310/0000950136-99-001310.txt) — "On April 15, 1998, we announced that… we discovered accounting irregularities"; "On January 12, 1999, we completed the sale of… Cendant Software Corporation… to Paris-based Havas SA, a subsidiary of Vivendi SA, for approximately $800 million"
+[^ref-57]: [SEC EDGAR — Cendant Corporation Form 10-K/A for fiscal 1998](https://www.sec.gov/Archives/edgar/data/0000723612/000095013699001310/0000950136-99-001310.txt) — "On April 15, 1998, we announced that… we discovered accounting irregularities"; "On January 12, 1999, we completed the sale of… Cendant Software Corporation… to Paris-based Havas SA, a subsidiary of Vivendi SA, for approximately $800 million" Original FY1998 10-K, Wayback copy: [web.archive.org/web/20250430200024/…/0000950136-99-000391.txt](https://web.archive.org/web/20250430200024/https://www.sec.gov/Archives/edgar/data/723612/0000950136-99-000391.txt) — "On April 15, 1998, we announced that…"; "On January 12, 1999, we completed the sale of our consumer software division, Cendant Software… to Paris-based Havas SA, a subsidiary of Vivendi SA, for $800 million in cash plus future potential cash payments"
 [^ref-58]: [The Digital Antiquarian — The End of Sierra as We Knew It, Part 2: The Scandal](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-2-the-scandal/) — "The day of reckoning was April 15, 1998"; Mask of Eternity: "the game shipped on November 24, 1998"
 [^ref-59]: [The Digital Antiquarian — The Sierra Network](https://www.filfre.net/2018/02/the-sierra-network/) — "On July 28, 1993… AT&T bought a 20-percent stake"; renamed The ImagiNation Network; "On November 15, 1994, AT&T bought all remaining ImagiNation shares… for $40 million"; "On August 7, 1996, America Online bought the service from AT&T"
 [^ref-60]: [CUC Software — CUC completes acquisition of Knowledge Adventure (Wayback, 1997)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) — "CUC has issued 3,461,551 shares"; "valued at $86.1 million based on CUC's closing stock price of $24 7/8 on January 31, 1997"
