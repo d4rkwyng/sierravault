@@ -7,12 +7,12 @@ first_release: 1987
 last_release: 2026
 total_games: 35
 genre: "Adventure, Edutainment, Simulation"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Coktel Adventures Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ Coktel published its simulation and erotic games under Tomahawk, which was "pres
 |------|-------|--------------------------|-------|
 | 1993 | [[1993 - Goblins Quest 3\|Goblins Quest 3]] | Pierre Gilhodes, Muriel Tramis | Third Gobliiins |
 | 1993 | [[1993 - Lost in Time\|Lost in Time]] | Muriel Tramis | First-person adventure |
-| 1993 | [[1993 - Inca II - Wiracocha\|Inca II: Wiracocha]] | Yannick Chosse, Stéphane Ressot[^ref-23] | Inca sequel |
+| 1993 | [[1993 - Inca II - Wiracocha\|Inca II: Nations of Immortality (*Wiracocha* in Europe)]] | Yannick Chosse, Stéphane Ressot[^ref-23] | Inca sequel |
 | 1995 | [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|The Bizarre Adventures of Woodruff and the Schnibble]] | Pierre Gilhodes, Muriel Tramis, Stéphane Fournier | Gilhodes's last Coktel game |
 | 1995 | [[1995 - The Last Dynasty\|The Last Dynasty]] | Philippe Lamarque, Frédéric Chauvelot | Space combat and adventure |
 | 1996 | [[1996 - Urban Runner\|Urban Runner]] | Philippe Lamarque, Silvan Boris Schmid, Muriel Tramis | Interactive-movie adventure |
@@ -73,22 +73,22 @@ Coktel's educational lines were its own products, not Tomahawk's. Wikipedia cred
 | Year | Title | Developer / Publisher (per game page) |
 |------|-------|---------------------------------------|
 | 1992 | [[1992 - A.J.'s World of Discovery\|A.J.'s World of Discovery]] | Coktel Vision |
-| 1994 | [[1994 - Playtoons 1 - Uncle Archibald\|Playtoons 1: Uncle Archibald]] | Coktel Vision / Sierra On-Line |
+| 1994 | [[1994 - Playtoons 1 - Uncle Archibald\|Playtoons 1: Featuring Uncle Archibald]] | Coktel Vision / Sierra On-Line |
 | 1995 | [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator\|Playtoons 2: The Case of the Counterfeit Collaborator]] | Coktel Vision / Sierra On-Line |
-| 1995 | [[1995 - Playtoons 3 - The Secret of the Castle\|Playtoons 3: The Secret of the Castle]] | Coktel Vision / Sierra On-Line |
+| 1995 | [[1995 - Playtoons 3 - The Secret of the Castle\|Playtoons 3: Secret of the Castle]] | Coktel Vision / Sierra On-Line |
 | 1995 | [[1995 - Playtoons 4 - The Mandarine Prince\|Playtoons 4: The Mandarine Prince]] | Coktel Vision / Sierra On-Line |
 | 1995 | [[1995 - Playtoons 5 - The Stone of Wakan\|Playtoons 5: The Stone of Wakan]] | Coktel Vision / Sierra On-Line |
 | 1996 | [[1996 - Adiboo - Magical Playland\|Adiboo: Magical Playland]] | Coktel Vision / Knowledge Adventure, Sierra On-Line[^ref-22] |
-| 2003 | [[2003 - Adiboo - Paziral's Secret\|Adiboo: Paziral's Secret]] | Coktel Vision, Neko Entertainment / Vivendi Universal Games |
+| 2003 | [[2003 - Adiboo - Paziral's Secret\|Adiboo & Paziral's Secret]] | Coktel Vision, Neko Entertainment / Vivendi Universal Games |
 | 2004 | [[2004 - Adiboo and the Energy Thieves\|Adiboo and the Energy Thieves]] | Coktel Vision / Vivendi Universal Games |
 
 ## Gobliiins Revivals (2009–2026)
 
 In 2009, [[Pierre Gilhodes]] returned to the series with [[2009 - Gobliiins 4|Gobliiins 4]].[^ref-3] MobyGames lists Société Pollene as developer and 1C Company and Snowball Studios (Russia) and Kalypso Media (France, Germany, UK) as publishers.[^ref-6] Its game page credits the design to Gilhodes, with Tramis credited only in the thanks; MobyGames' credits list Gilhodes as designer and thank Tramis as co-author of the scenarios for the first three games, while Wikipedia's *Gobliiins* article says the game was "designed by Pierre Gilhodes and Muriel Tramis".[^ref-46][^ref-3] MobyGames' biography calls *Woodruff and the Schnibble* (1995) the last game Gilhodes worked on for Coktel, though his MobyGames credits also list graphics on Playtoons 4 and Playtoons 5 (both 1995).[^ref-9][^ref-42]
 
-On 27 May 2026 Red Art Games and Red Art Studios released the *Gobliiins Collection*, five point-and-click adventure games, for PlayStation 5, Xbox Series and Switch.[^ref-47]
+On 27 May 2026 Red Art Games and Red Art Studios released the *Gobliiins Collection*, five point-and-click adventure games, for PlayStation 5, Xbox Series and Switch; a Switch 2 version followed on 17 August 2026.[^ref-47][^ref-49]
 
-[[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] (2023) and [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]] (2026) were developed by Gilhodes and self-published under his Schnibble Productions label; Steam lists them as released on July 20, 2023 and February 13, 2026.[^ref-7][^ref-8] *GOBLiiNS6*, a sequel to *Gobliins 2*, has two "i"s in its title.[^ref-3]
+[[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] (2023) and [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]] (2026) were developed by Gilhodes and self-published under his Schnibble Productions label; Steam lists them as released on July 20, 2023 and February 13, 2026 (*Gobliins 6* appeared on itch.io on February 10).[^ref-7][^ref-8] *GOBLiiNS6*, a sequel to *Gobliins 2*, has two "i"s in its title.[^ref-3]
 
 ## Designer Profiles
 
@@ -153,3 +153,4 @@ Coktel's productions were mostly European. MobyGames' Tomahawk page says none of
 [^ref-46]: [MobyGames — Gobliiins 4 (Wayback, February 2026)](https://web.archive.org/web/20260204202108/https://www.mobygames.com/game/40608/gobliiins-4/) — Windows credits: "Designed by: Pierre Gilhodes"; "Thank you to Muriel Tramis (co-author of the scenarios for the first three Goblins and the ergonomics system used in Gobliiins 4.)"
 [^ref-47]: [Gematsu — Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available (May 27, 2026)](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) — Red Art Games and Red Art Studios: "a collection of five point-and-click adventure games"
 [^ref-48]: [Coming Soon Magazine — Adiboo: I can read, I can count! (Wayback, 16 May 2019)](http://web.archive.org/web/20190516154903/http://www.csoon.com/issue21/adiboo.htm) — "Since its introduction in 1990, over 1.5 million copies of the ADI series were sold throughout the world"
+[^ref-49]: [Gematsu — Gobliiins Collection](https://www.gematsu.com/games/gobliiins-collection) — release list: "(Switch 2) Worldwide Aug 17 2026"; five games: Gobliiins, Gobliins 2, Goblins 3, Gobliiins 4, Gobliiins 5
