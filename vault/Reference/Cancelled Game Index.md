@@ -1,14 +1,14 @@
 ---
 title: "Cancelled Game Index"
 type: reference
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Every game in the SierraVault Cancelled folder, with what the sources say about when and why it ended, who led it (where known), and what is known to survive."
 tags: [reference, cancelled, never-released]
 ---
 
 # Cancelled Game Index
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 ### [[CXL - King's Quest IX]]
 
 - **Type:** Cancelled franchise sequel
-- **Lead designer:** [[Roberta Williams]] wrote the original concept; later attempts were made without her.[^ref-28]
+- **Lead designer:** [[Roberta Williams]] wrote the original concept; later attempts were made without her, including *Twins of Change*, directed by [[Mark Seibert]] with Cindy Vanous as writer.[^ref-28][^ref-45]
 - **Cancellation:** Several official attempts never shipped: *King's Quest: Twins of Change* (1999–2002, Sierra's Seattle studio under Vivendi), a Silicon Knights project (2007) and a Telltale Games project (2011–2013), which Telltale's Steve Allison confirmed on April 3, 2013 was no longer being worked on.[^ref-28][^ref-37][^ref-38] *King's Quest* (2015) by The Odd Gentlemen was a reimagining; its creative director Matt Korba said "it's not King's Quest IX or anything like that".[^ref-28]
 - **Status today:** No playable build is known. A summary design document was given to the King's Quest Omnipedia with Ken and Roberta Williams' permission.[^ref-28]
 
@@ -31,7 +31,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 
 - **Type:** Cancelled franchise sequel
 - **Lead designers:** [[Scott Murphy]] and [[Leslie Balfour]][^ref-2][^ref-11]
-- **Cancellation:** Started in early 1997;[^ref-2] put "on hold indefinitely" in December 1997;[^ref-11] a proposed restart in early 1999 quickly stalled, and the project died when Sierra closed its Oakhurst studio on February 22, 1999.[^ref-11][^ref-29] A separate Space Quest reboot contracted to Escape Factory was cancelled on December 19, 2002.[^ref-11]
+- **Cancellation:** Started in early 1997;[^ref-2] put "on hold indefinitely" in December 1997;[^ref-11] sources disagree on an early-1999 restart: spacequest.net says the project was restarted,[^ref-2] Citizendium says it was restarted but failed,[^ref-39] and The Virtual Broomcloset says a restart was proposed but quickly stalled.[^ref-11] The project ended with Sierra's closure of its Oakhurst studio on February 22, 1999.[^ref-29] A separate Space Quest reboot contracted to Escape Factory was cancelled on December 19, 2002, according to The Virtual Broomcloset (wiw.org).[^ref-11]
 - **Status today:** A short video teaser shipped on the August 1997 *Space Quest Collection*, and Rich Powell's concept art survives; documented at [SpaceQuest.net/sq7](https://spacequest.net/sq7/).[^ref-2][^ref-11]
 - **Significance:** The Space Quest creators' later game, [[2022 - SpaceVenture|SpaceVenture]] (Guys from Andromeda, "Created by the minds behind the beloved Space Quest series"), entered Steam Early Access on April 1, 2025 and was fully released on December 23, 2025.[^ref-12]
 
@@ -52,6 +52,7 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 ### [[CXL - Babylon 5 - Into the Fire]]
 
 - **Type:** Cancelled licensed game
+- **Designers:** Randy Littlejohn (listed as Designer on the Babylon 5 Fandom wiki)[^ref-43]; Abandonware France names Dan Foy, a longtime Sierra programmer, as the principal designer.[^ref-19]
 - **Cancellation:** 1999. IGN reported that "due to this reorganization" Sierra cancelled four titles, including *Babylon 5* and *Orcs: Revenge of the Ancients*, along with *Desert Fighters* and *Pro Pilot Paradise*.[^ref-18]
 - **Status today:** A beta build dated September 1999 surfaced online in 2014.[^ref-19]
 
@@ -79,14 +80,14 @@ The vault uses the `CXL -` filename prefix for cancelled games and a lower citat
 
 - **Type:** Cancelled remake (modern era)
 - **Lead designer:** [[Damon Slye]] (Mad Otter Games)[^ref-27]
-- **Cancellation:** 2013. Mad Otter Games' Kickstarter for a new *Red Baron* closed with "Funding Unsuccessful": $40,493 pledged of a $250,000 goal from 1,118 backers.[^ref-26] In September 2015 Slye was looking to raise $50,000 for a prototype, "with a potential release in 2016"; no game followed.[^ref-27]
+- **Outcome:** The Kickstarter failed in November 2013, and no release or formal cancellation has been found.[^ref-26][^ref-40] Mad Otter Games' Kickstarter for a new *Red Baron* closed with "Funding Unsuccessful": $40,493 pledged of a $250,000 goal from 1,118 backers.[^ref-26] In September 2015 Slye was looking to raise $50,000 for a prototype, "with a potential release in 2016"; no game followed.[^ref-27]
 - **Significance:** An alumni crowdfunding attempt, not a Sierra or Activision project.
 
 ### [[CXL - Precinct (2013)]]
 
 - **Type:** Cancelled spiritual successor
 - **Lead designer:** [[Jim Walls]][^ref-10]
-- **Cancellation:** 2013. The Kickstarter for *Precinct*, "from the creators of 'Police Quest'", was cancelled with $85,756.56 pledged against a $500,000 goal.[^ref-10]
+- **Cancellation:** 2013. The Kickstarter for *Precinct*, "from the creators of 'Police Quest'", was cancelled with $85,756 pledged against a $500,000 goal. A staged-funding campaign on the project's own website followed and was also shut down, with less than $12,000 pledged.[^ref-10][^ref-41]
 - **Significance:** Example of an alumnus revival attempt that didn't reach commercial production.
 
 ### King's Quest: Kingdom of Sorrow (Infamous Adventures)
@@ -115,12 +116,12 @@ These are NOT cancelled but unreleased. Listed for completeness; see each page f
 ### [[TBD - Order of the Thorne - Fortress of Fire]]
 
 - **Lead developer:** Infamous Quests
-- **Status:** In development for years without a release date; planned follow-up to [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]], which was released on January 26, 2016.[^ref-32]
+- **Status:** In development for years without a release date (the developer said in October 2025 the game was "in a real state of limbo" and "I don't know when or if we will finish that game");[^ref-44] planned follow-up to [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]], which was released on January 26, 2016.[^ref-32]
 
 ### [[TBD - Quest for Infamy - Roehm to Ruin]]
 
 - **Lead developer:** Infamous Quests
-- **Status:** Announced in March 2015 as a prequel to [[2014 - Quest for Infamy]].[^ref-31]
+- **Status:** Announced in March 2015 as a prequel to [[2014 - Quest for Infamy]].[^ref-31] It has not been released as of November 2026; its itch.io page still reads "Coming in 2023" with the status "In development".[^ref-42]
 
 ---
 
@@ -143,7 +144,7 @@ Manhunter 3 fits none of these: no deal to make it was ever struck.[^ref-17]
 ## References
 
 [^ref-2]: [SpaceQuest.net — Space Quest VII cancelled documentation](https://spacequest.net/sq7/) — "In early 1997 Sierra decided to make another Space Quest"; design team list naming Scott Murphy and Leslie Balfour
-[^ref-10]: [Kickstarter — Precinct campaign](https://www.kickstarter.com/projects/jimwalls/precinct) — "Precinct - from the creators of 'Police Quest' (Canceled) by Jim Walls"; campaign data: goal $500,000, pledged $85,756.56, state canceled
+[^ref-10]: [Kickstarter — Precinct campaign](https://www.kickstarter.com/projects/jimwalls/precinct) — "Precinct - from the creators of 'Police Quest' (Canceled) by Jim Walls"; campaign data: goal $500,000, pledged $85,756, state canceled
 [^ref-11]: [The Virtual Broomcloset — The True Story Behind Space Quest 7](https://wiw.org/~jess/sq7.html) — December 1997 "on hold indefinitely"; restarted 1999 and abandoned; August 1997 teaser; Escape Factory reboot cancelled December 19, 2002
 [^ref-12]: [Steam — SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) — Developer Guys from Andromeda; "Created by the minds behind the beloved Space Quest series"; "Early Access Release Date: Apr 1, 2025"; "Release Date: Dec 23, 2025"
 [^ref-13]: [Al Lowe — Is MCL Larry 8?](https://allowe.com/games/larry/history-of-larry/is-mcl-larry-8.html) — "At the end of 1998, while Sierra and I were negotiating a contract… Sierra cancelled production"
@@ -172,3 +173,10 @@ Manhunter 3 fits none of these: no deal to make it was ever struck.[^ref-17]
 [^ref-36]: [IGN — SWAT: Urban Justice](https://www.ign.com/games/swat-urban-justice) — "Game Designer Travis Steiner guides us through the fourth segment" (SWAT: Urban Justice Q&A #1, August 21, 2002)
 [^ref-37]: [Wikipedia — King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) — Telltale project first announced February 17, 2011; "confirmed to be canceled by Telltale senior vice president of publishing, Steve Allison, on April 3, 2013"
 [^ref-38]: [GameSpot — King's Quest Rights Go From Telltale to Activision](https://www.gamespot.com/articles/kings-quest-rights-go-from-telltale-to-activision/1100-6406390/) — "we can confirm that we are no longer working on the franchise"
+[^ref-39]: [Citizendium — Space Quest](https://en.citizendium.org/wiki/Space_Quest) — "The project was restarted in 1999, but failed at a very early stage"
+[^ref-40]: [Red Baron Game official site (Wayback, July 13, 2025)](https://web.archive.org/web/20250713132652/http://redbarongame.com/) — still shows "Red Baron is back!" pitch text
+[^ref-41]: [PCGamesN — Police Quest successor Precinct cancelled as crowdfunders decide it isn't any cop](https://www.pcgamesn.com/police-quest-successor-precinct-cancelled-crowdfunders-decide-it-isnt-any-cop) — the independent follow-up "garnered only 430 supporters to the tune of less than $12,000"
+[^ref-42]: [itch.io — Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) — "Coming in 2023 from Infamous Quests"; status "In development"
+[^ref-43]: [Babylon 5 Fandom Wiki — Into the Fire](https://babylon5.fandom.com/wiki/Babylon_5:_Into_the_Fire_(Game)) — "Randy Littlejohn: Designer"
+[^ref-44]: [Infamous Quests Patreon — Updates on RtR and Fortress of Fire (October 2025)](https://www.patreon.com/posts/141274312) — "this game is in a real state of limbo"; "I don't know when or if we will finish that game"
+[^ref-45]: [King's Quest Omnipedia — King's Quest: Twins of Change](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Twins_of_Change) — staff included Mark Seibert (Director) and Cindy Vanous (Writer)
