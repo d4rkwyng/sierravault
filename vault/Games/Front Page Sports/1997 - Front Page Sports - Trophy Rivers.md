@@ -7,10 +7,10 @@ publisher: Sierra On-Line, Inc.
 genre: Sports
 platforms: [Windows, Windows 3.x]
 series: Front Page Sports
-engine: Unknown
+engine: null
 protagonist: Player-controlled angler
 sierra_lineage: Core Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: 'Front Page Sports: Trophy Rivers is a river fishing simulation developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1997 for Windows 95 and
   Windows 3.1, covering salmon, trout and steelhead on five North American rivers.'
@@ -18,21 +18,20 @@ tags: [1990s, educational, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports: Trophy Rivers
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Front Page Sports: Trophy Rivers is a fishing simulation game developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line|Sierra On-Line, Inc.]] in 1997[^ref-1][^ref-23]. Part of Sierra's Front Page Sports line, the game invited players to "test your skills against giant salmon, trout and steelhead on five of the world's most incredible rivers... without ever leaving your computer"[^ref-2]. Alongside the fishing itself, it includes a "How To" multimedia river fishing reference and Pro-Tip videos, which the manual says "will be equally useful on real fishing trips...and vice versa"[^ref-23].
 
-Sierra's InterAction magazine presented the game as "a natural follow-up to TB2" ([[1996 - Front Page Sports - Trophy Bass 2|Trophy Bass 2]]), offering "over 200 miles of big fish on five of North America's top rivers" and more than 15 game-fish species, including salmon, trout and steelhead[^ref-21]. The rivers are the Deschutes, the Miramichi, the White, the Big Hole and the Sol Duc[^ref-21][^ref-22]. Fly-fishing is the headline feature, but players can also fish with spinning gear or bait-casting tackle, using bait, lures or flies[^ref-21]. GameSpot called it "a pseudo-sequel to Sierra's remarkably popular Trophy Bass series" that uses "almost the exact same style of gameplay," and summed it up as "occasionally boring, at times just plain annoying, but generally realistic and comprehensive... surely a game that only a fisherman could love"[^ref-4].
+Sierra's InterAction magazine presented the game as "a natural follow-up to TB2" ([[1996 - Front Page Sports - Trophy Bass 2|Trophy Bass 2]]), offering "over 200 miles of big fish on five of North America's top rivers" and more than 15 game-fish species, including salmon, trout and steelhead[^ref-21]. The rivers are the Deschutes (Oregon), the Miramichi (New Brunswick), the White (Arkansas), the Big Hole (Montana) and the Sol Duc (Washington, on the Olympic Peninsula)[^ref-21][^ref-22][^ref-26]. Fly-fishing is the headline feature, but players can also fish with spinning gear or bait-casting tackle, using bait, lures or flies[^ref-21]. GameSpot called it "a pseudo-sequel to Sierra's remarkably popular Trophy Bass series" that uses "almost the exact same style of gameplay," and summed it up as "occasionally boring, at times just plain annoying, but generally realistic and comprehensive... surely a game that only a fisherman could love"[^ref-4].
 
-Single-player modes are Fishing Trip, Tournament and a multi-tournament pro Career. Multiplayer offers cooperative and tournament play over LAN, modem or the Internet[^ref-1][^ref-23].
+Single-player modes are Fishing Trip, Tournament and a multi-tournament pro Career. Multiplayer offers cooperative and tournament play over LAN, modem or the Internet[^ref-1][^ref-23]. Computer Gaming World noted force-feedback joystick support, which required a downloadable patch[^ref-29].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Designer:** [[Randy Dersham]], Kurt Weber[^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Engine:** Unknown
 > **Platforms:** Windows, Windows 3.x[^ref-1]
 > **Release Year:** 1997[^ref-1]
 > **Series:** Front Page Sports
@@ -81,10 +80,13 @@ Recognized fishing experts give tips in full-motion video[^ref-21]. The credits 
 
 GameSpot's Hugo Foster scored Front Page Sports: Trophy Rivers 6.7 out of 10 ("Fair")[^ref-4]. Foster said its "glaring shortcomings in gameplay and graphics" did not stop it being "unique and fun enough to entertain anyone who's ever sat in his office and wished he were on a stream." He criticized the lack of any penalty for breaking the line, which lets tournament players shed small fish to reach the big one. He also disliked that a hooked big fish "immediately swims directly off of the screen." He called the graphics "serviceable but patchy," but found the ambient sound "very atmospheric"[^ref-4]. He concluded that, "just like real fishing, when you're hooked into a good run of 30-inch rainbows, all the pains and hassles are forgotten"[^ref-4].
 
+Computer Gaming World's Robert Coffey reviewed the game in the June 1998 issue (#167), in a "Wild World of Sports" roundup of off-beat sports titles, and rated it four stars out of five. He wrote that it "ends up providing a great deal of fun" and that "the fish fight back a lot," adding that the mouse-driven interface "is easy to learn, yet doesn't shortchange challenge, with fly-casting becoming a delicate art at higher skill levels." The review's pros were "Plenty of challenge; great force-feedback support; lots of options," and its con was "Must download a patch to get force-feedback." It listed the price as $49.95[^ref-29].
+
 CNET's listing for the downloadable demo showed an average user rating of 2 out of 5 from four votes[^ref-5]. MyAbandonware users rate the full game 4.6 out of 5 from five votes[^ref-3].
 
 **Aggregate Scores:**
 - **MobyGames:** 76% critics' average (based on 3 ratings)[^ref-1]
+- **Computer Gaming World (June 1998):** 4/5 stars[^ref-29]
 - **GameSpot:** 6.7/10[^ref-4]
 - **GameFAQs:** "Outstanding" (user rating, 2 ratings)[^ref-8]
 - **MyAbandonware:** 4.6/5 (5 votes)[^ref-3]
@@ -147,7 +149,7 @@ The game's music is credited to Loudmouth, which shares the sound-effects credit
 - Other input devices
 
 **Multiplayer Support:**[^ref-1][^ref-23]
-- Offline: 1–4 players
+- Offline: 1–4 players (Windows 95 version; the Windows 3.x version is listed as 1 player)
 - Online: 2–8 players
 - Remote play under Windows 95: modem (14.4 or better), LAN (IPX or TCP/IP), or Internet via Sierra's SIGS server
 - Computer Gaming World #160 (November 1997) listed Trophy Rivers among the "Upcoming Games" for Sierra's SIGS online service[^ref-28]
@@ -161,11 +163,13 @@ The game's music is credited to Loudmouth, which shares the sound-effects credit
 
 The game was released for Windows 95 and Windows 3.x[^ref-1]. A demo with "one fishing location on the river and a slide show highlighting features of the full game" is archived on the Internet Archive[^ref-9].
 
-Release dates differ between sources. The game appears, priced at $49.95 (Win 95 CD), in the catalog of Sierra's Holiday 1997 InterAction[^ref-21]. GameFAQs and Metacritic both give November 30, 1997[^ref-8][^ref-18]. GameSpy's database instead lists May 5, 1998 for the US and December 31, 1998 for the UK and Japan[^ref-14], and The Video Game Database wiki repeats the May 5, 1998 date[^ref-19]. Those 1998 dates conflict with the 1997 catalog listing and manual copyright[^ref-21][^ref-23]. Other period sources also point to fall 1997. Computer Games Strategy Plus listed it, as a Windows 95 title, in its September 1997 issue[^ref-27]. InterAction's Fall 1997 feature gave its availability as "Holiday" at $49.95[^ref-26]. Computer Gaming World's November 1997 issue (#160) named it among Sierra's "Upcoming Games" for the Sierra Internet Gaming System[^ref-28].
+Release dates differ between sources. The game appears, priced at $49.95 (Win 95 CD), in the catalog of Sierra's Holiday 1997 InterAction[^ref-21]. GameFAQs and Metacritic both give November 30, 1997, which is a database date rather than a dated period source[^ref-8][^ref-18]. GameSpy's database instead lists May 5, 1998 for the US and December 31, 1998 for the UK and Japan[^ref-14], and The Video Game Database wiki repeats the May 5, 1998 date[^ref-19]. Those 1998 dates conflict with the 1997 catalog listing and manual copyright[^ref-21][^ref-23].
+
+The period sources from fall 1997 are all pre-release. Computer Games Strategy Plus listed it, as a Windows 95 title, in its September 1997 issue[^ref-27]. InterAction's Fall 1997 feature gave its availability as "Holiday" at $49.95[^ref-26], and Computer Gaming World's November 1997 issue (#160) named it among Sierra's "Upcoming Games" for the Sierra Internet Gaming System[^ref-28]. PC Gamer's news page of November 3, 1997 reported that betas were "being sent to the gaming press for preview"[^ref-30]. Computer Gaming World reviewed the game in June 1998[^ref-29].
 
 ### Easter Eggs and Trivia
 
-- The five rivers are the Deschutes, Miramichi, White, Big Hole and Sol Duc. The credits name local consultants for each one[^ref-21][^ref-22]
+- The five rivers are the Deschutes (Oregon), Miramichi (New Brunswick), White (Arkansas), Big Hole (Montana) and Sol Duc (Washington). InterAction's Fall 1997 preview described the Miramichi as "canoe heaven" and the Big Hole as suited to wading and stalking. The credits name local consultants for each one[^ref-22][^ref-26]
 - InterAction claimed that "no other fishing title offers as exact a simulation" of fly-fishing[^ref-21]
 - MobyGames lists the game's educational topics as ecology/nature and geography[^ref-1]
 
@@ -173,11 +177,11 @@ Release dates differ between sources. The game appears, priced at $49.95 (Win 95
 
 ### Sales and Commercial Impact
 
-No sales figures for Trophy Rivers alone have been found. Sierra's own magazine, InterAction, said in Summer 1998 that the Trophy fishing games' numbers "keep growing (half a million happy anglers at last count)," a count that came in a sentence naming Trophy Rivers among the series' add-ons and releases[^ref-24]. This is a franchise-wide promotional claim by the publisher, not a sales figure for this game. On price, Sierra's catalog listed it (order #70060) at $49.95 in Fall and Holiday 1997[^ref-21][^ref-26], and at $29.95 by Summer 1998[^ref-24]. Sierra's Fall 1998 issue still listed it at $29.95, and sold it with Trophy Bass 2 Deluxe as the Trophy Fishing Bundle for $44.95[^ref-25]. CNET's listing for the downloadable demo recorded 41,006 downloads[^ref-5]. The ESRB rated the game E for Everyone[^ref-14].
+No sales figures for Trophy Rivers alone have been found. Sierra's own magazine, InterAction, said in Summer 1998 that the Trophy fishing games' numbers "keep growing (half a million happy anglers at last count)," a count that came in a sentence naming Trophy Rivers among the series' add-ons and releases[^ref-24]. This is a franchise-wide promotional claim by the publisher, not a sales figure for this game. Earlier, PC Gamer's news page of November 3, 1997 had reported that "the original Trophy Bass and its sequel have sold over half a million units," in an item about betas of Trophy Rivers going to the press, so that figure predates the game's release[^ref-30]. On price, Sierra's catalog listed it (order #70060) at $49.95 in Fall and Holiday 1997[^ref-21][^ref-26], and at $29.95 by Summer 1998[^ref-24]. Sierra's Fall 1998 issue still listed it at $29.95, and sold it with Trophy Bass 2 Deluxe as the Trophy Fishing Bundle for $44.95[^ref-25]. CNET's listing for the downloadable demo recorded 41,006 downloads[^ref-5]. The ESRB rated the game E for Everyone[^ref-14].
 
 ### Collections
 
-Trophy Rivers was sold as part of Sierra's Front Page Sports line[^ref-1]. InterAction's Holiday 1997 issue covered it in a joint feature with Trophy Bass 2 Deluxe[^ref-21]. MobyGames shows that much of the team was also credited on Front Page Sports: Trophy Bass 2 and the later Field & Stream: Trophy Bass 3D and Trophy Bass 4[^ref-1].
+Trophy Rivers was sold as part of Sierra's Front Page Sports line[^ref-1]. It was later included in the 1999 compilation Field & Stream: Ultimate Fishing Trip, alongside Front Page Sports: Trophy Bass 2, Trophy Bass 2: Northern Lakes and Trophy Bass 2 Deluxe[^ref-31]. InterAction's Holiday 1997 issue covered it in a joint feature with Trophy Bass 2 Deluxe[^ref-21]. MobyGames shows that much of the team was also credited on Front Page Sports: Trophy Bass 2 and the later Field & Stream: Trophy Bass 3D and Trophy Bass 4[^ref-1].
 
 ### Preservation
 
@@ -193,12 +197,10 @@ The boxed game shipped with a printed installation guide. It points players to t
 
 Trophy Rivers moved Dynamix's Trophy Bass formula from lakes to running water. The team itself described the water as the main challenge and the main difference[^ref-21]. GameSpot concluded that its realism and depth came with real rough edges, making it "surely a game that only a fisherman could love"[^ref-4]. The Dynamix fishing team went on to further games, and many of its members are credited on the later Field & Stream: Trophy Bass 3D and Trophy Bass 4[^ref-1].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently sold on GOG, Steam or other digital storefronts.
-
-## Downloads
 
 **Download / Preservation**
 - [Internet Archive – Demo Version](https://archive.org/details/trdemo10_exe)
@@ -208,6 +210,7 @@ Trophy Rivers moved Dynamix's Trophy Bass formula from lakes to running water. T
 
 ## See Also
 
+- [[Front Page Sports Series]] — Series overview
 - [[1997 - Front Page Sports - Ski Racing|← Previous: Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|→ Next: Front Page Sports Golf - Tour Course Add-On]]
 
@@ -253,3 +256,6 @@ Trophy Rivers moved Dynamix's Trophy Bass formula from lakes to running water. T
 [^ref-26]: [InterAction Magazine, Vol. 10 No. 3 (Fall 1997) – Internet Archive](https://archive.org/details/032_interaction_volume_10_number_3_fall_1997) – John Sauer feature (availability "Holiday", $49.95, order #70060); catalog listing $49.95
 [^ref-27]: [Computer Games Strategy Plus, September 1997 – Internet Archive](https://archive.org/details/computer-games-strategy-plus-september-1997) – Sierra listings: "Front Page Sports: Trophy Rivers. PC fly fishing. Fish any of five blue-ribbon streams in North America", Windows 95 (the Internet Archive item metadata dates the scan 1997-11; the issue is cited as September 1997)
 [^ref-28]: [Computer Gaming World, Issue 160 (November 1997) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_160) – Sierra Internet Gaming System entry: "Upcoming Games" list includes Trophy Rivers
+[^ref-29]: [Computer Gaming World, Issue 167 (June 1998) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_167) – Robert Coffey, "Wild World of Sports" (p. S22): Trophy Rivers 4 of 5 stars, quoted text, pros and cons, force-feedback patch note, $49.95
+[^ref-30]: [PC Gamer news, 3 November 1997 – Wayback Machine](https://web.archive.org/web/19980218070422/http://www.pcgamer.com/news/news-1997-11-03.html) – "Betas of Sierra's Front Page Sports: Trophy Rivers are being sent to the gaming press for preview. The original Trophy Bass and its sequel have sold over half a million units."
+[^ref-31]: [The Sierra Chest – Field & Stream: Ultimate Fishing Trip](https://sierrachest.com/index.php?a=games&id=722&fld=general) – 1999 compilation containing Trophy Bass 2, Trophy Bass 2: Northern Lakes, Trophy Rivers and Trophy Bass 2 Deluxe
