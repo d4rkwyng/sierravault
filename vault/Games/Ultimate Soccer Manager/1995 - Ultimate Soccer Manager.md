@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Ultimate Soccer Manager is a 1995 English football management game for
   DOS and Amiga, developed and published by Impressions, notable for its office-based
   interface and optional bribes, bungs and match rigging.
@@ -18,16 +18,16 @@ tags: [1990s, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Ultimate Soccer Manager (USM) is a football management game developed and published by Impressions and released in 1995 for DOS and the Amiga[^ref-6][^ref-51]. It covers the English leagues from the Premiership down to the Conference, and presents each part of the club as a room or building: the manager's office, the chairman's office, the bank, the training ground and the stadium itself[^ref-6][^ref-16]. It was Impressions' first football management game. Amiga Action noted that the strategy house had "never really dipped into the football management arena" until then[^ref-49][^ref-50].
 
-The game drew most attention for its optional "darker side". With the rigging option turned on, the player can bribe opponents to throw a match, bet on their own team and offer a "bung" to ease a transfer[^ref-49][^ref-16][^ref-51]. Amiga Action's preview captioned it "Bungs, bribes and match rigging" and said USM offered "new features that have never been seen before"[^ref-49]. UK magazines mostly rated it highly, from 81% in CU Amiga to 92% in Amiga Action and 94% in Games Master, but German magazines scored it much lower. MobyGames' critic average is 69% from 16 reviews[^ref-50][^ref-57].
+The game drew most attention for its optional "darker side". With the rigging option turned on, the player can bribe opponents to throw a match, bet on their own team and offer a "bung" to ease a transfer[^ref-49][^ref-16][^ref-51]. Amiga Action's preview captioned it "Bungs, bribes and match rigging" and said USM offered "new features that have never been seen before"[^ref-49]. UK magazines mostly rated it highly, from 81% in CU Amiga to 92% in Amiga Action and 94% in Games Master, but German magazines and the French magazine Génération 4 scored it much lower. MobyGames' critic average is 69% from 16 reviews[^ref-50][^ref-57].
 
 > [!info]- Game Info
-> **Developer:** [[Impressions Games]][^ref-54]
+> **Developer:** [[Impressions Games]][^ref-6]
 > **Designer:** [[David Lester]], Neal Sumsion[^ref-54]
 > **Publisher:** [[Impressions Games]]; Amiga version marketed by Daze Marketing[^ref-51][^ref-49][^ref-50]
 > **Platforms:** DOS, Amiga[^ref-6]
@@ -77,8 +77,10 @@ The manual warns that most people in the league are honest. A manager who goes t
 | Amiga Dream #20 (July 1995) | Amiga | 88% | Via Lemon Amiga[^ref-24] |
 | PC Format | DOS | 85% | Silver award, per Wikipedia[^ref-57][^ref-4] |
 | Amiga Format | Amiga | 85% | Via MobyGames[^ref-57] |
+| Amiga Power | Amiga | 84% | Via MobyGames[^ref-57] |
 | Amiga Computing | Amiga | 83% | Via MobyGames and Lemon Amiga[^ref-57][^ref-24] |
 | CU Amiga (June 1995) | Amiga | 81% | Reviewed by Alan Dykes[^ref-57][^ref-24] |
+| Amiga Magazyn (September 1995) | Amiga | 80% | Reviewed by Roman Sadowski, p. 54; via Lemon Amiga[^ref-24] |
 | PC Player (Germany) | DOS | 69% | Via MobyGames[^ref-57] |
 | PC Joker | DOS | 48% | Via MobyGames[^ref-57] |
 | Génération 4 | DOS | 29% | Via MobyGames[^ref-57] |
@@ -111,7 +113,11 @@ MobyGames' DOS credits list the following team[^ref-54]:
 
 The Amiga credits add Christopher J. Denman under sound, and Lemon Amiga lists him as the Amiga version's musician[^ref-55][^ref-24].
 
-The PC version sold at £34.99 and the Amiga version at £29.99[^ref-51][^ref-50]. Amiga Action reported that the A500 version used 32 colours on two disks, while the A1200 version used 256 colours on three disks[^ref-50]. The Amiga manual gives separate hard-drive installation steps for A500 and A1200 owners[^ref-16].
+The PC version sold at £34.99 and the Amiga version at £29.99[^ref-51][^ref-50]. The Amiga manual gives separate hard-drive installation steps for A500 and A1200 owners[^ref-16].
+
+### Technical Specifications
+
+PC Games' review box lists a minimum specification of a 25MHz 386, VGA, 4Mb RAM, 8Mb of hard disk space and a mouse, with Sound Blaster, Ad Lib and Roland sound cards also supported[^ref-51]. MobyGames' DOS entry likewise records VGA and mouse support[^ref-56]. On the Amiga, Amiga Action reported that the A500 version used 32 colours on two disks, while the A1200 version used 256 colours on three disks[^ref-50].
 
 ### Version History
 
