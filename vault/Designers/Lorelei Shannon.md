@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Phantasmagoria: A Puzzle of Flesh", "King's Quest VII: The Princeless Bride", "Pepper's Adventures in Time"]
 companies: ["Sierra On-Line", "Seagull Scientific"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Lorelei Shannon
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -19,15 +19,15 @@ Lorelei Shannon is a game designer and writer who co-designed [[1994 - King's Qu
 
 ### Early Career
 
-Before Sierra, Shannon did writing and editing at Flying Buffalo in Arizona, where she and her husband worked.[^ref-12] After they moved to Oakhurst, she was hired as a writer for Sierra's in-house magazine, *InterAction*: "I worked on the magazine for close to a year. It was a lot of fun—I spent a lot of time playing games and writing about them. Then a spot on the design team opened up."[^ref-12] She is listed among the magazine's contributors in the Fall 1991 issue.[^ref-25] MobyGames also lists her under Special Thanks on Tunnels & Trolls: Crusaders of Khazan (1990).[^ref-3]
+Before Sierra, Shannon did writing and editing at Flying Buffalo in Arizona.[^ref-12] After moving to Oakhurst, she was hired as a writer for Sierra's in-house magazine, *InterAction*: "I worked on the magazine for close to a year. It was a lot of fun—I spent a lot of time playing games and writing about them. Then a spot on the design team opened up."[^ref-12] She is listed among the magazine's contributors in the Fall 1991 issue.[^ref-25] MobyGames also lists her under Special Thanks on Tunnels & Trolls: Crusaders of Khazan (1990).[^ref-3]
 
 ### Sierra Years (from 1991)
 
-On the design team she began by writing dialog: "I started out just writing dialog for various games, including Police Quest and Dagger of Amon Ra."[^ref-12] MobyGames credits her with additional written material on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (1992), where she also voiced Stinky, and on the VGA remake of Police Quest (1992), and with technical documentation for Quest for Glory III.[^ref-3] Of Dagger she said: "I mostly just wrote dialog for Dagger of Amon Ra. The game designer on that project was Bruce Balfour."[^ref-12]
+On the design team she began by writing dialog: "I started out just writing dialog for various games, including Police Quest and Dagger of Amon Ra."[^ref-12] MobyGames credits her with additional written material on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (1992), where she also voiced Stinky, and on the VGA remake of Police Quest (1992), and with technical documentation for Quest for Glory III.[^ref-3] Of Dagger she said: "I mostly just wrote dialog for Dagger of Amon Ra. The game designer on that project was Bruce Balfour."[^ref-12] The credits of the [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992) hint book list her as Hintbook Writer, with Mark Empey as Hintbook Designer.[^ref-39]
 
 Her first design work was [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] (1993); InterAction's Fall 1992 issue billed her as the "Twisty History co-designer," the game's working title.[^ref-26][^ref-27][^ref-12] The Adventure Gamer blog calls Pepper's "the first bigger job at Sierra" for her.[^ref-8] InterAction later wrote that Pepper's "did get the attention of Roberta Williams, who asked designer Lorelei Shannon to join her as co-designer of King's Quest VII."[^ref-27]
 
-Shannon had moved to Seattle when her husband took a job at Microsoft, and Sierra opened a Seattle office a few months later.[^ref-12] On [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] she was co-designer: "Basically, Roberta and I would sit across from each other at her kitchen table, brainstorm, and write out the design longhand." She described the division of work: "Roberta did more of the puzzles than I did. I wrote most of the dialog. We created the story together."[^ref-12] She cast the voice actors and directed them in Los Angeles.[^ref-12] "Working with Roberta was a lot of fun. We cracked each other up a lot. Sometimes Ken would come home and we'd be laughing about something like a couple of lunatics. He'd just roll his eyes!"[^ref-12] She also wrote the official King's Quest VII hint guide.[^ref-29]
+Shannon moved to Seattle just after completing her work on Pepper's, and Sierra opened a Seattle office a few months later.[^ref-12] On [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] she was co-designer: "Basically, Roberta and I would sit across from each other at her kitchen table, brainstorm, and write out the design longhand." She described the division of work: "Roberta did more of the puzzles than I did. I wrote most of the dialog. We created the story together."[^ref-12] She cast the voice actors and directed them in Los Angeles.[^ref-12] "Working with Roberta was a lot of fun. We cracked each other up a lot. Sometimes Ken would come home and we'd be laughing about something like a couple of lunatics. He'd just roll his eyes!"[^ref-12] She also wrote the official King's Quest VII hint guide.[^ref-29]
 
 "After successfully co-designing the game, I was given my own project, Phantasmagoria 2," she said.[^ref-12] MobyGames credits her as "Game Designer and Screenwriter" on [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] (1996), as well as documentation author and "Rat Wrangler."[^ref-3] In a Fall 1996 InterAction piece she introduced herself: "Hi. I'm Lorelei, the designer of Phantasmagoria: A Puzzle of Flesh."[^ref-30]
 
@@ -53,7 +53,7 @@ On Pepper's Adventures in Time MobyGames credits her with design, text and dialo
 
 ## Design Philosophy
 
-Shannon's stated influences are horror writers and films. In 1996 she said she wanted to bring across "that kind of paranoid, or very frightening, very real kind of horror."[^ref-28] In 1997 she named Poe, Clive Barker, Kathe Koja and Thomas Ligotti, and films including Jacob's Ladder.[^ref-22] Of dialogue, she described her part in King's Quest VII as writing most of it.[^ref-12] In 1998 she told Just Adventure that on full-motion-video games "It's got to happen. People are starting to expect it," arguing that studios needed an "engine" in place because "each game is being approached like reinventing the wheel."[^ref-36] In the same interview she said she thought there was plenty of interest in horror and that publishers had wrongly decided readers no longer wanted it.[^ref-36]
+Shannon's stated influences are horror writers and films. In 1996 she said she wanted to bring across "that kind of paranoid, or very frightening, very real kind of horror."[^ref-28] In 1997 she named Poe, Clive Barker, Kathe Koja and Thomas Ligotti, and films including Jacob's Ladder.[^ref-22] Of dialogue, she described her part in King's Quest VII as writing most of it.[^ref-12] In 1998 she told Just Adventure that on full-motion-video games "It's got to happen. People are starting to expect it," arguing that studios needed an "engine" in place because "each game is being approached like reinventing the wheel."[^ref-36] In the same interview she said that, at least with printed horror, "the publishing houses think people don't want it anymore," adding "I don't think that's true, though. I think people dig it."[^ref-36]
 
 ## Legacy
 
@@ -61,7 +61,12 @@ Shannon is credited as co-designer of King's Quest VII and designer of Phantasma
 
 ## Other Credits
 
-MobyGames also lists her under Special Thanks on Tunnels & Trolls: Crusaders of Khazan (1990), and as a video capture actor on Gabriel Knight: Sins of the Fathers (1993).[^ref-3]
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1990 | Tunnels & Trolls: Crusaders of Khazan | – | Special Thanks |
+| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Sierra On-Line | Video Capture Actor |
+
+Credits follow MobyGames.[^ref-3]
 
 ## Games
 
@@ -69,14 +74,16 @@ MobyGames also lists her under Special Thanks on Tunnels & Trolls: Crusaders of 
 
 Credits follow MobyGames unless noted.[^ref-3]
 
-- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Additional Written Material, Voice Actor (Stinky)
-- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel VGA]] — Role: Additional Written Material
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Technical Documentation
-- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Video Capture Actor
-- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Co-Designer, Writer (Text/Dialog), Documentation
-- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Role: Hintbook Writer
-- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Co-Designer, Director, Writer, Voice Director
-- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] — Role: Designer, Screenwriter, Documentation
+| Year | Title | Role |
+|------|-------|------|
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Additional Written Material, Voice Actor (Stinky) |
+| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Hintbook Writer[^ref-39] |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Additional Written Material |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Technical Documentation |
+| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Co-Designer, Writer (Text/Dialog), Documentation |
+| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Hintbook Writer |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Co-Designer, Director, Writer, Voice Director |
+| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Designer, Screenwriter, Documentation |
 
 ## Bibliography
 
@@ -115,3 +122,4 @@ Books with Shannon as author or co-author, per Open Library and ISFDB:[^ref-24][
 [^ref-36]: [Just Adventure interview with Lorelei Shannon by Andy Bellatti (May 1998, Wayback copy 2008)](https://web.archive.org/web/20080226130739/http://www.justadventure.com/Interviews/Lorelei_Shannon/Lorelei_Shannon_Interview.shtm) — On FMV: "It's got to happen. People are starting to expect it."; on horror publishing
 [^ref-37]: [Adventure Game Hotspot – Adventure Game Fan Fair 2024 guests](https://adventuregamehotspot.com/feature/737/new-name-new-date-new-very-special-guests-adventure-game-fan-fair-2024-coming-ju) — Fan Fair 2024, Tacoma, July 26-28, 2024; Lorelei Shannon among Sierra guests
 [^ref-38]: [Adventure Game Hotspot – Fan Fair update: panels announced](https://adventuregamehotspot.com/siteannouncement/1556/adventure-game-fan-fair-update-panels-parties-and-presentations-announced) — "Lorelei Shannon (designer/writer)" on the Phantasmagoria 2 panel; King's Quest 40th Anniversary panel
+[^ref-39]: [King's Quest VI hint book (PDF, credits page)](https://mocagh.org/sierra/kq6-hintbook.pdf) — Credits: "Hintbook Writer Lorelei Shannon", "Hintbook Designer Mark Empey"
