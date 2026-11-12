@@ -7,16 +7,16 @@ publisher: Sierra Sports
 genre: Sports
 platforms: [Windows]
 series: PGA Championship Golf
-engine: PGA Championship Golf 2000 engine
+engine: null
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: "A 2001 stand-alone re-release of Sierra Sports' PGA Championship Golf 2000 that added 12 new 18-hole courses, for 32 in total, plus new Course Architect objects and textures."
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf Collector's Edition
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,6 @@ SportPlanet's John Cauthen summed it up as "PGA 2000/PGA Titanium Edition with 1
 > **Developer:** [[Headgate Studios]] (PGA Championship Golf 2000 base game)[^ref-7]
 > **Designer:** Not documented for this edition
 > **Publisher:** Sierra Sports / [[Sierra On-Line]][^ref-2]
-> **Engine:** PGA Championship Golf 2000 engine[^ref-33]
 > **Platforms:** Windows[^ref-32][^ref-39]
 > **ESRB Rating:** E (Everyone)[^ref-39]
 > **Release Year:** 2001[^ref-32]
@@ -89,6 +88,10 @@ IGN reported the announcement on June 14, 2001, noting that it "coincides with t
 
 No production credits for the Collector's Edition were found. The Sierra Chest lists the developer as "Headgames Inc.",[^ref-32] which does not match the Headgate Studios credited with PGA Championship Golf 2000 and the Titanium Edition.[^ref-7][^ref-40] Cauthen wrote that by late 2001 Headgate Studios, "the developer of PGA 2000," had "signed-on with EA Sports," while Sierra was still supporting PGA 2000.[^ref-33] In August 2001 Sierra's Collector's Edition site was promoting online tournaments with prizes, among them The Players Championship of August 15–19, 2001.[^ref-36]
 
+### Technical Specifications
+
+Sierra's site for the edition listed the minimum requirements as a Pentium 166 MHz, 32 MB RAM, 4X CD-ROM and 80 MB of free disk space, but quoted them jointly "for both PGA Golf 2000 & Titanium Edition" rather than for the Collector's Edition alone.[^ref-44]
+
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -97,7 +100,7 @@ No production credits for the Collector's Edition were found. The Sierra Chest l
 | Titanium Edition | December 2000 | Windows | Seven new courses[^ref-7][^ref-40] |
 | Collector's Edition | July 11, 2001 | Windows | 12 new courses, 32 total[^ref-2][^ref-32] |
 
-The game is preserved on the Internet Archive as two CD images.[^ref-31] Sierra's site listed the minimum requirements as a Pentium 166 MHz, 32 MB RAM, 4X CD-ROM and 80 MB of free disk space, but quoted them jointly "for both PGA Golf 2000 & Titanium Edition" rather than for the Collector's Edition alone.[^ref-44] The Sierra Chest records a US release in a medium flip-top box with a game manual and a quick reference card (UPC 0-20626-67084-8).[^ref-32] The ESRB rated it E for Everyone, with no content descriptors, under the misspelled title "PGA Championship Golf Collecter's Edition."[^ref-39]
+The game is preserved on the Internet Archive as two CD images.[^ref-31] The Sierra Chest records a US release in a medium flip-top box with a game manual and a quick reference card (UPC 0-20626-67084-8).[^ref-32] The ESRB rated it E for Everyone, with no content descriptors, under the misspelled title "PGA Championship Golf Collecter's Edition."[^ref-39]
 
 ## Legacy
 
@@ -106,7 +109,7 @@ According to Cauthen, the Collector's Edition courses had not caught on in Sierr
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on major digital storefronts
+- Not currently available on major digital storefronts (as of November 2026)
 
 **Download / Preservation**
 - [Internet Archive – PGA Championship Golf Collector's Edition](https://archive.org/details/PGACGCE) – ISO images (2 CDs)[^ref-31]
