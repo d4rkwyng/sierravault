@@ -10,14 +10,14 @@ series: None
 engine: TsAGE
 protagonist: Jake Ryan
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Ken Allen]
 description: 'Blue Force is a police procedural adventure game designed by Jim Walls, creator of the Police Quest series, representing his only Tsunami project.'
 tags: [1990s, adventure, jim-walls, police, spiritual-successor, tsunami]
 ---
 # Blue Force
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Blue Force is a 1993 point-and-click adventure game developed and published by T
 
 The game follows Jake Ryan, a rookie police officer in the fictional town of Jackson Beach, who uncovers clues to the unsolved murder of his parents while working his first days on the force[^ref-4][^ref-10]. Like its Police Quest predecessors, Blue Force emphasizes realistic police procedures, evidence gathering, and proper protocol—hallmarks of Jim Walls' design; PC Gamer's Richard Cobbett notes that the original Police Quest was "supposedly used by others as a training tool"[^ref-3][^ref-18].
 
-Blue Force reunited several former Sierra employees who had joined Tsunami Media, including composer [[Ken Allen]] (King's Quest V, Space Quest IV), creating a game that felt distinctly like a Sierra adventure in everything but name[^ref-6][^ref-15]. MobyGames credits background renderings to [[Peter Ledger]], art designer of Sierra's Conquests of Camelot, though the printed manual does not name him[^ref-6][^ref-21][^ref-26]. My Abandonware describes it as "unarguably the best game from the group of renegade ex-Sierra employees that made up Tsunami"[^ref-8]. Despite mixed critical reception—Computer Gaming World later named it the 37th-worst game of all time—Blue Force shipped 20,000 units in its first month[^ref-1].
+Developed by Tsunami Media, Blue Force reunited several former Sierra contributors, including composer [[Ken Allen]] (King's Quest V, Space Quest IV), creating a game that felt distinctly like a Sierra adventure in everything but name[^ref-6][^ref-15]. MobyGames credits background renderings to [[Peter Ledger]], art designer of Sierra's Conquests of Camelot, though the printed manual does not name him[^ref-6][^ref-21][^ref-26]. My Abandonware describes it as "unarguably the best game from the group of renegade ex-Sierra employees that made up Tsunami"[^ref-8]. Despite mixed critical reception—Computer Gaming World later named it the 37th-worst game of all time—Blue Force shipped 20,000 units in its first month[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Tsunami Media, Inc.[^ref-26][^ref-27]
