@@ -4,11 +4,11 @@ type: publisher
 founded: null
 headquarters: null
 parent_company: null
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Schnibble Productions
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,7 @@ The label's name shares the word "Schnibble" with *[[1995 - The Bizarre Adventur
 ## Games Published (Sierra Archive)
 
 - **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Notes: First new entry since Gobliiins 4 (2009); itch.io May 2, 2023, Steam July 20, 2023 (Windows)[^ref-1][^ref-2][^ref-3][^ref-10][^ref-25]
-- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Notes: itch.io February 10, 2026, Steam February 13, 2026 at $11.99 (Windows)[^ref-3][^ref-16][^ref-21][^ref-24][^ref-28]
+- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Notes: on itch.io by February 10, 2026, Steam February 13, 2026 at $11.99 (Windows)[^ref-3][^ref-16][^ref-21][^ref-24][^ref-28]
 
 ## Console Release of Games 1-5
 
