@@ -9,14 +9,14 @@ platforms: [Windows, Windows 3.x, Mac]
 series: Dr. Brain
 protagonist: Player (rescuing Dr. Brain)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: The Time Warp of Dr. Brain is an educational puzzle game developed by
   Sierra On-Line in 1996, the fourth installment in the Dr. Brain series.
 tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Time Warp of Dr. Brain
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -28,7 +28,7 @@ As described by Sierra's original marketing materials, "Dr. Brain is trapped in 
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Designer:** Mark Krause, Ward Makielski[^ref-1]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
-> **Platforms:** Windows, Windows 3.x, Macintosh[^ref-1]
+> **Platforms:** Windows, Windows 3.x, Macintosh[^ref-1][^ref-54]
 > **Release Year:** 1996
 > **Series:** Dr. Brain
 > **Protagonist:** Player, rescuing Dr. Brain[^ref-1]
@@ -211,14 +211,13 @@ No GOG or Steam store listing for the game was found on 2026-11-11. The game had
 [^ref-16]: [Pixel Pacas](https://pixelpacas.com/the-time-warp-of-dr-brain-review/) – Critical modern assessment
 [^ref-18]: [MobyGames Forum](https://www.mobygames.com/forum/game/6885/thread/215308/looking-for-someone-who-worked-on-the-dr-brain-series/) – Educational use context
 [^ref-33]: [Wayback Machine - Sierra Product Page](https://web.archive.org/web/19961219233717/http://www.sierra.com/cgi-bin/store/product-description?9311810300) – Original marketing materials
-[^ref-1]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – Primary database entry
+[^ref-54]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – Primary database entry
 [^ref-39]: [Giant Bomb - The Time Warp of Dr. Brain](https://www.giantbomb.com/the-time-warp-of-dr-brain/3030-7329/) – Comprehensive puzzle descriptions and gameplay details
 [^ref-40]: [Dr. Brain Omnipedia Wiki](https://drbrain.fandom.com/wiki/The_Time_Warp_of_Dr._Brain) – Point system and puzzle mechanics
 [^ref-41]: [GOG Dreamlist - Player Stories](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – Player memories and experiences
 [^ref-43]: [Collection Chamber - Time Warp of Dr. Brain](https://collectionchamber.blogspot.com/p/time-warp-of-dr-brain.html) – Modern retrospective review
 [^ref-45]: [Wayback Machine - Electric Playground](https://web.archive.org/web/19970804202249/http://www.elecplay.com/pc/drbrain.html) – Contemporary review details
 [^ref-46]: [Metzomagic Review](https://metzomagic.com/showArticle.php?index=169) – Target audience and game overview
-[^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Description (read via the MobyGames API): "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him. The only way to save him is by completing a series of puzzles"
 [^ref-48]: [MobyGames – The Time Warp of Dr. Brain Windows credits (Wayback, July 17, 2019)](http://web.archive.org/web/20190717222642/https://www.mobygames.com/game/windows/time-warp-of-dr-brain/credits) – "Actors (English) Rodney Sherwood, Cathy Sorbo", plus German and French casts
 [^ref-49]: [Wikipedia – Dr. Brain](https://en.wikipedia.org/wiki/Dr._Brain) – "Knowledge Adventure later released four games based on the original series"
 [^ref-50]: [CUC International – "CUC International Completes Acquisition of Knowledge Adventure" (1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) – closing price "on January 31, 1997"; KA "is part of the CUC Software division, which includes Davidson, Blizzard Entertainment, and Sierra On-Line"
