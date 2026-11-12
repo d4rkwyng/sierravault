@@ -10,7 +10,7 @@ series: Gold Rush
 engine: AGI
 protagonist: Jerrod Wilson
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Gold Rush! is a 1988 AGI adventure game by Doug and Ken MacNeill for
   Sierra On-Line, in which Brooklyn newspaperman Jerrod Wilson travels to the California
   Gold Rush by one of three historical routes.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, sierra]
 ---
 # Gold Rush!
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -79,10 +79,14 @@ The text parser does not pause while commands are typed. Starostin notes this "c
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | *Dragon* #145 (May 1989) | 4½ out of 5 stars | Score only[^ref-1] |
-| *Computer Gaming World* #58 (April 1989) | — | Positive review; mixes historical simulation with Sierra adventure gameplay[^ref-1] |
+| *Computer Gaming World* #58 (April 1989, pp. 59-60) | — | Positive review by Michael Chaut: "stimulating, enriching and entertaining, a welcome addition to the Sierra library"[^ref-27] |
 | *Compute!* (August 1989, p. 73) | — | "Entertaining, somewhat educational", but may disappoint veterans[^ref-23] |
 
-In 1989 *Dragon* gave the game 4½ out of 5 stars, and *Computer Gaming World* reviewed it positively[^ref-1]. *Compute!*'s Bob Guerra called it "entertaining, somewhat educational, and a terrific escapade for first-time adventure game players". He added that "hard-core fans of Sierra's 3-D adventures may be disappointed by the game's simplicity", since most players could finish it in two or three sessions[^ref-23]. Looking back, Starostin summarised the contemporary assessments as "largely positive"[^ref-5].
+In 1989 *Dragon* gave the game 4½ out of 5 stars, and *Computer Gaming World* reviewed it positively[^ref-1]. In *Computer Gaming World*, Michael Chaut noted that "The designers put over 250 man hours of research into this product, as well as verifying its preciseness with an expert on the historical era", and that Gold Rush is "linear in nature" despite its three scenarios. He judged the game's more than 160 scenes "as large an undertaking as Kings Quest IV"[^ref-27]. *Compute!*'s Bob Guerra called it "entertaining, somewhat educational, and a terrific escapade for first-time adventure game players". He added that "hard-core fans of Sierra's 3-D adventures may be disappointed by the game's simplicity", since most players could finish it in two or three sessions[^ref-23]. Looking back, Starostin summarised the contemporary assessments as "largely positive"[^ref-5].
+
+**Aggregate Scores:**
+- **MobyGames:** 7.0 (73 votes)[^ref-28]
+- **Steam (*Gold Rush! Classic*):** 87% positive of 77 user reviews[^ref-14]
 
 ### Modern Assessment
 
@@ -102,10 +106,31 @@ The game was built on Sierra's AGI engine. MobyGames writes that it "certainly t
 
 The game shipped with an 88-page booklet, *California Gold: The Story of the Rush to Riches*. *Compute!* noted that it "not only provides a wealth of background information but also serves as copy protection"[^ref-23]. Starostin notes that this paperback, by Phyllis and Lou Zauner, was a small 1980 book[^ref-5].
 
+**Development Credits:**[^ref-28]
+- **Design:** Ken MacNeill, Doug MacNeill
+- **Programming:** Ken MacNeill
+- **Interpreter / Development System:** Chris Iden, Jeff Stephenson
+- **Graphics / Artwork:** Robert Eric Heitman, Doug MacNeill
+- **Music:** Anita Scott
+
 ### Technical Achievements
 On DOS, Gold Rush! supports Hercules, CGA, EGA and Tandy/PCjr graphics[^ref-7][^ref-3]. Audio is limited to the PC Speaker and Tandy/PCjr 3-voice sound[^ref-3].
 
 The original release came on five 5.25" or two 3.5" floppy disks. It requires an Intel 8088 processor and 256 KB of RAM[^ref-3][^ref-7]. DOSdays lists version 2.01, dated 23 December 1988, which uses AGI interpreter version 3.002.149[^ref-3]. The digital Gold Rush! Classic re-release comes pre-packaged with DOSBox[^ref-7].
+
+### Version History
+
+| Platform | Release |
+|----------|---------|
+| DOS | 1988 |
+| Apple II | 1988 |
+| Amiga | 1989 |
+| Atari ST | 1989 |
+| Apple IIgs | 1989 |
+| Macintosh | September 1989 |
+| Windows (*Gold Rush! Classic*) | 25 July 2014 |
+
+Release dates are those listed by MobyGames[^ref-28]; the Windows date matches the Choicest Games review of the Classic edition[^ref-12].
 
 ### Copy Protection
 The game's copy protection uses text from the included manual: players must enter a word from the book in answer to a question that points to a specific page and line[^ref-22][^ref-23]. Before play, the game asks a question about the gold rush and points the player to a specific page and line of the book. "Fail the test, and Jerrod is lynched"[^ref-23].
@@ -162,3 +187,5 @@ The game contains at least one documented Easter egg. According to fan-documente
 [^ref-24]: [Adventure Gamers – Top 100 All-Time Adventure Games, page 2 (Wayback, Jan 2013)](https://web.archive.org/web/20130118234533/http://www.adventuregamers.com/articles/view/18643/page2) – "#96 – Gold Rush!"
 [^ref-25]: [Sierra Chest – Gold Rush! walkthrough](https://sierrachest.com/index.php?a=games&id=223&title=gold-rush&fld=walkthrough&pid=100) – Hidden "GREAT FIND IN THE AMERICAN RIVER" message; unavoidable deaths
 [^ref-26]: [Epic Games Store – Gold Rush! Classic](https://store.epicgames.com/en-US/p/gold-rush-classic-34d7d5) – Classic edition sold on Epic ($2.99, Sunlight Games)
+[^ref-27]: [Computer Gaming World #58, April 1989, pp. 59-60 – Michael Chaut, "'Californy' or Bust" (archive.org)](https://archive.org/details/Computer_Gaming_World_Issue_58) – "put over 250 man hours of research", more than 160 scenes, "linear in nature", positive verdict
+[^ref-28]: [MobyGames – Gold Rush! (credits, release dates and score, read via the MobyGames API)](https://www.mobygames.com/game/440/gold-rush/) – DOS credits (design, programming, interpreter, art, music); platform release dates; 7.0 score from 73 votes

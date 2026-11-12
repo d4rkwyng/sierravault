@@ -10,7 +10,7 @@ series: Leeper
 engine: Machine Language
 protagonist: Leeper
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Learning with Leeper is a 1983 educational game developed and published
   by Sierra On-Line for children aged three to six, offering four wordless activities
   (counting, shape matching, a maze and screen painting) and winning the 1984 Arkie
@@ -19,11 +19,11 @@ tags: [1980s, educational, leeper, sierra]
 ---
 # Learning with Leeper
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Learning with Leeper is an educational video game developed and published by [[Sierra On-Line]] in 1983[^ref-1]. It features a Leeper, the long-legged alien creature from Sierra's earlier arcade game [[1982 - Lunar Leeper|Lunar Leeper]], as the guide to four learning activities[^ref-3]. It is aimed at children aged three to six[^ref-3], and was one of several early Sierra titles for young children, following [[1982 - Bop-A-Bet|Bop-A-Bet]].
+Learning with Leeper is an educational video game developed and published by [[Sierra On-Line]] in 1983[^ref-1]. It features a Leeper, the long-legged alien creature from Sierra's earlier arcade game [[1982 - Lunar Leeper|Lunar Leeper]], as the guide to four learning activities[^ref-3]. It is aimed at children aged three to six[^ref-3], and Sierra's own software catalog announced it as the company's "first educational production development"[^ref-21]. The Apple II title [[1982 - Bop-A-Bet|Bop-A-Bet]], first released by Sunnyside Soft, was republished by Sierra in 1983 as part of its Hi-Res Learning series, and the Atari manual likewise subtitles Leeper "Four Hi-Res Learning Games"[^ref-22].
 
 The judges of the Arkie Awards called it "a painless way for youngsters to learn such tricky concepts as counting and shape recognition"[^ref-4][^ref-1]. Children choose from four games: counting, matching, a maze, and painting[^ref-5]. The game was released for the Apple II, Commodore 64, Atari 8-bit computers, ColecoVision, DOS and ZX Spectrum[^ref-5].
 
@@ -48,7 +48,7 @@ Here the creature is no longer an enemy. The child simply moves Leeper to an act
 
 ### Interface and Controls
 
-As in [[1984 - Learning with FuzzyWOMP|Learning with FuzzyWOMP]], another Sierra educational title, the player selects one of four games by moving the Leeper character to an icon representing that activity and pressing the fire button[^ref-5]. The game is played with a joystick[^ref-1]; on the Commodore 64 it plugs into Port 2[^ref-7][^ref-18]. The manual notes that the games are meant for a child who cannot read, and "no words are used"[^ref-18].
+As in [[1984 - Learning with FuzzyWOMP|Learning with FuzzyWOMP]], another Sierra educational title, the player selects one of four games by moving the Leeper character to an icon representing that activity and pressing the fire button[^ref-5]. The game is played with a joystick[^ref-1]; on the Commodore 64 it plugs into Port 2[^ref-7][^ref-18], and on the Atari 8-bit into Port #1[^ref-22]. The manual notes that the games are meant for a child who cannot read, and "no words are used"[^ref-18].
 
 The game is aimed at children aged three to six[^ref-3][^ref-7], and is single-player only[^ref-9].
 
@@ -93,11 +93,13 @@ Wikipedia also summarises later books and articles that mention the game. A 1985
 
 Learning with Leeper reuses the Leeper character from Sierra's arcade game Lunar Leeper[^ref-1][^ref-2]. It was made for children aged three to six[^ref-3]. Nancy Anderton is credited with the design[^ref-5][^ref-13].
 
+Sierra's software catalog announced the project with the words "our first educational production development now, starring the lovable Lunar Leeper and his new friend, Dusty Dog"[^ref-21].
+
 Wikipedia cites Michael M. Behrmann's 1984 article "A Brighter Future For Early Learning Through High Tech" in *The Pointer*[^ref-8]. Citing that article, it says several commercial developers had decided "there is a market for children as young as three", and names Learning with Leeper as one game aimed at that market[^ref-1].
 
 ### Production
 
-Robert A. Bobbio, credited as "Bobbit", did the program and graphics for the Atari 8-bit and Commodore 64 versions[^ref-13][^ref-5]. The C64 manual's own credit is "Program and graphics by Bobbit"[^ref-18]. Sierra Chest describes the game as "designed by 'Bobbit'"[^ref-3], but MobyGames and Pixelated Arcade credit the design to Nancy Anderton and the program and graphics to Bobbio[^ref-5][^ref-13].
+The Atari manual's credit reads "Design by Nancy Anderton" and "Program and Graphics by Bobbit"[^ref-22]. Robert A. Bobbio, credited as "Bobbit", did the program and graphics for the Atari 8-bit and Commodore 64 versions[^ref-13][^ref-5]. The C64 manual's own credit is "Program and graphics by Bobbit"[^ref-18]. Sierra Chest describes the game as "designed by 'Bobbit'"[^ref-3], but MobyGames and Pixelated Arcade credit the design to Nancy Anderton and the program and graphics to Bobbio[^ref-5][^ref-13].
 
 Other platforms had their own credits. Monier did the program and graphics for the ColecoVision version, and Ivan Strand and Brian Strand are credited ("Written by") for the IBM PC/compatible version[^ref-13].
 
@@ -181,6 +183,7 @@ The game is documented in several retro gaming databases, including MobyGames, G
 ### Related Publications
 
 - **Game Manual (Commodore 64):** 6-page manual, archived at the Internet Archive[^ref-18]
+- **Game Manual (Atari 8-bit):** manual subtitled "Four Hi-Res Learning Games", archived at the Internet Archive[^ref-22]
 
 ### Critical Perspective
 
@@ -198,6 +201,8 @@ Learning with Leeper is not currently sold on any digital storefront.
 
 **Manuals & Extras**
 - [Commodore 64 Manual – Internet Archive](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line)
+- [Atari 8-bit Manual – Internet Archive](https://archive.org/details/learning-with-leeper-sierra-online)
+- [Sierra On-Line Software Catalog (Internet Archive)](https://archive.org/details/Sierra_Online_Software_Catalog)
 
 ## See Also
 
@@ -233,3 +238,5 @@ Learning with Leeper is not currently sold on any digital storefront.
 [^ref-18]: [Internet Archive – Commodore 64 Manual](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line) – minigame names and aims, "no words are used", hidden levels, Port 2, "Program and graphics by Bobbit", 6 scanned pages
 [^ref-19]: [Tilt no. 17, December 1984, "500 cartouches, cassettes et disquettes" buyers' guide, pp. 76–77 – Internet Archive](https://archive.org/details/Tilt017) – entry 235: Sierra On-Line, C.B.S. Colecovision, Educatif, 1 player, Cartouche, star ratings, 380 F, "Notre avis" verdict; six-star scale defined in the editorial
 [^ref-20]: [Hardcore Computist No. 13 (1984), Marco Hunter, "Softkey For Learning With Leeper", p. 8 – Internet Archive](https://archive.org/stream/computist-scan-13/issue13) – Apple II price $34.95, 48K Apple and DOS 3.3, nibble count on track 0
+[^ref-21]: [Sierra On-Line Software Catalog (Internet Archive)](https://archive.org/details/Sierra_Online_Software_Catalog) – official game blurb; announcement of the educational title starring Lunar Leeper and Dusty Dog
+[^ref-22]: [Learning with Leeper Atari 8-bit manual (Internet Archive)](https://archive.org/details/learning-with-leeper-sierra-online) – subtitle "Four Hi-Res Learning Games", "Design by Nancy Anderton / Program and Graphics by Bobbit", joystick Port #1
