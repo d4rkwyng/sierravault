@@ -11,7 +11,7 @@ series: Hoyle's Official Book of Games
 engine: SCI2.1
 protagonist: N/A (Single Player Card Game)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Hoyle Official Book of Games Volume 5, more commonly known as Hoyle
   Solitaire, is a 1996 collection of 28 solitaire games developed and published by
   Sierra On-Line for Windows and Macintosh.'
@@ -19,13 +19,13 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 5 (Hoyle Solitaire)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Hoyle Official Book of Games Volume 5, more commonly known as **Hoyle Solitaire**, is a comprehensive digital solitaire collection developed and published by Sierra On-Line, Inc. in June 1996[^ref-5] (Sierra Chest lists the first release as May 31, 1996[^ref-8]). The game represents an evolution of Sierra's popular Hoyle series, serving as a Windows upgrade to the earlier MS-DOS Hoyle Official Book of Games: Volume 2, featuring 28 solitaire games with modernized graphics, enhanced sound, and improved mouse controls[^ref-2]. Named after the 18th-century playing card expert Edmond Hoyle, whose name became synonymous with authoritative game rules, the Hoyle series had established itself as a cornerstone of Sierra's casual gaming portfolio[^ref-3].
 
-The game was released for both Windows and Macintosh platforms, with Sierra's stated goal being "to develop and bring to market the most creative and technologically advanced products available"[^ref-4]. Hoyle Solitaire featured intuitive drag-and-drop gameplay mechanics, with the option to right-click cards to automatically send them to their correct positions[^ref-5]. The collection was later re-released in January 1998[^ref-6]. A budget re-release was titled "Hoyle Classic Solitaire"[^ref-2].
+The game was released for both Windows and Macintosh platforms, with Sierra's stated goal being "to develop and bring to market the most creative and technologically advanced products available"[^ref-4]. Hoyle Solitaire featured intuitive drag-and-drop gameplay mechanics, with the option to right-click cards to automatically send them to their correct positions[^ref-5]. The collection was later re-released in January 1998[^ref-6]. A budget re-release was titled "Hoyle Classic Solitaire"[^ref-2]. Sierra's own *InterAction* magazine previewed "a suite of 28 Hoyle Solitaire games" in its Spring 1996 issue, due out late that spring[^ref-27], and its Summer 1996 issue listed the game as "Available Now" at $14.95 on Windows 95 CD and Windows 3.1 CD[^ref-28].
 
 As part of Sierra's broader strategy to diversify beyond adventure games, Hoyle Solitaire represented the company's commitment to the casual gaming market. In a 1998 announcement of a new internal brand structure, Sierra placed its Hoyle license in the new Sierra Attractions division, which was to "feature family and board-style games, stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license"[^ref-7].
 
@@ -53,7 +53,7 @@ The game also includes a Card Flick mini-game, an arcade-style diversion that pr
 
 ### Interface and Controls
 
-Hoyle Solitaire employs an intuitive interface designed for accessibility across skill levels. The primary gameplay mechanic is "drag and drop," allowing players to move cards by clicking and dragging them to their desired positions[^ref-5]. For convenience, players can also right-click on a card to automatically send it to the correct spot, streamlining gameplay for those familiar with solitaire rules[^ref-5].
+Hoyle Solitaire employs an intuitive interface designed for accessibility across skill levels. The primary gameplay mechanic is "drag and drop," allowing players to move cards by clicking and dragging them to their desired positions[^ref-5]. For convenience, players can also right-click on a card to automatically send it to the correct spot, streamlining gameplay for those familiar with solitaire rules[^ref-5]. The main menu offers "PLAY GAME", "GAME CREDITS", "ABOUT HOYLE", "TUTORIAL", "GLOSSARY" and "QUIT"[^ref-8]. Easy and Difficult settings can be chosen per game, and moves can be undone as often and as far back as the player wants; options allow replaying the current game from the beginning and choosing backgrounds, music and card decks[^ref-2].
 
 ### Structure and Progression
 
@@ -127,19 +127,22 @@ The game offered two installation options: a CD version that ran primarily from 
 - **CPU:** Intel i486 or higher
 - **RAM:** 8 MB
 - **Storage:** 2x CD-ROM drive required
+- **Installation:** The Hard Drive (HD) version can be played without the CD in the drive, sacrificing only the music[^ref-2]
+- **ESRB rating:** Everyone[^ref-2]
 
 **Macintosh Version:**
 - Released in 1997, the year after the Windows 3.x version[^ref-2]
+- Minimum requirements: Motorola 68040 processor, 8 MB RAM, 2x CD-ROM drive[^ref-2]
+- ESRB rating: Kids to Adults[^ref-2]
 - Download size: 114 MB[^ref-14]
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 1996 | Windows 3.x | Initial release[^ref-5] |
+| 1.0 | June 1996 | Windows 3.x | Initial release[^ref-5]; listed as "Available Now" at $14.95 (Windows 95 CD, Windows 3.1 CD) in Sierra's Summer 1996 *InterAction*[^ref-28] |
 | 1.0 | 1997 | Macintosh | Mac OS release[^ref-2] |
-| Rerelease | January 19, 1998 | Windows | Windows re-release; the date comes from the Internet Archive item ID[^ref-6], and MobyGames lists a January 1998 Windows release[^ref-2] |
-| 1998 Edition | 1998 | Windows | 1998 CD release[^ref-19] |
+| 1998 Edition (Rerelease) | January 19, 1998 | Windows | Windows re-release on CD[^ref-19]; the date comes from the Internet Archive item ID[^ref-6], and MobyGames lists a January 1998 Windows release[^ref-2] |
 | Hoyle Solitaire (2000) | 2000 | Windows 95/98 | Sierra On-Line release catalogued separately as "Hoyle Solitaire (2000)" for Windows 95/98[^ref-20][^ref-25] |
 
 ### Technical Issues
@@ -161,7 +164,7 @@ The Hoyle series was known for featuring Sierra game characters as opponents in 
 - Sonny Bonds from Police Quest
 - Princess Rosella[^ref-22]
 
-These characters had unique dialogues and reactions during gameplay[^ref-22]. Characters would even have conversations if the game was left idle, with Roger Wilco and King Graham potentially discussing Space Quest storylines[^ref-22].
+These characters had unique dialogues and reactions during gameplay[^ref-22]. If a running game was left alone for a while, the computer players would start talking amongst themselves; with Roger Wilco and King Graham at the table, one topic was Roger's crash landing in the King's Quest castle moat in Space Quest: The Sarien Encounter[^ref-30].
 
 The Hoyle name itself represents an interesting piece of trivia: Edmond Hoyle (1672–1769) was an English writer best known for his works on the rules and play of card games, and his name became so associated with authoritative game rules that "according to Hoyle" entered common English usage[^ref-24].
 
@@ -169,13 +172,13 @@ The Hoyle name itself represents an interesting piece of trivia: Edmond Hoyle (1
 
 ### Sales and Commercial Impact
 
-The original Hoyle Official Book of Games: Volume 1 had sold over 250,000 copies by 1990, establishing the series as a commercial success for Sierra[^ref-3]. This strong foundation supported the continued development of subsequent volumes, including Hoyle Solitaire.
+The original Hoyle Official Book of Games: Volume 1 had sold over 250,000 copies by 1990, establishing the series as a commercial success for Sierra[^ref-3]. This strong foundation supported the continued development of subsequent volumes, including Hoyle Solitaire. Sierra's Holiday 1996 *InterAction* said that Hoyle Solitaire and Hoyle Blackjack, both released the previous summer, "followed in the steps of Classic Games, both hits with critics as well as gamers"; this is Sierra's own description of its products[^ref-29].
 
 ### Collections
 
 Later Hoyle products continued the card and solitaire line, though no source consulted says they reuse Hoyle Solitaire's own content:
 
-- **Hoyle Solitaire & Mahjong Tiles** – released 22 April 2000[^ref-23]
+- **Hoyle Solitaire & Mahjong Tiles** – GameFAQs gives 22 April 2000[^ref-23], while Sierra Chest gives a first release date of April 5, 2000 for the edition it titles "Hoyle Solitaire & Mahjong Tiles 2"[^ref-26]
 - **Hoyle Card Games 2001** – Marketed with the tagline "A Great Deal of Fun! Enjoy 16 of your favorite card games from Hoyle, the card game experts"[^ref-17]
 - **Hoyle Solitaire & More** (2013) – Encore release featuring "50 variations of Solitaire, Memory, Spite & Malice and more"[^ref-16]
 
@@ -212,7 +215,7 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 - [Internet Archive – Hoyle Solitaire 1998](https://archive.org/details/Hoyle_Solitaire_Sierra_On-Line_1998)
 - [MyAbandonware – Hoyle Solitaire (1998)](https://www.myabandonware.com/game/hoyle-solitaire-3l6)
 - [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh)
-- [Classic Reload – Browser Version](https://classicreload.com/hoyle-solitaire.html)
+- [Classic Reload – Browser Version](https://classicreload.com/win3x-hoyle-solitaire.html)
 
 ## See Also
 
@@ -291,7 +294,12 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 [^ref-19]: [Internet Archive – Hoyle Solitaire Sierra On-Line 1998](https://archive.org/details/Hoyle_Solitaire_Sierra_On-Line_1998) – 1998 version details, file size
 [^ref-20]: [Internet Archive – Hoyle Solitaire 2000](https://archive.org/details/hoyle-solit) – item "Hoyle Solitaire (2000)" by Sierra On-Line, Windows 95/98
 [^ref-21]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – technical issues, bug documentation
-[^ref-22]: [MobyGames – Hoyle Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – Sierra character opponents, easter eggs, idle conversations
+[^ref-22]: [MobyGames – Hoyle Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – Sierra character opponents, easter eggs
 [^ref-23]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles](https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles) – release date (22 April 2000)
 [^ref-24]: [Wikipedia – Edmond Hoyle](https://en.wikipedia.org/wiki/Edmond_Hoyle) – Hoyle's dates (1672–1769), English writer on card game rules, origin of "according to Hoyle"
 [^ref-25]: [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh) – Windows, 2000, published by Sierra On-Line, Inc.
+[^ref-26]: [Sierra Chest – Hoyle Solitaire & Mahjong Tiles 2 (2000)](https://sierrachest.com/index.php?a=games&id=794&title=hoyle-solitaire-mahjong-tiles-2&fld=box) – first release 2000-04-05, PC/Mac CD-ROM, Sierra Attractions
+[^ref-27]: [InterAction Magazine, Spring 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US) – Sierra's own magazine: "a suite of 28 Hoyle Solitaire games", due out late spring 1996
+[^ref-28]: [InterAction Magazine, Summer 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US/page/n38) – Hoyle Solitaire "Available Now", $14.95, WIN95 CD, WIN 3.1 CD (magazine p. 39; read from the page image)
+[^ref-29]: [InterAction Magazine, Holiday 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Holiday_1996_1996_Sierra_On-Line_US) – Hoyle series article: Solitaire and Blackjack "both hits with critics as well as gamers" (Sierra's own description)
+[^ref-30]: [MobyGames – Hoyle Official Book of Games Volume 1, trivia (Wayback Machine copy)](https://web.archive.org/web/20251012082719/https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/trivia/) – "If a running game is left alone for a while, the computer players will start talking amongst themselves"
