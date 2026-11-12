@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine", "Rise of the Dragon", "The Adventures of Willy Beamish", "3-D Ultra Pinball", "Starsiege: Tribes"]
 companies: ["Dynamix", "Jeff Tunnell Productions", "Monster Studios", "GarageGames", "PushButton Labs", "Playdom", "Spotkin", "Monster Ideas"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Jeff Tunnell
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Jeffrey "Jeff" Tunnell is an American game designer, producer and entrepreneur. He co-founded Dynamix, designed or directed its cinematic adventure games of the early 1990s, and co-created The Incredible Machine with [[Kevin Ryan]].[^ref-6][^ref-8][^ref-19] Before Dynamix he ran a software store in Eugene, Oregon, which he and [[Damon Slye]] both call Computertutor.[^ref-9][^ref-21] Sega-16, introducing a 2005 interview, said he had "been involved in over seventy titles over the course of his career" and called him "a legend in the adventure gaming genre".[^ref-3]
+Jeffrey "Jeff" Tunnell is an American game designer, producer and entrepreneur. He co-founded Dynamix, designed or directed its cinematic adventure games of the early 1990s, and co-created The Incredible Machine with [[Kevin Ryan]].[^ref-6][^ref-8][^ref-19] Before Dynamix he ran a software store in Eugene, Oregon, which he and [[Damon Slye]] both call Computertutor.[^ref-9][^ref-21] Sega-16, introducing a 2005 interview, said he had "been involved in over seventy titles over the course of his career" and called him "a legend in the adventure gaming genre".[^ref-3] His own website, under "Selected games", says "Of 40+ shipped".[^ref-31]
 
 Tunnell co-founded Dynamix with Damon Slye in 1984, set up [[Jeff Tunnell Productions]] in early 1992, and co-founded GarageGames in 2000.[^ref-6][^ref-19][^ref-13] Sega-16 wrote that his adventure games "brought gamers engrossing experiences that allowed them to get closer to their characters", and that "PC gamers have been enjoying the fruits of his labors for over twenty years".[^ref-3]
 
@@ -56,7 +56,7 @@ The period also saw the creation of [[1995 - Trophy Bass|Trophy Bass]] (1995), w
 
 During this era, Tunnell served as Executive Producer on [[1998 - Starsiege - Tribes|Starsiege: Tribes]] (1998), which he lists as "Online Game of the Year, 1998".[^ref-5][^ref-8] He was also executive producer of [[1996 - Hunter Hunted|Hunter Hunted]] (1996) and [[1999 - Starsiege|Starsiege]] (1999). MobyGames credits him with the original concept of [[2000 - Return of The Incredible Machine - Contraptions|Return of The Incredible Machine: Contraptions]] (2000) and additional design on its 2001 follow-up.[^ref-8]
 
-Looking back on Dynamix's closure, he said: "As you can probably tell, I am not a fan of greedy CEO's and big corporations. A couple of individuals at the top of a crumbling empire tore down what Ken Williams and hundreds of impassioned employees built over a fifteen-year period in a manner of months."[^ref-5]
+Tunnell had left Dynamix in early 2000; Sierra closed the studio on August 14, 2001.[^ref-5][^ref-33] Looking back on the closure, he said: "As you can probably tell, I am not a fan of greedy CEO's and big corporations. A couple of individuals at the top of a crumbling empire tore down what Ken Williams and hundreds of impassioned employees built over a fifteen-year period in a manner of months."[^ref-5]
 
 ### Post-Sierra Career (2000–Present)
 
@@ -188,7 +188,7 @@ Special Thanks only (not production roles): Take a Break! Crosswords (1992), [[1
 [^ref-10]: [MakeItBigInGames - Return to Games](https://web.archive.org/web/20200927041550/http://makeitbigingames.com/2020/06/never-say-never-back-to-making-games/) — June 2020: "The new company is called Monster Ideas, Inc."
 [^ref-13]: [Game Developer - Garage Games](https://www.gamedeveloper.com/game-platforms/garage-games) — Quang Hong, July 21, 2000: Overman, Tunnell and Gift starting GarageGames; "Garage Games CEO Jeff Tunnell"
 [^ref-14]: [Google Patents - US5577185A, Computerized puzzle gaming method and apparatus](https://patents.google.com/patent/US5577185A/en) — Inventors Jeffrey A. Tunnell and Christopher M. Cole; assignee Dynamix; filed 1994-11-10, granted 1996-11-19
-[^ref-15]: [MobyGames - The Incredible Machine 2 credits (Windows, 1995)](https://web.archive.org/web/20201026195141/https://www.mobygames.com/game/windows/incredible-machine-2/credits) — Wayback, October 2020: Windows credits list Producer Ken Embery and "Executive Producer Jeffrey Tunnell"
+[^ref-15]: [MobyGames - The Incredible Machine 2 / 3.0 credits (Windows, 1995)](https://web.archive.org/web/20201026195141/https://www.mobygames.com/game/windows/incredible-machine-2/credits) — Wayback, October 2020: Windows credits list Producer Ken Embery and "Executive Producer Jeffrey Tunnell"
 [^ref-16]: [MobyGames - The Incredible Toon Machine credits (Windows)](https://web.archive.org/web/20090331013638/http://www.mobygames.com:80/game/windows/incredible-toon-machine/credits) — Wayback, March 2009: "Executive Producer Jeffrey Tunnell"; Original Designers; Puzzlomaniacs
 [^ref-17]: [TouchArcade - 'The Incredible Machine' Gets A Heavy Dose of Retro](https://toucharcade.com/2011/07/05/the-incredible-machine-gets-a-heavy-dose-of-retro/) — Brad Nicholson, July 5, 2011: puzzles "designed, in part, by Jeff Tunnel"; joined Playdom in 2010
 [^ref-18]: [Engadget (TUAW) - Daily iOS App: The Incredible Machine](https://www.engadget.com/2011-06-10-tuaws-daily-iphone-app-the-incredible-machine.html) — June 10, 2011: Tunnell at Playdom; Disney publishing (calls him a "programmer"; not used for his role)
@@ -200,9 +200,10 @@ Special Thanks only (not production roles): Take a Break! Crosswords (1992), [[1
 [^ref-24]: [Game Developer - GarageGames CEO Talks IAC Deal](https://www.gamedeveloper.com/game-platforms/garagegames-ceo-talks-iac-deal) — Leigh Alexander, September 18, 2007: "Barry Diller's IAC has acquired a majority stake in GarageGames"
 [^ref-25]: [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) — Release date July 7, 2014; developer Kevin Ryan; publisher Top Meadow
 [^ref-26]: [MobyGames - 3-D Ultra Pinball: The Lost Continent](https://web.archive.org/web/20230420061152/https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) — Wayback, April 2023: Windows credits "Executive Producer Jeffrey Tunnell"; Producer Ken Embery
-[^ref-27]: [MobyGames - A-10 Tank Killer credits (DOS, 1989)](https://www.mobygames.com/game/2467/a-10-tank-killer/credits/) — read via ScraperAPI, November 2026: "Executive Producer Jeffrey Tunnell"; design by Jerry Luttrell and Damon Slye
-[^ref-28]: [MobyGames - Red Baron credits (DOS, 1990)](https://www.mobygames.com/game/1766/red-baron/credits/) — read via ScraperAPI, November 2026: "Executive Producer Jeffrey Tunnell"
-[^ref-29]: [MobyGames - Stellar 7 credits (DOS, 1990)](https://www.mobygames.com/game/938/stellar-7/credits/) — read via ScraperAPI, November 2026: "Co-Producer Jeffrey Tunnell"; producer and designer Damon Slye
-[^ref-30]: [MobyGames - Lode Runner On-Line: The Mad Monks' Revenge credits](https://www.mobygames.com/game/2988/lode-runner-on-line-the-mad-monks-revenge/credits/) — read via ScraperAPI, November 2026: "Executive Producer Jeffrey Tunnell (as Jeff Tunnell)"
+[^ref-27]: [MobyGames - A-10 Tank Killer credits (DOS, 1989)](https://www.mobygames.com/game/2467/a-10-tank-killer/credits/) — "Executive Producer Jeffrey Tunnell"; design by Jerry Luttrell and Damon Slye
+[^ref-28]: [MobyGames - Red Baron credits (DOS, 1990)](https://www.mobygames.com/game/1766/red-baron/credits/) — "Executive Producer Jeffrey Tunnell"
+[^ref-29]: [MobyGames - Stellar 7 credits (DOS, 1990)](https://www.mobygames.com/game/938/stellar-7/credits/) — "Co-Producer Jeffrey Tunnell"; producer and designer Damon Slye
+[^ref-30]: [MobyGames - Lode Runner On-Line: The Mad Monks' Revenge credits](https://www.mobygames.com/game/2988/lode-runner-on-line-the-mad-monks-revenge/credits/) — "Executive Producer Jeffrey Tunnell (as Jeff Tunnell)"
 [^ref-31]: [Jeff Tunnell - official website](https://jefftunnell.com/) — "Last updated November 7, 2026": "Today we are building PlayWorlds, a web based, much expanded version of TIM"; PlayWorlds as current build, AI companion Fidget
 [^ref-32]: [MobyGames - Dynamix, Inc. (Wayback, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) — "expanding from around 30 people to more than 100 in 1993"
+[^ref-33]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) — Studio "closed by Sierra On-Line on August 14, 2001, as part of Sierra's restructuring under Vivendi Universal Interactive Publishing"
