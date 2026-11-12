@@ -4,16 +4,16 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine 2", "3-D Ultra Pinball", "3-D Ultra Radio Control Racers"]
-companies: ["Dynamix", "Jeff Tunnell Productions", "GarageGames", "Zynga"]
-last_updated: "2026-11-11"
+companies: ["Dynamix", "Sierra On-Line", "Jeff Tunnell Productions", "GarageGames", "Zynga"]
+last_updated: "2026-11-12"
 ---
 # Richard Tunnell
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Richard Tunnell (also credited as Rich Tunnell) is a game designer, programmer and artist credited on 21 games between 1992 and 2009, most of them for Sierra On-Line by Dynamix, which was based in Eugene, Oregon, and by Jeff Tunnell Productions.[^ref-2][^ref-1][^ref-11] He worked as an artist, puzzle designer, tester and manual writer on the Incredible Machine games, as a programmer on the 3-D Ultra Pinball series, and as game designer on 3-D Ultra Radio Control Racers.[^ref-3] MobyGames lists 18 games on which he and Jeff Tunnell, Dynamix's co-founder, are both credited.[^ref-2][^ref-7]
+Richard Tunnell (also credited as Rich Tunnell) is a game designer, programmer and artist credited on 22 games between 1992 and 2009, most of them for Sierra On-Line by Dynamix, which was based in Eugene, Oregon, and by Jeff Tunnell Productions.[^ref-2][^ref-18][^ref-1][^ref-11] He worked as an artist, puzzle designer, tester and manual writer on the Incredible Machine games, as a programmer on the 3-D Ultra Pinball series, and as game designer on 3-D Ultra Radio Control Racers.[^ref-3] MobyGames lists 18 games on which he and [[Jeff Tunnell]], Dynamix's co-founder, are both credited.[^ref-2][^ref-7]
 
 He later worked on browser and social games: he was a level designer on GarageGames' PlayLegions (2009), and his LinkedIn profile names Zynga as his employer.[^ref-3][^ref-13][^ref-6]
 
@@ -21,11 +21,11 @@ He later worked on browser and social games: he was a level designer on GarageGa
 
 ### Dynamix and Jeff Tunnell Productions (1992–2001)
 
-Dynamix was founded in Eugene in 1984 by Jeff Tunnell and Damon Slye.[^ref-7] After finishing The Adventures of Willy Beamish (1991), Jeff Tunnell left to start Jeff Tunnell Productions in early 1992; the new company made The Incredible Machine games for Sierra.[^ref-15][^ref-16][^ref-4] MobyGames' earliest listed credit for Richard Tunnell is as an artist on [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] (1992), followed by production art on [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] (1993).[^ref-3]
+According to Wikipedia, Dynamix was founded in Eugene in 1984 by Jeff Tunnell and Damon Slye.[^ref-7] After finishing The Adventures of Willy Beamish (1991), Jeff Tunnell left to start Jeff Tunnell Productions in early 1992; the new company made The Incredible Machine games for Sierra.[^ref-15][^ref-16][^ref-4] MobyGames' earliest listed credit for Richard Tunnell is as an artist on [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] (1992), followed by production art on [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] (1993).[^ref-3] He is also listed among the artists on the [[1992 - Johnny Castaway|Johnny Castaway]] screensaver (November 1992) on the Dynamix Wiki.[^ref-18]
 
-On the Incredible Machine games he was one of the "Puzzlomaniacs" and wrote the manual for The Incredible Machine (1993), [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] (1993) and [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993).[^ref-3] On [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994) MobyGames lists him among the designers, artists and testers.[^ref-3][^ref-4] The game's DOS credits on MobyGames and the staff list transcribed on the Dynamix Wiki also name him "Puzzle Director."[^ref-17][^ref-14] On [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994) he shares the Windows & Macintosh Enhanced Design credit and is credited as an artist and manual writer.[^ref-3]
+On the Incredible Machine games he was one of the "Puzzlomaniacs" and wrote the manual for The Incredible Machine (1993), [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] (1993) and [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993).[^ref-3] On [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994) MobyGames lists him among the designers, artists and testers, and its Windows credits list him as a designer, artist and Puzzle Director.[^ref-3][^ref-4][^ref-19] The game's DOS credits on MobyGames and the staff list transcribed on the Dynamix Wiki also name him "Puzzle Director."[^ref-17][^ref-14] On [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994) he shares the Windows & Macintosh Enhanced Design credit and is credited as an artist and manual writer.[^ref-3]
 
-He then worked on the 3-D Ultra Pinball games. On [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] (1995) he is credited for additional design help and as one of the programmers. On [[1996 - 3-D Ultra Pinball - Creep Night|Creep Night]] (1996) and [[1999 - 3-D Ultra Pinball - Power|Power!]] (1999) he did additional design help and additional programming. On [[1997 - 3-D Ultra Pinball - The Lost Continent|The Lost Continent]] (1997) and [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] he was Game Logic Programmer.[^ref-3] He was also a quality analyst on [[1995 - Trophy Bass|Trophy Bass]] (1995), a scriptor on [[1996 - Hunter Hunted|Hunter Hunted]] (1996), and designer and documentation writer on Field & Stream: Trophy Hunting 4 (2000).[^ref-2][^ref-3]
+He then worked on the 3-D Ultra Pinball games. On [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] (1995) he is credited for additional design help and as one of the programmers. On [[1996 - 3-D Ultra Pinball - Creep Night|Creep Night]] (1996) and [[1999 - 3-D Ultra Pinball - Power|Power!]] (1999) he did additional design help and additional programming. On [[1997 - 3-D Ultra Pinball - The Lost Continent|The Lost Continent]] (1997) and [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] he was Game Logic Programmer.[^ref-3] He was also a quality analyst on [[1995 - Trophy Bass|Trophy Bass]] (1995)[^ref-20], a scriptor on [[1996 - Hunter Hunted|Hunter Hunted]] (1996), and designer and documentation writer on Field & Stream: Trophy Hunting 4 (2000).[^ref-2][^ref-3]
 
 His later Dynamix credits are game design on [[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] (1999) and on [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]] (2000), where the credit is shared with Shawn Bird and Jonathan Paton.[^ref-3][^ref-2] He also did contraption design for [[2000 - Return of The Incredible Machine - Contraptions|Return of The Incredible Machine: Contraptions]] (2000) and [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] (2001).[^ref-3] Sierra closed Dynamix on August 14, 2001.[^ref-11]
 
@@ -47,32 +47,33 @@ Tunnell worked on five 3-D Ultra Pinball games: [[1995 - 3-D Ultra Pinball|3-D U
 
 ### 3-D Ultra Radio Control Racers (1999)
 
-[[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] gave him a game design credit, which he shared on the Deluxe: Traxxas Edition the following year.[^ref-3][^ref-2]
+[[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] gave him a game design credit[^ref-21], which he shared on the Deluxe: Traxxas Edition the following year.[^ref-3][^ref-2]
 
 ## Games
 
-Roles follow MobyGames.[^ref-3][^ref-2] The count of 21 games excludes the Incredible Machine 3.0 line, which has no separate MobyGames credit.
+Roles follow MobyGames, except Johnny Castaway, which MobyGames does not list and which is credited on the Dynamix Wiki.[^ref-3][^ref-2][^ref-18] The count of 22 games excludes the Incredible Machine 3.0 line, which has no separate MobyGames credit.
 
 ### Dynamix / Jeff Tunnell Productions (1992–2001)
 
+- **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Artist (Dynamix Wiki credit, November 1992)[^ref-18]
 - **1992** — [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] — Role: Artist
 - **1993** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Puzzlomaniac, Manual Writing (MobyGames dates this credit 1993)
 - **1993** — [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] — Role: Puzzlomaniac, Manual Writing
 - **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Puzzlomaniac, Manual Writing
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Production Art
-- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Designer, Artist, Tester, Puzzle Director[^ref-17][^ref-14]
+- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Designer, Artist, Tester, Puzzle Director[^ref-17][^ref-14][^ref-19]
 - **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Windows & Macintosh Enhanced Design, Artist, Manual Writing
-- 1994 — The Incredible Machine (3DO) — Role: Puzzle Design[^ref-2]
+- **1994** — The Incredible Machine (3DO) — Role: Puzzle Design[^ref-2]
 - **1995** — [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]] — MobyGames files this Windows/Macintosh version ("The Incredible Machine Version 3.0") under The Incredible Machine 2's entry, so it has no separate credit list[^ref-4]
-- **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Quality Analyst
+- **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Quality Analyst[^ref-20]
 - **1995** — [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] — Role: Additional Design Help, Programmer
 - **1996** — [[1996 - 3-D Ultra Pinball - Creep Night|3-D Ultra Pinball: Creep Night]] — Role: Additional Design Help, Additional Programming
 - **1996** — [[1996 - Hunter Hunted|Hunter Hunted]] — Role: Scriptor
 - **1997** — [[1997 - 3-D Ultra Pinball - The Lost Continent|3-D Ultra Pinball: The Lost Continent]] — Role: Game Logic Programmer
 - **1998** — [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] — Role: Game Logic Programmer (MobyGames dates this credit 1999, Macintosh)[^ref-2]
 - **1999** — [[1999 - 3-D Ultra Pinball - Power|3-D Ultra Pinball: Power!]] — Role: Additional Design Help, Additional Programming
-- **1999** — [[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] — Role: Game Design
-- 2000 — Field & Stream: Trophy Hunting 4 — Role: Designer, Documentation[^ref-2]
+- **1999** — [[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] — Role: Game Design[^ref-21]
+- **2000** — Field & Stream: Trophy Hunting 4 — Role: Designer, Documentation[^ref-2]
 - **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of The Incredible Machine: Contraptions]] — Role: Contraption Design
 - **2000** — [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]] — Role: Game Design (shared with Shawn Bird and Jonathan Paton)
 - **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Role: Contraption Design
@@ -101,3 +102,7 @@ Roles follow MobyGames.[^ref-3][^ref-2] The count of 21 games excludes the Incre
 [^ref-15]: [MobyGames – Dynamix, Inc. (Wayback, June 2023)](https://web.archive.org/web/20230606025610/https://www.mobygames.com/company/42/dynamix-inc/) — "Jeff Tunnell had left the company after finishing The Adventures of Willy Beamish (1991), to start his own company Jeff Tunnell Productions"
 [^ref-16]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) — Jimmy Maher: Tunnell founded Jeff Tunnell Productions in early 1992
 [^ref-17]: [MobyGames - The Incredible Machine 2 DOS credits (Wayback, April 2016)](https://web.archive.org/web/20160404180307/http://www.mobygames.com/game/dos/incredible-machine-2/credits) — "Puzzle Director Richard Tunnell"; Designers, Artists, Testers
+[^ref-18]: [Dynamix Wiki - Johnny Castaway (screensaver)](https://dynamix.fandom.com/wiki/Johnny_Castaway_(screensaver)) — Release November 1992; "Artists: Matt Uhre, Travis Clark, Richard Tunnell"
+[^ref-19]: [MobyGames - The Incredible Machine 2 Windows credits (Wayback, September 2015)](https://web.archive.org/web/20150925120805/http://www.mobygames.com/game/windows/incredible-machine-2/credits) — Designers and Artists lists include Richard Tunnell; "Puzzle Director Richard Tunnell"
+[^ref-20]: [MobyGames - Trophy Bass credits (Wayback, June 2021)](https://web.archive.org/web/20210614074204/https://www.mobygames.com/game/win3x/trophy-bass/credits) — Quality Analysts: "Aaron Anderson, Erinn C. Hamilton, Daniel Hinds, Ian Jensen, Amber Ray, Richard Tunnell"
+[^ref-21]: [MobyGames - 3-D Ultra Radio Control Racers credits (Wayback, June 2020)](https://web.archive.org/web/20200616192333/https://www.mobygames.com/game/windows/3-d-ultra-radio-control-racers/credits) — "Game Design Richard Tunnell"
