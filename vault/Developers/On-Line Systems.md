@@ -6,7 +6,7 @@ defunct: 1982
 headquarters: "Simi Valley, California (1979–1980); Coarsegold and Oakhurst, California (1980–1982)"
 notable_games: ["Hi-Res Adventure 1: Mystery House", "Hi-Res Adventure 2: The Wizard and the Princess", "Time Zone", "Threshold"]
 parent_company: "Sierra On-Line (became)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # On-Line Systems
 
