@@ -10,7 +10,7 @@ series: Adibou
 engine: RenderWare (Windows)
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Adiboo & Paziral's Secret is a 3D action-adventure platform game released
   in 2003 for PlayStation and 2004 for Windows PC, developed by Coktel Vision and Neko
   Entertainment.
@@ -18,7 +18,7 @@ tags: [2000s, adibou, coktel, racing, sierra]
 ---
 # Adiboo & Paziral's Secret
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -53,7 +53,7 @@ Adiboo & Paziral's Secret is presented from both side-view and third-person pers
 
 ### Structure and Progression
 
-The game features a total of twelve levels divided across three distinct gameplay types: platforming, racing, and arcade stages[^ref-1][^ref-3]. This variety ensures players experience different challenges and gameplay mechanics throughout their adventure.
+The game features a total of twelve levels divided across three distinct gameplay types: platforming, racing, and arcade stages[^ref-1][^ref-3]. This variety ensures players experience different challenges and gameplay mechanics throughout their adventure. Jeuxvideo.com describes the twelve levels as "ponctués de phases de plates-formes en 2D, de conduite en véhicules, et de combats contre des boss" (punctuated by 2D platforming phases, vehicle driving and boss fights)[^ref-20].
 
 **Five Main Areas:**[^ref-1][^ref-3]
 - Volcano
@@ -66,7 +66,9 @@ The game features a total of twelve levels divided across three distinct gamepla
 
 The core gameplay centers on rescuing the citizens of Tonies Island while navigating through Paziral's robotic forces[^ref-1]. Players control Adiboo through a combination of 2D side-scrolling platforming sections reminiscent of classic action games and 3D adventure sequences that expand the exploration possibilities[^ref-5]. Alongside the platforming, the game includes racing and arcade-style stages[^ref-1][^ref-8].
 
-PSX Data Center compares the game directly to Naughty Dog's Crash Bandicoot series[^ref-5].
+PSX Data Center compares the game directly to Naughty Dog's Crash Bandicoot series and says the 3D section "includes boat races down lava streams"[^ref-5].
+
+Jeuxvideo.com also notes a "mode Contre-la-montre" (time-trial mode) in which players can beat their own times, and says all of the scattered items can be collected[^ref-20].
 
 ## Reception
 
@@ -74,13 +76,13 @@ PSX Data Center compares the game directly to Naughty Dog's Crash Bandicoot seri
 
 MobyGames lists an aggregate critic score of 49% based on two reviews[^ref-3][^ref-9].
 
-The German children's-software guide Feibel.de reviewed the Windows version (for ages 5 and up), criticising the thin story framing and the push to collect every bonus item, and concluded: "Fazit: Es gibt bessere Jump-and-Run-Spiele" ("there are better jump-and-run games")[^ref-21]. Feibel's entry differs from other sources on two points: it gives the German release as January 2003 (MobyGames and PCGamingWiki give 11 June 2004 for the German Windows release), and it says the player takes the role of Adiboo's friend Tiltili, a small monkey, whereas Backloggd says players take control of Adiboo and Metacritic calls Tiltili a young Tonie villager[^ref-1][^ref-2][^ref-4][^ref-8][^ref-21].
+The German children's-software guide Feibel.de reviewed the Windows version (for ages 5 and up), criticising the thin story framing and the push to collect every bonus item, and concluded: "Fazit: Es gibt bessere Jump-and-Run-Spiele" ("there are better jump-and-run games")[^ref-21]. Feibel's entry differs from other sources on two points: it lists "Veröffentlicht 01/03", which we read as January 2003 (MobyGames and PCGamingWiki give 11 June 2004 for the German Windows release), and it says the player takes the role of Adiboo's friend Tiltili, a small monkey, whereas Backloggd says players take control of Adiboo and Metacritic calls Tiltili a young Tonie villager[^ref-1][^ref-2][^ref-4][^ref-8][^ref-21].
 
 The game's PSX Data Center database entry describes it positively for its target audience: "Adiboo and Paziral's Secret is a pretty good platform game for an old console. Great for the kids"[^ref-5]. The same entry comments on the visuals: "And for a last generation PlayStation game, Adiboo looks quite respectable in the visuals department. Although pixelated, the game is reasonably smooth and for the most part, looks as good as any other PlayStation offering"[^ref-5].
 
 ### Modern Assessment
 
-Jeuxvideo.com's 2013 retrospective test of the PlayStation version scored it 13/20 (graphics 14, playability 14, lifespan 7, sound 13). It praised the accessible controls and the variety of its twelve levels, but called the length an "énorme déception": about an hour for an experienced player and roughly double that for a young child[^ref-20].
+Jeuxvideo.com's 2013 retrospective test of the PlayStation version scored it 13/20 (graphics 14, playability 14, lifespan 7, sound 13). It praised the accessible controls and the variety of its twelve levels, but called the length an "énorme déception": about an hour for an experienced player and roughly double that for a young child[^ref-20]. The review was harsher on the soundtrack, calling it "plus que désastreuse" (worse than disastrous) because the music consists only of short melodies, about five seconds each, "répétées inlassablement" (repeated tirelessly); its sound-section text adds that the dubbing "renvoie à un dessin animé" (recalls a cartoon), "ce qui est loin d'être une mauvaise chose" (which is far from a bad thing)[^ref-20].
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 49% (2 reviews)[^ref-9]
@@ -115,13 +117,16 @@ The game's music and sound design involved multiple studios. Music is credited t
 
 ### Voice Production
 
-The PlayStation credits on MobyGames list two actors, Pierre-Alain De Guarrigues (as spelled there) and Dolly Vanden, without naming their roles[^ref-7]. The French Wikipedia's list of French voices for the Adibou series assigns the following (French-language voices only)[^ref-22]:
+The PlayStation credits on MobyGames list two actors, Pierre-Alain De Guarrigues (as spelled there) and Dolly Vanden, without naming their roles[^ref-7]. The French Wikipedia's entry for Pierre-Alain de Garrigues lists his roles in the 2003 game as "Tiltili, Bizbi, Paziral, Picabol, Ori, les robots"[^ref-25], and its list of French voices for the Adibou series assigns Bizbi, Paziral and Tiltili to him (French-language voices only)[^ref-22]:
 
 | Character | French voice actor |
 |-----------|-------------|
-| Bizbi | Pierre-Alain de Garrigues[^ref-22] |
-| Paziral (additional voices) | Pierre-Alain de Garrigues[^ref-22] |
-| Tiltili (additional voices) | Pierre-Alain de Garrigues[^ref-22] |
+| Bizbi | Pierre-Alain de Garrigues[^ref-22][^ref-25] |
+| Paziral (additional voices) | Pierre-Alain de Garrigues[^ref-22][^ref-25] |
+| Tiltili (additional voices) | Pierre-Alain de Garrigues[^ref-22][^ref-25] |
+| Picabol | Pierre-Alain de Garrigues[^ref-25] |
+| Ori | Pierre-Alain de Garrigues[^ref-25] |
+| The robots | Pierre-Alain de Garrigues[^ref-25] |
 
 The same list says Dolly Vanden voiced Adibou in the French versions from 1996 to 2005; it does not name this game specifically[^ref-22].
 
@@ -165,6 +170,8 @@ No documented cut content has been identified in available research sources.
 | — | 2003 | PlayStation | Italy | Italian release[^ref-2] |
 | — | June 11, 2004 | Windows | Germany | German PC release[^ref-2] |
 
+MobyGames lists Vivendi Universal Games Deutschland GmbH as the publisher of the 11 June 2004 German Windows release, with Coktel Vision as developer[^ref-2].
+
 **Localized Titles:**[^ref-3]
 - **German:** Adiboo & Das Geheimnis von Paziral
 - **Italian:** Adiboo e il Segreto di Paziral / Adibù e il Segreto di Paziral
@@ -174,10 +181,6 @@ No documented cut content has been identified in available research sources.
 ### Technical Issues
 
 The Windows version built on RenderWare may encounter compatibility issues on modern operating systems. PCGamingWiki notes that "RenderWare games may not work on Windows 11 24H2 or later without using a DirectSound wrapper"[^ref-8]. Users seeking to play the game on contemporary systems may need to employ compatibility tools or audio wrappers to achieve functionality.
-
-### Easter Eggs and Trivia
-
-- PSX Data Center compares the gameplay to Naughty Dog's Crash Bandicoot series[^ref-5]
 
 ## Legacy
 
@@ -201,25 +204,21 @@ The game shipped with standard documentation appropriate for its target audience
 
 Jeuxvideo.com framed the game as an unexpected turn for Coktel Vision's edutainment series toward action and platforming, and summed it up as "une bonne pioche" (a good pick) that ends too quickly[^ref-20]. PSX Data Center's comparison to Crash Bandicoot places it among the familiar platformer formula of the era, aimed at a younger audience: "Great for the kids"[^ref-5].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently sold digitally. [GOG Dreamlist entry](https://www.gog.com/dreamlist/game/adiboo-paziral-s-secret-2003) – vote page only; GOG does not sell the game
-
-## Downloads
+- Secondary market: [GEX.co.uk](https://gex.co.uk/sell-ps1-games-for-cash/14740-11014-adiboo-paziral-s-secret.html) trade-in listing for the PlayStation version[^ref-13]
 
 **Download / Preservation**
 - [RomsFun – PlayStation ROM](https://romsfun.com/roms/playstation/adiboo-pazirals-secret.html) – European (PAL) release[^ref-12]
-
-**Secondary Market**
-- [GEX.co.uk](https://gex.co.uk/sell-ps1-games-for-cash/14740-11014-adiboo-paziral-s-secret.html) – Trade-in marketplace[^ref-13]
 
 ## See Also
 
 - [[1996 - Adiboo - Magical Playland|← Previous: Adiboo - Magical Playland]]
 - [[2004 - Adiboo and the Energy Thieves|→ Next: Adiboo and the Energy Thieves]]
-
-- [[1992 - A.J.'s World of Discovery]]
+- [[Coktel Adventures Series]] – Series overview
+- [[1992 - A.J.'s World of Discovery]] – Related: A.J.'s World of Discovery (1992)
 
 ## References
 
@@ -243,4 +242,5 @@ Jeuxvideo.com framed the game as an unexpected turn for Coktel Vision's edutainm
 [^ref-22]: [Wikipédia (fr) – Adi (série de jeux vidéo), "Voix françaises"](https://fr.wikipedia.org/wiki/Adi_(s%C3%A9rie_de_jeux_vid%C3%A9o)) – Pierre-Alain de Garrigues as Bizbi in Adibou et le Secret de Paziral and, in additional voices, Paziral and Tiltili; Dolly Vanden as Adibou, 1996 to 2005
 [^ref-23]: [Wikipedia – Adibou (game table)](https://en.wikipedia.org/wiki/Adibou) – table entry only: 2003, PlayStation and Windows, Neko Entertainment, Vivendi Universal Games Int.
 [^ref-24]: [HFS-DB – Adiboo et le Secret de Paziral](https://db.hfsplay.fr/games/183492-adiboo-pazirals-secret?lang=fr) – PlayStation preservation database entry: Europe release, languages En, Fr, De, Es, It; Vivendi as publisher
+[^ref-25]: [Wikipédia (fr) – Pierre-Alain de Garrigues](https://fr.wikipedia.org/wiki/Pierre-Alain_de_Garrigues) – filmography: "2003 : Adibou et le Secret de Paziral : Tiltili, Bizbi, Paziral, Picabol, Ori, les robots"
 [^ref-21]: Feibel.de Kindersoftware-Ratgeber – "Alle Spiele - Adiboo & das Geheimis von Paziral" (feibel.3q.de, prodId 3206; Wayback snapshot 3 September 2019; link omitted) – German Windows version, ages 5+, "Veröffentlicht 01/03"; "Fazit: Es gibt bessere Jump-and-Run-Spiele"
