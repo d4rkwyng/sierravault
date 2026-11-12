@@ -10,12 +10,15 @@ series: "Hoyle's Official Book of Games"
 engine: "SCI2.1"
 protagonist: "Player"
 sierra_lineage: "Core Sierra"
-last_updated: "2026-10-29"
+last_updated: "2026-11-12"
+composer: ["Johnathan Cunningham"]
+description: "Hoyle Bridge (1996) is a Sierra On-Line contract bridge game for Windows 3.x and Windows 95 in which the player partners and plays against eleven comical animated or eleven business-world characters."
+tags: ["1990s", "hoyle-s-official-book-of-games", "sierra"]
 ---
 
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -103,9 +106,10 @@ Hoyle Bridge was developed in-house by Sierra On-Line[^ref-1]. MobyGames credits
 - **Programming:** Tom Abbott, Elon Gasper, Tim Knappenberger, Mira Lieberman, Tim Weiss, Richard Aronson
 - **Lead Artist:** Rabih AbouJaoudé
 - **Lead Animator:** Tony Benedict
+- **Artists:** Kathleen Darcy, Greg Griffith, Tina Dickey, Kristin Kester, Julie Pogue Barnes, Moksha Marquardt, Karen Mui, Trevor Pogue
 - **Sound Design and Music Design:** Johnathan Cunningham
 - **Script:** Kaefan Shaw, Dennis Ham
-- **Sound & Lip Synching:** Beck Henderer
+- **Sound & Lip Synching:** Beck Henderer, Dennis Ham, David Bishop, James Ackley
 
 The game runs on Sierra's SCI2.1 engine[^ref-5]. Hoyle Classic Games, from which it was derived, ran at 640x480 with 256 colors[^ref-3]. ScummVM's detection entry for the Windows release (ID `hoyle5bridge`) lists the same `resource.aud` audio file, with an identical checksum and size, as Hoyle Children's Collection[^ref-37].
 
@@ -138,7 +142,7 @@ MobyGames lists the ESRB rating as Kids to Adults[^ref-1]. The ESRB's own databa
 
 ### Release Date
 
-No exact release date has been found. MobyGames gives only the year 1996[^ref-1]. A distributor's release schedule printed in Videogame Advisor's October 1996 issue listed Sierra's "Hoyle Bridge" with an estimated ship date of "Early 1997"[^ref-31], but Sierra's own Holiday 1996 InterAction already listed "Bridge by Hoyle" among its Sierra Originals[^ref-29].
+No exact release date has been found. MobyGames gives only the year 1996[^ref-1]. A distributor's release schedule printed in Videogame Advisor's October 1996 issue listed Sierra's "Hoyle Bridge" with an estimated ship date of "Early 1997"[^ref-31], but Sierra's own Holiday 1996 InterAction already listed "Bridge by Hoyle" among its Sierra Originals[^ref-29]. Wikipedia's list for Hoyle's Official Book of Games gives "Hoyle Bridge (1997)"[^ref-38].
 
 ## Legacy
 
@@ -183,6 +187,7 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]
@@ -241,7 +246,7 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 
 ## References
 
-[^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – read via the MobyGames API: 1996 Windows / Windows 16-bit release, credits (29 people), player ratings (3.2/5 from 2), description, ESRB Kids to Adults
+[^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – 1996 Windows / Windows 16-bit release, credits (29 people), player ratings (3.2/5 from 2), description, ESRB Kids to Adults
 [^ref-2]: [Amazon – Hoyle Bridge PC](https://www.amazon.com/Hoyle-Bridge-PC/dp/B001036J06) – Sierra Originals listing ("Brand: Sierra Originals"): product description, features, 1.0/5 from 1 rating
 [^ref-3]: [ScummVM Wiki – Hoyle Children's Collection](https://wiki.scummvm.org/index.php/Hoyle_Children's_Collection) – redirects to the Hoyle Classic Games page ([Wayback, 16 June 2024](http://web.archive.org/web/20240616145319/https://wiki.scummvm.org/index.php/Hoyle_Classic_Games)): derivation of Hoyle Bridge and Hoyle Children's Collection, "Sierra Original" blurb, Attitude Meter, 640x480 / 256 colors
 [^ref-4]: [Sierra Gamers – Ken Williams](https://www.sierragamers.com/ken-williams/) – "running a 'club'" quote
@@ -253,7 +258,7 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 [^ref-11]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – Dreamlist (wishlist) entry; not sold on GOG
 [^ref-12]: [eBay – Hoyle Bridge: Sierra Originals](https://www.ebay.com/p/128176800) – product page with a single 1-star user review (Nov 2021, 64-bit incompatibility)
 [^ref-13]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – February 2010 community discussion of which Hoyle titles count as "Sierra"
-[^ref-14]: [MobyGames – Hoyle's Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – read via the MobyGames API: series origin (1989), 18 opponents including seven Sierra game characters
+[^ref-14]: [MobyGames – Hoyle's Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – series origin (1989), 18 opponents including seven Sierra game characters
 [^ref-16]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – PC Data 1999 Hoyle Casino ranking, product lineup
 [^ref-17]: [Funding Universe – Sierra On-Line](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) – same company-history text as ref-16 (not an independent source)
 [^ref-18]: [Metacritic – Hoyle Bridge](https://www.metacritic.com/game/hoyle-bridge/) – 2000 release (August 25, 2000)
@@ -269,8 +274,9 @@ Hoyle Bridge was a budget-priced spinoff of Hoyle Classic Games[^ref-3][^ref-26]
 [^ref-30]: [Sierra Originals manual (Outpost reissue, © 1996), OCR text](https://archive.org/download/outpost-sierra-1994/Outpost-SierraOriginals_MAN_djvu.txt) – "Value priced."; "Other great Sierra Originals titles" includes "Bridge by Hoyle®"
 [^ref-31]: [Videogame Advisor, October 1996 (Internet Archive scan)](https://archive.org/details/videogame-advisor-october-1996/page/n44/) – distributor release table: "Hoyle Bridge", Sierra, est. ship date "Early 1997"
 [^ref-32]: [ESRB – Hoyle Bridge](https://www.esrb.org/ratings/1746/hoyle-bridge/) – Sierra Entertainment, Windows PC, rated E, no descriptors (undated entry)
-[^ref-33]: [MobyGames – Hoyle Classic Games](https://www.mobygames.com/game/28770/hoyle-classic-games/) – read via the MobyGames API: Windows 16-bit release 1995-11-22; collection includes Bridge
-[^ref-34]: [MobyGames – Hoyle Children's Collection](https://www.mobygames.com/game/19773/hoyle-childrens-collection/) – read via the MobyGames API: 1996 Windows release; checkers, crazy eights and old maid
+[^ref-33]: [MobyGames – Hoyle Classic Games](https://www.mobygames.com/game/28770/hoyle-classic-games/) – Windows 16-bit release 1995-11-22; collection includes Bridge
+[^ref-34]: [MobyGames – Hoyle Children's Collection](https://www.mobygames.com/game/19773/hoyle-childrens-collection/) – 1996 Windows release; checkers, crazy eights and old maid
 [^ref-35]: [InterAction Magazine, Fall 1995 (Internet Archive OCR text)](https://archive.org/download/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US_djvu.txt) – Hoyle Classic Games feature listing its eight card games and two board games
 [^ref-36]: [InterAction Magazine, Spring 1998 (Internet Archive scan)](https://archive.org/details/InterAction_Magazine_Spring_1998_1998_Sierra_On-Line_US/page/n8/) – Sierra introduces Hoyle Bridge and Euchre (1998); "Bridge has four" variations
 [^ref-37]: [ScummVM – SCI detection tables](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – "hoyle5bridge" Windows entry and its resource files (resource.aud shared with "hoyle5children")
+[^ref-38]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – lists "Hoyle Bridge (1997)" under other games in the series
