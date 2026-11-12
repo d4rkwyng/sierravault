@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: null
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Hoyle Casino (1996) is the first game in Sierra On-Line's Hoyle Casino
   series, a spin-off of its Hoyle card-game series offering poker, blackjack, craps,
   roulette and slot machines, released on December 9, 1996.
@@ -18,13 +18,13 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Hoyle Casino is a 1996 casino simulation developed and published by [[Sierra On-Line]] for Windows[^ref-10]. It was the first game in the Hoyle Casino spin-off of Sierra's Hoyle's Official Book of Games card-game series, a line of virtual-casino games that ran from 1996 to 2016[^ref-2][^ref-5]. Sierra had announced it for October 1996, and it was released on December 9, 1996, following Hoyle Solitaire and Hoyle Blackjack earlier that year[^ref-58][^ref-54][^ref-63][^ref-55].
 
-The game puts the player in a Vegas casino with $5,000 to spend. It offers blackjack, craps, roulette, slot machines and several kinds of poker against computer opponents who comment on the play[^ref-10][^ref-53]. Several of these opponents came from Hoyle Blackjack[^ref-57]. Sierra's own advertisements in Computer Gaming World promoted "Seven animated opponents" (November 1996) and named three of them, The Riverboat Gambler, The Slick-Talking Dude and The Incredible Cheapskate (December 1996)[^ref-68][^ref-67]. GameSpot rated it 8.2 out of 10[^ref-53].
+The game puts the player in a Vegas casino with $5,000 to spend. It offers blackjack, craps, roulette, slot machines and several kinds of poker against computer opponents who comment on the play[^ref-10][^ref-53]. Several of these opponents came from Hoyle Blackjack[^ref-57]. Sierra's own advertisements in Computer Gaming World promoted "Seven animated opponents" (November 1996) and named three of them, The Riverboat Gambler, The Slick-Talking Dude and The Incredible Cheapskate (December 1996)[^ref-68][^ref-67]. The November advertisement continued: "Seven animated opponents keep the games lively. Slot machines, video poker and seven more casino favorites keep the thrilling action going."[^ref-68] GameSpot rated it 8.2 out of 10[^ref-53][^ref-63].
 
 The Hoyle name comes from Edmond Hoyle, an 18th-century English writer on card games. His writings on whist gave rise to the phrase "according to Hoyle," meaning "full compliance with universally accepted rules and customs"[^ref-4].
 
@@ -100,10 +100,6 @@ According to Van Horn, the team discussed each character design together and the
 
 In summer 1996, Sierra ran a "Design a Hoyle Casino Game Character" contest in InterAction. The grand prize was a trip to Las Vegas, and the winning entry could be included in the game[^ref-58]. The Fall 1996 issue reported that the Blackjack characters returned and that "the designers have added two more players — including one submitted by our Hoyle Casino Vegas Contest winner"[^ref-57].
 
-### Cut Content
-
-Sierra's Summer 1996 preview listed Baccarat among the games and promised "six gaming categories with 24 unique games"[^ref-58]. Sierra's Spring 1996 InterAction had first announced "a suite of Hoyle Casino Games which will include craps, roulette, one-armed bandits, baccarat, poker, and blackjack" for that fall[^ref-69]. Neither Sierra's Fall 1996 feature nor GameSpot's review mentions Baccarat[^ref-57][^ref-53].
-
 ### Technical Specifications
 
 - **Media:** CD-ROM[^ref-60]
@@ -112,6 +108,10 @@ Sierra's Summer 1996 preview listed Baccarat among the games and promised "six g
 - **Operating System:** Windows 3.1 or Windows 95[^ref-58]
 - **Players:** 1 offline, plus Internet play for Poker and Blackjack[^ref-60][^ref-57]
 - **ESRB:** Kids to Adults[^ref-60]
+
+### Cut Content
+
+Sierra's Summer 1996 preview listed Baccarat among the games and promised "six gaming categories with 24 unique games"[^ref-58]. Sierra's Spring 1996 InterAction had first announced "a suite of Hoyle Casino Games which will include craps, roulette, one-armed bandits, baccarat, poker, and blackjack" for that fall[^ref-69]. Neither Sierra's Fall 1996 feature nor GameSpot's review mentions Baccarat[^ref-57][^ref-53].
 
 ### Version History
 
@@ -226,7 +226,7 @@ By April 1997 Sierra named Hoyle Casino among the members of its "best-selling H
 [^ref-65]: [Sierra On-Line press release – "Sierra Announces Release of Hoyle: Poker" (Wayback, 1998)](https://web.archive.org/web/19980214051118/http://sierra.com:80/info/press/0055.html) – April 1997: Hoyle Casino listed as a member of "the best-selling Hoyle series"
 [^ref-66]: [GameSpot – Hoyle Casino all updates (Wayback, 2003)](https://web.archive.org/web/20030412102709/http://www.gamespot.com:80/pc/puzzle/hoylecasino/all_updates.html) – lists "Hoyle Casino Review ... [REVIEW - POSTED: 12/10/96]" (a separate 2002 review is also listed; only the 12/10/96 entry is used here)
 [^ref-67]: [Computer Gaming World #149 (December 1996), Sierra advertisement (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_149) – Sierra advertisement, not editorial: names The Riverboat Gambler, The Slick-Talking Dude and The Incredible Cheapskate; on-line play; "Thankfully, no actual money changes hands"
-[^ref-68]: [Computer Gaming World #148 (November 1996), Sierra advertisement (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_148) – Sierra advertisement, not editorial: "Seven animated opponents keep the games lively"
+[^ref-68]: [Computer Gaming World #148 (November 1996), Sierra advertisement (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_148) – Sierra advertisement, not editorial: "Seven animated opponents keep the games lively. Slot machines, video poker and seven more casino favorites keep the thrilling action going"
 [^ref-69]: [InterAction Magazine, Spring 1996 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US) – Sierra's own magazine; earliest announcement found: fall suite of Hoyle Casino Games including baccarat
 [^ref-70]: [InterAction Magazine, Holiday 1997 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Holiday_1997_1997_Sierra_On-Line_US) – Sierra's own magazine; catalog entry: $29.95 Win CD, seven interactive opponents, more than 50 game variations, on-line Blackjack and Poker
 [^ref-71]: [Computer Gaming World #160 (November 1997) (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_160) – online-gaming services list: Sierra Internet Gaming System (SIGS) games include Hoyle Casino
