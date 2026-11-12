@@ -7,18 +7,18 @@ publisher: Sierra On-Line
 genre: Sports
 platforms: [Windows]
 series: 3D Ultra
-engine: 3D Ultra Engine
+engine: null
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-12'
 description: 3-D Ultra MiniGolf Deluxe (1998) is Dynamix's expanded edition of the 1997
   3-D Ultra MiniGolf, adding nine new holes for 27 in total plus online play.
 tags: [1990s, 3d-ultra, sierra]
-last_modified: 2026-10-27T10:25:07-06:00
+last_modified: 2026-11-12T12:00:00-07:00
 ---
 # 3-D Ultra MiniGolf Deluxe
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,9 +32,8 @@ Sierra's summary pitched it this way: "Minigolf was never like this. 3-D Ultra M
 > **Publisher:** [[Sierra On-Line]][^ref-7]
 > **Platforms:** Windows[^ref-10]
 > **Release Year:** 1998[^ref-7]
-> **Series:** 3D Ultra
+> **Series:** [[3D Ultra Series|3D Ultra]]
 > **Sierra Lineage:** Core Sierra
-> **Engine:** 3D Ultra Engine
 > **Protagonist:** Player-controlled golfer
 
 ## Story Summary
@@ -43,7 +42,7 @@ Sierra's summary pitched it this way: "Minigolf was never like this. 3-D Ultra M
 
 ## Gameplay
 
-Gameplay is unchanged from the 1997 original[^ref-7]; see [[1997 - 3-D Ultra MiniGolf]] for its putting controls (EasyPutt and TruePutt) and course design. Vivendi's description on CNET adds: "The 3D graphics are pretty cool and the gameplay is simple, controlled by intuitive mouse movements."[^ref-4] Dynamix's announcement noted that the new holes "introduce real-time 3-D animated characters that interact unpredictably with their ball each time they play"[^ref-28].
+Gameplay is unchanged from the 1997 original[^ref-7]; see [[1997 - 3-D Ultra MiniGolf]] for its putting controls (EasyPutt and TruePutt) and course design. Vivendi's description on CNET adds: "The 3D graphics are pretty cool and the gameplay is simple, controlled by intuitive mouse movements."[^ref-4] Dynamix's announcement noted that the new holes "introduce real-time 3-D animated characters that interact unpredictably with their ball each time they play"[^ref-28]. The release describes the examples: "A killer shark may eat their ball in the deep sea adventure, or they may encounter a creepy spider in the banshee hole, or a bird may fly off with their ball on the cloud nine hole," and if a player putts "their ball into the 50’s monster movie screen during the popcorn commercial they may find themselves in the snack bar."[^ref-28]
 
 ### Structure and Modes
 
@@ -77,13 +76,19 @@ The Collection Chamber's Deluxe update finds that "a lot of the courses are more
 
 ### Credits
 
-MobyGames credits Kevin Ryan as Designer, Jeffrey Tunnell as Co-Designer/Executive Director, Ken Embery as Producer, Randy Thompson as Director and David McClurg as Lead Programmer, with multiplayer programming by John Leavens and David McClurg[^ref-18].
+MobyGames credits Kevin Ryan as Designer, Jeffrey Tunnell as Co-Designer/Executive Director, Ken Embery as Producer, Randy Thompson as Director and David McClurg as Lead Programmer, with multiplayer programming by John Leavens and David McClurg[^ref-18]. Anthony Lewis is credited as Art Director. The music is credited to LoudMouth, and the voices to Bill Barrett, Lloyd Brass and Lani Minella, with voice scripts by Ken Embery, Lani Minella and Kevin Ryan. Ball physics consulting is credited to Rhett Anderson, Chris Cole and Mike Gingerich[^ref-18].
+
+The ESRB rated the game E for Everyone, listing the publisher as "Dynamix, Inc."[^ref-29] The Computing History museum records a Windows CD-ROM release from Sierra On-Line, authored by Dynamix, dated July 1998[^ref-30].
 
 ## Legacy
 
 Dynamix began a further sequel. According to Sierra Chest, "3D Ultra Minigolf Adventures was originally created in 2000, as a sequel to 3D Ultra Minigolf Deluxe, titled Mini Golf Maniacs for Microsoft Windows and PlayStation 2. In 2001, the Dynamix game division in charge of making the game was shut down and the game, while nearly finished, went unreleased for five years until Wanako Studios completed its development in 2006."[^ref-23][^ref-8][^ref-9] It became [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]].
 
-Deluxe itself is no longer sold. It survives through preservation sites such as MyAbandonware[^ref-19] and the Internet Archive[^ref-2].
+### Collections
+
+Sierra Chest lists the game in the compilation "3-D Ultra Pack: Fun & Tilt", in the German "Best of Sierra Nr.11" release, and in the On-Line Games Collection[^ref-31].
+
+Deluxe itself is no longer sold. It survives through preservation sites such as MyAbandonware[^ref-19] and the Internet Archive[^ref-2]. Max Laumeister's tribute page later recommended a modernized Windows port from Zomb's Lair as the way to play it on current systems[^ref-12].
 
 ## Purchase
 
@@ -98,6 +103,7 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 
 ## See Also
 
+- [[3D Ultra Series]] — Series overview
 - [[1998 - 3-D Ultra NASCAR Pinball|← Previous: 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Cool Pool|→ Next: 3-D Ultra Cool Pool]]
 
@@ -135,3 +141,6 @@ Not currently sold digitally. GOG lists it only as a Dreamlist (wishlist) entry:
 [^ref-23]: [Sierra Chest - Minigolf Adventures Deluxe](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) - Minigolf Maniacs development history
 [^ref-27]: [Zomb's Lair - 3D Ultra Minigolf Deluxe](https://www.zombs-lair.com/3d-ultra-minigolf-deluxe) - Retrospective review
 [^ref-28]: [Dynamix Press Release - 3D Ultra Mini Golf Deluxe: Twenty-Seven Holes of Wild Fun! (May 15, 1998)](https://web.archive.org/web/19980627112440/http://www.dynamix.com/pr/minigolf-pr.html) - Period announcement: July 1998 Windows 95 release, $29.95, multiplayer, Road Repair contest, Sierra Attractions brand
+[^ref-29]: [ESRB - 3-D Ultra MiniGolf Deluxe](https://www.esrb.org/ratings/6284/3-d-ultra-minigolf-deluxe/) - Rating E for Everyone; publisher listed as Dynamix, Inc.
+[^ref-30]: [Computing History - 3D Minigolf Deluxe](https://www.computinghistory.org.uk/det/71835/3D%20Minigolf%20Deluxe/) - Museum record: PC Windows CD-ROM, Sierra On-Line / Dynamix, July 1998
+[^ref-31]: [Sierra Chest - 3-D Ultra Minigolf (Wayback, 2024-12-10)](https://web.archive.org/web/20241210162841/https://sierrachest.com/index.php?a=games&id=108) - Collections and compilations list
