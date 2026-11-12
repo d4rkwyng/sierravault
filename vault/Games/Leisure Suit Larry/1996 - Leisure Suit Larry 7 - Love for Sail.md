@@ -10,16 +10,16 @@ series: Leisure Suit Larry
 engine: SCI3
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
-  On-Line...'
+  On-Line in late 1996.'
 tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -64,17 +64,16 @@ The game takes place entirely aboard the PMS Bouncy, with Larry free to roam aro
 
 Key locations aboard the ship include:
 
-- **The Captain's Ballroom:** Where Larry first encounters Jamie Lee Coitus
-- **The Library:** Home to various puzzles and a significant stuffed beaver
-- **The Lounge and Stage:** Performance venue for the Juggs
-- **The Dressing Room:** Behind-the-scenes access to various women
-- **The Boning Cabin:** Residence of the mysterious Annette Boning
-- **The Sculpture Garden:** Features dangerous ceiling spikes and an electromagnet puzzle
-- **The Casino:** Various gambling games and opportunities for Larry's schemes
+- **Captain Queeg's Ballroom:** Where Larry talks to Jamie Lee Coitus[^ref-58][^ref-16]
+- **The Library:** Holds a stuffed beaver on a bookcase and is where Larry meets Victorian Principles[^ref-27][^ref-58]
+- **The Proud Lil' Seaman Lounge:** Where the Juggs perform; the Juggs' dressing room is the room to the left of the bar window[^ref-58][^ref-16]
+- **Annette Boning's cabin:** Reached by a hallway lined with statues[^ref-58][^ref-27]
+- **El Replicant Sculpture Garden:** A giant David made of playing cards and an unfinished Venus de Milo made of casino dice[^ref-58]
+- **The Pair O' Dice Casino:** Where Larry plays the craps contest[^ref-58][^ref-27]
 
 ### Puzzles and Mechanics
 
-The game features a variety of puzzle types alongside the shipboard contests. It was also the first Larry game to include a full-fledged minigame, *Where's Dildo?* (not counting the casino games in earlier installments).[^ref-2] One prominent example is "Strip Liar's Dice" with Dewmi Moore, where players can peek at the dice by pressing Ctrl+C.[^ref-17] The ship's casino also features various gambling opportunities.
+The game features a variety of puzzle types alongside the shipboard contests. It was also the first Larry game to include a full-fledged minigame, *Where's Dildo?* (not counting the casino games in earlier installments).[^ref-2] One prominent example is "Strip Liar's Dice" with Dewmi Moore, where players can peek at the dice by pressing Ctrl+C.[^ref-17] In the casino, Larry must clear the crowd from the craps table (by eating the bean dip and then farting) and use shaved dice on the craps table to win the contest.[^ref-27]
 
 The puzzle design occasionally drew criticism, with producer Mark Seibert admitting that the team knowingly included at least one problematic puzzle: "all of us knew that was a bad puzzle, and that we shouldn't be putting it in, but it made for a big joke and so we left it. Sure enough, people have written me about it all the time and say, 'Hey! That was a stupid puzzle!'"[^ref-1]
 
@@ -124,15 +123,21 @@ One significant production innovation was the switch from MIDI music to recordin
 
 The CyberStar 2000 feature, which allowed players to insert their own photographs and voice recordings, was developed but the instructions for using it were not printed in the game manual due to time constraints—they were published later online.[^ref-2]
 
-**Development Credits:**[^ref-28][^ref-50]
-- **Designer:** [[Al Lowe]]
-- **Co-Designer:** Don Munsil
+**Development Credits:**[^ref-28][^ref-50][^ref-59]
+- **Designer:** [[Al Lowe]] (manual: Designer, Writer, Director)
+- **Co-Designer:** Don Munsil (manual: Assistant Designer & Writer, Programmer; MobyGames: Assistant Design)
 - **Producer:** [[Mark Seibert]]
-- **Composer:** Frank Zottoli
+- **Programming:** Steve Conrad (lead programmer), Mark Martino
+- **Art:** Jason Zayas (animation director), Jason Piel (background design), Layne Gifford (lead background artist)
+- **Animators:** Bill O'Brien and Al Eufrasio (MobyGames: William O'Brian and Alberto Eufrasio)
+- **Art technicians:** Bob Munsil, Bryan Wilkinson (MobyGames: Robert Munsil)
+- **Quality assurance:** Jennifer Gibbs (lead)
+- **Voice director:** Al Lowe; voice casting by Al Lowe and Don Munsil
+- **Composer:** Frank Zottoli; the Leisure Suit Larry theme was composed by Al Lowe and arranged by Frank Zottoli
 - **SFX & Additional Music:** Ben Houge, Al Lowe, Mark Seibert[^ref-50]
 - **Session musicians:** Frank Zottoli (piano), Kim Hutchcroft (woodwinds), Tom Warrington (bass), Claudio Slon (drums), with Mark Seibert (guitar, synthesizers, percussion), Al Lowe (soprano sax) and Steve Conrad (trombone)[^ref-50]
 - **Playtesters:** included Geoff Keighley[^ref-50]
-- **Animation:** LA West (digital ink and paint)
+- **Animation:** LA West (director of animation Ivan Tomicic; digital ink and paint)[^ref-59][^ref-28]
 
 ### Voice Cast
 
@@ -141,14 +146,17 @@ The CyberStar 2000 feature, which allowed players to insert their own photograph
 | Leisure Suit Larry | Jan Rabson |
 | Narrator / Mr. Boning / Rod / Male Ship's Announcer | Neil Ross |
 | Dewmi Moore / Captain Thygh / Judge Julia | Sheryl Bernstein |
-| Drew Baringmore / Jamie Lee Coitus / Wydoncha Jugg / Peggy | Mary Kay Bergman |
+| Drew Baringmore / Jamie Lee Coitus / Wydoncha Jugg | Mary Kay Bergman |
+| Peggy | Mary Kay Bergman (IMDb); credited as "Herself" in the manual |
 | Annette Boning - Mysterious Woman in Black / Female Ship's Announcer | Tasia Valenza |
 | Victorian Principles | Jennifer Darling |
-| Nailmi Jugg | Kathy Levin |
+| Nailmi Jugg | Kathy Levin (IMDb); the manual credits Jodie Carlisle |
 | Shamara Payne | Julie Amato |
 | Peter / Dick / Wang | S. Scott Bullock |
-| Johnson / Judge Graham / Judge Paul | Kevin Michael Richardson |
-| Jacques / Willy / Xqwzts | Michael Gough |
+| Johnson / Judge Graham / Judge Paul | Kevin Michael Richardson (credited as Kevin Richardson) |
+| Jacques / Willy / Xqwzts | Michael Gough (credited as Michael Golff) |
+
+The table follows IMDb's full credits;[^ref-28] the in-game manual's cast page[^ref-59] gives the same actors except for Nailmi Jugg and Peggy, as noted.
 
 **Polish Version Cast:** (from a Metacritic user review and Polish Wikipedia, which gives no source for the cast; treat as unverified)[^ref-23][^ref-48]
 
@@ -200,11 +208,16 @@ The Cutting Room Floor documents several unused assets found in the game files:[
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | October 31, 1996 (TCRF, GameFAQs, GameSpot, IMDb; Wikipedia/PCGW give November 26) | DOS/Windows | Release[^ref-22][^ref-8] |
+| German | December 5, 1996 | DOS/Windows | German release, published by Sierra On-Line[^ref-52] |
 | 1.2 | 1996 | DOS/Windows | Patch fixing multiple bugs[^ref-30] |
 | 1.0 | January 18, 1997 | Mac OS | Macintosh release[^ref-1] |
-| Polish | October 19, 2000 | PC | Polish release distributed by CD Projekt[^ref-48] |
+| Spanish | March 19, 1997 | Windows | Distributed by Coktel Vision, with Spanish subtitles[^ref-52] |
+| Polish | October 19, 2000 (Polish Wikipedia) | PC | Polish release distributed by CD Projekt[^ref-48] |
+| Polish (eXtra Klasyka) | February 12, 2003 | Windows | Published by Vivendi Universal Games, distributed by CD Projekt[^ref-52] |
 | GOG | February 19, 2013 | Windows/Mac | GOG.com digital release[^ref-20] |
+| ZOOM Platform | December 2, 2014 (end date March 31, 2023) | Windows | Published by Codemasters, distributed by Jordan Freeman Group, MSRP $5.99[^ref-52] |
 | Steam | December 22, 2017 | Windows | Steam release by Assemble Entertainment (store listing ended May 3, 2025)[^ref-52] |
+| IndieGala | September 10, 2021 | Windows | IndieGala galaFreebies release, published by Assemble Entertainment[^ref-52] |
 | ScummVM | April 26, 2018 | Windows | ScummVM support added[^ref-8] |
 | ScummVM | May 14, 2018 (Wikipedia: May 15) | Linux | Linux ScummVM release[^ref-8][^ref-1] |
 | 1.01 v3 | November 6, 2024 | Windows | Latest GOG build[^ref-31] |
@@ -236,10 +249,10 @@ The game contains an extensive collection of Easter eggs that Al Lowe described 
 
 **Character Easter Eggs:**[^ref-13][^ref-27]
 - **Victorian/Vicki Egg:** After Victorian becomes Vicki, her computer monitor shows two nude men from *Leisure Suit Larry 6*; Ctrl-click the left man, and later, when Larry and Vicki have sex, you see a little more.[^ref-13]
-- **Juggs Egg:** In the library, clicking on the stuffed beaver, selecting "Other," and typing "milk" causes the Juggs to appear nude in their dressing room.
-- **Jamie Egg:** Immediately upon entering the ballroom, clicking on Larry, selecting "Other," and typing "dream" shows Larry's fantasy about Jamie.
-- **Drew Eggs:** Multiple triggers including pushing the pesky branch, using orgasmic powder on Drew's drink, and obtaining earplugs from the stage mixer.
-- **Annette Egg:** Clicking the crotch of the third statue outside the Boning cabin and typing "unzip" before delivering the insurance policy reveals additional content.
+- **Juggs Egg:** In the library, clicking on the stuffed beaver, selecting "Other," and typing "milk" causes the Juggs to appear nude in their dressing room.[^ref-13]
+- **Jamie Egg:** Immediately upon entering the ballroom, clicking on Larry, selecting "Other," and typing "dream" shows Larry's fantasy about Jamie.[^ref-13]
+- **Drew Eggs:** Three triggers: typing "push" on the pesky branch, using the orgasmic powder on Drew's "Gigantic Erection" and then trying to drink it, and typing "feel" on the stage mixer to obtain earplugs.[^ref-13]
+- **Annette Egg:** Clicking the crotch of the third statue on the left side of the hallway outside the Boning cabin and typing "unzip" before giving Annette the insurance policy reveals additional content.[^ref-13][^ref-27]
 
 **Pop Culture References:**[^ref-22]
 - The men ordering martinis in the casino represent James Bond actors: Sean Connery, Roger Moore, Timothy Dalton, and Pierce Brosnan (excluding George Lazenby). Bond theme music plays when the waitress approaches.
@@ -267,11 +280,10 @@ The game was the first in the Leisure Suit Larry series to receive an ESRB ratin
 *Love for Sail!* has been included in numerous compilation releases:
 - **Leisure Suit Larry: Ultimate Pleasure Pack** (1999)[^ref-1]
 - **Gold Games 4** (1999), **Best of Sierra Nr. 16** (2000), **Sierra's Classic Adventures** (2001) and **Leisure Suit Larry: Das komplette Vergnügen** (2018)[^ref-21]
-- Various digital bundles on GOG.com and Steam
 
 ### Fan Projects
 
-The game maintains an active speedrunning community, with the current world record for Any% completion standing at 27 minutes 46 seconds, held by runner "swimfan."[^ref-40] The speedrun community uses both DOSBox and ScummVM for runs.
+The game maintains an active speedrunning community, with the current world record for Any% completion standing at 27 minutes 46 seconds, held by runner "swimfan."[^ref-40] The leaderboard lists runs under DOSBox and ScummVM emulation as well as one native PC run.[^ref-40]
 
 A 1997 German novelization titled *Die verrückten Abenteuer des Larry Laffer* was written by Steve Whitton, adapting the game's story.[^ref-21]
 
@@ -291,15 +303,18 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 - [GOG.com](https://www.gog.com/game/leisure_suit_larry_love_for_sail) – DRM-free, includes extras
 - [Steam](https://store.steampowered.com/app/765890/) – No longer sold: removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-8][^ref-44]
 
-**Download / Preservation**
-- [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual)[^ref-43]
-
 **Manuals & Extras**
-- [Manual PDF at Internet Archive](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual)
+- [Manual PDF at Internet Archive](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual)[^ref-43]
 - [Al Lowe's Official Hints Page](https://allowe.com/games/larry/tips-manuals/lsl7-hints.html)[^ref-27]
 - [Al Lowe's Easter Eggs Guide](https://allowe.com/games/larry/tips-manuals/lsl7-eggs.html)[^ref-13]
 
 ## See Also
+
+- [[Leisure Suit Larry Series]]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|← Previous: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+- [[1998 - Leisure Suit Larry's Casino|→ Next: Leisure Suit Larry's Casino]]
+
+**Other Leisure Suit Larry games:**
 
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
@@ -361,10 +376,11 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 [^ref-49]: [IMDb – Leisure Suit Larry 6: Full Cast](https://www.imdb.com/title/tt0221339/fullcredits/) – Neil Ross as narrator of Larry 6
 [^ref-50]: [MobyGames – Credits (DOS)](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/credits/dos/) – SFX & additional music, session musicians, playtesters
 [^ref-51]: [MobyGames – Leisure Suit Larry: Love for Sail (2007, mobile)](https://www.mobygames.com/game/32876/leisure-suit-larry-love-for-sail/) – J2ME 2007, BlackBerry 2008
-[^ref-52]: [MobyGames – Releases](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/releases/) – Steam release Dec 22, 2017 by Assemble Entertainment, end date May 3, 2025
+[^ref-52]: [MobyGames – Releases](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/releases/) – release list: German (Dec 5, 1996), Spanish (Mar 19, 1997), Polish eXtra Klasyka (Feb 12, 2003), ZOOM Platform (Dec 2, 2014 to Mar 31, 2023), Steam (Dec 22, 2017, end date May 3, 2025, Assemble Entertainment), IndieGala (Sep 10, 2021)
 [^ref-53]: [Al Lowe – Leisure Suit Larry 4](https://allowe.com/games/larry/inside-stories/wheres-lsl4.html) – "Leisure Suit Larry 4: The Missing Floppies"
 [^ref-54]: [PC Gamer UK #39, January 1997 (Internet Archive)](https://archive.org/details/pc-gamer-uk-issue-039-january-1997) – Danny Wallace review: "a pointless mountain of toss"
 [^ref-55]: [Next Generation #25, January 1997 (Internet Archive)](https://archive.org/details/NextGeneration25Jan1997) – review: text parser "neither fish nor fowl"
 [^ref-56]: [Adventure Gamers – Top 100 All-Time Adventure Games, #71 (Wayback, 2014)](https://web.archive.org/web/20141230025416/http://www.adventuregamers.com/articles/view/18643/page7) – #71 ranking
 [^ref-57]: [Computer Games Strategy Plus – Review by Andy Backer (Wayback, 1997)](https://web.archive.org/web/19970614223023/http://www.cdmag.com/adventure_vault/leisure_suit_larry_7_review/article.html) – 4-star review, "the best Leisure Suit Larry ever"
 [^ref-58]: [GameFAQs – Walkthrough by Catz](https://gamefaqs.gamespot.com/pc/29100-leisure-suit-larry-love-for-sail/faqs/1826) – opening scene: Shamara handcuffs Larry to the headboard and takes his wallet
+[^ref-59]: [SierraHelp – Leisure Suit Larry 7 Manual (PDF)](https://sierrahelp.com/Documents/Manuals/Leisure_Suit_Larry_7_-_Manual.pdf) – original manual: Team Larry and additional credits, animation credits (LA West), cast page
