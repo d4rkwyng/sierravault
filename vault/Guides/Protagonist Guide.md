@@ -281,8 +281,8 @@ Law enforcement officers leading elite SWAT teams.
 - **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Protagonist: SWAT Commander
 - **1999** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle]] — Protagonist: LAPD SWAT element leader
 - **2003** — [[2003 - SWAT - Global Strike Team|SWAT: Global Strike Team]] — Protagonist: Mathias Kincaid
-- **2005** — [[2005 - SWAT 4|SWAT 4]] — Protagonist: Fairview PD SWAT leader
-- **2006** — [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4: Stetchkov Syndicate]] — Protagonist: Fairview PD SWAT commander
+- **2005** — [[2005 - SWAT 4|SWAT 4]] — Protagonist: SWAT element leader
+- **2006** — [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4: Stetchkov Syndicate]] — Protagonist: SWAT team leader
 
 ---
 
@@ -346,11 +346,11 @@ Sierra's city-building games and the Lords of the Realm strategy series feature 
 [^ref-21]: [Gold Rush! 2 official FAQ (Sunlight Games, Wayback 2016-08-21)](https://web.archive.org/web/20160821225728/http://goldrush-game.com/en/ver2/faq/) – "Jerrod, the protagonist and his brother Jake found a big gold vain in California"
 [^ref-22]: [SCI Wiki – King's Quest I SCI remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – "it is the only one of the remakes to be made in SCI01's EGA graphics with parser interface"
 [^ref-23]: [Computer Gaming World #148, November 1996 (archive.org OCR text)](https://archive.org/download/Computer_Gaming_World_Issue_148/Computer_Gaming_World_Issue_148_djvu.txt) – p. 124, "The 15 Most Memorable Game Heroes" (checked against the page image): "2. Gabriel Knight"; "5. Roger Wilco ... a schlemiel who accidentally accomplished heroic ends"; "13. Laura Bow ... Roberta Williams's journalism-student, cub-reporter protagonist"
-[^ref-24]: [MobyGames – The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Description (read via the MobyGames API): "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him"
-[^ref-25]: [MobyGames – Leisure Suit Larry's Casino](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – Description (read via the MobyGames API): "Larry Laffer, the protagonist of the Leisure Suit Larry adventure series, is running a casino"
-[^ref-26]: [MobyGames – King's Quest: Mask of Eternity](https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/) – Description (read via the MobyGames API): "a simple peasant and fighter named Connor"; "He must now search for the other pieces of the Mask, repair it, and face Lucreto"
+[^ref-24]: [MobyGames – The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Description: "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him"
+[^ref-25]: [MobyGames – Leisure Suit Larry's Casino](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – Description: "Larry Laffer, the protagonist of the Leisure Suit Larry adventure series, is running a casino"
+[^ref-26]: [MobyGames – King's Quest: Mask of Eternity](https://www.mobygames.com/game/136/kings-quest-mask-of-eternity/) – Description: "a simple peasant and fighter named Connor"; "He must now search for the other pieces of the Mask, repair it, and face Lucreto"
 [^ref-27]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – "He sold the company to Sierra On-Line in 1995"; games list includes Caesar (1992) and Lords of the Realm (1994)
 [^ref-28]: [Wikipedia – Quest for Glory III: Wages of War](https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War) – "a 'hidden' class can be opened: a Paladin"; an honorable character from the previous game "can be imported to Quest for Glory III as such"
 [^ref-29]: [Quest for Glory Fandom Wiki – QFG4 Technical Manual](https://questforglory.fandom.com/wiki/QFG4_Technical_Manual) – "The Paladin character is a `bonus' character type only available to players who have completed one of the first three Quest for Glory games"
 [^ref-30]: [Adventure Classic Gaming – Quest for Glory V: Dragon Fire](http://www.adventureclassicgaming.com/index.php/site/reviews/100/) – An imported character "is the only way to play as the Paladin (though a pre-made Paladin is also available)"
-[^ref-31]: [MobyGames – Daryl F. Gates Police Quest: Open Season](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – Description (read via the MobyGames API): "a new protagonist, homicide detective John Carey of the Los Angeles Police Department"
+[^ref-31]: [MobyGames – Daryl F. Gates Police Quest: Open Season](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – Description: "a new protagonist, homicide detective John Carey of the Los Angeles Police Department"
