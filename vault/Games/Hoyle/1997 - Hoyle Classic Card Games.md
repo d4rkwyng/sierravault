@@ -12,19 +12,20 @@ engine: null
 protagonist: "N/A"
 sierra_lineage: "Core Sierra"
 composer: ["Evan Schiller"]
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
+tags: [1990s, hoyle, sierra, card-games]
 description: "Hoyle Classic Card Games is a 1997 Windows CD-ROM collection of twelve card games, developed and published by Sierra On-Line; it is a separate game from the 1993 SCI title of the same name."
 ---
 
 # Hoyle Classic Card Games
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Hoyle Classic Card Games is a 1997 Windows CD-ROM collection of twelve card games, developed and published by Sierra On-Line: Bridge, Crazy Eights, Cribbage, Euchre, Gin Rummy, Klondike, Hearts, Old Maid, Poker, Pyramid, Spades and War[^ref-5]. It shipped as a hybrid release for Windows 3.x and Windows 95[^ref-25], and The Sierra Chest dates its first release to November 30, 1997[^ref-19]. Network multiplayer is available for Hearts, Spades, Gin Rummy and Poker[^ref-5]. LaunchBox lists it as rated E (Everyone) by the ESRB[^ref-29].
 
-It is a different game from Sierra's 1993 [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (informally called "Hoyle 4" by one blogger[^ref-15]), even though the two share a name. The Internet Archive's copy of the 1997 disc notes that it "should not be confused with the DOS SCI game. This game is neither compatible with DOS nor does it use the SCI engine. It's a Windows game from 1997"[^ref-16]. The 1997 game has a new team, led by designer Jim Love and lead engineer Earl Malmrose[^ref-5]. The 1993 game was designed by Warren Schwader[^ref-2].
+It is a different game from Sierra's 1993 [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (titled "Hoyle 4" by The Sierra Chest[^ref-32]), even though the two share a name. The Internet Archive's copy of the 1997 disc notes that it "should not be confused with the DOS SCI game. This game is neither compatible with DOS nor does it use the SCI engine. It's a Windows game from 1997"[^ref-16]. The 1997 game has a new team, led by designer Jim Love and lead engineer Earl Malmrose[^ref-5]. The 1993 game was designed by Warren Schwader[^ref-2].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-5]
@@ -40,7 +41,7 @@ It is a different game from Sierra's 1993 [[1993 - Hoyle Classic Card Games|Hoyl
 
 ## Story Summary
 
-Hoyle Classic Card Games has no story. Its personality comes from the computer opponents. GameSpot counted 12 characters to play against, "each possessing a unique blend of talent and personality." They range "from a morphing android that does impersonations of Elvis and Marilyn Monroe, to a cuddly looking grizzly bear who is quick to fold on most opening bets"[^ref-11]. Table banter is frequent and often pun-based, and players can turn its frequency down in the options[^ref-11]. Unlike the 1993 game, this edition does not use characters from Sierra's adventure games. The blog Brain Baking, in a 2025 retrospective, writes that after "Hoyle 4" (its informal name for the 1993 game), later releases "culled them in favour of more general but equally goofy ones"[^ref-15]. MobyGames credits Jeff Hoyt, Amy Broomhall and Kate Myre as voice actors[^ref-5].
+Hoyle Classic Card Games has no story. Its personality comes from the computer opponents. GameSpot counted 12 characters to play against, "each possessing a unique blend of talent and personality." They range "from a morphing android that does impersonations of Elvis and Marilyn Monroe, to a cuddly looking grizzly bear who is quick to fold on most opening bets"[^ref-11]. Table banter is frequent and often pun-based, and players can turn its frequency down in the options[^ref-11]. Unlike the 1993 game, this edition does not use characters from Sierra's adventure games. The blog Brain Baking, in a 2025 retrospective, writes that after "Hoyle 4" (its name for the 1993 game), later releases "culled them in favour of more general but equally goofy ones"[^ref-15]. MobyGames credits Jeff Hoyt, Amy Broomhall and Kate Myre as voice actors[^ref-5].
 
 ## Gameplay
 
@@ -62,7 +63,7 @@ Network play covers Hearts, Spades, Gin Rummy and Poker, for 2–8 online player
 
 ### Contemporary Reviews
 
-GameSpot's Kevin Hunsanger gave the game a 7 ("Good"). The review carries a date of May 1, 2000 on GameSpot's site. He wrote that "Sierra does a nice job of bringing classic card games to the PC with Hoyle Classic; the graphics are simple and attractive, and gameplay is quite often challenging," and called the collection "a safe bet"[^ref-11].
+GameSpot's Kevin Hunsanger gave the game a 7 ("Good"). The review was published February 4, 1998 (last modified May 1, 2000). He wrote that "Sierra does a nice job of bringing classic card games to the PC with Hoyle Classic; the graphics are simple and attractive, and gameplay is quite often challenging," and called the collection "a safe bet"[^ref-11].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -117,7 +118,7 @@ The soundtrack is the same as Hoyle Classic Board Games (1997) apart from the in
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Release | November 30, 1997 | Windows 3.x / Windows 95 | Hybrid CD-ROM[^ref-19][^ref-25] |
-| Demo | — | Windows | Rules descriptions for all games, with Hearts and Pyramid playable. Bundled on other Sierra CDs, including Hoyle Classic Board Games and Hoyle Battling Ships and War[^ref-23]. A 1998 review of Hoyle Classic Board Games mentions that this card-game bonus pack came with playable Hearts and Pyramid demos[^ref-31] |
+| Demo | — | Windows | Rules descriptions for all games, with Hearts and Pyramid playable. Bundled on other Sierra CDs, including Hoyle Classic Board Games and Hoyle Battling Ships and War[^ref-23]. A 1998 review of Hoyle Classic Board Games mentions that this card-game bonus pack came with playable Hearts or Pyramid demos[^ref-31] |
 | HCCG11 ("Enhanced Update") | — | Windows | Listed by Sierra Help for "Hoyle Classic Card Games, Enhanced". Adds Bridge internet play and a four-deal Bridge variant, updates help, and makes Spades "cards now slide to the trick taker's hand"[^ref-17] |
 | Re-release | — | Windows | "Later re-released with some changes as Hoyle Card Games by Sierra"[^ref-16] |
 
@@ -140,7 +141,7 @@ The game is not sold digitally. An Amazon listing titled Hoyle Classic Card Game
 ## See Also
 
 - [[1997 - Hoyle Classic Board Games|← Previous: Hoyle Classic Board Games]]
-
+- [[1997 - Hoyle Poker|→ Next: Hoyle Poker]]
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
@@ -177,13 +178,13 @@ The game is not sold digitally. An Amazon listing titled Hoyle Classic Card Game
 - [[2003 - Hoyle Casino]]
 - [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
@@ -201,9 +202,9 @@ The game is not sold digitally. An Amazon listing titled Hoyle Classic Card Game
 [^ref-2]: [MobyGames – Hoyle Classic Card Games (1993)](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – the separate 1993 SCI game and its designer, Warren Schwader
 [^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Brown & Bigelow license, "Later titles saw yearly releases", Hoyle Card Games editions, Encore era
 [^ref-5]: [MobyGames – Hoyle Classic Card Games (1997)](https://www.mobygames.com/game/203390/hoyle-classic-card-games/) – twelve-game list, network multiplayer, platforms, credits (Jim Love, Earl Malmrose, Evan Schiller, voice actors), no Moby score
-[^ref-11]: [GameSpot – Hoyle Classic Card Games Review (Kevin Hunsanger)](https://www.gamespot.com/reviews/hoyle-classic-card-games-review/1900-2537742/) – score 7, eleven games, 12 characters, cabin/space settings, network play, quotes
+[^ref-11]: [GameSpot – Hoyle Classic Card Games Review (Kevin Hunsanger)](https://www.gamespot.com/reviews/hoyle-classic-card-games-review/1900-2537742/) – score 7, published 1998-02-04 (modified 2000-05-01), eleven games, 12 characters, cabin/space settings, network play, quotes
 [^ref-13]: [Amazon – Hoyle Classic Card Games](https://www.amazon.com/Hoyle-Classic-Card-Games-Pc/dp/B000DZLXR6) – listing "Currently unavailable"; customer review on compatibility
-[^ref-15]: [Brain Baking – A Tribute to Hoyle's Official Book of Games](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) – Sierra characters dropped after Hoyle 4
+[^ref-15]: [Brain Baking – A Tribute to Hoyle's Official Book of Games](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) – "culled" quote on Sierra characters dropped after the 1993 game
 [^ref-16]: [Internet Archive – Hoyle Classic Card Games (HoyleCCG)](https://archive.org/details/HoyleCCG) – 1997 Windows game, not DOS or SCI, later re-released as Hoyle Card Games
 [^ref-17]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – HCCG11 "Enhanced Update" (Bridge internet play, four-deal variant, Spades card slide)
 [^ref-19]: [The Sierra Chest – Hoyle Classic Card Games (1997)](https://sierrachest.com/index.php?a=games&id=521&title=hoyle-classic-card-games-1) – first release 1997-11-30, engine "Unknown/unnamed"
@@ -218,4 +219,5 @@ The game is not sold digitally. An Amazon listing titled Hoyle Classic Card Game
 [^ref-28]: [The Sierra Chest – Hoyle Classic Card Games (1997): Packaging & content](https://web.archive.org/web/2025/https://sierrachest.com/index.php?a=games&id=521&title=hoyle-classic-card-games-1&fld=box) – PC CD-ROM, US, large flip-top box; Box ID 1023; UPC 0-20626-70255-3; included trailers and playable demos (Wayback copy)
 [^ref-29]: [LaunchBox Games Database – Hoyle Classic Card Games (1997)](https://gamesdb.launchbox-app.com/games/details/105639-hoyle-classic-card-games-1997) – ESRB E - Everyone, Windows 3.X, Sierra On-Line developer and publisher, twelve-game list
 [^ref-30]: [Internet Archive – Hoyle Classic Card Games (1997)](https://archive.org/details/hoyle-classic-card-games-1997) – second disc-image item (uploader description: "chinese tiles and checkers")
-[^ref-31]: [TechnoFILE – "Going to Hoyle in a Handcart" (Jim Bray)](https://www.technofile.com/articles/classicgames.html) – 1998 review of Hoyle Classic Board Games; mentions the bonus card-game pack with playable Hearts and Pyramid demos
+[^ref-31]: [TechnoFILE – "Going to Hoyle in a Handcart" (Jim Bray)](https://www.technofile.com/articles/classicgames.html) – 1998 review of Hoyle Classic Board Games; mentions the bonus card-game pack with playable Hearts or Pyramid demos
+[^ref-32]: [The Sierra Chest – Hoyle 4: Classic Card Games, General (Wayback, August 15, 2024)](https://web.archive.org/web/20240815083342/https://sierrachest.com/index.php?a=games&id=378&title=hoyle-4&fld=general) – titled "Hoyle 4: Classic Card Games"; first release 1993-01-01
