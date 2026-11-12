@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Hoyle Texas Hold 'Em is a poker game for Windows developed and published
   by Encore Software, released in the US in February 2005, with 14 poker games
   including Texas Hold 'Em.
@@ -18,11 +18,11 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Texas Hold 'Em 2005
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Texas Hold 'Em is a poker game for Windows, developed and published by Encore Software and released in the United States in February 2005[^ref-1][^ref-16]; GameSpot gives February 28, 2005[^ref-20]. Encore's own 2005 catalogue described it as teaching "the hottest game of poker according to the official rules with complex opponents and 14 different poker games to challenge all players," priced at $9.99[^ref-22]. The 14 games include Texas Hold'em, 5 Card Draw, 7 Card Stud and Omaha, with built-in tutorials[^ref-23]. Wikipedia lists it among the spin-offs of the Hoyle Casino series, dating it to 2006[^ref-4]; GameFAQs' release data gives February 2005 for the US release[^ref-16].
+Hoyle Texas Hold 'Em is a poker game for Windows, developed and published by Encore Software and released in the United States on February 28, 2005, according to GameSpot[^ref-20] and GameFAQs' release data[^ref-16]; GameFAQs' main page also lists February 2005[^ref-1]. Encore's own 2005 catalogue described it as teaching "the hottest game of poker according to the official rules with complex opponents and 14 different poker games to challenge all players," priced at $9.99[^ref-22]. The 14 games include Texas Hold'em, 5 Card Draw, 7 Card Stud and Omaha, with built-in tutorials[^ref-23]. Wikipedia lists it among the spin-offs of the Hoyle Casino series, dating it to 2006[^ref-4].
 
 The game sits within the Hoyle brand, whose Hoyle Casino line was developed and published by Sierra Entertainment until publication moved to Encore after 2005[^ref-4]. No source found credits Sierra with any role in this title; GameFAQs and Metacritic both list Encore Software as developer[^ref-16][^ref-17].
 
@@ -93,7 +93,7 @@ According to MobyGames, the Hoyle Friday Night Poker part of the later Hoyle Pok
 
 ### Related Products
 
-Hoyle Card Games 2005, released September 14, 2004, featured "more than 30 classic card games with in-game tutorials to help you become a better player"; Metacritic lists it as developed by Encore Software and published by VU Games[^ref-6].
+Hoyle Card Games 2005, released September 14, 2004, featured "more than 30 classic card games with in-game tutorials to help you become a better player"; Metacritic lists it as developed by Encore Software and published by VU Games[^ref-6]. Encore's 2005 catalogue listed Hoyle Poker Series as a separate product from Hoyle Texas Hold 'Em, describing it as having "Texas Hold'em and 13 other games both online and offline" at PC $19.99, against $9.99 for Hoyle Texas Hold 'Em[^ref-22].
 
 Sierra's own earlier Hoyle Poker, released for Windows on April 30, 1997 and described by MobyGames as Sierra's "first foray into the world of poker," also included Texas Hold 'Em among its variations[^ref-24]; GameSpot counted "more than a dozen" and judged that "Sierra has done an admirable job of creating a sharp and faithful rendition of poker"[^ref-7].
 
@@ -104,6 +104,7 @@ Sierra's own earlier Hoyle Poker, released for Windows on April 30, 1997 and des
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
 - [[2006 - Hoyle Casino|→ Next: Hoyle Casino]]
 
@@ -170,7 +171,7 @@ Sierra's own earlier Hoyle Poker, released for Windows on April 30, 1997 and des
 [^ref-7]: [GameSpot – Hoyle Poker Review](https://www.gamespot.com/reviews/hoyle-poker-review/1900-2537745/) – review of Sierra's 1997 Hoyle Poker
 
 [^ref-16]: [GameFAQs – Hoyle Texas Hold 'Em Release Data](https://gamefaqs.gamespot.com/pc/927495-hoyle-texas-hold-em/data) – developer Encore Software, US release February 2005, ESRB E, Simulated Gambling
-[^ref-17]: [Metacritic – Hoyle Texas Hold 'Em](https://www.metacritic.com/game/hoyle-texas-hold-em/) – summary (14 other poker varieties, tutorials), developer/publisher Encore Software, no reviews
+[^ref-17]: [Metacritic – Hoyle Texas Hold 'Em](https://www.metacritic.com/game/hoyle-texas-hold-em/) – developer/publisher Encore Software, PC, no critic or user scores (tbd)
 [^ref-18]: [NeverDieMedia – Hoyle Texas Hold'Em](https://www.neverdiemedia.com/products/hoyle-texas-holdem) – product description: 14 variants, talking opponents, face-maker, tutorials
 [^ref-19]: [Wikipedia – Edmond Hoyle](https://en.wikipedia.org/wiki/Edmond_Hoyle) – Edmond Hoyle biography, "according to Hoyle"
 [^ref-20]: [GameSpot – Hoyle Texas Hold 'Em](https://www.gamespot.com/games/hoyle-texas-hold-em/) – first released Feb 28, 2005, PC; developer/publisher Encore Software
