@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Asgard, Ignatius, and Oups (BoBo, Hooter, and Dwayne in US)
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Gobliiins is a quirky point-and-click adventure/puzzle game developed
   by French studio Coktel Vision and released in 1991. Created by Pierre Gilhodes
   and Muriel Tramis, it began the Gobliiins series.
@@ -18,7 +18,7 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Gobliiins
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -75,7 +75,7 @@ Puzzles often demand very specific sequences of actions. One blogger's example i
 
 ### Contemporary Reviews
 
-Power Play magazine gave the game 69/100 in March 1992.[^ref-21] Amiga Action awarded the game 81% (Alan Bunker, issue 35, August 1992), Amiga Format also gave 81% (Andy Nuttall, issue 38, September 1992), Amiga Mania 83% (July 1992) and Amiga Joker 62% (February 1992).[^ref-7] Dragon magazine gave the game a perfect 5/5 score in 1993.[^ref-5]
+Power Play magazine gave the Atari ST version 69/100 in March 1992.[^ref-21] Wikipedia reports Powerplay's ratings as 70% for the PC version and 69% for the Amiga and Atari ST versions.[^ref-5] Amiga Action awarded the game 81% (Alan Bunker, issue 35, August 1992), Amiga Format also gave 81% (Andy Nuttall, issue 38, September 1992), Amiga Mania 83% (July 1992) and Amiga Joker 62% (February 1992).[^ref-7] Dragon magazine gave the game a perfect 5/5 score in 1993.[^ref-5]
 
 Computer Gaming World noted that "the game will entertain a variety of light-hearted gamers," acknowledging both its appeal and niche audience.[^ref-5] ST Format ranked Gobliiins #33 in their "50 finest Atari ST games of all time" list in January 1993.[^ref-1]
 
@@ -91,13 +91,13 @@ Some modern critics are less forgiving of the puzzle design. One blogger noted t
 - **MobyGames:** 7.4/10[^ref-1]
 - **IMDB:** 7.5/10[^ref-23]
 - **GOG.com User Reviews:** 4.4/5[^ref-8]
-- **Powerplay:** 70%[^ref-5]
+- **Powerplay:** 70% (PC), 69% (Amiga, Atari ST)[^ref-5]
 
 ## Development
 
 ### Origins
 
-Pierre Gilhodes began his career as a graphic artist at a very early age and started creating video games with Coktel Vision in 1990.[^ref-24] The Gobliiins concept emerged from his distinctive angular and cartoonish art style combined with Muriel Tramis's adventure game design experience.[^ref-2] Describing the art design of Gobliiins 4 nearly two decades later, Gilhodes called it "the kidults style": colourful and somewhat childish, with puzzles that are not.[^ref-25]
+Pierre Gilhodes began his career as a graphic artist at a very early age and started creating video games with Coktel Vision in 1990, according to a biography on his former website; MobyGames instead says he presented his work to Coktel Vision in 1989.[^ref-24][^ref-48] The Gobliiins concept emerged from his distinctive angular and cartoonish art style combined with Muriel Tramis's adventure game design experience.[^ref-2] Describing the art design of Gobliiins 4 nearly two decades later, Gilhodes called it "the kidults style": colourful and somewhat childish, with puzzles that are not.[^ref-25]
 
 ### Production
 
@@ -159,6 +159,7 @@ The game also contains unused title screen music that can be found in the data f
 | iOS | November 8, 2010 | iPhone/iPad | Bulkypix port using ScummVM[^ref-31] |
 | Windows (ScummVM) | March 23, 2010 | Windows | DotEmu release, pre-packaged with ScummVM[^ref-9] |
 | Blacknut | 2018 | Cloud Gaming | Streaming version[^ref-1] |
+| Gobliiins Collection | May 27, 2026 | Switch, PS5, Xbox Series | Red Art Games re-release in a five-game collection[^ref-49] |
 
 **Regional Naming Differences:**[^ref-12]
 The US release changed character names from the European originals:
@@ -196,6 +197,7 @@ Gobliiins has appeared in numerous compilation releases:
 
 - **Gobliiins 1 & Gobliins 2** – Sierra Originals dual-pack (October 20, 1995)[^ref-29]
 - **Gobliiins Pack** – GOG.com digital bundle including first three games[^ref-8]
+- **Gobliiins Collection** – Red Art Games compilation of five games (May 27, 2026; Switch, PS5, Xbox Series)[^ref-49]
 - **Gobliiins Gold** – CD-ROM version with voice acting in multiple languages[^ref-11]
 
 ### Fan Projects
@@ -297,3 +299,5 @@ The Gobliiins series spans six games released between 1991 and 2026, each with a
 [^ref-45]: [The Adventurers' Guild – Game 114: Gobliins 2: The Prince Buffoon (1993)](https://advgamer.blogspot.com/2019/12/game-114-gobliins-2-prince-buffoon-1993.html) – Fingus and Winkle as straight man and trickster
 [^ref-46]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Coktel Vision chart: Gobliiins (gob:gob1), Gobliins 2 (gob:gob2), Goblins Quest 3 (gob:gob3) all Excellent; Schnibble Productions chart: Gobliiins5 parts 1–4 (ags: IDs); no Gobliiins 4 entry
 [^ref-47]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – Tomahawk "was only a label that Coktel Vision used to publish" some of its games
+[^ref-48]: [MobyGames – Pierre Gilhodes](https://www.mobygames.com/person/10718/pierre-gilhodes/) – biography: presented his works to Coktel Vision in 1989
+[^ref-49]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – May 27, 2026; publisher Red Art Games, developer Red Art Studios; five point-and-click adventure games
