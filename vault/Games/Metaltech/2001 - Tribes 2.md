@@ -10,7 +10,7 @@ series: Starsiege
 engine: Torque Game Engine
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Tribes 2 is a sci-fi first-person shooter multiplayer video game developed
   by Dynamix and published by Sierra On-Line in 2001 as the sequel to Starsiege: Tribes,
   featuring large-scale team-based combat with jetpack-powered movement.'
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, starsiege]
 ---
 # Tribes 2
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -74,11 +74,11 @@ Central to gameplay is the jet pack, together with a "skiing" action for sliding
 | GameSpot | 8.5/10 (Great) | Comprehensive analysis[^ref-16] |
 | PC Gamer US | 89/100 | June 2001 issue[^ref-22] |
 | Eurogamer | 8/10 | Detailed review[^ref-19] |
-| GameRevolution | 7/10 | Mixed reception[^ref-15] |
+| GameRevolution | 7/10 | Professional review[^ref-15] |
 
 ### Modern Assessment
 
-On MyAbandonware, users rate it 4.67/5 from 21 votes[^ref-23], and the game has kept an active community through projects like TribesNext[^ref-24]. Critics noted that "Tribes 2 isn't easy to master, and it won't play well on every gaming PC, but when you're up and running it's a tremendous amount of fun"[^ref-16]. GameSurge called it "the best example of a team based multiplayer game to date"[^ref-25]. GameRevolution listed a steep learning curve among its drawbacks[^ref-15], and Eurogamer called the system requirements "simply over the top"[^ref-19].
+On MyAbandonware, users rate it 4.7/5 from 21 votes (checked November 12, 2026)[^ref-23], and the game has kept an active community through projects like TribesNext[^ref-24]. Critics noted that "Tribes 2 isn't easy to master, and it won't play well on every gaming PC, but when you're up and running it's a tremendous amount of fun"[^ref-16]. GameSurge called it "the best example of a team based multiplayer game to date"[^ref-25]. Rock Paper Shotgun's "Have You Played?" retrospective said Tribes 2 "was superb, offering things no other multiplayer game at the time could: vast landscapes, land and air vehicles, movement which required as much skill as the shooting; and a complex classless system that offered real opportunity for strategy"[^ref-51]. GameRevolution listed a steep learning curve among its drawbacks[^ref-15], and Eurogamer called the system requirements "simply over the top"[^ref-19].
 
 ## Development
 
@@ -126,6 +126,7 @@ Tribes 2 ran on an early version of the Torque Game Engine[^ref-7][^ref-34]. It 
 |---------|------|----------|-------|
 | North America release | March 29, 2001 | Windows | Original release[^ref-7][^ref-29][^ref-48] |
 | Europe release | April 13, 2001 | Windows | PAL region release[^ref-7][^ref-29] |
+| Japan | June 22, 2001 | Windows | Published by Capcom[^ref-7] |
 | Linux | April 19, 2001 | Linux | Port by Loki[^ref-7][^ref-29][^ref-48] |
 | Freeware | May 4, 2004 | Windows | Sierra released the game as a freeware download[^ref-7] |
 | Freeware (Hi-Rez) | October 2015 | Windows | Hi-Rez Studios made every Tribes game free to download[^ref-42] |
@@ -135,7 +136,7 @@ Sources differ on the Windows release date: Metacritic and GameFAQs give March 2
 
 ## Legacy
 
-The game's engine became the Torque Game Engine[^ref-7][^ref-44], which was later superseded by Torque 3D[^ref-44]. On September 10, 2012, GarageGames announced that it would release Torque 3D as open source under the MIT license[^ref-38]. Shortly after launch in 2001, DailyRadar counted "over 300 servers hosting games around the world"[^ref-4].
+The game's engine became the Torque Game Engine[^ref-7][^ref-44], which was later superseded by Torque 3D[^ref-44]. On September 10, 2012, GarageGames announced that it would release Torque 3D as open source under the MIT license[^ref-38]. Shortly after launch in 2001, DailyRadar counted "over 300 servers hosting games around the world"[^ref-4]. PC Data counted 245,069 North American units and about $9.7 million in revenue for Tribes 2 in 2001[^ref-50].
 
 The community created extensive modifications and content, including approximately 65 mods, multiple map packs, and more than 1000 scripts and utilities[^ref-40]. When Sierra discontinued official online support in 2008[^ref-41], the community developed TribesNext, a revival project that brought multiplayer functionality back online[^ref-24]. IGN noted that after the game went free in 2004, Sierra stopped distributing CD keys, which TribesNext removed the need for[^ref-24]. TribesNEXT describes itself as the multiplayer account system, master server and long-term support update for the freeware release, in public operation since January 2009[^ref-49]; as of November 11, 2026 its forum still showed replies from that month[^ref-47]. In October 2015, Hi-Rez Studios made every Tribes game available to download for free[^ref-42].
 
@@ -197,5 +198,7 @@ The community created extensive modifications and content, including approximate
 [^ref-45]: [Rock Paper Shotgun - The Mötley Crüe Tribes 2 Theme Song Time Tried To Forget](https://www.rockpapershotgun.com/tribes-2-motley-crue-song) - Mötley Crüe tie-in (published July 17, 2014)
 [^ref-46]: [Internet Archive - Tribes 2 Manual](https://archive.org/details/Tribes_2_Manual) - Game manual item page
 [^ref-47]: [TribesNext - Forum discussions](https://www.tribesnext.com/forum/discussions) - Community forum activity (fetched November 11, 2026)
-[^ref-48]: [MobyGames - Tribes 2](https://www.mobygames.com/game/3566/tribes-2/) - Release dates (Windows March 29, 2001; Linux April 19, 2001); read via the MobyGames API
+[^ref-48]: [MobyGames - Tribes 2](https://www.mobygames.com/game/3566/tribes-2/) - Release dates (Windows March 29, 2001; Linux April 19, 2001)
 [^ref-49]: [TribesNext - Home](https://www.tribesnext.com/) - Project description, in operation since January 2009; stable patch RC2a and PREVIEW build (fetched November 11, 2026)
+[^ref-50]: [Markle Forum on Children and Media, PC Data 2001 titles (NYU, Wayback 2004)](https://web.archive.org/web/20040619191112/https://cat.nyu.edu/current/news/media/marklesimcity.pdf) - PC Data North America 2001 sales table, page 14: Tribes 2, Vivendi Universal, 245,069 units, $9,703,379
+[^ref-51]: [Rock Paper Shotgun - Have You Played... Tribes 2?](https://www.rockpapershotgun.com/have-you-played-tribes-2) - Retrospective
