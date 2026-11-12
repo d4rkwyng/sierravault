@@ -10,7 +10,7 @@ series: Shannara (standalone)
 engine: Legend Entertainment's graphic adventure system
 protagonist: Jak Ohmsford
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [George Alistair Sanger]
 description: Shannara is a first-person point-and-click adventure game released by
   Legend Entertainment in late 1995, designed by Corey and Lori Ann Cole as an original
@@ -19,11 +19,11 @@ tags: [1990s, adventure, coles, shannara-standalone, sierra]
 ---
 # Shannara
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Shannara is a first-person point-and-click adventure game released in late 1995, based on Terry Brooks' bestselling fantasy novel series of the same name [^ref-1][^ref-3]. Published by Legend Entertainment, developed by FAR Productions and Triton Interactive (MobyGames also credits Legend for additional development and the game engine) [^ref-7], and designed by [[Corey Cole]] and [[Lori Ann Cole]]—the celebrated creators of Sierra's Quest for Glory series—the game presents an original story set between the first and second books of Brooks' series [^ref-3]. The game was developed during what *The Digital Antiquarian* calls the second "bookware" era, when book publishers such as Random House again invested in turning their properties into computer games [^ref-3].
+Shannara is a first-person point-and-click adventure game released in late 1995, based on Terry Brooks' bestselling fantasy novel series of the same name [^ref-1][^ref-3]. Published by Legend Entertainment, developed by FAR Productions and Triton Interactive (MobyGames also credits Legend for additional development and the game engine) [^ref-7], and designed by [[Corey Cole]] and [[Lori Ann Cole]]—the celebrated creators of Sierra's Quest for Glory series—the game presents an original story set between the first and second books of Brooks' series [^ref-3]. Sierra did not publish the game: MobyGames lists Legend Entertainment as publisher [^ref-7], and *Just Adventure*'s review states that "Shannara was not published by Sierra, it was created by Legend Entertainment Company" [^ref-45]. The game was developed during what *The Digital Antiquarian* calls the second "bookware" era, when book publishers such as Random House again invested in turning their properties into computer games [^ref-3].
 
 The game places players in the role of Jak Ohmsford, the son of Shea Ohmsford (the protagonist of *The Sword of Shannara*), who must unite the various races of the Four Lands to combat the returned Warlock Lord Brona [^ref-36][^ref-38]. Legend Entertainment's graphic adventures had evolved from text-based games, and the studio was known for eloquent, detailed writing [^ref-2]. The lush, colorful SVGA graphics represented a significant leap beyond any of Legend's previous games, but *Hardcore Gaming 101* found Shannara "remarkably stripped down" next to them, with far less descriptive text and dialogue than Legend's earlier *Death Gate* and *Companions of Xanth* [^ref-2].
 
@@ -88,18 +88,20 @@ Reviews were mixed. *The Digital Antiquarian* sums them up as tending "to be unk
 
 *Computer Gaming World*'s adventure columnist Scorpia (March 1996) found the puzzles mostly easy, the graphics "good although not spectacular" and the voice acting "adequate," disliked the combat, and objected strongly to the fate of Shella, the game's only woman. She concluded that Shannara "overall is an average adventure game, suitable more to the casual or novice gamer, and Shannara fans" [^ref-36]. The Australian magazine *Hyper* (March 1996) was harsher, scoring it 65 overall: reviewer Julian Schoffel called the plot "terribly cliched" and the in-game art "very average" next to "an absolutely magnificent rendered intro," and concluded, "after Mission Critical, I expected more from Legend" [^ref-38].
 
+*PC Games* (March 1996) reviewer Bill Meyer praised how Shannara "does a nice job of re-creating each land and race" and called the puzzles "involved and interesting," but wrote that "the game's graphics and sound fall flat--literally," and concluded: "So while the Brooks faithful may enjoy interacting with familiar characters in the Shannara universe, newcomers are likely to be disappointed" [^ref-46].
+
 *Next Generation* (issue 17, May 1996) gave it 2 out of 5 stars under the headline "Featureless," telling Brooks fans they would "be disappointed in the lack of his trademark story elements" and adventure fans that they would "be disappointed in the clunky interface, drab graphics, and overly simplistic puzzles" [^ref-42]. Gordon Aplin's January 1996 review, archived at metzomagic.com (AbandonwareDOS credits the same text to *Quandary*), was more balanced. He found the Super VGA graphics "excellent -- as we have come to expect from Legend," and wrote: "Perhaps I am being too harsh. Other players may well disagree with my assessment of the puzzles... Shannara does have wonderful graphics, an involving and absorbing story which I enjoyed, and it even provides a significant moral dilemma." He still found it "an entertaining game and well worth playing" [^ref-25][^ref-16].
 
 ### Modern Assessment
 
 Modern retrospectives have generally positioned Shannara as a competent but unremarkable entry in Legend Entertainment's catalog. Hardcore Gaming 101's retrospective noted that "the world is quite pretty, at least—the lush, colorful SVGA graphics are a huge leap beyond any of Legend's previous games," while concluding that "the result is something remarkably average" [^ref-2].
 
-Multiple sources describe the game as particularly suitable for adventure game beginners. Claire White's MobyGames review stated: "It's easier and more accessible than many adventure games, and a good introduction to the genre" [^ref-19]. A GameFAQs reviewer echoed this: "If you're an experienced adventure gamer, Shannara will give you a pleasant, low-challenge experience with a surprisingly strong story" [^ref-18].
+Multiple sources describe the game as particularly suitable for adventure game beginners. Claire White's MobyGames review stated: "It's easier and more accessible than many adventure games, and a good introduction to the genre" [^ref-19]. *Just Adventure*'s Michal Necasek (May 2002) gave it a final grade of A, writing "The game story I found to be excellent" [^ref-45]. A GameFAQs reviewer echoed this: "If you're an experienced adventure gamer, Shannara will give you a pleasant, low-challenge experience with a surprisingly strong story" [^ref-18].
 
 **Ratings and Scores:**
 - **MobyGames (critic average):** 72% [^ref-7]
 - **Abandonware DOS:** 3.97/5.00 [^ref-16]
-- **MyAbandonware:** 4.04/5 [^ref-27]
+- **MyAbandonware:** 4.0/5 (25 votes, as of November 2026) [^ref-27]
 - **GameFAQs (one user's review):** 9/10 [^ref-18]
 - **GameSpot (one user's review, 2019; its text duplicates the Hardcore Gaming 101 article):** 7/10 [^ref-17]
 
@@ -109,13 +111,13 @@ Multiple sources describe the game as particularly suitable for adventure game b
 
 The development of Shannara came during what *The Digital Antiquarian* calls the second "bookware" era, when book publishers rushed into CD-ROM software [^ref-3]. In the summer of 1994 Random House, whose Del Rey imprint published Brooks, invested $2.5 million in Legend Entertainment, and the bestselling Shannara series was its first candidate for a game [^ref-3]. Legend's own company profile later called Shannara "the first game to come out of the new relationship with Random House" [^ref-39].
 
-The project was helmed by [[Corey Cole]] and [[Lori Ann Cole]], famous for creating Sierra's Quest for Glory series [^ref-29]. This pedigree generated excitement among adventure gaming fans—as one commenter on GOG's wishlist page for the game put it in 2019, it was "Made by the people who made Quest for Glory" [^ref-30]. However, the Coles approached the material with some skepticism. Corey Cole later admitted: "We considered it a blatant Lord of the Rings copy" [^ref-3]—a criticism that had dogged Brooks' novels since *The Sword of Shannara* was first published in 1977 and "heavily criticized for blatantly ripping off J.R.R. Tolkien" [^ref-2].
+The project was helmed by [[Corey Cole]] and [[Lori Ann Cole]], famous for creating Sierra's Quest for Glory series [^ref-3]. This pedigree generated excitement among adventure gaming fans—as one commenter on GOG's wishlist page for the game put it in 2019, it was "Made by the people who made Quest for Glory" [^ref-30]. However, the Coles approached the material with some skepticism. Corey Cole later admitted: "We considered it a blatant Lord of the Rings copy" [^ref-3]—a criticism that had dogged Brooks' novels since *The Sword of Shannara* was first published in 1977 and "heavily criticized for blatantly ripping off J.R.R. Tolkien" [^ref-2].
 
 Legend Entertainment was founded in 1989 by Mike Verdu and Bob Bates. Its early games used a text-and-graphics interface, and in 1993 it "broke away from the text tradition" with the point-and-click interface of *Companions of Xanth*, followed by the Super VGA *Death Gate* in 1994 [^ref-39].
 
 ### Production
 
-MobyGames credits FAR Productions and Triton Interactive as the developers, with Legend as publisher [^ref-7]. Short of in-house designers, Legend contracted the Coles, who worked with Bob Heitman's Triton Interactive, using Legend's technology; Corey Cole recalled that they "set up an office in Oakhurst" [^ref-41]. Work began in earnest in the fall of 1994, with a one-year schedule and a budget of $362,000 [^ref-3]. *The Digital Antiquarian* describes the result as a "troubled" project, "plagued by communications problems and a mismatched set of expectations" between Legend and the Coles. Producer Bob Bates eventually brought Corey Cole and another Oakhurst programmer to Virginia to finish the game alongside Legend staff. Bates recalled: "We coded like hell until the thirteenth of November. We hand-flew the master to the duplicators and the game came out Thanksgiving week." The final cost was $528,000 [^ref-3]. Legend's own 1996 company profile is inconsistent about the date: it lists "Shannara (December 1995)" among its hit products but also says "In the fall of 1995, Legend published both Shannara" and Mission Critical [^ref-39].
+MobyGames credits FAR Productions and Triton Interactive as the developers, with Legend as publisher [^ref-7]. Short of in-house designers, Legend contracted the Coles, who worked with Bob Heitman's Triton Interactive, using Legend's technology; Corey Cole recalled that they "set up an office in Oakhurst" [^ref-41]. In his Hardcore Gaming 101 interview he said the Legend job came about after "Sierra broke our contract after QfG4 shipped," when Legend's Bob Bates "suggested that we make a game for Legend," and that Legend then "ended up assigning us to Shannara when Legend got the license to use it in a game" [^ref-47]. Work began in earnest in the fall of 1994, with a one-year schedule and a budget of $362,000 [^ref-3]. *The Digital Antiquarian* describes the result as a "troubled" project, "plagued by communications problems and a mismatched set of expectations" between Legend and the Coles. Producer Bob Bates eventually brought Corey Cole and another Oakhurst programmer to Virginia to finish the game alongside Legend staff. Bates recalled: "We coded like hell until the thirteenth of November. We hand-flew the master to the duplicators and the game came out Thanksgiving week." The final cost was $528,000 [^ref-3]. Legend's own 1996 company profile is inconsistent about the date: it lists "Shannara (December 1995)" among its hit products but also says "In the fall of 1995, Legend published both Shannara" and Mission Critical [^ref-39].
 
 Lori Ann Cole directed the voice recording [^ref-8][^ref-13]. The manual's credits list 31 voiced roles, recorded at B & J Studios in West Los Angeles [^ref-8], and almost all characters were drawn from the Shannara novels [^ref-21]. Legend's product page advertised a "FREE book enclosed, 'The Sword of Shannara,' by Terry Brooks" [^ref-40]; Aplin noted that the Australian release did not include the novel [^ref-25].
 
@@ -123,15 +125,18 @@ Lori Ann Cole directed the voice recording [^ref-8][^ref-13]. The manual's credi
 - **Producer:** Bob Bates
 - **Game Design & Programming:** [[Corey Cole]]
 - **Game Design & Dialog Writing:** [[Lori Ann Cole]]
+- **Game Programming:** Jim Katic, Bob Heitman
+- **System Programming:** Duane Beck, Bob Heitman
+- **Dialog System:** Duane Beck
 - **Art Director:** Douglas Herring
 - **Music Producer:** George Alistair Sanger
 - **Cover Art:** Boris Vallejo (painting)
 
 ### Technical Achievements
 
-Shannara represented a significant visual advancement for Legend Entertainment. The SVGA graphics were noted as excellent by contemporary reviewers [^ref-25], representing "a huge leap beyond any of Legend's previous games" [^ref-2]. The game used high-resolution SVGA backgrounds that showcased detailed, illustrated artwork [^ref-21].
+Shannara represented a significant visual advancement for Legend Entertainment. The SVGA graphics were noted as excellent by contemporary reviewers [^ref-25], representing "a huge leap beyond any of Legend's previous games" [^ref-2]. The game used high-resolution SVGA backgrounds that showcased detailed, illustrated artwork [^ref-21]. Of the world-map travel screen, Corey Cole said: "We used a similar technique in Shannara to try to give the player a feel for the epic scope of Terry Brooks’s world" [^ref-47].
 
-The audio utilized the AIL/Miles Sound System for music and sound effects [^ref-7]. The game featured a "sparse but powerful soundtrack" that contributed to its atmospheric quality [^ref-22]. The manual credits George Alistair Sanger as music producer, with the music composed by "Team Fat": Sanger, David Govett, Joe McDermott and K. Weston Phelan [^ref-8].
+The audio used the Audio Interface Library (AIL) 3.0 from Miles Design Inc., which the manual credits and says was used under license [^ref-8]. The game featured a "sparse but powerful soundtrack" that contributed to its atmospheric quality [^ref-22]. The manual credits George Alistair Sanger as music producer, with the music composed by "Team Fat": Sanger, David Govett, Joe McDermott and K. Weston Phelan [^ref-8].
 
 ### Technical Specifications
 
@@ -148,7 +153,7 @@ The audio utilized the AIL/Miles Sound System for music and sound effects [^ref-
 
 | Release | Date | Platform | Region | Notes |
 |---------|------|----------|--------|-------|
-| Retail | Dec 1995 | DOS | United States | Published by Legend Entertainment[^ref-7] |
+| Retail | Dec 1995[^ref-39] | DOS | United States | Published by Legend Entertainment[^ref-7] |
 | Retail | 1995 | DOS | United Kingdom | Distributed by Virgin Interactive Entertainment (Europe)[^ref-7] |
 | Retail | 1995 | DOS | Germany | Distributed by Virgin Interactive Entertainment (Deutschland)[^ref-7] |
 | Retail | 1995 | DOS | France | Distributed by Virgin Interactive Entertainment SARL[^ref-7] |
@@ -215,21 +220,12 @@ According to *The Digital Antiquarian*, "Upon its release, Shannara approached 1
 
 MobyGames lists Shannara as included in two compilations: *The Trophy Case II* (1997) and *Big 10 Strategie-Sport-Adventure* (1998) [^ref-7]. The game remains unavailable on modern digital storefronts like GOG or Steam, which has led to a dedicated community of fans requesting its re-release—the GOG wishlist page for Shannara features comments from enthusiasts hoping to see the game made available [^ref-30].
 
-### Fan Projects
-
-The game is preserved through various abandonware sites and can be played through browser-based DOS emulation on sites like ClassicReload.com [^ref-33]. The Internet Archive maintains a playable version compatible with AO486 MiSTer FPGA hardware [^ref-34].
-
 ### Related Publications
 
 - **The Sword of Shannara** (novel): Bundled with American retail copies of the game [^ref-25][^ref-40]
 - **Game Manual:** Included comprehensive gameplay instructions and combat advice [^ref-8]
 
 ## Downloads
-
-**Download / Preservation**
-- [Internet Archive](https://archive.org/details/shannara-0mhz)
-- [MyAbandonware](https://www.myabandonware.com/game/shannara-2t8)
-- [ClassicReload](https://classicreload.com/shannara.html) (browser playable)
 
 **Manuals & Extras**
 - [Game Manual](https://www.freegameempire.com/games/Shannara/manual)
@@ -247,7 +243,7 @@ The game is preserved through various abandonware sites and can be played throug
 
 [^ref-1]: [Wikipedia – Shannara (video game)](https://en.wikipedia.org/wiki/Shannara_(video_game)) – release date, designers, review scores, gameplay notes
 [^ref-2]: [Hardcore Gaming 101 – Shannara](http://www.hardcoregaming101.net/shannara/) – development context, graphics assessment, story placement, critical analysis
-[^ref-3]: [The Digital Antiquarian – Shannara (or, Bookware Mark 2)](https://www.filfre.net/2021/09/shannara-or-bookware-mark-2/) – Jimmy Maher, Sept. 2021; based on interviews with Bob Bates and Corey Cole and Legend documents: Random House deal, budget, Brooks' approval, release timing, ~100,000 sales
+[^ref-3]: [The Digital Antiquarian – Shannara (or, Bookware Mark 2)](https://www.filfre.net/2021/09/shannara-or-bookware-mark-2/) – Jimmy Maher, Sept. 2021; based on interviews with Bob Bates and Corey Cole and Legend documents: Random House deal, budget, Brooks' approval, release timing, ~100,000 sales, the Coles' Quest for Glory series for Sierra, and Sierra's cancellation of Quest for Glory V
 [^ref-6]: [Lightspeed Magazine – Interview: Terry Brooks](https://www.lightspeedmagazine.com/nonfiction/interview-terry-brooks/) – Nov. 2012 (Issue 30); Brooks says he does not remember the game
 [^ref-7]: [MobyGames – Shannara](https://www.mobygames.com/game/3208/shannara/) – developers (Triton Interactive, FAR Productions), Producer Bob Bates, compilations, 72% critic average
 [^ref-8]: [Free Game Empire – Shannara Manual](https://www.freegameempire.com/games/Shannara/manual) – system requirements, combat advice, technical specs
@@ -265,10 +261,7 @@ The game is preserved through various abandonware sites and can be played throug
 [^ref-24]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/10256-shannara/faqs/1675) – combat avoidance advice
 [^ref-25]: [Metzomagic – Shannara Review](https://www.metzomagic.com/showArticle.php?index=126) – Gordon Aplin review, bundled book regional differences, combat criticism, restore bug
 [^ref-27]: [MyAbandonware – Shannara](https://www.myabandonware.com/game/shannara-2t8) – release regions, version differences, rating
-[^ref-29]: [The Digital Antiquarian – Shannara (or, Bookware Mark 2)](https://www.filfre.net/2021/09/shannara-or-bookware-mark-2/) – Jimmy Maher, Sept. 2021; the Coles' Quest for Glory series for Sierra, and Sierra's cancellation of Quest for Glory V
 [^ref-30]: [GOG Wishlist – Shannara](https://www.gog.com/wishlist/games/shannara) – fan comments and re-release requests (quoted comment dated May 20, 2019)
-[^ref-33]: [ClassicReload – Shannara](https://classicreload.com/shannara.html) – browser playable version, developer info
-[^ref-34]: [Internet Archive – Shannara](https://archive.org/details/shannara-0mhz) – preservation, eXoDOS source
 [^ref-36]: [Computer Gaming World #140 (March 1996) – Scorpia, "Shannara"](https://archive.org/details/Computer_Gaming_World_Issue_140/page/n101/mode/1up) – pp. 97–98 (scan); review box (price $59.95, "Protection: None"), plot, combat, verdict
 [^ref-37]: [Computer Gaming World #139 (February 1996) – Letters, "Sins of Shannara"](https://archive.org/details/Computer_Gaming_World_Issue_139/page/n29/mode/1up) – p. 26 (scan); Corey Cole's letter on meeting with and updating Terry Brooks
 [^ref-38]: [Hyper #29 (March 1996) – Julian Schoffel, "Shannara"](https://archive.org/details/hyper-029/page/n68/mode/1up) – p. 69 (scan); review, overall score 65
@@ -278,3 +271,6 @@ The game is preserved through various abandonware sites and can be played throug
 [^ref-42]: [Next Generation #17 (May 1996) – "Featureless," Shannara review](https://archive.org/details/Next-Generation-1996-05/page/n103/mode/1up) – p. 98 (scan); rating 2 of 5 stars
 [^ref-43]: [PC Gamer – Shannara review, April 1996 (Wayback Machine, Mar. 2000)](https://web.archive.org/web/20000312235932/http://www.pcgamer.com/reviews/936.html) – final verdict 72%
 [^ref-44]: [Computer Game Review – Shannara (Wayback Machine, Dec. 1996)](https://web.archive.org/web/19961221190536/http://www.nuke.com/cgr/reviews/9602/shannara/shannara.htm) – "A solid story from fantasymeister Brooks"; no save or restore during combat
+[^ref-45]: [Just Adventure – Shannara review by Michal Necasek, 1 May 2002 (Wayback Machine, June 2013)](https://web.archive.org/web/20130619111614/http://betax1.justadventure.com/reviews/Shannara/ShannaraReview2.shtm) – Final Grade A; story "excellent"; "Shannara was not published by Sierra, it was created by Legend Entertainment Company"
+[^ref-46]: [PC Games – Shannara review by Bill Meyer, March 1996 (Wayback Machine, Oct. 1996)](https://web.archive.org/web/19961018124447/http://www.pcgamesmag.com/games/Mar96/shan396.html) – puzzles, flat graphics and sound, verdict for Brooks fans versus newcomers
+[^ref-47]: [Hardcore Gaming 101 – Corey Cole interview, Kurt Kalata, 31 July 2017 (Wayback Machine, Dec. 2024)](https://web.archive.org/web/20241227143036/http://www.hardcoregaming101.net/interview-with-corey-cole/) – how the Coles came to Legend and Shannara; the map technique
