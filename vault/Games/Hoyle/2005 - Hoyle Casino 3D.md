@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: RenderWare
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Hoyle Casino 3D is a Windows casino game with a fully rendered 3D casino,
   released in the US by Encore Software on January 3, 2005.
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 3D
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ Hoyle Casino 3D received little or no professional coverage. Metacritic lists no
 
 A GameSpot user review by INSIDEMAN65, dated December 11, 2005 and titled "BETTER ODDS TO WIN AT A REAL CASINO," gave the game 2.5 out of 10[^ref-8]. The reviewer criticised the difficulty and the poker interface, writing that "the box pops up right over the flop cards so there's no way to see what cards came up unless your eye is fast enough to catch the cards before the box comes up," and that even "in fast mode you wait what seems like forever for the a.i. players to have there turn"[^ref-8].
 
-On Amazon UK the game shows 3.2 out of 5 stars from 4 global ratings[^ref-1]. One Amazon customer, reviewing a verified purchase in August 2006, gave it one star: "A mess to try to install. Tried on 2 different computers"[^ref-1].
+On Amazon UK the game shows 3.2 out of 5 stars from 4 global ratings[^ref-1]. One Amazon customer, reviewing a verified purchase in August 2006, gave it one star under the headline "ENCORE GARBAGE AFTER SIERRA QUALITY": "A mess to try to install. Tried on 2 different computers"[^ref-1]. The same reviewer added that they were going "Back to Hoyle Casino 2004- the greatest!!"[^ref-1].
 
 ### Modern Assessment
 
@@ -85,7 +85,7 @@ There is no known retrospective coverage. GameFAQs shows a user rating of "Good"
 
 ### Origins
 
-On December 23, 2004, socaltech reported that Vivendi Universal Games had "divested its Hoyle branded software products to Navarre Corp's Encore subsidiary," with Encore taking over "all sales, distribution, and marketing activities for the Hoyle family of products"[^ref-17]. The Hoyle Casino series had been developed and published by Sierra Entertainment until then, and Encore published it from 2005 to 2016[^ref-11].
+On December 23, 2004, socaltech reported that Vivendi Universal Games had "divested its Hoyle branded software products to Navarre Corp's Encore subsidiary," with Encore taking over "all sales, distribution, and marketing activities for the Hoyle family of products"[^ref-17]. The report adds that the deal covered the Hoyle games license and a "worldwide perpetual license for certain family entertainment software content and technology"[^ref-17]. The Hoyle Casino series had been developed and published by Sierra Entertainment until then, and Encore published it from 2005 to 2016[^ref-11].
 
 Navarre's annual report for the year ending March 2005 describes the deal as "exclusive licensing agreements with Vivendi and The United States Playing Card Company, Inc. for the sales and marketing of the Hoyle brand," entered in December 2004[^ref-19].
 
