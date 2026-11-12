@@ -5,11 +5,11 @@ birth_year: 1945
 death_year: 1994
 notable_games: ["Conquests of Camelot: The Search for the Grail", "Ringworld: Revenge of the Patriarch", "Blue Force"]
 companies: ["Sierra On-Line, Inc.", "Tsunami Media, Inc.", "Interplay Productions"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Peter Ledger
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,11 +27,11 @@ In 1977 he won the Art Directors Silver Award for his Surfabout poster, and his 
 
 At Marvel he provided the fully painted, airbrushed colour for the three-part Weirdworld story "Warriors of the Shadow Realm" in *Marvel Super Special* #11–13 (1979).[^ref-29][^ref-25] With Marx he later produced comics stories such as *Carlos McLlyr* and the graphic novel *The Sisterhood of Steel*.[^ref-25][^ref-3][^ref-27]
 
-In 1981 he moved to Los Angeles to work on a project funded by George Lucas and Gary Kurtz: a coffee-table art book of *Uncle Scrooge McDuck: His Life and Times*, written and drawn by Carl Barks. Ledger was a big fan of Barks' duck art, and hand-painted and airbrushed all the stories.[^ref-3][^ref-25][^ref-8] He and Christy Marx were married on Catalina Island in March 1983.[^ref-3][^ref-25]
+In 1981 he moved to Los Angeles to work on a project funded by George Lucas and Gary Kurtz: a coffee-table art book of *Uncle Scrooge McDuck: His Life and Times*, written and drawn by Carl Barks. Ledger was a big fan of Barks' duck art, and hand-painted and airbrushed all the stories.[^ref-3][^ref-25][^ref-8] Sierra's own Spring 1990 newsletter likewise describes him as an award-winning illustrator, designer and art director in Sydney who came to the United States at the request of Star Wars producer Gary Kurtz to hand color the limited edition art book *Scrooge McDuck, His Life and Times*.[^ref-34] He and Christy Marx were married on Catalina Island in March 1983.[^ref-3][^ref-25]
 
 ### Film, television and comics work
 
-Wikipedia credits Ledger with preparing the graphics for the 1974 Australian film *Stone* and working on the 1976 film *Oz*.[^ref-3] According to Marx, he was also well known for a portrait of John Lennon, sponsored by a Sydney radio station a day after Lennon was killed and rushed into print as a commemorative poster; she believed he painted it within 24 hours.[^ref-25] After settling in California he worked mainly in film and television, doing storyboards and preproduction design: he painted robot suits and designed aliens for *The Ice Pirates*.[^ref-25][^ref-3] He also created the first Babylon 5 logo and early character illustrations used while the series was being sold.[^ref-3][^ref-25]
+Wikipedia credits Ledger with preparing the graphics for the 1974 Australian film *Stone* and working on the 1976 film *Oz*.[^ref-3] According to Marx, he was also well known for a portrait of John Lennon, sponsored by a Sydney radio station a day after Lennon was killed and rushed into print as a commemorative poster; she believed he painted it within 24 hours.[^ref-25] After settling in California he worked mainly in film and television, doing storyboards and preproduction design: he painted robot suits and designed aliens for *The Ice Pirates*.[^ref-25][^ref-3] He also created the first Babylon 5 logo and early character illustrations used while the series was being sold.[^ref-3][^ref-25] Sierra's Spring 1990 profile lists his design and illustration work on feature films including *Black Moon Rising*, *Ice Pirates* and *The Chipmunk Adventure*, and notes that he and Marx were best known for the *Sisterhood of Steel* comics and graphic novel.[^ref-34]
 
 For Eclipse Comics, Wikipedia's bibliography lists him as artist and colourist on stories in *Alien Encounters* (1985–1987), the three-part "Carlos McLyr, the Californio: Old Gods, New World" in *Eclipse Monthly* #6–8 (1984), and cover artist and colourist on *Tales of Terror* #13 (1987); Marvel credits there include covers for *Howard the Duck* vol. 2 #1–2 (1979).[^ref-3] (Wikipedia spells the character "McLyr"; Marx's own biography spells it "McLlyr".)[^ref-25]
 
@@ -70,22 +70,23 @@ Eliot R. Brown, remembering the 1979 Marvel offices, wrote that Ledger "was one 
 | Year | Title | Role |
 |------|-------|------|
 | 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Art Designer; Animator; Background Artist; Cover artwork[^ref-22][^ref-30] |
+| 2017 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] (Windows re-release) | Illustrated by[^ref-12] |
 
 ### Other Credits (1992–1996)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Media, Inc. | Backgrounds[^ref-23][^ref-33] |
-| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media, Inc. | Background Renderings[^ref-23][^ref-31] |
-| 1996 | Blood & Magic | Interplay Productions | Background Illustrator (Howl of Vengeance campaign; posthumous)[^ref-23][^ref-32] |
+| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Media, Inc. | Backgrounds (credit per MobyGames;[^ref-23] box confirms the Tsunami logo[^ref-33]) |
+| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media, Inc. | Background Renderings (credit per MobyGames;[^ref-23] manual confirms the company[^ref-31]) |
+| 1996 | Blood & Magic | Interplay Productions | Background Illustrator (Howl of Vengeance campaign; posthumous; credit per MobyGames,[^ref-23] box confirms the publisher and developer[^ref-32]) |
 
 ### Posthumous Tributes (2021–2023)
 
 | Year | Title | Role |
 |------|-------|------|
-| 2021 | The Telwynium: Book One - Winter's Dawn | Special Thanks and inspiration |
-| 2022 | The Telwynium: Book Two - The Summer King | Special thanks and inspiration |
-| 2023 | The Telwynium: Book Three - The Shadow of Spring | Special thanks and inspiration |
+| 2021 | The Telwynium: Book One - Winter's Dawn | Special Thanks and inspiration[^ref-1][^ref-12] |
+| 2022 | The Telwynium: Book Two - The Summer King | Special thanks and inspiration[^ref-1][^ref-12] |
+| 2023 | The Telwynium: Book Three - The Shadow of Spring | Special thanks and inspiration[^ref-1][^ref-12] |
 
 ## References
 
@@ -108,3 +109,4 @@ Eliot R. Brown, remembering the 1979 Marvel offices, wrote that Ledger "was one 
 [^ref-31]: [Internet Archive - Blue Force (1993) Manual](https://archive.org/details/00308-blue-force-1993-manual) — "© Tsunami Media, Inc., 1993"; the manual's text carries no Ledger credit
 [^ref-32]: [Internet Archive - Blood & Magic (USA) box scans](https://archive.org/details/bloodmagicusa) — Back of box: Interplay Productions publisher, "Developed by Tachyon Studios", "©1996 Tachyon Studios"
 [^ref-33]: [Internet Archive - Ringworld CD DOS 1993-1994 box and disc scans](https://archive.org/details/RingworldCDDOS19931994) — Front of box shows the Tsunami logo
+[^ref-34]: [Internet Archive - Sierra News Magazine, Volume 3 Number 1 (Spring 1990), "Spotlight on Artist: Peter Ledger"](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) — Kurtz art-book request; film credits (Black Moon Rising, Ice Pirates, The Chipmunk Adventure); Sisterhood of Steel; working on Conquests of Camelot
