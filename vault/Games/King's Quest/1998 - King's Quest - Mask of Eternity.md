@@ -10,13 +10,13 @@ series: King's Quest
 engine: 3Space (modified)
 protagonist: Connor
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'King''s Quest: Mask of Eternity (1998) is a 3D action-adventure from Sierra Studios in which Connor, a tanner from Daventry, travels through seven worlds to recover the pieces of a shattered mask, the first King''s Quest not to star a member of the royal family.'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Mask of Eternity
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -271,7 +271,9 @@ Mask of Eternity's sales are disputed. Roberta Williams claimed in 1999 that it 
 - **Won:** Outstanding Technical Achievement – RPG Vault
 - **Won:** Best Adventure-RPG in 1998 – Power Play Magazine (Issue 02/1999)[^ref-29]
 - **Finalist:** Computer Gaming World's 1998 "Best Adventure" prize
-- **Nominated:** PC Adventure Game of the Year – CNET Gamecenter, GameSpot, Computer Games Strategy Plus, Academy of Interactive Arts & Sciences
+- **Nominated:** PC Adventure Game of the Year – CNET Gamecenter, GameSpot, Computer Games Strategy Plus
+- **Nominated:** PC Adventure Game of the Year – 2nd Annual Interactive Achievement Awards, Academy of Interactive Arts & Sciences[^ref-49]
+- **Nominated:** Outstanding Achievement in Character or Story Development – 2nd Annual Interactive Achievement Awards, Academy of Interactive Arts & Sciences[^ref-49]
 
 ### Collections
 
@@ -375,3 +377,4 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 [^ref-46]: [Game Informer – New King's Quest Feature](https://www.gameinformer.com/b/features/archive/2015/07/28/passing-the-hat-an-in-depth-look-at-the-new-kings-quest.aspx) – Matt Korba quote on Connor
 [^ref-47]: [GameFAQs – Forum Discussion](https://gamefaqs.gamespot.com/boards/88800-kings-quest-mask-of-eternity/79133073) – music appreciation
 [^ref-48]: [Sierra Studios – "The Woman Behind the Mask: A Q&A with pioneer game designer Roberta Williams" (conducted by Eric Twelker), Internet Archive](https://web.archive.org/web/20010923101431/http://www.sierrastudios.com/games/mask/interview.html) – Williams on the game's spirituality theme and what the mask represents; the page notes an edited version ran in the Summer 1998 issue of Interaction Magazine
+[^ref-49]: [Wikipedia – 2nd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/2nd_Annual_Interactive_Achievement_Awards) – finalists lists for PC Adventure Game of the Year and Outstanding Achievement in Character or Story Development
