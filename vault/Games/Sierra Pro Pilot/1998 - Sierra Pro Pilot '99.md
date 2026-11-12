@@ -10,14 +10,14 @@ series: Pro Pilot
 engine: null
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Pro Pilot ''99: The Complete Flight Simulator was Dynamix''s 1998 follow-up to Pro Pilot 98,
   adding 3Dfx graphics, a pop-up Operator''s Handbook, NAFI-developed tutorials, the Cessna 172R and Western European scenery.'
 tags: [1990s, pro-pilot, sierra, dynamix, simulation]
 ---
 # Sierra Pro Pilot '99
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Critics praised its flight instruction, manuals and cloud rendering, but critici
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Designer:** Mark R. Pechnick (director and designer)[^ref-2][^ref-6]
 > **Publisher:** [[Sierra On-Line]], Inc.; Imagineer (Japan); Acer TWP (Taiwan)[^ref-1][^ref-4]
-> **Engine:** Not documented; 3D acceleration through 3Dfx Glide only[^ref-9][^ref-12]
+> **Engine:** Not documented; 3D acceleration through 3Dfx Glide per IGN and Computer Gaming World, with MobyGames listing both Glide and Direct3D[^ref-3][^ref-9][^ref-12]
 > **Platforms:** Windows 95/98[^ref-6]
 > **Release Year:** 1998[^ref-1][^ref-9]
 > **Series:** Pro Pilot
@@ -135,6 +135,7 @@ MobyGames credits 56 people on the Windows version[^ref-2]. The key roles were:
 - **Assistant Director:** Brian Gallardo
 - **Production:** Graeme Bayless
 - **Lead Programming:** Caedmon Irias, Alan C. Zander
+- **Programming:** Bill Krick, Joe Legg, Kevin Murray, Carole Quattrone, Adam Szofran
 - **Art Director:** Brian Broderick
 - **Scenery Development Leader:** Scott Huette
 - **Sound:** Charles Barth, Ken Rogers
@@ -162,7 +163,8 @@ With a 3Dfx Voodoo, Voodoo2 or Banshee card, the game added bilinear filtering, 
 Other specifications:
 
 - **Operating system:** Windows 95 or 98[^ref-6][^ref-9]
-- **3D support:** 3Dfx (Glide) only[^ref-9][^ref-12]
+- **3D support:** IGN and Computer Gaming World describe acceleration as 3Dfx (Glide) only[^ref-9][^ref-12]. MobyGames' specification listing gives both Glide and Direct3D as supported APIs[^ref-3]
+- **Alternate title:** *Pro Pilot '99: Learn to fly like a Pro* (German tag-lined title)[^ref-1]
 - **Resolution:** 640×480[^ref-10]
 - **Media:** CD-ROM[^ref-3]
 - **Full installation:** just over 420 MB, including both scenery areas[^ref-14]
@@ -207,7 +209,7 @@ MobyGames lists Pro Pilot '99 as included in *Sierra's Fliegende Asse* (2001), a
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold. There's no GOG or Steam listing (checked October 14, 2026).
+- Not currently sold. There's no GOG or Steam listing (checked November 12, 2026).
 
 **Download / Preservation**
 - [Internet Archive – Pro Pilot '99 Demo](https://archive.org/details/PP99DEMO)
@@ -226,8 +228,8 @@ MobyGames lists Pro Pilot '99 as included in *Sierra's Fliegende Asse* (2001), a
 ## References
 
 [^ref-1]: [MobyGames – Pro Pilot '99](https://www.mobygames.com/game/2445/pro-pilot-99/) – Windows 1998, Dynamix, publishers Sierra/Imagineer/Acer TWP, six planes, US + Western Europe, 3Dfx-only acceleration, compilation listing
-[^ref-2]: [MobyGames – Pro Pilot '99 Credits (Windows)](https://www.mobygames.com/game/2445/pro-pilot-99/credits/windows/) – 56 credited people; director, assistant director, producer, leads
-[^ref-3]: [MobyGames – Pro Pilot '99 Specs (Windows)](https://www.mobygames.com/game/2445/pro-pilot-99/specs/windows/) – CD-ROM media; ESRB Everyone, ELSPA 3+, USK 0, ACB G
+[^ref-2]: [MobyGames – Pro Pilot '99 Credits (Windows)](https://www.mobygames.com/game/2445/pro-pilot-99/credits/windows/) – 56 credited people; director, assistant director, production, programming leads and programmers
+[^ref-3]: [MobyGames – Pro Pilot '99 Specs (Windows)](https://www.mobygames.com/game/2445/pro-pilot-99/specs/windows/) – CD-ROM media; Glide and Direct3D listed as supported APIs; ESRB Everyone, ELSPA 3+, USK 0, ACB G
 [^ref-4]: [MobyGames – Pro Pilot '99 Releases](https://www.mobygames.com/game/2445/pro-pilot-99/releases/) – Japan (Imagineer), Taiwan (Acer TWP), German Sierra Originals, Brazil Brasoft Hits releases
 [^ref-5]: [MobyGames – Pro Pilot '99 Reviews](https://www.mobygames.com/game/2445/pro-pilot-99/reviews/) – 69% critic average from 16 ratings; individual critic scores; player average 1.8/5
 [^ref-6]: [Dynamix Press Release – "Dynamix Takes Flight with Release of Pro Pilot '99" (Wayback Machine)](https://web.archive.org/web/19990117030945/http://web71453.ntx.net:80/pr/pilot99-pr.html) – July 30, 1998 announcement; NAFI and EAA cooperation; $49.99; six aircraft; 35 metro areas, 3,500+ airports, 38 million elevation points; Pechnick and Elliott quotes
