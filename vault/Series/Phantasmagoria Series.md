@@ -7,18 +7,18 @@ first_release: 1995
 last_release: 1996
 total_games: 2
 genre: "Horror, FMV Adventure"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # Phantasmagoria Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 The Phantasmagoria series is Sierra's two-game foray into mature-rated full-motion-video horror — [[1995 - Phantasmagoria|Phantasmagoria]] (1995) designed by [[Roberta Williams]] and [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] (1996) designed by [[Lorelei Shannon]]. The two titles share branding and atmosphere but tell unrelated stories — Sierra initially intended the Phantasmagoria title to be a horror anthology, with each installment telling a different story in a different style.[^ref-1][^ref-2]
 
-The series is significant for three reasons: it represents [[Roberta Williams]]'s pivot away from family-fairy-tale adventure into horror aimed at adults; it produced Sierra's best-selling game to that point (the original *Phantasmagoria* sold 300,000 units in its first weekend;[^ref-1][^ref-11] Sierra's July 1996 10-K reported more than 600,000 copies sold, and Roberta Williams later recalled more than a million in less than a year; the Digital Antiquarian calls it "the best-selling game ever released by an independent Sierra")[^ref-25][^ref-26][^ref-3]; and it tested the commercial limits of mature adventure-game content. The first game carried an ESRB "M" rating, was refused classification in Australia, was declined by CompUSA before release, and was condemned by religious organizations and politicians.[^ref-1][^ref-3][^ref-11]
+The series is significant for three reasons: it represents [[Roberta Williams]]'s pivot away from family-fairy-tale adventure into horror aimed at adults; it produced Sierra's best-selling game to that point (the original *Phantasmagoria* sold 300,000 units in its first weekend;[^ref-1][^ref-11] Sierra's July 1996 10-K reported more than 600,000 copies sold, and Roberta Williams later recalled more than a million in less than a year; the Digital Antiquarian calls it "the best-selling game ever released by an independent Sierra")[^ref-25][^ref-26][^ref-3]; and it tested the commercial limits of mature adventure-game content. The first game carried an ESRB "M" rating, was refused classification in Australia, was declined by CompUSA before release, and was condemned by religious organizations and politicians.[^ref-1][^ref-3]
 
 ## Series Timeline
 
@@ -39,6 +39,8 @@ The story follows Adrienne Delaney, a novelist who moves with her husband Don in
 - **Original score** by Mark Seibert and Jay Usher, whose opening theme features a neo-Gregorian chant performed in studio by a 135-voice choir.[^ref-1][^ref-6]
 - **7 CD-ROM distribution** — far more than the four or five discs originally expected.[^ref-1]
 
+The game was also released for the Macintosh (August 1995) and, in Japan, for the Sega Saturn (8 August 1997).[^ref-1][^ref-5]
+
 **Reception:** Reviews were mixed, praising the graphics and suspenseful tone while criticizing the slow pacing and easy puzzles. The game drew controversy: CompUSA and other retailers declined to carry it, religious organizations and politicians condemned it, it was refused classification in Australia, and it received mature ratings in Germany and the United Kingdom.[^ref-1]
 
 ## Phantasmagoria: A Puzzle of Flesh (1996)
@@ -48,6 +50,13 @@ The 1996 sequel was written and designed by [[Lorelei Shannon]], who had previou
 Unlike the blue-screen original, *A Puzzle of Flesh* was filmed on set and on location around Seattle from February to September 1996, with only its final Alien World scenes shot on bluescreen; it was developed on a $4.5 million budget and released on five CD-ROMs. Its sexual content includes a coworker, Therese, introducing Curtis to the local BDSM club scene. To avoid the ESRB's "Adults Only" rating the game went to the rival RSAC instead. It was banned in Singapore and heavily censored in Australia, and Sam's and Wal-Mart sold only a PG-13 version. It was not a critical or commercial success, and a planned *Phantasmagoria 3*, for which Sierra had asked Roberta Williams to return, never materialized.[^ref-2][^ref-3][^ref-10][^ref-20]
 
 **Reception:** Primarily negative among mainstream reviewers.[^ref-2] Adventure Classic Gaming scored it 2 of 5 (gameplay 1 of 5), crediting Shannon for attempting to treat its sexual and psychological subject matter in a mature fashion while warning it was suitable only for a limited adult audience.[^ref-10]
+
+## Critical Reception
+
+| Game | Reception | Scores and sales rankings |
+|------|-----------|---------------------------|
+| *Phantasmagoria* (1995) | Mixed | Metacritic 62/100; *Computer Gaming World* 4/5; GameSpot 6.0/10. Debuted at number four on PC Data's August 1995 MS-DOS/Windows chart and finished 1995 as the ninth best-selling game.[^ref-1] |
+| *Phantasmagoria: A Puzzle of Flesh* (1996) | Primarily negative | *Computer Gaming World* 1.5/5; GameSpot 3.7/10; GameRankings 55.88%; Adventure Classic Gaming 2/5.[^ref-2][^ref-10] |
 
 ## Series Design Identity
 
@@ -61,7 +70,7 @@ What unifies the two titles despite their unrelated stories:
 
 ## Legacy
 
-Sierra's 10-K, filed July 1, 1996, said more than 600,000 copies of *Phantasmagoria* had been sold;[^ref-25] Roberta Williams recalled in 2006 that it "sold more than a million copies in less than a year".[^ref-26] The Digital Antiquarian describes it as "the last such sparkling success among its peculiar species of game".[^ref-1][^ref-3] The sequel's commercial disappointment, together with the decline of point-and-click adventures and interactive movies, ended plans for a third installment.[^ref-2] IEEE Spectrum's profile of Roberta Williams names *Phantasmagoria* alongside *King's Quest* and *Mystery House* as her signature games, and notes that it caused controversy because it was aimed at a more mature audience.[^ref-11]
+Sierra's 10-K, filed July 1, 1996, said more than 600,000 copies of *Phantasmagoria* had been sold;[^ref-25] Roberta Williams recalled in 2006 that it "sold more than a million copies in less than a year".[^ref-26] The Digital Antiquarian describes it as "the last such sparkling success among its peculiar species of game".[^ref-3] The sequel's commercial disappointment, together with the decline of point-and-click adventures and interactive movies, ended plans for a third installment.[^ref-2] IEEE Spectrum's profile of Roberta Williams names *Phantasmagoria* alongside *King's Quest* and *Mystery House* as her signature games, and notes that it caused controversy because it was aimed at a more mature audience.[^ref-11]
 
 *Phantasmagoria* has been sold digitally on GOG.com since February 2010; both games are currently sold there as separate products, and both are also sold on Steam.[^ref-1][^ref-12][^ref-18][^ref-23][^ref-24]
 
@@ -74,7 +83,7 @@ Both games are on sale on GOG.com and Steam (see Legacy); the Steam store lists 
 - [[Roberta Williams]] — Original designer
 - [[Lorelei Shannon]] — Sequel designer
 - [[Mark Seibert]] — Composer (1995 game)
-- [[Engine History|Engine History]] — SCI2.1/SCI32 era
+- [[Engine History]] — SCI2.1/SCI32 era
 - [[Sierra On-Line]] — Publisher
 - [[Awards]]
 
