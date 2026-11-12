@@ -10,7 +10,7 @@ series: Adiboo
 engine: RenderWare
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Adiboo and the Energy Thieves is an educational action-adventure game
   released in 2004, developed by Coktel Vision and published by Vivendi Universal
   Games International S.A.
@@ -18,7 +18,7 @@ tags: [2000s, adiboo, educational, sierra]
 ---
 # Adiboo and the Energy Thieves
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -51,7 +51,7 @@ Wikipedia describes the gameplay as simple[^ref-21], and the game is aimed at ch
 
 ### Interface and Controls
 
-Adiboo and the Energy Thieves presents a 3D adventure experience where players explore Adiboo's house and the wider world of Celesta[^ref-3]. The game alternates between a 3D third-person hub world set in Adiboo's home, platforming, vehicle chase sequences, and boss battles, with several minigames in the hub world[^ref-21]. The game was designed with young children in mind, suitable for players as young as five years old[^ref-1]. One distinctive feature is the game's adaptive difficulty system, which analyzes the child's ability and automatically adjusts the challenge level accordingly[^ref-8].
+Adiboo and the Energy Thieves presents a 3D adventure experience where players explore Adiboo's house and the wider world of Celesta[^ref-3]. The game alternates between a 3D third-person hub world set in Adiboo's home, platforming, vehicle chase sequences, and boss battles, with several minigames in the hub world[^ref-21]. The game was designed with young children in mind, suitable for players as young as five years old[^ref-1].
 
 ### Structure and Progression
 
@@ -60,7 +60,7 @@ The game features 14 levels: four platform games, five races and five bosses[^re
 - **Platforming Stages:** 2D side-scrolling platforming sections[^ref-1]
 - **Boss Battles:** 3D boss fights[^ref-3]
 - **Time Trial Sequences:** Timed challenges that test player skills[^ref-9]
-- **Multiplayer Mode:** Competitive options for multiple players[^ref-9]
+- **Multiplayer Mode:** Two-player multiplayer mode[^ref-1][^ref-8]
 
 Reported play time varies widely: a GameFAQs user poll (9 votes, as of October 27, 2026) puts its length at 10 hours[^ref-2], while HowLongToBeat's polled main-story average is about 1½ hours[^ref-22].
 
@@ -68,7 +68,7 @@ Reported play time varies widely: a GameFAQs user poll (9 votes, as of October 2
 
 Rather than featuring traditional combat, Adiboo and the Energy Thieves incorporates what the publisher described as "non-violent 'intelligent' duels"[^ref-8].
 
-The personalized gameplay system analyses the child's ability and automatically adapting the difficulty[^ref-8]. This lets both inexperienced children and more confident players enjoy the game[^ref-8].
+The personalized gameplay system analyses the child's ability and automatically adapts the difficulty[^ref-8][^ref-1]. This lets both inexperienced children and more confident players enjoy the game[^ref-8].
 
 ## Reception
 
@@ -114,15 +114,11 @@ Development was handled by Coktel Vision, the French studio founded in 1984 that
 
 The game was developed using the RenderWare engine[^ref-1].
 
-### Technical Achievements
-
-The game's difficulty adapts dynamically based on the player's performance[^ref-1], analysing the child's ability and automatically adapting the difficulty of play[^ref-8].
-
 ### Technical Specifications
 
 **PlayStation 2 Version:**[^ref-8]
 - **Media:** DVD-5 (1 Data Track)
-- **Memory Requirement:** 70 KB Minimum
+- **Memory card:** 70 KB minimum
 - **Video Modes:** 50 Hz only (PAL)
 - **Audio:** Stereo and Mono
 - **Vibration Support:** Yes
@@ -147,9 +143,9 @@ The game was released in multiple European territories, distributed by Vivendi U
 
 - The game was known as "Adiboo: Die Jagd auf die Energiepiraten" in Germany[^ref-20]
 - MobyGames also lists the French titles "Adiboo et Les Voleurs d'Energie" (PS2 disc) and "Adibou et Les Voleurs d'Energie" (box)[^ref-1]
-- Features personalized gameplay that adapts difficulty based on child's ability[^ref-9]
+- Everygamegoing's listing of the Official UK PlayStation 2 Magazine review gives the publisher as "Coktel Studio"[^ref-7]
 - Traditional combat was replaced by non-violent "intelligent" duels[^ref-8]
-- The game was released during a particularly competitive period for children's platformers, facing competition from established franchises[^ref-6]
+- One blogger relays a suggestion that the move to 3D was an attempt to keep pace with titles such as Jak II, The Simpsons: Hit & Run and Prince of Persia: Sands of Time[^ref-6]
 
 ## Legacy
 
