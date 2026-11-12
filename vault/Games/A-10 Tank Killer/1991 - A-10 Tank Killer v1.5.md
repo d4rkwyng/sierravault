@@ -8,9 +8,10 @@ genre: Flight Simulation
 platforms: [Amiga, DOS]
 series: A-10 Tank Killer Series
 engine: 3Space
+composer: [Alan McKean, Chris Stevens, Mark Riley]
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'A-10 Tank Killer v1.5 is the 1991 update of Dynamix''s combat flight simulation
   of the A-10 Thunderbolt II "Warthog", adding Gulf War missions and improved graphics
   and sounds.'
@@ -18,7 +19,7 @@ tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 ---
 # A-10 Tank Killer v1.5
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,6 +32,7 @@ Version 1.5 added seven new scenarios covering the Iraqi war and Operation Deser
 > **Designer:** Jerry Luttrell, [[Damon Slye]], [[David Selle]][^ref-3]
 > **Publisher:** Dynamix / Sierra On-Line[^ref-25]
 > **Engine:** 3Space[^ref-24]
+> **Composer:** Alan McKean, Chris Stevens, Mark Riley (credited as musicians)[^ref-15]
 > **Platforms:** DOS, Amiga[^ref-25]
 > **Release Year:** 1991 (DOS: July 1, 1991; Amiga: October 30, 1991)[^ref-25]
 > **Series:** A-10 Tank Killer Series
@@ -67,6 +69,8 @@ The simulation emphasizes ground attack missions using the A-10's 30mm Avenger c
 
 Dragon's December 1991 review of the updated PC/MS-DOS version gave it five stars, noting that it "includes a Middle East campaign, boasts better VGA graphics, new flight models, full sound-board support, and user-definable weapon loads" and concluding that "A-10 Tank Killer, version 1.5, cleans up most of the flaws of the original release"[^ref-29].
 
+The review lists the updated PC/MS-DOS version at $59.95 and describes the update's new documentation, which includes a section on the history of the A-10 and its use during the Desert Storm confrontation. It reports support for the Maxx Yoke and Maxx Rudder controllers and a new VCR menu that allows repeated viewing of completed missions, with victim, engagement and floating camera views. The reviewers singled out the new Middle East missions, in which players hunt Scud launchers and other Iraqi targets, as the most enjoyable feature[^ref-29].
+
 ### Reviews of the Original (1989–1991)
 
 Most contemporary reviews cover the original 1989/1990 release, not version 1.5:
@@ -93,11 +97,11 @@ A-10 Tank Killer was developed by Dynamix, originally named Software Entertainme
 
 ### Production
 
-The development team included Lincoln Hutton, David McClurg, Mark Brenneman, Cyrus Kanga, Kobi Miller, Damon Slye, Alan McKean, Bryce Morcello, Piotr Lukaszuk, Jerry Luttrell, Randy Dersham, Christopher Reese, and Nels Bruckner[^ref-4]. MobyGames' credits spell the sound designer's name "Bryce Morsello"[^ref-19]. Alan McKean also composed the game's music[^ref-3]. Zzap!'s 1991 review of the original noted that Dynamix used digitized photos of real actors in flight gear and a digitized cockpit from a genuine A-10[^ref-1].
+The development team included Lincoln Hutton, David McClurg, Mark Brenneman, Cyrus Kanga, Kobi Miller, Damon Slye, Alan McKean, Bryce Morcello, Piotr Lukaszuk, Jerry Luttrell, Randy Dersham, Christopher Reese, and Nels Bruckner[^ref-4]. MobyGames' credits spell the sound designer's name "Bryce Morsello"[^ref-19]. Alan McKean also composed the game's music[^ref-3]. Lemon Amiga's credits for the Amiga version 1.5 list Lloyd Madden as producer; Christopher Reese, David McClurg, Lincoln Hutton, Nels Bruckner, Peter Heinrich, Randy Thompson, Rhett Anderson and Stephen Cordon as coders; Cyrus Kanga, Damon Mitchell, Ian Gilliland, Kerrie Abbott, Mark Brenneman, Mark Peasley, Mark Vearrier, Randy Dersham, Rhonda Conley and Ron Clayborn for graphics; and Alan McKean, Chris Stevens and Mark Riley as musicians[^ref-15]. Zzap!'s 1991 review of the original noted that Dynamix used digitized photos of real actors in flight gear and a digitized cockpit from a genuine A-10[^ref-1].
 
 ### Technical Achievements
 
-According to Damon Slye, as reported by MobyGames, the original A-10 Tank Killer was "among the first if not the first PC simulator to utilize 256 color VGA graphics for 3D environments"[^ref-19]. Version 1.5 supported Tandy/PCjr, CGA, EGA, MCGA, and VGA graphics, with a maximum resolution of 320 x 200[^ref-4]. Audio support included PC Speaker, Tandy/PCjr, PS/1 Audio Card, Ad Lib, Sound Blaster, and Roland MT-32/LAPC-I[^ref-4]. The game required 512 KB of RAM (640 KB for Tandy systems) and had an installed size of 2.7 MB[^ref-4]. The Amiga version came on three disks[^ref-15].
+According to Damon Slye, as reported by MobyGames, the original A-10 Tank Killer was "among the first if not the first PC simulator to utilize 256 color VGA graphics for 3D environments"[^ref-19]. Version 1.5 supported Tandy/PCjr, CGA, EGA, MCGA, and VGA graphics, with a maximum resolution of 320 x 200[^ref-4]. Audio support included PC Speaker, Tandy/PCjr, PS/1 Audio Card, Ad Lib, Sound Blaster, and Roland MT-32/LAPC-I[^ref-4]. The game required 512 KB of RAM (640 KB for Tandy systems) and had an installed size of 2.7 MB[^ref-4]. The DOS release of version 1.5 shipped on four 3.5" 720 KB floppy disks[^ref-4], and the Amiga version came on three disks[^ref-15].
 
 ### Version History
 
@@ -114,7 +118,7 @@ Sources differ on the later patches: DOS Days dates 1.51 to August 22, 1991 and 
 
 ## Legacy
 
-A-10 Tank Killer's success led to a sequel, Silent Thunder: A-10 Tank Killer II, released in March 1996[^ref-10]. Combined sales of A-10 Tank Killer and its sequel surpassed 250,000 units by the end of March 1996[^ref-3]. GameSpot's Chris Hudak praised Silent Thunder as "a wicked, clean, no-B.S. combat sim with enough options and realism to hold the serious gamer's interest," awarding it 8.5/10[^ref-10].
+A sequel, Silent Thunder: A-10 Tank Killer II, followed in March 1996[^ref-10]. Combined sales of A-10 Tank Killer and its sequel surpassed 250,000 units by the end of March 1996[^ref-3]. GameSpot's Chris Hudak praised Silent Thunder as "a wicked, clean, no-B.S. combat sim with enough options and realism to hold the serious gamer's interest," awarding it 8.5/10[^ref-10].
 
 The game was included in Sierra compilations such as Sierra's Value Pack 3, Aces: The Complete Collector's Edition and the Aces Collection Series[^ref-21], and has been documented by fan communities[^ref-22][^ref-24]. VOGONS forum users have reported a mouse movement bug in version 1.5, where "when moving the mouse cursor down or right, it moves very slow" but "when moving it up or left, it moves at normal speed"[^ref-20]. DOSBox author ripsaw8080 posted a small fix program, A10FIX, in the same thread[^ref-20].
 
@@ -159,4 +163,4 @@ Due to its violence level, A-10 Tank Killer was placed on the "Index" in Germany
 [^ref-24]: [Sierra Help Wiki - A-10 Tank Killer Series](https://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_Series) – Series page listing games, compilations, publisher and engine
 [^ref-25]: [Sierra Help Wiki - A-10 Tank Killer v1.5 Releases](http://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_v1.5_Releases) – Release dates and publisher information for version 1.5 by platform
 [^ref-28]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Company history: "in 1990 Dynamix was bought by Sierra On-Line"
-[^ref-29]: [Dragon Magazine #176 (December 1991)](https://archive.org/details/dragon-magazine-176) – Scan of the issue; "The Role of Computers" by Hartley, Patricia and Kirk Lesser reviews the updated PC/MS-DOS version (5 stars) on p. 61
+[^ref-29]: [Dragon Magazine #176 (December 1991)](https://archive.org/details/dragon-magazine-176) – Scan of the issue; "The Role of Computers" by Hartley, Patricia and Kirk Lesser reviews the updated PC/MS-DOS version (5 stars) on p. 61, listing the updated DOS version at $59.95

@@ -70,7 +70,7 @@ Jimmy Maher writes that The Incredible Machine series became "the urtext of the 
 
 A selection of notable Dynamix-developed titles that have SierraVault pages, not a complete list; see [[Dynamix Catalog]] for the wider catalog, and Wikipedia and MobyGames for the full lists.[^ref-1][^ref-11]
 
-- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Genre: Flight Simulation
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (updated as [[1991 - A-10 Tank Killer v1.5]]) — Genre: Flight Simulation
 - **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Genre: Action/Adventure
 - **1989** — [[1989 - Die Hard|Die Hard]] (published by Activision) — Genre: Action[^ref-32]
 - **1989** — [[1989 - MechWarrior|MechWarrior]] — Genre: Vehicle Simulation/Role-Playing
