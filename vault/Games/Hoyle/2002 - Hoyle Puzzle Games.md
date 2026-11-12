@@ -10,17 +10,17 @@ series: Hoyle Series
 engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Hoyle Puzzle Games is a collection of 15 puzzle and arcade-style games, including The Incredible Machine - Even More Contraptions, released by Sierra on September 7, 2002, for Windows and Macintosh.
 tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle Games 2002 (sold at retail simply as *Hoyle Puzzle Games*, with no year in the title) is a puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series[^ref-1][^ref-19][^ref-22]. Published by Vivendi Universal Games for Windows and Macintosh, it gathered 15 games: Anagrams, Crosswords, Edge Tiles, Gravity Tiles, Hangman, Mahjong Tiles, Maze Racer, Maze Raider, Memory Tiles, Placer Racer, Slide Tiles, Solitaire Arcade, Star Collector, Time Breaker and the full version of *The Incredible Machine: Even More Contraptions*[^ref-2][^ref-4][^ref-26][^ref-27]. Sierra's Hoyle catalogue pitched it as a chance to "Challenge yourself with 15 games -- you'll find arcade action, brainteasers, and classic puzzles, all in one place!"[^ref-36] The Hoyle line itself dates back to Hoyle's Official Book of Games in 1989[^ref-5].
+Hoyle Puzzle Games 2002 (sold at retail simply as *Hoyle Puzzle Games*, with no year in the title) is a puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series[^ref-1][^ref-19][^ref-22]. Published by Vivendi Universal Games for Windows and Macintosh, it gathered 15 games: Anagrams, Crosswords, Edge Tiles, Gravity Tiles, Hangman, Mahjong Tiles, Maze Racer, Maze Raider, Memory Tiles, Placer Racer, Slide Tiles, Solitaire Arcade, Star Collector, Time Breaker and the full version of *The Incredible Machine: Even More Contraptions*[^ref-2][^ref-4][^ref-26][^ref-27]. Sierra's Hoyle catalogue pitched it as a chance to "Challenge yourself with 15 games -- you'll find arcade action, brainteasers, and classic puzzles, all in one place!"[^ref-36] The Hoyle line itself dates back to Hoyle's Official Book of Games in 1989[^ref-5]. Sierra Chest gives the publisher as Vivendi Universal Games[^ref-2], while Metacritic, GameFAQs and the ESRB list Sierra Entertainment[^ref-1][^ref-19][^ref-30].
 
 The same product also went by a year-ahead name. The ESRB rated it, and Amazon listed it under the same ASIN that Sierra's official page linked to, as *Hoyle Puzzle Games 2003*[^ref-26][^ref-30][^ref-31], and the Argentine magazine Xtreme PC reviewed it under that title in December 2002[^ref-33].
 
@@ -48,7 +48,7 @@ From the main screen, players picked a game by clicking its icon or by choosing 
 
 ### Structure and Progression
 
-Every game can be played alone, and several (including Hangman, Maze Racer and Placer Racer) also let two people compete on the same computer[^ref-27]. Amazon's listing described it as "For 1 or 2 players"[^ref-31]. GameSpot noted that, unlike Hoyle Board Games or Hoyle Card Games, Puzzle Games had none of the series' usual computer opponents, and most of its games were best played alone[^ref-20].
+Every game can be played alone, and several (including Hangman, Maze Racer and Placer Racer) also let two people compete on the same computer[^ref-27]. Amazon's listing described it as "For 1 or 2 players"[^ref-31]. GameSpot noted that, unlike Hoyle Board Games or Hoyle Card Games, Puzzle Games had none of the series' usual computer opponents, and most of its games were best played alone[^ref-20]. He added that "you can invite a friend or connect to the Internet for a quick multiplayer match"[^ref-20].
 
 ### Puzzles and Mechanics
 
@@ -83,7 +83,7 @@ Gord Goble reviewed the game for **GameSpot** on October 24, 2002, and scored it
 
 His main complaint was that "many of its games have already been seen elsewhere". Solitaire was in Hoyle Card Games, the tile games were in Hoyle Board Games, and *Even More Contraptions* was still on retail shelves. He also thought most of the games had "a somewhat dated 2D appearance"[^ref-20]. He saw little point in Facemaker in a game with no computer players to tell yourself apart from, but concluded that puzzle fans who hadn't played most of these games before would find it worthwhile[^ref-20].
 
-Antonio "Fareh" Schmidel reviewed it as *Hoyle Puzzle Games 2003* for the Argentine magazine **Xtreme PC** (issue 55, December 2002) and scored it **75%** ("Muy bueno"). He called *The Incredible Machine: Even More Contraptions* a product that was worth the price on its own ("por el que por sí solo ya vale la pena"), and noted its 200 scenarios across four difficulty levels: easy, medium, hard and extreme. He also singled out Gravity Tiles, where clearing every piece "puede demandar varias decenas de intentos". His listed downside was that many puzzles, such as the crosswords, were in English[^ref-33].
+Antonio "Fareh" Schmidel reviewed it as *Hoyle Puzzle Games 2003* for the Argentine magazine **Xtreme PC** (issue 55, December 2002) and scored it **75%** ("Muy bueno"). He called *The Incredible Machine: Even More Contraptions* a product that was worth having on its own ("por el que por sí solo ya vale la pena"), and noted its 200 scenarios across four difficulty levels: easy, medium, hard and extreme. He also singled out Gravity Tiles, where clearing every piece "puede demandar varias decenas de intentos". His listed downside was that many puzzles, such as the crosswords, were in English[^ref-33].
 
 ### Modern Assessment
 
@@ -102,7 +102,7 @@ Hoyle Puzzle Games came out of Sierra's Hoyle series, which began in 1989 with H
 
 ### Production
 
-The game was developed by Sierra Entertainment[^ref-1][^ref-19]. The manual credits Executive Producer Stephen H. Van Horn, Senior Producer Karen Thomas and Associate Producer Cara Ely. It also credits Eric Fleming as Senior Software Engineer and Project Lead, Rabih AbouJaoudé as Art Director, and Mike Caviezel as composer and sound engineer[^ref-27]. *The Incredible Machine: Even More Contraptions* had been released as a standalone product about a year earlier[^ref-20]; it first came out in 2001 for Windows, Macintosh and Palm OS[^ref-34], and Sierra Chest credits its development to Jeff Tunnell Productions[^ref-35].
+The game was developed by Sierra Entertainment[^ref-1][^ref-19]. The manual credits Executive Producer Stephen H. Van Horn, Senior Producer Karen Thomas and Associate Producer Cara Ely. It lists Eric Fleming as Senior Software Engineer and Project Lead, with John Gilmore, Mark Seminatore and Michael Katz as Principal Software Engineers and Roger Key, Frank Hollander, Paul Horn and Casey Anderson as Senior Software Engineers. Rabih AbouJaoudé is credited as Art Director, Heather Ivy and Eric Hook as Senior Artists, and Gayle Rowbotham, Will Barker and Mike Cressy as Artists. Ryan Spain is Documentation Manager, Mike Caviezel is credited as both composer and sound engineer, and Gary Stevens is Quality Assurance Director[^ref-27]. *The Incredible Machine: Even More Contraptions* had been released as a standalone product about a year earlier[^ref-20]; it first came out in 2001 for Windows, Macintosh and Palm OS[^ref-34], and Sierra Chest credits its development to Jeff Tunnell Productions[^ref-35].
 
 ### Technical Notes
 
