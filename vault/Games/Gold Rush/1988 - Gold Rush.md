@@ -10,7 +10,7 @@ series: Gold Rush
 engine: AGI
 protagonist: Jerrod Wilson
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Gold Rush! is a 1988 AGI adventure game by Doug and Ken MacNeill for
   Sierra On-Line, in which Brooklyn newspaperman Jerrod Wilson travels to the California
   Gold Rush by one of three historical routes.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, sierra]
 ---
 # Gold Rush!
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -82,7 +82,7 @@ The text parser does not pause while commands are typed. Starostin notes this "c
 | *Computer Gaming World* #58 (April 1989, pp. 59-60) | — | Positive review by Michael Chaut: "stimulating, enriching and entertaining, a welcome addition to the Sierra library"[^ref-27] |
 | *Compute!* (August 1989, p. 73) | — | "Entertaining, somewhat educational", but may disappoint veterans[^ref-23] |
 
-In 1989 *Dragon* gave the game 4½ out of 5 stars, and *Computer Gaming World* reviewed it positively[^ref-1]. In *Computer Gaming World*, Michael Chaut noted that "The designers put over 250 man hours of research into this product, as well as verifying its preciseness with an expert on the historical era", and that Gold Rush is "linear in nature" despite its three scenarios. He judged the game's more than 160 scenes "as large an undertaking as Kings Quest IV"[^ref-27]. *Compute!*'s Bob Guerra called it "entertaining, somewhat educational, and a terrific escapade for first-time adventure game players". He added that "hard-core fans of Sierra's 3-D adventures may be disappointed by the game's simplicity", since most players could finish it in two or three sessions[^ref-23]. Looking back, Starostin summarised the contemporary assessments as "largely positive"[^ref-5].
+In 1989 *Dragon* gave the game 4½ out of 5 stars, and *Computer Gaming World* reviewed it positively[^ref-1]. In *Computer Gaming World*, Michael Chaut noted that "The designers put over 250 man hours of research into this product, as well as verifying its preciseness with an expert on the historical era", and that Gold Rush is "linear in nature", though players should not think of it as "one-dimensional". He judged the game's more than 160 scenes "as large an undertaking as Kings Quest IV"[^ref-27]. *Compute!*'s Bob Guerra called it "entertaining, somewhat educational, and a terrific escapade for first-time adventure game players". He added that "hard-core fans of Sierra's 3-D adventures may be disappointed by the game's simplicity", since most players could finish it in two or three sessions[^ref-23]. Looking back, Starostin summarised the contemporary assessments as "largely positive"[^ref-5].
 
 **Aggregate Scores:**
 - **MobyGames:** 7.0 (73 votes)[^ref-28]
@@ -132,8 +132,10 @@ The original release came on five 5.25" or two 3.5" floppy disks. It requires an
 
 Release dates are those listed by MobyGames[^ref-28]; the Windows date matches the Choicest Games review of the Classic edition[^ref-12].
 
+Sources differ on the exact day of the original DOS release: the ScummVM wiki's list of Sierra game versions dates the AGI 3.002.149 release of *Gold Rush!* to 22 December 1988[^ref-30], while DOSdays dates version 2.01 to 23 December 1988[^ref-3].
+
 ### Copy Protection
-The game's copy protection uses text from the included manual: players must enter a word from the book in answer to a question that points to a specific page and line[^ref-22][^ref-23]. Before play, the game asks a question about the gold rush and points the player to a specific page and line of the book. "Fail the test, and Jerrod is lynched"[^ref-23].
+The game's copy protection uses text from the included manual: before play the game asks a question that points the player to a specific page and line of the book, and the player must enter the matching word[^ref-22][^ref-23]. "Fail the test, and Jerrod is lynched"[^ref-23]. *Computer Gaming World* described the game as coming "without traditional copy protection", but said it "does ask the player a question concerning the era from the mini-history book before game play can begin"[^ref-27].
 
 ## Legacy
 
@@ -141,11 +143,11 @@ In 2011 Adventure Gamers named Gold Rush! the 96th-best adventure game of all ti
 
 Starostin wrote that the MacNeills "seem to have vanished" after the game shipped and apparently left the industry[^ref-5]. In fact, the brothers' company, The Software Farm, re-released the game as *California Gold Rush!* in 1998[^ref-22]. It later issued a Collector's Edition, dated 2000 by DOSdays[^ref-3].
 
-According to Wikipedia, German developer Sunlight Games later "secured the rights"[^ref-1]. It re-released the original game on Steam as *Gold Rush! Classic* on 25 July 2014[^ref-12], and the Classic edition is also sold on the Epic Games Store[^ref-26]. Sunlight's *Gold Rush! Anniversary*, a 2014 remake with pre-rendered HD graphics, new voiceovers and remade music, kept the original story[^ref-1][^ref-3][^ref-18]. Adventure Gamers gave the remake 1½ stars out of 5[^ref-1].
+According to Wikipedia, German developer [[Sunlight Games - KISS ltd|Sunlight Games]] later "secured the rights"[^ref-1]. It re-released the original game on Steam as *Gold Rush! Classic* on 25 July 2014[^ref-12], and the Classic edition is also sold on the Epic Games Store[^ref-26]. Sunlight's *Gold Rush! Anniversary*, a 2014 remake with pre-rendered HD graphics, new voiceovers and remade music, kept the original story[^ref-1][^ref-3][^ref-18]. Adventure Gamers gave the remake 1½ stars out of 5[^ref-1].
 
 Sunlight Games released Gold Rush! 2 in April 2017 as a sequel to Gold Rush! Anniversary[^ref-1]. Sunlight says the sequel's story "came from the pen of the developers of the original game"[^ref-18]. 3rd-Strike gave it 6.1/10 and said its voice acting was "about as captivating as listening to sandpaper grinding along a wooden 2 by 4"[^ref-16].
 
-In October 2019 Sunlight Games announced a boxed Special Edition of Gold Rush! for classic Amiga computers, the first release of its "RetroTainment" retro label[^ref-18].
+In October 2019 Sunlight Games announced a boxed Special Edition of Gold Rush! for classic Amiga computers, the first release of its "RetroTainment" retro label[^ref-18]. The second and last batch of the Special Edition was released on 28 February 2022; the box includes a postcard with original signatures of the 1980s developers[^ref-29].
 
 ### Easter Eggs and Trivia
 
@@ -189,3 +191,5 @@ The game contains at least one documented Easter egg. According to fan-documente
 [^ref-26]: [Epic Games Store – Gold Rush! Classic](https://store.epicgames.com/en-US/p/gold-rush-classic-34d7d5) – Classic edition sold on Epic ($2.99, Sunlight Games)
 [^ref-27]: [Computer Gaming World #58, April 1989, pp. 59-60 – Michael Chaut, "'Californy' or Bust" (archive.org)](https://archive.org/details/Computer_Gaming_World_Issue_58) – "put over 250 man hours of research", more than 160 scenes, "linear in nature", positive verdict
 [^ref-28]: [MobyGames – Gold Rush! (credits, release dates and score, read via the MobyGames API)](https://www.mobygames.com/game/440/gold-rush/) – DOS credits (design, programming, interpreter, art, music); platform release dates; 7.0 score from 73 votes
+[^ref-29]: [Indie Retro News – Gold Rush! 2nd batch of the Special Edition for the Amiga (28 February 2022)](https://www.indieretronews.com/2022/02/gold-rush-2nd-batch-of-special-edition.html) – "2nd and last batch of the Special Edition"; box contents incl. postcard with original signatures of the 1980s developers
+[^ref-30]: [ScummVM Wiki – Sierra Game Versions (Wayback, 18 May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – AGI 3.002.149, Gold Rush! 1988-12-22
