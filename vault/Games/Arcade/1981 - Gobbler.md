@@ -10,7 +10,7 @@ series: Standalone
 engine: Custom
 protagonist: Gobbler (Pac-Man-like character)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Gobbler is a Pac-Man clone programmed by Olaf Lubeck and published by
   On-Line Systems for the Apple II in 1981, reportedly withdrawn after five months amid Atari's
   copyright fight with the company.
@@ -18,13 +18,13 @@ tags: [1980s, sierra, standalone]
 ---
 # Gobbler
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by On-Line Systems for the Apple II in 1981.[^ref-1][^ref-5] It is one of the early arcade clones of the home computer market, offering gameplay mostly identical to Namco's Pac-Man arcade game, though with a slightly different maze layout.[^ref-2][^ref-17] On-Line Systems, founded by [[Ken Williams]] and [[Roberta Williams]], later became Sierra On-Line and then Sierra Entertainment, making Gobbler part of the company's formative catalog of early titles.[^ref-18]
 
-The game is remembered less for its gameplay than for its part in On-Line Systems' copyright clash with Atari, which held the home rights to Pac-Man.[^ref-3] According to Retro365, Atari obtained a temporary restraining order in federal court in Fresno barring On-Line Systems from producing or selling Gobbler and the company's second Pac-Man clone, John Harris's *[[1981 - Jawbreaker|Jawbreaker]]*, and Ken Williams pulled Gobbler from the market after just five months.[^ref-3][^ref-25] *Softline* (January 1982) independently reports that Atari asked a Fresno court for an injunction against On-Line Systems over Jawbreaker and Gobbler, and that the judge refused it.[^ref-20] During its brief commercial life, the game sold around 800 copies a month, according to Retro365;[^ref-3] another Retro365 post by the same author puts the figure at "just shy of a thousand copies a month."[^ref-4]
+The game is remembered less for its gameplay than for its part in On-Line Systems' copyright clash with Atari, which held the home rights to Pac-Man.[^ref-3] According to Retro365, Atari obtained a temporary restraining order in federal court in Fresno barring On-Line Systems from producing or selling Gobbler and the company's second Pac-Man clone, John Harris's *[[1981 - Jawbreaker|Jawbreaker]]*, and Ken Williams pulled Gobbler from the market after just five months.[^ref-3][^ref-25] *Softline* (January 1982) reports that the Fresno dispute concerned both Gobbler and Jawbreaker, and that the federal judge found no reason to grant Atari's request for an injunction against the sale of Jawbreaker.[^ref-20] During its brief commercial life, the game sold around 800 copies a month, according to Retro365;[^ref-3] another Retro365 post by the same author puts the figure at "just shy of a thousand copies a month."[^ref-4]
 
 Gobbler was created by Olaf Lubeck, a researcher in the Computer Research and Applications Division of Los Alamos National Laboratory, who sent it in after his wife saw On-Line Systems' "Authors Wanted" advertisement.[^ref-3] The game shipped on 5.25" floppy disk for the Apple II.[^ref-7] Retro365's 2021 retrospective calls it "a (very well done) copy of Pac-Man."[^ref-3]
 
@@ -112,11 +112,11 @@ On-Line Systems published the game.[^ref-1] The Apple II version was the only re
 
 ### Version History
 
-| Date | Platform | Notes |
-|------|----------|-------|
-| 1981 | Apple II | Only release[^ref-1][^ref-3]; LaunchBox lists a release date of August 15, 1981[^ref-17] |
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| — | 1981 | Apple II | Only release[^ref-1][^ref-3]; LaunchBox lists a release date of August 15, 1981[^ref-17] |
 
-According to Retro365, Gobbler was removed from the market after five months.[^ref-3]
+According to Retro365, Gobbler was removed from the market after five months.[^ref-3] No source gives a date for the withdrawal; the five-month figure is Retro365's alone.
 
 ### Technical Issues
 
@@ -137,7 +137,7 @@ No specific technical bugs or compatibility issues have been documented for Gobb
 
 During its five months on sale, Gobbler sold around 800 copies a month, according to Retro365;[^ref-3] another Retro365 post gives "just shy of a thousand copies a month."[^ref-4] No older source for either figure has been located. That success, Retro365 argues, is what drew Atari's attention.[^ref-3]
 
-The legal fight around the game is better remembered than the game itself. Atari, which had paid for the home rights to Pac-Man, sent cautionary letters to publishers including On-Line Systems, then, per Retro365, obtained a temporary restraining order covering both Gobbler and *Jawbreaker*.[^ref-3][^ref-25] On-Line Systems filed an antitrust suit, and Atari countersued, with Midway joining in.[^ref-3] According to Retro365, the Atari and Midway infringement claims "were tossed out of court, appealed, and then dismissed again," and the parties settled out of court. The protection that resulted covered "the Pac-Man name and its characters but not its gameplay and mechanics."[^ref-3] Filfre's account centres the courtroom fight on *Jawbreaker*: the judge applied the "ten-foot rule" and refused Atari's motion for a preliminary injunction against it.[^ref-16] *Computer Gaming World* reported in early 1982 (issue 2.1), citing On-Line Systems, that "Atari has lost a preliminary injunction against the distribution of JAWBREAKER."[^ref-19] Warped Factor likewise notes that Atari "unsuccessfully sought an injunction against the sale of Jawbreaker and Gobbler."[^ref-11] *Softline* (January 1982) describes Atari's request for an injunction in Fresno over the two games and says Atari had "lost its bid to prevent two competitive products from being marketed"; it does not mention a restraining order, which rests on Retro365 alone.[^ref-20] Wikipedia's Jawbreaker article makes the same injunction claim.[^ref-23]
+The legal fight around the game is better remembered than the game itself. Atari, which had paid for the home rights to Pac-Man, sent cautionary letters to publishers including On-Line Systems, then, per Retro365, obtained a temporary restraining order covering both Gobbler and *Jawbreaker*.[^ref-3][^ref-25] On-Line Systems filed an antitrust suit, and Atari countersued, with Midway joining in.[^ref-3] According to Retro365, the Atari and Midway infringement claims "were tossed out of court, appealed, and then dismissed again," and the parties settled out of court. The protection that resulted covered "the Pac-Man name and its characters but not its gameplay and mechanics."[^ref-3] Filfre's account centres the courtroom fight on *Jawbreaker*: the judge applied the "ten-foot rule" and refused Atari's motion for a preliminary injunction against it.[^ref-16] *Computer Gaming World* reported in early 1982 (issue 2.1), citing On-Line Systems, that "Atari has lost a preliminary injunction against the distribution of JAWBREAKER."[^ref-19] *Softline* (January 1982) says the Fresno issues were Gobbler and Jawbreaker, and that, as in a separate Chicago case over Magnavox's K.C. Munchkin, the federal judge found no reason to grant Atari's request for an injunction; the refusal it describes is for the sale of Jawbreaker, and it does not mention a restraining order, which rests on Retro365 alone.[^ref-20] Warped Factor words it more broadly, saying Atari "unsuccessfully sought an injunction against the sale of Jawbreaker and Gobbler," and Wikipedia's Jawbreaker article makes a similar claim.[^ref-11][^ref-23]
 
 Accounts of the wider effect differ. Filfre credits Atari's "legal muscling" with drying up blatant clones of popular arcade games.[^ref-16] Retro365, by contrast, argues that the outcome left the home market "saturated with countless more or less questionable clones."[^ref-3]
 
@@ -166,7 +166,7 @@ Ken Williams himself was ambivalent. After the judge refused Atari's injunction 
 
 **Database Entries**
 - [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/)[^ref-7]
-- [LaunchBox Games Database – Gobbler](https://gamesdb.launchbox-app.com/games/details/84965-gobbler)[^ref-17] Additional clone-era context and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13]
+- [LaunchBox Games Database – Gobbler](https://gamesdb.launchbox-app.com/games/details/84965-gobbler)[^ref-17]
 
 
 ## See Also
@@ -207,13 +207,11 @@ Ken Williams himself was ambivalent. After the judge refused Atari's injunction 
 
 [^ref-12]: [Wikipedia – List of Pac-Man Clones](https://en.wikipedia.org/wiki/List_of_Pac-Man_clones) – clone listing
 
-[^ref-13]: [Pac-Man Wiki – History of Pac-Man Clones](https://pacman.fandom.com/wiki/History_of_Pac-Man_clones_and_bootlegs/Original_games_featuring_Pac-Man) – clone history, Atari copyright litigation
-
 [^ref-16]: [The Digital Antiquarian – This Game Is Over](https://www.filfre.net/2012/04/this-game-is-over/) – Gobbler already on the Apple II when Jawbreaker shipped; judge refused Atari's preliminary injunction against Jawbreaker under the ten-foot rule; Ken Williams quote
 [^ref-17]: [LaunchBox Games Database – Gobbler](https://gamesdb.launchbox-app.com/games/details/84965-gobbler) – release date August 15, 1981; keyboard or joystick; three lives; ten-second energizer; scoring; slightly different maze
 [^ref-18]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – formerly On-Line Systems and Sierra On-Line, founded in 1979 by Ken and Roberta Williams
 [^ref-19]: [Computer Gaming World Issue 2.1 (1982), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Industry News: "According to John Williams of On-Line Systems, Atari has lost a preliminary injunction against the distribution of JAWBREAKER."
-[^ref-20]: [Softline, January 1982 (Internet Archive)](https://archive.org/details/Softline_1982_01) – Tommervik, "The Great Arcade/Computer Controversy": On-Line "distributed Gobbler in the Apple market and Jawbreaker in the Atari market"; Atari's injunction request in Fresno; judge found no reason to grant it; high-score table lists Gobbler (On-Line Systems), 182,203
+[^ref-20]: [Softline, January 1982 (Internet Archive)](https://archive.org/details/Softline_1982_01) – Tommervik, "The Great Arcade/Computer Controversy": On-Line "distributed Gobbler in the Apple market and Jawbreaker in the Atari market"; Atari's injunction request in Fresno; judge found no reason to grant Atari's request for an injunction against the sale of Jawbreaker (Gobbler and Jawbreaker were the Fresno issues); high-score table lists Gobbler (On-Line Systems), 182,203
 [^ref-21]: [Gobbler (4am and san inc crack), Internet Archive](https://archive.org/details/Gobbler4amCrack) – documentation text only: action, 1981, credits Olaf Lubeck, publisher On-Line Systems, Apple ][ 48K, 5.25-inch disk, 1 side, DOS 3.2, Sierra protection check
 [^ref-22]: [James Hague – The Giant List of Classic Game Programmers](https://dadgum.com/giantlist/) – "Lubeck, Olaf": Gobbler (1981, AP2, On-Line) Pac-Man-like; Duck Hunter (1980, TRS, SoftSide)
 [^ref-23]: [Wikipedia – Jawbreaker (video game)](https://en.wikipedia.org/wiki/Jawbreaker_(video_game)) – Apple II port by Olaf Lubeck; Atari unsuccessfully sought an injunction against Jawbreaker and Gobbler
