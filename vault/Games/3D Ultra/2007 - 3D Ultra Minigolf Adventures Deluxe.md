@@ -10,21 +10,22 @@ series: 3-D Ultra Minigolf
 engine: Unknown
 protagonist: Hector, Rosie, Joe, or Kate (player-selected)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: '*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf
-  game developed by Wanako Games and published by Activision, released on July 23,...'
+  game developed by Wanako Games and published by Activision, released on July 23,
+  2009 for Windows PC via Steam, combining the 2006 game with its Lost Island expansion.'
 tags: [2000s, 3-d-ultra-minigolf, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures Deluxe
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 *3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf game developed by Wanako Games and published by Activision, released on July 23, 2009 for Windows PC via Steam[^ref-1][^ref-2][^ref-21]. The game represents the culmination of the long-running 3-D Ultra Minigolf series, which began with the original *3D Ultra Minigolf* developed by Dynamix and published by Sierra in 1997[^ref-3][^ref-4]. This Deluxe edition combines content from *3D Ultra Minigolf Adventures* (released December 20, 2006) with its *Lost Island* expansion pack (released July 25, 2007) for a comprehensive minigolf experience[^ref-20].
 
-The game offers players 36 challenging holes across three distinct themed environments—Classic Carnival, Wild West, and Outer Space—along with an additional 18 holes from the Lost Island expansion, totaling 54 holes of gameplay[^ref-20]. Demo disks sold for one dollar apiece at Taco Bell restaurants from May 24 to June 27, 2007 each previewed four holes of one of the game's themes[^ref-19]. Players can choose from four playable characters, each featuring distinctive personalities and animations, and compete in matches for up to four players[^ref-7][^ref-12]. The game features carefully crafted 3D courses with sweeping panoramic views, mind-bending course designs, elevated greens, bunkers, bridges, and water hazards among other creative obstacles[^ref-7].
+The hole count is reported differently by different sources. The Steam store text and Kotaku describe 36 holes across three themes (Classic Carnival, Old West and Outer Space)[^ref-16][^ref-7], while Sierra Chest lists those 36 holes plus 18 from the Lost Island expansion, totaling 54[^ref-20]. Demo disks sold for one dollar apiece at Taco Bell restaurants from May 24 to June 27, 2007 each previewed four holes of one of the game's themes[^ref-19]. Players can choose from four playable characters, each featuring distinctive personalities and animations, and compete in matches for up to four players[^ref-7][^ref-12]. The game features carefully crafted 3D courses with sweeping panoramic views, mind-bending course designs, elevated greens, bunkers, bridges, and water hazards among other creative obstacles[^ref-7].
 
 What sets *3D Ultra Minigolf Adventures Deluxe* apart from typical minigolf games is its creative game additions, including over-the-top power-ups and imaginative traps that keep gameplay exciting and unpredictable[^ref-7]. The game also includes a customizable course editor, allowing players to build their own course designs by mixing and matching combinations of tees, straights, corners, cups, junctions, and ramps[^ref-7]. On Steam the game holds a "Mostly Positive" rating, with 70% of its 117 user reviews positive as of October 2026[^ref-16].
 
@@ -101,7 +102,7 @@ The development history of *3D Ultra Minigolf Adventures Deluxe* traces back to 
 
 ### Production
 
-Wanako Games, a Chilean developer[^ref-23], eventually completed development of the title, releasing it as *3D Ultra Minigolf Adventures* on December 20, 2006 for Windows PC and April 18, 2007 for Xbox 360[^ref-3][^ref-16]. The majority of the original *Minigolf Maniacs* content was preserved in the final product, with graphical tweaks to existing holes, replacement of the original animal characters with human players, and additional hole designs[^ref-20].
+Wanako Games, a Chilean developer[^ref-23], eventually completed development of the title, releasing it as *3D Ultra Minigolf Adventures* on December 20, 2006 for Windows PC and April 18, 2007 for Xbox 360[^ref-3][^ref-24]. The majority of the original *Minigolf Maniacs* content was preserved in the final product, with graphical tweaks to existing holes, replacement of the original animal characters with human players, and additional hole designs[^ref-20].
 
 The original unfinished *Minigolf Maniacs* has since received a fan completion in collaboration with the original Dynamix developers, released as freeware in 2007[^ref-3]. The *Lost Island* expansion pack was released for Xbox Live on July 25, 2007, adding an 18-hole course[^ref-24].
 
@@ -136,10 +137,10 @@ The course editor represents a significant technical feature, allowing players t
 |---------|------|----------|-------|
 | 3D Ultra Minigolf | May 1997 | Windows | Original release, 18 holes[^ref-3] |
 | 3D Ultra Minigolf Deluxe | July 1998 | Windows | 27 holes, online play[^ref-3][^ref-15] |
-| 3D Ultra Minigolf Adventures | December 20, 2006 | Windows | Wanako Games release, 36 holes[^ref-3][^ref-16] |
+| 3D Ultra Minigolf Adventures | December 20, 2006 | Windows | Wanako Games release, 36 holes per the Steam store text[^ref-16]; date per Wikipedia[^ref-24] |
 | 3D Ultra Minigolf Adventures | April 18, 2007 | Xbox 360 | Console release[^ref-3] |
 | Lost Island Expansion | July 25, 2007 | Xbox 360 (Xbox Live) | 18 additional holes; later bundled in the Steam Deluxe edition[^ref-24][^ref-13] |
-| 3D Ultra Minigolf Adventures Deluxe | July 23, 2009 | Windows (Steam) | Combined package, 54 holes[^ref-1][^ref-20] |
+| 3D Ultra Minigolf Adventures Deluxe | July 23, 2009 | Windows (Steam) | Combined package; Sierra Chest lists 54 holes, Steam store text says 36[^ref-1][^ref-20][^ref-16] |
 
 ### Promotional Materials
 
@@ -164,7 +165,7 @@ While the full version supports up to 4 players head-to-head, the demo version o
 
 ### Sales and Commercial Impact
 
-No official sales figures have been published. The third-party tracker Raijin estimated about 3.6K Steam units sold and about 5.55K wishlists as of October 2026; these are model estimates, not reported sales[^ref-2]. The Xbox 360 version of *3D Ultra Minigolf Adventures* (not the Deluxe edition) has remained available on the Microsoft Store at a price point of CAD $4.99[^ref-9].
+No official sales figures have been published. The third-party tracker Raijin estimated about 3.6K Steam units sold and about 5.59K wishlists as of November 11, 2026; these are model estimates, not reported sales[^ref-2]. The Xbox 360 version of *3D Ultra Minigolf Adventures* (not the Deluxe edition) has remained available on the Microsoft Store at a price point of CAD $4.99[^ref-9].
 
 ### Collections
 
@@ -187,7 +188,7 @@ The original *Minigolf Maniacs* project that was abandoned when Dynamix closed i
 
 ### GOG Community Interest
 
-The game has a listing on GOG's Dreamlist with 69 votes (as of October 2026) from users hoping to see the title added to the GOG catalog; no user stories had been posted there[^ref-6].
+The game has a listing on GOG's Dreamlist from users hoping to see the title added to the GOG catalog; no user stories had been posted there[^ref-6].
 
 ## Downloads
 
@@ -218,7 +219,7 @@ The game has a listing on GOG's Dreamlist with 69 votes (as of October 2026) fro
 ## References
 
 [^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details
-[^ref-2]: [Raijin.gg – 3D Ultra Minigolf Adventures Reviews](https://raijin.gg/app/10140/3D_Ultra_Minigolf_Adventures_Deluxe/reviews) – estimated units sold and wishlists (third-party estimates, read October 27, 2026), Steam release date
+[^ref-2]: [Raijin.gg – 3D Ultra Minigolf Adventures Reviews](https://raijin.gg/app/10140/3D_Ultra_Minigolf_Adventures_Deluxe/reviews) – estimated units sold and wishlists (third-party estimates, read November 11, 2026), Steam release date
 [^ref-3]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, development, releases, GameSpot review
 [^ref-4]: [Dynamix Fandom Wiki – 3-D Ultra (series)](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – series games list, compilations, release dates
 [^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details
