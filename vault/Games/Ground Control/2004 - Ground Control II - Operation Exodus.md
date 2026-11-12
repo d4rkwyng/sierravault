@@ -3,14 +3,14 @@ title: 'Ground Control II: Operation Exodus'
 release_year: 2004
 developer: Massive Entertainment
 designer: [Henrik Sebring]
-publisher: Vivendi Universal Games
+publisher: 'Vivendi Universal Games (released under the Sierra Entertainment brand)'
 genre: Real-Time Tactics
 platforms: [Microsoft Windows, macOS]
 series: Ground Control
 engine: Asura / MassTech
 protagonist: Captain Jacob Angelus
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Ola Strandh]
 description: 'Ground Control II: Operation Exodus is a real-time tactics video game
   developed by Massive Entertainment and published by Vivendi Universal Games in 2004....'
@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control II: Operation Exodus
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Ground Control II was notable for its innovative approach to the RTS genre, thro
 > [!info]- Game Info
 > **Developer:** [[Massive Entertainment]][^ref-1]
 > **Designer:** Henrik Sebring[^ref-1]
-> **Publisher:** Vivendi Universal Games[^ref-1]
+> **Publisher:** Vivendi Universal Games (released under the Sierra Entertainment brand)[^ref-1][^ref-40]
 > **Engine:** Asura / MassTech[^ref-9]
 > **Platforms:** Microsoft Windows, macOS[^ref-10]
 > **Release Year:** 2004
@@ -55,11 +55,11 @@ The story unfolds across 24 squad-based missions, split evenly between the NSA a
 
 Ground Control II features a fully 3D graphics engine with a rotational camera system that allows players to view the battlefield from any angle[^ref-1]. The interface prioritizes tactical control over resource management, with all commands focused on directing units in combat rather than constructing buildings or gathering materials[^ref-1]. Players control their forces from an overhead perspective, with the ability to zoom in close enough to see individual soldier details or pull back for a strategic overview[^ref-18].
 
-The game utilizes a line-of-sight system where players can only see enemies when their units are close enough to detect them, adding an element of fog-of-war that makes reconnaissance and positioning crucial[^ref-19]. GameSpot wrote that the free-form camera "will take some getting used to" and that "novice RTS gamers may find it entirely unwieldy"[^ref-6]. Units can be grouped and assigned formations, with contextual commands available based on the situation.
+The game utilizes a line-of-sight system where players can only see enemies when their units are close enough to detect them, adding an element of fog-of-war that makes reconnaissance and positioning crucial[^ref-19]. GameSpot wrote that the free-form camera "will take some getting used to" and that "novice RTS gamers may find it entirely unwieldy"[^ref-6]. Units can be grouped and assigned formations[^ref-26], with contextual commands available based on the situation.
 
 ### Structure and Progression
 
-The single-player campaign consists of 24 missions divided into two campaigns: 12 missions for the NSA and 12 missions for the Virons[^ref-17]. The game supports cooperative campaign play: GameSpot says the single-player missions can be played in cooperative mode with up to three players[^ref-6], while MobyGames' description lists 4-player co-operative and 8-player competitive multiplayer modes[^ref-9]. Progression is linear, with players unlocking new missions as they complete objectives. The campaign features varied mission types, including direct combat engagements and stealth-style operations[^ref-20].
+The single-player campaign consists of 24 missions divided into two campaigns: 12 missions for the NSA and 12 missions for the Virons[^ref-17]. The game supports cooperative campaign play: GameSpot says the single-player missions can be played in cooperative mode with up to three players[^ref-6], while MobyGames' description lists 4-player co-operative and 8-player competitive multiplayer modes[^ref-9]. Progression is linear[^ref-6], with players unlocking new missions as they complete objectives. The campaign features varied mission types, including direct combat engagements and stealth-style operations[^ref-20].
 
 - **NSA Campaign (12 missions):** Players command Captain Jacob Angelus and human forces defending against the Terran Empire invasion
 - **Viron Campaign (12 missions):** Players experience the conflict from the alien perspective, utilizing unique melding technology[^ref-17]
@@ -101,9 +101,9 @@ The Metacritic breakdown shows 39 positive reviews (83%), 7 mixed reviews (15%),
 
 ### Origins
 
-Ground Control II was officially announced on February 25, 2003, by "Massive Entertainment and NDA Productions, a Vivendi Universal studio"[^ref-2]; the game was originally going to be published through Vivendi Universal's NDA Productions division[^ref-1]. The game was conceived as a direct sequel to the original Ground Control, which had helped usher in "the new age of fully 3D real-time strategy games" with "quality and style"[^ref-5].
+Ground Control II was officially announced on February 25, 2003, by "Massive Entertainment and NDA Productions, a Vivendi Universal studio"[^ref-2]; the game was originally going to be published through Vivendi Universal's NDA Productions division[^ref-1]. Massive had become a Vivendi studio on 3 October 2002, when Vivendi Universal Games announced its acquisition by NDA Productions[^ref-43]. The game was conceived as a direct sequel to the original Ground Control, which had helped usher in "the new age of fully 3D real-time strategy games" with "quality and style"[^ref-5].
 
-The sequel is set some 300 years after the original game[^ref-2]. The original factions—Crayven Corporation and the Order of the New Dawn—no longer exist in the sequel's timeline, replaced by the Northern Star Alliance and the Terran Empire[^ref-5]. The NSA deliberately bases its technology on "anything proven and dependable, using standard projectile weapons instead of the more complicated beam weapons, just like Crayven Corporation did a long time ago"[^ref-12].
+The sequel is set some 300 years after the original game[^ref-2]. Sources differ on the time gap: the Ground Control fan wiki and Wikipedia say the story starts 320 years after the original game[^ref-11][^ref-1], while GameSpot's announcement and MobyGames put 2741 roughly 300 years later[^ref-2][^ref-9]. The original factions—Crayven Corporation and the Order of the New Dawn—no longer exist in the sequel's timeline, replaced by the Northern Star Alliance and the Terran Empire[^ref-5]. The NSA deliberately bases its technology on "anything proven and dependable, using standard projectile weapons instead of the more complicated beam weapons, just like Crayven Corporation did a long time ago"[^ref-12].
 
 ### Production
 
@@ -117,10 +117,10 @@ The game was originally slated for release "later this year" when announced in e
 
 **Development Credits:**[^ref-9][^ref-42]
 - **Producers:** Martin Walfisz (credited on MobyGames as CEO & Executive Producer) and Carl Fransson (credited as Project Manager)[^ref-1][^ref-42]
-- **Lead Game Designer:** Henrik Sebring
+- **Lead Game Designer:** Henrik Sebring[^ref-42]
 - **Artists:** Tobias Strömvall and Pär Green (credited as Lead Artists)[^ref-1][^ref-42]
 - **Programmers:** Niklas Hansson and Johannes Norneby (credited as Lead Software Engineers)[^ref-1][^ref-42]
-- **Composer:** Ola Strandh
+- **Composer:** Ola Strandh (credited as Music And Sound)[^ref-42]
 - **Voice Director:** Eric Weiss[^ref-15]
 
 The development involved approximately 270 credited personnel across all departments[^ref-9]. The game featured extensive voice work recorded under the direction of Eric Weiss, with a cast of professional voice actors bringing the characters to life[^ref-15].
@@ -184,8 +184,8 @@ The game employed Bink Video for cutscenes, Miles Sound System for audio, and Ga
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0.0.6 | May 7, 2004 | Windows | Initial release version[^ref-31] |
-| 1.0.0.7 | June 16-23, 2004 | Windows | Added automatic content download, record & replay, GameSpy Arcade support, new GUI options[^ref-31] |
+| 1.0.0.6 | README dated May 7, 2004 | Windows | Initial release version, with retail sales from June 2004[^ref-31][^ref-40] |
+| 1.0.0.7 | June 16-23, 2004 | Windows | Added automatic content download, record & replay, GameSpy Arcade support, new GUI options[^ref-31][^ref-14] |
 | 1.0.0.8 | October 4, 2004 | Windows | Added space key for last event, dedicated server auto-kick, various bug fixes and balance changes[^ref-31] |
 | Special Edition | June 18, 2004 | Windows | Includes making-of DVD with developer interviews, artwork, and trailers[^ref-32] |
 | macOS Release | April 23, 2013 | macOS | First Mac version[^ref-10] |
@@ -219,7 +219,7 @@ The game includes several cheat codes:[^ref-35]
 - **GOMASSIVE:** Unlocks all missions
 - **FPS:** Shows the frame rate
 
-Sources differ on the time gap: the Ground Control fan wiki and Wikipedia say the story starts 320 years after the original game[^ref-11][^ref-1], while GameSpot's announcement and MobyGames put 2741 roughly 300 years later[^ref-2][^ref-9]. The NSA's reliance on conventional projectile weapons rather than beam weapons is a direct narrative callback to the Crayven Corporation's philosophy from the first game[^ref-12].
+The NSA's reliance on conventional projectile weapons rather than beam weapons is a direct narrative callback to the Crayven Corporation's philosophy from the first game[^ref-12].
 
 Character dialogue includes memorable exchanges between Captain Angelus and Sergeant Rho, such as:[^ref-28]
 - "Better be careful, Rho, we don't want to get spotted down here." - Captain Jacob Angelus
@@ -322,3 +322,4 @@ Massive Entertainment went on to develop World in Conflict (2007); Ubisoft bough
 [^ref-40]: [MobyGames – Ground Control II: Operation Exodus Releases](https://www.mobygames.com/game/14351/ground-control-ii-operation-exodus/releases/) – regional release dates and publishers, Steam release
 [^ref-41]: [GamesIndustry.biz – Ubisoft acquires Massive Entertainment (James Lee, 11 Nov 2008)](https://www.gamesindustry.biz/ubisoft-acquires-massive-entertainment) – "Publisher picks up personnel and rights to World in Conflict franchise from Activision-Blizzard"
 [^ref-42]: [MobyGames – Ground Control II: Operation Exodus Credits](https://www.mobygames.com/game/14351/ground-control-ii-operation-exodus/credits/) – Massive Entertainment credits: producers, lead artists, lead software engineers
+[^ref-43]: [SPOnG – Vivendi Universal Publishing announces the acquisition of a Sweden based development studio: Massive Entertainment (3 Oct 2002, Wayback)](https://web.archive.org/web/20241202102130/https://spong.com/press_release/4636/Vivendi-Universal-Publishing-announces-the-acquisition-of-a-Sweden-based-development-studio-Massive-Entertainment) – acquisition of Massive by NDA Productions
