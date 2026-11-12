@@ -10,7 +10,7 @@ series: Gray Matter
 engine: null
 protagonist: Samantha Everett
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: Gray Matter is a supernatural point-and-click adventure game created
   by designer Jane Jensen, her first adventure game in over a decade after Gabriel
   Knight 3.
@@ -18,13 +18,13 @@ tags: [2010s, adventure, jane-jensen, sierra]
 ---
 # Gray Matter
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Gray Matter is a supernatural point-and-click adventure game created by designer Jane Jensen, her first adventure game in over a decade after Gabriel Knight 3: Blood of the Sacred, Blood of the Damned (1999)[^ref-1]. The game follows American street magician Samantha Everett, who takes refuge at the English manor of neurobiologist Dr. David Styles after her motorbike breaks down in a storm[^ref-2]. Gray Matter "tackles questions concerning the nature of reality and the power of the human mind in constructing the world we take for granted"[^ref-3].
 
-The game's road to release was long. Adventure Gamers described Jensen's effort to get it made as "an odyssey that has taken seven years, two major publishers, two different developers, and numerous release delays"[^ref-1]. First announced at E3 2003 as "Project Jane-J" through The Adventure Company, it was officially "put on hold" in May 2004, revived by dtp entertainment's ANACONDA label in 2006, with Jensen slated to unveil it at the Games Convention in Leipzig that August, and moved from Hungarian developer Tonuzaba to French studio Wizarbox in 2008[^ref-21][^ref-47][^ref-4][^ref-36]. It was released in Germany on 12 November 2010 and in North America and Europe in February 2011[^ref-6]. Adventure Gamers praised Jensen's trademark storytelling but said that "an overall lack of polish keeps it from meeting the massive expectations of an instant classic"[^ref-1].
+The game's road to release was long. Adventure Gamers described Jensen's effort to get it made as "an odyssey that has taken seven years, two major publishers, two different developers, and numerous release delays"[^ref-1]. First announced at E3 2003 as "Project Jane-J" through The Adventure Company, it was officially "put on hold" in May 2004, revived by dtp entertainment's ANACONDA label in 2006, with Jensen slated to unveil it at the Games Convention in Leipzig that August, and moved from Hungarian developer Tonuzaba to French studio Wizarbox in 2008[^ref-21][^ref-47][^ref-4][^ref-36]. Release was staggered by country: Germany, Austria and Switzerland on 12 November 2010, France on 2 December 2010, Italy on 27 January 2011, the United States on 22 February 2011 and the United Kingdom on 25 February 2011[^ref-49][^ref-50][^ref-6]. (Gamersyde's October 2010 announcement had also named Italy for 2 December, while MobyGames lists 27 January 2011 for the Italian release.) Adventure Gamers praised Jensen's trademark storytelling but said that "an overall lack of polish keeps it from meeting the massive expectations of an instant classic"[^ref-1].
 
 Adventure Classic Gaming called it "a game that can easily measure up against the best of what the genre can offer"[^ref-44], while The A.V. Club praised it as "the best traditional adventure game in a decade"[^ref-6][^ref-48]. Metacritic aggregated the PC version to a score of 72/100 based on 27 critic reviews[^ref-7].
 
@@ -34,7 +34,7 @@ Adventure Classic Gaming called it "a game that can easily measure up against th
 > **Publisher:** dtp entertainment; Viva Media (North America)[^ref-3]
 > **Engine:** Not documented (Direct3D 9 renderer)[^ref-8]
 > **Platforms:** Microsoft Windows, Xbox 360[^ref-6]
-> **Release Year:** 2010 (Germany); 2011 (North America, Europe)[^ref-6]
+> **Release Year:** 2010 (Germany, Austria, Switzerland, France); 2011 (Italy, United States, United Kingdom)[^ref-49][^ref-50]
 > **Series:** Gray Matter
 > **Protagonist:** Samantha Everett
 > **Sierra Lineage:** Spiritual Successor
@@ -113,7 +113,13 @@ Reviewers were critical of the voice work. Choicest Games found that "the emphas
 
 ### Music and Sound
 
-The soundtrack was composed by Robert Holmes, Jane Jensen's husband, who also wrote the Gabriel Knight scores[^ref-1][^ref-38]. Vocal tracks are performed by The Scarlet Furies, an indie band whose members include Holmes and his daughter Raleigh Holmes[^ref-1][^ref-38]. Adventure Gamers singled out the band's songs, especially the lead track "Safe in Arms"[^ref-1].
+The soundtrack was composed by [[Robert Holmes]], Jane Jensen's husband, who also wrote the Gabriel Knight scores[^ref-1][^ref-38]. Vocal tracks are performed by The Scarlet Furies, an indie band whose members include Holmes and his daughter Raleigh Holmes[^ref-1][^ref-38]. Adventure Gamers singled out the band's songs, especially the lead track "Safe in Arms"[^ref-1].
+
+According to a March 2010 dtp entertainment press release, Jensen, Holmes and dtp teamed up with Periscope Studio, a Hamburg sound company, which arranged Holmes's compositions and designed the game's sound effects and background atmospheres, while Jensen and Holmes kept control of the music and sound production. The soundtrack was inspired by 1970s science-fiction film scores, relying on synthesizers rather than orchestral sound, and Periscope produced 17 music tracks plus 10 very short tracks tied to the player's actions[^ref-51].
+
+### Development Credits
+
+MobyGames' credits list Wizarbox SARL as developer and dtp entertainment AG as publisher. Additional development is credited to Cranberry Production GmbH; additional graphics to Rocketbox Studios, 3D Brigade Hungary, DAMI Digital and Original Force; cutscenes to Phuong Hoang Enix and ClockStone Softwareentwicklung; motion capture to Rocketbox Studios and 3D Brigade Hungary; sound to Periscope Studio; and middleware to RAD Game Tools. Spiders SARL is credited with porting the Xbox 360 version[^ref-50]; Wikipedia's infobox likewise lists Spiders as developer of the Xbox 360 version[^ref-6].
 
 ### Technical Achievements
 
@@ -123,7 +129,7 @@ Gray Matter combines static, prerendered Oxford environments with 3D character m
 
 ### Platform Availability
 
-Gray Matter was released for Windows and Xbox 360[^ref-6]. Viva Media handled North American distribution[^ref-3], and Noviy Disk is also listed as a publisher[^ref-41]. A Steam release followed on April 1, 2014, and the game remains on sale there[^ref-10]. It was also sold on GOG.com but has since been delisted[^ref-42].
+Gray Matter was released for Windows and Xbox 360[^ref-6]. Viva Media handled North American distribution[^ref-3], and Noviy Disk is also listed as a publisher[^ref-41]. A Steam release followed on April 1, 2014, and the game was still on sale there at $9.99 USD when checked on November 11, 2026[^ref-10]. It was also sold on GOG.com; as of the same check, the GOG store address for the game redirects to the general catalogue, and the game is no longer listed[^ref-42][^ref-52].
 
 ### Sequel
 
@@ -131,7 +137,7 @@ Jensen had envisioned a long series[^ref-9], but no sequel has been released. Gr
 
 ### Jane Jensen's Continuing Work
 
-On April 5, 2012, Jensen and Robert Holmes announced Pinkerton Road Studio and launched a Kickstarter campaign to fund its first year of development[^ref-46]. In 2014 the studio released Moebius: Empire Rising and Gabriel Knight: Sins of the Fathers 20th Anniversary Edition, but sales were too poor for the company to continue[^ref-46].
+On April 5, 2012, Jensen and [[Robert Holmes]] announced Pinkerton Road Studio and launched a Kickstarter campaign to fund its first year of development[^ref-46]. In 2014 the studio released Moebius: Empire Rising and Gabriel Knight: Sins of the Fathers 20th Anniversary Edition, but sales were too poor for the company to continue[^ref-46].
 
 ## Technical Specifications
 
@@ -148,8 +154,8 @@ On April 5, 2012, Jensen and Robert Holmes announced Pinkerton Road Studio and l
 ## Downloads
 
 **Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/260570/Gray_Matter/) (available; $9.99 USD as of October 2026)[^ref-10]
-- GOG.com (delisted)[^ref-42]
+- [Steam](https://store.steampowered.com/app/260570/Gray_Matter/) (available; $9.99 USD, checked November 11, 2026)[^ref-10]
+- GOG.com (delisted; checked November 11, 2026)[^ref-42][^ref-52]
 
 ## See Also
 
@@ -190,7 +196,7 @@ On April 5, 2012, Jensen and Robert Holmes announced Pinkerton Road Studio and l
 [^ref-17]: [Grave Noise (formerly GBHBL) – Gray Matter (Xbox 360) review](https://www.gravenoisemedia.com/gray-matter-review-xbox-360/) – 7/10, puzzle difficulty
 [^ref-18]: Adventure Gamers Preview *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – No pixel-hunting gameplay design
 [^ref-19]: [GameFAQs Guide](https://gamefaqs.gamespot.com/xbox360/997937-gray-matter/faqs/62036) – Interactive elements highlighting feature
-[^ref-21]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/gray-matter/) – Character perspective alternation and development history
+[^ref-21]: [Hardcore Gaming 101 (Archived June 2024)](https://web.archive.org/web/20240621230038/http://www.hardcoregaming101.net/gray-matter/) *(the live site was in maintenance mode on 2026-11-11)* – Character perspective alternation and development history
 [^ref-22]: [GameSpot Review (PC)](https://www.gamespot.com/reviews/gray-matter-review/1900-6301045/) – Jane Douglas, 7/10; eight chapters, puzzle critique
 [^ref-23]: [IGN](https://www.ign.com/articles/2011/04/27/gray-matter-review) – Review score
 [^ref-24]: [PC Gamer](https://www.pcgamer.com/gray-matter-review/) – Review score
@@ -210,3 +216,7 @@ On April 5, 2012, Jensen and Robert Holmes announced Pinkerton Road Studio and l
 [^ref-46]: [Wikipedia – Jane Jensen](https://en.wikipedia.org/wiki/Jane_Jensen_(video_game_designer)) – Pinkerton Road Studio, Kickstarter, 2014 releases
 [^ref-47]: [Adventure Gamers – Jane Jensen's Gray Matter revived (Archived June 2025)](https://web.archive.org/web/20250604223513/https://adventuregamers.com/news/view/20105) – Jack Allin, August 16, 2006: "Project Jane-J" "put on hold" in May 2004; ANACONDA to publish; unveiling at the Games Convention in Leipzig
 [^ref-48]: [The A.V. Club – Gray Matter review (Archived October 2012)](https://web.archive.org/web/20121011021221/http://www.avclub.com/articles/gray-matter,53074/) – Rowan Kaiser: "it's the best traditional adventure game in a decade"
+[^ref-49]: [Gamersyde – Gray Matter on time for Christmas](https://www.gamersyde.com/news_gray_matter_on_time_for_christmas-10098_en.html) – Driftwood, October 19, 2010: France, Spain and Italy on December 2, Germany, Switzerland and Austria on November 12, UK in February 2011
+[^ref-50]: [MobyGames – Credits](https://www.mobygames.com/game/49129/gray-matter/credits/) *(read via the MobyGames API)* – Per-country release dates (Germany/Austria/Switzerland 2010-11-12, Italy 2011-01-27, United States 2011-02-22, United Kingdom 2011-02-25); development credits including Spiders SARL (Xbox 360 port) and Periscope Studio (sound)
+[^ref-51]: [AFJV – Unique soundtrack for Jane Jensen adventure game Gray Matter](https://jeuvideo.afjv.com/news/801_gray_matter.htm) – dtp entertainment press release (March 2010) on Periscope Studio's arrangements, sound effects and 17 music tracks
+[^ref-52]: [GOG.com – Gray Matter store address](https://www.gog.com/en/game/gray_matter) – Checked 2026-11-11: redirects to the general GOG games catalogue (no product page)
