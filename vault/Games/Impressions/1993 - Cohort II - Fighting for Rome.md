@@ -10,7 +10,7 @@ series: Cohort
 engine: Unknown
 protagonist: Roman/Barbarian Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: 'Cohort II: Fighting for Rome is a 1993 real-time tactics game by Impressions
   Games for DOS, Amiga and Atari ST, a VGA upgrade of Cohort that can resolve the battles
   of Impressions'' Caesar.'
@@ -18,13 +18,13 @@ tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Cohort II: Fighting for Rome is a real-time tactics game[^ref-8] developed and published by [[Impressions Games]] in 1993 for DOS, Amiga, and Atari ST platforms[^ref-1]. Set during the period of approximately 200 BC to 200 AD, the game places players in command of Roman legions or barbarian hordes in tactical battles[^ref-2]. As a sequel to the original Cohort: Fighting for Rome (1991), the game was an upgrade of its predecessor's graphics (to VGA) and gameplay[^ref-3][^ref-22].
+Cohort II: Fighting for Rome is a real-time tactics game[^ref-8] published by [[Impressions Games]] in 1993 for DOS, Amiga, and Atari ST platforms[^ref-1]. MobyGames credits Impressions as developer, while Lemon Amiga and Atarimania credit Micro Miniatures as developer of the Amiga and ST versions[^ref-1][^ref-10][^ref-31]. Set during the period of approximately 200 BC to 200 AD, the game places players in command of Roman legions or barbarian hordes in tactical battles[^ref-2]. As a sequel to the original Cohort: Fighting for Rome (1991), the game was an upgrade of its predecessor's graphics (to VGA) and gameplay[^ref-3][^ref-22].
 
-The game was designed as part of an interlocking game system module with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within Cohort II[^ref-1][^ref-22]. Home of the Underdogs' write-up (reproduced on MyAbandonware) recommended it "for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Contemporary magazine scores were mostly mediocre to poor, ranging from 28% to 68%[^ref-5][^ref-10].
+The game was designed as part of an interlocking game system module with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within Cohort II[^ref-1][^ref-22]. Home of the Underdogs' write-up (reproduced on MyAbandonware) recommended it "for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Contemporary magazine scores were mostly mediocre to poor, ranging from 28% to 75%[^ref-5][^ref-10][^ref-31].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -75,12 +75,13 @@ Cohort II received mostly negative to mediocre reviews, particularly in the Amig
 
 The lowest score came from the German magazine **Amiga Joker**, which awarded 28% in its May 1993 issue, reviewed by Manfred Duy[^ref-10][^ref-11]. Its review complained of "ruckelndes Scrolling und eine sehr, sehr zögerliche Mausabfrage" (translated: jerky scrolling and a very, very sluggish mouse response)[^ref-4]. The game was priced at DM 79,00 in Germany[^ref-11].
 
-**ST Format** was more favorable for the Atari ST version, awarding 68% in its July 1993 issue (#47). Reviewer Rob Mead called it "an involving, but complicated, war game which is unfortunately let down by its graphics and control mechanism"[^ref-5], adding that "the sprites move around in that jerky, slow-motion style usually associated with hiccuping tortoises"[^ref-5].
+**ST Format** was more favorable for the Atari ST version, awarding 68% in its June 1993 issue (#47; EGG dates the article 1 July 1993)[^ref-31][^ref-34]. Reviewer Rob Mead called it "an involving, but complicated, war game which is unfortunately let down by its graphics and control mechanism"[^ref-5], adding that "the sprites move around in that jerky, slow-motion style usually associated with hiccuping tortoises"[^ref-5]. **ST Action** rated the Atari ST version higher still, at 75% in its June 1993 issue[^ref-31].
 
-**Magazine scores (Amiga Magazine Rack index and the ST Format scan on Every Game Going):**
+**Magazine scores (Amiga Magazine Rack index, the ST Format scan on Every Game Going, and Atarimania):**
 
 | Magazine | Issue | Platform | Score | Reviewer | Pages |
 |----------|-------|----------|-------|----------|-------|
+| ST Action | June 1993 | Atari ST | 75% | not listed | not listed[^ref-31] |
 | The One Amiga | #56, May 1993 | Amiga | 63% | David Upchurch | 72-73[^ref-24] |
 | Amiga Action | #45, June 1993 | Amiga | 59% | Steve McNally, Nick Merritt | 38-40[^ref-25] |
 | Amiga Format | #47, June 1993 | Amiga | 55% | Paul Tyrrell | 58[^ref-26] |
@@ -88,7 +89,7 @@ The lowest score came from the German magazine **Amiga Joker**, which awarded 28
 | Amiga Force | #7, July 1993 | Amiga | 39% | Ian Osborne | 37[^ref-28] |
 | CU Amiga | June 1993 | Amiga | 35% | Mark Patterson | 63[^ref-29] |
 | Amiga Joker | May 1993 | Amiga | 28% | Manfred Duy | 32[^ref-11] |
-| ST Format | #47, July 1993 | Atari ST | 68% | Rob Mead | 70-71[^ref-5] |
+| ST Format | #47, June 1993 (EGG: 1 July 1993) | Atari ST | 68% | Rob Mead | 70-71[^ref-5][^ref-31][^ref-34] |
 
 ### Modern Assessment
 
@@ -103,7 +104,9 @@ In a Wayback Machine capture of its game page dated 16 October 2024, MobyGames s
 
 ### Origins
 
-Cohort II was developed by [[Impressions Games]], the developer of Caesar[^ref-1]. It is a sequel to the original Cohort, and both games share the subtitle "Fighting for Rome"[^ref-1]. Lemon Amiga credits the Amiga version's development to Micro Miniatures[^ref-10].
+Cohort II was published by [[Impressions Games]], the developer and publisher of Caesar; MobyGames lists Impressions as its developer[^ref-1]. It is a sequel to the original Cohort, and both games share the subtitle "Fighting for Rome"[^ref-1]. Lemon Amiga credits the Amiga version's development to Micro Miniatures, and Atarimania credits the Atari ST version to Micro Miniatures as well[^ref-10][^ref-31].
+
+Computer Gaming World's July 1993 issue noted that "Cohort 2 has just come out"[^ref-32], and an August 1993 advertisement for Caesar said its battles could be fought out "using a much enhanced version of Impressions' Cohort (Cohort II will be available separately)"[^ref-33].
 
 The game was part of an interlocking game system module with Caesar, which allowed the user to "drop down" and play out the tactical battles[^ref-3][^ref-22]. MobyGames notes that owners of Caesar "can link up the two games and resolve Caesar's city battles within Cohort II"[^ref-1]; Amiga Format described it as linkable to Caesar "as a datadisk"[^ref-4].
 
@@ -114,6 +117,12 @@ Amiga Power credits Edward Grabowski, Andrew Prime and Jeffrey Von Brakenton as 
 **Development Credits:**[^ref-4]
 - **Designers:** Edward Grabowski, Andrew Prime, Jeffrey Von Brakenton
 
+**Atari ST Credits (Atarimania):**[^ref-31]
+- **Developer:** Micro Miniatures
+- **Coders:** Andrew Prime, Edward Grabowski
+- **Graphics:** Guillame Camus, Jon Baker, Jeffrey Von Brakenton
+- **Music and sound effects:** Christopher Denman
+
 ### Technical Achievements
 
 The most notable change in Cohort II was the upgrade to VGA graphics[^ref-3]. The DOS version uses the AIL / Miles Sound System sound engine[^ref-1]. The publisher's description claimed the computer opponent "will vary them depending on how the battle progresses"[^ref-2], though the Old-Games.com review found that "the computer plays predictably and changes tactics rarely"[^ref-7].
@@ -121,7 +130,11 @@ The most notable change in Cohort II was the upgrade to VGA graphics[^ref-3]. Th
 ### Technical Specifications
 
 **DOS Version:**[^ref-3]
+- **Minimum CPU:** Intel 80286[^ref-1]
+- **Minimum OS:** PC/MS-DOS 3.2[^ref-1]
+- **Minimum RAM:** 640 KB[^ref-1]
 - **Graphics:** VGA
+- **Sound:** AdLib, Sound Blaster[^ref-1]
 - **Media:** 3.5" Floppy Disk[^ref-1]
 - **Input:** Mouse[^ref-1]
 - **File Size:** 612 KB[^ref-3]
@@ -137,6 +150,9 @@ The most notable change in Cohort II was the upgrade to VGA graphics[^ref-3]. Th
 **Atari ST Version:**[^ref-17]
 - **Region:** Europe
 - **Release Year:** 1993
+- **Hardware:** ST, STe, TT; 0.5 MB[^ref-31]
+- **Disks:** 2, double sided[^ref-31]
+- **Languages:** English, French, German[^ref-31]
 
 ### Technical Issues
 
@@ -209,7 +225,7 @@ Cohort II was a modest sequel whose reception was largely negative. While the ga
 
 ## References
 
-[^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, sound engine, Moby Score, trivia
+[^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, DOS minimum requirements (read via the MobyGames API), sound engine, Moby Score, trivia
 [^ref-2]: [Internet Archive – Cohort II (1993)](https://archive.org/details/msdos_Cohort_2_1993) – release year, platforms, publisher's game description (from MobyGames)
 [^ref-3]: [MyAbandonware – Cohort II](https://www.myabandonware.com/game/cohort-ii-1ll) – user rating, file sizes, Home of the Underdogs review text
 [^ref-4]: [Amiga Reviews Archive – Cohort 2](https://amigareviews.leveluphost.com/cohort2.htm) – review texts from Amiga Format, Amiga Joker (German), Amiga Power and CU Amiga; credits, specs
@@ -217,7 +233,7 @@ Cohort II was a modest sequel whose reception was largely negative. While the ga
 [^ref-7]: [Old-Games.com – Cohort II](https://www.old-games.com/download/5154/cohort-ii-a-k-a) – Old-Games.com review: control issues, AI, scenario editor
 [^ref-8]: [Wikidata – Cohort II](https://www.wikidata.org/wiki/Q29867340) – genre classification as real-time tactics
 [^ref-9]: [Squakenet – Cohort 2: Fighting for Rome](https://www.squakenet.com/game/cohort-2-fighting-for-rome/) – retrospective opinion
-[^ref-10]: [Lemon Amiga – Cohort II](https://www.lemonamiga.com/games/details.php?id=272) – review scores, reviewer names, issues, average rating, Amiga developer, hardware, languages
+[^ref-10]: [Lemon Amiga – Cohort II](https://www.lemonamiga.com/game/cohort-2-fighting-for-rome) – review scores, reviewer names, issues, average rating, Amiga developer, hardware, languages
 [^ref-11]: [Amiga Magazine Rack Archive](https://amr.abime.net/review_25092) – Amiga Joker review, German pricing
 [^ref-12]: [MobyGames – Cohort II Reviews](https://www.mobygames.com/game/2914/cohort-ii/reviews/) – aggregate critic and player scores
 [^ref-13]: [GameFAQs – Cohort II (PC)](https://gamefaqs.gamespot.com/pc/980540-cohort-ii) – user ratings
@@ -231,4 +247,8 @@ Cohort II was a modest sequel whose reception was largely negative. While the ga
 [^ref-27]: [Amiga Magazine Rack – Amiga Power #26 review](https://amr.abime.net/review_1291) – 52%, Mark Winstanley, June 1993, p. 67
 [^ref-28]: [Amiga Magazine Rack – Amiga Force #7 review](https://amr.abime.net/review_6378) – 39%, Ian Osborne, July 1993, p. 37
 [^ref-29]: [Amiga Magazine Rack – CU Amiga review](https://amr.abime.net/review_4084) – 35%, Mark Patterson, June 1993, p. 63
-[^ref-30]: [CU Amiga #40 (June 1993), full-text scan – Internet Archive](https://archive.org/details/cuamiga-magazine-040) – Cohort II review, p. 63: "There are 16 preset scenarios", "chucked together on a wet weekend", signed Mark Patterson
+[^ref-30]: [CU Amiga #40 (June 1993), full-text scan – Internet Archive](https://archive.org/details/cuamiga-magazine-040) – Cohort II review, p. 63 per AMR and Lemon Amiga (the issue's printed contents list 66): "There are 16 preset scenarios", "chucked together on a wet weekend", signed Mark Patterson
+[^ref-31]: [Atarimania – Cohort II - Fighting for Rome (Atari ST)](https://www.atarimania.com/games/atari-st-games-cohort-ii-fighting-for-rome-8952) – Atari ST developer, coders, graphics, music, hardware, disks, languages; ST Format 68% and ST Action 75% (both June 1993)
+[^ref-32]: [Computer Gaming World #108 (July 1993) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_108) – p. 106: "Cohort 2 has just come out"
+[^ref-33]: [Computer Gaming World #109 (August 1993) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_109) – Caesar advertisement: "Cohort II will be available separately"
+[^ref-34]: [ST Format #47 Cover Disk (June 1993) – Internet Archive](https://archive.org/details/st-format-47-cover-disk-june-1993) – item title gives the issue's cover date as June 1993
