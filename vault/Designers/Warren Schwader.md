@@ -21,11 +21,11 @@ Beginning with arcade-style action games like [[1981 - Threshold|Threshold]], wh
 
 ### Early Years and Apple II Pioneering (1977–1980)
 
-Warren Schwader's introduction to computers came in 1977, when his older brother bought one of the first Apple II computers.[^ref-retro365] Schwader later called him "my older disabled brother."[^ref-halcyon] Schwader became his brother's "extended hands," and the machine soon captured his fascination.[^ref-retro365]
+Warren Schwader's introduction to computers came in 1977, when his older brother bought one of the first Apple II computers.[^ref-retro365] Schwader became his brother's "extended hands," and the machine soon captured his fascination.[^ref-retro365]
 
 He worked at the Parker Pen Company, where he rose to machinist apprentice and wrote programs on paper between machine cycles.[^ref-halcyon] His early games included Bustout, a Breakout game that came first, and then Smash-Up, a clone of the arcade game Head On.[^ref-retro365][^ref-halcyon] He struggled for two years to learn hi-res graphics and assembly language with no tutorials beyond Apple's own technical manual.[^ref-halcyon] He sold the games on cassette, "a couple hundred total."[^ref-halcyon]
 
-When Parker Pen closed his division, he lived on severance and unemployment pay while writing a "real computer program." After his mother died, he cared for his disabled older brother and continued work on his cribbage game.[^ref-halcyon] An avid cribbage player who often lacked opponents, he wrote the game in the Apple II's built-in mini-assembler, evaluating hands by 12 major rules.[^ref-retro365]
+When Parker Pen closed his division, he set out to write a "real computer program" and continued work on his cribbage game.[^ref-halcyon] An avid cribbage player who often lacked opponents, he wrote the game in the Apple II's built-in mini-assembler, evaluating hands by 12 major rules.[^ref-retro365]
 
 ### On-Line Systems (1980–1983)
 
@@ -41,7 +41,7 @@ Schwader also contributed "Special Features Development" to [[1982 - Hi-Res Adve
 
 The video game crash of 1983–1984 left Sierra "about a dollar away from closing its doors." As a freelancer, Schwader did not lose a job, but "no matter how good my new games were they turned me down."[^ref-halcyon] His unreleased projects included a jet-pack game inspired by *Major Havoc*, which Sierra turned down. He abandoned a full-color skateboard game himself after about a month, when he "realized that the Apple market had completely died."[^ref-halcyon]
 
-When his savings from Threshold and Sammy Lightfoot ran out in February 1985, Schwader, newly married with a baby on the way, took manual work: body and paint work, then masonry and concrete. As he put it, "We often joked that doing body work was 'computer motivation' for me."[^ref-halcyon]
+In February 1985 Schwader left programming for manual work: body and paint work, then masonry and concrete. As he put it, "We often joked that doing body work was 'computer motivation' for me."[^ref-halcyon]
 
 ### Return to Sierra (1988–1993)
 

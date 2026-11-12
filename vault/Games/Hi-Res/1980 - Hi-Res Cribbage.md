@@ -88,7 +88,7 @@ Modern game databases have preserved information about Hi-Res Cribbage, though r
 
 ### Origins
 
-Hi-Res Cribbage was developed by Warren Schwader during a difficult period in his life. His older brother, whom Schwader calls "my older disabled brother,"[^ref-5] had bought one of the first Apple II computers in 1977, which introduced Schwader to programming.[^ref-6] After his mother died, Schwader took care of his brother, and the money he received from the state for that care let him keep working on the cribbage game.[^ref-5]
+Hi-Res Cribbage was developed by Warren Schwader. His older brother had bought one of the first Apple II computers in 1977, which introduced Schwader to programming.[^ref-6] Schwader has described writing the cribbage game during a difficult period after his job ended.[^ref-5]
 
 Schwader was getting into cribbage at the time, but he "often didn't have anyone to play against," which led him to write a computer opponent.[^ref-6] The game followed his earlier cassette title Smash-Up, a *Head-On* clone.[^ref-6]
 
