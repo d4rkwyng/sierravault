@@ -10,13 +10,13 @@ series: Aces
 engine: Unconfirmed
 protagonist: German U-boat Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Command Aces of the Deep is the 1995 Windows 95 CD-ROM edition of Dynamix's World War II U-boat simulation Aces of the Deep, adding new textures, SVGA graphics, voice commands and the Expansion Disk missions."
 tags: [1990s, aces, sierra, simulation]
 ---
 # Command Aces of the Deep
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -68,11 +68,11 @@ The simulation demands players "confront most of the same operational dilemmas r
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | Computer Gaming World | 5/5 | Kevin Turner, November 1995 (issue #136)[^ref-22] |
-| Génération 4 | 74% | October 1995 review (issue #81)[^ref-22][^ref-35] |
+| Génération 4 | 74% | October 1995 "Test Express" short review (issue #81)[^ref-35] |
 | Subsim | 83/100 | March 1996 review as updated October 1999[^ref-18] |
 | MobyGames | 87% | Average of 6 critic ratings[^ref-7] |
 
-Génération 4 noted the improved SVGA graphics but questioned whether Windows 95 alone justified reissuing an already-aging game, and found that the English version tested recognized only half of the spoken orders[^ref-35][^ref-22]. Subsim's reviewer likewise "couldn't get it to work reliably," while still calling the game "the best of all U-boat sims"[^ref-18].
+Génération 4 noted the improved SVGA graphics but questioned whether Windows 95 alone justified reissuing an already-aging game, and found that the English version tested recognized only half of the spoken orders[^ref-35]. Subsim's reviewer likewise "couldn't get it to work reliably," while still calling the game "the best of all U-boat sims"[^ref-18].
 
 The original 1994 DOS release, [[1994 - Aces of the Deep|Aces of the Deep]], earned its own separate accolades, including a place at #71 in Computer Gaming World's November 1996 "150 Best Games of All Time" list; those honors belong to that earlier game rather than to this Windows edition[^ref-6].
 
@@ -96,11 +96,11 @@ MobyGames credits 69 people on the Windows version, with music by Jan Paul Moorh
 
 ### Expansion Content
 
-Earlier in 1995 Sierra released Aces of the Deep: Expansion Disk for the DOS original, adding six new historical missions, access to the Mediterranean Sea and a prototype Type XXI U-boat[^ref-19]. Command Aces of the Deep integrated that expansion, including the Type XXI and Type XXIII U-boats[^ref-6]. Subsim noted the Type XXI was built late in the war and "too late to become operational in large numbers"[^ref-18].
+Earlier in 1995 Sierra released Aces of the Deep: Expansion Disk for the DOS original, adding six new historical missions, access to the Mediterranean Sea and a prototype Type XXI U-boat[^ref-19]. Command Aces of the Deep integrated that expansion, including, per Wikipedia, the Type XXI and Type XXIII U-boats[^ref-6]. Subsim noted the Type XXI was built late in the war and "too late to become operational in large numbers"[^ref-18].
 
 ### Technical Achievements
 
-Computer Gaming World's 1995 review listed the requirements as a 486-33 (486-66 recommended, Pentium recommended for voice recognition), 8 MB of RAM (12 MB recommended), 256-color SVGA, Windows 95, CD-ROM and a Sound Blaster-compatible card, and said the game "works only with that updated operating system"[^ref-34]. Subsim's 1999 update lists Windows 95/98, a 486 (Pentium recommended) and 16MB of RAM[^ref-18]. The Command manual gives install steps for both Windows 95 and Windows 3.1 (installing Microsoft Win32s and WinG under 3.1, with speech recognition limited to Windows 95)[^ref-33], and the box listed Windows 3.1, but a printed insert from Sierra said the game would only run on Windows 95[^ref-7].
+Computer Gaming World's 1995 review listed the requirements as a 486-33 (486-66 recommended, Pentium recommended for voice recognition), 8 MB of RAM (12 MB recommended), 256-color SVGA, Windows 95, CD-ROM and a Sound Blaster-compatible card, and said the game "works only with that updated operating system"[^ref-34]. The review's information box gave the price as $55.95, listed the protection as "None (runs without CD after installation)" and named Mike Jones and Langdon Beeck as the designers (CGW lists only those two)[^ref-34]. Turner noted that players could have the crew fire the deck gun or climb down from the bridge and fire it manually[^ref-34], and found that his 486-66 with 8 MB of RAM was probably not adequate for the voice recognition feature[^ref-34]. Subsim's 1999 update lists Windows 95/98, a 486 (Pentium recommended) and 16MB of RAM[^ref-18]. The Command manual gives install steps for both Windows 95 and Windows 3.1 (installing Microsoft Win32s and WinG under 3.1, with speech recognition limited to Windows 95)[^ref-33], and the box listed Windows 3.1, but a printed insert from Sierra said the game would only run on Windows 95[^ref-7].
 
 The voice recognition feature was meant to launch a series of "Command" games from Sierra/Dynamix using voice as a control type, but the idea was scrapped due to lackluster sales[^ref-7]. Subsim found the game's sounds prone to cutting out and sometimes lapsing entirely[^ref-18]; the original DOS Aces of the Deep is known for an incompatibility with Sound Blaster Live cards[^ref-29]. The on-line manual covers U-boat history and features historical maps, movies, photos and articles[^ref-6].
 
@@ -139,7 +139,7 @@ MobyGames lists the game as included in *Aces: Collection Series* (1997) and *Le
 [^ref-10]: [GGMania Strategy Guide](https://www.ggmania.com/gimmecheat.php?cheat=292) – Career start in Bremen, eight time periods, historical accuracy
 [^ref-12]: [Free Game Empire](https://www.freegameempire.com/games/Aces-of-the-Deep) – Allied ships and coordination improving as the game progresses
 [^ref-13]: [Classic Reload](https://classicreload.com/aces-of-the-deep.html) – "Highly randomized and replayable" Career Mode
-[^ref-14]: [Sierra Gamers](https://www.sierragamers.com/aces-of-the-deep/) – Time slots and "rolls up" mission generation
+[^ref-14]: [Sierra Gamers](https://www.sierragamers.com/aces-of-the-deep/) ([archived July 2026](http://web.archive.org/web/20260715201949/https://www.sierragamers.com/aces-of-the-deep/)) – Time slots and "rolls up" mission generation
 [^ref-18]: [SUBSIM Review](https://www.subsim.com/ssr/commandaces.html) – Requirements (Win95/98, 486, 16MB), 83 rating (originally reviewed March 1996, updated October 1999), Type XXI, voice recognition, sound cut-outs
 [^ref-19]: [Dynamix Fandom Wiki - Expansion Disk](https://dynamix.fandom.com/wiki/Aces_of_the_Deep:_Expansion_Disk) – Expansion Disk content (missions, Mediterranean, Type XXI)
 [^ref-20]: [Tally Ho Corner](https://tallyhocorner.com/2024/11/review-reprise-aces-of-the-deep/) – Operational challenges simulation approach
@@ -150,5 +150,5 @@ MobyGames lists the game as included in *Aces: Collection Series* (1997) and *Le
 [^ref-31]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Sierra On-Line bought Dynamix in 1990
 [^ref-32]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists "Aces of the Deep", its Expansion Disk and "Command: Aces of the Deep" among games with an unknown or unnamed engine
 [^ref-33]: [Command: Aces of the Deep Manual (Internet Archive)](https://archive.org/stream/Command_Aces_Of_The_Deep_-_Manual/Command_Aces_Of_The_Deep_-_Manual_djvu.txt) – Install steps for Windows 95 and Windows 3.1 (Win32s/WinG); speech recognition Windows 95 only
-[^ref-34]: [Computer Gaming World #136, November 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_136) – Kevin Turner, "A Sub With Windows", p. 372: system requirements, Windows 95 only, voice commands, pros and cons
-[^ref-35]: [Génération 4 #81, October 1995 (Internet Archive)](https://archive.org/details/generation4-magazine-081) – Command: Aces of the Deep capsule review, p. 155: improved SVGA graphics, reissue questioned, half of spoken English orders recognized
+[^ref-34]: [Computer Gaming World #136, November 1995 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_136) – Kevin Turner, "A Sub With Windows", p. 372: system requirements, price, protection, designers, deck gun, 8 MB and voice recognition, Windows 95 only, pros and cons
+[^ref-35]: [Génération 4 #81, October 1995 (Internet Archive)](https://archive.org/details/generation4-magazine-081) – Command: Aces of the Deep capsule review, p. 155: "Test Express" short review, 74%, improved SVGA graphics, reissue questioned, half of spoken English orders recognized
