@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Spinoff
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Ricochet is a multiplayer disc-throwing arena game developed and published
   by Valve, released on November 1, 2000 as a free official mod for the Sierra-published
   Half-Life and sold on Steam since 2003.
@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Players jump between neon-lit platforms suspended above an abyss and throw discs
 Sierra did not publish Ricochet. Steam, SteamDB and MobyGames all list Valve as both developer and publisher.[^ref-7][^ref-19][^ref-13] Its link to Sierra is indirect: it was an official mod for Half-Life, which Sierra published.[^ref-23] The Sierra Connection section below sets out what the records do and don't show.
 
 > [!info]- Game Info
-> **Developer:** Valve[^ref-1][^ref-7]
+> **Developer:** [[Valve Corporation|Valve]][^ref-1][^ref-7]
 > **Designer:** Robin Walker[^ref-1][^ref-21]
 > **Publisher:** Valve[^ref-7][^ref-13]
 > **Engine:** GoldSrc[^ref-1]
@@ -68,7 +68,7 @@ Four powerups modify the disc for a limited number of throws:[^ref-8][^ref-18]
 - **Power Shot** makes every hit a decapitation.
 - **Triple Shot** throws three discs at once.
 
-Unused models in the game files point to two cut powerups, "curve" and "visual"; the code for "visual", which would have shown disc trajectories, survives in the Half-Life SDK.[^ref-3]
+Unused models in the game files point to two cut powerups, "curve" and "visual"; the code for "visual", which would have shown disc trajectories, survives in the Half-Life SDK.[^ref-3] See Trivia and Cut Content below.
 
 ### Interface and Controls
 
@@ -82,14 +82,14 @@ Ricochet was a side project by Robin Walker, made to demonstrate how quickly and
 
 ### Release and Distribution
 
-Valve released Ricochet as a free Half-Life mod on November 1, 2000.[^ref-1][^ref-7] It was later included in Half-Life's 1.1.1.0 update,[^ref-1][^ref-16][^ref-25] which Valve released on June 12, 2002.[^ref-9]
+Valve released Ricochet as a free Half-Life mod on November 1, 2000, the Windows date given by Steam, the Valve Developer Community and MobyGames.[^ref-1][^ref-7][^ref-13] The Cutting Room Floor and PCGamingWiki list November 14, 2000 instead, which is the date Sierra's Half-Life: Counter-Strike retail box reached stores.[^ref-3][^ref-15][^ref-23] It was later included in Half-Life's 1.1.1.0 update,[^ref-1][^ref-16][^ref-25] which Valve released on June 12, 2002.[^ref-9] The Mac and Linux versions arrived with Valve's July 31, 2013 Steam update;[^ref-22] MobyGames, Wikipedia and The Cutting Room Floor date them August 1, 2013.[^ref-13][^ref-16][^ref-3]
 
 ### Version History
 
 | Version | Date | Notes |
 |---------|------|-------|
 | 1.0 | November 1, 2000 | Free mod release[^ref-1] |
-| Half-Life 1.1.1.0 | June 12, 2002 | Ricochet included in the Half-Life update[^ref-1][^ref-9] |
+| Half-Life 1.1.1.0 | June 12, 2002 | Ricochet included in the Half-Life update[^ref-1][^ref-16]; date per Shacknews[^ref-9] |
 | Steam | September 12, 2003 | Standalone Steam release[^ref-13][^ref-18] |
 | Steam beta | March 29, 2013 | Opt-in beta adding Linux and OS X support[^ref-27] |
 | Steam update | July 31, 2013 | Mac OS X and Linux support, SteamPipe conversion, Cloud saves[^ref-22][^ref-18] |
@@ -114,6 +114,10 @@ Sierra's connection to Ricochet was indirect. Sierra published Half-Life, and Ri
 There is one open question. MobyGames lists Ricochet among the contents of Sierra's Half-Life: Counter-Strike retail compilation, and PCGamingWiki repeats that in a note.[^ref-24][^ref-15] No period box, manual or Sierra announcement found for this page confirms it, so whether Ricochet was on that disc or arrived later through an update is unconfirmed.
 
 The Cutting Room Floor also lists Sierra Studios as a publisher, but the Sierra news item it cites doesn't name Ricochet.[^ref-3][^ref-23]
+
+## Trivia and Cut Content
+
+The game files contain a nearly complete female player model, alongside the one player model used in the game. It does not support colour changing and lacks a unique decapitated head gib.[^ref-3] The thrown disc also has a viewmodel that is never shown in play; it can be switched on with the console command `r_drawviewmodel 1` and turns out to be a copy of the Half-Life grenade.[^ref-3] The models for the cut "curve" and "visual" powerups are reused Team Fortress Classic models, a soccer ball and a present.[^ref-3]
 
 ## Reception
 
@@ -141,7 +145,7 @@ Ricochet remains on sale on Steam, alone or in the Counter-Strike 1 Anthology an
 
 ### Ricochet: Source
 
-Ricochet: Source is a fan remake for the Source engine. ModDB lists an alpha build dated December 2007, an alpha 1.1 release in January 2010, a revival announcement in February 2015, and Early Access in January 2024.[^ref-12]
+Ricochet: Source is a fan remake for the Source engine. ModDB lists an alpha build dated 12/11/2007 (day and month order not stated), uploaded on May 31, 2008, an alpha 1.1 release in January 2010, a revival announcement in February 2015, and Early Access in January 2024.[^ref-12]
 
 ## Technical
 
@@ -155,10 +159,19 @@ Ricochet runs on Valve's GoldSrc engine, the engine behind Half-Life, and was wr
 - 500 MHz processor
 - 96 MB RAM
 - 16 MB video card
+- Windows XP
+
+**Recommended (Windows, Steam):**[^ref-7]
+- 800 MHz processor
+- 128 MB RAM
+- 32 MB or better video card
+- Windows XP
+
+**Languages (Steam):** English, French, German, Italian, Spanish (Spain), Korean, Russian, Simplified Chinese and Traditional Chinese.[^ref-7]
 
 ### Compatibility
 
-The Steam version supports macOS (OS X Snow Leopard 10.6.3 or later) and Linux (Ubuntu 12.04).[^ref-7] PCGamingWiki notes that the macOS release does not work on macOS Catalina (10.15) or later, which dropped 32-bit app support.[^ref-15] Steam lists Valve Anti-Cheat (VAC) and Family Sharing support.[^ref-7]
+The Steam version supports macOS (OS X Snow Leopard 10.6.3 or later) and Linux (Ubuntu 12.04).[^ref-7] PCGamingWiki notes that the macOS release does not work on macOS Catalina (10.15) or later, which dropped 32-bit app support.[^ref-15] Steam lists Valve Anti-Cheat (VAC) and Family Sharing support, and its Steam Deck compatibility rating is "Playable".[^ref-7]
 
 ## Purchase
 
@@ -188,15 +201,15 @@ SteamDB records a lowest-ever discount of 90% off.[^ref-19] Owners of retail Hal
 
 ## References
 
-[^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Developer/publisher Valve, release date, Robin Walker side project, 1.1.1.0 inclusion, Steam pricing and grandfathering, maps
+[^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Developer/publisher Valve, release date, Robin Walker side project, 1.1.1.0 inclusion, grandfathering of retail Half-Life owners, maps
 [^ref-2]: [ModDB - Ricochet](https://www.moddb.com/games/ricochet) - Mod database entry and community projects
 [^ref-3]: [The Cutting Room Floor - Ricochet](https://tcrf.net/Ricochet) - "Black sheep" quote, unused powerups and content; lists Sierra Studios as publisher, citing a Sierra news item that doesn't name Ricochet
 [^ref-6]: [Steam Community Guide - Ricochet Master's Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=137883201) - Fan guide (2013, updated 2023): scoring, HUD, Discs of Tron suggestion; the page now shows a community-moderation removal notice
-[^ref-7]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) - Developer and publisher Valve, release date, user reviews, system requirements, bundles, VAC, Family Sharing
+[^ref-7]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) - Developer and publisher Valve, release date, user reviews, minimum and recommended system requirements, languages, Steam Deck "Playable" rating, bundles, VAC, Family Sharing
 [^ref-8]: [Ricochet Wiki - Powerups](https://ricochet.fandom.com/wiki/Powerups) - Fast, Freeze, Power and Triple Shot effects
-[^ref-9]: [Shacknews - Half-Life/Counter-Strike Updates](https://www.shacknews.com/article/20930/half-lifecounter-strike-updates) - June 12, 2002 report of Valve's Half-Life 1.1.1.0 update
+[^ref-9]: [Shacknews - Half-Life/Counter-Strike Updates](https://www.shacknews.com/article/20930/half-lifecounter-strike-updates) - Dated June 12, 2002 report of Valve's Half-Life 1.1.1.0 update
 [^ref-11]: [Kotaku - Gabe Newell Updates Interviewer On The Status of (Wink, Wink) 'Ricochet 2'](https://kotaku.com/gabe-newell-updates-interviewer-on-the-status-of-wink-5903627) - April 20, 2012; Newell's "Ricochet 2" answer and Luke Plunkett's comment
-[^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake: alpha builds, 2015 revival, Early Access January 2024
+[^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake: alpha build dated 12/11/2007 (day/month order not stated; file uploaded May 31, 2008), alpha 1.1 in January 2010, 2015 revival, Early Access January 2024
 [^ref-13]: [MobyGames - Ricochet](https://www.mobygames.com/game/37983/ricochet/) - Publisher and developer Valve, release dates (Windows 2000, Steam 2003, Mac/Linux 2013), description
 [^ref-15]: [PCGamingWiki - Ricochet](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical information, macOS Catalina incompatibility, note on Half-Life: Counter-Strike retail inclusion
 [^ref-16]: [Wikipedia - List of GoldSrc mods](https://en.wikipedia.org/wiki/List_of_GoldSrc_mods#Ricochet) - Official Valve mod, November 1, 2000 release, 1.1.1.0 inclusion, 2013 OS X/Linux ports
@@ -208,8 +221,8 @@ SteamDB records a lowest-ever discount of 90% off.[^ref-19] Owners of retail Hal
 [^ref-24]: [MobyGames - Half-Life: Counter-Strike](https://www.mobygames.com/game/2726/half-life-counter-strike/) - Sierra On-Line retail compilation; lists Ricochet among its contents
 [^ref-25]: [Wikipedia - Ricochet (2000 video game), revision of December 30, 2016](https://en.wikipedia.org/w/index.php?title=Ricochet_(2000_video_game)&oldid=757488032) - Developed and published by Valve; scoring, decapitation attack, scoreboard, three maps
 [^ref-26]: [Rock Paper Shotgun - Gabe On 'Ricochet 2' Delay. He Doesn't Mean Ricochet. (Alec Meer, April 23, 2012)](https://www.rockpapershotgun.com/gabe-on-ricochet-2-delay-but-he-doesnt-mean-ricochet) - Calls Ricochet a "weirdo Tron-like jumpy multiplayer mod"; quotes Newell: everyone working on Ricochet 2 continues to work on it
-[^ref-27]: [Steam - Ricochet Beta released (March 29, 2013)](https://steamcommunity.com/games/60/announcements/detail/1478591738299315749) - Valve announcement: beta adds Linux and OS X support; text read via the Steam News API
-[^ref-28]: [Steam - Ricochet update released (July 10, 2017)](https://steamcommunity.com/games/60/announcements/detail/2078825132647756368) - Valve announcement: crash and file-write security fixes; text read via the Steam News API
-[^ref-29]: [Steam - Ricochet update released (August 21, 2018)](https://steamcommunity.com/games/60/announcements/detail/2444779293780548611) - Valve announcement: skybox loading and demo command fixes, path and extension restrictions; text read via the Steam News API
+[^ref-27]: [Steam News API - Ricochet Beta released (March 29, 2013)](https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=60&count=50) - API record of Valve's news item (gid 1478591738299315749, appid 60): beta adds Linux and OS X support. The item has no Steam Community announcement page
+[^ref-28]: [Steam - Ricochet update released (July 10, 2017)](https://steamcommunity.com/games/60/announcements/detail/1438188152920712326) - Valve announcement: crash and file-write security fixes
+[^ref-29]: [Steam - Ricochet update released (August 21, 2018)](https://steamcommunity.com/games/60/announcements/detail/1712944354372498719) - Valve announcement: skybox loading and demo command fixes, path and extension restrictions
 [^ref-30]: [GitHub - ValveSoftware/halflife, ricochet folder](https://github.com/ValveSoftware/halflife/tree/master/ricochet) - Ricochet source folder (cl_dll, dlls, pm_shared) in Valve's Half-Life SDK repository
-[^ref-31]: [Steam - Ricochet update released (October 8, 2019)](https://steamcommunity.com/games/60/announcements/detail/2426802221737641332) - Valve announcement: a Half-Life update affects Ricochet through shared resources; text read via the Steam News API
+[^ref-31]: [Steam - Ricochet update released (October 8, 2019)](https://steamcommunity.com/games/60/announcements/detail/1608273623060798801) - Valve announcement: a Half-Life update affects Ricochet through shared resources
