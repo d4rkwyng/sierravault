@@ -10,20 +10,21 @@ series: Casino Deluxe
 engine: Unknown
 protagonist: N/A (Player)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Casino De Luxe is a casino gambling simulation game developed and published
-  by Impressions Games in 1995 for Windows 3.x platforms. Conceived by Impressions...
+  by Impressions Games in 1995 for Windows 3.x. Conceived by Impressions founder David
+  Lester, it collects seven casino games in a single SVGA virtual casino.
 tags: [1990s, casino-deluxe, impressions, sierra]
 ---
 # Casino De Luxe
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Casino De Luxe is a casino gambling simulation game developed and published by [[Impressions Games]] in 1995 for Windows 3.x[^ref-1][^ref-2]. Conceived by Impressions founder [[David Lester]], it collects seven casino games in a single SVGA virtual casino[^ref-3][^ref-14]. The game was marketed as "the best-looking gaming collection on the market," promising to combine "the elegance of Monte Carlo and the fun of Las Vegas"[^ref-5][^ref-6][^ref-22].
 
-Impressions was sold to Sierra On-Line shortly after the game's release, and domestic re-releases and international distribution were published under the Sierra brand[^ref-3]. The original US release, first released in July 1995 according to Sierra Chest, carried Impressions as publisher[^ref-7][^ref-14]; by November 1995 the French magazine Joystick already listed Sierra as its publisher, and the game appeared in Sierra's own Spring 1996 catalog[^ref-17][^ref-16]. The game shipped on CD-ROM[^ref-1][^ref-2].
+Impressions was sold to Sierra On-Line around the time of the game's release, and domestic re-releases and international distribution were published under the Sierra brand[^ref-3]. Computer Game Review's September 1995 issue reported that Impressions products had been distributed in the U.S. by Davidson and Associates until the sale, and that Sierra would begin publishing Impressions titles with Breach 3[^ref-23]. The original US release, first released in July 1995 according to Sierra Chest, carried Impressions as publisher[^ref-7][^ref-14]; by November 1995 the French magazine Joystick already listed Sierra as its publisher, and the game appeared in Sierra's own Spring 1996 catalog[^ref-17][^ref-16]. The game shipped on CD-ROM[^ref-1][^ref-2].
 
 The publisher's description promised "you-are-there-graphics, sound effects, speech AND special on-line gambling strategies"[^ref-5][^ref-6]. A sequel, Casino Deluxe 2, was released in 1996 with Sierra On-Line as publisher[^ref-8].
 
@@ -36,7 +37,7 @@ The publisher's description promised "you-are-there-graphics, sound effects, spe
 > **Release Year:** 1995
 > **Series:** Casino Deluxe
 > **Protagonist:** N/A (Player)
-> **Sierra Lineage:** Sierra Affiliate (Impressions Games)
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 
@@ -140,6 +141,10 @@ The game was first released in July 1995 for Windows 3.x on CD-ROM, according to
 - Mike Lescault
 - Joseph McGuire
 - Edward Pugsley
+- Steven Serafino
+
+*Special Thanks:*
+- Eric Ouellette
 
 ### Technical Achievements
 
@@ -264,3 +269,4 @@ Casino De Luxe was a departure for Impressions, a studio better known for strate
 [^ref-20]: [Computer Gaming World Spain – March 1996 (Issue 4)](https://archive.org/details/computergamingworldspain4/page/n85/mode/2up) – Spanish review, pp. 86–87; "Editor: Sierra / Distribuidor: Cocktel"; lists "el Red Dog Poker" among seven games
 [^ref-21]: [PC Top Player – Issue 11 (Spanish magazine)](https://archive.org/details/pcplayerspain011/page/n39/mode/1up) – Review by V. Sánchez, p. 40; "Sierra / Coktel Ed."; names "Red dog Poker y Pai Gow Poker"; score 61, "La banca te ha robado la diversión"
 [^ref-22]: [Internet Archive – Casino De Luxe back cover scan](https://archive.org/download/casino-de-luxe/scan2-back.jpg) – Sierra-branded box (© 1995 Sierra On-Line): "the best-looking gaming collection on the market"; game list includes Red Dog Poker
+[^ref-23]: [Computer Game Review – September 1995, news item on Sierra's purchase of Impressions](https://archive.org/details/computer-game-review-september-1995) – Impressions products distributed in the U.S. by Davidson and Associates until the transaction; Sierra to begin publishing Impressions titles with Breach 3; David Lester: "We look forward to working together and delivering high quality titles under the Sierra brand name."
