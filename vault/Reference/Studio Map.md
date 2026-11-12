@@ -1,14 +1,14 @@
 ---
 title: "Studio Map"
 type: reference
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: "Every acquired, partner, alumni, and fan studio in the Sierra extended catalogue, with founding date, status, location, parent company, and notable games. The cross-reference for `developer:` and `publisher:` YAML values."
 tags: [reference, studios, developers, publishers]
 ---
 
 # Studio Map
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,6 +29,8 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | Sierra Studios | 1998 (label) | Ended 2001 | — | General publishing label; published Half-Life (1998) and Homeworld (1999)[^ref-1][^ref-63][^ref-64] |
 | Sierra Sports | February 1998 (label) | — | — | Sports label combining the Front Page Sports, Dynamix and Papyrus brands[^ref-71] |
 | Sierra FX | By July 1998 (label; SWAT 2 was its first release)[^ref-113] | — | — | Brand into which Yosemite Entertainment's projects (Middle-earth Online, Navy SEALs, a Babylon 5 space combat simulator) were folded in February 1999[^ref-72] |
+| Sierra Home | 1996 (label) | Ended 2004 | — | Home and lifestyle label, built from Sierra's gardening, home design and cooking software divisions[^ref-1] |
+| Sierra Northwest | By the mid-1990s | — | Bellevue, WA | One of Sierra's autonomous development divisions, grouped under Sierra Studios in 1998 with PyroTechnix and Impressions[^ref-1] |
 
 ## Acquired studios
 
@@ -36,13 +38,15 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 |--------|---------|----------|--------|-----|---------------|
 | [[Dynamix\|Dynamix]] | 1984 | 1990 | Closed August 14, 2001 | Eugene, OR | Stellar 7, Red Baron, Aces, 3-D Ultra, Heart of China, Willy Beamish, Tribes, Starsiege[^ref-59][^ref-1] |
 | [[Bright Star Technology]] | Early 1980s (Wikipedia's Sierra article says 1980) | July 1992[^ref-73][^ref-104] | Subsidiary; merged into Sierra October 29, 1999 (USPTO assignment records)[^ref-103][^ref-105][^ref-106] | Bellevue, WA | Alphabet Blocks, Talking Tutor series[^ref-61][^ref-73][^ref-1] |
-| [[Coktel Vision]] | 1984 | October 1993 | Merged into Mindscape October 2005 | Paris, France | Gobliiins, Inca, Lost in Time, Bizarre Adventures of Woodruff[^ref-18][^ref-1] |
+| [[Coktel Vision]] | 1984 | October 1993 | Sold to Mindscape October 2005 (Wikipedia: "Merged into Mindscape"); Mindscape kept the Coktel brand until 2011 | Paris, France | Gobliiins, Inca, Lost in Time, Bizarre Adventures of Woodruff[^ref-18][^ref-1] |
 | [[Impressions Games]] | 1988 or 1989 (sources differ) | 1995 | Closed 2004 | United Kingdom; US studio in Cambridge, MA | Caesar, Pharaoh, Zeus, Emperor, Lords of the Realm[^ref-19][^ref-74][^ref-75][^ref-1] |
 | [[Papyrus Design Group]] | 1987 | 1995 | Closed by Vivendi Universal Games May 2004; NASCAR Racing 2003 Season copyrights sold to FIRST.net May 28, 2004 | Watertown, MA | NASCAR Racing series, IndyCar Racing, Grand Prix Legends[^ref-60][^ref-76][^ref-1] |
 | [[Synergistic Software]] | 1978 | 1996 | Closed February 22, 1999 | Seattle, WA (Renton offices from 1982) | Thexder 95, Birthright: The Gorgon's Alliance, Diablo: Hellfire[^ref-20][^ref-77][^ref-78][^ref-79][^ref-1] |
-| [[Headgate Studios]] | 1992 | April 1996 | Sold back to founder Vance Cook, reportedly in 1999 (no period source found); later EA Salt Lake; dissolved April 2017 | Bountiful, then Salt Lake City, UT | Front Page Sports: Golf, PGA Championship Golf series[^ref-1][^ref-30][^ref-107][^ref-108] |
+| [[Headgate Studios]] | 1992 | April 1996 | Sold back to founder Vance Cook in 1999 (CBR) or 2000 (Cook's own company summary, as cited on the Headgate Studios page); no period source found; later EA Salt Lake; dissolved April 2017 | Bountiful, then Salt Lake City, UT | Front Page Sports: Golf, PGA Championship Golf series[^ref-1][^ref-30][^ref-107][^ref-108][^ref-114] |
 | PyroTechnix | — | Agreement in principle December 8, 1997 (with the Return to Krondor rights, USD 1.2 million, from 7th Level) | Folded into Sierra's Bellevue headquarters February 1999 | Cincinnati, OH | Return to Krondor[^ref-81][^ref-72] |
-| SubLogic | October 1977 (Bruce Artwick) | All assets bought after the Papyrus deal (reported February 1996) | — | Champaign, IL | Flight Simulator series (pre-Sierra)[^ref-82][^ref-83] |
+| SubLogic | October 1977 (Bruce Artwick) | November 1995 (Seattle Times); Next Generation reported it in February 1996, after the Papyrus deal | — | Champaign, IL | Flight Simulator series (pre-Sierra)[^ref-17][^ref-82][^ref-83] |
+| Arion Software | 1991 (David McDonald) | September 1995 (Seattle Times; the founder sold it to Sierra in May) | Absorbed into Sierra On-Line | Austin, TX | Cooking software; with Green Thumb Software, part of Sierra's 1995 home-productivity push[^ref-17][^ref-1] |
+| Books That Work | — | April 1997 | Folded into Sierra's Bellevue headquarters February 1999 | — | —[^ref-1][^ref-72] |
 
 **CUC acquisitions outside Sierra's founding studio list.** [[Knowledge Adventure|Knowledge Adventure]] (founded 1991; Glendale, CA (1990s), later Torrance) was bought by CUC International, announced November 5, 1996 and completed January 31, 1997; renamed JumpStart Games, it closed July 1, 2023.[^ref-21][^ref-111][^ref-112] [[Berkeley Systems|Berkeley Systems]] (founded 1987, Berkeley, CA; After Dark screensavers) was bought by CUC in April 1997; unlike Knowledge Adventure it was placed under Sierra, with its new general manager to "report to executives at Sierra Online".[^ref-1][^ref-98] Wikipedia says it was folded into iWin.com in early 2000.[^ref-22]
 
@@ -55,7 +59,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | [[Monolith Productions]] | October 25, 1994 | Sierra/VU Games published Aliens versus Predator 2 (2001, with Fox Interactive), No One Lives Forever 2 (2002), Contract J.A.C.K. (2003) and F.E.A.R. (2005) | Closed by Warner Bros. Games in 2025 | Aliens versus Predator 2, No One Lives Forever 2, Contract J.A.C.K., F.E.A.R.[^ref-26][^ref-88][^ref-66][^ref-89][^ref-67] |
 | [[Gearbox Software]] | February 16, 1999 | Sierra published its Half-Life expansions | Active (2K since 2024) | Half-Life: Opposing Force (1999), Blue Shift (2001)[^ref-27][^ref-68][^ref-69] |
 | [[Game Arts]] | March 2, 1985 (Japan) | Sierra published US versions of Thexder (1987), Silpheed (1988) and Fire Hawk (1990) | Active | Thexder, Silpheed, Fire Hawk: Thexder – The Second Contact[^ref-28] |
-| [[Evryware]] | Murry brothers making games together since 1979 | Sierra published 1983–1989 | — | Sierra Championship Boxing (1983), Manhunter: New York, Manhunter 2: San Francisco[^ref-29][^ref-90] |
+| [[Evryware]] | 1979 (the Murry brothers' own count of making games together) or 1980 (formation of the company, per the 1992 manual) | Sierra published 1983–1989 | — | Sierra Championship Boxing (1983), Manhunter: New York, Manhunter 2: San Francisco[^ref-29][^ref-90][^ref-115] |
 | [[Barking Dog Studios]] | May 1998 | Developed Homeworld: Cataclysm (2000) | Acquired by Take-Two August 2002 (Rockstar Vancouver; merged into Rockstar Toronto 2012) | Homeworld: Cataclysm[^ref-31] |
 | [[Stainless Steel Studios]] | October 1997 or January 1998 (sources differ) | Sierra published Empire Earth (2001) | Closed November 2005 | Empire Earth[^ref-32][^ref-91][^ref-92] |
 | [[Massive Entertainment]] | 1997 | Sierra Studios published Ground Control (2000); owned by Vivendi Universal Games 2002–2008 | Active (Ubisoft since 2008) | Ground Control series[^ref-33] |
@@ -78,7 +82,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | [[Phoenix Online Publishing]] | Announced February 20, 2014 | — | — | Publishing label of Phoenix Online Studios[^ref-40] |
 | [[Transolar Games]] | Online as "TranSolar Games" by May 1999 | [[Lori Ann Cole]], [[Corey Cole]] | Active | Hero-U: Rogue to Redemption (2018)[^ref-41][^ref-42] |
 | Guys From Andromeda | — | [[Mark Crowe]], [[Scott Murphy]] | Active | SpaceVenture (full release December 23, 2025)[^ref-43] |
-| Tsunami Media (also called Tsunami Games) | 1991 (Oakhurst, CA) | Edmond Heinbockel, former Sierra CFO | Defunct; published games 1992–1996 | Ringworld: Revenge of the Patriarch, Blue Force (designed by [[Jim Walls]]), Return to Ringworld. Sources differ on the name: Wikipedia and the vault's Blue Force page say "Tsunami Games"; the Fresno Bee (1992) says "Tsunami Media" and The Adventurers Guild "Tsunami Media, Inc."[^ref-95][^ref-96][^ref-97] |
+| Tsunami Media (also called Tsunami Games) | 1991 (Oakhurst, CA) | Edmond Heinbockel, former Sierra CFO | Defunct; published games 1992–1996 | Ringworld: Revenge of the Patriarch, Blue Force (designed by [[Jim Walls]]), Return to Ringworld. Sources differ on the name: Wikipedia and the Wikipedia reference on the Police Quest Series page say "Tsunami Games"; the Blue Force page, the Fresno Bee (1992) and The Adventurers Guild say "Tsunami Media" or "Tsunami Media, Inc."[^ref-95][^ref-96][^ref-97] |
 
 ## Other publishers and developers of Sierra-licensed games
 
@@ -118,12 +122,12 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 
 ## References
 
-[^ref-1]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "Subsidiaries" section (founding, acquisition and closure dates of Bright Star, Berkeley Systems, Coktel, Dynamix, Headgate, Impressions, Synergistic, Papyrus, Yosemite Entertainment; labels Sierra Attractions 1998–2001, Sierra Studios 1998–2001); Bright Star "founded in 1980"; Bellevue headquarters move
+[^ref-1]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "Subsidiaries" section (founding, acquisition and closure dates of Bright Star, Berkeley Systems, Coktel, Dynamix, Headgate, Impressions, Synergistic, Papyrus, Yosemite Entertainment; labels Sierra Attractions 1998–2001, Sierra Studios 1998–2001); Bright Star "founded in 1980"; Bellevue headquarters move; Books That Work "acquired in April 1997, folded into Sierra in February 1999"; Sierra Home label (gardening, home design and cooking divisions); Sierra Northwest among the autonomous divisions and part of Sierra Studios in 1998; "Arion Software was acquired in 1995"
 [^ref-2]: [MobyGames — Sierra Entertainment, Inc. (Moby ID 17)](https://www.mobygames.com/company/17/sierra-entertainment-inc/) — AKA "Sierra On-Line, Inc. (from 1982 to 2001-12)", "On-Line Systems (from 1980-05 to 1982)"; Coarsegold, then Oakhurst (ID checked via Wayback 2024-12-15)
 [^ref-3]: [The Digital Antiquarian — The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — February 22, 1999 layoffs at Oakhurst; "Craig Alexander, the manager of Yosemite Entertainment"
 [^ref-16]: [Sierra On-Line Form 10-K, fiscal 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — business address Bellevue, WA
-[^ref-17]: [The Seattle Times — Sierra's Game Plan (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) — "moved from California to Bellevue two years ago this month"
-[^ref-18]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — founded 1984; defunct October 2005, "Merged into Mindscape"; Paris
+[^ref-17]: [The Seattle Times — Sierra's Game Plan (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) — "moved from California to Bellevue two years ago this month"; acquisitions list: "November 1995: SubLogic Inc., Champaign, Ill." (12 employees); "September 1995: Arion Software Inc., Austin, Texas" (cooking software, 12 employees)
+[^ref-18]: [Wikipedia — Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — founded 1984; defunct October 2005, "Merged into Mindscape"; Mindscape kept the Coktel name until the brand was shut down in 2011; Paris
 [^ref-19]: [Wikipedia — Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) — "a British video game developer founded by David Lester"; infobox founded 1989, Cambridge, Massachusetts; parent Sierra (1995–2004)
 [^ref-20]: [Wikipedia — Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) — founded 1978, Seattle; Renton office from 1982; acquired 1996; closed February 22, 1999
 [^ref-21]: [Wikipedia — JumpStart Games (formerly Knowledge Adventure)](https://en.wikipedia.org/wiki/Knowledge_Adventure) — founded 1991; Torrance; CUC deal announced November 5, 1996, completed January 31, 1997; defunct July 1, 2023
@@ -218,3 +222,5 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-111]: [CUC International — "CUC Completes Knowledge Adventure Acquisition" (3 Feb 1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) — "Knowledge Adventure will remain based in Glendale, California"
 [^ref-112]: [Los Angeles Times — "CUC Will Buy Knowledge Adventure" (6 Nov 1996)](https://www.latimes.com/archives/la-xpm-1996-11-06-fi-61744-story.html) — "Glendale-based Knowledge Adventure will be purchased in a stock deal"
 [^ref-113]: [SWAT 2 news page, swat2.com (Wayback, December 1998)](https://web.archive.org/web/19981207065423/http://www.swat2.com/news/news.html) — "SWAT 2 is the first game to ship under the new Sierra FX brand"; available July 11th, 1998
+[^ref-114]: [CBR — Developers Electronic Arts Bought Then Closed](https://www.cbr.com/developers-electronic-arts-bought-then-closed/) — "Sierra On-Line first acquired Headgate Studios in 1996 before selling it back to founder Vance Cook in 1999"
+[^ref-115]: [The Ancient Art of War in the Skies manual, "A Word from the Authors" (Internet Archive)](https://archive.org/details/ancientartofwarintheskiesmanual) — "Dave and Barry Murry and Joe Gargiulo formed Evryware in 1980"
