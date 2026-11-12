@@ -7,10 +7,10 @@ publisher: [Kalypso Media, Snowberry Connection]
 genre: Puzzle
 platforms: [Windows]
 series: Gobliiins
-engine: Custom 3D
+engine: 3D
 protagonist: Tchoup, Stucco, Perluis
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Didier Sallustro]
 description: Gobliiins 4 is the fourth installment in the beloved puzzle-adventure
   series that began in 1991, marking the franchise's return after more than fifteen years...
@@ -18,7 +18,7 @@ tags: [2000s, gobliiins, puzzle, sierra]
 ---
 # Gobliiins 4
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -32,8 +32,9 @@ The game received mixed reviews upon release, with critics praising its puzzle d
 > **Developer:** Société Pollene[^ref-1]
 > **Designer:** [[Pierre Gilhodes]][^ref-38]
 > **Publisher:** Kalypso Media, Snowberry Connection[^ref-8]
-> **Engine:** Custom 3D Engine[^ref-2]
+> **Engine:** 3D[^ref-1]
 > **Platforms:** Windows[^ref-1]
+> **Composer:** Didier Sallustro[^ref-8]
 > **Release Year:** 2009
 > **Series:** Gobliiins
 > **Protagonist:** Tchoup, Stucco, Perluis
@@ -53,7 +54,7 @@ True to goblin nature, the three protagonists are not especially bright, and eac
 
 Gobliiins 4 is a point-and-click game[^ref-16] built on the classic concept of the first Gobliiins: three characters, each with unique abilities, directed by the player[^ref-13]. The game uses a simple cursor-based interaction system where players select a goblin and then click on objects or characters within the environment to perform that goblin's unique action. Unlike modern adventure games, the title does not feature an integrated hint system—a significant omission that led one reviewer to note "If there is a game that ever needs a hint system, this game will be it!"[^ref-5].
 
-The game utilizes an archaic save system that provides only a single save slot per level, relying on a password code system rather than traditional save files[^ref-15]. This design choice was criticized for feeling outdated, with one reviewer describing it as "very archaic; from the sub-par graphics, the level-by-level gameplay, even the codes used instead of a save file"[^ref-15]. The intrusive auto-save feature and limited save options were noted as sources of frustration[^ref-16].
+The game has no conventional save feature: at the end of each level the player is given a code, which must be entered to resume from that level later[^ref-14][^ref-15]. This design choice was criticized for feeling outdated, with one reviewer describing it as "very archaic; from the sub-par graphics, the level-by-level gameplay, even the codes used instead of a save file"[^ref-15]. Leaving the game before completing a level loses all progress in that level, which one reviewer found "intensely frustrating, especially with levels that contain tricky timed challenges"[^ref-14].
 
 ### Structure and Progression
 
@@ -115,7 +116,7 @@ The development embraced 3D graphics technology while consciously maintaining th
 - **Design, Graphics and Animations:** Pierre Gilhodes
 - **Producer:** François Taupin
 - **Programming:** Vincent L'Hermite
-- **Music:** Didier Sallustro[^ref-8]
+- **Music:** Didier Sallustro[^ref-8]; MobyGames credits him with sound production and credits the original music to "Tonton Didou"[^ref-38]
 - **Animation assistant:** Christian Laly
 - **Thanks:** Muriel Tramis (co-author of the scenarios for the first three Goblins games and of the ergonomics system used in Gobliiins 4)[^ref-38]
 - **Co-produced by:** Snowball Studios and Snowberry Connection[^ref-38]
@@ -148,7 +149,8 @@ The game shipped on a single DVD-ROM disc[^ref-5].
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Original | March 2009 | Windows | Initial retail release[^ref-36][^ref-8] |
+| Russia | 11 March 2009 | Windows | Published by 1C Company and Snowball Studios[^ref-45] |
+| Original | March 2009 | Windows | Retail release[^ref-36][^ref-8] |
 | UK retail | 27 March 2009 | Windows | Announced in the 12 March 2009 press release at a recommended £19.99[^ref-8] |
 | GamersGate | 30 April 2009 | Windows | Digital version at €19.95, in nine languages[^ref-35] |
 | Patch #1 | — | Windows | Czech, Hungarian and Polish patches[^ref-42] |
@@ -165,7 +167,7 @@ The game shipped on a single DVD-ROM disc[^ref-5].
 
 The game exhibited stability problems, with one reviewer noting it could crash during play[^ref-16]. Compatibility issues emerged with newer operating systems, with users reporting that the game would install correctly but fail to launch—appearing in task manager without actually running[^ref-28]. The buggy translations from French to English also drew criticism[^ref-5].
 
-The limited save system proved particularly frustrating, offering only a single save per level through an intrusive auto-save mechanism or password system[^ref-16]. This archaic approach stood in stark contrast to modern gaming conventions and contributed to player frustration.
+The save system also drew complaints: the game offers no conventional saves, only a code given at the end of each level, and quitting mid-level loses that level's progress[^ref-14][^ref-15]. This archaic approach stood in stark contrast to modern gaming conventions and contributed to player frustration.
 
 ### Easter Eggs and Trivia
 
@@ -198,7 +200,7 @@ Series creator Pierre Gilhodes developed Gobliiins 5 (titled "GOBLiiiNS5 - The I
 
 ### Critical Perspective
 
-Reviewers of Gobliiins 4 disagreed sharply on how well its faithfulness to the original formula held up. Adventure Gamers recommended it to "any point-and-click adventurer" who does not play only for story[^ref-6], while GameStar judged that "today a game like this needs a real story, characters and some more functions"[^ref-6]. Critics who disliked it pointed to the single-save-per-level password system and the lack of a hint system[^ref-15][^ref-5]. Review scores on Metacritic ranged from 91/100 to 11/100[^ref-6]. As one reviewer noted, "The characters and situations seem tailored to a child's demographic, whilst the game requires the iron will and stubbornness of an adult to solve"[^ref-15].
+Reviewers of Gobliiins 4 disagreed sharply on how well its faithfulness to the original formula held up. Adventure Gamers recommended it to "any point-and-click adventurer" who does not play only for story[^ref-6], while GameStar judged that "today a game like this needs a real story, characters and some more functions"[^ref-6]. Critics who disliked it pointed to the level-code system used in place of save files and the lack of a hint system[^ref-15][^ref-5]. Review scores on Metacritic ranged from 91/100 to 11/100[^ref-6]. As one reviewer noted, "The characters and situations seem tailored to a child's demographic, whilst the game requires the iron will and stubbornness of an adult to solve"[^ref-15].
 
 Gilhodes went on to make Gobliiins 5, released in 2023 under the Schnibble Productions label[^ref-7], and Gobliins 6 in 2026[^ref-46].
 
@@ -260,7 +262,7 @@ Gilhodes went on to make Gobliiins 5, released in 2023 under the Schnibble Produ
 [^ref-42]: [The Patches Scrolls – Gobliiins 4](https://www.patches-scrolls.com/gobliiins4.php) – Russian 1.01, Czech/Hungarian/Polish patches
 [^ref-43]: [GOG Wishlist – Gobliiins 4 (Wayback, 2018)](https://web.archive.org/web/20180716170227/https://www.gog.com/wishlist/games/gobliiins_4) – fan comments dated Aug. 22, 2014 and Jun. 25, 2015
 [^ref-44]: [Gematsu – Gobliiins Collection announced for PS5, Xbox Series, and Switch; now available](https://www.gematsu.com/2026/05/gobliiins-collection-announced-for-ps5-xbox-series-and-switch-now-available) – May 27, 2026 collection, "first 3D instalment"
-[^ref-45]: [MobyGames – Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) – MobyScore 6.3 (14 votes), read via the MobyGames API
-[^ref-46]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – Gobliins 6 release date 13 Feb 2026, read via the Steam appdetails API
+[^ref-45]: [MobyGames – Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) – MobyScore 6.3 (14 votes), 11 March 2009 Russian release
+[^ref-46]: [Steam – GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – Gobliins 6 release date 13 Feb 2026
 [^ref-47]: [GOG.com – Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) – Gobliiins, Gobliins 2 and Goblins Quest 3, $5.99
 [^ref-48]: [Netto's Game Room – Gobliiins Collection now available](https://www.nettosgameroom.com/2026/05/gobliiins-collection-now-available-on.html) – physical PS5 editions set for 24 September 2026
