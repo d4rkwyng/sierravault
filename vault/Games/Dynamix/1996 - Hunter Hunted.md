@@ -10,14 +10,14 @@ series: k.a.a.
 engine: Proprietary (Windows/DirectX)
 protagonist: Jake / Garathe Den
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Hunter Hunted is a side-scrolling action computer game developed by Dynamix
   under its k.a.a. label and published by Sierra On-Line in November 1996.
 tags: [1990s, dynamix, k.a.a., sierra]
 ---
 # Hunter Hunted
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ Sierra's InterAction magazine presented k.a.a. as a group of rebel developers wh
 > **Release Year:** 1996
 > **Series:** k.a.a. (tied to the Earthsiege universe)
 > **Protagonist:** Jake (Human) / Garathe Den (Beast)
-> **Sierra Lineage:** Dynamix
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
@@ -91,7 +91,7 @@ MobyGames contributor Tomer Gabel called it "an innovative platform game with ma
 One Reddit player posted in 2023 about finally finishing the game 27 years after first owning it on CD-ROM[^ref-9].
 
 **Aggregate Scores:**
-- **MobyGames:** Moby Score 7.1; critics 69% (21 ratings)[^ref-27]
+- **MobyGames:** Moby Score 7.1; critics 70% (22 ratings, checked November 11, 2026)[^ref-27]
 - **IMDB:** 8.2/10[^ref-14]
 - **MyAbandonware (user rating):** 4.64/5[^ref-17]
 
@@ -114,6 +114,16 @@ Designer Chris Cole described the approach in InterAction: "We took a no-holds-b
 - **Lead Programmer:** Richard Rayl[^ref-22]
 - **Art Director:** Brian Hahn[^ref-22]
 - **Music:** Loudmouth; Tim Ebling (uncredited)[^ref-22]
+
+### Voice Cast
+
+| Actor | Role |
+|-------|------|
+| Bill Barrett | Game voice[^ref-22] |
+| Lloyd Brass | Game voice[^ref-22] |
+| Jane Chase | Game voice[^ref-22] |
+
+Donald Hom is credited as the human motion capture actor[^ref-22].
 
 ### Technical Achievements
 
@@ -166,15 +176,6 @@ Hunter Hunted was designed for Windows 95[^ref-18]. One Reddit player reported i
 - Hunter Hunted is tied into the same fictional universe as the Earthsiege series, as a prequel of sorts[^ref-1]
 - The name k.a.a. was explained in Sierra's InterAction magazine as "knot another adventure game"[^ref-23]
 
-## Voice Cast
-
-MobyGames credits three game voices[^ref-22]:
-- Bill Barrett[^ref-22]
-- Lloyd Brass[^ref-22]
-- Jane Chase[^ref-22]
-
-Donald Hom is credited as the human motion capture actor[^ref-22].
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -203,6 +204,8 @@ PCGamingWiki lists the Collector's New Installer, "an alternative to the origina
 ### Critical Perspective
 
 Hunter Hunted was one of Sierra's attempts to move beyond its adventure game catalog: InterAction framed the k.a.a. label as a deliberate break from adventure games, with Rhett Andersen saying "we wanted to do something different"[^ref-23].
+
+Not everyone accepted that framing. A *Computer Gaming World* editorial in the January 1997 issue said: "I find it hard to believe that the designers of Hunter/Hunted and CyberGladiators really think they are part of the rebel underground at Sierra (see Sierra's Fall '96 Interaction magazine)", adding that "you're not going to get a lot of acknowledgment when your first offerings are a side-scroller with 3D effects and a 3D fighting robot game"[^ref-29]. The same issue carried a full-page advertisement that described the game as a deadly arsenal "on bovine steroids" and "the first PC game that lets you fight head-to-head with a split screen"[^ref-29].
 
 Critics gave the game moderately positive reviews[^ref-1]; MobyGames contributor Tomer Gabel later called it "a completely underrated action game"[^ref-27].
 
@@ -257,5 +260,6 @@ Critics gave the game moderately positive reviews[^ref-1]; MobyGames contributor
 [^ref-24]: [Next Generation #27 (March 1997)](https://archive.org/details/NextGeneration27Mar1997) – Hunter Hunted review, three stars
 [^ref-25]: [InterAction Magazine, Summer 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) – "First Look: Hunter/Hunted" preview, Z-plane movement
 [^ref-26]: [MobyGames – Hunter Hunted releases](https://www.mobygames.com/game/656/hunter-hunted/releases/) – regional releases (US, UK, Germany, Italy, Japan via Sierra Pioneer, 2005 Dice Multi Media)
-[^ref-27]: [MobyGames – Hunter Hunted reviews](https://www.mobygames.com/game/656/hunter-hunted/reviews/) – Moby Score, critic average (69%, 21 ratings, checked 2026-10-28), user reviews (Tomer Gabel; Mortal Kombat reference; Survival Guide)
+[^ref-27]: [MobyGames – Hunter Hunted reviews](https://www.mobygames.com/game/656/hunter-hunted/reviews/) – Moby Score, critic average (70%, 22 ratings, checked 2026-11-11), user reviews (Tomer Gabel; Mortal Kombat reference; Survival Guide)
 [^ref-28]: [GameSpot – Hunter Hunted Review (Chris Hudak, 12/17/96), Wayback copy](http://web.archive.org/web/20041205053642/http://www.gamespot.com/pc/action/hunterhunted/review.html) – score 7.0 and subscores, door/layer description, split-screen sneak-up, closing verdict
+[^ref-29]: [Computer Gaming World, Issue 150 (January 1997)](https://archive.org/details/Computer_Gaming_World_Issue_150) – Hunter/Hunted advertisement; closing editorial doubting the designers' "rebel underground" claim

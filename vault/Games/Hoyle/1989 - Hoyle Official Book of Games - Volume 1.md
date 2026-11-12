@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI0
 protagonist: None (card game collection)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games: Volume 1 is a 1989 Sierra On-Line collection
   of six card games, designed by Warren Schwader, in which players face 18 computer
@@ -19,7 +19,7 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Hoyle Official Book of Games: Volume 1 is a collection of six classic card games
 
 Designer [[Warren Schwader]] had earlier written Sierra's Hi-Res Cribbage (1981)[^ref-22], and Wikipedia describes Volume 1 as a spiritual sequel to that game[^ref-4]. Players face up to three of 18 computer opponents, including characters such as Larry Laffer from Leisure Suit Larry, King Graham from King's Quest, Roger Wilco from Space Quest, and Officer Sonny Bonds from Police Quest[^ref-1]. Sierra's own magazine reported in 1990 that Volume 1 had been "a tremendous success, selling over 250,000 copies worldwide"[^ref-22].
 
-Built with Sierra's Creative Interpreter (SCI), the engine Sierra developed for its adventure games[^ref-4][^ref-1], the collection includes Cribbage, Crazy Eights, Gin Rummy, Hearts, Old Maid, and Klondike Solitaire[^ref-5][^ref-28]. Sierra licensed the Hoyle name for the product; *The Games Machine* called it "a little bit of diversification for Sierra"[^ref-23].
+Built with Sierra's Creative Interpreter (SCI), the engine Sierra developed for its adventure games[^ref-4][^ref-1], the collection includes Cribbage, Crazy Eights, Gin Rummy, Hearts, Old Maid, and Klondike Solitaire[^ref-5][^ref-28]. Sierra licensed the Hoyle name for the product; *The Games Machine* called it "a little bit of diversification for Sierra"[^ref-23]. Wikipedia notes that some titles in the Hoyle series used trademarks and designs from the Hoyle playing-card brand under license from Brown & Bigelow[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -113,7 +113,7 @@ The game was programmed using the SCI0 interpreter, the earliest version of Sier
 - **Producer:** Guruka Singh Khalsa
 - **Designer:** Warren Schwader
 - **Programmers:** Warren Schwader, David Slayback
-- **Graphics:** Jerry (Gerald) Moore, Warren Schwader (Sierra's InterAction credits Moore alone for graphics)[^ref-31]
+- **Graphics:** Eileen Fisher, Jerry (Gerald) Moore, Warren Schwader (Sierra's InterAction credits Moore alone for graphics)[^ref-31]
 - **Music and Sound:** Robert Atesalp
 - **Development System:** Jeff Stephenson, Robert E. Heitman, [[Pablo Ghenis]], Stuart Goldstein
 - **Writers:** Ellen Guon (Beeman), David Skinner
@@ -180,7 +180,7 @@ No documented cut content has been identified in available sources.
 
 ### Technical Issues
 
-ScummVM 2.9.0 rates the game's support as "Excellent" for the Amiga, Atari ST and DOS versions, noting that "Music in the Amiga version may have glitches"[^ref-12]. MyAbandonware lists DOSBox support from version 0.61[^ref-3]. The game also supports the IBM Music Feature Card[^ref-5][^ref-6].
+ScummVM 2026.4.0 rates the game's support as "Excellent" for the Amiga, Atari ST and DOS versions, noting that "Music in the Amiga version may have glitches"[^ref-12]. MyAbandonware lists DOSBox support from version 0.61[^ref-3]. The game also supports the IBM Music Feature Card[^ref-5][^ref-6].
 
 ### Easter Eggs and Trivia
 
@@ -188,10 +188,6 @@ ScummVM 2.9.0 rates the game's support as "Excellent" for the Amiga, Atari ST an
 - **Idle Chatter System:** Computer players will begin conversations amongst themselves if a running game is left alone for a while[^ref-29]
 - **Canine Competitor:** Among the 18 opponents is Bulldog, "a card playing dog"[^ref-21][^ref-6]
 - **The Designer at the Table:** Warren Schwader himself is one of the selectable opponents[^ref-21]
-
-## Voice Cast
-
-Volume 1 has no voice acting.
 
 ## Legacy
 
@@ -201,7 +197,7 @@ Sierra reported in Fall 1990 that Volume 1 had sold over 250,000 copies worldwid
 
 ### Collections
 
-Volume 1 was included in Sierra's Value Pack 2 and Sierra's Value Pack 3[^ref-20].
+Sierra Chest lists Volume 1 as included in Sierra's Value Pack 2 and Sierra's Value Pack 3[^ref-20].
 
 ### Fan Projects
 
@@ -229,62 +225,15 @@ Some modern players view Volume 1 more favorably than its contemporary reviews, 
 **Download / Preservation**
 - [Internet Archive – Hoyle Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) — DOS edition preservation
 
+**Manuals & Extras**
+- [Internet Archive – Hoyle Official Book of Games Volume 1 manual](https://archive.org/details/vgmuseum_sierra_hoyle-manual) — scanned manual with credits and rules
+
 ## See Also
 
+- [[Hoyle Series]]
 - [[1990 - Hoyle Official Book of Games - Volume 2|→ Next: Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
-- [[1991 - Hoyle Official Book of Games - Volume 4]]
-- [[1992 - Hoyle Bridge]]
-- [[1993 - Hoyle Classic Card Games]]
-- [[1993 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Blackjack]]
-- [[1996 - Hoyle Bridge]]
-- [[1996 - Hoyle Casino]]
-- [[1996 - Hoyle Official Book of Games - Volume 5]]
-- [[1996 - Hoyle Solitaire]]
-- [[1997 - Hoyle Classic Board Games]]
-- [[1997 - Hoyle Classic Card Games]]
-- [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Battling Ships and War]]
-- [[1998 - Hoyle Classic Board Games]]
-- [[1999 - Hoyle Backgammon and Cribbage]]
-- [[1999 - Hoyle Casino]]
-- [[1999 - Hoyle Slots and Video Poker]]
-- [[1999 - Hoyle Word Games]]
-- [[2000 - Hoyle Casino]]
-- [[2000 - Hoyle Crosswords]]
-- [[2000 - Hoyle Kids Games]]
-- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
-- [[2001 - Hoyle Board Games]]
-- [[2001 - Hoyle Casino]]
-- [[2001 - Hoyle Kids Games]]
-- [[2001 - Hoyle Word Games]]
-- [[2002 - Hoyle Card Games]]
-- [[2002 - Hoyle Casino Empire]]
-- [[2002 - Hoyle Puzzle Games]]
-- [[2003 - Hoyle Board Games]]
-- [[2003 - Hoyle Card Games]]
-- [[2003 - Hoyle Casino]]
-- [[2003 - Hoyle Majestic Chess]]
-- [[2004 - Hoyle Casino]]
-- [[2004 - Hoyle Puzzle Games]]
-- [[2004 - Hoyle Table Games]]
-- [[2005 - Hoyle Board Games]]
-- [[2005 - Hoyle Card Games]]
-- [[2005 - Hoyle Casino 3D]]
-- [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
-- [[2005 - Hoyle Texas Hold Em]]
-- [[2006 - Hoyle Casino]]
-- [[2006 - Hoyle Miami Solitaire]]
-- [[2007 - Hoyle Card Games 2008]]
-- [[2007 - Hoyle Casino]]
-- [[2007 - Hoyle Casino 2008]]
-- [[2008 - Hoyle Puzzle and Board Games]]
-- [[2010 - Hoyle Puzzle and Board Games 2011]]
-- [[2010 - Hoyle Swashbucklin Slots]]
-- [[2015 - Hoyle Official Card Games Collection]]
-- [[2016 - Hoyle Casino Games Collection]]
+- [[Sierra Creative Interpreter]]
 
 ## References
 
@@ -296,7 +245,7 @@ Some modern players view Volume 1 more favorably than its contemporary reviews, 
 [^ref-6]: [Old-Games.ru – Hoyle Official Book of Games Volume 1](https://www.old-games.ru/game/6115.html) – review (serious opponents' difficulty, dog opponent), ScummVM/IBM Music Feature Card tags, user comment on character music
 [^ref-7]: [PCGamingWiki – Hoyle's Official Book of Games: Volume 1](https://www.pcgamingwiki.com/wiki/Hoyle%27s_Official_Book_of_Games:_Volume_1) – system requirements, engine version, video modes
 [^ref-8]: [LastDodo – Hoyle Official Book of Games Volume 1](https://www.lastdodo.com/en/items/4241357-hoyle-official-book-of-games-volume-1) – Amiga physical edition contents
-[^ref-12]: [ScummVM – Compatibility 2.9.0: Hoyle's Official Book of Games: Volume 1](https://www.scummvm.org/compatibility/2.9.0/sci:hoyle1/) – support level, supported platforms, Amiga music note
+[^ref-12]: [ScummVM – Compatibility 2026.4.0: Hoyle's Official Book of Games: Volume 1](https://www.scummvm.org/compatibility/2026.4.0/sci:hoyle1/) – support level, supported platforms, Amiga music note
 [^ref-15]: [Crossover Wiki (Fandom) – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – Sierra characters appearing across Hoyle volumes
 [^ref-16]: [IGDB – Hoyle Official Book of Games Volume 1](https://www.igdb.com/games/hoyle-official-book-of-games-volume-1) — Internet Games Database entry, release-year confirmation
 [^ref-20]: [Sierra Chest – Hoyle Official Book of Games: Volume 1](https://sierrachest.com/index.php?a=games&id=224&fld=general) – description, platforms, Value Pack 2 and 3 inclusion
