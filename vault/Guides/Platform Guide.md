@@ -1,11 +1,11 @@
 ---
 title: "Platform Guide"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Platform Guide
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Sierra games were released across dozens of platforms from 1980 to the present. This guide organizes releases by platform type, with example titles for each. Release platforms and dates below come from each game's MobyGames entry unless another source is cited.
 
@@ -25,7 +25,7 @@ The original platforms for Sierra's adventure and arcade games.
 - [[1984 - King's Quest - Quest for the Crown|King's Quest I]]–[[1988 - King's Quest IV - The Perils of Rosella|IV]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]][^ref-2][^ref-10][^ref-11][^ref-12][^ref-13] — Platform: **Amiga**
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|LSL1]][^ref-9], [[1986 - King's Quest III - To Heir Is Human|King's Quest III]][^ref-11] — Platform: **TRS-80 Color Computer**
 
-**Emulation:** AppleWin (Apple II), DOSBox (PC), VICE (C64), Hatari (Atari ST), WinUAE (Amiga)
+**Emulation:** AppleWin (Apple II)[^ref-53], DOSBox (MS-DOS PC)[^ref-57], VICE (Commodore 8-bit)[^ref-54], Hatari (Atari ST)[^ref-55], WinUAE (Amiga)[^ref-56]
 
 ---
 
@@ -40,7 +40,7 @@ The primary platforms for Sierra's catalog.
 | **Windows 95 era** | [[1995 - Phantasmagoria\|Phantasmagoria]] (1995)[^ref-15]; [[1996 - Rama\|Rama]] (1996)[^ref-16] | SCI32, Dynamix sims, strategy games |
 | **Windows XP era** | [[2004 - Leisure Suit Larry - Magna Cum Laude\|LSL: Magna Cum Laude]] (2004)[^ref-17]; [[2009 - Leisure Suit Larry - Box Office Bust\|LSL: Box Office Bust]] (2009)[^ref-18] | Vivendi era (MCL, published by Vivendi Universal Games) and a later licensed release (BOB, published by Codemasters)[^ref-17][^ref-18] |
 
-**Play today:** ScummVM (adventures), DOSBox (DOS games), dgVoodoo2 (3D games)
+**Play today:** ScummVM re-implements the engines of supported adventure games, including Sierra's AGI and SCI titles, rather than emulating hardware[^ref-51][^ref-52]. DOSBox and DOSBox Staging run MS-DOS programs, primarily games[^ref-57][^ref-58].
 
 ---
 
@@ -50,7 +50,7 @@ The primary platforms for Sierra's catalog.
 - [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] (1994)[^ref-14], [[1995 - Phantasmagoria|Phantasmagoria]] (1995)[^ref-15] — Platform: **Classic Mac OS (CD-ROM era)**
 - [[2013 - Leisure Suit Larry - Reloaded|LSL Reloaded]][^ref-19], [[2018 - Hero-U - Rogue to Redemption|Hero-U]][^ref-20], [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|LSL: Wet Dreams Don't Dry]][^ref-21] — Platform: **macOS**
 
-**Emulation:** Basilisk II (68k), SheepShaver (PPC), or use ScummVM
+**Emulation:** Basilisk II (68k Macintosh)[^ref-59] and SheepShaver (PowerPC Macintosh)[^ref-60]; ScummVM is an alternative for the games it supports[^ref-51]
 
 ---
 
@@ -124,21 +124,30 @@ The primary platforms for Sierra's catalog.
 
 - [[2013 - Leisure Suit Larry - Reloaded|LSL Reloaded]][^ref-19], [[2014 - Quest for Infamy|Quest for Infamy]][^ref-34], [[2018 - Hero-U - Rogue to Redemption|Hero-U]][^ref-20], [[2023 - Colossal Cave 3D Adventure|Colossal Cave]][^ref-36]
 
-Several modern alumni and fan projects support Linux natively. Classic games run via ScummVM or DOSBox.
+The Linux releases above are listed on their MobyGames entries[^ref-19][^ref-20][^ref-34][^ref-36]. ScummVM lists Linux among its supported systems[^ref-51], and DOSBox runs on Linux[^ref-57].
 
 ---
 
 ## Quick Reference: Playing Sierra Games Today
 
-| Original Platform | Best Modern Option |
+| Original Platform | Modern Option |
 |-------------------|-------------------|
-| Apple II, C64, Atari | ScummVM (if supported) or platform emulator |
-| MS-DOS (AGI/SCI) | **ScummVM** (recommended) |
-| MS-DOS (non-adventure) | DOSBox or DOSBox Staging |
-| Windows 95/98 | Native Windows + dgVoodoo2, or VM |
-| Classic Mac | Basilisk II / SheepShaver |
-| Sega CD | Kega Fusion, Genesis Plus GX |
+| Apple II, C64, Atari ST | Platform emulators: AppleWin[^ref-53], VICE[^ref-54], Hatari[^ref-55] |
+| MS-DOS (AGI/SCI) | **ScummVM**, which lists Sierra's AGI and SCI games as supported[^ref-51][^ref-52] |
+| MS-DOS (non-adventure) | DOSBox or DOSBox Staging[^ref-57][^ref-58] |
+| Classic Mac | Basilisk II / SheepShaver[^ref-59][^ref-60] |
+| Sega CD | Genesis Plus GX, whose project page lists Sega/Mega CD compatibility[^ref-61] |
 | Modern (2010+) | Native on current storefronts where still sold; some are no longer sold, e.g. both Wet Dreams games left Steam and GOG on October 23, 2026[^ref-49] |
+
+---
+
+## See Also
+
+- [[Compatibility Guide]]
+- [[Playing Sierra Games Today]]
+- [[Release Timeline]]
+- [[Engine Index]]
+- [[Buying Guide]]
 
 ---
 
@@ -194,3 +203,14 @@ Several modern alumni and fan projects support Linux natively. Classic games run
 [^ref-48]: [InterAction Magazine Vol. V No. 3 (Fall 1992)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – "MedievaLand is the newest area on TSN… The Shadow of Yserbius, the first game in MedievaLand"
 [^ref-49]: [Delisted Games – The last two Leisure Suit Larry games are being delisted on October 23rd](https://delistedgames.com/the-last-two-leisure-suit-larry-games-are-being-delisted-on-october-23rd/) – Wet Dreams Don't Dry and Wet Dreams Dry Twice "will be leaving the platform on October 23rd"; October 23, 2026 update: "GOG has confirmed that the games will be leaving their storefront today as well"
 [^ref-50]: [Nintendo eShop – EGGCONSOLE THEXDER PC-8801mkIISR](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/) – Nintendo Switch, release date October 26, 2023
+[^ref-51]: [ScummVM – About](https://www.scummvm.org/about/) – "ScummVM is a complete rewrite of these games' executables and is not an emulator"; supports "classic titles from iconic studios such as LucasArts, Sierra On-Line"; lists Linux among supported systems
+[^ref-52]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Includes a "Sierra Game Compatibility Chart" with AGI and SCI entries
+[^ref-53]: [Wikipedia – AppleWin](https://en.wikipedia.org/wiki/AppleWin) – "an open source software emulator for running Apple II programs in Microsoft Windows"
+[^ref-54]: [VICE – the Versatile Commodore Emulator](https://vice-emu.sourceforge.io/) – Emulator for Commodore 8-bit computers
+[^ref-55]: [Wikipedia – Hatari](https://en.wikipedia.org/wiki/Hatari_%28emulator%29) – "an open-source emulator of the Atari ST 16/32-bit computer system family"
+[^ref-56]: [Wikipedia – UAE (WinUAE redirects here)](https://en.wikipedia.org/wiki/WinUAE) – UAE "emulates the hardware of Commodore International's Amiga range of computers"; WinUAE is its Windows version
+[^ref-57]: [Wikipedia – DOSBox](https://en.wikipedia.org/wiki/DOSBox) – "a free and open-source MS-DOS emulator" that runs programs, "primarily video games"; operating systems include Linux
+[^ref-58]: [DOSBox Staging](https://www.dosbox-staging.org/) – "a modern continuation of DOSBox"
+[^ref-59]: [Wikipedia – Basilisk II](https://en.wikipedia.org/wiki/Basilisk_II) – "an emulator that emulates Apple Macintosh computers based on the Motorola 68000 series"
+[^ref-60]: [Wikipedia – SheepShaver](https://en.wikipedia.org/wiki/SheepShaver) – "an open-source PowerPC Apple Macintosh emulator"
+[^ref-61]: [GitHub – Genesis Plus GX](https://github.com/ekeeke/Genesis-Plus-GX) – "100% compatibility with Genesis / Mega Drive, Sega/Mega CD, Master System, Game Gear & SG-1000 released software"
