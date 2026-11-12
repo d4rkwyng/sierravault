@@ -8,16 +8,16 @@ genre: Adventure
 platforms: [DOS, Amiga, Mac, Sega CD, Windows]
 series: Standalone
 engine: Dynamix Game Development System (DGDS)
+composer: [Christopher Stevens, Jan Paul Moorhead, Don Latarski]
 protagonist: Willy Beamish
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-26'
-description: The Adventures of Willy Beamish is a graphic adventure game developed
- by Dynamix and released in 1991 under the Dynamix label, then part of Sierra On-Line. The game puts players in control...
+last_updated: '2026-11-11'
+description: 'The Adventures of Willy Beamish is a graphic adventure game developed by Dynamix and released in 1991 under the Dynamix label, then part of Sierra On-Line. The game puts players in control of nine-year-old Willy Beamish, a mischievous kid navigating the last day of school before summer vacation and the chaotic days that follow.'
 tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 ---
 # The Adventures of Willy Beamish
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,6 +33,7 @@ The Adventures of Willy Beamish was the last adventure game created by Dynamix, 
 > **Writers:** Meryl Perutz, Tony Perutz (screenplay); [[David Selle]], Tom Brooke (writers)[^ref-58]
 > **Publisher:** [[Dynamix]] (Sierra On-Line subsidiary); Sierra On-Line on some US releases; Sega of America (Sega CD)[^ref-1]
 > **Engine:** Dynamix Game Development System (DGDS)[^ref-9]
+> **Composer:** Christopher Stevens, Jan Paul Moorhead, Don Latarski[^ref-58]
 > **Platforms:** MS-DOS, Amiga, Macintosh, Sega CD, Windows[^ref-1]
 > **Release Year:** 1991
 > **Series:** Standalone
@@ -130,6 +131,33 @@ The dialogue, puzzles, and character backgrounds were enhanced by bringing in te
 - **Art Director:** Shawn Sharp[^ref-3]
 - **Backgrounds:** Rene Garcia[^ref-6]
 - **Character Design:** [[Brian Hahn]], Sheri Wheeler[^ref-3]
+- **Animation Director:** Pat Clark[^ref-58]
+- **Audio Director:** Alan McKean[^ref-58]
+- **Original Score:** Christopher Stevens, Jan Paul Moorhead, Don Latarski[^ref-58]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Willy Beamish | Michael Zibelman[^ref-46] |
+| Narrator | Ed Ragozzino[^ref-46] |
+| Gordon (Dad) | Andrew DeRycke[^ref-46] |
+| Sheila (Mom) | Roxy Ragozzino[^ref-46] |
+| Tiffany | Roxy Ragozzino[^ref-46] |
+| Brianna | Roxy Ragozzino[^ref-46] |
+| Leona Humpford | Sher Alltucker[^ref-46] |
+| Dana (Babysitter) | Sher Alltucker[^ref-46] |
+| Perry | Greg Black[^ref-46] |
+| Spider | Dan Bruno[^ref-46] |
+| Mr. Frick | Ben Taitel[^ref-46] |
+| Coach Beltz | Scott Barkhurst[^ref-46] |
+| Louis Stoole | Scott Wallin[^ref-46] |
+| Ms. Glass | Becky La Chapelle[^ref-46] |
+| Stan Lather | Lester Hanson[^ref-46] |
+| Ghost Beamish (Grandfather) | Stan Boyd[^ref-46] |
+| Guard | Dave Lund[^ref-46] |
+
+For the CD port, according to Sega-16's development history, "each of the forty-two characters was cast and recorded by professional voice actors."[^ref-36] Jimmy Maher of The Digital Antiquarian described the voice performances as featuring "some of the most annoying children's voices ever recorded."[^ref-18]
 
 ### Technical Achievements
 
@@ -208,30 +236,6 @@ The game features multiple endings based on player choices throughout the advent
 
 The "best" ending requires maintaining good standing with parents while successfully uncovering the Tootsweet conspiracy and saving the city.[^ref-16]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Willy Beamish | Michael Zibelman[^ref-46] |
-| Narrator | Ed Ragozzino[^ref-46] |
-| Gordon (Dad) | Andrew DeRycke[^ref-46] |
-| Sheila (Mom) | Roxy Ragozzino[^ref-46] |
-| Tiffany | Roxy Ragozzino[^ref-46] |
-| Brianna | Roxy Ragozzino[^ref-46] |
-| Leona Humpford | Sher Alltucker[^ref-46] |
-| Dana (Babysitter) | Sher Alltucker[^ref-46] |
-| Perry | Greg Black[^ref-46] |
-| Spider | Dan Bruno[^ref-46] |
-| Mr. Frick | Ben Taitel[^ref-46] |
-| Coach Beltz | Scott Barkhurst[^ref-46] |
-| Louis Stoole | Scott Wallin[^ref-46] |
-| Ms. Glass | Becky La Chapelle[^ref-46] |
-| Stan Lather | Lester Hanson[^ref-46] |
-| Ghost Beamish (Grandfather) | Stan Boyd[^ref-46] |
-| Guard | Dave Lund[^ref-46] |
-
-For the CD port, according to Sega-16's development history, "each of the forty-two characters was cast and recorded by professional voice actors."[^ref-47] Jimmy Maher of The Digital Antiquarian described the voice performances as featuring "some of the most annoying children's voices ever recorded."[^ref-18]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -252,7 +256,7 @@ The game appeared in various Sierra compilation releases before its 2017 digital
 
 In August 2025, the Sega CD version became the first Sega CD title added to the Xbox Game Pass Retro Classics app.[^ref-51]
 
-### Fan Projects
+### Cult Following
 
 The game has developed a dedicated cult following over the decades. TV Tropes notes that "Willy Beamish is very under-the-radar game if there ever was one, with very adult humor. If you should happen upon the game, count yourself lucky and give it a try."[^ref-45] The game's unique blend of childhood adventure and mature themes has inspired nostalgic appreciation from players who encountered it in their youth.[^ref-52]
 
@@ -279,8 +283,6 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - Support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)[^ref-56]
 - Allows the game to run natively on modern systems including Windows, macOS, Linux, iOS, and Android
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
-
-**Download / Preservation**
 
 **Manuals & Extras**
 - [Game Manual – Internet Archive](https://archive.org/details/AdventuresOfWillyBeamishManual)
@@ -334,7 +336,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-33]: [Sega-16 – Review](https://www.sega-16.com/2005/10/adventures-of-willy-beamish/) – 8/10 score, "too short" criticism
 [^ref-34]: MyAbandonware – Willy Beamish *(download link removed: the game is sold commercially)* – user rating
 [^ref-35]: [Neoseeker – Walkthrough](https://www.neoseeker.com/the-adventures-of-willy-beamish/faqs/125982-adventures-willy-beamish-b.html) – Tunnell's Incredible Machine connection
-[^ref-36]: [Sega-16 – Behind the Design](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – original team (seven animators, forty members, one year), Sega CD port team (fifty-plus), Ernest Adams quote, Tunnell regret
+[^ref-36]: [Sega-16 – Behind the Design](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – original team (seven animators, forty members, one year), Sega CD port team (fifty-plus), Ernest Adams quote, Tunnell regret, forty-two characters voiced by professional actors for the CD port
 [^ref-37]: [Retro365 – Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) – seven full-time animators (its man-hour/scene/animation figures are for Rise of the Dragon, not this game)
 [^ref-38]: [VOGONS – MT-32 Discussion](https://www.vogons.org/viewtopic.php?t=44389) – CD version audio limitations
 [^ref-39]: [Pixelated Arcade – Tech Specs](https://www.pixelatedarcade.com/games/the-adventures-of-willy-beamish/techspecs) – floppy version requirements
@@ -344,7 +346,6 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-44]: [MobyGames – Trivia](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/trivia) – awards, packaging, DOS vs. Sega CD palette differences
 [^ref-45]: [TV Tropes – Willy Beamish](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheAdventuresOfWillyBeamish) – easter eggs, speed bugs, cult status
 [^ref-46]: [Behind the Voice Actors – Willy Beamish](https://www.behindthevoiceactors.com/video-games/the-adventures-of-willy-beamish/) – complete voice cast
-[^ref-47]: [Sega-16 – Behind the Design: Adventures of Willy Beamish](https://www.sega-16.com/2007/03/behind-the-design-adventures-of-willy-beamish/) – forty-two characters voiced by professional actors for the CD port
 [^ref-48]: [Entertainment Weekly Archive](https://web.archive.org/web/20150925055018/http://www.ew.com/article/1993/08/20/videogames-latest-location) – retail price
 [^ref-49]: [Gaming History 101](https://gaminghistory101.com/2012/11/07/willy-beamish/) – secondary market prices
 [^ref-50]: [ComicBook.com – Xbox Game Pass](https://comicbook.com/gaming/news/xbox-game-pass-sega-cd-new-games/) – Activision acquisition
@@ -355,4 +356,4 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-55]: [GOG.com News – Release: The Adventures of Willy Beamish (Wayback Machine, March 2017)](https://web.archive.org/web/20170327151907/https://www.gog.com/news/release_the_adventures_of_willy_beamish) – "foul-smelling catastrophe" plot summary
 [^ref-56]: [ScummVM News – v2026.1.0 "Like a Version"](https://www.scummvm.org/news/20260131/) – Willy Beamish listed under Newly Supported Games
 [^ref-57]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Tunnell founded Jeff Tunnell Productions in early 1992
-[^ref-58]: [MobyGames – The Adventures of Willy Beamish DOS credits (Wayback, 2024-11-22)](https://web.archive.org/web/20241122210641/https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/credits/dos/) – Original Version Game Team: "Screenplay: Meryl Perutz, Tony Perutz"; "Writers: David Selle, Tom Brooke"
+[^ref-58]: [MobyGames – The Adventures of Willy Beamish DOS credits (Wayback, 2024-11-22)](https://web.archive.org/web/20241122210641/https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/credits/dos/) – Original Version Game Team: "Screenplay: Meryl Perutz, Tony Perutz"; "Writers: David Selle, Tom Brooke"; "Original Score: Christopher Stevens, Jan Paul Moorhead, Don Latarski"; "Audio Director: Alan McKean"; "Animation Director: Pat Clark"
