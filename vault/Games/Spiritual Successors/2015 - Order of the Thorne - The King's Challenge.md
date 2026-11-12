@@ -2,7 +2,7 @@
 title: 'Order of the Thorne: The King''s Challenge'
 release_year: 2016
 developer: Infamous Quests
-designer: [James Broom, Shawn Mills, Steven Alexander]
+designer: null
 publisher: Infamous Quests
 genre: Adventure
 platforms: [Linux, Mac, Windows]
@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Finn the Bard
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: '**Order of the Thorne: The King''s Challenge** is a point-and-click
   adventure game developed by Infamous Quests and released on January 26, 2016, for
   Windows, Mac and Linux. Inspired by King''s Quest, it follows Finn the Bard through
@@ -19,7 +19,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -31,6 +31,7 @@ Adventure Gamers praised the nostalgic design, with its reviewer concluding that
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-1]
+> **Director:** Shawn Mills[^ref-7]
 > **Writers:** James Broom, Shawn Mills, Steven Alexander[^ref-7]
 > **Publisher:** Infamous Quests[^ref-1]
 > **Platforms:** Windows, macOS, Linux[^ref-11]
@@ -112,6 +113,8 @@ Beyond the musical elements, most puzzles are conventional inventory-based ones[
 | itch.io | 4.4/5 | 11 user ratings[^ref-11] |
 | HowLongToBeat | 65% | User rating[^ref-8] |
 | MobyGames Critics | 70% | Aggregate of one critic score[^ref-1] |
+| OpenCritic | 54/100 | Average of 4 critic reviews, as of November 11, 2026[^ref-24] |
+| Steam User Reviews | 85% positive | Rated Very Positive, from 102 user reviews, as of November 11, 2026[^ref-23] |
 
 ### Critical Analysis
 
@@ -178,6 +181,14 @@ The game is built on Adventure Game Studio[^ref-5], the engine by Chris Jones[^r
 | Graphics | DirectX Compatible |
 | Storage | 800 MB |
 
+### Version History
+
+| Date | Event |
+|------|-------|
+| May 3, 2015 | Kickstarter campaign succeeds[^ref-22] |
+| January 26, 2016 | Release date listed on Steam[^ref-23] and GOG[^ref-4] |
+| January 26, 2016 | MobyGames lists first release on Linux, Macintosh and Windows[^ref-1] |
+
 ## Legacy
 
 ### Series Ambitions
@@ -212,6 +223,8 @@ The King's Challenge sits within Infamous Quests' catalog of Sierra-inspired adv
 | Minimum RAM (Windows) | 128 MB[^ref-4] |
 | Input | Mouse (left-click interact, right-click examine)[^ref-21] |
 | Platforms | Windows, macOS, Linux[^ref-11][^ref-19] |
+| Steam platforms | Steam lists Windows and Linux[^ref-23] |
+| Other stores | itch.io lists Windows, macOS and Linux[^ref-11]; MobyGames lists Linux, Macintosh and Windows[^ref-1] |
 | Mac note | GOG lists the Mac build as 32-bit only, not working on macOS 10.15 and up[^ref-4] |
 | Playtime | ~3.5–4 hours[^ref-8] |
 
@@ -271,4 +284,5 @@ The King's Challenge is the first installment of the *Order of the Thorne* antho
 [^ref-20]: [Adventure Game Database](https://adventuregamedb.com/g/order_of_the_thorne_the_kings_challenge) – Screenshot of the tombs on the Isle of Honored
 [^ref-21]: [GamingOnLinux – Review of point-and-click adventure The King's Challenge](https://www.gamingonlinux.com/2016/01/review-of-pointandclick-adventure-the-kings-challenge-available-drm-free-and-on-steam/) – 2016 review: controls, lute minigame, settings panel, length
 [^ref-22]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – Studio history, March 2015 announcement, Kickstarter success May 3, 2015 ($30,944)
-[^ref-23]: [Steam](https://store.steampowered.com/app/425600/) – Store listing (live, $9.99), release date January 26, 2016, Metacritic score
+[^ref-23]: [Steam](https://store.steampowered.com/app/425600/) – Store listing (live, $9.99), release date January 26, 2016, Metacritic score; platforms (Windows, Linux); user reviews "85% of the 102 user reviews for this game are positive" (Very Positive), checked November 11, 2026
+[^ref-24]: [OpenCritic](https://opencritic.com/game/2258/the-order-of-the-thorne-the-kings-challenge) – Average critic score 54 from 4 reviews, checked November 11, 2026
