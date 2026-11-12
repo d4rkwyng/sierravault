@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'King''s Quest: Quest for the Crown is a landmark adventure game, credited
   with saving Sierra On-Line from the effects of the 1983 video game crash and considered
   the start of the graphic adventure genre.'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Quest for the Crown
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ IEEE Spectrum has called it "the first animated 3D adventure game"[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Design/Writing:** [[Roberta Williams]][^ref-1]
+> **Designer:** [[Roberta Williams]][^ref-1]
 > **Publisher:** IBM (PCjr), Sierra On-Line[^ref-3]
 > **Engine:** AGI (Adventure Game Interpreter)[^ref-45]
 > **Platforms:** IBM PCjr, IBM PC, Tandy 1000, Apple II, Apple IIGS, MS-DOS, Amiga, Atari ST, Macintosh, Sega Master System[^ref-8]
@@ -91,7 +91,7 @@ Modern retrospectives acknowledge the game's historical importance while noting 
 **Ratings (as of 2026):**
 - MobyGames: 6.9 MobyScore, 69% critics (20 ratings), 3.5/5 players (196 ratings)[^ref-8]
 - GOG: 4.1/5 (42 reviews)[^ref-23]
-- Steam: Very Positive (87%, 331 reviews)[^ref-24]
+- Steam: Very Positive (87%, 333 reviews)[^ref-24]
 - Adventure Gamers: 3/5 stars[^ref-21]
 - HowLongToBeat: 60% user rating, 2½ hours main story[^ref-25]
 
@@ -103,12 +103,14 @@ In late 1982, about a year before the PCjr was announced in November 1983, IBM a
 
 Sierra co-founder Ken Williams and programmer [[Jeff Stephenson]] pitched the concept during meetings at IBM's Boca Raton offices in Florida. According to historian Jimmy Maher, "the most important proposal, the biggest in the history of Sierra On-Line and one which would change adventure gaming forever, was made up on the fly, drawn up on the back of a napkin during a pause in the proceedings"[^ref-3].
 
+IBM demanded secrecy about the project; Sierra referred to it as "BFC" in documents and never saw a PCjr before launch, instead using modified IBM PCs[^ref-2]. King's Quest was first shown to the public at the Winter Consumer Electronics Show in January 1984[^ref-2]. Creative Computing's report on the games at that show, published in May 1984, said of Sierra: "Their co-founder, Roberta Williams, has come up with yet another adventure game (she's done five). This one's called King's Quest, which has animation, enhanced graphics and sound, and simulated 3-D screens. The program accepts entire sentences, and the game is replayable since there are two ways to solve each challenge"[^ref-59].
+
 ### Production
 
 COMPUTE! and the Official Book both date IBM's request to "a year before the PCjr was announced"[^ref-51][^ref-26]; the PCjr projects as a whole were given the code-name "Project Siesta"[^ref-3]. COMPUTE! magazine reported the game cost over $700,000 and required 18 months of development with "six programmers and artists" working alongside designer Roberta Williams[^ref-14]. The Digital Antiquarian puts the cost at $850,000, noting that "much of the game's $850,000 development cost had been funded by IBM"[^ref-3]. According to the King's Quest Omnipedia, a 27-page design document attributed to the original game in the Strong Museum's listings turned out, when people looked into it, to be King's Quest VIII material[^ref-18].
 
 **Development Credits:**[^ref-8][^ref-29]
-- **Design/Writing:** [[Roberta Williams]]
+- **Design:** [[Roberta Williams]]
 - **Original Programming:** Arthur Abraham (PCjr version)
 - **Programming:** Sol Ackerman, Chris Iden, Ken MacNeill, [[Jeff Stephenson]], Charles Tingley
 - **Graphics/Artwork:** Greg Rowland, Doug MacNeill
@@ -184,15 +186,15 @@ Nerdly Pleasures counts "no less than eight distinct versions" of the AGI game b
 
 ## Legacy
 
-King's Quest's success, and the reuse of its AGI engine, led to Sierra's success in the following years[^ref-2]. Its AGI engine was reused for the early Space Quest, Leisure Suit Larry and Police Quest games[^ref-45], and the Strong Museum credits King's Quest with paving the way for those series[^ref-1]. By late 1988, the King's Quest series had sold over 800,000 copies[^ref-15]. The original game spawned seven direct sequels through 1998, and later Sierra packaging (the King's Quest Collection Series box and a King's Quest VIII box sticker) claimed over 7 million copies sold across the series, a figure that appears to include sales of the collections[^ref-32].
+King's Quest's success, and the reuse of its AGI engine, led to Sierra's success in the following years[^ref-2]. Its AGI engine was reused for the early Space Quest, Leisure Suit Larry and Police Quest games[^ref-45], and the Strong Museum credits King's Quest with paving the way for those series[^ref-1]. Sierra reported that the game had sold over 100,000 copies by 1986[^ref-2]. By late 1988, the King's Quest series had sold over 800,000 copies[^ref-15]. The original game spawned seven direct sequels through 1998, and later Sierra packaging (the King's Quest Collection Series box and a King's Quest VIII box sticker) claimed over 7 million copies sold across the series, a figure that appears to include sales of the collections[^ref-32].
 
 ### Remakes
 
-**Sierra's 1990 SCI Remake:** Produced and written by Josh Mandel with music by Ken Allen, the official remake updated the game with 16-color 320x200 EGA graphics[^ref-10] and kept a text parser, the only one of Sierra's remakes built with SCI's EGA graphics and parser interface[^ref-33]. It added a heavily expanded introduction and conclusion, an expanded soundtrack with sound card support, and mouse-driven pull-down menus[^ref-44]; the Roland MT-32 is among its supported sound devices[^ref-57]. The remake simplified the gnome puzzle to accept "Nikstlitselpmur" (Rumplestiltskin spelled backwards)[^ref-11] and relocated the hard-to-find pebbles to a more visible lakeside location[^ref-44].
+**Sierra's 1990 SCI Remake:** Produced and written by [[Josh Mandel]] with music by [[Ken Allen]], the official remake updated the game with 16-color 320x200 EGA graphics[^ref-10] and kept a text parser, the only one of Sierra's remakes built with SCI's EGA graphics and parser interface[^ref-33]. It added a heavily expanded introduction and conclusion, an expanded soundtrack with sound card support, and mouse-driven pull-down menus[^ref-44]; the Roland MT-32 is among its supported sound devices[^ref-57]. The remake simplified the gnome puzzle to accept "Nikstlitselpmur" (Rumplestiltskin spelled backwards)[^ref-11] and relocated the hard-to-find pebbles to a more visible lakeside location[^ref-44].
 
 Reception was controversial—"many reviewers and gamers took offense at what they perceived as an attempt to 'destroy the classics'"[^ref-44]. The project was compared to colorizing classic black-and-white movies[^ref-22][^ref-44]. These reactions "essentially stopped work on future attempts to modernize later King's Quest installments"[^ref-44], though Sierra did go on to remake other AGI games in SCI: Space Quest (1991), Leisure Suit Larry (1991) and Police Quest (1992)[^ref-45].
 
-**AGD Interactive VGA Remake (2001):** Fan developers at AGD Interactive (formerly Tierra Entertainment) created a free VGA remake (2001) with a point-and-click interface and voice acting[^ref-2]. AGDI reported over 5,000 downloads in the first month and nearly half a million in the first year[^ref-34].
+**AGD Interactive VGA Remake (2001):** Fan developers at AGD Interactive (formerly Tierra Entertainment) created a free VGA remake (2001) with a point-and-click interface and voice acting[^ref-2]; see [[2001 - King's Quest I VGA Remake]]. The King's Quest Omnipedia dates Tierra's version 1.0 to August 7, 2001 and the voice-pack edition to September 1, 2001[^ref-60]. AGDI reported over 5,000 downloads in the first month and nearly half a million in the first year[^ref-34]. The game was later completely remade as King's Quest I: Quest for the Crown Enhanced Edition (version 4.0), published under the AGDI name and dated January 17, 2009[^ref-60].
 
 ### Cultural Impact
 
@@ -232,7 +234,7 @@ This game has been included in[^ref-8][^ref-9]:
 - King's Quest Collection: Collector's Series (1995) – Games I–VI, with King's Quest I in both this original version and the 1990 SCI remake[^ref-58]
 - The Roberta Williams Anthology (1996) – 15 games spanning her career plus the first chapter of *Phantasmagoria*, with an Apple II emulator; King's Quest I appears in both this original version and the 1990 SCI remake[^ref-9][^ref-53][^ref-58]
 - King's Quest: Collection Series (1997) – The first seven King's Quest games plus a preview of *Mask of Eternity*; King's Quest I appears in both this original version and the 1990 SCI remake[^ref-9][^ref-56][^ref-58]
-- King's Quest 1+2+3 (2010) – GOG.com digital release
+- King's Quest 1+2+3 (2009–2010) – the original AGI versions of King's Quest I–III, published by Activision through GOG.com; the King's Quest Omnipedia gives 2009 for the GOG.com release of the three collections and 2010 for the combined bundle[^ref-23][^ref-58]
 
 The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake rather than this version[^ref-2][^ref-24][^ref-58].
 
@@ -262,6 +264,7 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 - [[1988 - King's Quest IV - The Perils of Rosella]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+- [[2001 - King's Quest I VGA Remake]]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
 - [[1994 - King's Quest VII - The Princeless Bride]]
 - [[1998 - King's Quest - Mask of Eternity]]
@@ -290,7 +293,7 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 [^ref-21]: [Adventure Gamers – King's Quest I: Quest for the Crown (Wayback, June 2025)](https://web.archive.org/web/20250610182127/https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – 3-star "Decent" review score; #10 in Top 20 Adventure Games of All-Time
 [^ref-22]: [RetroFreak Reviews – King's Quest I](https://retrofreakreviews.com/2017/02/01/kings-quest-i-review/) – Modern criticism, colorization comparison
 [^ref-23]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – Purchase, 4.1/5 user rating
-[^ref-24]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) – Purchase, Very Positive (87%)
+[^ref-24]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) – Purchase; store page read November 11, 2026: "87% of the 333 user reviews for this game are positive" (Very Positive)
 [^ref-25]: [HowLongToBeat – King's Quest](https://howlongtobeat.com/game/5036) – 2½ hours average completion
 [^ref-26]: [The Official Book of King's Quest (1988)](https://archive.org/details/the-official-book-of-kings-quest) – IBM commission "a year before the IBM PCjr was announced", "Peanut"
 [^ref-28]: [VGSales Wiki – 1984](https://vgsales.fandom.com/wiki/1984) – Estimates: rank #50, 13,000 units, $400,000 revenue (points from Billboard chart rankings)
@@ -322,3 +325,5 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 [^ref-56]: [MobyGames – King's Quest: Collection Series](https://www.mobygames.com/game/1857/kings-quest-collection-series/) – read via the MobyGames API; 1997; first seven King's Quest games, lists "Roberta Williams' King's Quest I" (the SCI remake), Mask of Eternity preview
 [^ref-57]: [MobyGames – Roberta Williams' King's Quest I: Quest for the Crown](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – read via the MobyGames API; DOS tech specs list Roland MT-32 (and LAPC-I) among supported sound devices
 [^ref-58]: [King's Quest Omnipedia – King's Quest Collections](https://kingsquest.fandom.com/wiki/King%27s_Quest_Collections) – Collector's Edition (1994), Collector's Series (1995) and Collection Series (1997) contain "1 (AGI & SCI versions)"; Anthology (1996) lists "King's Quest 1 AGI, King's Quest 1 SCI"; the 2006 collection "lacks… the original AGI King's Quest"
+[^ref-59]: [Creative Computing – May 1984, "Games at CES" by Ken Uston and Arthur Leyenberger, p. 146](https://archive.org/details/sim_creative-computing_1984-05_10_5/page/n151) – report on new games at the Winter Consumer Electronics Show; Sierra On-Line section on King's Quest (read from the page scan)
+[^ref-60]: [King's Quest Omnipedia – King's Quest I: Quest for the Crown (Tierra)](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28Tierra%29) – version 1.0 August 7, 2001; version 2.0 (voice pack) September 1, 2001; Enhanced Edition (version 4.0) under the AGDI name, January 17, 2009
