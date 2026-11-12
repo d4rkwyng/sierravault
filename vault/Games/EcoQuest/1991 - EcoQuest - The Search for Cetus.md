@@ -10,18 +10,18 @@ series: EcoQuest
 engine: SCI1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: '**EcoQuest: The Search for Cetus** is an educational adventure game
-  that teaches environmental ethics and marine conservation....'
+  that teaches environmental ethics and marine conservation.'
 tags: [1990s, ecoquest, educational, jane-jensen, sci, sierra]
 ---
 # EcoQuest: The Search for Cetus
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-**EcoQuest: The Search for Cetus** is an educational adventure game that teaches environmental ethics and marine conservation[^ref-1]. Released by Sierra On-Line in 1991[^ref-3], the game casts the player as young Adam Greene, whom Adventure Gamers describes as "the only son of a biological researcher and ecologist"[^ref-4]. The exact release date differs between sources: The Sierra Chest gives a first release of December 23, 1991[^ref-3], while the Digital Antiquarian says the game was "Released in early 1992"[^ref-27]. Its intended audience is given differently by different sources: Wikipedia says it introduces "children ages 12 and up" to marine biology and marine conservation[^ref-1], while the box text reads "For ages 10 and up"[^ref-25].
+**EcoQuest: The Search for Cetus** is an educational adventure game that teaches environmental ethics and marine conservation[^ref-1]. Released by Sierra On-Line in 1991[^ref-3], the game casts the player as young Adam Greene, whom Adventure Gamers describes as "the only son of a biological researcher and ecologist"[^ref-4]. The exact release date differs between sources: The Sierra Chest gives a first release of December 23, 1991[^ref-3], while the Digital Antiquarian says the game was "Released in early 1992"[^ref-27]. Alternate titles listed by MobyGames include "EcoQuest 1: The Search for Cetus", the German "EcoQuest: Die Suche nach Cetus" and the French "Le Secret de la Cité Engloutie"[^ref-23]. Its intended audience is given differently by different sources: Wikipedia says it introduces "children ages 12 and up" to marine biology and marine conservation[^ref-1], while the box text reads "For ages 10 and up"[^ref-25].
 
 Adventure Gamers' verdict called it "a rare example of well-done edutainment: it's a pleasure to play and does a great job in creating awareness of environmental issues"[^ref-4]. A 2023 MobyGames review by SAGA_ observed that "Sierra takes their years of adventure-game experience -- arguably some of the best in the business -- and applies its familiar formula to an educational game for the kids"[^ref-5]. Player reviewer Tomer Gabel called it "one of the best adventure games ever made"[^ref-5], while Mickey Gabel described "a fun, informative game, that manages to teach you without being didactic even a bit"[^ref-5].
 
@@ -82,10 +82,10 @@ The "Recycle" cursor adds the recycling symbol to Sierra's standard set of comma
 | PC Review (Issue 8, June 1992) | 7/10 | Review by Sue James; praised the artwork, but felt the price was high given limited replay value[^ref-32][^ref-20] |
 | Abandonware DOS | 4.02/5.00 | Community rating, 41 votes[^ref-20] |
 | MyAbandonware | 4.41/5 | User rating, 67 votes; HOTUD description "Highly recommended"[^ref-13] |
-| IMDb | 8.0/10 | User rating, 23 votes (October 2026)[^ref-21] |
+| IMDb | 8.0/10 | User rating, 23 votes (November 2026)[^ref-21] |
 | Alex Bevilacqua (2024) | 36% | Retrospective review[^ref-17] |
 
-Game Bytes' Vic Witek wrote that "EcoQuest is very delightful in the way the plot unfolds" and that "The graphics (VGA) and animation are equal to or better than any release from Sierra", concluding "Recommended as part of your gaming library"[^ref-29]. PC Review's Sue James was more guarded: "Like many adventure games, Eco Quest is a once-only program; when you have finished it you are unlikely to want to start over", adding that while the price "does not seem expensive for the variety and the quality of the graphics", it "does seem a lot for a game which you'll only want to play a limited number of times"[^ref-32][^ref-20].
+Game Bytes' Vic Witek wrote that "EcoQuest is very delightful in the way the plot unfolds" and that "The graphics (VGA) and animation are equal to or better than any release from Sierra", concluding "Recommended as part of your gaming library"[^ref-29]. PC Review's Sue James was more guarded: "Like many adventure games, Eco Quest is a once-only program; when you have finished it you are unlikely to want to start over", adding that while the price "does not seem expensive for the variety and the quality of the graphics", it "does seem a lot for a game which you'll only want to play a limited number of times"[^ref-32][^ref-20]. The review's header listed the price as £39.99, while its closing paragraph discussed £34.99[^ref-32]. Sue James also wrote that she felt "'educational' was not a particularly appropriate label" because the game "has to be considered first and foremost as a challenging and enjoyable game", and that the supplementary booklet *I Helped Save The Earth* had contents "inapplicable (even inexplicable) to a UK audience"[^ref-32]. Her testers, aged eight to adult, finished the game in five to nine hours, with scores ranging from 659 to 704 of a possible 725 points[^ref-32].
 
 ### Modern Assessment
 
@@ -113,7 +113,15 @@ For [[Jane Jensen]], who would later create the [[Gabriel Knight Series|Gabriel 
 
 The game was built on Sierra's SCI engine[^ref-8], with 256-color graphics[^ref-16], and supports MCGA, EGA, Tandy/PCjr and VGA video modes[^ref-8]; the floppy release offered VGA and EGA versions separately[^ref-29]. A full-speech CD-ROM version followed in 1992[^ref-1]; the Digital Antiquarian places it "about a year later" than the floppy release[^ref-27]. Its credited voice cast includes Dylan Skirvin as Adam, Brittany Benov as Delphineus, Walt Danneman as Cetus and Josh Mandel as Hippocrates[^ref-30]; a MobyGames review notes that Adam was voiced by William Skirvin's son[^ref-5]. William D. Skirvin is credited as the game's director and art designer[^ref-30], and [[Tammy Dargan]] as producer under executive producer Ken Williams[^ref-31]. The music was composed by Chris Braymen[^ref-24][^ref-30], and Mark Seibert, Aubrey Hodges, Dan Kehler and Orpheus Hanley share the sound-effects credit with him[^ref-30].
 
-The CD version removed the copy protection from the first scene[^ref-3]. Opinions differ on its graphics. One player review felt the CD release had "slightly better graphics in certain areas"[^ref-5]. The README of the EQ1-CDR fan patch disagrees, calling the CD artwork "objectivly worse compared to the original Floppy Disk version" because many graphics "were scaled-down or altered in undesirable ways"[^ref-16]. Running the CD version under DOSBox requires the game's RESOURCE.CFG to point to the correct path for speech to be heard[^ref-15].
+The CD version removed the copy protection from the first scene[^ref-3]. Opinions differ on its graphics. One player review felt the CD release had "slightly better graphics in certain areas"[^ref-5]. The README of the EQ1-CDR fan patch disagrees, calling the CD artwork "objectivly worse compared to the original Floppy Disk version" because many graphics "were scaled-down or altered in undesirable ways"[^ref-16].
+
+### Technical Specifications
+
+PC Review's 1992 hardware box states that the game requires "an 80286 based machine or better with 640K of base memory and a hard disk", and that "EGA is available in a separate version"[^ref-32]. The reviewer installed it on a 20MHz 386 with 2MB of RAM and a VGA monitor, where it "ran reasonably quickly and the graphics (in 256 colours) were very good"[^ref-32]. The software supports "a comprehensive range of sound boards (and Sierra recommends Thunderboard)"; some sound effects, such as bubbles rising through the ocean, are audible only with a sound board, and the music can be heard without one[^ref-32]. Separate controls cover sound effects and the level of graphical detail, and switching these off makes the game run faster[^ref-32].
+
+### Cut Content
+
+The Cutting Room Floor records that only traces of the game's debug file `800.scr` survived, with the file itself missing; an SCI fan forum later restored it based on the sequel's restored debug file, and the restored mode adds key commands such as Alt+T to teleport and Alt+I to get an inventory item[^ref-9].
 
 ### Copy Protection
 
@@ -128,6 +136,10 @@ The original floppy disk version asks for a four-digit security code[^ref-11], f
 | CD 1.1 | 1992 | Full-speech CD-ROM version[^ref-9][^ref-1] |
 | EQ1-CDR v1.0 (fan patch) | July 2023 | Community restoration for the CD version[^ref-16] |
 | EQ1-CDR v1.1 (fan patch) | February 2024 | Updated release of the restoration[^ref-16] |
+
+### Technical Issues
+
+Running the CD version under DOSBox requires the game's RESOURCE.CFG to point to the correct path for speech to be heard[^ref-15].
 
 ## Trivia
 
@@ -152,6 +164,10 @@ The Digital Antiquarian judges that "the science behind the two games still hold
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/ecoquest-the-search-for-cetus-1ra)
 - [Internet Archive](https://archive.org/details/eco-quest-1-the-search-for-cetus)
+
+**Manuals & Extras**
+- The booklet "I helped save the Earth – 55 fun ways kids can make a world of difference" by Michael O'Brian shipped with the game[^ref-4]
+- The newsletter "Adam's Eco News" holds the security code for the floppy version[^ref-10]; PC Review's tester was told to "look up the code on the newsletter"[^ref-32]
 
 ## See Also
 
@@ -179,7 +195,7 @@ The Digital Antiquarian judges that "the science behind the two games still hold
 [^ref-18]: [IGN Walkthrough](https://www.ign.com/articles/2003/11/14/ecoquest-the-search-for-cetus-walkthrough-435827) – Introduction describing the game
 [^ref-19]: [Just Adventure – EcoQuest points list by Avi Machness](https://www.justadventure.com/walkthrough/eco-quest-2/) – 725-point scoring
 [^ref-20]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest:+The+Search+for+Cetus&gid=2593) – Community rating, SCI engine, PC Review Issue 8 excerpt
-[^ref-21]: [IMDb – EcoQuest 1: The Search for Cetus (Video Game 1991)](https://www.imdb.com/title/tt1654817/) – User rating 8.0/10 from 23 votes (read October 28, 2026)
+[^ref-21]: [IMDb – EcoQuest 1: The Search for Cetus (Video Game 1991)](https://www.imdb.com/title/tt1654817/) – User rating 8.0/10 from 23 votes (read November 11, 2026)
 [^ref-23]: [MobyGames](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/) – Description (twelve-year-old Adam, no death or unwinnable states), DOS release, critic and player scores
 [^ref-24]: [Sierra Music Central](http://www.sierramusiccentral.com/eq.html) – "Composer: Chris Braymen"
 [^ref-25]: [Collection Chamber](https://collectionchamber.blogspot.com/p/ecoquest-search-for-cetus.html) – Box text, series legacy assessment, review
@@ -188,4 +204,4 @@ The Digital Antiquarian judges that "the science behind the two games still hold
 [^ref-29]: [Game Bytes #2 (May 1992) – EcoQuest review by Vic Witek](https://archive.org/details/game-bytes-2) – 12-year-old Adam, review verdict, VGA/EGA versions, "Coming soon for Mac and Amiga"
 [^ref-30]: [MobyGames – DOS credits](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) – Creative Director Bill Davis, director William D. Skirvin, composer, sound effects, CD voice cast
 [^ref-31]: [MobyGames – DOS credits (Wayback, December 9, 2024)](https://web.archive.org/web/20241209104911/https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) – "Executive Producer Ken Williams; Producer Tammy Dargan; Director William D. Skirvin"
-[^ref-32]: [PC Review Issue 8 (June 1992), pp. 66–67 – Eco Quest review by Sue James](https://archive.org/details/pc-review-08) – Period magazine scan; 7/10 rating badge, "once-only program", "does not seem expensive for the variety and the quality of the graphics"
+[^ref-32]: [PC Review Issue 8 (June 1992), pp. 66–67 – Eco Quest review by Sue James](https://archive.org/details/pc-review-08) – Period magazine scan; 7/10 rating badge (confirmed on the page scan), requirements box, 659–704 of 725 score range, £39.99 header price and £34.99 in text, "once-only program", "does not seem expensive for the variety and the quality of the graphics"
