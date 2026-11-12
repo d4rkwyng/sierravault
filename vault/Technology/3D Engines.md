@@ -1,14 +1,14 @@
 ---
 title: "3D Engines"
 type: technology
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 description: "The 3D engines used by Sierra-published games — Dynamix's 3Space, Darkstar and Torque, Papyrus's in-house racing engines, Relic's Homeworld engines, Valve's GoldSrc, Monolith's LithTech, and Unreal Engine 3 for the 2015 King's Quest."
 tags: [technology, 3d-engines, dynamix, papyrus, relic, valve, unreal]
 ---
 
 # 3D Engines
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -22,13 +22,13 @@ Unlike the SCI generations, which Sierra developed in-house and shipped across m
 
 **Developer:** [[Dynamix]] (Eugene, Oregon).
 
-3Space was Dynamix's 3D engine. Damon Slye designed it with David McClurg, and Sierra Chest records that it was first developed for *Stellar 7*.[^ref-16] Sierra's own *News Magazine* said in 1990 that the original *Stellar 7* "was the first game to use Damon Slye's 3Space", and that the 1990 remake used "improved 3Space technology";[^ref-35] MobyGames dates that original to 1983 on the Apple II.[^ref-36] Slye names these games as using it: "Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D."[^ref-16] Sierra Chest names two versions: 3-Space 1.0 (*Stellar 7*) and 3-Space 2.0 (*Red Baron II*, *Red Baron 3D*).[^ref-16]
+3Space was Dynamix's 3D engine. Damon Slye designed it with David McClurg, and Sierra Chest records that it was first developed for *Stellar 7*.[^ref-16] Sierra's own *News Magazine* said in 1990 that the original *Stellar 7* "was the first game to use Damon Slye's 3Space", and that the 1990 remake used "improved 3Space technology";[^ref-35] MobyGames and Wikipedia both date that original to 1983 on the Apple II,[^ref-36][^ref-49] which makes 1983 the start of the engine's span here; Sierra Chest's engine page gives no years.[^ref-16] Slye names these games as using it: "Stellar 7, Arcticfox, Abrams Battletank, Nova9, A10 Tank Killer, Red Baron, Aces of the Pacific, Aces over Europe, David Wolf Secret Agent, Mechwarrior, MetalTech: EarthSiege, EarthSiege 2, Silent Thunder, Red Baron II & Red Baron 3D."[^ref-16] Sierra Chest names two versions: 3-Space 1.0 (*Stellar 7*) and 3-Space 2.0 (*Red Baron II*, *Red Baron 3D*).[^ref-16]
 
 ### 3Space games
 
 | Year | Title | Notes |
 |------|-------|-------|
-| 1983 | *Stellar 7* (original) | Apple II; first game to use 3Space[^ref-35][^ref-36] |
+| 1983 | *Stellar 7* (original) | Apple II; first game to use 3Space[^ref-35][^ref-36][^ref-49] |
 | 1986 | *Arcticfox* | Named by Slye[^ref-16] |
 | 1989 | *Abrams Battle Tank* | Named by Slye;[^ref-16] MobyGames dates the DOS release to April 1989,[^ref-37] Wikipedia to 1988[^ref-38] |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight combat |
@@ -45,7 +45,7 @@ Unlike the SCI generations, which Sierra developed in-house and shipped across m
 | 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] | Mech combat |
 | 1995 | [[1995 - Metaltech - Earthsiege Expansion Pack\|Metaltech: Earthsiege Expansion Pack]] | In Sierra Chest's 3-Space group;[^ref-16] DOS 1995[^ref-44] |
 | 1996 | [[1996 - Earthsiege 2\|Earthsiege 2]] | Mech combat sequel |
-| 1996 | [[1996 - Silent Thunder - A-10 Tank Killer II\|Silent Thunder: A-10 Tank Killer II]] | Named by Slye[^ref-16] |
+| 1996 | [[1996 - Silent Thunder - A-10 Tank Killer II\|Silent Thunder: A-10 Tank Killer II]] | Named by Slye;[^ref-16] GameSpot: "Employing Dynamix' Terrain and 3DSpace technologies"[^ref-50] |
 | 1997 | [[1997 - Red Baron II\|Red Baron II]] | 3-Space 2.0[^ref-16] |
 | 1998 | [[1998 - Red Baron 3D\|Red Baron 3D]] | 3-Space 2.0[^ref-16] |
 
@@ -69,7 +69,7 @@ Dynamix's later shooters did not use 3Space. PCGamingWiki lists [[1998 - Starsie
 
 **Developer:** [[Papyrus Design Group]] (Watertown, Massachusetts).
 
-Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racing* and *Grand Prix Legends* games. Sources name them differently: PCGamingWiki files *NASCAR Racing*, *Grand Prix Legends*, *NASCAR Racing 2002 Season*, *NASCAR Racing 2003 Season* and iRacing under an engine it calls "Papy3D",[^ref-40] while Sierra Chest lists IndyCar Racing 2 and Grand Prix Legends under "Unknown/unnamed" engines.[^ref-18] Papyrus is best known for "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends".[^ref-5]
+Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racing* and *Grand Prix Legends* games. Sources name them differently: PCGamingWiki files *NASCAR Racing*, *Grand Prix Legends*, *NASCAR Racing 2002 Season*, *NASCAR Racing 2003 Season* and iRacing under an engine it calls "Papy3D" (the same list also carries *Road Rash*, credited to Electronic Arts and Papyrus),[^ref-40] while Sierra Chest lists IndyCar Racing 2 and Grand Prix Legends under "Unknown/unnamed" engines.[^ref-18] Papyrus is best known for "realistic sim racing games based on the NASCAR and IndyCar leagues, as well as the unique Grand Prix Legends".[^ref-5]
 
 ### Papyrus games
 
@@ -97,15 +97,15 @@ Papyrus built its own simulation engines for its *IndyCar Racing*, *NASCAR Racin
 
 **Developer:** [[Relic Entertainment]] (Vancouver, BC).
 
-Relic built its own 3D engine for *Homeworld* (1999), its first game, in which the player's fleet "can travel in a fully three-dimensional space within each level rather than being limited to a two-dimensional plane".[^ref-7] *Homeworld: Cataclysm* (2000), developed by Barking Dog Studios, "uses essentially the same game engine as Homeworld".[^ref-23] *Homeworld 2* (2003) had its own engine.[^ref-24]
+Relic built its own 3D engine for *Homeworld* (1999), its first game, in which the player's fleet "can travel in a fully three-dimensional space within each level rather than being limited to a two-dimensional plane".[^ref-7] *Homeworld: Cataclysm* (2000), developed by Barking Dog Studios, "uses essentially the same game engine as Homeworld".[^ref-23] *Homeworld 2* (2003) ran on a new engine, which the fan site Well of Souls calls "rewritten from the ground up",[^ref-51] and Wikipedia later names "the Homeworld 2 engine".[^ref-24]
 
 ### Homeworld engine games
 
 | Year | Title | Engine |
 |------|-------|--------|
-| 1999 | [[1999 - Homeworld\|Homeworld]] | Homeworld; published by Sierra Studios |
-| 2000 | [[2000 - Homeworld - Cataclysm\|Homeworld: Cataclysm]] | Homeworld; developed by Barking Dog Studios[^ref-23] |
-| 2003 | [[2003 - Homeworld 2\|Homeworld 2]] | Homeworld 2 |
+| 1999 | [[1999 - Homeworld\|Homeworld]] | Relic's own engine; published by Sierra Studios[^ref-7] |
+| 2000 | [[2000 - Homeworld - Cataclysm\|Homeworld: Cataclysm]] | "Essentially the same game engine as Homeworld"; developed by Barking Dog Studios[^ref-23] |
+| 2003 | [[2003 - Homeworld 2\|Homeworld 2]] | Homeworld 2 engine, new for the game[^ref-24][^ref-51] |
 
 ### Post-Sierra Homeworld
 
@@ -143,7 +143,7 @@ LithTech is a discontinued game engine "developed by Monolith Productions and co
 
 | Year | Title | Notes |
 |------|-------|-------|
-| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | LithTech 2.0 at release, updated to 2.2 by a patch; reviews called it LithTech 2.5;[^ref-10] Windows published by Fox Interactive, PlayStation 2 by Sierra Entertainment[^ref-27] |
+| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | Sources differ on the version: Wikipedia's LithTech article says it shipped on LithTech 2.0 and "received an upgrade to LithTech 2.2 in a patch release",[^ref-10] and its NOLF infobox gives 2.2,[^ref-27] while the NOLF article text, a Eurogamer *Aliens versus Predator 2* review quoted in the LithTech article ("the same engine that powered No One Lives Forever, LithTech 2.5"), PC Gamer's January 2001 review and GA-Source's September 2000 report all say LithTech 2.5;[^ref-27][^ref-10][^ref-47][^ref-48] Windows published by Fox Interactive, PlayStation 2 by Sierra Entertainment[^ref-27] |
 | 2001 | Aliens versus Predator 2 | Lithtech Talon; published by Sierra On-Line and Fox Interactive[^ref-34] |
 | 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2]] | LithTech Jupiter; Vivendi Universal Games under the Sierra brand, with Fox Interactive[^ref-28] |
 | 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] | LithTech Jupiter ("the core NOLF 2 engine", per GameSpy;[^ref-41] NOLF 2 ran on Jupiter[^ref-28]); Monolith / Sierra |
@@ -174,8 +174,6 @@ For the 2D adventure engines (AGI, SCI), see [[Engine History]].
 
 ## Modern preservation and engine availability
 
-- **Dynamix 3Space** — Closed-source; titles run via DOSBox or Windows compatibility shims.
-- **Papyrus engines** — Closed-source.
 - **Relic Homeworld engine** — Relic released the *Homeworld* source code in 2003, which "sparked unofficial ports to Mac OS X and Linux".[^ref-7] The HomeworldSDL source port, now continued as Gardens of Kadesh, builds on that release.[^ref-13]
 - **Valve GoldSrc** — Proprietary engine owned by Valve.[^ref-9]
 - **Monolith LithTech** — Proprietary and discontinued.[^ref-10]
@@ -232,10 +230,15 @@ ScummVM supports a few 3D adventure engines (for example *Grim Fandango* and *My
 [^ref-37]: [MobyGames — Abrams Battle Tank (Moby ID 2906)](https://www.mobygames.com/game/2906/abrams-battle-tank/) — read via the MobyGames API: DOS 1989-04, developed by Dynamix, published by Electronic Arts
 [^ref-38]: [Wikipedia — Abrams Battle Tank](https://en.wikipedia.org/wiki/Abrams_Battle_Tank) — "developed by Dynamix and published by Electronic Arts in 1988 for MS-DOS"; designed by Damon Slye
 [^ref-39]: [PC Games — IndyCar Racing 2 review, December 1995 (Wayback, February 7, 1997)](https://web.archive.org/web/19970207065818/http://www.pcgamesmag.com/games/Dec95/indy1295.html) — Bill Meyer's review in the Dec95 section; adds "support for Windows 95 and the Power Mac"
-[^ref-40]: [PCGamingWiki — Engine: Papy3D](https://www.pcgamingwiki.com/wiki/Engine:Papy3D) — developer Papyrus Design Group; games: Grand Prix Legends, iRacing, NASCAR Racing, NASCAR Racing 2002 Season, NASCAR Racing 2003 Season
+[^ref-40]: [PCGamingWiki — Engine: Papy3D](https://www.pcgamingwiki.com/wiki/Engine:Papy3D) — developer Papyrus Design Group; games: Grand Prix Legends, iRacing, NASCAR Racing, NASCAR Racing 2002 Season, NASCAR Racing 2003 Season, and Road Rash (Electronic Arts and Papyrus, 1996)
 [^ref-41]: [GameSpy — Contract J.A.C.K. review (Wayback, October 5, 2012)](https://web.archive.org/web/20121005233646/http://pc.gamespy.com//pc//contract-jack//6344p1.html) — "Monolith takes the No One Lives Forever series in a new direction in this standalone expansion"; "The core NOLF 2 engine is solid"
 [^ref-42]: [Wikipedia — SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) — "SWAT 4 was built on Irrational Games' Vengeance Engine powered by Unreal Engine 2 technology"
 [^ref-43]: [Jane Jensen — GK3 Designer Diaries #4 (June 1998), Gabriel Knight Pages](http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html) — "GK3 is the first project I've worked on that we created a game engine from scratch"; "GK3 needed this new engine and so did Sierra. The G-Engine is a fabulous piece of engineering"
 [^ref-44]: [MobyGames — Metaltech: EarthSiege - Expansion Pack (Moby ID 24568)](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) — read via the MobyGames API: DOS 1995
 [^ref-45]: [Wikipedia — Shogo: Mobile Armor Division](https://en.wikipedia.org/wiki/Shogo:_Mobile_Armor_Division) — publisher Monolith Productions (NA), Microïds (EU); engine LithTech 1.0; 1998
 [^ref-46]: [Wikipedia — Blood II: The Chosen](https://en.wikipedia.org/wiki/Blood_II:_The_Chosen) — publisher GT Interactive; engine LithTech; 1998
+[^ref-47]: [PC Gamer — No One Lives Forever review (web republication of the January 2001 US issue review)](https://www.pcgamer.com/no-one-lives-forever-review/) — "the realistic settings made possible by the LithTech 2.5 engine"
+[^ref-48]: [GA-Source — NOLF Design Philosophy Explained (Wayback, November 9, 2000)](https://web.archive.org/web/20001109140500/http://www.ga-source.com/all/news/bits/09+25+2000/6:28:59.shtml) — "developed by Monolith Productions and features the LithTech 2.5 game operating system"
+[^ref-49]: [Wikipedia — Stellar 7](https://en.wikipedia.org/wiki/Stellar_7) — infobox release dates: 1983 Apple II, 1984 Commodore 64; remake 1990 MS-DOS; designer Damon Slye
+[^ref-50]: [GameSpot — Silent Thunder: A-10 Tank Killer II review](https://www.gamespot.com/reviews/silent-thunder-a-10-tank-killer-ii-review/1900-2533002/) — "Employing Dynamix' Terrain and 3DSpace technologies, Silent Thunder sports astoundingly smooth, photo-realistic, texture-mapped terrain"
+[^ref-51]: [Well of Souls — Homeworld 2 info/history](https://well-of-souls.com/homeworld/hw2/info.htm) — fan-site history: the "rewritten from the ground up" HW2 engine, "by all accounts"
