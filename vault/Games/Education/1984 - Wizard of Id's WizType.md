@@ -101,7 +101,7 @@ In 1984, Sierra On-Line put out two games based on the Wizard of Id comic strip,
 
 ### Production
 
-WizType was developed by Sydney Development Corp. and published by Sierra.[^ref-2][^ref-13] The manual credits the design to Rick Banks, Michael Bate, Jewell Couch and Ken Williams.[^ref-10] MobyGames credits Frank Randak with programming the DOS version.[^ref-2]
+WizType was developed by Sydney Development Corp. and published by Sierra.[^ref-2][^ref-13] The manual credits the design to Rick Banks, Michael Bate, Jewell Couch and Ken Williams.[^ref-10] MobyGames credits Frank Randak with programming the DOS version and Chuck Benton with programming the Apple II version.[^ref-2][^ref-30]
 
 **Development Credits:**[^ref-7][^ref-10]
 - **Designer:** Rick Banks
@@ -109,6 +109,7 @@ WizType was developed by Sydney Development Corp. and published by Sierra.[^ref-
 - **Designer:** Jewell Couch
 - **Designer:** Ken Williams
 - **DOS Programmer:** Frank Randak[^ref-2]
+- **Apple II Programmer:** [[Chuck Benton]][^ref-30]
 
 ### Technical Specifications
 
@@ -204,3 +205,4 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 [^ref-27]: [Computer History Museum – Wizard of Id's Wiztype, catalog 102639498](https://www.computerhistory.org/collections/catalog/102639498) – 5.25-inch floppy with instruction book and reference card; publisher Sierra On-Line, Inc.; category Educational
 [^ref-28]: [Atarimania – Wizard of Id's WizType (Atari 8-bit)](https://www.atarimania.com/game-atari-400-800-xl-xe-wizard-of-id-s-wiztype-_5790.html) – developer Sydney Development Corp., publisher Sierra On-Line, 1984, disk, keyboard controls, serial SRL-231
 [^ref-29]: [Internet Archive – Computer Games, February 1984](https://archive.org/details/computer_games_feb84) – "Video Game Gazette" item on the Sierra On-Line and Sydney Development Corp. Johnny Hart agreement, the first batch of an announced 80 games including Wiztype, and Wiztype as the first independent product for Coleco's Adam
+[^ref-30]: [MobyGames – Chuck Benton credits](https://www.mobygames.com/person/6030/chuck-benton/credits/) – Wizard of Id's WizType (1984, Apple II): Programmed by

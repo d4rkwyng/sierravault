@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Leisure Suit Larry: Wet Dreams Don''t Dry is the ninth installment in
   the Leisure Suit Larry series, a 2018 point-and-click adventure by CrazyBunch that
   sends Larry Laffer from the late 1980s into the age of smartphones and dating apps.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -93,6 +93,8 @@ Notably absent from development was series creator Al Lowe[^ref-9], who "only fo
 ### Production
 
 The game was developed using Unity engine (specifically build 2017.4.29f1)[^ref-26] with a team of 61 people credited, in 33 professional roles plus 28 thanks[^ref-8].
+
+Special Thanks in the credits include Al Lowe and [[Chuck Benton]], the author of *Softporn Adventure*[^ref-8].
 
 Jan Rabson, who had voiced Larry Laffer since Leisure Suit Larry 6 in 1993, played Larry in this game[^ref-63]. According to user-contributed IMDb trivia, the role was recast at the last minute with Rabson after fan backlash to the Larry voice heard in the first trailer, and the other voice actor had already recorded around 25% of Larry's dialogue[^ref-7]. The soundtrack was composed by Johannes Semm and Kai Rosenkranz[^ref-28] and was sold separately as DLC on Steam; like the game, the soundtrack's Steam page now says it is "no longer available on the Steam store"[^ref-58].
 
