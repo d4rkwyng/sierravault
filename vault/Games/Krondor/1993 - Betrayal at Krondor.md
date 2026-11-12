@@ -45,9 +45,9 @@ The game achieved critical and commercial success, winning Computer Gaming World
 
 The story begins as Gorath, a moredhel (dark elf) renegade, is attacked by an assassin while attempting to warn the people of Krondor of an upcoming moredhel invasion led by the warlord Delekhan.[^ref-24] Gorath is rescued by Seigneur Locklear, a young knight serving Prince Arutha of Krondor, and the two are joined by Owyn Beleforte, a young magician and the youngest son of the Count of Tiburn.[^ref-1] Together, the unlikely trio must journey to Krondor to deliver Gorath's warning about the impending threat to the Kingdom of the Isles.
 
-The narrative unfolds across nine chapters that explore political intrigue, ancient magic, and the complex relationship between humans and the moredhel, who have been enemies for generations.[^ref-7] As players progress, they uncover a conspiracy involving the Nighthawks, an ancient guild of assassins who have plagued Midkemia for centuries and were purged from Krondor ten years prior by Prince Arutha after their involvement in the poisoning of Princess Anita.[^ref-8] The characters also encounter Lysle Rigger, Jimmy the Hand's long-lost twin brother, a character first introduced in this game who would later appear in Feist's novels.[^ref-1]
+The narrative unfolds across nine chapters, from the party's journey south to Krondor, through the Nighthawk conspiracy and the moredhel siege of Northwarden, to the final confrontation beneath Sethanon.[^ref-1] As players progress, they uncover a conspiracy involving the Nighthawks, an ancient guild of assassins who have plagued Midkemia for centuries and were purged from Krondor ten years prior by Prince Arutha after their involvement in the poisoning of Princess Anita.[^ref-8] The characters also encounter Lysle Rigger, Jimmy the Hand's long-lost twin brother, a character first introduced in this game who would later appear in Feist's novels.[^ref-1]
 
-The story takes players across the realm of Midkemia, from the northern provinces of Yabon and LaMut to the city of Krondor itself and the elven realm of Elvandar,[^ref-1] and eventually beyond Midkemia to Timirianya, a desolate world destroyed by the Valheru and inhabited by the serpent-like Panath-Tiandn.[^ref-1][^ref-9] Throughout their journey, players meet established characters from Feist's novels including Prince Arutha, James (formerly Jimmy the Hand), Pug the magician, and Duke Martin, while encountering new characters created specifically for the game.[^ref-1][^ref-16] The tale explores themes of redemption, loyalty, and the possibility of peace between ancient enemies, culminating in a confrontation that reveals the true scope of Delekhan's plans and the titular betrayal at the heart of the conspiracy.
+The story takes players across the realm of Midkemia, from the northern provinces of Yabon and LaMut to the city of Krondor itself and the elven realm of Elvandar,[^ref-1] and eventually beyond Midkemia to Timirianya, a desolate world destroyed by the Valheru and inhabited by the serpent-like Panath-Tiandn.[^ref-1][^ref-9] Throughout their journey, players meet established characters from Feist's novels including Prince Arutha, James (formerly Jimmy the Hand), Pug the magician, and Duke Martin, while encountering new characters created specifically for the game.[^ref-1]
 
 ## Gameplay
 
@@ -61,15 +61,15 @@ The game's book-like presentation extends throughout its design philosophy, with
 
 The game is divided into nine chapters, each functioning like a section of a novel with specific narrative goals while allowing considerable freedom in exploration and approach:[^ref-4]
 
-- **Chapter 1:** Journey to warn Prince Arutha, traveling from the northern provinces toward Krondor
-- **Chapter 2:** Investigation and political maneuvering within the kingdom
-- **Chapter 3:** Expanding exploration of the gameworld with multiple objectives
-- **Chapter 4:** Prison break sequence involving character Owyn[^ref-14]
-- **Chapter 5:** Continued investigation with house encounters
-- **Chapter 6:** Magical trap challenges and powerful weapon acquisition[^ref-15]
-- **Chapter 7:** Further political developments
-- **Chapter 8:** Journey to Timirianya and encounter with Pug[^ref-1][^ref-9]
-- **Chapter 9:** Final confrontation and resolution
+- **Chapter 1, "Into a Dark Night":** Locklear, Owyn and Gorath fight off a moredhel assassin and travel south to Krondor, entering the palace through the sewers with James' help; Pug foils a second assassination attempt on Gorath[^ref-1]
+- **Chapter 2, "Shadow of the Nighthawks":** James, Owyn and Gorath slip out of Krondor to meet the king's soldiers in Romney, and find that they have all been murdered[^ref-1]
+- **Chapter 3, "The Spyglass and the Spider":** Following an enchanted spyglass and a silver spider north to Cavall Keep, the party uncovers the Nighthawk leader Navon du Sandau and learns of Delekhan's plan to attack Northwarden[^ref-1]
+- **Chapter 4, "Marked for Death":** Captured by Narab, Gorath and Owyn are taken to Sar-Sargoth and escape, reaching Arutha's camp[^ref-1][^ref-14]
+- **Chapter 5, "When Rivers Run Blood":** James and Locklear help Duke Martin prepare Northwarden's defence, and the moredhel siege begins[^ref-1]
+- **Chapter 6, "Betrayal":** Makala imprisons Pug's daughter Gamina, and Owyn and Gorath follow Pug's trail to Elvandar and the Book of Macros[^ref-1]
+- **Chapter 7, "The Long Ride":** James, Locklear and Patrus are sent to find and destroy the moredhel rift machine in the Dimwood[^ref-1]
+- **Chapter 8, "Of Lands Afar":** Owyn and Gorath are teleported to Timirianya, where they find Pug and free Gamina[^ref-1][^ref-9]
+- **Chapter 9, "Mad Gods Rage":** The final confrontation in the caverns beneath Sethanon[^ref-1]
 
 Each chapter establishes boundaries on where players can travel, with new areas opening as the story progresses.[^ref-1][^ref-17] The design philosophy prioritized player agency within the narrative framework: "From a quick glance at the MAP it should be obvious that the most direct path towards Krondor is the one leading South from the starting point. It is quite possible to finish the game by choosing this route. However, you should bear in mind that you have access to many other areas in this Chapter."[^ref-18]
 
@@ -122,7 +122,7 @@ The game earned particular praise for its immersive qualities. One MobyGames rev
 
 ### Origins
 
-The more direct origin of Betrayal at Krondor traces back to a chance meeting between John Cutter and Dynamix CEO Jeff Tunnell at the Summer Consumer Electronics Show in June 1991.[^ref-20] Tunnell, whom [[Neal Hallford]] describes as "the originator of the whole plan to license Raymond E. Feist's Riftwar novels in the first place,"[^ref-28] brought Cutter to Dynamix as a creative lead that summer.[^ref-30] Cutter, writing in the game's manual, recalled discovering Feist's *Magician: Apprentice*: "Here was a book filled with marvelous images of incredible worlds, and a real emphasis on character development, political intrigues, and military tactics and strategies."[^ref-12] Feist, in his own introduction to the manual, remembered Cutter and Dynamix telling him they wanted to "design a game that felt like one of your books."[^ref-12]
+The more direct origin of Betrayal at Krondor traces back to a chance meeting between John Cutter and Dynamix CEO [[Jeff Tunnell]] at the Summer Consumer Electronics Show in June 1991.[^ref-20] Tunnell, whom [[Neal Hallford]] describes as "the originator of the whole plan to license Raymond E. Feist's Riftwar novels in the first place,"[^ref-28] brought Cutter to Dynamix as a creative lead that summer.[^ref-30] Cutter, writing in the game's manual, recalled discovering Feist's *Magician: Apprentice*: "Here was a book filled with marvelous images of incredible worlds, and a real emphasis on character development, political intrigues, and military tactics and strategies."[^ref-12] Feist, in his own introduction to the manual, remembered Cutter and Dynamix telling him they wanted to "design a game that felt like one of your books."[^ref-12]
 
 When asked if he would write the game himself, Feist replied simply: "you couldn't afford me."[^ref-20] By one account, the deal was "the most expensive literary license yet granted to a game developer."[^ref-20] The contract gave Dynamix rights to make Midkemia games until January 1, 1995.[^ref-20]
 
@@ -141,8 +141,13 @@ The project began with a week in which Cutter and Hallford hashed out the game a
 - **Design, Director:** John Cutter[^ref-24]
 - **Level / Scenario Design; Writing / Dialogue / Story:** [[Neal Hallford]][^ref-24] (MobyGames also lists Raymond E. Feist under Writing / Dialogue / Story; see Production for Feist's actual role)[^ref-1]
 - **Lead Programmer:** Nels Bruckner[^ref-28]
+- **Programming:** Stephen Cordon, Timothy Strelchun[^ref-24]
+- **Graphics / 3D Programming:** Damon Mitchell, Vance Naegle[^ref-24]
+- **Art Director:** Michael McHugh[^ref-24]
+- **Graphics / Artwork:** D. Brent Burkett, Rhonda Conley, John Garvin, Viggi Hippler, Robert Kraft, Peter Lewis, Sean Murphy, Tito Pagan[^ref-24]
+- **Cover Art:** D. Brent Burkett, Roger Smith[^ref-24] (Smith painted the box cover[^ref-30])
+- **Documentation:** Barbara Ray, Sue Roberts[^ref-24]
 - **Composer:** Jan Paul Moorhead[^ref-1][^ref-31]
-- **Box Cover Painting:** Roger Smith[^ref-30]
 
 The game featured 153 credited personnel—109 developers and 44 people in thanks credits.[^ref-24]
 
@@ -212,7 +217,19 @@ Modern compatibility issues with the CD version include short music tracks that 
 
 ### Easter Eggs and Trivia
 
-The game includes a hidden cheat menu, opened by entering a chapter-specific code into a summoned moredhel wordlock, featuring dialogue such as: "Why, do we attempt to take the cheater's path? Certainly there are other paths to take..." and "We should be cautious not to abuse this power. On the other hand, perhaps we are in a situation where we could use it."[^ref-37]
+The game includes a hidden cheat menu. Holding Alt, Right Shift and Tilde on the Overhead Map summons a moredhel wordlock in front of the party; entering the code for the current chapter opens the Cheat Central screen, which offers "Heal all characters" and an option to get the important items for the chapter.[^ref-37] The codes are:
+
+- Chapter 1: 6478
+- Chapter 2: 9216
+- Chapter 3: 7702
+- Chapter 4: 2132
+- Chapter 5: 5052
+- Chapter 6: 0680
+- Chapter 7: 0194
+- Chapter 8: 4743
+- Chapter 9: 9995
+
+The cheat comes with its own dialogue, such as: "Why, do we attempt to take the cheater's path? Certainly there are other paths to take..." and "We should be cautious not to abuse this power. On the other hand, perhaps we are in a situation where we could use it."[^ref-37]
 
 A glitch (or possibly intended hidden feature) allows players to make certain combinations of two moves in a single turn using mouse and keyboard combinations. Computer opponents also appear to use this technique in some instances.[^ref-1]
 
@@ -230,17 +247,17 @@ According to Raymond E. Feist himself: "Betrayal at Krondor won awards, sat atop
 
 ### Awards
 
-The game accumulated numerous accolades:[^ref-1][^ref-6][^ref-24]
+The game accumulated numerous accolades:
 
 - **Computer Gaming World Premier Role-Playing Game of the Year** (June 1994, issue #119)[^ref-40]
-- **Computer Games Strategy Plus Best RPG and Game of the Year** (1993)
-- **Compute Magazine Best Fantasy Role-playing/Adventure Game of the Year**
+- **Computer Games Strategy Plus Best RPG and Game of the Year** (1993)[^ref-1]
+- **Compute Magazine Best Fantasy Role-playing/Adventure Game of the Year**[^ref-6]
 - **Computer Gaming World Hall of Fame** (inducted February 1996, issue #139)[^ref-2]
-- **Computer Gaming World #43 on 150 Best Games of All Time** (November 1996)
-- **GameStar (Germany) #76 in 100 Most Important PC Games of the Nineties** (December 1999)
-- **PC Gamer #31 Best Computer Game Ever** (1994)
+- **Computer Gaming World #43 on 150 Best Games of All Time** (November 1996)[^ref-24][^ref-1]
+- **GameStar (Germany) #76 in 100 Most Important PC Games of the Nineties** (December 1999)[^ref-24]
+- **PC Gamer #31 Best Computer Game Ever** (1994)[^ref-1]
 - **PC Gamer #44 Best Computer Game Ever** (October 1998 per Wikipedia;[^ref-1] November 1999 per MobyGames[^ref-24])
-- **PC Gamer Top 50 Computer Games of All Time** (1997)
+- **PC Gamer Top 50 Computer Games of All Time** (1997)[^ref-1][^ref-6]
 
 ### Collections
 
@@ -253,6 +270,8 @@ The game has appeared in several compilations:
 Neal Hallford later began Betrayal at Krondor: Remastered (BAK:REM), a solo demo recreating the first chapter's systems in the Amazon Lumberyard engine; Feist was not involved. Hallford emphasized: "This is a not-for-profit, self-educational project. I will never sell anything with the Krondor name on it, or with any of the content based in the Midkemia universe unless otherwise given express permission / license from Raymond E. Feist and Midkemia Press."[^ref-29]
 
 A complete text compilation of all game dialogue and narrative was compiled by Eysteinn Bjornsson and hosted at www.hi.is/~eybjorn/krondor/textweb.html, preserving the game's extensive written content.[^ref-38]
+
+[xBaK](https://xbak.sourceforge.net/) is a fan-made engine remake of the game for Linux that runs on the data files from the original game, which are not distributed with it. Its project page describes it as in alpha stage, with a playable game not yet available, and lists 0.1.5 (February 17, 2010) as the latest release.[^ref-43]
 
 ### Related Publications
 
@@ -290,7 +309,6 @@ Betrayal at Krondor spawned both official and unofficial successors:
 
 - [[Krondor Series]]
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
-
 - [[1998 - Return to Krondor]]
 
 ## References
@@ -301,7 +319,6 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-4]: [Official Raymond E. Feist Website](https://www.crydee.com/raymond-feist/games/computer-based/betrayal-at-krondor) – chapter structure, gameplay features
 [^ref-5]: [COMPUTE! Magazine Issue 159](https://www.atarimagazines.com/compute/issue159/110_Betrayal_at_Krondor.php) – 3Space engine, technical details, Scott A. May review
 [^ref-6]: [Neal Hallford – Krondor Confidential Part XI](https://www.nealhallford.com/p/krondor-confidential-part-xi) – Feist quotes, awards, reception, sales data
-[^ref-7]: [Keiya's Blog Review](https://hokage.org/content/review-betrayal-at-krondor/) – timeline placement, gameplay description
 [^ref-8]: [Betrayal Fandom Wiki – Nighthawks](https://betrayal.fandom.com/wiki/Nighthawks) – Nighthawk lore and history
 [^ref-9]: [Mike's RPG Center – Timirianya](http://mikesrpgcenter.com/krondor/maps/timirianya.html) – Chapter 8 locations
 [^ref-10]: [Wikipedia – Krondor: The Betrayal](https://en.wikipedia.org/wiki/Krondor:_The_Betrayal) – novel publishers and November 1, 1998 publication date
@@ -310,7 +327,6 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-13]: [RPG Codex Analysis](https://rpgcodex.net/content.php?id=10511) – book-like design elements
 [^ref-14]: [CRPG Addict – Prison Break](http://crpgaddict.blogspot.com/2024/12/betrayal-at-krondor-prison-break.html) – Chapter 4 walkthrough
 [^ref-15]: [Internet Archive – BAKPAT](https://archive.org/details/BAKPAT) – official patch documentation, bug fixes
-[^ref-16]: [Mike's RPG Center – Training](http://mikesrpgcenter.com/krondor/training.html) – game locations and NPCs
 [^ref-17]: [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1085028649) – chapter mechanics, exploration
 [^ref-18]: [Dimwood.net Walkthrough](https://dimwood.net/chap1.html) – gameplay tips, money exploit
 [^ref-19]: [CRPG Revisited](http://crpgrevisited.blogspot.com/2013/04/betrayal-at-krondor-revisited.html) – skill system comparison to Morrowind
@@ -331,9 +347,10 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-34]: [Sierra Help – BaK Help](https://sierrahelp.com/Games/KrondorSeries/BaKHelp.html) – system requirements
 [^ref-35]: [PCGamingWiki – Betrayal at Krondor](https://www.pcgamingwiki.com/wiki/Betrayal_at_Krondor) – technical specifications, compatibility issues
 [^ref-36]: [GameFAQs Guide by Mr_Knowitall](https://gamefaqs.gamespot.com/pc/564546-betrayal-at-krondor/faqs/13367) – bug documentation
-[^ref-37]: [The Cutting Room Floor – Betrayal at Krondor](https://tcrf.net/Betrayal_at_Krondor) – cheat menu dialogue
+[^ref-37]: [The Cutting Room Floor – Betrayal at Krondor](https://tcrf.net/Betrayal_at_Krondor) – cheat menu activation keys, per-chapter codes and dialogue
 [^ref-38]: [GameFAQs Story Text Guide](https://gamefaqs.gamespot.com/pc/564546-betrayal-at-krondor/faqs/28141) – text compilation credits, Michael Dorn quote
 [^ref-39]: [Betrayal Fandom Wiki – Manual](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor_Manual) – manual specifications
 [^ref-40]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: "the winner of the PREMIER Role-Playing Game of the Year award is Betrayal at Krondor"; DOOM is named PREMIER Game of the Year
 [^ref-41]: [GameRankings – Betrayal at Krondor (archived 2019)](https://web.archive.org/web/20191209012808/https://www.gamerankings.com/pc/564546-betrayal-at-krondor/) – "87.50%", "Score based on 2 reviews"
 [^ref-42]: [Computer Gaming World #111 (October 1993), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_111) – Jay Kee's review "The Krondor Passes": "a fantasy role-playing game unlike any other", "a new high-watermark in RPG design", "the best I've seen in a fantasy CRPG", "a rare gem"
+[^ref-43]: [xBaK – A fan-made remake of Betrayal at Krondor](https://xbak.sourceforge.net/) – project page: fan-made engine, alpha stage, data files not distributed, release news through 0.1.5 (2010-02-17)
