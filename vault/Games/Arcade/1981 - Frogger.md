@@ -12,7 +12,7 @@ series: Frogger
 engine: Galaxian-derived arcade hardware
 protagonist: Frogger (the frog)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Frogger is Konami's 1981 arcade game, distributed by Sega/Gremlin, for
   which Sierra On-Line held the home-computer disk and tape rights and published ports
   for the Atari 8-bit, Apple II, Commodore 64, IBM PC, VIC-20 and Macintosh.
@@ -20,13 +20,13 @@ tags: [1980s, frogger, sierra]
 ---
 # Frogger
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Frogger is one of the most iconic and recognizable arcade games of the 1980s, originally developed by Konami and licensed for worldwide distribution by Sega/Gremlin in 1981[^ref-1]. The game's deceptively simple premise—guiding a frog safely across a busy road and a treacherous river—belies its challenging gameplay[^ref-1]. The game became a phenomenon during the golden age of arcade gaming and earned over $135 million for Sega/Gremlin in US cabinet sales, becoming its most successful release[^ref-1].
 
-Sierra On-Line played a crucial role in bringing Frogger to home computers, holding the magnetic media licensing rights while Parker Brothers held the ROM cartridge rights[^ref-4]. This licensing arrangement meant that some platforms received two entirely different versions of the game from different publishers[^ref-5]. Sierra's first port was John Harris's Atari 8-bit version, released in late 1982[^ref-32], followed by Apple II, Commodore 64 and IBM PC versions in 1983 and a Macintosh version in 1984[^ref-9][^ref-23].
+Sierra On-Line played a crucial role in bringing Frogger to home computers, holding the magnetic media licensing rights while Parker Brothers held the ROM cartridge rights[^ref-4]. This licensing arrangement meant that some platforms received two entirely different versions of the game from different publishers[^ref-5]. Sierra's first port was John Harris's Atari 8-bit version, released in late 1982[^ref-32], followed by Olaf Lubeck's Apple II version, which Softalk's December 1982 issue already listed and reviewed[^ref-43], then Commodore 64 and IBM PC versions in 1983 and a Macintosh version in 1984[^ref-9][^ref-23]. MobyGames dates the Apple II version to 1983[^ref-9].
 
 Frogger has earned lasting recognition as one of the greatest video games ever made, selling over 20 million copies worldwide by 2005[^ref-1]. The game was included in TIME's "All-TIME 100 Video Games" list in 2012[^ref-39] and was named a finalist for the World Video Game Hall of Fame in 2020, 2025 and 2026[^ref-40][^ref-28][^ref-41]; it was not inducted when the class of 2026 (Angry Birds, Dragon Quest, EA Sports FIFA International Soccer and Silent Hill) was announced on May 7, 2026[^ref-42]. Its cultural impact extends beyond gaming, with memorable appearances in television shows including Seinfeld, The Simpsons, and the film Wreck-It Ralph[^ref-7].
 
@@ -85,7 +85,9 @@ Frogger was positively received by critics upon its release[^ref-1]. Reviewing P
 
 The Atari 2600 version from Parker Brothers was particularly well-received, with Creative Computing Video & Arcade Games noting it was "one of the most detailed translations I have seen"[^ref-16]. The reviewer highlighted the innovative wraparound screen feature, where "if Frogger is on a log moving to a screen edge, he will reappear unharmed on the opposite side of the screen"[^ref-16].
 
-Sierra's home-computer versions were also praised. InfoWorld's Essential Guide to Atari Computers cited the Sierra version as an entertaining arcade game, and Ahoy! said the Sierra disk version and the Parker Brothers cartridge for the Commodore 64 "are excellent, with little to choose between them"[^ref-1]. Jimmy Maher of The Digital Antiquarian calls Harris's port Sierra's "one real hit" of its year: "a port done so well that some said it surpassed its inspiration"[^ref-37].
+Sierra's home-computer versions were also praised, though not uniformly. InfoWorld's Essential Guide to Atari Computers cited the Sierra version as an entertaining arcade game, and Ahoy! said the Sierra disk version and the Parker Brothers cartridge for the Commodore 64 "are excellent, with little to choose between them"[^ref-1]. Jimmy Maher of The Digital Antiquarian calls Harris's port Sierra's "one real hit" of its year: "a port done so well that some said it surpassed its inspiration"[^ref-37].
+
+Softalk's December 1982 review of Olaf Lubeck's Apple II version was sharply critical of its graphics. The reviewer wrote that the "official version of the popular arcade game Frogger" had "about as much soul as month-old lettuce in the Sahara", that the graphics "border on being abysmal", and that the frog "resembles a chess pawn with vestigial wings". The same review called Frogger "a good game" that was "quite addictive" and said "this game is fun to play", and it described Sierra On-Line's Atari version as "great": "The graphics sparkle, the sound is wonderful"[^ref-43]. In the January 1983 letters column, John Williams of Sierra On-Line replied that the game was "fun to play" by the reviewer's own wording, that Apple hardware limited the graphics, and that "We did the best implementation that we could with the resources we had available"[^ref-44].
 
 The game's broad appeal was noted by Cash Box magazine, which reported that "distributors report that Frogger attracts a broad base of players and is appealing to people of all ages. Women in particular enjoy the game and feel comfortable with it because it is non-aggressive yet very challenging"[^ref-11].
 
@@ -94,7 +96,7 @@ The game's broad appeal was noted by Cash Box magazine, which reported that "dis
 Modern critics continue to hold Frogger in high regard as a foundational arcade classic. AllGame's Brett Alan Weiss described it as "one of the most beloved videogames ever created and pure, undiluted gaming at its finest"[^ref-1]. The game's enduring appeal is reflected in its continued availability on modern platforms through Arcade Archives releases[^ref-17].
 
 **Aggregate Scores:**
-- **MobyGames:** 7.5/10 Moby Score, 75% Critics Average (39 critic reviews, 272 player ratings)[^ref-9]
+- **MobyGames:** 7.5/10 Moby Score, 75% Critics Average (39 critic reviews, 273 player ratings)[^ref-9]
 - **IMDB:** 7.2/10 (1,027 ratings) for original 1981 game (checked October 29, 2026)[^ref-18]
 - **KLOV/IAM:** 3.84/5 (26 votes)[^ref-10]
 - **C64-Wiki:** 7.79/10 (24 votes) for Sierra C64 version[^ref-14]
@@ -126,7 +128,9 @@ Frogger was Sierra's first licensed game. Its Atari programmer John Harris loved
 
 Harris started on the Atari 400/800 version while Williams assigned Olaf Lubeck to the Apple II[^ref-32]. Two months in, with the port nearly finished, Harris took his software to a software expo in San Diego, and nearly everything he had written was stolen there, including the near-complete Frogger. He had to write the game a second time, and the Atari 8-bit disk and cassette versions finally appeared in late 1982 under Sierra's short-lived SierraVision label[^ref-32]. Frogger was the last game Harris made for Sierra before he left for Synapse Software[^ref-37].
 
-Lubeck's Apple II version followed in 1983, and he also produced the IBM PC booter version that year[^ref-32]. [[Chuck Benton]] wrote the Commodore 64 version, released on disk in 1983[^ref-9][^ref-14][^ref-19]. He also updated Harris's Atari version with a two-player option[^ref-32]. A VIC-20 version followed in December 1983 and a Macintosh version in 1984[^ref-9][^ref-23]. Sierra also sent a cease-and-desist letter to the makers of the Apple II clone Ribbit, citing its exclusive licence[^ref-30].
+Lubeck's Apple II version was on sale by December 1982, when Softalk listed and reviewed it[^ref-43]; MobyGames lists it as 1983[^ref-9]. He also produced the IBM PC booter version in 1983[^ref-32]. [[Chuck Benton]] wrote the Commodore 64 version, released on disk in 1983[^ref-9][^ref-14][^ref-19]. He also updated Harris's Atari version with a two-player option[^ref-32]. A VIC-20 version followed in December 1983 and a Macintosh version in 1984[^ref-9][^ref-23]. Sierra also sent a cease-and-desist letter to the makers of the Apple II clone Ribbit, citing its exclusive licence[^ref-30].
+
+According to retro365, Parker Brothers later approached Sierra about acquiring Harris's Atari code for a cartridge version for the Atari home computers. Per Harris, he was working on a royalty basis, proposed a different arrangement, and Williams firmly declined. Retro365 reports that Williams allegedly told Harris he had hired another programmer for an updated two-player version and had told distributors to return Harris's version; according to Harris, Williams never hired another programmer and kept selling Harris's version. Retro365 adds that Williams did put Chuck Benton in charge of adding a two-player option, and that missing royalties and lack of recognition, along with a wish to work with other Atari developers, led Harris to leave Sierra[^ref-32].
 
 ### Voice Cast
 
@@ -177,7 +181,8 @@ The original Japanese arcade date is disputed: sources give January 1981 (introd
 | European | October 1981 | Arcade | Sega distribution[^ref-1] |
 | Parker Brothers | August 1982 | Atari 2600 | Cartridge port[^ref-9] |
 | Sierra On-Line (SierraVision) | Late 1982 | Atari 8-bit | John Harris's disk and cassette port[^ref-32] |
-| Sierra On-Line | 1983 | Apple II, IBM PC (booter) | Olaf Lubeck's ports[^ref-32][^ref-9] |
+| Sierra On-Line | By December 1982 (MobyGames: 1983) | Apple II | Olaf Lubeck's port; listed and reviewed in Softalk, December 1982[^ref-43]; MobyGames gives 1983[^ref-9] |
+| Sierra On-Line | 1983 | IBM PC (booter) | Olaf Lubeck's port[^ref-32][^ref-9] |
 | Sierra On-Line | 1983 | Commodore 64 | Chuck Benton's port, disk release[^ref-9][^ref-14][^ref-19] |
 | Sierra On-Line | 1983 | Atari 8-bit | Benton's update of Harris's version, adding a two-player option[^ref-32] |
 | Sierra On-Line | December 1983 | VIC-20 | Sierra release[^ref-9] |
@@ -317,3 +322,5 @@ The 1997 3D remake published by Hasbro Interactive and developed by Sony Compute
 [^ref-40]: [KATV – World Video Game Hall of Fame announces 2020 finalists (19 March 2020, Wayback Machine)](https://web.archive.org/web/20230703002434/https://katv.com/news/entertainment/world-video-game-hall-of-fame-announces-2020-finalists) – Frogger among the 2020 finalists
 [^ref-41]: [The Strong – World Video Game Hall of Fame Reveals 12 Finalists for 2026 Induction](https://www.museumofplay.org/press-release/world-video-game-hall-of-fame-reveals-12-finalists-for-2026-induction/) – "Can Frogger navigate its way to glory?"; 2026 finalist
 [^ref-42]: [The Strong – 2026 World Video Game Hall of Fame Inductees Revealed (7 May 2026)](https://www.museumofplay.org/press-release/2026-world-video-game-hall-of-fame-inductees-revealed/) – Angry Birds, Dragon Quest, EA Sports FIFA International Soccer and Silent Hill inducted; Frogger listed among the other finalists
+[^ref-43]: [Softalk, December 1982 (Internet Archive)](https://archive.org/details/softalkv3n04dec1982) – new-product listing and review of Frogger by Olaf Lubeck (Apple II), p. 226
+[^ref-44]: [Softalk, January 1983 (Internet Archive)](https://archive.org/details/softalkv3n05jan1983) – letters column: Sierra On-Line's reply to the December 1982 Frogger review
