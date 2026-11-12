@@ -117,13 +117,12 @@ King's Quest left its mark on the adventure genre, on Sierra's own reputation, a
 The series maintains an active fan community decades after the original games:
 - **AGDI** created fan remakes of KQ1-3[^ref-8]
 - **The Silver Lining** - A fan-made continuation released under a non-commercial licence from Activision, on condition that it be made clear it is "not an official sequel"; its fifth and final episode, announced for 2017, has not been released[^ref-19][^ref-9][^ref-24][^ref-25]
-- **King's Quest Omnipedia** - Comprehensive fan wiki[^ref-1]
+- **[King's Quest Omnipedia](https://kingsquest.fandom.com/wiki/King%27s_Quest_Omnipedia)** - Comprehensive fan wiki
 
 ### Merchandise and Adaptations
 - *The King's Quest Companion* (Peter Spear) contains novelizations of the games, and the KQ7 Players Guide novelizes that game[^ref-2]
 - Three original novels were published by Boulevard Books[^ref-2]
 - Hint books and strategy guides
-- The 2015 reboot introduced the series to new audiences
 
 ## Playing Today
 
@@ -189,10 +188,10 @@ The series maintains an active fan community decades after the original games:
 
 ## References
 
-[^ref-1]: [MobyGames - King's Quest series](https://www.mobygames.com/group/3/kings-quest-series/) – Series group 3 (ID verified via MobyGames API): "Sierra's longest-running and largest adventure game series"; first game "widely regarded as the progenitor of third-person perspective adventures"
+[^ref-1]: [MobyGames - King's Quest series](https://www.mobygames.com/group/3/kings-quest-series/) – Series group 3: "Sierra's longest-running and largest adventure game series"; first game "widely regarded as the progenitor of third-person perspective adventures"
 [^ref-2]: [Wikipedia - King's Quest](https://en.wikipedia.org/wiki/King%27s_Quest) – Series overview; "primarily responsible for building the reputation of Sierra"; 2.5M (1994), 3.8M (1996), 7M (1997) sales; KQ4 firsts; Mask of Eternity reception; Companion and novels
 [^ref-3]: [The Digital Antiquarian - The Unmaking and Remaking of Sierra On-Line](https://www.filfre.net/2013/07/the-unmaking-and-remaking-of-sierra-on-line/) – Jimmy Maher: IBM PCjr commission, AGI, Graham walking behind and in front of scenery
-[^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – "the first game in the series to have a female protagonist" (ID 129 verified via API)
+[^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – "the first game in the series to have a female protagonist"
 [^ref-5]: [Wikipedia - King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) – SPA-certified as selling more than 250,000 copies (CGW, February 1993); PC Data: 300,000–400,000 US units by November 2000
 [^ref-6]: [Wikipedia - King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – "generally considered the best title in the series"; about 400,000 copies in the first week (Ken Williams); CGW: "Sierra's finest adventure to date"
 [^ref-7]: [Ars Technica - History of Graphic Adventures](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) – IBM's $700,000 offer; "the game that defined the genre"; AGI superseded in 1988
@@ -208,7 +207,7 @@ The series maintains an active fan community decades after the original games:
 [^ref-18]: [Adventure Game Studio - King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) – "Retold by DrSlash"
 [^ref-19]: [Giant Bomb - The Silver Lining (archived May 17, 2025)](https://web.archive.org/web/20250517230147/https://www.giantbomb.com/the-silver-lining/3030-22124/) – Activision non-commercial licence; must make clear "it's not an official sequel"; Episodes 1-4 released 2010-2011
 [^ref-20]: [Computer Gaming World #103 (February 1993), p. 154, "Letters from Paradise: Platinum Plateau"](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n153/mode/1up) – SPA Platinum = audited 250,000 units; "King's Quest III, King's Quest V and Battle Chess were the most recent certifications" (checked against page scan)
-[^ref-21]: [MobyGames - Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – 1992; Checkers and Backgammon played against King Graham; game 20400 listed in King's Quest series group 3 (read via the MobyGames API)
+[^ref-21]: [MobyGames - Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – 1992; Checkers and Backgammon played against King Graham; game 20400 listed in King's Quest series group 3
 [^ref-22]: [UHS - King's Quest: Mask of Eternity hints](https://www.uhs-hints.com/uhsweb/kq8.php) – Seven areas: Kingdom of Daventry, Dimension of Death, Swamp, Underground Realm of the Gnomes, Barren Region, Frozen Reaches, Realm of the Sun
 [^ref-23]: [SCI Wiki - Sierra SCI Release List](https://sciwiki.sierrahelp.com/index.php/Sierra_SCI_Release_List) – lists the King's Quest I SCI remake (interpreter S.old.010, demo dated 1990/09/19) under "SCI0.1" (SCI01); ScummVM's own source (engines/sci/engine/features.cpp) also treats KQ1 as an SCI_VERSION_01 game
 [^ref-24]: [Phoenix Online Studios blog - The Silver Lining Haunted Castle Experience available now, and Episode 5 coming in 2017 (Katie Hallahan, November 10, 2016)](https://www.postudios.com/blog/the-silver-lining-haunted-castle-experience-available-now-and-episode-5-coming-in-2017/) – final episode "will be releasing in 2017"
