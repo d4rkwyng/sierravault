@@ -10,7 +10,7 @@ series: Sierra Educational
 engine: Machine language
 protagonist: Fuzzywomp
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Learning With Fuzzywomp is an educational software package developed
   and published by Sierra On-Line in 1984 for the Apple II computer. It collects four
   wordless, joystick-driven learning games for pre-readers aged three to six.
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, sierra-educational]
 ---
 # Learning With Fuzzywomp
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -55,7 +55,7 @@ The child steers Fuzzywomp with a joystick to pick one of the four games from th
 
 The packaging names the four games Domino Match, Juggling Clown, Bubble Up and Make-A-Monster. It lists the skill focus as pattern matching, counting, number sequencing and eye-hand coordination.[^ref-19]
 
-- **Domino Match:** A machine displays a domino, and the child must move Fuzzywomp to the identical one among eight shown on screen. After a wrong choice, Fuzzywomp points out the correct domino.[^ref-18][^ref-26]
+- **Domino Match:** A machine displays a domino, and the child must move Fuzzywomp to the identical one among eight shown on screen, according to *Softalk* and the Sierra Chest. MobyGames instead describes choosing from "six possible variants". After a wrong choice, Fuzzywomp points out the correct domino.[^ref-18][^ref-26][^ref-2]
 
 - **Juggling Clown:** A clown shows a numeral from one to ten, and the child releases that many gumballs from a gumball machine onto a ramp. With the right number, the clown juggles them. With the wrong number, the balls drop off the ramp one by one and are counted as they fall.[^ref-18][^ref-26]
 
@@ -75,7 +75,7 @@ The 1988 *Survey of Early Childhood Software* classed the program under counting
 
 *Softalk* (August 1984) reviewed it at length. The review called the game "reminiscent of and a follow-up to the company's successful Learning with Leeper." It liked the gentle tone, calling "the pacifist sentiment evident in the choice of a hair dryer rather than a piece of state-of-the-art weaponry" "admirable". Its verdict was lukewarm: "All in all, this is an enjoyable but unremarkable piece of software."[^ref-18]
 
-The game received a Parent's Choice Award (premath skills, ages 3–6), which Sierra advertised on its product registration card.[^ref-17] Sierra's own company timeline also records that Sierra won *Family Computing* magazine's Critic's Choice Award for Fuzzywomp in 1985.[^ref-20] The 1988 *Survey of Early Childhood Software* gave it a final rating of 73, with 80 for user friendliness and 79 for educational value.[^ref-22]
+The game received a Parent's Choice Award (premath skills, ages 3–6), which Sierra advertised on its product registration card.[^ref-17] Sierra's own 1990 company timeline reports that the company won *Family Computing* magazine's Critic's Choice Award for Fuzzywomp in 1985.[^ref-20] The 1988 *Survey of Early Childhood Software* gave it a final rating of 73, with 80 for user friendliness and 79 for educational value.[^ref-22]
 
 ### Modern Assessment
 
@@ -129,7 +129,7 @@ The *Creative Computing Software Buyers Guide 1984* and the 1988 early-childhood
 
 ### Sales and Commercial Impact
 
-No sales figures have been published. Sierra advertised its Parent's Choice Award on its product registration card, where it was listed for Apple II at $29.95.[^ref-17] Sierra's 1990 company timeline lists the *Family Computing* Critic's Choice Award for Fuzzywomp among the company's milestones.[^ref-20]
+No sales figures have been published. Sierra advertised its Parent's Choice Award on its product registration card, where it was listed for Apple II at $29.95.[^ref-17] Sierra's 1990 company timeline reports the *Family Computing* Critic's Choice Award for Fuzzywomp (1985) among the company's milestones.[^ref-20]
 
 ### Collections
 
@@ -178,7 +178,7 @@ No hint books or strategy guides are known.
 [^ref-2]: [MobyGames – Learning with Fuzzywomp](https://www.mobygames.com/game/9294/learning-with-fuzzywomp/) – 3.8/5 average from 4 ratings, 5.25" floppy media, Katakis 2012 user review, game description (bubbles from a pipe)
 [^ref-3]: [MyAbandonware – Learning with FuzzyWOMP](https://www.myabandonware.com/game/learning-with-fuzzywomp-7ma) – download listing only; not used as a source for any fact on this page
 [^ref-6]: [Giant Bomb – Learning with FuzzyWOMP](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/) – database entry: 1984, Apple II, Sierra as developer and publisher, "A group of four learning games for children"
-[^ref-8]: [Sierra Gamers – Learning with Fuzzywomp](https://www.sierragamers.com/learning-with-fuzzywomp/) – release year (1984)
+[^ref-8]: [Sierra Gamers – Learning with Fuzzywomp](https://www.sierragamers.com/learning-with-fuzzywomp/) ([archived copy](http://web.archive.org/web/20260419130552/https://www.sierragamers.com/learning-with-fuzzywomp/)) – release year (1984)
 [^ref-9]: [CollectorVision – Learning with FuzzyWOMP](https://collectorvision.com/games/lwfuzzywomp.php) – 2022 ColecoVision cartridge, product code LWF-902, programmer Nice Ideas
 [^ref-10]: [Wikidata – Learning with FuzzyWOMP](https://www.wikidata.org/wiki/Q2350175) – publication date 1984, Apple II platform
 [^ref-12]: [MobyGames – Learning with Leeper](https://www.mobygames.com/game/56058/learning-with-leeper/) – "Similar to Learning with FuzzyWOMP, the player can select one of four games"
