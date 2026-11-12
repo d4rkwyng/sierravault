@@ -10,7 +10,7 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
   and published by Activision under the revived Sierra Entertainment brand, in which an
   elderly King Graham tells his granddaughter Gwendolyn stories of his youthful adventures.
@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
@@ -156,7 +156,7 @@ Activision announced the cast in May 2015, headed by Christopher Lloyd (Doc Brow
 | Tom Kenny | The Merchant of Miracles[^ref-12] |
 | Zelda Williams | Amaya Blackstone[^ref-25] |
 
-Loretta Devine and Kevin Michael Richardson are also in the cast; Rock Paper Shotgun mentions both, but no source checked for this page names their roles[^ref-12][^ref-26]. Common Sense Media noted Zelda Williams as the daughter of Robin Williams[^ref-15].
+Loretta Devine (Muriel Hobblepot)[^ref-29] and Kevin Michael Richardson are also in the cast;[^ref-12][^ref-26] Common Sense Media noted Zelda Williams as the daughter of Robin Williams[^ref-15].
 
 ### Technical Achievements
 - Built on Unreal Engine 3[^ref-2], with hand-painted textures[^ref-19]
@@ -242,3 +242,4 @@ This game is not available on GOG[^ref-7].
 [^ref-26]: [Activision Blog – Meet the Cast of King's Quest (Scott Lowe, May 11, 2015; Wayback Machine, May 20, 2015)](https://web.archive.org/web/20150520134337/https://blog.activision.com/community/games-blog/more-games/blog/2015/05/11/meet-the-cast-of-kings-quest) – Lloyd as King Graham, Keaton as young Sir Graham, Jones as Gwendolyn; Shawn, Kenny, Z. Williams, Devine and Richardson in the cast
 [^ref-27]: [Steam – King's Quest DLC and Season Pass (Steam store data, checked November 11, 2026)](https://store.steampowered.com/api/appdetails?appids=345390&cc=us&l=en) – Chapter 1 free; Chapter 2 (Dec 15, 2015), Chapter 3 (Apr 26, 2016), Chapter 4 (Sep 27, 2016), Chapter 5 (Oct 25, 2016) each US$9.99; Season Pass US$24.99
 [^ref-28]: [MobyGames – King's Quest: Chapter I - A Knight to Remember](https://www.mobygames.com/game/74032/kings-quest-chapter-i-a-knight-to-remember/) – Chapter 1 entry, Windows/PS3/PS4 July 28, 2015 and Xbox 360/Xbox One July 29, 2015 (read via the MobyGames API, checked 2026-11-11)
+[^ref-29]: [Wikipedia – Loretta Devine](https://en.wikipedia.org/wiki/Loretta_Devine) – filmography lists her as "Muriel Hobblepot" in the King's Quest (2015) video game
