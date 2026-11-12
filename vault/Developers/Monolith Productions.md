@@ -6,11 +6,11 @@ defunct: 2025
 headquarters: "Kirkland, Washington, USA (founded in Redmond, Washington)"
 notable_games: ["Blood", "No One Lives Forever", "F.E.A.R.", "Middle-earth: Shadow of Mordor"]
 parent_company: "Warner Bros. Games"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Monolith Productions
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -20,7 +20,7 @@ Monolith Productions was an American video game developer founded on October 25,
 
 ### Founding and Early Years
 
-The Blood Wiki says Monolith was founded in October 1994 "by Brian Goble, Bryan Bouwman, Garrett Price, Paul Renault, Toby Gladwell, Brian Waite and Jason Hall in Redmond, Washington, nearby the headquarters of Microsoft".[^ref-11] Several of the founders, Hall among them, worked at Edmark. Microsoft hired the new company to make CDs showing off Windows 95 and DirectX, and the founders worked out of offices on Microsoft's Redmond campus. An investment from the Japanese publisher Takarajimasha later let Monolith open its own offices.[^ref-2] MobyGames gives the company's base as Kirkland, Washington.[^ref-10]
+The Blood Wiki says Monolith was founded in October 1994 "by Brian Goble, Bryan Bouwman, Garrett Price, Paul Renault, Toby Gladwell, Brian Waite and Jason Hall in Redmond, Washington, nearby the headquarters of Microsoft".[^ref-11] Several of the founders, Hall among them, worked at Edmark. Microsoft hired the new company to make CDs showing off Windows 95 and DirectX, and the founders worked out of offices on Microsoft's Redmond campus. An investment from the Japanese publisher Takarajimasha later let Monolith open its own offices.[^ref-2] By May 1997 the company employed more than 70 people, and Wikipedia reports $7.8 million in sales in 1999 and more than $8 million in 2000.[^ref-2] MobyGames gives the company's base as Kirkland, Washington.[^ref-10]
 
 Co-founder Brian Goble explained the name. DOS was still the main gaming platform, so it had to be "8 characters or less (for 8.3 filenames)". "Monolith" "came up, was semi mysterious, wasn't taken, and was 8 characters. Perfect."[^ref-11][^ref-2]
 
@@ -55,23 +55,30 @@ The Nemesis System, which the team's own postmortem lists first under "What went
 
 | Year | Game | Genre |
 |------|------|-------|
-| 1997 | Blood (GT Interactive)[^ref-10] | First-Person Shooter |
-| 1998 | Shogo: Mobile Armor Division (first LithTech game)[^ref-26] | First-Person Shooter |
-| 1998 | Blood II: The Chosen (GT Interactive)[^ref-31] | First-Person Shooter |
-| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] (Windows release published by Fox Interactive; Sierra Era) | Action-Adventure |
-| 2001 | Aliens versus Predator 2 (Sierra On-Line with Fox Interactive; Sierra Era)[^ref-12] | First-Person Shooter |
-| 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2: A Spy in H.A.R.M.'s Way]] (Sierra Era) | Action-Adventure |
-| 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] (Sierra Era) | First-Person Shooter |
-| 2003 | Tron 2.0 (Buena Vista Interactive)[^ref-30] | First-Person Shooter |
-| 2005 | F.E.A.R. (released under the Sierra Entertainment brand; Sierra Era)[^ref-23] | First-Person Shooter |
-| 2005 | The Matrix Online | MMORPG |
-| 2005 | Condemned: Criminal Origins (Sega; Warner Bros. Interactive Entertainment)[^ref-32] | First-Person Action-Adventure |
-| 2009 | F.E.A.R. 2: Project Origin (Warner Bros.) | First-Person Shooter |
-| 2012 | Gotham City Impostors (Warner Bros.) | First-Person Shooter |
-| 2012 | Guardians of Middle-earth (Warner Bros.) | MOBA |
-| 2014 | Middle-earth: Shadow of Mordor (Warner Bros.) | Action-Adventure |
-| 2017 | Middle-earth: Shadow of War (Warner Bros.) | Action-Adventure |
-| Cancelled 2025 | Wonder Woman | Action-Adventure |
+| 1997 | Blood (GT Interactive)[^ref-10][^ref-2] | First-Person Shooter |
+| 1997 | Claw[^ref-2][^ref-20] | 2D Platformer |
+| 1998 | Get Medieval[^ref-2] | |
+| 1998 | Shogo: Mobile Armor Division (first LithTech game)[^ref-26][^ref-2] | First-Person Shooter |
+| 1998 | Blood II: The Chosen (GT Interactive)[^ref-31][^ref-2] | First-Person Shooter |
+| 1999 | Gruntz[^ref-2] | |
+| 1999 | TNN Outdoors Pro Hunter 2[^ref-2] | |
+| 2000 | Sanity: Aiken's Artifact[^ref-2] | |
+| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] (Windows release published by Fox Interactive; Sierra Era)[^ref-25][^ref-2] | Action-Adventure |
+| 2001 | Tex Atomic's Big Bot Battles[^ref-2] | |
+| 2001 | Aliens versus Predator 2 (Sierra On-Line with Fox Interactive; Sierra Era)[^ref-12][^ref-2] | First-Person Shooter |
+| 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2: A Spy in H.A.R.M.'s Way]] (Sierra Era)[^ref-27][^ref-2] | Action-Adventure |
+| 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] (Sierra Era)[^ref-28][^ref-2] | First-Person Shooter |
+| 2003 | Tron 2.0 (Buena Vista Interactive)[^ref-30][^ref-2] | First-Person Shooter |
+| 2005 | F.E.A.R. (released under the Sierra Entertainment brand; Sierra Era)[^ref-23][^ref-2] | First-Person Shooter |
+| 2005 | The Matrix Online[^ref-2] | MMORPG |
+| 2005 | Condemned: Criminal Origins (Sega; Warner Bros. Interactive Entertainment)[^ref-32][^ref-2] | First-Person Action-Adventure |
+| 2008 | Condemned 2: Bloodshot[^ref-2] | |
+| 2009 | F.E.A.R. 2: Project Origin (Warner Bros.)[^ref-2] | First-Person Shooter |
+| 2012 | Gotham City Impostors (Warner Bros.)[^ref-2] | First-Person Shooter |
+| 2012 | Guardians of Middle-earth (Warner Bros.)[^ref-2] | MOBA |
+| 2014 | Middle-earth: Shadow of Mordor (Warner Bros.)[^ref-2] | Action-Adventure |
+| 2017 | Middle-earth: Shadow of War (Warner Bros.)[^ref-2] | Action-Adventure |
+| Cancelled 2025 | Wonder Woman[^ref-15] | Action-Adventure |
 
 Years follow Wikipedia's list of Monolith-developed games.[^ref-2] F.E.A.R. 3 (2011) was developed by Day 1 Studios, not Monolith.[^ref-24]
 
