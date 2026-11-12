@@ -11,7 +11,7 @@ series: Front Page Sports
 engine: Unnamed 3D engine (unchanged from previous edition)
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Front Page Sports: Football Pro ''98 is a comprehensive American football
   simulation game from Synergistic Software and Sierra On-Line that puts players in
   both the coach''s headset and the quarterback''s cleats.'
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 98
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -94,6 +94,8 @@ The game supported modem, network, and Internet play[^ref-6]. Computer Games Mag
 | PC Player | 63/100 | Review by Alex Brante, January 1998[^ref-8] |
 | PC Games | 46% | September 1998[^ref-8] |
 
+The ESPN/GameSpot review index lists GameSpot's sub-scores as Gameplay 7, Graphics 5, Sound 5, Value 8 and Reviewer's Tilt 6, and carries a player review by David Messmer: "Basically the same as past versions, flaws included"[^ref-5].
+
 In sales, a Hartford Courant chart of the top-selling football games from January to October 1997 ranked Front Page Sports: Football '98 eighth, behind the series' '97 (third) and '96 (seventh) editions[^ref-32].
 
 ### Critical Analysis
@@ -128,7 +130,7 @@ MobyGames lists 108 people (107 professional roles, 1 thanks) in the game's cred
 
 The box notes that "Every NFL team's playbook is designed by the NFL's Will Furrer"[^ref-6]. Play-by-play commentary was provided by CBS Radio's Howard David[^ref-6][^ref-2]. MobyGames credits sound effects to Craig Utterback and Christopher Barker and lists no composer[^ref-2]; KHInsider catalogues a five-file game rip of the soundtrack, credited to Synergistic Software, without naming a composer[^ref-21].
 
-### Technical Challenges
+### Technical Issues
 
 GameSpot wrote that "In the few weeks since FPS: FP '98 started shipping, three patches have already appeared," and counted more than three dozen problems addressed in the 1.04f patch[^ref-16]. Sierra later released a second official update bringing the game to version 1.08[^ref-22]. One mod description noted the core problems: "Out of the box, the ratings for the players are out of wack as well as stock plays not working very well"[^ref-23].
 
