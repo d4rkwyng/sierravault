@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Power Chess 2.0 is a chess game published by Sierra On-Line for Windows,
   dated 1999 by MobyGames and 1998 by Sierra UK's 1998/99 catalog. Players
   call it a light update of Power Chess 98, using David Kittinger's WChess engine.
@@ -18,11 +18,11 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 2.0
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Power Chess 2.0 is a chess game developed and published by [[Sierra On-Line]] for Windows[^ref-1]. MobyGames and Sierra Chest date it to 1999[^ref-1][^ref-15], while Wikipedia, citing Sierra UK's *Catalog 98/99* (page 24), dates it to 1998[^ref-5]. It is the third release in the Power Chess series, after Power Chess (1996) and Power Chess 98 (1997)[^ref-5]. Players could face computer opponents or human players over the Internet. Its AI personalities included some that mimic the styles of Gary Kasparov, Bobby Fischer, Judit Polgar and Anatoly Karpov[^ref-1].
+Power Chess 2.0 is a chess game developed and published by [[Sierra On-Line]] for Windows[^ref-1]. MobyGames, Sierra Chest and Abandonware France date it to 1999[^ref-1][^ref-15][^ref-3], while Wikipedia, citing Sierra UK's *Catalog 98/99* (page 24), dates it to 1998[^ref-5]. It is the third release in the Power Chess series, after Power Chess (1996) and Power Chess 98 (1997)[^ref-5]. Players could face computer opponents or human players over the Internet. Its AI personalities included some that mimic the styles of Gary Kasparov, Bobby Fischer, Judit Polgar and Anatoly Karpov[^ref-1].
 
 The series set out to "humanize" computer chess. Abandonware France's reviewer of the original Power Chess called this "un pari réussi" (a successful bet)[^ref-3]. The series' Queen character, voiced in English and French by Natacha LaFerriere, gives the post-game analysis[^ref-5]. One of the game's opponents is programmed to improve at the same rate as the player[^ref-1]. Players who own it describe 2.0 as little more than a re-release. One TalkChess forum member called it "a simple update of Power Chess 98. Nothing more"[^ref-6]. An OpenChess poster found "nothing significantly new here, alas"[^ref-14]. Abandonware France describes it as the same thing as Power Chess 98 under another name, apparently for other territories[^ref-3].
 
@@ -58,9 +58,9 @@ A chess.com user who runs Power Chess 98 called Natacha LaFerriere's voice "love
 
 ### Contemporary Reviews
 
-Power Chess 2.0 received mixed reviews. Génération 4 gave it 3 out of 6 (50%) in its January 1999 issue[^ref-9]. Its capsule in issue 118 carries three stars, though reviewer R.G. wrote that it "pourrait bien réussir à réconcilier définitivement amateurs d'échecs et de jeux sur PC" (could well succeed in reconciling chess fans and PC gamers for good)[^ref-20]. PC Player was kinder, scoring it 68 out of 100 in March 1999[^ref-9][^ref-19]. Its reviewer, Thierry Miguet, praised the Queen's audio analysis after each game, but warned that occasional players would not be happy with its thin feature set[^ref-19]. MobyGames lists a critic average of 67% from three reviews[^ref-1].
+Power Chess 2.0 received mixed reviews. Génération 4 gave it 3 out of 6 (50%) in its January 1999 issue[^ref-9]. Its capsule in issue 118 carries three stars, though reviewer R.G. wrote that it "pourrait bien réussir à réconcilier définitivement amateurs d'échecs et de jeux sur PC" (could well succeed in reconciling chess fans and PC gamers for good)[^ref-20]. The capsule adds that the games are "agrémentées de scènes cinématiques" and "se déroulent dans un décor sombre des plus classieux", and that the virtual queen offers her advice to beginners[^ref-20]. PC Player was kinder, scoring it 68 out of 100 in March 1999[^ref-9][^ref-19]. Its reviewer, Thierry Miguet, praised the Queen's audio analysis after each game, but warned that occasional players would not be happy with its thin feature set[^ref-19]. The review's category scores were Grafik 4, Sound 4, Einstieg 6, Komplexität 8, Steuerung 5 and Multi-Player 3, and it listed editable opponent profiles among the strengths[^ref-19]. MobyGames lists a critic average of 67% from three reviews[^ref-1].
 
-The original Power Chess was better received. It won *Computer Games Strategy Plus*'s award for the 1996 "traditional" game of the year[^ref-5][^ref-26]. In its March 1997 issue, *PC Joker* compared four chess programs and rated Power Chess the highest[^ref-5]. The French magazine Joystick gave it a "Mégastar"[^ref-3].
+The original Power Chess was better received. It won *Computer Games Strategy Plus*'s award for the 1996 "traditional" game of the year[^ref-5][^ref-26]. In its March 1997 issue, *PC Joker* compared four chess programs, and in the editors' own tournament (each program played two games against every other) the original Power Chess shared first place with Mephisto Genius 3.5, narrowly ahead of Chess Master 5000[^ref-29]. The French magazine Joystick gave it a "Mégastar"[^ref-3].
 
 ### Modern Assessment
 
@@ -130,7 +130,7 @@ On native hardware, a TalkChess user reported that Power Chess 2.0 "works great 
 |---------|------|----------|-------|
 | Power Chess | September 30, 1996 | Windows 95 | Initial release[^ref-5] |
 | Power Chess 98 | 1997 | Windows 95/98 | Updated version[^ref-5] |
-| Power Chess 2.0 | 1999 (1998 per Sierra UK catalog) | Windows | Also called Power Chess 99[^ref-1][^ref-5][^ref-6] |
+| Power Chess 2.0 | 1999 (1998 per Sierra UK catalog) | Windows | Also called Power Chess 99; Abandonware France also dates it to 1999[^ref-1][^ref-3][^ref-5][^ref-6] |
 
 ### Easter Eggs and Trivia
 
@@ -183,7 +183,7 @@ At least one modern user still praises the Queen's voice and the post-game tutor
 
 [^ref-1]: [MobyGames – Power Chess 2.0](https://www.mobygames.com/game/38741/power-chess-20/) – release year, developer, publisher, German release, AI personalities, viewpoints, system requirements, multiplayer options, critic average
 [^ref-2]: GameFabrique – Sierra Games (page 2), gamefabrique.com (link removed: the site pushes a bundled .exe "download launcher") – capsule description of the original Power Chess (1996)
-[^ref-3]: [Abandonware France – Power Chess](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2832) – page on the original 1996 game: reviewer's verdict, Joystick Mégastar, WChess history, PGN support, technical cause of incompatibility, note that 2.0 is Power Chess 98 under another name
+[^ref-3]: [Abandonware France – Power Chess](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2832) – page on the original 1996 game: reviewer's verdict, Joystick Mégastar, WChess history, PGN support, technical cause of incompatibility, note that 2.0 is Power Chess 98 under another name, released in 1999
 [^ref-4]: [Chess.com Forum – A Search for Older Chess Software (page 2)](https://www.chess.com/forum/view/chess-books-equipment/a-search-for-older-chess-software-16790882?page=2) – user reports on Power Chess 98: VirtualBox setup, Windows 10/11 problems, praise for the Queen's voice, leecher1337 patch announcement
 [^ref-5]: [Wikipedia – Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – 1996 release date, later revisions (Power Chess 2.0 dated 1998 citing Sierra UK Catalog 98/99), Complete Chess, WChess, adaptive difficulty, Queen analysis, voice cast, awards
 [^ref-6]: [TalkChess Forum – Power Chess 2.0 ?](https://www.talkchess.com/forum3/viewtopic.php?t=36315) – 2010 thread: "Power Chess 99" / simple update of Power Chess 98, My System inclusion, Win95/Win98 behaviour, Windows 7/XP incompatibility, Sean Evans quote
@@ -206,3 +206,4 @@ At least one modern user still praises the Queen's voice and the post-game tutor
 [^ref-26]: [Computer Games Strategy Plus announces 1996 Awards (Wayback, 1997-06-14)](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – "Traditional" category winner (bold) Power Chess, Sierra; finalists Muppets Inside and Battleship
 [^ref-27]: [Échecs et informatique – Power Chess](https://echecs-et-informatique.franceserv.com/power-chess.html) – French chess site: 24 opponents, automatic level adaptation, series abandoned after a 1998 version and a version 2.0
 [^ref-28]: [PC PowerPlay 33 (February 1999), Agata Budinska – Sierra's Complete Chess](https://archive.org/details/PCPowerplay-033-1999-02) – review of the compilation: Power Chess as the intermediate level
+[^ref-29]: [PC Joker, March 1997 – Heft & Spiel chess comparison](https://archive.org/details/pcjoker-februar-1997-images) – review of the original Power Chess against Mephisto Genius 3.5, Chess Master 5000 and Grandmaster Chess Ultra; editors' tournament: "Power Chess und Mephisto belegten gemeinsam den ersten Platz, knapp gefolgt von Chess Master"
