@@ -11,14 +11,14 @@ series: Standalone
 engine: Machine Language
 protagonist: Earth Federation Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Threshold is a space-themed fixed shooter by Warren Schwader and Ken Williams,
   developed by On-Line Systems (later Sierra On-Line) and released in 1981 for the Apple II.
 tags: [1980s, arcade, shooter, sierra]
 ---
 # Threshold
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ The game places players in command of the spaceship Threshold during a dark age 
 
 The narrative of Threshold is set during a desperate period in humanity's future. "It is a dark age for the Earth Federation. Our home planet is under attack and our colonies are raided unmercifully. Space travel has become a death wish as more and more enemy ships find their way past the outer defenses and into the paths of friendly trade"[^ref-3]. This dystopian backdrop provides context for the player's mission as an exploring space attack ship commander.
 
-Players take on the role of a lone pilot defending humanity against waves of invading alien forces. With five fighters at their disposal, pilots must destroy multiple waves of enemy ships while using their hyperdrive capabilities to gain tactical advantages[^ref-3]. Tigervision's Atari 2600 box copy promises "up to 10 different enemy forces"[^ref-5]; Schwader said the Apple II original has 24 levels in all[^ref-16].
+Players take on the role of a lone pilot defending humanity against waves of invading alien forces. With five fighters at their disposal, pilots must destroy multiple waves of enemy ships while using their hyperdrive capabilities to gain tactical advantages[^ref-3]. Tigervision's Atari 2600 box copy promises "up to 10 different enemy forces"[^ref-5]; the 1986 Frogger/Threshold box promises "20 squads" of attackers[^ref-21], while Schwader said the Apple II original has 24 levels in all[^ref-16] and *Creative Computing* (1984) counted 24 waves[^ref-22].
 
 The 2600 box copy also warns players to "be alert for the narrow tunnels you must fly your ship through"[^ref-5]. The mothership only refuels the ship after every fourth wave, and running out of fuel before then ends the game[^ref-1][^ref-12].
 
@@ -49,13 +49,13 @@ The 2600 box copy also warns players to "be alert for the narrow tunnels you mus
 
 ### Interface and Controls
 
-Threshold employs a classic fixed shooter format where players control a spaceship positioned at the bottom of the screen[^ref-4]. The player's vessel can move horizontally across the play field while firing upward at enemy formations. The Apple II original is played with paddles or the keyboard[^ref-1][^ref-12]; the Atari 8-bit, Commodore 64, VIC-20 and Atari 2600 versions use a joystick[^ref-1][^ref-19].
+Threshold employs a classic fixed shooter format where players control a spaceship positioned at the bottom of the screen[^ref-4]. The player's vessel can move horizontally across the play field while firing upward at enemy formations. The Apple II original is played with paddles or the keyboard[^ref-1][^ref-12]; the Atari 8-bit, Commodore 64 and VIC-20 versions use a joystick[^ref-1][^ref-19], and MobyGames lists a digital joystick for the Atari 2600 version as well[^ref-1]. The Atari computer manual describes the Atari 8-bit version only[^ref-19].
 
 As in Astro Blaster, the laser overheats with sustained fire and a fuel gauge forces the pace[^ref-2][^ref-20]. The laser weapon has a temperature gauge that increases with each shot fired, and once it reaches maximum heat, the weapon becomes temporarily disabled[^ref-4]. Additionally, players must manage a fuel gauge that constantly depletes during gameplay[^ref-4].
 
 ### Structure and Progression
 
-Gameplay progresses through waves of enemy formations, with each wave presenting increasingly challenging configurations of alien ships. After every fourth wave, the ship docks with its mothership to refuel, earning bonus points for the fuel remaining[^ref-1]. The difficulty escalates as players advance, with later waves featuring faster movement, heavier fire and less predictable formations[^ref-1]. Schwader later said the Apple II original has 24 levels in all, a number On-Line never told players[^ref-16].
+Gameplay progresses through waves of enemy formations, with each wave presenting increasingly challenging configurations of alien ships. After every fourth wave, the ship docks with its mothership to refuel, earning bonus points for the fuel remaining[^ref-1]. The difficulty escalates as players advance, with later waves featuring faster movement, heavier fire and less predictable formations[^ref-1]. Schwader later said the Apple II original has 24 levels in all, a number On-Line never told players[^ref-16]; the 1986 box instead cites 20 squads[^ref-21].
 
 - **Formations:** Some enemies hold formation while firing downward; others break away, dive toward the player or try to ram the ship[^ref-1]
 - **Later waves:** Faster movement, heavier fire and increasingly unpredictable formations[^ref-1]
@@ -72,7 +72,7 @@ The fuel management system creates additional pressure, as players cannot simply
 
 ### Contemporary Reviews
 
-Reviewing the Apple II original for *Creative Computing* in April 1982, David Lubar called it the best of On-Line's latest releases and wrote, "The animation in Threshold is superb, the game is challenging"[^ref-12]. In *Electronic Games* (November 1982), Leigh Goldstein reviewed the Atari 400/800 version: "The graphics in Threshold are tremendous," though he found the game too difficult and disliked the disk access at each refuelling[^ref-13]. *The Book of Atari Software 1983* gave the Atari 8-bit version a "B" rating[^ref-2].
+Reviewing the Apple II original for *Creative Computing* in April 1982, David Lubar called it the best of On-Line's latest releases and wrote, "The animation in Threshold is superb, the game is challenging"[^ref-12]. In *Electronic Games* (November 1982), Leigh Goldstein reviewed the Atari 400/800 version: "The graphics in Threshold are tremendous," though he found the game too difficult and disliked the disk access at each refuelling[^ref-13]. *The Book of Atari Software 1983* gave the Atari 8-bit version a "B" rating[^ref-2]. Reviewing the Commodore 64 disk version in *Ahoy!* (March 1984), R.J. Michaels wrote that "Only humor saves this game from being a run of the mill slide-and-shoot" game, noting the Mothership that refuels the player's ship and receives a "Thanks, Ma" message, and added, "I enjoyed this game to the utmost"[^ref-23]. The September 1984 *Creative Computing* software profile of the VIC-20 version, signed "SW", called Threshold "a fine action game with a few interesting twists" and "certainly one of the best Galaxian derivatives available for the Vic"[^ref-22].
 
 Tigervision's Atari 2600 version received a Certificate of Merit in the "Best Science Fiction/Fantasy Videogame" category of the 1983 Arcade Awards, announced in *Electronic Games* (January 1983), which called it "one of the slickest cartridges published recently"[^ref-2][^ref-17]. *JoyStik* magazine (January 1983) gave the 2600 version 4 out of 5 stars: "Finally, a bottom-shoot space game where you can move vertically, as well as horizontally!"[^ref-2][^ref-18]
 
@@ -129,7 +129,7 @@ The game was eventually released on eight platforms, from the original Apple II 
 - **Media:** Cartridge
 - **Size:** 4 KB[^ref-6]
 - **Publisher:** Tigervision
-- **Differences:** Ship moves in eight directions in the lower screen; no warp drive
+- **Differences:** Ship moves in eight directions in the lower screen; no warp drive[^ref-2]
 
 **ColecoVision Version:**[^ref-8]
 - **Media:** Cartridge
@@ -158,7 +158,7 @@ No significant technical issues have been widely documented for Threshold, thoug
 
 ### Trivia
 
-- Threshold was one of the games released under Sierra's "SierraVision" brand during later releases[^ref-3]
+- The box art of Threshold carries a "SierraVision" label at the bottom[^ref-2]
 - Schwader said a sequel could have been ready in about a month, since the engine was kept separate from the creature data, but he moved on to the Atari ports instead[^ref-16]
 - Tigervision served as the publisher for the Atari 2600 version rather than On-Line Systems directly[^ref-5]
 
@@ -176,7 +176,7 @@ In 1986 Sierra paired the Commodore 64 disk version with Frogger in a two-game *
 
 ### Fan Projects
 
-No significant fan remakes or modifications of Threshold have been documented. The game remains primarily of historical interest as an early example of On-Line Systems' output before the company became primarily known for adventure games.
+No fan remakes or modifications of Threshold appear in the Wikipedia article or the Lemon64 entry as of 2026-11-11[^ref-2][^ref-15]. The game remains primarily of historical interest as an early example of On-Line Systems' output before the company became primarily known for adventure games.
 
 ### Related Publications
 
@@ -187,13 +187,10 @@ No significant fan remakes or modifications of Threshold have been documented. T
 
 Threshold occupies an interesting position in Sierra's history as a representative of the company's early, pre-adventure game focus. While On-Line Systems would become famous for the King's Quest series and other narrative adventures, their early catalog also included action titles such as Threshold. Warren Schwader's decision to "take the concept and run with it" rather than create a direct clone gave the game its own creatures and wave formations, even though it remained clearly based on Astro Blaster[^ref-2][^ref-16].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
+- Not currently available on GOG or Steam (checked 2026-11-11)
 
 **Download / Preservation**
 - [Internet Archive – Apple II Version](https://archive.org/details/a2_Threshold_1981_On_Line_Systems)
@@ -250,3 +247,5 @@ Threshold occupies an interesting position in Sierra's history as a representati
 [^ref-19]: [Threshold Manual (Atari computer version)](https://archive.org/details/agm_Threshold) – hyper warp drive once per flight, diskette loading
 [^ref-20]: [Wikipedia – Astro Blaster](https://en.wikipedia.org/wiki/Astro_Blaster) – Sega arcade original: temperature and fuel gauges, once-per-sector warp, mother-ship docking
 [^ref-21]: [Eli's Software Encyclopedia – Frogger/Threshold (C64, 1986)](https://elisoftware.org/wiki/Frogger/Threshold_(C64,_5_1/4%22_Disk)_Sierra_-_1986_USA,_Canada_Release) – 1986 Sierra two-game C64 disk package, box scans
+[^ref-22]: [Creative Computing, September 1984 – Threshold software profile (VIC-20)](https://archive.org/details/creativecomputing-1984-09) – "a fine action game with a few interesting twists"; 24 waves; $34.95
+[^ref-23]: [Ahoy!, March 1984 – Threshold review (C64)](https://archive.org/details/ahoy-magazine-03) – R.J. Michaels review of the C64 disk version; "Thanks, Ma" mothership message
