@@ -8,20 +8,20 @@ genre: Vehicle Simulation
 platforms: [DOS, Amiga, Mac]
 series: Stellar 7
 engine: 3Space
-protagonist: Raven Pilot
+protagonist: Terran Commander (Raven Pilot)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Stellar 7 is Dynamix's 1990 remake of Damon Slye's 1983 Battlezone-inspired
   tank game, rebuilt with 256-color graphics for DOS and later ported to the Amiga and Macintosh.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Stellar 7 (1990) is Dynamix's remake of Damon Slye's 1983 tank game of the same name, released for DOS in 1990 and ported to the Amiga in 1991 and the Macintosh in 1993.[^ref-15] The original, inspired by the 1980 arcade game Battlezone, first appeared in 1983 for the Apple II and Commodore 64.[^ref-1][^ref-4] Players control the Raven, described as "the most advanced Terran fighting vehicle," and defend Earth from an alien invasion led by the evil warlord Gir Draxon of the Arcturan Empire.[^ref-2] The original game was the first title created by the founders of Dynamix, released before the company was officially established in 1984.[^ref-3]
+Stellar 7 (1990) is Dynamix's remake of Damon Slye's 1983 tank game of the same name, released for DOS in 1990 and ported to the Amiga in 1991 and the Macintosh in 1993.[^ref-15] The original, inspired by the 1980 arcade game Battlezone, first appeared on the Apple II in 1983.[^ref-23][^ref-8] Dynamix Fandom dates the Commodore 64 release to 1984, while Softline's November–December 1983 issue already lists a Commodore 64 edition and C64-Wiki gives 1983.[^ref-23][^ref-4][^ref-9] Players control the Raven, described as "the most advanced Terran fighting vehicle," and defend Earth from an alien invasion led by the evil warlord Gir Draxon of the Arcturan Empire.[^ref-2] The original game was the first title created by the founders of Dynamix, released before the company was officially established in 1984.[^ref-3]
 
 The remake kept the original's gameplay and level design, adding a graphical and audio overhaul, cutscenes, power modules and a boss at the end of every level.[^ref-15] Sierra's Fall 1990 magazine announced it with "hand-painted, digitized, 256 color backgrounds" and enemies that "come in more than 20 different shapes and sizes."[^ref-33] Players fight across seven star systems, culminating in a final confrontation with Gir Draxon himself in the Arcturus system.[^ref-2] The title refers to these seven star systems.[^ref-1]
 
@@ -35,7 +35,7 @@ The 1983 original drew strong period notices; Softline praised its "arcade-style
 > **Platforms:** MS-DOS, Amiga, Macintosh[^ref-15]
 > **Release Year:** 1990 (remake of the 1983 original)
 > **Series:** Stellar 7
-> **Protagonist:** Raven Pilot/Commander
+> **Protagonist:** Terran Commander (Raven Pilot)
 > **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
@@ -92,7 +92,7 @@ Stellar 7 received strong reviews upon its original release and mixed-to-positiv
 - **Your Commodore** gave 4/5 in May 1985.[^ref-13]
 
 **1990 Remake:**
-- **Dragon Magazine** awarded 5 out of 5 stars to the DOS remake in 1991, according to Wikipedia (not independently verified).[^ref-1]
+- **Dragon Magazine** (No. 167, March 1991) reviewed the PC/MS-DOS version with VGA graphics and Roland sound ($34.95) in its "The Role of Computers" column and rated it five stars; Wikipedia also gives 5 out of 5.[^ref-38][^ref-1] The review calls it "a great arcade game" and says "Stellar 7 is a must buy."[^ref-38]
 - **Amiga version (1991):** Lemon Amiga lists eight magazine reviews, averaging 77%:[^ref-18]
   - **ACE** (No. 46, July 1991; Chris Jenkins): 780/1000
   - **Amiga Action** (No. 22, July 1991): 87%
@@ -120,9 +120,9 @@ One Lemon Amiga user, rating the Amiga version 4/10, recalled that "Back in the 
 
 ### Origins
 
-Stellar 7 emerged from the creative vision of [[Damon Slye]], a University of Oregon undergraduate and regular customer of The Computer Tutor, Jeff Tunnell's computer shop in Eugene, Oregon; Slye showed Tunnell the Apple II action game he was working on, and the two formed The Software Entertainment Company in 1983 to sell it.[^ref-6] Slye was deeply inspired by Atari's Battlezone arcade game and sought to create a similar experience for home computers.[^ref-9] The development occurred while Slye was living with his parents, giving him the freedom to work without external pressure—a circumstance that allowed him to meticulously craft the game's vector graphics engine.[^ref-23]
+Stellar 7 emerged from the creative vision of [[Damon Slye]], a University of Oregon undergraduate and regular customer of The Computer Tutor, Jeff Tunnell's computer shop in Eugene, Oregon; Slye showed Tunnell the Apple II action game he was working on, and the two formed The Software Entertainment Company in 1983 to sell it.[^ref-6] Slye was deeply inspired by Atari's Battlezone arcade game and sought to create a similar experience for home computers.[^ref-9] Dynamix Fandom says Slye was still living at home with his parents and had little money during development, so he had no external pressure to finish the project by a certain date.[^ref-23]
 
-Remarkably, Slye coded the entire game on notebook paper before transferring it to computer, demonstrating the methodical approach that would characterize his later career developing acclaimed flight simulators.[^ref-23] The game was created for the Apple II's modest 1 MHz CPU and 48K of memory, pushing the hardware to its limits to achieve smooth 3D rendering.[^ref-23]
+According to Dynamix Fandom, Slye worked on the Apple II, with its 1 MHz CPU and 48K of memory, and figured out how to create wire-frame 3D graphics and do math on the 6502 fast enough for it to run. He first coded the 3Space engine, wrote the whole game on notebook paper in algorithm form, then translated it to 6502 assembly and typed in the entire code.[^ref-23]
 
 ### Production
 
@@ -196,7 +196,7 @@ Audio recording preservation efforts have noted timing issues and incomplete rec
 
 - **Box Art Screenshot:** The game's cover uses an actual screenshot rather than commissioned artwork, with marketing materials boasting "That's not simply a cover painting, but an actual screenshot of Stellar7 in progress."[^ref-20]
 - **Penguin Software Humor:** Most Penguin Software games contained humorous remarks about penguins on the back cover. Stellar 7's read: "Penguins have yet to defy gravity."[^ref-8]
-- **Tom Clancy's Favorite:** Asked by Computer Gaming World in 1988 for his favorite computer game, Tom Clancy named Leather Goddesses of Phobos and added "I also like 'Stellar 7.'" He said "it is so unforgiving, it is just like life. It's just perfect to play while I'm exercising."[^ref-35]
+- **Tom Clancy's Favorite:** Asked by Computer Gaming World in 1988 for his favorite computer game, Tom Clancy named Leather Goddesses of Phobos and added "I also like 'Stellar 7.'" He said "it is so unforgiving, it is just like life. It's just perfect to play while I'm exercising."[^ref-35] Dragon's 1991 review of the DOS remake called the game "rumored to be the favorite arcade game of author Tom Clancy."[^ref-38]
 - **Pre-Company Title:** Stellar 7 was released before Dynamix was officially founded, making it a title that predates its own developer.[^ref-3]
 
 ## Legacy
@@ -240,14 +240,17 @@ Mark Ramshaw's 1991 Amiga Power review was warm despite its 67% score: "It may h
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Stellar+7&gid=1071)
 - [ClassicReload – Browser Playable](https://classicreload.com/stellar-7.html)
 
+**Manuals & Extras**
+- A Stellar 7 manual and a Stellar 7 reference card are listed on the Sierra Gamers Stellar 7 page, alongside a scan of the box spine and scans of the game diskettes.[^ref-28]
+
 ## See Also
 
 - [[1991 - Nova 9 - The Return of Gir Draxon|→ Next: Nova 9 - The Return of Gir Draxon]]
 
-- [[1993 - Stellar 7 - Draxon's Revenge]]
-- [[1993 - Stellar-Fire]]
+- [[1993 - Stellar 7 - Draxon's Revenge|Later in the series: Stellar 7 - Draxon's Revenge (3DO, 1993)]]
+- [[1993 - Stellar-Fire|Later in the series: Stellar-Fire (Sega CD, 1993)]]
 
-- **Arctic Fox** (1986): A spiritual successor using similar mechanics in an Arctic setting
+- **Arcticfox** (1986): follow-up to Stellar 7.[^ref-11][^ref-9]
 
 ## References
 
@@ -272,10 +275,11 @@ Mark Ramshaw's 1991 Amiga Power review was warm despite its 67% score: "It may h
 [^ref-25]: [VGMPF Wiki – Stellar 7 DOS](https://www.vgmpf.com/Wiki/index.php?title=Stellar_7_(DOS)) – audio devices, music analysis
 [^ref-26]: [MobyGames – Dynamix Sample Pack](https://www.mobygames.com/game/203474/dynamix-sample-pack/) – compilation contents
 [^ref-27]: [Internet Archive – Stellar 7 DOS CD-ROM Dynamix](https://archive.org/details/stellar7doscdromdynamixforwindows10) – packaging notes
-[^ref-28]: [Sierra Gamers – Stellar 7](https://www.sierragamers.com/stellar-7/) – manual availability
+[^ref-28]: [Sierra Gamers – Stellar 7](https://www.sierragamers.com/stellar-7/) – manual, reference card, box spine and diskette scans listed
 [^ref-32]: [Sierra Chest – Stellar 7 Walkthrough](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=walkthrough) – plot summary, Gir Draxon description, Guardians and warp links, difficulty modes
 [^ref-33]: [Sierra News Magazine, Vol. 3 No. 3, Fall 1990, pp. 15–16](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n14/mode/2up) – "Stellar 7" preview and "Dynamix, Inc." profile: first game to use 3Space, 256-color backgrounds, 20+ enemy types, Chicago CES preview, dozen-plus songs, Slye quote
 [^ref-34]: [Sierra News Magazine, Vol. 3 No. 3, Fall 1990, p. 53](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n52/mode/2up) – Keeping Up with Jones described as "Sierra's first VGA product"
 [^ref-35]: [Computer Gaming World #49, July 1988, p. 24](https://archive.org/details/Computer_Gaming_World_Issue_49/page/n23/mode/2up) – Tom Clancy interview: "I also like 'Stellar 7.'"
 [^ref-36]: [Creative Computing, September 1984, pp. 102, 105](https://archive.org/details/creativecomputing-1984-09/page/n103/mode/2up) – Owen Linzmayer review: "excellent adaptation" of Battlezone; "Play it once, and you are forever addicted"
 [^ref-37]: [Zzap!64 #3, July 1985, p. 81](https://archive.org/details/zzap64-magazine-003/page/n80/mode/1up) – Julian Rignall's ratings for Stellar 7: Graphics 82%, Sound 31%, Arcade feel 84%, Accuracy 87%; "The graphics are superb"
+[^ref-38]: [Dragon Magazine #167, March 1991, pp. 51–52 (Internet Archive item; issue 167 file)](https://archive.org/details/DragonMagazine260_201801) – "The Role of Computers" column: Stellar 7 (Dynamix) PC/MS-DOS review, $34.95, five stars, "a must buy"
