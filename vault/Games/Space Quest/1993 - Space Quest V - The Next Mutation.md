@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure
   game developed by Dynamix and published by Sierra On-Line, released on February
   5, 1993 for MS-DOS.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest V: The Next Mutation
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-18].
@@ -34,8 +34,8 @@ The game was released on floppy disk only; early plans for a CD-ROM "talkie" ver
 > **Designer:** [[Mark Crowe]][^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-5]
 > **Engine:** SCI1.1 (Sierra Creative Interpreter)[^ref-4][^ref-21]
-> **Platforms:** MS-DOS
-> **Release Year:** 1993
+> **Platforms:** MS-DOS[^ref-5]
+> **Release Year:** 1993[^ref-5]
 > **Series:** Space Quest
 > **Protagonist:** Roger Wilco
 > **Sierra Lineage:** Sierra Label (Dynamix)
@@ -68,7 +68,7 @@ Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), feat
 - Players collect garbage at various stops while uncovering the conspiracy[^ref-18]
 
 ### Puzzles and Mechanics
-- Inventory-based puzzle solving typical of Sierra adventures[^ref-5]
+- Inventory-based puzzle solving typical of Sierra adventures[^ref-31]
 - The game features extensive parody of Star Trek, including crew dynamics and ship operations[^ref-2][^ref-18]
 - On garbage runs Roger picks up a facehugger creature and takes it on as a pet[^ref-1]
 - Features product placement for Sprint, appearing in communications transmissions, on a billboard in the Spacebar, and in the ending credits[^ref-1]
@@ -77,7 +77,7 @@ Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), feat
 ## Reception
 
 ### Contemporary Reviews
-Charles Ardai in Computer Gaming World (June 1993) stated that the game was "not just funny" but also "exciting and suspenseful, due in large part to its movie-quality score, its atmosphere-enhancing sound effects, and its remarkable visuals"[^ref-17]. He praised "the high-adventure plot, and the first-rate graphics and sound" and described the dialogue and narration as "written with a dry wit and a sense of character that makes them a pleasure to read"[^ref-17]. Ardai concluded "I think even the most demanding Wilcophiles will be pleased"[^ref-17].
+Charles Ardai in Computer Gaming World (June 1993) stated that the game was "not just funny" but also "exciting and suspenseful, due in large part to its movie-quality score, its atmosphere-enhancing sound effects, and its remarkable visuals"[^ref-17]. He praised "the high-adventure plot, and the first-rate graphics and sound" and described the dialogue and narration as "written with a dry wit and a sense of character that makes them a pleasure to read"[^ref-17]. Ardai concluded "I think even the most demanding Wilcophiles will be pleased"[^ref-17]. He also had criticisms: "Another innovation, unfortunately, is the game's unprecedented number of typos", and "trips from planet to planet start to seem interminable after a while"[^ref-17].
 
 The game was welcomed by critics as a fun addition to the series, although it did not feature a voice-cast version as with Space Quest IV[^ref-1].
 
@@ -97,9 +97,9 @@ The game holds a MobyScore of 8.1 from 90 player ratings[^ref-5]. On GOG, the Sp
 ## Development
 
 ### Origins
-In 1991, Mark Crowe and his wife decided to move their young family to Oregon, and he transferred from Sierra's Oakhurst headquarters to its Dynamix subsidiary in Eugene[^ref-16]. According to Crowe: "SQ4 had been a particularly stressful development (I still consider it to be my masterpiece product) and I was ready to move on to something different... I was impressed with the work Jeff Tunnel was doing at Dynamix"[^ref-28]. This move separated the "Two Guys from Andromeda," and Scott Murphy never worked with Crowe on another Space Quest game[^ref-28]. Fan wikis attribute a "somewhat altered sense of humor" to Crowe working on the game without Murphy[^ref-18][^ref-20].
+In 1991, Mark Crowe moved to Oregon and transferred from Sierra's Oakhurst headquarters to its Dynamix subsidiary in Eugene[^ref-16]. According to Crowe: "SQ4 had been a particularly stressful development (I still consider it to be my masterpiece product) and I was ready to move on to something different... I was impressed with the work Jeff Tunnel was doing at Dynamix"[^ref-28]. This move separated the "Two Guys from Andromeda," and Scott Murphy never worked with Crowe on another Space Quest game[^ref-28]. Fan wikis attribute a "somewhat altered sense of humor" to Crowe working on the game without Murphy[^ref-18][^ref-20].
 
-Josh Mandel (later co-designer of Space Quest 6) was initially working on a design for SQ5 at Sierra, but Crowe was asked to take over the project at Dynamix[^ref-28]. Although Crowe had ideas for games using Dynamix's own adventure development system, Sierra CEO Ken Williams wanted Dynamix to use Sierra's SCI adventure development system instead[^ref-28].
+Crowe recalled being aware that Josh Mandel (later co-designer of Space Quest 6) was working on a design for SQ5 when he was asked to do the game[^ref-28]. Although Crowe had ideas for games using Dynamix's own adventure development system, Sierra CEO Ken Williams wanted Dynamix to use Sierra's SCI adventure development system instead[^ref-28].
 
 Development for Space Quest V began in December 1991 when director Mark Crowe and assistant director David Selle sat down and began roughing out the story line[^ref-3][^ref-4]. It took them about a month of conceptual work to come up with the preliminary design and story[^ref-3].
 
@@ -145,6 +145,7 @@ Sierra Help lists the game's original requirements as[^ref-26]:
 - Developed using Sierra Creative Interpreter 1.1 (SCI1.1)[^ref-4]
 - Over 200 storyboard sketches and nearly 100 backgrounds[^ref-3][^ref-4]
 - Over 1,100 animation loops including digitized video capture[^ref-4]
+- The game's 2,548,819 bytes of source code compiled down to 798,693 bytes of object code; together with animation, background pictures, sound and music, programs, drivers and interpreter, and message files, the game totalled 11,927,827 bytes, compressed to 7,142,190 bytes of resources on the program disks[^ref-28]
 - First Space Quest developed by Dynamix rather than Sierra On-Line proper[^ref-1][^ref-18]
 - First Space Quest with only one of the "Two Guys from Andromeda" (Mark Crowe)[^ref-1][^ref-18]
 - Featured product placement for Sprint telephone company[^ref-1][^ref-18]
@@ -162,7 +163,7 @@ Sierra Help lists the game's original requirements as[^ref-26]:
 | GOG | February 11, 2010 | Windows (ScummVM) | Space Quest 4+5+6[^ref-6][^ref-12] |
 | ScummVM | 1.2.0+ | Multi-platform | Full compatibility added[^ref-36] |
 
-**Beta version 0.028:** SpaceQuest.net notes that some DLL files are included only with beta version 0.028, suggesting Dynamix was working on Windows support, and that the file SCIWV.EXE is actually a ZIP file which, renamed to SCIWV.ZIP and extracted, yields an EXE-file that runs under Windows only[^ref-28]. The ScummVM wiki lists the debug-enabled reviewer's copy as dated October 22, 1992[^ref-40]
+**Beta version 0.028:** SpaceQuest.net notes that some DLL files are included only with beta version 0.028, suggesting Dynamix was working on Windows support, and that the file SCIWV.EXE is actually a ZIP file which, renamed to SCIWV.ZIP and extracted, yields an EXE-file that runs under Windows only[^ref-28]. The ScummVM wiki lists the debug-enabled reviewer's copy as dated October 22, 1992[^ref-40].
 
 **SCI Interpreter:**[^ref-21]
 - Engine: Sierra Creative Interpreter 1.1 (SCI1.1)
@@ -270,7 +271,7 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ5 Fun Facts](https://spacequest.net/sq5/funfacts/) – development stories, behind-the-scenes[^ref-28]
 - [SpaceQuest.net – SQ5 Cameos](https://spacequest.net/sq5/cameos/) – character appearances, references[^ref-29]
 - [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – continuity notes[^ref-30]
-- [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/wp-content/uploads/2024/09/SQ5-Pics.zip) – visual walkthrough (ZIP, 11 MB, 2,256 screenshots)[^ref-42]
+- [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/screenshot-walkthroughs-space-quest-games/) – visual walkthrough (ZIP, 11 MB, 2,256 screenshots)[^ref-42]
 - [Adventure Gamers – Space Quest V review (archived)](https://web.archive.org/web/20191214083813/https://adventuregamers.com/articles/view/18398) – Dante Kleinberg review, 2010[^ref-31]
 
 ## See Also
