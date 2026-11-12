@@ -303,7 +303,7 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 [^ref-37]: [The King's Quest Companion](https://archive.org/details/kingsquestcompan00spea) – Peter Spear hint book
 [^ref-38]: [PCGamingWiki – King's Quest](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Quest_for_the_Crown) – Technical fixes
 [^ref-39]: [Nerdly Pleasures – The Evolution of King's Quest](http://nerdlypleasures.blogspot.com/2017/04/the-evolution-of-kings-quest.html) – Eight-version history with exact dates, AGI interpreter versions, copy protection schemes, RAM and graphics support
-[^ref-40]: [The King's Quest Companion, 4th Edition (1997)](https://antarctica.no/~solskogen/temp/King%27s%20Quest%20Companion%20%5B4E%5D%20%5B1997%5D.pdf) – Peter Spear, Graham backstory, River Fools origin, dragon description (twelve feet long, green-scaled; shows "embarrassment" when its flame is doused)
+[^ref-40]: *The King's Quest Companion*, 4th Edition (Osborne/McGraw-Hill, 1997) – Peter Spear, Graham backstory, River Fools origin, dragon description (twelve feet long, green-scaled; shows "embarrassment" when its flame is doused)
 [^ref-41]: [King's Quest Omnipedia – The King's Quest Companion](https://kingsquest.fandom.com/wiki/The_King%27s_Quest_Companion) – Roberta Williams endorsement quotes
 [^ref-42]: [The Cutting Room Floor – King's Quest](https://tcrf.net/King%27s_Quest:_Quest_for_the_Crown) – Flamethrower easter egg, King Edward animation, Graham frame recycled from KQ2, unused sounds, uncompiled source code
 [^ref-43]: [King's Quest Omnipedia – SMS Version](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Quest_for_the_Crown_%28SMS%29) – Microsmiths developer, Parker Brothers publisher, Mark Lesser programmer, reduced map
