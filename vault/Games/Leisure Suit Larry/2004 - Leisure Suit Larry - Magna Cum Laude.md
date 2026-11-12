@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Proprietary
 protagonist: Larry Lovage
 sierra_lineage: Late Sierra
-last_updated: '2026-11-04'
+last_updated: '2026-11-11'
 description: 'Leisure Suit Larry: Magna Cum Laude (2004) is the seventh main Leisure
   Suit Larry game, a minigame-driven 3D comedy by High Voltage Software starring Larry
   Laffer''s nephew Larry Lovage, made without series creator Al Lowe.'
@@ -18,19 +18,22 @@ tags: [2000s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Magna Cum Laude
 
-<small style="color: gray">Last updated: November 4, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Leisure Suit Larry: Magna Cum Laude is the seventh installment in the long-running Leisure Suit Larry series, released in North America on October 5, 2004 for Windows, PlayStation 2, and Xbox.[^ref-1] Developed by High Voltage Software and published by Vivendi Universal Games under the Sierra Entertainment label, the game marked a dramatic departure from the point-and-click adventure format that defined the original series.[^ref-2] Rather than continuing the story of series protagonist Larry Laffer, the game introduced his nephew, Larry Lovage, a perpetual college student at Walnut Log Community College attempting to win a spot on a reality dating show called "Swingles."[^ref-1][^ref-29]
 
-The game represented a significant shift in both gameplay and tone, abandoning the adventure game elements in favor of a collection of mini-games while embracing a more explicit approach to adult humor.[^ref-4] Notably, series creator Al Lowe had no involvement in the game's development despite initial promises from Sierra, leading him to publicly denounce the title.[^ref-5] The game's product description says it was inspired by the humor of films such as American Pie and There's Something About Mary.[^ref-6]
+The game represented a significant shift in both gameplay and tone, abandoning the adventure game elements in favor of a collection of mini-games while embracing a more explicit approach to adult humor.[^ref-4] Notably, series creator [[Al Lowe]] had no involvement in the game's development despite initial promises from Sierra, leading him to publicly denounce the title.[^ref-5] The game's product description says it was inspired by the humor of films such as American Pie and There's Something About Mary.[^ref-6] Vivendi Universal Games announced on September 16, 2004 that the game had gone gold, with production complete ahead of its October 5 release date for PC, PlayStation 2 and Xbox.[^ref-50][^ref-1]
 
 The game received mixed reviews, with critics often praising its humor and dialogue while panning its shallow mini-game gameplay; GameSpot also faulted the long load times of the console versions.[^ref-1][^ref-7] In North America it shipped as an edited, M-rated release on all three platforms; an unedited, Adults Only "Uncut and Uncensored!" edition with full frontal nudity followed in late 2004 for Windows only.[^ref-1][^ref-8][^ref-25] In Europe the standard release was the uncut version on all three systems, and the digital releases are also the uncut edition.[^ref-1][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** High Voltage Software[^ref-1]
 > **Designer:** Duncan McPherson, Tom Smith[^ref-1]
+> **Producer:** Joshua VanVeld[^ref-2]
+> **Programmer:** Brian Bilicki (lead)[^ref-2]
+> **Artist:** David Leung (lead)[^ref-2]
 > **Publisher:** Vivendi Universal Games / Sierra Entertainment[^ref-2]
 > **Engine:** Proprietary
 > **Platforms:** Windows, PlayStation 2, Xbox[^ref-1]
@@ -60,13 +63,13 @@ Larry Laffer himself gets a line that nods to the change: "Whatever happened to 
 The game is structured around Larry's pursuit of various women across the campus; the player usually has to play a handful of mini-games before "winning" a girl and her token of affection, and collecting enough tokens opens up new areas of the campus.[^ref-4] Larry also has a confidence meter, and perfect scores in mini-games earn Secret Tokens.[^ref-22]
 
 **Key Locations:**
-- **Larry's Dorm Room** – Starting location and base of operations
-- **Walnut Log Community College Campus** – Central hub area
-- **Greek Quad** – Fraternity and sorority houses
-- **Swingles TV Set** – Location of the dating show
-- **Lefty's Too** – Bar area referencing the original game's Lefty's Bar
-- **Library** – Academic area with multiple floors
-- **Power Station V.I.P. Lounge** – Nightclub location
+- **Larry's Dorm Room** – Where the opening tutorial takes place, with Uncle Larry guiding; Larry also uses the phone there to call girls[^ref-10]
+- **Main Campus** – Outdoor hub with the Swingles stage, hackey-sack players and a bridge leading to the library[^ref-10]
+- **Greek Quad** – The area around the Frat House and the Sorority House, reached through an archway from the library[^ref-10]
+- **Swingles Stage** – Where Uma hosts the Swingles challenges on campus[^ref-10]
+- **Lefty's Too** – A bar off the "Crappy Streets" area, a duplicate of the bar from the first Leisure Suit Larry remake[^ref-10][^ref-47]
+- **Library** – Campus building reached over a bridge, with several flights of stairs where girls such as Ione and Morgan are found[^ref-10]
+- **Power Station** – A club down the road from campus with a bar and bartender, which also has a V.I.P. Lounge[^ref-10][^ref-52]
 - **Sorority House** – Second-floor bedroom doors bear names grouped by classic TV casts[^ref-18][^ref-40]
 
 ### Puzzles and Mechanics
@@ -75,9 +78,9 @@ Rather than traditional adventure game puzzles, Magna Cum Laude relies entirely 
 
 The mini-games include variations on classic arcade concepts:
 - **Tapper** – An "updated" take on the 1983 arcade game, played to earn cash: hurling fliers at college students or throwing food at monkeys[^ref-21]
-- **Quarters** – Drinking games against various characters
-- **Whack-a-Mole variants** – Including suggestive variations
-- **Trampoline sequences** – Rhythm-based jumping challenges
+- **Quarters** – A drinking game played against girls such as Analisa and Barbara Jo[^ref-10]
+- **Whack-a-Mole variants** – The whack-a-mole type "shows up for mixing drinks, making coffee, and spanking"[^ref-20]
+- **Trampoline sequences** – The rhythm version is "used for trampoline jumping and dancing"[^ref-20]
 - **Dancing games** – Described as "a really poor man's Dance Dance Revolution"[^ref-22]
 
 Many critics singled out the mini-games as the game's weakest element. GameCritics wrote that "every one of these mini-games blows infected, sloppy chunks,"[^ref-23] and GameSpot judged that none of them "are especially engaging by themselves."[^ref-7] Series creator Al Lowe, writing on his own site rather than as a reviewer, was blunter: "All this ignores the glaring disaster of those damned mini-games! They're distracting, repetitive, and boring."[^ref-5]
@@ -96,11 +99,12 @@ Leisure Suit Larry: Magna Cum Laude received mixed reviews upon release, with cr
 - GameSpot's Alex Navarro gave the PC version 7.2/10, calling it "Without a doubt, this is the funniest game to come out so far this year."[^ref-7]
 - Eurogamer's Kristan Reed scored it 7/10, describing it as "Far from being among the worst games of the year, it's closer to being the most unlikely success story of the year, by a mile."[^ref-26]
 - IGN's Steve Butts gave 7.2/10, noting: "The real saving grace for the game is that, from start to finish, the dialogue is just hilarious."[^ref-27]
+- Game Informer's Lisa Mason (issue 139, November 2004) gave 7.5/10, calling the game "Laugh-out-loud funny on many occasions" though "The minigames are repeated too often and the loading is totally, utterly out of control."[^ref-20][^ref-1]
 
 **Negative Reviews:**
-- Electronic Gaming Monthly gave a devastating 2.5/10 for PS2 and Xbox versions[^ref-1]
-- Official Xbox Magazine (US) scored it 2.3/10[^ref-1]
-- PC Gamer (US) awarded only 39%[^ref-1]
+- Electronic Gaming Monthly (issue 185, December 2004) gave a devastating 2.5/10 for PS2 and Xbox versions;[^ref-1] the review's verdict box lists "Bad: Playing Quarters for the 100th time"[^ref-51]
+- Official Xbox Magazine (US, December 2004) scored it 2.3/10[^ref-1]
+- PC Gamer (US, December 2004) awarded only 39%[^ref-1]
 - GameRevolution's Joe Dodson called it "Leisure Suit Larry: Magna Cum Laude is one of the worst games we've ever seen" and "possibly the most powerful anti-sex weapon ever devised."[^ref-21]
 - GameCritics gave 3.5/10, stating "it's really just a terrible, terrible game that wouldn't be able to justify its own existence without the gleefully gratuitous content."[^ref-23]
 - GameSpy's Sal Accardo wrote: "This new Larry, sadly, oozes mediocrity in every department: the comedy falls flat, the gameplay quickly becomes boring and repetitive."[^ref-29]
@@ -136,17 +140,68 @@ High Voltage Software, best known at the time for the Hunter: The Reckoning seri
 
 ### Production
 
-Al Lowe has extensively documented his exclusion from the project on his personal website. According to Lowe, off and on over two years, various Sierra employees led him to think the company wanted him involved in the game's development, but nothing came of it and the company stopped contacting him during a period of downsizing.[^ref-5] Speaking to Frank Cifaldi in 2005, Lowe said of seeing the finished game: "It was like receiving a ransom video from your son's kidnappers. You're happy he's still alive, but at the same time, he's being tortured."[^ref-13]
+[[Al Lowe]] has extensively documented his exclusion from the project on his personal website. According to Lowe, off and on over two years, various Sierra employees led him to think the company wanted him involved in the game's development, but nothing came of it and the company stopped contacting him during a period of downsizing.[^ref-5] Speaking to Frank Cifaldi in 2005, Lowe said of seeing the finished game: "It was like receiving a ransom video from your son's kidnappers. You're happy he's still alive, but at the same time, he's being tortured."[^ref-13]
 
 In the same interview Lowe said: "They actually wanted me to sign a contract stating that I would never publicly say anything negative about the game... before I'd even seen it!"[^ref-13] On his own website he gave his verdict: "Those who seek 3D boobs, profanity, and fart jokes will be pleased. Those who fondly remember my games will be severely disappointed."[^ref-5]
 
 Writer Cary Okmin, who said he and his writing partner had been hired to write the game's dialogue, emailed Lowe on April 10, 2004 to thank him, noting that their work had been completed about a year earlier;[^ref-5] IMDb lists Okmin under "dialogue (uncredited)".[^ref-31] MobyGames credits the writing and design to Matthew Entin and Edward Kuehnel.[^ref-2]
 
 **Development Credits:**[^ref-2]
+- **Producer:** Joshua VanVeld
+- **Lead Programmer:** Brian Bilicki
+- **Lead Artist:** David Leung
 - **Lead Designers:** Duncan McPherson, Tom Smith
 - **Writing/Design:** Matthew Entin, Edward Kuehnel
 - **Design:** Jason Ablett, Josh Bear
 - **Developer:** High Voltage Software
+
+### Voice Cast
+
+Tim Dadabo voices the title character, Larry Lovage, and Jan Rabson voices his uncle, Larry Laffer.[^ref-30][^ref-31]
+
+**Principal Cast:**[^ref-30][^ref-31]
+
+| Actor | Characters |
+|-------|------------|
+| Tim Dadabo | Larry Lovage |
+| Jan Rabson | Larry Laffer |
+| George Adams | Swingles Announcer |
+| Natalie Berg | Ione |
+| Mary Jo Bolduc | Analisa Gambozinni |
+| Norm Boucher | Leopold |
+| Sarah Fisher | Barbara Jo Bimbo |
+| Michael P. Greco | Big Daddy War Pig |
+| Michele Greco | Luba Licious |
+| Melanie Harrison | Harriet Funderbunk |
+| Elizabeth Isilove | Assorted Characters |
+| Llou Johnson | The Commissar |
+| Robert Richard Jorge | The Porn Fairy |
+| Chris Marrs | Assorted Characters |
+| Kate McClanaghan | Lesbian in Library |
+| Lani Minella | Bilzarbra Smith |
+| Lotti Pharriss Knowles | Sally Mae Beauregard |
+| David Pompeii | Sweetwater |
+| Derrick Procell | Factory Workers |
+
+Despite the game's other failings, the voice acting was frequently praised: GameSpot credited the "really excellent voice acting and writing,"[^ref-7] and MobyGames player Tony Denis noted: "The voice acting is excellent, giving a lot of personality into these characters."[^ref-34] Game Informer agreed that "Voice actors are uniformly hysterical (in a good way)."[^ref-20]
+
+### Soundtrack
+
+The game features a mix of licensed tracks and original compositions:[^ref-41]
+
+| Song | Performer | Composers |
+|------|-----------|-----------|
+| Girls, Girls, Girls | Mötley Crüe | Nikki Sixx, Tommy Lee, Mick Mars |
+| We Are Family | Sister Sledge | Bernard Edwards, Nile Rodgers |
+| Me So Horny | 2 Live Crew | Luther Campbell, Mr. Mixx, Brother Marquis, Fresh Kid Ice |
+| Hey There Lonely Girl | Eddie Holman | Leon Carr, Earl Shuman |
+| Girlschool | Britny Fox | Dizzy Dean Davidson |
+| I'm Too Sexy | Right Said Fred | Richard Fairbrass, Fred Fairbrass |
+| Pop That Coochie | 2 Live Crew | Luther Campbell, Mr. Mixx, Brother Marquis, Fresh Kid Ice |
+| Up All Night | Slaughter | Mark Slaughter, Dana Strum |
+| Yakety Sax | — | Boots Randolph, James Rich |
+| Leisure Suit Larry Theme (Reprise) | — | Al Lowe |
+| Shortnin' Bread | — | James Whitcomb Riley (as credited by Ringostrack) |
 
 ### Technical Achievements
 
@@ -168,19 +223,8 @@ The game's retail feature list advertised more than 90,000 words of dialogue, al
 
 **Console Versions:**
 - **Loading Times:** 10-30 seconds per area on consoles; negligible on PC[^ref-7]
-- **Players:** 1 Player
-- **Media:** DVD (Xbox), DVD (PS2)
-
-### Technical Issues
-
-The game suffers from several technical problems that persist to modern day:
-- Frame rates above 60 fps result in sped-up mini-games and broken physics[^ref-35]
-- Even with a 60 FPS limiter, the game requires Vsync for some mini-games to play properly[^ref-35]
-- Loading screens between areas: GameSpy's PC review counted four loading screens on the roughly 40-second walk from Larry's room to the frat house[^ref-29]
-- Occasional frame rate dips, more so on PS2 than Xbox; the PS2 version's load times are also somewhat longer than the Xbox's, and GameSpot's PC copy occasionally hitched[^ref-7]
-- Some cutscenes play in terrible quality with barely audible sound[^ref-27]
-- Lip sync that "can look very off at times" (per one player review)[^ref-34]
-- One GameFAQs reviewer reported odd button mapping when using a generic USB controller on PC[^ref-33]
+- **Players:** 1 Player (PS2 and Xbox)[^ref-2]
+- **Media:** DVD-ROM (PS2 and Xbox)[^ref-2]
 
 ### Version History
 
@@ -192,6 +236,19 @@ The game suffers from several technical problems that persist to modern day:
 | GOG Release | May 14, 2013 | Windows | Digital distribution of Uncut version[^ref-36] |
 
 **Copy Protection:** SecuROM 5 (retail PC version)[^ref-35]
+
+**Languages:** English, Spanish, French, German, Italian, Russian and Dutch[^ref-1]
+
+### Technical Issues
+
+The game suffers from several technical problems that persist to modern day:
+- Frame rates above 60 fps result in sped-up mini-games and broken physics[^ref-35]
+- Even with a 60 FPS limiter, the game requires Vsync for some mini-games to play properly[^ref-35]
+- Loading screens between areas: GameSpy's PC review counted four loading screens on the roughly 40-second walk from Larry's room to the frat house[^ref-29]
+- Occasional frame rate dips, more so on PS2 than Xbox; the PS2 version's load times are also somewhat longer than the Xbox's, and GameSpot's PC copy occasionally hitched[^ref-7]
+- Some cutscenes play in terrible quality with barely audible sound[^ref-27]
+- Lip sync that "can look very off at times" (per one player review)[^ref-34]
+- One GameFAQs reviewer reported odd button mapping when using a generic USB controller on PC[^ref-33]
 
 ### Easter Eggs and Trivia
 
@@ -205,7 +262,7 @@ The game contains numerous references to both the original Leisure Suit Larry se
 - **Black Sabbath References:** The Delta Iota Omicron fraternity members have nicknames (Supernaut, Sweet Leaf, War Pigs) referencing Black Sabbath songs, with the fraternity name itself referencing Ronnie James Dio[^ref-2]
 - **Goldfinger Parody:** The character Tilly says "No, Mister Lovage, I expect you to die," parodying the famous James Bond villain line[^ref-15]
 - **Lefty's Too:** The bar in the game is a duplicate of Lefty's Bar from the first Leisure Suit Larry remake[^ref-47]
-- **Alumni Pictures:** The sorority house features EGA-style portraits of women from earlier games in the series[^ref-47]
+- **Alumni Pictures:** The sorority house features EGA-style portraits of women from earlier games in the series[^ref-47][^ref-20]
 - **Lou Diamond Phillips:** The convenience store's adult section has an area devoted to the actor[^ref-27]
 - **Porn Fairy:** A hidden character, patterned after Ron Jeremy[^ref-4]
 - **Playboy Feature:** The character Luba Licious was one of three virtual women featured in a nude pictorial accompanying the article "Gaming Grows Up" in the October 2004 issue of Playboy[^ref-39]
@@ -226,52 +283,6 @@ The names on the second-floor doors of the sorority house are grouped by the cas
 
 The game has three endings.[^ref-2] At the finale the player chooses one of three finalists, Barbara Jo, Morgan, or Suzie, to take home, and that choice determines the ending.[^ref-1][^ref-12]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Larry Lovage | Tim Dadabo |
-| Larry Laffer | Jan Rabson |
-| Swingles Announcer | George Adams |
-| Ione | Natalie Berg |
-| Analisa Gambozinni | Mary Jo Bolduc |
-| Leopold | Norm Boucher |
-| Barbara Jo Bimbo | Sarah Fisher |
-| Big Daddy War Pig | Michael P. Greco |
-| Luba Licious | Michele Greco |
-| Harriet Funderbunk | Melanie Harrison |
-| Assorted Characters | Elizabeth Isilove |
-| The Commissar | Llou Johnson |
-| The Porn Fairy | Robert Richard Jorge |
-| Assorted Characters | Chris Marrs |
-| Lesbian in Library | Kate McClanaghan |
-| Bilzarbra Smith | Lani Minella |
-| Sally Mae Beauregard | Lotti Pharriss Knowles |
-| Sweetwater | David Pompeii |
-| Factory Workers | Derrick Procell |
-
-[^ref-30][^ref-31]
-
-Despite the game's other failings, the voice acting was frequently praised: GameSpot credited the "really excellent voice acting and writing,"[^ref-7] and MobyGames player Tony Denis noted: "The voice acting is excellent, giving a lot of personality into these characters."[^ref-34] Game Informer agreed that "Voice actors are uniformly hysterical (in a good way)."[^ref-20]
-
-## Soundtrack
-
-The game features a mix of licensed tracks and original compositions:[^ref-41]
-
-| Song | Performer | Composers |
-|------|-----------|-----------|
-| Girls, Girls, Girls | Mötley Crüe | Nikki Sixx, Tommy Lee, Mick Mars |
-| We Are Family | Sister Sledge | Bernard Edwards, Nile Rodgers |
-| Me So Horny | 2 Live Crew | Luther Campbell, Mr. Mixx, Brother Marquis, Fresh Kid Ice |
-| Hey There Lonely Girl | Eddie Holman | Leon Carr, Earl Shuman |
-| Girlschool | Britny Fox | Dizzy Dean Davidson |
-| I'm Too Sexy | Right Said Fred | Richard Fairbrass, Fred Fairbrass |
-| Pop That Coochie | 2 Live Crew | Luther Campbell, Mr. Mixx, Brother Marquis, Fresh Kid Ice |
-| Up All Night | Slaughter | Mark Slaughter, Dana Strum |
-| Yakety Sax | — | Boots Randolph, James Rich |
-| Leisure Suit Larry Theme (Reprise) | — | Al Lowe |
-| Shortnin' Bread | — | James Whitcomb Riley (as credited by Ringostrack) |
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -284,7 +295,7 @@ The game was effectively banned in Australia: the OFLC refused classification to
 
 The game has been available through digital distribution:
 - **GOG.com:** Released May 14, 2013 as "Leisure Suit Larry: Magna Cum Laude - Uncut and Uncensored"[^ref-36]
-- **Steam:** The game was previously available but was removed from the Steam store following Assemble Entertainment's April 30, 2025 announcement; existing owners keep it in their libraries[^ref-46][^ref-42]
+- **Steam:** The game was previously available but was removed from the Steam store following [[Assemble Entertainment]]'s April 30, 2025 announcement; existing owners keep it in their libraries[^ref-46][^ref-42]
 
 ### Cancelled Sequel
 
@@ -315,6 +326,12 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 
 ## See Also
 
+- [[Leisure Suit Larry Series]]
+- [[1998 - Leisure Suit Larry's Casino|← Previous: Leisure Suit Larry's Casino]]
+- [[2009 - Leisure Suit Larry - Box Office Bust|→ Next: Leisure Suit Larry - Box Office Bust]]
+
+**Other Leisure Suit Larry games:**
+
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
@@ -322,8 +339,6 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - [[1996 - Leisure Suit Larry 7 - Love for Sail]]
-- [[1998 - Leisure Suit Larry's Casino]]
-- [[2009 - Leisure Suit Larry - Box Office Bust]]
 - [[2013 - Leisure Suit Larry - Reloaded]]
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 - [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
@@ -339,14 +354,14 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 [^ref-7]: [GameSpot Review – PC Version](https://www.gamespot.com/reviews/leisure-suit-larry-magna-cum-laude-review/1900-6109830/) – Alex Navarro review, score 7.2/10
 [^ref-8]: [Gamicus Wiki – Leisure Suit Larry: Magna Cum Laude](https://gamicus.fandom.com/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – version information, ESRB ratings, release dates
 [^ref-9]: [GOG.com Store Page](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) – game description
-[^ref-10]: [Walkthrough King – LSL8](https://www.walkthroughking.com/text/leisuresuitlarry8.aspx) – walkthrough: winning each girl's token of affection, campus library
+[^ref-10]: [Walkthrough King – LSL8](https://www.walkthroughking.com/text/leisuresuitlarry8.aspx) – walkthrough: winning each girl's token of affection, campus library; dorm room, main campus, Swingles stage, Greek Quad, Lefty's Too, Power Station club, Quarters
 [^ref-11]: [PS2 Home – Leisure Suit Larry: Magna Cum Laude](https://www.ps2home.co.uk/leisure-suit-larry-magna-cum-laude/) – publisher feature copy: "Explore 25 different locations including college campus and adjoining parts of town"; "More than 90,000 words of dialogue, all in real time"
 [^ref-12]: [TV Tropes – YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryMagnaCumLaude) – final choice limited to Barbara Jo, Morgan and Suzie; Koko gag called "very, very tasteless"
 [^ref-13]: [Game Developer – "Playing Catch-Up: Al Lowe" (Frank Cifaldi, July 18, 2005)](https://www.gamedeveloper.com/game-platforms/playing-catch-up-al-lowe) – Lowe's contract and "ransom video" quotes about Magna Cum Laude
 [^ref-15]: [IMDB – Movie Connections](https://www.imdb.com/title/tt0421136/movieconnections/) – references, parodies, Goldfinger line, followed by Box Office Bust (2009), Reloaded narrator jab
 [^ref-18]: [GameSpot Review – Xbox Version](https://www.gamespot.com/reviews/leisure-suit-larry-magna-cum-laude-review/1900-6109836/) – locations, easter eggs
 [^ref-19]: [Medium – Jeffrey McGee Analysis](https://kalamarikoncepts.medium.com/leisure-suit-larry-magna-cum-laude-the-funniest-game-ever-and-nobody-knows-it-bc660ea45b17) – conversation mechanic description
-[^ref-20]: [Game Informer Review (Archived)](https://web.archive.org/web/20081203205839/http://www.gameinformer.com/NR/exeres/ED20FE12-E630-4842-A734-0287DE150FC8.htm) – gameplay mechanics, voice acting praise
+[^ref-20]: [Game Informer Review (Archived)](https://web.archive.org/web/20081203205839/http://www.gameinformer.com/NR/exeres/ED20FE12-E630-4842-A734-0287DE150FC8.htm) – gameplay mechanics, mini-game types, sorority-house alumni pictures, voice acting praise, 7.5 score
 [^ref-21]: [GameRevolution Review](https://www.gamerevolution.com/review/32909-leisure-suit-larry-magna-cum-laude-review) – negative review, mini-game criticism, Tapper variant
 [^ref-22]: [GameSpy Guide](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/guide/page_2.html) – mini-game descriptions, difficulty system, "Larry's confidence meter", Secret Tokens
 [^ref-23]: [GameCritics Review](http://web.archive.org/web/20190920094357/https://gamecritics.com/brad-gallaway/1622/) – Brad Gallaway review, 3.5/10
@@ -374,3 +389,6 @@ The series continued with Leisure Suit Larry: Box Office Bust in 2009.[^ref-15] 
 [^ref-47]: [TV Tropes – Leisure Suit Larry: Magna Cum Laude](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarryMagnaCumLaude) – Lefty's Too bar, EGA portraits in the sorority house
 [^ref-48]: [Metacritic – PS2 Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=playstation-2) – Warcry score; Metascore 60, 44 critic reviews
 [^ref-49]: [Metacritic – PC Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=pc) – Metascore 59, 37 critic reviews
+[^ref-50]: [IGN – "Leisure Suit Larry Is Gold" (David Adams, September 16, 2004 per the URL and Wikipedia's citation)](https://www.ign.com/articles/2004/09/16/leisure-suit-larry-is-gold) – Vivendi Universal Games announced the game "has officially gone gold"; October 5 release for PC, PlayStation 2 and Xbox
+[^ref-51]: [Electronic Gaming Monthly #185, December 2004 (Internet Archive)](https://archive.org/details/electronicgamingmonthlyissue185december2004600dpi) – Magna Cum Laude review by Demian, Crispin and Jon D.; "Bad: Playing Quarters for the 100th time"
+[^ref-52]: [Neoseeker – Leisure Suit Larry: Magna Cum Laude cheats (PC)](https://www.neoseeker.com/leisuresuitlarry-magna/cheats/pc/) – Porn Fairy locations list, including the Power Station V.I.P. Lounge
