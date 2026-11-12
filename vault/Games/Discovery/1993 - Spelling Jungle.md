@@ -10,7 +10,7 @@ series: Spelling Tricks
 engine: null
 protagonist: Wali
 sierra_lineage: Sierra Label (Discovery)
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Gordon van Ekström]
 description: Spelling Jungle is an educational spelling game developed by Bright
   Star Technology and published by Sierra On-Line in 1993 for Windows 3.x and Macintosh,
@@ -20,7 +20,7 @@ tags: [1990s, educational, sierra, spelling-tricks]
 ---
 # Spelling Jungle
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,6 @@ The game went through several names. According to the Sierra Chest, Bright Star 
 > **Designer:** Mark Swardstrom[^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Composer:** Gordon van Ekström[^ref-1]
-> **Engine:** Not documented
 > **Platforms:** Windows 3.x, Mac OS[^ref-1]
 > **Release Year:** 1993
 > **Series:** Spelling Tricks (Sierra Discovery Series)
@@ -78,16 +77,18 @@ Yobi provides spelling hints, phonic rules, and memory tricks throughout the gam
 
 Computer Gaming World reviewed the Macintosh version, under the title Yobi's Magic Spelling Tricks, in its January 1994 issue (issue #114). Reviewer Leslie Eiser concluded that "Yobi offers good educational content, some rather challenging puzzles, and a competitive motif that keeps youngsters interested," and praised the mazes: "For kids who find Nintendo games a challenge, the mazes are very appealing."[^ref-31] Eiser added that "If parents were able to modify the word list to emphasize their child's daily or weekly spelling list, Yobi would be perfect."[^ref-31]
 
+MacUser's December 1994 children's software roundup listed "Spelling Jungle" from Sierra On-Line for ages 7 to 10 at $34.95: "To advance in this engaging game, you must spell words by collecting letters in an ever harder series of arcade-style obstacle courses and then pass spelling quizzes; a wizard offers helpful tips."[^ref-35] The scanned text does not preserve the capsule's rating symbol, so no score is given here.
+
 A 1993 Los Angeles Times article by Joyce Sunila examined various spelling software programs of the era, evaluating products from Bright Star, The Learning Co., Davidson, and others.[^ref-16] The article noted that Basic Spelling Tricks (Spelling Jungle's original title) was priced at $49.95 and targeted children ages 7-10.[^ref-16] Sunila wrote that "By far the most advanced (and bewitching) program is 'Basic Spelling Tricks'", and called it "a close-to-perfect spelling tutor for youngsters who have a grip on their spelling lists and want to learn more".[^ref-16] Her reservation was that "because you can't program your child's words into it", it did not work as an "enforcer of the weekly spelling list"; she had described the ideal spelling tutor as "one that could be customized (you could input your child's list) and full of fun arcade games".[^ref-16]
 
 ### Modern Assessment
 
-Some players who used the game as children remember it fondly. One Reddit user wrote, "I'm convinced this game is why I was so good at spelling."[^ref-17]
+Some players who used the game as children remember it fondly. A Reddit post titled "Spelling Blizzard or Spelling Jungle" on r/Sierra said, "I'm convinced this game is why I was so good at spelling"; the post does not say which of the two games it means.[^ref-17]
 
 However, at least one modern reviewer has noted the game's difficulty may exceed its target audience. MobyGames reviewer Katakis observed that "this game is targeted at children aged three to ten, but considering how difficult most of the levels are, I doubt that they will have fun spending many minutes collecting tiles and figuring out how to complete the level."[^ref-9] The reviewer also noted that "Spelling Jungle is the hardest of them all, considering all the trouble you go through to complete the 101 levels."[^ref-9]
 
 **Aggregate Scores:**
-- **MobyGames:** Moby Score 6.8; players 3.4/5 (19 ratings)[^ref-1]
+- **MobyGames:** Moby Score 6.8; players 3.4/5 (19 ratings); Critics 60% (1 review)[^ref-1]
 - **MyAbandonware:** 4.8/5 (10 votes)[^ref-19]
 - **GameFAQs:** "Good" (7 user ratings)[^ref-20]
 
@@ -106,6 +107,11 @@ The game was designed by Mark Swardstrom, with music composed by Gordon van Ekst
 **Development Credits:**[^ref-1]
 - **Designer:** Mark Swardstrom
 - **Composer:** Gordon van Ekström
+- **Producer:** Lynn Luukinen
+- **Lead Engineer (Macintosh):** Mark Marion
+- **Software Engineer (Windows):** Steve Schonberger
+- **Quality Assurance:** Tim Knappenberger
+- **Artist:** Ward Makielski
 
 The developers paid particular attention to word selection, emphasizing words that represent the majority of spelling errors made by children ages seven to ten.[^ref-7] The game was designed to provide spelling hints, phonic rules, and memory tricks that Yobi would share with players, creating an educational framework that went beyond simple word recognition.[^ref-7]
 
@@ -127,7 +133,7 @@ The developers paid particular attention to word selection, emphasizing words th
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Basic Spelling Tricks | Undated (on sale December 1993) | Windows/Mac | Original Bright Star release; the Los Angeles Times listed it in December 1993 with Bright Star as distributor[^ref-5][^ref-16] |
+| Basic Spelling Tricks | Undated (on sale December 1993) | Windows/Mac | Original Bright Star release; the Los Angeles Times listed it in December 1993 with Bright Star as distributor, and Electronics Boutique's December 1993 catalog listed it under Bright Star for IBM Windows, for ages 7 to 10[^ref-5][^ref-16][^ref-36] |
 | Yobi's Magic Spelling Tricks | 1993 | Windows/Mac | Sierra Discovery Series release; box title of the floppy version[^ref-5][^ref-1] |
 | Spelling Jungle | 1994 | Windows/Mac | Talking Tutor Series rerelease[^ref-5][^ref-2] |
 
@@ -149,13 +155,11 @@ Modern players have reported significant difficulty running the game on contempo
 
 - **Nostalgic Impact:** The author of the Let's Play Archive playthrough wrote, "These games were on the school computers when I was a kid, and were a fond part of my childhood - but I never managed to finish them."[^ref-25]
 
-- **Educational Effectiveness:** One Reddit user credited the game with their spelling ability.[^ref-17]
-
 ## Legacy
 
 ### Sales and Commercial Impact
 
-No sales figures have been found. The Let's Play Archive author recalls the game being on school computers in their childhood.[^ref-25] Soon after the Talking Tutor re-release, a sequel followed: Spelling Blizzard, with an arctic setting and aimed at children ages 9 to 12.[^ref-5] The Let's Play Archive author gives the sequel's other title as "Yobi's Advanced Spelling Tricks"; MobyGames lists its original Bright Star release title as "Dream Team: Advanced Spelling Tricks".[^ref-25][^ref-34] Wikipedia dates the sequel to 1994.[^ref-2]
+No sales figures have been found. The Let's Play Archive author recalls the game being on school computers in their childhood.[^ref-25] The sequel, Spelling Blizzard, has an arctic setting and was aimed at children ages 9 to 12.[^ref-5] Electronics Boutique's December 1993 catalog already listed it under Bright Star as "Advanced Spelling Tricks", "a spelling game for children between 9 and 12", alongside "Basic Spelling Tricks", so it was on sale before the 1994 Talking Tutor re-release of Spelling Jungle.[^ref-36] The Let's Play Archive author gives the sequel's other title as "Yobi's Advanced Spelling Tricks"; MobyGames lists its original Bright Star release title as "Dream Team: Advanced Spelling Tricks".[^ref-25][^ref-34] Wikipedia dates the sequel to 1994.[^ref-2]
 
 ### Collections
 
@@ -192,7 +196,7 @@ Spelling Jungle was one of the Bright Star titles Sierra gained when it acquired
 
 ## References
 
-[^ref-1]: [MobyGames – Spelling Jungle](https://www.mobygames.com/game/662/spelling-jungle/) – developer, publisher, designer, composer, platforms, technical specs, ratings
+[^ref-1]: [MobyGames – Spelling Jungle](https://www.mobygames.com/game/662/spelling-jungle/) – developer, publisher, credits (designer, composer, producer, engineers, QA, artist), critic score, platforms, technical specs, ratings
 [^ref-2]: [Wikipedia – Spelling Jungle](https://en.wikipedia.org/wiki/Spelling_Jungle) – target age, Computer Gaming World review quote, alternative titles
 [^ref-5]: [Sierra Chest – Spelling Jungle](https://sierrachest.com/index.php?a=news&pid=444) – story summary, naming history, acquisition details, sequel information
 [^ref-6]: [MobyGames – Spelling Jungle Trivia](https://www.mobygames.com/game/662/spelling-jungle/trivia/) – hidden development message about name change
@@ -215,3 +219,5 @@ Spelling Jungle was one of the Bright Star titles Sierra gained when it acquired
 [^ref-32]: [TV Tropes – Bright Star Technology](https://tvtropes.org/pmwiki/pmwiki.php/Creator/BrightStarTechnologyInc) – alternative titles, code name
 [^ref-33]: [MobyGames – Spelling Jungle Specs](https://www.mobygames.com/game/662/spelling-jungle/specs/) – 640×480 resolution, 256 colors, media, input
 [^ref-34]: [MobyGames – Spelling Blizzard](https://www.mobygames.com/game/97671/spelling-blizzard/) – read via the MobyGames API; sequel to Spelling Jungle, original Bright Star title "Dream Team: Advanced Spelling Tricks", same flooding-river premise
+[^ref-35]: [MacUser, December 1994 (Internet Archive)](https://archive.org/details/eu_Macuser-1994-12_OCR) – children's software roundup capsule for Spelling Jungle: Sierra On-Line, ages 7 to 10, $34.95, description
+[^ref-36]: [Electronics Boutique December 1993 catalog (Internet Archive)](https://archive.org/details/1993-electronics-boutique-december-catalog) – Bright Star listings for Basic Spelling Tricks (IBM Windows, ages 7 to 10) and Advanced Spelling Tricks (ages 9 to 12)

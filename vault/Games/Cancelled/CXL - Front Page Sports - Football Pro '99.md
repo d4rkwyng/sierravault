@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: 3D-arcade engine (Direct3D support)
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: NFL Football Pro '99 (developed as Front Page Sports Football Pro 99)
   was released on December 22, 1998 and recalled on January 21, 1999; its planned
   successor, NFL Football Pro 2000, was cancelled.
@@ -18,15 +18,15 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 99
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Front Page Sports Football Pro 99, released as NFL Football Pro '99[^ref-5] and announced in September 1998 as Sierra Sports Football Pro '99,[^ref-2] was the seventh and final release in the Front Page Sports Football series.[^ref-1][^ref-8] It was released for Windows on December 22, 1998,[^ref-5][^ref-16][^ref-19] and this installment marked a departure for the Front Page Sports franchise, abandoning the series' traditional "Front Page Sports" branding in favor of the new "Sierra Sports" label as part of a company-wide restructuring.[^ref-2] The game was developed by [[Synergistic Software]], the Renton, Washington studio behind Football Pro, and published by Sierra under its Sierra Sports division;[^ref-5][^ref-1] it was rebuilt with a new 3D engine to compete with the likes of the Madden NFL series.[^ref-1]
 
-The game attempted to modernize the venerable franchise with an all-new 3D arcade engine featuring polygonal players and stadiums, a complete financial model for team management, and comprehensive simulation features.[^ref-4] Howard David, the voice of NFL on CBS radio, provided play-by-play commentary.[^ref-4][^ref-24][^ref-25] However, the game was rushed out for the 1998 holiday season in what Wikipedia's series history calls "a completely unplayable state",[^ref-1] with reviewers documenting bugs ranging from kicking and ball handling to player AI.[^ref-4]
+The game attempted to modernize the venerable franchise with an all-new 3D arcade engine featuring polygonal players and stadiums, a complete financial model for team management, and comprehensive simulation features.[^ref-4] GameOver credited the play-by-play to Howard Davis [sic], "the voice of the NFL on CBS radio";[^ref-4] the previous edition's press release and box named the commentator as CBS radio's Howard David.[^ref-24][^ref-25] The game was made under licence from NFL Properties, Inc.[^ref-5] However, the game was rushed out for the 1998 holiday season in what Wikipedia's series history calls "a completely unplayable state",[^ref-1] with reviewers documenting bugs ranging from kicking and ball handling to player AI.[^ref-4]
 
-The game was released and sold at retail, then recalled: on January 21, 1999, Sierra Sports announced that NFL Football Pro '99, "which shipped to retailers just four weeks ago", was being pulled from shelves over "errors in the program's code", with buyers offered a full refund and a free Sierra game.[^ref-16] Customers who had purchased the game before January 20, 1999 could return it with the original receipt.[^ref-17] GameSpot called the recall "almost unprecedented".[^ref-11] Sierra president David Grenewetzki issued a public apology, admitting the company had "dropped the ball" by letting the end of the football season influence its release decision.[^ref-3][^ref-16] The game itself was therefore not cancelled; the cancelled title was its planned successor, NFL Football Pro 2000, announced at recall time for August 1999 and cancelled in early 1999 after Sierra's February 22, 1999 reorganisation, which closed four studios and consolidated Synergistic.[^ref-16][^ref-1]
+The game was released and sold at retail, then recalled: on January 21, 1999, Sierra Sports announced that NFL Football Pro '99, "which shipped to retailers just four weeks ago", was being pulled from shelves over "errors in the program's code", with buyers offered a full refund and a free Sierra game.[^ref-16] Customers who had purchased the game before January 20, 1999 could return it with the original receipt.[^ref-17] GameSpot called the recall "almost unprecedented".[^ref-11] Sierra president David Grenewetzki issued a public apology, admitting the company had "dropped the ball" by letting the end of the football season influence its release decision.[^ref-3][^ref-16] Owners who kept the game could join a group Sierra called the Sierra Home Team, which was to receive a $20 rebate toward NFL Football Pro 2000, a T-shirt and the chance to beta test incremental releases of the new game;[^ref-17] CNNfn added that the company planned to issue a series of patches.[^ref-16] The game itself was therefore not cancelled; the cancelled title was its planned successor, NFL Football Pro 2000, announced at recall time for August 1999,[^ref-16] and cancelled in early 1999 after Sierra's February 22, 1999 reorganisation, which closed four development studios and consolidated Synergistic.[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** [[Synergistic Software]][^ref-5]
@@ -44,7 +44,7 @@ The game was released and sold at retail, then recalled: on January 21, 1999, Si
 
 NFL Football Pro '99 represented a fundamental shift in the series' approach to football simulation. Sierra announced they were retiring the Front Page Sports logo while upgrading the graphics with an all-new 3D engine.[^ref-3] The game featured 3D polygonal players and fully rendered 3D stadiums, a significant technical leap from previous installments in the series.[^ref-4] The box feature list advertised multi-button joystick controls, a new adjustable play-calling interface and Direct3D support for 3D acceleration.[^ref-5]
 
-The title included multiplayer options, though GameOver found play choppy on low-end systems and connections;[^ref-4] the box feature list also advertised e-mail and FTP support for remote league play.[^ref-5] Play-by-play commentary was provided by Howard David, the voice of NFL on CBS radio, adding broadcast-style audio presentation to matches.[^ref-4]
+The title included multiplayer options, though GameOver found play choppy on low-end systems and connections;[^ref-4] the box feature list also advertised e-mail and FTP support for remote league play.[^ref-5] PC Accelerator, however, reviewed the game with a 93-item bug list that includes "Promised Won.net multiplayer options simply aren't included", problems with the coin toss in multiplayer mode and a play editor that "simply doesn't function".[^ref-18] Play-by-play commentary came from a CBS radio announcer, whom GameOver named as Howard Davis [sic], adding broadcast-style audio presentation to matches; the reviewer wrote that he "doesn't seem to know much about football".[^ref-4]
 
 ### Structure and Progression
 
@@ -86,7 +86,7 @@ By the late 1990s, Sierra was restructuring their company into six distinct bran
 
 ### Production
 
-Development of NFL Football Pro '99 was undertaken with the ambitious goal of completely rebuilding the franchise's technical foundation. In September 1998 IGN reported that, "according to Electronic Boutique", the game would be available on November 1, under the new Sierra Sports branding.[^ref-2] The new 3D-arcade engine brought 3D polygonal players and stadiums.[^ref-4]
+Development of NFL Football Pro '99 was undertaken with the ambitious goal of completely rebuilding the franchise's technical foundation. Sierra Sports' marketing director Sean Gleason said the game had "been rebuilt from the ground up".[^ref-26] In September 1998 IGN reported that, "according to Electronic Boutique", the game would be available on November 1, under the new Sierra Sports branding.[^ref-2] Computer Games Strategy Plus previewed the game on October 19, 1998, describing an all-new 3D engine with polygonal players, new interface screens at 800x600 in 16-bit colour, and salary cap management based on the NFL's Collective Bargaining Agreement, with adjustable ticket and concession prices. Sierra Sports was shipping 31 team-specific versions of the game, each unlockable by a code on registration, at a suggested retail price of $29.95, with shelves expected "sometime in November".[^ref-26] The new 3D-arcade engine brought 3D polygonal players and stadiums.[^ref-4]
 
 The game was developed by [[Synergistic Software]] of Renton, Washington.[^ref-1][^ref-5] MobyGames lists no individual credits for the '99 release.[^ref-5] After the recall, Grenewetzki acknowledged: "In '98 we rebuilt this game from the ground up and released it too early."[^ref-17]
 
@@ -109,6 +109,19 @@ The game's 3D engine represented a significant technical ambition for the series
 **Multiplayer Options:**
 - Multiplayer play (choppy on low-end systems and connections, per GameOver)[^ref-4]
 - E-mail and FTP support for remote league play[^ref-5]
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Front Page Sports Football | 1992 | MS-DOS | Original series launch[^ref-1] |
+| Front Page Sports Football Pro | 1993 | MS-DOS | First PC football game with online league capability[^ref-1] |
+| Front Page Sports Football Pro '95 | 1994 | MS-DOS | First with real NFL players and teams; diskette had 3,000 plays, CD-ROM had 10,000[^ref-1][^ref-21] |
+| Front Page Sports Football Pro '96 | 1995 | MS-DOS | First with high-resolution graphics engine; required patch[^ref-1][^ref-22] |
+| Front Page Sports Football Pro '97 | 1996 | Windows 95 | First Windows 95 native version[^ref-1][^ref-23] |
+| Front Page Sports Football Pro '98 | November 3, 1997 | Windows | Revamped UI, NFL player photos, audio play-by-play; required three major patches[^ref-1][^ref-20] |
+| NFL Football Pro '99 | December 22, 1998 | Windows | Completely rebuilt with 3D graphics; recalled January 21, 1999[^ref-5][^ref-16] |
+| NFL Football Pro 2000 | Cancelled | - | Cancelled following '99 recall[^ref-1] |
 
 ### Technical Issues
 
@@ -134,19 +147,6 @@ Sierra released two patches for the game, "Front Page Sports: Football 99 Update
 
 This was not the first time the series had experienced quality issues. The '96 version had crashed to desktop and required a patch.[^ref-1] The '98 version had problems including kickoff mix-ups, camera angle crashes, and incorrect stadium turf, requiring three major patches.[^ref-1]
 
-### Version History
-
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| Front Page Sports Football | 1992 | MS-DOS | Original series launch[^ref-1] |
-| Front Page Sports Football Pro | 1993 | MS-DOS | First PC football game with online league capability[^ref-1] |
-| Front Page Sports Football Pro '95 | 1994 | MS-DOS | First with real NFL players and teams; diskette had 3,000 plays, CD-ROM had 10,000[^ref-1][^ref-21] |
-| Front Page Sports Football Pro '96 | 1995 | MS-DOS | First with high-resolution graphics engine; required patch[^ref-1][^ref-22] |
-| Front Page Sports Football Pro '97 | 1996 | Windows 95 | First Windows 95 native version[^ref-1][^ref-23] |
-| Front Page Sports Football Pro '98 | November 3, 1997 | Windows | Revamped UI, NFL player photos, audio play-by-play; required three major patches[^ref-1][^ref-20] |
-| NFL Football Pro '99 | December 22, 1998 | Windows | Completely rebuilt with 3D graphics; recalled January 21, 1999[^ref-5][^ref-16] |
-| NFL Football Pro 2000 | Cancelled | - | Cancelled following '99 recall[^ref-1] |
-
 ### Easter Eggs and Trivia
 
 - The game was originally titled "Front Page Sports: Football Pro '99" before being renamed to "Sierra Sports Football Pro '99" due to company rebranding.[^ref-2]
@@ -159,7 +159,7 @@ This was not the first time the series had experienced quality issues. The '96 v
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Play-by-play Commentary | Howard David (NFL on CBS radio voice)[^ref-4][^ref-24][^ref-25] |
+| Play-by-play Commentary | CBS radio announcer, named as Howard Davis [sic] in GameOver's review of the '99 game;[^ref-4] the '98 edition named Howard David[^ref-24][^ref-25] |
 
 ## Legacy
 
@@ -204,6 +204,9 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 
 ## See Also
 
+- [[Front Page Sports Series]]
+- [[Cancelled Games]]
+- [[Cancelled Game Index]]
 - [[1992 - Front Page Sports Football 92]]
 - [[1993 - Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Football Pro '95]]
@@ -251,3 +254,4 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 [^ref-24]: [Web Archive – Sierra press release, "Front Page Sports: Football Pro '98" (Business Wire via MPOG.COM, Nov. 3, 1997)](https://web.archive.org/web/19990901152908/http://www.idle.com/~mpogpr/viewpr.cgi?item=68) – correct spelling of the announcer's name: "play-by-play commentary from CBS radio's Howard David" (Football Pro '98)
 
 [^ref-25]: [VideoGameGeek – Front Page Sports: Football Pro '98](https://videogamegeek.com/videogame/137326/front-page-sports-football-pro-98) – back-of-box text for the previous edition: "Play-by play commentary from CBS Radio's Howard David"
+[^ref-26]: [Computer Games Strategy Plus – NFL Football Pro 99 preview, by Steve Bauman (posted 10/19/1998)](https://web.archive.org/web/20030709082702/http://www.cdmag.com/articles/015/009/nfl_pro99_preview.html) – new 3D engine, 800x600 interface, salary cap, 31 team versions, $29.95, Sean Gleason "rebuilt from the ground up" quote, November 1998 timing
