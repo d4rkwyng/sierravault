@@ -7,18 +7,18 @@ first_release: 1987
 last_release: 2020
 total_games: 14
 genre: "Adventure, Comedy"
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 
 # Leisure Suit Larry Series
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-The Leisure Suit Larry series is Sierra On-Line's adult comedy adventure franchise. Created by [[Al Lowe]] in 1987, it follows Larry Laffer, whom MobyGames describes as "a short, tacky, balding, forty-year-old man" who "used to be in the software business".[^ref-9] What began as a graphical update to Chuck Benton's 1981 text adventure Softporn Adventure became "the biggest sleeper hit in adventure gaming history" according to Guinness World Records: it sold 2,000 copies in its first month and 250,000 in its first year.[^ref-2]
+The Leisure Suit Larry series is Sierra On-Line's adult comedy adventure franchise. Created by [[Al Lowe]] in 1987, it follows Larry Laffer, whom MobyGames describes as "a short, tacky, balding, forty-year-old man" who "used to be in the software business".[^ref-9] What began as a graphical update to Chuck Benton's 1981 text adventure Softporn Adventure became "the biggest sleeper hit in adventure gaming history" according to Guinness World Records: it sold 2,000 copies in its first month and 250,000 in its first year.[^ref-2] Lowe himself recalls a lower start: "In its first month, it sold 4,000 copies—the worst sales of any game in Sierra history."[^ref-41]
 
-The series "spawned a new computer gaming genre of 'adult' titles", according to Lowe's official biography.[^ref-3] Lowe recalled that the first game's sales doubled every month "until after 8 months, it was in the top 10".[^ref-5] Lowe designed the adventures through Leisure Suit Larry 7 (1996); later adventure entries, two of them starring Larry's nephew, were made without him.[^ref-1][^ref-21][^ref-22]
+The series "spawned a new computer gaming genre of 'adult' titles", according to Lowe's official biography.[^ref-3] Lowe recalled that the first game's sales doubled every month "until after 8 months, it was in the top 10".[^ref-5] Lowe designed the Sierra-era adventures through Leisure Suit Larry 7 (1996) and wrote the 1997 design document for the 1998 Casino spin-off.[^ref-1][^ref-43] Magna Cum Laude and Box Office Bust, the two games starring Larry's nephew, were made without him,[^ref-21][^ref-22] but he headed the 2013 *Reloaded* remake.[^ref-40]
 
 ## Series Timeline
 
@@ -32,7 +32,7 @@ The series "spawned a new computer gaming genre of 'adult' titles", according to
 | 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] | SCI1.1 | Budget casino pack: slot machine, blackjack and poker[^ref-36] |
 | 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] | SCI1.1 | Set at the spa resort La Costa Lotta[^ref-29] |
 | 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] | SCI3 | Cruise ship setting[^ref-30] |
-| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Custom (Hoyle-based) | Casino spin-off with online play via WON[^ref-37] (servers closed 2008)[^ref-38] |
+| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Custom (Hoyle-based) | Casino spin-off with online play via WON[^ref-37] (Activision announced the closure of the remaining WON servers in 2008)[^ref-38] |
 | 2004 | [[2004 - Leisure Suit Larry - Magna Cum Laude\|Leisure Suit Larry: Magna Cum Laude]] | Proprietary | Larry Lovage (nephew); first full-3D entry and first on consoles[^ref-23] |
 | 2009 | [[2009 - Leisure Suit Larry - Box Office Bust\|Leisure Suit Larry: Box Office Bust]] | Unreal Engine 3[^ref-25] | Widely panned[^ref-21] |
 | 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Unity | Kickstarter-funded HD remake of LSL1[^ref-24] |
@@ -79,9 +79,9 @@ Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 
 - LSL5 was the first new Larry game with an icon-based interface[^ref-16]
 - LSL6's 1994 CD-ROM edition[^ref-35] was "the first installment to feature voice acting"[^ref-19], with Jan Rabson as Larry[^ref-20]
 
-### Post-Lowe and Modern Era (2004–2020)
+### Later Entries (2004–2020)
 - Magna Cum Laude moved the series to full 3D and consoles[^ref-23]; Box Office Bust used Unreal Engine 3[^ref-25]
-- Reloaded (2013) was funded on Kickstarter by 14,081 backers who pledged $655,182 against a $500,000 goal[^ref-24]
+- Reloaded (2013), headed by Lowe, was funded on Kickstarter by 14,081 backers who pledged $655,182 against a $500,000 goal[^ref-24][^ref-40]
 - CrazyBunch's Wet Dreams games (2018, 2020) are point-and-click adventures[^ref-31][^ref-32]
 
 ## Critical Reception
@@ -107,8 +107,8 @@ Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 
 ### Controversies
 - The age quiz at the start of the first game[^ref-18]
 - The California legislature once introduced a "Leisure Suit Larry" bill to prohibit adult themes in computer games; it died in committee[^ref-3]
-- On April 30, 2025, Assemble Entertainment announced that LSL1–7 and Magna Cum Laude would soon leave the Steam store (reported May 1, 2025); it gave no reason;[^ref-10][^ref-11] Video Game History Foundation's Phil Salvador suggested the Codemasters licence, now owned by EA, may not have been renewed[^ref-10]
-- On October 23, 2026, publisher Assemble Entertainment removed the last two games, Wet Dreams Don't Dry and Wet Dreams Dry Twice, from Steam and GOG. It gave no reason, saying only "we can't share anything about his future"[^ref-12][^ref-33]
+- In a message on the games' Steam pages, reported on May 1, 2025, Assemble Entertainment announced that LSL1–7 and Magna Cum Laude would soon leave the Steam store; it gave no reason;[^ref-10][^ref-11] Video Game History Foundation's Phil Salvador suggested the Codemasters licence, now owned by EA, may not have been renewed[^ref-10]
+- On October 23, 2026, publisher Assemble Entertainment removed the last two games, Wet Dreams Don't Dry and Wet Dreams Dry Twice, from Steam and GOG. It gave no reason, saying only "we can't share anything about his future" (referring to Larry)[^ref-12][^ref-33]
 
 ## Playing Today
 
@@ -135,8 +135,12 @@ Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 
 - **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] — Developer: CrazyBunch, Notes: Modern sequel
 - **2020** — [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]] — Developer: CrazyBunch, Notes: Sequel
 
-### The Al Lowe Cutoff
-[[Al Lowe]] designed LSL1–7. He had "absolutely no part in the making of Magna Cum Laude"[^ref-22], and says the companies behind Box Office Bust "did not consult me nor discuss anything about this game with me".[^ref-21]
+### Lowe's Involvement in Later Games
+[[Al Lowe]] designed LSL1–7 and returned to head *Reloaded* in 2013.[^ref-40] He had "absolutely no part in the making of Magna Cum Laude"[^ref-22], and says the companies behind Box Office Bust "did not consult me nor discuss anything about this game with me".[^ref-21]
+
+## Cancelled Projects
+
+- **Leisure Suit Larry 8: Lust in Space.** Lowe says that "at the end of 1998, while Sierra and I were negotiating a contract for Leisure Suit Larry 8: Lust in Space, Sierra cancelled production."[^ref-42] See [[CXL - Leisure Suit Larry 8]].
 
 ## See Also
 
@@ -192,5 +196,9 @@ Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 
 [^ref-35]: [PCGamingWiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) – VGA original 1993 on floppies; "SVGA (1994 CD-ROM remake with speech added)"
 [^ref-36]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – DOS, June 5, 1992; one of five Nick's Picks budget games; slot machine, blackjack and poker (read via the MobyGames API)
 [^ref-37]: [Leisure Suit Larry's Casino – Overview (Sierra Studios, archived 2001)](https://web.archive.org/web/20010208065217/http://www.sierrastudios.com:80/games/lslcasino/overview.html) – Play "against live opponents via WON"; "Unlimited on-line play will be free via Won.net"
-[^ref-38]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Activision closed the remaining World Opponent Network (WON) servers on November 1, 2008
+[^ref-38]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Activision "announced the closure of the online servers of several older Sierra games on November 1" (2008 section), including the remaining World Opponent Network (WON) servers
 [^ref-39]: [Sierra News Magazine, Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – "the next Leisure Suit Larry installment will require (get this) — modem support" (Johnny Magpie rumor column)
+[^ref-40]: [GameSpot – Leisure Suit Larry Reloaded out June 27](https://www.gamespot.com/articles/leisure-suit-larry-reloaded-out-june-27/1100-6410796/) – "The remake was headed by the series' original game designer, Al Lowe"
+[^ref-41]: [Adventure Classic Gaming – Al Lowe Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/199/) – "In its first month, it sold 4,000 copies—the worst sales of any game in Sierra history"
+[^ref-42]: [Al Lowe – Is MCL Larry 8?](https://allowe.com/games/larry/history-of-larry/is-mcl-larry-8.html) – Cancelled "at the end of 1998" during contract negotiations for Lust in Space
+[^ref-43]: [Internet Archive – Design Document: Leisure Suit Larry's Casino (Al Lowe, 1997)](https://archive.org/details/LarrysCasinoDesign) – Creator listed as Al Lowe; mirrored from allowe.com
