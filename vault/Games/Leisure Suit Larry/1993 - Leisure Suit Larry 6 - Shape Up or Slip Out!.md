@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1.1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Leisure Suit Larry 6: Shape Up or Slip Out! is the fifth game in Al Lowe''s
   comedic adult adventure series, despite its number. Released by Sierra On-Line in 1993,
   it sends Larry Laffer to the La Costa Lotta health spa; a 1994 CD-ROM edition added
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 6: Shape Up or Slip Out!
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -56,13 +56,13 @@ The interface was refined from Larry 5, with the "Use" command being divided int
 
 Although the narrator promises "two weeks" at the spa[^ref-5], the game itself is split into four days[^ref-24]. The women's tasks can be done in any order except for the last one[^ref-8]. Walkthrough author Tom Hayes preferred this to the previous game: "Instead of a dull adventure spread over a variety of locations, this is a fun adventure based in one large location"[^ref-6].
 
-Deaths returned after their absence in Larry 5[^ref-2][^ref-81], although Adventure Classic Gaming counted it among the first Sierra adventures "in which you cannot die!"[^ref-27] The deaths are there for humor's sake, since the "Try Again" button lets the player reverse the mistake without restoring a saved game[^ref-8]. One modern reviewer felt the option takes away "some of the fear of getting a bad ending when you haven't saved your game in a while"[^ref-29]. Even so, at least one dead end remains from which the game cannot be completed[^ref-8].
+Deaths returned after their absence in Larry 5[^ref-2][^ref-81], although Adventure Classic Gaming counted it among the first Sierra adventures "in which you cannot die!"[^ref-27] The deaths are there for humor's sake, since the "Try Again" button lets the player reverse the mistake without restoring a saved game[^ref-8]. One modern reviewer felt the option takes away "some of the fear of getting a bad ending when you haven't saved your game in a while"[^ref-29]. Sources disagree on dead ends: Wikipedia says that in at least one case the player could reach a dead end from which the game could not be completed[^ref-8], while Unicorn Lynx's MobyGames review says "Sierra decided to get rid of dead ends"[^ref-30].
 
 ### Puzzles and Mechanics
 
 The puzzles have drawn particular praise. MobyGames user reviewer Unicorn Lynx called them "by far the best puzzles in the series so far", with "a nigh immaculate system with convoluted, intricate tasks woven together in a clever and yet appropriately twisted, comedic way"[^ref-30]. The puzzles focus primarily on solving each woman's personal problems or desires, requiring Larry to explore the resort and gather appropriate items or information[^ref-31].
 
-The difficulty was deliberately relaxed compared to earlier Sierra titles, and it is impossible to get stuck without the proper items[^ref-8]. Al Lowe's design philosophy emphasized accessibility, stating in the game manual his intention to "provide an area where the player could roam around and see almost anything within the first few minutes of play, and yet provide enough depth of play that the game would challenge most players"[^ref-3].
+The difficulty was relaxed compared to earlier Sierra titles, and, according to Wikipedia, it is impossible to get stuck without the proper items[^ref-8]. Al Lowe's design philosophy emphasized accessibility, stating in the game manual his intention to "provide an area where the player could roam around and see almost anything within the first few minutes of play, and yet provide enough depth of play that the game would challenge most players"[^ref-3].
 
 ## Reception
 
@@ -86,7 +86,7 @@ The more negative reviews focused on the series' perceived stagnation. David Wil
 
 ### Aggregate Scores
 
-MobyGames lists a Moby Score of 7.7 from 108 votes (read via the MobyGames API on November 11, 2026)[^ref-2].
+MobyGames lists a Moby Score of 7.7 from 108 votes[^ref-2].
 
 ### Modern Assessment
 
@@ -98,7 +98,7 @@ Unicorn Lynx's MobyGames review also compared it favorably with its predecessor:
 
 ### Origins
 
-Al Lowe set out his design goals in the game's manual: "In some ways, a return to the original." He continued: "No long auto-pilot cartoons. No Passionate Patti to provide political-correctness. No involved heavy plot. Just more babes, more silly situations to humiliate Larry, and more babes."[^ref-3]
+Al Lowe set out his design goals in the game's manual: "In some ways, a return to the original." He continued: "... No long auto-pilot cartoons. No Passionate Patti to provide political-correctness. No involved heavy plot. Just more babes, more silly situations to humiliate Larry, and more babes."[^ref-3]
 
 ### Production
 
@@ -155,11 +155,13 @@ Adventure Classic Gaming lists minimum requirements of MS-DOS 5.0 or Windows 3.1
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| VGA Floppy | November 6, 1993 | DOS | Original release, 320x200 resolution[^ref-10] |
+| VGA Floppy | November 6, 1993 | DOS | Original release, 320x200 resolution; SierraChest gives 6 November 1993, while Wikipedia gives December 1993, citing period newspapers[^ref-10][^ref-8] |
 | VGA CD-ROM | 1994 | DOS | VGA version re-released on CD with added speech[^ref-11] |
 | SVGA CD-ROM | 1994 | DOS/Windows | Full voice acting, 640x480 resolution[^ref-7][^ref-11] |
 | Windows 3.x | 1994 | Windows | High-resolution Windows release[^ref-11] |
 | Macintosh | January 1994 | Mac OS | Mac port[^ref-2] |
+| Windows (GOG, ScummVM) | January 17, 2013 | Windows | ScummVM-based release[^ref-11] |
+| macOS and Linux (ScummVM) | December 17, 2015 | macOS, Linux | ScummVM-based releases[^ref-11] |
 | Windows (Steam) | December 18, 2017 | Windows | Assemble Entertainment release including the VGA version, selectable through the Steam betas tab; delisted from the Steam store as of November 2026[^ref-89][^ref-11] |
 
 **SCI Interpreter Versions:**[^ref-11]
@@ -261,7 +263,7 @@ The Sierra Chest lists Larry 6 in these compilations: Al Lowe's Abenteuerliche A
 [^ref-73]: [DOSBox Wiki – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.dosbox.com/wiki/GAMES:Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out!) - DOSBox compatibility status
 [^ref-74]: https://gogdb.org/product/1207662093 - GOG Database: VGA version, included in the Leisure Suit Larry package
 [^ref-76]: https://archive.org/details/Leisure_Suit_Larry_6_-_Manual - Internet Archive manual preservation
-[^ref-81]: [MobyGames – Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/) - description (via API): "it is impossible to 'die' in Larry 5"
+[^ref-81]: [MobyGames – Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/) - description: "it is impossible to 'die' in Larry 5"
 [^ref-82]: [Hyper #3 (February 1994), p. 57 – "Leisure Suit Larry VI" by David Wildgoose](https://archive.org/details/hyper-003/page/56/mode/2up) - Internet Archive scan of the original review: "This is really desperate stuff"; overall 50%, "Larry was funny when he had some novelty value. Now he's just a sad old sexist pervert."
 [^ref-83]: [Computer Gaming World #116 (March 1994), p. 184 – "PC Research Hits List of Top-Selling Software", November 1993](https://archive.org/details/Computer_Gaming_World_Issue_116/page/n183/mode/2up) - Internet Archive scan, page image checked: PC Games (MS-DOS/Windows) rank 6, Leisure Suit Larry VI (Sierra On-Line, Inc.)
 [^ref-84]: [Computer Gaming World #117 (April 1994), p. 184 – "PC Research Hits List of Top-Selling Software", December 1993](https://archive.org/details/Computer_Gaming_World_Issue_117/page/n183/mode/2up) - Internet Archive scan, page image checked: rank 7, Leisure Suit Larry VI
@@ -269,4 +271,4 @@ The Sierra Chest lists Larry 6 in these compilations: Al Lowe's Abenteuerliche A
 [^ref-86]: [Computer Gaming World #119 (June 1994), p. 176 – "PC Research Hits List of Top-Selling Software", February 1994](https://archive.org/details/Computer_Gaming_World_Issue_119/page/n175/mode/2up) - Internet Archive scan, page image checked: rank 7, Leisure Suit Larry VI
 [^ref-87]: [Joystick #52 (September 1994), p. 109 – "Simple, mais tellement beau"](https://archive.org/details/joystick_052/page/n108/mode/2up) - Internet Archive scan of the original French review of the PC CD-ROM (SVGA) version; page image checked: score boxes TECHNIQUE 65 and INTERET 80
 [^ref-88]: [Next Generation #9 (September 1995), pp. 99-100 – Macintosh ratings](https://archive.org/details/nextgen-issue-009/page/n100/mode/2up) - Internet Archive scan; page images checked: Leisure Suit Larry 6 rated three stars, "filled like a straining brassiere with dozens of the most ghastly come-ons"
-[^ref-89]: [Steam – Leisure Suit Larry 6 - Shape Up Or Slip Out (app 765910)](https://store.steampowered.com/app/765910/) - Store page (fetched November 11, 2026): publisher Assemble Entertainment, released 18 Dec 2017; includes the VGA version via the betas tab; notice that the game is no longer available on the Steam store
+[^ref-89]: [Steam – Leisure Suit Larry 6 - Shape Up Or Slip Out (app 765910)](https://store.steampowered.com/app/765910/) - Store page: publisher Assemble Entertainment, released 18 Dec 2017; includes the VGA version via the betas tab; notice that the game is no longer available on the Steam store
