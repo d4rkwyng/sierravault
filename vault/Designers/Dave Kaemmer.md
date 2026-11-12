@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["Indianapolis 500", "NASCAR Racing", "Grand Prix Legends"]
 companies: ["Papyrus Design Group", "Sierra On-Line", "iRacing"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Dave Kaemmer
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Dave Kaemmer co-founded Papyrus Design Group, the developer of Indianapolis 500: The Simulation, the IndyCar Racing and NASCAR Racing series and Grand Prix Legends, and later co-founded iRacing; in 2019 iRacing introduced him as "our founder and simracing legend" who had "pushed simracing forward" for over 30 years.[^ref-1] He grew up in Indiana and graduated from Oberlin College in Ohio in 1985 with a degree in mathematics.[^ref-2][^ref-22]
+Dave Kaemmer co-founded [[Papyrus Design Group]], the developer of Indianapolis 500: The Simulation, the IndyCar Racing and NASCAR Racing series and Grand Prix Legends, and later co-founded iRacing; in 2019 iRacing introduced him as "our founder and simracing legend" who had "pushed simracing forward" for over 30 years.[^ref-1] He grew up in Indiana and graduated from Oberlin College in Ohio in 1985 with a degree in mathematics.[^ref-2][^ref-22]
 
 Tim Wheatley, creator of the original Race Sim Central website, told Motor Sport in 2021: "In my opinion, he founded the sim-racing genre. I can't overstate how important he is."[^ref-2] In the same article Kaemmer summed up his approach: "We say here at iRacing, 'We don't care if it's fun or not. We care if it's real.'"[^ref-2] He has also raced for real, in the Skip Barber spec series and, in 2007, in the Daytona 24 Hours.[^ref-2]
 
@@ -37,7 +37,7 @@ Kaemmer was technical director on NASCAR Racing 4 (2001) and NASCAR Racing 2002 
 
 ### iRacing Era (2003–Present)
 
-Kaemmer and John Henry founded iRacing.com Motorsport Simulations. Sources differ on the founding year: iRacing Studios dates its roots to 2003, while Wikipedia says development began in 2004, when the two formed FIRST.net LLC to acquire Papyrus's code. The service launched in 2008.[^ref-6][^ref-32][^ref-2] Writing in 2004, GameSpot reported that Kaemmer "had just emerged from discussions with VU wherein he successfully recovered the rights to Papyrus' venerated racing simulation technology."[^ref-14] iRacing began from Papyrus's NASCAR code. Motor Sport says it was a modified version of the NASCAR Racing 4 source code, but the copyrights Vivendi and Papyrus sold to FIRST.net on May 28, 2004 were those of NASCAR Racing 2003 Season, and Wikipedia says iRacing kept NR2003's multi-body physics system.[^ref-2][^ref-12][^ref-32] Kaemmer is iRacing's co-founder, CEO and CTO.[^ref-6][^ref-13]
+Kaemmer and John Henry founded iRacing.com Motorsport Simulations. Sources differ on the founding year: iRacing Studios dates its roots to 2003, while Wikipedia says development began in 2004, when the two formed FIRST.net LLC to acquire Papyrus's code; iRacing boilerplate reproduced by BSIM Racing in 2018 says the company "was founded in September of 2004 by David Kaemmer" and John Henry. The service launched in 2008.[^ref-6][^ref-32][^ref-2][^ref-38] Writing in 2004, GameSpot reported that Kaemmer "had just emerged from discussions with VU wherein he successfully recovered the rights to Papyrus' venerated racing simulation technology."[^ref-14] iRacing began from Papyrus's NASCAR code. Motor Sport says it was a modified version of the NASCAR Racing 4 source code, but the copyrights Vivendi and Papyrus sold to FIRST.net on May 28, 2004 were those of NASCAR Racing 2003 Season, and Wikipedia says iRacing kept NR2003's multi-body physics system.[^ref-2][^ref-12][^ref-32] Kaemmer is iRacing's co-founder, CEO and CTO.[^ref-6][^ref-13]
 
 In August 2025 iRacing Studios announced a standalone INDYCAR game under a long-term licensing agreement with the series.[^ref-35] On 10 July 2026 iRacing and INDYCAR named it "INDYCAR Racing The Game", for PlayStation 5, Xbox Series X|S and PC via Steam, with launch moved to early 2027.[^ref-34] This is iRacing Studios news; neither announcement credits Kaemmer with a role in the game.
 
@@ -67,7 +67,7 @@ He has relied on technical racing literature, including Carroll Smith's *Tune to
 
 The Oberlin Alumni Magazine wrote in 2002–03 that Kaemmer had "authored or co-authored a game series credited with popularizing an entirely new genre of PC entertainment: the uncompromisingly realistic simulation".[^ref-22] By 2021 he felt the physics were close to their limit: "In some ways, I feel we're kind of done."[^ref-2]
 
-Kaemmer took the Skip Barber Racing School course at Lime Rock while working on GPL and went on to enter about 100 races, winning 19.[^ref-2][^ref-6] "He was extremely good in a real race car," said Divina Galica.[^ref-2] When iRacing acquired Monster Games in January 2022, Rich Garcia said: "To be working with my longtime friend and colleague Dave once again is awesome."[^ref-13]
+Kaemmer took the Skip Barber Racing School course at Lime Rock while working on GPL and went on to enter about 100 races, winning 19.[^ref-2][^ref-6] iRacing's ownership history says he won 19 races in the Skip Barber Racing Championship and held the series' lap record at Lime Rock Park.[^ref-37] "He was extremely good in a real race car," said Divina Galica.[^ref-2] When iRacing acquired Monster Games in January 2022, Rich Garcia said: "To be working with my longtime friend and colleague Dave once again is awesome."[^ref-13]
 
 ## Games
 
@@ -127,3 +127,5 @@ From the BD Jogos copy of his MobyGames credit list.[^ref-33]
 [^ref-34]: [iRacing and INDYCAR Announce Name, Logo and Launch Plan for Standalone INDYCAR Game](https://www.iracing.com/iracing-announce-launch-plan-for-indycar-game/) — July 10, 2026: officially called "INDYCAR Racing The Game"; PlayStation 5, Xbox Series X|S and PC via Steam; early 2027
 [^ref-35]: [INDYCAR: iRacing console game announcement](https://www.indycar.com/news/2025/08/08-26-iracing-console-game) — August 26, 2025: iRacing Studios to produce standalone INDYCAR titles under a long-term licensing agreement
 [^ref-36]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) — Release data (read via the MobyGames API): DOS, Windows and Macintosh all 1996
+[^ref-37]: [iRacing: Ownership History](https://www.iracing.com/ownership-history/) — Kaemmer "won 19 races in the Skip Barber Racing Championship and held the series' lap record at Lime Rock Park"
+[^ref-38]: [BSIM Racing: A Decade of iRacing – David Kaemmer Interview](https://bsimracing.com/?p=75894) — August 26, 2018: iRacing boilerplate, "was founded in September of 2004 by David Kaemmer, co-founder of Papyrus Racing Games, and John Henry"
