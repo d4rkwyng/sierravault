@@ -9,16 +9,16 @@ platforms: [Windows]
 series: 3-D Ultra
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: 3-D Ultra Radio Control Racers is a 1999 top-down radio-controlled car
   racing game in Sierra's 3-D Ultra series, developed by Dynamix, Inc. and published
   by Sierra On-Line for Windows.
 tags: [1990s, 3-d-ultra, racing, sierra]
-last_modified: 2026-11-06T12:00:00-06:00
+last_modified: 2026-11-12T12:00:00-06:00
 ---
 # 3-D Ultra Radio Control Racers
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -51,7 +51,7 @@ IGN found the cars "fairly sticky" and quick to master even on a keyboard[^ref-4
 
 ### Structure and Progression
 
-The game has eight tracks, compared with Re-Volt's "over fifty"[^ref-9]. The game offers a Quick Race mode, which IGN found "much better suited for the game", and a circuit mode in which each track won earns money and the ability to upgrade the car[^ref-4][^ref-22]. Players choose from four vehicle types—Monster Truck, Stadium Truck, Baja Bug, and Buggy—each with six different looks[^ref-4]. Each of the themed tracks described above has its own obstacles and hidden shortcuts[^ref-3].
+The game has eight tracks, compared with Re-Volt's "over fifty"[^ref-9]. The game offers a Quick Race mode, which IGN found "much better suited for the game", and a circuit mode in which each track won earns money and the ability to upgrade the car[^ref-4][^ref-22]. Players choose from four vehicle types—Monster Truck, Stadium Truck, Baja Bug, and Buggy—each with six different looks[^ref-4]. Each of the themed tracks described above has its own obstacles and hidden shortcuts[^ref-3]. The Black Falcon Games blog describes three circuits in single-player mode, plus a custom circuit option, with each track played as a three-lap qualifier followed by a five-lap race[^ref-24].
 
 Old-Games.com's reviewer felt the game "will forever live in Re-Volt's shadow unless a sequel boosts its graphics and depth in a major way"[^ref-9].
 
@@ -85,13 +85,19 @@ The game was developed by Dynamix, Inc. under the executive production of Jeffre
 
 ### Production
 
-IGN, which judged it "standard budget fare", placed it in the "Sierra Attractions 3D Ultra line"[^ref-4]; the Sound Effects Wiki likewise gives Sierra Attractions as publisher[^ref-16]. The game featured pre-rendered graphics with a realistic art style and bird's-eye view perspective[^ref-13]. Developer messages shown in the Help > About credits while holding specific keys reveal personal touches, including "Hello Slugo" from John Leavens, "I love Victoria, Carly, Colin and Sierra" from Richard Gabrielson, and "Pure quality since 1993" from John Wolf[^ref-10].
+IGN, which judged it "standard budget fare", placed it in the "Sierra Attractions 3D Ultra line"[^ref-4]; the Sound Effects Wiki likewise gives Sierra Attractions as publisher[^ref-16]. The game featured pre-rendered graphics with a realistic art style and bird's-eye view perspective[^ref-13]. Developer messages in the Help > About credits reveal personal touches, in two forms. Holding M, K, L, B or P while the credits scroll temporarily replaces a developer's name with a message, such as "Hi Mom!" for David McClurg on M[^ref-10]. Pressing the Control key on every fifth repeat of the credits roll permanently replaces other names, including "Hello Slugo" for John Leavens, "I love Victoria, Carly, Colin and Sierra" for Richard Gabrielson, and "Pure quality since 1993" for John Wolf[^ref-10].
 
 MobyGames lists Funk-Flitzer among the game's alternate titles[^ref-1]; a 2017 Steam forum post says the game was known as "Funk Flitzer in Germany"[^ref-11].
 
 ### Technical Achievements
 
 PCGamingWiki lists minimum system requirements of Windows 95, an Intel Pentium 90 MHz processor, 32 MB RAM, 90 MB storage, DirectX 6.1 compatible graphics, a Windows-compatible sound device, a 4x speed CD-ROM drive, and mouse and keyboard; its cited source for these figures is Sierra's page for the Deluxe: Traxxas Edition[^ref-13]. MobyGames gives a lower memory minimum of 16 MB RAM, with a Pentium, Windows 95 and a 2X CD-ROM drive[^ref-1]. The game supported various input devices including keyboard, mouse, and other controllers[^ref-1]. PCGamingWiki notes that running the game in windowed mode (adding -window to the shortcut) fixes an inverted-colors issue, and that patch 1.1 adds custom paint jobs and fixes bugs related to joypads and multiplayer[^ref-13]. The Collection Chamber preservation installer, which runs the game under emulated Windows in DOSBox, reports a 567 MB file size and a 362 MB install footprint[^ref-2].
+
+### Cut Content and Unused Features
+
+The Cutting Room Floor documents several leftovers in the game's files. The retail game still ships with .ini files that can enable various debugging features, and developer directory paths such as c:\rcracing\Dev\ remain in the executable[^ref-10]. Tracks loaded directly from the command line with up to four racers (for example `-count:4 backyard`) give the racers default names: Homer, Marge, Bart and Lisa[^ref-10]. References to a desert race track and a "test" race track exist in v1.0 but were never implemented; the desert track only appeared in the v2.0 Traxxas Edition[^ref-10].
+
+TCRF also lists an unused powerup type with a dollar sign on it that has no effect when used; it was "likely meant as means to collect vehicle upgrade money in the Circuit game mode"[^ref-10].
 
 ### Version History
 
@@ -106,10 +112,6 @@ PCGamingWiki calls the v1.1 patch "Highly recommended"[^ref-13]. Its joystick fi
 ## Legacy
 
 The game retains fans. One MyAbandonware user credited the game as "the reason why I got into hobby grade rc cars"[^ref-5]. One fan asked for a re-release: a 2017 Steam forum request describes it as "still gold of these 3D Ultra series and an awesome RC game"[^ref-11], with one passionate player stating "I would kill for a sequel or reboot with new content"[^ref-5]. The Steam request's author also called the game "the innovator of car·soccer (like Rocket League)"[^ref-11]. That is one fan's view: the R/C Soccer mode only arrived with the v2.0 Traxxas Edition[^ref-10], and no source documents any influence on Rocket League. One My Abandonware commenter recalled a 6th-grade teacher rewarding good behavior with class game-time on it[^ref-5].
-
-### Cut Content and Unused Features
-
-The Cutting Room Floor documents several leftovers in the game's files. The retail game still ships with .ini files that can enable various debugging features, and developer directory paths such as c:\rcracing\Dev\ remain in the executable[^ref-10]. Tracks loaded directly from the command line with up to four racers (for example `-count:4 backyard`) give the racers default names: Homer, Marge, Bart and Lisa[^ref-10]. References to a desert race track and a "test" race track exist in v1.0 but were never implemented; the desert track only appeared in the v2.0 Traxxas Edition[^ref-10].
 
 ## Downloads
 
@@ -126,6 +128,7 @@ The Cutting Room Floor documents several leftovers in the game's files. The reta
 - [[1999 - 3-D Ultra Pinball - Power|← Previous: 3-D Ultra Pinball - Power]]
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|→ Next: 3-D Ultra Lionel TrainTown Deluxe]]
 
+- [[3D Ultra Series]]
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
