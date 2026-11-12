@@ -7,12 +7,12 @@ first_release: 1992
 last_release: 2023
 total_games: 12
 genre: "City-Building Strategy"
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 
 # City Builders Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -66,7 +66,7 @@ Triskell Interactive pitched a city-building game to Dotemu, which asked whether
 - *Immortal Cities: Children of the Nile* (2004) and *Alexandria* (2008) — Tilted Mill's entries, counted in the series by Wikipedia.[^ref-1]
 - *Pharaoh: A New Era* (2023) — licensed remake.[^ref-14]
 - *Nebuchadnezzar* — city-builder by Nepos Games, compared to the series, "especially the fourth entry, Pharaoh".[^ref-17]
-- *Theos: Cities of Myth* — announced June 1, 2026 by publisher Dotemu and *Pharaoh: A New Era* developer Triskell Interactive as a Greek-mythology city builder and "a modern homage to the greatest city builders released in the aughts"; the release says *Pharaoh: A New Era*'s building tools return in it. It is a new game, not an entry in the original series.[^ref-43]
+- *Theos: Cities of Myth* — announced June 1, 2026 by publisher Dotemu and *Pharaoh: A New Era* developer Triskell Interactive as a Greek-mythology city builder and "a modern homage to the greatest city builders released in the aughts"; the release says *Pharaoh: A New Era*'s building tools return in it. It is a new game, not an entry in the original series.[^ref-43] It was released on Steam on November 4, 2026.[^ref-44]
 
 ## Playing Today
 
@@ -133,3 +133,4 @@ Checked against the GOG catalog and the Steam store API on November 11, 2026. A 
 [^ref-41]: [Steam — Children of the Nile: Alexandria](https://store.steampowered.com/app/17120/) — store page; Tilted Mill Entertainment; Steam release date September 22, 2008
 [^ref-42]: [Steam — Pharaoh: A New Era](https://store.steampowered.com/app/1351080/) — store page; Triskell Interactive / Dotemu; February 15, 2023
 [^ref-43]: [Cosmocover — Dotemu Announces Greek Pantheon-Themed Strategic City Builder Theos: Cities of Myth, Launching on PC in 2026](https://www.cosmocover.com/newsroom/dotemu-announces-greek-pantheon-themed-strategic-city-builder-theos-cities-of-myth-launching-on-pc-in-2026/) — press release, June 1, 2026: "Pharaoh: A New Era developer Triskell Interactive"; "A New Era's acclaimed suite of building tools also returns"
+[^ref-44]: [Steam — Theos: Cities Of Myth](https://store.steampowered.com/app/3002130/Theos_Cities_Of_Myth/) — release date Nov 4, 2026; developer Triskell Interactive; publisher Dotemu
