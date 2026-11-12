@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Java
 protagonist: SWAT Team (Artilleryman and Expert)
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: SWAT Force is a 2D side-scrolling tactical action game for Java mobile
   phones, developed by Kaolink and published by Vivendi Universal Games; it launched
   in Europe in July 2005 and in the United States on February 28, 2006.
@@ -18,13 +18,15 @@ tags: [2000s, police-quest-swat, sierra]
 ---
 # SWAT Force
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 SWAT Force is a mobile tactical action game[^ref-1][^ref-3] for Java-enabled phones[^ref-5][^ref-13], and the first game in the Police Quest/SWAT series to be released for mobile devices[^ref-1][^ref-2]. Vivendi Universal Games announced in July 2005 that it would be available to consumers starting that month, distributed by WonderPhone in Europe and other international markets, with a North American launch "shortly following"[^ref-16]; the US release date was February 28, 2006[^ref-1][^ref-7][^ref-17][^ref-18][^ref-19]. It was developed by French studio Kaolink[^ref-1][^ref-2][^ref-7] and published by Vivendi Universal Games[^ref-1][^ref-7], whose press release described the PC SWAT franchise it drew on as having sold "more than two million units"[^ref-16].
 
 The game is a 2D side-scroller[^ref-3] built around a two-man team, an artilleryman and an expert[^ref-1][^ref-3], across seven missions[^ref-3][^ref-17]. Critical reception was mixed: GameRankings recorded an average of 65.67% from three reviews[^ref-14], ranging from GameSpot's 7.9 and IGN's 7.8 to Modojo's 2 out of 5[^ref-14], while Pocket Gamer's verdict was "Avoid"[^ref-5]. GameSpot called it "a surprisingly good translation of the tactical shooting experience on PC to a mobile format"[^ref-3].
+
+Sources label the genre differently: Wikipedia lists it as a "shoot 'em up"[^ref-1], IGN describes it as a "two-man strategy/action game"[^ref-7], and GameFAQs files it under Shoot-'Em-Up[^ref-19].
 
 All seven missions can be completed in about an hour[^ref-3][^ref-6]. The in-game text states that "The SWAT sign © 2005 LAPD SWAT is used with authorization"[^ref-4].
 
@@ -57,7 +59,15 @@ The player controls one officer at a time while the other follows behind[^ref-3]
 
 The game is structured around seven missions[^ref-3][^ref-17]. Mission objectives include the number of hostages freed, weapons collected and criminals arrested[^ref-17], and GameSpot noted that players are "rewarded for taking suspects alive instead of dead"[^ref-3].
 
-- **Missions 1-7:** Seven missions[^ref-3][^ref-17]. GameSpot found that "the trickiest parts of the game come in the later missions," when hidden mines or bombs can be triggered by accident[^ref-3].
+- **Mission 1:** Rescue the hostage[^ref-13].
+- **Mission 2:** Capture the two dealers[^ref-13].
+- **Mission 3:** Defuse two bombs[^ref-13].
+- **Mission 4:** Arrest the terrorists' leader[^ref-13].
+- **Mission 5:** Arrest the three kamikazes[^ref-13].
+- **Mission 6:** Rescue two hostages[^ref-13].
+- **Mission 7:** Rescue the hostage and defuse three bombs[^ref-13].
+
+The Police Quest Fandom wiki's mission table also counts the terrorists and booby traps in each stage, from three terrorists and one booby trap in Mission 1 to nine terrorists and eight booby traps in Mission 7[^ref-13]. GameSpot found that "the trickiest parts of the game come in the later missions," when hidden mines or bombs can be triggered by accident[^ref-3].
 
 GameSpot called the game "a fairly linear affair"[^ref-3], and both GameSpot and IGN put its length at about an hour[^ref-3][^ref-6]. IGN's reviewer wrote: "My main complaint about SWAT Force? It's over too soon"[^ref-6].
 
@@ -152,7 +162,7 @@ SWAT Force was released as a standalone mobile title[^ref-1][^ref-17]. It should
 
 ### Related Games
 
-The PC game Police Quest: SWAT (1995)[^ref-8][^ref-11] was designed by Tammy Dargan[^ref-8] and used full-motion video across four CD-ROMs[^ref-8]. It sold over 1 million units by March 2000[^ref-8] and was the 17th best-selling game of 1998 in the United States[^ref-8].
+The series' later mobile title was SWAT Elite Troops (2008)[^ref-11]. The PC game Police Quest: SWAT (1995)[^ref-8][^ref-11] was designed by Tammy Dargan[^ref-8] and used full-motion video across four CD-ROMs[^ref-8]. It sold over 1 million units by March 2000[^ref-8] and was the 17th best-selling game of 1998 in the United States[^ref-8].
 
 ### Related Publications
 
