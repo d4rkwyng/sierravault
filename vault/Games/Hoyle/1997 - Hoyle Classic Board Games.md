@@ -10,13 +10,13 @@ series: Hoyle
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Hoyle Classic Board Games is a 1997 Windows collection of ten traditional board games, plus two bonus card games, developed and published by Sierra On-Line under its Hoyle brand.
 tags: [1990s, hoyle, sierra, board-games]
 ---
 # Hoyle Classic Board Games
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -65,7 +65,7 @@ Players sign in before playing. Each player picks a silhouette (male human, fema
 - **Yacht** (a version of Yahtzee)[^ref-26]
 - **Zen Bones** ("a simplification of Mah Jongg")[^ref-26]
 
-**Bonus card games:** Hearts and Solitaire, an optional install previewing Hoyle Classic Card Games[^ref-26].
+**Bonus card games:** Hearts and Solitaire, an optional install previewing Hoyle Classic Card Games[^ref-26]. TechnoFILE describes the bonus pack as giving "playable demos of Hearts or Pyramid," with non-playable previews of other card games[^ref-33].
 
 GameSpot noted that each game has "a little computer enhancement – your dancing animated piece in Snakes & Ladders, for example, or the very cool clear board for Battle Ships"[^ref-3]. The box line "no one knows cards better than Hoyle" was attached to the two bonus card games[^ref-4].
 
@@ -140,7 +140,7 @@ The game also reached players through food-brand promotions. An Amazon reviewer 
 
 ### Series Evolution
 
-MobyGames lists Hoyle Board Games (1998) as the next entry in its Hoyle Board Games series[^ref-7]. Wikipedia lists later releases including Hoyle Board Games (1998, 1999, 2000, 2001, 2002) and Hoyle Puzzle & Board Games (2004, 2008, 2009)[^ref-1].
+MobyGames lists Hoyle Board Games (1998) as the next entry in its Hoyle Board Games series[^ref-7]; its record for that game shows a Windows release in 1998 and a Macintosh release in June 1999[^ref-35]. Wikipedia lists later releases including Hoyle Board Games (1998, 1999, 2000, 2001, 2002) and Hoyle Puzzle & Board Games (2004, 2008, 2009)[^ref-1]. Wikipedia also lists a later Hoyle Classic Board Games Collection series (2012–2015)[^ref-1].
 
 Fans have not always counted these later titles as core Sierra. One Sierra Gamers forum member wrote that "Hoyle" meant "the first three in the series which I played a lot. Definitely Sierra classics," and added that the many later titles "aren't really an important part of the Sierra we know and love"[^ref-23].
 
@@ -177,7 +177,7 @@ The game is not sold digitally. GOG lists it only on its Dreamlist[^ref-20]. MyA
 - [[1996 - Hoyle Solitaire]]
 - [[1997 - Hoyle Classic Card Games]]
 - [[1997 - Hoyle Poker]]
-- [[1998 - Hoyle Classic Board Games]] - the same game as [[1997 - Hoyle Classic Board Games]] (MobyGames: Windows, 1997).
+- [[1998 - Hoyle Classic Board Games]] (duplicate page for this same game)
 - [[1998 - Hoyle Battling Ships and War]]
 - [[1999 - Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Casino]]
@@ -244,3 +244,4 @@ The game is not sold digitally. GOG lists it only on its Dreamlist[^ref-20]. MyA
 [^ref-32]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) - CUC merged with HFS to form Cendant in December 1997; sale of the consumer software division to Havas announced November 20, 1998
 [^ref-33]: [TechnoFILE - Going to Hoyle in a Handcart](https://www.technofile.com/articles/classicgames.html) - Jim Bray; undated review; ten games, a dozen computerized opponents, Battling Ships naming, "Roswell" Zen Bones layout
 [^ref-34]: [Internet Archive - Hoyle Classic Board Games (Sierra Originals)](https://archive.org/details/Hoyle_Classic_Board_Games_Sierra_Originals_1996) - Item title only; shows a Sierra Originals edition exists (the item's own "1996" label conflicts with 1997 elsewhere and is not used)
+[^ref-35]: [MobyGames - Hoyle Board Games](https://www.mobygames.com/game/977/hoyle-board-games/) - Hoyle Board Games (1998): Windows 1998, Macintosh 1999-06
