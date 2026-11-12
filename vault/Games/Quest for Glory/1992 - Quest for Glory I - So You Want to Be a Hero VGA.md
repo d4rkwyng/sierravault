@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI 1.1
 protagonist: The Hero (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Mark Seibert]
 description: 'Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced
   version of Sierra On-Line''s 1989 adventure/RPG hybrid, with redrawn 256-color VGA
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -95,7 +95,7 @@ The game strives to minimize "walking dead" situations where the player can beco
 
 ### Contemporary Reviews
 
-Quest for Glory I received widespread acclaim upon release, with reviewers particularly praising its innovative genre-blending approach. *Computer Gaming World* named the original 1989 release "Adventure Game of the Year" in 1990[^ref-1], with reviewer Scorpia calling it "a definite winner"[^ref-1]. The magazine would later rank the game #73 in their "150 Best Games of All Time" list and #15 on their list of most innovative computer games[^ref-1].
+*Computer Gaming World* named the original 1989 release "Adventure Game of the Year" in 1990[^ref-1], with reviewer Scorpia calling it "a definite winner"[^ref-1]. The magazine would later rank the game #73 in their "150 Best Games of All Time" list and #15 on their list of most innovative computer games[^ref-1].
 
 Sierra's own hint material quoted *Compute* as calling it "a breakthrough in adventure game design"[^ref-49]. In COMPUTE! #149, Alfred C. Giovetti called Hero's Quest "probably the most satisfying game in the Sierra family" and the remake "hard to resist"[^ref-22]. He also called Hero's Quest "arguably the most ambitious Sierra On-Line undertaking", and quoted an unnamed, previously skeptical Sierra artist on the clay animation: "The results are amazing"[^ref-22]. He particularly lauded the rewritten text: "The totally rewritten text by the original design team of Corey and Lori Cole, who have very deep roots in the pen, pencil, and dice role-playing games, is more fun, more witty, more suspenseful, and better written than that of the original"[^ref-22].
 
@@ -112,7 +112,7 @@ Modern retrospectives continue to regard Quest for Glory I highly. *RPGamer* awa
 In a 2020 retrospective, Indie Retro News wrote that "Quest For Glory I's (and consequently, the rest of the series') influence was extremely important and it's still observed nowadays because not only it popularised the mix of genres in future video games, but it also encouraged the use of RPG elements in other genres and the use of action-adventure elements in RPGs"[^ref-26].
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 82% (9 ratings, January 2026)[^ref-2]
+- **MobyGames Critics:** 79% (10 ratings, checked November 12, 2026)[^ref-2]
 - **MobyGames Users:** 4.1/5 (52 ratings)[^ref-2]
 - **IMDb:** 8.6/10 (VGA remake, 110 votes)[^ref-9]
 - **IMDb:** 8.8/10 (1989 original entry, 143 votes, checked November 11, 2026)[^ref-8]
@@ -126,7 +126,7 @@ In a 2020 retrospective, Indie Retro News wrote that "Quest For Glory I's (and c
 
 The Quest for Glory series began with designers [[Lori Ann Cole]] and [[Corey Cole]], who met over a Dungeons & Dragons game at a science fiction convention[^ref-33]. Both were avid tabletop RPG enthusiasts—Corey had published "The Tower of Indomitable Circumstance" campaign book and served as Dungeon Master, while Lori was a writer, artist, and animator[^ref-34]. Corey Cole has said the first games were based on "our paper RPG experience (including our custom skill-based RPG system)"[^ref-35].
 
-Lori Cole proposed *Hero's Quest* to Sierra when her son was two years old and able to stay in day care, allowing her to work in-house at the company[^ref-36]. The original concept was far more ambitious than what eventually shipped: "I originally conceived of Quest for Glory as a fairly serious Role-playing Game with Adventure Game aspects," Lori explained[^ref-33]. However, the available art resources and engine limitations pushed the game toward a more adventure-focused, humorous approach[^ref-33].
+Lori Cole proposed *Hero's Quest* to Sierra and worked in-house at the company[^ref-36]. The original concept was far more ambitious than what eventually shipped: "I originally conceived of Quest for Glory as a fairly serious Role-playing Game with Adventure Game aspects," Lori explained[^ref-33]. However, the available art resources and engine limitations pushed the game toward a more adventure-focused, humorous approach[^ref-33].
 
 The initial design featured multiple character races rather than classes: players would choose from thief-like gnomes, magic-wielding elves, humans, and archer centaurs[^ref-1]. The centaur race was cut first when programmer [[Bob Heitman]] pointed out that four-legged creatures are difficult to animate[^ref-33]. Eventually, the race system was replaced entirely with three classes for a single human character, though the class abilities retained echoes of the original racial concepts[^ref-33].
 
@@ -140,7 +140,7 @@ The game's humor emerged somewhat organically during development. "Rather than h
 
 The VGA remake was produced simultaneously with Quest for Glory III: Wages of War, with Lori Cole serving as designer on both projects[^ref-1]. "They envisioned it as a faster, cheaper alternative to creating an entire new game," Corey Cole recalled. "However, it actually cost more to make than the original, and almost as much as a full game"[^ref-4].
 
-The remake's distinctive visual style came from an innovative technical approach: clay models were sculpted for over 40 characters, then photographed at 20 frames per second in black-and-white using stop-motion animation techniques[^ref-22]. The images were then rotoscoped and colorized pixel by pixel[^ref-22]. COMPUTE! quoted one previously skeptical Sierra artist on the outcome: "The results are amazing"[^ref-22]. The game contains more than 6,000 lines of conversation—enough that a CD-ROM version with voice acting would require approximately 80 actors[^ref-22].
+The remake's distinctive visual style came from an innovative technical approach: clay models were sculpted for over 40 characters, then photographed at 20 frames per second in black-and-white using stop-motion animation techniques[^ref-22]. The images were then rotoscoped and colorized pixel by pixel[^ref-22]. The game contains more than 6,000 lines of conversation—enough that a CD-ROM version with voice acting would require approximately 80 actors[^ref-22].
 
 **Development Credits:**[^ref-2]
 - **Executive Producer:** [[Ken Williams]][^ref-2]
@@ -148,9 +148,11 @@ The remake's distinctive visual style came from an innovative technical approach
 - **Creative Director:** [[Bill Davis]][^ref-2]
 - **Producer:** [[Stuart Moulder]][^ref-2]
 - **Game Designers:** [[Lori Ann Cole]], [[Corey Cole]][^ref-2]
-- **Lead Programmers:** Tom DeSalvo, Robert Fischbach, Oliver Brelsford[^ref-2][^ref-39]
+- **Art Designer:** Arturo Sinclair[^ref-2]
+- **Lead Programmers:** Tom DeSalvo, Robert Fischbach, Oliver Brelsford[^ref-2][^ref-51]
 - **Composer:** [[Mark Seibert]][^ref-1][^ref-2]
 - **Original Music:** [[Mark Seibert]], Aubrey Hodges, Spike Jones[^ref-2]
+- **Incredible Artwork:** Jon Bock, Gerald Moore, Arturo Sinclair, Jeff Crowe, Gloria Garland, Willis Wong, Diana Wilson, Eric Kasner, Richard Powell, Roger Hardy Jr.[^ref-2]
 
 ### Technical Achievements
 
@@ -220,7 +222,7 @@ Several bugs affect the VGA remake[^ref-43]:
 - **Timer Bug:** The VGA version has a timer bug that can make the game unwinnable when restoring saves during timed sequences[^ref-12]
 - **Music Glitch:** A bug turns off music in the last few scenes of the game[^ref-22]
 - **Graphics Glitch:** A MobyGames user reviewer reports an occasional graphical glitch that leaves the graphics corrupted until the user exits the game[^ref-2]
-- **Toro Continuity Error:** At the end celebration party, Toro the minotaur appears among guests even if the Fighter killed him earlier[^ref-9]
+- **Toro at the Celebration:** An IMDb user-submitted continuity note observes that Toro the minotaur appears among the guests at the end-of-game celebration party, although it says the Fighter must kill him to win[^ref-9]
 - **DOSBox Settings:** Speedrun.com's rules standardise DOSBox at 10,000 cycles for timing, and for QFG1 VGA advise disabling EMS (EMS=false) to prevent the "Out of Handles" crash[^ref-44]
 
 ### Easter Eggs and Trivia
@@ -282,8 +284,8 @@ The original *Hero's Quest* became one of Sierra's fastest-selling games on init
 Quest for Glory I has been included in several compilation releases:
 
 - **Quest for Glory Anthology (1996)** – Contains both EGA and VGA versions along with sequels[^ref-1][^ref-55]
-- **Quest for Glory Collection Series (1997)** – Includes Hero's Quest, Quest for Glory I VGA, II, III, and Shadows of Darkness, plus Quest for Glory V demo and soundtrack CD[^ref-42][^ref-54]
-- **Quest for Glory 1-5 (GOG/Steam)** – Modern digital distribution compilation[^ref-27]
+- **Quest for Glory Collection Series (1997)** – Includes Hero's Quest, Quest for Glory I VGA, II, III, and Shadows of Darkness, plus Quest for Glory V demo and soundtrack CD[^ref-54]
+- **Quest for Glory 1-5 (GOG/Steam)** – Modern digital distribution compilation; released on Steam on August 29, 2016[^ref-27][^ref-59]
 
 ### Fan Projects
 
@@ -315,11 +317,9 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 - [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory)
 - [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750/)
 
-**Download / Preservation**
-- The game is sold on GOG and Steam as part of Quest for Glory 1-5 (links above), so no download links are listed here.
-
 **Emulation Requirements**
 - ScummVM or DOSBox recommended for modern systems[^ref-19]
+- ScummVM's compatibility list rates Quest for Glory I (VGA) as Excellent[^ref-58]
 - DOSBox: EMS=false prevents the "Out of Handles" crash; 10,000 cycles is the speedrun-standard setting[^ref-44]
 
 ## See Also
@@ -336,7 +336,7 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory:_So_You_Want_to_Be_a_Hero) – release dates, awards, sales data, development history, technical details
-[^ref-2]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – credits, ratings (critic score of 82% from 9 ratings as captured January 7, 2026), trivia, easter eggs, technical specifications
+[^ref-2]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – credits, ratings (critic score of 79% from 10 ratings, checked November 12, 2026), trivia, easter eggs, technical specifications
 [^ref-34]: [IGN – Revisiting Quest for Glory I & II](http://www.ign.com/articles/2014/11/03/revisiting-quest-for-glory-i-ii) – development history, genre analysis
 [^ref-4]: [Destructoid – Quest for Glory Developers Interview](http://www.destructoid.com/quest-for-glory-developers-only-approached-once-for-a-remake-135372.phtml) – VGA remake costs and sales, Corey Cole quotes
 [^ref-6]: [Engadget – The Glory of Quest for Glory](https://www.engadget.com/2012/05/17/the-glory-of-quest-for-glory/) – retrospective analysis, series overview, Rowan Kaiser quotes
@@ -351,21 +351,20 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 [^ref-26]: [Indie Retro News – Quest for Glory I Review](https://www.indieretronews.com/2020/08/quest-for-glory-i-classic-sierra.html) – retrospective analysis
 [^ref-18]: [GameFAQs – Quest for Glory I EGA FAQ](https://gamefaqs.gamespot.com/pc/564775-quest-for-glory-i-so-you-want-to-be-a-hero/faqs/1988) – gameplay tips, skill system
 [^ref-19]: [StrategyWiki – Gameplay](https://strategywiki.org/wiki/Quest_for_Glory_I:_So_You_Want_to_Be_a_Hero/Gameplay) – class flexibility
-[^ref-20]: MyAbandonware – Quest for Glory I Reviews *(download link removed: the game is sold commercially)* – user reviews
+[^ref-20]: MyAbandonware – Quest for Glory I Reviews – user reviews
 [^ref-21]: [The Adventurers' Guild Blog](https://advgamer.blogspot.com/2017/10/quest-for-glory-i-so-you-want-to-be.html) – Corey Cole "walking dead" quote
 [^ref-22]: [COMPUTE! Issue 149 Review](https://www.atarimagazines.com/compute/issue149/126_Quest_for_Glory_I.php) – Alfred C. Giovetti review, clay animation details, technical specs
 [^ref-23]: [Macworld – 1994 Macintosh Game Hall of Fame (January 1995)](https://web.archive.org/web/20030108175638/http://www.macworld.com/1995/01/features/143.html) – Steven Levy review, award
 [^ref-25]: [RPGamer – Quest for Glory I Retroview](https://web.archive.org/web/20170805141031/http://rpgamer.com/games/qfg/qfg1/reviews/qfg1strev2.html) – Michael Baker review, technical details
 [^ref-27]: [MobyGames – Quest for Glory 1-5 Collection](https://www.mobygames.com/game/55944/quest-for-glory-1-5/) – compilation info, ratings
-[^ref-31]: Abandonware DOS *(download link removed: the game is sold commercially)* – ratings, basic info
-[^ref-32]: GamesNostalgia *(download link removed: the game is sold commercially)* – editorial rating, version info
+[^ref-31]: Abandonware DOS – ratings, basic info
+[^ref-32]: GamesNostalgia – editorial rating, version info
 [^ref-33]: [Quest for Glory Wiki – EGA Development](https://questforglory.fandom.com/wiki/QFG1EGA_development) – cut content, development history, Lori/Corey Cole quotes
 [^ref-35]: [RPG Codex – Corey Cole Interview](http://www.rpgcodex.net/article.php?id=8549) – budget information, design philosophy
 [^ref-36]: [Transolar – Lori Cole Development Story](https://web.archive.org/web/20190624073155/http://www.transolar.com/TSHerosquestnew.html) – personal development account
 [^ref-37]: [Adventure Gamers – Cole Interview](https://web.archive.org/web/20150421221306/http://www.adventuregamers.com/articles/view/23214/page3) – Ken Williams skepticism, development anecdotes
 [^ref-38]: [MobyGames – Hero's Quest Original](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – development stats, awards, credits
-[^ref-39]: [Quest for Glory Wiki – Mac Version](https://questforglory.fandom.com/wiki/Quest_for_Glory_I:_So_You_Want_to_Be_a_Hero_%28Mac%29) – Mac credits, easter eggs
-[^ref-42]: Internet Archive – Quest for Glory Collection *(download link removed: the game is sold commercially)* – compilation contents
+[^ref-39]: [Quest for Glory Wiki – Mac Version](https://questforglory.fandom.com/wiki/Quest_for_Glory_I:_So_You_Want_to_Be_a_Hero_%28Mac%29) – Mac version notes, Bugs Bunny and Elmer Fudd easter egg
 [^ref-43]: [GitHub – QFG1 Bug Fix Project](https://github.com/8bitKittyKat/qfg1ega-bugfix) – mana bug documentation
 [^ref-44]: [Speedrun.com Forums](https://www.speedrun.com/quest_for_glory_so_you_want_to_be_a_hero_vga/forums/gbv7x) – technical requirements, stat glitch info
 [^ref-46]: [Sierra Chest – Walkthrough](https://www.sierrachest.com/index.php?a=games&id=293&title=quest-for-glory-1-vga&fld=walkthrough&pid=100) – easter eggs, release info
@@ -375,7 +374,9 @@ RPG Codex's interviewer put it: "Quest for Glory uniquely succeeded in striking 
 [^ref-51]: [Quest for Glory Wiki – Quest for Glory I (VGA)](https://questforglory.fandom.com/wiki/Quest_for_Glory_I_%28VGA%29) – differences from the original: SCI1.1 vs SCI0, stamina death, Troll Cave treasure, ending ceremony, skill-allocation bug
 [^ref-52]: [Wikipedia – Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – series article; lockpick "open nose" easter egg in the original and the new version
 [^ref-53]: [Patreon – Our First Years (Corey and Lori Cole, January 27, 2024)](https://www.patreon.com/posts/our-first-years-97270318) – the Coles' own account: Sierra's offer to Corey was "40% less than Corey had last earned in the Bay Area"; he signed for slightly more
-[^ref-54]: [MobyGames – Quest for Glory: Collection Series](https://www.mobygames.com/game/2818/quest-for-glory-collection-series/) – read via the MobyGames API: DOS and Windows 16-bit (1997); contents include Hero's Quest and Quest for Glory I VGA
-[^ref-55]: [MobyGames – Quest for Glory: Anthology](https://www.mobygames.com/game/2819/quest-for-glory-anthology/) – read via the MobyGames API: DOS and Windows (1996); box includes Hero's Quest and Quest for Glory I VGA
+[^ref-54]: [MobyGames – Quest for Glory: Collection Series](https://www.mobygames.com/game/2818/quest-for-glory-collection-series/) – DOS and Windows 16-bit (1997); contents include Hero's Quest and Quest for Glory I VGA
+[^ref-55]: [MobyGames – Quest for Glory: Anthology](https://www.mobygames.com/game/2819/quest-for-glory-anthology/) – DOS and Windows (1996); box includes Hero's Quest and Quest for Glory I VGA
 [^ref-56]: [Live chat with Lori and Corey Cole, \#Hero6, March 31, 2001](https://web.archive.org/web/20091027132212/http://geocities.com/TimesSquare/Arcade/7435/Goodies/ColesChatTranscript.txt) (unedited transcript, Wayback Machine copy of October 27, 2009) – Lori Cole on the cut familiar
 [^ref-57]: [The Digital Antiquarian – So You Want to Be a Hero?](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) – sales: over 130,000 copies in the first year, about 200,000 in all in the original version, another 100,000 for the 1992 remake
+[^ref-58]: [ScummVM – Game Compatibility](https://www.scummvm.org/compatibility/) – lists Quest for Glory I: So You Want To Be A Hero (sci:qfg1vga) as Excellent
+[^ref-59]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750/) – store page; release date Aug 29, 2016
