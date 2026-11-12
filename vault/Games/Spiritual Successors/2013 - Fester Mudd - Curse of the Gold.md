@@ -10,7 +10,7 @@ series: Fester Mudd
 engine: Unity
 protagonist: Fester Mudd
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Fester Mudd: Curse of the Gold is a 2013 point-and-click adventure game
   developed by Finnish indie studio Prank Ltd. and published by Replay Games, the only
   released episode of a planned Wild West trilogy.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, fester-mudd, sierra]
 ---
 # Fester Mudd: Curse of the Gold
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -117,6 +117,7 @@ The game was originally slated for release in 2012 but ultimately launched in ea
 - **Creative Collaborator/Writer:** Josh Mandel (also Replay Games' chief creative officer[^ref-24])
 - **Publisher:** Replay Games Inc.
 - **CEO (Replay Games):** Paul Trowe
+- **Special Thanks:** [[Guruka Singh Khalsa]][^ref-28]
 
 ### Technical Achievements
 
@@ -268,3 +269,4 @@ Riot Pixels was more reserved: "Yep, we've already seen everything Fester Mudd h
 [^ref-25]: [Replay Games – About Us (Wayback, October 2012)](https://web.archive.org/web/20121008155317/https://www.replaygamesinc.com/index/about-us) – "an entertainment software publishing and development company dedicated to making "AAA" content for PC, mobile, and next generation platforms"; "founded in 2008 by a group of game industry veterans"
 [^ref-26]: [MobyGames – Fester Mudd: Curse of the Gold - Episode 1](https://www.mobygames.com/game/80490/fester-mudd-curse-of-the-gold-episode-1/) – game description: Bud's disappearance in Loamsmouth, the need to hire a gunslinger to cross Indian territory, and the gold needed to pay him; read via the MobyGames API
 [^ref-27]: [PCGamingWiki – Fester Mudd: Curse of the Gold - Episode 1](https://www.pcgamingwiki.com/wiki/Fester_Mudd:_Curse_of_the_Gold_-_Episode_1) – "Unity engine build: 4.2.2f1" (verified by a PCGamingWiki user on 2017-05-25)
+[^ref-28]: [MobyGames Credits for Guruka Singh Khalsa (Wayback, January 2023)](https://web.archive.org/web/20230108150929/https://www.mobygames.com/developer/sheet/view/developerId,2193/) – Lists "Fester Mudd: Curse of the Gold - Episode 1" (2013), Special Thanks
