@@ -3,7 +3,7 @@ title: "Gano Haine"
 type: designer
 birth_year: null
 death_year: null
-notable_games: ["EcoQuest: The Search for Cetus", "EcoQuest: Lost Secret of the Rainforest", "Pepper's Adventures in Time"]
+notable_games: ["EcoQuest: The Search for Cetus", "EcoQuest 2: Lost Secret of the Rainforest", "Pepper's Adventures in Time"]
 companies: ["Sierra On-Line", "Electronic Arts", "The ImagiNation Network", "Stunt Puppy Entertainment", "LimeLife"]
 last_updated: '2026-11-12'
 ---
@@ -13,7 +13,7 @@ last_updated: '2026-11-12'
 
 ## Overview
 
-Gano Haine is an American game designer and producer who came to Sierra On-Line from teaching and from CompuServe's adventure-game community. She proposed and co-designed, with [[Jane Jensen]], [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] (1991), and was the sole designer and director of its sequel, [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] (1993).[^ref-1][^ref-18][^ref-19] Digital Antiquarian historian Jimmy Maher calls the first EcoQuest "the first computer game in history that was the product of an all-female design team."[^ref-1]
+Gano Haine is an American game designer and producer who came to Sierra On-Line from teaching and from CompuServe's adventure-game community. She proposed and co-designed, with [[Jane Jensen]], [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] (1991), and was the sole designer and director of its sequel, [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] (1993).[^ref-1][^ref-18][^ref-19] Digital Antiquarian historian Jimmy Maher calls the first EcoQuest "the first computer game in history that was the product of an all-female design team."[^ref-1]
 
 After Sierra she held design and producer positions at Electronic Arts and The ImagiNation Network, co-founded and ran the children's CD-ROM developer Stunt Puppy Entertainment, and co-founded the mobile publisher LimeLife.[^ref-9][^ref-16]
 
@@ -49,7 +49,7 @@ She was next a co-founder and Vice President of Product Development at LimeLife,
 
 Haine proposed the game and co-designed it with Jane Jensen.[^ref-1][^ref-19] Its hero is Adam, the son of an ecologist, who helps sea creatures threatened by pollution.[^ref-1] Maher writes that because Haine and Jensen were both designers, EcoQuest "would become the first computer game in history that was the product of an all-female design team."[^ref-1] Haine later described the environmental subject as hard ground: "Environmental issues are very emotional, and you inevitably contact people who have very deep disagreements about those issues."[^ref-1]
 
-### EcoQuest: Lost Secret of the Rainforest (1993)
+### EcoQuest 2: Lost Secret of the Rainforest (1993)
 
 Jensen did not work on the sequel, leaving Haine as its sole designer; MobyGames credits her as director, Polygon calls her the game's "director/designer," and Sierra's InterAction (Fall 1992) calls her the "designer of EcoQuest: The Lost Secret of the Rainforest."[^ref-1][^ref-18][^ref-12][^ref-24] Responding to complaints that the text of the first game was too advanced for some children, she deliberately simplified the writing.[^ref-1] The sequel introduced the Ecorder, a device for recording and cataloguing what the player finds. "We were starting to come up with devices that maybe should have been the product […] rather than being harnessed to the story," she said. "But I'm a storyteller, so of course that's the part I liked the best."[^ref-12]
 
@@ -79,7 +79,7 @@ Credits per MobyGames, with the SCI wiki and Giant Bomb as secondary listings; t
 |------|-------|------|
 | 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Co-Designer[^ref-19] |
 | 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Additional Material[^ref-17] |
-| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest: Lost Secret of the Rainforest]] | Director (MobyGames);[^ref-18] designer (per The Digital Antiquarian[^ref-1] and Sierra's InterAction, Fall 1992[^ref-24]) |
+| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2: Lost Secret of the Rainforest]] | Director (MobyGames);[^ref-18] designer (per The Digital Antiquarian[^ref-1] and Sierra's InterAction, Fall 1992[^ref-24]) |
 | 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Designer (one of four)[^ref-20] |
 
 ### The ImagiNation Network
