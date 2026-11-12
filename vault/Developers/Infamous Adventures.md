@@ -7,11 +7,11 @@ headquarters: "International (online team)"
 notable_games: ["King's Quest III Remake", "Space Quest II VGA Remake"]
 parent_company: null
 successor_company: "Infamous Quests"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Infamous Adventures
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,7 @@ Mills, who is from Australia, later wrote *The Sierra Adventure*, a history of S
 
 ### Founding and Early Years
 
-Alexander began dialysis at the end of 2002. "About then", he and Mills "got the idea to start making video games" and founded Infamous Adventures, a studio inspired by Roberta Williams' *King's Quest* and Lori Ann and Corey Cole's *Quest for Glory*.[^ref-10] By September 2004 the team was posting on fan forums about its first projects: the Quest for Glory fan game *Quest for Infamy* and a *King's Quest III* remake.[^ref-2] Its project teams of programmers, musicians and artists came "from around the globe".[^ref-13]
+Around the end of 2002, Alexander and Mills "got the idea to start making video games" and founded Infamous Adventures, a studio inspired by Roberta Williams' *King's Quest* and Lori Ann and Corey Cole's *Quest for Glory*.[^ref-10] By September 2004 the team was posting on fan forums about its first projects: the Quest for Glory fan game *Quest for Infamy* and a *King's Quest III* remake.[^ref-2] Its project teams of programmers, musicians and artists came "from around the globe".[^ref-13]
 
 The studio's first release was a remake of *King's Quest III*, which came out on 19 June 2006. It had a point-and-click interface and VGA graphics, following AGD Interactive's remakes of the first two King's Quest games.[^ref-13][^ref-21] A voice pack followed on 20 August 2006, released alongside version 2.0 of the game.[^ref-23] It voiced every character and the narrator, and its cast included former Sierra staff Josh Mandel as Graham and Andy Hoyos as Manannan.[^ref-13][^ref-23] The 2.0 update also added a new ending for players who finish with full points.[^ref-23]
 
@@ -79,7 +79,7 @@ MobyGames credits the studio with the two remakes, *King's Quest III* and *Space
 [^ref-3]: [PC Gamer Best Sierra Adventure Games](https://www.pcgamer.com/best-sierra-adventure-games/) — AGDI remakes "had an official license", IA's did not
 [^ref-4]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest:_Kingdom_of_Sorrow_(Infamous_Adventures)) — Gold Editions and Kingdom of Sorrow cancelled "due to licensing issues"
 [^ref-9]: [Games Nostalgia (archived)](https://web.archive.org/web/20251215133614/https://gamesnostalgia.com/games/developer/infamous+adventures) — Developer profile and game catalog: Space Quest II remake, VGA graphics, freeware
-[^ref-10]: [Gamezebo Development Story](https://www.gamezebo.com/news/from-dialysis-to-development-quest-for-infamys-12-year-journey/) — Alexander's account of the founding "about" the end of 2002; Mills from Australia; KQ and QfG inspiration
+[^ref-10]: [Gamezebo Development Story](https://www.gamezebo.com/news/from-dialysis-to-development-quest-for-infamys-12-year-journey/) — Alexander's account of the founding around the end of 2002; Mills from Australia; KQ and QfG inspiration
 [^ref-11]: [Infamous Adventures Itch.io](https://infamousadventures.itch.io/) — "Makers of Sierra Remakes including King's Quest III and Space Quest II"
 [^ref-13]: [Wikipedia](https://en.wikipedia.org/wiki/Infamous_Adventures) — founded 2004 by Mills and Alexander; AGS; KQ3 19 Jun 2006; voice pack; 180,000 downloads; SQ2 30 Dec 2011; 27 Jul 2012 closure post; QfI 2014
 [^ref-15]: [MobyGames - Infamous Adventures](https://www.mobygames.com/company/8321/infamous-adventures/) — Moby ID 8321; credited on King's Quest III (2006) and Space Quest II (2011)
