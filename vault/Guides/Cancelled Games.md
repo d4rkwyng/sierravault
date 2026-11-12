@@ -73,7 +73,7 @@ Al Lowe's planned sequel would have taken Larry Laffer into space as the series'
 
 **Why It Was Cancelled:** Corporate turmoil following Sierra's acquisition by CUC International. Lowe described the situation: "Sierra management was in turmoil after Ken and Roberta got bought out by CUC. The new management tried to get me to design my next game without a contract, saying 'we'll work it out later.'"[^ref-9]
 
-Lowe has written that he "refused to flesh out the design until we reached an agreement on terms. They didn't want to negotiate, so I left." He gives no exact date for his departure.[^ref-32]
+Lowe has written that he "refused to flesh out the design until we reached an agreement on terms. They didn't want to negotiate, so I left." He gives no exact date for his departure, but dates Sierra's notice that it would stop development to 22 February 1999.[^ref-32][^ref-47]
 
 **What Survives:** A few test renders and a 21-second 3D test animation by Jason Zayas, which Lowe later published, survive from the development period.[^ref-8][^ref-29] An easter egg in [[1996 - Leisure Suit Larry 7 - Love for Sail|Love for Sail!]] referenced the planned sequel.[^ref-8]
 
@@ -292,3 +292,4 @@ Sierra's cancelled games offer cautionary tales about:
 [^ref-44]: [HistoryLink – Williams, Roberta (b. 1953)](https://www.historylink.org/File/20912) – "Williams retired in 1999"
 [^ref-45]: [Wikipedia – Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) – Kingdom of Sorrow announced June 18, 2010; "This game was announced to be cancelled on 27 July 2012"
 [^ref-46]: [King's Quest Omnipedia – King's Quest: Kingdom of Sorrow (Infamous Adventures)](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Kingdom_of_Sorrow_(Infamous_Adventures)) – announced June 20, 2010 after two days of delays; "forced to cancel or put on indefinite hold"
+[^ref-47]: [Al Lowe – Is Larry Dead?](https://allowe.com/games/larry/history-of-larry/is-larry-dead.html) – "On February 22, 1999, Sierra informed me they were going to stop development of Leisure Suit Larry 8: Lust in Space"
