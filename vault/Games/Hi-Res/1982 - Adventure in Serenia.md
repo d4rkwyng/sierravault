@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed adventurer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Adventure in Serenia is the 1982 IBM-published IBM PC booter port of
   On-Line Systems' Hi-Res Adventure 2 - The Wizard and the Princess, later also packaged for the IBM PCjr.
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Adventure in Serenia
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 > [!note] Port stub
 > This page covers only the 1982 IBM PC/PCjr release. The game itself (story, Apple II original, other ports, reception and legacy) is documented on **[[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]**.
@@ -31,7 +31,7 @@ The title screen credits the game to Ken and Roberta Williams, carries both "(c)
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-12]
 > **Designer:** [[Roberta Williams]], [[Ken Williams]] (title screen: "by Ken and Roberta Williams")[^ref-15][^ref-33][^ref-37]
-> **Port programmer:** [[Jeff Stephenson]] ("Implemented by")[^ref-15][^ref-37]
+> **Programmer:** [[Jeff Stephenson]] (port; "Implemented by")[^ref-15][^ref-37]
 > **Publisher:** IBM[^ref-7][^ref-12]
 > **Platforms:** IBM PC (self-booting disk), IBM PCjr[^ref-6][^ref-32]
 > **Release Year:** 1982 (announced by IBM in October 1982 at $35)[^ref-6][^ref-12][^ref-34]
@@ -74,6 +74,8 @@ The IBM release was reviewed in the period computer press. *Softalk for the IBM 
 
 Don Kennedy's "Lost in Serenia" in *PCjr Magazine* (March 1984) was harsher. He found that "The graphics for this game are splashy, use bright colors and are done in cartoon style", but that "many solutions to Adventure in Serenia's problems are the type that need blind luck to work out (or a call to Sierra, of course)", and concluded: "because of the difficulties in solving many of its problems, Adventure in Serenia is not recommended"[^ref-36]. In the 1984 *Whole Earth Software Catalog*, Steven Levy wrote that "this fairy-tale-style program (known to the IBM world as ADVENTURE IN SERENIA) has a sense of whimsy and wonder that has made it a favorite for three years"; the catalog's entry listed the IBM version at $29.95[^ref-39].
 
+The same magazine's April 1984 "Revue of Reviews" capsule summed up *Adventure in Serenia* as "A fantasy adventure game whose splashy graphics do not compensate for its flawed text. The program is very restrictive in the phrasing it will accept"[^ref-43].
+
 ### Modern Assessment
 
 In a 2010 retrospective of the IBM version, Gaming After 40 noted that "the game runs in 4-color CGA mode, with very simple PC speaker sound effects", and judged that "the plotting is almost non-existent, few meaningful clues are provided, and many of the puzzles depend on trying random actions until something works"[^ref-9]. The reviewer still credited Roberta Williams as "a pioneer in the graphic adventure genre"[^ref-9]. Abandonware DOS users rate it 3.50/5 (40 votes)[^ref-1].
@@ -90,6 +92,8 @@ In a 2010 retrospective of the IBM version, Gaming After 40 noted that "the game
 ### Production
 
 IBM announced the game in October 1982 as "a new game, Adventure in Serenia ($35) by On-Line Systems, Inc.", according to *Creative Computing*'s February 1983 IBM column[^ref-34]. Two fan references, the King's Quest Omnipedia and Wikipedia, say Roberta Williams reputedly disliked this version and thought its colours "atrocious"[^ref-6][^ref-14]; neither cites an original interview or statement, and no period source for the remark has been found, so it should be treated as unconfirmed. Sierra's own 1994 *InterAction* retrospective is milder and does not attribute the view to Roberta: it said that owners with a CGA monitor "could see the game in 4 fairly awful colors" and that "Most people with CGA chose to play in B&W"[^ref-40]. The same piece said the game "was shipped for the IBM PC as one of the first five applications" and "was certainly the one that got IBM into gaming" (Sierra's own recollection, 15 years later)[^ref-40]. Gaming After 40 links IBM's relationship with On-Line Systems to the later development of the AGI engine and the original King's Quest for the PCjr[^ref-9].
+
+In a profile of the company in *PCjr Magazine* (April 1984), Ken Williams recalled being called to IBM's facilities in June 1982 to discuss games for the PCjr; the magazine wrote that Sierra's "high resolution adventure, Adventure in Serenia, had evidently caught the attention of some folks at IBM", and quoted Ken: "They called and said they wanted games"[^ref-43].
 
 The PCjr disk package was reported by *PC Magazine* in its 24 January 1984 PCjr games preview, which noted that it "was not on display"[^ref-32]. Wikipedia gives March 1984 as the PCjr release date[^ref-6], the same month *PCjr Magazine* reviewed "IBM's Adventure in Serenia" as "Available at IBM product centers and authorized dealers"[^ref-36].
 
@@ -141,7 +145,7 @@ When Sierra assembled the King's Quest Collection, it included the Apple II vers
 [^ref-16]: [King's Quest Wiki - Game Prologues](https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess_prologues) – The two prologues and which releases carry them
 [^ref-19]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Adventure_in_Serenia) – PC booter entry: ADL engine, CGA/CGA composite/Tandy-PCjr video modes
 [^ref-20]: [RetroGames.cz](https://www.retrogames.cz/play_1146-DOS.php) – In-browser play page
-[^ref-21]: [ScummVM Wiki](https://wiki.scummvm.org/index.php?title=Wizard_and_the_Princess&mobileaction=toggle_view_desktop) – Notes the DOS version's lower colour palette, improved parser and dialogue changes
+[^ref-21]: [ScummVM Wiki](https://wiki.scummvm.org/index.php/Wizard_and_the_Princess) – Notes the DOS version's lower colour palette, improved parser and dialogue changes
 [^ref-32]: [PC Magazine, 24 January 1984, p. 142 (Internet Archive)](https://archive.org/details/PC-Mag-1984-01-24) – Phil Wiswell, "Coming Soon: Games For The PCjr": Serenia as a PCjr disk package
 [^ref-33]: [Softalk for the IBM Personal Computer, December 1982, pp. 28–29 (Internet Archive)](https://archive.org/details/softalk-pc-v1n7-1982-12) – Review signed "fj": "a new implementation of Wizard and the Princess"; "by Ken and Roberta Williams, IBM"; $35; 48K and CGA
 [^ref-34]: [Creative Computing, February 1983, p. 287 (Internet Archive)](https://archive.org/details/creativecomputing-1983-02) – "IBM Images" column: IBM's October announcement of Adventure in Serenia ($35) by On-Line Systems
@@ -153,3 +157,4 @@ When Sierra assembled the King's Quest Collection, it included the Apple II vers
 [^ref-41]: [Softalk for the IBM Personal Computer, March 1983, Top Thirty chart, p. 124 (Internet Archive)](https://archive.org/details/softalk-pc-v1n10-1983-03) – January sales: "Adventures in Serenia, Ken and Roberta Williams; IBM (Sierra On-Line)", new entry, index 11.43
 [^ref-42]: [Softalk for the IBM Personal Computer, April 1983 (Internet Archive)](https://archive.org/details/softalk-pc-v1n11-1983-04) – Chart commentary: Snack Attack II and Adventure in Serenia "both of which dropped off the list"
 [^ref-39]: [Whole Earth Software Catalog, 1984, p. 43 (Internet Archive)](https://archive.org/details/wholeearthsoftwa00unse) – Wizard and the Princess entry: IBM PC compatibles (Adventure in Serenia), $29.95; Steven Levy capsule
+[^ref-43]: [PCjr Magazine, Vol. 1 No. 3, April 1984 (Internet Archive)](https://archive.org/details/pcjr-magazine-1984-volume-1) – Ken Williams profile (IBM's June 1982 call, "They called and said they wanted games"); "Revue of Reviews" capsule on Adventure in Serenia
