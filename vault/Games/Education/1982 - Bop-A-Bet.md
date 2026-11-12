@@ -10,7 +10,7 @@ series: Hi-Res Learning Series
 engine: Unknown
 protagonist: Boxing Glove (player-controlled)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Bop-A-Bet is an Apple II alphabet game for young children, created in 1982 by Al and
   Margaret Lowe and Mike and Rae Lynn MacChesney as Sunnyside Soft and republished by Sierra
   On-Line in 1983 in its Hi-Res Learning series.
@@ -18,13 +18,13 @@ tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Bop-A-Bet is an educational letter-recognition and alphabetization game for young children, originally released by Sunnyside Soft of Fresno, California, for the Apple II in 1982 and republished by Sierra On-Line in 1983 as part of its Hi-Res Learning series.[^ref-1][^ref-3][^ref-27][^ref-32][^ref-34] It was the second game written by [[Al Lowe]], who would later create the Leisure Suit Larry series; Lowe called it "my second game" when he auctioned his own copy in 2018.[^ref-2]
 
-The game is a maze game in which the player steers a boxing glove using four keys and "bops" letters in alphabetical order.[^ref-27] Retro365 likens the maze to Pac-Man.[^ref-3] Wikipedia notes that the game's speed increases as the child becomes more proficient.[^ref-1] The setup screens let a parent change the time limit and the speed of the bopper.[^ref-27]
+The game is a maze game in which the player steers a boxing glove using four keys and "bops" letters in alphabetical order.[^ref-27] Softalk's February 1983 review called it "a learning game based on maze-chase game techniques" and argued that "Pac-Man style learning is probably more appropriate than McGuffey's readers in most households."[^ref-32] Retro365 likewise likens the maze to Pac-Man.[^ref-3] Wikipedia notes that the game's speed increases as the child becomes more proficient.[^ref-1] The setup screens let a parent change the time limit and the speed of the bopper.[^ref-27]
 
 Only 200 copies of the original Sunnyside Soft version were made, and Al Lowe later described both that edition and the 1983 Sierra-boxed edition as extremely rare.[^ref-2] A King's Quest fan wiki lists it among Sierra's titles as "the cult classic".[^ref-6]
 
@@ -33,18 +33,18 @@ Only 200 copies of the original Sunnyside Soft version were made, and Al Lowe la
 > **Created by:** Al Lowe, Margaret Lowe, Michael MacChesney, Rae Lynn MacChesney[^ref-26]
 > **Designer:** Margaret Lowe, Rae Lynn MacChesney (per Wikipedia's infobox; MobyGames and the box credit all four as creators)[^ref-1][^ref-26]
 > **Programmer:** [[Al Lowe]][^ref-1][^ref-2]
-> **Artist:** Mike MacChesney[^ref-1]
+> **Artist:** Mike MacChesney (per Wikipedia; Pixelated Arcade credits "Design and Graphics by: Al Lowe")[^ref-1][^ref-36]
 > **Publisher:** Sunnyside Soft (1982), [[Sierra On-Line]] (1983)[^ref-1]
 > **Engine:** Not documented
 > **Platforms:** Apple II[^ref-1]
 > **Release Year:** 1982
 > **Series:** Hi-Res Learning Series (Sierra release)[^ref-3]
 > **Protagonist:** Boxing Glove (player-controlled)
-> **Sierra Lineage:** Acquired Title
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 
-As an educational game designed for young children, Bop-A-Bet has no narrative; MobyGames describes it purely as a letter-recognition game.[^ref-8] The player guides a boxing glove around a maze and learns alphabetical order through play rather than through a story.[^ref-27]
+As an educational game designed for young children, Bop-A-Bet has no narrative; MobyGames describes it as "an educational typing and letter-recognition game."[^ref-8] The player guides a boxing glove around a maze and learns alphabetical order through play rather than through a story.[^ref-27]
 
 Four letters appear on the screen at a time, and the player must choose them in alphabetical order. When a letter is bopped correctly it disappears and the next letter in the alphabet appears somewhere else on the screen.[^ref-8]
 
@@ -52,9 +52,9 @@ Four letters appear on the screen at a time, and the player must choose them in 
 
 ### Interface and Controls
 
-The player steers the boxing glove with four keys and presses the space bar to bop a letter.[^ref-27] The box was marked for ages 5 to 8, according to the box text quoted in Wikipedia's citations.[^ref-1]
+The player steers the boxing glove with four keys and presses the space bar to bop a letter.[^ref-27] According to a transcription of the instruction manual, A moves the bopper up, Z moves it down, and the left and right arrow keys move it sideways; the keys can be reassigned at the start of the game. The bopper can only "bop" while moving left or right.[^ref-37] The box was marked for ages 5 to 8, according to the box text quoted in Wikipedia's citations.[^ref-1]
 
-When the disk boots, a series of questions lets the player change the time limit, the speed of the bopper and the keys used, and choose upper- or lower-case letters. Computer Gaming World's reviewer said this part "requires an older person who can read but once started, four and five year-olds will have no trouble."[^ref-27]
+When the disk boots, a series of questions lets the player change the time limit, the speed of the bopper and the keys used, and choose upper- or lower-case letters.[^ref-27] The manual names three speeds (beginning, intermediate and advanced) and notes that the player may practice before starting a game.[^ref-37] Computer Gaming World's reviewer said this part "requires an older person who can read but once started, four and five year-olds will have no trouble."[^ref-27]
 
 ### Structure and Progression
 
@@ -92,7 +92,7 @@ Al Lowe recalled: "My second game, I wrote it in my home office, before our new 
 
 ### Production
 
-Lowe programmed the game.[^ref-1][^ref-2] Wikipedia credits Margaret Lowe and Rae Lynn MacChesney with the design and Mike MacChesney with the art, and the box credits all four partners as creators.[^ref-1][^ref-26] Wikidata also lists Al Lowe as the developer.[^ref-15]
+Lowe programmed the game.[^ref-1][^ref-2] Wikipedia credits Margaret Lowe and Rae Lynn MacChesney with the design and Mike MacChesney with the art, and the box credits all four partners as creators.[^ref-1][^ref-26] Pixelated Arcade's credit listing differs, giving "Design and Graphics by: Al Lowe" and "Concept by" Rae Lynn MacChesney, Michael MacChesney and Margaret Lowe.[^ref-36] Wikidata also lists Al Lowe as the developer.[^ref-15]
 
 The initial Sunnyside Soft release was small. Only 200 copies were made, and they were sold from the Lowes' home "for a few months in genuine zip-lock baggies," with the family's home address and telephone number on the packaging.[^ref-2]
 
@@ -115,8 +115,8 @@ Bop-A-Bet ran on a 48K Apple II+ under Apple DOS 3.3 and was distributed on a 5.
 
 | Version | Date | Publisher | Notes |
 |---------|------|-----------|-------|
-| Original | 1982 (autumn or December; accounts differ) | Sunnyside Soft | 200 copies sold in zip-lock bags[^ref-2]; listed by Softalk in February 1983 at $29.95[^ref-32]; Retro365 says "early autumn of 1982"[^ref-3], while InfoWorld (17 January 1983, quoted in Wikipedia's citations) says Sunnyside "last month released" its games[^ref-1] |
-| Sierra Release | 1983 | Sierra On-Line | Repackaged in Sierra boxes, Hi-Res Learning series, Apple II only[^ref-2][^ref-3][^ref-12]; advertised by Sierra in Softalk in August 1983[^ref-34]; listed at $27.95 in Softalk in December 1983[^ref-35] |
+| Original | 1982 (autumn or December; accounts differ) | Sunnyside Soft | 200 copies sold in zip-lock bags[^ref-2]; listed by Softalk in February 1983 at $29.95, while the same issue's review header prints $34.95[^ref-32]; Retro365 says "early autumn of 1982"[^ref-3], while InfoWorld (17 January 1983, quoted in Wikipedia's citations) says Sunnyside "last month released" its games[^ref-1] |
+| Sierra Release | 1983 | Sierra On-Line | Repackaged in Sierra boxes, Hi-Res Learning series, Apple II only[^ref-2][^ref-3][^ref-12]; Sierra product number SRL-021, with disk, manual and warranty card (per Pixelated Arcade's release data)[^ref-38]; advertised by Sierra in Softalk in August 1983[^ref-34]; listed at $27.95 in Softalk in December 1983[^ref-35] |
 
 Sierra On-Line acquired the Sunnyside Soft product line. Softalk's April 1983 news column reported that Sierra had "entered the educational software market, acquiring the rights to all the present and future educational software produced by Sunnyside Soft (Fresno, CA)", after the Lowes and MacChesneys said they did not want to give up more of their time as professional educators to software marketing.[^ref-33] Arcade Express (10 April 1983) reported that Ken Williams expected the three Sunnyside titles to "fit in very nicely with our plans to enter the home educational software market."[^ref-30] The acquisition eventually led to Al Lowe joining Sierra as a developer.[^ref-3]
 
@@ -138,13 +138,13 @@ The main usability issue raised in the contemporary review was the setup questio
 
 All but one of the original 200 Sunnyside Soft copies sold.[^ref-2] The Sierra On-Line re-release was Apple II-only, "which ultimately led to a very limited number of sold copies," according to Retro365.[^ref-3] Al Lowe said simply that it "was never a big seller."[^ref-2]
 
-Prices in period sources differ. Softalk's February 1983 listing gave Sunnyside Soft's price as $29.95, while Computer Gaming World printed $34.95.[^ref-27][^ref-32] Softalk's December 1983 listing of Sierra's educational titles gave Bop-A-Bet at $27.95.[^ref-35]
+Period sources differ on the price, and Softalk printed both figures in its February 1983 issue: $29.95 in its Home Education listing and $34.95 in the header of its own review. Computer Gaming World and InfoWorld also gave $34.95.[^ref-1][^ref-27][^ref-32] Softalk's December 1983 listing of Sierra's educational titles gave Bop-A-Bet at $27.95.[^ref-35]
 
 The game's main legacy is its connection to Al Lowe's career. Sunnyside Soft took a booth at the San Francisco Applefest in late 1982. *Renga in Blue* dates the show to early December, while Retro365 gives both November and December. Softalk's January 1983 show report pictured Margaret Lowe demonstrating Bop-A-Bet there.[^ref-3][^ref-28][^ref-29] There Ken and Roberta Williams met the Sunnyside Soft team, which led to Sierra acquiring the product line and eventually hiring Al Lowe.[^ref-3] Lowe went on to create the Leisure Suit Larry series.
 
 ### Collections
 
-Bop-A-Bet was included in Sierra's Hi-Res Learning series after Sierra On-Line acquired the Sunnyside Soft product line in 1983.[^ref-3][^ref-33] Sierra's August 1983 Softalk advertisement presented it under the "Hi-Res Learning games by Sierra On-Line" banner as "a maze game that teaches alphabetical sequence" that "prepares children to use dictionaries, libraries and encyclopedias."[^ref-34] Softalk's December 1983 listing described it as using "the popular maze game format to teach alphabetical order."[^ref-35]
+Bop-A-Bet was included in Sierra's Hi-Res Learning series[^ref-3][^ref-34] after Sierra On-Line acquired the Sunnyside Soft product line in 1983.[^ref-33] Sierra's August 1983 Softalk advertisement presented it under the "Hi-Res Learning games by Sierra On-Line" banner as "a maze game that teaches alphabetical sequence" that "prepares children to use dictionaries, libraries and encyclopedias."[^ref-34] Softalk's December 1983 listing described it as using "the popular maze game format to teach alphabetical order."[^ref-35]
 
 A list of Sierra products posted to the Sierra Gamers forum, which its poster says was produced when Sierra's Oakhurst offices were shut down, includes Bop-A-Bet.[^ref-11]
 
@@ -185,6 +185,8 @@ The 2018 sale of Al Lowe's personal copy for $10,200 shows how much collectors v
 ## See Also
 
 - [[1982 - Alphabet Blocks]]
+- [[1982 - Dragon's Keep]]
+- [[1983 - Troll's Tale]]
 - [[1983 - Early Math]]
 - [[1983 - Learning with Leeper]]
 - [[1984 - Learning with FuzzyWOMP]]
@@ -211,7 +213,10 @@ The 2018 sale of Al Lowe's personal copy for $10,200 shows how much collectors v
 [^ref-29]: [Renga in Blue (Jason Dyer) – Dragon's Keep (1982)](https://bluerenga.blog/2024/07/28/dragons-keep-1982/) – founding of Sunnyside Soft with Dragon's Keep and Bop-a-Bet; "In early December, the company had a booth at Applefest in San Francisco"
 [^ref-30]: [Arcade Express Vol. 1 No. 18 (10 April 1983), p. 3](https://archive.org/details/arcade_express_v1n18) – "Sierra Goes On Line With Sunnyside Soft": acquisition of Bop-A-Bet, Dragon's Keep and Troll's Tale
 [^ref-31]: [Internet Archive – Bop-A-Bet (4am and san inc crack)](https://archive.org/details/BopABet4amCrack) — "a 1983 educational game developed by Al Lowe and distributed by Sierra On-Line. It is preserved here for the first time."
-[^ref-32]: [Softalk, February 1983 (Vol. 3 No. 6)](https://archive.org/details/softalkv3n06feb1983) – Home Education listing: "Alphabetic eat-'em-up, teaching letter recognition and eye-hand coordination ... Sunnyside Soft, 5815 E. Parkside, Fresno, CA 93727. $29.95."; same issue's review calls the authors "another group of educators" with "the right idea"
+[^ref-32]: [Softalk, February 1983 (Vol. 3 No. 6)](https://archive.org/details/softalkv3n06feb1983) – Home Education listing: "Alphabetic eat-'em-up, teaching letter recognition and eye-hand coordination ... Sunnyside Soft, 5815 E. Parkside, Fresno, CA 93727. $29.95."; same issue's review (header price $34.95) calls the authors "another group of educators" with "the right idea" and the game "a learning game based on maze-chase game techniques"
 [^ref-33]: [Softalk, April 1983 (Vol. 3 No. 8)](https://archive.org/details/softalkv3n08apr1983) – news item: Sierra On-Line "acquiring the rights to all the present and future educational software produced by Sunnyside Soft (Fresno, CA)"; the four partners cited their time "as professional educators"
 [^ref-34]: [Softalk, August 1983 (Vol. 3 No. 12)](https://archive.org/details/softalkv3n12aug1983) – Sierra On-Line ad: "Hi-Res Learning games by Sierra On-Line"; "Bop-A-Bet, a maze game that teaches alphabetical sequence, prepares children to use dictionaries, libraries and encyclopedias."
 [^ref-35]: [Softalk, December 1983 (Vol. 4 No. 4)](https://archive.org/details/softalkv4n04dec1983) – educational software listing, Sierra On-Line section: "Bop-A-Bet. Uses the popular maze game format to teach alphabetical order ... $27.95."
+[^ref-36]: [Pixelated Arcade – Bop-A-Bet](https://pixelatedarcade.com/games/bop-a-bet) – credits: "Design and Graphics by: Al Lowe"; "Concept by: Rae Lynn MacChesney, Michael MacChesney, Margaret Lowe"
+[^ref-37]: [Pixelated Arcade – Bop-A-Bet instruction manual (transcription, Sunnyside Soft release)](https://pixelatedarcade.com/games/bop-a-bet/documents/instruction-manual/700) – A/Z and arrow keys, space bar to bop, three speeds, practice option, "You may only 'bop' when moving left or right"
+[^ref-38]: [Pixelated Arcade – Bop-A-Bet releases](https://pixelatedarcade.com/games/bop-a-bet/releases) – 1983 Sierra On-Line release, Sierra Product # SRL-021; package: 5.25" disk, instruction manual, warranty registration card
