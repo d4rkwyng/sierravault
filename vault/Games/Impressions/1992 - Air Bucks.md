@@ -10,7 +10,7 @@ series: Bucks
 engine: null
 protagonist: Airline CEO (Player Character)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Christopher J. Denman (credited as Chris Denman on Atari ST version)]
 description: Air Bucks is a business simulation game developed and published by Impressions
   Games in 1992 that tasks players with building a successful airline empire, starting
@@ -19,7 +19,7 @@ tags: [1990s, bucks, sierra, simulation]
 ---
 # Air Bucks
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Air Bucks is a business simulation game developed and published by [[Impressions
 
 MobyGames describes it as a simulation that "tries to capture the ins and outs of the airline industry without bogging the player down with details"[^ref-4], and MyAbandonware calls it "one of the first airline company simulation game[s]"[^ref-18]. Players manage various aspects of airline operations including purchasing landing rights at airports, arranging seat configurations for first and economy class passengers, determining in-flight food quality and entertainment, designing global routes, and setting ticket fares for each leg of travel[^ref-5]. The game also features special events similar to those found in Sid Meier's Railroad Tycoon, which require quick adjustments to plane operations to accommodate them[^ref-6].
 
-Air Bucks was part of Impressions Games' early catalog of strategy and business simulations, released when the company was still a fledgling studio before its acquisition by Sierra On-Line in 1995[^ref-2]. The game received mixed contemporary reviews[^ref-28][^ref-29] and was followed by an enhanced version 1.2, which COMPUTE! said reflected "a host of user-suggested changes"[^ref-8]; Impressions advertised the upgrade as offering better VGA graphics, interface, computer AI and economic model[^ref-10]. A spiritual successor, [[1996 - Space Bucks|Space Bucks]], was later released in 1996, applying similar business simulation mechanics to an interstellar trading context[^ref-9].
+Air Bucks was part of Impressions Games' early catalog of strategy and business simulations, released when the company was still a fledgling studio before its acquisition by Sierra On-Line in 1995[^ref-34]. The game received mixed contemporary reviews[^ref-28][^ref-29] and was followed by an enhanced version 1.2, which COMPUTE! said reflected "a host of user-suggested changes"[^ref-8]; Impressions advertised the upgrade as offering better VGA graphics, interface, computer AI and economic model[^ref-10]. The game was also published under the titles "Air Buck$" (the title used in the manual), "Air Bucks v.1.2." (the Sierra Originals re-release title) and "Air Bucks: Build Your Own Airline" (a tag-lined title)[^ref-4]. A spiritual successor, [[1996 - Space Bucks|Space Bucks]], was later released in 1996, applying similar business simulation mechanics to an interstellar trading context[^ref-9].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-10]
@@ -97,7 +97,7 @@ Amiga Action's Alan Bunker concluded that "Air Bucks is reasonably comfortable s
 
 In the same issue, Jennifer Schlickbernd's strategy feature "The High & Dry Way to Fly: Stealthy Strategies for Happier Landings in Air Bucks" (headed "Soaring Profits Strategy for Impression's Air Bucks") advised concentrating on large cities early and opening with New York-Miami runs[^ref-29].
 
-Computer Gaming World's January 1993 review by M. Evan Brooks recalled that Alan Emrich had christened the game "Railroad Tycoon with Wings" in an earlier sneak preview, but Brooks's own verdict was "a resounding negative." He criticised the minimalist graphics, slow pace and confusing economic model, praised Impressions' customer support, and concluded: "Right now, my feeling is that this flight has been delayed"[^ref-29].
+Computer Gaming World's January 1993 review by M. Evan Brooks recalled that Alan Emrich had christened the game "Railroad Tycoon with Wings" in an earlier sneak preview, but Brooks's own verdict was "a resounding negative," even though, as he noted, "Other magazines have rated the simulation highly." He criticised the minimalist graphics, slow pace and confusing economic model, praised Impressions' customer support, and concluded: "Right now, my feeling is that this flight has been delayed"[^ref-29].
 
 ### Modern Assessment
 
@@ -117,7 +117,7 @@ Users have noted both strengths and weaknesses in hindsight. One Lemon Amiga use
 
 ### Origins
 
-Air Bucks was developed by [[Impressions Games]], a company that David Lester dates to 1988[^ref-34] and Free Game Empire to 1989[^ref-2], focused on strategy and business games including sport simulations[^ref-2]. The game represented one of the original titles released by the then-fledgling studio as it established its reputation in the simulation genre[^ref-20]. MyAbandonware's write-up says "Impression wanted to keep a fun factor in it" rather than pushing far on the financial side[^ref-18].
+Air Bucks was developed by [[Impressions Games]], a company that David Lester, who founded it with Edward Grabowski[^ref-35], dates to 1988[^ref-34] and Free Game Empire to 1989[^ref-2], focused on strategy and business games including sport simulations[^ref-2]. The game represented one of the original titles released by the then-fledgling studio as it established its reputation in the simulation genre[^ref-20]. MyAbandonware's write-up says "Impression wanted to keep a fun factor in it" rather than pushing far on the financial side[^ref-18].
 
 The design philosophy prioritized enjoyment over strict realism, with the game manual explicitly stating that "Air Bucks is first and foremost an enjoyable, fun game, and secondly an airline simulation"[^ref-3]. This approach differentiated it from more hardcore economic simulations of the era while still providing sufficient depth for strategic engagement.
 
@@ -213,7 +213,7 @@ No easter eggs have been documented for Air Bucks. The items below are trivia.
 
 ### Sales and Commercial Impact
 
-No sales figures for Air Bucks have been found. Impressions followed it with the free version 1.2 upgrade[^ref-8] and later returned to the formula with Space Bucks (1996)[^ref-9]. Impressions itself was acquired by Sierra On-Line in 1995[^ref-2].
+No sales figures for Air Bucks have been found. Impressions followed it with the free version 1.2 upgrade[^ref-8] and later returned to the formula with Space Bucks (1996)[^ref-9]. Impressions itself was acquired by Sierra On-Line in 1995[^ref-34].
 
 The game later received a re-release as part of Sierra's "Sierra Originals" budget line on CD-ROM[^ref-11].
 
@@ -271,7 +271,7 @@ The game's legacy is somewhat mixed. Contemporary reviews were mixed[^ref-28][^r
 ## References
 
 [^ref-2]: [Free Game Empire – Air Bucks](https://www.freegameempire.com/games/Air-Bucks) – game description, starting conditions
-[^ref-3]: [Sierra Help – Air Bucks Manual](http://sierrahelp.com/Documents/Manuals/Air_Bucks_-_Manual.txt) – gameplay mechanics, manual quotes, game duration
+[^ref-3]: [Sierra Help – Air Bucks Manual](http://sierrahelp.com/Documents/Manuals/Air_Bucks_-_Manual.txt) – text of the Air Bucks Ver. 1.2 manual (header: "Air Bucks Ver. 1.2 by Impressions"); gameplay mechanics, manual quotes, game duration
 [^ref-4]: [MobyGames – Air Bucks](https://www.mobygames.com/game/2693/air-bucks/) – critic scores, technical specs, developer credits
 [^ref-5]: [Internet Archive – Air Bucks MS-DOS](https://archive.org/details/msdos_Air_Bucks_1992) – gameplay features, world generation, Mobygames description
 [^ref-6]: [NeverDieMedia – Air Bucks](https://www.neverdiemedia.com/products/air-bucks-w-manual) – special events, industry details
@@ -296,4 +296,5 @@ The game's legacy is somewhat mixed. Contemporary reviews were mixed[^ref-28][^r
 [^ref-30]: [Amiga Action #36 (September 1992)](https://archive.org/details/Amiga_Action_Issue_36_1992-09_Europress_Interactive_GB) – Alan Bunker review, 75%
 [^ref-31]: [Internet Archive – Air Bucks Technical Support and Tutorial (1992)](https://archive.org/details/air-bucks-technical-support-and-tutorial) – Impressions booklet; hard-disk installation, about 2 MB
 [^ref-33]: [Internet Archive – Air Bucks 1.2 to 1.21 Patch](https://archive.org/details/AB121P_ZIP) – item titled "Air Bucks 1.2 to 1.21 Patch", dated 1993
-[^ref-34]: [Companies Made Simple – Real Business Case Study: David Lester (Wayback Machine, 2014)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) – Lester founded Impressions Software "in 1988 when just 22"
+[^ref-34]: [Companies Made Simple – Real Business Case Study: David Lester (Wayback Machine, 2014)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) – Lester founded Impressions Software "in 1988 when just 22"; "In 1995 David sold Impressions Software to Sierra On-Line"
+[^ref-35]: [Computer Gaming World #103 (February 1993), p. 98, "No 'Impressions' Of Lion Tamers For U.K. Expatriate David Lester"](https://archive.org/details/Computer_Gaming_World_Issue_103) – "David Lester and Edward Grabowski established their company"
