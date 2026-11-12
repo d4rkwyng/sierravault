@@ -10,7 +10,7 @@ series: Standalone
 engine: Applesoft BASIC
 protagonist: Unnamed male protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Softporn Adventure is Chuck Benton's 1981 adult-oriented comedy text adventure,
   published by On-Line Systems as Sierra's only non-graphic game and later remade as Leisure
   Suit Larry in the Land of the Lounge Lizards.
@@ -18,13 +18,13 @@ tags: [1980s, adventure, sierra, standalone]
 ---
 # Softporn Adventure
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Softporn Adventure is a comedic, adult-oriented text adventure game released in 1981, notable for being the only pure text adventure ever published by Sierra (then known as On-Line Systems).[^ref-1][^ref-46] Created by Chuck Benton as a programming exercise to teach himself Applesoft BASIC, the game became an unexpected commercial success and cultural phenomenon that would later inspire the beloved Leisure Suit Larry series.[^ref-2] Set in the fictional city of "Lost Vagueness" in a dystopian vision of the year 2020 A.D., the game tasks players with seducing three different women while navigating a world of bars, casinos, and discos.[^ref-3]
 
-The game achieved remarkable market penetration during the early days of personal computing. According to Al Lowe, Ken Williams "swears that at a time when Apple had only sold 100,000 Apple ][ computers, Sierra had sold 25,000 copies of Softporn."[^ref-46][^ref-4] Benton's own company biography calls the game "arguably the first commercially successful, adult-oriented software ever."[^ref-5] The game's controversial cover photograph, featuring three nude women (including Roberta Williams) and a waiter in a hot tub, became better remembered than the game itself, and it ran with Time magazine's "Software for the Masses" story of October 5, 1981, which Al Lowe describes as "Time Magazine's first column on computer entertainment."[^ref-6][^ref-46][^ref-47]
+The game achieved remarkable market penetration during the early days of personal computing. According to Al Lowe, Ken Williams "swears that at a time when Apple had only sold 100,000 Apple ][ computers, Sierra had sold 25,000 copies of Softporn."[^ref-46][^ref-4] Benton's company biography says his adventure game is how "what became 'Leisure Suit Larry,' arguably the first commercially successful, adult-oriented software ever" was born.[^ref-5] The game's controversial cover photograph, featuring three nude women (including Roberta Williams) and a waiter in a hot tub, became better remembered than the game itself, and it ran with Time magazine's "Software for the Masses" story of October 5, 1981, which Al Lowe describes as "Time Magazine's first column on computer entertainment."[^ref-6][^ref-46][^ref-47]
 
 Despite its commercial success and historical significance, Softporn Adventure received mixed reviews even in its era. Softline found it "hopelessly addicting" while lamenting that the author "didn't take the time to make his program a bit classier."[^ref-48][^ref-7] The game's crude parser and adult content made it both notorious and influential, ultimately serving as the foundation for Al Lowe's graphical remake, Leisure Suit Larry in the Land of the Lounge Lizards, released in 1987.[^ref-8][^ref-44]
 
@@ -33,7 +33,7 @@ Despite its commercial success and historical significance, Softporn Adventure r
 > **Designer:** [[Chuck Benton]][^ref-2]
 > **Publisher:** [[On-Line Systems]][^ref-2]
 > **Engine:** Applesoft BASIC[^ref-7][^ref-14]
-> **Platforms:** Apple II, Atari 8-bit, MS-DOS[^ref-7]
+> **Platforms:** Apple II, Atari 8-bit, DOS (unofficial 1991 conversion by Gary Thompson)[^ref-2][^ref-3]
 > **Release Year:** 1981
 > **Series:** Standalone
 > **Protagonist:** Unnamed male protagonist
@@ -43,7 +43,7 @@ Despite its commercial success and historical significance, Softporn Adventure r
 
 The game is set in the year 2020 A.D., presenting a satirical dystopian future where "the skies are green with plutonium, interest rates are doubling annually, the world has become weird and bizarre."[^ref-3] In this strange world, "discount sin cities have popped up around the country," and the player finds themselves in one such establishment.[^ref-11] The premise reflects 1970s disco culture despite its futuristic setting, creating an anachronistic atmosphere that Al Lowe would later say was "so behind the times it might as well be wearing a leisure suit!"[^ref-46]
 
-The player takes on the role of an unnamed male protagonist whose singular objective is to "score" with three different women before the night is over.[^ref-13][^ref-14] Gary Thompson's manual for his later DOS version states bluntly: "Your objective is to 'score' three times. You must hunt down your female prey and do your thing."[^ref-14] Each woman has a distinct personality and requires different approaches and items to win her affections. The three main locations—a bar, a casino, and a disco—serve as hunting grounds where the player must gather items and solve puzzles to progress.[^ref-19]
+The player takes on the role of an unnamed male protagonist whose singular objective is to "score" with three different women before the night is over.[^ref-13][^ref-14] Gary Thompson's manual for his later DOS version states bluntly: "Your objective is to 'score' three times. You must hunt down your female prey and do your thing."[^ref-14] Jimmy Maher describes the three women as ascending in desirability, "from a rough hooker to a girl-next-door type who ... turns out to be a dominatrix to an exotic goddess."[^ref-26] The three main locations—a bar, a casino, and a disco—serve as hunting grounds where the player must gather items and solve puzzles to progress.[^ref-19]
 
 Chuck Benton has said parts of the game were semi-autobiographical; his company biography says he wrote an adventure game "that parodied the dilemmas of the young single male."[^ref-5] Jimmy Maher wrote in 2012 that parts of the game "were drawn straight from his own experiences, although he's not telling exactly which parts."[^ref-26] The game's narrative, while crude by modern standards, represented an attempt at adult humor in interactive fiction. The descriptions of the women encountered include passages describing physical attributes in explicit terms, establishing a tone that contemporary critics found both entertaining and problematic: Softline's 1982 review credited its "sense of humor, and sexual weirdness" with "many hours of entertainment" but named its sexism as its most noticeable flaw.[^ref-16][^ref-48]
 
@@ -55,7 +55,7 @@ The plot, while simple, proved influential enough that Leisure Suit Larry in the
 
 Softporn Adventure employs a two-word parser system typical of early text adventures, requiring players to type simple verb-noun commands to interact with the game world.[^ref-18][^ref-25] Players navigate using directional commands (N, S, E, W, U, D) and manage their inventory using the INVENTORY command.[^ref-19] Hardcore Gaming 101 judged that "compared to Infocom text adventures, the parser is extremely poor,"[^ref-13] and the Home of the Underdogs review likewise noted that "the limited parser seems especially bad when considering that Infocom was using a much more powerful parser for their games during the same period."[^ref-32]
 
-The interface requires players to use very specific language, often leading to frustration. One reviewer noted that the game "alternates between simple, boring puzzles and parser-wrestling nightmares."[^ref-21] Unlike more sophisticated text adventures of the era, Softporn Adventure's parser struggles with synonyms and expects exact phrasing. The game memorably responds to spelling errors with the message: "Learn to spell, idiot!!!"[^ref-22]
+The interface requires players to use very specific language, often leading to frustration. One reviewer noted that the game "alternates between simple, boring puzzles and parser-wrestling nightmares."[^ref-21] Home of the Underdogs' reviewer described a "very limiting VERB-NOUN parser that doesn't understand many obvious synonyms."[^ref-32] The game memorably responds to spelling errors with the message: "Learn to spell, idiot!!!"[^ref-22]
 
 ### Structure and Progression
 
@@ -79,7 +79,7 @@ The death system is notably harsh and somewhat random. A dead player is sent to 
 
 ### Contemporary Reviews
 
-Softline magazine's January 1982 review by Derrick Bang offered a mixed assessment, calling the game "a refreshing change of pace from the average software game" while criticizing it for reinforcing "the notion that all computer freaks are emotionally underdeveloped high school and college boys."[^ref-48][^ref-7] The review described the game as "hopelessly addicting" and credited Benton with "being the first to plumb these depths on a commercial basis," but lamented that "it's just a shame that he didn't take the time to make his program a bit classier."[^ref-48] Softline listed it at $29.95 for 48K Apple II and Atari 800 systems.[^ref-48]
+Softline magazine's January 1982 review offered a mixed assessment, calling the game "a refreshing change of pace from the average software game" while criticizing it for reinforcing "the notion that all computer freaks are emotionally underdeveloped high school and college boys."[^ref-48][^ref-7] The review described the game as "hopelessly addicting" and credited Benton with "being the first to plumb these depths on a commercial basis," but lamented that "it's just a shame that he didn't take the time to make his program a bit classier."[^ref-48] Softline listed it at $29.95 for 48K Apple II and Atari 800 systems.[^ref-48]
 
 ANTIC magazine's December 1982 review by Davey Saba was more positive, stating "When you get tired of shoot 'em up attacks, Softporn Adventures by ONLINE SYSTEMS could be a refreshing break."[^ref-25] Saba noted the game was one of his first adventure game purchases and concluded that "Even though my favorite game is still Centipede, Softporn is a welcome addition to my software library."[^ref-25]
 
@@ -109,7 +109,7 @@ The game was originally titled "Super Stud Adventure" during development.[^ref-5
 
 Benton self-published the game under his own company name, Blue Sky Software. He told the Get Lamp interviewer, "I made 1000 and sold 100";[^ref-5] Sierra Chest puts the Blue Sky sales at "only a few dozen copies."[^ref-3] He had difficulty selling it himself because computer magazines turned down his advertisements.[^ref-6][^ref-36] The breakthrough came in 1981, when Benton was selling the game at a trade show and encountered Ken Williams, who eventually decided to release it through On-Line Systems;[^ref-7] Sierra Chest places the meeting at Applefest in June 1981.[^ref-3] Retro365 writes that a few of the Blue Sky copies were sold to Williams's employees at the trade show, who brought them back to the office and "caused work to grind to a halt" before Williams offered to publish the game.[^ref-36]
 
-Upon acquisition by On-Line Systems, Benton rewrote portions of the game for publication.[^ref-5] The game's success was immediate: Ken Williams estimated that Softporn and the software sales it drove doubled On-Line's sales for a time.[^ref-26] By the time of Time's October 1981 article, "about 4,000 copies" had been sold,[^ref-47] and Benton put lifetime sales "past the 50,000 mark."[^ref-5][^ref-36]
+Upon acquisition by On-Line Systems, Benton rewrote portions of the game for publication.[^ref-5] The game's success was immediate: Ken Williams estimated that Softporn and the software sales it drove doubled On-Line's sales for a time.[^ref-26] By the time of Time's October 1981 article, "about 4,000 copies" had been sold,[^ref-47] and Get Lamp's account puts total sales of the game "up past the 50,000 mark, a true blockbuster for the time,"[^ref-5] while Jimmy Maher writes that "some sources estimate Softporn alone to have topped 50,000 in sales over its commercial lifetime."[^ref-26]
 
 **Development Credits:**[^ref-2]
 - **Designer/Programmer:** [[Chuck Benton]]
@@ -118,7 +118,7 @@ Upon acquisition by On-Line Systems, Benton rewrote portions of the game for pub
 
 ### Technical Achievements
 
-Written in Applesoft BASIC for the Apple II, Softporn Adventure required 48K of memory.[^ref-26][^ref-48] The game utilized disk-based text files for its narrative content[^ref-26][^ref-14] and employed a simple two-word parser system.[^ref-18] While technically modest compared to contemporaneous Infocom titles, the game demonstrated that adult-themed content could be commercially viable in the nascent computer game market.
+Written in Applesoft BASIC for the Apple II, Softporn Adventure required 48K of memory.[^ref-26][^ref-48] The game utilized disk-based text files for its narrative content[^ref-26][^ref-14] and employed a simple two-word parser system.[^ref-18] While technically modest compared to contemporaneous Infocom titles,[^ref-13][^ref-32] the game sold strongly: Get Lamp calls its sales "a true blockbuster for the time."[^ref-5]
 
 The game's structure—featuring multiple locations, inventory management, casino minigames, and three seductions—carried straight into Leisure Suit Larry; Al Lowe wrote that "Softporn's puzzles, characters, and locations were all solid. I kept them all."[^ref-46]
 
@@ -147,11 +147,11 @@ Chuck Benton had plans for additional content that never materialized. A female 
 | Original | 1981 (before June) | Apple II | Blue Sky Software self-published release[^ref-3] |
 | On-Line Systems | 1981 | Apple II | Commercial release after Ken Williams acquisition[^ref-2] |
 | Atari 8-bit | 1981 | Atari 400/800 | Port by Chris Iden, reviewed by Softline in January 1982[^ref-2][^ref-48] |
-| PC Port 1.1 | 1991 (rewritten in the late 1980s) | MS-DOS | Gary Thompson shareware version with 43/50 line support[^ref-14][^ref-7][^ref-3] |
-| PC Port 2.1 | 1994 | MS-DOS | Major rewrite for the CD-ROM release, bug fixes, casino games redesigned[^ref-14] |
-| PC Port 2.2 | 1994 | MS-DOS | CD-ROM release in LSL Greatest Hits[^ref-14] |
-| PC Port 2.3 | 1994 | MS-DOS | Added file-missing error trap[^ref-14] |
-| PC Port 2.4 | 1994 | MS-DOS | Bug fix for taxi driver payment calculation[^ref-14] |
+| PC Port 1.1 | 1991 (rewritten in the late 1980s) | DOS | Gary Thompson's unofficial shareware conversion with 43/50 line support[^ref-14][^ref-7][^ref-3][^ref-2] |
+| PC Port 2.1 | 1994 | DOS | Major rewrite for the CD-ROM release, bug fixes, casino games redesigned[^ref-14] |
+| PC Port 2.2 | 1994 | DOS | CD-ROM release in LSL Greatest Hits[^ref-14] |
+| PC Port 2.3 | After 2.2 (undated in the manual) | DOS | Added file-missing error trap[^ref-14] |
+| PC Port 2.4 | After 2.3 (undated in the manual) | DOS | Bug fix for taxi driver payment calculation[^ref-14] |
 | Las Vegas | 1986 | PC-88, PC-98, FM-7, Sharp X1 | Japanese graphical remake by Starcraft[^ref-7] |
 | Z-code Port | October 18, 1997 | Z-Machine | Ported by Patrick Kellum[^ref-38] |
 | Browser | 2002 | Web | Unofficial browser port[^ref-39] |
@@ -166,7 +166,7 @@ The MS-DOS port by Gary Thompson contained several bugs in early versions. Most 
 - **Phone Number:** The wine delivery phone number 555-0987 must be remembered from a radio commercial[^ref-27]
 - **TV Distraction:** Setting the TV to channel 6 can distract certain characters[^ref-27]
 - **Television Channels:** A MobyGames player review singles out the amusing descriptions shown when flipping through TV channels[^ref-2]
-- **Hot Tub Cover Photo:** The famous cover photograph was taken in Ken and Roberta Williams' actual hot tub at their home. All the women in the photo—including Roberta Williams—were completely nude, though only visible from the shoulders up[^ref-40]
+- **Hot Tub Cover Photo:** The cover photograph was staged in the Williamses' hot tub at their home.[^ref-6][^ref-40] Get Lamp says the original plan was to use hired models, "but the ladies insisted, and in doing so became part of history," and that Roberta Williams is the woman on the right.[^ref-5] The Atlantic describes the image as "a warm, risqué photo of three brunettes in an outdoor hot tub, their breasts bobbing and nudging the waterline,"[^ref-6] while the Sierra Fandom wiki says the women were nude but only visible from the shoulders up.[^ref-40]
 - **Time Magazine:** The cover image ran with Time's "Software for the Masses" on October 5, 1981, which Al Lowe calls "Time Magazine's first column on computer entertainment"[^ref-47][^ref-46][^ref-6]
 - **Tom Clancy Connection:** Tom Clancy was acquainted with Chuck Benton. In The Hunt for Red October, sonar operator Jones mentions knowing someone from college who "was making good money with Sierra On-Line Systems"; Jimmy Maher writes that this line was inspired by Benton[^ref-26]
 
@@ -176,7 +176,7 @@ The MS-DOS port by Gary Thompson contained several bugs in early versions. Most 
 
 Softporn Adventure achieved remarkable commercial success for its era. Ken Williams claimed that Sierra sold 25,000 copies at a time when Apple had only sold 100,000 Apple II computers total, and Al Lowe concluded that Softporn "was probably played by the highest percentage of computer owners of any game in history."[^ref-46][^ref-4]
 
-The game's success had immediate impact on On-Line Systems, temporarily doubling the company's sales.[^ref-7] For Chuck Benton personally, "After a while, the royalty checks outstripped his salary and Chuck quit to go to developing software full time."[^ref-5] The game was also widely pirated and bootlegged, particularly among high school students, further expanding its cultural reach.[^ref-40]
+The game's success had immediate impact on On-Line Systems, temporarily doubling the company's sales.[^ref-7] For Chuck Benton personally, "After a while, the royalty checks outstripped his salary and Chuck quit to go to developing software full time."[^ref-5] Al Lowe recalls that "everybody I knew that owned an Apple had a pirated copy,"[^ref-46] and the Sierra Fandom wiki says the game was "widely bootlegged and distributed among high schoolers."[^ref-40]
 
 ### Collections
 
@@ -184,7 +184,7 @@ The game was included in Sierra's "Leisure Suit Larry's Greatest Hits and Misses
 
 ### Fan Projects
 
-Gary Thompson's 1991 DOS port represents a significant fan preservation effort. Thompson, who first played the original in 1984, spent approximately three months recreating the game in Microsoft Quick-C, later claiming "my game is the only surviving copy of the original Softporn."[^ref-14] The game has also been ported to Z-code format by Patrick Kellum in 1997, allowing it to run on Z-Machine emulators.[^ref-38]
+Gary Thompson's 1991 DOS conversion, which MobyGames lists as an unofficial conversion, is a significant fan preservation effort; Sierra Chest says Thompson obtained permission from Ken Williams and Al Lowe to release it as shareware.[^ref-2][^ref-3] Thompson, who first played the original in 1984, spent approximately three months recreating the game in Microsoft Quick-C, later claiming "my game is the only surviving copy of the original Softporn."[^ref-14] The game has also been ported to Z-code format by Patrick Kellum in 1997, allowing it to run on Z-Machine emulators.[^ref-38]
 
 A Pascal port by Paul Schlyter was created in 1986 for CP/M and MS-DOS, originally as a learning exercise for Turbo Pascal 3.0.[^ref-22] More recently, modern Free Pascal ports have been developed to preserve the game for contemporary systems.[^ref-22]
 
@@ -195,11 +195,11 @@ A Pascal port by Paul Schlyter was created in 1986 for CP/M and MS-DOS, original
 
 ### Critical Perspective
 
-Softporn Adventure occupies a unique and somewhat uncomfortable position in gaming history. As potentially the first commercially successful adult-oriented software, it helped establish that video games could address mature themes—even if crudely—and still achieve commercial success.[^ref-5] The game's influence on the Leisure Suit Larry series cannot be overstated; Al Lowe's 1987 remake retained the puzzles, locations, and basic premise while adding graphics, humor, and the iconic character of Larry Laffer.[^ref-8]
+Softporn Adventure occupies a unique and somewhat uncomfortable position in gaming history. Benton's company biography describes what grew out of his adventure game ('Leisure Suit Larry') as "arguably the first commercially successful, adult-oriented software ever,"[^ref-5] and the game showed that a title with mature themes—even a crude one—could sell strongly, with Get Lamp putting sales "up past the 50,000 mark."[^ref-5] The game's influence on the Leisure Suit Larry series cannot be overstated; Al Lowe's 1987 remake retained the puzzles, locations, and basic premise while adding graphics, humor, and the iconic character of Larry Laffer.[^ref-8]
 
 Laine Nooney's academic analysis frames the game's significance beyond its gameplay: "The dialogue around Softporn was perhaps the first time a cultural debate was happening in and around a computer gaming community itself."[^ref-29] The controversy surrounding the game, including hate mail that, according to Steven Levy, was "some of it full of Bible scripture and prophecy of the damnation ahead,"[^ref-26] presaged decades of debates about adult content in video games.
 
-The cover photograph, more than the game itself, became a cultural artifact of the early personal computing era. Nooney noted that "These people were friends, they were screwing around in a time before Twitter and Instagram, doing regrettable things they really couldn't fathom the ultimate reach of."[^ref-29] That Roberta Williams—who would become one of gaming's most celebrated designers—appeared nude on the cover of an adult game speaks to the informal, pioneering spirit of the early Sierra years.
+The cover photograph, more than the game itself, became a cultural artifact of the early personal computing era. Nooney noted that "These people were friends, they were screwing around in a time before Twitter and Instagram, doing regrettable things they really couldn't fathom the ultimate reach of."[^ref-29] Get Lamp identifies Roberta Williams, creator of King's Quest, as one of the women pictured on the cover.[^ref-5]
 
 As Al Lowe observed when approached to remake it: "that game is so out of date it should be wearing a leisure suit"—a quip that ultimately named the franchise that would far eclipse its predecessor.[^ref-12]
 
