@@ -10,18 +10,18 @@ series: EcoQuest
 engine: SCI1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '**EcoQuest: The Search for Cetus** is an educational adventure game
   that teaches environmental ethics and marine conservation.'
 tags: [1990s, ecoquest, educational, jane-jensen, sci, sierra]
 ---
 # EcoQuest: The Search for Cetus
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-**EcoQuest: The Search for Cetus** is an educational adventure game that teaches environmental ethics and marine conservation[^ref-1]. Released by Sierra On-Line in 1991[^ref-3], the game casts the player as young Adam Greene, whom Adventure Gamers describes as "the only son of a biological researcher and ecologist"[^ref-4]. The exact release date differs between sources: The Sierra Chest gives a first release of December 23, 1991[^ref-3], while the Digital Antiquarian says the game was "Released in early 1992"[^ref-27]. Alternate titles listed by MobyGames include "EcoQuest 1: The Search for Cetus", the German "EcoQuest: Die Suche nach Cetus" and the French "Le Secret de la Cité Engloutie"[^ref-23]. Its intended audience is given differently by different sources: Wikipedia says it introduces "children ages 12 and up" to marine biology and marine conservation[^ref-1], while the box text reads "For ages 10 and up"[^ref-25].
+**EcoQuest: The Search for Cetus** is an educational adventure game that teaches environmental ethics and marine conservation[^ref-1]. Released by Sierra On-Line in 1991[^ref-3], the game casts the player as young Adam Greene, whom Adventure Gamers describes as "the only son of a biological researcher and ecologist"[^ref-4]. The exact release date differs between sources: The Sierra Chest gives a first release of December 23, 1991[^ref-3], while the Digital Antiquarian says the game was "Released in early 1992"[^ref-27]. Alternate titles listed by MobyGames include "EcoQuest 1: The Search for Cetus", the German "EcoQuest: Die Suche nach Cetus" and the French "Le Secret de la Cité Engloutie"[^ref-23]. Its intended audience is given differently by different sources: Wikipedia says it introduces "children ages 12 and up" to marine biology and marine conservation[^ref-1], while the box text reads "For ages 10 and up"[^ref-25][^ref-32].
 
 Adventure Gamers' verdict called it "a rare example of well-done edutainment: it's a pleasure to play and does a great job in creating awareness of environmental issues"[^ref-4]. A 2023 MobyGames review by SAGA_ observed that "Sierra takes their years of adventure-game experience -- arguably some of the best in the business -- and applies its familiar formula to an educational game for the kids"[^ref-5]. Player reviewer Tomer Gabel called it "one of the best adventure games ever made"[^ref-5], while Mickey Gabel described "a fun, informative game, that manages to teach you without being didactic even a bit"[^ref-5].
 
@@ -42,7 +42,7 @@ EcoQuest launched Sierra's edutainment-oriented "Discovery Series" in 1991 as an
 
 ## Story Summary
 
-The game follows Adam Greene, whose age is disputed between sources: MobyGames[^ref-23], Alex Bevilacqua[^ref-17], Collection Chamber[^ref-25] and a 1992 Game Bytes review[^ref-29] make him twelve, while Wikipedia[^ref-1] and The Sierra Chest[^ref-3] make him ten. A young dolphin named Delphineus set out to search for Cetus, the missing king of his land, and became entangled in an abandoned fishing net; Adam's father rescued him, and with his assistants and son nursed the dolphin back to health[^ref-11]. Adam's attempts to help the dolphin take a strange turn when it starts speaking[^ref-10].
+The game follows Adam Greene, whose age is disputed between sources: a 1992 Game Bytes review[^ref-29], PC Review, which calls him "a 12-year-old boy"[^ref-32], and Collection Chamber[^ref-25] each give twelve, as do the MobyGames[^ref-23] and Bevilacqua[^ref-17] descriptions, while Wikipedia[^ref-1] and The Sierra Chest[^ref-3] make him ten. A young dolphin named Delphineus set out to search for Cetus, the missing king of his land, and became entangled in an abandoned fishing net; Adam's father rescued him, and with his assistants and son nursed the dolphin back to health[^ref-11]. Adam's attempts to help the dolphin take a strange turn when it starts speaking[^ref-10].
 
 Adam, a trained scuba diver, is picked to go down to Eluria, an undersea realm of marine animals, to help the creatures who live there[^ref-12], who are threatened by human pollution. Cetus is the great sperm whale whom the undersea creatures look to for guidance, and he has gone missing[^ref-27]. On the way there, the player sees at first hand how human activity harms marine life[^ref-9].
 
@@ -68,7 +68,7 @@ One IGN walkthrough sums it up as "an educational point and click adventure game
 
 Alex Bevilacqua found most of the game to be fetch quests and item-combination puzzles, with "no dead ends and no red herrings"; clicking the Help button on the sliding-tile puzzle makes the game solve it automatically[^ref-17].
 
-The "Recycle" cursor adds the recycling symbol to Sierra's standard set of command icons, and the player earns extra points for clearing rubbish out of the sea[^ref-1]. This folds the game's environmental lesson into play itself, rewarding players for cleaning up rather than lecturing them.
+The "Recycle" cursor adds the recycling symbol to Sierra's standard set of command icons, and the player earns extra points for clearing rubbish out of the sea[^ref-1].
 
 ## Reception
 
@@ -141,7 +141,7 @@ The original floppy disk version asks for a four-digit security code[^ref-11], f
 
 Running the CD version under DOSBox requires the game's RESOURCE.CFG to point to the correct path for speech to be heard[^ref-15].
 
-## Trivia
+## Easter Eggs and Trivia
 
 - The game includes Easter eggs referencing [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (on the office computer) and [[Space Quest Series|Space Quest]] (in a cave)[^ref-11], and even LeChuck from *Monkey Island*[^ref-5]
 - One modern reviewer felt that a number of the game's characters seem inspired by Disney's "The Little Mermaid"[^ref-17]
@@ -204,4 +204,4 @@ The Digital Antiquarian judges that "the science behind the two games still hold
 [^ref-29]: [Game Bytes #2 (May 1992) – EcoQuest review by Vic Witek](https://archive.org/details/game-bytes-2) – 12-year-old Adam, review verdict, VGA/EGA versions, "Coming soon for Mac and Amiga"
 [^ref-30]: [MobyGames – DOS credits](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) – Creative Director Bill Davis, director William D. Skirvin, composer, sound effects, CD voice cast
 [^ref-31]: [MobyGames – DOS credits (Wayback, December 9, 2024)](https://web.archive.org/web/20241209104911/https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) – "Executive Producer Ken Williams; Producer Tammy Dargan; Director William D. Skirvin"
-[^ref-32]: [PC Review Issue 8 (June 1992), pp. 66–67 – Eco Quest review by Sue James](https://archive.org/details/pc-review-08) – Period magazine scan; 7/10 rating badge (confirmed on the page scan), requirements box, 659–704 of 725 score range, £39.99 header price and £34.99 in text, "once-only program", "does not seem expensive for the variety and the quality of the graphics"
+[^ref-32]: [PC Review Issue 8 (June 1992), pp. 66–67 – Eco Quest review by Sue James](https://archive.org/details/pc-review-08) – Period magazine scan; 7/10 rating badge, requirements box, 659–704 of 725 score range, £39.99 header price and £34.99 in text, "once-only program", "does not seem expensive for the variety and the quality of the graphics"
