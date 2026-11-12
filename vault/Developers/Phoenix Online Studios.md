@@ -6,15 +6,15 @@ defunct: null
 headquarters: "San Jose, California, USA"
 notable_games: ["The Silver Lining", "Cognition: An Erica Reed Thriller", "Moebius: Empire Rising", "Gabriel Knight: Sins of the Fathers 20th Anniversary Edition"]
 parent_company: null
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Phoenix Online Studios
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Phoenix Online Studios is an independent adventure game developer that grew out of the volunteer team behind The Silver Lining, a free fan game based on Sierra On-Line's King's Quest series.[^ref-15] MobyGames records that the group was originally called Phoenix Freeware Online and was formed in 2004 to work on The Silver Lining, and that Cognition: An Erica Reed Thriller was its first commercial game.[^ref-3] Its press releases carry a San Jose, California dateline, and in January 2014 PocketGamer.biz reported that Phoenix had studios in San Jose and in Mumbai, India.[^ref-17][^ref-24]
+Phoenix Online Studios is an independent adventure game developer that grew out of the volunteer team behind The Silver Lining, a free fan game based on Sierra On-Line's King's Quest series.[^ref-15] MobyGames records that the group was originally called Phoenix Freeware Online and was formed in 2004 to work on The Silver Lining, and that Cognition: An Erica Reed Thriller was its first commercial game.[^ref-3] Its 2011 and 2014 label announcements carry a San Jose dateline,[^ref-24][^ref-21] and in January 2014 PocketGamer.biz reported that Phoenix had studios in San Jose and in Mumbai, India.[^ref-17]
 
 The studio's stated ambition was to do for Sierra what Telltale Games had done for LucasArts: "In the same way Telltale has been bringing back the LucasArts magic, we want to do the same with the Sierra magic," César Bittar told Gamasutra in 2010.[^ref-4] Its two in-house originals, The Silver Lining and Cognition, were both released episodically.[^ref-15][^ref-16] Its closest tie to a Sierra veteran was Gabriel Knight creator [[Jane Jensen]]. She was story consultant on Cognition, Phoenix developed her game Moebius: Empire Rising under her supervision, and Phoenix co-developed her Gabriel Knight: Sins of the Fathers 20th Anniversary Edition remake with Pinkerton Road Studio, which Steam lists as its publisher.[^ref-16][^ref-20][^ref-32] In 2014 the company added a publishing label, [[Phoenix Online Publishing]].[^ref-21] Its YouTube channel still introduces it as the "creators of The Silver Lining and Cognition: An Erica Reed Thriller".[^ref-12]
 
@@ -40,7 +40,7 @@ On 20 February 2014, Phoenix announced a new indie publishing label, [[Phoenix O
 
 ### Later Years
 
-MobyGames says Phoenix Online Studios, LLC was formed after Cognition's 2013 release to handle the publishing business, and that at an unknown later point the studio was merged into Phoenix Online Publishing, with the Phoenix Online Studios name used as a label for internally developed games.[^ref-3] The newest post on the company's news blog, dated 3 September 2020, announces the PC release of Bleeding Moons, the debut game from IAN Games.[^ref-33][^ref-34]
+MobyGames says Phoenix Online Studios, LLC was formed after Cognition's 2013 release to handle the publishing business, and that at an unknown later point the studio was merged into Phoenix Online Publishing, with the Phoenix Online Studios name used as a label for internally developed games.[^ref-3] Its later label releases include Cornerstone: The Song of Tyrim (26 April 2016).[^ref-38] The newest post on the company's news blog, dated 3 September 2020, announces the PC release of Bleeding Moons, the debut game from IAN Games.[^ref-33][^ref-34]
 
 **Status (checked 11 November 2026):** the newest blog post is dated 3 September 2020. No announcement of a closure was found, and this page does not know whether the studio still operates.[^ref-33]
 
@@ -64,10 +64,14 @@ This remake of Jensen's 1993 Sierra adventure was co-developed by Pinkerton Road
 
 ## Key People
 
-- **César Bittar** (CEO). He was originally one of The Silver Lining's writers and took charge of the project team in January 2002.[^ref-15] He was producer and director on The Silver Lining and Cognition, and producer on Moebius: Empire Rising and the Gabriel Knight remake.[^ref-2]
+- **César Bittar** (CEO). He was originally one of The Silver Lining's writers and took charge of the project team in January 2002.[^ref-15] He was producer and director on The Silver Lining and Cognition, and producer on Moebius: Empire Rising and the Gabriel Knight remake.[^ref-2] The company's profile says he previously worked with Telltale Games and Activision, on titles including Spider-Man 3, Tales of Monkey Island and Sam & Max Season 3.[^ref-2]
 - **Richard Flores** (CTO). He was art director on The Silver Lining and is a 3D animator with a film background.[^ref-4] As CTO he oversees the company's art and programming.[^ref-2]
 - **Katie Hallahan** (CCO and PR Director). She was co-designer of The Silver Lining and Cognition, director of Cognition's second episode, and assistant designer on Moebius and the Gabriel Knight remake. She also ran Cognition's Kickstarter campaign.[^ref-2]
 - **Scott Steinberg** (GM, Publishing and Development). He was promoted to general manager in January 2014 to lead strategic planning and business development.[^ref-17][^ref-2]
+
+## Legacy
+
+Phoenix Online Studios grew from a volunteer fan project into a commercial developer and then a publisher: The Silver Lining began as a free King's Quest fan game, Cognition was its first commercial release, and in 2014 the company added the publishing label Phoenix Online Publishing.[^ref-15][^ref-3][^ref-21] Its clearest link to Sierra's legacy runs through Gabriel Knight creator Jane Jensen, who was story consultant on Cognition, supervised Phoenix's development of Moebius: Empire Rising, and shared the Gabriel Knight 20th Anniversary Edition remake with Phoenix.[^ref-16][^ref-20][^ref-32] The Silver Lining itself remains at four of its five planned episodes.[^ref-15][^ref-36]
 
 ## Games
 
@@ -101,7 +105,7 @@ The Sierra Classic Gaming developer profile for Phoenix lists the last two title
 [^ref-27]: [DSOGaming – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition is now available](https://www.dsogaming.com/news/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition-is-now-available/) — launch on Steam, GOG.com and the Phoenix Online Store for $19.99
 [^ref-28]: [Game Informer – The Game Awards Offers First Look At Sierra's King's Quest](https://gameinformer.com/b/news/archive/2014/12/05/the-game-awards-offers-first-look-at-sierra%E2%80%99s-king-s-quest) — Mike Futter, 5 December 2014; "This year at Gamescom, Activision reintroduced the Sierra label"; King's Quest under development by The Odd Gentlemen
 [^ref-29]: [Kotaku – The Silver Lining: Episode 1 Micro-Review (Wayback, 14 Jul 2010)](https://web.archive.org/web/20100714152101/http://kotaku.com/5584586/the-silver-lining-episode-1-micro+review-absence-makes-the-heart-grow-colder?skyline=true&s=i) — "was released on July 10 for the PC, and was developed by Phoenix Online Studios"
-[^ref-30]: [MobyGames – Cognition: An Erica Reed Thriller - Episode 1: The Hangman](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) — read via the MobyGames API; Windows and Macintosh 2012-10-30; published by Reverb Publishing, developed by Phoenix Online Studios, LLC
+[^ref-30]: [MobyGames – Cognition: An Erica Reed Thriller - Episode 1: The Hangman](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) — Windows and Macintosh 2012-10-30; published by Reverb Publishing, developed by Phoenix Online Studios, LLC
 [^ref-31]: [Game Developer (Gamasutra) – Activision To Allow King's Quest Fan Sequel](https://gamedeveloper.com/game-platforms/activision-to-allow-i-king-s-quest-i-fan-sequel) — Leigh Alexander, 28 June 2010; Activision "has at last given the go-ahead" to release The Silver Lining for free
 [^ref-32]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) — store data: developers Phoenix Online Studios and Pinkerton Road Studio; publisher Pinkerton Road Studio; release 15 Oct 2014
 [^ref-33]: [Phoenix Online Studios – News blog](https://www.postudios.com/blog/) — newest listed post "Bleeding Moons is available now!", checked 11 November 2026
@@ -109,3 +113,4 @@ The Sierra Classic Gaming developer profile for Phoenix lists the last two title
 [^ref-35]: [Phoenix Online Studios blog – The Silver Lining: Haunted Castle Experience Available Now! And Episode 5 Coming in 2017! (Katie Hallahan, 10 November 2016)](https://www.postudios.com/blog/the-silver-lining-haunted-castle-experience-available-now-and-episode-5-coming-in-2017/) — final episode "will be releasing in 2017"
 [^ref-36]: [Phoenix Online Studios blog – The Silver Lining Progress Report (Katie Hallahan, 31 January 2019)](https://www.postudios.com/blog/the-silver-lining-updates/) — "No, this isn't a release date announcement. It's a progress report!"
 [^ref-37]: [Phoenix Online Store – The Silver Lining - Episodes 1-4](https://store.postudios.com/products/the-silver-lining) — listed as "PC - $0.00" and "FREE"
+[^ref-38]: [Steam Developer Page – Phoenix Online Studios](https://store.steampowered.com/developer/PhoenixOnline) — lists Cornerstone: The Song of Tyrim, Apr 26, 2016
