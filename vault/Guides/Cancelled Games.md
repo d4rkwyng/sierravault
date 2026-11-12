@@ -123,7 +123,7 @@ Sierra's planned fourth SWAT game, Urban Justice, designed by Travis Steiner,[^r
 
 ### Middle-earth Online
 
-Sierra's Middle-earth Online was one of the earliest attempts to bring Tolkien's world into MMO gaming, with a sandbox design closer to Ultima Online than to later themepark MMOs.[^ref-18]
+Sierra's Middle-earth Online was an early attempt to bring Tolkien's world into MMO gaming, with a sandbox design closer to Ultima Online than to later themepark MMOs.[^ref-18]
 
 **Distinctive Design Ideas:**
 - **Permanent Character Death:** The team wanted characters to die permanently in certain situations[^ref-18]
