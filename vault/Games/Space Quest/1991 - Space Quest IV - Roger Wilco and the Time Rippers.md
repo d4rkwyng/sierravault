@@ -7,20 +7,20 @@ publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Windows, Mac, Amiga, PC-98]
 series: Space Quest
-engine: SCI1
+engine: 'SCI1 (floppy), SCI1.1 (CD)'
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
-  game developed and published by Sierra On-Line, released in March 1991 for MS-DOS...'
+  game developed and published by Sierra On-Line, released on March 4, 1991 for MS-DOS, with later ports to Windows, Macintosh, Amiga, PC-98 and a CD-ROM edition with narration by Gary Owens.'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
-Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
+Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 4, 1991 for MS-DOS[^ref-9] with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
 
 Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the fourth installment in the Space Quest series and the first to feature Sierra's icon-based point-and-click SCI interface and 256-color VGA graphics[^ref-3][^ref-6].
 
@@ -28,7 +28,7 @@ The game was released on floppy disks in March 1991 and later re-released on CD-
 
 The game cost about one million dollars to produce and was a commercial success, selling more copies than all three previous Space Quest games combined[^ref-3][^ref-4].
 
-SpaceQuest.net describes it as "one of the first games ever with video captured animation"[^ref-3].
+SpaceQuest.net describes it as "one of the first games ever with video captured animation"[^ref-3]. Mark Crowe recalled in 2015 that the team had "what was considered then to be a state- of- the-art video captured animation studio setup in a warehouse across town"[^ref-63].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
@@ -36,8 +36,8 @@ SpaceQuest.net describes it as "one of the first games ever with video captured 
 > **Creative Director:** [[Bill Davis]][^ref-6]
 > **Music Director:** [[Mark Seibert]][^ref-62]
 > **Music / Sound Programming:** [[Ken Allen]], Robert Atesalp, [[Mark Seibert]][^ref-62]
-> **Publisher:** Sierra On-Line[^ref-6]
-> **Engine:** SCI (Sierra Creative Interpreter)[^ref-6][^ref-2]
+> **Publisher:** Sierra On-Line; also Sierra On-Line Japan and U.S. Gold[^ref-6]
+> **Engine:** SCI1 (floppy), SCI1.1 (CD) (Sierra Creative Interpreter)[^ref-45][^ref-6]
 > **Platforms:** MS-DOS, Windows, Macintosh, Amiga, PC-98
 > **Release Year:** 1991
 > **Series:** Space Quest
@@ -101,8 +101,8 @@ On MobyGames the game holds a Moby Score of 7.5, with critics averaging 70% (27 
 - **MobyGames:** Moby Score 7.5; critics 70% (27 ratings); players 3.8/5 (131 ratings)[^ref-6]
 - **GOG:** 4.6/5 (770 ratings, collection)[^ref-7]
 - **Steam:** Very Positive (85% of 337 user reviews positive, as of October 2026; collection)[^ref-10]
-- **GameFAQs:** "Great" (75 ratings), rated "Tough" difficulty[^ref-28]
-- **IMDB:** 7.9/10 (163 votes)[^ref-38]
+- **GameFAQs:** "Great" (76 ratings as of November 2026), rated "Tough" difficulty (47 votes)[^ref-28]
+- **IMDB:** 7.9/10 (165 votes as of November 2026)[^ref-38]
 - **HowLongToBeat:** about 4½ hours main story[^ref-9]
 
 ## Development
@@ -112,7 +112,9 @@ Space Quest IV was the last game the Two Guys from Andromeda made together befor
 
 The game was developed using 256-color hand-painted graphics[^ref-3][^ref-31], and SpaceQuest.net describes it as one of the first games with video-captured animation[^ref-3]. The game cost about one million dollars to produce[^ref-3].
 
-The game was released originally on six high-density floppy disks in March 1991 and later re-released on CD-ROM in December 1992 with full speech support[^ref-3][^ref-36].
+Crowe described the production of the Latex Babes of Estros animation: "There was the Latex Babes of Estros video capture session. We had what was considered then to be a state- of- the-art video captured animation studio setup in a warehouse across town"[^ref-63].
+
+The game was released originally on six high-density floppy disks[^ref-3] on March 4, 1991 in North America[^ref-9], and later re-released on CD-ROM in December 1992 with full speech support[^ref-36][^ref-45].
 
 The CD-ROM version featured voices from Sierra employees, except the narrator[^ref-3], Gary Owens—a legendary voice actor with over 30,000 voice-over jobs and commercials, including Roger Ramjet and Space Ghost[^ref-36].
 
@@ -122,7 +124,7 @@ When writing narrator lines, Scott Murphy always imagined Gary Owens speaking th
 
 After Owens' death in February 2015, Mark Crowe posted on behalf of both Guys: "Scott and I are both very saddened... the man was a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with"[^ref-37].
 
-Scott Murphy has said that some changes in the CD-ROM version, such as the Galaxy Galleria's renamed electronics store Hz. So Good, were made by other developers without the Two Guys' involvement[^ref-31]. Both designers did take part in the CD release, however: Crowe pushed to hire Gary Owens and went to Los Angeles to supervise his recording ("When I pushed to get Gary Owens, I expected to get the big 'NO' because of the cost")[^ref-47], and Murphy voiced Sludge Vohaul[^ref-38].
+Scott Murphy has said that some changes in the CD-ROM version, such as the Galaxy Galleria's renamed electronics store Hz. So Good, were made by other developers without the Two Guys' involvement[^ref-31]. Both designers did take part in the CD release, however: Crowe pushed to hire Gary Owens ("When I pushed to get Gary Owens, I expected to get the big 'NO' because of the cost")[^ref-47] and traveled to Burbank to work with Owens on the recording for the CD edition[^ref-63], and Murphy voiced Sludge Vohaul[^ref-38].
 
 An Atari ST version was announced via Sierra News Magazine but was later canceled[^ref-1].
 
@@ -133,6 +135,28 @@ The original game came with: a box, six 3.5" game disks (seven for Macintosh), S
 Josh Mandel, then a producer at Sierra eager to contribute creatively, wrote significant portions of the game's text including the Bargain Bin descriptions, Radio Shock online catalog, fake Hintbook text, and look messages for locations on Xenon, Estros, and the Galaxy Galleria[^ref-17]. According to Mandel, "Sierra's lawyer would break out in an icy sweat every time he entered the SQ area" due to the team's freewheeling approach to parody[^ref-17].
 
 In a 2012 interview, designer Mark Crowe reflected on design decisions he regretted: "The most egregious one that comes to mind is the infamous Sequel Police at the Galaxy Galeria. That was just plan [sic] dumb how that got by us and Sierra's QA department"[^ref-20]. In a 2002 interview with Adventure Gamers, Crowe elaborated: "The insanely cruel Sequel Police puzzle in the Skate-O-Rama... where it's seemingly impossible to get by the S.P. without being shot near the escalator. That was a foul-up that haunts me to this day"[^ref-47].
+
+### Production
+
+The credits below are those MobyGames lists for the DOS version (1991).
+
+**Development Credits:**[^ref-62]
+- **Original Concept:** [[Mark Crowe]], [[Scott Murphy]]
+- **Project Leader / Lead Programmer:** [[Scott Murphy]]
+- **Lead Design:** [[Mark Crowe]], [[Scott Murphy]]
+- **Art Designer:** [[Mark Crowe]]
+- **Executive Producer:** [[Ken Williams]]
+- **Producer:** [[Guruka Singh Khalsa]]
+- **Creative Director:** [[Bill Davis]]
+- **Programming:** Oliver Brelsford, Juan Carlos Escobar, Brian K. Hughes, Mike Larsen, Randy MacNeill, Doug Oldfield, Raoul Said, Jerry Shaw
+- **Graphics / Artwork:** Jane Cardinal, Eric Kasner, Jeff Crowe, Desie Hartman, James Larsen, Nathan Larsen, Suzi Livengood, Cheryl Loyd, Michael A. Milo, Gerald Moore, Jennifer Terry, Cheryl Sweeney, Willis Wong, Jon Bock
+- **Music Director:** [[Mark Seibert]]
+- **Music / Sound Programming:** [[Ken Allen]], Robert Atesalp, [[Mark Seibert]]
+- **Additional Material:** [[Josh Mandel]]
+- **Development Team:** [[Corey Cole]], Dan Foy, Pablo Ghenis, Eric Hart, John Hartin, Robert Eric Heitman, J. Mark Hood, Terry McHenry, John Rettig, Larry Scott, Jeff Stephenson, Mark Wilden
+- **Quality Assurance:** Mike Harian, Daniel Scott
+- **Manual:** Marti McKenna (editor), Cheryl Sweeney (design); box design by Terry Robinson
+- **Narrator:** Gary Owens
 
 ### Version History
 
@@ -179,6 +203,7 @@ The CD-ROM version (December 1992) featured full speech support. Apart from narr
 - Scrolling screens, billed on Sierra's CD-ROM box as "the first scrolling screens ever in a Sierra game"[^ref-4]
 - CD-ROM version featured full speech support with Gary Owens as narrator[^ref-4][^ref-32]
 - MIDI music and Sound Blaster sound effects[^ref-3]
+- **Copy protection:** The floppy version used manual-lookup copy protection[^ref-6]; the CD-ROM version omitted it, along with the manual it was printed in[^ref-4]
 - Platform releases: March 1991 MS-DOS floppy, December 1992 CD-ROM, 1991 Macintosh, 1992 Windows 16-bit and Amiga, 1992 PC-98[^ref-6][^ref-4]
 - **System requirements (CD-ROM version):** 286 CPU, 4MB RAM, 6MB hard drive, VGA graphics, 2x CD-ROM drive; sound support for Roland MT-32, AdLib, Sound Blaster, PS/1, and Game Blaster[^ref-22]
 - **Disk vs CD-ROM differences:** Floppy version has superior color handling and Windows compatibility; bikes in the SQ1 sequence are colored in the floppy version but black and white in the CD-ROM version, matching their black-and-white riders and correcting an inconsistency in the floppy version; Software Excess clerk waves only in floppy version; CD-ROM originally offered speech or text (not both), though ScummVM allows simultaneous display[^ref-21][^ref-24][^ref-50]
@@ -235,6 +260,8 @@ The CD-ROM version (December 1992) featured full speech support. Apart from narr
 According to Sierra On-Line's SEC filing, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-42]. Space Quest IV was an instant success, selling more copies than all three previous Space Quest games combined[^ref-3][^ref-4].
 
 After Space Quest IV, Mark Crowe went to work for Sierra subsidiary Dynamix in Eugene, Oregon, where he produced Space Quest V without Scott Murphy's assistance[^ref-11][^ref-47].
+
+The Two Guys from Andromeda later launched a Kickstarter in May 2012 for SpaceVenture, a spiritual successor to Space Quest; A2Central reports it raised US$539,767 and entered Steam Early Access on April 1, 2025, with the full version released on December 23, 2025[^ref-64][^ref-65]. Steam's store page lists an Early Access release date of April 1, 2025 and a release date of December 23, 2025 for the game, with the developer and publisher given as Guys from Andromeda[^ref-64].
 
 ### Collections
 
@@ -297,6 +324,9 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 
 ## See Also
 
+- [[Space Quest Series]]
+- **Previous:** [[1989 - Space Quest III - The Pirates of Pestulon]]
+- **Next:** [[1993 - Space Quest V - The Next Mutation]]
 - [[1986 - Space Quest - The Sarien Encounter]]
 - [[1987 - Space Quest II - Vohaul's Revenge]]
 - [[1989 - Space Quest III - The Pirates of Pestulon]]
@@ -310,10 +340,10 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-3]: [SpaceQuest.net – Space Quest 4 Game Information](https://spacequest.net/sq4/gameinfo.php) – release details, original packaging
 [^ref-4]: [Sierra Fandom Wiki – Space Quest IV](https://sierra.fandom.com/wiki/Space_Quest_IV%3A_Roger_Wilco_and_the_Time_Rippers) – plot, technical details, production cost
 [^ref-5]: [Space Quest Fandom Wiki – Space Quest IV Multimedia](https://spacequest.fandom.com/wiki/Space_Quest_IV%3A_Roger_Wilco_and_the_Time_Rippers_Multimedia) – CD-ROM version, plot details
-[^ref-6]: [MobyGames – Space Quest IV](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) – developer, publisher, platforms, credits, ratings
+[^ref-6]: [MobyGames – Space Quest IV](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) – developer, publishers (Sierra On-Line, Sierra On-Line Japan, U.S. Gold), platforms, credits, ratings, group "Games with manual lookup copy protection"
 [^ref-7]: [GOG – Space Quest 4+5+6](https://www.gog.com/en/game/space_quest_4_5_6) – purchase, user reviews
 [^ref-8]: My Abandonware – Space Quest IV *(download link removed: the game is sold commercially)* – platforms, availability
-[^ref-9]: [HowLongToBeat – Space Quest IV](https://howlongtobeat.com/game/8866) – completion times
+[^ref-9]: [HowLongToBeat – Space Quest IV](https://howlongtobeat.com/game/8866) – completion times; North America release March 4th, 1991
 [^ref-10]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
 [^ref-11]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography
 [^ref-17]: [Virtual Broomcloset – Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – writing contributions, Sierra lawyer anecdote
@@ -358,4 +388,7 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-59]: [Gaming After 40 – Adventure of the Week: Space Quest IV (2012)](http://gamingafter40.blogspot.com/2012/06/adventure-of-week-space-quest-iv-roger.html) – bargain bin: "King's Quest XXXXVIII: Quest for Disk Space, which is 'over 12 gigabytes in length'"
 [^ref-60]: [Dragon Magazine – March 1992 (Issue 179)](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23179%5Bocr%5D_djvu.txt) – Lesser family, Macintosh version review: "Space Quest IV is a guaranteed great purchase for your Mac"
 [^ref-61]: [ScummVM pull request #1547 – SCI: Fix SQ4CD Cedric easter egg, bug #10920](https://github.com/scummvm/scummvm/pull/1547) – merged March 23, 2019
-[^ref-62]: [MobyGames – Space Quest IV credits (DOS, 1991)](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/credits/) – "Music Director: Mark Seibert"; "Music / Sound Programming: Ken Allen, Robert Atesalp, Mark Seibert"
+[^ref-62]: [MobyGames – Space Quest IV credits (DOS, 1991)](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/credits/) – "Music Director: Mark Seibert"; "Music / Sound Programming: Ken Allen, Robert Atesalp, Mark Seibert"; Original Concept, Project Leader, Lead Design, Programming, Graphics, Executive Producer (Ken Williams), Producer (Guruka Singh Khalsa) and other roles (page read November 11, 2026)
+[^ref-63]: [The Adventure Gamer – Space Quest IV interview with the Two Guys from Andromeda (June 15, 2015)](https://advgamer.blogspot.com/2015/06/space-quest-iv-interview-with-two-guys.html) – Mark Crowe: "There was the Latex Babes of Estros video capture session"; video captured animation studio "in a warehouse across town"; traveled to Burbank to record Gary Owens for the CD edition
+[^ref-64]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/) – developer and publisher Guys from Andromeda; Early Access Release Date Apr 1, 2025; Release Date Dec 23, 2025 (store page read November 11, 2026)
+[^ref-65]: [A2Central – Two Guys from Andromeda launch SpaceVenture (Ken Gagne, January 16, 2026, updated October 18, 2026)](https://a2central.com/2026/01/spaceventure/) – May 2012 Kickstarter raised US$539,767; Steam Early Access April 1, 2025; full version released December 23, 2025 on Steam and itch.io
