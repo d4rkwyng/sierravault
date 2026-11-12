@@ -10,18 +10,18 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Puzzle & Board Games 2005 is a Sierra compilation, released in
   September 2004, that bundled Hoyle Puzzle Games and Hoyle Board Games in one package.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle & Board Games 2005
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle & Board Games 2005 is a compilation title that bundled two separate Hoyle releases, Hoyle Puzzle Games and Hoyle Board Games, into a single package, advertised on its retail listing as "40+ classic games and brain-teasing puzzles"[^ref-1]. It was released for Windows PC in September 2004: Sierra's own product page gives September 16, 2004[^ref-15], while Metacritic, GameFAQs and the Amazon listing give September 14, 2004[^ref-1][^ref-3][^ref-17]. The "2005" in the title is the edition name, in the style of Sierra's other model-year Hoyle releases of fall 2004 such as Hoyle Card Games 2005[^ref-16]; the game itself first shipped in 2004. It continued Sierra Entertainment's long-running [[Hoyle Series|Hoyle]] series of digital adaptations of traditional games. All games included in the collection were based on official rules from Hoyle, "the authority for over 200 years"[^ref-1].
+Hoyle Puzzle & Board Games 2005 is a compilation title that bundled two separate Hoyle releases, Hoyle Puzzle Games and Hoyle Board Games, into a single package, advertised on its retail listing as "40+ classic games and brain-teasing puzzles"[^ref-1]. Best Buy's listing describes the edition as one that "combines Hoyle Puzzle Games and Hoyle Board Games," with "18 different puzzle games" and "more than 12 classic board games"[^ref-12]. It was released for Windows PC in September 2004: Sierra's own product page gives September 16, 2004[^ref-15], while Metacritic, GameFAQs and the Amazon listing give September 14, 2004[^ref-1][^ref-3][^ref-17]. The "2005" in the title is the edition name, in the style of Sierra's other model-year Hoyle releases of fall 2004 such as Hoyle Card Games 2005[^ref-16]; the game itself first shipped in 2004, and Wikipedia's series entry lists it as "Hoyle Puzzle & Board Games (2004)"[^ref-22]. It continued Sierra Entertainment's long-running [[Hoyle Series|Hoyle]] series of digital adaptations of traditional games, which Wikipedia describes as a series of video games released from 1989 to 2016[^ref-22]. All games included in the collection were based on official rules from Hoyle, "the authority for over 200 years"[^ref-1].
 
 Metacritic's description pitches it as "Two Hoyle titles for one great price," with 18 puzzle games "from Mahjong Titles to Word Searches" alongside "Backgammon, Chess, and 16 other favorites" from Hoyle Board Games[^ref-3]. The game also included the series' Facemaker feature, letting players customize their character "from facial features to clothes"[^ref-1][^ref-4].
 
@@ -41,13 +41,13 @@ Metacritic and GameFAQs credit Sierra Entertainment as developer and VU Games as
 
 ### Puzzle Games
 
-Metacritic describes the puzzle half as 18 puzzle games ranging "from Mahjong Titles to Word Searches"[^ref-3]; Sierra's own product page says "from crosswords to word searches"[^ref-15]. In March 2005 the official Hoyle site described the then-current Hoyle Puzzle Games as adding "two new puzzle games—Rays and Word Searches," along with 1,000 crossword puzzles[^ref-18]; that page carries a 2003 Sierra Entertainment copyright, so it may describe an earlier edition rather than this compilation's puzzle disc[^ref-18]. eBay's catalog entry for the bundle (same UPC) names Anagrams, Crosswords, Gravity Tiles, Hangman, The Incredible Machine, MahJonng Tiles, Slide Tiles, Edge Tiles, Maze Racer, Maze Raider, Memory Tiles, Placer Racer, Solitaire Arcade, Star Collector and Time Breaker among the puzzle games[^ref-19], though that catalog text also contains evident errors (it repeats Gravity Tiles and MahJonng Tiles in the board-game list).
+Best Buy's listing says players can "Try to complete 18 different puzzle games, including crosswords and word searches"[^ref-12]. Metacritic describes the puzzle half as 18 puzzle games ranging "from Mahjong Titles to Word Searches"[^ref-3]; Sierra's own product page says "from crosswords to word searches"[^ref-15]. In March 2005 the official Hoyle site described the then-current Hoyle Puzzle Games as adding "two new puzzle games—Rays and Word Searches," along with 1,000 crossword puzzles[^ref-18]; that page carries a 2003 Sierra Entertainment copyright, so it may describe an earlier edition rather than this compilation's puzzle disc[^ref-18]. eBay's catalog entry for the bundle (same UPC) names Anagrams, Crosswords, Gravity Tiles, Hangman, The Incredible Machine, MahJonng Tiles, Slide Tiles, Edge Tiles, Maze Racer, Maze Raider, Memory Tiles, Placer Racer, Solitaire Arcade, Star Collector and Time Breaker among the puzzle games[^ref-19], though that catalog text also contains evident errors (it repeats Gravity Tiles and MahJonng Tiles in the board-game list).
 
 MobyGames documents a separate, standalone Hoyle Puzzle Games 2005 with a 21-game list (including Edge Tiles, Slide Tiles and The Incredible Machine: Even More Contraptions), but that list has no word-search game and does not match the 18-game count, so it cannot be confirmed as this compilation's puzzle disc[^ref-5].
 
 ### Board Games
 
-Metacritic gives the board half as "Backgammon, Chess, and 16 other favorites"[^ref-3], and Sierra's page promises "backgammon, chess, pachisi, and more than a dozen other board favorites"[^ref-15], making 36 games in all, which matches GameSpy's "36 classic games"[^ref-4]. eBay's catalog text adds Mancala, Reversi, Wordox, Yacht and "Zilch (new for this edition)" to the board list[^ref-19].
+Metacritic gives the board half as "Backgammon, Chess, and 16 other favorites"[^ref-3], and Sierra's page promises "backgammon, chess, pachisi, and more than a dozen other board favorites"[^ref-15], making 36 games in all, which matches GameSpy's "36 classic games"[^ref-4]. Best Buy's listing says "Play more than 12 classic board games, including Backgammon, Chess and more"[^ref-12]. The vault's [[2005 - Hoyle Board Games]] page covers a separate Hoyle Board Games 2005 release, whose MobyGames game list names 16 games: Backgammon, Battling Ships, Bump'em, Chess, Chinese Checkers, Dominoes, DoubleCross, Master Match, Maximum Pool, Pachisi, Reversi, Rummy Squares, Triple Yacht, Wordox, World Yacht and Zilch[^ref-23]. Best Buy states that this bundle combines Hoyle Board Games[^ref-12], but no source that names the bundle confirms that its board half is that exact release or has that exact game list. eBay's catalog text adds Mancala, Reversi, Wordox, Yacht and "Zilch (new for this edition)" to the board list[^ref-19].
 
 ### Package Highlights (GameSpy)
 
@@ -93,7 +93,7 @@ Hoyle Puzzle & Board Games 2005 received little coverage from gaming publication
 
 ### Production
 
-Metacritic credits development to Sierra Entertainment[^ref-3]. Sierra sold it under its own label: the October 2004 alphabetical catalog on sierra.com lists "Hoyle Puzzle & Board 2005" under Family Games, beside Hoyle Card Games 2005 and Hoyle Casino 3D[^ref-16]. In December 2004, shortly after the game's release, Vivendi Universal Games assigned the Hoyle games license to Encore, which, effective December 23, 2004, became responsible for sales, distribution and marketing of the Hoyle family of products, a franchise-level transfer that WorthPlaying's report lists as including Hoyle Puzzle and Board Games[^ref-20][^ref-21]. No development credits for the compilation itself were found in the sources consulted. MobyGames' credits for the standalone Hoyle Puzzle Games 2005 (44 people, with Ryan Spain as designer and Stephen H. Van Horn as executive producer) belong to that separate release; whether the same team produced the puzzle disc bundled here is unconfirmed[^ref-5].
+Metacritic credits development to Sierra Entertainment[^ref-3]. Sierra sold it under its own label: the October 2004 alphabetical catalog on sierra.com lists "Hoyle Puzzle & Board 2005" under Family Games, beside Hoyle Card Games 2005 and Hoyle Casino 3D[^ref-16]. In December 2004, shortly after the game's release, Vivendi Universal Games assigned the Hoyle games license to Encore, which, effective December 23, 2004, became responsible for sales, distribution and marketing of the Hoyle family of products, a franchise-level transfer that WorthPlaying's report lists as including Hoyle Puzzle and Board Games[^ref-20][^ref-21]. Wikipedia's series entry likewise gives Encore as the series' publisher from 2005 to 2016[^ref-22]. No development credits for the compilation itself were found in the sources consulted. MobyGames' credits for the standalone Hoyle Puzzle Games 2005 (44 people, with Ryan Spain as designer and Stephen H. Van Horn as executive producer) belong to that separate release; whether the same team produced the puzzle disc bundled here is unconfirmed[^ref-5].
 
 ### Technical Specifications
 
@@ -136,8 +136,7 @@ The vault covers two later editions: [[2008 - Hoyle Puzzle and Board Games]] and
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- Not currently available on GOG or Steam (checked November 2026)
 
 ## Downloads
 
@@ -151,6 +150,7 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 
 - [[2004 - Hoyle Table Games|← Previous: Hoyle Table Games]]
 - [[2005 - Hoyle Board Games|→ Next: Hoyle Board Games]]
+- [[Hoyle Series]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -216,7 +216,7 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 [^ref-8]: [Giant Bomb – Hoyle Puzzle & Board Games 2005](https://www.giantbomb.com/wiki/Games/Hoyle_Puzzle_And_Board_Games_2005) – release date September 4, 2004, developer Sierra
 [^ref-9]: [IGN – Hoyle Puzzle Board Games 2005 User Reviews](https://www.ign.com/games/hoyle-puzzle-board-games-2005/user-reviews) – publisher, release date, rating status
 [^ref-11]: [RAWG – Hoyle Puzzle Board Games 2005](https://rawg.io/games/hoyle-puzzle-board-games-2005) – release date variant
-[^ref-12]: [Best Buy – Hoyle Puzzle Board Games 2005](https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601) – platform, model number 72201, listing status
+[^ref-12]: [Best Buy – Hoyle Puzzle Board Games 2005](https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601) – platform, model number 72201, listing status; synopsis "combines Hoyle Puzzle Games and Hoyle Board Games", 18 puzzle games, more than 12 board games. Read via [Wayback, Jan 22 2025](https://web.archive.org/web/20250122015242/https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601)
 [^ref-13]: [RAWG – Hoyle Puzzle Board Games 2005 Suggestions](https://rawg.io/games/hoyle-puzzle-board-games-2005/suggestions) – later Hoyle Puzzle & Board Games editions and dates
 [^ref-14]: [IGDB – Hoyle Puzzle & Board Games 2005](https://www.igdb.com/games/hoyle-puzzle-and-board-games-2005) – IGDB entry
 [^ref-15]: [Sierra.com – Hoyle Puzzle & Board 2005 (Wayback, Dec 2004)](https://web.archive.org/web/20041205125510/http://sierra.com/product.do?gamePlatformId=1829) – "PC Released: 9/16/2004", game description, system requirements, handheld requirements, © 2004 Sierra Entertainment
@@ -226,3 +226,5 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 [^ref-19]: [eBay catalog – Hoyle Puzzle & Board Games (ePID 30989877)](https://www.ebay.com/p/30989877) – catalog description listing puzzle and board games, UPC 0020626722018, release year 2004 (catalog text contains errors)
 [^ref-20]: [WorthPlaying – Vivendi Passes on Hoyle Brand to Encore (Dec 21, 2004)](https://worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) – "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing"; names Hoyle Puzzle and Board Games
 [^ref-21]: [SoCalTech – Vivendi Sells Hoyle Brand (Dec 23, 2004)](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – VU Games divested its Hoyle branded software products to Encore; Encore handles sales, distribution and marketing
+[^ref-22]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series list entry "Hoyle Puzzle & Board Games (2004)"; series released 1989 to 2016; Encore Software publisher 2005–2016
+[^ref-23]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – game list of the separate Hoyle Board Games 2005 release (read via the MobyGames API; its credits are not used here)
