@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI01
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Released in 1990, **Roberta Williams'' King''s Quest I: Quest for
   the Crown** is Sierra On-Line''s official SCI engine remake of its landmark 1984
   adventure game.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -148,6 +148,10 @@ The game uses interpreter version S.old.010 with game version 1.000.051.[^ref-3]
 
 A modern fan patch by NewRisingSun addresses "opening and closing credits sequence issues" present in the original release.[^ref-3][^ref-16]
 
+### Technical Issues
+
+Sierra Help lists poor or missing sound as a common problem when running the game under Windows 9x and XP. Its preferred fix is DOSBox, which also works with an MT-32 sound module; its other suggestions are VDMSound and the third-party FreeSCI interpreter.[^ref-16] Sierra Help also lists minor bugs in the opening and closing credits and offers a patch for them.[^ref-16]
+
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -185,7 +189,9 @@ The remake occupies an ambiguous position in King's Quest continuity. The King's
 
 The SCI remake directly inspired fan developers. In August 2001, Tierra Entertainment (later AGD Interactive) released an unofficial VGA remake with a point-and-click interface, aiming for "the same level of quality as seen in Sierra's King's Quest V"; a voice pack followed in version 2.0 on September 1, 2001.[^ref-13][^ref-17][^ref-18] Josh Mandel himself reprised the role of King Graham, "the first person to play the voice of King Graham" having done so for Sierra's CD-ROM versions of King's Quest V and VI.[^ref-17][^ref-20]
 
-The fan remake proved enormously successful: "During the first month of AGDI releasing our King's Quest I remake in August, 2001, over 5,000 copies were downloaded! In the first year, that number jumped to nearly half a million."[^ref-13] AGDI received a fan license from Activision (or earlier owners of the King's Quest IP) to release its remakes for free, later releasing King's Quest II: Romancing the Stones and King's Quest III Redux.[^ref-19]
+The fan remake proved enormously successful: "During the first month of AGDI releasing our King's Quest I remake in August, 2001, over 5,000 copies were downloaded! In the first year, that number jumped to nearly half a million."[^ref-13] Tierra's version 3.0 followed on October 1, 2003, with translation pack support, bug fixes and optimized music and speech packs. The King's Quest Omnipedia records that the game was later completely remade as the Enhanced Edition (version 4.0) under the AGDI name, dated January 17, 2009.[^ref-18] On July 21, 2024, AGDI announced King's Quest I version 4.2 (Release Candidate 1) for Windows. It upgrades the game library from Allegro to SDL2, adds support for Windows 10 and 11, improves compatibility with widescreen monitors and modern video cards, and adds an OpenGL video driver. Save-games from earlier versions are not compatible. AGDI described the build as still in its beta phase, with the final version 4.2 to follow on the game's main website.[^ref-32]
+
+AGDI received a fan license from Activision (or earlier owners of the King's Quest IP) to release its remakes for free, later releasing King's Quest II: Romancing the Stones and King's Quest III Redux.[^ref-19]
 
 ### Availability
 
@@ -242,7 +248,7 @@ The SCI remake was included in several Sierra compilations. The 1994, 1995, 1996
 [^ref-15]: [King's Quest Omnipedia – King's Quest II: Romancing the Throne SCI](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_SCI) – Josh Mandel correspondence, cancellation reasons
 [^ref-16]: [Sierra Help – KQ1 SCI Help](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – System requirements, patches, bugs
 [^ref-17]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – Technical details; Steam collection has the SCI version; Josh Mandel as "the voice actor for King Graham in King's Quest V and VI"
-[^ref-18]: [King's Quest Omnipedia – Tierra Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28Tierra%29) – AGDI version history
+[^ref-18]: [King's Quest Omnipedia – Tierra Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28Tierra%29) – Version history: v1.0 Aug 7, 2001; v2.0 Sep 1, 2001; v3.0 Oct 1, 2003; Enhanced Edition v4.0 Jan 17, 2009
 [^ref-19]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – Fan remake details, Josh Mandel voice
 [^ref-20]: [Wikipedia – Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_%28video_game_designer%29) – Career, voice acting; "the first person to play the voice of King Graham"; credits table lists King's Quest V (CD-ROM) and King's Quest VI (CD-ROM) as voice actor
 [^ref-21]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Price, seven-game collection
@@ -256,3 +262,4 @@ The SCI remake was included in several Sierra compilations. The 1994, 1995, 1996
 [^ref-29]: [MobyGames – Roberta Williams' King's Quest I (Wayback, Sep 26, 2026)](https://web.archive.org/web/20260926155936/https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – Moby Score 6.7; critics average 59% (based on 11 ratings); players 3.5 out of 5 (based on 48 ratings)
 [^ref-30]: [MobyGames – Sierra Adventure Starter Kit](https://www.mobygames.com/game/247214/sierra-adventure-starter-kit/) – read via the MobyGames API; DOS 1992; "contains the SCI remakes" of King's Quest I, Space Quest I and Leisure Suit Larry 1
 [^ref-31]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – read via the MobyGames API; DOS 1994; contains "King's Quest (with the VGA version)", II–VI and a King's Quest VII preview
+[^ref-32]: [AGD Interactive forum – King's Quest I Remake v4.2 Release Candidate 1](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – Announcement post by "Anonymous Game Creator 2", Sun Jul 21, 2024: Allegro to SDL2, Windows 10/11 support, widescreen compatibility, OpenGL driver, incompatible save-games
