@@ -10,19 +10,19 @@ series: Standalone
 engine: null
 protagonist: Basketball Characters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Bouncers is an unconventional arcade basketball game developed by Dynamix and published by Sega of America exclusively for the Sega CD in December 1994, in which players control the ball itself.'
 tags: [1990s, dynamix, sierra, standalone]
 ---
 # Bouncers
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Bouncers is an unconventional arcade basketball game developed by [[Dynamix]] and published by Sega of America exclusively for the Sega CD in December 1994.[^ref-1][^ref-2][^ref-21] The game features a unique twist on basketball where players control the ball itself rather than a human athlete, bouncing off opponents to score goals.[^ref-1][^ref-3] Sega's promotional text for the game led with "Slam-Dunk Your Head" and told players: "Now you get to play basketball as the ball."[^ref-4][^ref-28]
+Bouncers is an unconventional arcade basketball game developed by [[Dynamix]] and published by Sega of America exclusively for the Sega CD in December 1994.[^ref-1][^ref-2][^ref-21] The game features a unique twist on basketball where players control the ball itself rather than a human athlete, bouncing off opponents to score goals.[^ref-1][^ref-3] Sega's promotional text for the game led with "Slam-Dunk Your Head"[^ref-4] and told players: "Now you get to play basketball as the ball."[^ref-4][^ref-28]
 
-Released exclusively in North America, Bouncers combines sports gameplay with fighting game mechanics in a slapstick atmosphere that Sega-16 compared to games like Earthworm Jim or ClayFighter.[^ref-3][^ref-5][^ref-21] The game features a voice cast of Mark Hamill (Star Wars), Michael Bell, and John Kassir.[^ref-2][^ref-6][^ref-22] Hardcore Gaming 101 observed that "Even for the Sega CD, a system with no shortage of strange, inscrutable games, the existence of Bouncers is nothing short of perplexing."[^ref-7]
+Released exclusively in North America, Bouncers combines sports gameplay with fighting game mechanics in a slapstick atmosphere that Sega-16 compared to games like Earthworm Jim or ClayFighter.[^ref-3][^ref-5][^ref-21] The game features a voice cast of Mark Hamill, Michael Bell, and John Kassir.[^ref-2][^ref-6][^ref-22] Hardcore Gaming 101 observed that "Even for the Sega CD, a system with no shortage of strange, inscrutable games, the existence of Bouncers is nothing short of perplexing."[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -83,6 +83,8 @@ Sega Retro lists seven courts, each with stage-specific gimmicks;[^ref-21] eBay'
 | Deep Sea Shipwreck | Undersea wreck with floaty underwater physics | Three hoops through mermaids' arms |
 
 *Source: Sega Retro.*[^ref-21]
+
+Period magazines name some courts differently: Electronic Gaming Monthly #65 describes an "Acropolis" court (Grecian statues with the hoops at the ends of the statues) and "The Icecaps" (an ice-and-snow mountaintop court with three hoops),[^ref-27] and Sega Visions #22 lists "Bouncer Burg" as an inner-city blacktop court at night with higher baskets, apparently the court listed in the table as Bouncer City Pro-Court.[^ref-28]
 
 Hardcore Gaming 101 noted that many stages "have a hand-drawn quality to them similar to the backdrops in Dynamix adventure games such as The Adventures of Willy Beamish or Space Quest V: The Next Mutation."[^ref-7]
 
@@ -243,13 +245,14 @@ Bouncers is a footnote in Sierra/Dynamix history and the Sega CD library. Review
 - [[1996 - CyberGladiators]]
 - [[1996 - Hunter Hunted]]
 - [[1996 - Rama]]
+- [[Dynamix Catalog]]
 
 ## References
 
 [^ref-1]: [MobyGames - Bouncers](https://www.mobygames.com/game/8009/bouncers/) - Release dates, platforms, critics score, technical specifications, full credits, ESRB rating
 [^ref-2]: [Wikipedia - Bouncers](https://en.wikipedia.org/wiki/Bouncers_(video_game)) - Development history, contemporary reviews, voice actors, LoudMouth Inc. founding, John Garvin career
 [^ref-3]: [Sega-16 - Bouncers Review](https://www.sega-16.com/2013/05/bouncers/) - Review by Doug Jackson, May 7, 2013 (3/10); gameplay, courts, controls, reader comments
-[^ref-4]: [Sega promotional text for Bouncers (textfiles.com)](http://www.textfiles.com/games/CONSOLES/bouncers.txt) - 1990s marketing description: "Slam-Dunk Your Head"
+[^ref-4]: [Sega Visions #22 (Dec 1994/Jan 1995), pp. 64-65, text via textfiles.com](http://www.textfiles.com/games/CONSOLES/bouncers.txt) - Sega's promotional text for Bouncers, headline "Slam-Dunk Your Head"
 [^ref-5]: [IGDB - Bouncers](https://www.igdb.com/games/bouncers) - Genre classification, Internet Games Database entry
 [^ref-6]: [Behind the Voice Actors - Bouncers](https://www.behindthevoiceactors.com/video-games/Bouncers/) - Complete voice cast with character roles
 [^ref-7]: [Hardcore Gaming 101 - Bouncers](http://www.hardcoregaming101.net/bouncers/) ([archived copy](https://web.archive.org/web/20240224203704/http://www.hardcoregaming101.net/bouncers/)) - Retrospective by Adrian Sandoval (2014): physics critique, comparison to other Dynamix adventure games
