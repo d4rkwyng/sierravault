@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Unknown
 protagonist: Player (customizable via Face Creator)
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: A 2015 Hoyle card game collection for Windows and macOS, developed by
   Webfoot Technologies and sold by Viva Media on Steam and by Encore at retail, with
   23 card games and 50 solitaire games.
@@ -18,11 +18,11 @@ tags: [2010s, hoyle-s-official-book-of-games, sierra, simulation]
 ---
 # Hoyle Official Card Games Collection 2015
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Hoyle Official Card Games Collection 2015 represents a modern continuation of the venerable Hoyle gaming franchise, which traces its roots back to Sierra On-Line's original card game simulators of the late 1980s[^ref-1]. Developed by Webfoot Technologies, Inc. and published by Viva Media, LLC, this collection was released on Steam on November 18, 2015 for both Windows and macOS platforms[^ref-2][^ref-19]. A boxed US retail edition from Encore Software is dated November 6, 2015[^ref-18]. Marketing itself as "The #1 card game collection," the game promised an updated experience with a new visual design, improved artificial intelligence, and new computer opponents to challenge players[^ref-3].
+Hoyle Official Card Games Collection 2015 represents a modern continuation of the venerable Hoyle gaming franchise (see [[Hoyle Series]]), which traces its roots back to Sierra On-Line's original card game simulators of the late 1980s[^ref-1]. Developed by Webfoot Technologies, Inc. and published by Viva Media, LLC, this collection was released on Steam on November 18, 2015 for both Windows and macOS platforms[^ref-2][^ref-19]. A boxed US retail edition from [[Encore Software]] is dated November 6, 2015[^ref-18]. Marketing itself as "The #1 card game collection," the game promised an updated experience with a new visual design, improved artificial intelligence, and new computer opponents to challenge players[^ref-3].
 
 The 2015 edition was advertised with "over 70 new and classic card games," including titles never before seen in the Hoyle series such as Fan Tan, Oh Hell, and Whist[^ref-4]. The publisher's own list on the Steam forum names 23 card games and 50 solitaire games[^ref-15]. The collection includes a Face Creator feature allowing players to customize their in-game avatar, along with dozens of backgrounds and card deck designs to personalize the playing experience[^ref-2]. The game supports widescreen monitors natively and offers large, easy-to-read cards designed for accessibility[^ref-5].
 
@@ -208,14 +208,11 @@ The 2015 collection continues a series that began at Sierra, but Sierra had no p
 
 Its marketing promised "a new look, better AI and new opponents"[^ref-3]. At least one Steam forum poster saw little change from the 2002/2003 Hoyle card games[^ref-17], and Steam user reviews are split roughly evenly[^ref-7]. The last public Steam build dates from June 2017[^ref-7], and PCGamingWiki now lists the Steam version as unavailable[^ref-5].
 
-## Purchase
-
-- Amazon.com: sold as a Steam code and as a download (per gg.deals' price listing)[^ref-13]
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- No longer sold on Steam (App ID 397420); the store page has no purchase option and notes the game is unlisted at the publisher's request[^ref-22]
+- Steam (App ID 397420): the store page exists but has no purchase packages and is unlisted at the publisher's request; the Steam store API (checked November 11, 2026) shows no price or packages[^ref-22]
+- Steam (App ID 906240): *Encore Card Games Collection*, released December 19, 2019, $19.99, developed by Webfoot and published by Encore Software (checked November 11, 2026)[^ref-21]
 - Amazon.com: Steam code and download listings[^ref-13]
 - [Amazon UK](https://www.amazon.co.uk/Encore-Hoyle-Official-Card-Games/dp/B015UA1SLE) - Encore retail listing (shown as currently unavailable when captured)[^ref-4]
 
@@ -228,6 +225,7 @@ Its marketing promised "a new look, better AI and new opponents"[^ref-3]. At lea
 
 ## See Also
 
+- [[Hoyle Series]] — Series overview
 - [[2010 - Hoyle Swashbucklin Slots|← Previous: Hoyle Swashbucklin Slots]]
 - [[2016 - Hoyle Casino Games Collection|→ Next: Hoyle Casino Games Collection]]
 
