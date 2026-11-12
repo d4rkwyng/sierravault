@@ -10,14 +10,14 @@ series: Space Quest (Fan Game)
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest: The Lost Chapter is an unofficial fan-made adventure game
   that takes place in the Space Quest universe originally created by Sierra On-Line....'
 tags: [2000s, adventure, agi, sierra, space-quest-fan-game]
 ---
 # Space Quest: The Lost Chapter
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -66,7 +66,7 @@ The game follows a linear structure with multiple distinct areas to explore:
 
 ### Puzzles and Mechanics
 
-The Lost Chapter features inventory-based puzzles typical of the adventure game genre[^ref-13]. Players carry over their inventory from Space Quest II at the start of the game[^ref-30] and accumulate approximately 30 inventory items throughout the adventure, significantly more than the 15-22 items found in Space Quest I-V[^ref-13]. Puzzles require players to combine items, use objects in specific locations, and interact with the environment, and Home of the Underdogs found some of them "downright nonsensical"[^ref-30].
+The Lost Chapter features inventory-based puzzles typical of the adventure game genre[^ref-13]. Players carry over their inventory from Space Quest II at the start of the game[^ref-30] and accumulate approximately 30 inventory items throughout the adventure, significantly more than the 15-22 items found in Space Quest I-V[^ref-13]. Puzzles require players to combine items, use objects in specific locations, and interact with the environment, and Home of the Underdogs found some of them "downright nonsensical"[^ref-30]. The on-screen score also runs past its top score of 255 "somewhere about half way through" and then resets to zero, according to JustAdventure's reviewer[^ref-38].
 
 Like its Sierra predecessors, the game features many ways to die[^ref-1]. The game includes darkly humorous death messages, such as one that reads: "You press the button again, just to make sure you pressed it. But now you wonder if you havent pressed it too much. I wonder how long you can press your luck. I'm still amazed you survived this long"[^ref-13]. This "fun death" approach was a deliberate design choice in the original Space Quest games[^ref-26]; MobyGames trivia notes that several LucasArts releases later nodded to Sierra's over-the-top deaths with wording "along the lines of" not believing players should die every two minutes for merely trying to pick up an object[^ref-16].
 
@@ -77,6 +77,8 @@ Like its Sierra predecessors, the game features many ways to die[^ref-1]. The ga
 Reception to Space Quest: The Lost Chapter was mixed, with opinions ranging from enthusiastic praise to harsh criticism. The Home of the Underdogs (HOTUD) review by Rhubarb Celestial called it "quite the little gem among amateur sequels" and recommended it to fans of the original series: "if you enjoyed the original Space Quest series, then there's no real reason why you shouldn't enjoy this as well. Two thumbs up!"[^ref-30] HOTUD's user rating stands at 8.47 from 90 votes[^ref-30].
 
 On SCI Programming's fan game database, reviewer Cloudee1 wrote: "All in all, a pretty good game. Freakin huge that's for sure," while noting its biggest issue was playability, with several rooms giving no clue that anything could be done there[^ref-34]. OldGames.sk lists a score of 64%[^ref-7].
+
+In a 2012 JustAdventure roundup of Space Quest fan games, Greg Collins judged that the game is "assuredly in the same league as SQ0:R" but that he could not "recommend it quite as highly", because it "really goes to town" with Roger's deaths: "it's extremely irritating that Roger is murdered by half the things you try." He called it "one of the most challenging games I have played in awhile" and still awarded three and a half Golden Mops, calling it "another excellent full-length tribute to Roger Wilco and Co."[^ref-38] Hardcore Gaming 101 was harsher, finding that "the puzzles are absolutely infuriating, and the writing could've used some serious polishing, as it's filled with spelling errors and grammatical issues. It's an amateur effort, and it shows," while saying Space Quest 0 "shows quite a bit more professionalism"[^ref-39].
 
 However, GameFAQs user Flashman85 provided a scathing review in 2008, giving the game just 2 out of 10 and titling it "Unplayable at any speed"[^ref-13]. The reviewer criticized most aspects of the game, declaring "Space Quest: The Lost Chapter isn't fun" and calling the squid maze "probably the WORST puzzle in adventure game history," though he credited its humor and story[^ref-13].
 
@@ -105,7 +107,7 @@ Gosine set the game in the gap between Space Quest II and III, when Roger is dri
 
 Development of The Lost Chapter was a solo effort; asked about being the game's sole creator, writer, artist and programmer, Gosine said being "a one-man show has its advantages, like total control," but recommended a team effort to anyone wanting to produce a quality game[^ref-33], and Flashman85 noted that aside from the game engine, "practically everything was designed by one person"[^ref-13]. The game provides original art, story, and puzzles[^ref-5], though some objects, characters, and locations were borrowed from other Space Quest games and only slightly altered, which Flashman85 says the designer admitted was laziness[^ref-13]. The game was developed using AGI Studio, a fan-created tool for building games on Sierra's AGI engine[^ref-33][^ref-30].
 
-The AGI engine presented technical limitations: Gosine noted that "AGI allows only 255 screens per game," and said the demo already had over 200 screens, with close to 250 planned for the finished game[^ref-33]. ASchultz observed that "the author uses many features of AGI to the capacity and skirts some limitations cleverly," for example by using many rooms as guard points[^ref-17]. The result was a game that maintained visual and gameplay consistency with the original AGI-era Space Quest titles while telling an entirely new story.
+The AGI engine presented technical limitations: Gosine noted that "AGI allows only 255 screens per game," and said the demo already had over 200 screens, with close to 250 planned for the finished game[^ref-33]. ASchultz observed that "the author uses many features of AGI to the capacity and skirts some limitations cleverly," for example by using many rooms as guard points[^ref-17]. Reviewer Greg Collins noted that the game borrows the Roger sprites from the original Sierra games, as well as some of the backgrounds, but that "much of the scenery here is original" and the story is "original, and well-constructed, although at times unforgiving"[^ref-38].
 
 **Development Credits:**
 - **Creator/Designer:** Vaughn Gosine (Vonster D. Monster)[^ref-2]
@@ -178,9 +180,13 @@ Additional trivia:
 
 As a freeware fan game, Space Quest: The Lost Chapter was never sold commercially[^ref-7]. It was released as a free download from its official website[^ref-31], and abandonware and retrogaming websites continue to host it.
 
+### Playing Today
+
+ScummVM's AGI engine detects the game under the ID "sqx", with the title "Space Quest: The Lost Chapter"[^ref-36]. Its detection table lists a "v10.0 Feb 05" build, a "v10.0 Jul 18" build, and a "v1.0 March 12, 2001" build flagged as an AGI mouse version[^ref-35]. The Virtual Broomcloset's fan-games page calls it "the fan game that started it all" and recommends playing it "on modern systems with ScummVM"[^ref-37].
+
 ### Collections
 
-The Lost Chapter has never been included in any official Sierra compilation, as it remains an unofficial fan production. However, it is preserved across several abandonware archives and retrogaming repositories, including:
+The Lost Chapter is an unofficial fan production[^ref-1][^ref-3]. It is preserved across several abandonware archives and retrogaming repositories, including:
 
 - Internet Archive[^ref-1]
 - MyAbandonware[^ref-6]
@@ -193,6 +199,8 @@ According to the Space Quest Omnipedia, "it was a hit in the Space Quest fan com
 
 The game exists within a broader ecosystem of Space Quest fan fiction and games, with the fan timeline documentation showing multiple parallel universes and timelines branching from the official Space Quest games[^ref-22]. The Omnipedia's fan timeline describes the game as leading to a "Future timeline" in which Space Quest XII "appears to be a much more pleasant and happy history"[^ref-22].
 
+Home of the Underdogs' review of Space Quest 0: Replicated calls that game "even more fun than The Lost Chapter", while noting that its graphics "are not as detailed as The Lost Chapter"[^ref-40]. The Omnipedia's Space Quest 0 review also refers to the game as "Space Quest 2.5: the Lost Chapter" and says AGI is simple enough that "fan games like SQ0 and Space Quest 2.5: the Lost Chapter are easily within the realm of possibility"[^ref-41].
+
 ### Related Publications
 
 **Walkthroughs and Guides:**
@@ -203,7 +211,7 @@ The game exists within a broader ecosystem of Space Quest fan fiction and games,
 
 ### Critical Perspective
 
-The game's faithful recreation of AGI-era gameplay represents both its greatest strength and weakness. For nostalgic fans, the authentic retro experience was exactly what they wanted. For others, the primitive interface and frustrating puzzle design represented the worst aspects of classic adventure gaming, the kind of sudden deaths that LucasArts' own game literature later poked fun at[^ref-16]. The game violated what one reviewer called "a LOT of Graham Nelson's Player's Bill of Rights"[^ref-17], the influential set of design principles for fair adventure game design.
+Critics who looked at the game's faithfulness to Sierra's AGI-era design were divided over the same feature. JustAdventure's reviewer called the frequent deaths "a genuine part of the SQ experience" yet "extremely irritating" at this volume[^ref-38], and Hardcore Gaming 101 found the puzzles "absolutely infuriating"[^ref-39]. Sudden deaths of this kind were something LucasArts' own game literature later poked fun at[^ref-16]. The game violated what one reviewer called "a LOT of Graham Nelson's Player's Bill of Rights"[^ref-17], the influential set of design principles for fair adventure game design.
 
 While opinions on its quality remain divided, it is remembered as a hit in the Space Quest fan community that helped spawn later fan games[^ref-3].
 
@@ -233,7 +241,7 @@ While opinions on its quality remain divided, it is remembered as a hit in the S
 
 - [[2001 - King's Quest I VGA Remake]]
 - [[2002 - King's Quest II+ - Romancing the Stones]]
-- [[2003 - Space Quest 0 - Replicated]]
+- Next fan game: [[2003 - Space Quest 0 - Replicated|Space Quest 0: Replicated]]
 - [[2006 - King's Quest III Remake (Infamous Adventures)]]
 - [[2008 - Quest for Glory II VGA Remake]]
 - [[2010 - The Silver Lining]]
@@ -272,3 +280,10 @@ While opinions on its quality remain divided, it is remembered as a hit in the S
 [^ref-32]: [Space Quest: The Lost Chapter official site – news archive, November 26–December 2, 2000 (Wayback Machine)](https://web.archive.org/web/20010210034105/http://frostbytei.com:80/space/2000_11_26_archive.html) – November 29, 2000 demo release, December 1 update
 [^ref-33]: [Virtual Broomcloset – Interview with Vonster D. Monster](https://wiw.org/~jess/gosine.html) – Adventure Gamers interview by Josh Roberts: 1998 start, AGI Studio, one-man project, 255-screen limit
 [^ref-34]: [SCI Programming – Space Quest X: The Lost Chapter](http://sciprogramming.com/fangames.php?action=review&id=51) – Cloudee1's review; listed March 12, 2001
+[^ref-35]: [ScummVM – engines/agi/detection_tables.h](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection_tables.h) – "sqx" fan-made entries: v10.0 Feb 05, v10.0 Jul 18, v1.0 March 12, 2001 (AGI mouse)
+[^ref-36]: [ScummVM – engines/agi/detection.cpp](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection.cpp) – game ID "sqx" mapped to the title "Space Quest: The Lost Chapter"
+[^ref-37]: [Virtual Broomcloset – Space Quest fan games](https://wiw.org/~jess/fangames.html) – "the fan game that started it all"; recommends ScummVM
+[^ref-38]: [JustAdventure – Roger That! Space Quest lives in four fab freeware fan-made sequels (Greg Collins, March 15, 2012)](https://www.justadventure.com/2012/03/15/roger-that-space-quest-lives-in-four-fab-freeware-fan-made-sequels2) – review of The Lost Chapter: deaths, difficulty, 255-point score reset, borrowed sprites, three and a half Golden Mops
+[^ref-39]: [Hardcore Gaming 101 – Space Quest VI, fan games section (Wayback Machine, December 1, 2022 capture)](https://web.archive.org/web/20221201201249/http://www.hardcoregaming101.net/space-quest-vi/) – "absolutely infuriating" puzzles, "an amateur effort"
+[^ref-40]: [Home of the Underdogs – Space Quest 0: Replicated](https://www.homeoftheunderdogs.net/game.php?id=4484) – compares Space Quest 0 with The Lost Chapter
+[^ref-41]: [Space Quest Omnipedia – Space Quest 0 Review](https://spacequest.fandom.com/wiki/Space_Quest_0_Review) – "Space Quest 2.5: the Lost Chapter"; AGI fan games
