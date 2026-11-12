@@ -10,7 +10,7 @@ series: Cyberstorm
 engine: Turn-based tactical combat engine with optional real-time mode
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Cyberstorm 2: Corporate Wars is a 1998 tactical strategy game developed
   by Dynamix and published by Sierra On-Line, in which rival corporations fight with
   customizable HERCs.'
@@ -18,7 +18,7 @@ tags: [1990s, cyberstorm, sierra, strategy]
 ---
 # Cyberstorm 2: Corporate Wars
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -55,7 +55,7 @@ Players can choose between turn-based and real-time modes, though GameRevolution
 
 Each of the eight corporations has different areas of expertise and limitations, requiring players to adapt their strategies accordingly[^ref-13]. Players build forces, defend their facilities and colonies, and fight to claim their position as ruler of an entire solar system[^ref-1]. One player recalled on GOG's Dreamlist that "working your way up the corporate ladder by means of explosions was hilarious to me"[^ref-14].
 
-Customization is the game's strongest suit; Dan Hutchings of Games Domain, as quoted by MyAbandonware, wrote that "Cyberstorm 2 shines in one (and really only one) area - customization"[^ref-15]. Another GOG Dreamlist user remembered "more hercs, more 'derms, more mission types, more planets, actual research, and even entirely new classes of unit" compared to the original[^ref-14]. GamePressure's description gives 27 available units and as many as 300 components to choose from when modifying them[^ref-4], and MobyGames describes "plenty of different vehicles and HERCs and a plethora of different components" to modify and customize[^ref-7].
+Customization is the game's strongest suit; Dan Hutchings of Games Domain, as quoted by MyAbandonware, wrote that "Cyberstorm 2 shines in one (and really only one) area - customization"[^ref-15]. Another GOG Dreamlist user remembered "more hercs, more 'derms, more mission types, more planets, actual research, and even entirely new classes of unit" compared to the original[^ref-14]. GamePressure's description gives 27 available units and as many as 300 components to choose from when modifying them[^ref-4]; the manual's Chassis Specifications table lists 27 chassis (13 HERC, 9 TRACK and 5 GRAV)[^ref-8], and MobyGames describes "plenty of different vehicles and HERCs and a plethora of different components" to modify and customize[^ref-7].
 
 ### Puzzles and Mechanics
 
@@ -72,8 +72,11 @@ The core gameplay revolves around tactical combat with HERCs and other vehicles,
 | Computer Gaming World | 2/5 stars | Tim Carter, October 1998 (issue 171, p. 270), "Split Personality": "another half-baked sequel"; listed pros "Mech building and tactical real-time combat are okay"[^ref-29] |
 | CombatSim | 63 (overall rating) | Maurice Fitzgerald, July 15, 1998: interface "deep and covers pretty much all angles of asset management and research", but "real-time is a real letdown"[^ref-30] |
 | GameRevolution | C+ | Reviewed by Calvin Hubble, 8/98: "There's nothing extremely horrid about Cyberstorm 2, but there's nothing extremely good either"[^ref-27] |
+| The Duelist | Won "Head to Head" against MechCommander | Rick Moscatello, February 1999 (pp. 88-89): "Graphics: Crud," "Storyline: Lame," but "Replay Value: Good. For all its weaknesses, the game grows on you a bit"; the bottom line: "In a split decision, Cyberstorm 2 wins a close match!"[^ref-34] |
 | MyAbandonware | 4.13/5 | Community rating[^ref-15] |
 | GameFAQs | Great | Based on 4 user ratings[^ref-16] |
+
+MobyGames lists 15 critic scores for the game, ranging from 90% (Electric Games) and 80% (Gamecenter) at the top down to 40% each for All Game Guide, Computer Gaming World and GameGenie[^ref-7].
 
 ### Critical Analysis
 
@@ -139,7 +142,7 @@ Multiplayer supported up to eight players via Internet, network, or modem[^ref-1
 
 ### Release Dates
 
-Sources give different dates for the game's release. GameSpot's game page lists "First released: May 31, 1998"[^ref-32], and GameFAQs lists May 31, 1998[^ref-16]. A GameSpot News item posted June 4, 1998 said the game "has made it to retailers"[^ref-26]. MobyGames lists a June 1998 U.S. release, published by Sierra On-Line under the Sierra FX label, and a separate 1998 German release distributed by Cendant Software Deutschland GmbH[^ref-33]. The earlier gold report had given June 1 as the expected shelf date[^ref-1].
+Sources give different dates for the game's release. GameSpot's game page lists "First released: May 31, 1998"[^ref-32], and GameFAQs lists May 31, 1998[^ref-16]. A GameSpot News item posted June 4, 1998 said the game "has made it to retailers"[^ref-26]. MobyGames lists a June 1998 U.S. release, published by Sierra On-Line under the Sierra FX label, and a separate 1998 German release distributed by Cendant Software Deutschland GmbH[^ref-33]. The earlier gold report had given June 1 as the expected shelf date[^ref-1]. MobyGames also lists the alternate title "CorpWars"[^ref-7].
 
 ### Version History
 
@@ -224,3 +227,4 @@ Cyberstorm 2 is the last entry in the Cyberstorm series; MobyGames lists no late
 [^ref-31]: [MobyGames Specs](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/specs/) – Tech specs, attributes and age ratings
 [^ref-32]: [GameSpot Game Page](https://www.gamespot.com/games/cyberstorm-2-corporate-wars/) – "First released: May 31, 1998"
 [^ref-33]: [MobyGames Releases](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/releases/) – Jun 1998 U.S. release (Sierra FX label); 1998 German release
+[^ref-34]: [The Duelist no. 34 (February 1999), pp. 88-89](https://archive.org/details/the-duelist-34/page/n91) – Rick Moscatello, "Head to Head" feature comparing Cyberstorm 2: Corporate Wars and MechCommander; ratings by category and a "Bottom Line" verdict
