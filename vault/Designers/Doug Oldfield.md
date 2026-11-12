@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Space Quest III", "Police Quest III", "Police Quest: Open Season", "Phantasmagoria"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Doug Oldfield
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ According to Scott Murphy, Oldfield first "got a job at a fledgling company call
 
 His earliest MobyGames credits are the Apple II version of Manhunter: New York (1988) and "Found the trickier bugs" on King's Quest IV: The Perils of Rosella (1988).[^ref-1] On Space Quest III (1989) he was one of the core programmers; the manual reads "Programmed by [[Mark Crowe]], [[Scott Murphy]], Doug Oldfield, Ken Koch and Chris Smith".[^ref-14][^ref-4]
 
-In 1990 he was one of the programmers on Code-Name: Iceman, King's Quest V and Conquests of Camelot, and did the Apple II conversion of Mixed-Up Mother Goose.[^ref-1][^ref-6][^ref-24][^ref-19][^ref-15][^ref-9][^ref-25] He was lead programmer on Police Quest III: The Kindred (1991); the game's manual also lists him in its credits.[^ref-11][^ref-26] He had an "Additional Programming" credit on King's Quest VI (1992), alongside [[Carlos Escobar]].[^ref-5][^ref-17] [[Al Lowe]] recalls that Robert Lindsley wrote a batch file that showed a random Carlos Escobar quip at startup, and that it "was later turned into a program by Doug Oldfield which floated around the company for years".[^ref-20]
+In 1990 he was one of the programmers on Code-Name: Iceman, King's Quest V and Conquests of Camelot, and did the 1990 Apple II conversion of the 1987 game Mixed-Up Mother Goose.[^ref-1][^ref-6][^ref-24][^ref-19][^ref-15][^ref-9][^ref-25] He was lead programmer on Police Quest III: The Kindred (1991); the game's manual also lists him in its credits.[^ref-11][^ref-26] He had an "Additional Programming" credit on King's Quest VI (1992), alongside [[Carlos Escobar]].[^ref-5][^ref-17] [[Al Lowe]] recalls that Robert Lindsley wrote a batch file that showed a random Carlos Escobar quip at startup, and that it "was later turned into a program by Doug Oldfield which floated around the company for years".[^ref-20]
 
 ### Later Projects
 
@@ -47,10 +47,6 @@ On [[1990 - Codename - Iceman|Code-Name: Iceman]] MobyGames credits Oldfield wit
 
 On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], the manual lists Oldfield among the programmers with Chris Iden, Chris Hoyt, Robert W. Lindsley, Raoul Said, [[Carlos Escobar]] and Oliver Brelsford.[^ref-15][^ref-8]
 
-### King's Quest VI: Heir Today, Gone Tomorrow (1992)
-
-On [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], the game's credits list Oldfield under "Additional Programming" with [[Carlos Escobar]]; the programming team proper was led by Robert W. Lindsley.[^ref-17][^ref-5]
-
 ### Conquests of Camelot: The Search for the Grail (1990)
 
 On [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], Oldfield worked as part of the programming team alongside Robert Fischbach, Jerry Shaw and Eric Hart.[^ref-9] The game's manual lists "Programmers: Bob Fischbach, Jerry Shaw, Eric Han, Doug Oldfield" (the OCR text reads "Han"; MobyGames gives Hart).[^ref-25]
@@ -58,6 +54,10 @@ On [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot
 ### Police Quest III: The Kindred (1991)
 
 On [[1991 - Police Quest III - The Kindred|Police Quest III]] MobyGames credits Oldfield as lead programmer.[^ref-11] The game's manual lists him in its credits, but its OCR text does not preserve the role heading, so the manual alone does not confirm "lead".[^ref-26]
+
+### King's Quest VI: Heir Today, Gone Tomorrow (1992)
+
+On [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], the game's credits list Oldfield under "Additional Programming" with [[Carlos Escobar]]; the programming team proper was led by Robert W. Lindsley.[^ref-17][^ref-5]
 
 ### Police Quest: Open Season (1993)
 
@@ -85,22 +85,22 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-1]
 |------|-------|------|
 | 1988 | [[1988 - Manhunter - New York\|Manhunter: New York]] (Apple II) | Apple Version by |
 | 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Found the trickier bugs |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Programmer; creator of "Chicken Lander", the basis of Astro Chicken |
+| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Programming; creator of "Chicken Lander", the basis of Astro Chicken |
 | 1990 | [[1990 - Codename - Iceman\|Code-Name: Iceman]] | Programming |
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Programmer |
-| 1990 | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] (Apple II) | Apple Conversion by |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Programmer |
+| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Programmed by |
+| 1990 | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] (1987 original; Apple II conversion, 1990) | Apple Conversion by |
+| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Programmers |
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Programming |
 | 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Lead Programmer |
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Additional Programming |
 | 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2: Lost Secret of the Rainforest]] | Lead Programming (with Robert Fischbach) |
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Special Quest Programming (MobyGames);[^ref-1] "Additional Programming" (game manual)[^ref-23] |
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Lead Programmer |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Programmer |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Programmers |
 | 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Lead Programming |
-| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Programmer |
-| 1996 | [[1996 - Lighthouse - The Dark Being\|Lighthouse: The Dark Being]] | Programmer |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Applications Programmer |
+| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Programmers |
+| 1996 | [[1996 - Lighthouse - The Dark Being\|Lighthouse: The Dark Being]] | Programmers |
+| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Applications Programmers |
 
 ## References
 
