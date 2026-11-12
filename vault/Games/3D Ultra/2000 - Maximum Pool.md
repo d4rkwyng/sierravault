@@ -10,19 +10,19 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows, Macintosh and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
-last_modified: 2026-11-11T12:00:00-06:00
+last_modified: 2026-11-12T12:00:00-06:00
 ---
 # Maximum Pool
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Maximum Pool is a pool simulation video game developed by Dynamix (Sierra Chest credits [[Jeff Tunnell Productions]][^ref-34]) and published by Sierra On-Line under their Sierra Sports label in 2000[^ref-1]. It was released for Windows, Macintosh and Sega Dreamcast[^ref-5]. The game is part of the [[3D Ultra Series]] and serves as the successor to the 1999 game Cool Pool[^ref-1]. GameSpot's Stephen Poole wrote that "Dynamix's 3D Ultra Group clearly set out to make Maximum Pool a fast, friendly, and inviting pool simulation"[^ref-16], and GameZone found it "an entertaining and challenging experience for newbie and casual gamers alike"[^ref-3].
+Maximum Pool is a pool simulation video game developed by Dynamix (Sierra Chest credits [[Jeff Tunnell Productions]][^ref-34]) and published by Sierra On-Line under their Sierra Sports label in 2000[^ref-1]. It was released for Windows, Macintosh and Sega Dreamcast[^ref-5]. Sierra Chest also lists the game as "Maximum Cueball"[^ref-34], and MobyGames records the alternate titles "3-D Ultra Maximum cueball" and "Maximum Pool: The Pool Hall Comes Home"[^ref-2]. The game is part of the [[3D Ultra Series]] and serves as the successor to the 1999 game Cool Pool[^ref-1]. GameSpot's Stephen Poole wrote that "Dynamix's 3D Ultra Group clearly set out to make Maximum Pool a fast, friendly, and inviting pool simulation"[^ref-16], and GameZone found it "an entertaining and challenging experience for newbie and casual gamers alike"[^ref-3].
 
 The game features an entertaining mix of classic and novel pool games, offering a total of 12 types with several table variations[^ref-4]. At the Dreamcast launch, Senior Producer Randy Thompson said: "We're extremely excited to be one of the first video games in history to support online play between Dreamcast, Windows, and Macintosh players"[^ref-5]. He added that the game "shows the flexibility of the SegaNet network and how well designed it is for multiple platforms and a variety of game types"[^ref-5].
 
@@ -90,7 +90,8 @@ Maximum Pool was developed by Dynamix's 3D Ultra Group[^ref-16] as the successor
 The game credits 66 people[^ref-2]. Key roles included:
 
 - **Executive Producer**: Susan Folden[^ref-2]
-- **Producer**: Randy Thompson (described as senior producer for Dynamix in Sierra's press release[^ref-5])
+- **Producer**: Randy Thompson[^ref-2] (described as senior producer for Dynamix in Sierra's press release[^ref-5])
+- **Associate Producer**: Daryl L. Nichols Jr.[^ref-2]
 - **Lead Programmer**: Jon Milnes[^ref-2]
 - **Game Design**: Rhett Anderson, who is also credited for the physics and graphics engine[^ref-2]
 
@@ -123,7 +124,7 @@ The Macintosh version supports Mac OS 8.5.1 to 9.2.2; OS X compatibility was add
 
 ### Release Dates
 
-Computer Games Strategy Plus reported on 8 September 2000 that the game had "found its way to U.S. retail shelves today"[^ref-32]. MobyGames, read via its API, lists the Windows and Macintosh releases as 14 September 2000 and the Dreamcast release as 16 November 2000[^ref-8]. The sources differ by six days for the PC release, so both are given with attribution.
+Computer Games Strategy Plus reported on 8 September 2000 that the game had "found its way to U.S. retail shelves today"[^ref-32]. MobyGames lists the Windows and Macintosh releases as 14 September 2000 and the Dreamcast release as 16 November 2000[^ref-8]. The sources differ by six days for the PC release, so both are given with attribution. Glitchwave dates the Dreamcast release to 4 December 2000[^ref-27].
 
 ### Version History
 
@@ -136,12 +137,12 @@ Computer Games Strategy Plus reported on 8 September 2000 that the game had "fou
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| IGN (PC) | 7.9/10 | Praised graphics and physics model, called it a "winner"[^ref-7] |
-| IGN (Dreamcast) | 7.8/10 | "Quite enjoyable" and easy to get into[^ref-22] |
-| GameZone (PC) | 8.6/10 | Called it "surprisingly good," praised meaningful features[^ref-3] |
-| GameZone (DC) | 8.5/10 | Praised combination of challenge, skill and fun[^ref-17] |
-| GameSpot (PC) | 6.3/10 | Noted cumbersome interface but good value[^ref-16] |
-| GameSpot (DC) | 5.0/10 | Criticized simplified controls and lack of extras[^ref-24] |
+| IGN (PC), 28 Sep 2000 | 7.9/10 | Praised graphics and physics model, called it a "winner"[^ref-7] |
+| IGN (Dreamcast), 15 Dec 2000 | 7.8/10 | "Quite enjoyable" and easy to get into[^ref-22] |
+| GameZone (PC), 18 Jul 2000 | 8.6/10 | Called it "surprisingly good," praised meaningful features[^ref-3] |
+| GameZone (DC), 15 Jan 2001 | 8.5/10 | Praised combination of challenge, skill and fun[^ref-17] |
+| GameSpot (PC), 6 Sep 2000 | 6.3/10 | Noted cumbersome interface but good value[^ref-16] |
+| GameSpot (DC), 12 Dec 2000 | 5.0/10 | Criticized simplified controls and lack of extras[^ref-24] |
 | PC Zone (UK) | 59% | "A decent alternative" to real pool, reviewed by Scott Steinberg[^ref-31] |
 | Metacritic (PC) | 71/100 | Mixed or average reviews[^ref-6] |
 | Metacritic (Dreamcast) | 59/100 | Mixed or average reviews[^ref-13] |
@@ -223,7 +224,7 @@ Modern players can run the Windows version, though manual cue control may cause 
 
 ## References
 
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Maximum_Pool) - Basic game information and release details
+[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Maximum_Pool) - Basic game information, release details and review dates
 [^ref-2]: [MobyGames](https://www.mobygames.com/game/3046/maximum-pool/) - Credits, multiplayer options and description
 [^ref-3]: [Web Archive - GameZone PC Review](https://web.archive.org/web/20081003070203/http://pc.gamezone.com/gzreviews/r15135.htm) - Review, cool-game rules and opponents
 [^ref-4]: [Internet Archive](https://archive.org/details/MaximumPool_201903) - Game overview and system requirements
