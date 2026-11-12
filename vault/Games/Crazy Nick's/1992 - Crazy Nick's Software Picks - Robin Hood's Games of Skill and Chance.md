@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: 'Crazy Nick''s Software Picks: Robin Hood''s Games of Skill and Chance
   is a 1992 Sierra On-Line budget compilation for DOS that repackages three mini-games
   from Conquests of the Longbow: Archery, Nine Men''s Morris and Sticks.'
@@ -18,17 +18,19 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance is a mini-game compilation released by [[Sierra On-Line]] in 1992 for DOS[^ref-1][^ref-12]. It features Robin Hood from Sierra's adventure game Conquests of the Longbow: The Legend of Robin Hood, and collects three mini-games (Archery, Nine Men's Morris and Sticks) that were originally arcade sequences in that game[^ref-1][^ref-2]. It was one of five budget packs Sierra launched in summer 1992 under the Crazy Nick's Software Picks name, each sold in a blister card on a single 3.5" floppy for the PC only[^ref-2].
+Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance is a mini-game compilation released by [[Sierra On-Line]] in 1992 for DOS[^ref-1][^ref-12]. It features Robin Hood from Sierra's adventure game [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]], and collects three mini-games (Archery, Nine Men's Morris and Sticks) that were originally arcade sequences in that game[^ref-1][^ref-2]. It was one of five budget packs Sierra launched in summer 1992 under the Crazy Nick's Software Picks name, each sold in a blister card on a single 3.5" floppy for the PC only[^ref-2].
 
 Sierra's own InterAction magazine announced the line in its Summer 1992 issue as "a line of low-priced (but high-quality) VGA games" due in software stores "in May or June", made up of "favorite arcade and strategy sequences extracted from best-selling Sierra games"[^ref-3]. The magazine listed this pack's contents as "Archery, Quarterstaff Duel, and the medieval strategy game Nine Men's Morris" and gave the price as around $10[^ref-3]. In the shops it sold for $9.95[^ref-24][^ref-26].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Designer:** Unknown
+> **Director:** [[Bill Davis]][^ref-17]
+> **Producer:** [[Tammy Dargan]], Tony Caudill[^ref-17]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
 > **Engine:** SCI1.1[^ref-6]
 > **Platforms:** DOS[^ref-1]
@@ -140,16 +142,16 @@ No cut content has been documented for this compilation.
 
 ScummVM's SCI engine detects this pack under the game ID `cnick-longbow`, as an English DOS release[^ref-22].
 
+### Voice Cast
+
+This DOS release does not feature voice acting.
+
 ### Easter Eggs and Trivia
 
 - **Board Game History:** Sierra Chest says Nine Men's Morris "could easily be one of the oldest board games in the world"[^ref-2]
 - **Tavern Cats:** The Nine Men's Morris tavern has animated cats that make random synthesized meow noises[^ref-8]
 - **Music Reuse:** The SAIG writer speculated that the title music was "simply the same title music from Conquests of the Longbow re-used"; this is unconfirmed[^ref-8]
 - **Name Change:** InterAction's announcement called the stick fight "Quarterstaff Duel"[^ref-3]; Sierra Chest and MobyGames call it "Sticks"[^ref-1][^ref-2]
-
-## Voice Cast
-
-This DOS release does not feature voice acting.
 
 ## Legacy
 
@@ -165,7 +167,7 @@ The pack was one of five Crazy Nick's Software Picks compilations[^ref-2][^ref-7
 - Crazy Nick's Software Picks: King Graham's Board Game Challenge[^ref-9]
 - Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack[^ref-7]
 
-The same three games remain playable within Conquests of the Longbow: The Legend of Robin Hood[^ref-2].
+The same three games remain playable within [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]][^ref-2].
 
 ### Fan Projects
 
@@ -223,8 +225,8 @@ No dedicated hint book or strategy guide is known for this budget release.
 [^ref-22]: [ScummVM source – engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) – detection entry "cnick-longbow" for this pack (English, DOS)
 [^ref-23]: [InterAction Magazine, Vol. V No. 4, Winter 1992 (Sierra On-Line), "News Notes"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "New Nick's Picks": the first five titles called "such a hit", and described as extracted from larger Sierra games
 [^ref-24]: [Computer Gaming World #98, September 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_98) – "Plays Great, Less Filling: Welcome To Gaming Lite" budget-software survey (pp. 74–78); Crazy Nick's line on p. 76, this pack's entry spanning pp. 76 and 78
-[^ref-25]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek" (listed on p. 8 of the contents; the Robin Hood entry lies within the scan's pp. 12–16, exact page not confirmed): Robin Hood's Games of Skill & Chance entry
+[^ref-25]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek" (listed on p. 8 of the contents; the Robin Hood entry lies pp. 12–16 (probably p. 14)): Robin Hood's Games of Skill & Chance entry
 [^ref-26]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
 [^ref-27]: [Game Players PC Entertainment Vol. 5 No. 4, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – news column, Sierra item: $9.95 Nick's Picks "on shelves now", five packs named; cover marked "Display Until September 8, 1992"
-[^ref-28]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), p. 21, "Nick's Picks Special!" advertisement (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own ad (the archive.org item is labelled June 1993; the printed issue date is Spring 1993): "Reg. Price $9.95 ea.", any 2 for $14.95 or all 5 for $29.95, VGA 3.5" LD disks that also support EGA or Tandy VGA, offer expires 4/15/93. Promotional material, not independent reporting
+[^ref-28]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), p. 21, "Nick's Picks Special!" advertisement (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own ad (the archive.org item is labelled June 1993; the printed issue date is Spring 1993): "Reg. Price $9.95 ea.", any 2 for $14.95 or all 5 for $29.95, VGA 3.5" LD disks that also support EGA or Tandy VGA, offer expires 4/15/93; prices read from the scan image (page 21 of the issue), since the archive.org OCR text omits the price box. Promotional material, not independent reporting
 [^ref-29]: [PC Games (Germany), December 1992 (Internet Archive)](https://archive.org/details/PC.Games.N003.1992.12-fl0n) – NEWS section, p. 12 (page number inferred from p. 13 following; not printed on the page): "Nick's Picks Crazy Software" preview; quoted German "beim Bogenschießen mit Robin Hood im Wald vergnügen" and "zwischen zehn und zwanzig Mark"
