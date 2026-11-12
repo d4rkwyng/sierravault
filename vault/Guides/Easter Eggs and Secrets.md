@@ -1,11 +1,11 @@
 ---
 title: "Easter Eggs and Secrets"
 type: guide
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Easter Eggs and Secrets: Sierra's Hidden Treasures
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 > "If you guys don't mind paying lawyers' fees, you can put whatever you want in your game."
 > — [[Ken Williams]] to the Two Guys from Andromeda[^ref-1]
@@ -133,7 +133,7 @@ Sierra developers frequently inserted themselves and their colleagues into games
 
 ### The Williams Family
 - **Roberta Williams** appears as herself in LSL3's Sierra offices ending[^ref-30][^ref-45] and can be spotted at random when exiting the antique shop in [[1995 - Phantasmagoria|Phantasmagoria]][^ref-31]
-- **Roberta Williams as Mother Goose** - MobyGames' trivia for its Mixed-Up Mother Goose entry (the 1991 VGA/CD version; the game is covered at [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]) says the Mother Goose on the box is Roberta Williams in costume, and that the two children next to her are hers. The trivia does not say which edition's box is meant, and sources disagree about the children[^ref-32]
+- **Roberta Williams as Mother Goose** - MobyGames' trivia for its Mixed-Up Mother Goose entry (the 1991 VGA/CD version; the game is covered at [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]) says the Mother Goose on the box is Roberta Williams in costume. The trivia does not say which edition's box is meant[^ref-32]
 - **Ken Williams** appears in Space Quest I (the "ken" easter egg)[^ref-7], Space Quest III (ending sequence)[^ref-6], LSL1 VGA (bar patron)[^ref-22], and as an overseer at ScumSoft[^ref-6]
 
 ### Al Lowe
@@ -277,7 +277,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-29]: [MobyGames – Police Quest: In Pursuit of the Death Angel (1987)](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – trivia: the LSL1 pimp "can be found behind bars at the Lytton City Jail"
 
-[^ref-30]: La Taberna de Grog Blog, "Leisure Suit Larry III: Passionate Patti…" (November 2023) – LSL3 Sierra offices ending, cross-game cameos. Link removed 2026-10-16: the post points readers to a free download of a game still sold on GOG. Needs a better source.
+[^ref-30]: La Taberna de Grog Blog, "Leisure Suit Larry III: Passionate Patti…" (November 2023) – LSL3 Sierra offices ending, cross-game cameos.
 
 [^ref-31]: [GameFAQs – Phantasmagoria FAQ](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2111) – Roberta Williams antique shop cameo
 
@@ -313,11 +313,11 @@ Some easter eggs only appear on return visits:
 
 [^ref-50]: [SpaceQuest.net – SQ3 Demo and Promo Video](https://spacequest.net/sq3/demo/) – "a digitalized excerpt of the Sierra On-Line Video Catalog VHS tape from 1988… the Two Guys battling their ways through the old Sierra offices"
 
-[^ref-51]: [MobyGames – Leisure Suit Larry III](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – trivia (dossier copy): "a set for Police Quest I… red marking flags from King's Quest… a set from Space Quest II… Rosella from King's Quest IV… climbing on whale's tongue"
+[^ref-51]: [MobyGames – Leisure Suit Larry III](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – trivia: "a set for Police Quest I… red marking flags from King's Quest… a set from Space Quest II… Rosella from King's Quest IV… climbing on whale's tongue"
 
 [^ref-52]: [GameFAQs – Police Quest 2: The Vengeance trivia](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs) – "go up the escalators to the 2nd floor and walk through the metal detector… talk to the man furthest to the right. He'll introduce himself as 'Larry Laffer'"
 
-[^ref-53]: [MobyGames – Hero's Quest: So You Want to Be a Hero (1989)](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – trivia (dossier copy): "If you visit Mirror Lake twice a submarine will emerge… a plug for… Codename: ICEMAN. In the VGA remake the submarine is replaced by Delphineus… and the monster of Loch Ness"
+[^ref-53]: [MobyGames – Hero's Quest: So You Want to Be a Hero (1989)](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – trivia: "If you visit Mirror Lake twice a submarine will emerge… a plug for… Codename: ICEMAN. In the VGA remake the submarine is replaced by Delphineus… and the monster of Loch Ness"
 
 [^ref-54]: [The Sierra Chest – Inca cheats](https://web.archive.org/web/20250123165733/https://www.sierrachest.com/index.php?a=games&id=191&title=inca-1&fld=cheats) – "Restoring all lives and power: Press SHIFT CTRL ALT simultaneously. This cheat does not work in the final fight against Aguirre."
 
