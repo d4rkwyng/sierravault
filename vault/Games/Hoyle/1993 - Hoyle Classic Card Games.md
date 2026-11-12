@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI1.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Hoyle Classic Card Games (Hoyle 4) is Sierra On-Line's 1993 VGA remake
   of Hoyle's Official Book of Games Volume 1, with eight card games, speech and Sierra
   characters as opponents.
@@ -18,13 +18,13 @@ tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Classic Card Games
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Hoyle Classic Card Games, also known as Hoyle 4, is the fourth installment in Sierra On-Line's Hoyle series, released in 1993 for DOS, Windows 3.x and Macintosh[^ref-2][^ref-8]. It was a remake of 1989's Hoyle's Official Book of Games: Volume 1, rebuilt with VGA support, speech and an original soundtrack[^ref-3][^ref-4]. The collection offers eight card games: Bridge, Euchre, Old Maid, Gin Rummy, Hearts, Cribbage, Crazy Eights and Klondike[^ref-2]. Sierra's box copy billed it as "Eight Great Games, Now Including Bridge and Euchre!"[^ref-19].
 
-The game was designed and programmed by Warren Schwader, who had created the original Hoyle volumes, with Robert Holmes as producer, director and composer[^ref-2][^ref-3]. It was built on Sierra's Creative Interpreter (SCI)[^ref-2], and it is the last volume in the series to feature animated characters from other Sierra titles[^ref-2][^ref-15].
+The game was designed and programmed by Warren Schwader, who had created the original Hoyle volumes, with [[Robert Holmes]] as producer, director and composer[^ref-2][^ref-3]. It was built on Sierra's Creative Interpreter ([[Sierra Creative Interpreter|SCI]])[^ref-2], and it is the last volume in the series to feature animated characters from other Sierra titles[^ref-2][^ref-15].
 
 This page covers the 1993 SCI game. Sierra released a different Windows CD-ROM game under the same name in 1997, which "is neither compatible with DOS nor does it use the SCI engine"[^ref-24]; see [[1997 - Hoyle Classic Card Games]].
 
@@ -42,7 +42,7 @@ This page covers the 1993 SCI game. Sierra released a different Windows CD-ROM g
 
 ## Story Summary
 
-Hoyle Classic Card Games has no narrative. Its personality comes from the opponents at the table. The player chooses from 18 characters in two sets[^ref-3][^ref-18]. The "Classic Characters" are original characters made with digitized actors and sepia toning to look like old photographs: Dinky, Scout, Crazy Jack, Trudy, Josephine, Billy Joe, Chip, Winthorp and Fairbanks[^ref-3][^ref-18][^ref-25]. The "Sierra Characters" are guests from other Sierra games: King Graham, Pepper, Willy Beamish, Larry Laffer, Quarky, Laura Bow, Adam, Roger Wilco and Dr. Brain[^ref-3][^ref-18]. Adam appears in his look from EcoQuest 2: Lost Secret of the Rainforest[^ref-4].
+Hoyle Classic Card Games has no narrative. Its personality comes from the opponents at the table. The player chooses from 18 characters in two sets[^ref-3][^ref-18]. The "Classic Characters" are original characters made with digitized actors and sepia toning to look like old photographs: Dinky, Scout, Crazy Jack, Trudy, Josephine, Billy Joe, Chip, Winthorp and Fairbanks[^ref-3][^ref-18][^ref-25]. The "Sierra Characters" are guests from other Sierra games: King Graham, Pepper, Willy Beamish, Larry Laffer, Quarky, Laura Bow, Adam, Roger Wilco and Dr. Brain[^ref-3][^ref-18]. Adam appears in his look from EcoQuest 2: Lost Secret of the Rainforest[^ref-4]. Electronic Games described the Classic group as "1930's style stereotypes," naming the gangster Dinky, the intrepid explorer Fairbanks and the wealthy playboy Winthorp[^ref-27]. Per InterAction, each Classic character is tied to one game, though all can be challenged at any of them: Billy Joe hosts Bridge, Scout Euchre, Crazy Jack Crazy Eights, Trudy and Chip Old Maid, Dinky Gin Rummy, Josephine Hearts, Winthorp Cribbage and Fairbanks Klondike[^ref-25].
 
 Each character has five unique expressions in full speech, such as reactions to a play or responses to a compliment or taunt. A few more text messages relate to the game in progress, but the characters do not hold conversations with each other[^ref-3][^ref-4]. Loading screens show the Classic characters making silly comments about whichever game is loading[^ref-3][^ref-15].
 
@@ -80,7 +80,7 @@ Each game has its own rule options[^ref-18]:
 
 ### Contemporary Reviews
 
-Computer Gaming World's August 1993 issue (#109, p. 140) wrote that "Sierra has dealt out another winning hand with the latest installment in their Hoyle Book of Games Series. Although Hoyle Classic forges little new ground, it does continue a fine tradition of providing the gamer with a choice selection of classics card games in an attractive, competent and enjoyable package," listing it at $49.95 for IBM[^ref-26]. Electronic Games (August 1993) gave it 88% overall. Reviewer Ed Dille praised the eighteen distinct computer opponents and Sierra's effort to synchronize the characters' lip movements with their speech, and concluded that "Hoyle Classic Card Games is a worthy refinement of Sierra's earlier effort"[^ref-27]. A bridge-program roundup in the same issue, "Rating the Contenders" by Brent Manley of the American Contract Bridge League, was more guarded: "The Hoyle (Sierra) game is capable of making intelligent plays... but it also produces some serious errors." Its ratings table scored Hoyle Classic Card Games 86 for graphics, 88 for sound, 78 for bidding, 72 for play, 60 for speed and 77 overall[^ref-27].
+Computer Gaming World's August 1993 issue (#109, p. 140) wrote that "Sierra has dealt out another winning hand with the latest installment in their Hoyle Book of Games Series. Although Hoyle Classic forges little new ground, it does continue a fine tradition of providing the gamer with a choice selection of classics card games in an attractive, competent and enjoyable package," listing it at $49.95 for IBM[^ref-26]. Electronic Games (August 1993) gave it 88% overall. Reviewer Ed Dille praised the eighteen distinct computer opponents and Sierra's effort to synchronize the characters' lip movements with their speech, and concluded that "Hoyle Classic Card Games is a worthy refinement of Sierra's earlier effort"[^ref-27]. A bridge-program roundup in the same issue, "Rating the Contenders" by Brent Manley of the American Contract Bridge League, was more guarded: "The Hoyle (Sierra) game is capable of making intelligent plays... but it also produces some serious errors." Its ratings table, which EG says combines his objective assessment with a more subjective appraisal of program features, scored Hoyle Classic Card Games 86 for graphics, 88 for sound, 78 for bidding, 72 for play, 60 for speed and 77 overall[^ref-27].
 
 MobyGames lists a critics' average of 70% from six ratings[^ref-2], but that average is skewed. Two of its scores, GameSpot's 7/10 (February 1998) and Computer Gaming World's 1.5/5 (March 1998), are filed under this 1993 entry although they postdate the 1997 Windows game of the same name; the archived GameSpot review covers that later eleven-game CD-ROM release[^ref-28][^ref-29]. The 1993–94 period scores MobyGames records are ASM 11/12 (July 1993), Play Time 73% (July 1993), PC Games (Germany) 72% (June 1993) and Secret Service 250/300 (September 1994)[^ref-28].
 
@@ -88,7 +88,7 @@ MobyGames lists a critics' average of 70% from six ratings[^ref-2], but that ave
 |-------------|-------|-------|
 | Computer Gaming World #109 (Aug 1993) | — | Capsule review, "another winning hand"[^ref-26] |
 | Electronic Games (Aug 1993) | 88% | Ed Dille[^ref-27] |
-| Electronic Games (Aug 1993), bridge roundup | 77 overall | Brent Manley's Bridge ratings; bidding 78, play 72[^ref-27] |
+| Electronic Games (Aug 1993), bridge roundup | 77 overall | Brent Manley's objective assessment combined with a subjective appraisal of program features; bidding 78, play 72[^ref-27] |
 | MobyGames | 70% | Critics' average, 6 ratings; includes two 1998 scores that postdate the 1997 game of the same name[^ref-2][^ref-28] |
 | MobyGames | 4.6/5 | Players' average, 4 ratings[^ref-2] |
 
@@ -102,7 +102,7 @@ On abandonware sites, users rate the game 4.03/5 on Abandonware DOS (32 votes)[^
 
 Sierra licensed the Hoyle name from the playing-card maker Brown & Bigelow[^ref-3][^ref-15]. The brand traces back to Edmond Hoyle (1672–1769), whose writings on card games, beginning with *A Short Treatise on the Game of Whist* in 1742, made "according to Hoyle" a byword for "strictly according to the rules"[^ref-30]. Sierra's box copy played on the phrase: "For years, 'according to Hoyle' has meant 'by the book'; the definitive way to enjoy a great game of cards"[^ref-19][^ref-10].
 
-The series began in 1989 with Volume 1, which Warren Schwader pitched to Ken Williams and then designed and programmed in SCI. Wikipedia notes that for that first volume, "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. Volume 1 sold over 250,000 copies by 1990[^ref-3]. Hoyle Classic Card Games remade that first volume four years later[^ref-3][^ref-15]. Sierra Chest's publications list for the game records it under "Upcoming products" in InterAction Volume 5 Number 2 (Summer 1992, p. 27), in "New Games Update" in InterAction Volume 5 Number 4 (Winter 1992, pp. 16-17), and in Sierra's 15th anniversary catalog (Winter 94-95, p. 29)[^ref-33].
+The series began in 1989 with Volume 1, which Warren Schwader pitched to [[Ken Williams]] and then designed and programmed in SCI. Wikipedia notes that for that first volume, "working with SCI to implement card games and to code artificial intelligence for the characters proved challenging"[^ref-3]. Volume 1 sold over 250,000 copies by 1990[^ref-3]. Hoyle Classic Card Games remade that first volume four years later[^ref-3][^ref-15]. Sierra Chest's publications list for the game records it under "Upcoming products" in InterAction Volume 5 Number 2 (Summer 1992, p. 27), in "New Games Update" in InterAction Volume 5 Number 4 (Winter 1992, pp. 16-17), and in Sierra's 15th anniversary catalog (Winter 94-95, p. 29)[^ref-33].
 
 According to InterAction's Spring 1993 feature on the game, the remake began on The Sierra Network (TSN). Card players in TSN's clubhouse taught Ken Williams to play Bridge, and he liked the game so much that he "talked to Warren Schwader (designer of the original Hoyle games) about adding it to a VGA revision of Hoyle 1"[^ref-25]. Schwader and project manager Robert Holmes then settled on Euchre as the second new game. Many players, "mainly from the midwest," had written to request it, and Schwader, originally from Wisconsin, was a Euchre expert[^ref-25].
 
@@ -144,7 +144,7 @@ In a 2007 Vogons thread, a player running the game in DOSBox reported that the S
 
 ## Legacy
 
-Hoyle Classic Card Games was the last Hoyle volume to feature Sierra's own characters. Later releases replaced them with "more general but equally goofy ones"[^ref-15]. The next major release, Hoyle Classic Games (Hoyle 5, 1995), was the series' first CD-ROM edition[^ref-3]. Sierra On-Line published the series from 1989, VU Games assigned the Hoyle games licence to Encore effective December 23, 2004, and Encore Software published the series from 2005 to 2016[^ref-3][^ref-34]. Sierra Chest describes Hoyle 4 as "essentially a remake of 1989's Hoyle Official Book of Games Volume 1" with VGA graphics and the new Bridge and Euchre, and as "the last time classic Sierra characters were used in a Hoyle title"[^ref-31].
+Hoyle Classic Card Games was the last Hoyle volume to feature Sierra's own characters. Later releases replaced them with "more general but equally goofy ones"[^ref-15]. The next major release, Hoyle Classic Games (Hoyle 5, 1995), was the series' first CD-ROM edition[^ref-3]. Sierra On-Line published the series from 1989. VU Games assigned the Hoyle games licence to Encore effective December 23, 2004, and Encore Software published the series from 2005 to 2016[^ref-3][^ref-34]. Sierra Chest describes Hoyle 4 as "essentially a remake of 1989's Hoyle Official Book of Games Volume 1" with VGA graphics and the new Bridge and Euchre, and as "the last time classic Sierra characters were used in a Hoyle title"[^ref-31].
 
 ScummVM's SCI engine supports the game (as "hoyle4") for its DOS/Windows and Macintosh releases[^ref-20].
 
