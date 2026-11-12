@@ -10,8 +10,9 @@ platforms: [PC, Mac, Linux, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox 
 series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
+composer: [James Mulvale]
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Quest for Infamy is a hybrid point-and-click adventure game and RPG developed
   by Infamous Quests and published by Phoenix Online Publishing in 2014, inspired by
   Sierra's Quest for Glory series and played from the perspective of an anti-hero.
@@ -19,7 +20,7 @@ tags: [2010s, adventure, rpg, sierra]
 ---
 # Quest for Infamy
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -36,6 +37,7 @@ The game follows Mr. Roehm, a scoundrel on the run from his latest scrape who is
 > **Release Year:** 2014
 > **Series:** Quest for Infamy
 > **Protagonist:** Mr. Roehm
+> **Composer:** James Mulvale[^ref-21]
 > **Sierra Lineage:** Spiritual Successor
 
 ## Story Summary
@@ -73,6 +75,14 @@ Quest for Infamy combines traditional point-and-click adventure puzzles with RPG
 | Adventure Gamers | 60/100 | "An ambitious, often entertaining homage that has all the ingredients for success, but the overall experience is impaired by uneven humour and lacklustre combat"[^ref-16] |
 | PC Invasion | 5/10 | "Quest for Infamy is a reasonable attempt at making a Quest for Glory game, but it's let down by dull combat and puzzle design"[^ref-15] |
 
+### Aggregate Scores
+
+- **Metacritic (PC):** Metascore 63 based on 9 critic reviews ("Mixed or Average"); user score 7.6 based on 38 user ratings, as of November 11, 2026[^ref-27]
+- **OpenCritic:** Top Critic Average 65 from 14 critic reviews, with 23% of critics recommending the game, as of November 11, 2026[^ref-28]
+- **Steam:** lists a Metacritic score of 63[^ref-18]
+- **GOG.com:** 3.9/5 from 43 reviews[^ref-4]
+- **itch.io:** 4.8/5 from 13 ratings as of October 29, 2026[^ref-11]
+
 ### Modern Assessment
 
 Quest for Infamy received a Metacritic score of 63 on PC[^ref-18], indicating mixed to average reviews; RPGFan's 80/100 was among the higher scores[^ref-12]. User reviews have been more positive, with GOG.com showing a 3.9/5 rating from 43 reviews[^ref-4] and itch.io a 4.8/5 rating from 13 ratings as of October 29, 2026[^ref-11]. The 2022 console ports drew mixed reviews, with TheXboxHub giving it 2.5/5 and criticizing the voice acting[^ref-20].
@@ -91,17 +101,72 @@ Key development challenges included balancing the anti-hero character concept. A
 
 ### Technical Details
 
-Quest for Infamy was created using Adventure Game Studio (AGS)[^ref-3]. GOG's store description promises "lovingly hand-crafted retro style graphics" evoking the classic era of adventure gaming[^ref-4]. The soundtrack was composed by James Mulvale; the official soundtrack album lists 98 tracks[^ref-21]. The game includes full voice acting with a cast including Steve Patrick, Sean Pratt, Christian Bell, and Matthew C. Larsen[^ref-22].
+Quest for Infamy was created using Adventure Game Studio (AGS)[^ref-3]. GOG's store description promises "lovingly hand-crafted retro style graphics" evoking the classic era of adventure gaming[^ref-4]. The soundtrack was composed by James Mulvale; the official soundtrack album lists 98 tracks[^ref-21]. The game includes full voice acting[^ref-22]; the credited cast is listed under Voice Cast below.
+
+### Development Credits
+
+Credits as listed on the Quest for Glory Fandom page for the game[^ref-29]:
+
+- **Produced by:** Steven Alexander, Shawn Mills
+- **Executive Producer:** Matt Katinas
+- **Associate Producer:** James Broom
+- **Story by:** Steven Alexander
+- **Additional Material by:** Shawn Mills, Jason Lamb, James Broom
+- **Art Direction:** Jeremy Kitchen
+- **Portrait & Character Design:** Jenny Pattison
+- **Background Artists:** Elissa Ng, Jon Taylor-Stoll, Ivan Ulyanov, Jason Lamb, Daniel Thomas, Jeremy Kitchen, Jenny Pattison
+- **Lead Environmental Animators:** Jon Taylor-Stoll, Elissa Ng, Jeremy Kitchen
+- **Animators:** Arseni Kondratenko, Jeremy Kitchen, Jason Lamb, Shane Stevens, Elissa Ng, Steven Alexander, Jon Taylor-Stoll, Matt Frith
+- **Composer:** James Mulvale
+- **Audio Editing & Sound Design:** James Mulvale, Elissa Ng
+- **Programming:** Charles Huband, Shawn Mills, Josh Walts, Steven Alexander
+- **Mac & Linux Ports:** Sunit Das, Les Wavrychuk
+- **IQ & Medieval Pixel Font:** Goatmeal
+- **Lead Testers:** Elissa Ng, Arseni Kondratenko
+
+### Voice Cast
+
+**Principal Cast:**[^ref-29]
+
+| Actor | Characters |
+|-------|------------|
+| Steve Patrick | Mr. Roehm, Prospero |
+| Sean Pratt | Rayford |
+| Christian Bell | Ian |
+| Matthew C. Larsen | Kurdt |
+| Marla Pasternak | Kayanna |
+| Karen Hayman | Voleris |
+| Steven Alexander | Jan |
+| James Mulvale | Kessel, "The Narrator" |
+| Jen Calder | Ina |
+| Agustín Cordes | Armand |
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | July 10, 2014 | Windows | Release date listed by Steam and MobyGames[^ref-18][^ref-25] |
+| Mac and Linux | August 11, 2014 | Macintosh, Linux | Dates per MobyGames[^ref-25]; Sunit Das and Les Wavrychuk are credited with the Mac and Linux ports[^ref-29] |
+| Console | March 4, 2022 | Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series | Dates per MobyGames; published by Ratalaika Games[^ref-25] |
+
+The stores list different platforms. Steam lists Windows and Linux[^ref-18]; GOG.com lists Windows and Linux[^ref-4]; itch.io lists Windows, macOS and Linux[^ref-11]. Wikipedia describes the game as created for Windows, Mac OS X and Linux[^ref-2].
+
+### Easter Eggs and Trivia
+
+- The project was first announced around December 2003 as *Quest for Infamy: So You Want to be a Villain?*, set in the Quest for Glory universe, and spent many years in "suspended production" before Infamous Quests put it back into production through Kickstarter[^ref-29].
+- Composer James Mulvale also voices the narrator, Kessel[^ref-29].
+- Steve Patrick voices both Mr. Roehm and Prospero, and co-designer Steven Alexander voices Jan[^ref-29].
+- In June 2014 the game made Time Magazine's "20 Video Games To Watch for Summer 2014" list[^ref-2].
 
 ## Legacy
 
-Quest for Infamy won four Adventure Game Studio awards in 2014, including Best Character Lead for Roehm, Best Puzzles, Best Music & Sounds, and Best Gameplay[^ref-2]. The game was also nominated for Best Writing (Comedy) at the Aggie Awards and was among the Top 100 nominations for IndieDB's 2014 Indie Game of the Year[^ref-2].
+In June 2014 the game made Time Magazine's "20 Video Games To Watch for Summer 2014" list[^ref-2]. Quest for Infamy won four Adventure Game Studio awards in 2014, including Best Character Lead for Roehm, Best Puzzles, Best Music & Sounds, and Best Gameplay[^ref-2]. The game was also nominated for Best Writing (Comedy) at the Aggie Awards and was among the Top 100 nominations for IndieDB's 2014 Indie Game of the Year[^ref-2].
 
 ### Sales and Community Reception
 
 Despite these accolades, Hardcore Gaming 101 reports that sales "didn't quite make up for the huge amount of work required to create the game", leaving a sequel's future uncertain[^ref-7]. Developer Shawn Mills expressed enthusiasm for returning to the series, stating "Quest for Infamy is one of the greatest things I've done in my life, so I'd love to go back to that well again!"[^ref-7]
 
-In March 2015 Infamous Quests announced a prequel, *Quest for Infamy: Roehm to Ruin*, alongside *Order of the Thorne: The King's Challenge*, and both were funded through a Kickstarter campaign that succeeded on May 3, 2015[^ref-2]. Hardcore Gaming 101 describes it as a short prequel telling of "Roehm's ill-fated affair with a baron's daughter that led him to the valley of Krasna"[^ref-7].
+In March 2015 Infamous Quests announced a prequel, *Quest for Infamy: Roehm to Ruin*, alongside *Order of the Thorne: The King's Challenge*, and both were funded through a Kickstarter campaign that succeeded on May 3, 2015[^ref-2]. *Order of the Thorne: The King's Challenge*, a point-and-click adventure from Infamous Quests, was released in 2016: Wikipedia says early in 2016[^ref-2], and GOG.com gives a release date of January 26, 2016[^ref-30]. *Roehm to Ruin* is still in development as of November 2026; its itch.io page lists the status "In development"[^ref-31] (see [[TBD - Quest for Infamy - Roehm to Ruin]]). Hardcore Gaming 101 describes it as a short prequel telling of "Roehm's ill-fated affair with a baron's daughter that led him to the valley of Krasna"[^ref-7].
 
 ### Console Ports
 
@@ -153,9 +218,14 @@ The game was ported to Nintendo Switch, PlayStation 4/5, Xbox One and Xbox Serie
 [^ref-16]: [Metacritic](https://www.metacritic.com/game/quest-for-infamy/) – professional review scores and quotes
 [^ref-17]: [OpenCritic](https://opencritic.com/game/642/quest-for-infamy) – GamingTrend score
 [^ref-18]: [Steam Store Page](https://store.steampowered.com/app/264560/Quest_for_Infamy/) – developer, publisher, July 10, 2014 release, Metacritic score
-[^ref-20]: [TheXboxHub Review](https://www.thexboxhub.com/quest-for-infamy-review/) – console port review and voice acting criticism
+[^ref-20]: [TheXboxHub Review by Dave Ozzy, March 30, 2022 (Wayback copy, February 7, 2023)](https://web.archive.org/web/20230207183111/https://www.thexboxhub.com/quest-for-infamy-review/) – 2.5/5 console port review; "the voice acting is largely risible"
 [^ref-21]: [VGMdb – Quest for Infamy Official Soundtrack](https://vgmdb.net/album/71371) – composer James Mulvale, 98-track listing
 [^ref-22]: [Quest for Glory Fandom](https://questforglory.fandom.com/wiki/Quest_for_Infamy) – voice cast
 [^ref-24]: [Kickstarter – Quest For Infamy](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que) – $63,281 from 1,656 backers, $25,000 goal, Jun 6 – Jul 6, 2012
 [^ref-25]: [MobyGames – Quest for Infamy](https://www.mobygames.com/game/71208/quest-for-infamy/) – platforms, publishers by release (Phoenix Online Publishing for Steam; Infamous Quests for GOG and itch.io; Ratalaika Games for 2022 console releases), read via the MobyGames API
 [^ref-26]: [TV Tropes – Quest for Infamy](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestforInfamy) – story details: Markus's execution, Sheriff Rayford, Morroi cult
+[^ref-27]: [Metacritic – Quest for Infamy](https://www.metacritic.com/game/quest-for-infamy/) – Metascore 63 from 9 critic reviews, user score 7.6 from 38 ratings (read November 11, 2026)
+[^ref-28]: [OpenCritic – Quest for Infamy](https://opencritic.com/game/642/quest-for-infamy) – Top Critic Average 65, 23% critics recommend, 14 critic reviews (read November 11, 2026)
+[^ref-29]: [Quest for Glory Fandom – Quest for Infamy (Wayback copy, August 20, 2022)](https://web.archive.org/web/20220820013847/https://questforglory.fandom.com/wiki/Quest_for_Infamy) – development credits, voice cast, project history
+[^ref-30]: [GOG.com – Order of the Thorne: The King's Challenge](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) – release date January 26, 2016 (read November 11, 2026)
+[^ref-31]: [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) – status "In development" (read November 11, 2026)

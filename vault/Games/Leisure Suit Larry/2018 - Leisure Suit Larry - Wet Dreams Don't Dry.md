@@ -215,7 +215,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-35]: [TV Tropes YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryWetDreamsDontDry) – Fan and critical consensus
 [^ref-36]: [GOG Store Page (Wayback, 2026-09-23)](http://web.archive.org/web/20260923164442/https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) – Digital distribution availability (store page removed October 2026; the URL now redirects to GOG's catalogue)
 [^ref-37]: [Steam Store Page (app 765870)](https://store.steampowered.com/app/765870/) – Steam availability; checked October 24, 2026: "no longer available on the Steam store"
-[^ref-38]: [TheXboxHub Console News](https://www.thexboxhub.com/wet-dreams-dont-dry-as-leisure-suit-larry-comes-to-xbox-one/) – Console platform availability
+[^ref-38]: [TheXboxHub Console News (Wayback copy, March 27, 2023)](https://web.archive.org/web/20230327074725/https://www.thexboxhub.com/wet-dreams-dont-dry-as-leisure-suit-larry-comes-to-xbox-one/) – Console platform availability
 [^ref-47]: [Indie Game Reviewer](https://indiegamereviewer.com/leisure-suit-larry-wet-dreams-dont-dry-review/) – Independent review perspective
 [^ref-48]: [Metacritic Main Page](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/) – Aggregate review data
 [^ref-49]: [Steam News: "Larry Is Retiring Soon" (Assemble Entertainment, October 8, 2026)](https://store.steampowered.com/news/app/765870/view/1846018067930701) – Announcement that both Wet Dreams games leave Steam after October 23, 2026
