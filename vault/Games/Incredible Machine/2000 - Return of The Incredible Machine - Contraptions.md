@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
   game from Dynamix and Sierra, the first new Incredible Machine game in five years,
   with about 250 Rube Goldberg-style puzzles, a freeform invention mode and a two-player
@@ -19,7 +19,7 @@ tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -58,6 +58,8 @@ The game has more than 100 different parts[^ref-6][^ref-15]. Some of them have p
 
 The 250 contraptions are divided into five sets of 50. The first 50 form an in-depth tutorial, and the remaining sets increase in difficulty from easy to expert[^ref-15][^ref-27]. A GameFAQs walkthrough labels the sets Tutorial, Easy, Medium, Difficult and Expert[^ref-19]. GameSpot counted "more than 40 puzzles for each difficulty level"[^ref-6]. Unlike the original Incredible Machine, players can jump ahead and pick any contraption[^ref-15]. Not all of the puzzles are new: Hardcore Gaming 101 noted "a few new puzzles in each of the difficulties, but a majority of them come from TIM2"[^ref-51][^ref-30].
 
+Hardcore Gaming 101 judged the changes from the earlier games modest: the Freeform Machine mode "now has the parts split into categories", the parts "are all 3D-rendered, now", and "all the parts now have a help button to show a close-up of them and how they work"[^ref-51]. Kevin Ryan, who was away for most of the development, said the team "ended up doing it themselves. All they really did was put new artwork on that version of it"[^ref-48].
+
 The easier puzzles offer hints. Game Over Online described "helping hands" scattered through each puzzle that give spoken hints and become less helpful as the game goes on. GameSpot noted that the more difficult puzzles have no hints[^ref-6][^ref-15]. Many puzzles have more than one solution. Once players have solved a puzzle their own way, they can view the professor's intended solution[^ref-6][^ref-15].
 
 The game also includes 50 head-to-head puzzles for two-player play[^ref-6]. Game Over Online described this as a hot-seat mode for up to nine players, with players taking timed turns adding to the same contraption. The player who places the final piece wins[^ref-15].
@@ -79,7 +81,7 @@ Besides the set puzzles, the game has a free-form invention mode[^ref-8]. A cont
 | IGN | 8.4/10 | Martin Reyes called it "a vintage blend of educational and entertainment software at their finest"[^ref-27] |
 | GameSpot | 8.1/10 | Trey Walker: "The problems in the game are only minor, and they do not detract from the overall experience and the high quality of the puzzles"[^ref-6] |
 | Game Over Online | 84% | Mike McDermott: "easily the best puzzle game to come along in years"[^ref-15] |
-| Absolute Games | 80% | Russian-language review, August 2000; the score is that outlet's own[^ref-47][^ref-30] |
+| Absolute Games | 80% | Russian-language review, August 2000; the score is that outlet's own[^ref-47] |
 
 Game Over Online's reviewer was less impressed by the multiplayer mode, writing that "it doesn't work at all"[^ref-15]. IGN praised the cartoon presentation and the "huge selection of musical flavors (jazz, detective, hip hop, etc.)"[^ref-27].
 
@@ -103,10 +105,13 @@ GamePressure's database entry presents the game as Sierra's attempt to win back 
 
 **Development Credits:**
 - **Design:** [[Brian Hahn]] (designer and art director); original concept by Jeffrey Tunnell; story concept by Kyle Miller[^ref-8]
-- **Programming:** Richard Rayl (lead); Jon Milnes (Mac)[^ref-8]
+- **Contraption design:** Richard Tunnell, Garrett Turner, [[Kevin Ryan]], Richard Rayl, Steve Letsom, [[Brian Hahn]][^ref-49]
+- **Programming:** Richard Rayl (lead); Jon Milnes (Mac)[^ref-8]; parts programmers Richard Rayl, Steve Letsom, John Leavens, Kevin Ryan[^ref-49]
 - **Art:** [[Brian Hahn]] (art director)[^ref-8]
 - **Music and voice:** Christopher Stevens, Timothy Steven Clarke, Sage Freeman[^ref-49]
-- **Production:** Randy Thompson (senior producer)[^ref-49]
+- **Sound design:** Charles Barth, Sage Freeman, Ken Rogers[^ref-49]
+- **Production:** Randy Thompson (senior producer); Susan Folden (executive producer)[^ref-49]
+- **Documentation:** The Russell Group (print manual and on-line help)[^ref-49]
 
 ### Music
 
@@ -132,6 +137,9 @@ IGN and GamePressure also list 50 MB of hard drive space[^ref-27][^ref-36]. The 
 |---------|------|----------|-------|
 | Original | August 8, 2000 | Windows | Initial release[^ref-17] |
 | Mac port | 2000 | Mac OS | Mac programming by Jon Milnes[^ref-8] |
+| Russian release | October 2003 | Windows | Published and localized by Soft Club[^ref-8] |
+
+Alternate titles: "Professor Tim: Die Rückkehr der verrückten Werkstatt" (German) and "Le retour des incroyables machines du Professeur Tim" (French)[^ref-8].
 
 ## Legacy
 
@@ -139,9 +147,9 @@ An expansion pack, *The Incredible Machine: Even More Contraptions*, followed in
 
 ### Collections
 
-Contraptions was later included in The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, alongside The Even More Incredible Machine, The Incredible Machine 3 and Even More Contraptions[^ref-18]. That pack is no longer sold.
+Contraptions was later included in The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009[^ref-52], alongside The Even More Incredible Machine, The Incredible Machine 3 and Even More Contraptions[^ref-18]. That pack is no longer sold.
 
-[[Kevin Ryan]], co-creator of the original Incredible Machine with Jeff Tunnell, was involved with Contraptions at first, but a family medical emergency kept him away during its development; in his words, "ultimately I wasn't all that involved"[^ref-48]. (Ryan has said that Tunnell "presented the concept" for the original game and that he did the design himself[^ref-50].) He later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
+[[Kevin Ryan]], co-creator of the original Incredible Machine with Jeff Tunnell, was involved with Contraptions at first, but a family medical emergency kept him away during its development; in his words, "ultimately I wasn't all that involved"[^ref-48]. (Of the original game, Ryan said: "Jeff presented the concept to me, but he didn't do the design except for feedback as dev went along"[^ref-50].) He later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
 
 ## Downloads
 
@@ -172,8 +180,8 @@ Contraptions was later included in The Incredible Machine Mega Pack, released on
 
 [^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle: How to Stop](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - September 7, 2000; "first new Incredible Machine game in five years", Rube Goldberg inspiration
 [^ref-2]: [Internet Archive - Return of the Incredible Machine Contraptions](https://archive.org/details/return-of-the-incredible-machine-contraptions) - Item description: story premise (Professor Tim, apprentice)
-[^ref-6]: [GameSpot - Incredible Machine: Contraptions Review](https://www.gamespot.com/reviews/return-of-the-incredible-machine-contraptions-revi/1900-2616799/) - Trey Walker, August 17, 2000; 8.1/10, parts, puzzle counts, interface
-[^ref-8]: [MobyGames - Return of the Incredible Machine: Contraptions](https://www.mobygames.com/game/5142/return-of-the-incredible-machine-contraptions/) - Developer, publisher, platforms, credits, description
+[^ref-6]: [GameSpot - Incredible Machine: Contraptions Review (archived 2001)](https://web.archive.org/web/20010210184945/http://www.zdnet.com/gamespot/stories/reviews/0,10867,2616799,00.html) ([original URL](https://www.gamespot.com/reviews/return-of-the-incredible-machine-contraptions-revi/1900-2616799/)) - Trey Walker, August 17, 2000; 8.1/10, parts, puzzle counts, interface
+[^ref-8]: [MobyGames - Return of the Incredible Machine: Contraptions](https://www.mobygames.com/game/5142/return-of-the-incredible-machine-contraptions/) - Developer, publisher, platforms, credits, description; alternate titles and the Russian release
 [^ref-9]: [Reddit - Contraption Maker - Kevin Ryan – Modern version of The Incredible Machine](https://www.reddit.com/r/Games/comments/18ew4pv/contraption_maker_kevin_ryan_modern_version_of/) - Kevin Ryan on Contraption Maker
 [^ref-14]: [IMDb - Return of the Incredible Machine: Contraptions](https://www.imdb.com/title/tt0387539/) - Bill Barrett, narrator (voice)
 [^ref-15]: [Game Over Online - Return of the Incredible Machine: Contraptions Review](https://web.archive.org/web/20001027211536/http://www.game-over.net:80/review/august2000/contraptions/index.html) - Mike McDermott, 84%; structure, parts, multiplayer, builder
@@ -194,3 +202,4 @@ Contraptions was later included in The Incredible Machine Mega Pack, released on
 [^ref-49]: [MobyGames - Return of the Incredible Machine: Contraptions credits (Windows, archived 2015)](https://web.archive.org/web/20151003094810/http://www.mobygames.com/game/windows/return-of-the-incredible-machine-contraptions/credits) - "Music and Voice: Christopher Stevens, Timothy Steven Clarke, Sage Freeman"; "Senior Producer: Randy Thompson"
 [^ref-50]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) - Kevin Ryan comment, February 25, 2019: "Jeff presented the concept to me, but he didn't do the design except for feedback as dev went along."
 [^ref-51]: [Hardcore Gaming 101 - The Incredible Machine (archived 2013)](https://web.archive.org/web/20131125152904/http://www.hardcoregaming101.net/incrediblemachine/incrediblemachine.htm) - "a few new puzzles in each of the difficulties, but a majority of them come from TIM2"
+[^ref-52]: [GOG.com API - The Incredible Machine Mega Pack](https://api.gog.com/products/1207658799) - Product record: title "The Incredible Machine Mega Pack", release_date 2009-10-01
