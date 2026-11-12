@@ -10,18 +10,18 @@ series: Gobliiins
 engine: Gob
 protagonist: Blount
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Callet]
 description: "Goblins Quest 3 is the third installment in Coktel Vision's Gobliiins puzzle-adventure series, released in 1993 for MS-DOS, Amiga and Macintosh and published in the United States by Sierra On-Line in 1994."
 tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Goblins Quest 3
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Goblins Quest 3 is the third installment in Coktel Vision's beloved Gobliiins puzzle-adventure series, released in 1993 for MS-DOS and Amiga platforms[^ref-1]. Described by Electronic Games magazine as "a cartoon cross between Indiana Jones and Ren and Stimpy," the game follows Blount, a goblin journalist covering the mysterious Labyrinth of Foliandre, who is "as tough and persistent as Indiana Jones" but "not much smarter than Ren and Stimpy"[^ref-2]. Sierra On-Line distributed the game in North America, adding the "Quest" suffix to align it with their popular Quest series branding, though it was originally released in Europe simply as "Goblins 3"[^ref-3].
+Goblins Quest 3 is the third installment in Coktel Vision's beloved Gobliiins puzzle-adventure series, released in 1993 for MS-DOS, Amiga and Macintosh platforms[^ref-1][^ref-40]. Described by Electronic Games magazine as "a cartoon cross between Indiana Jones and Ren and Stimpy," the game follows Blount, a goblin journalist covering the mysterious Labyrinth of Foliandre, who is "as tough and persistent as Indiana Jones" but "not much smarter than Ren and Stimpy"[^ref-2]. Sierra On-Line distributed the game in North America, adding the "Quest" suffix to align it with their popular Quest series branding, though it was originally released in Europe simply as "Goblins 3"[^ref-3].
 
 The game represents a significant evolution for the series, featuring what Adventure Classic Gaming called "probably the most bizarre game in the series"[^ref-3].
 
@@ -46,7 +46,7 @@ PC Gamer, presenting it with its 1994 Best Puzzle Game award, wrote that its puz
 
 The game's narrative centers on the legendary Labyrinth of Foliandre, said to harbor great secrets that might fulfill the wishes of those who discover them[^ref-7]. For thousands of years, two kingdoms ruled by Queen Xina and King Bodd have competed fiercely to be the first to conquer the labyrinth in the bowels of Mount Foliandre[^ref-8]. According to legend, the goblin who manages to overcome all the tests in the labyrinth will win eternal benefit for their people[^ref-8], with the fabulous "Jewel of the World" at its heart securing an eternity of pleasure for its owner[^ref-9].
 
-Players take control of Blount, a talented reporter from the "Goblins News" who becomes entangled in a series of catastrophic events[^ref-9]. The game opens with Blount awakening to discover his flying ship under attack—the captain and even the rats have abandoned ship[^ref-2]. Jumping overboard, Blount crashes to earth, is surrounded by guards, becomes smitten by love, defeats the guards, and is then devoured by a werewolf, waking up dead—"and that's just a tune-up for his real adventure," according to Electronic Games[^ref-2]. Strange events have begun occurring throughout the land: the guardian of the labyrinth has died, his daughter has disappeared, and King Bodd has apparently fallen under a mysterious curse[^ref-7][^ref-29].
+Players take control of Blount, a talented reporter from the "Goblins News" who becomes entangled in a series of catastrophic events[^ref-9]. The game opens with Blount awakening to discover his flying ship under attack—the captain and even the rats have abandoned ship[^ref-2]. Jumping overboard, Blount crashes to earth, is surrounded by guards, becomes smitten by love, defeats the guards, and is then devoured by a werewolf, waking up dead—"and that's just a tune-up for his real adventure," according to Electronic Games[^ref-2]. Strange events have begun occurring throughout the land: Behorn, the guardian of the labyrinth, has died of old age, his daughter Wynonna has disappeared, and King Bodd has apparently fallen under a mysterious curse[^ref-7][^ref-8][^ref-29].
 
 After being bitten by a werewolf, Blount gains the ability to transform into a werewolf form when exposed to moonlight, giving him a werewolf personality[^ref-8][^ref-33]. Thanks to this double personality, he might have a chance to overcome the obstacles of the labyrinth and become the champion of both Xina and Bodd[^ref-33]. Throughout his journey, Blount must also deal with falling in love and having his beloved kidnapped, creating both romantic and heroic motivations[^ref-10]. In a clever series connection, Blount is revealed to be the little prince who was kidnapped in the previous game, Gobliins 2: The Prince Buffoon[^ref-1][^ref-11].
 
@@ -60,12 +60,11 @@ Goblins Quest 3 employs a point-and-click interface typical of early 1990s adven
 
 The game consists of 18 different levels, with some levels being interconnected[^ref-11]. Most levels occupy more than one screen, allowing for limited navigation within confined puzzle areas[^ref-7]. Like its predecessors, the emphasis is on solving complex tasks within smaller areas rather than expansive exploration[^ref-7]. The game includes a joker system—five jokers are available that provide extra clues when players become stuck[^ref-33].
 
-**Level Structure:**
+**Areas** (as grouped in the GameFAQs hints file):
 - **The Vessel:** Opening sequence aboard Blount's flying ship[^ref-14]
 - **The Countryside:** Aftermath of the crash landing[^ref-14]
 - **The Town:** Urban environment with various characters[^ref-14]
 - **The Clouds:** Elevated puzzle sequences[^ref-14]
-- **The Labyrinth:** Final challenges within Mount Foliandre[^ref-8]
 
 ### Puzzles and Mechanics
 
@@ -140,15 +139,14 @@ The game utilized Coktel Vision's proprietary Gob engine, which powered several 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | 1993 | DOS/Amiga | Initial European release as "Goblins 3"[^ref-1] |
+| 1.0 | 1993 | DOS/Amiga | Initial European release as "Goblins 3"[^ref-1]; MobyGames lists the Coktel Vision disk release for France, Germany, Italy and the United Kingdom[^ref-40] |
 | Macintosh | 1993 | Macintosh | Published by Coktel Vision in France[^ref-40] |
 | UK (Sierra) | 1993 | DOS/Amiga | Published by Sierra On-Line[^ref-40] |
 | Israel (Hebrew) | 1993 | DOS | Distributed and localized by Makh-Shevet Ltd.[^ref-40][^ref-21] |
 | Spain | 1993 | DOS | Published by System 4 de España, S.A.[^ref-21] |
 | US Release | March 18, 1994 | DOS | Sierra release with "Quest" suffix[^ref-21]; MobyGames lists it as the Enhanced CD-ROM version, which added voice acting and different music[^ref-40][^ref-3] |
 | Germany (Sierra Originals) | 1996 | DOS | Published by Sierra On-Line[^ref-40] |
-| Windows (DotEmu) | March 23, 2010 | Windows | Windows release bundled with ScummVM[^ref-6] |
-| GOG | 2018 | Windows | DotEmu re-release, version 1.02[^ref-22] |
+| Windows (DotEmu / GOG) | March 23, 2010 | Windows | Windows release bundled with ScummVM[^ref-6]; on GOG in the Gobliiins pack from the same date[^ref-43], with a version 1.02 update in April 2018[^ref-22] |
 
 ### Technical Issues
 
@@ -157,7 +155,7 @@ The game has experienced various compatibility issues on modern systems. A VOGON
 ### Easter Eggs and Trivia
 
 - The protagonist Blount is revealed to be the kidnapped prince from Gobliins 2: The Prince Buffoon, creating a direct narrative connection between games[^ref-11]
-- The game features copy protection using a color grid reference system[^ref-5]
+- The game features copy protection using a color grid reference system: before play, the player is asked to name the color that corresponds to a grid reference[^ref-42]
 - The Amiga version was deprived of some between-levels screens present in other versions[^ref-5]
 - Characters speak in "goblinish"—gibberish sounds rendered in voices appropriate to each character—in the floppy disk version[^ref-5]
 - The music in the floppy disk version is composed of entirely different tunes than the CD-ROM version[^ref-3]
@@ -171,7 +169,7 @@ Goblins Quest 3 achieved notable recognition during its release era. PC Gamer US
 
 ### Collections
 
-The game has been re-released digitally through various platforms. It is available on GOG.com as part of the Gobliiins pack, which includes Gobliiins, Gobliins 2: Prince Buffoon and Goblins Quest 3[^ref-38]; GOG Database lists DotEmu as the publisher[^ref-22]. Goblins Quest 3 itself is not sold on Steam; only the later Gobliiins 5 and GOBLiiNS6 are[^ref-34][^ref-32]. In May 2026 Red Art Games released the Gobliiins Collection, a compilation of the first five games, for PS5, Xbox Series and Switch; Gematsu's announcement said a physical PS5 edition would follow in September[^ref-35]. The game can also be played through ScummVM, which added support for Goblins 3 in its June 2007 release[^ref-31].
+The game has been re-released digitally through various platforms. It is available on GOG.com as part of the Gobliiins pack, which includes Gobliiins, Gobliins 2: Prince Buffoon and Goblins Quest 3[^ref-38]; GOG Database lists DotEmu as the publisher[^ref-22]. Goblins Quest 3 itself is not sold on Steam; only the later Gobliiins 5 and GOBLiiNS6 are[^ref-34][^ref-32]. In May 2026 Red Art Games released the Gobliiins Collection, a compilation of the first five games, for PS5, Xbox Series and Switch; Gematsu reported that "a physical edition will follow for PlayStation 5 in September"[^ref-35]. The game can also be played through ScummVM, which added support for Goblins 3 in its June 2007 release[^ref-31].
 
 ### Fan Projects
 
@@ -179,7 +177,7 @@ The Gobliiins series has inspired continued development. Pierre Gilhodes himself
 
 ### Related Publications
 
-- **Game Manual:** Included with original release, containing story background and control instructions
+- **Game Manual:** Included with original release, containing story background and control instructions[^ref-33]
 - **Universal Hint System:** UHS offered hints for Goblins 3, providing progressive clue reveals to avoid spoilers[^ref-25]
 - **Various Walkthrough Guides:** Multiple fan-created walkthroughs are available on GameFAQs and dedicated gaming sites[^ref-14][^ref-15][^ref-28]
 - **Soundtrack:** A rip of the PC game's music is hosted on KHInsider[^ref-30]
@@ -249,5 +247,7 @@ Retrospective reviews have been warm. Adventure Classic Gaming called it "a grea
 [^ref-37]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – Coktel Vision chart: Goblins Quest 3 (gob:gob3) Excellent; Schnibble Productions chart: Gobliiins5 parts 1–4 with AGS-engine IDs ags:gobliiins5-1 to -4
 [^ref-38]: [GOG – Gobliiins pack](https://www.gog.com/game/gobliiins_pack) – "Includes Gobliiins, Gobliins 2: Prince Buffoon, and Goblins Quest 3"; company listed as Coktel Vision / DotEmu
 [^ref-39]: [Obligement – Entrevue avec Pierre Gilhodes](http://obligement.free.fr/articles/itwgilhodes.php) – reprint of Jacques Harbonn's interview from Tilt, October 1993: puzzle rework with testers, MDO code, Dracula shadow idea
-[^ref-40]: [MobyGames – Goblins Quest 3 (releases, read via the MobyGames API)](https://www.mobygames.com/game/2870/goblins-quest-3/) – DOS, Amiga and Macintosh release records: Coktel Vision, Sierra On-Line, Makh-Shevet, US 1994-03-18 Enhanced CD-ROM Version, Germany 1996 Sierra Originals; media types 3.5" floppy and CD-ROM
+[^ref-40]: [MobyGames – Goblins Quest 3 (releases)](https://www.mobygames.com/game/2870/goblins-quest-3/) – DOS, Amiga and Macintosh release records: Coktel Vision, Sierra On-Line, Makh-Shevet, US 1994-03-18 Enhanced CD-ROM Version, Germany 1996 Sierra Originals; media types 3.5" floppy and CD-ROM
 [^ref-41]: [MobyGames – Pierre Gilhodes (Wayback, 2025-03-24)](https://web.archive.org/web/20250324223942/https://www.mobygames.com/person/10718/pierre-gilhodes/) – biography: studied desktop publishing and drawing, presented his works to Coktel Vision in 1989
+[^ref-42]: [MobyGames – Goblins Quest 3 user reviews](https://www.mobygames.com/game/2870/goblins-quest-3/reviews/) – player review describing the grid-based copy protection: "you are asked to refer to the grid, naming the color that corresponds with the grid reference"
+[^ref-43]: [GOG Database – Gobliiins pack](https://www.gogdb.org/product/1207658846) – package listing: "GOG release date 2010-03-23"; publisher DotEmu
