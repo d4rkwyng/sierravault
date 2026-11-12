@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "Space Quest III", "Police Quest II", "King's Quest V"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Jeff Stephenson
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -23,7 +23,7 @@ One of Sierra On-Line's first employees, Stephenson spent about eleven years the
 
 According to the Sierra fan wiki, Stephenson began his career in 1980 at Software Arts in Cambridge, Massachusetts, porting VisiCalc to the 8086 for the IBM PC prototype, and was hired by Sierra about a year later.[^ref-4] The Digital Antiquarian, drawing on Steven Levy's *Hackers* (1984), likewise records that his last employer before On-Line Systems had been Software Arts, the developer of VisiCalc, and that his first assignment there was to join Bob Davis as co-head of the struggling *Time Zone* project.[^ref-23] He was one of the company's first employees, "struggling through the down times when Sierra almost went under."[^ref-6]
 
-His first Sierra credits are for IBM versions of the Hi-Res Adventures: MobyGames credits him with "Implemented by" on *The Wizard and the Princess* and *Ulysses and the Golden Fleece* (1982).[^ref-2] The IBM version of The Wizard and the Princess was released as [[1982 - Adventure in Serenia|Adventure in Serenia]], whose title screen reads "Implemented by Jeff Stephenson."[^ref-26][^ref-27] On Roberta Williams's *Time Zone* (1982) he and Bob Davis are credited as "Program Development Coordinators."[^ref-2] The fan wiki also says he led the team that wrote HomeWord, a word processor IBM released with the PCjr.[^ref-4]
+His first Sierra credits are for IBM versions of the Hi-Res Adventures: MobyGames credits him with "Implemented by" on *The Wizard and the Princess* and *Ulysses and the Golden Fleece* (1982).[^ref-2] The IBM version of The Wizard and the Princess was released as [[1982 - Adventure in Serenia|Adventure in Serenia]], whose title screen reads "Implemented by Jeff Stephenson."[^ref-26][^ref-27] On Roberta Williams's *Time Zone* (1982) he and Bob Davis are credited as "Program Development Coordinators."[^ref-2] In a 1984 *PCjr Magazine* profile, Ken Williams said that he and Stephenson, "a programmer at Sierra," developed HomeWord for the PCjr while sitting in an airport five hours before a meeting with IBM.[^ref-30] The fan wiki adds that Stephenson led a team of four programmers on HomeWord, a word processor IBM released with the PCjr.[^ref-4]
 
 He then worked on the Adventure Game Interpreter (AGI), first used for [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984), the game IBM commissioned to show off its PCjr. The PCjr's Video Gate Array could display up to 16 colors at a time.[^ref-8] The Digital Antiquarian writes that IBM flew Ken Williams and Stephenson to its offices in Boca Raton, Florida, to brief them on the PCjr, and that, with Ken busy running the company, the work of turning the proposal into a game engine "largely fell to Jeff Stephenson." The engine was first called the Game Adaptation Language (GAL) before being renamed AGI.[^ref-25] MobyGames credits him with the "New version" and the Apple version of King's Quest.[^ref-2]
 
@@ -65,7 +65,7 @@ Stephenson left Sierra in 1992.[^ref-6][^ref-4] Sierra later sold a 20% stake in
 
 ### After Sierra
 
-The Sierra fan wiki, which draws on his professional profile, says he went on to work as a senior software developer at Da Vinci Systems and ON Technology from 1992, at Microsoft from 1997 on Outlook and Exchange, and at Qualcomm from 2008, before retiring.[^ref-4]
+The Sierra fan wiki lists him as working as a senior software developer at Da Vinci Systems and ON Technology from 1992, at Microsoft from 1997 on Outlook and Exchange, and at Qualcomm from 2008, before retiring.[^ref-4]
 
 ## Notable Works
 
@@ -184,3 +184,4 @@ Years in this list are MobyGames' credit years; some linked game pages file unde
 [^ref-27]: [Adventure in Serenia manual, IBM/On-Line Systems 1982 (Internet Archive scan)](https://archive.org/details/vgmuseum_sierra_serenia-manual) — Period manual: "Welcome to Adventure in Serenia, the first of On-Line Systems' pictorial adventures for the IBM"
 [^ref-28]: [Video Game Newsroom Time Machine - Jeff Stephenson Interview (episode page, Dec 14, 2021)](https://videogamenewsroomtimemachine.libsyn.com/website/jeff-stephenson-interview) — Podcast episode, "Recorded: March 2021"; audio only, no transcript on the page
 [^ref-29]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) — interpreter lists for SCI0, SCI1, SCI1.1, SCI2, SCI21 and SCI3; "SCI2, SCI21, and SCI3 can be collectively referred to as SCI32"
+[^ref-30]: [PCjr Magazine, Vol. 1 No. 3, April 1984 (Internet Archive)](https://archive.org/details/pcjr-magazine-1984-volume-1) – Ken Williams profile: Williams says he and Jeff Stephenson developed HomeWord for Junior in an airport five hours before the IBM meeting
