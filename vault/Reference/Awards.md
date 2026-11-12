@@ -1,14 +1,14 @@
 ---
 title: "Awards"
 type: reference
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 description: "Verified industry awards and honours for Sierra On-Line games and creators: Computer Gaming World awards and Hall of Fame, SPA Excellence in Software Awards, Interactive Achievement / DICE Awards, BAFTA nominations, the World Video Game Hall of Fame, The Game Awards, GDCA, the AGS Awards, the Gerald Lawson Award and the Adventure Game Hall of Fame."
 tags: [reference, awards, recognition, hall-of-fame]
 ---
 
 # Awards
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ The Strong is the museum that runs the hall.[^ref-strong]
 
 ## Interactive Achievement Awards / DICE Awards (Academy of Interactive Arts & Sciences)
 
-The Academy of Interactive Arts & Sciences' Interactive Achievement Awards (later the D.I.C.E. Awards) began in 1998.
+The Academy of Interactive Arts & Sciences' Interactive Achievement Awards (later the D.I.C.E. Awards) began in 1998; the 1999 ceremony was the second.[^ref-iaa-2]
 
 | Year | Award | Winner / Nominee | Notes |
 |------|-------|------------------|-------|
@@ -52,9 +52,11 @@ The Academy of Interactive Arts & Sciences' Interactive Achievement Awards (late
 
 ## Computer Gaming World Awards
 
-*Computer Gaming World* (1981–2006) ran annual Game of the Year awards (renamed the Premier Awards in 1994) and kept a reader-driven Hall of Fame. Sierra won the adventure category in the 1990 and 1991 awards and shared it in 1994, and took the overall Game of the Year in 1996 and 1999 (the latter with the Sierra-published Half-Life); it also won repeatedly in sports, simulation and role-playing through its Dynamix studio.
+*Computer Gaming World* ran annual Game of the Year awards (renamed the Premier Awards in 1994)[^ref-cgw-119] and kept a reader-driven Hall of Fame. Sierra won the adventure category in the 1990 and 1991 awards and shared it in 1994, and took the overall Game of the Year in 1996 and 1999 (the latter with the Sierra-published Half-Life); it also won repeatedly in sports, simulation and role-playing through its Dynamix studio.
 
 ### CGW Game of the Year / Premier Awards
+
+Dates below are issue dates. The 1994 awards shortened the eligibility cycle to move toward a calendar-year process, so the later issues cover the preceding year's games.[^ref-cgw-119]
 
 | Issue | Title | Award |
 |------|-------|----------|
@@ -153,11 +155,11 @@ CGW's "150 Best Games of All Time" (issue 148, November 1996) included Sierra-fa
 | Year | Recipient | Award body | Notes |
 |------|-----------|------------|-------|
 | 2014 | [[Ken Williams]] and [[Roberta Williams]] | The Game Awards (Industry Icon Award) | Shared award[^ref-tga-2014] |
-| 2020 | [[Roberta Williams]] | Game Developers Choice Awards (Pioneer Award) | [^ref-gdca-20] |
-| 2025 | [[Muriel Tramis]] | IGDA Foundation (Gerald Lawson Award) | Announced March 3, 2025; recognizes achievement in game development[^ref-igdaf-lawson] |
+| 2020 | [[Roberta Williams]] | Game Developers Choice Awards (Pioneer Award) | Pioneer Award[^ref-gdca-20] |
 | 2024 | [[Ken Williams]] and [[Roberta Williams]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Inaugural class of 2024, alongside the games [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]] and [[1984 - King's Quest - Quest for the Crown\|King's Quest]][^ref-jensen-aghos] |
 | 2024 | [[Jane Jensen]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Inaugural class of 2024[^ref-jensen-aghos] |
 | 2024 | [[Al Lowe]] | Adventure Game Hall of Fame (Adventure Game Hotspot) | Final nominee for the inaugural class (nomination, not induction)[^ref-lowe-aghos] |
+| 2025 | [[Muriel Tramis]] | IGDA Foundation (Gerald Lawson Award) | Announced March 3, 2025; recognizes her accomplishments in game development, not a specific Sierra title[^ref-igdaf-lawson] |
 
 ---
 
