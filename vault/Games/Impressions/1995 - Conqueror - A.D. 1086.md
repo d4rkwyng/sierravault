@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created Knight
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [David Milner]
 description: 'Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing,
   and action game released in 1995, developed by Software Sorcery and published by
@@ -19,7 +19,7 @@ tags: [1990s, rpg, sierra, standalone, strategy]
 ---
 # Conqueror: A.D. 1086
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ The game distinguished itself through its multi-genre approach, combining strate
 > **Release Year:** 1995
 > **Series:** Standalone
 > **Protagonist:** Player-created Knight
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 
@@ -87,6 +87,8 @@ Peter Olafson reviewed the game for *Computer Gaming World* (issue #139, Februar
 
 *Computer Game Review* (February 1996) was harsher: "It's a game with high ambitions. It doesn't meet any of them. The scope of this project was more than either its budget or its talent could handle."[^ref-25] Wikipedia records the magazine's three critics as scoring it 60, 58 and 79 (66/100 overall).[^ref-2]
 
+*Coming Soon Magazine* gave it 80% overall (graphics 80%, sound 84%, music 85%, gameplay 76%, interest 80%). Its reviewer called it "an ambitious title with various facets that could have been a top-quality game, if only it had more diversity in the graphics and a better AI during battles", and noted the "poor control you have on your soldiers" in field battles, which "ended in a general melee"[^ref-33]. Craig Majaski reviewed it for Worldvillage's Gamer's Zone, describing the melee tournament as "designed a bit like Doom" and the castle fighting as "similar to Doom except that you can give your men orders"; he rated fun factor 3, interface 3, replayability 5, graphics 4 and sound 4[^ref-34].
+
 In Australia, Julian Schoffel of *Hyper* (issue #29, March 1996) gave the game 60[^ref-2], summarising: "1086 looks promising but ultimately fails to deliver. It tries to do too many things at once"[^ref-26]. He found the field battles lacking the depth of *Command & Conquer* or *Warcraft II* and called the jousting "fairly boring after a couple of attempts"[^ref-26].
 
 ### Modern Assessment
@@ -96,7 +98,7 @@ Benito Moretti of 336GameReviews gave the game 3/5 in 2019, calling it "an extre
 One GameFAQs guide author wrote that "Despite the various flaws of the game, it provided hours and months and years of entertainment"[^ref-12]. The game was described as having been "certainly expensive, priced at $55, but ended up being a great investment"[^ref-12].
 
 **Aggregate Scores:**
-- **MobyGames:** 59% critic average (17 ratings); players 2.5/5 (6 ratings)[^ref-1]
+- **MobyGames:** 65% critic average (14 ratings); players 2.5/5 (6 ratings), as of 28 November 2025[^ref-32]
 - **Giant Bomb:** 4.0 Stars (user reviews)[^ref-15]
 - **GameFAQs:** "Good" (14 user ratings), estimated 42 hours gameplay length[^ref-4]
 
@@ -273,3 +275,6 @@ Conqueror has maintained a fan following. The 2017 digital re-release drew long-
 [^ref-29]: [MobyGames – Jutland](https://www.mobygames.com/game/5248/jutland/) – 1993 DOS release, published and developed by Software Sorcery (read via the MobyGames API)
 [^ref-30]: [Internet Archive – Conqueror AD 1086 (1995) German manual](https://archive.org/details/conqueror-ad-1086-1995-manual-de) – German manual scans (gamemanuals collection)
 [^ref-31]: [GameFAQs – Fan Guide by mikel123456 (Wayback Machine, 29 May 2019)](https://web.archive.org/web/20190529185940/https://gamefaqs.gamespot.com/pc/574792-conqueror-1086-ad/faqs/66730) – "Version: 2.00 | Updated: 04/29/15"
+[^ref-32]: [MobyGames – Conqueror: A.D. 1086 (Wayback Machine capture of 28 November 2025)](https://web.archive.org/web/20251128164329/https://www.mobygames.com/game/4658/conqueror-ad-1086/) – "Average score: 65% (based on 14 ratings)"; players 2.5 out of 5 (6 ratings)
+[^ref-33]: [Coming Soon Magazine – Conqueror: A.D. 1086 review (Wayback Machine capture of 4 April 2006)](https://web.archive.org/web/20060404120522/http://www.csoon.com/issue13/conqad86.htm) – 80% overall, subscores, conclusion, battle-control criticism
+[^ref-34]: [Worldvillage Gamer's Zone – "Quest for the English Crown: A Review of Conqueror A.D. 1086" by Craig Majaski (Wayback Machine capture of 9 March 2009)](https://web.archive.org/web/20090309095126/http://www2.worldvillage.com/wv/gamezone/html/reviews/conq.htm) – review text and scorecard
