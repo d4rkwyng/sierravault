@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Unknown/unnamed
 protagonist: Loid (animated alien guide)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Early Math is a 1993 educational game for children ages three to six,
   developed by Bright Star Technology and published by Sierra On-Line for Windows
   3.1 and Macintosh, in which an animated alien named Loid guides children through
@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Early Math
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -86,7 +86,7 @@ Sierra's own description also lists number symbols, words for numbers, place val
 
 *MacUser*'s December 1994 roundup of children's software listed Early Math at $49.95 for ages 3 to 7 and summed it up as a "friendly, articulate alien" that "helps children with basic math skills in four cleverly animated, albeit simplistic, game activities."[^ref-21] MobyGames records this review as 4 out of 5.[^ref-20] The game itself has six activities, as the documentation and the Sierra Chest screenshot gallery show, so the review's "four" undercounts them.[^ref-5][^ref-29]
 
-The *Washington Post*'s December 1993 survey of educational software featured Early Math in its discussion of Bright Star Technology's talking-tutor approach.[^ref-23] No other contemporary reviews have been found.
+The *Washington Post*'s December 1993 survey of educational software featured Early Math in its discussion of Bright Star Technology's talking-tutor approach.[^ref-23] Sierra's own Holiday 1994 *InterAction* magazine advertised Early Math as the "Winner of a Seal of Approval from The National Parenting Center, a Gold Medal from the National Parenting Publication Awards, and rated 'Five Stars' by the Children's Software Revue."[^ref-34] These are publisher-reported awards and ratings, not reviews, and the original award listings have not been located. No other contemporary reviews have been found.
 
 ### Modern Assessment
 
@@ -122,9 +122,13 @@ In a 2010 SierraGamers forum discussion, one participant recalled that "Sierra h
 - **Quality Assurance:** Tim Knappenberger, Jay Williams
 - **Inventions by:** Elon Gasper
 
+### Voice Cast
+
+MobyGames credits Rebecca Armen as "Voice Talent" without naming her role.[^ref-1] Voice direction was by Gordon van Ekström.[^ref-1]
+
 ### Technical Achievements
 
-Early Math was a CD-ROM release with spoken instructions from Loid throughout, so children who cannot yet read can follow the activities.[^ref-1][^ref-5]
+Early Math shipped on floppy disk and on CD-ROM, in Windows and Macintosh editions: Sierra's Spring 1994 *InterAction* advertised it for "Windows/Macintosh and CD-ROM," and its Holiday 1994 issue offered the Talking Tutor games in "WIN or MAC" and "WIN CD or MAC CD" versions.[^ref-33][^ref-34][^ref-35] Loid gives spoken instructions throughout, so children who cannot yet read can follow the activities.[^ref-1][^ref-5]
 
 ### Technical Specifications
 
@@ -133,6 +137,10 @@ Early Math was a CD-ROM release with spoken instructions from Loid throughout, s
 - **Windows:** Windows 3.1, Intel i386 SX or better, 4 MB RAM, 256 colors at 640×480, mouse
 - **Macintosh:** System 6.0.7, 4 MB RAM, 256 colors, mouse
 - **Business Model:** Commercial
+
+**Original system requirements (Sierra Chest):**[^ref-36]
+- **Windows:** 386SX/20 MHz or faster CPU, 4 MB RAM, 11 MB free disk space (9.0 MB after installation), VGA display capable of 256 colors at 640×480, Windows 3.1 sound card and driver
+- **Macintosh:** color Macintosh, 4 MB RAM, System 6.0.7 or higher, 13 MB free disk space (9.0 MB after installation), 8-bit color monitor
 
 **Physical Release (Amazon listing):**[^ref-11]
 - **Publication date listed:** September 1, 1994
@@ -148,17 +156,13 @@ Early Math was a CD-ROM release with spoken instructions from Loid throughout, s
 | Original release | 1993 | Windows 16-bit, Macintosh | Released in the United States[^ref-15] |
 | Early Math CD Patch (mathcd) | Undated | Windows | Fixes a crash after picking an apple[^ref-26] |
 
-Sierra Help Pages' description says the original Early Math CD "would crash after you picked an apple." The patch copies a new version of the application to the hard drive and adds a program item named "Early Math CD Patch" to the Bright Star group.[^ref-26][^ref-12] Sources give different dates for the release: MobyGames lists 1993, Amazon's listing gives September 1, 1994, and Sierra Chest's release field shows 1995-01-01, which may reflect a later SKU.[^ref-15][^ref-11][^ref-24][^ref-5]
+Sierra Help Pages' description says the original Early Math CD "would crash after you picked an apple." The patch copies a new version of the application to the hard drive and adds a program item named "Early Math CD Patch" to the Bright Star group.[^ref-26][^ref-12] Sources give different dates for the release: MobyGames lists 1993, Amazon's listing gives September 1, 1994, and Sierra Chest's release field shows 1995-01-01, but Sierra's Holiday 1993 *InterAction* order form already listed "Early Math - New!" at $42.45.[^ref-15][^ref-11][^ref-24][^ref-5][^ref-32] Spring 1994 *InterAction* advertised the game at $39.95 for Windows/Macintosh and CD-ROM.[^ref-33]
 
 ### Easter Eggs and Trivia
 
 - Early Math was part of Bright Star Technology's "Talking Tutor" series of educational software.[^ref-5]
 - The game appeared on page 34 of Sierra's 15th anniversary catalog (Winter 1994–95), sharing the page with *Mixed-Up Mother Goose*.[^ref-25]
 - The *Washington Post*'s 1993 article attributed the curriculum to the "National Association of Teachers of Mathematics"; the game's own documentation names the National Council of Teachers of Mathematics.[^ref-23][^ref-5]
-
-## Voice Cast
-
-MobyGames credits Rebecca Armen as "Voice Talent" without naming her role.[^ref-1] Voice direction was by Gordon van Ekström.[^ref-1]
 
 ## Legacy
 
@@ -169,6 +173,8 @@ Sierra acquired Bright Star in 1992, "just as the educational software market wa
 ### Collections
 
 The Sierra Chest's demo page lists a playable Talking Tutor demo of Early Math (26.6 MB, for Windows 3.x), described there as included in *Sierra's Sneak Peeks 2*.[^ref-30] Its music page lists two recordings, "Early Math Theme" and a saxophone version.[^ref-31]
+
+Sierra's Winter 1994-95 catalog also offered the Kid's CD Sampler, a single CD with about five minutes of activities from each of six Bright Star titles: *Alphabet Blocks*, Early Math, *Beginning Reading*, *Kid's Typing*, *Spelling Jungle* and *Spelling Blizzard*.[^ref-35]
 
 A 2010 SierraGamers forum overview listed Early Math among Bright Star Technology's titles, alongside *Alphabet Blocks*, *The Lost Mind of Dr. Brain* and *Kid's Typing*. It described Bright Star as "a big contribution in the early 90s with not much after that."[^ref-8] Wikipedia's list of Bright Star's games also includes Early Math.[^ref-22]
 
@@ -181,13 +187,10 @@ Early Math is preserved on the Internet Archive as a CD-ROM ISO image of the Win
 - **Sierra 15th anniversary catalog, Winter 1994–95:** Early Math listed on page 34[^ref-25]
 - **Documentation:** Sierra Chest reproduces the game's parent documentation, including the Parent's Screen instructions[^ref-5]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
+- No GOG or Steam listing (checked November 2026)
 
 **Download / Preservation**
 - [Internet Archive - Early Math](https://archive.org/details/early-ma_202203)[^ref-2]
@@ -211,7 +214,7 @@ Early Math is preserved on the Internet Archive as a CD-ROM ISO image of the Win
 [^ref-2]: [Internet Archive – Early Math (2022 Upload)](https://archive.org/details/early-ma_202203) – date 1993, game description, mini-games, ISO and box scans
 [^ref-3]: [Encyclopedia.com – Sierra On-Line Inc. Company History](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) – 1992 Bright Star acquisition, HyperAnimation/Talking Tiles/Alphabet Blocks, workforce growth
 [^ref-5]: [Sierra Chest – Early Math Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough) – NCTM curriculum alignment, child-tested quote, Talking Tutor series, ages 3–6, game order, Parent's Screen, release/engine/series header fields, skills list (Wayback copy: http://web.archive.org/web/20241112115627/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)
-[^ref-8]: [Sierra Gamers Forum – Where Does "Sierra" End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – fifteen development groups, Bright Star titles including Early Math
+[^ref-8]: [Sierra Gamers Forum – Where Does "Sierra" End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – fifteen development groups, Bright Star titles including Early Math ([Wayback copy](https://web.archive.org/web/20240521235401/https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/))
 [^ref-10]: [Internet Archive – Early Math (Original Entry)](https://archive.org/details/early-ma) – "ISO image of the Sierra Early Math for Windows 3.1", date 1993
 [^ref-11]: [Amazon – Early Math by Sierra on Line](https://www.amazon.com/Early-Math-Line-Sierra/dp/0871770156) – ISBN, item weight, September 1, 1994 publication date
 [^ref-12]: [Sierra Help Pages – Patches and Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates.html) – "Early Math CD Update" index entry
@@ -230,3 +233,8 @@ Early Math is preserved on the Internet Archive as a CD-ROM ISO image of the Win
 [^ref-29]: [Sierra Chest – Early Math Screenshots (Wayback copy)](http://web.archive.org/web/20250803234339/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=screenshots) – captions for Counting Sheep, Complete the picture, Magic Box, Fish Tank, Tangram Bridge and Pattern Bridge
 [^ref-30]: [Sierra Chest – Early Math Demos (Wayback copy)](http://web.archive.org/web/20241006071923/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=demos) – Talking Tutor demo, 26.6 MB, "INCLUDED IN: Sierra's Sneak Peeks 2"; the site's description, not period text
 [^ref-31]: [Sierra Chest – Early Math Music (Wayback copy)](http://web.archive.org/web/20250813042643/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=music) – "Early Math Theme" and "Early Math Theme - saxophone"
+[^ref-32]: [Sierra InterAction, Holiday 1993 (Vol. VI No. 3) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – order form lists "Early Math - New!" at $42.45
+[^ref-33]: [Sierra InterAction, Spring 1994 (Vol. VI No. 4) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US) – Bright Star Early Math ad, $39.95, "Windows/Macintosh and CD-ROM"
+[^ref-34]: [Sierra InterAction, Holiday 1994 (Vol. VII No. 2) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_2_Holiday_1994_1994_Sierra_On-Line_US_partial) – Early Math blurb (Seal of Approval, Gold Medal, "Five Stars"), WIN/MAC and WIN CD/MAC CD editions; publisher-reported
+[^ref-35]: [Sierra Winter Catalog 1994-95 – Internet Archive](https://archive.org/details/Sierra_Winter_Catalog_94-95_1994_Sierra-On_Line) – Early Math listing, Kid's CD Sampler with six Bright Star titles, five minutes of each
+[^ref-36]: [Sierra Chest – Early Math Tech Support (Wayback copy)](https://web.archive.org/web/20241112142249/https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=tech) – original system requirements: CPU, disk space, memory
