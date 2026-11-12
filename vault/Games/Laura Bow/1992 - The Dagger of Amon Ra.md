@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI 1.1
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Christopher G. Braymen]
 description: '*The Dagger of Amon Ra* is a murder mystery adventure game developed
   and published by Sierra On-Line in 1992, serving as the second and final installment
@@ -19,7 +19,7 @@ tags: [1990s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Dagger of Amon Ra
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -118,7 +118,7 @@ The Egyptian setting emerged organically from the team's brainstorming. "Somethi
 
 [[Bruce Balfour]] served as producer, director and game designer[^ref-29], handling writing and puzzle designs, while Williams worked on concept design and character development so that the art, style, look and feel matched the first game[^ref-3]. Balfour reportedly worked on the game while watching Gulf War coverage on television in a hotel room[^ref-17]. He brought his background from *Neuromancer* and *Wasteland* to the project[^ref-4].
 
-Mandel recommended Balfour to Williams for the design role, and the two collaborated closely on the game's development[^ref-25]. Balfour pored over various art styles before finding inspiration in J.C. Leyendecker's work[^ref-25]. The game's Egyptology is heavily fictionalised; as TV Tropes notes, "Writer Josh Mandel admitted they didn't exactly have the budget to conduct extensive research"[^ref-27].
+PC Gamer's account says Mandel, who had been asked by Williams to design the game, felt Balfour was better suited to a murder mystery and ended up recommending Balfour to Williams for the design role[^ref-25]. In Mandel's recollection in the Campo Santo Quarterly, the then-head of Sierra's design and writing department had already swapped the assignments, giving Laura Bow to Balfour and the Larry spin-off to Mandel, without Williams's permission and was fired for it; Mandel, put in charge of the department, then asked Williams for the same swap, and she agreed as long as he oversaw it[^ref-17]. Mandel also describes working closely with Balfour on the game's writing[^ref-25]. Balfour pored over various art styles before finding inspiration in J.C. Leyendecker's work[^ref-25]. The game's Egyptology is heavily fictionalised; as TV Tropes notes, "Writer Josh Mandel admitted they didn't exactly have the budget to conduct extensive research"[^ref-27].
 
 The elaborate death scenes, in which each victim meets a gruesome end tied to a museum exhibit, were "Bruce's (slightly perverse) imagination at work," according to Mandel; he recalled that Lorelei Shannon "provided the inspiration for one of them: the Dermestid beetles"[^ref-25]. The game's mature content led some fans to observe that "some of the verbal content was raunchier than the Leisure Suit Larry games"[^ref-28].
 
