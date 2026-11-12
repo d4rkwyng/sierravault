@@ -5,17 +5,17 @@ founded: 1984
 defunct: 2011
 headquarters: "Paris, France"
 parent_company: "Sierra On-Line (1993-1996); CUC Software, Havas and Vivendi Universal (1996-2005); Mindscape (2005-2011)"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Coktel Vision was a French video game developer and publisher founded in 1984 by Roland Oskian, a former executive at Matra Espace.[^ref-16][^ref-1] Some databases give 1985 as its founding year.[^ref-2][^ref-15] The company was best known for its educational and adventure games: the Adi educational range and, among adventure players, the Gobliiins series.[^ref-1][^ref-16][^ref-7]
 
-Sierra On-Line acquired Coktel Vision S.A. on 29 October 1993, for an initial purchase price of about $5.3 million, accounted for as a purchase.[^ref-17] Contingent payments were due under an incentive payment plan: about $1.3 million was earned and paid in fiscal 1994 and about $1.6 million in fiscal 1995. In December 1995 Sierra amended the acquisition agreement and issued 150,000 shares of common stock in exchange for the former Coktel shareholders giving up their rights to any further incentive payments.[^ref-29] Under the merger agreement, Sierra entrusted Coktel with distributing all of its entertainment and educational programs in the European market, and Sierra in turn represented Coktel's educational products in the United States under licence.[^ref-16] In October 2005 VU Games sold Coktel to the French publisher Mindscape, which kept Coktel as a brand until Mindscape closed in 2011.[^ref-19][^ref-1]
+Wikipedia dates the acquisition to 1992 but says the deal was finalised on 29 October 1993,[^ref-1] the completion date given in Sierra's 10-K. Sierra On-Line acquired Coktel Vision S.A. on 29 October 1993, for an initial purchase price of about $5.3 million, accounted for as a purchase.[^ref-17] Contingent payments were due under an incentive payment plan: about $1.3 million was earned and paid in fiscal 1994 and about $1.6 million in fiscal 1995. In December 1995 Sierra amended the acquisition agreement and issued 150,000 shares of common stock in exchange for the former Coktel shareholders giving up their rights to any further incentive payments.[^ref-29] Under the merger agreement, Sierra entrusted Coktel with distributing all of its entertainment and educational programs in the European market, and Sierra in turn represented Coktel's educational products in the United States under licence.[^ref-16] Les Echos reported that Coktel's turnover reached 75 million francs in 1993, against 30 million in 1992, and that Oskian estimated the Adi range alone represented 65% of the French educational software market and 35% of the European market for interactive educational software.[^ref-16] *Tilt*'s December 1993 issue had already reported that the two companies would pool their efforts on developing and distributing multimedia software for the general public, with the group led by Oskian, who would also distribute the Sierra, Dynamix and Bright Star Technology products in Europe.[^ref-30] In October 2005 VU Games sold Coktel to the French publisher Mindscape, which kept Coktel as a brand until Mindscape closed in 2011.[^ref-19][^ref-1]
 
 For detailed information about the studio's development history, see [[Coktel Vision|Coktel Vision (Developer)]].
 
@@ -46,7 +46,7 @@ Years are original release years; Sierra's own US dates can differ (see the game
 - **1996** — [[1996 - Urban Runner|Urban Runner]] — Series: Lost in... (spiritual)
 - **1996** — [[1996 - Adiboo - Magical Playland|Adiboo: Magical Playland]] — Series: Adiboo
 
-Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8]
+Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8] As of November 2026 the Gobliiins pack is available on GOG.[^ref-31]
 
 ## Related
 
@@ -76,3 +76,5 @@ Adventure Gamers keeps a fuller catalogue of Coktel's adventure games.[^ref-8]
 [^ref-27]: [Tilt n°116 (July 1993)](https://archive.org/details/Tilt116) - *King's Quest VI*: "Editeur : Sierra On Line. Distributeur : Ubi Soft." [publisher: Sierra On Line. Distributor: Ubi Soft.]
 [^ref-28]: [Tilt n°120 (November 1993)](https://archive.org/details/Tilt120) - *King's Quest VI* listing: "Editeur: Sierra / Distributeur: Ubi Soft" [publisher: Sierra / distributor: Ubi Soft]
 [^ref-29]: [Sierra On-Line Form 10-K, filed 1 July 1996 (SEC, Wayback), Note 2 "Coktel"](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) - "This business combination was accounted for as a purchase"; "During fiscal years 1995 and 1994, approximately $1,562,000 and $1,313,000 was earned and paid under this plan"; "In December 1995, the Company amended the Coktel acquisition agreement whereby it issued 150,000 shares of Common Stock in exchange for each former Coktel shareholder relinquishing their rights to receive any further incentive payments"
+[^ref-30]: [Tilt n°121 (December 1993)](https://archive.org/details/Tilt121) - News item "Coktel et Sierra s'associent !" (read in the OCR text, which is partly garbled): the group is to be led by Roland Oskian and to distribute Coktel, Sierra, Dynamix and Bright Star Technology products in Europe
+[^ref-31]: [GOG.com - Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) - Store page, listed for sale (checked 12 November 2026)
