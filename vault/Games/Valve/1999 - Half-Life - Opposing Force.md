@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Corporal Adrian Shephard
 sierra_lineage: Sierra Published
-last_updated: '2026-11-04'
+last_updated: '2026-11-11'
 composer: [Chris Jensen]
 description: 'Half-Life: Opposing Force is the first official expansion pack for Valve''s
   acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and
@@ -19,19 +19,20 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life: Opposing Force
 
-<small style="color: gray">Last updated: November 4, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Half-Life: Opposing Force is the first official expansion pack for Valve's acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and published by Sierra Studios in November 1999[^ref-1]. The expansion represented a bold creative choice: instead of continuing Gordon Freeman's story, players assumed the role of Corporal Adrian Shephard, a U.S. Marine sent to the Black Mesa Research Facility—one of the enemy soldiers from the original game[^ref-2]. This innovative perspective shift allowed players to experience the catastrophic Black Mesa incident from an entirely new viewpoint while maintaining the intense atmosphere and gameplay that made Half-Life revolutionary[^ref-2][^ref-21].
 
-The expansion was significant not only for its quality but for establishing Gearbox Software as a capable developer. In the April 1999 announcement press release, Randy Pitchford stated that "our number one goal is to preserve the integrity of Half-Life and provide new experiences that expand upon the sensation of the original"[^ref-2]. Critics hailed Opposing Force as a new benchmark for expansion packs, with GameSpot's Erik Wolpaw declaring it "sets a new standard of quality for future action-game mission packs"[^ref-4]. The game went on to win the Computer Action Game of the Year award from the Academy of Interactive Arts & Sciences in 2000[^ref-1], and PC Gamer US called it the first expansion pack to be considered for Game of the Year[^ref-2].
+The expansion was significant not only for its quality but for establishing Gearbox Software as a capable developer. In the April 1999 announcement press release, Randy Pitchford stated that "our number one goal is to preserve the integrity of Half-Life and provide new experiences that expand upon the sensation of the original"[^ref-2]. Critics hailed Opposing Force as a new benchmark for expansion packs, with GameSpot's Erik Wolpaw declaring it "sets a new standard of quality for future action-game mission packs"[^ref-4]. The game went on to win the PC Action Game award from the Academy of Interactive Arts & Sciences at its Interactive Achievement Awards in 2000[^ref-45][^ref-2], and PC Gamer US called it the first expansion pack to be considered for Game of the Year[^ref-2].
 
 The title carries a deliberate double meaning: it references both the player's role as the enemy from the original game and Newton's third law of motion—for every action, there is an equal and opposite reaction[^ref-2]. This thematic depth extended throughout the game's design, which introduced new weapons, enemies, squad-based mechanics, and an entirely new alien faction known as Race X[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Gearbox Software]][^ref-1]
-> **Designer:** Randy Pitchford, Rob Heironimus[^ref-2]
+> **Director:** Randy Pitchford (Wikipedia infobox: director and producer; manual: Production / Direction)[^ref-2][^ref-46]
+> **Designer:** Rob Heironimus (Wikipedia infobox: designer; manual: Lead Level Design)[^ref-2][^ref-46]
 > **Publisher:** Sierra Studios[^ref-1]
 > **Engine:** GoldSrc[^ref-1]
 > **Platforms:** Windows, macOS, Linux[^ref-1]
@@ -126,7 +127,7 @@ User reviews on **IMDB** average **8.1/10**[^ref-9], with one 2006 IMDb user rev
 **Aggregate Scores:**
 - **GameRankings:** 85.45%[^ref-1]
 - **MobyGames:** 85% (Critics)[^ref-12]
-- **Steam User Reviews:** 95% positive (13,620 English-language reviews, as of October 2026)[^ref-22]
+- **Steam User Reviews:** 95% positive (13,655 English-language reviews, as of November 11, 2026)[^ref-22]
 - **Metacritic User Score:** 8.5/10[^ref-23]
 - **ModDB Community Rating:** 9.5/10 (278 votes, as of October 2026)[^ref-24]
 - **IMDB:** 8.1/10[^ref-9]
@@ -150,8 +151,14 @@ Gearbox brought in talent from across the video games industry to bolster the de
 "The most difficult thing we've had to deal with is copy protection and other lame things relating to installing the game and stuff," Pitchford admitted during development[^ref-10].
 
 **Development Credits:**
-- **Production / Direction:** Randy Pitchford[^ref-27]
-- **Lead Level Design:** Rob Heironimus[^ref-27]
+- **Production / Direction:** Randy Pitchford[^ref-27][^ref-46]
+- **Art Direction:** Brian Martel[^ref-46]
+- **Lead Programming:** John Faulkenbury[^ref-46]
+- **Lead Level Design:** Rob Heironimus[^ref-27][^ref-46]
+- **Models and Animation:** Stephen Bahl, Brian Martel, Landon Montgomery[^ref-46]
+- **Programming:** Patrick Deupree, John Faulkenbury, Steve Jones, Sean Reardon[^ref-46]
+- **Writing:** Stephen Bahl, Rob Heironimus, Kristy Junio, Randy Pitchford[^ref-46]
+- **For Sierra Studios:** J. Mark Hood (Senior Vice President, Core Games), Jeff Pobst (Producer, External Development), Doug Lombardi (Marketing Product Manager)[^ref-46][^ref-12]
 - **Original Music:** Chris Jensen[^ref-27]
 - **Voice Actors:** Jon St. John (HECU Soldiers, Drill Sergeant), Mike Shapiro (G-Man, Scientists, Security Guards), Harry S. Robins (HECU Commander)[^ref-7][^ref-27], Kathy Levin (Black Mesa Transit System Announcer)[^ref-9]
 - **All-Star Multiplayer Level Designers:** Richard "Levelord" Gray, Tom "Paradox" Mustaine, Richard "Zdim" Carlson, David "Kevlar" Kelvin, Eric Reuter[^ref-10][^ref-26], Marin "Kandyman" Gazzari[^ref-44]
@@ -255,7 +262,7 @@ Opposing Force contains numerous hidden secrets and developer jokes discovered b
 
 Half-Life: Opposing Force achieved significant commercial success. The game sold 108,008 copies in the United States by the end of 1999, eventually reaching over 1.1 million copies sold at retail worldwide[^ref-1][^ref-2]. This performance was remarkable for an expansion pack, demonstrating the strength of the Half-Life brand.
 
-The game won the Computer Action Game of the Year award from the Academy of Interactive Arts & Sciences at the Interactive Achievement Awards of 2000[^ref-1][^ref-22]. PC Gamer US named it Best Expansion Pack of 1999[^ref-2].
+The game won the PC Action Game award from the Academy of Interactive Arts & Sciences at the Interactive Achievement Awards of 2000[^ref-45]; Wikipedia lists the category as Computer Action Game of the Year[^ref-2]. PC Gamer US named it Best Expansion Pack of 1999[^ref-2].
 
 ### Collections
 
@@ -353,3 +360,5 @@ For Gearbox Software, Opposing Force was the start of a long run of work with Va
 [^ref-42]: [Wikipedia – Gearbox Software](https://en.wikipedia.org/wiki/Gearbox_Software) – Blue Shift, Halo PC port, Brothers in Arms, Borderlands
 [^ref-43]: [IMDB – User Reviews](https://www.imdb.com/title/tt0363260/reviews/) – user reviews (quoted reviews dated November 2006 and May 2018)
 [^ref-44]: [IGN – "Oppose This" (Archive.org)](https://web.archive.org/web/20081229210608/http://uk.pc.ign.com/articles/070/070270p1.html) – September 10, 1999 news item naming four more All-Star level designers, including Marin "Kandyman" Gazzari
+[^ref-45]: [AIAS Interactive Achievement Awards – PC winners (Archive.org, October 2000)](https://web.archive.org/web/20001014233202/http://www.interactive.org/iaa/winners_pc.html) – lists Half-Life: Opposing Force, Gearbox Software/Sierra Studios, as the winner of "Action Game" under the PC section
+[^ref-46]: [Internet Archive – Half-Life: Opposing Force (1999) User Manual](https://archive.org/details/halflifeopposingforceusermanual) – credits page: Gearbox team (production/direction, art direction, programming, level design, writing) and Sierra Studios staff
