@@ -10,7 +10,7 @@ series: Breach
 engine: AIL / Miles Sound System
 protagonist: Federated Worlds Special Forces Squad Leader
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Breach 3 is a 1995 real-time squad tactics game for MS-DOS, designed by
   Omnitrend Software and published by Impressions Games, with Sierra On-Line distributing.
 tags: [1990s, breach, sierra]
@@ -18,7 +18,7 @@ composer: [Jeremy A. Bell, Jay Rinaldi]
 ---
 # Breach 3
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -119,7 +119,12 @@ The development involved collaboration between the original Omnitrend team and I
 
 **Development Credits:**[^ref-1]
 - **Designers:** Thomas R. Carbone, Christopher Bamford, Scott Woodrick
-- **Composers:** Jeremy A. Bell, Jay Rinaldi
+- **Programming:** Scott Woodrick
+- **Art Direction:** Chris Beatrice
+- **Graphics:** Erik Casey, Andrea Muzeroll, Dennis Rose
+- **3D Graphics & Animation:** Chris Beatrice, Scot B. Forbes, Dennis Rose
+- **Sound and Music:** Jeremy A. Bell, Jay Rinaldi
+- **Testing Co-ordinator:** Edward Pugsley
 - **Publisher:** Impressions Games[^ref-1][^ref-19]; distributed by Sierra On-Line[^ref-9]
 
 The game featured 256-color VGA graphics,[^ref-9] and it dropped the "fake isometric" diagonal tile view used in Breach 2.[^ref-8]
@@ -191,7 +196,7 @@ The game largely faded from commercial availability following its initial releas
 
 ### Collections
 
-Breach 3 does not appear to have been included in any significant game compilations following its initial release. MobyGames lists it only for DOS,[^ref-1] and it did not receive ports or updates for later operating systems.
+Breach 3 does not appear to have been included in any significant game compilations following its initial release, and none was found on GOG or Steam as of 2026-11-12. MobyGames lists it only for DOS,[^ref-1] and it did not receive ports or updates for later operating systems.
 
 ### Fan Projects
 
