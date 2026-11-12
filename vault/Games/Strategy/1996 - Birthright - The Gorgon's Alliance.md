@@ -10,14 +10,14 @@ series: Birthright
 engine: Nova engine
 protagonist: Regent of Anuire (choice of 34 regents)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Birthright: The Gorgon''s Alliance is a 1997 Sierra strategy game based on TSR''s
   Birthright setting, combining turn-based realm management, real-time battles and first-person adventures.'
 tags: [1990s, birthright, rpg, sierra, strategy]
 ---
 # Birthright: The Gorgon's Alliance
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,12 @@ GameSpot's review said that "at times, Birthright looks like Cacadius Maximus du
 
 ### Modern Assessment
 
-Some later players have been kinder. A 2023 post on Reddit's r/patientgamers suggested readers "imagine Pathfinder: Kingmaker releasing in 1997"[^ref-40], and Collection Chamber called it "essentially three games in one"[^ref-1]. MyAbandonware shows a 4.48/5 rating from 43 votes[^ref-41].
+Some later players have been kinder. A 2023 post on Reddit's r/patientgamers suggested readers "imagine Pathfinder: Kingmaker releasing in 1997"[^ref-40], and Collection Chamber called it "essentially three games in one"[^ref-1]. MyAbandonware shows a 4.49/5 rating from 44 votes as of November 2026[^ref-41].
+
+**Aggregate Scores:**
+- MobyGames critics' average: 66% (25 ratings), as of November 2026[^ref-87]
+- MobyGames players' average: 3.4 out of 5 (19 ratings), as of November 2026[^ref-87]
+- MyAbandonware players' average: 4.49/5 (44 votes), as of November 2026[^ref-41]
 
 Technical issues persist on modern systems. A 2018 user report said "the game will randomly crash with a 'the memory could not be read from' error during adventures," and because the game cannot be saved during adventures, a crash can cost a lot of progress[^ref-42]. GameSpy's 2004 retrospective was harsh, calling the game "utterly without merit" and saying "players justifiably ignored Birthright: Gorgon's Alliance, which eventually sunk into well-deserved obscurity"[^ref-20].
 
@@ -99,17 +104,42 @@ The game missed its planned Christmas 1996 release[^ref-78]. In January 1997 Com
 
 Computer Games Strategy Plus reported that lead designer Bob Clardy "enthusiastically fields all questions" on Sierra's forums. It called Birthright "a product on store shelves but still in development" and noted that "at least one big patch (which includes new features as well as bug fixes)" was due[^ref-36].
 
+**Development Credits:**
+- **Computer game designers:** Robert C. Clardy, Kirt Lemons[^ref-76]
+- **Art director:** Kirt Lemons[^ref-76][^ref-2]
+- **Lead programmers:** Alan B. Clark (Realms), Greg Hightower (Battlefields), Gary Powell (Adventures)[^ref-76][^ref-2]
+- **Adventure design:** Kevin Green; Tim Jensen is credited as adventure level coordinator[^ref-76]
+- **Nova engine programmers:** Alan B. Clark, Steve Coleman, John P. Conley, Chris Phillips[^ref-76]
+- **Music:** Christopher Barker and Craig Utterback (musical composition); Craig Utterback (sound effects)[^ref-76][^ref-2]
+- **Quality assurance:** Michael D. Jones (manager), John Ratcliffe (lead)[^ref-76]
+- **TSR:** Ed Stark (designer), Richard Baker and Colin McComb (Birthright authors), Karen Boomgarden and Harold Johnson (creative directors)[^ref-76]
+
 ### Technical Achievements
 
 MobyGames credits a team of "Nova Engine Programmers" for the game's Nova engine[^ref-76]. The adventures run on modified Doom WADs, according to fan research reported by Kiran Welle[^ref-65]. Kiran Welle, who has rebuilt the game from its source code, writes that batch files in the source suggest Synergistic saved changes in ZIP files[^ref-52]. Building the source requires the Watcom 10.6 compiler, the DirectX 5.0 SDK and the Windows 95 DDK[^ref-47].
 
 The Sierra Help Pages say the game was designed for DirectX 2.0 and does not work properly with later versions[^ref-61]. CGW listed the system requirements as a Pentium 75 (P100 recommended), 8MB of RAM (32MB recommended), Windows 95 or MS-DOS 5.0, 30MB of hard drive space and SVGA graphics[^ref-24][^ref-62].
 
+### Version History
+
+| Version | Platform | Notes |
+|---------|----------|-------|
+| Windows Update 1.0.0.2 (BRWIN95PT) | Windows | Fixes a number of problems[^ref-85] |
+| DOS Update 1.0.0.2 (BRDOSPT) | DOS | Fixes several minor bugs; code support for the Deluxe Tools[^ref-85] |
+| Windows Update 1.0.0.3 (BR95PT13) | Windows | Update patch[^ref-85] |
+| DOS Update 1.0.0.3 (BRDOS13) | DOS | Fixes several bugs[^ref-85] |
+| Windows '95 Update 1.0.4 (BRWIN104) | Windows | Requires DirectX 5.0; fixes several minor bugs; code support for the Deluxe Tools. Kiran Welle calls it Patch 1.4 and uses it to update the game to the latest version[^ref-85][^ref-65] |
+| Birthright Preservation Patch 1.4.2 | Windows | Fan-made patch that aims to enhance and fix bugs; released September 11, 2026. Kiran Welle notes that it removes the requirement to have the CD inserted[^ref-66][^ref-88][^ref-65] |
+
 ## Legacy
 
 Despite its mixed reception, Birthright: The Gorgon's Alliance has kept a following among retrogamers[^ref-82]. In spring 1998 Sierra offered it as one of "three complete downloadable games" at www.sierra.com/free, alongside Red Baron and Betrayal at Krondor[^ref-81]. According to Kiran Welle, the game's source code was among the Sierra backup disks Al Lowe sold in 2018, and it appeared on the Internet Archive a year later[^ref-65]. Community projects such as the Birthright Preservation Patch work to fix bugs and improve the Windows version[^ref-66].
 
-The game's GOG wishlist entry had 2,102 votes and 278 comments as of August 2025, and one 2023 comment reads "No game scratches this itch, would love to get it on GoG"[^ref-82][^ref-64]. Modern guides cover running the game on Windows 10 and 11, including multiplayer over a LAN[^ref-65].
+The game's GOG wishlist entry had 2,102 votes and 278 comments as of November 2026[^ref-86], and one 2023 comment reads "No game scratches this itch, would love to get it on GoG"[^ref-86][^ref-64]. Modern guides cover running the game on Windows 10 and 11, including multiplayer over a LAN[^ref-65].
+
+### Collections
+
+MobyGames lists the game as included in three compilations: Dragon Stories (2000), Fantasy Pack (1998) and On-Line Games Collection Series (1997)[^ref-7].
 
 ## Downloads
 
@@ -135,7 +165,7 @@ The game's GOG wishlist entry had 2,102 votes and 278 comments as of August 2025
 
 [^ref-1]: Collection Chamber. "Birthright: Gorgon Alliance." Accessed October 14, 2026. https://collectionchamber.blogspot.com/p/birthright-gorgon-alliance.html
 [^ref-2]: Wikipedia. "Birthright: The Gorgon's Alliance." Accessed October 14, 2026. https://en.wikipedia.org/wiki/Birthright%3A_The_Gorgon%27s_Alliance
-[^ref-7]: MobyGames. "Birthright: The Gorgon's Alliance." Accessed October 14, 2026. https://www.mobygames.com/game/1410/birthright-the-gorgons-alliance/
+[^ref-7]: MobyGames. "Birthright: The Gorgon's Alliance." Accessed November 12, 2026. https://www.mobygames.com/game/1410/birthright-the-gorgons-alliance/
 [^ref-20]: GameSpy. "A History of D&D Video Games - Part IV" (2004), page 3. Accessed October 14, 2026. http://pc.gamespy.com/articles/540/540115p3.html
 [^ref-24]: Wayback Machine - Computer Gaming World. "Birthright: The Gorgon's Alliance" review by Gavin Hachiya Wasserman, posted 10/22/97. Accessed October 14, 2026. https://web.archive.org/web/20000816004654/http://www.gamespot.com/strategy/birthrig/review_cgw.html
 [^ref-25]: HonestGamers. "Birthright: The Gorgon's Alliance (PC) Review" by zanzard, January 5, 2008. Accessed October 14, 2026. http://www.honestgamers.com/6679/pc/birthright-the-gorgons-alliance/review.html
@@ -143,7 +173,7 @@ The game's GOG wishlist entry had 2,102 votes and 278 comments as of August 2025
 [^ref-34]: GameSpot. "Birthright: The Gorgon's Alliance Review" by Gamespot Staff, May 1, 2000. Accessed October 14, 2026. https://www.gamespot.com/reviews/birthright-the-gorgons-alliance-review/1900-2538176/
 [^ref-36]: Wayback Machine - Computer Games Strategy Plus. "Birthright: The Gorgon's Alliance" review by Peter Smith (1997). Accessed October 14, 2026. https://web.archive.org/web/20050511041440/http://www.cdmag.com/articles/003/151/birthright_review.html
 [^ref-40]: Reddit r/patientgamers. "Birthright: The Gorgon's Alliance - The Good, The Bad" (2023). Accessed October 14, 2026. https://www.reddit.com/r/patientgamers/comments/13a3brl/birthright_the_gorgons_alliance_the_good_the_bad/
-[^ref-41]: MyAbandonware. "Birthright: The Gorgon's Alliance." Accessed October 14, 2026. https://www.myabandonware.com/game/birthright-the-gorgon-s-alliance-cov
+[^ref-41]: MyAbandonware. "Birthright: The Gorgon's Alliance." Accessed November 12, 2026. https://www.myabandonware.com/game/birthright-the-gorgon-s-alliance-cov
 [^ref-42]: GitHub Issues. "Any chance you can fix Birthright: Gorgon's alliance too?" juanitogan/rbxit #13, July 23, 2018. Accessed October 14, 2026. https://github.com/juanitogan/rbxit/issues/13
 [^ref-47]: Kiran Welle. "Rebuilding Birthright: The Gorgon's Alliance" (May 28, 2024). Accessed October 14, 2026. https://www.kiranwelle.com/posts/2024/05/birthright
 [^ref-52]: Kiran Welle. "Rebuilding Birthright: The Gorgon's Alliance" (series index). Accessed October 14, 2026. https://www.kiranwelle.com/series/rebuilding-birthright-the-gorgons-alliance
@@ -162,3 +192,7 @@ The game's GOG wishlist entry had 2,102 votes and 278 comments as of August 2025
 [^ref-82]: Wayback Machine - GOG.com Community Wishlist. "Birthright: The Gorgon's Alliance" (captured August 18, 2025). Accessed October 14, 2026. https://web.archive.org/web/20250818080515/https://www.gog.com/wishlist/games/birthright_the_gorgons_alliance
 [^ref-83]: Wikipedia. "Birthright (campaign setting)." Accessed October 14, 2026. https://en.wikipedia.org/wiki/Birthright_(campaign_setting)
 [^ref-84]: Wikipedia. "Diablo: Hellfire." Accessed October 14, 2026. https://en.wikipedia.org/wiki/Diablo:_Hellfire
+[^ref-85]: Sierra Help Pages. "Birthright Updates." Accessed November 12, 2026. https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/BirthrightUpdates.html
+[^ref-86]: GOG.com Community Wishlist. "Birthright: The Gorgon's Alliance." Accessed November 12, 2026. https://www.gog.com/wishlist/games/birthright_the_gorgons_alliance
+[^ref-87]: MobyGames. "Birthright: The Gorgon's Alliance reviews." Accessed November 12, 2026. https://www.mobygames.com/game/1410/birthright-the-gorgons-alliance/reviews/
+[^ref-88]: GitHub - birthrightnet/BirP. "Releases." Accessed November 12, 2026. https://github.com/birthrightnet/BirP/releases
