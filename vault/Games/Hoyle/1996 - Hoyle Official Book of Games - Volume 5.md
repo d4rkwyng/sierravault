@@ -3,6 +3,7 @@ title: Hoyle Official Book of Games Volume 5 (Hoyle Solitaire)
 release_year: 1996
 developer: Sierra On-Line, Inc.
 designer: [Paul Horn, Gayle Rowbotham]
+composer: [Johnathan Cunningham]
 publisher: Sierra On-Line, Inc.
 genre: Card Game
 platforms: [Windows 3.x, Windows 95, Mac]
@@ -10,26 +11,28 @@ series: Hoyle's Official Book of Games
 engine: SCI2.1
 protagonist: N/A (Single Player Card Game)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
-description: Hoyle Official Book of Games Volume 5, more commonly known as **Hoyle
-  Solitaire**, is a comprehensive digital solitaire collection developed and published...
+last_updated: '2026-11-11'
+description: 'Hoyle Official Book of Games Volume 5, more commonly known as Hoyle
+  Solitaire, is a 1996 collection of 28 solitaire games developed and published by
+  Sierra On-Line for Windows and Macintosh.'
 tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 5 (Hoyle Solitaire)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Hoyle Official Book of Games Volume 5, more commonly known as **Hoyle Solitaire**, is a comprehensive digital solitaire collection developed and published by Sierra On-Line, Inc. in June 1996[^ref-5]. The game represents an evolution of Sierra's popular Hoyle series, serving as a Windows upgrade to the earlier MS-DOS Hoyle Official Book of Games: Volume 2, featuring 28 solitaire games with modernized graphics, enhanced sound, and improved mouse controls[^ref-2]. Named after the 18th-century playing card expert Edmond Hoyle, whose name became synonymous with authoritative game rules, the Hoyle series had established itself as a cornerstone of Sierra's casual gaming portfolio[^ref-3].
+Hoyle Official Book of Games Volume 5, more commonly known as **Hoyle Solitaire**, is a comprehensive digital solitaire collection developed and published by Sierra On-Line, Inc. in June 1996[^ref-5] (Sierra Chest lists the first release as May 31, 1996[^ref-8]). The game represents an evolution of Sierra's popular Hoyle series, serving as a Windows upgrade to the earlier MS-DOS Hoyle Official Book of Games: Volume 2, featuring 28 solitaire games with modernized graphics, enhanced sound, and improved mouse controls[^ref-2]. Named after the 18th-century playing card expert Edmond Hoyle, whose name became synonymous with authoritative game rules, the Hoyle series had established itself as a cornerstone of Sierra's casual gaming portfolio[^ref-3].
 
-The game was released for both Windows and Macintosh platforms, with Sierra's stated goal being "to develop and bring to market the most creative and technologically advanced products available"[^ref-4]. Hoyle Solitaire featured intuitive drag-and-drop gameplay mechanics, with the option to right-click cards to automatically send them to their correct positions[^ref-5]. The collection was later re-released in January 1998[^ref-6].
+The game was released for both Windows and Macintosh platforms, with Sierra's stated goal being "to develop and bring to market the most creative and technologically advanced products available"[^ref-4]. Hoyle Solitaire featured intuitive drag-and-drop gameplay mechanics, with the option to right-click cards to automatically send them to their correct positions[^ref-5]. The collection was later re-released in January 1998[^ref-6]. A budget re-release was titled "Hoyle Classic Solitaire"[^ref-2].
 
 As part of Sierra's broader strategy to diversify beyond adventure games, Hoyle Solitaire represented the company's commitment to the casual gaming market. In a 1998 announcement of a new internal brand structure, Sierra placed its Hoyle license in the new Sierra Attractions division, which was to "feature family and board-style games, stemming mostly from Berkeley Systems' famous brand titles and Sierra's Hoyle license"[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-5]
 > **Designer:** Paul Horn, Gayle Rowbotham (associate designers: Jim Love, Julie Pogue Barnes)[^ref-2]
+> **Composer:** Johnathan Cunningham[^ref-2]
 > **Publisher:** Sierra On-Line, Inc.[^ref-5]
 > **Engine:** SCI2.1[^ref-9]
 > **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-5]
@@ -54,12 +57,12 @@ Hoyle Solitaire employs an intuitive interface designed for accessibility across
 
 ### Structure and Progression
 
-The game presents players with 28 different solitaire variants, each with its own set of rules and winning conditions[^ref-2]. Players can freely select which game to play from the main menu, without any required progression or unlocking system. The collection includes:
+The game presents players with 28 different solitaire variants, each with its own set of rules and winning conditions[^ref-2]. Players can freely select which game to play from the main menu, without any required progression or unlocking system. The collection includes[^ref-8]:
 
-- **Klondike**
-- **Canfield**
-- **Baker's Dozen**
-- **Pyramid**, **Yukon**, **Scorpion**, **Golf** and **Aces Up**, among others[^ref-3]
+- Aces Up, Baker's Dozen, Beleaguered Castle, Bowling, Bristol, Calculation, Canfield
+- Cribbage Square, Eagle Wing, Eight Off, Eliminator, Flower Garden, Fortress, Gaps
+- Golf, Klondike, La Belle Lucie, Nestor, Penguin, Poker Square, Pyramid
+- Scorpion, Shamrocks, Slide, Spiderette, Strategy, Triplets, Yukon
 
 The game tracks player statistics, allowing up to four different players to maintain their own win/loss records and track their progress across different game types[^ref-5].
 
@@ -135,9 +138,9 @@ The game offered two installation options: a CD version that ran primarily from 
 |---------|------|----------|-------|
 | 1.0 | June 1996 | Windows 3.x | Initial release[^ref-5] |
 | 1.0 | 1997 | Macintosh | Mac OS release[^ref-2] |
-| Rerelease | January 19, 1998 | Windows | Updated version[^ref-6] |
+| Rerelease | January 19, 1998 | Windows | Windows re-release; the date comes from the Internet Archive item ID[^ref-6], and MobyGames lists a January 1998 Windows release[^ref-2] |
 | 1998 Edition | 1998 | Windows | 1998 CD release[^ref-19] |
-| 2000 Edition | 2000 | Windows 95/98 | Windows 95/98 release[^ref-20] |
+| Hoyle Solitaire (2000) | 2000 | Windows 95/98 | Sierra On-Line release catalogued separately as "Hoyle Solitaire (2000)" for Windows 95/98[^ref-20][^ref-25] |
 
 ### Technical Issues
 
@@ -277,7 +280,7 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 [^ref-5]: [Internet Archive – Hoyle Solitaire (Windows 3.x)](https://archive.org/details/win3_HoyleSol) – release dates, developer, publisher, platforms, technical specifications, trivia
 [^ref-6]: [Internet Archive – Hoyle Solitaire USA Rerelease](https://archive.org/details/hoyle-solitaire-usa-rerelease-19980119) – 1998 rerelease date (from the item ID)
 [^ref-7]: [GameSpot – Sierra Plans for the Future (Wayback Machine copy)](https://web.archive.org/web/20180901113118/https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – 1998 announcement of Sierra's new brand structure (page later stamped "updated April 28, 2000"); Sierra Attractions division with Berkeley Systems and Hoyle
-[^ref-8]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – tutorial features, glossary information
+[^ref-8]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – tutorial features, glossary information, list of the 28 games, first-release date (1996-05-31)
 [^ref-9]: [PCGamingWiki – Hoyle Solitaire](https://www.pcgamingwiki.com/wiki/Hoyle_Solitaire) – SCI2.1 engine, technical specifications, system requirements
 [^ref-11]: [GameSpot – Hoyle Solitaire Review](https://www.gamespot.com/reviews/hoyle-solitaire-review/1900-2558794/) – review score, reviewer quotes, customization features; page data: published 1996-08-07, modified 2000-05-01
 [^ref-13]: [Sierra Gamers Forum – Where Does Sierra End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community discussion on Hoyle series classification
@@ -286,8 +289,9 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 [^ref-17]: [GameFAQs – Hoyle Franchise (Wayback Machine copy)](https://web.archive.org/web/20251231053743/https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – series overview, Hoyle Card Games 2001 description, "according to Hoyle" / "by the book" blurb
 [^ref-18]: [MobyGames – Hoyle Official Book of Games Volume 2](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – original DOS version details, game count
 [^ref-19]: [Internet Archive – Hoyle Solitaire Sierra On-Line 1998](https://archive.org/details/Hoyle_Solitaire_Sierra_On-Line_1998) – 1998 version details, file size
-[^ref-20]: [Internet Archive – Hoyle Solitaire 2000](https://archive.org/details/hoyle-solit) – 2000 version, Windows 95/98
+[^ref-20]: [Internet Archive – Hoyle Solitaire 2000](https://archive.org/details/hoyle-solit) – item "Hoyle Solitaire (2000)" by Sierra On-Line, Windows 95/98
 [^ref-21]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – technical issues, bug documentation
 [^ref-22]: [MobyGames – Hoyle Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – Sierra character opponents, easter eggs, idle conversations
 [^ref-23]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles](https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles) – release date (22 April 2000)
 [^ref-24]: [Wikipedia – Edmond Hoyle](https://en.wikipedia.org/wiki/Edmond_Hoyle) – Hoyle's dates (1672–1769), English writer on card game rules, origin of "according to Hoyle"
+[^ref-25]: [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh) – Windows, 2000, published by Sierra On-Line, Inc.
