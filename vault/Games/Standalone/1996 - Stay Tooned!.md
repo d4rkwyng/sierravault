@@ -35,7 +35,7 @@ Stay Tooned! was built with Macromedia Director[^ref-3][^ref-15]. Funnybone Inte
 > **Release Year:** 1996 (Sierra began shipping it in the week before October 7, 1996)[^ref-16]
 > **Series:** Standalone
 > **Protagonist:** The Player
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 

@@ -38,7 +38,7 @@ The game's tagline reads "It's High Noon In Deep Space."[^ref-13] Reviewers and 
 > **Release Year:** 2000
 > **Series:** Standalone
 > **Protagonist:** Major Archer
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 

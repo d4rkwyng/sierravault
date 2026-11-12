@@ -39,7 +39,7 @@ The game was released on multiple platforms through various international publis
 > **Release Year:** 1984
 > **Series:** B.C.
 > **Protagonist:** Thor
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 

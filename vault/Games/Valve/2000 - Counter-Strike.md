@@ -37,7 +37,7 @@ The gameplay formula proved so compelling that critics widely praised its emphas
 > **Release Year:** 2000
 > **Series:** Counter-Strike
 > **Protagonist:** Player-controlled operatives
-> **Sierra Lineage:** Published by Sierra
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 
