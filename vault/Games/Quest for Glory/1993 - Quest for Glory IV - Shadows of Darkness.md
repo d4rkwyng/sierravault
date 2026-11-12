@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI2
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Aubrey Hodges]
 description: 'Quest for Glory: Shadows of Darkness is a 1993 adventure/role-playing
   hybrid by Lori Ann Cole and Corey Cole, the fourth Quest for Glory game, set in the
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: Shadows of Darkness
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1].
@@ -61,7 +61,7 @@ The Hero is ultimately coerced into assisting Ad Avis' Dark Master in collecting
 
 ## Gameplay
 
-The gameplay continued with Quest for Glory III's graphical, point-and-click interface[^ref-1]. The game introduced a new combat system with a sideways perspective of fights and allowed players to check an option to let the computer fight the battles automatically[^ref-1].
+The gameplay continued with Quest for Glory III's graphical, point-and-click interface[^ref-1]. The game introduced a new combat system with a sideways perspective of fights and allowed players to check an option to let the computer fight the battles automatically[^ref-1]. The combat system owes a lot to the Street Fighter franchise; Corey Cole considers it the best combat engine in the history of the series, though opinions among fans are more divided, and the Coles made it possible for the first time to turn on an auto-combat mode for players not interested in street-fighting their way through the game[^ref-27].
 
 ### Interface and Controls
 - Point-and-click interface continuing from QFG III[^ref-1]
@@ -88,14 +88,14 @@ A short product blurb in Computer Gaming World's "Taking A Peek" section (March 
 James V. Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Good" evaluation and stating "If you simply want some challenging fun presented in a gothic setting, try the newest Quest for Glory"[^ref-1]. In Game Bytes Magazine (1994), Steven D. Leung reviewed version 1.1 and called Shadows of Darkness "a worthy sequel with promising graphics, a good soundtrack, and enough variation to make it worth replaying", though "it does not have the depth of GABRIEL KNIGHT". He noted technical problems too: "Shadows of Darkness is Sierra's first attempt at a 32-bit game and there are some rough edges"[^ref-41]. The game was rated K-A (Kids to Adults) by the ESRB[^ref-19].
 
 ### Modern Assessment
-Rowan Kaiser of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series; Kaiser called it "the clear best of the bunch"[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth the money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV wrote that Shadows of Darkness "was probably the most elaborate and well-designed" entry in the series, though Trial by Fire remained his own favourite[^ref-39]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
+Rowan Kaiser of Engadget and, according to Wikipedia, Ryan Stevens of GameTrailers consider it the best entry of the entire series; Kaiser called it "the clear best of the bunch"[^ref-1][^ref-7]. Not every critic takes its horror seriously: The Digital Antiquarian calls it "strictly B-movie horror — or, perhaps better said, a parody of B-movie horror"[^ref-27]. Michael Baker for RPGamer considers it "worth the money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV wrote that Shadows of Darkness "was probably the most elaborate and well-designed" entry in the series, though Trial by Fire remained his own favourite[^ref-39]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
 
 In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released, calling it "arguably the best chapter in the Quest for Glory series"[^ref-1][^ref-38]. IMDb users rate it 8.6/10 (233 votes, as of October 2026)[^ref-4]. MobyGames critics average 76% (16 reviews)[^ref-19]. The CRPG Addict gave it a final rating of 47, ranking it in the top 8% of the games he had rated at the time[^ref-20]. HowLongToBeat reports the main story takes approximately 13½ hours to complete, with completionist runs taking about 22½ hours (as of October 2026)[^ref-10]. On Speedrun.com the fastest run in the standard Any% category is about 15 minutes, and Any% No Major Skips about 22 minutes[^ref-21].
 
 - **Adventure Gamers:** #23 best adventure game of all time[^ref-1][^ref-38]
 - **White Wolf Magazine:** "Very Good" (May 1994)[^ref-1]
 - **RPGamer:** 4/5 stars[^ref-8]
-- **Engadget/GameTrailers:** Best entry in series[^ref-1][^ref-7]
+- **Engadget/GameTrailers (per Wikipedia):** Best entry in series[^ref-1][^ref-7]
 - **IMDb:** 8.6/10[^ref-4]
 - **MobyGames:** 76% Critics (16 reviews)[^ref-19]
 - **CRPG Addict:** 47[^ref-20]
@@ -113,7 +113,7 @@ Asked about the game's popular "dark" label, Corey Cole told The Digital Antiqua
 After Quest for Glory III, Corey Cole left his full-time Sierra job and returned as a game designer on contract; he described it as the first game (other than Dr. Brain) on which he worked full-time on design with no programming responsibilities[^ref-40]. He said the team "steeped ourselves in old horror movies and books about Vampires and Werewolves"; the name "Avoozl" came from a spider god in Anton LaVey's "The Satanic Rituals," Dr. Cranium is "a nod to Castle of Dr. Brain," and Mel Brooks's Young Frankenstein was among the parodies that inspired the game[^ref-40].
 
 ### Production
-Quest for Glory IV features darker themes while maintaining the humor of previous games through methods like incorporating Boris Karloff and Peter Lorre parodies[^ref-1]. The game was inspired by gothic fiction, "old horror movies and books about vampires and werewolves"[^ref-1]. Development ran late, forcing Sierra to ship the floppy version with inadequate testing[^ref-1]. The CD version released the following year was much improved[^ref-1]. Wikipedia states that the GOG digital re-release has since resolved many remaining bugs[^ref-1], while The Digital Antiquarian writes that "plenty of glitches still remain even in the version available for digital download today"[^ref-27].
+Quest for Glory IV features darker themes while maintaining the humor of previous games through methods like incorporating Boris Karloff and Peter Lorre parodies[^ref-1]. The game was inspired by gothic fiction, "old horror movies and books about vampires and werewolves"[^ref-1][^ref-40]. Development ran late, forcing Sierra to ship the floppy version with inadequate testing[^ref-1]. The CD version released the following year was much improved[^ref-1]. Wikipedia states that the GOG digital re-release has since resolved many remaining bugs[^ref-1], while The Digital Antiquarian writes that "plenty of glitches still remain even in the version available for digital download today"[^ref-27].
 
 The CD-ROM version was the first game in the series to feature voice actors, including John Rhys-Davies as the Narrator (whose recording took more than three weeks, leading him to call the game the "CD-ROM from Hell"), Jennifer Hale as Katrina (her first video game voice role), and Bill Farmer as Leshy[^ref-1][^ref-4].
 
@@ -159,18 +159,28 @@ The CD-ROM version featured a voice cast including several notable voice actors[
 ### Slavic Folklore and Lovecraftian Influences
 
 The game draws heavily from Eastern European mythology and cosmic horror[^ref-23]:
-- Mordavia is inspired by Slavic folklore, Gothic fiction, and "old horror movies and books about vampires and werewolves"[^ref-1]
+- Mordavia is inspired by Slavic folklore, Gothic fiction, and "old horror movies and books about vampires and werewolves"[^ref-1][^ref-40]
 - The Dark One Avoozl is described as a Cthulhu pastiche, likely referencing the Slavic deity Chernobog[^ref-1][^ref-3]
 - Baba Yaga, a villain from earlier games in the series, returns as an ogress[^ref-1]
 - The game incorporates Boris Karloff and Peter Lorre parodies while maintaining humor[^ref-1]
 - Tarot card sequences use imagery from the Russian tarot of St. Petersburg[^ref-1][^ref-3]
 - Vampiric rabbits reminiscent of Monty Python and the Holy Grail appear[^ref-1]
 
+### Technical Specifications
+
+- Original release: nine 3.5" floppy diskettes (December 1993)[^ref-1]
+- CD-ROM release (September 1994): full recorded dialogue and a new intro cinematic[^ref-1]
+- DOS minimum: DOS 5.0, Intel 386 at 25 MHz, 4 MB RAM, 1 MB storage, VGA; recommended DOS 6.22, Intel 486 at 25 MHz and 25 MB storage[^ref-5]
+- Windows 3.x release: Windows 3.1 minimum, with the same 386/486, 4 MB RAM, 1 MB (25 MB recommended) and VGA figures[^ref-5]
+- Windows (GOG/Steam DOSBox releases): 1.8 GHz CPU, 512 MB RAM (1 GB recommended), 2 GB storage, DirectX 7.0 compatible video[^ref-5]
+- The Windows 3.x release does not work on 64-bit versions of Windows; PCGamingWiki notes it might be playable on a 64-bit OS using ScummVM[^ref-5]
+
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | December 1993 | DOS | Original floppy release, notorious for bugs[^ref-1] |
+| 1.1a | January 1994 | DOS | Free patch, completed January 10, 1994, sent to customers who requested it[^ref-1] |
 | CD-ROM | September 1994 | DOS, Windows 3.x | Full voice acting, many bug fixes[^ref-1] |
 | GOG | May 2012 | Windows (DOSBox) | Digital re-release with NewRisingSun patches[^ref-42][^ref-5] |
 | Steam | August 29, 2016 | Windows (DOSBox) | Quest for Glory 1-5 collection[^ref-12][^ref-31] |
@@ -200,11 +210,11 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 - Bill Farmer, best known as the voice of Goofy, voiced the character Leshy[^ref-1][^ref-4][^ref-36]
 - Jim Cummings (Winnie the Pooh, Darkwing Duck) voices Boris Stovich[^ref-4][^ref-28][^ref-37]
 - Quest for Glory II ends with an advertisement for the "upcoming" game under the title Quest for Glory III: Shadows of Darkness[^ref-1][^ref-27]
-- The game's atmosphere was directly inspired by gothic fiction and "old horror movies and books about vampires and werewolves"[^ref-1]
+- The game's atmosphere was directly inspired by gothic fiction and "old horror movies and books about vampires and werewolves"[^ref-1][^ref-40]
 
 ## Legacy
 
-Several modern critics, including Engadget's Rowan Kaiser and GameTrailers' Ryan Stevens, consider Shadows of Darkness the best entry in the series[^ref-1][^ref-7], and Adventure Gamers ranked it the 23rd-best adventure game of all time in 2011[^ref-1][^ref-38]. The game's blend of Slavic folklore and Lovecraftian horror gave it a much darker tone than earlier entries in the series[^ref-1][^ref-7]. The title change (dropping the "IV") was the only time in the series this occurred[^ref-27].
+Several modern critics, including Engadget's Rowan Kaiser and, according to Wikipedia, GameTrailers' Ryan Stevens, consider Shadows of Darkness the best entry in the series[^ref-1][^ref-7], and Adventure Gamers ranked it the 23rd-best adventure game of all time in 2011[^ref-1][^ref-38]. The game's blend of Slavic folklore and Lovecraftian horror gave it a much darker tone than earlier entries in the series[^ref-1][^ref-7]. The title change (dropping the "IV") was the only time in the series this occurred[^ref-27].
 
 The troubled floppy release, which Scorpia called perhaps "the sloppiest product ever released by Sierra", was followed a year later by a much-improved CD version[^ref-1][^ref-33].
 
