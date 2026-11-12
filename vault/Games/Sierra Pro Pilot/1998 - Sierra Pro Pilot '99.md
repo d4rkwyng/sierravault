@@ -10,18 +10,18 @@ series: Pro Pilot
 engine: null
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Pro Pilot ''99: The Complete Flight Simulator was Dynamix''s 1998 follow-up to Pro Pilot 98,
   adding 3Dfx graphics, a pop-up Operator''s Handbook, NAFI-developed tutorials, the Cessna 172R and Western European scenery.'
 tags: [1990s, pro-pilot, sierra, dynamix, simulation]
 ---
 # Sierra Pro Pilot '99
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Pro Pilot '99: The Complete Flight Simulator is a civilian flight simulator developed by [[Dynamix]] and published by [[Sierra On-Line]] for Windows 95 and Windows 98 in 1998[^ref-1][^ref-6]. Dynamix announced it on July 30, 1998 as "the second title in the company's general aviation simulation product line," following Sierra Pro Pilot 98, at a suggested retail price of $49.99[^ref-6]. IGN listed its release date as October 15, 1998, and Computer Games Magazine reported on November 19, 1998 that it was "now available"[^ref-8][^ref-9].
+Pro Pilot '99: The Complete Flight Simulator is a civilian flight simulator developed by [[Dynamix]] and published by [[Sierra On-Line]] for Windows 95 and Windows 98 in 1998[^ref-1][^ref-6]. Dynamix announced it on July 30, 1998 as "the second title in the company's general aviation simulation product line," following Sierra Pro Pilot 98, at a suggested retail price of $49.99, and said it was "set to land at retail stores in October"[^ref-6]. Sierra's October 1, 1998 release for the budget Pro Pilot USA, however, calls that game "the second Pro Pilot title"[^ref-20]. Sources give different release dates: IGN lists October 15, 1998, GameSpot and Metacritic list October 31, 1998, Games Domain lists November 1998, and Computer Games Magazine reported on November 19, 1998 that it was "now available"[^ref-8][^ref-9][^ref-10][^ref-14][^ref-22].
 
 The game was mostly a corrective upgrade to Pro Pilot 98. Its main additions were 3D acceleration for 3Dfx graphics cards, a pop-up Operator's Handbook, flight tutorials developed with the National Association of Flight Instructors (NAFI), a sixth aircraft (the 1997 Cessna 172R) and scenery for Western Europe alongside North America[^ref-6][^ref-7][^ref-14]. IGN called it "The industry's latest boxed patch"[^ref-9]. GameSpot called it "a dramatic improvement over that first release"[^ref-10].
 
@@ -37,7 +37,11 @@ Critics praised its flight instruction, manuals and cloud rendering, but critici
 > **Series:** Pro Pilot
 > **Protagonist:** None (flight simulator)
 > **Sierra Lineage:** Core Sierra
-> **Producer:** Graeme Bayless[^ref-2]
+> **Production:** Graeme Bayless[^ref-2]
+
+## Story Summary
+
+MobyGames' description calls it "a flight program comparable to Flight Simulator" that "focuses more on realistic flight operations, and less on gameplay"[^ref-1]. Instead of a story, the player works through ground lessons, tutorial flights and flight assignments, or flies freely across the included scenery (see Structure and Progression below)[^ref-6][^ref-14].
 
 ## Gameplay
 
@@ -76,6 +80,12 @@ The 172R is the only new plane over Pro Pilot 98's five. IGN put it bluntly: it 
 The scenery covers the United States, Western Europe and parts of Canada (Montreal and Toronto), built from more than 38 million elevation points. Dynamix said 35 metropolitan areas were highly detailed[^ref-6][^ref-16][^ref-17]. Airport counts differ by source. The July 1998 press release and GameSpot say "over 3,500," while the archived official site and AllGame say over 4,300[^ref-6][^ref-10][^ref-16][^ref-17].
 
 Reviewers found the terrain uneven. GameSpot called the height modelling "very well done" but the textures "very muddy looking," noting that desert Sedona was rendered "in a lush green"[^ref-10]. Computer Gaming World wrote that "high-detail" in the 35 cities was "in the eye of the beholder"[^ref-12]. Games Domain found the US scenery more detailed than Europe's, with Glasgow Airport reduced to "just two runways and a control tower"[^ref-14].
+
+### Puzzles and Mechanics
+
+There are no puzzles in the usual sense. The challenge lies in flight operations: MobyGames says that "Flight startup is more complex, and instead of a visual map, there is a more technical GPS system"[^ref-1]. Players plan flights with the Flight Planning Wizard, navigate with VOR, NDB, ILS and GPS, and follow audio air traffic control instructions[^ref-12][^ref-14][^ref-17].
+
+The flight model is the other half of the challenge. Computer Gaming World found that the sim lacked torque effects on takeoff and that stalls were mild and spins impossible[^ref-12]. IGN reported that loops were impossible, and GameSpot found a Bonanza's nose froze when "perpendicular to the ground" in a loop[^ref-9][^ref-10]. The "Technical Issues" section below gives the details.
 
 ## Reception
 
@@ -123,7 +133,7 @@ MobyGames credits 56 people on the Windows version[^ref-2]. The key roles were:
 **Development Credits:**[^ref-2]
 - **Director:** Mark R. Pechnick
 - **Assistant Director:** Brian Gallardo
-- **Producer:** Graeme Bayless
+- **Production:** Graeme Bayless
 - **Lead Programming:** Caedmon Irias, Alan C. Zander
 - **Art Director:** Brian Broderick
 - **Scenery Development Leader:** Scott Huette
@@ -167,7 +177,7 @@ Other specifications:
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | October 15, 1998 | Windows 95/98 | Release date per IGN[^ref-9] |
+| 1.0 | October 1998 | Windows 95/98 | Release date given as October 15 by IGN[^ref-9], October 31 by GameSpot and Metacritic[^ref-10][^ref-22], November 1998 by Games Domain[^ref-14]; Computer Games Magazine reported it "now available" on November 19, 1998[^ref-8] |
 | 1.01 | By February 1999 | Windows 95/98 | Version reviewed by Games Domain (review filed under February 1999)[^ref-14] |
 | Patch | By February 1999 | Windows 95/98 | Readme lists 21 flight-related fixes, including the "rocket" Cessna takeoff[^ref-14] |
 | — | May 1999 | Windows | Jeuxvideo.com review listing (English version)[^ref-15] |
@@ -186,9 +196,13 @@ Other specifications:
 
 ## Legacy
 
-Dynamix offered a $20 rebate to owners of Pro Pilot 98 or Pro Pilot USA until March 31, 1999[^ref-8]. MobyGames lists Pro Pilot '99 in the German compilation *Sierra's Fliegende Asse* (2001)[^ref-1].
+Dynamix offered a $20 rebate to owners of Pro Pilot 98 or Pro Pilot USA until March 31, 1999[^ref-8].
 
 The series continued with Pro Pilot 2000. The official Pro Pilot site announced it for the third quarter of 1999, with an all-new ATC system, improved flight modelling and the Hawaiian Islands[^ref-19].
+
+### Collections
+
+MobyGames lists Pro Pilot '99 as included in *Sierra's Fliegende Asse* (2001), a German compilation[^ref-1].
 
 ## Downloads
 
@@ -232,3 +246,4 @@ The series continued with Pro Pilot 2000. The official Pro Pilot site announced 
 [^ref-19]: [Official Pro Pilot Site – Pro Pilot 2000 Announcement (Wayback Machine)](https://web.archive.org/web/19991012054914/http://propilot99.com:80/propilot2k_online_press_release.html) – Pro Pilot 2000 due Q3 1999; new ATC, flight modelling, Hawaii
 [^ref-20]: [Sierra Press Release – Pro Pilot USA, October 1, 1998 (Wayback Machine)](https://web.archive.org/web/19991005024949/http://www.sierra.com:80/corp/mr/release/0,2760,91,00.html) – Pro Pilot 98 "sold over 275,000 units" (series context)
 [^ref-21]: [GameSpot – Pro Pilot (98) Review (Wayback Machine)](https://web.archive.org/web/20161108022053/https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) – Pro Pilot 98 context: Denny Atkin, February 9, 1998, 6.1; "over 30 bugs fixed in the first patch"
+[^ref-22]: [Metacritic – Pro Pilot 99](https://www.metacritic.com/game/pro-pilot-99/) – Initial Release Date: Oct 31, 1998; developer Dynamix, publisher Sierra On-Line; rated E; no critic reviews listed
