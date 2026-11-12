@@ -5,11 +5,11 @@ founded: 2001
 headquarters: "United States / Australia"
 parent_company: null
 related_companies: ["Himalaya Studios"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # AGD Interactive
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -25,10 +25,12 @@ The remakes were made with the knowledge of Sierra's owner. In 2006 Brimhall sai
 
 ## Games Published
 
-- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] — Notes: First release, self-published freeware[^ref-3]
+- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] — Notes: First release, August 7, 2001; self-published freeware[^ref-3][^ref-25]
 - **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II: Romancing the Stones]] — Notes: Expanded remake with new content, first released December 3, 2002[^ref-6][^ref-20][^ref-21]
-- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Notes: Released "after nearly 8 years in development"; Warren began it in late 2000[^ref-17]; Engadget described it as "in development off and on for nearly seven years"[^ref-23]
-- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Notes: Described by AGDI as its "most polished remake ever"[^ref-1][^ref-7]
+- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Notes: Released August 24, 2008[^ref-26], "after nearly 8 years in development"; Warren began it in late 2000[^ref-17]; Engadget described it as "in development off and on for nearly seven years"[^ref-23]
+- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Notes: Released February 24, 2011[^ref-1]; described by AGDI as its "most polished remake ever"[^ref-1][^ref-7]
+
+As of November 2026, AGD Interactive has not announced a remake since King's Quest III Redux in February 2011; the newest post on its homepage is "Mage's Initiation Released," dated January 30, 2019.[^ref-1]
 
 ## Related
 
@@ -52,3 +54,5 @@ The remakes were made with the knowledge of Sierra's owner. In 2006 Brimhall sai
 [^ref-22]: [AGD Interactive - "Tierra Entertainment Becomes AGD Interactive" press release, December 10, 2003 (Wayback, Aug 2005)](https://web.archive.org/web/20050829223206/http://www.agdinteractive.com/press-03.php) - "The original name the Anonymous Game Developers chose, Tierra, was obviously a play on Sierra"
 [^ref-23]: [Engadget - Quest for Glory II VGA remake released (August 25, 2008)](https://www.engadget.com/2008-08-25-quest-for-glory-ii-vga-remake-released.html) - "a labor of love in development off and on for nearly seven years"
 [^ref-24]: [Wikipedia - Himalaya Studios](https://en.wikipedia.org/wiki/Himalaya_Studios) - LLC "established in 2004 in Chandler, Arizona by Britney K. Brimhall and Christopher T. Warren"
+[^ref-25]: [AGD Interactive - King's Quest I Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) - Initial release "August 7th, 2001"
+[^ref-26]: [AGD Interactive - Quest for Glory II FAQ](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq.html) - "The Quest for Glory II remake was released on the 24th of August 2008."
