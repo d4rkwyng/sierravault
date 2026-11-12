@@ -10,20 +10,20 @@ series: Diablo
 engine: Diablo engine
 protagonist: The Hero (Warrior, Rogue, Sorcerer, or Monk)
 sierra_lineage: Sierra Label (Synergistic)
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: 'Diablo: Hellfire is the only expansion pack released for Blizzard
   Entertainment''s 1996 action RPG Diablo, developed by Synergistic Software and published by Sierra On-Line in North America on November 24 or 25, 1997 (sources differ).'
 tags: [1990s, diablo, rpg, sierra]
 ---
 # Diablo: Hellfire
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Diablo: Hellfire is the only expansion pack released for Blizzard Entertainment's 1996 action RPG Diablo.[^ref-2] Sierra billed it as "the only authorized expansion pack available for Diablo,"[^ref-23] but it was not a Blizzard product: GOG.com notes that Hellfire "was not an official Blizzard product and did not carry Blizzard's endorsement or label."[^ref-9] Released in North America on November 24, 1997 according to MobyGames (Wikipedia gives November 25, 1997),[^ref-17][^ref-6] this single-player expansion was developed not by Blizzard North, but by [[Synergistic Software]], a studio Sierra On-Line had acquired in 1996.[^ref-20][^ref-15] The expansion introduced a new playable character class—the Monk—along with two new dungeon tilesets, additional quests, new items including oils and runes, and a host of interface improvements that players would come to appreciate.[^ref-3]
+Diablo: Hellfire is the only expansion pack released for Blizzard Entertainment's 1996 action RPG Diablo.[^ref-2] Sierra billed it as "the only authorized expansion pack available for Diablo,"[^ref-23] but it was not a Blizzard product: GOG.com notes that Hellfire "was not an official Blizzard product and did not carry Blizzard's endorsement or label."[^ref-9] Released in North America on November 24, 1997 according to MobyGames (Wikipedia gives November 25, 1997),[^ref-17][^ref-6] this single-player expansion was developed not by Blizzard North, but by [[Synergistic Software]], a studio Sierra On-Line had acquired in 1996.[^ref-20][^ref-15] MobyGames also lists 1997 releases in the United Kingdom, France, Italy and Poland, and a German release on January 3, 1998, all published by Sierra On-Line.[^ref-17] The expansion introduced a new playable character class—the Monk—along with two new dungeon tilesets, additional quests, new items including oils and runes, and a host of interface improvements that players would come to appreciate.[^ref-3]
 
-The expansion's storyline centers on Na-Krul, a demon who once ranked highly in Diablo's hierarchy before turning on his master.[^ref-4] When a sorcerer unknowingly performs a ritual that releases Na-Krul unto the town of Tristram, the player must venture into the demon's lair to stop this new threat.[^ref-5] Despite being designed as an optional, off-the-beaten-path addition to the original game's content, Hellfire became, according to Polygon's account of studio head [[Robert Clardy|Bob Clardy]]'s view, far and away Synergistic's most financially successful project.[^ref-20]
+The expansion's storyline centers on Na-Krul, a demon who once ranked highly in Diablo's hierarchy before turning on his master.[^ref-4] When a sorcerer unknowingly performs a ritual that releases Na-Krul unto the town of Tristram, the player must venture into the demon's lair to stop this new threat.[^ref-6] Despite being designed as an optional, off-the-beaten-path addition to the original game's content, Hellfire became, according to Polygon's account of studio head [[Robert Clardy|Bob Clardy]]'s view, far and away Synergistic's most financially successful project.[^ref-20]
 
 The expansion's development was notably contentious, with Blizzard North imposing numerous restrictions on what Synergistic could include.[^ref-6] Most significantly, Hellfire shipped without Battle.net support, making it a single-player-only experience—a surprising omission given that Diablo was one of the most popular multiplayer games of all time.[^ref-4][^ref-21] Despite these limitations and a compressed development schedule, the expansion generally received favorable reviews from gaming publications at the time and has since been preserved through digital distribution, being included as a free add-on with Diablo purchases on GOG.com since June 2019.[^ref-6]
 
@@ -41,9 +41,9 @@ The expansion's development was notably contentious, with Blizzard North imposin
 
 ## Story Summary
 
-The narrative of Hellfire begins when a sorcerer, while performing a ritual, unknowingly releases the demon Na-Krul from his ancient prison.[^ref-5] Na-Krul was once Diablo's chief minion,[^ref-1] a demon who, in GameSpot's words, "once ranked highly in Diablo's hierarchy until turning on his master."[^ref-4] The sorcerer manages to seal the doors before Na-Krul can fully escape into the world above, but the threat of this newly awakened evil looms over Tristram.[^ref-5]
+The narrative of Hellfire begins when a sorcerer, while performing a ritual, unknowingly releases the demon Na-Krul unto the town of Tristram.[^ref-6] Na-Krul was once Diablo's chief minion,[^ref-1] a demon who, in GameSpot's words, "once ranked highly in Diablo's hierarchy until turning on his master."[^ref-4] The sorcerer magically seals the doors before Na-Krul can completely escape.[^ref-6]
 
-The player, having already faced the horrors beneath the cathedral in the original game, must now venture into two new four-level dungeons—the Festering Nest ("called 'The Hive' by many," as one 1998 review put it) and the Demon Crypt—to confront Na-Krul in his lair.[^ref-25][^ref-4] These new areas feature distinct visual themes: the Nest presents an organic, insectoid environment teeming with new monster types, while the Crypt offers a more traditional undead-filled tomb setting.[^ref-5][^ref-4][^ref-15] The dungeons are designed to integrate seamlessly with the original Diablo experience, though they can be avoided entirely if players choose not to engage with the expansion content.[^ref-5]
+The player, having already faced the horrors beneath the cathedral in the original game, must now venture into two new four-level dungeons—the Festering Nest ("called 'The Hive' by many," as one 1998 review put it) and the Demon Crypt—to confront Na-Krul in his lair.[^ref-25][^ref-4] These new areas feature distinct visual themes: the Nest presents an organic, insectoid environment teeming with new monster types, while the Crypt offers a more traditional undead-filled tomb setting.[^ref-4][^ref-15] The dungeons are designed to integrate seamlessly with the original Diablo experience, though they can be avoided entirely if players choose not to engage with the expansion content.[^ref-6]
 
 Hellfire's storyline is not taken into account in Diablo II.[^ref-3] GOG.com describes it as "a non-canonical single-player storyline,"[^ref-9] while the Diablo Wiki concludes that Hellfire's "status in Diablo canon is unclear."[^ref-2]
 
@@ -53,22 +53,22 @@ Hellfire's storyline is not taken into account in Diablo II.[^ref-3] GOG.com des
 
 Hellfire retains the point-and-click, isometric gameplay that defined the original Diablo, presenting players with procedurally generated dungeon layouts to explore and loot.[^ref-8] The expansion introduces several welcome interface improvements that enhance the overall experience. Most notable among these is the jog toggle feature, which allows players to run around town quickly—a significant quality-of-life improvement given how frequently players must return to town and how spread out the various merchant characters are.[^ref-7]
 
-Additional interface enhancements include new spells designed for convenience: one spell highlights floor objects, making loot easier to spot against the dark dungeon backgrounds, and another teleports the player directly to the nearest staircase.[^ref-5] GameSpot likewise noted that players can "jog instead of merely sauntering around town" and cast spells to find a level exit or locate a dropped ring.[^ref-4] These additions addressed common complaints about the original game, where loot could be difficult to spot as it blended with the scenery.[^ref-8] The Search spell in particular became essential for many players, with one reviewer noting "I really can't imagine playing the game without it."[^ref-8]
+Additional interface enhancements include new spells designed for convenience: one spell highlights floor objects, making loot easier to spot against the dark dungeon backgrounds, and another teleports the player directly to the nearest staircase.[^ref-6] GameSpot likewise noted that players can "jog instead of merely sauntering around town" and cast spells to find a level exit or locate a dropped ring.[^ref-4] These additions addressed common complaints about the original game, where loot could be difficult to spot as it blended with the scenery.[^ref-8] The Search spell in particular became essential for many players, with one reviewer noting "I really can't imagine playing the game without it."[^ref-8]
 
 ### Structure and Progression
 
-The expansion integrates directly into the base Diablo experience, adding its content as optional areas that players can explore alongside the original sixteen-level dungeon.[^ref-5][^ref-4] The new dungeon settings feature distinct tilesets and enemy types that provide visual and gameplay variety:[^ref-1]
+The expansion integrates directly into the base Diablo experience, adding its content as optional areas that players can explore alongside the original sixteen-level dungeon.[^ref-6][^ref-4] The new dungeon settings feature distinct tilesets and enemy types that provide visual and gameplay variety:[^ref-1]
 
 - **The Festering Nest ("the Hive"):** An organic, insectoid dungeon environment featuring new bug-like monsters and a distinctly different atmosphere from the cathedral and caves of the original game.
 - **The Demon Crypt:** A gothic, undead-filled tomb setting and Na-Krul's home, with enemies such as Liches and Crypt Demons.[^ref-4][^ref-24]
 
-The expansion also includes additional quests.[^ref-1] Because of its design, Hellfire's dungeons can be avoided entirely, allowing players to experience the original Diablo content without engaging with the expansion material if they prefer.[^ref-5]
+The expansion also includes additional quests.[^ref-1] Because of its design, Hellfire's dungeons can be avoided entirely, allowing players to experience the original Diablo content without engaging with the expansion material if they prefer.[^ref-6]
 
 ### Puzzles and Mechanics
 
 Hellfire introduces the Monk class, the only new character class that Synergistic Software was permitted to add to the game.[^ref-6] The Monk specializes in staves and fights well barehanded, gaining defense from light armor rather than heavy armor—a different gameplay experience from the Warrior, Rogue, and Sorcerer classes available in the original game.[^ref-20][^ref-21] The expansion also contains two hidden character classes—the Barbarian and the Bard—which were left in the game code but require players to edit a Command.txt file to access them.[^ref-3]
 
-New item types significantly expand the equipment options available to players. Oils can be applied to items to affect their statistics, while runes can be placed as traps to damage enemies.[^ref-5][^ref-15] The expansion adds a new page of spells, new affixes for weapons and armor, and new shrines.[^ref-5] Diablo himself receives a boost to his strength and power in Hellfire, providing an additional challenge for returning players;[^ref-5] GameSpot says he "returns more powerful than ever."[^ref-4]
+New item types significantly expand the equipment options available to players. Oils can be applied to items to affect their statistics, while runes can be set as traps that unleash magical effects on monsters.[^ref-6][^ref-15] The expansion adds a new page of spells, new affixes for weapons and armor, and new shrines.[^ref-6] Diablo himself receives a boost to his strength and power in Hellfire, providing an additional challenge for returning players;[^ref-6] GameSpot says he "returns more powerful than ever."[^ref-4]
 
 ## Reception
 
@@ -89,8 +89,9 @@ The Cynical Gaming Blog offers a positive retrospective assessment, calling Hell
 Phenixx Gaming awarded the Diablo/Hellfire bundle an 8.5 out of 10 in their 2020 retrospective, praising the package as "a masterwork of sound design, particularly when it comes to the music."[^ref-8]
 
 **Aggregate Scores:**
-- **GOG.com:** 4.6/5 (3,163 reviews) – for Diablo bundle including Hellfire[^ref-9]
+- **GOG.com:** 4.6/5 (3,184 reviews, as of November 2026) – for Diablo bundle including Hellfire[^ref-9]
 - **Metacritic:** 8.6/10 User Score (39 reviews: 82% positive, 15% mixed, 3% negative) – for the Diablo + Hellfire bundle[^ref-12]
+- **MobyGames:** Moby Score 7.5/10 (68 votes); critic average 75% (22 reviews), as of November 2026[^ref-15]
 - **HowLongToBeat:** 71% Rating[^ref-26]
 
 ## Development
@@ -118,7 +119,7 @@ The internal conflict resulted in what Wikipedia describes as "a lot of frustrat
 
 ### Technical Achievements
 
-Despite the challenging development circumstances, Hellfire introduced several improvements to the Diablo experience. The jog toggle feature for faster town movement addressed one of players' most common complaints about the original game.[^ref-5] New spell functionality, including the Search spell that highlights floor items and the teleportation spell for quick staircase access, demonstrated thoughtful quality-of-life improvements.[^ref-5]
+Despite the challenging development circumstances, Hellfire introduced several improvements to the Diablo experience. Among the newer convenience features was a jog toggle in the options menu for moving more quickly around town.[^ref-6][^ref-4] New spells added further conveniences, including the Search spell, which highlights loot on the floor, and a spell that teleports the player to the nearest staircase.[^ref-6][^ref-8]
 
 Most of the new monsters use original artwork rather than recolored Diablo monsters. GameSpot judged the Demon Crypt tileset "as detailed as any of the four tilesets in Diablo," but found the Festering Nest tileset "a bit too disorienting and cluttered."[^ref-4] The new levels also came with their own music; CGW found the new graphics and music "on a par with Diablo," while GameSpot thought the mostly ambient scores did not measure up to the original's.[^ref-21][^ref-4]
 
@@ -157,6 +158,8 @@ Additional hidden or cut content includes:
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.00 | November 24, 1997 (Wikipedia: November 25) | Windows | Initial North American retail release[^ref-17][^ref-6] |
+| European releases | 1997 | Windows | United Kingdom (CUC Software International Ltd.), France (CUC Software International S.A.), Italy (Leader S.p.a.) and Poland (CD Projekt Sp. z o.o.), each distributed for Sierra On-Line, Inc.[^ref-17] |
+| German release | January 3, 1998 | Windows | Distributed by CUC Software International GmbH[^ref-17] |
 | 1.01 | January 13, 1998 | Windows | Sierra's only gameplay patch (MobyGames also lists a 1998-01-17 hotfix for European releases that enables installing it); fixed a small number of Hellfire-specific bugs[^ref-18][^ref-3] |
 | GOG Release | June 5, 2019 | Windows | Released as free add-on with Diablo purchase[^ref-6] |
 | Battle.net | January 29-30, 2024 | Windows | Added to Battle.net launcher[^ref-2] |
@@ -171,7 +174,7 @@ Additional hidden or cut content includes:
 
 ### Technical Issues
 
-Hellfire shipped with several technical problems that were never fully addressed. The expansion had no Battle.net support, making online multiplayer impossible.[^ref-3] Changes made while playing Hellfire do not transfer to online characters, but the expansion does not interfere with the player's ability to keep playing the original Diablo on Battle.net.[^ref-5][^ref-6] A hidden multiplayer mode could be unlocked, but CGSP's reviewer found that it left out the new levels and was "quite unstable."[^ref-25][^ref-20]
+Hellfire shipped with several technical problems that were never fully addressed. The expansion had no Battle.net support, making online multiplayer impossible.[^ref-3] Changes made while playing Hellfire do not transfer to online characters, but the expansion does not interfere with the player's ability to keep playing the original Diablo on Battle.net.[^ref-6] A hidden multiplayer mode could be unlocked, but CGSP's reviewer found that it left out the new levels and was "quite unstable."[^ref-25][^ref-20]
 
 The expansion was released only for Windows; there was no Macintosh version.[^ref-15][^ref-1] Many bug fixes implemented in patches for the original Diablo did not carry over to Hellfire, and Sierra released only one gameplay patch, which fixed a small number of Hellfire-exclusive bugs.[^ref-3][^ref-18]
 
@@ -183,6 +186,7 @@ Modern players may experience additional issues including mouse problems, DEP cr
 
 Despite Blizzard's restrictions, Hellfire contains several hidden features and Easter eggs that dedicated players discovered:
 
+- **Half-Life Interviews:** The US release included video interviews with some of the programmers of Half-Life, then yet to be released, which also show very early beta footage of that game.[^ref-19]
 - **Hidden Character Classes:** The Bard and Barbarian classes can be unlocked by editing the Command.txt file in the game directory, adding secret character options that were officially cut but left in the code.[^ref-3]
 - **The Cow Quest:** A hidden quest featuring a character called "Complete Nut" dressed in a cow suit, accessible through configuration file modifications.[^ref-3] Programmer Jim Edwards, who voiced the cow, called it "a tongue-in-cheek nod to the Internet rumor about the secret cow quest in Diablo."[^ref-20]
 - **The Theo Quest:** A hidden quest given by a little girl who appears near Adria's shack when enabled.[^ref-3]
@@ -252,19 +256,18 @@ From a historical perspective, Hellfire is a case study in the relationship betw
 [^ref-2]: [Diablo Wiki – Diablo: Hellfire](https://diablo.fandom.com/wiki/Diablo:_Hellfire) – Only expansion for Diablo, canon status "unclear", Wandering Trader, Cornerstone of the World, Battle.net release date
 [^ref-3]: [Diablo Archive Wiki – Diablo: Hellfire](https://diablo-archive.fandom.com/wiki/Diablo:_Hellfire) – Canon status, technical issues, hidden content, pathfinding bugs, bundle information
 [^ref-4]: [GameSpot – Hellfire Review](https://www.gamespot.com/reviews/hellfire-review/1900-2537524/) – Review score, multiplayer criticism, Na-Krul background, Game of the Year reference
-[^ref-5]: [RPGWatch – Diablo: Hellfire](https://rpgwatch.com/games/diablo--hellfire-238.html) – Release date, gameplay features, story details, Battle.net limitations, dungeon design
 [^ref-6]: [Wikipedia – Diablo: Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) – Development conflicts, Monk as only permitted class, Battle.net non-interference, GOG release (June 5, 2019)
 [^ref-7]: [HowLongToBeat – Diablo: Hellfire Reviews](https://howlongtobeat.com/game/2515/reviews/latest/1) – User reviews, town running feature, modern assessment quotes
 [^ref-8]: [Phenixx Gaming – Diablo Hellfire PC Review](https://web.phenixxgaming.com/2020/06/02/diablo-hellfire-pc-review/) – Review score, interface observations, title removal, Search spell importance
-[^ref-9]: [GOG.com – Diablo + Hellfire](https://www.gog.com/en/game/diablo) – "Not an official Blizzard product", "non-canonical" storyline, user rating (4.6/5, 3,163 reviews, checked 2026-11-01), modern requirements, patch history, wishlist status
+[^ref-9]: [GOG.com – Diablo + Hellfire](https://www.gog.com/en/game/diablo) – "Not an official Blizzard product", "non-canonical" storyline, user rating (4.6/5, 3,184 reviews, as of November 2026), modern requirements, patch history, wishlist status
 [^ref-10]: [Klardendum – O Tempora: Diablo Hellfire](https://klardendum.com/review/o-tempora-diablo-hellfire/) – DevilutionX mod, retrospective assessment of Hellfire
 [^ref-11]: [Cynical Gaming Blog – Diablo Hellfire Review](https://cynicalgamingblog.wordpress.com/2024/06/27/old-review-archive-diablo-hellfire-review/) – Retrospective assessment, StarCraft dungeon controversy, hidden classes
 [^ref-12]: [Metacritic – Diablo Hellfire Bundle](https://www.metacritic.com/game/diablo-hellfire-bundle/user-reviews/) – User score aggregate, review breakdown percentages
-[^ref-15]: [MobyGames – Hellfire](https://www.mobygames.com/game/1462/hellfire/) – Windows-only add-on, Sierra On-Line publisher, Festering Nest and Demon Crypt, included in Diablo + Hellfire (1998)
+[^ref-15]: [MobyGames – Hellfire](https://www.mobygames.com/game/1462/hellfire/) – Windows-only add-on, Sierra On-Line publisher, Festering Nest and Demon Crypt, included in Diablo + Hellfire (1998); Moby Score 7.5 (68 votes), critics 75% (22 reviews), as of November 2026
 [^ref-16]: [MobyGames – Hellfire: Windows credits](https://www.mobygames.com/game/1462/hellfire/credits/windows/) – Design team, lead programmer, art director, quest text writing (Eve Forward), voices (Jim Edwards, Eve Forward, Craig Utterback), manual
-[^ref-17]: [MobyGames – Hellfire: Releases](https://www.mobygames.com/game/1462/hellfire/releases/) – North American release Nov 24, 1997 (US and Canada)
+[^ref-17]: [MobyGames – Hellfire: Releases](https://www.mobygames.com/game/1462/hellfire/releases/) – North American release Nov 24, 1997 (US and Canada); 1997 releases in the UK, France, Italy and Poland; Germany Jan 3, 1998
 [^ref-18]: [MobyGames – Hellfire: Patches](https://www.mobygames.com/game/1462/hellfire/patches/) – v1.01 patch dated 1998-01-13
-[^ref-19]: [MobyGames – Hellfire: Trivia](https://www.mobygames.com/game/1462/hellfire/trivia/) – Hidden Barbarian/Bard classes and two hidden quests via command.txt; "authorized add-on"; not in Diablo: Battle Chest
+[^ref-19]: [MobyGames – Hellfire: Trivia](https://www.mobygames.com/game/1462/hellfire/trivia/) – Hidden Barbarian/Bard classes and two hidden quests via command.txt; Half-Life programmer interviews on the US release; "authorized add-on"; not in Diablo: Battle Chest
 [^ref-20]: [Polygon – How a Diablo expansion led to behind the scenes trouble](https://www.polygon.com/features/2018/6/29/17517376/diablo-hellfire-expansion-behind-the-scenes-trouble) – David L. Craddock, June 29, 2018: CUC's role, six-week to four-month schedule, Brevik and Householder quotes, Easter eggs, sales
 [^ref-21]: [Computer Gaming World #165 (April 1998), pp. 154–156: "Flame On" review by Scorpia](https://archive.org/details/Computer_Gaming_World_Issue_165) – Four stars; requirements sidebar (P60, 16MB RAM, 150MB); "No multiplayer mode whatsoever"; "still a first-class job"
 [^ref-22]: [Computer Gaming World #177 (April 1999), p. 102: Premier Awards, Best Add-on](https://archive.org/details/Computer_Gaming_World_Issue_177) – "Other Add-On Finalists: … Diablo: Hellfire, Sierra On-Line"
