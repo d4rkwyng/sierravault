@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: '**Crazy Nick''s Software Picks: King Graham''s Board Game Challenge**
   is a 1992 Sierra On-Line budget release that pairs Checkers and Backgammon, taken
   from Hoyle 3, with King Graham as the opponent.'
@@ -18,22 +18,22 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 ---
 # Crazy Nick's Software Picks: King Graham's Board Game Challenge
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-**Crazy Nick's Software Picks: King Graham's Board Game Challenge** is a small board-game package that Sierra On-Line released for DOS PCs on June 5, 1992.[^ref-6] It offers two tabletop classics, Checkers and Backgammon, and casts King Graham of the King's Quest series as the player's only opponent.[^ref-2][^ref-1] It is one of the first five Crazy Nick's Software Picks packs, budget compilations that reused mini-games and casino or board games from Sierra's adventure and Hoyle titles.[^ref-6][^ref-4]
+**Crazy Nick's Software Picks: King Graham's Board Game Challenge** is a small board-game package that Sierra On-Line released for DOS PCs on June 5, 1992, according to Sierra Chest.[^ref-6] Other sources give only a year: MobyGames and MyAbandonware say 1992,[^ref-1][^ref-11] LaunchBox says 1993,[^ref-5] and the Internet Archive's copy of the game is dated 1993.[^ref-18] IGN lists December 31, 1992, which looks like a placeholder date.[^ref-2] The game's SCI interpreter is dated 06/01/92.[^ref-30] It offers two tabletop classics, Checkers and Backgammon, and casts King Graham of the King's Quest series as the player's only opponent.[^ref-2][^ref-1] It is one of the first five Crazy Nick's Software Picks packs, budget compilations that reused mini-games and casino or board games from Sierra's adventure and Hoyle titles.[^ref-6][^ref-4]
 
-Both games were lifted from *Hoyle Official Book of Games Volume 3: Great Board Games* (Hoyle 3).[^ref-6] The pack runs on Sierra's SCI1.1 interpreter.[^ref-7]
+Both games were lifted from [[1991 - Hoyle Official Book of Games - Volume 3|*Hoyle Official Book of Games Volume 3: Great Board Games*]] (Hoyle 3).[^ref-6] The pack runs on Sierra's SCI1.1 interpreter.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Director:** Bill Davis[^ref-21]
-> **Designer:** Bridget McKenna, Marti McKenna (original Hoyle 3 team, not this pack)[^ref-21]
+> **Director:** [[Bill Davis]][^ref-21]
+> **Designer:** Unknown
 > **Engine:** SCI1.1[^ref-7]
 > **Platforms:** DOS[^ref-7]
-> **Release Date:** June 5, 1992[^ref-6]
+> **Release Year:** 1992[^ref-1][^ref-6]
 > **Series:** Crazy Nick's Software Picks
 > **Protagonist:** King Graham
 > **Sierra Lineage:** Core Sierra
@@ -91,6 +91,8 @@ The magazine's October 1992 "Taking A Peek" column gave the pack its own short e
 
 Katakis's 2015 review on MobyGames calls the series "overlooked." He notes that the pack holds only two games, both the same as in Hoyle 3 with a similar interface. His bottom line is "So if you played Hoyle 3, then don't bother with this."[^ref-1]
 
+The same review lists some good and bad points. Katakis liked that "you can read up on the rules of both games if it has been a long time since you played them and forgotten the rules," and that "even on the “Beginner” level, Graham plays really well." Among the bad points, he wrote that "there is only one piece of music, which can be heard on the option screen" and "I have no idea why you are asked to enter your name, since Graham doesn't even mention it while you are playing a game with him."[^ref-1] MyAbandonware's visitor rating, a user rating and not a review, is 4.4/5 from 13 votes.[^ref-11]
+
 The Super Adventures in Gaming guest post from March 2011 was kinder. It doubted the "crazy" label ("These games don't sound particularly crazy to me") but liked the full-screen boards, persistent scores, doubling and quick turns. It ended: "If you want to play a couple of board games in DOS, this is certainly one way to do it."[^ref-9] The writer also called this pack an improvement on the set the blog had covered just before it, where Nine Men's Morris was, in his words, the only one that was "actually a game and not a broken mess."[^ref-9]
 
 ## Development
@@ -109,7 +111,7 @@ InterAction's Winter 1992 issue said bargain software lovers had made "the first
 
 ### Production
 
-MobyGames credits a separate team for this pack. Bill Davis was director, Tammy Dargan and Tony Caudill were producers, J. Mark Hood was software supervisor and Thaddeus M. Pritchard was lead programmer.[^ref-21] The same credits list an "Original Board Game Challenge Team" from Hoyle 3, including director / producer [[Stuart Moulder]], game designers Marti and Bridget McKenna, lead programmer Warren Schwader and composer Robert Atesalp.[^ref-21]
+MobyGames credits a separate team for this pack. [[Bill Davis]] was director, [[Tammy Dargan]] and Tony Caudill were producers, J. Mark Hood was software supervisor, Thaddeus M. Pritchard was lead programmer, Michael Brosius handled quality assurance and Randy MacNeill is credited with special thanks.[^ref-21] The same credits list an "Original Board Game Challenge Team" from Hoyle 3, including executive producer Ken Williams, creative director Bill Davis, director / producer [[Stuart Moulder]], game designers Marti and Bridget McKenna, art designer Jay Allan Friedmann, lead programmer Warren Schwader and composer Robert Atesalp.[^ref-21]
 
 Each pack came on a single 3.5" floppy disk on a blister card, and the packs were released for the PC only.[^ref-6]
 
@@ -128,6 +130,18 @@ Each pack came on a single 3.5" floppy disk on a blister card, and the packs wer
 | Platform | IBM PC/DOS only[^ref-6] |
 
 ScummVM's SCI engine detects this game under the ID `cnick-kq`,[^ref-22] and PCGamingWiki lists ScummVM as an alternative way to run it.[^ref-7]
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | June 5, 1992 | DOS | Initial release; Sierra Chest date[^ref-6] |
+
+**SCI Interpreter Versions:**[^ref-30]
+
+| Game Version | Interpreter | Type | Notes |
+|--------------|-------------|------|-------|
+| 1.000 | 1.001.029 | SCI1.1 | Interpreter dated 06/01/92 |
 
 ## Legacy
 
@@ -185,3 +199,4 @@ The game is also catalogued by IGDB,[^ref-16] LaunchBox (as *King Graham's Board
 [^ref-27]: [Game Players PC Entertainment Vol. 5 No. 4 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – Cover "Display Until September 8, 1992"; news item: Nick's Picks on shelves, sections extracted from previous titles
 [^ref-28]: [InterAction Magazine Vol. V No. 4, Winter 1992 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "New Nick's Picks": first five titles a hit, five new arcade titles (Sierra's own magazine)
 [^ref-29]: [InterAction Magazine Vol. 6 No. 1, Spring 1993 (Internet Archive item titled June 1993)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – "Nick's Picks Special!" order form (offer expires 4/15/93); Hoyle Book of Games Vol. 3 description (Sierra's own magazine)
+[^ref-30]: [SCG Wiki — Sierra Game Versions (Wayback, October 22, 2019)](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) – King Graham's Board Game Challenge: version 1.000, SCI 1.001.029, 06/01/92
