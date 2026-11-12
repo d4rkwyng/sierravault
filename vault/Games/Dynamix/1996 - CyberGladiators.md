@@ -10,14 +10,14 @@ series: K.A.A. series
 engine: Unknown
 protagonist: Player-selected fighter
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: CyberGladiators is a one-on-one 3D fighting game released in November
   1996 for Windows 95, developed by Dynamix, Inc. under its short-lived k.a.a. action label and published by Sierra On-Line.
 tags: [1990s, k-a-a-series, sierra]
 ---
 # CyberGladiators
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -129,11 +129,11 @@ The game received an ESRB rating of Teen[^ref-1].
 
 ### Origins
 
-CyberGladiators is what Sierra's cancelled project CRY.SYS evolved into[^ref-3]. It was one of two games released under k.a.a., a label of Dynamix, the other being Hunter Hunted[^ref-3][^ref-17]. MobyGames expands the name as "Knot another adventure game"[^ref-3]. Lead programmer Rhett Anderson[^ref-3] explained the joke to Sierra's InterAction magazine: "You could say that k.a.a. stands for 'knot another adventure game...Sierra makes enough of those..."[^ref-29].
+CyberGladiators is what Sierra's cancelled project CRY.SYS evolved into[^ref-3]. It was one of two games released under k.a.a., a label of Dynamix, the other being Hunter Hunted[^ref-3][^ref-17]. MobyGames expands the name as "Knot another adventure game"[^ref-3]. Lead programmer Rhett Anderson[^ref-3] (InterAction Magazine prints the surname as "Andersen"[^ref-29]) explained the joke to Sierra's InterAction magazine: "You could say that k.a.a. stands for 'knot another adventure game...Sierra makes enough of those..."[^ref-29].
 
 ### Production
 
-Development was handled by Dynamix, Inc., with [[Jeff Tunnell|Jeffrey Tunnell]] as executive producer, Ken Embery as producer, and Randy Thompson as director and as one of four programmers. Rhett Anderson was lead programmer, Michael Waite creative director, and Damon Mitchell art director as well as fighter modeler and texture artist. David Leung served as fight consultant and also appears among the five motion actors[^ref-38]. The game was built for Windows 95 and used Microsoft's DirectX[^ref-27].
+Development was handled by Dynamix, Inc., with [[Jeff Tunnell|Jeffrey Tunnell]] as executive producer, Ken Embery as producer, and Randy Thompson as director and as one of four programmers. Rhett Anderson was lead programmer, Michael Waite creative director, and Damon Mitchell art director as well as fighter modeler and texture artist. David Leung served as fight consultant and also appears among the five motion actors[^ref-38]. The game was built for Windows 95 and used Microsoft's DirectX[^ref-27]. InterAction Magazine's Spring 1997 profile said the game used motion-captured 3D animation: "Realistic 3D motion-captured technology has you kicking, punching, and back flipping like a master martial artist"[^ref-37].
 
 Voice recording was handled by Full Moon Studios, and the music was produced by Loudmouth, Inc.[^ref-18]
 
@@ -185,7 +185,7 @@ CyberGladiators supports Direct3D 2 and 3dfx Glide 2.1.1 for 3D acceleration, an
 
 The game was released in multiple regional editions, with confirmed releases in the United States, Germany, and France[^ref-18].
 
-**Screamin' 3D Bundle:** Sierra packaged CyberGladiators with its Screamin' 3D graphics card, a Rendition Vérité-based board with 4 MB of EDO DRAM sold for under $200 through Sierra's own offer, along with Indy Car Racing II, Silent Thunder and a Rendition-ready version of Quake[^ref-37]. NEXT Generation listed the $199 bundle in its February 1997 issue and remarked that "Cybergladiators is rather plain without 3D acceleration, with it, it is gorgeous"[^ref-36].
+**Screamin' 3D Bundle:** Sierra packaged CyberGladiators with its Screamin' 3D graphics card, a Rendition Vérité-based board with 4 MB of EDO DRAM sold for under $200 through Sierra's own offer. Sierra's InterAction advertisement lists Indy Car Racing II, Silent Thunder, CyberGladiators and a Rendition-ready version of Quake as the bundled games[^ref-37]. NEXT Generation listed the $199 card in its February 1997 issue with a bundle of shareware Quake, Indy Car Racing II, Silent Thunder: A10 Tank Killer and Cyber Gladiators, and remarked that "Cybergladiators is rather plain without 3D acceleration, with it, it is gorgeous"[^ref-36].
 
 **Demo Distribution:**[^ref-28]
 The CyberGladiators demo (2.99 MB) was included as promotional material with several other Sierra titles:[^ref-28]
@@ -257,6 +257,8 @@ Reviewers mostly agreed on the game's strengths and weaknesses. Its 3D graphics 
 
 ## See Also
 
+- [[1996 - Hunter Hunted]]
+- [[Dynamix Catalog]]
 - [[1989 - David Wolf - Secret Agent]]
 - [[1989 - MechWarrior]]
 - [[1990 - Rise of the Dragon]]
@@ -266,7 +268,6 @@ Reviewers mostly agreed on the game's strengths and weaknesses. Its 3D graphics 
 - [[1992 - Quarky & Quaysoo's Turbo Science]]
 - [[1994 - Bouncers]]
 - [[1994 - Sierra Soccer - World Challenge Edition]]
-- [[1996 - Hunter Hunted]]
 - [[1996 - Rama]]
 
 ## References
@@ -296,6 +297,6 @@ Reviewers mostly agreed on the game's strengths and weaknesses. Its 3D graphics 
 [^ref-33]: [Super Page 58 – Digitiser review archive: Cyber Gladiators (PC), 8/1/97](https://www.superpage58.com/digitiser-video-game-reviews-archive-cyber-gladiators-pc-1997.htm) – Teletext page 172 screen captures, January 8, 1997; Visuals 80%, Gameplay 69%, Overall 68%
 [^ref-34]: [Computer Gaming World, Issue 152 (March 1997)](https://archive.org/details/Computer_Gaming_World_Issue_152) – E. Chin's CyberGladiators review: "isn't too shabby," "at least as good as Mortal Kombat for the PC," interactive arenas, Rendition/3Dfx graphics, "a lack of depth"
 [^ref-35]: [PC Zone, Issue 48 (March 1997)](https://archive.org/details/PC_Zone_48_March_1997) – Cyber Gladiators review: needs a 3D accelerator, "looks gorgeous; the gameplay, sadly, is somewhat lacking," multi-button gamepad support
-[^ref-36]: [NEXT Generation, Issue 26 (February 1997)](https://archive.org/details/nextgen-issue-26) – 3D card roundup: Sierra Screamin' 3D, $199, bundle with Shareware Quake, Indy Car Racing II, Silent Thunder and Cyber Gladiators
+[^ref-36]: [NEXT Generation, Issue 26 (February 1997)](https://archive.org/details/nextgen-issue-26) – 3D card roundup: Sierra Screamin' 3D, $199, bundle with Shareware Quake, Indy Car Racing II, Silent Thunder: A10 Tank Killer and Cyber Gladiators
 [^ref-37]: [InterAction Magazine, Spring 1997](https://archive.org/details/InterAction_Magazine_Spring_1997_1997_Sierra_On-Line_US) – Screamin' 3D bundle advertisement (under $200, 4 MB EDO DRAM, Rendition Vérité); CyberGladiators feature ("eight fighters (plus two bosses)... ten fighting arenas")
 [^ref-38]: [MobyGames – CyberGladiators Credits](https://www.mobygames.com/game/2858/cybergladiators/credits/) – Windows credits, 46 people with 52 credits (executive producer, producer, director, programmers, art, motion actors, voices, QA)
