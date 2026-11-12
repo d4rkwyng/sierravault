@@ -5,11 +5,11 @@ birth_year: null
 death_year: 2011
 notable_games: ["King's Quest V", "King's Quest VI", "Leisure Suit Larry 2", "Leisure Suit Larry 5", "Phantasmagoria"]
 companies: ["Sierra On-Line"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Carlos Escobar
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -95,7 +95,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-11]
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Additional Programming[^ref-10][^ref-16] |
 | 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel]] (VGA) | Programming; Very Special Thanks[^ref-11] |
 | 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want To Be A Hero]] (VGA) | Programmers[^ref-11] |
-| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Special Quest Programming[^ref-11] |
+| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Special Quest Programming (MobyGames); "Additional Programming" in the manual[^ref-11][^ref-25] |
 | 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Lead Programming[^ref-11] |
 | 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Lead Programmer[^ref-11] |
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] (CD) | CD Programming[^ref-11] |
@@ -125,3 +125,4 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-11]
 [^ref-22]: [Slater & Charlie Go Camping manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Slater_and_Charlie_Go_Camping_-_Manual) — Credits: "Programming / CARLOS ESCOBAR / CHRIS CARR / KIM BOWDISH"
 [^ref-23]: [Phantasmagoria manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Phantasmagoria_-_Manual) — Credits, Programmers: "Doug Oldfield, Dave Artis, Vana Baker, Adam Bentley, Chris Carr, Carlos Escobar, Bryan Waters"
 [^ref-24]: [Code-Name: Iceman manual, Sierra On-Line (Internet Archive scan)](https://archive.org/details/Codename_Iceman_Manual) — Credits, ADDITIONAL PROGRAMMING: "Larry Scott / Carlos Escobar / Robert Lindsley / Dave Skinner"
+[^ref-25]: [Freddy Pharkas: Frontier Pharmacist manual (Internet Archive)](https://archive.org/details/Freddy_Pharkas_Frontier_Pharmacist_-_Manual) – credits: "ADDITIONAL PROGRAMMING: Carlos Escobar, Doug Oldfield"
