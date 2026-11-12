@@ -10,7 +10,7 @@ last_updated: "2026-11-11"
 ---
 # On-Line Systems
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ The player is a wanderer in the land of Serenia who sets out to rescue King Geor
 
 ### Hi-Res Adventure 5: Time Zone (1982)
 
-*Time Zone* was Roberta's most ambitious design. It is a treasure hunt across every continent in several historical eras, ending on an alien planet in the far future. Her design grew to twelve disk sides, at a time when even epics like *Ultima* and *Wizardry* were only just spilling onto a second side.[^ref-28] Ken assembled a team of about ten people for the project, a "Time Zone task force." Artist Terry Pierce drew some 1,400 pictures, and [[Jeff Stephenson]], formerly of VisiCalc developer Software Arts, was brought in as co-head to get the project back on track.[^ref-28] The game shipped on six double-sided disks in early 1982, with more than 1,300 illustrated locations; *Computer Gaming World* interviewed Roberta on April 2, 1982, "shortly after TIME ZONE became available."[^ref-22][^ref-37] At $99.95 it sold poorly, and On-Line Systems shelved a planned Atari port.[^ref-37][^ref-28][^ref-22][^ref-29]
+*Time Zone* was Roberta's most ambitious design. Roberta envisioned a treasure hunt across every continent in several historical eras, building to a climax on an alien planet in the far future. Her design grew to twelve disk sides, at a time when even epics like *Ultima* and *Wizardry* were only just spilling onto a second side.[^ref-28] Ken assembled a team of about ten people for the project, a "Time Zone task force." Artist Terry Pierce drew some 1,400 pictures, and [[Jeff Stephenson]], formerly of VisiCalc developer Software Arts, was brought in as co-head to get the project back on track.[^ref-28] The game shipped on six double-sided disks in early 1982, with more than 1,300 illustrated locations; *Computer Gaming World* interviewed Roberta on April 2, 1982, "shortly after TIME ZONE became available."[^ref-22][^ref-37] At $99.95 it sold poorly, and On-Line Systems shelved a planned Atari port.[^ref-37][^ref-28][^ref-22][^ref-29]
 
 ### Threshold (1981)
 
@@ -81,8 +81,8 @@ The company itself continued as Sierra On-Line, later Sierra Entertainment, whos
 | 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure 1: Mystery House]] | Adventure |
 | 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Adventure |
 | 1980 | [[1980 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Casino |
-| 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | Sports Simulation; late 1980: advertised as "coming soon" in September 1980 and on *Softalk*'s Top Thirty from January to April 1981[^ref-32][^ref-40][^ref-35] |
-| 1981 | [[1981 - Hi-Res Soccer\|Hi-Res Soccer]] | Sports Simulation; announced in *Softalk*, April 1981[^ref-35] |
+| 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | Sports; late 1980: advertised as "coming soon" in September 1980 and on *Softalk*'s Top Thirty from January to April 1981[^ref-32][^ref-40][^ref-35] |
+| 1981 | [[1981 - Hi-Res Soccer\|Hi-Res Soccer]] | Sports; announced in *Softalk*, April 1981[^ref-35] |
 | 1981 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Hi-Res Adventure 3: Cranston Manor]] | Adventure |
 | 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Adventure |
 | 1981 | [[1981 - Crossfire\|Crossfire]] | Shooter |
