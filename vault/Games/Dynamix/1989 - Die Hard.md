@@ -11,7 +11,7 @@ series: null
 engine: null
 protagonist: "John McClane"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Die Hard is a 1989 MS-DOS action game based on the 1988 film, developed by Dynamix and published by Activision before Sierra acquired Dynamix. The Commodore 64, NES and PC Engine Die Hard games are different products by other developers."
 tags: [1980s, action, licensed, die-hard, ms-dos, dynamix, activision, jerry-luttrell]
 composer: ["Bryce Morcello"]
@@ -19,7 +19,7 @@ composer: ["Bryce Morcello"]
 
 # Die Hard
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -109,7 +109,7 @@ MobyGames lists the team:[^ref-2][^ref-21]
 - **Playtesting:** Tom Bellamy, Jeff Glazier, Steve Imes, Stewart Perkins, Kelly Walker Rogers, Larry Weissenborn, Kelly Zmak
 - **Players Guide:** Hunter Cone, Larry Hall
 
-Hardcore Gaming 101 quotes Dynamix as claiming to have "developed an entirely new form of 3-dimensional technology" for the game.[^ref-11] Cyrus Kanga is credited with the 3D art, and the Dynamix Wiki files the game among its "3Space Games".[^ref-2][^ref-16]
+Hardcore Gaming 101 describes the MS-DOS release as having "a behind-the-back third-person perspective and digitized character graphics, with players being dropped into a 3D raycasted game world". It adds that players are "occasionally" treated to "digitized frames from the film, with Bruce Willis' likeness altered in sometimes grotesque fashion".[^ref-11] The same review quotes Dynamix as claiming to have "developed an entirely new form of 3-dimensional technology" for the game.[^ref-11] Cyrus Kanga is credited with the 3D art, and the Dynamix Wiki files the game among its "3Space Games".[^ref-2][^ref-16]
 
 ### Technical Specifications
 
@@ -132,7 +132,7 @@ When the PC version was reviewed in the UK, *Computer and Video Games* reported 
 
 ## Legacy
 
-Die Hard was the first game based on the *Die Hard* films.[^ref-12] Later *Die Hard* games came from other studios. They include Pack-In-Video's NES and PC Engine games, and Probe Entertainment's *Die Hard Trilogy*.[^ref-12][^ref-13] For Dynamix, it was one of the late-1980s titles in which the studio used digitized film imagery, alongside *Ghostbusters II* and *David Wolf: Secret Agent*.[^ref-9][^ref-14] Sierra bought Dynamix on March 27, 1990, a few months after the game's release.[^ref-19]
+Die Hard was the first game based on the *Die Hard* films.[^ref-12] Later *Die Hard* games came from other studios. They include Pack-In-Video's NES and PC Engine games, and Probe Entertainment's *Die Hard Trilogy*.[^ref-12][^ref-13][^ref-23] For Dynamix, it was one of the late-1980s titles in which the studio used digitized film imagery, alongside *Ghostbusters II* and *David Wolf: Secret Agent*.[^ref-9][^ref-14] Sierra bought Dynamix on March 27, 1990, a few months after the game's release.[^ref-19]
 
 ## Downloads
 
@@ -178,3 +178,4 @@ Die Hard comes from Dynamix's year of work for Activision, between its Electroni
 [^ref-20]: [Computer Gaming World #58 (April 1989), "Dynamix Joins Roster of Mediagenic Affiliates" – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_58) – February 14, 1989 agreement; Dynamix planning several projects for Activision
 [^ref-21]: [MobyGames – Die Hard (DOS) credits (Wayback Machine, March 2010)](https://web.archive.org/web/20100309191357/http://www.mobygames.com:80/game/dos/die-hard/credits) – "Music and Sound Effects: Bryce Morcello"; "Produced by: Steven Ackrich, John A. S. Skeel"
 [^ref-22]: [MobyGames – Die Hard: Nakatomi Plaza (Windows, 2002)](https://www.mobygames.com/game/6262/die-hard-nakatomi-plaza/) – published by Fox Interactive and Sierra Entertainment, developed by Piranha Games; US release 2002-04-24. Retrieved via the MobyGames API, 2026-10-22
+[^ref-23]: [Wikipedia – Die Hard Trilogy](https://en.wikipedia.org/wiki/Die_Hard_Trilogy) – developed by the UK studio Probe Entertainment
