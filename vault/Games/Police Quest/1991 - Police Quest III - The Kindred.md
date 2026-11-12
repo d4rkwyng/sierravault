@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Jan Hammer]
 description: 'Police Quest III: The Kindred is a 1991 police procedural adventure
   game developed and published by Sierra On-Line, the third Police Quest game and
@@ -20,7 +20,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -55,7 +55,7 @@ The case takes a darker turn when Sonny learns that the killer had connections t
 > 
 > **Villain Connection:** Michael Bains is the brother of the late Jessie Bains[^ref-1][^ref-37], a "paper-thin attempt to tie the villain's story to that of the first two games," in Adventure Gamers' view[^ref-13]. The game's manual sets the tone with the note: "There's no way officer bonds could have brought bains back alive," referencing the controversial conclusion to the previous game[^ref-10].
 
-The narrative explores the tension between Sonny's desire for revenge and his professional obligation to follow proper police procedures, a theme central to the Police Quest series' identity as a realistic police simulation[^ref-5]. As the investigation progresses, Sonny must piece together clues, interview witnesses, and build a case against the cult while maintaining his composure despite the attack on his wife.
+The narrative explores the tension between Sonny's desire for revenge and his professional obligation to follow proper police procedures, a theme central to the Police Quest series' identity as a realistic police simulation[^ref-5]. Computer Gaming World noted that the case "still requires authentic police procedures to solve the case"[^ref-6].
 
 ## Gameplay
 
@@ -67,7 +67,7 @@ The interface features video-captured human actors with "life-like action sequen
 
 ### Structure and Progression
 
-The game follows Sonny Bonds through multiple days of investigation, with the narrative progressing as players complete required objectives and gather evidence. Police Quest III emphasizes realistic police procedures throughout, and Computer Gaming World warned players to be careful with early decisions "as they significantly affect results further on in the game"[^ref-6]. The game manual establishes the tone with the observation that "being a cop is ninety-five percent boredom," though the gameplay focuses primarily on the exciting five percent[^ref-10].
+The game opens with a routine patrol shift on Sonny's first day back[^ref-1]. Police Quest III emphasizes realistic police procedures, and Computer Gaming World warned players to be careful with early decisions "as they significantly affect results further on in the game"[^ref-6]. The game manual establishes the tone with the observation that "being a cop is ninety-five percent boredom," though the gameplay focuses primarily on the exciting five percent[^ref-10].
 
 Key locations include[^ref-12]:
 
@@ -79,7 +79,7 @@ Key locations include[^ref-12]:
 
 ### Puzzles and Mechanics
 
-Police Quest III combines inventory puzzles and environment riddles[^ref-4] with police-procedural mechanics; Computer Gaming World noted that it "still requires authentic police procedures to solve the case"[^ref-6]. To succeed, CGW wrote, the player must be "a master of deductive reasoning, an artist (using the game's computer-assisted composite photo technique), a social worker and a computer specialist"[^ref-6]. Evidence collection and proper handling procedures remain crucial, as in previous entries.
+Police Quest III combines inventory puzzles and environment riddles[^ref-4] with police-procedural mechanics; Computer Gaming World noted that it "still requires authentic police procedures to solve the case"[^ref-6]. To succeed, CGW wrote, the player must be "a master of deductive reasoning, an artist (using the game's computer-assisted composite photo technique), a social worker and a computer specialist"[^ref-6].
 
 The game features a driving system that allows players to patrol Lytton's streets, though this mechanic proved controversial. Adventure Classic Gaming noted that "plainly speaking, driving around in the town of Lytton is a disaster"[^ref-4]. One walkthrough warns that it is impossible to turn when driving faster than 55 miles per hour[^ref-12]. Adventure Gamers memorably stated: "You haven't played Police Quest 3 until you've driven straight into the river immediately after leaving the station, for lack of understanding how quickly you must click to successfully turn"[^ref-13].
 
@@ -169,7 +169,9 @@ The game supported multiple sound cards including AdLib, Roland MT-32/LAPC-1/CM-
 | - | 1992 | Amiga | Published by Sierra On-Line[^ref-8] |
 | - | 1994 | Amiga | Kixx XL budget re-release (France, Germany, Italy, UK), published by U.S. Gold[^ref-8][^ref-21] |
 | 1.00 | March 14, 2019 | Windows | GOG Galaxy build (GOG v1)[^ref-24] |
-| 1.00 GOG v2 | February 19, 2026 | Windows | GOG Galaxy build (GOG v2)[^ref-24] |
+| 1.00 GOG v2 | February 19, 2026 | Windows | GOG Galaxy build (GOG v2); GOG changelog dated 20 February 2026 (ScummVM, Cloud Saves, optional EGA version)[^ref-24][^ref-32] |
+
+GOG's changelog dated 20 February 2026 for the Police Quest Collection states, for Police Quest 1, 2, 3 and 4: "Switched emulation from DOSBox to ScummVM. Added Cloud Saves support. Validated stability. Verified compatibility with Windows 10 and 11." For Police Quest 3 it adds: "Added an option to play EGA version of the game. Updated DOSBox build with EGA version (available through optional branch)."[^ref-32] PCGamingWiki lists the GOG edition as "Pre-packaged with ScummVM (formerly DOSBox). VGA and EGA versions." and the Steam edition as "Pre-packaged with DOSBox. VGA version only."[^ref-7]
 
 **SCI Interpreter Versions:**[^ref-7]
 | Game Version | Interpreter | Type | Notes |
@@ -178,7 +180,7 @@ The game supported multiple sound cards including AdLib, Roland MT-32/LAPC-1/CM-
 
 ### Technical Issues
 
-Police Quest III suffers from significant compatibility issues on modern systems. The SierraHelp website documents multiple known problems including "poor quality or no sound," "unable to initialize your audio hardware" errors, and speed-related issues where "police car moves way too quickly to drive easily"[^ref-22]. One walkthrough author warned: "There are serious timing errors in this game if you are playing on a modern PC so try using an emulator such as DosBox, play on an older PC (486) or better yet find the unofficial SCI fixes that will sort out most problems. If none of the above are an option for you it might make the game unplayable"[^ref-12].
+Police Quest III suffers from significant compatibility issues on modern systems. The SierraHelp website documents multiple known problems including "poor quality or no sound," "unable to initialize your audio hardware" errors, and speed-related issues where "police car moves way too quickly to drive easily"[^ref-22]. ScummVM's compatibility chart rates Police Quest 3 "Excellent" ("Game has no known issues") for the DOS and Amiga versions, adding that "Music in the Amiga versions may have glitches"[^ref-41]. One walkthrough author warned: "There are serious timing errors in this game if you are playing on a modern PC so try using an emulator such as DosBox, play on an older PC (486) or better yet find the unofficial SCI fixes that will sort out most problems. If none of the above are an option for you it might make the game unplayable"[^ref-12].
 
 Specific bugs include:
 - Car speed issues when Morales asks you to drive to the mall[^ref-22]
@@ -208,7 +210,7 @@ The game features variations in its ending based on player actions throughout th
 
 ### Sales and Commercial Impact
 
-Police Quest III contributed to the overall success of Sierra's Police Quest franchise. The first four Police Quest games totaled 850,000 sales by late 1995, per PC Games[^ref-1]. Sierra's 1996 10-K says the series had sold "more than 1.2 million copies" across its titles[^ref-25]. The filing described the series as one where "a cop fights cunning and dangerous criminals and solves intriguing cases while following correct police procedures"[^ref-25].
+The first four Police Quest games totaled 850,000 sales by late 1995, per PC Games[^ref-1]. Sierra's 1996 10-K says the series had sold "more than 1.2 million copies" across its titles[^ref-25]. The filing described the series as one where "a cop fights cunning and dangerous criminals and solves intriguing cases while following correct police procedures"[^ref-25].
 
 The game received the Enchanted Realms Distinctive Adventure Award in January 1992 (issue #9)[^ref-8].
 
@@ -219,7 +221,7 @@ Police Quest III has been included in several compilation releases:
 - **Police Quest Collection Series**[^ref-5]
 - **SWAT Career Pack**[^ref-5]
 
-The game remains available on GOG and Steam in the Police Quest Collection[^ref-32][^ref-33].
+The game remains available on GOG and Steam in the Police Quest Collection[^ref-32][^ref-33]. GOG's edition has run on ScummVM, with Cloud Saves and an optional EGA version, since its 20 February 2026 update, while the Steam edition is pre-packaged with DOSBox and offers the VGA version only[^ref-32][^ref-7].
 
 ### Fan Projects
 
@@ -259,6 +261,7 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 - [[1988 - Police Quest II - The Vengeance]]
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 - [[1993 - Police Quest - Open Season]]
+- [[Police Quest Series]]
 
 ## References
 
@@ -295,3 +298,4 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 [^ref-38]: [MobyGames – Mark Seibert credit sheet (Wayback, September 2022)](https://web.archive.org/web/20220928213135/https://www.mobygames.com/developer/sheet/view/developerId,4548/) – "Police Quest 3: The Kindred (1991) ( Music Director )"
 [^ref-39]: [SpaceQuest.net – The Designers](https://spacequest.net/misc/designers/) – Mark Crowe: "I was directing Police Quest 3 after Space Quest 4 was released… so I came on board there in Eugene, Oregon"
 [^ref-40]: [Internet Archive – Manual (full text)](https://archive.org/stream/Police_Quest_3_-_Manual/Police_Quest_3_-_Manual_djvu.txt) – contents list: radio codes, vehicle/penal codes, "OPERATING YOUR DEPARTMENTAL VEHICLE 18", "NOTES 19"
+[^ref-41]: [ScummVM – Compatibility: Police Quest 3: The Kindred (sci:pq3)](https://www.scummvm.org/compatibility/DEV/sci:pq3) – support level "Excellent", supported platforms Amiga and DOS, Amiga music note
