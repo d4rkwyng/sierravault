@@ -6,15 +6,15 @@ defunct: null
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld", "Company of Heroes", "Warhammer 40,000: Dawn of War"]
 parent_company: "Independent (2024-present; formerly SEGA 2013-2024)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Relic Entertainment
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Relic Entertainment was founded in Vancouver in May 1997 by seven people: Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds.[^ref-1][^ref-2][^ref-28] [[Sierra On-Line|Sierra Studios]] published Relic's debut, [[1999 - Homeworld|Homeworld]] (1999), a 3D space real-time strategy game that critics acclaimed.[^ref-3][^ref-1] Sierra also published [[2003 - Homeworld 2|Homeworld 2]] (2003). THQ acquired the studio in 2004.[^ref-4][^ref-14]
+Relic Entertainment was founded in Vancouver in May 1997 by seven people: Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds.[^ref-1][^ref-2][^ref-28] [[Sierra On-Line|Sierra Studios]] published Relic's debut, [[1999 - Homeworld|Homeworld]] (1999), a 3D space real-time strategy game that critics acclaimed.[^ref-3][^ref-1] Sierra also published [[2003 - Homeworld 2|Homeworld 2]] (2003).[^ref-4] THQ acquired the studio in 2004.[^ref-4][^ref-14]
 
 After THQ's December 2012 bankruptcy filing, SEGA bought Relic at auction in January 2013.[^ref-18][^ref-6][^ref-7] The studio continued developing acclaimed strategy games including the *Company of Heroes* and *Warhammer 40,000: Dawn of War* franchises, as well as collaborating on *Age of Empires IV* with Xbox Game Studios.[^ref-8] In March 2024 SEGA sold Relic back to independent ownership, marking the studio's return to autonomy after two decades under publisher control.[^ref-9]
 
@@ -45,9 +45,11 @@ After THQ filed for Chapter 11 bankruptcy in December 2012, Relic was sold at au
 
 ### Independent Era (2024–present)
 
-In March 2024, SEGA divested Relic to private investment via Emona Capital, returning the studio to independent ownership.[^ref-9][^ref-21] About a week after the sale, in April 2024, Relic announced further layoffs; it gave no number, but external development producer Robyn Smale said 41 people were affected.[^ref-31][^ref-32] In August 2025, Relic released *Warhammer 40,000: Dawn of War — Definitive Edition*, an enhanced re-release of the original game that reportedly sold 150,000 copies within 24 hours.[^ref-22]
+In March 2024, SEGA divested Relic to private investment via Emona Capital, returning the studio to independent ownership.[^ref-21][^ref-9] About a week after the sale, in April 2024, Relic announced further layoffs; it gave no number, but external development producer Robyn Smale said 41 people were affected.[^ref-31][^ref-32] On August 13, 2025, Relic released *Warhammer 40,000: Dawn of War — Definitive Edition*, an enhanced re-release of the original game that reportedly sold 150,000 copies within 24 hours.[^ref-42][^ref-22] Warhammer 40,000: Space Marine Master Crafted Edition followed on June 10, 2025, from Sega and SneakyBox.[^ref-42]
 
-In February 2025 Relic said it would "actively pursue the development and publishing of smaller-scope, in-house games" and re-imagine some older titles through remasters and remakes; CEO Justin Dowdeswell said the plans would not lead to more job cuts.[^ref-34] At Summer Game Fest in June 2026 Relic revealed *Company of Heroes: Definitive Edition*, a 64-bit remake of the 2006 game that includes the Opposing Fronts and Tales of Valor expansions, for Fall 2026.[^ref-35] On July 29, 2026, Relic released *Company of Heroes 3: Final Stand*, a standalone wave-defence spin-off for PC via Steam, timed to the series' 20th anniversary.[^ref-36]
+In October 2025 Relic released *Earth vs Mars*, a turn-based strategy game published under its Relic Labs label.[^ref-42][^ref-44]
+
+In February 2025 Relic said it would "actively pursue the development and publishing of smaller-scope, in-house games" and re-imagine some older titles through remasters and remakes; CEO Justin Dowdeswell said the plans would not lead to more job cuts.[^ref-34] At Summer Game Fest in June 2026 Relic revealed *Company of Heroes: Definitive Edition*, a 64-bit remake of the 2006 game that includes the Opposing Fronts and Tales of Valor expansions, for release in 2027.[^ref-35][^ref-43] On July 29, 2026, Relic released *Company of Heroes 3: Final Stand*, a standalone wave-defence spin-off for PC via Steam, timed to the series' 20th anniversary.[^ref-36]
 
 ## Sierra-Era Games in This Archive
 
@@ -75,9 +77,11 @@ In February 2025 Relic said it would "actively pursue the development and publis
 - **2017** — Warhammer 40,000: Dawn of War III (SEGA)[^ref-40]
 - **2021** — Age of Empires IV (Xbox Game Studios, with World's Edge)[^ref-8][^ref-20]
 - **2023** — Company of Heroes 3 (SEGA)[^ref-41]
-- **2025** — Warhammer 40,000: Dawn of War — Definitive Edition (Independent)[^ref-22]
+- **2025** — Warhammer 40,000: Space Marine — Master Crafted Edition (Sega and SneakyBox; June 10)[^ref-42]
+- **2025** — Warhammer 40,000: Dawn of War — Definitive Edition (Independent; August 13)[^ref-42][^ref-22]
+- **2025** — Earth vs Mars (Relic Labs; October 29)[^ref-42][^ref-44]
 - **2026** — Company of Heroes 3: Final Stand (Relic)[^ref-36]
-- **Fall 2026 (announced)** — Company of Heroes: Definitive Edition (Relic)[^ref-35]
+- **2027 (announced)** — Company of Heroes: Definitive Edition (Relic, developed in partnership with BBI)[^ref-35][^ref-43]
 
 ## Key People
 
@@ -135,3 +139,6 @@ Later critics kept praising *Homeworld*. Maximum PC wrote in 2003 that it "did w
 [^ref-39]: [Wikipedia — Warhammer 40,000: Space Marine](https://en.wikipedia.org/wiki/Warhammer_40,000:_Space_Marine) — Developed by Relic, published by THQ; North America September 6, 2011
 [^ref-40]: [Wikipedia — Warhammer 40,000: Dawn of War III](https://en.wikipedia.org/wiki/Warhammer_40,000:_Dawn_of_War_III) — Developed by Relic, published by Sega; Windows April 27, 2017
 [^ref-41]: [Wikipedia — Company of Heroes 3](https://en.wikipedia.org/wiki/Company_of_Heroes_3) — Developed by Relic, published by Sega; Windows February 23, 2023
+[^ref-42]: [Wikipedia — List of Relic Entertainment games](https://en.wikipedia.org/wiki/List_of_Relic_Entertainment_games) — Earth vs Mars: Windows, October 29, 2025, self-published under the Relic Labs label, turn-based strategy; Space Marine Master Crafted Edition June 10, 2025 (Sega and SneakyBox); Dawn of War Definitive Edition published by Relic August 13, 2025
+[^ref-43]: [Gamers' Temple — Company of Heroes Definitive Edition coming next year](https://www.gamerstemple.com/news/2026/09/11/company-of-heroes-definitive-edition-coming-next-year) — September 11, 2026: Relic "will launch Company of Heroes - Definitive Edition in 2027"; PC via Steam; "Developed in partnership with BBI"
+[^ref-44]: [GamingOnLinux — Inspired by Advance Wars, the new Earth vs Mars from Relic Entertainment is out now](https://www.gamingonlinux.com/2025/10/inspired-by-advance-wars-the-new-earth-vs-mars-from-relic-entertainment-is-out-now/) — October 2025: released under the Relic Labs umbrella; described as a "love letter to the turn-based strategy genre"
