@@ -13,7 +13,8 @@ sierra_lineage: Core Sierra
 last_updated: '2026-11-12'
 composer: [Rob Atesalp]
 description: The Island of Dr. Brain is an educational puzzle game released
-  in 1992 by Sierra On-Line as part of the Sierra Discovery Series. As the second...
+  in 1992 by Sierra On-Line as part of the Sierra Discovery Series. As the second
+  entry in the Dr. Brain series, it follows Castle of Dr. Brain (1991).
 tags: [1990s, dr-brain, educational, sci, sierra]
 ---
 # The Island of Dr. Brain
@@ -37,13 +38,14 @@ Marketed with the tagline "Fill your head while you boggle your mind," The Islan
 > **Release Year:** 1992
 > **Series:** Dr. Brain
 > **Protagonist:** Unnamed Player Character
+> **Composer:** Rob Atesalp[^ref-16]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
 
-The game opens with Dr. Brain informing the player that plans for his latest project have been stolen by an unnamed archrival scientist.[^ref-4] Dr. Brain charges the player—serving as his associate—with the mission of retrieving a special battery from his private island and bringing it to him.[^ref-11] This setup establishes the narrative framework for the educational puzzle sequence that follows.
+The game opens with Dr. Brain informing the player that plans for his latest project have been stolen by an unnamed archrival scientist.[^ref-4] Dr. Brain charges the player—serving as his assistant—with the mission of retrieving a special battery from his private island and bringing it to him.[^ref-11] This setup establishes the narrative framework for the educational puzzle sequence that follows.
 
-The player assumes the role of an associate of the famous Dr. Brain who has been entrusted with a package that must be delivered to Dr. Brain as soon as possible.[^ref-9] The journey takes players through various locations on the island, beginning on the beach and continuing through a cave, a lagoon, a mountain, a volcano, a robot village and Dr. Brain's hut, before ending in his laboratory, music room and control room.[^ref-13] Each location presents themed puzzles that must be solved to progress toward finding the elusive battery.
+The player assumes the role of an assistant to the famous Dr. Brain who has been entrusted with a package that must be delivered to Dr. Brain as soon as possible.[^ref-9] The journey takes players through various locations on the island, beginning on the beach and continuing through a cave, a lagoon, a mountain, a volcano, a robot village and Dr. Brain's hut, before ending in his laboratory, music room and control room.[^ref-13] Each location presents themed puzzles that must be solved to progress toward finding the elusive battery.
 
 Dr. Brain's flair for strange decorations extends throughout his island retreat, where players encounter visual puns and peculiar contraptions at every turn.[^ref-14] The box copy describes the mission as "a race against time."[^ref-7] Along the way, players may even "find use for a bunch of pink flamingoes"—one of the game's more whimsical elements.[^ref-4]
 
@@ -81,7 +83,7 @@ Educational content includes language and grammar puzzles, chemistry and genetic
 
 Computer Gaming World published a review by Charles Ardai in its April 1993 issue ("More 'Edu,' Less 'Tainment'," pp. 54-55), where the reviewer stated that "the puzzles are more contrived and less fun than in the first game."[^ref-38] The review's data box listed an IBM version for EGA/VGA at $49.95, with "Documentation Look-Up" copy protection.[^ref-38] Ardai noted that, though both games say they are for "ages 12 and up," Island "gives the impression of having been intended for a slightly older player than Castle."[^ref-38] This assessment reflected a sentiment among some critics that the sequel, while competent, did not quite match the creative spark of its predecessor.
 
-Ardai also quoted the game's marketing claim: "We guarantee this game will entertain your child while he or she learns."[^ref-1] Sierra's brand manager for the Discovery Series had described the series as "more than just games. They have legitimate academic content."[^ref-19]
+Ardai also quoted the game's marketing claim, printed on Sierra's package: "We guarantee this game will entertain your child while he or she learns."[^ref-38] Sierra's brand manager for the Discovery Series had described the series as "more than just games. They have legitimate academic content."[^ref-19]
 
 ### Modern Assessment
 
@@ -103,7 +105,7 @@ Home of the Underdogs (HOTUD) offered a more critical assessment: "This follow-u
 
 The Dr. Brain series originated with Ken Williams' concept called "Mathemagical Mansion," which [[Corey Cole]] developed into Castle of Dr. Brain in 1991.[^ref-19] Cole, who was also responsible for the Quest for Glory series, created the first game,[^ref-24] which one MobyGames reviewer called "Sierra's first brainteaser game."[^ref-15] When Castle of Dr. Brain sold over 100,000 copies in its initial full-price release and another 150,000 copies as a budget re-release, a sequel was greenlit.[^ref-19]
 
-For The Island of Dr. Brain, Corey Cole was not involved with the project.[^ref-15] Instead, a new team led by designer Patrick Bridgemon took over development. As one reviewer noted, "the guys who worked on the game took the things that made the original great and then expanded on it."[^ref-15]
+For The Island of Dr. Brain, Corey Cole was not involved with the project.[^ref-15] Instead, a new team led by designer Patrick Bridgemon took over development. Bridgemon had been a Sierra technical writer responsible for many of the company's manuals and hint books, and Cole turned down an offer to work on the sequel.[^ref-19] As one reviewer noted, "the guys who worked on the game took the things that made the original great and then expanded on it."[^ref-15]
 
 ### Production
 
@@ -115,11 +117,14 @@ Corey Cole later reflected on the challenges of puzzle design, recalling that wh
 - **Designer:** Patrick Bridgemon
 - **Producer/Director:** Brett Miller
 - **Lead Programmer:** Todd Powers
+- **Educational Consultant:** Susan Simmons[^ref-35]
+- **Programmers:** Oliver Brelsford, Michael Lytton, Martin Peters, Frank Roan[^ref-35]
 - **Composer:** Rob Atesalp
 - **Art Design:** Jon Bock[^ref-35]
 - **Senior Artist:** Dennis Lewis[^ref-35]
 - **Art and Animation:** Frances Anne Powell, Daryle Smith[^ref-35]
 - **Special Thanks:** [[Stuart Moulder]][^ref-39]
+- **Manual (EncycloAlmanacTionaryOgraphy):** concept by Josh Mandel, written by Patrick Bridgemon[^ref-35]
 
 ### Technical Achievements
 
@@ -151,6 +156,7 @@ The soundtrack release by Xeen Music revealed that some musical content exists i
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1992 | MS-DOS | Initial release[^ref-1] |
+| 1.1 | 1993 | MS-DOS | 3.5" disk release[^ref-16] |
 | Sierra Originals | 1995 | MS-DOS | Floppy version on CD, copy protection in manual[^ref-3][^ref-6] |
 | Patch | 1992 | MS-DOS | Bug fix patch released (162.9 KB)[^ref-29]; Computer Gaming World's April 1993 update list gives its date as 12/23/92 and says it "Fixes 'Ooops 10' error, music room puzzle, and several other problems"[^ref-38] |
 
@@ -183,7 +189,7 @@ The game manual's humorous title—"EncycloAlmanacTionaryOgraphy"—reflects the
 
 While exact sales figures for The Island of Dr. Brain specifically are not documented, the game did not perform quite as well commercially as its predecessor.[^ref-19] According to Sierra, combined sales of the Dr. Brain series surpassed 350,000 units by the end of March 1996.[^ref-8]
 
-The Island of Dr. Brain was the last entry in the series developed in-house by Sierra.[^ref-7] Following this game, Sierra acquired Bright Star Technology and turned the series over to them, which explains the significant change in direction from the second game to the third (The Lost Mind of Dr. Brain, 1995).[^ref-8]
+The Island of Dr. Brain was the last entry in the series developed in-house by Sierra.[^ref-7] Sierra, which had acquired [[Bright Star Technology]] in 1992,[^ref-19] gave the later entries to Bright Star, which explains the significant change in direction from the second game to the third (The Lost Mind of Dr. Brain, 1995).[^ref-8]
 
 ### Collections
 
@@ -202,7 +208,8 @@ The game remains playable through emulation via DOSBox and is supported by Scumm
 
 The Island of Dr. Brain occupies an interesting position in Sierra's catalog and the broader edutainment genre. Digital Antiquarian writer Jimmy Maher, discussing the series, noted: "I don't believe Corey Cole is capable of making a game that's less than thoroughly likable."[^ref-19] While Cole did not work on this sequel, the sentiment reflects the affection the series as a whole has earned.
 
-Opinions on how it compares with the original are divided. Ardai found its puzzles "more contrived and less fun,"[^ref-1] while Maher wrote: "I don't think that The Island of Dr. Brain fares badly at all in comparison to its predecessor."[^ref-19] One home educator noted: "Had my kids play this as part of our homeschool curriculum. They found some of it tedious but they learned so much!"[^ref-22] 
+Opinions on how it compares with the original are divided. Ardai found its puzzles "more contrived and less fun,"[^ref-38] while Maher wrote: "I don't think that The Island of Dr. Brain fares badly at all in comparison to its predecessor."[^ref-19] One home educator noted: "Had my kids play this as part of our homeschool curriculum. They found some of it tedious but they learned so much!"[^ref-22]
+
 Later, CUC International, which already owned Sierra, announced in November 1996 that it would buy [[Knowledge Adventure]] and completed the purchase on January 31, 1997, making Knowledge Adventure a sister company to Sierra within the CUC Software division.[^ref-37][^ref-36] Knowledge Adventure then took over the series,[^ref-8] and its games recast Dr. Brain as a "twenty-something genius instead of a mad scientist in his sixties."[^ref-20]
 
 ## Downloads
