@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: High-resolution SVGA graphics engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: '*Front Page Sports: Football Pro ''96* was an American football
   simulation developed by Dynamix and published by Sierra On-Line on CD-ROM for
   DOS in late 1995.'
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -62,7 +62,7 @@ The CAMS (Camera Angle Management System) let coaches zoom, pan and tilt the vie
 
 ### Teams, Stats and Editors
 
-The game covers all 30 NFL teams, including the new Carolina and Jacksonville franchises, with support for 30-team leagues.[^ref-36][^ref-37] It carried the NFL Players Inc. license, with updated 1995 rosters and player stats.[^ref-36] *CGR* reported that the player and team stats were compiled by STATS, Inc. (Sports Team Analysis and Tracking Systems). It also listed a team and league editor, a player ratings editor and a playbook editor, plus a utility that converts leagues from earlier FPS Football games for use in '96.[^ref-32] Sierra's advertising promised "a playbook with over 10,000 combinations of X's and O's," and *Digitiser* likewise counted "10,000 plays."[^ref-37][^ref-38]
+The game covers all 30 NFL teams, including the new Carolina and Jacksonville franchises, with support for 30-team leagues.[^ref-36][^ref-37] It carried the NFL Players Inc. license (formerly the NFL Players Association), with updated 1995 rosters and player stats.[^ref-36] The series' NFL team licence dated from [[1994 - Front Page Sports - Football Pro '95|Football Pro '95]], the first version with real NFL teams.[^ref-3] *CGR* reported that the player and team stats were compiled by STATS, Inc. (Sports Team Analysis and Tracking Systems). It also listed a team and league editor, a player ratings editor and a playbook editor, plus a utility that converts leagues from earlier FPS Football games for use in '96.[^ref-32] Sierra's advertising promised "a playbook with over 10,000 combinations of X's and O's," and *Digitiser* likewise counted "10,000 plays."[^ref-37][^ref-38]
 
 ### Career Mode
 
@@ -142,6 +142,7 @@ MobyGames lists no voice cast for this edition.[^ref-31]
 | **Graphics** | SVGA, local bus video[^ref-32] | |
 | **CD-ROM** | 2x[^ref-32][^ref-34] | |
 | **Hard drive** | 10 MB[^ref-34] | |
+| **Price** | $59.95 ("Price: $59.95")[^ref-34] | |
 | **Sound** | Sound Blaster and compatibles[^ref-34] | |
 | **Input** | Mouse, keyboard or joystick[^ref-32] | |
 
@@ -202,6 +203,7 @@ The game is preserved on the Internet Archive, and the v1.01 patch is archived s
 - [[1997 - Front Page Sports - Trophy Rivers]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 - [[1999 - Front Page Sports - Ski Racing 99]]
+- [[CXL - Front Page Sports - Football Pro '99]]
 
 ## References
 
