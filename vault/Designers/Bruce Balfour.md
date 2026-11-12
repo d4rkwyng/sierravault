@@ -5,17 +5,17 @@ birth_year: null
 death_year: null
 notable_games: ["Wasteland", "Neuromancer", "The Dagger of Amon Ra", "Outpost"]
 companies: ["Interplay Productions", "Sierra On-Line", "NASA Ames Research Center"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Bruce Balfour
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Bruce Balfour is an American science fiction writer and video game designer. MobyGames' biography lists him as a computer game designer "with bestselling titles such as Neuromancer, Wasteland, The Dagger of Amon Ra, and Outpost."[^ref-1][^ref-14] He worked on several projects for Interplay Productions as an independent contractor, then designed three games for Sierra On-Line.[^ref-3]
 
-Prior to his gaming career, Balfour worked as a Systems Manager at NASA's Ames Research Center, where he gained extensive knowledge of space sciences, artificial intelligence applications for future space probes, and participated in studies evaluating proposed space stations.[^ref-3] He later drew on his NASA studies when building Outpost.[^ref-3] His first professional fiction sales came in 1981, when he sold two stories to Twilight Zone Magazine at once (his older website biography gave the year as 1982).[^ref-7][^ref-1] By 1994 he had been a freelance writer for 12 years, with fiction (science fiction, fantasy, mystery, mainstream) and non-fiction published "in a variety of magazines and anthologies."[^ref-3] The Encyclopedia of Science Fiction gives his birthplace as Tulsa, Oklahoma, and lists his comics work on Keith Laumer's Retief and Jack the Ripper and his novels Star Crusader (1995), The Forge of Mars (2002), The Digital Dead (2003) and The Prometheus Road (2004).[^ref-13]
+Prior to his gaming career, Balfour worked as a Systems Manager at NASA's Ames Research Center, where he gained extensive knowledge of space sciences, artificial intelligence applications for future space probes, and participated in studies evaluating proposed space stations.[^ref-3] He later drew on his NASA studies when building Outpost.[^ref-3] His first professional fiction sales came in 1981, when he sold two stories to Twilight Zone Magazine at once (his older website biography gave the year as 1982).[^ref-7][^ref-1] By 1994 he had been a freelance writer for 12 years, with fiction (science fiction, fantasy, mystery, mainstream) and non-fiction published "in a variety of magazines and anthologies."[^ref-3] The Encyclopedia of Science Fiction gives his birthplace as Tulsa, Oklahoma, and lists his comics work on Jack the Ripper (Eternity Comics, October 1989-February 1990) and Keith Laumer's Retief (Adventure Comics, December 1989-October 1990), and his novels Star Crusader (Prima, 1995, tied to a computer game), Star Bores (1999, with Steve Tymon), The Forge of Mars (2002), The Digital Dead (2003) and The Prometheus Road (2004).[^ref-13]
 
 ## Career
 
@@ -37,11 +37,11 @@ Balfour designed three games for Sierra: The Dagger of Amon Ra, Codename: Phoeni
 
 ### Post-Sierra Career
 
-After his time at Sierra, Balfour pursued various career paths while continuing his writing. He worked in business development positions for major organizations including NASA, Lawrence Berkeley National Laboratory, and Sandia National Laboratories.[^ref-6] His consulting work expanded to include management and software design projects for companies such as Microsoft, Broderbund, and Maris Multimedia UK.[^ref-6]
+After his time at Sierra, Balfour pursued various career paths while continuing his writing. He worked in business development positions for major organizations including NASA, Lawrence Berkeley National Laboratory, and Sandia National Laboratories.[^ref-6] His consulting work expanded to include management and software design projects for companies such as Microsoft, Broderbund, Sierra, and Maris Multimedia UK.[^ref-6]
 
-Balfour developed and managed i-GATE, a technology business incubator with a makerspace at Sandia National Laboratories to support young companies in advanced technology and renewable energy.[^ref-7] He earned a master's degree in community and economic development and a PhD in sociology, both from Pennsylvania State University.[^ref-6][^ref-7]
+Balfour developed and managed i-GATE, a technology business incubator with a makerspace at Sandia National Laboratories to support young companies in advanced technology and renewable energy.[^ref-7] He earned a master's degree in community and economic development and a PhD in sociology, both from Pennsylvania State University.[^ref-6][^ref-7] He also holds a bachelor's degree in science communications (journalism) from the University of Massachusetts, Amherst;[^ref-6] his own site adds that he studied film production and business at UCLA and was a computer science major at the University of California, Santa Cruz.[^ref-7]
 
-In 2018, Balfour moved to Phoenix, Arizona, where he serves as Executive Director for Phoenix Forge, a large makerspace operated by GateWay Community College.[^ref-7] He continues writing novels, with recent works including the Egyptian historical thriller series beginning with The River of Eternity (January 2024), which won a 2024 Pacific Book Award for Best Historical Fiction; his Egyptian novels have "spent several months on Amazon's bestseller lists in the US, UK, Canada, and Australia."[^ref-7] His site lists the series, set around the assassination attempt on Pharaoh Ramesses III, as The River of Eternity and The House of Death (both January 2024), The Revenge of Sekhmet (October 2024) and a fourth book, which his books page lists as The Book of the Dead and his about page calls The Harem Conspiracy (planned for 2025).[^ref-7][^ref-17] He has also begun a self-published Carla Cruz crime thriller series, with A Memory of Fire (October 2024) and Shooting Stars.[^ref-7][^ref-17] He also writes comedy mysteries under the pen name B.J. Balfour, including Deadfall, "an Amazon Charts #1 Bestseller (October 2024)".[^ref-7]
+In 2018, Balfour moved to Phoenix, Arizona; as of 2025, his site describes him as Executive Director of Phoenix Forge, a large makerspace in downtown Phoenix operated by GateWay Community College,[^ref-7] and a 2023 Maricopa Community Colleges news release likewise quotes him in that role.[^ref-19] He continues writing novels, with recent works including the Egyptian historical thriller series beginning with The River of Eternity (January 2024), which won a 2024 Pacific Book Award for Best Historical Fiction; his Egyptian novels have "spent several months on Amazon's bestseller lists in the US, UK, Canada, and Australia."[^ref-7] His books page groups the Egyptian novels as The Harem Conspiracy series: The River of Eternity (#1) and The House of Death (#2), both January 2024; The Revenge of Sekhmet (#3, October 2024); and The Book of the Dead (#4), labelled "2025 Amazon Bestseller." His about page, however, names the fourth book The Harem Conspiracy and lists it for 2025, so the two pages of his site name the series and fourth title differently.[^ref-7][^ref-17] He has also begun a self-published Carla Cruz crime thriller series, with A Memory of Fire (October 2024) and Shooting Stars.[^ref-7][^ref-17] He also writes comedy mysteries under the pen name B.J. Balfour, including Deadfall, "an Amazon Charts #1 Bestseller (October 2024)".[^ref-7] His books page lists Deadfall as Ed Beckett Comedy Mystery #1 and Chicken Gun as #2 (labelled "Amazon Bestseller (July 2025)"), along with a thriller, Burning Season (Ben Wright #1).[^ref-17]
 
 ## Notable Works
 
@@ -57,7 +57,7 @@ Working with Michael Stackpole, Balfour contributed to the design of Neuromancer
 
 As producer, director, designer, and writer on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], Balfour wrote the script and puzzles, with Roberta Williams as creative consultant; MobyGames credits Balfour as Director and Bill Davis as Creative Director.[^ref-5][^ref-9][^ref-18] Set in 1926 New York, the game featured Laura Bow as a cub reporter investigating murders at a museum during a fundraiser for a new Egyptian exhibit. Balfour designed the game with characters moving on their own schedules in pursuit of hidden agendas, requiring players to take notes and track events throughout.[^ref-4]
 
-The game's 600-page script required extensive voice recording for the CD-ROM version, with Balfour himself voicing three characters.[^ref-5][^ref-9] He also wrote the lyrics for "The Archaeologist Song" featured in the game.[^ref-5] While the concluding coroner's inquest—which tested whether players had solved the mysteries—proved challenging for some, many players appreciated the interconnected storylines and multiple playthroughs required to see different endings.[^ref-4]
+The game's 600-page script required extensive voice recording for the CD-ROM version, with Balfour himself voicing three characters.[^ref-5] He also wrote the lyrics for "The Archaeologist Song" featured in the game.[^ref-5] While the concluding coroner's inquest—which tested whether players had solved the mysteries—proved challenging for some, many players appreciated the interconnected storylines and multiple playthroughs required to see different endings.[^ref-4]
 
 ### Outpost (1994)
 
@@ -97,7 +97,7 @@ Roles follow MobyGames unless another source is cited.[^ref-14]
 
 | Year | Title | Role |
 |------|-------|------|
-| 1988 | Wasteland | Scenario Designer, Map Coder |
+| 1988 | Wasteland | Scenario Designer, Map Coder[^ref-4] |
 | 1988 | Battle Chess | Manual writer |
 | 1988 | Neuromancer | Designer |
 | 1992 | Battle Chess: Enhanced CD-ROM | Tutorial |
@@ -133,3 +133,4 @@ Roles follow MobyGames unless another source is cited.[^ref-14]
 [^ref-16]: [Computer Gaming World No. 64 (October 1989)](http://pdf.textfiles.com/zines/CGW/1989_10_issue64.pdf) — "And the WINNER of CGW's Adventure Game of the Year is: Interplay for Neuromancer"; designers Balfour, Fargo, Miles, Stackpole
 [^ref-17]: [Bruce Balfour Official Website - Books](https://brucebalfour.com/books-bruce-balfour) — Lists the Carla Cruz thriller series (A Memory of Fire, Shooting Stars) and the four-book Egyptian series
 [^ref-18]: [MobyGames - The Dagger of Amon Ra, DOS credits](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) — "Creative Director Bill Davis"; "Director Bruce J. Balfour" (read via the MobyGames API and credits page)
+[^ref-19]: [Maricopa Community Colleges - GateWay Community College's Phoenix Forge makerspace projected to create $3.6 million in economic output (2023)](https://www.maricopa.edu/news/2023/gateway-community-colleges-phoenix-forge-makerspace-projected-create-36-million-economic-output) — Quotes "Dr. Bruce Balfour, Executive Director of Phoenix Forge"
