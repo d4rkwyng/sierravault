@@ -10,14 +10,14 @@ series: Hoyle
 engine: Not documented
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: Hoyle Word Games is a 1999 Sierra On-Line compilation of eight word
   games for Windows and Macintosh, part of the long-running Hoyle series.
 tags: [1990s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -67,7 +67,7 @@ Many of these games featured multiple variations, effectively expanding the numb
 
 ### Puzzles and Mechanics
 
-Each game type presented its own puzzle mechanics appropriate to the word challenge format.[^ref-2] The DoubleCross game offered Scrabble-style strategic word placement where players built words using letter tiles on a game board.[^ref-2] Word Yacht, similar to Boggle, challenged players to make as many different words as possible, from three letters up to ten, plus specific combos.[^ref-2] DoubleCross allowed partial words that could be completed later, and its board could be customized with special spaces such as blocking tiles and bombs.[^ref-2] Enigma presented cryptographic challenges where players decoded messages by substituting letters.[^ref-2]
+Each game type presented its own puzzle mechanics appropriate to the word challenge format.[^ref-2] GameSpot's review notes that 500 different crossword puzzles are included.[^ref-21] The DoubleCross game offered Scrabble-style strategic word placement where players built words using letter tiles on a game board.[^ref-2] Word Yacht, similar to Boggle, challenged players to make as many different words as possible, from three letters up to ten, plus specific combos.[^ref-2] GameSpot says Word Yacht "pits you against one, two, or three opponents in a Boggle-like word-making competition."[^ref-21] DoubleCross allowed partial words that could be completed later, and its board could be customized with special spaces such as blocking tiles and bombs.[^ref-2] Enigma presented cryptographic challenges where players decoded messages by substituting letters.[^ref-2] Anagrams is a single-player game in which, per GameSpot, "You have to race the clock to get a minimum number of words. Once you've met the minimum, you can keep going for more words until the timer runs out."[^ref-21]
 
 A browsable version of the complete Webster's New World College Dictionary is included and is used by the game to determine valid words.[^ref-2] Computer opponents comment on the player's moves, and skill levels can be customized.[^ref-2][^ref-4]
 
@@ -166,6 +166,7 @@ The game was part of the larger Hoyle series, which encompassed card games, boar
 ### Related Publications
 
 - **Game Manual:** Included with retail package[^ref-3]
+- **Manual scan:** The Macintosh Repository page hosts a scan of the manual as a separate zipped file[^ref-11]
 - **Install Guide:** Installation instructions included with retail release[^ref-3]
 
 ### Critical Perspective
@@ -176,7 +177,6 @@ Hoyle Word Games was followed by further Word Games editions in 2000 and 2001, a
 
 **Purchase / Digital Stores**
 - Not currently available on GOG, Steam, or other major digital platforms
-- Physical copies occasionally available on eBay and other reseller sites
 
 **Download / Preservation**
 - [SierraChest – Hoyle Word Games](https://sierrachest.com/index.php?a=games&id=802&title=hoyle-word-games) – Packaging information and archive[^ref-3]
