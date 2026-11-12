@@ -10,20 +10,20 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Timothy Steven Clarke]
-description: '**Field & Stream: Trophy Bass 3D** is a fishing video game developed
+description: 'Field & Stream: Trophy Bass 3D is a fishing video game developed
   by Dynamix and published by Sierra Sports for Microsoft Windows in 1999, the third
   game in the Trophy Bass series, featuring 15 tournament lakes and more than 30 fish species.'
 tags: [1990s, sierra, simulation, trophy-bass]
 ---
 # Field & Stream Trophy Bass 3D
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-**Field & Stream: Trophy Bass 3D** is a fishing video game developed by Dynamix and published by Sierra Sports for Microsoft Windows in 1999, and the third game in the Trophy Bass series[^ref-1]. Its marketing tagline was "The Bass Are Back In Extraordinary 3D Detail"[^ref-2]. It was one of Sierra's games under the Field & Stream magazine license[^ref-17]. Trophy Bass 3D dropped the top-down view of the first two games for two "in-boat" viewpoints, first person and behind the boat, plus an underwater LureCam[^ref-21].
+**Field & Stream: Trophy Bass 3D** is a fishing video game developed by Dynamix and published by Sierra Sports for Microsoft Windows in 1999, and the third game in the Trophy Bass series[^ref-1][^ref-21]. Its marketing tagline was "The Bass Are Back In Extraordinary 3D Detail"[^ref-2]. It was one of Sierra's games under the Field & Stream magazine license[^ref-17]. Trophy Bass 3D dropped the top-down view of the first two games for two "in-boat" viewpoints, first person and behind the boat, plus an underwater LureCam[^ref-21].
 
 The box promised to bring "the ultimate fishing experience right to your desktop" with 3D detail of 15 tournament lakes and over 30 species of fish with improved artificial intelligence[^ref-3]. Video tips came from four bass pros, including Denny Brauer[^ref-37], whom the demo's description calls the "1998 FLW Angler of the year"[^ref-18].
 
@@ -118,7 +118,7 @@ User ratings:
 
 ### Origins
 
-Trophy Bass 3D followed Trophy Bass and Trophy Bass 2 Deluxe[^ref-20]. CDMag reported Sierra's new features as "new camera angles and spiffier graphics"[^ref-20]. The game shipped to retail in the U.S. and Canada in early July 1999[^ref-20]. MobyGames gives a release date of June 16, 1999[^ref-17].
+Trophy Bass 3D followed Trophy Bass and Trophy Bass 2 Deluxe[^ref-20]. CDMag reported Sierra's new features as "new camera angles and spiffier graphics"[^ref-20]. Gamecenter's news item of July 6, 1999 said Sierra Sports was making "a splash in stores across the United States and Canada this week" with the game, and that its predecessors, Field & Stream Trophy Bass and Trophy Bass 2 Deluxe, "have sold more than 1.5 million copies to date"[^ref-44]. It described a third-person boat view, a first-person angler's view, the underwater 3D LureCam, a depth sounder and fish finder, and multiplayer over Internet, LAN or modem using WON.net[^ref-44]. The game was due on shelves in the U.S. and Canada the week of July 6, 1999[^ref-20][^ref-44]. MobyGames and GameFAQs give a release date of June 16, 1999[^ref-17][^ref-2]. MobyGames also lists a German release dated 2005, with Dice Multi Media Europe B.V. as publisher and distributor and a USK rating of 0 (ohne Altersbeschränkung)[^ref-17].
 
 Sierra's own InterAction magazine previewed the game in Spring 1999 as "A work in progress," saying it would be available "late this spring." The preview described new lures, the LureCam, 15 lakes including Lake Champlain, Lake Okeechobee and Lake Russell in South Carolina, and videos from four bass pros[^ref-42]. It also described Big Fish prize, elimination and "Holes" tournament modes and a live-well "scrapbook-style" photo feature. These are the preview's descriptions of planned features and are not confirmed as shipped[^ref-42]. Australia's PC PowerPlay reported the announcement in its August 1999 issue (#39), citing 15 full-size lakes, 30 species, "an improved fish AI and fight model" and "The coolest feature though is the Lurecam"[^ref-41].
 
@@ -127,7 +127,12 @@ Sierra's own InterAction magazine previewed the game in Spring 1999 as "A work i
 MobyGames credits 202 people (161 professional roles and 41 thanks)[^ref-10]. Key credits:
 
 - **Director**: Steven D. Letsom
+- **Technical Director**: Richard Rayl
 - **Designer**: Kurt Weber
+- **Art Director**: Mary Ann Fernandes (Mary Ann O'Leary)
+- **Programmers**: Bruce Schuldt, Dan Spracklen, Donald Rayl, Gary J. Shannon, Jon Milnes, Doug Banks, Jon Cortelyou, Hong Park
+- **Direct3D Programming**: David Lawson
+- **Multi-Player Programming**: Steven D. Letsom
 - **Original Concept**: Randy Dersham
 - **Producer**: Mike Jacob
 - **Music**: Timothy Steven Clarke, Score! Music & Sound Design[^ref-10]
@@ -160,7 +165,7 @@ PC Accelerator's "ideal" system was a Pentium II 233 with 64 MB RAM and a 3D car
 
 ### Trivia
 
-- Computer Gaming World's July 1999 "Tchotchke of the Month" went to a fish-shaped pen: "Yes, the fish pen, submitted by Sierra Sports to plug their new TROPHY BASS 3D"[^ref-39].
+- Computer Gaming World's July 1999 "Tchotchke of the Month" mocked the fish pen "submitted by Sierra Sports to plug their new TROPHY BASS 3D." The magazine said the pen "quite poignantly symbolizes what has become of the sporting giant that Sierra once was" and wrote: "From FRONT PAGE SPORTS to the fish pen: like the 1999 Chicago Bulls, this is one hard fall"[^ref-39].
 - Computer Gaming World's January 2000 "Holiday Hot 100" listed the game as entry 71 at $40[^ref-40].
 
 ## Legacy
@@ -171,7 +176,11 @@ Trophy Bass 4 (2000) built directly on this release, including the 15 lakes from
 
 ### Later Comparisons
 
-Reviewing the rival Championship Bass in May 2000, GameSpot's Stephen Poole called the earlier game "last year's stellar Trophy Bass 3D" and "the ultrarealistic Trophy Bass 3D." He noted that it had 15 lakes against Championship Bass's six and that, unlike Championship Bass, it supported force-feedback joysticks. This is a comparison inside a review of another game, not a review of Trophy Bass 3D[^ref-43].
+Reviewing the rival Championship Bass in May 2000, GameSpot's Stephen Poole called the earlier game "last year's stellar Trophy Bass 3D" and "the ultrarealistic Trophy Bass 3D." He noted that it had 15 lakes against Championship Bass's six. Trophy Bass 3D, unlike Championship Bass, which GameSpot faulted for lacking force-feedback support, works with the Microsoft SideWinder Force Feedback Pro, as GameCenter's review noted[^ref-21]. This is a comparison inside a review of another game, not a review of Trophy Bass 3D[^ref-43].
+
+### Collections
+
+MobyGames lists two compilations that include the game: *10 Spiele-Hits Vol. 1* (2003) and *Field & Stream: Trophy Buck 'n Bass 2* (2000)[^ref-17].
 
 ### Preservation
 
@@ -197,23 +206,24 @@ The game is not sold on modern digital stores. MyAbandonware hosts a copy[^ref-2
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_3D) - Developer, publisher, platform, release year, third in series, GameRankings 70%
-[^ref-2]: [GameFAQs](https://gamefaqs.gamespot.com/pc/199122-field-and-stream-trophy-bass-3d) - Official game tagline and user ratings
+[^ref-2]: [GameFAQs](https://gamefaqs.gamespot.com/pc/199122-field-and-stream-trophy-bass-3d) - Official game tagline, June 16, 1999 release date and user ratings
 [^ref-3]: [VideoGameGeek](https://videogamegeek.com/videogame/161752/field-and-stream-trophy-bass-3d) - Back-of-box product description
 [^ref-6]: [Web Archive - Strategy Plus](https://web.archive.org/web/20030709104649/http://www.cdmag.com/articles/022/116/tbass3d_review.html) - Brett Todd review, 3.5/5, modes, lakes, requirements
 [^ref-10]: [MobyGames Credits](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/credits/windows/) - Full credits (202 people), bass pros, voice cast
 [^ref-12]: [Web Archive - GamePro](https://web.archive.org/web/20050409172904/http://gamepro.com/computer/pc/games/reviews/624.shtml) - Michael Lafferty review, sub-scores, modes, video manual, ESRB
-[^ref-17]: [MobyGames](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Description, release date, critic average, Field & Stream licensees group
+[^ref-17]: [MobyGames](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Description, release date, critic average, Field & Stream licensees group, German release (Dice Multi Media Europe B.V.), compilations (read via the MobyGames API)
 [^ref-18]: [Internet Archive Demo](https://archive.org/details/FieldStreamTrophyBass3dDemo) - Demo description (fish AI, Denny Brauer)
 [^ref-20]: [Web Archive - CD Magazine](https://web.archive.org/web/20030709120412/http://www.cdmag.com/articles/021/024/trophy_bass_3d.html) - "Lands In Stores" news, July 6, 1999: lakes, species, mapping, waypoints
-[^ref-21]: [Web Archive - GameCenter](https://web.archive.org/web/20000816093054/http://www.gamecenter.com/Reviews/Item/0,6,0-3211,00.html) - Eric Conley review, 7/10, viewpoints, LureCam, SideWinder support
+[^ref-21]: [Web Archive - GameCenter](https://web.archive.org/web/20000816093054/http://www.gamecenter.com/Reviews/Item/0,6,0-3211,00.html) - Eric Conley review, 7/10, "the third in the Trophy Bass series", viewpoints, LureCam, SideWinder support
 [^ref-26]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z) - User rating 4.64/5 (11 votes)
 [^ref-33]: [NeverDieMedia](https://www.neverdiemedia.com/products/trophy-bass-4) - Trophy Bass 4 content description
 [^ref-35]: [Web Archive - GameRankings](https://web.archive.org/web/20190602182117/https://www.gamerankings.com/pc/199122-trophy-bass-3d/index.html) - 70% from 5 reviews; PC Accelerator 5/10, Gamecenter 7/10, Incite Games 3/5, Games First! 5/5
 [^ref-36]: [MobyGames Specs](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/specs/) - Windows 95, Pentium, 32 MB, Direct3D/Glide/OpenGL, 3D accelerator, multiplayer options, ESRB
 [^ref-37]: [Internet Archive - PC Accelerator #14 (October 1999), p. 109](https://archive.org/details/PCXL14Oct1999/page/n107/mode/2up) - Trophy Bass 3D review
 [^ref-38]: [Sierra Help - Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) - Trophy Bass 3D 1.2.0.0 update
-[^ref-39]: [Internet Archive - Computer Gaming World #180 (July 1999)](https://archive.org/details/Computer_Gaming_World_Issue_180) - "Tchotchke of the Month" item on Sierra Sports' fish pen
+[^ref-39]: [Internet Archive - Computer Gaming World #180 (July 1999)](https://archive.org/details/Computer_Gaming_World_Issue_180) - "Tchotchke of the Month" item mocking Sierra Sports' fish pen
 [^ref-40]: [Internet Archive - Computer Gaming World #186 (January 2000)](https://archive.org/details/Computer_Gaming_World_Issue_186) - "Holiday Hot 100", entry 71, Trophy Bass 3D, $40
 [^ref-41]: [Internet Archive - PC PowerPlay #39 (August 1999)](https://archive.org/details/PCPowerplay-039-1999-08) - News item: 15 lakes, 30 species, fish AI, Lurecam
 [^ref-42]: [Internet Archive - InterAction Magazine, Spring 1999](https://archive.org/details/InterAction_Magazine_Spring_1999_1999_Sierra_On-Line_US) - "The Big Mouths Are Back" by Todd Mowatt, pre-release preview
 [^ref-43]: [Web Archive - GameSpot, Championship Bass review](https://web.archive.org/web/20250125132153/https://www.gamespot.com/reviews/championship-bass-review/1900-2565283/) - Stephen Poole, May 8, 2000, comparisons to Trophy Bass 3D
+[^ref-44]: [Web Archive - Gamecenter](https://web.archive.org/web/20000817165812/http://www.gamecenter.com/News/Item/0,3,0-2946,00.html) - "Trophy Bass 3D Hits the Shelves" news item, Bill McClendon, July 6, 1999: U.S. and Canada release, 1.5 million predecessor sales, views, LureCam, WON.net multiplayer
