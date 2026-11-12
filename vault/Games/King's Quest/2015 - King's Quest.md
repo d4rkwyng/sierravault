@@ -134,7 +134,7 @@ On Steam, the game holds a "Very Positive" rating (89% of 2,290 English-language
 ## Development
 
 ### Origins
-The 2015 King's Quest reboot was announced in August 2014, when Activision revived the Sierra brand and handed development of a new entry in the classic adventure series to independent studio The Odd Gentlemen[^ref-1][^ref-20]. Sierra offered a first look at the game at The Game Awards 2014 on December 5, 2014[^ref-20]. Creative Director Matt Korba led the project, envisioning a reimagining of King Graham's story structured around an elderly Graham recounting his adventures to granddaughter Gwendolyn[^ref-1][^ref-18].
+The 2015 King's Quest reboot was announced in August 2014, when Activision revived the Sierra brand and handed development of a new entry in the classic adventure series to independent studio The Odd Gentlemen[^ref-1][^ref-20]. Sierra offered a first look at the game at The Game Awards 2014 on December 5, 2014[^ref-20]. Creative Director Matt Korba led the project, envisioning a reimagining of King Graham's story structured around an elderly Graham recounting his adventures to granddaughter Gwendolyn[^ref-1][^ref-18]. Lindsey Rostal produced; Evan Cagle and Nathan Fulton were the artists; Matt Korba and Lindsey Rostal wrote the game; and Ben Stanton and David Stanton composed the music[^ref-1].
 
 ### Production
 The game was developed as a five-part episodic adventure series, serving as both a reboot and re-imagining of the classic King's Quest franchise[^ref-3]. As Game Informer put it, the grandfather-granddaughter premise "provides a unique opportunity to tie the past and present together", with each episode carrying narrative threads in both time periods, usually linked by common themes[^ref-18]. To honor the originals without copying their look, The Odd Gentlemen hand-painted the game's art, drawing on references from the 1980s games[^ref-19]. At E3 2015, Korba said Chapter 1 alone had over 640 pages of script, with new pages still being added[^ref-24][^ref-1]. According to Korba, each chapter was "longer and more involved" than an episode of a Telltale Games series[^ref-23].
@@ -181,7 +181,7 @@ The game blends traditional adventure-game mechanics with choice-driven storytel
 | Release | Date | Platforms | Notes |
 |---------|------|-----------|-------|
 | Chapter 1: A Knight to Remember | July 28, 2015 (Windows, PlayStation 3, PlayStation 4); July 29, 2015 (Xbox 360, Xbox One) | Windows, PS3, PS4, Xbox 360, Xbox One | Free base game on Steam[^ref-1][^ref-17][^ref-28] |
-| Chapter 2: Rubble Without a Cause | December 15, 2015 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
+| Chapter 2: Rubble Without a Cause | December 15, 2015 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27]; Wikipedia lists Windows as December 16, 2015[^ref-1] |
 | Chapter 3: Once Upon a Climb | April 26, 2016 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
 | Chapter 4: Snow Place Like Home | September 27, 2016 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
 | Chapter 5: The Good Knight | October 25, 2016 (Steam) | Windows and consoles | Paid DLC on Steam[^ref-27][^ref-1] |
@@ -219,10 +219,10 @@ This game is not available on GOG[^ref-7].
 ## References
 [^ref-1]: [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – history, plot, gameplay, development, reception; 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, August 2014 Sierra revival
 [^ref-2]: [PCGamingWiki – King's Quest (2015)](https://www.pcgamingwiki.com/wiki/King%27s_Quest_%282015%29) – technical specs, engine information
-[^ref-3]: [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – developer, publisher, platforms, gameplay description; MobyScore 7.5 from 15 votes (MobyGames API, checked 2026-10-12)
+[^ref-3]: [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – developer, publisher, platforms, gameplay description; MobyScore 7.5 from 15 votes
 [^ref-4]: [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – developer, release date, user reviews
 [^ref-6]: [Metacritic – King's Quest critic reviews](https://www.metacritic.com/game/kings-quest/critic-reviews/) – Adventure Gamers 90/100 (Nov 18, 2016) with review excerpt
-[^ref-7]: No GOG listing found (GOG store search, checked October 29, 2026) – only King's Quest 1+2+3, 4+5+6, 7+8 and Order of the Thorne listed; the 2015 game is not sold on GOG
+[^ref-7]: No GOG listing found (GOG store search, checked November 12, 2026) – only King's Quest 1+2+3, 4+5+6, 7+8 and Order of the Thorne listed; the 2015 game is not sold on GOG
 [^ref-9]: [IGN – King's Quest: A Knight to Remember Review](https://www.ign.com/articles/2015/07/28/kings-quest-a-knight-to-remember-review) – 8/10 review by Leif Johnson, Christopher Lloyd voice acting praise
 [^ref-10]: [ZTGD – King's Quest Chapter 1 Review](https://ztgd.com/kings-quest-chapter-1-a-knight-to-remember-xb1-review/) – 9.5/10 review, gameplay length, puzzle design
 [^ref-11]: [Digitally Downloaded – King's Quest Complete Series Review](https://www.digitallydownloaded.net/2017/01/review-kings-quest-sony-playstation-4.html) – full series review, voice cast details, Matt Korba creative direction
@@ -241,5 +241,5 @@ This game is not available on GOG[^ref-7].
 [^ref-25]: [VG247 – King's Quest cast includes Back to the Future's Christopher Lloyd, Zelda Williams (May 11, 2015)](https://www.vg247.com/2015/05/11/new-kings-quest-voice-cast-reveal-trailer/) – Lloyd as old King Graham, Zelda Williams as Amaya Blackstone, full cast list
 [^ref-26]: [Activision Blog – Meet the Cast of King's Quest (Scott Lowe, May 11, 2015; Wayback Machine, May 20, 2015)](https://web.archive.org/web/20150520134337/https://blog.activision.com/community/games-blog/more-games/blog/2015/05/11/meet-the-cast-of-kings-quest) – Lloyd as King Graham, Keaton as young Sir Graham, Jones as Gwendolyn; Shawn, Kenny, Z. Williams, Devine and Richardson in the cast
 [^ref-27]: [Steam – King's Quest DLC and Season Pass (Steam store data, checked November 11, 2026)](https://store.steampowered.com/api/appdetails?appids=345390&cc=us&l=en) – Chapter 1 free; Chapter 2 (Dec 15, 2015), Chapter 3 (Apr 26, 2016), Chapter 4 (Sep 27, 2016), Chapter 5 (Oct 25, 2016) each US$9.99; Season Pass US$24.99
-[^ref-28]: [MobyGames – King's Quest: Chapter I - A Knight to Remember](https://www.mobygames.com/game/74032/kings-quest-chapter-i-a-knight-to-remember/) – Chapter 1 entry, Windows/PS3/PS4 July 28, 2015 and Xbox 360/Xbox One July 29, 2015 (read via the MobyGames API, checked 2026-11-11)
+[^ref-28]: [MobyGames – King's Quest: Chapter I - A Knight to Remember](https://www.mobygames.com/game/74032/kings-quest-chapter-i-a-knight-to-remember/) – Chapter 1 entry, Windows/PS3/PS4 July 28, 2015 and Xbox 360/Xbox One July 29, 2015
 [^ref-29]: [Wikipedia – Loretta Devine](https://en.wikipedia.org/wiki/Loretta_Devine) – filmography lists her as "Muriel Hobblepot" in the King's Quest (2015) video game
