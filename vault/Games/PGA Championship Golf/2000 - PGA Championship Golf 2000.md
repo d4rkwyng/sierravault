@@ -12,7 +12,7 @@ series: PGA Championship Golf
 engine: Unknown
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: >-
   PGA Championship Golf 2000 is a golf simulation developed by Headgate Studios
   for Sierra Sports, featuring the TrueSwing 3 mouse-based swing system and
@@ -26,7 +26,7 @@ tags:
 ---
 # PGA Championship Golf 2000
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -71,15 +71,15 @@ PGA Championship Golf 2000 was well received by critics on release.
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
+| CNET Gamecenter | 8/10 | Highlighted innovative TrueSwing technology[^ref-8] |
+| Computer Games Strategy Plus (CDMag) | 4.5/5 | William Abner, June 14, 2000: "Virtual golfers rejoice!"; called it "arguably the best computer golf game on the market today"[^ref-31] |
+| Computer Gaming World | 5/5 | Jeff Lackey: "Simply the best golfing experience available on the PC"[^ref-30][^ref-3] |
 | Eurogamer | 9/10 | "Quite frankly this is the best golfing simulation on the market"[^ref-6] |
-| GameVortex | 95% | Impressed by extensive customization options[^ref-5] |
-| GameSpot | 8.9/10 | "Currently the unrivaled king of golf sims"[^ref-4] |
 | Game Over | 88% | "Arguably one of the best golf simulations ever to be released for the PC"[^ref-2] |
 | GameRankings | 88% | Aggregate score (87.77%)[^ref-3][^ref-28] |
-| CNET Gamecenter | 8/10 | Highlighted innovative TrueSwing technology[^ref-8] |
+| GameSpot | 8.9/10 | "Currently the unrivaled king of golf sims"[^ref-4] |
+| GameVortex | 95% | Impressed by extensive customization options[^ref-5] |
 | IGN | 7.7/10 | Mark Birnbaum: "A worthy successor to PGA '99, and a must have for golfers"[^ref-29] |
-| Computer Gaming World | 5/5 | Jeff Lackey: "Simply the best golfing experience available on the PC"[^ref-30][^ref-3] |
-| Computer Games Strategy Plus (CDMag) | 4.5/5 | William Abner, June 14, 2000: "Virtual golfers rejoice!"; called it "arguably the best computer golf game on the market today"[^ref-31] |
 | PC Format | 88% | Dave Perrett praised the choice of swing systems and the range of playing options[^ref-32][^ref-3] |
 | SportPlanet | 90/100 | Adam Swiderski, July 6, 2000: "one of the best sports simulations on the market, bar none"[^ref-33][^ref-3] |
 
@@ -107,12 +107,13 @@ TrueSwing 3 ran in real time, so the golfer's backswing followed the player's mo
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | May 19, 2000 | Windows | "Initial Release" date listed on IGN's game page[^ref-35] |
-| 1.0 | June 6, 2000 | Windows | North American release per Wikipedia[^ref-3] |
+| 1.0 | June 6, 2000 | Windows | North American retail release[^ref-3][^ref-36] |
 | 1.0 UK | August 25, 2000 | Windows | United Kingdom release[^ref-3] |
 | Patch | August 22, 2000 | Windows | 18 bug fixes and around nine improvements[^ref-19] |
 | Patch 3.2.7.1 | Undated | Windows | Includes seven new courses[^ref-12] |
 | Patch 3.3.4.5 | Undated | Windows | Updates the base game and Titanium Edition to the latest version[^ref-12] |
+
+IGN's game page lists May 19, 2000 as the initial release; CDMag reported the North American retail release on June 6, 2000[^ref-35][^ref-36]. CDMag reported on May 9, 2000 that the game had gone gold, with retail planned for the end of May[^ref-37], and on December 16, 2000 that Sierra Sports had released PGA Championship Golf Titanium Edition the day before (December 15)[^ref-38].
 
 **System Requirements:**[^ref-12][^ref-8][^ref-5]
 
@@ -182,3 +183,6 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-33]: [SportPlanet – PGA Championship Golf 2000 (Wayback, 2001)](https://web.archive.org/web/20010628033817/http://www.sportplanet.com/features/reviews/pgac2000/) – Adam Swiderski, July 6, 2000; the 90/100 score is as listed in the Wikipedia review table (ref-3)
 [^ref-34]: [SportPlanet – Interview: PGA Championship Golf 2000 (Wayback, 2001)](https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/) – Christopher E. Johnson interviews Senior Producer Mike Jacob, June 28, 2000
 [^ref-35]: [IGN – PGA Championship Golf 2000 (game page)](https://www.ign.com/games/pga-championship-golf-2000) – Initial Release: May 19, 2000
+[^ref-36]: [CDMag – PGA Championship Golf 2000 Ships (Wayback, 2003)](https://web.archive.org/web/20030709140515/http://www.cdmag.com/articles/028/071/pgacg2k.html) – James Fudge, posted June 6, 2000; "Sierra Sports today released PGA Championship Golf 2000 for the PC to North American retail outlets"
+[^ref-37]: [CDMag – PGA Championship Golf 2000 Goes Gold (Wayback, 2003)](https://web.archive.org/web/20030525162403/http://www.cdmag.com/articles/027/154/pga_gold.html) – James Fudge, posted May 9, 2000; game has gone gold, scheduled to hit retail by the end of May
+[^ref-38]: [CDMag – Sierra releases PGA Championship Golf Titanium Edition (Wayback, 2003)](https://web.archive.org/web/20030530105943/http://www.cdmag.com/articles/031/044/pga2000.html) – Posted December 16, 2000; Sierra Sports "yesterday released" the Titanium Edition
