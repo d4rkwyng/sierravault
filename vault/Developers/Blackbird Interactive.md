@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld: Deserts of Kharak", "Hardspace: Shipbreaker", "Homeworld 3"]
 parent_company: "Independent"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Blackbird Interactive
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -38,7 +38,7 @@ A Fig crowdfunding campaign launched in 2019 raised over $1.5 million from more 
 
 Outside the *Homeworld* franchise, Blackbird has developed:
 
-- **Hardspace: Shipbreaker** (2022) — A spaceship salvage simulation, released May 24, 2022 and originally published by Focus Entertainment.[^ref-15][^ref-20] On August 14, 2025 Blackbird announced that it had reacquired the full IP rights from Focus, with "multiple Hardspace projects" in development, and Steam now lists Blackbird as publisher.[^ref-20][^ref-27][^ref-28][^ref-15]
+- **Hardspace: Shipbreaker** (2022) — A spaceship salvage simulation, released May 24, 2022 and originally published by Focus Entertainment; it entered Steam early access on June 16, 2020.[^ref-15][^ref-20] On August 14, 2025 Blackbird announced that it had reacquired the full IP rights from Focus, with "multiple Hardspace projects" in development, and Steam now lists Blackbird as publisher.[^ref-20][^ref-27][^ref-28][^ref-15]
 - **Crossfire: Legion** (2022) — A real-time strategy game set in the *Crossfire* universe, published by Prime Matter and Smilegate; early access May 24, 2022, full release December 8, 2022, delisted from Steam on August 18, 2025.[^ref-19][^ref-22]
 - **Minecraft Legends** (2023) — An action-strategy spin-off of *Minecraft*, developed by Mojang Studios and Blackbird Interactive, published by Xbox Game Studios and released April 18, 2023.[^ref-21][^ref-6]
 
@@ -48,7 +48,7 @@ From September to December 2021 Blackbird trialled a four-day work week with two
 
 In August 2023 the studio laid off 41 employees after "several unannounced projects" were cancelled.[^ref-23] In February 2024 it confirmed a second round of layoffs, its second in six months, while working on *Earthless* and *Homeworld 3*.[^ref-24]
 
-In March 2025 Blackbird announced a leadership restructuring: Eric Torin, previously chief strategy officer, became CEO, while founder Rob Cunningham moved to chair of the board of directors. The studio also took a minority investment from London-based Emona Capital, and president Rory McGuire additionally became chief creative officer.[^ref-26] In August 2025 the publisher Lyrical Games, newly established by Lyrical Media, said it had three titles in production with developers including Blackbird Interactive.[^ref-29]
+In March 2025 Blackbird announced a leadership restructuring: Eric Torin, previously chief strategy officer, became CEO, while founder Rob Cunningham moved to chair of the board of directors. The studio also took a minority investment from London-based Emona Capital, and president Rory McGuire additionally became chief creative officer.[^ref-26] The company's announcement described "an evolved business strategy focusing on external development partnerships".[^ref-32] In August 2025 the publisher Lyrical Games, newly established by Lyrical Media, said it had three titles in production with developers including Blackbird Interactive.[^ref-29] Blackbird co-developed the PS5 and Xbox Series versions of *Escape the Backrooms*, published by Secret Mode and originally developed by Fancy Games; they were announced in October 2025 and released on May 28, 2026.[^ref-30][^ref-31]
 
 ## Key People
 
@@ -67,6 +67,7 @@ In March 2025 Blackbird announced a leadership restructuring: Eric Torin, previo
 | 2022 | Crossfire: Legion | Real-time strategy |
 | 2023 | Minecraft Legends | Action-strategy |
 | 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | Real-time strategy |
+| 2026 | Escape the Backrooms (PS5 and Xbox Series versions, co-developer) | Console co-development |
 
 ## Legacy
 
@@ -91,7 +92,7 @@ Blackbird links the *Homeworld* series back to its origins: it was founded by Re
 [^ref-11]: [IGN — Homeworld: Deserts of Kharak review](https://www.ign.com/articles/2016/01/19/homeworld-deserts-of-kharak-review) — Reception, gameplay analysis
 [^ref-12]: [Metacritic — Homeworld: Deserts of Kharak](https://www.metacritic.com/game/pc/homeworld-deserts-of-kharak) — Metascore 79, "Generally Favorable", 52 critic reviews
 [^ref-13]: [GamesIndustry.biz — Embracer's Gearbox acquisition appears to have blocked Homeworld 3's Fig investment scheme (8 June 2021)](https://www.gamesindustry.biz/articles/2021-06-08-embracers-gearbox-acquisition-appears-to-have-blocked-homeworld-3s-fig-investment-scheme) — Fig campaign launched in 2019; "raised over $1.5 million from more than 8,400 backers"
-[^ref-15]: [Hardspace: Shipbreaker — Steam](https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/) — released May 24, 2022; developer and publisher now listed as Blackbird Interactive
+[^ref-15]: [Hardspace: Shipbreaker — Steam](https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/) — early access release date June 16, 2020; released May 24, 2022; developer and publisher now listed as Blackbird Interactive
 [^ref-17]: [Rock Paper Shotgun — Homeworld 3 review (10 May 2024)](https://www.rockpapershotgun.com/homeworld-3-review) — "most of the atmosphere and tone you'd expect from the series, held back from greatness by playing it too safe"
 [^ref-18]: [Eurogamer — The scale in Homeworld 3 is tremendous: it's a space RTS for the James Webb era](https://www.eurogamer.net/the-scale-in-homeworld-3-is-tremendous-its-a-space-rts-for-the-james-webb-era) — Rob Cunningham: "When I started Blackbird we weren't thinking about Homeworld 3 at all… When I started Blackbird it was 2010"
 [^ref-19]: [Wikipedia — Crossfire: Legion](https://en.wikipedia.org/wiki/Crossfire:_Legion) — developed by Blackbird; published by Prime Matter and Smilegate; early access May 24, 2022; full release December 8, 2022; delisted from Steam August 18, 2025
@@ -105,3 +106,6 @@ Blackbird links the *Homeworld* series back to its origins: it was founded by Re
 [^ref-27]: [Blackbird Interactive — Acquires Full Ownership of Hardspace: Shipbreaker (press release, 14 August 2025)](https://www.gamespress.com/Blackbird-Interactive-Acquires-Full-Ownership-of-Hardspace-Shipbreaker) — "multiple Hardspace projects are currently in development"
 [^ref-28]: [Gamereactor — Blackbird Interactive reacquires the rights to Hardspace: Shipbreaker (15 August 2025)](https://www.gamereactor.eu/blackbird-interactive-reacquires-the-rights-to-hardspace-shipbreaker-1586143/) — agreement with Focus Entertainment "to reacquire the rights to the Hardspace: Shipbreaker series"
 [^ref-29]: [Gematsu — Lyrical Media establishes independent games publisher Lyrical Games (4 August 2025)](https://www.gematsu.com/2025/08/lyrical-media-establishes-independent-games-publisher-lyrical-games) — three titles in production with "top-tier developers," including Blackbird Interactive
+[^ref-30]: [Gematsu — Escape the Backrooms for PS5 and Xbox Series now available (28 May 2026)](https://www.gematsu.com/2026/05/escape-the-backrooms-for-ps5-xbox-series-now-available) — publisher Secret Mode; developers Fancy Games and Blackbird Interactive; console versions available May 28, 2026
+[^ref-31]: [Gematsu — Escape the Backrooms coming to PS5, Xbox Series in 2026 (23 October 2025)](https://www.gematsu.com/2025/10/escape-the-backrooms-coming-to-ps5-xbox-series-in-2026) — developer Fancy Games; "The console versions are co-developed by Blackbird Interactive"
+[^ref-32]: [Blackbird Interactive — Launches Exciting Next Chapter With New Investor and Leadership (press release, 13 March 2025)](https://www.gamespress.com/Blackbird-Interactive-Launches-Exciting-Next-Chapter-With-New-Investor) — "an evolved business strategy focusing on external development partnerships"
