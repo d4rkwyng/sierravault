@@ -6,11 +6,11 @@ defunct: null
 headquarters: "Malmö, Sweden (based in Ronneby in 1999)"
 notable_games: ["Ground Control", "World in Conflict", "Tom Clancy's The Division"]
 parent_company: "Ubisoft"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Massive Entertainment
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -22,7 +22,7 @@ Massive Entertainment is a Swedish video game developer founded in 1997 by Marti
 
 Martin Walfisz founded Massive Entertainment in 1997.[^ref-13][^ref-23][^ref-27] On 13 August 1999 Sierra Studios announced that it would publish *Ground Control*. The release named Walfisz as CEO and said that "Massive Entertainment is located in Ronneby, Sweden and comprised of over 20 programmers, artists, and game designers".[^ref-22] Massive released *Ground Control*, published by Sierra Studios,[^ref-13] on 31 May 2000;[^ref-31] on 1 June 2000 *Computer Games Strategy Plus* reported that "Sierra Studios has begun shipping" it.[^ref-29]
 
-The expansion *Ground Control: Dark Conspiracy* (2000) was announced by Sierra Studios. The announcement credited it as "Developed by High Voltage Software and Massive Entertainment".[^ref-25] The expansion was mainly High Voltage's work; the [[2000 - Ground Control - Dark Conspiracy|game page]] covers the split.
+The expansion *Ground Control: Dark Conspiracy* (2000) was announced by Sierra Studios. The announcement credited it as "Developed by High Voltage Software and Massive Entertainment".[^ref-25] The expansion was thus a co-development between High Voltage Software and Massive;[^ref-25] see the [[2000 - Ground Control - Dark Conspiracy|game page]].
 
 ### Vivendi Universal Games (2002–2008)
 
@@ -30,7 +30,7 @@ On 3 October 2002 Vivendi Universal Games "announced today the acquisition of Ma
 
 ### Activision Blizzard and Ubisoft (2008–present)
 
-Activision and Vivendi Games merged in 2008, and on 6 August 2008 Activision Blizzard put Massive up for sale.[^ref-13][^ref-27] Ubisoft acquired the studio on 10 November 2008, together with the rights to the *World in Conflict* franchise.[^ref-23][^ref-19] GamesIndustry.biz reported on 11 November 2008 that Ubisoft had obtained "the Sweden-based studio's assets and personnel" as well as those rights.[^ref-23] Walfisz left the company in March 2009.[^ref-13][^ref-28] Under Ubisoft, Massive collaborated on *Assassin's Creed: Revelations* (2011) and *Far Cry 3* (2012),[^ref-13] and it created the Snowdrop engine.[^ref-19] It released *Tom Clancy's The Division* on 8 March 2016[^ref-13] and was the lead developer of *Tom Clancy's The Division 2* (2019).[^ref-24] It went on to make *Avatar: Frontiers of Pandora* (December 2023) and *Star Wars Outlaws* (August 2024).[^ref-13]
+Activision and Vivendi Games merged in 2008, and on 6 August 2008 Activision Blizzard put Massive up for sale.[^ref-13][^ref-27] Ubisoft acquired the studio on 10 November 2008, together with the rights to the *World in Conflict* franchise. MobyGames says the acquisition included the *World in Conflict* IP and the MassGate multiplayer infrastructure, but not *Ground Control*.[^ref-23][^ref-19] GamesIndustry.biz reported on 11 November 2008 that Ubisoft had obtained "the Sweden-based studio's assets and personnel" as well as those rights.[^ref-23] Walfisz left the company in March 2009.[^ref-13][^ref-28] Under Ubisoft, Massive collaborated on *Assassin's Creed: Revelations* (2011) and *Far Cry 3* (2012),[^ref-13] and it created the Snowdrop engine.[^ref-19] It released *Tom Clancy's The Division* on 8 March 2016[^ref-13] and was the lead developer of *Tom Clancy's The Division 2* (2019).[^ref-24] It went on to make *Avatar: Frontiers of Pandora* (December 2023) and *Star Wars Outlaws* (August 2024).[^ref-13]
 
 On 13 January 2026 Ubisoft proposed a restructuring that "may affect approximately 55 roles" at Massive and Ubisoft Stockholm.[^ref-20][^ref-4] GamesIndustry.biz reported that Massive would continue work on The Division 3 and on the Survivors mode for The Division 2.[^ref-6]
 
@@ -58,7 +58,7 @@ Massive's page describes the first *Division* as "the fastest selling game in Ub
 
 - **Martin Walfisz**: founder (1997) and CEO. He left in March 2009.[^ref-13][^ref-22][^ref-21][^ref-27][^ref-28] In 2008 he told Rock Paper Shotgun: "I'm the president and founder of the company. I founded Massive in 1997 with a business associate."[^ref-32]
 - **Christian Pérez**: named by Walfisz as the person with whom he originally started the company ("Originally I started the company with Christian Pérez, who I met when I finished my software engineering studies in 1996").[^ref-32]
-- **David Polfeldt**: described by Walfisz in 2008 as "our VP and director of marketing"; Rock Paper Shotgun reported that he "joined Massive in 1995", a date that sits oddly with the 1997 founding.[^ref-32] By 2020 he was managing director.[^ref-34] In July 2021 Ubisoft announced that he had stepped down to take a sabbatical.[^ref-33]
+- **David Polfeldt**: described by Walfisz in 2008 as "our VP and director of marketing"; Rock Paper Shotgun reported that he "joined Massive in 1995", while the studio's founding is given as 1997 elsewhere on this page.[^ref-32] By 2020 he was managing director.[^ref-34] In July 2021 Ubisoft announced that he had stepped down to take a sabbatical.[^ref-33]
 - **Thomas Andrén**: appointed managing director in July 2021, effective October 2021, coming from Red Bee Media.[^ref-33]
 - **Christoph Hartmann**: general manager of Massive Entertainment since June 2026, after leaving Amazon Game Studios; GamesIndustry.biz notes he previously founded and led 2K Games.[^ref-30]
 - **Natalie Francis**: studio manager of the Malmö office, announced in September 2026 after senior roles at Avalanche Studios and DICE.[^ref-30]
