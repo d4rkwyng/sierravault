@@ -10,16 +10,17 @@ series: Gobliiins
 engine: Gob
 protagonist: Fingus and Winkle
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Charles Callet]
 description: 'Gobliins 2: The Prince Buffoon is a puzzle-solving adventure game developed
   by French studio Coktel Vision, published by Coktel Vision in Europe in 1992 and by
-  Sierra On-Line in the US in 1993. As the...'
+  Sierra On-Line in the US in 1993. Players control two goblins, Fingus and Winkle,
+  who set out to rescue the kidnapped Prince Buffoon.'
 tags: [1990s, gobliiins, puzzle, sierra]
 ---
 # Gobliins 2: The Prince Buffoon
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -86,7 +87,7 @@ A significant departure from the original Gobliiins is the removal of the health
 
 Gobliins 2 received generally good reviews, with most game magazines rating it between 70% and 90%.[^ref-4] Amiga Action awarded the game 88/100 in January 1993.[^ref-21] On the Amiga, Amiga Computing gave it 84%, Amiga Format 82%, Amiga Power 78% (calling it "a flawed diamond of a game"), Amiga Joker 72%, and CU Amiga just 40%.[^ref-5]
 
-Computer Gaming World praised the game for its "challenging puzzles, sharp-witted entertainment, and enhanced ease of use" in their August 1993 coverage.[^ref-4]
+Computer Gaming World praised the game for its "challenging puzzles, sharp-witted entertainment, and enhanced ease of use" in their August 1993 coverage.[^ref-4] In April 1994 the magazine's multimedia CD roundup said the sequel was "no less entertaining than the original" and that there was "much more sound and digitized voice acting than in the enhanced version of the first game."[^ref-48]
 
 Reviews consistently highlighted both the game's strengths and its demanding puzzle design. The Home of the Underdogs retrospective warned readers: "Don't let the game's cartoony style fool you, though: this is one difficult game—controlling one less goblin (hence the missing 'i' in the title) doesn't make it any easier."[^ref-23] They concluded by recommending the game "for puzzle experts or anyone with infinite patience only."[^ref-23]
 
@@ -118,6 +119,10 @@ Versions for MS-DOS, Amiga, Atari ST and Macintosh were all released in 1992.[^r
 - **Program Manager:** Roland Lacoste
 - **Programming:** M.D.O., Emmanuel Maguet
 - **Music & Sound Effects:** Charles Callet
+
+### Voice Cast
+
+The CD-ROM version featured voices throughout the game,[^ref-2] replacing the "goblinish" talk of the floppy disk versions.[^ref-4][^ref-40] In the floppy release, as Amiga Power described it, "the characters speak in a sort of squeaky babble that I'd imagine is goblinspeak, and you get subtitles."[^ref-5]
 
 ### Technical Achievements
 
@@ -161,6 +166,7 @@ The CD-ROM version represented a significant technical enhancement, adding voice
 | CD-ROM | - | DOS | Multi-region | Added voice acting[^ref-2] |
 | Gobliiins 1 & 2 CD | October 20, 1995 | DOS | France | Sierra Originals reissue on 2 CDs[^ref-30] |
 | 1.03 | - | DOS | - | Reported to work in DOSBox[^ref-35] |
+| Windows (ScummVM) | March 23, 2010 | Windows | - | GOG release with ScummVM; the floppy and CD-ROM versions can be selected, bundled with Gobliiins and Goblins Quest 3; publisher listed as DotEmu[^ref-7][^ref-47] |
 | iOS | 2011 | iPhone | Worldwide | Mobile port by Bulkypix[^ref-3] |
 
 **Regional Release Dates:**[^ref-31]
@@ -185,21 +191,21 @@ Modern preservation efforts through Sierra Help Pages note that CD ripping progr
 
 The game contains several hidden details and amusing touches that reward observant players:
 
-- **Fingus's Whistling:** When left idle, Fingus will whistle a short tune, with a different melody in each room of the game.[^ref-22]
+- **Fingus's Whistling:** Fingus will occasionally whistle a brief tune, while Winkle flips a coin.[^ref-2] Gamicus adds that the melody differs in each room.[^ref-22]
 - **Character Colors:** Fingus is red-haired[^ref-2] and "round and pinky," while Winkle is "purple, pointy"[^ref-5]—yet the cover art depicts Winkle as orange rather than his in-game blue/purple coloring.[^ref-40]
 - **Button Behavior:** Fingus will always press the button on the left side of any interface, while Winkle will always press the button on the right, reflecting their distinct personalities.[^ref-2]
 - **Title Pun:** The number of "i"s in "Gobliins" directly indicates how many goblin characters the player controls—three in Gobliiins, two in Gobliins 2, and one in Goblins 3.[^ref-22]
 - **Inca Trailer:** The CD release contains a shortened trailer for Inca, another Coktel Vision game.[^ref-41]
-
-## Voice Cast
-
-The CD-ROM version featured voices throughout the game,[^ref-2] replacing the "goblinish" talk of the floppy disk versions.[^ref-4][^ref-40] However, specific voice actor credits are not documented in available sources. In the floppy release, as Amiga Power described it, "the characters speak in a sort of squeaky babble that I'd imagine is goblinspeak, and you get subtitles."[^ref-5]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
 No sales figures for Gobliins 2 have been found in available sources. The Sierra Originals budget line released a combined Gobliiins 1 & 2 package in October 1995.[^ref-30]
+
+### Continuity and Sequels
+
+In Goblins Quest 3, the player discovers that the main protagonist, Blount, was in fact the little prince that was kidnapped in Gobliins 2.[^ref-49][^ref-40] Gobliins 6 (2026) is the direct sequel to Gobliins 2: in it, Prince Buffoon has gone missing again, and Fingus and Winkle are once again tasked with finding him.[^ref-40][^ref-49] See [[2026 - Gobliins 6]].
 
 ### Collections
 
@@ -238,6 +244,7 @@ The Gobliiins games revolve around figuring out correct sequences of actions.[^r
 - [[1991 - Gobliiins|← Previous: Gobliiins]]
 - [[1993 - Goblins Quest 3|→ Next: Goblins Quest 3]]
 
+- [[Coktel Adventures Series]]
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
 - [[2009 - Gobliiins 4]]
 - [[2023 - Gobliiins 5 - The Morgloton Invasion]]
@@ -261,7 +268,7 @@ The Gobliiins games revolve around figuring out correct sequences of actions.[^r
 [^ref-19]: [Sierra Chest – Gobliins 2 Walkthrough](https://www.sierrachest.com/index.php?a=games&id=145&fld=walkthrough) – goblins cannot die quote
 [^ref-20]: [Just Adventure – Gobliins 2 walkthrough (Cheal & Dettelbach)](https://www.justadventure.com/walkthrough/gobliins-2-the-prince-buffoon/) – difficulty description, character colors
 [^ref-21]: [Web Archive – MobyGames 2008](https://web.archive.org/web/20080227191053/http://www.mobygames.com/game/gobliins-2-the-prince-buffoon) – Amiga Action score, release information
-[^ref-22]: [Gamicus – Gobliiins](https://gamicus.fandom.com/wiki/Gobliiins) – series overview, title pun, Fingus whistling easter egg
+[^ref-22]: [Gamicus – Gobliiins](https://gamicus.fandom.com/wiki/Gobliiins) – series overview, title pun
 [^ref-23]: MyAbandonware – Gobliins 2 *(download link removed: the game is sold commercially)* – user rating, HOTUD review quotes, DOSBox support
 [^ref-26]: [Lemon Amiga – Gobliins 2 Docs](https://www.lemonamiga.com/games/docs.php?id=727) – walkthrough
 [^ref-29]: [Web Archive – Gobliiins.com Author Page](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – Pierre Gilhodes biography
@@ -279,3 +286,5 @@ The Gobliiins games revolve around figuring out correct sequences of actions.[^r
 [^ref-45]: [MobyGames – Gobliins 2 Releases](https://www.mobygames.com/game/2625/gobliins-2/releases/) – Coktel Vision published 1992 releases; Sierra On-Line published the US DOS release, Feb 10, 1993
 [^ref-46]: [MobyGames – Gobliins 2](https://www.mobygames.com/game/2625/gobliins-2/) – Moby Score 7.5, critics 76% (29), per a January 2026 capture
 [^ref-47]: [GOG – Gobliiins pack](https://www.gog.com/en/game/gobliiins_pack) – includes Gobliiins, Gobliins 2: Prince Buffoon, and Goblins Quest 3
+[^ref-48]: [Internet Archive – Computer Gaming World Issue 117 (April 1994)](https://archive.org/details/Computer_Gaming_World_Issue_117) – multimedia CD roundup entry on Gobliins II: "no less entertaining than the original", "much more sound and digitized voice acting than in the enhanced version of the first game"
+[^ref-49]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Blount in Goblins Quest 3 was the prince kidnapped in Gobliins 2; Gobliins 6 (2026) is the sequel to Gobliins 2
