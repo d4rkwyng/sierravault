@@ -161,7 +161,6 @@ The game is no longer sold, and it survives on preservation sites:
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-king-graham-s-board-game-challenge-1yz)[^ref-11]
 - [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_1993) - Playable preservation copy[^ref-18]
-- CDRomance lists the whole series as ScummVM-playable[^ref-3]
 
 The game is also catalogued by IGDB,[^ref-16] LaunchBox (as *King Graham's Board Game Challenge: Checkers & Backgammon*)[^ref-5] and Wikidata.[^ref-17]
 
@@ -179,7 +178,6 @@ The game is also catalogued by IGDB,[^ref-16] LaunchBox (as *King Graham's Board
 
 [^ref-1]: [MobyGames Game Database](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – Description, Katakis's 2015 user review, 2-rating player average
 [^ref-2]: [IGN Game Database](https://www.ign.com/games/king-grahams-board-game-challenge-checkers-backgammon) – Game summary and description
-[^ref-3]: [CDRomance ScummVM Archive](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – Series overview; five games, all 1992
 [^ref-4]: [PC Gaming Wiki - Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick%27s_Software_Picks) – List of the five series titles
 [^ref-5]: [Gamesdb LaunchBox](https://gamesdb.launchbox-app.com/games/details/85634-crazy-nicks-software-picks-king-grahams-board-game-challenge-checkers-backgammon) – Database entry (developer/publisher Sierra On-Line)
 [^ref-6]: [Sierra Chest Archive](https://www.sierrachest.com/index.php?a=games&id=716&title=crazy-nick-graham&fld=general) – Release date, series background, packaging, game rules
