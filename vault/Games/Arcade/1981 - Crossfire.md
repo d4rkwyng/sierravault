@@ -10,15 +10,15 @@ series: N/A
 engine: Machine Language
 protagonist: Unnamed pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Crossfire is a multidirectional arcade shooter by Jay Sullivan, published
   by On-Line Systems (later Sierra On-Line) for the Apple II in 1981 and ported to
   the Atari 8-bit, VIC-20, Commodore 64, IBM PC and IBM PCjr.
-tags: [1980s, n-a, shooter, sierra]
+tags: [1980s, shooter, sierra]
 ---
 # Crossfire
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -57,6 +57,8 @@ The game takes place on a 7×6 grid representing city streets, viewed from a top
 
 Four bonus crystals appear per level, each worth twice as much as the previous one (100, 200, 400, and 800 points).[^ref-8] A bonus object appears for every 12 missiles fired, and the player has six shots in which to run over it before it disappears.[^ref-19][^ref-2] The game employs a restriction where only one shot can be active at a time, requiring precise timing and positioning.[^ref-1]
 
+Four visually distinct types of alien appear in each round; their behavior is the same, but they are worth 10, 20, 40 and 80 points respectively.[^ref-2] *Softalk* described each alien as having four lives, metamorphosing into its next form at its point of origin when shot.[^ref-24][^ref-23]
+
 ### Puzzles and Mechanics
 
 While Crossfire is primarily a reflex-based action game rather than a puzzle game, it incorporates significant strategic elements. Players must balance aggressive pursuit of enemies with defensive positioning, managing limited ammunition while maximizing scoring opportunities from bonus crystals.[^ref-2]
@@ -69,7 +71,9 @@ While Crossfire is primarily a reflex-based action game rather than a puzzle gam
 
 Crossfire was generally well received on release. *Softline* magazine called it "a new twist at arcade games with delightfully colorful beasties and smooth animation" and said it "offers hours of challenge and enjoyment for the dedicated and persevering gamester," though it faulted the lack of a pause button.[^ref-16][^ref-1] *BYTE* magazine called it "one of the most difficult and challenging arcade games to play," adding that "the reflexes take a long time to master, but, once you get the hang of it, it's addictive."[^ref-1][^ref-21]
 
-*Softalk* magazine provided particularly effusive praise: "Critters come at you from four directions on a grid laid out like city blocks. Strategy and intense concentration required. Superb, smooth animation of a dozen pieces simultaneously. One of the great ones."[^ref-10] The French magazine *Tilt* awarded the game 5 out of 6 stars (approximately 83%) in their January 1983 issue.[^ref-10]
+*Softalk* magazine provided particularly effusive praise: "Critters come at you from four directions on a grid laid out like city blocks. Strategy and intense concentration required. Superb, smooth animation of a dozen pieces simultaneously. One of the great ones."[^ref-22] The French magazine *Tilt* awarded the game 5 out of 6 stars (approximately 83%) in their January 1983 issue.[^ref-10]
+
+*Softalk*'s full review in January 1982 called Crossfire "the best home-arcade game to cross our screens since Alien Rain," said it "offers much opportunity for strategy—far more than normal in a shoot-'em-up," and concluded: "With Crossfire and the recent Threshold, On-Line moves firmly into the same league as Sirius, Broderbund, Cavalier, and the like as a purveyor of outstanding home-arcade fun."[^ref-23]
 
 Not all reviews were uniformly positive. *PC Magazine* found the IBM version merely "adequate, but nothing spectacular."[^ref-1] *Ahoy!* magazine was more critical of the VIC-20 version, asking "do we really need a bare bones grid shooting game (the VIC graphics are absolutely starved), with no character or atmosphere?"[^ref-1] *InfoWorld* was more positive about the IBM PCjr version, calling it "an engrossing waste of time."[^ref-1]
 
@@ -80,10 +84,10 @@ The *Addison-Wesley Book of Atari Software 1984* awarded the game a B+ rating, c
 Modern retrospective assessments have been generally favorable. User "dmsph" on Abandonware DOS declared: "I think this game is much better than most of the games today! Agility and strategy are key."[^ref-5] The Data Driven Gamer blog concluded that "for its time, this was arguably the best arcade-at-home experience."[^ref-4]
 
 **Aggregate Scores:**
-- **MobyGames:** 6.9/10 Moby Score, 79% Critics Average (3 ratings), 3.4/5 Players Average (33 ratings, 3 reviews)[^ref-2]
+- **MobyGames:** 6.9/10 Moby Score, 79% Critics Average (3 ratings), 3.4/5 Players Average (34 ratings, 3 reviews)[^ref-2]
 - **Abandonware DOS:** 3.70/5.00 (33 votes)[^ref-5]
 - **MyAbandonware:** 3.5/5 (8 votes)[^ref-9]
-- **Lemon64 (C64 version):** 7/10 (40 votes)[^ref-11]
+- **Lemon64 (C64 version):** 41 votes (no overall average stated)[^ref-11]
 
 ## Development
 
@@ -97,7 +101,7 @@ According to Retro365, Sullivan co-founded the Calsoft mail-order software busin
 
 **Development Credits:**[^ref-2][^ref-8]
 - **Designer/Programmer (Apple II):** Jay Sullivan
-- **Atari 8-bit Port:** Chris Iden
+- **Atari 8-bit Port:** Chris Iden[^ref-4][^ref-25]
 - **Commodore 64 Port:** [[Chuck Benton]] (who also wrote *Softporn Adventure*) and Jay Sullivan[^ref-2][^ref-8][^ref-11]
 - **IBM PC Port:** Jay Sullivan and Frank Randak[^ref-8]
 - **VIC-20 Port:** "Gordon" (full name not given)[^ref-4]
@@ -106,7 +110,7 @@ According to Retro365, Sullivan co-founded the Calsoft mail-order software busin
 
 ### Technical Achievements
 
-*Softalk* specifically praised the game's "superb, smooth animation of a dozen pieces simultaneously."[^ref-10] The Commodore 64 version has SID background music by Chuck Benton; the High Voltage SID Collection's notes say it "is not a cover, but is definitely inspired" by Henry Mancini's "Peter Gunn" theme.[^ref-11]
+*Softalk* specifically praised the game's "superb, smooth animation of a dozen pieces simultaneously."[^ref-22] The Commodore 64 version has SID background music by Chuck Benton; the High Voltage SID Collection's notes say it "is not a cover, but is definitely inspired" by Henry Mancini's "Peter Gunn" theme.[^ref-11]
 
 ### Technical Specifications
 
@@ -243,7 +247,7 @@ Data Driven Gamer credits its two-handed keyboard controls with anticipating WAS
 [^ref-7]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_cart_Crossfire_1981_Sierra_On_Line_US) – gameplay mechanics, platform list, genre classification
 [^ref-8]: [Pixelated Arcade – Crossfire](https://pixelatedarcade.com/games/crossfire) – platform credits, gameplay mechanics, grid specifications
 [^ref-9]: [MyAbandonware – Crossfire](https://www.myabandonware.com/game/crossfire-6) – user ratings, platform downloads, user comments, piracy history
-[^ref-10]: [UVList – Crossfire](https://www.uvlist.net/game-108859-Crossfire) – Softalk review, Tilt magazine rating, technical specifications
+[^ref-10]: [UVList – Crossfire](https://www.uvlist.net/game-108859-Crossfire) – Tilt magazine rating, technical specifications
 [^ref-11]: [Lemon64 – Crossfire](https://www.lemon64.com/game/crossfire-sierra-on-line) – C64 credits, SID music, user reviews, music reuse trivia
 [^ref-12]: [UVList – Crossfire MS-DOS](https://www.uvlist.net/game-169491-Crossfire) – Tandy/PCjr graphics patch history
 [^ref-13]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Crossfire_1983) – DOS release date, emulation details
@@ -254,3 +258,7 @@ Data Driven Gamer credits its two-handed keyboard controls with anticipating WAS
 [^ref-19]: [Crossfire Atari manual (Internet Archive)](https://archive.org/details/agm_crossfire) – disk/cartridge/cassette loading, 35 missiles down to 15, bonus object every 12 missiles with six shots to collect it
 [^ref-20]: [The Addison-Wesley Book of Atari Software 1984 (Internet Archive scan)](https://archive.org/details/Atari_Software_1984) – p.98 Crossfire review: "has its roots in the arcade game, Targ", stationary joystick aiming, "one of the best strategy shoot-'em-ups to come along in a long while"
 [^ref-21]: [BYTE, December 1982 (Internet Archive scan)](https://archive.org/details/byte-magazine-1982-12) – "one of the most difficult and challenging arcade games to play… once you get the hang of it, it's addictive"
+[^ref-22]: [Softalk, November 1983 (Internet Archive scan)](https://archive.org/details/softalkv4n03nov1983) – Critic's Choice listing: "Critters come at you from four directions on a grid laid out like city blocks… One of the great ones"
+[^ref-23]: [Softalk, January 1982 (Internet Archive scan)](https://archive.org/details/softalkv2n05jan1982) – "Crossfire. By Jay Sullivan" review: "best home-arcade game to cross our screens since Alien Rain", "four stages of metamorphosis", comparison to Sirius and Broderbund
+[^ref-24]: [Softalk, December 1982 (Internet Archive scan)](https://archive.org/details/softalkv3n04dec1982) – Critic's Choice listing: "Each alien has four lives and metamorphoses into its next one when shot"
+[^ref-25]: [The Giant List of Classic Game Programmers](https://dadgum.com/giantlist/) – "Iden, Chris: Crossfire (1981, A8, On-Line) from AP2"
