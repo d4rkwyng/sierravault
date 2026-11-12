@@ -1,13 +1,13 @@
 ---
 title: "Collections & Anthologies Guide"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Collections & Anthologies Guide
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
-This guide tracks official collections, anthology boxes, and modern digital bundles that gather multiple Sierra (or Sierra-adjacent) games into one release. Contents are taken from each product's MobyGames record or store page; store listings were checked on October 16, 2026. Use it to see which packages include a full series and which versions are shipped.
+This guide tracks official collections, anthology boxes, and modern digital bundles that gather multiple Sierra (or Sierra-adjacent) games into one release. Contents are taken from each product's MobyGames record or store page; store listings were checked on November 11, 2026. Use it to see which packages include a full series and which versions are shipped.
 
 ## Classic Boxed Anthologies
 
@@ -42,7 +42,7 @@ This guide tracks official collections, anthology boxes, and modern digital bund
 - **Front Page Sports: All Pro Collection – Collection Series (1997)** – *FPS: Baseball Pro '96*, *FPS: Football Pro '97*, *FPS: Golf*, *Trophy Bass* and *You Don't Know Jack: Sports*.[^ref-20]
 - **3-D Ultra Pinball (Collector's Edition) (1998)** – *3-D Ultra Pinball*, *Creep Night* and *The Lost Continent*, plus a VHS copy of *The History of Pinball*.[^ref-17]
 - **3-D Ultra Pinball Pack (1999)** – *3-D Ultra Pinball* and *Creep Night*, with a demo of *The Lost Continent*.[^ref-18]
-- **[[1999 - 3-D Ultra Pinball - Power|3-D Ultra Pinball: Power!]] (1999)** – Windows/Mac compilation listed by MobyGames as *3-D Ultra Pinball*, *Creep Night*, *The Lost Continent* and *Turbo Racing* (the NASCAR Pinball game), plus a three-hole demo of *3-D Ultra Minigolf*.[^ref-35]
+- **[[1999 - 3-D Ultra Pinball - Power|3-D Ultra Pinball: Power!]] (1999)** – Windows/Mac compilation listed by MobyGames as *3-D Ultra Pinball*, *Creep Night*, *The Lost Continent* and *Turbo Racing* (the NASCAR Pinball game, in the European edition only; the North American edition instead carried *The Incredible Machine 3.0*), plus a three-hole demo of *3-D Ultra Minigolf*.[^ref-35][^ref-43]
 
 ## Early Digital-Era Compilations
 
@@ -56,6 +56,9 @@ This guide tracks official collections, anthology boxes, and modern digital bund
 - **Steam collections** – *King's Quest Collection* (seven games) and *Space Quest Collection*, both on Steam since 2009; *Quest for Glory 1-5* and *Police Quest Collection*, added in 2016; the Gabriel Knight and Phantasmagoria games are sold individually.[^ref-30][^ref-31]
 - **Humble Sierra Bundle (2016)** – A pay-what-you-want Humble Bundle offering the Space Quest Collection, Phantasmagoria 1–2 and the Police Quest Collection at the base tier, with Quest for Glory 1-5, Gabriel Knight 1–3, the King's Quest Collection and *King's Quest: The Complete Collection* at higher tiers, alongside non-adventure titles such as Arcanum, Caesar 3–4 and Geometry Wars 3.[^ref-32]
 - **Humble Sierra the 3rd Bundle (2020)** – Ran May 5–19, 2020, with 17 items in three tiers, including the King's Quest Collection and Season Pass, Gabriel Knight 1–3, Phantasmagoria 1–2, Arcanum and the Space Quest, Police Quest and Quest for Glory collections.[^ref-33]
+- **Betrayal at Krondor Pack (GOG) / Betrayal Collection (Steam)** – *Betrayal at Krondor* and *Betrayal in Antara*. Steam lists the Betrayal Collection (Activision, developer Dynamix) as released December 15, 2016; GOG sells it as the Betrayal at Krondor Pack and gives 2010 as its release year (March 30) in its page data.[^ref-37][^ref-38]
+- **Red Baron Pack** – *Red Baron*, *Red Baron: Mission Builder* and *Red Baron 3D*. GOG's page data dates the pack October 8, 2009, while Steam (Mad Otter Games) shows January 7, 2016, and adds scans of the original manuals, maps and reference cards.[^ref-39][^ref-40]
+- **Hoyle re-releases on Steam** – *Hoyle Official Card Games* (Viva Media, November 18, 2015) and *Hoyle Official Casino Games* (Encore, October 14, 2016). Both store pages carry the Hoyle name but do not say which Sierra-era games they contain, so they are listed as Hoyle-branded releases rather than Sierra compilations.[^ref-41][^ref-42]
 - **Sierra Games Collection (Xbox One, 2015)** – A digital compilation of *Geometry Wars 3: Dimensions Evolved*, *King's Quest: Chapter I – A Knight to Remember*, *Shiftlings* and *Velocity 2X*.[^ref-27]
 
 ## Fan & Community Collections
@@ -101,7 +104,7 @@ Use this guide alongside the [[Site Index]] and [[Platform Guide]] to decide whi
 [^ref-25]: [MobyGames – Leisure Suit Larry Collection (2006)](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – Windows XP, 2006; LSL1–3, 5, 6
 [^ref-26]: [MobyGames – Best of Sierra: Strategy](https://www.mobygames.com/game/20277/best-of-sierra-strategy/) – Windows, September 23, 2004; three RTS games
 [^ref-27]: [MobyGames – Sierra Games Collection](https://www.mobygames.com/game/75569/sierra-games-collection/) – Xbox One, October 30, 2015; four games
-[^ref-28]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – GOG store pages for the KQ, SQ, Quest for Glory, Police Quest, SWAT 1+2 and Gabriel Knight products checked live 2026-10-16
+[^ref-28]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – GOG store pages for the KQ, SQ, Quest for Glory, Police Quest, SWAT 1+2 and Gabriel Knight products checked live 2026-11-11
 [^ref-29]: [GOG – Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) – Pack of "five complete adventures" (LSL1–3, 5, 6)
 [^ref-30]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – "Seven classic games in one collection"; released July 23, 2009 (Space Quest Collection, app 10110, same date)
 [^ref-31]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750/Quest_for_Glory_15/) – Released August 29, 2016 (Police Quest Collection, app 494740, same date)
@@ -110,3 +113,10 @@ Use this guide alongside the [[Site Index]] and [[Platform Guide]] to decide whi
 [^ref-34]: [SCG Wiki – Sierra Game Versions (Wayback, October 22, 2019)](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) – "Leisure Suit Larry: The Ultimate Pleasure Pack (2000)"; Collection Series 1997 lists "Space Quest 1 (AGI) 2.2" and "Space Quest 1 (SCI) 2.000"; Space Quest Collection (2006) lists "Space Quest 1 (SCI) 2.000"
 [^ref-35]: [MobyGames – 3-D Ultra Pinball: Power!](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – read via the MobyGames API; Windows/Mac 1999; four pinball games incl. "3-D Ultra Pinball: Turbo Racing", "demo of 3-D Ultra Minigolf with three playable holes"
 [^ref-36]: [PCGamingWiki – Space Quest: Chapter I - The Sarien Encounter](https://www.pcgamingwiki.com/wiki/Space_Quest:_Chapter_I_-_The_Sarien_Encounter) – Steam: "Space Quest Collection. EGA and VGA versions (the latter in the legacy launcher)."
+[^ref-37]: [Steam – Betrayal Collection](https://store.steampowered.com/app/559640/) – checked 2026-11-11; "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."; Dec 15, 2016; Activision / Dynamix
+[^ref-38]: [GOG – Betrayal at Krondor Pack](https://www.gog.com/en/game/betrayal_at_krondor) – checked 2026-11-11; Betrayal at Krondor and Betrayal in Antara; page data releaseDate 2010-03-30
+[^ref-39]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/) – checked 2026-11-11; Jan 7, 2016, Mad Otter Games; "the original Red Baron, Red Baron 3D, the Red Baron Mission Builder"
+[^ref-40]: [GOG – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – checked 2026-11-11; "The pack includes Red Baron 1, Red Baron: Mission Builder and Red Baron 3D"; page data releaseDate 2009-10-08
+[^ref-41]: [Steam – Hoyle Official Card Games](https://store.steampowered.com/app/397420/) – checked 2026-11-11; Nov 18, 2015, Viva Media; "Hoyle Official Card Games includes all of your favorite authentic card games!"
+[^ref-42]: [Steam – Hoyle Official Casino Games](https://store.steampowered.com/app/532950/) – checked 2026-11-11; Oct 14, 2016, Encore; "Hoyle Official Casino Games Collection"
+[^ref-43]: [Sierra Chest – 3-D Ultra Pinball Power](https://sierrachest.com/index.php?a=games&id=105&fld=general) – US vs EU edition contents, as cited on [[1999 - 3-D Ultra Pinball - Power]]
