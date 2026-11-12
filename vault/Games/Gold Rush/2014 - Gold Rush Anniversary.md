@@ -284,6 +284,7 @@ The original Gold Rush! held significant historical importance—Adventure Gamer
 
 - [[1988 - Gold Rush|← Previous: Gold Rush]]
 - [[2017 - Gold Rush 2|→ Next: Gold Rush 2]]
+- [[Sunlight Games - KISS ltd|Sunlight Games]]
 
 ## References
 

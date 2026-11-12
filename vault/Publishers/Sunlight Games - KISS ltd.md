@@ -4,11 +4,12 @@ type: publisher
 founded: 2008
 headquarters: "Cologne, Germany"
 parent_company: null
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
+related_companies: ["KISS Publishing Ltd"]
 ---
 # Sunlight Games
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -20,14 +21,18 @@ KISS Ltd. is credited as publisher of *Gold Rush! Anniversary* and *Gold Rush! 2
 
 The original *[[1988 - Gold Rush|Gold Rush!]]* was designed by Ken and Doug MacNeill and released by Sierra On-Line in 1988.[^ref-6][^ref-13] About ten years later, The Software Farm, "run by the original designers, bought the rights to the game from Sierra" and republished it as *California Gold Rush*.[^ref-8] The game opens in Brooklyn in 1848, just before the California Gold Rush.[^ref-6][^ref-8]
 
-According to Wikipedia, Sunlight Games "secured the rights and re-released the original version in July 2014".[^ref-6] Sunlight's Gold Rush! releases are the original game (*Gold Rush! Classic*), a remake (*Gold Rush! Anniversary*) and a sequel (*Gold Rush! 2*).[^ref-1][^ref-2][^ref-16]
+According to Wikipedia, Sunlight Games "secured the rights and re-released the original version in July 2014".[^ref-6] Sunlight's Gold Rush! releases are the original game (*Gold Rush! Classic*), a remake (*Gold Rush! Anniversary*) and a sequel (*Gold Rush! 2*).[^ref-1][^ref-2][^ref-16] Sunlight has kept supporting them: on 30 May 2024, "more than nine years after the last update", it released a new update for *Gold Rush! Anniversary* on Steam, and in August 2025 it released version 1.0.5 of *Gold Rush! 2*.[^ref-9][^ref-27]
 
 ## Games Published (Sierra Archive)
 
 - **2014** — Gold Rush! Classic — Notes: Re-release of the 1988 original on Steam, July 25, 2014; developers credited as The Software Farm, Sunlight Games and Sierra Entertainment. Sunlight announced on 3 July 2014 a boxed version for its webshop, to be released on 29 August 2014; MobyGames lists a German release on that date[^ref-7][^ref-16][^ref-9]
 - **2014** — [[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]] — Notes: Remake of the 1988 original; Steam release November 7, 2014[^ref-1][^ref-5]
 - **2017** — [[2017 - Gold Rush 2|Gold Rush! 2]] — Notes: New sequel; Steam release April 28, 2017, German retail release June 30, 2017[^ref-2][^ref-9]
-- **2019** — Gold Rush! Special Edition (Amiga) — Notes: Announced 10 October 2019 as the first release of Sunlight's retro label "RetroTainment" (to be shown at the Amiga34 show in Neuss, Germany); shipped as a limited boxed Special Edition, with the "second and last batch" released on 25 February 2022 per Sunlight's press releases[^ref-9][^ref-25][^ref-26]
+- **2019** — Gold Rush! Special Edition (Amiga) — Notes: Announced 10 October 2019 as the first release of Sunlight's retro label "RetroTainment" (to be released at the Amiga34 show in Neuss, Germany); shipped as a limited boxed Special Edition, with the "second and last batch" released on 25 February 2022 per Sunlight's press releases[^ref-9][^ref-25][^ref-26]
+
+## Key People
+
+- **Marco Sowa-Israel** — leads Sunlight Games' team of game designers; the company page says he "has worked on over 90 titles" for platforms including PC, Wii, Nintendo DS, Android, iOS and Xbox One, and that two games he produced, *Bibi Blocksberg Besenrennen* and *Das magische Labyrinth*, won the German GIGA-Maus children's games award in 2010.[^ref-15] The legal notice names him for Sunlight Games (Sole Proprietor),[^ref-22] and the commercial-register entries list him as liquidator of the GmbH.[^ref-23]
 
 ## Related
 
@@ -44,9 +49,9 @@ According to Wikipedia, Sunlight Games "secured the rights and re-released the o
 [^ref-5]: [Adventure Gamers - Gold Rush! Anniversary review](https://web.archive.org/web/20150205182234/http://www.adventuregamers.com/articles/view/27820) - Review by Courtney Ehrenhofler, January 16, 2015 (archived 2015)
 [^ref-6]: [Wikipedia - Gold Rush!](https://en.wikipedia.org/wiki/Gold_Rush!) - Designed by Doug and Ken MacNeill; opens in 1848; Sunlight "secured the rights" in 2014
 [^ref-7]: [MobyGames - Gold Rush! (1988)](https://www.mobygames.com/game/440/gold-rush/) - Release data: Windows re-release 2014-07-25, Sunlight Games GmbH
-[^ref-8]: [Hardcore Gaming 101 - Gold Rush!](http://www.hardcoregaming101.net/gold-rush/) - The Software Farm bought the rights from Sierra about ten years after release
-[^ref-9]: [Gold Rush! official site (Sunlight Games)](https://www.goldrush-game.com/) - news posts incl. "The independent game developer Sunlight Games will re-release Gold Rush! Classic", box version "in the Sunlight webshop at 29. August" (3 July 2014); "Gold Rush! 2 will be released in retail today" (30 June 2017); Amiga Special Edition and "RetroTainment" label (10 October 2019)
-[^ref-13]: [Sierra Gamers - Gold Rush](https://www.sierragamers.com/sierra-games/gold-rush/) - "Designer: Ken & Doug MacNeill", 1988
+[^ref-8]: [Hardcore Gaming 101 - Gold Rush!](http://www.hardcoregaming101.net/gold-rush/) - The Software Farm bought the rights from Sierra about ten years after release ([archived 2026](https://web.archive.org/web/20260610205410/https://www.hardcoregaming101.net/gold-rush/))
+[^ref-9]: [Gold Rush! official site (Sunlight Games)](https://www.goldrush-game.com/) - news posts incl. "The independent game developer Sunlight Games will re-release Gold Rush! Classic", box version "in the Sunlight webshop at 29. August" (3 July 2014); "Gold Rush! 2 will be released in retail today" (30 June 2017); Amiga Special Edition and "RetroTainment" label (10 October 2019); "Gold Rush! Anniversary" update posts of 17 and 30 May 2024
+[^ref-13]: [Sierra Gamers - Gold Rush](https://www.sierragamers.com/gold-rush/) - "Designer: Ken & Doug MacNeill", 1988
 [^ref-14]: [IndieDB - Gold Rush! 2](https://www.indiedb.com/games/gold-rush-2) - Developer Sunlight Games, publisher KISS Ltd.
 [^ref-15]: [Sunlight Games - Company](https://www.sunlight-games.com/en/company.php) - Founded 2008 in Cologne; GmbH since May 2013; sole proprietorship "starting in 2025" ([archived 2026-02-16](https://web.archive.org/web/20260216165127/https://www.sunlight-games.com/en/company.php); [archived 2019](https://web.archive.org/web/20190719000539/https://www.sunlight-games.com/en/company.php), which predates that sentence)
 [^ref-16]: [Steam - Gold Rush! Classic](https://store.steampowered.com/app/308000/) - Publisher Sunlight Games; developers The Software Farm, Sunlight Games, Sierra Entertainment; released Jul 25, 2014
@@ -55,8 +60,9 @@ According to Wikipedia, Sunlight Games "secured the rights and re-released the o
 [^ref-19]: [IndieDB - Gold Rush! Anniversary](https://www.indiedb.com/games/gold-rush-anniversary) - Developer Sunlight Games, publisher KISS Ltd.
 [^ref-20]: [MobyGames - Gold Rush! Anniversary](https://www.mobygames.com/game/106598/gold-rush-anniversary/) - Read via the MobyGames API: Windows, Mac and Linux releases (Nov 2014) published by Sunlight Games GmbH
 [^ref-21]: [MobyGames - Gold Rush! 2](https://www.mobygames.com/game/106599/gold-rush-2/) - Read via the MobyGames API: Windows (Apr 28, 2017), Mac and Linux releases published by Sunlight Games GmbH
-[^ref-22]: [Sunlight Games - Legal notice](https://www.sunlight-games.com/en/imprint.php) - Imprint reads "c/o Sunlight Games (Sole Proprietor), Zülpicher Str. 336, 50937 Köln"
+[^ref-22]: [Sunlight Games - Legal notice](https://www.sunlight-games.com/en/imprint.php) - Imprint reads "c/o Sunlight Games (Sole Proprietor)", with a Cologne (Köln) address
 [^ref-23]: [North Data - Sunlight Games GmbH, Köln, HRB 78524](https://www.northdata.com/Sunlight+Games+GmbH,+K%C3%B6ln/HRB+78524) - Publications list "Liquidation" entries dated 2 May 2025 and 15 May 2025; status shown as in liquidation (aggregator of the commercial register; read via ScraperAPI, 2026-11-11)
 [^ref-24]: [Companies House - KISS Publishing Ltd (11029387)](https://find-and-update.company-information.service.gov.uk/company/11029387) - UK company register entry for KISS Publishing Ltd; incorporated 24 October 2017; publishing of computer games
 [^ref-25]: [Sunlight Games press release 03/2022](https://www.sunlight-games.com/PR/PM22/PM-0322-us.pdf) - 25 February 2022: "Sunlight Games has released the second and last batch of the Special Edition of Gold Rush! via its retro label, 'RetroTainment' today for the classic Amiga."
 [^ref-26]: [Sunlight Games press release 05/2019](https://www.sunlight-games.com/PR/PM19/PM-0519-us.pdf) - 10 October 2019: launch of the "RetroTainment" label, starting with the Special Edition of Gold Rush! for the Amiga
+[^ref-27]: [Steam Community - "8 Years After Release: Gold Rush! 2 Gets an Update!" (Sunlight Games)](https://steamcommunity.com/app/609100/discussions/0/598541076225175026/) - "Version 1.0.5 is now available for PC via Steam"; update released August 2025
