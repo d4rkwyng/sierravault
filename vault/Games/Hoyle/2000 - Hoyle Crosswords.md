@@ -10,18 +10,18 @@ series: Hoyle
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Hoyle Crosswords is a 2000 Windows/Macintosh crossword puzzle game from Sierra
   On-Line's Hoyle line, offering 500 puzzles across five skill levels.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Crosswords
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Hoyle Crosswords is a crossword puzzle game developed and published by Sierra On-Line for Windows and Macintosh in 2000, as part of its Hoyle line of classic games[^ref-1][^ref-16]. Amazon lists the retail PC/Mac release (item model number 71016) as first available on March 24, 2000[^ref-3], a catalog listing date rather than a confirmed street date; Game Over Online reviewed it on April 4, 2000 as "The latest Hoyle product"[^ref-20]. The game offers 500 puzzles arranged around a calendar with a daily puzzle, five skill levels from beginner to expert, and solo, same-computer or Internet play against another player[^ref-1]. AllGame notes that online games were played over Sierra's WON.net service[^ref-22].
+Hoyle Crosswords is a crossword puzzle game developed and published by Sierra On-Line for Windows and Macintosh in 2000, as part of its Hoyle line of classic games[^ref-1][^ref-16]. Amazon's listing gives the retail PC/Mac release (item model number 71016) a first-available date of March 24, 2000[^ref-3], a catalog listing date rather than a confirmed street date; Game Over Online reviewed it on April 4, 2000 as "The latest Hoyle product"[^ref-20]. Game Over's May 2000 review of The New York Times Crossword Puzzles says Sierra released Hoyle Crosswords "a little over a month ago," and calls both "budget titles"[^ref-26]. The game offers 500 puzzles arranged around a calendar with a daily puzzle, five skill levels from beginner to expert, and solo, same-computer or Internet play against another player[^ref-1]. AllGame notes that online games were played over Sierra's WON.net service[^ref-22].
 
 Sierra had grouped its Hoyle license into Sierra Attractions, a brand for family and board-style games, when the company reorganized into separate divisions in 1998[^ref-2][^ref-4]. Wikipedia's Sierra Entertainment article likewise lists Sierra Attractions among five sub-brands created in 1998, describing it as "for casual games such as poker" and composed of Berkeley Systems[^ref-25]. In 2000 the company "continued to build upon its popular Hoyle CD-ROM series," according to a corporate history of Sierra[^ref-17]. The title's notable extra was an in-program copy of Webster's New World College Dictionary for checking words and their meanings[^ref-1].
 
@@ -60,7 +60,7 @@ Besides solo play, Hoyle Crosswords supports a head-to-head contest against a fr
 
 ### Contemporary Reviews
 
-MobyGames records two critic scores for the Windows version: 70% from All Game Guide and 65% from Game Over Online[^ref-19]. AllGame's Lisa Karen Savignano rated it "Very Good" and concluded: "If you enjoy crossword puzzles, only enjoy them occasionally or simply want to test your knowledge against other crossword players, Hoyle Crosswords is worth a look"[^ref-21]. Game Over Online's Elliott Blitzer gave it 65% in April 2000, finding the presentation "rather bland" and concluding: "Bottom line, it's a crossword puzzle, nothing more, nothing less"[^ref-20]. In Poland, Secret Service magazine (issue 80, 2000) gave it 5/10, praising the face generator and dictionary but warning that fluent English was required[^ref-23]. A review from Children's Software Revue, reproduced on Amazon's product page, noted that the program "is easy to install and use and even runs without the CD," listed it as teaching reading and vocabulary for ages 9 and up, and concluded: "This would make a great gift for any crossword puzzle enthusiast"[^ref-3].
+MobyGames records two critic scores for the Windows version: 70% from All Game Guide and 65% from Game Over Online[^ref-19]. AllGame's Lisa Karen Savignano rated it "Very Good" and concluded: "If you enjoy crossword puzzles, only enjoy them occasionally or simply want to test your knowledge against other crossword players, Hoyle Crosswords is worth a look"[^ref-21]. Game Over Online's Elliott Blitzer gave it 65% in April 2000, finding the presentation "rather bland" and concluding: "Bottom line, it's a crossword puzzle, nothing more, nothing less"[^ref-20]. In Poland, Secret Service magazine (issue 80, 2000) gave it 5/10, praising the face generator and dictionary but warning that fluent English was required[^ref-23]. As of early 2026, Amazon's product page reproduced a review from Children's Software Revue that noted that the program "is easy to install and use and even runs without the CD," listed it as teaching reading and vocabulary for ages 9 and up, and concluded: "This would make a great gift for any crossword puzzle enthusiast"[^ref-3].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -72,7 +72,7 @@ MobyGames records two critic scores for the Windows version: 70% from All Game G
 
 ### User Reception
 
-Amazon customer ratings average 3.3 out of 5 from seven ratings[^ref-3]. An August 2000 customer review by Wendy Hansen called it "Fun For Young And Old," adding: "It helps excercise [sic] the thinking processes, it's educational and, above all, it's fun"[^ref-3]. Later reviews from 2017 and 2020 report that the game would not run on Windows 7 or Windows 10 machines, while one reviewer said it worked under Windows XP[^ref-3].
+Amazon customer ratings average 3.3 out of 5 from seven ratings[^ref-3]. As of early 2026, the page carried an August 2000 customer review by Wendy Hansen that called it "Fun For Young And Old," adding: "It helps excercise [sic] the thinking processes, it's educational and, above all, it's fun"[^ref-3]. Later reviews from 2017 and 2020 on that page reported that the game would not run on Windows 7 or Windows 10 machines, while one reviewer said it had worked under Windows XP[^ref-3].
 
 ### Modern Assessment
 
@@ -82,19 +82,20 @@ The game has received little retrospective attention. MobyGames, GameFAQs, PCGam
 
 ### Origins
 
-Hoyle Crosswords arrived while Sierra was steadily expanding the Hoyle line; Sierra's Hoyle Casino 2000, for example, sold 230,365 units in North America from January through October 2000, according to PC Data[^ref-13]. Sierra's 1998 restructuring had placed the Hoyle license in Sierra Attractions alongside Berkeley Systems' family titles such as You Don't Know Jack[^ref-2][^ref-4]. Sierra itself traced back to On-Line Systems, founded by Ken and Roberta Williams and incorporated in 1979[^ref-17].
+Hoyle Crosswords arrived while Sierra was steadily expanding the Hoyle line; Sierra's Hoyle Casino 2000, for example, sold 230,365 units in North America from January through October 2000, according to PC Data[^ref-13]. Sierra's 1998 restructuring had placed the Hoyle license in Sierra Attractions alongside Berkeley Systems' family titles such as You Don't Know Jack[^ref-2][^ref-4]. Sierra itself traced back to On-Line Systems, founded by Ken and Roberta Williams and founded in 1979[^ref-17].
 
 The crossword title sat alongside Sierra's other Hoyle word products; GameFAQs lists Hoyle Word Games (1999), Hoyle Word Games 2001 (released 2000) and Hoyle Word Games 2002 (released 2001)[^ref-11].
 
 ### Production
 
-MobyGames credits Sierra On-Line, Inc. as both developer and publisher of the Windows and Macintosh releases, but records no individual credits for the game[^ref-1]. AllGame lists the publisher label as Sierra Attractions and the package contents as an 8-page installation manual and a registration card[^ref-22]. No designer or team members are documented in the sources consulted.
+MobyGames credits Sierra On-Line, Inc. as both developer and publisher of the Windows and Macintosh releases, but records no individual credits for the game[^ref-1]. AllGame lists the publisher label as Sierra Attractions and the package contents as an 8-page installation manual and a registration card[^ref-22]. AllGame's overview carries one credit, "Extra Credits by Michael L. House," and states that the crossword puzzles used in the game are copyrighted by Penny Press, Inc.[^ref-22] The disc also included five demos of other Sierra games and a trial copy of AT&T's WorldNet service[^ref-22].
 
 In August 2001, the year after the game's release, Sierra, by then a subsidiary of Vivendi Universal Publishing, announced a reorganization under which its Bellevue studio would handle the Tribes, SWAT and Hoyle franchises[^ref-8]. Sierra president Michael Ryder said at the time: "This reorganization creates a more efficient operating model"[^ref-8].
 
 ### Technical Specifications
 
 - **Platforms:** Windows 95, 98 and Me; Macintosh[^ref-3]
+- **Requirements (Windows):** Pentium 133, 32 MB RAM, 4x CD-ROM[^ref-20]
 - **Media:** CD-ROM, Win/Mac hybrid release[^ref-1][^ref-3]
 - **Notes:** Runs without the CD once installed[^ref-3]
 
@@ -108,7 +109,7 @@ In August 2001, the year after the game's release, Sierra, by then a subsidiary 
 
 ### Commercial Impact
 
-No sales figures for Hoyle Crosswords have been found. In mid-2001 Gateway's PC catalog offered it as one of six titles in a "Hoyle Games" software bundle priced at $99, describing it as "Challenges for both the beginner and intermediate puzzler"[^ref-24]. Amazon lists the product as discontinued by the manufacturer[^ref-3].
+No sales figures for Hoyle Crosswords have been found. In mid-2001 Gateway's PC catalog offered it as one of six titles in a "Hoyle Games" software bundle priced at $99, describing it as "Challenges for both the beginner and intermediate puzzler"[^ref-24]. As of early 2026, Amazon's listing marked the product as discontinued by the manufacturer[^ref-3]; the listing now offers used copies, rated "Everyone" with Vivendi Universal as manufacturer[^ref-3].
 
 ### Series Context
 
@@ -117,8 +118,8 @@ Sierra published the Hoyle series through 2003, after which Encore took over pub
 ## Downloads
 
 **Purchase / Digital Stores**
-- No digital re-release identified; the retail CD-ROM is listed as discontinued by the manufacturer[^ref-3]
-- Physical copies available through secondary markets
+- No digital re-release identified; the retail CD-ROM was listed as discontinued by the manufacturer as of early 2026[^ref-3]
+- Physical copies available through secondary markets; Amazon listed a used disc-only copy in November 2026[^ref-3]
 
 ## See Also
 
@@ -184,7 +185,7 @@ Sierra published the Hoyle series through 2003, after which Encore took over pub
 
 [^ref-2]: [Academic Kids – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – 1998 reorganization; Sierra Attractions to develop series such as Hoyle
 
-[^ref-3]: [Amazon – Hoyle Crosswords PC/Mac](https://www.amazon.com/Hoyle-Crosswords-PC-Mac/dp/B00004RJXL) – Product description, Children's Software Revue review, customer reviews, model 71016, first available March 24, 2000
+[^ref-3]: [Amazon – Hoyle Crosswords PC/Mac](https://www.amazon.com/Hoyle-Crosswords-PC-Mac/dp/B00004RJXL) – Product description, Children's Software Revue review and customer reviews (as of early 2026), model 71016, first available March 24, 2000, rated Everyone, manufacturer Vivendi Universal, used copy listed November 2026
 
 [^ref-4]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra Attractions brand for family and board-style games, Hoyle license
 
@@ -204,18 +205,20 @@ Sierra published the Hoyle series through 2003, after which Encore took over pub
 
 [^ref-16]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – 2000, Windows/Macintosh, developed and published by Sierra On-Line
 
-[^ref-17]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Incorporated 1979 as On-Line Systems; Sierra Attractions brand; Hoyle CD-ROM series in 2000
+[^ref-17]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Founded 1979, first known as On-Line Systems; Sierra Attractions brand; Hoyle CD-ROM series in 2000
 
 [^ref-19]: [MobyGames – Hoyle Crosswords Reviews (Windows)](https://www.mobygames.com/game/49342/hoyle-crosswords/reviews/windows/) – All Game Guide 70%, Game Over Online 65%
 
-[^ref-20]: [Game Over Online – Hoyle Crosswords review](http://web.archive.org/web/20111123002452/http://www.game-over.com/reviews/pc/Hoyle_Crosswords.html) – Elliott Blitzer, April 4, 2000; 65%; 500 puzzles in calendar format, hints, five levels, two-player modes, Face Maker
+[^ref-20]: [Game Over Online – Hoyle Crosswords review](http://web.archive.org/web/20111123002452/http://www.game-over.com/reviews/pc/Hoyle_Crosswords.html) – Elliott Blitzer, April 4, 2000; 65%; 500 puzzles in calendar format, hints, five levels, two-player modes, Face Maker, Pentium 133 / 32 MB / 4x CD-ROM requirements
 
 [^ref-21]: [AllGame – Hoyle Crosswords review](http://web.archive.org/web/20141115200852/http://www.allgame.com/game.php?id=24729&tab=review) – Lisa Karen Savignano review, "Very Good" rating, interface and hint buttons
 
-[^ref-22]: [AllGame – Hoyle Crosswords overview](http://web.archive.org/web/20141114192606/http://www.allgame.com/game.php?id=24729) – Synopsis: over 500 puzzles, three difficulty categories, WON.net play, Facemaker; publisher Sierra Attractions; package contents
+[^ref-22]: [AllGame – Hoyle Crosswords overview](http://web.archive.org/web/20141114192606/http://www.allgame.com/game.php?id=24729) – Synopsis: over 500 puzzles, three difficulty categories, WON.net play, Facemaker; publisher Sierra Attractions; package contents; Extra Credits by Michael L. House; puzzles copyrighted by Penny Press, Inc.; five demos and AT&T WorldNet trial
 
 [^ref-23]: [Secret Service no. 80 (2000), Hoyle Crosswords review](https://archive.org/details/secretservice85200012/Secret%20Service%20-%2080%20%5B2000%5D%20%2806%29/page/n83/mode/1up) – Polish magazine scan (scan leaf 84); face editor, music choice, dictionary, hints; 5/10
 
 [^ref-24]: [Gateway Guide, July 2001](https://archive.org/details/gateway-guide-2001-07) – Gateway PC catalog; "Hoyle Games" bundle including Hoyle Crosswords, all for $99
 
 [^ref-25]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – 1998 split into five sub-brands; Sierra Attractions "for casual games such as poker", composed of Berkeley Systems; label 1998–2001
+
+[^ref-26]: [Game Over Online – The New York Times Crossword Puzzles review](https://www.game-over.com/review/may2000/newyork/index.html) – Nicky Dimes, May 2000; "a little over a month ago when Sierra released their word puzzle title, Hoyle Crosswords"; "Both are budget titles"
