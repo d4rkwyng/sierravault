@@ -10,7 +10,7 @@ series: Sierra Educational
 engine: Machine language
 protagonist: Fuzzywomp
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Learning With Fuzzywomp is an educational software package developed
   and published by Sierra On-Line in 1984 for the Apple II computer. It collects four
   wordless, joystick-driven learning games for pre-readers aged three to six.
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, sierra-educational]
 ---
 # Learning With Fuzzywomp
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -55,7 +55,7 @@ The child steers Fuzzywomp with a joystick to pick one of the four games from th
 
 The packaging names the four games Domino Match, Juggling Clown, Bubble Up and Make-A-Monster. It lists the skill focus as pattern matching, counting, number sequencing and eye-hand coordination.[^ref-19]
 
-- **Domino Match:** A machine displays a domino, and the child must move Fuzzywomp to the identical one among eight shown on screen, according to *Softalk* and the Sierra Chest. MobyGames instead describes choosing from "six possible variants". After a wrong choice, Fuzzywomp points out the correct domino.[^ref-18][^ref-26][^ref-2]
+- **Domino Match:** A machine displays a domino, and the child must move Fuzzywomp to the identical one among eight shown on screen, according to *Softalk* and the Sierra Chest. MobyGames instead describes the domino as shown and then hidden, with the player choosing from "six possible variants". After a wrong choice, Fuzzywomp points out the correct domino.[^ref-18][^ref-26][^ref-2]
 
 - **Juggling Clown:** A clown shows a numeral from one to ten, and the child releases that many gumballs from a gumball machine onto a ramp. With the right number, the clown juggles them. With the wrong number, the balls drop off the ramp one by one and are counted as they fall.[^ref-18][^ref-26]
 
@@ -145,7 +145,7 @@ No hint books or strategy guides are known.
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/learning-with-fuzzywomp-1984)
+- [GOG Dreamlist (wishlist; not for sale)](https://www.gog.com/dreamlist/game/learning-with-fuzzywomp-1984)
 
 ## Downloads
 
@@ -177,7 +177,7 @@ No hint books or strategy guides are known.
 [^ref-1]: [Wikipedia – Learning with FuzzyWOMP](https://en.wikipedia.org/wiki/Learning_with_FuzzyWOMP) – release year, platform, developer/publisher, designers, similarity to Learning with Leeper
 [^ref-2]: [MobyGames – Learning with Fuzzywomp](https://www.mobygames.com/game/9294/learning-with-fuzzywomp/) – 3.8/5 average from 4 ratings, 5.25" floppy media, Katakis 2012 user review, game description (bubbles from a pipe)
 [^ref-3]: [MyAbandonware – Learning with FuzzyWOMP](https://www.myabandonware.com/game/learning-with-fuzzywomp-7ma) – download listing only; not used as a source for any fact on this page
-[^ref-6]: [Giant Bomb – Learning with FuzzyWOMP](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/) – database entry: 1984, Apple II, Sierra as developer and publisher, "A group of four learning games for children"
+[^ref-6]: [Giant Bomb – Learning with FuzzyWOMP](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/) ([archived copy](http://web.archive.org/web/20250720131221/https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/)) – database entry: 1984, Apple II, Sierra as developer and publisher, "A group of four learning games for children"
 [^ref-8]: [Sierra Gamers – Learning with Fuzzywomp](https://www.sierragamers.com/learning-with-fuzzywomp/) ([archived copy](http://web.archive.org/web/20260419130552/https://www.sierragamers.com/learning-with-fuzzywomp/)) – release year (1984)
 [^ref-9]: [CollectorVision – Learning with FuzzyWOMP](https://collectorvision.com/games/lwfuzzywomp.php) – 2022 ColecoVision cartridge, product code LWF-902, programmer Nice Ideas
 [^ref-10]: [Wikidata – Learning with FuzzyWOMP](https://www.wikidata.org/wiki/Q2350175) – publication date 1984, Apple II platform
