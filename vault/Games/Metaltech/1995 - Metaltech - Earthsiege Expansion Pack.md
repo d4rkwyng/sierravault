@@ -3,6 +3,7 @@ title: Metaltech Earthsiege Expansion Pack
 release_year: 1995
 developer: Dynamix
 designer: [David Selle]
+composer: [LoudMouth]
 publisher: Sierra On-Line
 genre: Vehicle Simulation
 platforms: [DOS]
@@ -10,7 +11,7 @@ series: Metaltech
 engine: 3-Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: 'The *Metaltech Earthsiege Expansion Pack* is a 1995 add-on for *Metaltech:
   Earthsiege*, developed by Dynamix and published by Sierra On-Line, adding three new
   campaigns, new landscapes, the Apocalypse HERC and new Cybrid weapons.'
@@ -18,11 +19,11 @@ tags: [1990s, metaltech, sierra, simulation]
 ---
 # Metaltech Earthsiege Expansion Pack
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for the original *[[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]*, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1995.[^ref-1][^ref-24][^ref-49] The expansion continued the struggle between humanity and the Cybrid war machines, picking up the narrative three months after the events of the base game.[^ref-1][^ref-17] It adds three new campaigns, several new landscapes, a new HERC (the Apocalypse) and several new Cybrid weapons, and it requires the original game to play.[^ref-1][^ref-24]
+The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for the original *[[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]*, developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1995.[^ref-1][^ref-24][^ref-49] The expansion continued the struggle between humanity and the Cybrid war machines, picking up the narrative three months after the events of the base game.[^ref-1][^ref-17] Sierra's own *InterAction* preview puts the nearest Cybrid ships 90 days from Earth's orbit.[^ref-58] It adds three new campaigns, several new landscapes, a new HERC (the Apocalypse) and several new Cybrid weapons, and it requires the original game to play.[^ref-1][^ref-24]
 
 The setting is the 25th or 26th century,[^ref-27] and the expansion keeps the game's core premise of piloting HERCs (Humaniform-Emulation Roboticized Combat Unit with Leg-Articulated Navigation) against automated Cybrid enemies.[^ref-3] The game's official description sets it up this way: "The attack on Earth by the Cybrids has been repelled and humanity is starting to rebuild. But a second wave is already incoming, and the battle starts again."[^ref-1]
 
@@ -38,6 +39,7 @@ Dynamix created the Metaltech universe as its own setting after losing the Battl
 > **Series:** Metaltech
 > **Protagonist:** HERC Pilot (player-named)
 > **Sierra Lineage:** Sierra Label (Dynamix)
+> **Composer:** LoudMouth[^ref-1]
 > **Producer:** [[Mark Crowe]][^ref-17]
 > **Executive Producer:** Jay Balakrishnan[^ref-17]
 > **Lead Programmer:** Paul Bowman[^ref-17]
@@ -55,7 +57,7 @@ The original *Metaltech: Earthsiege* contains 45 missions across 8 campaigns.[^r
 
 ### The Second Wave
 
-The expansion pits humanity against a second wave of Cybrid attackers three months after the end of the original game.[^ref-17][^ref-27] It opens with a full-motion video introduction,[^ref-17][^ref-27] and players return to their HERC cockpits across new landscapes, with new hardware on both sides.[^ref-1] Sierra's own magazine, *InterAction*, previewed the setup in a Mark Crowe feature in Spring 1995: after twenty years of war mankind has won back its homeworld, but a massive Cybrid re-invasion fleet of 10,000 ships is on its way from the outer colony worlds, the nearest only 90 days from Earth's orbit.[^ref-58] *The Encyclopedia of Science Fiction* describes the expansion as one that "largely repeats the structure of the first game, centred on an attack on Earth by Cybrids who have been rebuilding their strength in space colonies," and notes that *Earthsiege 2* continues the story from the expansion pack.[^ref-52]
+The expansion pits humanity against a second wave of Cybrid attackers three months after the end of the original game.[^ref-17][^ref-27] It opens with a full-motion video introduction,[^ref-17][^ref-27] and players return to their HERC cockpits across new landscapes, with new hardware on both sides.[^ref-1] Sierra's own magazine, *InterAction*, previewed the setup in a Mark Crowe feature in Spring 1995: after twenty years of war mankind has won back its homeworld, but a massive Cybrid re-invasion fleet of 10,000 ships is on its way from the outer colony worlds, the nearest only 90 days from Earth's orbit, which fits the three-month interval of the premise.[^ref-58] The preview is framed as a personal log dated March 2, 2553, by Maj-Gen J. Gierling, commander-in-chief of the Earth Defense Force.[^ref-58] *The Encyclopedia of Science Fiction* describes the expansion as one that "largely repeats the structure of the first game, centred on an attack on Earth by Cybrids who have been rebuilding their strength in space colonies," and notes that *Earthsiege 2* continues the story from the expansion pack.[^ref-52]
 
 ## Gameplay
 
@@ -121,8 +123,9 @@ MobyGames lists a 76% critic average for the expansion, based on three ratings.[
 | PC Games (Germany), July 1995 | Expansion Pack | 87% | Praised the new content and its localization (per the Dynamix Wiki)[^ref-17] |
 | Computer Gaming World, January 1995 | Base game (1994) | 2.5/5 | "The best attempt yet at creating a futuristic simulation of giant armored combat," but the game "has the potential to become a great game, a potential unfortunately thwarted by poor career-mode playability and a number of other problems"[^ref-56][^ref-7][^ref-27] |
 | Next Generation, February 1995 | Base game (1994) | 4/5 | "Without a doubt, the finest mech simulator available"[^ref-57][^ref-27] |
-| Electronic Entertainment, March 1995 | Base game (1994) | Not legible in the scan's text | The review calls it "a good game that disappoints only because it contains the elements of a great game — but doesn't quite deliver on its promise"[^ref-60] |
-| Computer Player, April 1995 | Base game (1994) | Not legible in the scan's text | "Metaltech: Earthsiege does up the ante in the giant robot games"; the review calls the plot "a little thin"[^ref-61] |
+| Electronic Entertainment, March 1995 | Base game (1994) | No overall score; star ratings: Game Play 4, Getting Started 1, Graphics 4, Sound Check 5, Value 3 | Reviewed by Vox Day. The review calls it "a good game that disappoints only because it contains the elements of a great game — but doesn't quite deliver on its promise"[^ref-60] |
+| Computer Player, April 1995 | Base game (1994) | 8/10 overall | Reviewed by Bernard Dy; Graphics 9, Music/Sound Effects/Value 8, Playability 6, Originality 3; the editors' ratings were 8, 8, 7 and 6. "Metaltech: Earthsiege does up the ante in the giant robot games"; the review calls the plot "a little thin"[^ref-61] |
+| PC Games (UK), April 1995 (as catalogued by the Internet Archive) | Base game, CD-ROM version (1994) | 85% | Reviewer not named in the scan; it says "look out for the inevitable expansion disk and then EarthSiege 2 later this year"[^ref-62] |
 
 *Computer Gaming World*'s Jeff James praised the base game's visuals and animation, but criticized its very hard missions, the lack of consequences for failing a mission, and a host of "tiny, but irritating, glitches and questionable design decisions."[^ref-56][^ref-7]
 
@@ -150,7 +153,7 @@ Dynamix had developed the first *MechWarrior* game in 1989, when it still had a 
 
 ### Production
 
-MobyGames credits 25 people on the expansion.[^ref-1] The Dynamix Wiki lists the following credits:[^ref-17]
+MobyGames credits 25 people on the expansion.[^ref-1] MobyGames and the Dynamix Wiki list the same credits:[^ref-1][^ref-17]
 
 **Leadership:**
 - **Producer:** [[Mark Crowe]]
@@ -159,10 +162,26 @@ MobyGames credits 25 people on the expansion.[^ref-1] The Dynamix Wiki lists the
 - **Lead Programmer:** Paul Bowman
 - **Art Director:** Robert Caracol
 
+**Art and Programming:**
+- **Lead Production Artist:** David Aughenbaugh
+- **Programming:** Bruce Schuldt, Marlen Shepherd
+- **3D Simulation Artist:** Damon Mitchell
+- **Missions Programming:** Joseph Muennich, David Selle, Gerald Azenaro
+- **Photo / Video:** Dale Tendick
+- **3D Cinemations:** Bruce Powell
+- **Theatrical Production Coordinator:** Sher Alltucker
+
 **Audio:**
 - **Audio Director:** Jan Paul Moorhead
 - **Original Music:** LoudMouth
 - **Sound FX and Digitized Speech:** Ken Rogers
+
+**Quality Assurance:**
+- **QA Manager:** David Steele
+- **Lead Tester:** Ken Eaton
+- **QA Technician:** John Wolf
+- **Configuration Technician:** Gary Stevens
+- **Testers:** Daniel Hinds, Zachary Marcus, Scott Rudi, Christopher K. Singleton
 
 ### Technical Development
 
@@ -170,7 +189,7 @@ The original *Earthsiege* initially suffered from many problems, including a bad
 
 ### Release Context
 
-The expansion was out by mid-1995: *PC Games* reviewed it in July 1995.[^ref-17] Activision's *MechWarrior 2: 31st Century Combat* shipped for DOS on July 24, 1995.[^ref-54] Earlier, the UK magazine *PC Games* (issue 10, catalogued by the Internet Archive as May 1995; not the German *PC Games*) reported in its news pages that "an Earthsiege expansion disk will be available from next month," with new enemy HERCs, upgradeable versions of existing weapons and approximately 20 new missions interspersed with previously unseen cinematic sequences.[^ref-59]
+The expansion was out by mid-1995: *PC Games* reviewed it in July 1995.[^ref-17] Activision's *MechWarrior 2: 31st Century Combat* shipped for DOS on July 24, 1995.[^ref-54] Earlier, the UK magazine *PC Games* (issue 10, catalogued by the Internet Archive as May 1995; not the German *PC Games*) reported in its news pages that "an Earthsiege expansion disk will be available from next month," with new enemy HERCs, upgradeable versions of existing weapons and approximately 20 new missions interspersed with previously unseen cinematic sequences.[^ref-59] The preceding issue (#9, catalogued as April 1995), reviewing the CD-ROM version of the base game, had already told readers to "look out for the inevitable expansion disk and then EarthSiege 2 later this year."[^ref-62]
 
 ### Technical Specifications
 
@@ -287,7 +306,8 @@ The Collection Chamber maintains a pre-configured DOSBox package that includes t
 [^ref-55]: [PC Gamer – Hi-Rez makes previous Tribes games free (Wayback, 2015)](https://web.archive.org/web/20151030184042/http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – Full list of newly free games: Earthsiege, Earthsiege 2 and the Tribes titles; no expansion listed
 [^ref-56]: [Computer Gaming World #126 (January 1995) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_126) – Jeff James, "Rock 'Em, Sock 'Em, Robots", pp. 152–156; rating 2½ stars (page image checked)
 [^ref-57]: [Next Generation #2 (February 1995) – Internet Archive](https://archive.org/details/nextgen-issue-002) – "Explosive" review, p. 95: "Without a doubt, the finest mech simulator available." Rating: 4 stars (page image checked)
-[^ref-58]: [InterAction Magazine, Spring 1995 (Sierra On-Line) – Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1995_1995_Sierra_On-Line_US) – Sierra's own magazine; "NEW! EarthSiege Expansion Pack" by Mark Crowe, p. 44: re-invasion fleet 90 days out, three new campaigns, Apocalypse HERC, new weapons (OCR text read)
+[^ref-58]: [InterAction Magazine, Spring 1995 (Sierra On-Line) – Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1995_1995_Sierra_On-Line_US) – Sierra's own magazine; "NEW! EarthSiege Expansion Pack" by Mark Crowe, pp. 44–45: Maj-Gen J. Gierling's in-universe log dated March 2, 2553; re-invasion fleet 90 days out, three new campaigns, Apocalypse HERC, new weapons (OCR text read; p.45 page image checked)
 [^ref-59]: [PC Games (UK) issue 10 – Internet Archive](https://archive.org/details/pcgames-10) – News item: Earthsiege expansion disk "available from next month", about 20 new missions, new enemy HERCs (OCR text read); the UK magazine, distinct from the German PC Games
-[^ref-60]: [Electronic Entertainment, March 1995 – Internet Archive](https://archive.org/details/ElectronicEntertainment15Mar1995) – Base-game review of Metaltech: Earthsiege, p. 73 (no reviewer name or legible score in the OCR text)
-[^ref-61]: [Computer Player, April 1995 – Internet Archive](https://archive.org/details/computer-player-april-1995) – Base-game review of Metaltech: Earthsiege, pp. 64–65 (no reviewer name or legible score in the OCR text)
+[^ref-60]: [Electronic Entertainment, March 1995 – Internet Archive](https://archive.org/details/ElectronicEntertainment15Mar1995) – Base-game review of Metaltech: Earthsiege, p. 73 (page image checked): by Vox Day; star ratings Game Play 4, Getting Started 1, Graphics 4, Sound Check 5, Value 3; no overall score
+[^ref-61]: [Computer Player, April 1995 – Internet Archive](https://archive.org/details/computer-player-april-1995) – Base-game review of Metaltech: Earthsiege, pp. 64–65 (page images checked): by Bernard Dy; 8/10 overall with sub-scores and editors' ratings
+[^ref-62]: [PC Games (UK) issue 9 – Internet Archive](https://archive.org/details/pcgames-09_202012) – "EarthSiege CD" CD-ROM update review, p. 73, Overall 85% (page image checked); catalogued as April 1995; forecasts the expansion disk and EarthSiege 2
