@@ -10,7 +10,7 @@ series: Professional Bull Rider
 engine: Proprietary (Windows)
 protagonist: Player-created bull rider
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Craig Utterback]
 description: Professional Bull Rider is a 1999 bull-riding sports simulation for Windows
   published by Sierra On-Line under its Sierra Sports label, letting players ride as
@@ -19,18 +19,18 @@ tags: [1990s, professional-bull-rider, sierra]
 ---
 # Professional Bull Rider
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Professional Bull Rider is a sports simulation video game developed and published by [[Sierra On-Line|Sierra On-Line, Inc.]] under its Sierra Sports label, released for Windows in late 1999[^ref-1][^ref-2]. Built in partnership with Professional Bull Riders, Inc. (PBR), it features over 40 of the top bull riders on the PBR circuit[^ref-3]; GameSpot later described it as an officially sanctioned computer-game re-creation of the sport[^ref-11]. Marketed with the tagline "Play as the bull or pray as the cowboy," the game offered a unique twist on the sports genre by allowing players to control either the cowboy attempting to stay mounted for eight seconds or the bull trying to dislodge its rider[^ref-5].
+Professional Bull Rider is a sports simulation video game developed and published by [[Sierra On-Line|Sierra On-Line, Inc.]] under its Sierra Sports label, released for Windows in late 1999[^ref-1][^ref-2]. Built in partnership with Professional Bull Riders, Inc. (PBR), it features over 40 of the top bull riders on the PBR circuit[^ref-3]; GameSpot's review of the sequel, Professional Bull Rider 2, says that "As with the previous game, Professional Bull Rider 2 is an officially sanctioned computer-game re-creation of the sport of bull riding"[^ref-11]. Marketed with the tagline "Play as the bull or pray as the cowboy," the game offered a unique twist on the sports genre by allowing players to control either the cowboy attempting to stay mounted for eight seconds or the bull trying to dislodge its rider[^ref-5].
 
 The game distinguished itself through its use of motion-captured riding sequences to create lifelike arcade play, combined with authentic running color commentary[^ref-7]. GameSpot framed it as an offbeat sports game that treads the line between simulation and arcade action, a line Metacritic reuses as its game summary[^ref-4][^ref-8]. Sierra's own press release billed Sierra Sports as "the first software company to sponsor cowboys in the Professional Bull Riders, Inc. 1999 Bud Light Cup Tour season"[^ref-3].
 
 Sierra announced an October release at a retail price of $19.95[^ref-3]; IGN lists the initial release date as October 27, 1999[^ref-6]. The game featured tutorial narration by bull-riding legends Ty Murray and Tuff Hedeman, with play-by-play commentary provided by PBR announcer Justin McKee[^ref-1][^ref-4][^ref-7].
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
+> **Developer:** [[Sierra On-Line|Sierra On-Line, Inc.]][^ref-1]
 > **Designer:** Dan Rogers, Jeremy Jones, Mike Jacob[^ref-1]
 > **Publisher:** Sierra Sports[^ref-3]
 > **Engine:** Proprietary
@@ -54,6 +54,8 @@ The game offers multiple modes of play to accommodate different skill levels and
 
 The career mode allows players to progress through the PBR circuit, competing against the real riders and bulls featured in the game[^ref-4]. A novel two-player mode enables head-to-head competition where Player One controls the cowboy while Player Two controls the bull, providing what PCMag UK described as "endless replay" value[^ref-9].
 
+MobyGames' description lists the game modes as "quick ride, practice pen, 2-player head-to-head, and an online tournament," and says the game offers "five authentic arenas, twenty bulls and over 40 bull riders"[^ref-1]. GameSpot adds that, after time in the practice pen, players move on to the single-player career mode or the head-to-head, cowboy-versus-bull multiplayer mode, and that the cowboy must make "judicious use of the grip button, which drains stamina"[^ref-4].
+
 ### Mechanics and Features
 
 - **Cowboy Mode:** Control a rider attempting to stay mounted for eight seconds[^ref-6]; GameSpot notes the spur button "earns more points from the judges" but is risky unless the rider is centered and upright[^ref-4]
@@ -67,7 +69,7 @@ The bull gameplay was particularly noted for its visceral appeal, with IGN's Tal
 
 ### Contemporary Reviews
 
-Professional Bull Rider drew mixed reviews. Web reviewers were warm: GameSpot's Andrew Park awarded the game 8 out of 10, declaring it "an offbeat but nonetheless great sports game that successfully treads the line between orthodox simulation and arcade action."[^ref-4][^ref-5] Park further noted that "Simply put, Professional Bull Rider looks great, sounds great, and plays pretty durn well too."[^ref-4]
+Professional Bull Rider drew mixed reviews. Web reviewers were warm: GameSpot's Andrew Park, in a review dated May 2, 2000, awarded the game 8 out of 10, declaring it "an offbeat but nonetheless great sports game that successfully treads the line between orthodox simulation and arcade action."[^ref-4][^ref-5] Park further noted that "Simply put, Professional Bull Rider looks great, sounds great, and plays pretty durn well too."[^ref-4]
 
 IGN gave the game 7 out of 10, with reviewer Tal Blevins stating that "PBR is one of those games that turned out to be a lot more fun than we first expected" and calling it "a great bull riding simulation and well worth the money if you're looking for something a bit different."[^ref-6] The IGN staff summary noted that "We grabbed the bull by the horns and were happily surprised in return."[^ref-6]
 
@@ -131,7 +133,7 @@ GameSpot singled out the bull's animation, describing "astonishing realism" in i
 
 **Players:** 1-2[^ref-5]
 
-**ESRB Rating:** Everyone[^ref-18]
+**ESRB Rating:** Everyone[^ref-9]
 
 **Difficulty:** Medium[^ref-5]
 
@@ -166,9 +168,7 @@ GameSpot identifies Justin McKee as the game's PBR announcer, and Amazon's produ
 
 ### Pricing and Sequel
 
-Professional Bull Rider was positioned as a budget title at $19.95, making it accessible to casual fans of the sport[^ref-3]. A sequel, Professional Bull Rider 2, followed in September 2000[^ref-12][^ref-13].
-
-### Sequel
+Professional Bull Rider was positioned as a budget title at $19.95, making it accessible to casual fans of the sport[^ref-3].
 
 Professional Bull Rider 2 was released on September 4, 2000 by Sierra On-Line[^ref-12][^ref-13]. GameSpot awarded it 6.9 out of 10, with reviewer Andrew Park noting that "Professional Bull Rider 2 reuses most of the same exact graphics, music, voiceover, and gameplay as those of the previous game."[^ref-11] The sequel was criticized for being more of a content update than a true follow-up, with Park stating "It's unfortunate, and maybe even a bit misleading, that the game is called Professional Bull Rider 2, as it implies that it's a full-blown sequel."[^ref-11]
 
