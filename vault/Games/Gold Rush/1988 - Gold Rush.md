@@ -147,7 +147,7 @@ According to Wikipedia, German developer [[Sunlight Games - KISS ltd|Sunlight Ga
 
 Sunlight Games released Gold Rush! 2 in April 2017 as a sequel to Gold Rush! Anniversary[^ref-1]. Sunlight says the sequel's story "came from the pen of the developers of the original game"[^ref-18]. 3rd-Strike gave it 6.1/10 and said its voice acting was "about as captivating as listening to sandpaper grinding along a wooden 2 by 4"[^ref-16].
 
-In October 2019 Sunlight Games announced a boxed Special Edition of Gold Rush! for classic Amiga computers, the first release of its "RetroTainment" retro label[^ref-18]. The second and last batch of the Special Edition was released on 28 February 2022; the box includes a postcard with original signatures of the 1980s developers[^ref-29].
+In October 2019 Sunlight Games announced a boxed Special Edition of Gold Rush! for classic Amiga computers, the first release of its "RetroTainment" retro label[^ref-18]. The second and last batch of the Special Edition was released on 25 February 2022; the box includes a postcard with original signatures of the 1980s developers[^ref-31][^ref-29].
 
 ### Easter Eggs and Trivia
 
@@ -193,3 +193,4 @@ The game contains at least one documented Easter egg. According to fan-documente
 [^ref-28]: [MobyGames – Gold Rush! (credits, release dates and score, read via the MobyGames API)](https://www.mobygames.com/game/440/gold-rush/) – DOS credits (design, programming, interpreter, art, music); platform release dates; 7.0 score from 73 votes
 [^ref-29]: [Indie Retro News – Gold Rush! 2nd batch of the Special Edition for the Amiga (28 February 2022)](https://www.indieretronews.com/2022/02/gold-rush-2nd-batch-of-special-edition.html) – "2nd and last batch of the Special Edition"; box contents incl. postcard with original signatures of the 1980s developers
 [^ref-30]: [ScummVM Wiki – Sierra Game Versions (Wayback, 18 May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – AGI 3.002.149, Gold Rush! 1988-12-22
+[^ref-31]: [Sunlight Games – Press release 03/2022 (Cologne, February 25, 2022)](https://www.sunlight-games.com/PR/PM22/PM-0322-us.pdf) – "has released the second and last batch of the Special Edition of Gold Rush! via its retro label, 'RetroTainment' today"; box contents incl. "Postcard with original signatures of the 1980s developers"
