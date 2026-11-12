@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: Modified NASCAR 2 engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: NASCAR Racing 3 is a stock car racing simulation developed by Papyrus
   Design Group and published by Sierra Sports for Windows in September 1999, covering
   the Winston Cup and Busch Grand National circuits on a modified NASCAR 2 engine.
@@ -18,13 +18,13 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 3
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 NASCAR Racing 3 is a racing simulation developed by Papyrus Design Group and published by Sierra Sports for Microsoft Windows, released in North America on September 16, 1999[^ref-22][^ref-27]. It is the third numbered installment in Papyrus's NASCAR Racing series, which Wikipedia describes as universally praised for its accuracy in terms of physics and track feel[^ref-2]. Built on a modified version of the NASCAR 2 engine rather than the Grand Prix Legends physics Papyrus had originally promised[^ref-7], it covers the 1999 NASCAR Winston Cup and Busch Series[^ref-22].
 
-The game was part of Sierra Sports' portfolio, a label formed in February 1998 by Sierra On-Line as part of a company restructuring[^ref-3]. Reviewers counted 28 real-world Winston Cup and Busch tracks[^ref-8][^ref-17], though licensing issues kept Daytona and Pocono out of the game[^ref-7]. Online play ran through Sierra's WON.net matchmaking service built into the game[^ref-11]; IGN described support for up to 20 players over the Internet[^ref-8], while PC Gamer reported that 32 players could race for free on WON.NET[^ref-15].
+The game was part of Sierra Sports' portfolio, a label formed in February 1998 by Sierra On-Line as part of a company restructuring[^ref-3]. Reviewers counted 28 real-world Winston Cup and Busch tracks[^ref-8][^ref-17], though licensing issues kept Daytona and Pocono out of the game[^ref-7]. Online play ran through Sierra's WON.net matchmaking service built into the game[^ref-11]; The sources give differing figures for the online player cap: IGN described support for up to 20 players over the Internet[^ref-8], PC Gamer reported that 32 players could race for free on WON.NET[^ref-15], CDMag's shipping announcement promised free Internet racing with up to 42 drivers per track[^ref-27], and Computer Gaming World's specification line lists up to 44 players via direct Internet connections, WON.net, IPX or modem[^ref-29]. PC Accelerator judged multiplayer support "sadly lacking", seeming to require a broadband connection for playable performance[^ref-30].
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
@@ -98,6 +98,15 @@ MobyGames credits project director David Matson, lead engineer Charlie Heath, ar
 
 NASCAR Racing 3 runs on a modified version of the NASCAR 2 engine[^ref-7]. It supports Direct3D and Glide 3D acceleration[^ref-4], four-position audio[^ref-7], and A3D 2.0 or DirectSound 3D positional sound[^ref-15]. Minimum requirements are an Intel Pentium 166 MHz and 32 MB of RAM[^ref-26], with a 2X CD-ROM drive[^ref-4].
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | September 16, 1999 | Windows | North American retail release[^ref-22][^ref-27] |
+| 1.2.0.4 | April 4, 2000 | Windows | Final official patch for the base game[^ref-26][^ref-31] |
+| Craftsman Truck Series Expansion Pack | 2000 | Windows | Expansion pack[^ref-25] |
+| 1.2.1.7 | June 5, 2000 | Windows | Final official patch for the expansion pack; the soggi.org patch listing dates it June 5, 2000[^ref-31], while GameSpot's patch page lists it as 06/26/00[^ref-12] |
+
 ## Legacy
 
 NASCAR Racing 3 was succeeded by NASCAR Racing 4, which received the Grand Prix Legends-style physics originally planned for this game[^ref-22]. A CD-ROM given away with the 2000 Daytona 500 official program included a demo featuring Daytona International Speedway, which made its official series debut in NASCAR Racing 4[^ref-22].
@@ -129,6 +138,7 @@ At launch, reviewers expected players to fill the licensing gaps themselves: Gam
 - [[1999 - NASCAR Craftsman Truck Series Racing|← Previous: NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Legends|→ Next: NASCAR Legends]]
 
+- [[NASCAR Racing Series]]
 - [[1994 - NASCAR Racing]]
 - [[1996 - NASCAR Racing 2]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
@@ -159,5 +169,6 @@ At launch, reviewers expected players to fill the licensing gaps themselves: Gam
 [^ref-26]: [PCGamingWiki – NASCAR Racing 3](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_3) – final patch versions, minimum system requirements, Sold Out Software retail re-release
 [^ref-27]: [CDMag – NASCAR 3 Ships (Wayback Machine)](https://web.archive.org/web/20030524191116/http://www.cdmag.com/articles/022/185/nascar3.html) – shipped to North American retail, posted 09/16/1999; paintkit, Direct3D/Glide, Busch Grand National content
 [^ref-28]: [Race Sim Central – NASCAR Racing 3: The Sim That Never Was](https://racesimcentral.net/nascar-racing-3-the-sim-that-never-was/) – original GPL-physics NR3 due Q4 1998 per NR2 Busch expansion teaser, cancelled; GPL physics arrived in NASCAR Racing 4
-[^ref-29]: [Computer Gaming World – Issue 188, March 2000 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_188) – review "You Couldn't Ask for Anything More" by Brett Todd, p. 132; four of five stars, "must-buy" verdict, 28 tracks, publisher Sierra Sports, $50
-[^ref-30]: [PC Accelerator – Issue 17, January 2000 (Internet Archive)](https://archive.org/details/PCXL17Jan2000) – review, p. 93; rating 8, pluses and minuses, no Daytona or Pocono
+[^ref-29]: [Computer Gaming World – Issue 188, March 2000 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_188) – review "You Couldn't Ask for Anything More" by Brett Todd, p. 132; four of five stars (CGW Rated panel), "must-buy" verdict, 28 tracks, "Up to 44 players" multiplayer spec line, publisher Sierra Sports, $50
+[^ref-30]: [PC Accelerator – Issue 17, January 2000 (Internet Archive)](https://archive.org/details/PCXL17Jan2000) – review, p. 93; RATING 8 (score panel), pluses and minuses, multiplayer "sadly lacking" remark, no Daytona or Pocono
+[^ref-31]: [soggi.org – 3dfx Voodoo game patches](https://soggi.org/misc/3dfx-voodoo-game-patches.htm) – NASCAR Racing 3 1.2.0.4 patch dated 2000/04/04; Craftsman Truck Expansion Pack 1.2.1.7 patch dated 2000/06/05
