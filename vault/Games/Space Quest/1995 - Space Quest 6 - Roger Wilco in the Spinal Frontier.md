@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI32
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click
   adventure game developed and published by Sierra On-Line, released in 1995 for MS-DOS
   and Windows (Sierra Chest gives July 11, 1995; PCGamingWiki gives March 1995).'
@@ -18,10 +18,10 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest 6: Roger Wilco in the Spinal Frontier
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
-Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Developers/Sierra On-Line|Sierra On-Line]], released in 1995 for MS-DOS and Windows, with a Macintosh version following in 1996[^ref-6]. Sources differ on the exact date: Sierra Chest gives July 11, 1995[^ref-2], PCGamingWiki gives March 1995[^ref-5], and the SCI Wiki dates the version 1.0 interpreter build June 20, 1995[^ref-33]. It was the first Space Quest released exclusively on CD-ROM[^ref-6]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-14][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-14]. Critics were split on the look: *Computer Gaming World* found the graphics "better than in any previous Space Quest, but nowhere near the level of King's Quest"[^ref-19], while *PC Gamer* saw "a couple of steps backwards as far as the graphics and voice-overs are concerned"[^ref-28]. Gary Owens returned as narrator once again[^ref-11][^ref-19]. The final portion, in which Roger is miniaturized and enters a shipmate's body, spoofs *Fantastic Voyage* and *Innerspace*; a rejected title was "Roger Wilco in Innard Space"[^ref-25][^ref-19].
+Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Developers/Sierra On-Line|Sierra On-Line]], released in 1995 for MS-DOS and Windows, with a Macintosh version following in 1996[^ref-6]. Sources differ on the exact date: Sierra Chest gives July 11, 1995[^ref-2], PCGamingWiki gives March 1995[^ref-5], and the SCI Wiki dates the version 1.0 interpreter build June 20, 1995[^ref-33]. It was the first Space Quest released exclusively on CD-ROM[^ref-6]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-14][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-14]. Critics were split on the look: *Computer Gaming World* found the graphics "better than in any previous Space Quest, but nowhere near the level of King's Quest"[^ref-19], while *PC Gamer* saw "a couple of steps backwards as far as the graphics and voice-overs are concerned"[^ref-28]. Looking back in 2011, Dante Kleinberg of *Adventure Gamers* wrote that "the graphics are undoubtedly the best of the series"[^ref-26]. Gary Owens returned as narrator once again[^ref-11][^ref-19]. The final portion, in which Roger is miniaturized and enters a shipmate's body, spoofs *Fantastic Voyage* and *Innerspace*; a rejected title was "Roger Wilco in Innard Space"[^ref-25][^ref-19].
 
 > [!info]- Game Info
 > **Developer:** [[Developers/Sierra On-Line|Sierra On-Line]][^ref-6]
@@ -81,25 +81,8 @@ As of October 2026, the game holds a MobyScore of 7.5/10, with an average critic
 
 ## Development
 
-### Voice Cast
-The game features extensive voice acting; roles below follow the in-game credits as transcribed by SpaceQuest.net, which notes that the manual's voice list is incorrect[^ref-11]:
-- **Gary Owens** as Narrator
-- **William Hall** as Roger Wilco, the DeepShip 86 Computer, Cyberspace and the Director
-- **Carol Bach Y Rita** as Stellar Santiago, Sharpei, Wriggley and Sys Inny
-- **Jarion Monroe** as Doctor Beleauxs, Commander Kielbasa, Blaine Rohmer and Admiral Toolman
-- **Tom Chantler** as Endodroid, Singent Flembukit and Nigel Rancid
-- **Joe Paulino** as Djurkwhad, Dorff, Fester Blatz and Manuel Auxveride
-- **Charles Martinet** as Pa Conshohocken and P'tooie (the Space Quest wiki also credits him as Ray Trace); he later voiced Mario in *Super Mario 64* and later Mario games[^ref-11][^ref-14]
-- **Doug Boyd** as Elmo Pug and Circuit Sidney
-- **Lucille Bliss** as the Waitron
-- **Denny Delk** as Jebba the Hop
-- **Scott Murphy** as himself
-- **Roger Jackson** as Hotel Manager (credited by IMDb, not in the SpaceQuest.net list)[^ref-30]
-
-Music was directed by Dan Kehler and composed by Dan Kehler and Neal Grandstaff[^ref-11][^ref-3].
-
 ### Origins
-Accounts of the early arrangement differ. TV Tropes says Josh Mandel initially headed Space Quest 6, with Scott Murphy acting as a creative consultant[^ref-23]. Mandel's own 2013 account is that Murphy was meant to share the design from the start: "From the very beginning, I wanted Scott to be co-designer on the game"[^ref-36]. For the ending, Mandel was seeking "a twist on the end of Planet of the Apes"[^ref-15]; his original concept, which Murphy did not like, was "a Planet of the Apes riff with a statue of Leisure Suit Larry," and the shipped ending was "a total surprise" to him[^ref-31]. When the game was nearing completion, Mandel had to leave the project because of management problems, and Murphy took over[^ref-22]; Sierra Chest notes a lack of communication and "reportedly even strife"[^ref-2]. Marketing then sold the game as a "Scott Murphy solo job," which Murphy says he knew nothing about until he got his packaged copy[^ref-22]. Murphy later wrote on a message board: "That's a game that should have been aborted when Josh left. I am about as far from proud as someone can be about their work where Space Quest 6 is concerned"[^ref-22].
+Accounts of the early arrangement differ. TV Tropes says Josh Mandel initially headed Space Quest 6, with Scott Murphy acting as a creative consultant[^ref-23]. Mandel's own 2013 account is that Bruce Balfour and he had written several Space Quest proposals for Space Quest 5, and that these were resurrected when Ken Williams brought the series back to Oakhurst for the sixth game. One of Mandel's proposals, "Where in Corpsman Santiago is Roger Wilco?", was selected by Ken and Roberta Williams as the one to be produced, though Ken was slightly reluctant, thinking the game had to be more "outer space" and not so much "inner space" to satisfy fans[^ref-36]. Mandel adds that Murphy was meant to share the design from the start: "From the very beginning, I wanted Scott to be co-designer on the game"[^ref-36]. For the ending, Mandel was seeking "a twist on the end of Planet of the Apes"[^ref-15]; his original concept, which Murphy did not like, was "a Planet of the Apes riff with a statue of Leisure Suit Larry," and the shipped ending was "a total surprise" to him[^ref-31]. When the game was nearing completion, Mandel had to leave the project because of management problems, and Murphy took over[^ref-22]; Sierra Chest notes a lack of communication and "reportedly even strife"[^ref-2]. Marketing then sold the game as a "Scott Murphy solo job," which Murphy says he knew nothing about until he got his packaged copy[^ref-22]. Murphy later wrote on a message board: "That's a game that should have been aborted when Josh left. I am about as far from proud as someone can be about their work where Space Quest 6 is concerned"[^ref-22].
 
 Because of the lack of communication, several parts of the original design were cut, primarily in the latter stages of the game[^ref-2].
 
@@ -113,6 +96,35 @@ The romantic interest Stellar Santiago provides a continuity dilemma, since the 
 
 [[Leslie Balfour]] wrote the Popular Janitronics magazine included with the game[^ref-16]. She also coined the series tagline "In Space, Nobody Can Hear You Clean"—which Josh Mandel called "the best tagline Sierra ever had"[^ref-15].
 
+### Production
+Scott Murphy describes Oliver Brelsford as the third and final project manager on the game[^ref-24].
+
+**Development Credits:**[^ref-11][^ref-38]
+- **Executive producers:** Craig Alexander and Jerry Bowerman[^ref-11]
+- **Designed and written by:** Josh Mandel and Scott Murphy[^ref-11][^ref-38]
+- **Producer:** Oliver Brelsford[^ref-38]
+- **Programming:** Steve Conrad (lead programmer), Oliver Brelsford, Sterling Butts, Arijit De, Michael Lytton and William Shockley[^ref-11][^ref-38]
+- **Art design:** Michael Hutchison and John Shroades; background art by John Shroades and Chris Willis; animation by Michael Hutchison, Deanna Yhalkee, Karin Nestor, Frankie Powell and Barry Sundt; additional animation by Chris Willis, Jason Piel, Alberto Eufrasio and Jason Zayas; 3D art by Chris Willis and Michael Hutchison[^ref-11]
+- **Music:** directed by Dan Kehler and composed by Dan Kehler and Neal Grandstaff (spelled "Neil" in the SpaceQuest.net credits)[^ref-11][^ref-38]
+- **Sound:** Jon Meek, Kelli Spurgeon and Richard Spurgeon[^ref-38]
+- **Manual:** Leslie S. Balfour, Lori Lucia, Josh Mandel and Scott Murphy[^ref-11]
+- **Testing:** Mike Jones, Sharon Simmons, John Trauger, John Ratcliffe and Lynne Dayton[^ref-11]
+
+### Voice Cast
+The game features extensive voice acting. MobyGames credits voice direction to Scott Murphy and Taylor Korobow, with the voices recorded at Fantasy Studios, Wave Studios and Russian Hill Recording[^ref-38]. Roles below follow the in-game credits as transcribed by SpaceQuest.net, which notes that the manual's voice list is incorrect[^ref-11]:
+- **Gary Owens** as Narrator
+- **William Hall** as Roger Wilco, the DeepShip 86 Computer, Cyberspace and the Director
+- **Carol Bach Y Rita** as Stellar Santiago, Sharpei, Wriggley and Sys Inny
+- **Jarion Monroe** as Doctor Beleauxs, Commander Kielbasa, Blaine Rohmer and Admiral Toolman
+- **Tom Chantler** as Endodroid, Singent Flembukit and Nigel Rancid
+- **Joe Paulino** as Djurkwhad, Dorff, Fester Blatz and Manuel Auxveride
+- **Charles Martinet** as Pa Conshohocken and P'tooie (the Space Quest wiki also credits him as Ray Trace); he later voiced Mario in *Super Mario 64* and later Mario games[^ref-11][^ref-14]
+- **Doug Boyd** as Elmo Pug and Circuit Sidney
+- **Lucille Bliss** as the Waitron
+- **Denny Delk** as Jebba the Hop
+- **Scott Murphy** as himself
+- **Roger Jackson** as Hotel Manager (credited by IMDb, and by MobyGames as Roger Labon Jackson, but not in the SpaceQuest.net list)[^ref-30][^ref-38]
+
 ### Technical Achievements
 - Ran on SCI32, the last generation of Sierra's SCI engine (interpreter 2.100.002, SCI2.1 "middle")[^ref-3][^ref-33]
 - Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-14]
@@ -123,6 +135,34 @@ The romantic interest Stellar Santiago provides a continuity dilemma, since the 
 - Supported in ScummVM since version 2.0.0, rated "Good" on ScummVM's compatibility list[^ref-12][^ref-34]
 - NewRisingSun's unofficial SQ6_NRS patch fixes timer bugs including a non-responsive Endodroid Runner/Elmo Pug[^ref-3]
 - System requirements: DOS 5.0+, 486/25 processor, 8MB RAM, 5MB hard drive space, 2x CD-ROM[^ref-13][^ref-19]
+
+### Cut Content
+Sierra Chest records that, because of poor communication during development, several parts of the original design were cut, primarily in the latter stages of the game[^ref-2]. The best-known loss is the comic book CD that held the Datacorder puzzle hints (see Origins above)[^ref-31]. The Cutting Room Floor documents further material left in the game's resource files[^ref-39]:
+- Unused graphics, including inventory art for the rag, the handcuffs and the bundle of nerves, a single-buckazoid image, and talking animations for the DeepShip shuttle bay guards
+- An earlier version of the interface graphic that refers to verbs instead of body parts and calls the pockets "loot"
+- A death animation left over from the high-resolution version of *Leisure Suit Larry 6*, which was in development at the same time
+- Unused music tracks, among them "Amen (Liver)", "In Town" and two Mr. Soylent songs, plus a track that was later used in *King's Quest VII*
+- The SCI debugger, which can be activated by creating an empty file named "CLASSES" and which opens a teleport menu, item menu and room information
+
+### Technical Issues
+The Sierra Help Pages list several known problems with the game[^ref-13]:
+- Audio problems, including poor or missing sound and an "Unable to initialize your audio hardware" message, and timer-related speed bugs, which can be avoided by running the game in DOSBox
+- A crash with "Error 47: Not an Object: $0" in the sickbay when sliding the card from the DNA scanner into the ComPost
+- A non-responsive Endodroid Runner and Elmo Pug, who walk away without talking back; NewRisingSun's patch addresses both this and the DNA scanner crash
+- A "Could not open robot resource 410" error at Stellar's funeral on some systems, which is not a timer bug but means the game cannot find the 410.RBT file
+- Windows-version errors mentioning "NTVDM.EXE" and "WaveOutUnprepareHeader", and a screen that "scrolls over" into black
+- Missing copy-protection documentation required to complete the game
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Interpreter 1.0 build | June 20, 1995 | SCI interpreter | SCI Wiki dates the version 1.0 interpreter build[^ref-33] |
+| Original release | March 1995 (PCGamingWiki) / July 11, 1995 (Sierra Chest) | DOS, Windows | Sources differ on the date; MobyGames lists DOS, Windows and Windows 16-bit releases in 1995[^ref-2][^ref-5][^ref-6] |
+| European releases | 1995 | DOS | MobyGames lists 1995 releases in France, Spain, the United Kingdom and Germany, with Coktel Vision, Sierra-Coktel Espana, Sierra On-Line Ltd. and Sierra Coktel Deutschland GmbH as distributors[^ref-6] |
+| Macintosh | 1996 | Macintosh | Macintosh release[^ref-5][^ref-6] |
+| Adventure: 3 Out-of-This-World Games | 1996 | DOS, Windows | Compilation with *Lighthouse: The Dark Being* and *Police Quest: Open Season*[^ref-37] |
+| Sierra Originals | 1997 | DOS | Budget re-release listed by MobyGames[^ref-6] |
 
 ### Easter Eggs and Trivia
 - **Hidden message:** In the cyberspace office, the Look (eye) cursor on the background gives "You saw it here first. A preview of the famed information superhighway. Wow!"; after six or seven more clicks the narrator says "Wow! This makes my nipples hard!" instead[^ref-21]
@@ -198,11 +238,6 @@ This game has been included in the following collections:
 - [Popular Janitronics Magazine](https://wiw.org/~jess/publications/janitronics.pdf) – pack-in feelie (PDF)[^ref-17]
 - [Space Quest 6 Quick Start Guide](https://wiw.org/~jess/publications/sq6_quick_start_guide.pdf) (PDF)[^ref-17]
 - [Official Player's Guide – Space Quest 6](https://wiw.org/~jess/publications/sq6guide.pdf) (PDF)[^ref-17]
-- [Sierra Chest – Space Quest 6](https://www.sierrachest.com/index.php?a=games&id=14&title=space-quest-6&fld=general) – walkthrough, maps, easter eggs, memorabilia[^ref-2]
-- [MobyGames – Space Quest 6](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/) – covers, screenshots, credits[^ref-6]
-- [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – encyclopedia article[^ref-1]
-- [PCGamingWiki – Space Quest 6](https://www.pcgamingwiki.com/wiki/Space_Quest_6%3A_Roger_Wilco_in_The_Spinal_Frontier) – technical fixes[^ref-5]
-- [SpaceQuest.net – Space Quest 6](https://spacequest.net/sq6/) – game information, screenshots, soundtrack[^ref-4]
 - [WiW – Space Quest 6 Point List](https://wiw.org/~jess/sq6pts.html) – complete point list[^ref-10]
 - [Sierra Help – Space Quest 6](https://sierrahelp.com/Games/SpaceQuest/SQ6Help.html) – patches, technical help[^ref-13]
 - [SpaceQuest.net – SQ6 Easter Eggs](https://spacequest.net/sq6/eastereggs/) – hidden features, programmer tributes[^ref-21]
@@ -210,9 +245,6 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ6 Cameos](https://spacequest.net/sq6/cameos/) – character appearances, sci-fi parodies[^ref-24]
 - [SpaceQuest.net – SQ6 Spoofs & References](https://spacequest.net/sq6/spoofref/) – pop culture references[^ref-25]
 - [SpaceQuest.net – SQ6 Plot Inconsistencies](https://spacequest.net/sq6/plotinconsis/) – continuity errors[^ref-27]
-- [TV Tropes – Space Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVI) – tropes, trivia[^ref-23]
-- [Adventure Gamers – Space Quest 6 review (Wayback copy, July 2022)](https://web.archive.org/web/20220706125608/https://adventuregamers.com/articles/view/18567) – Dante Kleinberg's 2011 review[^ref-26]
-- [IMDB – Space Quest 6](https://www.imdb.com/title/tt0348081/) – full cast and crew credits[^ref-30]
 
 ## Series Continuity
 
@@ -228,6 +260,17 @@ This game has been included in the following collections:
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1993 - Space Quest V - The Next Mutation]]
+
+**Reference Sites**
+
+- [Sierra Chest – Space Quest 6](https://www.sierrachest.com/index.php?a=games&id=14&title=space-quest-6&fld=general) – walkthrough, maps, easter eggs, memorabilia[^ref-2]
+- [MobyGames – Space Quest 6](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/) – covers, screenshots, credits[^ref-6]
+- [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – encyclopedia article[^ref-1]
+- [PCGamingWiki – Space Quest 6](https://www.pcgamingwiki.com/wiki/Space_Quest_6%3A_Roger_Wilco_in_The_Spinal_Frontier) – technical fixes[^ref-5]
+- [SpaceQuest.net – Space Quest 6](https://spacequest.net/sq6/) – game information, screenshots, soundtrack[^ref-4]
+- [TV Tropes – Space Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVI) – tropes, trivia[^ref-23]
+- [Adventure Gamers – Space Quest 6 review (Wayback copy, July 2022)](https://web.archive.org/web/20220706125608/https://adventuregamers.com/articles/view/18567) – Dante Kleinberg's 2011 review[^ref-26]
+- [IMDB – Space Quest 6](https://www.imdb.com/title/tt0348081/) – full cast and crew credits[^ref-30]
 
 ## References
 [^ref-1]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – encyclopedia article
@@ -267,3 +310,5 @@ This game has been included in the following collections:
 [^ref-35]: [PC Gamer US Issue 15, August 1995](https://archive.org/details/pc-gamer-issue-15-august-1995) – cover CD demo of Space Quest 6, "its own little adventure, with puzzles that aren't found in the final game"; disc identified as "The CD #9"
 [^ref-36]: [Adventure Gamers – Josh Mandel interview (Wayback copy)](https://web.archive.org/web/20241116062553/https://adventuregamers.com/articles/view/24002) – Ingmar Böke, March 2013: "From the very beginning, I wanted Scott to be co-designer on the game"
 [^ref-37]: [MobyGames – Adventure: 3 Out-Of-This-World Games](https://www.mobygames.com/game/21816/adventure-3-out-of-this-world-games/) – read via the MobyGames API: 1996 DOS/Windows compilation of Lighthouse, Police Quest: Open Season and Space Quest 6
+[^ref-38]: [MobyGames – Space Quest 6 credits](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/credits/) – DOS credits: design, programming, producer Oliver Brelsford, music composers, sound, documentation, voice direction and recording studios, acting credits
+[^ref-39]: [The Cutting Room Floor – Space Quest 6: Roger Wilco in the Spinal Frontier](https://tcrf.net/Space_Quest_6:_Roger_Wilco_in_the_Spinal_Frontier) – unused graphics and music, leftover LSL6 animation, SCI debugger, release dates

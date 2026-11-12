@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI0
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest III: The Pirates of Pestulon is a 1989 graphic adventure
   game developed and published by Sierra On-Line, the first Space Quest game built
   on the SCI engine.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest III: The Pirates of Pestulon
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 Space Quest III: The Pirates of Pestulon is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 24, 1989 for MS-DOS, with the Atari ST port coming out in April, the Amiga version in October, and the Macintosh version in 1991[^ref-2][^ref-5].
@@ -65,10 +65,11 @@ Space Quest III was developed using an early version of Sierra's SCI engine[^ref
 - The game includes various science fiction allusions, including wrecks of a TIE fighter, an ACME Rocket, and the Jupiter 2 spacecraft visible in the garbage freighter[^ref-1]
 - Pestulon, the moss-covered moon where ScumSoft is headquartered, is probably a pun on Star Wars' jungle moon Yavin IV, which sat behind an uninhabitable gas giant[^ref-20]
 - The USS Enterprise warps away from Monolith Burger as Roger arrives, a Star Trek reference[^ref-24]
-- Ken Williams and Rick Cavin, then Sierra's Head of Production, cameo as whip-wielding overseers in ScumSoft's programmer cubicles; Ken also appears in the ending sequence[^ref-24]
+- Ken Williams and Rick Cavin cameo as whip-wielding overseers in ScumSoft's programmer cubicles; Ken also appears in the ending sequence[^ref-24]. SpaceQuest.net calls Cavin Sierra's Head of Production at the time[^ref-24], Wikipedia calls him director of operations[^ref-1], and in a Spring 1989 interview Bob Siebenberg refers to him as Sierra General Manager[^ref-45]
 
 ### Puzzles and Mechanics
 - The game includes Astro Chicken, an arcade minigame in which the player tries to land a chicken on a trampoline, playing much like Lunar Lander[^ref-1]
+- Sierra Chest lists three arcade sequences: Astro Chicken, a robot fighting game called Nukem Dukem, and a space ship arcade shooter[^ref-3]; Games International's Amiga reviewer likewise counts "three arcade-type sequences", which he found "rather easy" after a few attempts[^ref-37]
 - A high enough Astro Chicken score reveals a distress message hidden by the Two Guys from Andromeda[^ref-1]
 - Sierra released Astro Chicken as a standalone demo for Space Quest III on the Sierra BBS[^ref-40]
 - **Anti-frustration feature:** The hidden message in Astro Chicken also appears after failing 10 times, for players who can't master the arcade gameplay[^ref-26]
@@ -88,24 +89,47 @@ Reviewing the Amiga version, John Scott of Games International called the progra
 
 ### Modern Assessment
 - **MobyGames:** 7.9 combined MobyScore; critics 81% (26), players 4.0/5 (133)[^ref-5]
-- **GOG:** 4.3/5 (577 ratings, collection)[^ref-6]
+- **GOG:** 4.3/5 (collection)[^ref-6]
 - **Steam:** Very Positive, 85% of 337 reviews (collection)[^ref-9]
 - **GameFAQs:** rated "Great" (71 ratings)[^ref-27]
 - **HowLongToBeat:** about 3 hours main story[^ref-8]
+
+In a retrospective for Hardcore Gaming 101, Kurt Kalata called it "a clever, immensely likable game overall" but faulted its "extremely fussy" parser positioning, called both minigames "extremely clumsy", and found the game "ruthlessly short", with "only three locations to visit (four, once you uncover Pestulon)"[^ref-46].
 
 ## Development
 
 ### Origins
 Development took a little over a year—longer than the 9-11 months for the previous games—due to the team learning the new SCI system[^ref-28]. The SCI engine offered double the resolution of AGI, allowing greater detail and depth perception effects, though this meant graphics took significantly longer to create[^ref-28].
 
-The game features over 30 minutes of music composed by Supertramp drummer Bob Siebenberg[^ref-2][^ref-4][^ref-28]. Siebenberg composed the music based on videotaped game scenes, similar to film scoring[^ref-28]. Mark Seibert created the sound effects using a Roland MT-32 synthesizer (equivalent to 8 synthesizers combined), though loading custom sounds added 45 seconds to game startup[^ref-28]. It was one of the first games to support the Sound Blaster sound card[^ref-1][^ref-4], though the inclusion of an incorrect audio driver left the digitized effects unavailable to IBM PC users with the Sound Blaster card[^ref-1]. Separately, the game can halt at startup with "Unable to initialize your audio hardware", a timer problem that Sierra Help fixes by running it in DOSBox or patching the old audio driver with GOSiERRA or SBSIERRA[^ref-21].
+The game features over 30 minutes of music composed by Supertramp drummer Bob Siebenberg[^ref-2][^ref-4][^ref-28]. Siebenberg composed the music based on videotaped game scenes, similar to film scoring[^ref-28]. Mark Seibert created the sound effects using a Roland MT-32 synthesizer (equivalent to 8 synthesizers combined), though loading custom sounds added 45 seconds to game startup[^ref-28]. It was one of the first games to support the Sound Blaster sound card[^ref-1][^ref-4].
 
 Sound effects include digitized audio sampling, such as the voice of Roger saying "Where am I?" during the introduction[^ref-1]. The digitized effects can be heard in the Tandy, Amiga, and Macintosh versions[^ref-1].
 
 The original game came with: a box, three 3.5" game disks (four for Amiga) or six 5.25" disks, manual, Andromedan snout and glasses complete with Death Ray Shield, SCI reference card, registration card, soundcard promotional brochure, letter from Ken Williams explaining the new soundcards, "please note" leaflet with technical information, Adlib coupon offering $20 rebate, optional hint book for $7.95, and Sierra games catalogue[^ref-4]. The PC/MS-DOS version was originally sold for $59.95[^ref-30][^ref-36].
 
-### Technical Achievements
-- Rated "Excellent" by ScummVM, first listed in its 1.2.0 compatibility chart; 16-colour graphics at 320x200[^ref-43][^ref-12]
+### Production
+Mark Crowe and Scott Murphy designed and wrote the game, and Crowe also made the graphics[^ref-2]. Bob Siebenberg told Sierra's newsletter that he got the job after reading an advertisement in the Sierra Star, a local paper, for someone who knew how to work with MIDI; he met Rick Cavin, and the outcome was that he would write music for some of the new games[^ref-45]. He said Sierra supplied a Macintosh, a Mastertracks Pro and an MT-32, which he used alongside his own equipment in his home studio, and that Crowe and Murphy gave him a VHS cassette of what the game looked like[^ref-45]. He singled out "Festers Theme" as a light and funny piece[^ref-45].
+
+**Development Credits:**[^ref-2]
+- **Design and Writing:** [[Mark Crowe]] and [[Scott Murphy]]
+- **Graphics:** Mark Crowe
+- **Programming:** Mark Crowe, Ken Koch, Scott Murphy, Doug Oldfield and Christopher Smith
+- **Game Development System:** Robert Eric Heitman, Pablo Ghenis, Stuart Goldstein and Jeff Stephenson
+- **Music:** Bob Siebenberg
+- **Music System:** Stuart Goldstein
+- **Sound Effects:** Mark Seibert
+- **Amiga Version:** Dan Foy and Jim Heintz
+- **Atari ST Version:** Corey Cole
+- **Macintosh Version:** John Hartin, John Rettig and John Crane
+- **Macintosh Art:** Nate Larsen, Steve Coallier and Jeff Crowe
+- **Documentation:** Bridget McKenna
+- **Box Design:** John T. Shaw
+
+### Technical Specifications
+- **Engine:** SCI0[^ref-2][^ref-5]
+- **Graphics:** 16-colour palette at 320x200 resolution[^ref-12]
+- **Sound:** Roland MT-32, Sound Blaster and AdLib supported[^ref-12]
+- **ScummVM:** rated "Excellent", first listed in its 1.2.0 compatibility chart[^ref-43][^ref-12]
 
 ### Debug Modes and Cut Content
 - **Debug cheat:** Typing "pump shark" or "backstage pass" enables debug mode; then typing "get life" in the ScumSoft corridor grants the janitor disguise, vaporizer, keycard, and copy of Elmo's picture, skipping much of the ScumSoft sequence[^ref-16][^ref-23]
@@ -132,14 +156,25 @@ The original game came with: a box, three 3.5" game disks (four for Amiga) or si
 
 ### Version History
 
-- **Early release** — cockpit computer reads "Lite Speed" instead of "Light Speed"[^ref-25]
-- **1.018** — version supplied with the Space Quest Collection[^ref-25]
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | March 24, 1989 | DOS | Initial release[^ref-2][^ref-3] |
+| Original | April 1989 | Atari ST | Port by Corey Cole[^ref-2][^ref-5] |
+| Original | October 1989 | Amiga | Port by Dan Foy and Jim Heintz[^ref-2][^ref-5] |
+| Original | 1991 | Macintosh | Port by John Hartin, John Rettig and John Crane[^ref-2][^ref-5] |
+| Early release | — | — | Cockpit computer reads "Lite Speed" instead of "Light Speed"[^ref-25] |
+| 1.018 | — | — | Version supplied with the Space Quest Collection[^ref-25] |
+
+### Technical Issues
+- The inclusion of an incorrect audio driver left the digitized effects unavailable to IBM PC users with the Sound Blaster card[^ref-1]. Hardcore Gaming 101, by contrast, says the "Where am I?" clip plays on a Tandy or Mac, or with Sound Blaster support enabled[^ref-46]
+- The game can halt at startup with "Unable to initialize your audio hardware", a timer problem that Sierra Help fixes by running it in DOSBox or patching the old audio driver with GOSiERRA or SBSIERRA[^ref-21]
+- The Sierra Fandom Wiki lists an unofficial 1.1 patch by Commander Proton (also known as Proton Power) that fixes bugs and oversights and adds minor quality-of-life changes, plus a fixed Sound Blaster driver and an MTBLAST patch that allows MT-32 music with Sound Blaster sound effects[^ref-2]
 
 ## Legacy
 
 According to Sierra On-Line's SEC filing, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-35].
 
-In 1996, Computer Gaming World listed the player's body parts being sold at a butcher shop as #2 on its list of "the 15 best ways to die in computer gaming"[^ref-34]. Several fan remake attempts were cancelled over the years; in 2003, a non-playable VGA demo was released, and in 2023, a fan remake titled Space Quest 3D was released[^ref-1].
+In 1996, Computer Gaming World listed the player's body parts being sold at a butcher shop as #2 on its list of "the 15 best ways to die in computer gaming"[^ref-34]. Several fan remake attempts were cancelled over the years; in 2003, a non-playable VGA demo was released, and in 2023, a fan remake titled Space Quest 3D was released[^ref-1]. Time Extension reported that the free remake comes from the Australian company TurboChimp, previously the developer of Mercury Blue, with voice acting by Mike Holmes and a redone soundtrack by Space Quest Historian and J.P. Sapsford; its developers announced it as available on June 2, 2023[^ref-47].
 
 ### Collections
 
@@ -184,10 +219,11 @@ This game has been included in the following collections:
 
 ## See Also
 
+- [[Space Quest Series]]
+- [[1987 - Space Quest II - Vohaul's Revenge|← Previous: Space Quest II: Vohaul's Revenge]]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|→ Next: Space Quest IV: Roger Wilco and the Time Rippers]]
 - [[1986 - Space Quest - The Sarien Encounter]]
-- [[1987 - Space Quest II - Vohaul's Revenge]]
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
-- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1993 - Space Quest V - The Next Mutation]]
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 
@@ -197,7 +233,7 @@ This game has been included in the following collections:
 [^ref-3]: [Sierra Chest – Space Quest III](https://www.sierrachest.com/index.php?a=games&id=11&title=space-quest-3&fld=general) – Sierra history, collections, platforms
 [^ref-4]: [SpaceQuest.net – Space Quest 3 Game Information](https://spacequest.net/sq3/gameinfo.php) – release details, original packaging, awards
 [^ref-5]: [MobyGames – Space Quest III](https://www.mobygames.com/game/142/space-quest-iii-the-pirates-of-pestulon/) – developer, publisher, platforms, credits, ratings
-[^ref-6]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
+[^ref-6]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews; 4.3 average from 578 ratings as of November 11, 2026
 [^ref-8]: [HowLongToBeat – Space Quest III](https://howlongtobeat.com/game/8865) – completion times
 [^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
 [^ref-11]: [PCGamingWiki – Space Quest III](https://www.pcgamingwiki.com/wiki/Space_Quest_III%3A_The_Pirates_of_Pestulon) – technical specs, fixes
@@ -229,3 +265,6 @@ This game has been included in the following collections:
 [^ref-42]: [The Fresno Bee, April 2, 1990, p. 40 – "Sierra's 15th award" (Virtual Broomcloset scan)](https://wiw.org/~jess/publications/SQ3_Excellence%20in%20Software%20Awards_The_Fresno_Bee_1990_04_02_40.png) – first place, Best Fantasy Role Playing/Adventure Program, Excellence in Software Awards
 [^ref-43]: [ScummVM – Compatibility (1.2.0)](https://www.scummvm.org/compatibility/1.2.0/) – Space Quest III rated "Excellent"
 [^ref-44]: [SpaceQuest.net – SQ3 Point List](https://spacequest.net/sq3/pointlist/) – highest possible score 738
+[^ref-45]: [The Sierra Newsletter, Vol. 2 No. 1, Spring 1989 – "From Supertramp to Space Quest III: An Interview with Bob Siebenberg" by Kirk Green (Internet Archive scan)](https://archive.org/details/Sierra_Newsletter_The_Volume_2_Number_1_Spring_1989_1989_Sierra_On-Line_US) – Sierra Star advertisement, Rick Cavin as "Sierra General Manager", equipment, VHS cassette, "Festers Theme"; the same text is transcribed as InterAction Issue 5 at [InterAction Magazine Archive](http://sierrainteraction.wikidot.com/from-supertramp-to-space-quest-iii:an-interview-with-bob-sie)
+[^ref-46]: [Hardcore Gaming 101 – Space Quest III](http://web.archive.org/web/20260614164520/https://www.hardcoregaming101.net/space-quest-iii/) – Kurt Kalata, September 11, 2017: "ruthlessly short", "only three locations to visit (four, once you uncover Pestulon)", "extremely fussy" parser, "a clever, immensely likable game overall"; Sound Blaster and "Where am I?" clip remark
+[^ref-47]: [Time Extension – Space Quest III Gets 3D Fan Remake Complete With Voice Acting](https://www.timeextension.com/news/2023/06/space-quest-iii-gets-3d-fan-remake-complete-with-voice-acting) – Jack Yarwood, June 5, 2023: TurboChimp, Mike Holmes, Space Quest Historian and J.P. Sapsford, free download
