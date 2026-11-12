@@ -9,7 +9,7 @@ platforms: [PC, Windows 95]
 series: Earthsiege/Starsiege
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'MissionForce: CyberStorm is a turn-based strategy game developed by
   Dynamix and published by Sierra On-Line in 1996. The player commands a Unitech
   taskforce of HERC mechs and BioDerm pilots against the Cybrids.'
@@ -17,7 +17,7 @@ tags: [1990s, earthsiege-starsiege, sierra, strategy]
 ---
 # MissionForce: CyberStorm
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -55,13 +55,13 @@ MissionForce: CyberStorm is played from a top-down isometric view on a hexagon-b
 
 The game's progression system is built around corporate advancement. "By completing missions and progressing, the player gains rank in order to get access to more advanced equipment and hardware, as well as being able to control more HERCs"[^ref-1]. Rank rises through 14 stages, from Ensign to Herc Commander[^ref-15]. Missions can be selected from a list of Cybrid-controlled planets within a specified system, and "all maps and enemy locations are randomly generated"[^ref-1].
 
-The game's itch.io patch page lists an average session length of "about a half-hour"[^ref-18]. MobyGames' description cites "hundreds of different weapons" and "over a dozen different HERC models to outfit"[^ref-7].
+The game's itch.io patch page lists an average session length of "about a half-hour"[^ref-18]. MobyGames' description cites "hundreds of different weapons" and "over a dozen different HERC models to outfit", with battles spread "across three systems"[^ref-7].
 
 ### Combat and Resources
 
 The core mechanics revolve around tactical combat and resource management. Early in the game the main source of income is mining ore scattered across the maps with an "ore extractor", alongside credits for destroyed enemies and mission bonuses[^ref-1]. A contemporary review counted "eight basic chasses"[^ref-15], and a GameFAQs guide lists HERC types ranging from the light "Shadow" and "Remora" to the heavy "Juggernaut," described as having "the ultimate in offense and defense" and capable of equipping "ANY weapon"[^ref-14].
 
-The same guide groups weapons into Energy, Plasma, Cannons, Missiles, ELF and Advanced types[^ref-14]. Players can also administer chemicals to BioDerms to boost their effectiveness temporarily, at a cost of genetic instability that can be fatal if prolonged[^ref-7]. Multiplayer "can be played on a single computer, live over the Internet, or even though email"[^ref-4].
+The same guide groups weapons into Energy, Plasma, Cannons, Missiles, ELF and Advanced types[^ref-14]. GOG's launch announcement cites "randomly generated scenarios and over 75 special weapons to purchase and upgrade"[^ref-26]. Players can also administer chemicals to BioDerms to boost their effectiveness temporarily, at a cost of genetic instability that can be fatal if prolonged[^ref-7]. Multiplayer "can be played on a single computer, live over the Internet, or even though email"[^ref-4].
 
 HERC customization is one of the game's deepest systems. GameSpot noted that "every piece of technology you add has to be carefully considered for its weight, energy use, and price if you want to survive to see the next battle"[^ref-9].
 
@@ -82,7 +82,7 @@ HERC customization is one of the game's deepest systems. GameSpot noted that "ev
 
 The BioDerm pilot system added unique strategic considerations to CyberStorm's tactical gameplay.
 
-Between missions, in the HERC Base, the player can create, train, assign or "recycle" BioDerms, and can fit better life support to a HERC to raise BioDerm survival rates[^ref-1]. BioDerms can be enhanced with chemicals for a temporary edge, at a cost of genetic instability[^ref-7].
+Between missions, in the HERC Base, the player can create, train, assign or "recycle" BioDerms, and can fit better life support to a HERC to raise BioDerm survival rates[^ref-1]. BioDerms can be enhanced with chemicals for a temporary edge, at a cost of genetic instability[^ref-7]. MobyGames adds that they "grow in experience and even perish in combat"[^ref-7].
 
 The instructions and early parts of the game present BioDerms as sub-human, but later communiques show they are intelligent, can think independently and even rebel[^ref-1]. Their status as corporate property means they can be "recycled" for a few credits when no longer useful[^ref-10].
 
@@ -97,6 +97,8 @@ The instructions and early parts of the game present BioDerms as sub-human, but 
 | GameSpot | 8.9/10 ("Great") | Trent Ward praised its "beautiful graphics, fantastic sound, and great network play"[^ref-9] |
 | Arcane | 8/10 | Andy Butcher, September 1996[^ref-1] |
 | MobyGames | 78% (Critics) | Professional reviewers' average score[^ref-7] |
+
+Wikipedia notes that a line from a positive Strategy Plus Magazine review, "Early contender for best Strategy game of 1996", is cited on the game's packaging[^ref-1].
 
 ### Modern Assessment
 
@@ -113,7 +115,7 @@ Even GameSpot's positive review cautioned that "CyberStorm won't appeal to every
 
 ### Origins
 
-CyberStorm is the third game in the Earthsiege franchise, a series of giant-robot games that eventually evolved into Starsiege and the shooter Tribes[^ref-4]. MobyGames places it in the Metaltech / Tribes universe, following EarthSiege 2 (1996) and preceding Cyberstorm 2: Corporate Wars (1998)[^ref-7]. The game was released in June 1996: Online Gaming Review's news for June 27, 1996 reported that "Sierra On-Line also released the newest in Metaltech mech games, the strategic Mission Force: Cyberstorm", noting that it "comes with a second identical disk"[^ref-27], and Al Giovetti's review gives "Release: June 1996"[^ref-15]. Some later databases and wikis list May 1996 instead (PCGamingWiki: May 1996[^ref-8]; the Exiled wiki: May 31, 1996[^ref-22]).
+CyberStorm is the third game in the Earthsiege franchise, a series of giant-robot games that eventually evolved into Starsiege and the shooter Tribes[^ref-4]. MobyGames places it in the Metaltech / Tribes universe, following EarthSiege 2 (1996) and preceding Cyberstorm 2: Corporate Wars (1998)[^ref-7]. The game was released in June 1996: Online Gaming Review's news for June 27, 1996 reported that "Sierra On-Line also released the newest in Metaltech mech games, the strategic Mission Force: Cyberstorm", noting that it "comes with a second identical disk"[^ref-27], and Al Giovetti's review gives "Release: June 1996"[^ref-15]. Some later databases and wikis list May 1996 instead (PCGamingWiki: May 1996[^ref-8]; the Exiled wiki: May 31, 1996[^ref-22]); Wikidata also lists May 31, 1996[^ref-28].
 
 ### Production
 
@@ -201,3 +203,4 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [^ref-25]: [GitHub Preservation Project](https://github.com/juanitogan/rbxit) – Community patches
 [^ref-26]: [Internet Archive GOG Release](https://web.archive.org/web/20190802012042/https://www.gog.com/news/release_missionforce_cyberstorm) – GOG release
 [^ref-27]: [Online Gaming Review – News for June 1996 (Wayback, Feb 1997)](https://web.archive.org/web/19970227065847/http://www.ogr.com/news/news0696.html) – June 27, 1996 release report, second identical disc
+[^ref-28]: [Wikidata – MissionForce: CyberStorm (Q3859225)](https://www.wikidata.org/wiki/Q3859225) – Publication date (P577): 1996-05-31
