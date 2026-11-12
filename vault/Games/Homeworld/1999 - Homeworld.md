@@ -10,14 +10,14 @@ series: Homeworld
 engine: Custom 3D engine (audio mixed with Relic Audio Tool)
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Homeworld is a groundbreaking real-time strategy game released on September
   28, 1999, that revolutionized the RTS genre by introducing fully...
 tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -58,7 +58,7 @@ Interestingly, the development team discovered that "players who had very little
 
 ### Structure and Progression
 
-The single-player campaign spans 16 missions following the Kushan fleet's journey from Kharak to Hiigara.[^ref-15] A defining feature of Homeworld is its persistent fleet system—all ships and resources carry over between missions, making fleet preservation a crucial strategic consideration.[^ref-16] This design choice meant that losing ships wasn't just a tactical setback but had lasting consequences throughout the campaign.
+The single-player campaign spans 16 missions following the Kushan fleet's journey from Kharak to Hiigara.[^ref-15][^ref-56] A defining feature of Homeworld is its persistent fleet system—all ships and resources carry over between missions, making fleet preservation a crucial strategic consideration.[^ref-16] This design choice meant that losing ships wasn't just a tactical setback but had lasting consequences throughout the campaign.
 
 **Campaign Missions:**
 - **Mission 1: Kharak System** – Initial fleet testing and combat training
@@ -71,7 +71,7 @@ The single-player campaign spans 16 missions following the Kushan fleet's journe
 
 Combat in Homeworld involved managing diverse ship classes from tiny scout fighters to massive heavy cruisers.[^ref-15] Resource gathering required harvesting asteroids and debris fields using Collector ships, with resources used to construct new vessels and research new technologies.[^ref-10] The research system allowed players to unlock increasingly powerful ships and capabilities throughout the campaign.
 
-The game featured two playable factions—Kushan and Taiidan—each with distinct ship designs.[^ref-18] Battles could involve up to 200 ships, requiring careful management of formations, tactics settings, and strike group coordination.[^ref-18] Ship capture using Salvage Corvettes added a unique tactical dimension, allowing players to steal enemy vessels and turn them against their former owners.
+The game featured two playable factions—Kushan and Taiidan—each with distinct ship designs.[^ref-18] Battles could involve up to 200 ships, requiring careful management of formations, tactics settings, and strike group coordination.[^ref-18] GameSpy's review counted 54 different ship types in the game.[^ref-56] Ship capture using Salvage Corvettes added a unique tactical dimension, allowing players to steal enemy vessels and turn them against their former owners.
 
 ## Reception
 
@@ -83,7 +83,7 @@ GameSpot gave the game 9/10, with Michael E. writing: "Homeworld is both an exce
 
 Eurogamer awarded 9/10, calling it "a refreshing new take on the real time strategy genre, abandoning the usual forest, ice, desert and volcanic worlds of most RTS games and instead setting the action in deep space."[^ref-14] The review noted: "Despite being the first true spacefaring real time strategy game, Homeworld comes close to hitting the mark."[^ref-14]
 
-Game-Over.net scored it 92%, with reviewer jube stating: "Homeworld is far and away the best-looking RTS game ever. True 3D. Fully rotating camera."[^ref-18] All Game Guide simply called it "one of those titles that makes you say 'Wow.'"[^ref-20] GameSpy praised it as "a truly groundbreaking RTS with no major flaws" and "the first game I have played where I was truly inspired by the vastness of space."[^ref-20]
+Game-Over.net scored it 92%, with reviewer jube stating: "Homeworld is far and away the best-looking RTS game ever. True 3D. Fully rotating camera."[^ref-18] All Game Guide simply called it "one of those titles that makes you say 'Wow.'"[^ref-20] GameSpy's John Keefer III, reviewing the game on October 22, 1999, wrote: "The visuals are astounding and the gameplay remarkable."[^ref-56] GameSpy also praised it as "a truly groundbreaking RTS with no major flaws" and "the first game I have played where I was truly inspired by the vastness of space."[^ref-20]
 
 ### Modern Assessment
 
@@ -95,9 +95,9 @@ GameSpot's Kevin VanOrd gave the remaster 8/10, praising how it "beautifully cap
 - **Metacritic (Original):** 93/100[^ref-20]
 - **Metacritic (Remastered):** 86/100[^ref-25]
 - **MobyGames:** 8.4/10[^ref-10]
-- **IMDB:** 8.6/10 (344 ratings)[^ref-12]
+- **IMDB:** 8.7/10 (352 ratings, as of November 11, 2026)[^ref-12]
 - **GOG Users (Remastered Collection):** 4.3/5[^ref-21]
-- **Steam (Remastered Collection):** 87% positive of 7,829 English-language user reviews ("Very Positive")[^ref-49]
+- **Steam (Remastered Collection):** 87% positive of 7,833 English-language user reviews ("Very Positive", as of November 11, 2026)[^ref-49]
 
 ## Development
 
@@ -105,9 +105,9 @@ GameSpot's Kevin VanOrd gave the remaster 8/10, praising how it "beautifully cap
 
 Relic Entertainment was founded in Vancouver, Canada, in May 1997, according to co-founder Alex Garden in a GameSpy interview and to MobyGames' company profile.[^ref-51][^ref-46] Wikipedia instead gives June 1, 1997,[^ref-3] though the THQ press release it cites, issued on June 1, 2012 for Relic's 15th anniversary, says only that the studio was "Founded in 1997".[^ref-52] Homeworld was the studio's first game.[^ref-3] The company was started by seven founders, Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw and Shane Alfreds,[^ref-46][^ref-51] with operations beginning in a small office above a nightclub in Vancouver; in April 1998 Relic moved to a 12,000 sq. ft. facility in the city's Yaletown district.[^ref-7][^ref-46] The project began with nothing more than two whiteboard presentations and no working demo.[^ref-7]
 
-The creative vision was clear from the start. Garden asked: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-7] Garden, a big fan of the 1978 series, recalled that the idea grew out of a conversation with friends about how much they loved Battlestar Galactica, "and wouldn't it be great if it was back on TV"; as Jimmy Maher put it, Garden would appropriate "less its surface trappings and more its deeper theme of ragtag refugees searching for a home."[^ref-7] The influences remained evident in the final product, with the game described as "Battlestar Galactica: The Game in all but name."[^ref-14]
+The creative vision was clear from the start. Garden asked: "Wouldn't it be great if you could have a 3D game that looked like you were watching Star Wars but had a story line like Battlestar Galactica?"[^ref-7] Garden, a big fan of the 1978 series, recalled that the idea grew out of a conversation with friends about how much they loved Battlestar Galactica, "and wouldn't it be great if it was back on TV"; as Jimmy Maher put it, Garden would appropriate "less its surface trappings and more its deeper theme of ragtag refugees searching for a home."[^ref-7] The influences remained evident in the final product, with the game described as "Battlestar Galactica: The Game in all but name."[^ref-14] A CDMag preview published on August 31, 1998 had already noted that "the basic plot shares many similarities with Battlestar Galactica" and that Garden's conversation was full of references to Battlestar Galactica, Star Wars and Wing Commander.[^ref-57]
 
-Surprisingly, the genre itself wasn't initially planned. "There's no sort of design philosophy behind it. The fact that it's real-time strategy was almost a fluke," Garden later admitted.[^ref-1] Garden also drew on what he saw as the limitations of the cockpit-view space game Star Wars: X-Wing vs. TIE Fighter, choosing instead to have the player command a whole fleet from an external view.[^ref-3]
+Surprisingly, the genre itself wasn't initially planned. "There's no sort of design philosophy behind it. The fact that it's real-time strategy was almost a fluke," Garden later admitted.[^ref-1] The same remark appears in CDMag's August 1998 preview.[^ref-57] Garden also drew on what he saw as the limitations of the cockpit-view space game Star Wars: X-Wing vs. TIE Fighter, choosing instead to have the player command a whole fleet from an external view.[^ref-3]
 
 ### Production
 
@@ -126,8 +126,10 @@ The development approach was unconventional—the team built Homeworld as a mult
 - **Lead Artist:** Aaron Kambeitz
 - **Original Music and Lead Sound Design:** Paul Ruskay (Studio X Labs)
 - **Sound Design and Dialogue Editing:** Roger Savoie (Headroom Studios)
-- **Writers:** Martin Cirulis (manual and story, credited as Montgomery E. Crabapple); Arinn Dembo (script, campaign co-design and manual, credited as Marcus Skyler); David J. Williams (story concept)
+- **Writers:** David J. Williams (story concept); Martin Cirulis and Arinn Dembo, whose credit differs by source. MobyGames lists Cirulis for manual and story (credited as Montgomery E. Crabapple) and Dembo for script, campaign co-design and manual (credited as Marcus Skyler).[^ref-50] Dembo's own website says she and Cirulis "are credited under a joint pseudonym, 'Marcus Skyler'", and describes Cirulis as scripting the campaign and writing most of the manual, with her own contribution being the culture and history of Kharak, including the Soban, Manaan and Paktu Kiith histories.[^ref-55] Wikipedia likewise says Cirulis and Dembo were credited jointly as "Marcus Skyler".[^ref-3]
+- **Executive Producer/COO:** Ron Moravek
 - **CFO:** Curtis Terry
+- **Sierra Studios, Producer (Ext. Development):** Jeff Pobst
 
 Sierra Studios announced on September 16, 1999 that Homeworld had gone gold, with retail shipping set for September 28.[^ref-24]
 
@@ -135,7 +137,7 @@ Sierra Studios announced on September 16, 1999 that Homeworld had gone gold, wit
 
 Maximum PC later wrote that Homeworld "did what no game had successfully done before: create a truly three-dimensional space-combat strategy game," with units moving in all three spatial dimensions.[^ref-3] When Gearbox later examined the source code, it found that Homeworld appears to have shipped using Microsoft Visual Studio 97 as its main C/C++ compiler.[^ref-45] Relic's in-house Relic Audio Tool (RAT) served as the game's audio mix system, and was reused years later for the Remastered soundtrack work.[^ref-38]
 
-The game demanded serious hardware for its time. "Homeworld is far and away the best-looking RTS game ever," noted contemporary reviews.[^ref-18] GameSpot's Michael Ryan said it had "some of the most impressive graphics ever."[^ref-3]
+The game demanded serious hardware for its time. "Homeworld is far and away the best-looking RTS game ever," noted contemporary reviews.[^ref-18] GameSpot's review, by Michael E., said it had "some of the most impressive graphics ever."[^ref-15]
 
 ### Technical Specifications
 
@@ -316,10 +318,10 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-9]: [Homeworld Fandom Wiki – Homeworld](https://homeworld.fandom.com/wiki/Homeworld) – voice cast, plot details, awards, trivia, patch history
 [^ref-10]: [MobyGames – Homeworld](https://www.mobygames.com/game/296/homeworld/) – publishers, ratings, awards, trivia, source code release
 [^ref-11]: [GameFAQs – Homeworld Walkthrough](https://gamefaqs.gamespot.com/pc/141615-homeworld/faqs/45211) – Adagio for Strings, Gardens of Kadesh bug
-[^ref-12]: [IMDB – Homeworld](https://www.imdb.com/title/tt0475297/) – voice cast, user ratings, character quotes
+[^ref-12]: [IMDB – Homeworld](https://www.imdb.com/title/tt0475297/) – voice cast, character quotes; user rating 8.7/10 from 352 ratings as checked November 11, 2026
 [^ref-13]: [PC Gamer – Homeworld Retrospective](https://www.pcgamer.com/homeworld-is-still-my-dream-rts/) – fleet mechanics, 3D gameplay, emotional impact
 [^ref-14]: [Eurogamer – Homeworld Review](http://www.eurogamer.net/articles/homeworld) – score, Battlestar Galactica comparison, AI issues
-[^ref-15]: [GameSpot – Homeworld Review](http://www.gamespot.com/reviews/homeworld-review/1900-2537718/) – score, mission count, multiplayer, ship detail quote
+[^ref-15]: [GameSpot – Homeworld Review](http://www.gamespot.com/reviews/homeworld-review/1900-2537718/) – review by Michael E., October 7, 1999; score, mission count, multiplayer, ship detail and graphics quotes
 [^ref-16]: [Game Informer – Homeworld Remastered Review](https://www.gameinformer.com/games/homeworld_remastered/b/pc/archive/2015/03/03/reliving-the-sci-fi-past.aspx) – persistent fleet mechanic
 [^ref-18]: [Game-Over.net – Homeworld Review](https://www.game-over.net/review/oct99/homeworld/) – score, system requirements, ship counts
 [^ref-19]: [IGN – Homeworld Review](http://www.ign.com/articles/1999/10/01/homeworld) – score, Vincent Lopez quotes
@@ -350,9 +352,12 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-46]: [MobyGames – Relic Entertainment](https://www.mobygames.com/company/278/) – nightclub office, April 1998 move to Yaletown
 [^ref-47]: [Engadget – THQ Auction Results](https://www.engadget.com/2013/04/22/thq-auction-darksiders-red-faction-homeworld/) – Gearbox's $1.35M winning bid for Homeworld
 [^ref-48]: [GamingBolt – Homeworld Remastered Collection to Include Original Games](https://gamingbolt.com/homeworld-remastered-collection-to-include-original-games-supports-4k-resolutions) – Gearbox blog quote on fans, mod makers and series veterans
-[^ref-49]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – user review summary, Steam Workshop feature
+[^ref-49]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – user review summary (87% of 7,833 English reviews as checked November 11, 2026), Steam Workshop feature
 [^ref-50]: [MobyGames – Homeworld Credits (Windows)](https://www.mobygames.com/game/296/homeworld/credits/windows/) – full development credits
 [^ref-51]: [GameSpy – Developer Origins: Relic (Wayback, June 2007)](https://web.archive.org/web/20070609133126/http://www.gamespy.com/articles/697/697083p6.html) – Alex Garden: "Relic was founded in May of 1997 by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds"
 [^ref-52]: [Gamasutra – Relic Entertainment Celebrates 15th Anniversary (archived)](https://web.archive.org/web/20161010173251/http://www.gamasutra.com/view/pressreleases/171655/RELIC_ENTERTAINMENTreg_CELEBRATES_15TH_ANNIVERSARY.php) – THQ press release dated June 1, 2012: "Founded in 1997 on a personal credit card and based out of a 1,600 sq. ft. office above a night club"
 [^ref-53]: [Gearbox Publishing – Homeworld Mobile Launches Globally on iOS and Android (archived)](https://web.archive.org/web/20221209233229/https://www.gearboxpublishing.com/press_release/homeworld-mobile-launches-globally-on-ios-and-android/) – October 11, 2022 global launch; free-to-play MMO developed by Stratosphere Games
 [^ref-54]: [IMDb – Battlestar Galactica: Razor (2007), Full Cast & Crew](https://www.imdb.com/title/tt0991178/fullcredits/) – Campbell Lane as the Hybrid
+[^ref-55]: [Arinn Dembo – Early Games (Wayback, December 2016)](https://web.archive.org/web/20161207052509/http://arinndembo.com/early-games/) – Dembo's account of the Homeworld writing credit: she and Martin Cirulis credited under the joint pseudonym "Marcus Skyler"
+[^ref-56]: [GameSpy – Homeworld review by John Keefer III, 10/22/99 (Wayback, September 2008)](https://web.archive.org/web/20080905044816/http://www.gamespy.com/legacy/reviews/homeworld_a.shtm) – "The visuals are astounding and the gameplay remarkable"; 16 missions; 54 different ship types
+[^ref-57]: [CDMag – Homeworld preview, "Calling all Starbucks", 08/31/1998 (Wayback, February 2005)](https://web.archive.org/web/20050221104409/http://www.cdmag.com/articles/014/025/homeworld_preview.html) – Battlestar Galactica similarities; Garden's "almost a fluke" remark
