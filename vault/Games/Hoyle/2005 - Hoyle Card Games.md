@@ -111,7 +111,7 @@ Three months after the game's September 2004 release, VU Games announced an agre
 |---------|------|----------|-------|
 | US retail | September 14, 2004 | Windows | VU Games release[^ref-22][^ref-4][^ref-9] |
 | Handheld | January 1, 2005 (IGN listing) | Pocket PC, Palm | Vivendi Games / Encore[^ref-2] |
-| Encore slipcase | 2005 | Windows | Re-release by Encore, Inc.[^ref-23]; an Encore pressing is recorded as version 1.0.0.2, "(C) 2005 Encore Software", for Windows 98SE/ME/2000 SP4/XP SP1[^ref-27] |
+| Encore slipcase | 2005 | Windows | Re-release by Encore, Inc.[^ref-23] |
 
 ### Trivia
 
@@ -213,6 +213,5 @@ No sales figures for Hoyle Card Games 2005 have been published. As of November 2
 [^ref-24]: [GameSpot – Hoyle Card Games 2005 (archived May 2019)](https://web.archive.org/web/20190509195650/https://www.gamespot.com/hoyle-card-games-2005/) – Not Reviewed, user average 8.7 from 31 ratings, developer Encore Software, publisher VU Games
 [^ref-25]: [WorthPlaying – Vivendi Passes On 'Hoyle' Brand to Encore](https://worthplaying.com/article/2004/12/21/news/21356/) – Dec 21, 2004 press report; Hoyle license assignment to Encore effective Dec 23, 2004
 [^ref-26]: [SoCalTech – Vivendi Sells Hoyle Brand](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – Dec 23, 2004; Hoyle products divested to Navarre's Encore subsidiary, terms undisclosed
-[^ref-27]: [Internet Archive – Hoyle Card Games 2005 - Version 1.0.0.2 [10025-CD]](https://archive.org/details/hoyle-card-games.-7z) – Redump record of the Encore pressing: creator Encore Software, date 2005, "(C) 2005 Encore Software", redump 66725, disc serial 10025-CD
 [^ref-28]: [Encore Forums – Is Hoyle Card Games 2007 really Hoyle Card Games 2005?](http://forums.encoreusa.com/tm.asp?m=24039) – 6/1/2007 reply by Encore staff member (JasonC): "The manual template indeed was from 2005."
 [^ref-29]: [GOG Dreamlist – Hoyle Card Games 2005](https://www.gog.com/dreamlist/game/hoyle-card-games-2005-2004) – Dreamlist entry for the game
