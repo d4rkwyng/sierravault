@@ -43,7 +43,7 @@ Space Quest VII went through multiple development iterations between 1997 and 20
 
 ### King's Quest IX: The Long Wait
 
-"King's Quest IX" is an umbrella term for **several failed attempts** to continue Sierra's flagship adventure game series between 1998 and 2013—three official attempts (Twins of Change, Silicon Knights and Telltale), after Roberta Williams was "never able get Sierra greenlight development on a new game," plus a fan game that was eventually released under another name.[^ref-2] The King's Quest Omnipedia stresses that "King's Quest IX is not The Silver Lining."[^ref-2]
+"King's Quest IX" is an umbrella term for **several failed attempts** to continue Sierra's flagship adventure game series between 1998 and 2013—three official attempts (Twins of Change, Silicon Knights and Telltale), after Roberta Williams's own ideas for a sequel were never greenlit (the Omnipedia says she "was never able get Sierra greenlight development on a new game"; Sierra did greenlight a follow-up without her), plus a fan game that was eventually released under another name.[^ref-2] The King's Quest Omnipedia stresses that "King's Quest IX is not The Silver Lining."[^ref-2]
 
 | Years | Project | Developer | Status |
 |-------|---------|-----------|--------|

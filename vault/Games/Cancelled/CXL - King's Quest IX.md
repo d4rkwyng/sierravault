@@ -11,7 +11,7 @@ series: King's Quest
 engine: Unknown / reportedly Unreal Engine 3 (Silicon Knights)
 protagonist: [Alexander, Rosella]
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: '"King''s Quest IX" is an umbrella term for multiple cancelled attempts
   to continue Sierra''s flagship adventure game series following King''s Quest VIII:
   Mask of Eternity.'
@@ -19,7 +19,7 @@ tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 
 ## Overview
@@ -60,7 +60,7 @@ As with KQ8, a sequel would not have carried a numeral in its title. Twins of Ch
 
 **Story Concept:** In a summary design document shared with the Omnipedia, the story involved a villain named **Rasputris** who would conquer Daventry from within as a hypnotic advisor to the King and Queen. Rosella, having failed to expose him, would bring help from her brother Alexander and from Connor, now the Marquis of Daventry.[^ref-1]
 
-**Why It Failed:** These ideas never entered production.[^ref-20] Ken Williams has written that he and Roberta signed non-competition agreements when they sold Sierra, barring them "for some number of years (five, I think)" from working on competing software.[^ref-1] According to the Omnipedia, KQ8 did well enough that Sierra greenlit a follow-up, but Roberta was not brought in to lead it.[^ref-1]
+**Why It Failed:** These ideas never entered production.[^ref-20] Ken Williams has written that he and Roberta signed non-competition agreements when they sold Sierra, barring them "for some number of years (five, I think)" from working on competing software.[^ref-1] The Omnipedia says Williams "was never able get Sierra greenlight development on a new game" of her own. It also says KQ8 did well enough that Sierra greenlit a follow-up, but she was not brought in to lead it.[^ref-1]
 
 ---
 
@@ -121,7 +121,7 @@ Activision then took the series to The Odd Gentlemen for the 2015 reboot.[^ref-6
 
 Production began in October 2000, and in January 2002 the team was reorganised under César Bittar. Vivendi sent a cease-and-desist in September 2005. After a fan campaign, Vivendi granted the team a **Fan License** on November 29, 2005, on the condition that the King's Quest reference be removed from the title. After a further dispute with Activision, the company allowed the game's release on June 26, 2010, provided it stayed free.[^ref-19]
 
-The first episode was released on July 10, 2010, and Episode 4 followed in November 2011. Episode 5 was never released. Phoenix turned the rights over to Activision around June 2014.[^ref-18][^ref-19] The game runs on the Torque Game Engine.[^ref-21] It remains an unofficial fan work outside the series canon.
+The first episode was released on July 10, 2010, and Episode 4 followed in November 2011. Episode 5 has not been released.[^ref-18][^ref-19] Wikipedia reports that "Sometime in June 2014, Phoenix has turned over the rights to Activision" and lists Episode 5's development status as unknown.[^ref-19] Phoenix itself said otherwise later: a November 10, 2016 post promised Episode 5 "next year" (2017), with no release date set,[^ref-25] and a January 31, 2019 post said "this isn't a release date announcement" while describing Episode 5 as still being developed.[^ref-26] The game runs on the Torque Game Engine.[^ref-21] It remains an unofficial fan work outside the series canon.
 
 ---
 
@@ -260,3 +260,5 @@ Much of what is known about these cancelled projects comes from fan community ef
 [^ref-22]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – "Seven classic games in one collection"
 [^ref-23]: [Cendant Corporation – Form 10-K/A for fiscal 1998 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20170827090435/https://www.sec.gov/Archives/edgar/data/723612/000095013699001310/0000950136-99-001310.txt) – "On November 20, 1998, we announced the execution of a definitive agreement to sell CDS"; sale to "Paris-based Havas SA, a subsidiary of Vivendi SA" completed January 12, 1999
 [^ref-24]: [Adventure Gamers – Telltale Games: Dave Grossman and Dave Felton interview (Emily Morganti, March 14, 2011; Wayback 2012)](https://web.archive.org/web/20120320054106/http://www.adventuregamers.com/article/id,1286) – design director Dave Grossman: "preserve those elements of peril, challenge, and yes, death, but also hopefully do something to address the frustration"
+[^ref-25]: [Phoenix Online Studios – The Silver Lining: Haunted Castle Experience Available Now and Episode 5 Coming in 2017 (November 10, 2016)](https://www.postudios.com/blog/the-silver-lining-haunted-castle-experience-available-now-and-episode-5-coming-in-2017/) – "we're finally at a point where we feel we can confidently promise it will be out next year"
+[^ref-26]: [Phoenix Online Studios – The Silver Lining Updates (January 31, 2019)](https://www.postudios.com/blog/the-silver-lining-updates/) – "No, this isn't a release date announcement"; Episode 5 still in development
