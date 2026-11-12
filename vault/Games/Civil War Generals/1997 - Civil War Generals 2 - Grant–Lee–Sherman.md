@@ -10,14 +10,14 @@ series: Civil War Generals
 engine: null
 protagonist: Army Commander (Union or Confederate)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Turn-based hex wargame from Impressions Games and Sierra On-Line (1997), the sequel to Robert E. Lee: Civil War General, letting players fight the American Civil War from either side in both theaters.'
 tags: [1990s, civil-war-generals, impressions-games, sierra, strategy, wargame]
 composer: [Keith Zizza]
 ---
 # Civil War Generals 2: Grant, Lee, Sherman
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -80,6 +80,8 @@ A scenario editor lets players change existing battles or build a battlefield fr
 | GameSpot | 6.7/10 | Michael E.: "a good game, but not a great one"[^ref-30] |
 | Computer Gaming World (Feb 1998, issue 163) | 2/5 | Jim Cobb, "A Pale Shadow": "anything but an improvement"[^ref-83][^ref-67] |
 | Computer Games Strategy Plus | — | Jim Pedicord: "the game the original should have been"[^ref-68] |
+| PC Zone (March 1998) | 63/100 | Andrew Wright, per Wikipedia[^ref-65] |
+| PC Magazine (March 24, 1998) | 4/5 | Bertrand C. Emmett, per Wikipedia[^ref-65] |
 
 Keith Sullivan of PC Gamer praised a "historical scope that is simply breathtaking", the morale system and the historical module. He found the graphics "merely adequate", the AI "barely adequate", and the music repetitive. He concluded the game was "not the be all and end all of Civil War games for the hard-core wargamer" but "a good, competent offering" for casual players[^ref-66]. GameSpot called it "a solid, enjoyable, and challenging turn-based wargame" without true innovations. Its reviewer noted that "the initial release of CWG2 was plagued by bugs and crashes" but that the 1.0.1 patch fixed them[^ref-13]. He concluded: "If you're a wargame or Civil War enthusiast looking for an extensive list of scenarios to keep you occupied for a while, this is definitely the game for you"[^ref-34].
 
@@ -143,7 +145,7 @@ Soon after the fight with Sierra over real-time strategy, Grammont quit Sierra[^
 
 **Purchase / Digital Stores**
 
-Civil War Generals 2 is not sold digitally. Searches of GOG's catalog and Steam's store on October 11, 2026 found no listing for it or its predecessor.
+Civil War Generals 2 is not sold digitally. Searches of GOG's catalog and Steam's store on November 12, 2026 found no listing for it or its predecessor.
 
 **Download / Preservation**
 
@@ -197,7 +199,7 @@ Civil War Generals 2 is not sold digitally. Searches of GOG's catalog and Steam'
 [^ref-80]: https://web.archive.org/web/20050209071839/http://www.cdmag.com/articles/002/101/e3_day2_part3.html - Computer Games Strategy Plus, E3 coverage, Day 2 morning report part III (1997)
 [^ref-81]: https://web.archive.org/web/20251031174044/https://www.mobygames.com/game/3197/grant-lee-sherman-civil-war-2-generals/ - MobyGames game page (archived October 31, 2025): critic and player averages
 [^ref-82]: https://web.archive.org/web/19980214123917/http://sierra.com/info/press.html - Sierra On-Line press release index (archived February 1998): "Impressions Announces: Civil War Generals II. (20-October-1997)"
-[^ref-83]: https://archive.org/details/Computer_Gaming_World_Issue_163 - Jim Cobb, "A Pale Shadow," Computer Gaming World issue 163 (February 1998), print review (read via the item's OCR text; star rating not legible in the text)
-[^ref-84]: https://archive.org/details/Computer_Gaming_World_Issue_162 - Computer Gaming World issue 162 (January 1998): cover-disc note and Sierra advertisement for the online "Ultimate Civil War" contest (read via the item's OCR text)
-[^ref-85]: https://www.mobygames.com/game/39921/the-great-civil-war/ - MobyGames: The Great Civil War (1998), a bundle of Robert E. Lee: Civil War General, Grant - Lee - Sherman: Civil War 2: Generals and The Blue & The Gray (read via the MobyGames API)
-[^ref-86]: https://sierrachest.com/index.php?a=games&id=157&title=great-civil-war&fld=general - The Sierra Chest: Great Civil War (The), first release 1998, included titles
+[^ref-83]: https://archive.org/details/Computer_Gaming_World_Issue_163 - Jim Cobb, "A Pale Shadow," Computer Gaming World issue 163 (February 1998), print review
+[^ref-84]: https://archive.org/details/Computer_Gaming_World_Issue_162 - Computer Gaming World issue 162 (January 1998): cover-disc note and Sierra advertisement for the online "Ultimate Civil War" contest
+[^ref-85]: https://www.mobygames.com/game/39921/the-great-civil-war/ - MobyGames: The Great Civil War (1998), a bundle of Robert E. Lee: Civil War General, Grant - Lee - Sherman: Civil War 2: Generals and The Blue & The Gray
+[^ref-86]: https://sierrachest.com/index.php?a=games&id=157&title=great-civil-war&fld=general - The Sierra Chest: Great Civil War (The), first release 1998, included titles ([Wayback copy](http://web.archive.org/web/20250207055847/https://www.sierrachest.com/index.php?a=games&id=157&title=great-civil-war&fld=general))
