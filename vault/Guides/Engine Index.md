@@ -1,11 +1,11 @@
 ---
 title: "Engine Index"
 type: index
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Engine Index
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 A listing of Sierra games organized by engine, with technical specifications and compatibility information. It is not exhaustive: some vault games are not listed yet, and games whose engine no source documents are grouped at the end. Use ScummVM for most adventure games, DOSBox for simulations and sports titles.
 
@@ -139,7 +139,7 @@ First VGA engine, with 256 colors and point-and-click interfaces. SCI1 games wer
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]]
 - **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III]]
 - **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]]
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]]
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (floppy SCI1; CD and Windows CD versions SCI1.1)[^ref-1][^ref-27]
 
 SCI1 assignments per the ScummVM version list.[^ref-1]
 
@@ -173,7 +173,7 @@ Revised SCI1 with enhanced animation and sprite scaling; many SCI1.1 games also 
 - **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]]
 - **1993** — [[1991 - Hoyle Official Book of Games - Volume 4|Hoyle Volume 4 (Hoyle Classic Card Games)]][^ref-18]
 - **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] (a second vault page for the same product as Hoyle Volume 4)[^ref-18]
-- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]]
+- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] (the original low-resolution release is SCI1.1; the hi-res CD versions are SCI2.1, interpreter 2.100.002)[^ref-1][^ref-27]
 - **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]]
 - **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]]
 - **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V]]
@@ -196,7 +196,7 @@ SCI2, SCI2.1 and SCI3 are together called SCI32 because the original interpreter
 **Play with:** ScummVM (recommended), Windows compatibility mode
 
 - **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] (SCI2; only the demo was SCI1.1)
-- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] (SCI2; only the demo was SCI1.1)
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] (SCI2 for the floppy release; the CD and Windows CD versions are SCI2.1, interpreter 2.100.002; only the demo was SCI1.1)[^ref-1][^ref-27]
 - **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] (floppy v1.0, December 5, 1993, and v1.1, December 14, 1993: interpreter 2.000.000, SCI2; CD and Windows CD versions: interpreter 2.100.002, listed in ScummVM's early SCI2.1 group; only the demo was SCI1.1)[^ref-1]
 - **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]]
 - **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]]
@@ -559,12 +559,12 @@ These games were listed under an engine above in earlier versions of this index,
 [^ref-11]: [Sierra Chest – Engine: DGDS (archived May 2019)](https://web.archive.org/web/20190512152438/http://sierrachest.com/index.php?a=engines&id=36) – "Initially developed for Rise of the Dragon and enhanced for Heart of China and Willy Beamish"; members include Quarky and Quaysoo's Turbo Science and Turbo Learning: Mega Math
 [^ref-12]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists Front Page Sports, Trophy Bass, Lords of the Realm, Lords of Magic, Civil War Generals, NASCAR Racing, IndyCar Racing 2, Grand Prix Legends, Aces of the Deep, Metaltech: Battledrome, Curse You! Red Baron, Inca, Lost Mind and Timewarp of Dr. Brain
 [^ref-13]: [Sierra Chest – Engine: Titan (archived May 2019)](https://web.archive.org/web/20190512153239/http://sierrachest.com/index.php?a=engines&id=10) – "Titan 2.0, an update of the original Titan Engine"; "Games Using Titan 2.0… Caesar IV (September 2006) Tilted Mill Entertainment"; original Titan "used in… Empire Earth"; group members Caesar IV, Empire Earth
-[^ref-14]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – this game (11653) and [Space Quest: The Lost Chapter](https://www.mobygames.com/game/54958/space-quest-the-lost-chapter/) (54958) are both members of MobyGames' AGI engine group 5313 (checked via the MobyGames API, 2026-10-16)
+[^ref-14]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – this game (11653) and [Space Quest: The Lost Chapter](https://www.mobygames.com/game/54958/space-quest-the-lost-chapter/) (54958) are both members of MobyGames' AGI engine group 5313
 [^ref-15]: [PCGamingWiki – Engine: Darkstar](https://www.pcgamingwiki.com/wiki/Engine:Darkstar) – games: Starsiege (1999-03-24) and Starsiege: Tribes (1998-12-23)
-[^ref-16]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – DOS 1989, Atari ST 1989 (API)
-[^ref-17]: [MobyGames – Jones in the Fast Lane](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – DOS 1991 (API)
-[^ref-18]: [MobyGames – Hoyle Classic Card Games](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – DOS, Windows, Macintosh 1993 (API); ScummVM lists it as sci:hoyle4
-[^ref-19]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) – DOS, Windows, Macintosh 1996 (API)
+[^ref-16]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – DOS 1989, Atari ST 1989
+[^ref-17]: [MobyGames – Jones in the Fast Lane](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – DOS 1991
+[^ref-18]: [MobyGames – Hoyle Classic Card Games](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – DOS, Windows, Macintosh 1993; ScummVM lists it as sci:hoyle4
+[^ref-19]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) – DOS, Windows, Macintosh 1996
 [^ref-20]: [Wikipedia – Caesar (video game)](https://en.wikipedia.org/wiki/Caesar_(video_game)) – released October 12, 1992; MobyGames 3146 also gives DOS/Amiga 1992
 [^ref-21]: [Wikipedia – Caesar IV](https://en.wikipedia.org/wiki/Caesar_IV) – developer Tilted Mill Entertainment; "a three-dimensional game engine"
 [^ref-22]: [Wikipedia – Emperor: Rise of the Middle Kingdom](https://en.wikipedia.org/wiki/Emperor:_Rise_of_the_Middle_Kingdom) – "the last of the series to use the same 2D-sprite game engine as seen in the earlier titles"
@@ -572,6 +572,6 @@ These games were listed under an engine above in earlier versions of this index,
 [^ref-24]: [Wikipedia – Tribes 2](https://en.wikipedia.org/wiki/Tribes_2) – infobox "engine = Torque"; [Torque (game engine)](https://en.wikipedia.org/wiki/Torque_(game_engine)): "originally developed by Dynamix for the 2001 first-person shooter Tribes 2"
 [^ref-25]: [PC Games – IndyCar Racing 2 review by Bill Meyer, December 1995 issue (Wayback, Feb 1997)](https://web.archive.org/web/19970207065818/http://www.pcgamesmag.com/games/Dec95/indy1295.html) – filed under games/Dec95: "IndyCar Racing 2 picks up where its predecessors left off, adding a full-service garage, crisp Super VGA graphics"
 [^ref-26]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire) – "The game's interface is a text parser"
-[^ref-27]: [ScummVM source – engines/sci/detection.cpp](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection.cpp) – under "SCI2.1 games": "hoyle5" "Hoyle Classic Games", "hoyle5bridge" "Hoyle Bridge", "hoyle5solitaire" "Hoyle Solitaire", "realm" "The Realm"
+[^ref-27]: [ScummVM source – engines/sci/detection.cpp](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection.cpp) – under "SCI2.1 games": "hoyle5" "Hoyle Classic Games", "hoyle5bridge" "Hoyle Bridge", "hoyle5solitaire" "Hoyle Solitaire", "realm" "The Realm"; source comments "floppy is SCI1, CD SCI1.1" (sq4) and "floppy is SCI2, CD SCI2.1" (pq4)
 [^ref-28]: [ScummVM Wiki – ADL (archived May 2024)](http://web.archive.org/web/20240505215014/https://wiki.scummvm.org/index.php/ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; "known as the Hi-Res Adventure series"; "Hi-Res Adventure #2 - Wizard and the Princess/Adventure in Serenia (1980)"
 
