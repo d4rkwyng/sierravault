@@ -31,7 +31,7 @@ The pattern is striking: multiple beloved franchises—King's Quest, Space Quest
 
 Space Quest VII went through multiple development iterations between 1997 and 2002, including both an internal Sierra version and a later Escape Factory console reboot.[^ref-3]
 
-**What Happened:** Development began in early 1997 under series co-creator [[Scott Murphy]] and co-designer [[Leslie Balfour]].[^ref-3] The project was announced for late 1998 but placed on indefinite hold by December 1997. By mid-February 1998, rumours were spreading that Murphy had been fired. A restart was proposed in early 1999 but quickly stalled.[^ref-4] The project died when Sierra closed its Oakhurst, California facility on "Chainsaw Monday," firing two-thirds of the employees there.[^ref-3] SpaceQuest.net says Murphy's contract "had expired and was not renewed,"[^ref-3] but Murphy himself said in 2006: "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."[^ref-37]
+**What Happened:** Development began in early 1997 under series co-creator [[Scott Murphy]] and co-designer [[Leslie Balfour]].[^ref-3] The project was announced for late 1998[^ref-3] but placed on indefinite hold by December 1997. By mid-February 1998, rumors were spreading that Murphy had been fired. A restart was proposed in early 1999 but quickly stalled.[^ref-3][^ref-4] The project died when Sierra closed its Oakhurst, California facility on "Chainsaw Monday," firing two-thirds of the employees there.[^ref-3] SpaceQuest.net says Murphy's contract "had expired and was not renewed,"[^ref-3] but Murphy himself said in 2006: "I didn't actually lose my job on Chainsaw Monday. I was dumped a month and a half previous to that."[^ref-37]
 
 **Why It Was Cancelled:** Corporate pressure to add multiplayer functionality fundamentally compromised the design. Murphy later admitted: "We were being pressured to make Space Quest 7 a multiplayer game, which, by its nature, it just never should have been. Therefore, the design had to be something that I didn't want it to be and I thought it sucked for the most part."[^ref-26]
 
@@ -113,7 +113,7 @@ In 2013, [[Jim Walls]]—creator of the Police Quest series—attempted to reviv
 
 Sierra's planned fourth SWAT game, Urban Justice, designed by Travis Steiner,[^ref-42] was meant to succeed [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] but was cancelled in favor of what became [[2005 - SWAT 4|SWAT 4]] from Irrational Games.[^ref-16]
 
-**What Happened:** Set in 2006 Los Angeles during the city's 225th anniversary, the game featured three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—in open warfare. The game slipped out of 2002 and then 2003,[^ref-38] and in April 2004 Vivendi Universal said work on it had been "discontinued" in favor of SWAT 4.[^ref-16][^ref-30]
+**What Happened:** Set in 2006 Los Angeles on the eve of the city's 225th anniversary, the game featured three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—in open warfare.[^ref-17] The game slipped out of 2002 and then 2003,[^ref-38] and in April 2004 Vivendi Universal said work on it had been "discontinued" in favor of SWAT 4.[^ref-16][^ref-30]
 
 **Technical Details:** The Takedown 3D engine supported 5,000-polygon character models with 29 differentiated impact points for realistic damage modeling.[^ref-17]
 
@@ -130,7 +130,7 @@ Sierra's Middle-earth Online was an early attempt to bring Tolkien's world into 
 - **Few Elves:** Higher-ups pushed for "loads more Elves" and more magic, which the team resisted[^ref-18]
 - **Restricted Magic:** One fan reviewer at TheOneRing.net noted that even Gandalf "didn't show a full array of fire balls and lightning bolts"[^ref-19]
 
-**What Happened:** Development began at Sierra in 1998, targeting a 2000 release, but faced layoffs and a 1999 move from California to Washington amid what Engadget calls "some serious lack of management." Vivendi Universal took over the license in 2001, and it later passed to Turbine, "which took the IP and did its own thing" with The Lord of the Rings Online.[^ref-18]
+**What Happened:** Development began at Sierra in 1998, targeting a 2000 release, but faced layoffs and a 1999 move from California to Washington amid what Engadget calls "some serious lack of management." Vivendi Universal took over the license in 2001, and it later passed to Turbine, "which took the IP and did its own thing" with The Lord of the Rings Online.[^ref-18] Senior designer Janus Anderson said he "began to think the license was cursed like the one ring, and that the game would never ship."[^ref-18]
 
 ---
 
@@ -166,11 +166,11 @@ The late 1990s saw traditional adventure games fall out of commercial favor. Sie
 
 ### Original Creators Departing
 
-[[Roberta Williams]] left Sierra in 1999;[^ref-43][^ref-44] [[Al Lowe]] left after Larry 8 was cancelled during contract talks at the end of 1998;[^ref-29] and [[Scott Murphy]], by his own account, was let go about a month and a half before Chainsaw Monday.[^ref-37] The designers who had built Sierra's franchises were gone.
+[[Roberta Williams]] left Sierra in 1999;[^ref-43][^ref-44] [[Al Lowe]] left after Larry 8 was cancelled during contract talks at the end of 1998, with Sierra telling him on 22 February 1999 that development would stop;[^ref-29][^ref-47] and [[Scott Murphy]], by his own account, was let go about a month and a half before Chainsaw Monday.[^ref-37] The designers who had built Sierra's franchises were gone.
 
 ### Chainsaw Monday
 
-February 22, 1999 devastated Sierra's studios. Ken Williams described it: "This is a sad ending to Sierra's twenty-year operating history in Oakhurst, which at one time, represented over 550 Oakhurst-based employees."[^ref-3]
+February 22, 1999 devastated Sierra's studios. Ken Williams described it in a letter to former employees: "This is a sad ending to Sierra's twenty-year operating history in Oakhurst, which at one time, represented over 550 Oakhurst-based employees."[^ref-3]
 
 ---
 
