@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-26'
+last_updated: '2026-11-12'
 description: Hoyle Swashbucklin' Slots is a pirate-themed slot machine game published
   by Encore Software in 2010 for Windows PC and Macintosh, with iOS versions following
   in 2011, under the Hoyle brand.
@@ -18,7 +18,7 @@ tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Swashbucklin' Slots
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -170,6 +170,7 @@ With no critic reviews on record[^ref-5] and only a handful of GameFAQs user rat
 
 - [[2010 - Hoyle Puzzle and Board Games 2011|← Previous: Hoyle Puzzle and Board Games]]
 - [[2015 - Hoyle Official Card Games Collection|→ Next: Hoyle Official Card Games Collection]]
+- [[Hoyle Series]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
