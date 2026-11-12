@@ -7,18 +7,18 @@ first_release: 1991
 last_release: 1995
 total_games: 3
 genre: "MMO / Online Gaming Platform"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # Sierra Network / ImagiNation Network Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 The Sierra Network (TSN), later renamed The ImagiNation Network (INN), was an online service launched by Sierra On-Line in 1991 and described as the first online environment devoted exclusively to games.[^ref-1][^ref-2][^ref-13] Conceived by [[Ken Williams]], who had been impressed by the 1988 launch of Prodigy, it was in development from 1989 and billed itself as a "cyberspace theme park" where subscribers played card, board and role-playing games with each other over dial-up modems and chatted behind customizable faces.[^ref-1][^ref-3][^ref-4] [[Al Lowe]], who worked on the project in its earliest months, recalls that the system began with networked checkers, chess and backgammon, and that Ken insisted it be "easy enough so my grandmother can play bridge on it."[^ref-11]
 
-On July 28, 1993, AT&T bought a 20 percent stake in the service and an option to take control, while the venture-capital firm General Atlantic Partners bought another 20 percent; the service was then renamed The ImagiNation Network.[^ref-3][^ref-4] On November 15, 1994, AT&T bought all remaining shares from Sierra and General Atlantic Partners for $40 million.[^ref-4] America Online bought the service from AT&T on August 7, 1996, and its last remnants were gradually absorbed into AOL's own offerings.[^ref-4] PC Gamer dates the service's final shutdown to 1998.[^ref-14]
+On July 28, 1993, AT&T bought a 20 percent stake in the service and an option to take control, while the venture-capital firm General Atlantic Partners bought another 20 percent; the service was then renamed The ImagiNation Network.[^ref-3][^ref-4] By July 1993 the service had about 40,000 subscribers.[^ref-13] On November 15, 1994, AT&T bought all remaining shares from Sierra and General Atlantic Partners for $40 million.[^ref-4] America Online bought the service from AT&T on August 7, 1996, and its last remnants were gradually absorbed into AOL's own offerings.[^ref-4] PC Gamer dates the service's final shutdown to 1998.[^ref-14]
 
 The vault catalogs the three TSN/INN role-playing games — *The Shadow of Yserbius*, *The Fates of Twinion* and *The Ruins of Cawdor* — as standalone entries;[^ref-7] this page provides the platform-level context that ties them together, along with Sierra's later online game *The Realm*, which grew out of the same period but launched outside INN.[^ref-9]
 
@@ -109,7 +109,7 @@ TSN presented itself as a "cyberspace theme park,"[^ref-1] divided into themed a
 
 - **INN Barn** — a fan-run ImagiNation Network host re-creation, running since May 2019 and supporting the 1995 client version 2.4: [innbarn.com](https://www.innbarn.com).[^ref-23]
 - ***MedievaLands*** — a remake of *The Shadow of Yserbius* for modern systems.[^ref-18]
-- ***The Realm Online*** — still operated by Digital Alchemy.[^ref-9][^ref-17]
+- ***The Realm Online*** — still operated by Digital Alchemy.[^ref-9][^ref-17] A cross-platform launcher and client, native for macOS and Linux, entered beta on November 10, 2026.[^ref-24]
 
 ## See Also
 
@@ -135,7 +135,7 @@ TSN presented itself as a "cyberspace theme park,"[^ref-1] divided into themed a
 [^ref-9]: [Wikipedia — The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) — Dropped from the INN sale; launched by Sierra December 1996; SCI; turn-based; Digital Alchemy since 2023
 [^ref-10]: [Halcyon Days — Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — "The only reason I wasn't with TSN from the start was that I was in the middle of another project"
 [^ref-11]: [Al Lowe — Larryland, or: How We (re)Invented the Internet](https://allowe.com/games/larry/inside-stories/larryland.html) — Lowe's first-hand account of TSN's early development
-[^ref-13]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — TSN launch May 6, 1991, described as a "land-based" precursor to MMORPGs
+[^ref-13]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — TSN launch May 6, 1991; about 40,000 subscribers by July 1993; described as a "land-based" precursor to MMORPGs
 [^ref-14]: [PC Gamer — Crapshoot: ImagiNation, Sierra's virtual world complete with LarryLand](https://www.pcgamer.com/crap-shoot-imagination/) — Richard Cobbett; shut down in 1998; revival projects
 [^ref-15]: [MobyGames — Ruins of Cawdor](https://www.mobygames.com/game/67088/ruins-of-cawdor/) — Third installment; same engine; plot based on Macbeth; six floors
 [^ref-16]: [Computer Gaming World #106 (May 1993), p. 78 — "Into the Volcano of Death"](https://archive.org/details/Computer_Gaming_World_Issue_106) — Samuel Baker II's report from TSN's Yserbius
@@ -146,3 +146,4 @@ TSN presented itself as a "cyberspace theme park,"[^ref-1] divided into themed a
 [^ref-21]: [Sierra News Magazine Vol. 4 No. 1 (Spring 1991)](https://archive.org/details/Sierra_News_Magazine_Volume_4_Number_1_Spring_1991) — Ken Williams: "In October of 1990 we announced… a test going with 1,000 users in the Los Angeles area"
 [^ref-22]: [Computer Gaming World #95 (June 1992)](https://archive.org/details/Computer_Gaming_World_Issue_95) — "Sierra has finally launched their long-anticipated multi-player Red Baron on The Sierra Network"
 [^ref-23]: [INN Barn — Home](https://www.innbarn.com) — "An ImagiNation Network host re-creation w/proxy, which supports the client version 2.4 from 1995"; "running since May of 2019"; created by James "Jim" Leiterman
+[^ref-24]: [The Realm Online — Cross-Platform Client & Launcher Beta Release](https://www.realmserver.com/post/cross-platform-client-launcher-beta-release) — Posted 2026-11-10; "now available in BETA for macOS and Linux"
