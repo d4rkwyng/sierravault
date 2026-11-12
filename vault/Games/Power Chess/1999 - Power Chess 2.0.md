@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Power Chess 2.0 is a chess game published by Sierra On-Line for Windows,
   dated 1999 by MobyGames and 1998 by Sierra UK's 1998/99 catalog. Players
   call it a light update of Power Chess 98, using David Kittinger's WChess engine.
@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 2.0
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -48,7 +48,7 @@ The game has a single-player mode against AI opponents, hot-seat play for two pl
 
 ### AI Personalities and Historical Matches
 
-Some of the included personalities mimic the styles of Gary Kasparov, Bobby Fischer, Judit Polgar and Anatoly Karpov[^ref-1]. Players can also watch a set of included games, among them the 1996 game between Kasparov and IBM's Deep Blue[^ref-1]. In the original Power Chess, the Queen narrates these "Great Games" move by move[^ref-5].
+Some of the included personalities mimic the styles of Gary Kasparov, Bobby Fischer, Judit Polgar and Anatoly Karpov[^ref-1]. Players can also watch a set of included games, among them the 1996 game between Kasparov and IBM's Deep Blue[^ref-1]. In the original Power Chess, the Queen narrates these "Great Games" move by move[^ref-5]. A French chess site says WChess's adjustable settings let Sierra offer 24 opponents of different levels and styles in the original game[^ref-27].
 
 ### Tutorial System
 
@@ -60,7 +60,7 @@ A chess.com user who runs Power Chess 98 called Natacha LaFerriere's voice "love
 
 Power Chess 2.0 received mixed reviews. Génération 4 gave it 3 out of 6 (50%) in its January 1999 issue[^ref-9]. Its capsule in issue 118 carries three stars, though reviewer R.G. wrote that it "pourrait bien réussir à réconcilier définitivement amateurs d'échecs et de jeux sur PC" (could well succeed in reconciling chess fans and PC gamers for good)[^ref-20]. PC Player was kinder, scoring it 68 out of 100 in March 1999[^ref-9][^ref-19]. Its reviewer, Thierry Miguet, praised the Queen's audio analysis after each game, but warned that occasional players would not be happy with its thin feature set[^ref-19]. MobyGames lists a critic average of 67% from three reviews[^ref-1].
 
-The original Power Chess was better received. It won *Computer Games Strategy Plus*'s award for the 1996 "traditional" game of the year[^ref-5]. In its March 1997 issue, *PC Joker* compared four chess programs and rated Power Chess the highest[^ref-5]. The French magazine Joystick gave it a "Mégastar"[^ref-3].
+The original Power Chess was better received. It won *Computer Games Strategy Plus*'s award for the 1996 "traditional" game of the year[^ref-5][^ref-26]. In its March 1997 issue, *PC Joker* compared four chess programs and rated Power Chess the highest[^ref-5]. The French magazine Joystick gave it a "Mégastar"[^ref-3].
 
 ### Modern Assessment
 
@@ -76,7 +76,7 @@ Later players have been divided. Some forum users praise the tutoring, while oth
 
 ### Origins
 
-The original Power Chess was released on September 30, 1996 for Windows 95[^ref-5][^ref-8]. GameFabrique's summary called it "the culmination of a long history of chess games that have ranged from Radio Shack hand-held computer chess games to IBM's Deep Blue"[^ref-2]. The series uses the WChess engine by David Kittinger[^ref-7]. At the Fifth Harvard Cup in Boston on October 1–2, 1994, WChess played six top American grandmasters and went undefeated, scoring 5–1 with four wins and two draws[^ref-23]. It played Deep Blue at the 1995 World Computer Championship in Hong Kong[^ref-5].
+The original Power Chess was released on September 30, 1996 for Windows 95[^ref-5][^ref-8]. GameFabrique's summary called it "the culmination of a long history of chess games that have ranged from Radio Shack hand-held computer chess games to IBM's Deep Blue"[^ref-2]. The series uses the WChess engine by David Kittinger[^ref-7]. At the Fifth Harvard Cup in Boston, WChess played its games on Sunday, October 2, 1994, and went undefeated against the event's American grandmasters, scoring 5–1 with four wins and two draws[^ref-23]. It played Deep Blue at the 1995 World Computer Championship in Hong Kong[^ref-5].
 
 ### Production
 
@@ -120,7 +120,7 @@ Power Chess 2.0 does not run on modern Windows without help. A French user who m
 
 The cause lies in the program's design. The Windows front end (PCHESS.EXE) relies on MS-DOS engine programs (KING.EXE and QUEEN.EXE). Only Windows 9x lets these programs talk to each other. NT-based Windows runs DOS programs through NTVDM, which blocks that communication[^ref-3]. The engines talk to the front end through STDIN/STDOUT pipes[^ref-17].
 
-One workaround is a Windows 98 virtual machine. A forum user suggested "télécharge virtual pc et tu install ensuite tu install ton windows 98 sur ta machine virtuel" (download Virtual PC, then install Windows 98 on your virtual machine)[^ref-12]. A chess.com user reported running Power Chess 98 in VirtualBox under Windows 98[^ref-4]. In 2021, developer leecher1337 released a community patch on GitHub "to make it run on newer Windows Versions"[^ref-4][^ref-17]. The patch changes PCHESS.EXE's process-launch flags and wraps the RUN386 launcher so the engine pipes work. It was tested on plain 32-bit Windows XP, and on 64-bit Windows 7 and Windows 11 with NTVDMx64[^ref-17]. Its documentation does not say which Power Chess release it targets.
+One workaround is a Windows 98 virtual machine. A forum user suggested "télécharge virtual pc et tu install ensuite tu install ton windows 98 sur ta machine virtuel" (download Virtual PC, then install Windows 98 on your virtual machine)[^ref-12]. A chess.com user reported running Power Chess 98 in VirtualBox under Windows 98[^ref-4]. In 2021, developer leecher1337 released a community patch on GitHub "to make it run on newer Windows Versions"[^ref-4][^ref-17]. The repository's commit history names Power Chess 98 ("Updated patcher for PowerChess 98", November 23, 2021), and its README refers only to "PowerChess"[^ref-17]. The patch changes PCHESS.EXE's process-launch flags and wraps the RUN386 launcher so the engine pipes work. It was tested on plain 32-bit Windows XP, and on 64-bit Windows 7 and Windows 11 with NTVDMx64[^ref-17].
 
 On native hardware, a TalkChess user reported that Power Chess 2.0 "works great under Win95" but is buggy on Windows 98, where only long time controls work[^ref-6].
 
@@ -144,25 +144,25 @@ On native hardware, a TalkChess user reported that Power Chess 2.0 "works great 
 
 | Character | Voice Actor |
 |-----------|-------------|
-| Queen (English/French) | Natacha LaFerriere[^ref-5] |
+| Queen (English/French) | Natacha LaFerriere[^ref-5][^ref-24] |
 
-The Queen narrates and tutors throughout the series, giving post-game analysis to help players improve[^ref-5].
+The Queen narrates and tutors throughout the series, giving post-game analysis to help players improve[^ref-5]. Natacha LaFerriere's own website presents her as the voice of the Power Chess Queen and says she recorded the game "in the beginning of my career"[^ref-24].
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Abandonware France calls the Power Chess series an immediate critical and financial success[^ref-3]. The 1996 release won Computer Games Strategy Plus's traditional game of the year award[^ref-5]. Two follow-up releases came out: Power Chess 98 and Power Chess 2.0[^ref-3]. According to Abandonware France, the series was dropped after Sierra was bought, because the new owners felt the chess market already had a dominant title[^ref-3].
+Abandonware France calls the Power Chess series an immediate critical and financial success[^ref-3]. The 1996 release won Computer Games Strategy Plus's traditional game of the year award[^ref-5][^ref-26]. Two follow-up releases came out: Power Chess 98 and Power Chess 2.0[^ref-3]. According to Abandonware France, the series was dropped after Sierra was bought, because the new owners felt the chess market already had a dominant title[^ref-3].
 
 ### Collections
 
-The original Power Chess was part of Sierra's Complete Chess compilation (1998), along with Maurice Ashley Teaches Chess and Extreme Chess[^ref-5].
+The original Power Chess was part of Sierra's Complete Chess compilation (1998), along with Maurice Ashley Teaches Chess and Extreme Chess[^ref-5]. Sierra's *InterAction* magazine (Holiday 1998) described Power Chess as the intermediate-level title: "an adaptable computer component that plays and reacts like a human opponent", with a Queen who "acts as your personal coach, analyzing your game, highlighting the good and offering suggestions on how to improve your game"[^ref-25]. PC PowerPlay's February 1999 review of the compilation said Power Chess "plays like a 3D board, with the computer opponent adjusting to your level of play"[^ref-28].
 
 ### Critical Perspective
 
-Power Chess 2.0 was the last release in the Power Chess series[^ref-3]. Sierra later published [[2003 - Hoyle Majestic Chess|Hoyle Majestic Chess]] (2003), which teaches chess through a fantasy quest[^ref-21][^ref-22]. The Power Chess series introduced adaptive opponents, the Queen's voiced post-game analysis and a library of historic games[^ref-5]. By the time of 2.0, forum users saw little that was new[^ref-6][^ref-14]. PC Player agreed the changes were limited, while noting a stronger opponent and new analysis features[^ref-19].
+Abandonware France lists Power Chess 98 and Power Chess 2.0 as the series' two sequels[^ref-3], and a French chess site says the series was abandoned after a 1998 version and then a version 2.0[^ref-27]. Sierra later published [[2003 - Hoyle Majestic Chess|Hoyle Majestic Chess]] (2003), which teaches chess through a fantasy quest[^ref-21][^ref-22]. The Power Chess series introduced adaptive opponents, the Queen's voiced post-game analysis and a library of historic games[^ref-5]. By the time of 2.0, forum users saw little that was new[^ref-6][^ref-14]. PC Player agreed the changes were limited, while noting a stronger opponent and new analysis features[^ref-19].
 
-At least one modern user still praises the Queen's voice and the post-game tutoring[^ref-4]. Running it today requires a Windows 9x virtual machine or the community patch[^ref-3][^ref-17].
+At least one modern user still praises the Queen's voice and the post-game tutoring[^ref-4]. Running it on current Windows has meant using a Windows 9x virtual machine[^ref-4][^ref-12]; the community patch's commit history names Power Chess 98[^ref-17].
 
 ## Downloads
 
@@ -170,7 +170,7 @@ At least one modern user still praises the Queen's voice and the post-game tutor
 - Not currently available on major digital platforms
 
 **Download / Preservation**
-- [leecher1337/pchess on GitHub](https://github.com/leecher1337/pchess) – community patch for running Power Chess on newer Windows[^ref-17]
+- [leecher1337/pchess on GitHub](https://github.com/leecher1337/pchess) – community patch for running PowerChess on newer Windows; its commit history names Power Chess 98[^ref-17]
 - [Sierra Help Pages – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html) – official Power Chess patches, including the German Power Chess 2 patch[^ref-18]
 
 ## See Also
@@ -194,10 +194,15 @@ At least one modern user still praises the Queen's voice and the post-game tutor
 [^ref-12]: [Comment Ça Marche Forum – Problème Power Chess 2.0 sous Windows XP](https://forums.commentcamarche.net/forum/affich-3544293-probleme-power-chess-2-0-sous-xindows-xp) – French 2.0 user's Windows XP error message, Virtual PC workaround
 [^ref-14]: [OpenChess Forum – Power Chess 2.0?](https://open-chess.org/viewtopic.php?t=693) – user: 2.0 "is the same as Power Chess 98", "Nothing significantly new here"
 [^ref-15]: [Sierra Chest – Power Chess 2.0](https://sierrachest.com/index.php?a=games&id=541&title=power-chess-2&fld=general) – first release 1999, developer Sierra On-Line
-[^ref-17]: [GitHub – leecher1337/pchess](https://github.com/leecher1337/pchess) – "Patch for Sierra's PowerChess to run on newer Windows Versions"; README explains DOS engine pipe communication and tested systems
+[^ref-17]: [GitHub – leecher1337/pchess](https://github.com/leecher1337/pchess) – "Patch for Sierra's PowerChess to run on newer Windows Versions"; README explains DOS engine pipe communication and tested systems; commit history (2021-11-23 "Updated patcher for PowerChess 98", 2023-05-09 link corrected to PowerChess 98) names Power Chess 98
 [^ref-18]: [Sierra Help Pages – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html) – lists "Power Chess 2 Patch 2.0 German (PCHESS220G)"
 [^ref-19]: [PC Player (German), March 1999, page 69 – Power Chess 2.0 review](https://archive.org/details/PC-Player-German-Magazine-1999-03) – Thierry Miguet's review: test version 1.0, German, Windows 95/98; list of new features; hardware; Spielspaß 68
-[^ref-20]: [Génération 4, issue 118 – Power Chess 2.0 capsule (page 193)](https://archive.org/details/generation4-magazine-118) – three-star capsule signed R.G., "édité par Sierra"
+[^ref-20]: [Génération 4, issue 118 – Power Chess 2.0 capsule](https://archive.org/details/generation4-magazine-118) – three-star capsule signed R.G., "édité par Sierra"
 [^ref-21]: [Wikipedia – Hoyle Majestic Chess](https://en.wikipedia.org/wiki/Hoyle_Majestic_Chess) – 2003 chess game published by Sierra Entertainment in North America; tutorial presented as quests
 [^ref-22]: [GameSpot – Hoyle's Majestic Chess makes first move (Wayback, 2003-10-09)](https://web.archive.org/web/20031009065708/http://www.gamespot.com/pc/puzzle/hoylemajesticchess/news_6074782.html) – 2003 release news: "learning component called 'Chess Adventure'"
-[^ref-23]: [Danny Kopec – The Fifth Harvard Cup Human Versus Computer Intel Chess Challenge (Wayback, 2024-07-12)](https://web.archive.org/web/20240712170637/http://spider.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_6_C.pdf) – report on the October 1–2, 1994 event: WChess "an undefeated 5-1 score (four wins, two draws)"
+[^ref-23]: [Danny Kopec – The Fifth Harvard Cup Human Versus Computer Intel Chess Challenge (Wayback, 2024-07-12)](https://web.archive.org/web/20240712170637/http://spider.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_6_C.pdf) – report on the weekend of October 1–2, 1994: six grandmasters played eight programs; "On Sunday the programs were WChess...", which scored "an undefeated 5-1 score (four wins, two draws)"
+[^ref-24]: [Natacha LaFerriere – Actress & Voice Talent, Power Chess](http://www.natlaf.com/games_pc.html) – the voice actress's own site: the Power Chess Queen, "I recorded Power Chess in the beginning of my career"
+[^ref-25]: [Sierra InterAction, Holiday 1998 – Sierra's Complete Chess](https://archive.org/details/InterAction_Magazine_Holiday_1998_1998_Sierra_On-Line_US) – Sierra's own description of Power Chess and its Queen as the intermediate title in Complete Chess
+[^ref-26]: [Computer Games Strategy Plus announces 1996 Awards (Wayback, 1997-06-14)](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – "Traditional" category winner (bold) Power Chess, Sierra; finalists Muppets Inside and Battleship
+[^ref-27]: [Échecs et informatique – Power Chess](https://echecs-et-informatique.franceserv.com/power-chess.html) – French chess site: 24 opponents, automatic level adaptation, series abandoned after a 1998 version and a version 2.0
+[^ref-28]: [PC PowerPlay 33 (February 1999), Agata Budinska – Sierra's Complete Chess](https://archive.org/details/PCPowerplay-033-1999-02) – review of the compilation: Power Chess as the intermediate level
