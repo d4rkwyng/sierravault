@@ -6,11 +6,11 @@ defunct: 2011
 headquarters: "Paris, France"
 notable_games: ["Gobliiins", "Lost in Time", "The Bizarre Adventures of Woodruff and the Schnibble"]
 parent_company: "Sierra On-Line (1993-1996); CUC Software, Havas and Vivendi Universal (1996-2005); Mindscape (2005-2011)"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Coktel Vision
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -42,7 +42,7 @@ In October 2005 VU Games sold Coktel and its Adibou licences to the French publi
 
 ### Gobliiins (1991)
 
-Gobliiins was co-created by Pierre Gilhodes and Muriel Tramis.[^ref-8] Its three goblins, Asgard, Ignatius and Oups, each have different abilities, and the player must combine them to solve puzzles (see [[1991 - Gobliiins|Gobliiins]]). Coktel made two sequels, [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]] (1992) and [[1993 - Goblins Quest 3|Goblins Quest 3]] (1993).
+Gobliiins was co-created by Pierre Gilhodes and Muriel Tramis.[^ref-8] Its three goblins, Asgard, Ignatius and Oups, each have different abilities, and the player must combine them to solve puzzles (see [[1991 - Gobliiins|Gobliiins]]).[^ref-44] Coktel made two sequels, [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]] (1992) and [[1993 - Goblins Quest 3|Goblins Quest 3]] (1993).
 
 ### Lost in Time (1993)
 
@@ -62,7 +62,7 @@ Woodruff and the Schnibble carried over the visual style of Gobliiins; Pierre Gi
 
 Sierra published some of Coktel's games in the United States; Goblins Quest 3, for example, was released there by Sierra on 18 March 1994.[^ref-36] Muriel Tramis explored political and social themes, such as imperialism and slavery, that were unusual for the time.[^ref-8] Coming Soon Magazine reported that over 1.5 million copies of the ADI educational series, the parent line that includes Adibou, had been sold since its introduction in 1990.[^ref-40]
 
-The Gobliiins series outlived the studio. Gobliiins 4 appeared in 2009, developed by Société Pollene and designed by Pierre Gilhodes and Muriel Tramis.[^ref-44] Gilhodes then released [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] (Steam, 20 July 2023) and [[2026 - Gobliins 6|Gobliins 6]] (Steam, 13 February 2026), both published by his Schnibble Productions label.[^ref-42][^ref-43] On 27 May 2026 Red Art Games released the Gobliiins Collection, which bundles five of the games, for PlayStation 5, Xbox Series and Switch.[^ref-41]
+The Gobliiins series outlived the studio. [[2009 - Gobliiins 4|Gobliiins 4]] appeared in 2009, developed by Société Pollene and designed by Pierre Gilhodes and Muriel Tramis.[^ref-44] Gilhodes then released [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] (Steam, 20 July 2023) and [[2026 - Gobliins 6|Gobliins 6]] (Steam, 13 February 2026), both published by his Schnibble Productions label.[^ref-42][^ref-43] On 27 May 2026 Red Art Games released the Gobliiins Collection, which bundles five of the games, for PlayStation 5, Xbox Series and Switch.[^ref-41]
 
 ## Games
 
@@ -113,7 +113,7 @@ Coktel titles with SierraVault pages are listed below; Adventure Gamers keeps a 
 [^ref-33]: [African Raiders-01 – MobyGames (Wayback)](https://web.archive.org/web/20260224143045/https://www.mobygames.com/game/31969/african-raiders-01/) — released 1988 on Atari ST; developers Coktel Vision and Inférence; publisher Tomahawk
 [^ref-34]: [Emmanuelle – MobyGames (Wayback)](https://web.archive.org/web/20260117055819/https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) — released 1989; publishers Tomahawk and Coktel Vision
 [^ref-35]: [Geisha – MobyGames (Wayback)](https://web.archive.org/web/20260114125142/https://www.mobygames.com/game/3844/geisha/) — released 1990; publishers Tomahawk and Coktel Vision
-[^ref-36]: [Goblins Quest 3 – MobyGames](https://www.mobygames.com/game/2870/goblins-quest-3/) — read via the MobyGames API: DOS release in the United States on 18 March 1994, published by Sierra On-Line, developed by Coktel Vision
+[^ref-36]: [Goblins Quest 3 – MobyGames](https://www.mobygames.com/game/2870/goblins-quest-3/) — DOS release in the United States on 18 March 1994, published by Sierra On-Line, developed by Coktel Vision
 [^ref-37]: [Tilt no. 111, February 1993 (Internet Archive)](https://archive.org/details/Tilt111) — The Incredible Machine review: "Editeur : Sierra; Distributeur : Ubi Soft"
 [^ref-38]: [Tilt no. 120, November 1993 (Internet Archive)](https://archive.org/details/Tilt120) — King's Quest VI listing: "Editeur: Sierra / Distributeur: Ubi Soft"
 [^ref-39]: [Tilt no. 121, December 1993 (Internet Archive)](https://archive.org/details/Tilt121) — news item "Coktel et Sierra s'associent !": the group, "dirigé par Roland Oskian", "distribuera également en Europe les produits Coktel, Sierra, Dynamix et Bright Star Technology"
