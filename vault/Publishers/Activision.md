@@ -3,18 +3,18 @@ title: "Activision"
 type: publisher
 founded: 1979
 headquarters: "Santa Monica, California, United States"
-parent_company: "Microsoft Gaming (via Activision Blizzard)"
-last_updated: "2026-11-11"
+parent_company: "Xbox (Microsoft; formerly Microsoft Gaming), via Activision Blizzard"
+last_updated: "2026-11-12"
 ---
 # Activision
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Activision Publishing, Inc.[^ref-2] is an American video game publisher based in Santa Monica, California, and one of the largest third-party video game publishers in the world.[^ref-1] It was founded on October 1, 1979, by former Atari programmers David Crane, Alan Miller and Bob Whitehead with Jim Levy, a record-industry executive who had been working at GRT Records.[^ref-1][^ref-3][^ref-11] Activision was the first independent, third-party console video game developer.[^ref-1]
+Activision Publishing, Inc.[^ref-2] is an American video game publisher based in Santa Monica, California, and one of the largest third-party video game publishers in the world.[^ref-1] It was founded on October 1, 1979, in Sunnyvale, California, by former Atari programmers David Crane, Alan Miller and Bob Whitehead with Jim Levy, a record-industry executive who had been working at GRT Records.[^ref-1][^ref-3][^ref-11] Activision was the first independent, third-party console video game developer.[^ref-1]
 
-The company grew from its origins as an Atari 2600 developer into one of the industry's largest publishers.[^ref-3] On July 9, 2008, Activision completed its merger with Vivendi Games (parent of Blizzard Entertainment and Sierra) and was renamed Activision Blizzard.[^ref-16][^ref-4][^ref-10] Microsoft announced a deal to buy Activision Blizzard for $68.7 billion in January 2022 and completed it on October 13, 2023, for a total purchase price of $75.4 billion, bringing the company under Microsoft Gaming.[^ref-18][^ref-17][^ref-5][^ref-12]
+The company grew from its origins as an Atari 2600 developer into one of the industry's largest publishers.[^ref-3] On July 9, 2008, Activision completed its merger with Vivendi Games (parent of Blizzard Entertainment and Sierra) and was renamed Activision Blizzard.[^ref-16][^ref-4][^ref-10] Microsoft announced a deal to buy Activision Blizzard for $68.7 billion in January 2022 and completed it on October 13, 2023, for a total purchase price of $75.4 billion, bringing the company under Microsoft's gaming division, now called Xbox (formerly Microsoft Gaming).[^ref-18][^ref-17][^ref-5][^ref-12][^ref-30]
 
 ## Sierra Connection
 
@@ -24,7 +24,7 @@ Activision's relationship with Sierra properties spans several decades and conte
 
 **Sierra Brand Revival (2014):** In August 2014 Activision relaunched Sierra as an indie publishing label. Sierra's website described a "focus on indie studios and innovative, graphically unique games that include new IP and reimaginings of beloved Sierra classics," with Geometry Wars³: Dimensions "planned to be the first game set to launch under the new Sierra indie label" and a King's Quest game coming in 2015.[^ref-19][^ref-20]
 
-**King's Quest Reboot (2015):** Under the revived label, Activision published the episodic *King's Quest* reimagining developed by The Odd Gentlemen (see [[2015 - King's Quest|King's Quest]]).[^ref-26] Activision still sells it as King's Quest: The Complete Collection.[^ref-19][^ref-6]
+**King's Quest Reboot (2015):** Under the revived label, Activision published the episodic *King's Quest* reimagining developed by The Odd Gentlemen (see [[2015 - King's Quest|King's Quest]]).[^ref-26] Activision still sells it as King's Quest: The Complete Collection.[^ref-6]
 
 **Dynamix Titles (1989):** Before Sierra bought Dynamix in 1990,[^ref-21] Activision published several Dynamix-developed games, including *Ghostbusters II*, *MechWarrior*, *Deathtrack* and *Die Hard* (all DOS, 1989).[^ref-22][^ref-25][^ref-23][^ref-24]
 
@@ -42,11 +42,11 @@ The video game crash of 1983 hit Activision hard, forcing diversification into h
 
 ### Bobby Kotick Era (1991-2023)
 
-In 1991 Bobby Kotick and partners took control of the struggling Mediagenic: according to Forbes, an investment of only $440,000 left Kotick and three partners owning a third of the company, with Kotick as the new chief executive.[^ref-9] He rebuilt the company and restored the Activision name.[^ref-1] Under Kotick's leadership, Activision acquired numerous studios and built major franchises including Tony Hawk's Pro Skater, Guitar Hero, and Call of Duty.[^ref-1]
+In 1991 Bobby Kotick and partners took control of the struggling Mediagenic: according to Forbes, an investment of only $440,000 left Kotick and three partners owning a third of the company, with Kotick as the new chief executive.[^ref-9] He rebuilt the company moved the company to Los Angeles and restored the Activision name.[^ref-1] Under Kotick's leadership, Activision acquired numerous studios and built major franchises including Tony Hawk's Pro Skater, Guitar Hero, and Call of Duty.[^ref-1]
 
 ### Microsoft Acquisition (2023-Present)
 
-Microsoft completed its acquisition of Activision Blizzard on October 13, 2023,[^ref-12] for a total purchase price of $75.4 billion.[^ref-17] Wikipedia describes it as the largest video game acquisition by value.[^ref-5]
+Microsoft completed its acquisition of Activision Blizzard on October 13, 2023,[^ref-12] for a total purchase price of $75.4 billion.[^ref-17] Activision Blizzard became part of the Xbox division of Microsoft, which was known at the time as Microsoft Gaming.[^ref-30] Wikipedia describes it as the largest video game acquisition by value.[^ref-5]
 
 ## Games in This Archive
 
@@ -65,6 +65,7 @@ Microsoft completed its acquisition of Activision Blizzard on October 13, 2023,[
 ### Related Unreleased Projects
 
 - [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]] — Status: Cancelled 1999, Notes: Sierra/Yosemite project, not an Activision project
+- [[CXL - King's Quest IX|King's Quest IX]] — Status: Cancelled 2013, Notes: Telltale Games' episodic King's Quest project, announced in 2011; Telltale confirmed in 2013 that it was no longer working on it and the rights returned to Activision[^ref-31]
 - [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — Status: Unreleased, Notes: Jane Jensen pitch; relevant here only as a Sierra IP now held by Activision
 
 ## Key Acquisitions
@@ -98,10 +99,12 @@ Notable studio acquisitions relevant to this archive:
 [^ref-19]: [Sierra official site (Wayback, August 15, 2014)](https://web.archive.org/web/20140815221701/http://www.sierra.com/) - "the new Sierra indie label"; Geometry Wars³ first; King Graham game "Coming in 2015"; © 2014 Activision Publishing
 [^ref-20]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) - Closure and sale of properties (2008–2009): Leisure Suit Larry to Codemasters, titles to Rebellion, The Incredible Machine to Jeff Tunnell; Sierra brand revival from August 2014
 [^ref-21]: [Encyclopedia.com - Sierra On-Line Inc (Gale, International Directory of Company Histories)](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) - "1990: The company acquires Dynamix."
-[^ref-22]: [MobyGames - Ghostbusters II (1989)](https://www.mobygames.com/game/481/ghostbusters-ii/) - DOS, October 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
-[^ref-23]: [MobyGames - Deathtrack](https://www.mobygames.com/game/1758/deathtrack/) - DOS, December 1989: published by Activision, developed by Dynamix (read via the MobyGames API)
-[^ref-24]: [MobyGames - Die Hard (1989)](https://www.mobygames.com/game/5469/die-hard/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
-[^ref-25]: [MobyGames - MechWarrior (1989)](https://www.mobygames.com/game/105/mechwarrior/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic (read via the MobyGames API)
+[^ref-22]: [MobyGames - Ghostbusters II (1989)](https://www.mobygames.com/game/481/ghostbusters-ii/) - DOS, October 1989: published by Activision, developed by Dynamix, distributed by Mediagenic
+[^ref-23]: [MobyGames - Deathtrack](https://www.mobygames.com/game/1758/deathtrack/) - DOS, December 1989: published by Activision, developed by Dynamix
+[^ref-24]: [MobyGames - Die Hard (1989)](https://www.mobygames.com/game/5469/die-hard/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic
+[^ref-25]: [MobyGames - MechWarrior (1989)](https://www.mobygames.com/game/105/mechwarrior/) - DOS, December 1989: published by Activision, developed by Dynamix, distributed by Mediagenic
 [^ref-26]: [Wikipedia - King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) - Developer: The Odd Gentlemen; publisher: Activision
 [^ref-27]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Developer: Wanako Games; Publisher: Activision (Windows)
 [^ref-29]: [Gamasutra – Activision To Allow King's Quest Fan Sequel (Leigh Alexander, June 28, 2010)](https://gamedeveloper.com/game-platforms/activision-to-allow-i-king-s-quest-i-fan-sequel) – Activision "at last given the go-ahead"; cease-and-desists from both Activision and Vivendi; Vivendi's non-commercial license
+[^ref-30]: [Wikipedia – Xbox (division)](https://en.wikipedia.org/wiki/Xbox_(division)) – "Xbox (formerly Microsoft Gaming) is the video game and digital entertainment division of Microsoft"; established 2022
+[^ref-31]: [GameSpot – King's Quest rights go from Telltale to Activision (Martin Gaston, April 4, 2013)](https://www.gamespot.com/articles/kings-quest-rights-go-from-telltale-to-activision/1100-6406390/) – "Telltale announced that it had purchased the rights to King's Quest in 2011"; Steve Allinson: "we are no longer working on the franchise"; rights returned to Activision
