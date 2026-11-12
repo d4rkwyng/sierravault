@@ -10,14 +10,15 @@ series: Police Quest
 engine: SCI1.1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced
-  remake of Sierra On-Line''s 1987 police procedural adventure game....'
+  remake of Sierra On-Line''s 1987 police procedural adventure game, rebuilt on the
+  SCI 1.1 engine with 256-color VGA graphics and a point-and-click interface.'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel (VGA Remake)
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -221,7 +222,7 @@ The VGA remake has been included in several compilations:
 - **Daryl F. Gates' Police Quest Collection: The 4 Most Wanted** (1995), with both versions of PQ1 (the original and the VGA remake) plus PQ2 to PQ4[^ref-1][^ref-29]
 - **SWAT Career Pack** (2000), which also carries both versions of PQ1, alongside PQ2 to PQ4 and the first two SWAT games[^ref-1][^ref-50]
 - **Police Quest Collection** (Vivendi, 2006), whose Windows menu lists it as "Police Quest 1 VGA"[^ref-29][^ref-43]. Sierra's wiki adds that owners of the AGI original can copy its files in and set it up with the collection through a later DOSBox update, which suggests the 2006 collection shipped only the remake.[^ref-43] MobyGames, by contrast, links this collection only to its entry for the 1987 original.[^ref-51]
-- **Police Quest Collection** on GOG.com and Steam, which includes both the original EGA release and the 1992 VGA remake[^ref-9][^ref-16]
+- **Police Quest Collection** on GOG.com and Steam, which includes both the original EGA release and the 1992 VGA remake[^ref-9]. The collection is sold on GOG.com[^ref-16]
 
 ### Preservation
 
@@ -245,12 +246,8 @@ Jim Walls had no involvement in the remake, but his story was carried over intac
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Includes both AGI original and VGA remake[^ref-9]
-- [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – the same four-game collection, pre-packaged with DOSBox[^ref-9]
-
-**Download / Preservation**
-
-**Play Online**
+- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_collection) – Includes both AGI original and VGA remake;[^ref-9] pre-packaged with ScummVM since 20 February 2026[^ref-49]
+- [Steam – Police Quest™ Collection](https://store.steampowered.com/app/494740/) – the same four-game collection, still pre-packaged with DOSBox, and not available in Germany[^ref-9]
 
 ## See Also
 
