@@ -12,20 +12,20 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Johnny Castaway is a 1992 Windows screensaver from Dynamix and Sierra that depicts a man stranded on a tiny desert island, marketed as the world''s first story-telling screen saver.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 **Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-4][^ref-25][^ref-30][^ref-40] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, passing the time with an endless variety of activities and repeatedly coming close to rescue.[^ref-1][^ref-4]
 
-Unlike the screensavers that came before it, such as the flying toasters of the *After Dark* series, Johnny Castaway tells a story.[^ref-1] *PC Magazine*'s March 1993 review estimated that it takes "about 120 days" to complete the tale,[^ref-4] although fans who later examined the program files found that the special story scenes run on a cycle of about ten to eleven days.[^ref-31] Johnny spends most of his time fishing, reading, running and drinking from coconuts, interspersed with rarer comic events and the overarching escape story.[^ref-1][^ref-31]
+Unlike the screensavers that came before it, such as the flying toasters of the *[[1989 - After Dark|After Dark]]* series, Johnny Castaway tells a story.[^ref-1] *PC Magazine*'s March 1993 review estimated that it takes "about 120 days" to complete the tale,[^ref-4] although fans who later examined the program files found that the special story scenes run on a cycle of about ten to eleven days.[^ref-31] Johnny spends most of his time fishing, reading, running and drinking from coconuts, interspersed with rarer comic events and the overarching escape story.[^ref-1][^ref-31]
 
 Much like the castaways of *Gilligan's Island*, Johnny repeatedly comes close to being rescued, but remains on the island as a result of various unfortunate accidents.[^ref-4][^ref-40] The screensaver reads the computer's clock, showing day and night and celebrating major U.S. holidays.[^ref-1][^ref-3]
 
@@ -41,6 +41,13 @@ The product was distributed on a 3½-inch floppy disk and required a 386SX proce
 > **Series:** Johnny Castaway
 > **Protagonist:** Johnny Castaway
 > **Sierra Lineage:** Sierra Label (Dynamix)
+
+## Technical Specifications
+
+- **Platform:** Windows 3.1
+- **Processor:** 386SX
+- **Media:** 3½-inch floppy disk[^ref-25]
+- **Display:** shown at its original 640×480 size[^ref-1]
 
 ## Gameplay
 
@@ -84,12 +91,15 @@ The screensaver recognizes the computer's date and adds a detail for each holida
 | Holiday | Special Feature |
 |---------|-----------------|
 | New Year's Eve | Palm tree displays "Happy New Year" banner during the last week of the year |
-| St. Patrick's Day | Holiday-themed detail |
-| Independence Day | Holiday-themed detail |
 | Halloween | Jack-o'-lantern appears in the sand |
-| Christmas | Holiday-themed detail |
+
+The Dynamix Wiki also lists St. Patrick's Day, Independence Day and Christmas among the holidays the screensaver marks.[^ref-25]
 
 Users could trick Johnny into displaying holiday content by adjusting their computer's system clock.[^ref-1][^ref-4]
+
+### Easter Eggs
+
+The Dynamix Wiki describes the holiday scenes as the screensaver's Easter eggs: for St. Patrick's Day, Independence Day, Halloween, Christmas and New Year's Eve the scenes play as usual apart from a detail representing the occasion, and they can be triggered by setting the computer's clock to the date.[^ref-25]
 
 ### The Story Arc
 
@@ -115,6 +125,9 @@ Johnny Castaway was developed at Jeff Tunnell Productions alongside *[[1992 - Th
 - **Rich Rayl** – Programmer; researched how to build a screen saver and did the final coding[^ref-3][^ref-25]
 - **Sherry Wheeler** – Animator (ex-Disney)[^ref-3][^ref-25]
 - **Becki Parker** – Lead artist[^ref-25]
+- **Pat Clark, Les Kaluza, Erna Kaluza** – Animators, alongside Sherry Wheeler (Dynamix Wiki credits)[^ref-25]
+- **Matt Uhre, Travis Clark, [[Richard Tunnell]]** – Artists (Dynamix Wiki credits)[^ref-25]
+- **Chris Shen** – Special Thanks (Dynamix Wiki credits)[^ref-25]
 
 The role of **Chris Cole** is disputed. The Dynamix Wiki credits him as assistant director and co-writer of the gags, and Shawn Bird recalled him as the project's lead designer.[^ref-25][^ref-32] Tunnell, however, states that "Chris Cole did not work on JC."[^ref-3]
 
@@ -154,6 +167,10 @@ In an interview, [[Ken Williams]] named Johnny Castaway among a string of cheap-
 - **Computer Gaming World:** Positive recommendation — "great launch" for Screen Antics line (no numeric score in original review)[^ref-40]
 - **COMPUTE!:** Mixed — "mildly amusing" but "pretty boring rather quickly" (no numeric score)[^ref-33]
 
+## Collections
+
+- *Family Fun Pack* (Sierra) – bundled Johnny Castaway with *Conquests of the Longbow*, *Gobliiins* and *Hoyle: Official Book of Games – Volume 3*[^ref-13]
+
 ## Legacy
 
 ### Cultural Impact
@@ -176,15 +193,13 @@ Several more open-source recreations appeared from late 2025 through 2026, many 
 
 The screensaver remains freely available through Screensavers Planet, whose download has been fetched 73,228 times (as of October 2026).[^ref-1] Fan sites such as the Johnny Castaway Home Page, online since 1996, have documented its activities and story scenes.[^ref-31][^ref-32]
 
+## Downloads
+
 **Purchase / Digital Stores**
 
 Not currently available for purchase. As abandonware, Johnny Castaway can be downloaded freely from screensaver archive sites.
 
-## Downloads
-
 - [Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Download with installation guides for modern systems
-
-*Last updated: 2026-10-28*
 
 ## See Also
 
