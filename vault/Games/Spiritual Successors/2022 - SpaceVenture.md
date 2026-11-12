@@ -10,14 +10,14 @@ series: SpaceVenture
 engine: Unity
 protagonist: Ace Hardway
 sierra_lineage: Alumni Project
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: SpaceVenture is a science fiction comedy adventure game developed by
   the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest...
 tags: [2020s, adventure, sierra, spaceventure, two-guys]
 ---
 # SpaceVenture
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 
 ## Overview
@@ -32,7 +32,7 @@ Originally announced on March 25, 2012[^ref-2] and funded through a Kickstarter 
 > **Publisher:** Guys from Andromeda[^ref-7]
 > **Engine:** Unity[^ref-18]
 > **Platforms:** Windows[^ref-3]
-> **Release Year:** 2022[^ref-6]
+> **Release Year:** 2022 (Kickstarter backer release, September 16, 2022[^ref-6][^ref-7]; Steam Early Access April 1, 2025; full Steam release December 23, 2025[^ref-3])
 > **Series:** SpaceVenture
 > **Protagonist:** Ace Hardway
 > **Sierra Lineage:** Alumni Project
@@ -62,12 +62,12 @@ SpaceVenture incorporates the quirky puzzles and offbeat humor that characterize
 | Adventure Game Hotspot (2026 full release) | 73% | Re-review of the post-Early Access release: "a fairly entertaining experience tailored especially for Space Quest fans that's still plagued by a significant number of unfortunate caveats"[^ref-20] |
 | Chordian.net | 6/10 | Called it "a buggy mess with a daft user interface"[^ref-11] |
 | Impulse Gamer | 4/5 | Reviewed the Early Access build; liked the pop culture references and easter eggs but found the controls and UI clunky[^ref-10] |
-| Steam User Reviews | 87% Very Positive | 87% of 81 user reviews positive (as of October 2026)[^ref-3] |
-| MobyGames (critic average) | 72% | Average of 2 critic ratings (as of February 2026)[^ref-7] |
+| Steam User Reviews | 87% Very Positive | 87% of 82 user reviews positive (as of November 11, 2026)[^ref-3] |
+| MobyGames (critic average) | 68% | Average of 3 critic ratings (as of November 11, 2026)[^ref-7] |
 
 ### Modern Assessment
 
-Wikipedia summarizes the game's reception as negative, with reviewers noting it still felt buggy and unfinished[^ref-5], though the published scores above run from 6/10 to 4/5[^ref-10][^ref-11], with many praising the nostalgic elements and humor while criticizing the technical execution. Adventure Game Hotspot's reviewer noted: "It's a shame that the lack of polish really lets it down in its current state, as at its core SpaceVenture is a funny, good-looking game with an interesting story that will surely be enough to satisfy Space Quest fans"[^ref-1]. John Walker of Kotaku, reviewing the April 2025 Early Access release, was harsher, calling it "a colossal disaster"[^ref-14]. Despite critical issues, Steam users rate the game "Very Positive", with 87% of 81 reviews positive[^ref-3].
+Wikipedia summarizes the game's reception as negative, with reviewers noting it still felt buggy and unfinished[^ref-5], though the published scores above run from 6/10 to 4/5[^ref-10][^ref-11], with many praising the nostalgic elements and humor while criticizing the technical execution. Adventure Game Hotspot's reviewer noted: "It's a shame that the lack of polish really lets it down in its current state, as at its core SpaceVenture is a funny, good-looking game with an interesting story that will surely be enough to satisfy Space Quest fans"[^ref-1]. John Walker of Kotaku, reviewing the April 2025 Early Access release, was harsher, calling it "a colossal disaster"[^ref-14]. Despite critical issues, Steam users rate the game "Very Positive", with 87% of 82 reviews positive (as of November 11, 2026)[^ref-3].
 
 ## Development
 
@@ -100,9 +100,26 @@ The game's credited voice cast[^ref-22]:
 
 Robert Clotworthy was also among the voice actors announced for the game, though MobyGames' credits list no role for him[^ref-4][^ref-22].
 
-Gary Owens, the narrator of Space Quest IV and Space Quest 6, was originally announced as SpaceVenture's narrator, but he died on February 12, 2015, before recording his lines, and the team announced that a replacement would be found[^ref-4]. In August 2018 the team posted updates naming the cast and completed the voice recordings[^ref-4].
+Gary Owens, the narrator of Space Quest IV and Space Quest 6, was originally announced as SpaceVenture's narrator, but he died on February 12, 2015, before recording his lines. The team's February 2015 update said that Owens' health had declined before they could record him and that they would work to find the right talent to narrate in his place[^ref-25][^ref-4]. In Update 117, posted in August 2018, the team introduced the cast and said voice-over sessions would start in Los Angeles on Monday, August 13[^ref-26][^ref-4].
 
-Former Sierra composer Ken Allen joined the team in January 2013 to compose the music[^ref-4]; he is credited with composition and audio production, with Jason Charles Miller and James Mulvale credited as contributing composers and musicians[^ref-22].
+Former Sierra composer [[Ken Allen]] joined the team in January 2013 to compose the music[^ref-4]. The team's Kickstarter announcement (Update 67) welcomed him as the main composer, noting that the paperwork had been signed the day before and that he had worked at Sierra from 1989 to 1992[^ref-24]. He is credited with composition and audio production, with Jason Charles Miller and James Mulvale credited as contributing composers and musicians[^ref-22].
+
+### Development Credits
+
+MobyGames lists 41 people on the Windows release (28 in professional roles, 13 in special thanks)[^ref-22]:
+
+- **Creators:** [[Mark Crowe]], [[Scott Murphy]]
+- **Writers:** Mark Crowe, Scott Murphy, [[Josh Mandel]]
+- **Lead Engineer:** Patrick Johnston
+- **Programmers:** Chris Pope, Tyler Drinkard, Zane Miller, Vander Nunes
+- **Composer / Audio Production:** [[Ken Allen]]; contributing composers and musicians Jason Charles Miller and James Mulvale
+- **Lead Scene Artist:** Patrick Parrish
+- **Scene Artists:** Mark Crowe, Tom King, Brent Forrest
+- **3D Character Artists:** Michael Penny, Christopher Willis, Brent Forrest, Nicholas Ogg, Ezra Petruik, Aleksandr Podvysotskiy
+
+### Soundtrack
+
+On November 24, 2025, Guys from Andromeda announced the official SpaceVenture soundtrack, promising "40+ brand-new musical tracks" composed by Ken Allen, plus some of the game's parody cues, and expecting a release in the winter of 2025[^ref-28]. In Kickstarter Update 136 (August 12, 2026) the team said Allen had completed the soundtrack and that all backers at $30 and up would receive access; delivery had originally been planned through Steam keys, but complications with distributing the soundtrack through Steam meant another platform might be used[^ref-27].
 
 ### Technical Achievements
 SpaceVenture was developed using the Unity engine; Crowe described the goal as a 2.5D adventure game using "traditional 2D background art while taking advantage of some of the more modern 3D game tech, such as real-time 3D characters and particle effects"[^ref-17]. At its Early Access launch the game booted fullscreen at 1920×1080 with no other settings options[^ref-14]; v2.08.10 (February 2026) added native 4K support on supported systems[^ref-21]. The save system was a long-running problem, still unfixed to Adventure Game Hotspot's satisfaction at the 2022 backer release[^ref-1].
@@ -128,7 +145,7 @@ The v2 development cycle involved four phases: transitioning to the latest Unity
 
 ## Legacy
 
-Frank Cifaldi's comment on the backer release, that "Kickstarter money doesn't stretch very far in a dev cycle of literally a decade", sums up how SpaceVenture is often remembered[^ref-16]. Despite its troubled development and mixed critical reception, the game has found appreciation among Steam users, 87% of whose 81 reviews are positive[^ref-3].
+Frank Cifaldi's comment on the backer release, that "Kickstarter money doesn't stretch very far in a dev cycle of literally a decade", sums up how SpaceVenture is often remembered[^ref-16]. Despite its troubled development and mixed critical reception, the game has found appreciation among Steam users, 87% of whose 82 reviews are positive (as of November 11, 2026)[^ref-3].
 
 ### Lessons Learned
 
@@ -149,7 +166,7 @@ Murphy said the pair talked to someone at Activision about Space Quest close to 
 
 ### Ongoing Development
 
-The team has continued supporting the game after its full release, with patches through 2026 adding native 4K support, V-Sync and bug fixes[^ref-21].
+The team has continued supporting the game after its full release, with patches through 2026 adding native 4K support, V-Sync and bug fixes[^ref-21]. In Kickstarter Update 136 (August 12, 2026) the team said a Linux build was close to release and ready for testing by backers at $30 and up, that a Mac version (initially for Apple Silicon Macs) was in the works, and that the game-box DVDs had been ordered[^ref-27].
 
 ## Downloads
 
@@ -181,10 +198,10 @@ The team has continued supporting the game after its full release, with patches 
 [^ref-1]: [Adventure Game Hotspot – SpaceVenture Review (2022)](http://web.archive.org/web/20260305155004/https://adventuregamehotspot.com/review/20/spaceventure) – Shawn Mills's 65% review of the 2022 backer release
 [^ref-2]: [Guys from Andromeda – Join Scott and Mark in their Epic new SpaceVenture](https://guysfromandromeda.com/uncategorized/new-game/) – Official announcement post, March 25, 2012
 [^ref-3]: [Steam Store](https://store.steampowered.com/app/1374960/SpaceVenture/) – Official description, release dates (Early Access Apr 1, 2025; full Dec 23, 2025), Windows, price, user reviews
-[^ref-4]: [EverybodyWiki – Two Guys from Andromeda](https://en.everybodywiki.com/Two_Guys_from_Andromeda) – Kickstarter dates and funding, cast, Gary Owens, Ken Allen
+[^ref-4]: [EverybodyWiki – Two Guys from Andromeda](https://en.everybodywiki.com/Two_Guys_from_Andromeda) – Mirror of the Wikipedia article on the studio: Kickstarter dates and funding, cast, Gary Owens, Ken Allen (primary Kickstarter updates cited alongside as refs 24–26)
 [^ref-5]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – SpaceVenture section: development hell, Early Access, reception
 [^ref-6]: [Time Extension](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) – Backer release on September 16, 2022; other platforms planned later
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/192353/spaceventure/) – Developer/publisher, genre and interface, ad blurb, critic average
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/192353/spaceventure/) – Developer/publisher, genre and interface, ad blurb, Windows release September 16, 2022, critic average 68% from 3 ratings (checked November 11, 2026)
 [^ref-8]: [Game Developer](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) – Designer credits and reunion story
 [^ref-9]: [Guys from Andromeda](https://guysfromandromeda.com/) – Game features description; DRM-free version sold on itch.io
 [^ref-10]: [Impulse Gamer](https://www.impulsegamer.com/space-venture-pc-review/) – Chris O'Connor's 4/5 review of the Early Access build (April 2025)
@@ -198,5 +215,10 @@ The team has continued supporting the game after its full release, with patches 
 [^ref-19]: [itch.io – SpaceVenture](https://guysfromandromeda.itch.io/spaceventure) – Windows version, $14.99, comes with a Steam key
 [^ref-20]: [Adventure Game Hotspot – SpaceVenture Review (2026)](https://adventuregamehotspot.com/review/6234/spaceventure) – Sam Amiotte-Beaulieu's 73% review of the post-Early Access full release
 [^ref-21]: [Steam – SpaceVenture Announcements](https://steamcommunity.com/app/1374960/announcements/) – Official patch notes, Early Access patches (Apr 2025) and v2.08.01 full release (Dec 23, 2025) through v2.08.11 (2026)
-[^ref-22]: [MobyGames – SpaceVenture credits (Windows)](https://www.mobygames.com/game/192353/spaceventure/credits/windows/) – Voice actor roles and music credits
+[^ref-22]: [MobyGames – SpaceVenture credits (Windows)](https://www.mobygames.com/game/192353/spaceventure/credits/windows/) – Voice actor roles, writing, programming, art and music credits (41 people; checked November 11, 2026)
 [^ref-23]: [Kickstarter – Two Guys SpaceVenture - by the creators of Space Quest](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) – Campaign page: $539,767 pledged of a $500,000 goal by 10,809 backers; funding period May 8 – Jun 12, 2012
+[^ref-24]: [Kickstarter Update 67 – It's a SpaceVenture update bonanza!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/387826) – Ken Allen welcomed as main composer; paperwork signed the day before; Sierra 1989–1992
+[^ref-25]: [Kickstarter Update 101 – February 2015 SpaceVenture Update: Gary Owens, Clucky Bird, Scrapyard, Cranepit update and more!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/1144974) – Gary Owens passed away on February 12th; was to be the narrator; team to find the right talent
+[^ref-26]: [Kickstarter Update 117 – Things are moving forward quickly!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/2257627) – Cast introductions, alpha testing, voice-over sessions starting Monday August 13 in Los Angeles
+[^ref-27]: [Kickstarter Update 136 – SpaceVenture Is Coming to Linux & Mac, Plus DVD and Soundtrack News!](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/4767801) – Linux and Mac builds, DVDs ordered, soundtrack completed (August 12, 2026)
+[^ref-28]: [Guys from Andromeda – SpaceVenture: ANNOUNCING The Soundtrack That May Save the Galaxy!](https://guysfromandromeda.com/uncategorized/spaceventure-announcing-the-soundtrack-that-may-save-the-galaxy/) – Official announcement, November 24, 2025; 40+ tracks by Ken Allen
