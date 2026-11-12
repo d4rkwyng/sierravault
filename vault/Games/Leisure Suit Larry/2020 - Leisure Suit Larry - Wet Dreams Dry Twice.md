@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble Entertainment.'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -60,9 +60,9 @@ One unique aspect noted by players is that the game requires two complete playth
 
 ### Puzzles and Mechanics
 
-Opinions on the puzzle logic vary: one GOG user review says "There is very little 'moon logic' in this game"[^ref-20], Adventure Gamers found the challenges "reasonable and intuitive without much moon logic involved"[^ref-3], while GameOver.gr noted that "moon logic" "does show its head now and then"[^ref-27]. The puzzles generally follow logical patterns while maintaining the humorous tone expected from the series[^ref-3].
+Opinions on the puzzle logic vary: one GOG user review says "There is very little 'moon logic' in this game"[^ref-20], Adventure Gamers found the challenges "reasonable and intuitive without much moon logic involved"[^ref-3], while GameOver.gr noted that "moon logic" "does show its head now and then"[^ref-27] and Third Coast Review found "a good amount of moon logic in use here, but fortunately not a lot"[^ref-48]. The puzzles generally follow logical patterns while maintaining the humorous tone expected from the series[^ref-3].
 
-The game includes various interactive elements and inventory-based puzzles typical of point-and-click adventures[^ref-48]. Some puzzles incorporate elements of random chance, making them slightly more challenging than traditional adventure game fare[^ref-39]. Third Coast Review finished it in "a little under eight hours"[^ref-48].
+The game includes various interactive elements and inventory-based puzzles typical of point-and-click adventures[^ref-48]. Some puzzles incorporate elements of random chance, making them slightly more challenging than traditional adventure game fare[^ref-39]. Third Coast Review finished it in "a little under eight hours"[^ref-48], while Adventure Gamers put the game's length at five hours[^ref-3].
 
 ## Reception
 
@@ -86,7 +86,7 @@ The game received particular praise from Ragequit.gr, which awarded it 91/100 an
 
 Player reception has been mixed by platform: Steam users rate it Very Positive (85%)[^ref-66], while Metacritic's user score is 6.9, "mixed or average", against the PC Metascore of 73[^ref-27]. Trophy-hunting communities have provided detailed analyses of the game's structure and requirements[^ref-38]. One Reddit user described it as having "surprisingly good" production values with "overall good voice acting, some nice music and nicely drawn 2d graphics"[^ref-42].
 
-The game received recognition from Thumb Culture, which awarded it a "Gold Award" and praised its story structure: "The story builds up beautifully and keeps you engaged throughout your exploration and puzzle-solving, leading to a very satisfying climax"[^ref-49]. However, some players criticized technical issues, with loading times being described as "atrocious" by one PSNProfiles user[^ref-14]. In the same June 2021 PSNProfiles thread, one poster called the late-game labyrinth section "HORRIBLE" and another said it "took me hours" to find a character in the cage[^ref-14].
+The game received recognition from Thumb Culture, which awarded it a "Gold Award" and praised its story structure: "The story builds up beautifully and keeps you engaged throughout your exploration and puzzle-solving, leading to a very satisfying climax"[^ref-49]. However, some players criticized technical issues, with loading times being described as "atrocious" by one PSNProfiles user[^ref-14]. In the same June 2021 PSNProfiles thread, one poster called the late-game labyrinth section "HORRIBLE" and another said it "took me hours" to find a character in the cage[^ref-14]. Adventure Gamers likewise called the late-game labyrinth "confusing and easy to get lost in"[^ref-3].
 
 ## Development
 
@@ -123,6 +123,12 @@ Cast as listed by IMDb[^ref-22]. IMDb credits Malte Schmidt as director and Falk
 Built using the Unity engine, Wet Dreams Dry Twice features hand-drawn 2D artwork with what one reviewer described as "impressive hi-res artwork incorporating an equally impressive amount of phallic symbols wherever you look"[^ref-49]. Steam lists minimum PC requirements of Windows Vista/7/8/10, a 2.33GHz processor, 2GB RAM, and 4GB of available storage space[^ref-45].
 
 The game is rated PEGI 16[^ref-34]. It supports eight languages: English, German, French, Spanish, Russian, Simplified Chinese, Italian and Polish, with full audio in English and German[^ref-45]. GameOver.gr felt "the indie budget" was "acutely visible"[^ref-27], and some technical issues were noted, including occasional crashes that prompted guide writers to recommend frequent manual saves[^ref-38].
+
+### Easter Eggs and Trivia
+
+- Adventure Gamers notes that the failed sci-fi festival Larry visits, a parody of the Fyre festival, includes stereotypical nerds in cosplay, among them Roger Wilco from *Space Quest*[^ref-3].
+- Adventure Gamers assumes that a confrontation in which Larry uses his collection of pickup lines to defeat someone is "a nod to the insult fighting of the Monkey Island series"[^ref-3].
+- The two suits Larry can choose between, the leisure suit and the wedding suit, are the same garment; the PlayStation Trophies guide says "the joke is that the two suits are exactly the same"[^ref-39].
 
 ### Version History
 
@@ -210,7 +216,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-40]: [Pocket Gamer](https://www.pocketgamer.com/leisure-suit-larry-wet-dreams-dry-twice/launches-on-ios-and-android-devices-today/) – Mobile version release coverage
 [^ref-41]: [Push Square Review](https://www.pushsquare.com/reviews/ps4/leisure_suit_larry_wet_dreams_dry_twice) – PlayStation review with control criticism
 [^ref-42]: [Reddit Discussion](https://www.reddit.com/r/adventuregames/comments/16k5hy1/just_finished_leisure_suit_larry_wet_dreams_dry/) – Player review from adventure games community
-[^ref-45]: [Steam Store](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/) – Official Steam page with user ratings
+[^ref-45]: [Steam Store](https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/) ([archived copy, May 9, 2026](http://web.archive.org/web/20260509002449/https://store.steampowered.com/app/1373430/)) – Official Steam page with user ratings; the archived copy shows the Save the World Edition, the Wet Dreams Saga bundle and the free demo
 [^ref-47]: [TechRaptor Review](https://techraptor.net/gaming/reviews/leisure-suit-larry-wet-dreams-dry-twice-review) – Professional review with gameplay analysis
 [^ref-48]: [Third Coast Review](https://thirdcoastreview.com/2020/10/23/review-leisure-suit-larry-wet-dreams-dry-twice/) – Contemporary review with interface praise
 [^ref-49]: [Thumb Culture](https://www.thumbculture.co.uk/leisure-suit-larry-wet-dreams-dry-twice-review-ooh-la-la) – Gold Award review with story praise
