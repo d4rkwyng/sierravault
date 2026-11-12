@@ -10,14 +10,16 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
-  game from Dynamix and Sierra, the first new Incredible Machine game in five years...'
+  game from Dynamix and Sierra, the first new Incredible Machine game in five years,
+  with about 250 Rube Goldberg-style puzzles, a freeform invention mode and a two-player
+  mode.'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,6 +31,8 @@ The game has about 250 puzzles, a freeform invention mode and a two-player head-
 > **Developer:** [[Dynamix]][^ref-8][^ref-17]
 > **Designer:** [[Brian Hahn]]; additional design by [[Kevin Ryan]], [[Jeff Tunnell]] and others; original concept by Jeff Tunnell[^ref-8]
 > **Publisher:** Sierra On-Line[^ref-8]
+> **Producer:** Randy Thompson (senior producer)[^ref-49]
+> **Composer:** Christopher Stevens, Timothy Steven Clarke, Sage Freeman[^ref-49]
 > **Platforms:** Windows, Mac OS[^ref-8][^ref-16]
 > **Release Year:** 2000
 > **Series:** The Incredible Machine
@@ -62,20 +66,6 @@ The game also includes 50 head-to-head puzzles for two-player play[^ref-6]. Game
 
 A typical puzzle starts with some parts already placed on the screen and a few more waiting in a bin. IGN gave an example: two basketballs sit on conveyor belts above two baskets. A dropped baseball strikes two hamster cages, the hamsters run their treadmills, and rubber bands carry that power to the belts[^ref-27]. Parts range from can openers and mice to pinwheels, laser beams, candles and pulleys. Later puzzles add see-saws, cats, blimps and magnifying glasses, along with useless parts meant to distract the player[^ref-27]. The New York Times listed parts both "ordinary (flashlights and magnifying glasses) and fantastic (anti-gravity pads)"[^ref-1].
 
-## Technical Specifications
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| Operating System | Windows 95/98/ME/2000 | Windows 95/98/ME/2000[^ref-42] |
-| Processor | Pentium 90 MHz | Pentium 166 MHz[^ref-42][^ref-16] |
-| Memory | 32 MB RAM | 64 MB RAM[^ref-42][^ref-16] |
-| Graphics | SVGA, 1 MB video memory | SVGA, 1 MB video memory[^ref-42] |
-| Storage | 50 MB hard disk space | 50 MB (VGRequirements); 250 MB (PCGamingWiki)[^ref-42][^ref-16] |
-| Sound | DirectX-compatible sound card | DirectX-compatible sound card[^ref-42] |
-| Drive | 4X CD-ROM[^ref-27] | — |
-
-IGN and GamePressure also list 50 MB of hard drive space[^ref-27][^ref-36]. The Mac OS version requires Mac OS 8.5.1, a 120 MHz PowerPC, 32 MB of RAM and 40 MB of storage[^ref-16]. The Windows version is a 32-bit Windows 95 game with 800×600 graphics[^ref-30][^ref-16].
-
 ## Freeform Mode and Contraption Builder
 
 Besides the set puzzles, the game has a free-form invention mode[^ref-8]. A contraption builder lets players design their own puzzles with the full parts bin. Players choose which pieces are locked onto the screen, which parts go in the player's bin, and even the puzzle's gravity, so that everything can float upward. They can add "helping hands" and send the finished puzzles to friends[^ref-15]. IGN expected this "custom contraption generator" to give the game longevity[^ref-27].
@@ -89,13 +79,17 @@ Besides the set puzzles, the game has a free-form invention mode[^ref-8]. A cont
 | IGN | 8.4/10 | Martin Reyes called it "a vintage blend of educational and entertainment software at their finest"[^ref-27] |
 | GameSpot | 8.1/10 | Trey Walker: "The problems in the game are only minor, and they do not detract from the overall experience and the high quality of the puzzles"[^ref-6] |
 | Game Over Online | 84% | Mike McDermott: "easily the best puzzle game to come along in years"[^ref-15] |
-| Absolute Games | 80% | Russian-language review, August 2000[^ref-47][^ref-30] |
+| Absolute Games | 80% | Russian-language review, August 2000; the score is that outlet's own[^ref-47][^ref-30] |
 
 Game Over Online's reviewer was less impressed by the multiplayer mode, writing that "it doesn't work at all"[^ref-15]. IGN praised the cartoon presentation and the "huge selection of musical flavors (jazz, detective, hip hop, etc.)"[^ref-27].
 
-### Awards and Assessment
+### Modern Assessment
 
-At the 4th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences gave the game its "PC Family" award[^ref-34][^ref-18]. GameRankings listed an aggregate score of 78.33%[^ref-18], and MobyGames shows a critic average of 81% from nine ratings[^ref-8]. User comments on MyAbandonware include "Greatest engineering game ever" and "Playing this while I was young was probably one of the influences to me being an engineer"[^ref-32].
+At the 4th Annual Interactive Achievement Awards, the Academy of Interactive Arts & Sciences gave the game its "PC Family" award[^ref-34][^ref-18]. User comments on MyAbandonware include "Greatest engineering game ever" and "Playing this while I was young was probably one of the influences to me being an engineer"[^ref-32].
+
+**Aggregate Scores:**
+- **GameRankings:** 78.33%[^ref-18]
+- **MobyGames:** 81% critic average from nine ratings[^ref-8]
 
 ## Development
 
@@ -107,22 +101,52 @@ GamePressure's database entry presents the game as Sierra's attempt to win back 
 
 [[Dynamix]] developed the game[^ref-8][^ref-17]. MobyGames credits [[Brian Hahn]] as designer and art director, Richard Rayl as lead programmer, Kyle Miller with the story concept, and Jeffrey Tunnell with the original concept. [[Kevin Ryan]] contributed contraption design, additional design and parts programming. Jon Milnes handled Mac programming[^ref-8]. Randy Thompson is credited as senior producer[^ref-49][^ref-30]. GameSpot found that the game improved on the previous Incredible Machine game "in almost every aspect", with updated graphics and animations and an improved physics model[^ref-6].
 
+**Development Credits:**
+- **Design:** [[Brian Hahn]] (designer and art director); original concept by Jeffrey Tunnell; story concept by Kyle Miller[^ref-8]
+- **Programming:** Richard Rayl (lead); Jon Milnes (Mac)[^ref-8]
+- **Art:** [[Brian Hahn]] (art director)[^ref-8]
+- **Music and voice:** Christopher Stevens, Timothy Steven Clarke, Sage Freeman[^ref-49]
+- **Production:** Randy Thompson (senior producer)[^ref-49]
+
 ### Music
 
 Christopher Stevens, Timothy Steven Clarke and Sage Freeman are credited with the music and voice work[^ref-49][^ref-30]. A game rip of the soundtrack contains 27 tracks[^ref-44]. Players can choose digital or MIDI background music in the preferences menu[^ref-6].
 
+### Technical Specifications
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| Operating System | Windows 95/98/ME/2000 | Windows 95/98/ME/2000[^ref-42] |
+| Processor | Pentium 90 MHz | Pentium 166 MHz[^ref-42][^ref-16] |
+| Memory | 32 MB RAM | 64 MB RAM[^ref-42][^ref-16] |
+| Graphics | SVGA, 1 MB video memory | SVGA, 1 MB video memory[^ref-42] |
+| Storage | 50 MB hard disk space | 50 MB (VGRequirements); 250 MB (PCGamingWiki)[^ref-42][^ref-16] |
+| Sound | DirectX-compatible sound card | DirectX-compatible sound card[^ref-42] |
+| Drive | 4X CD-ROM[^ref-27] | — |
+
+IGN and GamePressure also list 50 MB of hard drive space[^ref-27][^ref-36]. The Mac OS version requires Mac OS 8.5.1, a 120 MHz PowerPC, 32 MB of RAM and 40 MB of storage[^ref-16]. The Windows version is a 32-bit Windows 95 game with 800×600 graphics[^ref-30][^ref-16].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | August 8, 2000 | Windows | Initial release[^ref-17] |
+| Mac port | 2000 | Mac OS | Mac programming by Jon Milnes[^ref-8] |
+
 ## Legacy
 
-An expansion pack, *The Incredible Machine: Even More Contraptions*, followed in 2001[^ref-30][^ref-8]. Contraptions was later included in The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, alongside The Even More Incredible Machine, The Incredible Machine 3 and Even More Contraptions[^ref-18]. That pack is no longer sold.
+An expansion pack, *The Incredible Machine: Even More Contraptions*, followed in 2001[^ref-30][^ref-8].
+
+### Collections
+
+Contraptions was later included in The Incredible Machine Mega Pack, released on GOG.com on October 1, 2009, alongside The Even More Incredible Machine, The Incredible Machine 3 and Even More Contraptions[^ref-18]. That pack is no longer sold.
 
 [[Kevin Ryan]], co-creator of the original Incredible Machine with Jeff Tunnell, was involved with Contraptions at first, but a family medical emergency kept him away during its development; in his words, "ultimately I wasn't all that involved"[^ref-48]. (Ryan has said that Tunnell "presented the concept" for the original game and that he did the design himself[^ref-50].) He later made *Contraption Maker*, which he described as "a modern update made in the spirit of The Incredible Machine"[^ref-9].
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - ~~GOG.com - The Incredible Machine Mega Pack~~ (Delisted - no longer available)
-
-## Downloads
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/return-of-the-incredible-machine-contraptions-3ph)
