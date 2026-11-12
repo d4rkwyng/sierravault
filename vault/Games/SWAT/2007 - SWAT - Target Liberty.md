@@ -2,37 +2,36 @@
 title: 'SWAT: Target Liberty'
 release_year: 2007
 developer: 3G Studios
-designer: [Unknown]
+designer: null
 publisher: Sierra Entertainment
 genre: Tactical Shooter
 platforms: [PlayStation Portable]
 series: Police Quest/SWAT
-engine: Unknown
+engine: null
 protagonist: Kurt Wolfe
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'SWAT: Target Liberty is a third-person tactical shooter developed by
-  3G Studios and published by Sierra Entertainment exclusively for the PlayStation
-  Portable in October 2007.'
+  3G Studios and published by Vivendi Games under the Sierra Entertainment label exclusively
+  for the PlayStation Portable in October 2007.'
 tags: [2000s, police-quest-swat, shooter, sierra]
 ---
 # SWAT: Target Liberty
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-SWAT: Target Liberty is a third-person tactical shooter developed by 3G Studios and published by Sierra Entertainment exclusively for the PlayStation Portable in October 2007.[^ref-1] The game represents a significant departure from the first-person perspective of its PC predecessors, adopting an overhead isometric view that GamesRadar likened to Killzone: Liberation,[^ref-2] a change Sierra producer Paul Pawlicki attributed to the PSP's single analog stick and the need to command two teammates.[^ref-4] Players take command of SWAT Element Leader Kurt Wolfe as he leads his team through a series of missions across New York City, confronting gang violence and ultimately uncovering a terrorist plot that threatens nuclear devastation.[^ref-3]
+SWAT: Target Liberty is a third-person tactical shooter developed by 3G Studios and published by Vivendi Games under the Sierra Entertainment label exclusively for the PlayStation Portable in October 2007.[^ref-1][^ref-38] The game represents a significant departure from the first-person perspective of its PC predecessors, adopting an overhead isometric view that GamesRadar likened to Killzone: Liberation,[^ref-2] a change Sierra producer Paul Pawlicki attributed to the PSP's single analog stick and the need to command two teammates.[^ref-4] Players take command of SWAT Element Leader Kurt Wolfe as he leads his team through a dozen missions across New York City, confronting gang violence and ultimately uncovering a terrorist plot that threatens nuclear devastation.[^ref-3]
 
 As the first SWAT game on the PSP,[^ref-22][^ref-25] Target Liberty attempted to bring the franchise's trademark tactical gameplay to portable gaming while maintaining core series values like less-than-lethal weapons and suspect restraint.[^ref-4] The game was marketed as "the most authentic and realistic squad-based tactical combat shooter available for the PSP handheld system," featuring randomized AI placement, team development mechanics, and ad-hoc multiplayer functionality.[^ref-5] Development was overseen with consultation from Ken Thatcher, a 29-year Los Angeles SWAT veteran, to ensure tactical authenticity.[^ref-6]
 
-Despite its ambitious premise and pedigree, SWAT: Target Liberty received a lukewarm critical reception, earning a Metacritic score of 50/100.[^ref-1] Critics praised the game's variety of door-entry techniques and tactical options[^ref-20] while criticizing tedious gameplay, a slow pace,[^ref-7] and poor ally AI.[^ref-17][^ref-23] The game's storyline, written by Scott Rosenbaum of television's "The Shield,"[^ref-8] was criticized as absurd.[^ref-7]
+Despite its ambitious premise and pedigree, SWAT: Target Liberty received a lukewarm critical reception, earning a Metacritic score of 50/100.[^ref-1] Critics praised the game's variety of door-entry techniques and tactical options[^ref-20] while criticizing tedious gameplay, a slow pace,[^ref-7] and ally AI (IGN, GamePro).[^ref-17][^ref-23] The game's storyline, written by Scott Rosenbaum of television's "The Shield,"[^ref-8] was criticized as absurd.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** 3G Studios[^ref-1]
 > **Producer:** Paul Pawlicki (Sierra)[^ref-4]
-> **Publisher:** Sierra Entertainment / Vivendi Games[^ref-1]
-> **Engine:** Unknown
+> **Publisher:** Vivendi Games (Sierra Entertainment label)[^ref-1][^ref-38]
 > **Platforms:** PlayStation Portable[^ref-1]
 > **Release Year:** 2007
 > **Series:** Police Quest/SWAT
@@ -57,7 +56,7 @@ The game includes a unique first-person sniper view that activates at certain po
 
 ### Structure and Progression
 
-Players take command of Officer Kurt Wolfe and can select two of four SWAT team members to accompany them on every mission.[^ref-4] Before each operation, players choose their squadmates from a roster of officers with distinct nicknames including "Hollywood," "Python," "Subway," and "Gramps," each possessing unique qualities and stats.[^ref-17] These team members can be assigned to "Blue" and "Red" teams for tactical purposes during missions.[^ref-12]
+Players take command of Officer Kurt Wolfe and can select two of four SWAT team members to accompany them on every mission.[^ref-4] The campaign comprises 12 missions set in New York City.[^ref-36][^ref-37] Before each operation, players choose their squadmates from a roster of officers with distinct nicknames including "Hollywood," "Python," "Subway," and "Gramps," each possessing unique qualities and stats.[^ref-17] These team members can be assigned to "Blue" and "Red" teams for tactical purposes during missions.[^ref-12]
 
 Each SWAT member is unique and has their own attributes and stats, which can be upgraded after every level.[^ref-9] The experience system rewards players for subduing enemies rather than killing them, encouraging tactical restraint over lethal force.[^ref-17] Completing missions by non-lethal means, without casualties or unnecessary kills, earns points that increase the team's stats and skills.[^ref-5]
 
@@ -81,7 +80,7 @@ Eurogamer was particularly harsh, scoring the game 4/10 and stating: "Boot up th
 
 GameZone awarded 5.0/10, with Natalie Romano writing that "SWAT: Target Liberty for the PSP could have been a really great game since it does have all the right elements in place but with so many faults this is more an exercise in frustration."[^ref-10] Game Informer gave 5/10 and declared that "Target Liberty should receive a citation for roughing up the prestigious SWAT franchise."[^ref-24] VideoGamer's Will Freeman scored it 5/10, observing that "SWAT on the PSP is in fact a game of slow methodical progress and tentative gunplay" and that "while it is hard to hate the first outing for SWAT on the PSP, enthusiasm towards this mediocre release is hard to muster."[^ref-25]
 
-Defunct Games gave 57%, with Cyril Lachel criticizing the game as "a messy game full of small graphics, a boring story and repetitive action" where "the pace of this game is unbearably slow."[^ref-11] GameSpy's Cameron Lewis was similarly disappointed, noting "nobody said being a cop was easy, but surely it should be more fun than a dreary hike through a glorified dungeon crawl."[^ref-26] Pocket Gamer UK suggested that "instead of setting its sights on liberty, the game should have perhaps concerned itself with offering a more engaging experience."[^ref-6] The lone positive review on Metacritic came from Official PlayStation 2 Magazine UK, which scored it 80: "With 45 hours of missions to do and its PSP-specific design, this is one of the best games on the handheld."[^ref-6]
+Defunct Games gave 57%, with Cyril Lachel criticizing the game as "a messy game full of small graphics, a boring story and repetitive action" where "the pace of this game is unbearably slow."[^ref-11] GameSpy's Cameron Lewis was similarly disappointed, noting "nobody said being a cop was easy, but surely it should be more fun than a dreary hike through a glorified dungeon crawl."[^ref-26] Pocket Gamer UK suggested that "instead of setting its sights on liberty, the game should have perhaps concerned itself with offering a more engaging experience."[^ref-6] Pocket Gamer's own review (Tracy Erickson, October 19, 2007) scored it 3 out of 5, praising the presentation and "incredible detail in its environments" while finding the single-player game uninspired.[^ref-36] The lone positive review on Metacritic came from Official PlayStation 2 Magazine UK, which scored it 80: "With 45 hours of missions to do and its PSP-specific design, this is one of the best games on the handheld."[^ref-6]
 
 ### Modern Assessment
 
@@ -100,6 +99,8 @@ Some PSP players have since defended the game, with one Reddit post calling it "
 ### Origins
 
 Development was handled by 3G Studios,[^ref-1] which a present-day GameCompanies listing describes as an independent developer for mobile, console and social games.[^ref-29] Sierra producer Paul Pawlicki said the game "is in no way a port. It was built from the ground up for the PSP," and that the biggest challenge was designing for the PSP audience: "Handheld games need to deliver a somewhat more arcade-like experience and also need to be playable in short spurts."[^ref-4] It was the first SWAT game on the PSP.[^ref-22]
+
+Pocket Gamer reported the game on April 20, 2007, as a PSP title from 3G Studios, with Scott Rosenbaum of The Shield writing the script and a former SWAT officer advising on authenticity; Vivendi's Cindy Cook, the company's chief strategy and marketing officer, said it was "designed specifically for the PSP system."[^ref-38] On May 23, 2007, after a hands-on at Sony Gamers' Day where the Subway and DHS Distribution Center levels were playable, the same site described it as "one of two handheld iterations planned for the elite police series."[^ref-37]
 
 The decision to abandon the series' traditional first-person perspective for an isometric view was deliberate; Pawlicki noted that SWAT 2 had used a similar angle.[^ref-4] He explained the design philosophy: "We tried to keep the core SWAT values intact, like Less-than-Lethal weapons and restraining suspects, while providing a storyline and settings that allow for a few more gunfights."[^ref-4] GamesRadar's preview described the result as taking "the Killzone: Liberation route."[^ref-2]
 
@@ -120,7 +121,7 @@ The storyline was written by Scott Rosenbaum, known for his work on the acclaime
 
 The game featured several technical innovations designed to enhance replayability on the portable platform. The randomized AI placement system meant that enemy positions would differ between playthroughs.[^ref-5] A random killhouse generator created level geometry on the fly for every multiplayer mode,[^ref-4] and players could create their own maps.[^ref-9]
 
-The ad-hoc multiplayer supported up to four players in three modes that Pawlicki said "are all competitive in nature": escorting civilians while rivals try to steal them, killing as many terrorists as possible in a time limit, and a VIP variant in which other players are terrorists hunting the protected person.[^ref-4] GameZone named them Football, Rodeo Round-Up and The Great Escape.[^ref-10] The game also included unlockable FMV clips taken from an actual SWAT training school documentary.[^ref-20]
+The ad-hoc multiplayer supported up to four players in three modes that Pawlicki said "are all competitive in nature": escorting civilians while rivals try to steal them, killing as many terrorists as possible in a time limit, and a VIP variant in which other players are terrorists hunting the protected person.[^ref-4] GameZone named them Football, Rodeo Round-Up and The Great Escape.[^ref-10] Pocket Gamer's review gave the same names, praised the "enjoyable" multiplayer set, and regretted that only ad-hoc play was supported.[^ref-36] The game also included unlockable FMV clips taken from an actual SWAT training school documentary.[^ref-20]
 
 ### Technical Specifications
 
@@ -145,11 +146,11 @@ GamesRadar found a preview build "pretty easy to get into," and was told that by
 | — | October 16, 2007 | PSP | North America | Initial release[^ref-1] |
 | — | October 25, 2007 | PSP | Australia | PAL release[^ref-1] |
 | — | October 26, 2007 | PSP | Europe | EU release[^ref-1] |
-| PSN | Unknown | PSP/PSN | Various | Digital release[^ref-31] |
+| PSN | – | PSP/PSN | Various | Listed by VGChartz as a PlayStation Network version[^ref-31] |
 
 ### Technical Issues
 
-Critics consistently cited problematic ally AI as the game's most significant technical shortcoming. IGN's Sam Bishop colorfully described the issue: "Hey kids, here's a fun fact for you: did you know that the Special Weapons and Tactics division of our boys in blue is composed of cross-eyed, paint-huffing, speed-walking half-wits that refuse to take orders?"[^ref-17] GamePro found squadmates often got "stuck on obstacles, doorways, or furniture,"[^ref-23] and IGN described men who stood in place being gunned down or ignored repeated requests to subdue a suspect.[^ref-17]
+Reviewers disagreed about the squad AI. IGN and GamePro were critical of it, while GameSpot called teammate AI "pretty good." IGN's Sam Bishop colorfully described the issue: "Hey kids, here's a fun fact for you: did you know that the Special Weapons and Tactics division of our boys in blue is composed of cross-eyed, paint-huffing, speed-walking half-wits that refuse to take orders?"[^ref-17] GamePro found squadmates often got "stuck on obstacles, doorways, or furniture,"[^ref-23] and IGN described men who stood in place being gunned down or ignored repeated requests to subdue a suspect.[^ref-17] GameSpot's contrasting view is cited from its review.[^ref-7]
 
 GamePro criticized targeting, noting that "targeting an enemy yourself ultimately takes far too long,"[^ref-23] and GamesRadar found the overhead view's limited field of vision made transitions to the first-person sniper view disorienting.[^ref-2] The slow movement speed of characters was another common complaint, with critics noting that "the pace of this game is unbearably slow" for a handheld action title.[^ref-11]
 
@@ -190,13 +191,13 @@ VGChartz lists a PlayStation Network version alongside the UMD release.[^ref-31]
 
 ### Fan Projects
 
-No significant fan remakes, modifications or homebrew projects for Target Liberty are documented.
+No significant fan remakes, modifications or homebrew projects for Target Liberty were found as of 2026-11-11.
 
 ### Critical Perspective
 
 SWAT: Target Liberty represents an interesting but flawed experiment in adapting a PC-centric tactical franchise for handheld gaming. The decision to shift from first-person to isometric perspective was reasonable given the hardware limitations, but the execution failed to capture the tension and procedural satisfaction that defined the PC SWAT titles.
 
-The game's legacy is largely one of missed potential. Critics consistently acknowledged that the foundation—tactical squad management, multiple entry techniques, less-than-lethal options—was sound, but poor ally AI, repetitive mission design, and pacing issues undermined the experience.[^ref-17] As a historical artifact, Target Liberty demonstrates both the ambition of late-era Sierra Entertainment projects and the challenges of maintaining franchise identity across dramatically different platforms. It remains a curiosity for SWAT franchise completionists and PSP collectors, though a few players still call it a hidden gem.[^ref-27]
+The game's legacy is largely one of missed potential. Critics consistently acknowledged that the foundation—tactical squad management, multiple entry techniques, less-than-lethal options—was sound, but ally AI problems (cited by IGN and GamePro), repetitive mission design, and pacing issues undermined the experience.[^ref-17][^ref-23] As a historical artifact, Target Liberty demonstrates both the ambition of late-era Sierra Entertainment projects and the challenges of maintaining franchise identity across dramatically different platforms. It remains a curiosity for SWAT franchise completionists and PSP collectors, though a few players still call it a hidden gem.[^ref-27]
 
 ## Purchase
 
@@ -206,7 +207,7 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- A PlayStation Network version is listed by VGChartz[^ref-31]
+- VGChartz lists a PlayStation Network version, which no other source confirms[^ref-31]
 
 **Download / Preservation**
 - Physical copies available through secondary market retailers
@@ -258,3 +259,6 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 [^ref-33]: [AVID Wiki – Sierra Logo Variations (Archive)](http://web.archive.org/web/20260227060450/https://www.avid.wiki/Sierra_Entertainment/Logo_Variations) – unique logo intro description
 [^ref-34]: [Wikipedia – Vivendi Games](https://en.wikipedia.org/wiki/Vivendi_Games) – defunct July 10, 2008; merged with Activision; successor Activision Blizzard
 [^ref-35]: [ESRB – S.W.A.T. Target Liberty](https://www.esrb.org/ratings/23294/s-w-a-t-target-liberty/) – rated T for Teen with Blood, Language, and Violence
+[^ref-36]: [Pocket Gamer – Review](https://www.pocketgamer.com/swat-target-liberty/review/) – Tracy Erickson, October 19, 2007; 3/5, 12 missions, multiplayer mode names, R-button cursor
+[^ref-37]: [Pocket Gamer – Hands-On](https://www.pocketgamer.com/swat-target-liberty/hands-on-with-swat-target-liberty/) – Tracy Erickson, May 23, 2007; Sony Gamers' Day, a dozen missions, two handheld iterations
+[^ref-38]: [Pocket Gamer – Announcement](https://www.pocketgamer.com/swat-target-liberty/swat-target-liberty-hoping-to-storm-psp/) – Joao Diniz Sanches, April 20, 2007; Vivendi publisher, 3G Studios, Cindy Cook quote
