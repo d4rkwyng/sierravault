@@ -10,7 +10,7 @@ series: Standalone
 engine: WinG
 protagonist: Player as Powerhouse CEO
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: PowerHouse is a 1995 Windows business simulation about competing energy
   megacorporations, developed by Edward Grabowski Communications Ltd. and published
   by Impressions Games.
@@ -18,7 +18,7 @@ tags: [1990s, impressions, sierra, simulation, standalone]
 ---
 # PowerHouse
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ After simulating the automobile industry with Detroit, Impressions turned its at
 > **Release Year:** 1995
 > **Series:** Standalone
 > **Protagonist:** Player as Powerhouse CEO
-> **Sierra Lineage:** Sierra Family (Impressions Games)
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 
@@ -79,7 +79,7 @@ PowerHouse received mixed reviews upon release in 1995, ranging from Power Play'
 
 **Hyper** magazine's Chris Wheeler rated the game 75/100 in September 1995, saying it offered what many business simulations ignore: "great graphics, superb presentation, full-motion video inserts and a quality soundtrack"[^ref-5][^ref-22].
 
-The German publication **PC Games** was particularly enthusiastic, with Petra Maueröder awarding an 82% score in September 1995 and calling it "Empfehlenswert!" (recommended)[^ref-5][^ref-18]. Other German magazines in September 1995 were cooler: PC Joker's Joachim Nettelbeck gave 67%, PC Player's Jörg Langer 56/100 and Power Play's Peter Schwindt 41%[^ref-5].
+The German publication **PC Games** was particularly enthusiastic, with Petra Maueröder awarding an 82% score in September 1995 and calling it "Empfehlenswert!" (recommended)[^ref-5][^ref-18]. Wikipedia's review table lists other German magazines in September 1995 as cooler: PC Joker's Joachim Nettelbeck gave 67%, PC Player's Jörg Langer 56/100 and Power Play's Peter Schwindt 41%[^ref-5].
 
 **Next Generation** gave the game 4 out of 5 stars in October 1995, noting that "Looking at the mind-boggling array of charts and graphs in the game will provide some answers, but when all is said and done, making those decisions is up to you, and that's where the real fun in this economic simulation lies."[^ref-5][^ref-14]
 
@@ -90,7 +90,7 @@ Home of the Underdogs was critical, writing that "The game's over-ambitious atte
 The review hosted on Old-Games.com was kinder, noting that "PowerHouse comes close to being that game but for an inexplicable reason one of the most important and obvious ingredients is missing which knocks the game down a peg or two" (the missing ingredient being meaningful help in learning the game), and praising its "good AI competition" once learned[^ref-7].
 
 **Aggregate Scores:**
-- **MobyGames Critics:** 66% average (10 reviews)[^ref-1]
+- **MobyGames Critics:** 66% average (10 ratings, as of November 11, 2026)[^ref-1]
 - **MobyGames Players:** 2 ratings[^ref-1]
 - **MobyGames Moby Score:** 6.8[^ref-1]
 - **GameFAQs:** Fair (4 user ratings)[^ref-9]
@@ -106,7 +106,7 @@ The design team of Edward Grabowski, David Lester and Chris Foster drew inspirat
 
 ### Production
 
-Development of PowerHouse was completed in May 1995[^ref-2][^ref-3]. The game represented a significant technical milestone for Impressions Games, being their first product developed for Microsoft Windows rather than DOS[^ref-5][^ref-8][^ref-11]. This transition required the development team to solve the graphics performance issues that plagued early Windows gaming.
+Development of PowerHouse was completed in May 1995[^ref-2][^ref-3]. On June 20, 1995, Sierra On-Line merged with Software Inspiration Ltd., the parent company of Impressions, in a share exchange, so the game reached stores under Sierra ownership of its publisher[^ref-23]. The game represented a significant technical milestone for Impressions Games, being their first product developed for Microsoft Windows rather than DOS[^ref-5][^ref-8][^ref-11]. This transition required the development team to solve the graphics performance issues that plagued early Windows gaming.
 
 The team's solution was to utilize the WinG interface, which allowed PowerHouse to bypass Windows' graphics overhead problems while still taking advantage of the operating system's features[^ref-5]. The developers emphasized their philosophy of creating engaging games rather than mere "spreadsheets with graphics," striving to make the complex economic simulation accessible and entertaining[^ref-5].
 
@@ -115,6 +115,10 @@ An Amiga version of PowerHouse was previewed during development by publications 
 **Development Credits:**[^ref-1]
 
 - **Designers:** Edward Grabowski, David Lester, Christopher J. Foster
+- **Producer:** Chris Bamford[^ref-11]
+- **Programming:** Ben Bloss, Steven Goodwin, Edward Grabowski, Darren White[^ref-1][^ref-11]
+- **Graphics:** Erik Casey, Gary Ward[^ref-1][^ref-11]
+- **Additional Graphics:** Gerri Allen, James Horsler, Heidi Mann, Dennis Rose[^ref-1][^ref-11]
 - **Composers:** Jeremy A. Bell, Jay Rinaldi
 - **Additional Credits:** 31 people total credited
 
@@ -237,3 +241,4 @@ PowerHouse appeared in the following compilation:
 [^ref-20]: [Computer Game Review – September 1995](https://archive.org/details/computer-game-review-september-1995) – PowerHouse review (Snyder, Chapman, Kaiafas): premise, requirements, "No on-line help function"
 [^ref-21]: [Home of the Underdogs – PowerHouse](https://www.homeoftheunderdogs.net/game.php?name=PowerHouse) – description and criticism (weak AI, dubious economic model, few random events), Detroit predecessor
 [^ref-22]: [Hyper – September 1995 (Issue 22)](https://archive.org/details/hyper-022/page/67/mode/1up) – Chris Wheeler review, p. 67: overall 75, "nine different power sources", presentation praise
+[^ref-23]: [Sierra On-Line Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback Machine)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On June 20, 1995 the Company also merged with Inspiration, a developer of strategy games, in exchange for 730,352 shares of Sierra's common stock"
