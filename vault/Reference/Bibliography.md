@@ -1,14 +1,14 @@
 ---
 title: "Bibliography"
 type: reference
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 description: "Canonical research sources for Sierra On-Line history — books, long-form journalism, fan-maintained databases, oral-history archives, and the curated source hierarchy used throughout this vault."
 tags: [reference, bibliography, sources, citations]
 ---
 
 # Bibliography
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -24,13 +24,14 @@ These are first-party publishers, employees, and contemporary primary documents.
 
 ### Books and memoirs
 
-Ken Williams's memoir is a primary source; Kent, Levy and Donovan are secondary histories, listed here for convenience.
+Ken Williams's memoir is a primary source; Kent, Levy, Donovan and Mills are secondary histories, listed here for convenience.
 
 
 - **Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line*** (Lulu.com, July 24, 2020; ISBN 978-1-71672-736-8). Self-published memoir by Sierra's co-founder covering founding through the CUC sale. The single most important primary source for the company's business history.[^ref-kw-book]
-- **Steven L. Kent, *The Ultimate History of Video Games*** (Three Rivers Press, 2001; first published by Prima Publishing, 2001; ISBN 0-7615-3643-4). Industry-wide survey; Sierra appears only in passing (no Roberta Williams or Al Lowe interviews).[^ref-kent]
+- **Steven L. Kent, *The Ultimate History of Video Games: From Pong to Pokémon and Beyond*** (Prima Publishing and Three Rivers Press editions, 2001; Crown Publishing reissue, 2021; ISBN 0-7615-3643-4). Industry-wide survey; Sierra appears only in passing (no Roberta Williams or Al Lowe interviews).[^ref-kent]
 - **Steven Levy, *Hackers: Heroes of the Computer Revolution*** (Doubleday, 1984). Documents early On-Line Systems and the broader Apple II hobbyist context.[^ref-levy]
 - **Tristan Donovan, *Replay: The History of Video Games*** (Yellow Ant, 2010). Industry survey with adventure-game-genre coverage.[^ref-donovan]
+- **Shawn Mills, *Sierra Adventure: The Story of Sierra On-Line*** (Lulu Press, Inc., 2020; ISBN 978-1-71675-872-0). Book about Sierra On-Line.[^ref-mills]
 
 ### Official company pages
 
@@ -84,7 +85,7 @@ The most important secondary sources — extended retrospectives, oral histories
 ### Academic / Museum sources
 
 - **[The Strong National Museum of Play — Sierra collection](https://www.museumofplay.org)** — Inducted King's Quest into the World Video Game Hall of Fame in 2020 (the only Sierra-published inductee to date; Half-Life was a finalist in 2018 and 2019).[^ref-strong] Its Brian Sutton-Smith Library and Archives of Play holds two Sierra archives: [Ken and Roberta Williams' Sierra On-Line Collection, 1979–1999](https://www.museumofplay.org/finding-aid-to-ken-and-roberta-williams-sierra-on-line-collection_062119/)[^ref-strong-kw] and the [Laine Nooney Sierra On-Line Collection, 1983–1993, 2015](https://www.museumofplay.org/finding-aid-to-the-laine-nooney-sierra-on-line-collection_restrictions-added_052316/).[^ref-strong-nooney]
-- **[GDC Vault — Sierra talks](https://gdcvault.com/play/1024910/Beneath-the-Flesh-of-Walls)** — Laine Nooney's GDC 2018 talk *Beneath the Flesh of Walls: The Making of Sierra's 'Mystery House'*. (GDC Vault was redirecting to a maintenance page in October 2026; [Wayback copy](http://web.archive.org/web/20240112152808/https://gdcvault.com/play/1024910/Beneath-the-Flesh-of-Walls).)[^ref-gdc]
+- **[GDC Vault — Sierra talks](https://gdcvault.com/play/1024910/Beneath-the-Flesh-of-Walls)** — Laine Nooney's GDC 2018 talk *Beneath the Flesh of Walls: The Making of Sierra's 'Mystery House'*. [Wayback copy](http://web.archive.org/web/20240112152808/https://gdcvault.com/play/1024910/Beneath-the-Flesh-of-Walls).[^ref-gdc]
 - **[[Sierra Documentary - Legends of Adventure]]** — The vault's page on the in-production Sierra documentary.
 - **[MIT Lemelson — Roberta Williams](https://lemelson.mit.edu/resources/roberta-williams)** — Inventor-profile entry.[^ref-mitlemelson]
 - **[IEEE Spectrum — Meet Roberta Williams](https://spectrum.ieee.org/meet-roberta-williams-the-queen-of-graphic-adventure-video-games)** — Joanna Goodrich's 2020 profile of Roberta Williams.[^ref-ieee]
@@ -166,9 +167,10 @@ Before adding a citation to a vault page:
 ## References
 
 [^ref-kw-book]: Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line* (Lulu.com, 2020), ISBN 978-1-71672-736-8 — [Open Library record](https://openlibrary.org/isbn/9781716727368)
-[^ref-kent]: Steven L. Kent, *The Ultimate History of Video Games* (Three Rivers Press, 2001; originally Prima Publishing), ISBN 0-7615-3643-4 — [Open Library record](https://openlibrary.org/isbn/0761536434)
+[^ref-kent]: Steven L. Kent, *The Ultimate History of Video Games* (Prima Publishing and Three Rivers Press, 2001; Crown Publishing, 2021), ISBN 0-7615-3643-4 — [Open Library record](https://openlibrary.org/isbn/0761536434) lists these three publishers and the subtitle *From Pong to Pokémon and Beyond*
 [^ref-levy]: Steven Levy, *Hackers: Heroes of the Computer Revolution* (Anchor Press/Doubleday, 1984), ISBN 0-385-19195-2 — [Open Library record](https://openlibrary.org/books/OL2844180M)
 [^ref-donovan]: Tristan Donovan, *Replay: The History of Video Games* (Yellow Ant, 2010), ISBN 978-0-9565072-0-4 — [Open Library record](https://openlibrary.org/books/OL27122997M)
+[^ref-mills]: Shawn Mills, *Sierra Adventure: The Story of Sierra On-Line* (Lulu Press, Inc., 2020), ISBN 978-1-71675-872-0 — [Open Library record](https://openlibrary.org/isbn/9781716758720)
 [^ref-gfa]: [Guys From Andromeda](https://www.guysfromandromeda.com) — Crowe and Murphy official site, including SpaceVenture
 [^ref-allowe]: [Al Lowe official site](https://www.allowe.com) — Al Lowe Sierra archive
 [^ref-postudios]: [Phoenix Online Studios](https://www.postudios.com/company/) — The Silver Lining and other titles
