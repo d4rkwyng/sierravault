@@ -10,14 +10,14 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: Animated Jaws/Teeth
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Jawbreaker is a 1981 maze-chase action game by John Harris for the Atari
   8-bit computers, published by On-Line Systems, later Sierra On-Line.
 tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -87,7 +87,7 @@ Some retrospective analysis has been more critical, with one reviewer noting tha
 
 ### Origins
 
-Harris met [[Ken Williams]] by chance at the Sixth Annual West Coast Computer Faire in early April 1981, when Harris was 19; he had spent about a year at San Diego State University and had founded and led a San Diego Atari user group[^ref-25]. In a 1982 *Softline* interview, Harris said Jawbreaker "was originally Harris's idea" with suggestions from various people, particularly John Williams; he began writing it in spring 1981, and after several changes it reached the market in summer[^ref-25].
+Harris met [[Ken Williams]] by chance at the Sixth Annual West Coast Computer Faire in early April 1981, when Harris was 19; he had spent about a year at San Diego State University and had founded and led a San Diego Atari user group[^ref-25]. *Softline*'s May 1982 interview reported that "Jawbreaker was originally Harris's idea," though he "got a lot of suggestions from various people, particularly John Williams"; Harris began writing the game in spring 1981, and after several changes it reached the market in summer[^ref-25].
 
 John Harris was only 19 years old when he developed Jawbreaker for On-Line Systems[^ref-13]. Harris was brought to the company by Williams, who gave him an opportunity to prove himself with a tight deadline—according to Retro365, Williams told him that if he hadn't finished a game in two months, he wouldn't make it in the industry anyway[^ref-13]. Harris was paid $1,500 per month for two months during development and lived in company houses while creating the game[^ref-13].
 
@@ -152,7 +152,7 @@ The Atari 2600 version of Jawbreaker had to be written considerably differently 
 
 Harris and two other programmers were flown to Chicago to learn 2600 programming[^ref-4]. A SYM 6502 board served as the 2600 cartridge emulator; while the other programmers made do with its hex keypad and LED display, Harris wrote his own remote screen-oriented debugging tools that ran on the Atari 800[^ref-4]. Tiger Electronic Toys had reverse-engineered the 2600 hardware for the port[^ref-4].
 
-The 2600 game, published by Tigervision, is played on horizontal lanes rather than a Pac-Man maze; a 1983 *Creative Computing Video & Arcade Games* listing describes it as "Horizontal corridors with moving doors"[^ref-12]. The same issue calls it one of five titles introduced by Tiger Electronic Toys' new Tigervision line, "licensed from On-Line Systems" and "much different" from the computer versions[^ref-12].
+The 2600 game, published by Tigervision (model 7-002) and programmed by John Harris, has only one power pellet instead of Pac-Man's four, placed in the center of the screen, and uses rows instead of a maze, with moving holes on each row that allow a quick getaway; the jawbreakers "simply drift randomly along the rows" rather than chase the player[^ref-30]. It is played on horizontal lanes rather than a Pac-Man maze; a 1983 *Creative Computing Video & Arcade Games* listing describes it as "Horizontal corridors with moving doors"[^ref-12]. The same issue calls it one of five titles introduced by Tiger Electronic Toys' new Tigervision line, "licensed from On-Line Systems" and "much different" from the computer versions[^ref-12].
 
 When Harris saw the home computer versions that were created by other programmers (including the later C64 port), he was reportedly appalled at the quality compared to his original vision[^ref-13].
 
@@ -200,13 +200,13 @@ Harris was 19, living in a company house on a two-month deadline, when he wrote 
 
 ## Downloads
 
+**Purchase / Digital Stores**
+- Not sold: no current commercial release is known (as of November 11, 2026).
+
 **Download / Preservation**
 - [Internet Archive – Apple II Version](https://archive.org/details/a2_Jawbreaker_1981_On_Line)
 - [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Jawbreaker_1980_Sierra_On_Line_US_k_file)[^ref-20]
 - [MyAbandonware](https://www.myabandonware.com/game/jawbreaker-7o3)[^ref-14]
-
-**Purchase / Digital Stores**
-- Not sold: no current commercial release is known (as of November 11, 2026).
 
 **Manuals & Extras**
 - [Atari Jawbreaker Manual](https://archive.org/details/AtariJawbreakerManual)[^ref-21]
@@ -246,3 +246,4 @@ Harris was 19, living in a company house on a two-month deadline, when he wrote 
 [^ref-27]: [Atari Archive – Atari VCS game release dates](https://www.atariarchive.org/atari-vcs-game-release-dates/) – Jawbreaker listed under October 1982 (Arcade Express, Computer Entertainer, Los Angeles Times, other press)
 [^ref-28]: [Atari Magazines – Creative Computing Video & Arcade Games, Spring 1983, Apple games roundup](https://www.atarimagazines.com/cva/v1n1/applegames.php) – Jawbreaker and Snack Attack review (DHA); "for PacMan fans, either is recommended"
 [^ref-29]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – founded 1979 as On-Line Systems by Ken and Roberta Williams
+[^ref-30]: [AtariProtos – Jawbreaker (Tigervision, 1982)](https://www.atariprotos.com/2600/software/jawbreaker/jawbreaker.htm) – model 7-002, programmer John Harris, single center power pellet, rows with moving holes, randomly drifting enemies
