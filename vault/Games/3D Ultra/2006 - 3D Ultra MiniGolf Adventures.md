@@ -10,14 +10,14 @@ series: 3D Ultra Minigolf
 engine: Unknown
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "3D Ultra Minigolf Adventures is an arcade-style miniature golf video game developed by Wanako Games and published by Vivendi Games under the Sierra Online label, released for Windows in 2006 and Xbox 360 in 2007."
 tags: [2000s, 3d-ultra-minigolf, sierra]
-last_modified: 2026-11-11T00:00:00-07:00
+last_modified: 2026-11-12T00:00:00-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -112,6 +112,10 @@ As of October 2026, the Steam store page rates the game "Mostly Positive", with 
 - **MobyGames:** 66% critic average (13 ratings)[^ref-18]; 6.4/10 user score (15 votes)[^ref-16]
 - **Steam:** 70% positive (117 reviews, October 2026)[^ref-4]
 - **IGN:** 7.5/10[^ref-9]
+- **Metacritic (PC):** 35/100[^ref-1]
+- **GameSpot:** 5.5/10[^ref-1][^ref-3]
+- **Eurogamer:** 5/10[^ref-1][^ref-12]
+- **Official Xbox Magazine (US and UK), PALGN and TeamXbox:** 7/10 each[^ref-1]
 
 One TrueAchievements reviewer wrote that the game was "no longer overpriced" after its price fell from 800 to 400 Microsoft Points, stating the achievements "won't take long" and the game has "an exploitable save system in that it saves after each hole."[^ref-13]
 
@@ -161,7 +165,7 @@ MobyGames lists Dolby Digital and Dolby Digital 5.1 among the Xbox 360 version's
 - **Original Price:** 800 Microsoft Points (later reduced to 400)[^ref-13]
 
 **Steam Version:**[^ref-4][^ref-21]
-- **Release Date:** July 23, 2009
+- **Release Date:** July 23, 2009 (the Steam store page itself displays December 20, 2006, the date of the Windows release)
 - **Price:** $9.99
 - **Publisher:** [[Activision]]
 
@@ -207,6 +211,9 @@ GameSpot summed the game up as "a bit of fun when played with friends, but the s
 
 ## Downloads
 
+**Official Site**
+- [Official site (Internet Archive snapshot, May 18, 2007)](http://web.archive.org/web/20070518185011/http://www.3dultraminigolf.com:80/)[^ref-26]
+
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - Windows version, $9.99
 
@@ -215,7 +222,8 @@ GameSpot summed the game up as "a bit of fun when played with friends, but the s
 
 ## See Also
 
-- [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Series]]
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe|Next: 3D Ultra Minigolf Adventures Deluxe]]
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
@@ -255,3 +263,4 @@ GameSpot summed the game up as "a bit of fun when played with friends, but the s
 [^ref-23]: [Wikipedia – Behaviour Santiago](https://en.wikipedia.org/wiki/Behaviour_Santiago) – formerly Wanako Games Chile; "a Chilean video game developer based in Santiago", founded 2002, acquired by Vivendi Games 2007
 [^ref-24]: [MobyGames – 3D Ultra Mini Golf Adventures 2](https://www.mobygames.com/game/53716/3d-ultra-mini-golf-adventures-2/) – Xbox 360 release 2010-10-27, PlayStation 3 release 2010-11-16 (read via the MobyGames API)
 [^ref-25]: [Xbox Wire – Arcade: 3D Ultra MiniGolf Adventures 2 (October 27, 2010)](https://news.xbox.com/en-us/2010/10/27/arcade-3d-ultra-minigolf-adventures-2/) – Microsoft's Xbox 360 launch listing dated October 27, 2010
+[^ref-26]: [3D Ultra Minigolf Adventures official site (Internet Archive, May 18, 2007)](http://web.archive.org/web/20070518185011/http://www.3dultraminigolf.com:80/) – archived official site advertising the free trial and 36 holes across the Classic Carnival, Old West and Outer Space
