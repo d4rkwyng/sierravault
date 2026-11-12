@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Al Lowe]
 description: 'King''s Quest II: Romancing the Throne is the second installment in
   the King''s Quest series, released by Sierra On-Line in 1985 for IBM PC and PCjr.
@@ -20,7 +20,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -71,10 +71,10 @@ The game's most notorious design element is a rickety bridge leading to the magi
 
 ### Contemporary Reviews
 
-King's Quest II received enthusiastic reviews upon release. Computer Entertainer's December 1985 review said it had "all the magic of a favorite fairy tale" and called it "not to be missed"[^ref-43]. In Antic (May 1986), Brad Kershaw wrote: "If all adventures could be this enjoyable and visually stimulating, I would have been an adventure game freak long ago"[^ref-44]. Keith Campbell of Computer and Video Games (August 1986) agreed with Sierra's claim that it represented "a totally new approach to computer adventuring"—"Well, almost," he added, citing a similar technique in Melbourne House's Zim Sala Bim[^ref-45]. Aktueller Software Markt (ASM, July 1986) reviewed the Atari ST version, scoring it 10 for graphics, 10 for vocabulary, 9 for story and 10 for atmosphere[^ref-42]; MobyGames records this as 9.75/10[^ref-39]. Sierra's packaging quoted Consumer Software News ("if you liked King's Quest you'll love the sequel"), Computer Entertainment ("Roberta Williams has simply outdone herself") and QuestBusters ("the most lushly painted and highly detailed scenery seen since...well King's Quest I")[^ref-7].
+King's Quest II received enthusiastic reviews upon release. Computer Entertainer's December 1985 review said it had "all the magic of a favorite fairy tale" and called it "not to be missed"[^ref-43]. According to Wikipedia, a different Computer Entertainer review, by Patrick McGrath, said it had the best animation of any video game[^ref-2]. In Antic (May 1986), Brad Kershaw wrote: "If all adventures could be this enjoyable and visually stimulating, I would have been an adventure game freak long ago"[^ref-44]. Keith Campbell of Computer and Video Games (August 1986) agreed with Sierra's claim that it represented "a totally new approach to computer adventuring"—"Well, almost," he added, citing a similar technique in Melbourne House's Zim Sala Bim[^ref-45]. Aktueller Software Markt (ASM, July 1986) reviewed the Atari ST version, scoring it 10 for graphics, 10 for vocabulary, 9 for story and 10 for atmosphere[^ref-42]; MobyGames records this as 9.75/10[^ref-39]. Sierra's packaging quoted Consumer Software News ("if you liked King's Quest you'll love the sequel"), Computer Entertainment ("Roberta Williams has simply outdone herself") and QuestBusters ("the most lushly painted and highly detailed scenery seen since...well King's Quest I")[^ref-7].
 
 **Contemporary Scores:**
-- **ST Magazine (Atari ST, issue 3):** 4/5 (Intérêt ****; Graphisme ***, Bruitage **)[^ref-47][^ref-39]
+- **ST Magazine (Atari ST, issue 3, December 1985):** 4/5 (Intérêt ****; Graphisme ***, Bruitage **)[^ref-47][^ref-39]
 - **Computer + Video Games (Atari ST, Aug 1986):** 6/10 (average of four category scores: Vocab 7, Atmosphere 7, Personal 5, Value 5)[^ref-45][^ref-14]
 - **ASM (Atari ST, Jul 1986):** 9.75/10 (average of four category scores)[^ref-42][^ref-39]
 - **Tilt (Atari ST, Jun 1987):** 16/20[^ref-39]
@@ -137,7 +137,7 @@ The booter version plays music at a slower tempo and louder volume compared to t
 
 ### Music and Audio
 
-Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, several of them arrangements of public-domain works such as a Tchaikovsky piece (the "Kiss" cue, which VGMPF files under the title *Romeo and Juliet*), Bach, Chopin, Mendelssohn and Wagner, plus a Space Quest trailer theme by Mark Crowe and Tommy Shaw[^ref-20]. DOS Days noted that "KQ2 has over twice the number of songs as KQ1" while reusing some tracks including the Title, Danger, and Dead themes[^ref-3]. The opening screen features "Greensleeves" on the PC speaker[^ref-10]. When Graham encounters the ghosts, the game plays an unlicensed arrangement of Rod Temperton's "Thriller", and the Batmobile gag uses Neal Hefti's Batman theme[^ref-20].
+Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces (Wikipedia says thirteen tracks[^ref-2]), several of them arrangements of public-domain works such as a Tchaikovsky piece (the "Kiss" cue, which VGMPF links to a composition titled *Romeo and Juliet*), Bach, Chopin, Mendelssohn and Wagner, plus a Space Quest trailer theme by Mark Crowe and Tommy Shaw[^ref-20]. DOS Days noted that "KQ2 has over twice the number of songs as KQ1" while reusing some tracks including the Title, Danger, and Dead themes[^ref-3]. The opening screen features "Greensleeves" on the PC speaker[^ref-10]. When Graham encounters the ghosts, the game plays an unlicensed arrangement of Rod Temperton's "Thriller", and the Batmobile gag uses Neal Hefti's Batman theme[^ref-20].
 
 ### Version History
 
@@ -153,6 +153,8 @@ Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, seve
 | Amiga | April 1987 | Amiga | MobyGames first release date[^ref-1] |
 | Mac | June 1987 | Macintosh | Mac port[^ref-1] with 4givmeken backdoor[^ref-22] |
 | Apple IIgs | August 1988 | Apple IIgs | MobyGames first release date[^ref-1] |
+
+**UK distribution:** MobyGames lists a 1994 re-release of the Amiga version published by U.S. Gold Ltd. under its Kixx XL label, with the United Kingdom among its release countries, and a Kixx XL 3.5" disk release for DOS in Germany[^ref-1]. Computer and Video Games' August 1986 review of the Atari ST version lists the supplier as Sierra On-Line and Mirrorsoft, at £29.95[^ref-45].
 
 **AGI Interpreter Versions:**[^ref-3]
 
@@ -172,7 +174,7 @@ In February 1987, Computer Entertainer reported that the first two King's Quest 
 
 ### Remakes
 
-**Unmade Sierra Remake:** Accounts differ on whether Sierra ever planned to remake King's Quest II after its 1990 SCI remake of King's Quest I. Sierra Chest states that in 1990 Sierra planned to redevelop the game, but scrapped the plan because of the "rather disappointing sales" of the King's Quest I remake[^ref-19]. AGD Interactive's history of its own remake says instead that, "due to the commercial failure of Sierra On-Line's official SCI remake of King's Quest I, no plans were ever made to upgrade King's Quest II"[^ref-23]. The King's Quest Omnipedia cites Donald B. Trivette's 1993 *Official Book of King's Quest* (third edition) as saying plans were made to re-do II and III, "but at this writing that has not been done"[^ref-48].
+**Unmade Sierra Remake:** Accounts differ on whether Sierra ever planned to remake King's Quest II after its 1990 SCI remake of King's Quest I. Sierra Chest states that in 1990 Sierra planned to redevelop the game, but scrapped the plan because of the "rather disappointing sales" of the King's Quest I remake[^ref-19]. AGD Interactive's history of its own remake says instead that, "due to the commercial failure of Sierra On-Line's official SCI remake of King's Quest I, no plans were ever made to upgrade King's Quest II"[^ref-23]. The King's Quest Omnipedia cites Donald B. Trivette's 1993 *Official Book of King's Quest* (third edition) as saying plans were made to re-do II and III, "but at this writing that has not been done"[^ref-48]. Josh Mandel, quoted on the same page, said that while he was "not sure I'd describe their sales as 'poor,'" the remakes were "certainly not as good as the same budget poured into a new game"[^ref-48].
 
 **AGD Interactive VGA Remake (2002):** AGD Interactive (formerly Tierra Entertainment) released "King's Quest II: Romancing the Stones," an unofficial VGA remake that AGDI reported had been downloaded over 510,400 times as of September 2010[^ref-52]. Features include a point-and-click interface, full voice acting with Josh Mandel reprising King Graham[^ref-2][^ref-49], the Adventure Game Studio engine[^ref-50], a substantially rewritten plot with new characters, and the infamous bridge no longer collapsing[^ref-2][^ref-4][^ref-23]. Hardcore Gaming 101 declared the remake "far exceeds any of the work Sierra themselves put into any of their VGA remakes"[^ref-4].
 
@@ -227,8 +229,9 @@ This game has been included in[^ref-1]:
 
 ## See Also
 
-- [[1984 - King's Quest - Quest for the Crown]]
-- [[1986 - King's Quest III - To Heir Is Human]]
+- [[King's Quest Series]] — Series overview
+- [[1984 - King's Quest - Quest for the Crown|← Previous: King's Quest: Quest for the Crown]]
+- [[1986 - King's Quest III - To Heir Is Human|→ Next: King's Quest III: To Heir Is Human]]
 - [[1988 - King's Quest IV - The Perils of Rosella]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
