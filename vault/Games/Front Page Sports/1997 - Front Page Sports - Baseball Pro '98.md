@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Physics-based simulation engine
 protagonist: N/A (Player-controlled teams)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Barth]
 description: 'Front Page Sports: Baseball Pro ''98 is a physics-based baseball simulation
   developed by Dynamix and published by Sierra On-Line for Windows 95 in May 1997,
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports-baseball, sierra]
 ---
 # Front Page Sports: Baseball Pro '98
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,13 +81,13 @@ Team management covers trades, drafts, lineup construction and in-game tactical 
 
 ### Contemporary Reviews
 
-GameSpot's Stephen Poole awarded the game 8 out of 10. He wrote that "the game looks and feels a lot like real baseball – the animations are dead-on without looking canned and the ball physics seem to be about right"[^ref-14]. He also noted that "if it's on-field action that gets you pumped, you'll probably be a little disappointed with BB Pro '98 – but if you're looking to take on the role of general manager and guide your favorite team to the World Series, there's no better game in town"[^ref-14].
+GameSpot's Stephen Poole awarded the game 8 out of 10 in a review dated July 3, 1997[^ref-14][^ref-1]. He wrote that "the game looks and feels a lot like real baseball – the animations are dead-on without looking canned and the ball physics seem to be about right"[^ref-14]. He also noted that "if it's on-field action that gets you pumped, you'll probably be a little disappointed with BB Pro '98 – but if you're looking to take on the role of general manager and guide your favorite team to the World Series, there's no better game in town"[^ref-14].
 
-PC Gamer gave a more critical assessment with a 60% score. Reviewer Gary Whitta acknowledged that "Sierra's commitment to excellence and authenticity in this area is admirable" but lamented that "it's just a shame that it has to come at the expense of good, old-fashioned fun"[^ref-5]. The review's bottom line stated the game "achieves what it sets out to do, but baseball has never looked less inviting"[^ref-5].
+PC Gamer gave a more critical assessment with a 60% score in its September 1997 issue (vol. 4 no. 9)[^ref-5][^ref-1]. Reviewer Gary Whitta acknowledged that "Sierra's commitment to excellence and authenticity in this area is admirable" but lamented that "it's just a shame that it has to come at the expense of good, old-fashioned fun"[^ref-5]. The review's bottom line stated the game "achieves what it sets out to do, but baseball has never looked less inviting"[^ref-5].
 
-GameCenter's Lance Elko gave the game 8 out of 10, noting that "arcade play is passable but not the game's prime mode"[^ref-13].
+GameCenter's Lance Elko gave the game 8 out of 10 in a review dated August 5, 1997[^ref-13][^ref-1], noting that "arcade play is passable but not the game's prime mode"[^ref-13].
 
-Steve Bauman of Computer Games Strategy Plus gave a mixed but largely positive verdict[^ref-1]: "While it's true this is really the game Baseball Pro 96 should have been, any hardcore baseball grognard can't deny this is still the game they'd design"[^ref-10]. He added that "with more features than any game on the market, it's as close to baseball perfection as anything out there, but remains enough of a mess to make it unlikely to convert its past critics"[^ref-10].
+Steve Bauman of Computer Games Strategy Plus gave a mixed but largely positive verdict[^ref-10]: "While it's true this is really the game Baseball Pro 96 should have been, any hardcore baseball grognard can't deny this is still the game they'd design"[^ref-10]. He added that "with more features than any game on the market, it's as close to baseball perfection as anything out there, but remains enough of a mess to make it unlikely to convert its past critics"[^ref-10].
 
 Computer Gaming World's Robert Coffey gave the game 2.5 out of 5 in a review titled "Minor Leaguer" (issue #159, October 1997), subtitled "It's Better, but Sierra's Ambitious Baseball Sim Still Can't Make the Big Leagues"[^ref-32]. He wrote that it "has zapped many of the bugs that plagued the '96 version" and that "position players no longer lead the league in saves, the pitch indicator works, and the World Series is no longer a one-game affair," but that "lost among the glut of detail is a sense of real fun," with "a new bunch of bugs" in place of the old[^ref-32]. Simulating games "still takes forever," he wrote, but a new "Fast Sim" option "reduces that to about a third of forever," and "'fast simming' an entire season will still consume an entire day"[^ref-32]. He closed by noting that "more than a decade ago, with less technology and less powerful computers, Earl Weaver Baseball had many of Baseball Pro '98's features and loads more fun. That's why it's in this magazine's Hall of Fame"[^ref-32].
 
@@ -278,6 +278,6 @@ Front Page Sports: Baseball Pro '98 shows the split in 1990s sports gaming betwe
 [^ref-28]: [CNET Download](https://download.cnet.com/front-page-sports-baseball-pro-98-large/3000-2117_4-10009457.html) – large demo, May 30, 1997 release date, DirectX requirement, download count
 [^ref-29]: [MobyGames – Front Page Sports: Baseball Pro '98 Credits (Windows)](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/credits/windows/) – full credits: musicians, voice talent Bill Barrett, sound effects LOUDMOUTH/Ken Rogers
 [^ref-30]: [Wikipedia – Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – series began 1992 as Dynamix's first sports sim; final 1999 version recalled
-[^ref-31]: [MobyGames – Front Page Sports: Baseball Pro '98 Releases](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/releases/) – Windows releases for US, UK and Germany; CUC Software International distributed the UK and German releases (read via the MobyGames API)
+[^ref-31]: [MobyGames – Front Page Sports: Baseball Pro '98 Releases](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/releases/) – Windows releases for US, UK and Germany; CUC Software International distributed the UK and German releases
 [^ref-32]: [Internet Archive – Computer Gaming World Issue 159 (October 1997)](https://archive.org/details/Computer_Gaming_World_Issue_159) – Robert Coffey, "Minor Leaguer": 2.5/5, bug fixes, Fast Sim, Earl Weaver Baseball comparison
 [^ref-33]: [Internet Archive – Game Informer Issue 52 (August 1997)](https://archive.org/details/Game_Informer_Issue_052_August_1997) – Baseball Pro '98 capsule, 7.25
