@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Taran
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: The Black Cauldron is a 1986 Sierra On-Line adventure game based on
   Disney's 1985 animated film, designed by Al Lowe and Roberta Williams and controlled
   with function keys instead of a text parser.
@@ -18,11 +18,11 @@ tags: [1980s, adventure, agi, al-lowe, disney, roberta-williams, sierra]
 ---
 # The Black Cauldron
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-The Black Cauldron is a 1986 adventure game developed by Sierra On-Line in collaboration with Disney[^ref-1]. It was created by Al Lowe, who later became known for the Leisure Suit Larry series[^ref-2]. According to Adventure Classic Gaming, it was only the second adventure game Sierra developed from a movie license, after The Dark Crystal[^ref-18]. It is based on Disney's 1985 animated film of the same name, itself adapted from Lloyd Alexander's Chronicles of Prydain novels, and it replaced the text parser with a simplified function-key interface intended to make the game more accessible to children[^ref-3].
+The Black Cauldron is a 1986 adventure game developed by Sierra On-Line in collaboration with [[Disney]][^ref-1][^ref-31][^ref-33]. Jimmy Maher of The Digital Antiquarian describes it as "largely designed by Roberta and programmed, as usual, by Al Lowe"[^ref-34]; MobyGames credits the design to both [[Roberta Williams]] and [[Al Lowe]], who later became known for the Leisure Suit Larry series[^ref-2][^ref-31]. According to Adventure Classic Gaming, it was only the second adventure game Sierra developed from a movie license, after The Dark Crystal[^ref-18]. It is based on Disney's 1985 animated film of the same name, itself adapted from Lloyd Alexander's Chronicles of Prydain novels, and it replaced the text parser with a simplified function-key interface intended to make the game more accessible to children[^ref-3].
 
 Al Lowe describes the film as "the last of the pre-Michael Eisner Disney animated feature-length movies," and recalls that "Disney had no software developers back then and had seen my very early game, 'Troll's Tale.' They asked me to do a movie spinoff using its simplified Spacebar & Enter key-only interface"[^ref-4].
 
@@ -30,7 +30,7 @@ Al Lowe describes the film as "the last of the pre-Michael Eisner Disney animate
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Al Lowe]], [[Roberta Williams]][^ref-31]
 > **Publisher:** Sierra On-Line[^ref-1]
-> **Engine:** AGI[^ref-28]
+> **Engine:** [[Adventure Game Interpreter|AGI]][^ref-28]
 > **Platforms:** DOS, PC Booter, Apple II, Apple IIgs, Atari ST, Amiga[^ref-31]
 > **Release Year:** 1986
 > **Series:** Disney
@@ -47,13 +47,13 @@ The game follows the basic plot structure of the Disney film but allows for sign
 
 ### Interface and Controls
 
-The Black Cauldron used an innovative interface that, according to Wikipedia, would not reappear in the genre for about ten years[^ref-3]. To make the game more accessible to children, Sierra removed the text parser and used function keys instead[^ref-3]. Players moved Taran with the arrow keys and interacted with the world through specific function keys: F3 to choose inventory items, F4 to use inventory items, F6 to use items near the character's location, and F8 to look at objects[^ref-3][^ref-6].
+Wikipedia's article on the game calls the interface innovative and says it would not reappear in the genre for the next ten years[^ref-3]. To make the game more accessible to children, Sierra removed the text parser and used function keys instead[^ref-3]. Players moved Taran with the arrow keys and interacted with the world through specific function keys: F3 to choose inventory items, F4 to use inventory items, F6 to use items near the character's location, and F8 to look at objects[^ref-3][^ref-6].
 
-Not every player was won over by the simplified controls. A 2017 HonestGamers community review, which scored the game 1/5, joked that "Disney felt that the best way to recoup the losses of their crappy movie was to produce an even crappier video game"[^ref-9]. A joystick was optional on the PC[^ref-18], and the Atari ST version could also be controlled with the mouse[^ref-11].
+Not every player was won over by the simplified controls. A 2017 HonestGamers community review, which scored the game 1/5, joked that "Disney felt that the best way to recoup the losses of their crappy movie was to produce an even crappier video game"[^ref-9]. A joystick was optional on the PC[^ref-18], and the Atari ST version could also be controlled with the mouse[^ref-11]. In a February 2026 interview with Spillhistorie.no, Al Lowe said: "I didn't know it at the time, but I feel like I invented the point-and-click adventure." He added: "Because that whole game could be played with a mouse or a joystick."[^ref-35]
 
 ### Structure and Progression
 
-The game featured "seventy three-dimensional screens more detailed than any seen before, in up to 16 colors" with characters that could "pass in front of trees, behind rocks, and around other characters"[^ref-10]. It was built on Sierra's AGI (Adventure Game Interpreter) engine, which, like Sierra's earlier Hi-Res Adventures, drew its scenes with vector graphics: polygons drawn on screen and then colored[^ref-28].
+The game featured "seventy three-dimensional screens more detailed than any seen before, in up to 16 colors" with characters that could "pass in front of trees, behind rocks, and around other characters"[^ref-10]. It was built on Sierra's [[Adventure Game Interpreter|AGI (Adventure Game Interpreter)]] engine, which, like Sierra's earlier Hi-Res Adventures, drew its scenes with vector graphics: polygons drawn on screen and then colored[^ref-28].
 
 Players could explore the world of Prydain, collecting items, solving puzzles, and interacting with characters from the Disney film. The game included survival elements, with messages like "Your throat is dry" appearing to remind players to find food and water[^ref-9]. The scoring system encouraged creative problem-solving and deviation from the film's plot, with "multiple solutions and variable scoring" allowing players to "follow the movie's storyline, or use your imagination to maximize your score"[^ref-10].
 
@@ -88,7 +88,7 @@ Disney had no in-house software developers at the time[^ref-4]. Al Lowe has give
 
 Disney provided Sierra with unusual access to the film's original materials. Al Lowe described how "They gave me complete access to the original hand-painted backgrounds, the original Elmer Bernstein score, even the original animation cells, which were still literally lying in heaps, before being sent off to the dump!"[^ref-4]
 
-MobyGames credits the game design to Al Lowe and Roberta Williams. The programming credits go to Sol Ackerman, Chris Iden, Al Lowe, Scott Murphy, Jeff Stephenson and Ken Williams, and the graphics credits to Mark Crowe, Gerald Moore, Karen Nugent and Terry Pierce[^ref-31]. In a Spring 1989 Sierra Newsletter interview, Crowe said he "did some animation for Black Cauldron which was the first project Scott and I worked on together"[^ref-30]. Murphy described spending "nights out at his house debugging Black Cauldron. And then I ended up being the only one working on it. After a while Ken and Al Lowe bailed out on me. So I got Black Cauldron shipping"[^ref-30]. While finishing The Black Cauldron, Crowe and Murphy began planning the game that became Space Quest[^ref-23].
+MobyGames credits the game design to Al Lowe and Roberta Williams. The programming credits go to Sol Ackerman, Chris Iden, Al Lowe, Scott Murphy, Jeff Stephenson and Ken Williams, and the graphics credits to [[Mark Crowe]], Gerald Moore, Karen Nugent and Terry Pierce[^ref-31]. Wikipedia states that Crowe was the game's art director[^ref-36]. The Player's Manual is credited to Annette Childs[^ref-37]. In a Spring 1989 Sierra Newsletter interview, Crowe said he "did some animation for Black Cauldron which was the first project Scott and I worked on together"[^ref-30]. Murphy described spending "nights out at his house debugging Black Cauldron. And then I ended up being the only one working on it. After a while Ken and Al Lowe bailed out on me. So I got Black Cauldron shipping"[^ref-30]. While finishing The Black Cauldron, Crowe and Murphy began planning the game that became Space Quest[^ref-23].
 
 ### Technical Achievements
 
@@ -96,9 +96,18 @@ Reviewing the Atari ST version, Antic's Matthew Loveless found that, although th
 
 The game required only 256K of memory and ran on systems as basic as the Intel 8088[^ref-8]. There were performance issues, though. On the Atari ST, Antic noted that "the adjacent screen is loaded in slowly" whenever Taran walked off the edge of a screen[^ref-11].
 
-### Release
+### Version History
 
 Contemporary records date the IBM PC version to late 1985, earlier than the 1986 date MobyGames gives. A Standard & Poor's stock report on Sierra, dated April 14, 1989, lists "The Black Cauldron (10/85)" among the company's products with their introduction dates[^ref-32]. Sierra's advertisement in the December 1985 issue of Creative Computing already carried the game under a "NEW!" banner: "The Black Cauldron: 'the closest thing yet to a living game'—Roe Adams, Computer Gaming World Magazine. Developed with Walt Disney Personal Computer Software Staff. For IBM PC/PCjr, $39.95"[^ref-33]. Wikipedia gives an October–December 1985 release[^ref-3]. MobyGames dates the DOS and PC booter releases to 1986, the Apple II and Atari ST versions to April 1986, and the Amiga and Apple IIgs versions to 1987[^ref-1].
+
+| Version | Date | Notes |
+|---------|------|-------|
+| IBM PC/PCjr (DOS) | October 1985 (S&P); advertised December 1985; MobyGames lists 1986 | Standard & Poor's "(10/85)"[^ref-32]; Sierra advertisement, $39.95[^ref-33]; MobyGames[^ref-1] |
+| Apple II, Atari ST | April 1986 | MobyGames[^ref-1] |
+| Amiga, Apple IIgs | 1987 | MobyGames[^ref-1] |
+| AGI1 builds | Interpreter 1.1J, 1.1K, 1.1M (Apple II build 1.20) | ScummVM wiki's list of Sierra interpreter versions[^ref-38] |
+| AGI2 build | Game version 2.00, interpreter 2.439, June 14, 1987 | ScummVM wiki[^ref-38] |
+| AGI3 build | Game version 2.10, interpreter 3.002.098, November 10, 1988 | ScummVM wiki[^ref-38] |
 
 ## Legacy
 
@@ -122,8 +131,13 @@ Disney's original backgrounds and animation cells were used to model the game's 
 - [MyAbandonware](https://www.myabandonware.com/game/the-black-cauldron-7l)
 - [Internet Archive](https://archive.org/details/msdos_Black_Cauldron_The_1986)
 
+**Manuals & Extras**
+- [The Black Cauldron Player's Manual (Internet Archive)](https://archive.org/details/The_Black_Cauldron_Manual)[^ref-37]
+
 ## See Also
 
+- [[Disney]]
+- [[Adventure Game Interpreter]]
 - [[1984 - Donald Duck's Playground]]
 - [[1984 - Mickey's Space Adventure]]
 - [[1984 - Winnie the Pooh in the Hundred Acre Wood]]
@@ -158,3 +172,8 @@ Disney's original backgrounds and animation cells were used to model the game's 
 [^ref-31]: [MobyGames - The Black Cauldron credits (DOS)](https://www.mobygames.com/game/194/the-black-cauldron/credits/dos/) – Design, programming and graphics credits; platform list
 [^ref-32]: [Standard & Poor's Standard OTC Stock Report: Sierra On-Line (April 14, 1989), Wayback copy](http://web.archive.org/web/20260928224151/https://www.sierragamers.com/wp-content/uploads/2019/12/1989_xx_Sierra_On-Line_Standard_OTC_Stock_Report.pdf) – Product sales table with introduction dates: "The Black Cauldron (10/85)"
 [^ref-33]: [Creative Computing Vol. 11 No. 12 (December 1985) - Sierra advertisement](https://archive.org/details/creativecomputing-1985-12/page/n12/mode/1up) – "NEW!" listing for The Black Cauldron, IBM PC/PCjr, $39.95
+[^ref-34]: [The Digital Antiquarian - Splendid Isolation: Sierra at Mid-Decade](https://www.filfre.net/2015/08/splendid-isolation-sierra-at-mid-decade/) – Jimmy Maher, August 7, 2015: "largely designed by Roberta and programmed, as usual, by Al Lowe"
+[^ref-35]: [Spillhistorie.no - Interview with Sierra veteran Al Lowe](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/) – Interview by Roar Granevang, February 2026: "that whole game could be played with a mouse or a joystick"
+[^ref-36]: [Wikipedia - Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – "Crowe was the Art Director for the game when Murphy was added as a programmer"
+[^ref-37]: [The Black Cauldron Manual (Internet Archive)](https://archive.org/details/The_Black_Cauldron_Manual) – Scan of "How to Play The Black Cauldron" Player's Manual, credited to Annette Childs, with Sierra On-Line and Walt Disney Productions copyright lines
+[^ref-38]: [ScummVM Wiki - Sierra Game Versions (Wayback copy)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – AGI interpreter versions for The Black Cauldron: AGI1 1.1J/1.1K/1.1M, AGI2 2.439 (1987-06-14), AGI3 3.002.098 (1988-11-10)
