@@ -10,7 +10,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Astronaut
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Hi-Res Adventure #0: Mission Asteroid is a 1980 Apple II graphic adventure
   by Ken and Roberta Williams for On-Line Systems, an easier introduction to the Hi-Res
   Adventure series in which an astronaut must destroy an asteroid headed for Earth.'
@@ -18,15 +18,15 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Ken and Roberta Williams wrote Mission Asteroid for the Apple II, and On-Line Systems published it in 1980 as Hi-Res Adventure #0[^ref-3][^ref-21][^ref-22]. The manual and title screen spell the name "Mission: Asteroid"[^ref-3][^ref-22]. It belongs to the Hi-Res Adventure series, the early-1980s run of graphic adventures that also includes Mystery House and The Wizard and the Princess[^ref-1][^ref-5]. Despite being numbered "#0," it was published after #1: Mystery House and #2: The Wizard and the Princess[^ref-3][^ref-4]; Wikipedia's Sierra Entertainment article instead calls it the series' second release, ahead of Wizard and the Princess[^ref-16].
 
-The zero marked its role as an entry-level game. The manual calls it "an introduction to the HI-RES ADVENTURE family of games," "slightly easier and a little shorter than our other HI-RES ADVENTURE games"[^ref-22]. Softalk's December 1980 new-product listing already named it "Hi-Res Adventure #0, Mission: Asteroid" and described it as "Easier than our other hi-res adventure games, but far from easy"[^ref-21]. Gaming After 40 describes the number as "retro-assigned"[^ref-4], but this earliest known listing shows it carried #0 from its first appearance[^ref-21].
+The zero marked its role as an entry-level game. The manual calls it "an introduction to the HI-RES ADVENTURE family of games," "slightly easier and a little shorter than our other HI-RES ADVENTURE games"[^ref-22]. Softalk's December 1980 new-product listing already named it "Hi-Res Adventure #0, Mission: Asteroid" and described it as "Easier than our other hi-res adventure games, but far from easy"[^ref-21]. Gaming After 40 describes the number as "retro-assigned"[^ref-4], but this earliest known listing shows it carried #0 from its first appearance[^ref-21]. Softalk's January 1981 new-product item, which prints the number as "#1," says the game "takes its number from its intended level of difficulty, according to On-Line Systems" and calls it "less expensive to serve as an introduction to hi-res adventures"[^ref-25].
 
-The Softalk listing advertised "Fantastic 21-color hi-res graphics" on a 48K disk for $19.95[^ref-21]. Gaming After 40 notes that the game uses the improved graphics engine introduced with The Wizard and the Princess, "allowing color fills as well as vectors"[^ref-4].
+The Softalk listing advertised "Fantastic 21-color hi-res graphics" on a 48K disk for $19.95[^ref-21]. On-Line Systems' March 1981 Softalk advertisement promised "over a hundred hi-res pictures" and a game that "may be saved for later continuance"[^ref-27]. Gaming After 40 notes that the game uses the improved graphics engine introduced with The Wizard and the Princess, "allowing color fills as well as vectors"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-9]
@@ -69,6 +69,10 @@ Games are saved to a separate diskette. The manual warns that the save routine "
 
 Mark Marlow reviewed Mission: Asteroid together with Mystery House and The Wizard and the Princess in Computer Gaming World's January–February 1982 issue. He wrote that "MISSION: ASTEROID is the simplest of the group and only requires a few hours to solve," and said of the three games that "The color graphics are superb"[^ref-23].
 
+### Sales Chart
+
+Softalk's Top Thirty list for March 1981 included Hi-Res Adventure #0: Mission: Asteroid, credited to Roberta and Ken Williams, alongside On-Line Systems stablemates The Wizard and the Princess, Hi-Res Football and Mystery House[^ref-27].
+
 ### Modern Assessment
 
 | Publication | Score | Notes |
@@ -84,33 +88,23 @@ The single MobyGames player review calls it a "short game introducing users to H
 
 ### Origins and Production
 
+Softalk's February 1981 profile of Roberta and Ken Williams says that "Mission: Asteroid was based on Lucifer's Hammer," the novel by Larry Niven and Jerry Pournelle. The same passage says Mystery House drew on Agatha Christie's *Ten Little Indians* (*And Then There Were None*) and the board game Clue, and that The Wizard and the Princess drew on traditional fairy tales[^ref-26].
+
 The manual is signed "KEN AND ROBERTA WILLIAMS," and MobyGames credits the game to Ken Williams and Roberta Williams, with cover artwork by Don Dixon[^ref-12][^ref-22]. Gaming After 40 found credits hard to pin down. It notes that "programming is credited to Chris Iden by some sources," and it reasons that Roberta must have had a hand in the game because it was included in the Roberta Williams Anthology[^ref-4]. On the art, the blog's author writes that "my understanding is that Ken Williams did the artwork himself using an early graphics tablet"[^ref-4].
 
-### Ports and Releases
+### Version History
 
-MobyGames lists these releases[^ref-9][^ref-12]:
-
-- **Apple II** (US, 1980; On-Line Systems), plus a UK release by All American Adventures in 1985.
-- **Atari 8-bit** (US, 1980; On-Line Systems), with the port credited to Yosemite Software Products, Inc. Pixelated Arcade credits the Atari version to Chris Iden[^ref-7].
-- **Commodore 64** (US, December 1983; On-Line Systems), plus a UK release by All American Adventures in October 1985.
-- **FM-7, PC-88 and PC-98** (Japan, April 1983; StarCraft, Inc.).
-- **Compilations:** "Mission Asteroid & Wizard and the Princess" (1986) and The Roberta Williams Anthology.
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | 1980 | Apple II | On-Line Systems, US[^ref-9][^ref-12] |
+| Atari 8-bit | 1980 | Atari 8-bit | On-Line Systems, US; port credited to Yosemite Software Products, Inc.; Pixelated Arcade credits the Atari version to Chris Iden[^ref-7][^ref-9][^ref-12] |
+| Commodore 64 | December 1983 | C64 | On-Line Systems, US[^ref-9][^ref-12] |
+| Japanese release | April 1983 | FM-7, PC-88, PC-98 | StarCraft, Inc.[^ref-9][^ref-12] |
+| UK release | 1985 | Apple II, C64 | All American Adventures; Apple II in 1985, C64 in October 1985[^ref-9][^ref-12] |
 
 SierraGamers lists two alternate Apple II releases, a "White Folder" and a "Black Box" edition[^ref-15]. Besides "Mission Asteroid," MobyGames records the alternate titles "Hi-Res Adventure #0: Mission: Asteroid" and "Mission: Asteroide"[^ref-12].
 
-## Legacy
-
-### Place in Sierra History
-
-Mission Asteroid is one of seven numbered Hi-Res Adventures, #0 through #6: Mission Asteroid, Mystery House, The Wizard and the Princess, Cranston Manor, Ulysses and the Golden Fleece, Time Zone and The Dark Crystal[^ref-1]. Sierra's later catalog for the series pitched it as the story of "a daredevil astronaut whose mission is to locate and destroy a rogue asteroid speeding on a collision course with our home planet"[^ref-20].
-
-Sources disagree on when The Roberta Williams Anthology appeared: MobyGames dates it to 1996[^ref-12], while Gaming After 40 gives 1997[^ref-4]. Gaming After 40 also notes that the game "apparently retired from Sierra's active catalog lineup fairly early"[^ref-4].
-
-### Preservation
-
-The game is catalogued by databases including IGDB[^ref-19], and its manual and a Sierra Hi-Res Adventures catalog are preserved at the Internet Archive[^ref-20][^ref-22].
-
-## Technical Specifications
+### Technical Specifications
 
 | Specification | Details |
 |---------------|---------|
@@ -123,6 +117,22 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 | Media | 5.25" Floppy Disk[^ref-7] |
 | Original Price | $19.95[^ref-21] |
 | Players | Single-player[^ref-7] |
+
+## Legacy
+
+### Place in Sierra History
+
+Mission Asteroid is one of seven numbered Hi-Res Adventures, #0 through #6: Mission Asteroid, Mystery House, The Wizard and the Princess, Cranston Manor, Ulysses and the Golden Fleece, Time Zone and The Dark Crystal[^ref-1]. Sierra's later catalog for the series pitched it as the story of "a daredevil astronaut whose mission is to locate and destroy a rogue asteroid speeding on a collision course with our home planet"[^ref-20].
+
+Sources disagree on when The Roberta Williams Anthology appeared: MobyGames dates it to 1996[^ref-12], while Gaming After 40 gives 1997[^ref-4]. Gaming After 40 also notes that the game "apparently retired from Sierra's active catalog lineup fairly early"[^ref-4].
+
+### Collections
+
+MobyGames lists two compilations that include the game: "Mission Asteroid & Wizard and the Princess" (1986) and The Roberta Williams Anthology[^ref-12].
+
+### Preservation
+
+The game is catalogued by databases including IGDB[^ref-19], and its manual and a Sierra Hi-Res Adventures catalog are preserved at the Internet Archive[^ref-20][^ref-22].
 
 ## Downloads
 
@@ -138,6 +148,7 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 
 ## See Also
 
+- [[Hi-Res Adventures Series]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Cribbage]]
@@ -168,7 +179,10 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 [^ref-16]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Hi-Res Adventure series history; calls Mission Asteroid the second release
 [^ref-19]: [IGDB](https://www.igdb.com/games/mission-asteroid) – Game database entry; user rating (6.0/10, 6 ratings)
 [^ref-20]: [Archive.org](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Sierra On-Line Hi-Res Adventures catalog
-[^ref-21]: [Softalk, December 1980 (Internet Archive)](https://archive.org/download/softalkv1n04dec1980/softalkv1n04dec1980_djvu.txt) – New-product listing: "Hi-Res Adventure #0, Mission: Asteroid", 21-color graphics, 48K, $19.95
+[^ref-21]: [Softalk, December 1980 (Internet Archive)](https://archive.org/details/softalkv1n04dec1980) – New-product listing: "Hi-Res Adventure #0, Mission: Asteroid", 21-color graphics, 48K, $19.95
 [^ref-22]: [Mission: Asteroid Apple II manual (Internet Archive)](https://archive.org/details/Mission_Asteroid_Hi-Res_Adventure_0) – Premise, parser, saving, signed "Ken and Roberta Williams"
 [^ref-23]: [Computer Gaming World, Issue 2.1, Jan–Feb 1982 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Mark Marlow's review of the On-Line Systems Hi-Res Adventures
 [^ref-24]: [ScummVM Wiki – ADL (Wayback, 2025-01-01)](http://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #0" among the games using this engine
+[^ref-25]: [Softalk, January 1981 (Internet Archive)](https://archive.org/details/softalkv1n05jan1981) – New-product item: number taken from "intended level of difficulty"; "the best graphics yet from the company"; 48K, disk, $19.95
+[^ref-26]: [Softalk, February 1981 (Internet Archive)](https://archive.org/details/softalkv1n06feb1981) – Profile of Roberta and Ken Williams: "Mission: Asteroid was based on Lucifer's Hammer"
+[^ref-27]: [Softalk, March 1981 (Internet Archive)](https://archive.org/details/softalkv1n07mar1981) – Top Thirty list entry for Hi-Res Adventure #0: Mission: Asteroid; On-Line Systems advertisement ("over a hundred hi-res pictures")
