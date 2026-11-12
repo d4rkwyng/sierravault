@@ -10,7 +10,7 @@ series: Adiboo
 engine: Coktel Vision engine (supported by ScummVM's Gob engine); VMD video
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: 'Adiboo: Magical Playland (Adibou 2 in France) is a 1996 edutainment game
   for children aged 4-7, developed by Sierra subsidiary Coktel Vision for Windows and
   Macintosh and published in the US by Sierra On-Line and Knowledge Adventure.'
@@ -18,7 +18,7 @@ tags: [1990s, adiboo, educational, sierra]
 ---
 # Adiboo: Magical Playland
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ The Adibou series was Coktel Vision's long-running commercial success, selling o
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
-> **Designer:** Not documented (the Adibou series was created by Roland Oskian)[^ref-17]
+> **Designer:** Not documented (the Adibou series was co-created by Roland Oskian and Manuelle Mauger)[^ref-17][^ref-24]
 > **Publisher:** [[Knowledge Adventure]] (US), Coktel Vision (EU), [[Sierra On-Line]] (US)[^ref-3]
 > **Engine:** Coktel Vision engine, now supported by ScummVM's "Gob" engine[^ref-17]; VMD video[^ref-19]
 > **Platforms:** Windows, Mac[^ref-1]
@@ -86,13 +86,13 @@ Contemporary review data for the base game is limited. The 1996 "Lecture et Calc
 
 ### Modern Assessment
 
-Modern user communities have rated the game favorably based on nostalgic memories. The game holds a user rating of 3.4 out of 5 on Backloggd based on 188 ratings with 424 recorded plays (checked 5 November 2026)[^ref-6]. Glitchwave users rate it 3.27 out of 5 from 9 ratings[^ref-1]. IGN user reviews show an average of 6.7 out of 10 from 3 ratings[^ref-11]. MyAbandonware rates the game 4.32 out of 5 based on 69 votes[^ref-5].
+Modern user communities have rated the game favorably based on nostalgic memories. The game holds a user rating of 3.4 out of 5 on Backloggd based on 188 ratings with 424 recorded plays (checked 5 November 2026)[^ref-6]. Glitchwave users rate it 3.27 out of 5 from 9 ratings[^ref-1]. IGN user reviews show an average of 6.7 out of 10 from 3 ratings[^ref-11]. MyAbandonware rates the game 4.33 out of 5 based on 70 votes (checked November 2026)[^ref-5].
 
 **Aggregate Scores:**
 - **Backloggd:** 3.4/5 (188 ratings; checked 5 November 2026)[^ref-6]
 - **Glitchwave:** 3.27/5 (9 ratings)[^ref-1]
 - **IGN User Reviews:** 6.7/10 (3 ratings)[^ref-11]
-- **MyAbandonware:** 4.32/5 (69 votes)[^ref-5]
+- **MyAbandonware:** 4.33/5 (70 votes; checked November 2026)[^ref-5]
 
 User testimonials highlight strong nostalgic attachment: "Pure soul. Might be the first game I ever played. So many fond memories of playing this with my sister on a shitty Windows 2000 PC when I was like 5 years old"[^ref-1]. Another user noted the game's memorable music, describing an "Insanely catchy theme song. HOOOLD MY HAAAAAAND"[^ref-1].
 
@@ -100,7 +100,7 @@ User testimonials highlight strong nostalgic attachment: "Pure soul. Might be th
 
 ### Origins
 
-Adiboo: Magical Playland was developed by [[Coktel Vision]], a French game development studio known for educational software[^ref-4][^ref-18]. The game is the second major entry in the Adibou franchise, originally released in France as "Adibou 2"[^ref-4], and the successor to Adibou (1992, MS-DOS), with a new look for Adibou, improved graphics, a Windows port and new activities[^ref-13]. ScummVM's 2022 announcement calls it "a popular educational game developed by Coktel Vision in 1996" for children aged 4 to 7[^ref-20]. The series was created by Roland Oskian, Coktel Vision's founder[^ref-17][^ref-18]. The name Adibou derives from the French acronym ADI, "Accompagnement Didacticiel Intelligent"[^ref-17].
+Adiboo: Magical Playland was developed by [[Coktel Vision]], a French game development studio known for educational software[^ref-4][^ref-18]. The game is the second major entry in the Adibou franchise, originally released in France as "Adibou 2"[^ref-4], and the successor to Adibou (1992, MS-DOS), with a new look for Adibou, improved graphics, a Windows port and new activities[^ref-13]. ScummVM's 2022 announcement calls it "a popular educational game developed by Coktel Vision in 1996" for children aged 4 to 7[^ref-20]. The series was co-created by Roland Oskian, Coktel Vision's founder, and Manuelle Mauger[^ref-17][^ref-18][^ref-24]. Oskian told Konbini that the team tested every recipe in the game before it was added[^ref-24]. The name Adibou derives from the French acronym ADI, "Accompagnement Didacticiel Intelligent"[^ref-17].
 
 ### Production
 
@@ -121,7 +121,7 @@ The game's video uses the VMD format; the extension "stands for Video and Music 
 **CD-ROM Version:**[^ref-5]
 - **Display:** 256-colour display drivers required[^ref-14]
 - **Media:** CD-ROM (Win/Mac Hybrid)[^ref-5]
-- **File Size:** 317-484 MB depending on version[^ref-5]
+- **File Size:** 317-484 MB depending on version (main-game disc images)[^ref-5]
 
 **Versions (as labelled by MyAbandonware):**[^ref-5]
 - Version 2.12 (Win/Mac Hybrid)
@@ -175,7 +175,7 @@ Voice cast information is not documented in available research materials. The ga
 
 Sales figures for this title alone are not available, but the Adibou series as a whole had sold over 1.5 million copies by 1997[^ref-17][^ref-18]. In 1993 the series covered 65% of the French edutainment market, rising to 75% by 1996[^ref-18]. One user recalled the game being "a smash hit at my kindergarten"[^ref-1].
 
-After Mindscape's closure, the Adibou rights were sold to Ubisoft. The series went dormant in 2009, and in 2020 Wiloki, an educational start-up founded by the children of series creator Roland Oskian, partnered with Ubisoft to revive the character, releasing Adibou: La Chanson d'Adibou in May 2022[^ref-17]. Before that revival, The Casual Gamer blog quoted Giant Bomb describing the series as "long forgotten"[^ref-9].
+After Mindscape's closure, the Adibou rights were sold to Ubisoft. The series went dormant in 2009, and in 2020 Wiloki, an educational start-up founded by the children of series co-creator Roland Oskian, partnered with Ubisoft to revive the character, releasing Adibou: La Chanson d'Adibou in May 2022[^ref-17]. Before that revival, The Casual Gamer blog quoted Giant Bomb describing the series as "long forgotten"[^ref-9].
 
 ### Publishers and Distribution
 
@@ -193,6 +193,7 @@ No significant fan projects have been documented. The game's preservation primar
 
 - **Readme Documentation:** Included with the game, introducing Adiboo as "our wise and acclaimed extraterrestrial" and describing the "I can read and I can count" lessons for ages 4-5 and 6-7[^ref-5]
 - **Add-on Discs:** Five additional discs between 1996 and 1999: Lecture et Calcul (4-5 and 6-7, 1996), Nature et Sciences (1998), Anglais (1999) and Musique (1999)[^ref-13]. ScummVM first supported only the Read/Count 4-5 and 6-7 applications (December 2022)[^ref-20], then added Nature & Sciences, which it describes as "a 1998 expansion" covering history, geography, science and technology, the countryside and everyday life (July 2025)[^ref-21]
+- **Adibou Musique:** Coktel's French minisite for the Musique disc (archived April 2001) describes it as an educational and school-support program in which the child visits the four regions of a land called Mélodica and meets musician sprites ("lutins"). The child learns rhythm, sounds, instruments and notes and can compose songs, but first has to help the sprites, because the clumsy Bouzzy Goulum has broken their invention, the Musicotron, and its pieces must be gathered to rebuild it[^ref-25]
 
 ### Critical Perspective
 
@@ -200,14 +201,10 @@ Adiboo: Magical Playland represents a fascinating artifact of 1990s edutainment 
 
 The game occupies an interesting position within Sierra's broader catalog: Coktel Vision was a Sierra subsidiary when it was made, and Ken Williams later said Sierra was more interested in expanding its European educational sales than in Coktel's games[^ref-18]. Today the game needs an older Windows installation (usually in a virtual machine) or ScummVM to run[^ref-14][^ref-17].
 
-## Purchase
-
-- Not currently sold on GOG or Steam; GOG has only a Dreamlist wish entry for the game[^ref-23]
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- Not currently sold on GOG or Steam; GOG has only a Dreamlist wish entry for the game[^ref-23]
 - Not available for purchase; 1996 release is abandonware[^ref-5]
 
 **Download / Preservation**
@@ -220,8 +217,8 @@ The game occupies an interesting position within Sierra's broader catalog: Cokte
 
 - [[1992 - A.J.'s World of Discovery|← Previous: A.J.'s World of Discovery]]
 - [[2003 - Adiboo - Paziral's Secret|→ Next: Adiboo - Paziral's Secret]]
-
 - [[2004 - Adiboo and the Energy Thieves]]
+- [[Coktel Adventures Series]]
 
 ## References
 
@@ -245,3 +242,5 @@ The game occupies an interesting position within Sierra's broader catalog: Cokte
 [^ref-21]: [ScummVM – Off to Adibou's Land of Sciences!](https://scummvm.org/news/20250702) – 2 July 2025 news post: Nature & Sciences, a 1998 expansion, now supported; 3D car minigame not supported
 [^ref-22]: [ScummVM – Compatibility chart](https://www.scummvm.org/compatibility/) – Adibou 2 (gob:adibou2) rated Good, checked 5 November 2026
 [^ref-23]: [GOG Dreamlist – Adiboo: Magical Playland (1996)](https://www.gog.com/dreamlist/game/adiboo-magical-playland-1996) – Dreamlist entry: Coktel Vision, Knowledge Adventure, PC (Windows), point-and-click, educational
+[^ref-24]: [Konbini – Dix bails sur Adibou que tu n'as peut-être jamais entendus](https://www.konbini.com/techno/dix-bails-sur-adibou-que-tu-nas-peut-etre-jamais-entendus/) – Nailabouakaz, 9 November 2021: Manuelle Mauger called co-creator ("cocréatrice"), Roland Oskian "cocréateur"; recipes tested by the team
+[^ref-25]: [Coktel – Adibou Musique minisite (Wayback Machine, 12 April 2001)](https://web.archive.org/web/20010412230048/http://www.coktel.fr/minisites/adiboumusique/sommaire.html) – French publisher description of the Musique disc: Mélodica, the Musicotron, Bouzzy Goulum
