@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: '**Hoyle Poker**, released in 1997, was a stand-alone Sierra poker game
   that followed 1996''s Hoyle Casino: a Friday-night home game against animated,
   wisecracking opponents...'
@@ -18,11 +18,11 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Poker
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-**Hoyle Poker**, released in 1997 for Windows 95 and Windows 3.1, was a stand-alone poker game that followed 1996's *Hoyle Casino*; Sierra's own magazine said in late 1996 that "Hoyle Casino has just been released" and "Hoyle Poker is next." Poker had already been part of *Hoyle Casino*, where it was played strictly by casino rules with fixed bets.[^ref-25][^ref-22] Rather than a casino, it recreates a neighborhood Friday-night home game in which the dealer changes with each hand and picks the variant to be played.[^ref-5] It was published under the Hoyle name as part of Sierra's series of card games,[^ref-1][^ref-5] and was later repackaged as **Hoyle Classic Poker**.[^ref-1][^ref-21] Sierra sold it for $24.95 under order number 83741.[^ref-24][^ref-27] Sierra's own announcement billed it as "Poker with an attitude!"[^ref-32]
+**Hoyle Poker**, released in 1997 for Windows 95 and Windows 3.1, was a stand-alone poker game that followed 1996's *Hoyle Casino*; Sierra's own magazine said in late 1996: "The latest Hoyle game, Hoyle Casino, has just been released and Poker lovers, mark your calendars because Hoyle Poker is next." Poker had already been part of *Hoyle Casino*, where it was played strictly by casino rules with fixed bets.[^ref-25][^ref-22] Rather than a casino, it recreates a neighborhood Friday-night home game in which the dealer changes with each hand and picks the variant to be played.[^ref-5] It was published under the Hoyle name as part of Sierra's series of card games,[^ref-1][^ref-5] and was later repackaged as **Hoyle Classic Poker**.[^ref-1][^ref-21] Sierra sold it for $24.95 under order number 83741.[^ref-24][^ref-27] Sierra's own announcement billed it as "Poker with an attitude!" and called it "the newest addition to the best-selling Hoyle series."[^ref-32]
 
 GameSpot's Walter Morbeck wrote that Sierra "has done an admirable job of creating a sharp and faithful rendition of poker."[^ref-4] The game pairs real poker rules with Sierra's humour: a table of animated opponents, each with their own personality, playing style and skill level, who toss out a steady stream of one-liners.[^ref-1][^ref-4]
 
@@ -40,7 +40,7 @@ GameSpot's Walter Morbeck wrote that Sierra "has done an admirable job of creati
 
 ## Story Summary
 
-Hoyle Poker has no narrative. The player sits down at a friendly home game with a bankroll of $1,000 in cash, plus another $9,000 in a bank account that can be reached through an ATM, which, like the other characters, has a personality of its own.[^ref-1][^ref-4] The "story" is the banter of the opponents around the table.[^ref-4][^ref-5]
+Hoyle Poker has no narrative. The player sits down at a friendly home game with a bankroll of $1,000 in cash, plus another $9,000 in a bank account that can be reached through an ATM.[^ref-4] The ATM, like the other characters, has a personality of its own.[^ref-1] The "story" is the banter of the opponents around the table.[^ref-4][^ref-5]
 
 ## Gameplay
 
@@ -75,7 +75,7 @@ CGW's tips page offered per-opponent advice, such as "Elayne: When she winks at 
 
 ### Multiplayer
 
-MobyGames lists Internet and same-screen multiplayer, with 1–8 players offline and 2–8 online.[^ref-1] Online play ran through the Sierra Internet Gaming System (SIGS), which in 1997 also hosted *Hoyle Blackjack*, *Hoyle Casino*, *Power Chess* and *Shivers 2*, among others.[^ref-26] *PC Gamer* described SIGS as "a free web site where you can play real people, though 5 Card Draw is the only game currently provided."[^ref-23] Sierra also promoted Internet tournaments.[^ref-24] In June 1997 InterAction invited readers to Friday Night Poker on the Sierra Interactive Gaming System, with two developers from the Hoyle Poker team in the "Big Game": at most seven players per game, each starting with $5,000 in virtual money, and Sierra titles as prizes for the top finishers.[^ref-27] The Fall 1997 issue reported results, with first-place winners taking four Sierra games.[^ref-35] By summer 1998 "Friday Night Hoyle Poker" was listed among the weekly events on Sierra's World Opponent Network (WON), and Hoyle Poker was among the 12 games in Sierra's late-1997 online compilation.[^ref-37][^ref-38] An on-line play mode let players test their skills against real players from around the world;[^ref-1] the GamesDomain reviewer noted it was for play with friends out of town, adding, "Please, no exchange of money, this is a friendly game of poker."[^ref-5]
+MobyGames lists Internet and same-screen multiplayer, with 1–8 players offline and 2–8 online.[^ref-1] Online play ran through the Sierra Internet Gaming System (SIGS), which in 1997 also hosted *Hoyle Blackjack*, *Hoyle Casino*, *Power Chess* and *Shivers 2*, among others.[^ref-26] *PC Gamer* described SIGS as "a free web site where you can play real people, though 5 Card Draw is the only game currently provided."[^ref-23] Sierra also promoted Internet tournaments.[^ref-24] In June 1997 InterAction invited readers to Friday Night Poker on the Sierra Interactive Gaming System, with two developers from the Hoyle Poker team in the "Big Game": at most seven players per game, each starting with $5,000 in virtual money, and prizes of four Sierra titles for first place, two for second, and Hoyle baseball caps for third and fourth, awarded in the games played with the developers.[^ref-27] The Fall 1997 issue reported results, with first-place winners taking four Sierra games.[^ref-35] By summer 1998 "Friday Night Hoyle Poker" was listed among the weekly events on Sierra's World Opponent Network (WON), and Hoyle Poker was among the 12 games in Sierra's late-1997 online compilation.[^ref-37][^ref-38] An on-line play mode let players test their skills against real players from around the world;[^ref-1] the GamesDomain reviewer noted it was for play with friends out of town, adding, "Please, no exchange of money, this is a friendly game of poker."[^ref-5]
 
 ## Reception
 
@@ -84,13 +84,13 @@ MobyGames lists Internet and same-screen multiplayer, with 1–8 players offline
 | GameSpot | 8/10 | "Sharp and faithful rendition of poker"; 8 in all five subscores[^ref-4] |
 | All Game Guide | 80/100 (MobyRank) | "This is a haven for poker lovers"[^ref-30][^ref-29] |
 | Computer Gaming World | 60/100 (MobyRank) | Sep 1997; "Annoying AI; unreliable Internet competition"[^ref-30][^ref-22] |
-| Computer Games Magazine | 60/100 (MobyRank) | "Poker with an attitude!"[^ref-30][^ref-28] |
+| Computer Games Magazine | 60/100 (MobyRank figure only; the review page shows no score) | Radcliffe: opponents "somewhat annoying" at high attitude; the game "reasonably priced"[^ref-30][^ref-28] |
 | PC Gamer | 80/100 | "Fun poker simulation"; attitude "gets tiresome real fast"; Final Verdict box on the scanned page[^ref-23] |
 | MobyGames critic average | 72% | Based on 5 critic ratings[^ref-1] |
 
 Morbeck opened his GameSpot review by observing that "what makes poker enjoyable are the strictly human elements", which seemed to make a computer version farfetched; he concluded that the game could serve "either as a temporary surrogate or as a replacement for the real thing."[^ref-4] He praised the cast's diversity and fast pacing, but found the bundled rulebook less useful for the computer game than one written for it would have been.[^ref-4] The review was first posted on 4 June 1997;[^ref-4] MobyGames dates it June 1998.[^ref-30]
 
-Charles Ardai's CGW review, "Ante Matter", opened: "After Hoyle Casino and Hoyle Blackjack, it was inevitable that Sierra would further milk the venerable Hoyle name with Hoyle Poker." He praised the game's "trademark slickness" but found the computer players "extremely annoying" for their "Central Casting appearance" and "puerile comments", and complained that they could not easily be replaced with human opponents "given Sierra's buggy link." He recommended it to "Poker enthusiasts who found Hoyle Casino tame."[^ref-22]
+Charles Ardai's CGW review, "Ante Matter", opened: "After Hoyle Casino and Hoyle Blackjack, it was inevitable that Sierra would further milk the venerable Hoyle name with Hoyle Poker." He praised the game's "trademark slickness" but added, "It's almost too slick, though; the high gloss seems intended to distract you from the basic fact that this is just a poker game." He found the computer players "extremely annoying" for their "Central Casting appearance" and "puerile comments", and complained that they could not easily be replaced with human opponents "given Sierra's buggy link." He recommended it to "Poker enthusiasts who found Hoyle Casino tame."[^ref-22]
 
 *PC Gamer*'s Joseph Novicki judged that Sierra "seems to really have its act together with this edition" and that the many variants and adjustable rules made it "much better than your average poker sim."[^ref-23] AllGame's Mark Kanarick called it "one of the most fun computer games I have played in a long time"; his one complaint was the documentation, with rules found only through the help index.[^ref-29] Doug Radcliffe in *Computer Games* found the opponents' one-liners "somewhat annoying" at high attitude settings.[^ref-28]
 
@@ -114,7 +114,7 @@ GamesDomain framed the game as part of Sierra's case for card games: not every c
 
 ### Credits
 
-MobyGames credits 39 people.[^ref-1] Jim Love designed the game, and Stephen H. Van Horn produced it. Earl Malmrose was lead engineer, with Frank T. Hollander as senior software engineer. Character animation was by [[Rabih AbouJaoudé]], Heather Ivy and Gayle Rowbotham, and Julian Love did the intro animation. Evan Schiller composed the music, with additional music and sound by Jim Love. The voice actors were Pat Cashman, Amy De Bourget, Jeff Hoyt, Linda Mathews and Kate Myre.[^ref-1]
+MobyGames credits 39 people.[^ref-1] Jim Love designed the game, and Stephen H. Van Horn produced it. Earl Malmrose was lead engineer, with Frank T. Hollander as senior software engineer. Character animation was by [[Rabih AbouJaoudé]], Heather Ivy and Gayle Rowbotham; Rabih AbouJaoudé also did the background animations, and Julian Love did the intro animation. The artists were Rabih AbouJaoudé, Heather Ivy, Jim Love, Julian Love, Gayle Rowbotham and Robert Sanchez. Evan Schiller composed the music, with additional music and sound by Jim Love, and Keith Bowers, Kevin Cannon and Dennis Ham handled sound-effects editing. The voice actors were Pat Cashman, Amy De Bourget, Jeff Hoyt, Linda Mathews and Kate Myre. The credits listed are those for the Windows 16-bit version.[^ref-1]
 
 ### Package and Requirements
 
@@ -138,6 +138,7 @@ MobyGames notes that elements of the gameplay of the 2005 *[[2005 - Hoyle Poker 
 
 ## See Also
 
+- [[Hoyle Series]]
 - [[1997 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1998 - Hoyle Battling Ships and War|→ Next: Hoyle Battling Ships and War]]
 
@@ -175,13 +176,13 @@ MobyGames notes that elements of the gameplay of the 2005 *[[2005 - Hoyle Poker 
 - [[2003 - Hoyle Casino]]
 - [[2003 - Hoyle Majestic Chess]]
 - [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Casino]]
 - [[2006 - Hoyle Miami Solitaire]]
