@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI2
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Aubrey Hodges]
 description: 'Quest for Glory: Shadows of Darkness is a 1993 adventure/role-playing
   hybrid by Lori Ann Cole and Corey Cole, the fourth Quest for Glory game, set in the
@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: Shadows of Darkness
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1].
@@ -85,7 +85,7 @@ The gameplay continued with Quest for Glory III's graphical, point-and-click int
 ### Contemporary Reviews
 A short product blurb in Computer Gaming World's "Taking A Peek" section (March 1994) said, "Offering a unique mix of dark mystery and light humor, Shadows of Darkness is another award winning adventure"[^ref-1][^ref-32]. The magazine's full review, by Scorpia in April 1994, was less positive: she liked the automatic combat option but found the puzzles ranged "from weak to obscure", and called the end game, with the Hero face-to-face with the villain, "a letdown"[^ref-1][^ref-33]. She especially criticized the bugs, saying the game "may well be the sloppiest product ever released by Sierra" and that Sierra had "tainted their near sterling reputation" by "releasing it prematurely for 'financial reasons'"[^ref-33]. Her verdict: "Overall, then, Shadows of Darkness was a disappointment"[^ref-33].
 
-James V. Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Good" evaluation and stating "If you simply want some challenging fun presented in a gothic setting, try the newest Quest for Glory"[^ref-1]. The game was rated K-A (Kids to Adults) by the ESRB[^ref-19].
+James V. Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Good" evaluation and stating "If you simply want some challenging fun presented in a gothic setting, try the newest Quest for Glory"[^ref-1]. In Game Bytes Magazine (1994), Steven D. Leung reviewed version 1.1 and called Shadows of Darkness "a worthy sequel with promising graphics, a good soundtrack, and enough variation to make it worth replaying", though "it does not have the depth of GABRIEL KNIGHT". He noted technical problems too: "Shadows of Darkness is Sierra's first attempt at a 32-bit game and there are some rough edges"[^ref-41]. The game was rated K-A (Kids to Adults) by the ESRB[^ref-19].
 
 ### Modern Assessment
 Rowan Kaiser of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series; Kaiser called it "the clear best of the bunch"[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth the money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV wrote that Shadows of Darkness "was probably the most elaborate and well-designed" entry in the series, though Trial by Fire remained his own favourite[^ref-39]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
@@ -105,8 +105,15 @@ In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game
 
 ## Development
 
+### Origins
+Before work began on the first Quest for Glory, Lori Ann Cole had sketched a four-game plan in which the player's hero would visit four cultural regions of a fantasy world; the last two were slated to be Eastern Europe and mythic Greece, and Quest for Glory II ends with an advertisement of sorts for the "upcoming" Quest for Glory III: Shadows of Darkness[^ref-27]. Almost as soon as the second game was released, the Coles started to have misgivings: the Eastern European game was to have a more unfriendly, foreboding approach to gameplay, with "aloneness, suspicion, and paranoia," as Corey Cole puts it, as its hallmarks, and they were not sure their players were ready for it[^ref-27]. Shortly before leaving Sierra to join Origin Systems, staff writer Ellen Guon suggested that the third game could be set in Africa instead, which extended the series from four games to five and postponed the "dark" entry[^ref-27]. Corey Cole later said that, having spent a year without a Quest for Glory, "we wanted to give players something less intense than we planned for Shadows of Darkness"[^ref-40].
+
+Asked about the game's popular "dark" label, Corey Cole told The Digital Antiquarian's Jimmy Maher: "Maybe a better word would be 'unforgiving.' A Quest for Glory III theme is friendship and the need to work together with others. In Quest for Glory IV, we turned that around 180 degrees. The player would start out on his own, mistrusted by everyone."[^ref-27] Lori Ann Cole described the same idea in a contemporary interview quoted there: "You won't be able to trust anyone because nobody will trust you."[^ref-27]
+
+After Quest for Glory III, Corey Cole left his full-time Sierra job and returned as a game designer on contract; he described it as the first game (other than Dr. Brain) on which he worked full-time on design with no programming responsibilities[^ref-40]. He said the team "steeped ourselves in old horror movies and books about Vampires and Werewolves"; the name "Avoozl" came from a spider god in Anton LaVey's "The Satanic Rituals," Dr. Cranium is "a nod to Castle of Dr. Brain," and Mel Brooks's Young Frankenstein was among the parodies that inspired the game[^ref-40].
+
 ### Production
-Quest for Glory IV features darker themes while maintaining the humor of previous games through methods like incorporating Boris Karloff and Peter Lorre parodies[^ref-1]. The game was inspired by gothic fiction, "old horror movies and books about vampires and werewolves"[^ref-1]. Development ran late, forcing Sierra to ship the floppy version with inadequate testing[^ref-1]. The CD version released the following year was much improved[^ref-1]. The GOG digital re-release has since resolved many remaining bugs[^ref-1].
+Quest for Glory IV features darker themes while maintaining the humor of previous games through methods like incorporating Boris Karloff and Peter Lorre parodies[^ref-1]. The game was inspired by gothic fiction, "old horror movies and books about vampires and werewolves"[^ref-1]. Development ran late, forcing Sierra to ship the floppy version with inadequate testing[^ref-1]. The CD version released the following year was much improved[^ref-1]. Wikipedia states that the GOG digital re-release has since resolved many remaining bugs[^ref-1], while The Digital Antiquarian writes that "plenty of glitches still remain even in the version available for digital download today"[^ref-27].
 
 The CD-ROM version was the first game in the series to feature voice actors, including John Rhys-Davies as the Narrator (whose recording took more than three weeks, leading him to call the game the "CD-ROM from Hell"), Jennifer Hale as Katrina (her first video game voice role), and Bill Farmer as Leshy[^ref-1][^ref-4].
 
@@ -165,7 +172,7 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 |---------|------|----------|-------|
 | 1.0 | December 1993 | DOS | Original floppy release, notorious for bugs[^ref-1] |
 | CD-ROM | September 1994 | DOS, Windows 3.x | Full voice acting, many bug fixes[^ref-1] |
-| GOG | May 10, 2012 | Windows (DOSBox) | Digital re-release with NewRisingSun patches[^ref-5] |
+| GOG | May 2012 | Windows (DOSBox) | Digital re-release with NewRisingSun patches[^ref-42][^ref-5] |
 | Steam | August 29, 2016 | Windows (DOSBox) | Quest for Glory 1-5 collection[^ref-12][^ref-31] |
 
 **Known Issues (Original Release):**[^ref-1]
@@ -177,7 +184,7 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 - NewRisingSun script fixes (included in the GOG version)
 - QFG4 Enhanced mod adds bugfixes and restored content
 
-## Trivia
+### Trivia
 
 - This was the only game in the Quest for Glory series to drop the Roman numerals from its title[^ref-27]
 - The Dark One Avoozl is an obvious Cthulhu pastiche, likely referencing the Slavic deity Chernobog[^ref-1][^ref-3]
@@ -228,6 +235,7 @@ This game has been included in the following collections:
 
 ## See Also
 
+- [[Quest for Glory Series]]
 - [[1989 - Quest for Glory I - So You Want to Be a Hero]]
 - [[1990 - Quest for Glory II - Trial by Fire]]
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
@@ -264,3 +272,6 @@ This game has been included in the following collections:
 [^ref-37]: [Wikipedia – Jim Cummings](https://en.wikipedia.org/wiki/Jim_Cummings) – Winnie the Pooh, Darkwing Duck
 [^ref-38]: [Adventure Gamers – Top 100 All-Time Adventure Games, #30–21 (archived 2013)](https://web.archive.org/web/20130118232706/http://www.adventuregamers.com/articles/view/18643/page17/) – "#23 – Quest for Glory IV: Shadows of Darkness … Arguably the best chapter"; AG Staff, December 30, 2011
 [^ref-39]: [G4TV – Quest For Glory Creators Turn To Kickstarter For Hero-U (archived)](https://web.archive.org/web/20150924063300/http://www.g4tv.com/thefeed/blog/post/728034/quest-for-glory-creators-turn-to-kickstarter-for-hero-u/) – Adam Rosenberg, 2012: "probably the most elaborate and well-designed"
+[^ref-40]: [Adventure Gamers – Corey Cole: Recruiting for Hero-U: Rogue to Redemption (interview by Ingmar Böke, November 9, 2012; archived 2015)](https://web.archive.org/web/20150421221306/http://www.adventuregamers.com/articles/view/23214/page3) – Corey Cole on QfG3 setting and the development of Shadows of Darkness
+[^ref-41]: [Game Bytes Magazine – Quest for Glory: Shadows of Darkness review by Steven D. Leung (Copyright 1994)](http://www.ibiblio.org/GameBytes/issue18/greviews/quest/quest.html) – period review of version 1.1
+[^ref-42]: [Destructoid – Quest for Glory again courtesy of GOG.com (Fraser Brown, May 11, 2012; archived 2015)](https://web.archive.org/web/20150924015035/http://www.destructoid.com/quest-for-glory-again-courtesy-of-gog-com-227255.phtml) – Quest for Glory 1-5 collection available from GOG.com, $9.99
