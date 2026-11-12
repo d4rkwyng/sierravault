@@ -10,7 +10,7 @@ series: Standalone
 engine: SCI1
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [Ken Allen]
 description: Jones in the Fast Lane is a computerized board game and life simulation
   published by Sierra On-Line in 1990, based on an outside design by the Whaley family and Kelly Walker.
@@ -18,7 +18,7 @@ tags: [1990s, sci, sierra, simulation, standalone]
 ---
 # Jones in the Fast Lane
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,8 +81,10 @@ The game's fast-food restaurant, Monolith Burger, is named after the restaurant 
 | Power Play (Feb 1991) | 54% | MS-DOS review, signed "al" (Anatol Locker, per AMR)[^ref-19][^ref-38] |
 | Aktueller Software Markt (Jan 1991) | 8/8/11/10/9 of 12 | Graphics/sound/structure/motivation/value; review by Dirk Fuchser[^ref-39] |
 | Los Angeles Times | 4/5 stars | Called it "a humorous romp through modern life"[^ref-20] |
+| Strategy Plus (Oct 1991) | No score | Brian Walker found it "fun, and easy to play" but overpriced[^ref-2] |
+| Top Secret (Oct–Nov 1991, Poland) | No score | Mateusz Przasnyski judged it of very good quality overall[^ref-43] |
 
-*COMPUTE!* concluded: "While essentially a board game played on a computer, Jones is a compelling diversion enhanced by appealing graphics and clever asides."[^ref-collection] The *Los Angeles Times* noted that Sierra shipped the game without copy protection and at a lower price than usual[^ref-20]. The German *Power Play* found the jokes went stale with repeated play and the multiplayer turns slow[^ref-38].
+*COMPUTE!* concluded: "While essentially a board game played on a computer, Jones is a compelling diversion enhanced by appealing graphics and clever asides."[^ref-collection] The *Los Angeles Times* noted that Sierra shipped the game without copy protection and at a lower price than usual[^ref-20]. The German *Power Play* found the jokes went stale with repeated play and the multiplayer turns slow[^ref-38]. In the United States, *Strategy Plus*'s Brian Walker (October 1991) wrote that "As in most Sierra games, the joy comes from the process of discovery." He called the game "fun, and easy to play", but thought it overpriced for its simplicity, summing it up as "one of life's less essential purchases"[^ref-2]. The Polish magazine *Top Secret* (issue 7, October–November 1991) ran a review by Mateusz Przasnyski, who said the game gives an impression of very good quality, although the first impression after loading is negative. He rated the graphics highly but complained that the PC speaker's sound often grated badly on the ears. He called the idea new and expected it to win the game many more fans[^ref-43].
 
 ### Modern Assessment
 
@@ -110,17 +112,25 @@ Schwader, the lead programmer[^ref-8], recalled that "Jones had a four-person de
 
 ### CD-ROM Version
 
-Sierra's Fall 1990 magazine announced a 256-color CD-ROM version for spring 1991[^ref-35]. The Fall 1991 issue of *InterAction* listed the multimedia Jones as "Available Now," with "a real digitized human voice" for each character[^ref-40]. Maher calls it Sierra's second-ever CD-ROM product, released before the CD version of King's Quest V[^ref-22]. Sources disagree on the CD-ROM's date: *InterAction* lists it as available in Fall 1991, while MobyGames dates the CD-ROM edition's DOS and Windows 3.x releases to 1992. That edition adds Red Book CD audio for the voice acting, extra animation and actor portraits, and in its Windows version a native Windows executable[^ref-16]. MobyGames lists the CD voice cast as including Josh Mandel, Mark Crowe, Ken Allen, George Esparza and Robert Eric Heitman, among others[^ref-28].
+Sierra's Fall 1990 magazine announced a 256-color CD-ROM version for spring 1991[^ref-35]. The Fall 1991 issue of *InterAction* listed the multimedia Jones as "Available Now," with "a real digitized human voice" for each character[^ref-40]. Maher calls it Sierra's second-ever CD-ROM product, released before the CD version of King's Quest V[^ref-22]. Sources disagree on the CD-ROM's date: *InterAction* lists it as "Available Now" in its Fall 1991 issue[^ref-40], while MobyGames dates the CD-ROM edition's DOS and Windows 16-bit releases to 1992[^ref-16]. MobyGames' edition adds Red Book CD audio for the voice acting, extra animation and actor portraits, and in its Windows version a native Windows executable[^ref-16]. MobyGames lists the CD voice cast as including Josh Mandel, Mark Crowe, Ken Allen, George Esparza and Robert Eric Heitman, among others[^ref-28].
 
 ### Technical Achievements
 
 The game supports EGA, MCGA, VGA and Tandy/PCjr graphics. It needs 512 KB of RAM, or 640 KB for 256 colors[^ref-31][^ref-20]. Sound support covers AdLib, Game Blaster (CMS), Sound Blaster, Roland MT-32, Tandy and the PC speaker[^ref-31]. The game has no copy protection, and only one game can be saved at a time[^ref-3][^ref-20].
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Floppy | 1990 per Sierra's Fall 1990 magazine; 1991 per MobyGames and PCGamingWiki | DOS | Sierra's magazine said the game "has just hit the streets"[^ref-35][^ref-9][^ref-1] |
+| CD-ROM | Fall 1991 per *InterAction*; 1992 per MobyGames | DOS | Listed by *InterAction* as "Available Now"; MobyGames notes CD audio voice acting[^ref-40][^ref-16] |
+| CD-ROM | 1992 per MobyGames and PCGamingWiki | Windows 3.x | Native Windows executable[^ref-16][^ref-9] |
+
 ## Legacy
 
 The game did not sell well. Maher writes that "it never sold all that well despite a big promotional push, and Sierra would never again make anything quite like it"[^ref-22]. Interviewing Schwader, *Retro Gamer* said it "sold relatively poorly" but has a cult following and several fan remakes[^ref-15]. Sierra never made a sequel, and no Amiga version was produced[^ref-15]. *Power Play*'s 1991 review listed an Amiga version of Jones as "nicht geplant" (not planned)[^ref-38]. Producer Guruka Singh Khalsa later described it as "a stat-driven life game – long before the incredible success of The Sims"[^ref-15].
 
-Both the floppy and CD-ROM versions run in DOSBox[^ref-33]. A fan-made Flash remake appeared in 2007[^ref-34]. Wikipedia lists *Jones - Life in the fast lane*, released on Google Play in 2014, among the game's unofficial remakes[^ref-2].
+Both the floppy and CD-ROM versions run in DOSBox[^ref-33]. Icelandic studio Porcelain Fortress released *No Time to Relax* on Steam on August 21, 2019[^ref-45]. In a 2025 *Reykjavík Grapevine* article about that game, the studio's head, Diðrik Steinsson, said: "There was one game in particular — Jones in the Fast Lane by Sierra. We played it a lot, and we wanted to make a game that was like a spiritual successor to that, to bring it to people who didn't play it at the time."[^ref-44] A fan-made Flash remake appeared in 2007[^ref-34]. Wikipedia lists *Jones - Life in the fast lane*, released on Google Play in 2014, among the game's unofficial remakes[^ref-2].
 
 ## Downloads
 
@@ -150,7 +160,7 @@ Both the floppy and CD-ROM versions run in DOSBox[^ref-33]. A fan-made Flash rem
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – Game description, aka "Keeping Up With Jones", 67% critic average (9 reviews)
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane) – "Keeping up with the Joneses" premise; Monolith Burger and The One's "good example" (citing The One #30); Google Play app listed under "Unofficial remakes"
+[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane) – "Keeping up with the Joneses" premise; Monolith Burger and The One's "good example" (citing The One #30); Strategy Plus (Oct 1991, issue 4, p. 7) quotes by Brian Walker, cited there but not read from a scan; Google Play app listed under "Unofficial remakes"
 [^ref-3]: [DOS Days](https://www.dosdays.co.uk/topics/Games/game_jones.php) – "Jones has no copy protection"; only one saved game at a time
 [^ref-5]: [Giant Bomb](https://www.giantbomb.com/jones-in-the-fast-lane/3030-12766/) – The four goal sliders: Wealth, Happiness, Education and Career
 [^ref-8]: [MobyGames – Warren Schwader](https://www.mobygames.com/person/9371/warren-schwader/) – Lead Programmer credit on the floppy and CD-ROM editions
@@ -177,3 +187,6 @@ Both the floppy and CD-ROM versions run in DOSBox[^ref-33]. A fan-made Flash rem
 [^ref-41]: [DOS Days – Sierra Creative Interpreter](https://www.dosdays.co.uk/topics/sierra_sci.php) – Lists Jones in the Fast Lane as an SCI1 game
 [^ref-42]: [The One #30 (March 1991), p. 67 (Internet Archive)](https://archive.org/details/theone-magazine-30) – Jones in the Fast Lane review: overall 88%; "a good example of how it can be done"
 [^ref-collection]: [COMPUTE! Issue 130 (June 1991), p. 128 – Jones in the Fast Lane review by Eddie Huffman](https://www.atarimagazines.com/compute/issue130/128_Jones_in_the_Fast_La.php) – Contemporary review
+[^ref-43]: [Top Secret #7 (October–November 1991), p. 14 – "Jones in the Fast Lane" by Mateusz Przasnyski (Internet Archive)](https://archive.org/details/TopSecret07) – Polish review; no numeric score on the page; credits Sierra On-Line, "Rok produkcji: 1990"
+[^ref-44]: [The Reykjavík Grapevine – "No Time To Relax: Porcelain Fortress Simulates The Chaos Of Life" by John Rogers (13 June 2025)](https://grapevine.is/icelandic-culture/2025/06/13/porcelain-fortresss-no-time-to-relax-the-walk-of-life/) – Diðrik Steinsson quote naming Jones in the Fast Lane as the inspiration
+[^ref-45]: [Steam – No Time to Relax](https://store.steampowered.com/app/829660/No_Time_to_Relax/) – Developer and publisher Porcelain Fortress; release date Aug 21, 2019 (read via Steam's store API)
