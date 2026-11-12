@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Phantasmagoria", "Quest for Glory III", "Space Quest I VGA", "The Matrix Online"]
 companies: ["NBC", "Calico Productions", "Sierra On-Line", "Origin Systems", "Monolith Productions", "iWin", "Pinkerton Road", "Phoenix Online Studios"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Andy Hoyos
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -31,11 +31,11 @@ Hoyos writes that in 1989 he "accepted an art directorship" with Sierra On-Line;
 
 His early Sierra credits include assistant art director on the 1990 [[1990 - Oils Well|Oil's Well]] and animator/illustrator on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] (1990).[^ref-13][^ref-11] On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990) he is credited as Art Designer, and he also voiced the wizard Mordack.[^ref-13] In 2014 VGA Gallery released a print of his King's Quest V background "Wizard's Island", showing Mordack's island castle.[^ref-6]
 
-In 1991 he was a background artist on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] and [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]], an artist on [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (the game manual credits "Artists: Jim Larsen, Andy Hoyos"),[^ref-22] and art designer and production designer on [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-13][^ref-12] On Leisure Suit Larry 5 MobyGames credits him under Graphics / Artwork and Production; the game's art directors were Jane Cardinal and Cheryl Loyd.[^ref-23][^ref-16]
+In 1991 he was a background artist on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] and [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]], an artist on [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (the game manual credits "Artists: Jim Larsen, Andy Hoyos"; MobyGames dates the credit 1991, while the manual's copyright line reads 1990),[^ref-22][^ref-13] and art designer and production designer on [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]].[^ref-13][^ref-12] On Leisure Suit Larry 5 MobyGames credits him under Graphics / Artwork and Production; the game's art directors were Jane Cardinal and Cheryl Loyd.[^ref-23][^ref-16]
 
 He was production designer on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (1992), sketching designs for its characters,[^ref-13][^ref-8] and art director on [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] (1992), [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] (1993) and [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] (1994), where he is also credited as one of the directors.[^ref-13]
 
-On the original [[1995 - Phantasmagoria|Phantasmagoria]] (1995) he was art director and is credited as a game director and writer.[^ref-13][^ref-7] Wikipedia says he took part in brainstorming with Roberta Williams during the writing stage and conceived most of the death scenes; he designed the rooms, furniture, textures and lighting in Alias, and the rendered rooms became the game's backgrounds.[^ref-7] The Dot Eaters describes Williams spending six months preparing for the game, "studying the genre closely along with the art director for the project, Andy Hoyos."[^ref-8] On [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2: A Puzzle of Flesh]] (1996), Hoyos directed the live-action sequences.[^ref-4]
+On the original [[1995 - Phantasmagoria|Phantasmagoria]] (1995) he was art director and is credited as a game director and writer.[^ref-13][^ref-7] Wikipedia says he took part in brainstorming with Roberta Williams during the writing stage and conceived most of the death scenes; he designed the rooms, furniture, textures and lighting in Alias, and the rendered rooms became the game's backgrounds.[^ref-7] Wikipedia also says Hoyos named the biggest difficulty in designing the look of the game as creating a definitive scale for the environment and ensuring the objects and environment would be compatible with human characters.[^ref-7] The Dot Eaters describes Williams spending six months preparing for the game, "studying the genre closely along with the art director for the project, Andy Hoyos."[^ref-8] On [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2: A Puzzle of Flesh]] (1996), Hoyos directed the live-action sequences.[^ref-4] Wikipedia notes that he also appears in the game as "yet another mental patient".[^ref-4]
 
 ### Post-Sierra Career
 
@@ -91,7 +91,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13] 
 
 | Years | Title | Studio | Role |
 |------|-------|--------|------|
-| 1986–1989 | Denver, the Last Dinosaur; The Chipmunks (TV) | Calico Productions | Worked on (per MobyGames biography) |
+| 1986–1989 (animation period, per MobyGames bio) | Denver, the Last Dinosaur; The Chipmunks (TV) | Calico Productions | Worked on (per MobyGames biography)[^ref-13] |
 
 ### Sierra On-Line (1989–1996)
 
@@ -100,7 +100,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13] 
 | 1990 | [[1990 - Oils Well\|Oil's Well]] | Assistant Art Director |
 | 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Illustrated by; Animators[^ref-11] |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Art Designer; voice of Mordack |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Artists (manual: "Artists"; CD-ROM 1992: Graphics / Artwork)[^ref-22] |
+| 1991 (MobyGames; the game page and manual copyright give 1990) | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Artists (manual: "Artists"; CD-ROM 1992: Graphics / Artwork)[^ref-22][^ref-13] |
 | 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Background Artists[^ref-12] |
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Graphics / Artwork; Production[^ref-23] |
 | 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Background Artists; Production Designer |
@@ -114,12 +114,14 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-13] 
 
 ### Post-Sierra (1996–2014)
 
-- 1999 — Ultima IX: Ascension — Art Management
-- 2005 — The Matrix Online — Monolith Productions — Art Director, 3D Artist
-- 2006 — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III: To Heir Is Human (Infamous Adventures Remake)]] — Infamous Adventures — Cast (Manannan)[^ref-19][^ref-20]
-- 2007 — Shadowrun — Concept Artists
-- 2009–2011 — Jewel Quest IV: Heritage, Jewel Quest Solitaire III, Jewel Quest: The Sapphire Dragon — iWin — Additional Art; Art; Art Director
-- **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Company: Pinkerton Road / Phoenix Online Studios, Role: Art Direction (with Michael Fortunato)[^ref-17]
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1999 | Ultima IX: Ascension | — | Art Management[^ref-13] |
+| 2005 | The Matrix Online | Monolith Productions | Art Director, 3D Artist[^ref-13] |
+| 2006 | [[2006 - King's Quest III Remake (Infamous Adventures)\|King's Quest III: To Heir Is Human (Infamous Adventures Remake)]] | Infamous Adventures | Cast (Manannan)[^ref-19][^ref-20] |
+| 2007 | Shadowrun | — | Concept Artists[^ref-13] |
+| 2009–2011 | Jewel Quest IV: Heritage, Jewel Quest Solitaire III, Jewel Quest: The Sapphire Dragon | iWin | Additional Art; Art; Art Director[^ref-13] |
+| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Pinkerton Road / Phoenix Online Studios | Art Direction (with Michael Fortunato)[^ref-17] |
 
 ## References
 
