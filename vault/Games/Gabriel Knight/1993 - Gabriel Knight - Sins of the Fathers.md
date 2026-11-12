@@ -10,15 +10,16 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-11'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
-  developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
+  developed and published by Sierra On-Line, released on December 17, 1993. Designed
+  by Jane Jensen, it follows a New Orleans bookstore owner and horror novelist who investigates the Voodoo Murders.'
 tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -148,6 +149,52 @@ Voice recording sessions were directed by Stuart M. Rosen, who had won numerous 
 - **Voice Director:** Stuart M. Rosen
 - **Composer:** [[Robert Holmes]]
 
+### Voice Cast
+
+CD-ROM version cast, per MobyGames' credits and Wikipedia:[^ref-63][^ref-2][^ref-7]
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Gabriel Knight | Tim Curry |
+| Gedde Butler | Tim Curry |
+| Detective Mosely | Mark Hamill |
+| Jeep Driver | Mark Hamill |
+| Grace Nakimura | Leah Remini |
+| Dr. John | Michael Dorn |
+| Wolfgang Ritter | Efrem Zimbalist, Jr. |
+| Malia Gedde | Leilani Jones |
+| Narrator | Virginia Capers |
+| Grandma Knight | Linda Gary |
+| Tetelo | Linda Gary |
+| Willy Walker | Rocky Carroll |
+| Madame Cazaunoux | Susan Silo |
+| Crash | Chris Lytton |
+| Gerde | Mary Kay Bergman |
+| Little Boy | Mary Kay Bergman |
+| Old Lady | Mary Kay Bergman |
+| Professor Hartridge | Monte Markham |
+| Bartender | Monte Markham |
+| Marcus | Monte Markham |
+| Desk Sergeant Frick | Jim Cummings |
+| Jazz Band Leader | Jim Cummings |
+| Blues Band Leader | Jim Cummings |
+| Dragon | Jim Cummings |
+| Gunter | Jim Cummings |
+| Cajun Band Leader | Jim Cummings |
+| Magentia Moonbeam | Nancy Lenehan |
+| Watchman Toussaint Gervais | Dorian Harewood |
+| Sam | Jeff Bennett |
+| Technical Artist | Jeff Bennett |
+| Uniform Officer | Jeff Bennett |
+| Bruno | Jeff Bennett |
+| Lucky Dog Vendor | Jeff Bennett |
+| Motorcycle Cop | Jeff Bennett |
+| Priest | Stuart M. Rosen |
+| Phone Guy #5 | Stuart M. Rosen |
+| Beignet Vendor | Stuart M. Rosen |
+
+Voice direction by Stuart M. Rosen, who had won numerous Emmy awards;[^ref-3] Rosen, a Los Angeles director, also arranged the cast auditions.[^ref-17]
+
 ### Technical Achievements
 
 The game runs on Sierra's SCI2 (Sierra Creative Interpreter) engine, in VGA and SVGA modes,[^ref-13] and its locations make extensive use of the engine's 256-color palette.[^ref-17] The CD-ROM version added full voice acting and video sequences that the floppy version presents as sequences of still images.[^ref-2] The game shipped with a full-color comic book prologue[^ref-3] set in 1693, which follows Gabriel's ancestor Gunter Ritter.[^ref-37][^ref-2]
@@ -156,9 +203,11 @@ The game included a 20-minute behind-the-scenes AVI file on the CD version.[^ref
 
 ### Technical Specifications
 
+**Interface:** Point-and-click with expanded verbs.[^ref-2]
+
 **CD-ROM Version:**[^ref-2]
 - **Resolution:** 640x480 (Windows); 320x240 (DOS)[^ref-13]
-- **Colors:** 256
+- **Colors:** 256 (VGA/SVGA)
 - **Audio:** Sound Blaster (incl. Pro and 16), General MIDI/MPU-401, Roland MT-32, AdLib, Gravis Ultrasound, Pro Audio Spectrum, Thunderboard, Disney Sound Source, PC speaker[^ref-1]
 - **Media:** 1 CD-ROM
 - **Voice Acting:** Full digital voiceovers
@@ -168,9 +217,22 @@ The game included a 20-minute behind-the-scenes AVI file on the CD version.[^ref
 - **Video Sequences:** Rendered as still images
 - **Voice Acting:** None
 
-### Cut Content
+#### System Requirements (Original)
 
-No significant cut content has been documented in available research.
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| OS | MS-DOS 5.0 or Windows 3.1[^ref-13][^ref-46] | |
+| CPU | Intel 80386[^ref-13] | Intel 486DX[^ref-13] |
+| RAM | 4 MB[^ref-13] | 8 MB[^ref-13] |
+| Storage | 20 MB (floppy) / 1 MB (CD-ROM)[^ref-13] | |
+| Graphics | VGA[^ref-13] | SVGA (640x480, 256 colors)[^ref-46] |
+| Sound | Sound Blaster and compatibles[^ref-46] | |
+
+#### Modern Compatibility
+- **ScummVM**: The GOG release comes pre-packaged with ScummVM[^ref-13]
+- **GOG Preservation Program**: Since October 29, 2026, GOG's build includes both the DOS version (DOSBox, booting in VGA) and the Windows version (ScummVM, SVGA), with a launcher to choose between them, the GOG Game Configurator and cloud saves[^ref-68]
+- **DOSBox**: The "Gabriel Knight 1 CD DOSBox Installer" bundles all official Sierra patches and the NewRisingSun timer-bug patch[^ref-9]
+- **Note**: Windows 3.x version does not work on 64-bit Windows[^ref-13]
 
 ### Version History
 
@@ -230,82 +292,6 @@ The game has two endings, decided by the player's choice in the final confrontat
 - **Try to save Malia:** Gabriel reaches out to Malia Gedde (worth 10 points in the original's points list)
 - **Betray Malia:** Gabriel uses the knife on her, or does nothing
 
-## Technical Information
-
-| Specification | Details |
-|--------------|---------|
-| Engine | SCI2 (Sierra Creative Interpreter)[^ref-13] |
-| Resolution | 640×480 (Windows) / 320×240 (DOS)[^ref-13] |
-| Colors | 256 (VGA/SVGA) |
-| Interface | Point-and-click with expanded verbs[^ref-2] |
-| Sound | Sound Blaster (incl. Pro and 16), General MIDI/MPU-401, Roland MT-32, AdLib, Gravis Ultrasound, Pro Audio Spectrum, Thunderboard, Disney Sound Source, PC speaker[^ref-1] |
-| Voice Acting | Full digital voiceovers (CD version)[^ref-2] |
-| RAM Required | 4MB minimum |
-| Media | 1 CD-ROM or 11 floppy disks[^ref-2] |
-
-### System Requirements (Original)
-
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| OS | MS-DOS 5.0 or Windows 3.1[^ref-13][^ref-46] | |
-| CPU | Intel 80386[^ref-13] | Intel 486DX[^ref-13] |
-| RAM | 4 MB[^ref-13] | 8 MB[^ref-13] |
-| Storage | 20 MB (floppy) / 1 MB (CD-ROM)[^ref-13] | |
-| Graphics | VGA[^ref-13] | SVGA (640x480, 256 colors)[^ref-46] |
-| Sound | Sound Blaster and compatibles[^ref-46] | |
-
-### Modern Compatibility
-- **ScummVM**: The GOG release comes pre-packaged with ScummVM[^ref-13]
-- **GOG Preservation Program**: Since October 29, 2026, GOG's build includes both the DOS version (DOSBox, booting in VGA) and the Windows version (ScummVM, SVGA), with a launcher to choose between them, the GOG Game Configurator and cloud saves[^ref-68]
-- **DOSBox**: The "Gabriel Knight 1 CD DOSBox Installer" bundles all official Sierra patches and the NewRisingSun timer-bug patch[^ref-9]
-- **Note**: Windows 3.x version does not work on 64-bit Windows[^ref-13]
-
-## Voice Cast
-
-CD-ROM version cast, per MobyGames' credits and Wikipedia:[^ref-63][^ref-2][^ref-7]
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Gabriel Knight | Tim Curry |
-| Gedde Butler | Tim Curry |
-| Detective Mosely | Mark Hamill |
-| Jeep Driver | Mark Hamill |
-| Grace Nakimura | Leah Remini |
-| Dr. John | Michael Dorn |
-| Wolfgang Ritter | Efrem Zimbalist, Jr. |
-| Malia Gedde | Leilani Jones |
-| Narrator | Virginia Capers |
-| Grandma Knight | Linda Gary |
-| Tetelo | Linda Gary |
-| Willy Walker | Rocky Carroll |
-| Madame Cazaunoux | Susan Silo |
-| Crash | Chris Lytton |
-| Gerde | Mary Kay Bergman |
-| Little Boy | Mary Kay Bergman |
-| Old Lady | Mary Kay Bergman |
-| Professor Hartridge | Monte Markham |
-| Bartender | Monte Markham |
-| Marcus | Monte Markham |
-| Desk Sergeant Frick | Jim Cummings |
-| Jazz Band Leader | Jim Cummings |
-| Blues Band Leader | Jim Cummings |
-| Dragon | Jim Cummings |
-| Gunter | Jim Cummings |
-| Cajun Band Leader | Jim Cummings |
-| Magentia Moonbeam | Nancy Lenehan |
-| Watchman Toussaint Gervais | Dorian Harewood |
-| Sam | Jeff Bennett |
-| Technical Artist | Jeff Bennett |
-| Uniform Officer | Jeff Bennett |
-| Bruno | Jeff Bennett |
-| Lucky Dog Vendor | Jeff Bennett |
-| Motorcycle Cop | Jeff Bennett |
-| Priest | Stuart M. Rosen |
-| Phone Guy #5 | Stuart M. Rosen |
-| Beignet Vendor | Stuart M. Rosen |
-
-Voice direction by Stuart M. Rosen, who had won numerous Emmy awards;[^ref-3] Rosen, a Los Angeles director, also arranged the cast auditions.[^ref-17]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -353,6 +339,8 @@ Reviewers singled out its blend of real voodoo history with supernatural fiction
 
 The game attracted an unusual demographic for its time. Jensen observed in 2003: "I get a lot of letters from women and older people who want a great story, a beautiful environment to explore, and who hate shooters and 'twitch' games".[^ref-4]
 
+Tim Curry, who voiced Gabriel Knight, died on August 25, 2026, at the age of 80.[^ref-69]
+
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -372,6 +360,7 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 - [[1995 - The Beast Within - A Gabriel Knight Mystery]]
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+- [[Gabriel Knight Series]]
 
 ## References
 
@@ -426,3 +415,4 @@ The game attracted an unusual demographic for its time. Jensen observed in 2003:
 [^ref-66]: [IMDb – Gabriel Knight: Sins of the Fathers (archived September 2026)](https://web.archive.org/web/20260925014345/https://www.imdb.com/title/tt0109865/) — IMDb rating 8.9/10 from 827 ratings
 [^ref-67]: [GameRankings – Gabriel Knight: Sins of the Fathers (archived 2009)](https://web.archive.org/web/20090207143808/http://www.gamerankings.com/htmlpages2/562666.asp?q=gabriel%20knight) — "Avg Ratio: 93% Based On 5 Media Outlets"
 [^ref-68]: [GamingOnLinux – Five more classics join the GOG Preservation Program](https://www.gamingonlinux.com/2026/10/five-more-classics-join-the-gog-preservation-program/) — Liam Squires-Hand, October 30, 2026; GOG v2 changelog for Gabriel Knight: Sins of the Fathers 1.1 (October 29, 2026): DOS version on DOSBox, Windows version on ScummVM, launcher, cloud saves, subtitles on by default, graphic novel, making-of documentary and trailer as goodies
+[^ref-69]: [Tim Curry, Outlandish Star of 'The Rocky Horror Picture Show,' Dies at 80 (The Hollywood Reporter)](https://www.hollywoodreporter.com/movies/movie-news/tim-curry-dead-rocky-horror-picture-show-1236682015/) — Lisa de los Reyes, August 26, 2026; Tim Curry died on August 25, 2026, aged 80
