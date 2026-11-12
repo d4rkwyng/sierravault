@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Hoyle Casino 2004 is a casino simulation game developed and published
   by Sierra Entertainment, released on September 2, 2003 for Windows PC, with
   a drink reward system, talking opponents and character creation.'
@@ -18,13 +18,13 @@ tags: [2000s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino 2004
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Hoyle Casino 2004 is a casino simulation game developed and published by Sierra Entertainment, released on September 2, 2003 for Windows PC.[^ref-1][^ref-2][^ref-21] Retail listings carried the manufacturer's blurb describing Hoyle Casino Games as "the best-selling casino game of all time."[^ref-3] Its description promised that "all the sights and sounds of Vegas are back, with more twists than before."[^ref-4]
 
-The edition continued the annual Hoyle Casino line that Sierra had been releasing since 1996, and GameSpy lists a Sierra-published Hoyle Casino [2005] dated December 1, 2004; whether that listing is the same product as [[2005 - Hoyle Casino 3D]] is not settled.[^ref-5][^ref-22] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] Sierra's product page said up to four people could play on the same computer, while a GameFAQs user review states that only one person can play at a time.[^ref-24][^ref-9] Sierra's page described the Facemaker tool as creating characters "from hundreds of features."[^ref-24]
+The edition continued the annual Hoyle Casino line that Sierra had been releasing since 1996, and GameSpy lists a Sierra-published title as "Hoyle Casino [2005]" dated December 1, 2004; whether that listing is the same product as [[2005 - Hoyle Casino 3D]] is not settled.[^ref-5][^ref-22] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] Sierra's product page said up to four people could play on the same computer, while a GameFAQs user review states that only one person can play at a time.[^ref-24][^ref-9] Sierra's page described the Facemaker tool as creating characters "from hundreds of features."[^ref-24]
 
 Hoyle Casino 2004 drew mixed reactions from Amazon customers, some of whom felt it added little value compared to the previous 2003 edition.[^ref-3] The ESRB rated it T (Teen) for Gambling,[^ref-7] and the retail product was eventually discontinued by the manufacturer.[^ref-3][^ref-16]
 
@@ -45,7 +45,7 @@ Hoyle Casino 2004 drew mixed reactions from Amazon customers, some of whom felt 
 
 Hoyle Casino 2004 featured an easy-to-use interface designed to make gameplay fun for players of all skill levels, from beginners to experienced gamblers.[^ref-8] The game provided in-game tutorials to help novice players learn the rules and strategies of various casino games, teaching them to "play like a high roller."[^ref-1] Players could customize their experience through character creation, with the ability to make avatars that looked exactly like themselves or create completely different personas.[^ref-9]
 
-The game utilized a status progression system represented by different colored playing cards, with players starting at the green level and advancing as they accumulated winnings.[^ref-9] One notable technical requirement was that the CD must remain in the drive for the game to work, and the game would pause whenever the window lost focus.[^ref-3]
+The game utilized a status progression system represented by different colored playing cards, with players starting at the green card and working their way through the other colors.[^ref-9] One notable technical requirement was that the CD must remain in the drive for the game to work, and the game would pause whenever the window lost focus.[^ref-3]
 
 ### Structure and Progression
 
@@ -101,6 +101,8 @@ The ESRB's ratings entry lists both Windows PC and Pocket PC as platforms.[^ref-
 - **Dimensions:** 19.7 x 14 x 3.3 cm; 318 g
 - **Supported OS:** Windows 95, Windows 98, Windows Me, Windows 2000, Windows XP[^ref-3][^ref-8]
 - **Best Buy model number:** 72009[^ref-17]
+- **Minimum requirements:** Intel Pentium class CPU, Windows 95, 16 MB RAM, 4x CD-ROM drive, 640x480 full-screen video[^ref-23]
+- **Australian rating:** ACB G8+[^ref-23]
 
 The game required the CD to remain in the drive during play and would pause execution when the application window lost focus.[^ref-3]
 
@@ -109,7 +111,7 @@ The game required the CD to remain in the drive during play and would pause exec
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | September 2, 2003 | Windows PC | Initial release[^ref-1][^ref-2][^ref-12] |
-| 1.1 | Unknown | PC | Patch update[^ref-13] |
+| 1.1 | Unknown | Windows PC | Patch 1.1 (update file hoylecasino2004_update_en_10_11)[^ref-13] |
 
 RAWG lists an alternate release date of August 1, 2003.[^ref-18] The game was eventually discontinued by the manufacturer.[^ref-3]
 
@@ -129,7 +131,7 @@ No sales figures for Hoyle Casino 2004 are documented in the sources consulted. 
 
 ### Series Transition
 
-GameSpy lists a Sierra-developed and published Hoyle Casino [2005] with a December 1, 2004 release date, which it keeps separate from the 2004 edition; whether it is the same product as [[2005 - Hoyle Casino 3D]] is not settled.[^ref-22] Wikipedia's series history credits Encore, Inc. as developer and publisher of later editions from 2005 through 2016.[^ref-5]
+GameSpy lists a Sierra-developed and published title as "Hoyle Casino [2005]" with a December 1, 2004 release date, which it keeps separate from the 2004 edition; whether it is the same product as [[2005 - Hoyle Casino 3D]] is not settled.[^ref-22] Wikipedia's series history credits Encore, Inc. as developer and publisher of later editions from 2005 through 2016.[^ref-5]
 
 ### Collections and Related Releases
 
@@ -152,7 +154,6 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 **Download / Preservation**
 - [MobyGames](https://www.mobygames.com/game/11804/hoyle-casino-2004/)
 - [Internet Archive – Hoyle Casino 2004 (USA), Redump disc image](https://archive.org/details/Nova_Hoyle-Casino-2004_USA)
-- [MyAbandonware search](https://www.myabandonware.com/search/q/Hoyle+Casino)
 
 ## See Also
 
@@ -232,5 +233,5 @@ Hoyle Casino 2004 is a modest, little-documented entry in a long-running series.
 [^ref-18]: [RAWG – Hoyle Casino 2004](https://rawg.io/games/hoyle-casino-2004) – alternate release date listing, developer attribution
 [^ref-21]: [IGDB – Hoyle Casino 2004](https://www.igdb.com/games/hoyle-casino-2004) — Internet Games Database entry; platform PC (Microsoft Windows), release 9/2/2003
 [^ref-22]: [GameSpy – Hoyle Casino (2005)](http://pc.gamespy.com/pc/hoyle-casino-2005/) – Sierra developer/publisher, US release December 1, 2004
-[^ref-23]: [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/) – Windows release September 2, 2003, ESRB Teen, CD-ROM, 1-4 offline players, drinks system and talk-back new in this release, no credits listed (read via the MobyGames API)
+[^ref-23]: [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/) – Windows release September 2, 2003, ESRB Teen, CD-ROM, 1-4 offline players, drinks system and talk-back new in this release, no credits listed, system requirements, ACB G8+ rating (read via the MobyGames API)
 [^ref-24]: [Sierra Entertainment – Hoyle Casino product page (archived October 3, 2003)](https://web.archive.org/web/20031003033349/http://www.sierra.com/product.do?gamePlatformId=548) – Drink Reward System, BackTalk, 10 opponents, Facemaker, Hall of Fame, over 500 game variations, up to 4 players on one computer, free rulebook
