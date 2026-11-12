@@ -10,23 +10,23 @@ series: 3-D Ultra Pinball
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [LoudMouth Productions]
 description: 3-D Ultra Pinball is a pinball game developed by Dynamix and published
   by Sierra On-Line in 1995, built around three tables themed on Sierra's space game
   Outpost.
 tags: [1990s, 3-d-ultra-pinball, sierra]
-last_modified: 2026-11-11T12:00:00-06:00
+last_modified: 2026-11-12T12:00:00-06:00
 ---
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 3-D Ultra Pinball is a pinball game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1995[^ref-1]. NewTechReview called it "Sierra's first foray into the PC pinball party"[^ref-2]; *PC Gamer* more precisely called it Sierra's first computer pinball game since [[1993 - Take a Break! Pinball|Take a Break! Pinball]][^ref-24]. MobyGames' description says some would call it "Impossible Pinball"—"not that it is difficult to play, rather that you could never build a pinball machine that could do the type of things that this game does"[^ref-1].
 
-The game was created "with the help of real pinball pros in order to capture the true arcade table feel, targetability, visual perspective and bumper and flipper friction"[^ref-2]. Its three main tables—Colony, Mine and Command Post—have a theme, graphics and sound inspired by Sierra's 1994 space simulation game Outpost[^ref-1][^ref-17][^ref-21]. Tanks can attack the ball, and comets can fly in and create a crater in the middle of the board[^ref-1].
+NewTechReview wrote that the game was created "with the help of real pinball pros in order to capture the true arcade table feel, targetability, visual perspective and bumper and flipper friction"[^ref-2], wording that closely follows Sierra's own product description, which says it was "Designed with help from pinball pros" for "true arcade table feel, targetability, visual perspective and bumper and flipper friction"[^ref-26]. Its three main tables—Colony, Mine and Command Post—have a theme, graphics and sound inspired by Sierra's 1994 space simulation game Outpost[^ref-1][^ref-17][^ref-21]. Tanks can attack the ball, and comets can fly in and create a crater in the middle of the board[^ref-1].
 
 Sierra reported that the game sold more than 250,000 copies in its fiscal year ending March 31, 1996[^ref-22], and PC Data ranked it the 18th-best-selling computer game in the United States for 1996[^ref-21]. The series as a whole sold more than half a million copies by 1998[^ref-4][^ref-18]; Sierra's product description for The Lost Continent billed it as "the bestselling pinball series of all time"[^ref-5].
 
@@ -48,6 +48,10 @@ Players can define their own flipper keys, but Computer Gaming World noted "it i
 
 Like the rest of the series, it departs from traditional arcade pinball with animation and more than one table at once[^ref-18]; Computer Gaming World described it as "an innovative cross-breed of pinball simulation, video game, and strategy"[^ref-17].
 
+### Story
+
+The game has no narrative beyond its campaign goal of building a starship to send life to another world[^ref-17][^ref-26].
+
 ### Structure and Progression
 
 The game has three main tables, which can be played individually or as a campaign[^ref-17][^ref-9]:
@@ -56,7 +60,7 @@ The game has three main tables, which can be played individually or as a campaig
 - **Mine:** Described by Sierra as "a cavernous SPACE mine"[^ref-9]
 - **Command Post:** Described by Sierra as "a gritty command post"[^ref-9]
 
-Each main table has five challenges, and smaller auxiliary "mini-tables" with their own flippers are attached to either side of each main table[^ref-17][^ref-21]. Players warp from the Colony table to the Mine and Command Post tables as their skill allows, taking the balls in play along with them[^ref-17][^ref-9]. The campaign goal is to complete all 15 challenges within 3–5 balls while building structures, collecting premium points and extra balls, and discovering two hidden levels; the player then builds a space port and launches a starship to win[^ref-17]. NewTechReview described the layout differently, as four playfields ("the planet surface, command post, mineshaft, and underground lab")[^ref-2]. There is no way to save a game in progress[^ref-2].
+Each main table has five challenges, and smaller auxiliary "mini-tables" with their own flippers are attached to either side of each main table[^ref-17][^ref-21]. Players warp from the Colony table to the Mine and Command Post tables as their skill allows, taking the balls in play along with them[^ref-17][^ref-9]. The campaign goal is to complete all 15 challenges within 3–5 balls while building structures, collecting premium points and extra balls, and discovering two hidden levels; the player then builds a space port and launches a starship to win[^ref-17]. NewTechReview described the layout differently, as four playfields ("the planet surface, command post, mineshaft, and underground lab")[^ref-2], matching Sierra's own product description of "four different playfields"[^ref-26]. There is no way to save a game in progress[^ref-2].
 
 ### Mechanics
 
@@ -78,6 +82,8 @@ MobyGames user James Walter called it "an excellent pinball simulation which is 
 
 ### Modern Assessment
 
+Kurt Kalata's 2011 Hardcore Gaming 101 review described a strategy layer in Play All mode, where completing bonus modes lets the player construct and upgrade structures and eventually launch a starship, but found it "almost inexcusable how bad the ball physics are." He noted that the game offers a "bozo ball" if no points are scored after a launch, that it can be played entirely with two mouse buttons, and that its music, played through Windows MIDI, tends to get notes stuck on a Sound Blaster[^ref-25].
+
 Players on MyAbandonware still discuss running the game: one reports it "Runs flawlessly using Wine on Linux Mint," and another that "On Windows 11 Home (unofficially supported on my laptop), I can run this game's executable directly from the 30MB ISO image without issue"[^ref-6].
 
 **Aggregate Scores:**
@@ -91,14 +97,22 @@ Players on MyAbandonware still discuss running the game: one reports it "Runs fl
 
 The tables' theme, graphics and sound were inspired by Sierra's 1994 game Outpost[^ref-1]. According to NewTechReview, the game was made "with the help of real pinball pros"[^ref-2]; MobyGames' credits list Jerry Carathers as pinball design consultant[^ref-1].
 
+MobyGames credits [[Dynamix]] as developer. [[Jeff Tunnell]], who is credited as executive producer, has said that "3D Ultra Pinball was labeled Sierra, but it was a JTP game, and was the biggest seller ever for Dynamix (of which JTP was still a part of)"; the "biggest seller" figure is his own claim[^ref-27]. [[Jeff Tunnell Productions]] was his Dynamix division.
+
 ### Production
 
 **Development Credits:**[^ref-1]
-- **Executive Producer:** Jeffrey Tunnell
+- **Executive Producer:** [[Jeff Tunnell|Jeffrey Tunnell]]
 - **Project Director / Lead Programmer:** Dariusz Lukaszuk
 - **Designer / Art Director:** Kyle Miller
 - **Producer:** Ken Embery
 - **Pinball Design Consultant:** Jerry Carathers
+- **Additional Design Help:** [[Richard Tunnell]]
+- **Programmers:** Dan Spracklen, [[Richard Tunnell]], Jon Milnes
+- **Production Art:** Justin Bengston, Catherine Sterling
+- **3-D Art:** Peter Lewis; additional 3-D art by Nate Carson and Michael McHugh
+- **SFX:** Ken Rogers
+- **Technical Assistance:** Rhett Anderson, Chris Cole, Richard Rayl
 - **Music:** LoudMouth Productions
 - **Voice Talent:** Sher Alltucker, Jane Chase, Ed Ragazzino
 
@@ -116,6 +130,8 @@ The tables' theme, graphics and sound were inspired by Sierra's 1994 game Outpos
 - **Media:** CD-ROM
 - **Rating:** ESRB Kids to Adults[^ref-1]
 - **Multiplayer:** Same/Split-Screen, 1-4 Players Offline[^ref-1]
+- **Requirements (PC Gamer listing, December 1995):** double-speed CD-ROM drive, 486/33, 8 MB RAM, Windows 3.1 or higher, SVGA; recommended 486/66 with Windows 95 and a supported sound card[^ref-24]
+- **List price:** $39.95 M.S.R.P.[^ref-24]
 
 **Available Download Versions:**[^ref-6]
 - **Easy Setup 32 bits:** 27 MB
@@ -132,8 +148,10 @@ Compatibility on modern systems varies by version. One MyAbandonware user writes
 |------|-------------------|-------|
 | 1995 | Windows, Windows 3.x | Original release[^ref-1] |
 | 1995 | Macintosh | Mac release[^ref-1] |
-| 1995 | Germany | Released in Germany[^ref-6] |
-| 1996 | Italy | Released in Italy[^ref-6] |
+| 1995 | Germany | Released in Germany[^ref-1][^ref-6] |
+| 1996 | Italy | "CD-ROM Classic Collection 1" release, distributed by Leader S.p.a.[^ref-1][^ref-6] |
+| 1999 | Australia, New Zealand | Distributed by Wolf Interactive[^ref-1] |
+| December 2000 | Poland | Bundled with *Komputer Świat GRY* magazine 09/2000, distributed by Axel Springer Polska[^ref-1] |
 
 ### Cut Content
 
@@ -174,7 +192,7 @@ In his GameSpot review of Thrillride, Ron Dulin contrasted the series with Empir
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
+- Not currently available on GOG or Steam (checked 2026-11-12)
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-pinball-1995) - Community Dreamlist
 
 **Download / Preservation**
@@ -226,4 +244,7 @@ In his GameSpot review of Thrillride, Ron Dulin contrasted the series with Empir
 [^ref-21]: [Wikipedia – 3-D Ultra Pinball (video game)](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball_(video_game)) — Tables Colony, Command Post, Mine; Next Generation 2/5, MacUser 3.5/5, CNET; PC Data #18 for 1996; cancelled Saturn port
 [^ref-22]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "3D ULTRA PINBALL ... Released in fiscal 1996, this title has sold more than 250,000 copies." ([Wayback Machine copy](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt))
 [^ref-23]: [Computer Gaming World Issue 150 (January 1997)](https://archive.org/details/Computer_Gaming_World_Issue_150) — Sierra advertisement: "last year's best-selling 3D Ultra Pinball"
-[^ref-24]: [PC Gamer Vol. 2 No. 12 (December 1995), Internet Archive](https://archive.org/details/UneditedPCGamer_marktrade) — Todd Vaughn review, p. 237 (file PC_Gamer_019u): "Sierra's first foray into the world of computerized pinball since Take a Break Pinball"; verdict box pros and cons
+[^ref-24]: [PC Gamer Vol. 2 No. 12 (December 1995), Internet Archive](https://archive.org/details/UneditedPCGamer_marktrade) — Todd Vaughn review, p. 237 (file PC_Gamer_019u): "Sierra's first foray into the world of computerized pinball since Take a Break Pinball"; verdict box pros and cons; "Product Information" listing: requirements and M.S.R.P. $39.95 (price read from OCR text)
+[^ref-25]: [Hardcore Gaming 101 – 3-D Ultra Pinball](https://web.archive.org/web/20260120000606/http://www.hardcoregaming101.net/3d-ultra-pinball/) — Kurt Kalata, November 29, 2011 (Wayback Machine copy): Play All colony-building layer, "bozo ball," two-mouse-button play, ball physics, Windows MIDI stuck notes
+[^ref-26]: [Sierra On-Line – 3D Ultra Pinball product page (Wayback Machine, 1998)](https://web.archive.org/web/19980214125503fw_/http://sierra.com/titles/3dupb/cindex.html) — "Designed with help from pinball pros"; "four different playfields"; goal "build a starship to send life to another world"
+[^ref-27]: [Jeff Tunnell – Johnny Castaway: Common Questions (Wayback Machine copy)](http://web.archive.org/web/20260927171540/https://jefftunnell.com/johnny-castaway-common-questions/) — Tunnell: "3D Ultra Pinball was labeled Sierra, but it was a JTP game, and was the biggest seller ever for Dynamix"
