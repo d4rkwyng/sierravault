@@ -9,14 +9,14 @@ platforms: [Microsoft Windows]
 series: Civil War Generals
 protagonist: Robert E. Lee
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Robert E. Lee: Civil War General is a turn-based strategy wargame developed
   by Impressions Games and released by Sierra On-Line on August 24, 1996, for Windows 3.1 and Windows 95.'
 tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Robert E. Lee: Civil War General
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -108,6 +108,10 @@ MobyGames lists 640×480, 800×600 and 1024×768 resolutions for the Windows 3.1
 
 Audio design included period music; one GOG user remembered hearing "The Bonnie Blue Flag" during play[^ref-18]. The game also features professional voice acting[^ref-7].
 
+### Version History
+
+By December 1996 the team had released a downloadable "Scenario Pack" for the game, and a second pack followed in January 1997[^ref-9]. A Computer Games Strategy Plus reviewer who found a minor bug in leader promotion was told by Sierra that a patch would be available from its website[^ref-63].
+
 ## Legacy
 
 Robert E. Lee: Civil War General established a successful franchise for Sierra, leading to the 1997 sequel Grant, Lee, Sherman: Civil War Generals 2[^ref-9], though a planned third game was ultimately cancelled[^ref-9].
@@ -123,10 +127,6 @@ Fiske sought to make the gameplay streamlined and intuitive without sacrificing 
 ### Technical and Multimedia Achievements
 
 Impressions placed heavy emphasis on the game's multimedia content, and the encyclopedia's educational entertainment aspect was among its selling points[^ref-9]. The roughly 140 full-motion video clips of Civil War reenactments and the licensed Mort Künstler paintings[^ref-9] were central to that package; PC Gamer counted the "excellent you-are-there video reenactments" among its highs[^ref-54].
-
-## Version History
-
-By December 1996 the team had released a downloadable "Scenario Pack" for the game, and a second pack followed in January 1997[^ref-9]. A Computer Games Strategy Plus reviewer who found a minor bug in leader promotion was told by Sierra that a patch would be available from its website[^ref-63].
 
 ## Downloads
 
