@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: G-Engine
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is the third
   and final installment in Jane Jensen''s Gabriel Knight adventure series, a 1999 3D
   adventure set in Rennes-le-Château.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -85,7 +85,7 @@ Gabriel Knight 3 received generally positive reviews from critics, though opinio
 
 Contemporary critics praised Jane Jensen's storytelling abilities, with IGN's Uros Jojic noting that "her stories are absolutely the most thought over and well researched concepts that can be found in the world of PC gaming today"[^ref-42]. GameRevolution's reviewer declared it "one of the best adventure games yet" and praised how "Jane always combines real places and events with fantasy in such a way that you sometimes can't tell the difference"[^ref-27].
 
-However, criticism focused heavily on Tim Curry's voice acting performance as Gabriel Knight, with multiple reviewers describing it as "a cold and over-exaggerated interpretation of the southern accent"[^ref-15] and "fake accent and overly dramatic delivery [...] almost unbearable"[^ref-15][^ref-28]. The transition to 3D graphics also received mixed reactions: Metzomagic's reviewer found the 3D graphics "a double-edged sword", with excellent interiors but "iffy" outdoor scenes[^ref-50].
+However, criticism focused heavily on Tim Curry's voice acting performance as Gabriel Knight, with multiple reviewers describing it as "a cold and over exaggerated interpretation of the southern accent"[^ref-42] and "fake accent and overly dramatic delivery [...] almost unbearable"[^ref-15][^ref-28]. The transition to 3D graphics also received mixed reactions: Metzomagic's reviewer found the 3D graphics "a double-edged sword", with excellent interiors but "iffy" outdoor scenes[^ref-50].
 
 ### Aggregate Scores
 
@@ -109,7 +109,7 @@ In a February 20, 2026 essay for *The Digital Antiquarian*, gaming historian Jim
 
 ### Origins
 
-Gabriel Knight 3's development began in December 1996[^ref-34]; Adventure Gamers later called it, as narrative, "one of the most ambitious productions ever attempted"[^ref-92]. Sierra announced the game on August 18, 1997, then due out in the summer of 1998[^ref-83]. Sierra felt the series should move to 3D graphics "to keep up with the times"[^ref-15]. Jane Jensen officially returned to Sierra in December 1996 to begin work on the script and design document while engineers started on the core technology, at Sierra's offices in Bellevue, Washington, with a planned ship date of Christmas 1998[^ref-18]. Jensen herself recalled that after walking the January 1997 CES show floor, "I realized that if I wanted anyone to look at the game, it had to be in 3D"[^ref-18]. Jensen noted that "GK3 is the first project I've worked on that we created a game engine from scratch," explaining that "gamers get bored if a company uses the same engine too often - particularly adventure game engines" and that "new technology (like 3D) often doesn't work with old engines"[^ref-34][^ref-84].
+Gabriel Knight 3's development began in December 1996[^ref-34]; Adventure Gamers later called it, as narrative, "one of the most ambitious productions ever attempted"[^ref-92]. Sierra announced the game on August 18, 1997, then due out in the summer of 1998[^ref-83]. Sierra felt the series should move to 3D graphics to keep up with the times[^ref-15]. Jane Jensen officially returned to Sierra in December 1996 to begin work on the script and design document while engineers started on the core technology, at Sierra's offices in Bellevue, Washington, with a planned ship date of Christmas 1998[^ref-18]. Jensen herself recalled that after walking the January 1997 CES show floor, "I realized that if I wanted anyone to look at the game, it had to be in 3D"[^ref-18]. Jensen noted that "GK3 is the first project I've worked on that we created a game engine from scratch," explaining that "gamers get bored if a company uses the same engine too often - particularly adventure game engines" and that "new technology (like 3D) often doesn't work with old engines"[^ref-34][^ref-84].
 
 The development team was acutely aware they were working in a declining market, with Jensen later reflecting that "we were the last dinosaur on the block" and "we had until the game shipped, and then it would be over"[^ref-15]. This awareness of the adventure genre's commercial decline influenced both the game's ambitious scope and its troubled production timeline.
 
