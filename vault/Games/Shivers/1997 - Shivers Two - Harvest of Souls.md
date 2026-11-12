@@ -2,7 +2,7 @@
 title: 'Shivers Two: Harvest of Souls'
 release_year: 1997
 developer: Sierra On-Line
-designer: [Marcia Bales, Willie Eide]
+designer: [Marcia Bales]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [Windows]
@@ -10,14 +10,16 @@ series: Shivers
 engine: SCI resources / native DLL logic
 protagonist: Unnamed friend of the band Trip Cyclone
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
-  published by Sierra On-Line in 1997. Set in the mysterious desert town of Cyclone,...'
+  published by Sierra On-Line in 1997. Set in the desert town of Cyclone, Arizona, the
+  player searches for missing friends of the band Trip Cyclone by collecting twelve
+  ceremonial prayer sticks called Bahos.'
 tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -27,7 +29,7 @@ The game incorporates Native American mysticism and supernatural horror elements
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
-> **Designer:** Marcia Bales, Willie Eide[^ref-18]
+> **Designer:** Marcia Bales[^ref-12]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** SCI (Sierra's Creative Interpreter) resources, with game logic in native DLLs rather than SCI scripts[^ref-17][^ref-35][^ref-71]; "Vision 360" panoramic views[^ref-5]
 > **Platforms:** Windows[^ref-18]
@@ -48,7 +50,7 @@ As the investigation unfolds, the player learns that Darkcloud has hidden twelve
 
 Shivers Two utilizes an enhanced first-person slideshow interface in which the player can rotate 360 degrees in place[^ref-17]. The game introduces "Vision 360" panoramic views and "Dynamic Sounds" surround-sound simulation, which Adventure Classic Gaming describes as two new engines[^ref-5]; underneath, the game uses SCI resource files but keeps its game logic in native DLLs rather than SCI scripts[^ref-17][^ref-71]. Players can pan the environment 360 degrees horizontally with up/down movement of 30 degrees, providing more immersive exploration than typical static adventure games[^ref-3].
 
-The manual states that "You can hold up to twelve items in inventory at a time"[^ref-12], where the original Shivers only allowed holding one item[^ref-17]. Players use mouse and keyboard controls to navigate the environment, examine objects, and solve puzzles[^ref-13]. The game features SVGA 640x480 resolution with 256 colors[^ref-5].
+The manual states that "You can hold up to twelve items in inventory at a time"[^ref-12], where the original Shivers only allowed holding one item[^ref-17]. Players use mouse and keyboard controls to navigate the environment, examine objects, and solve puzzles[^ref-12]. The game features SVGA 640x480 resolution with 256 colors[^ref-5].
 
 ### Structure and Progression
 
@@ -60,7 +62,7 @@ The core objective involves collecting twelve ceremonial prayer sticks called Ba
 
 The puzzle design incorporates both traditional adventure game logic challenges and elements specific to the Native American cultural theme. Players encounter door puzzles, in which tiles are aligned to form a symbol, and petroglyph puzzles, in which shapes are fitted inside a sacred symbol to awaken each Bahos[^ref-4].
 
-Rock music videos serve as more than atmospheric elements—they contain actual clues essential for solving puzzles. The official strategy guide promises "interpretations of every clue-riddled music video"[^ref-6], highlighting their integral role in progression. Players can also redesign existing puzzles and share them as .txt files, with the Sierra Internet Gaming System (SIGS) allowing real-time online chat for collaborative puzzle-solving[^ref-5].
+Rock music videos serve as more than atmospheric elements—they contain actual clues essential for solving puzzles. The official strategy guide promises "interpretations of every clue-riddled music video"[^ref-6], highlighting their integral role in progression. Players can also redesign existing puzzles and share them as .txt files, with the Sierra Internet Gaming System (SIGS) allowing real-time online chat for collaborative puzzle-solving[^ref-5]. GameSpot also noted that "These puzzles are also altered for each new game, a nice tip of the hat toward replayability"[^ref-19].
 
 ## Reception
 
@@ -75,10 +77,12 @@ Rock music videos serve as more than atmospheric elements—they contain actual 
 | AllGame | 4/5 | Review by Michael L. House[^ref-18] |
 | Adventure Gamers | 3/5 | "Decent"; review by Tom Arbour, May 2002[^ref-3] |
 | Génération 4 | 3/6 | French gaming magazine, June 1997[^ref-43] |
-| Glitchwave | 3.18/5.0 | User aggregate rating[^ref-44] |
+| PC Gamer (UK) | 55/100 | July 1997[^ref-43] |
+| PC Format (UK) | 62/100 | August 1997[^ref-43] |
+| Glitchwave | 3.00/5.0 | User aggregate rating, 3 ratings (as of November 2026)[^ref-44] |
 | IMDb | 8.3/10 | User rating, 52 votes (checked October 29, 2026)[^ref-45] |
 
-Philip Jong of Adventure Classic Gaming awarded the game 3 out of 5 stars, praising it as "an interesting and immersing horror adventure, backed by rock music mixed with Native American history"[^ref-5]. However, Next Generation was less enthusiastic, arguing "It might be the best puzzle game of its type, but it's still just a puzzle game that involves lots of mouse-clicking and leaps of logic to uncover its ancient mystery"[^ref-73][^ref-18].
+Philip Jong of Adventure Classic Gaming awarded the game 3 out of 5 stars, praising it as "an interesting and immersing horror adventure, backed by rock music mixed with Native American history"[^ref-5]. However, Next Generation was less enthusiastic, arguing "It might be the best puzzle game of its type, but it's still just a puzzle game that involves lots of mouse-clicking and leaps of logic to uncover its ancient mystery"[^ref-73][^ref-18]. The same review described the 360-degree look-around as "similar to Zork Nemesis"[^ref-73].
 
 GameSpot's Kevin Hunsanger provided a more positive assessment with an 8.7/10 score, noting that "The plot in Shivers II is hauntingly intelligent"[^ref-19]. MobyGames lists a critic average of 72% based on 21 ratings[^ref-21].
 
@@ -96,11 +100,11 @@ However, the game faces technical challenges on modern systems, requiring unoffi
 
 Adventure Classic Gaming judged that Sierra On-Line "clearly listened" to criticisms of the original 1995 Shivers when designing the sequel[^ref-5]. According to The Collection Chamber, the game "had two years worth of development time to contemplate what worked in the original"[^ref-11]. Unlike many sequels, Shivers Two is "not a sequel to the first game" but rather "a completely different adventure with a new location and totally new characters"[^ref-70].
 
-The game was designed by Marcia Bales and Willie Eide, produced by Wendy Albee, with music by Guy Whitmore[^ref-18]. Adventure Classic Gaming highlighted its "unique nonlinear and non-repetitive puzzle design"[^ref-5].
+The Shivers Two manual's credits list Wendy Albee as producer, Marcia Bales as designer, Ron Spears as art director, Willie Eide as lead game developer and Guy Whitmore as composer and lead sound designer; Bales and Jim Hicks are credited as script writers[^ref-12]. Adventure Classic Gaming highlighted its "unique nonlinear and non-repetitive puzzle design"[^ref-5].
 
 ### Production
 
-Adventure Classic Gaming reports that the game debuted two new technologies: "Vision 360" for panoramic views and "Dynamic Sounds" for simulated surround sound[^ref-5]; MobyGames and the Sierra Chest list the game's engine as SCI[^ref-17][^ref-35], but ScummVM's developers note that it "doesn't contain SCI scripts": it has the resources of an SCI game, while the room logic was reimplemented in native code in DLL files[^ref-71]. It uses live-action full-motion video cut-scenes[^ref-17][^ref-57]. The game received an ESRB Teen rating[^ref-13][^ref-17].
+Adventure Classic Gaming reports that the game debuted two new technologies: "Vision 360" for panoramic views and "Dynamic Sounds" for simulated surround sound[^ref-5]; MobyGames and the Sierra Chest list the game's engine as SCI[^ref-17][^ref-35], but ScummVM's developers note that it "doesn't contain SCI scripts": it has the resources of an SCI game, while the room logic was reimplemented in native code in DLL files[^ref-71]. It uses live-action full-motion video cut-scenes[^ref-17][^ref-57]. The game received an ESRB Teen rating[^ref-17].
 
 One notable casting choice was Jason Lindsey as a Trip Cyclone band member, who later became known for his MetalJesusRocks YouTube channel[^ref-7]. The game ships on two CDs—one containing the game itself, the other holding the multiple endings, the Trip Cyclone songs and a track of sounds from the first game[^ref-70][^ref-7]. Music composition was handled by Guy Whitmore, with lyrics by Phil Doyle, Mark Brill, Willie Eide, Jim Hicks and Marcia Bales[^ref-28].
 
@@ -110,7 +114,7 @@ Player reviews on MobyGames are largely enthusiastic, with one reviewer declarin
 
 Vision 360 allows full 360-degree horizontal panning plus about 30 degrees of vertical panning, which Adventure Gamers called rare among games of its kind[^ref-3][^ref-5]. The Dynamic Sounds technology provided surround sound simulation on standard stereo systems, enhancing the atmospheric horror elements[^ref-5]. The game rendered at SVGA 640x480 resolution with 256 colors and required a minimum 486DX/2 66MHz processor with 12 MB RAM[^ref-5].
 
-The game included online features through the Sierra Internet Gaming System (SIGS), enabling real-time chat and puzzle sharing capabilities[^ref-3]. Players could redesign puzzles and email them as .txt files[^ref-5]. However, these online features are no longer functional due to the discontinuation of Sierra's servers[^ref-3].
+The game included online features through the Sierra Internet Gaming System (SIGS), enabling real-time chat and puzzle sharing capabilities[^ref-3]. Players could redesign puzzles and email them as .txt files[^ref-5]. Writing in 2002, Adventure Gamers found the online component "all but useless now" and could not even log on to the service[^ref-3].
 
 ### Version History
 
@@ -148,9 +152,13 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 **Download / Preservation**
 - [Internet Archive – Shivers Two demo](https://archive.org/details/s2demozp)[^ref-9]
 
+**Manuals & Extras**
+- [Internet Archive – Shivers Two manual](https://archive.org/details/Shivers_2_-_Harvest_of_Souls_-_Manual)[^ref-12]
+
 ## See Also
 
 - [[1995 - Shivers]]
+- [[Shivers Series]]
 
 ## References
 
@@ -164,8 +172,7 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 [^ref-9]: [Internet Archive - Demo](https://archive.org/details/s2demozp) – Official plot description and setting details
 [^ref-10]: [Amazon Strategy Guide](https://www.amazon.com/Shivers-Two-Harvest-Official-Strategy/dp/0761510729) – Strategy guide blurb ("unlock the secrets of the petroglyphs")
 [^ref-11]: Collection Chamber Blog *(download link removed: the game is sold commercially)* – Development context and thematic analysis
-[^ref-12]: [Archive.org Manual](https://archive.org/stream/Shivers_2_-_Harvest_of_Souls_-_Manual/Shivers_2_-_Harvest_of_Souls_-_Manual_djvu.txt) – Twelve-item inventory
-[^ref-13]: [eBay Listing 1](https://www.ebay.com/itm/135559774261) – Control scheme and technical specifications
+[^ref-12]: [Archive.org Manual](https://archive.org/details/Shivers_2_-_Harvest_of_Souls_-_Manual) – Twelve-item inventory; mouse and keyboard controls; "The Shivers Team" credits (p. 29)
 [^ref-15]: [GameFAQs Main Page](https://gamefaqs.gamespot.com/pc/198631-shivers-two-harvest-of-souls/faqs) – Release date and European title ("Harvest of Souls (EU)")
 [^ref-17]: [MobyGames Main Entry](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – SCI engine, live-action cut-scenes, ESRB Teen, inventory and 360° rotation
 [^ref-18]: [Wikipedia Article](https://en.wikipedia.org/wiki/Shivers_II:_Harvest_of_Souls) – Credits, NA release date, European title, review scores
@@ -176,8 +183,8 @@ The game was re-released digitally on GOG.com on May 29, 2020[^ref-29]. Communit
 [^ref-28]: [VGMdb Soundtrack](https://vgmdb.net/album/65584) – Music composition credits
 [^ref-29]: [GOG.com – Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) – Digital release (GOG release date 2020-05-29), US$5.99
 [^ref-35]: [SierraChest – Shivers 2: Harvest of Souls](https://www.sierrachest.com/index.php?a=games&id=187&fld=general) – Engine (SCI), developer, platform
-[^ref-43]: [UVList](https://www.uvlist.net/game-154424-Shivers+Two+Harvest+of+Souls) – Génération 4 review score from June 1997
-[^ref-44]: [Glitchwave](https://glitchwave.com/game/shivers-two-harvest-of-souls/) – User aggregate rating and gameplay analysis
+[^ref-43]: [UVList](https://www.uvlist.net/game-154424-Shivers+Two+Harvest+of+Souls) – Génération 4 (June 1997), PC Gamer UK (July 1997) and PC Format UK (August 1997) review scores
+[^ref-44]: [Glitchwave](https://glitchwave.com/game/shivers-two-harvest-of-souls/) – User aggregate rating (3.00/5.0 from 3 ratings, as of November 2026) and gameplay analysis
 [^ref-45]: [IMDb – Shivers II: Harvest of Souls](https://www.imdb.com/title/tt0286963/) – User rating 8.3/10 from 52 votes (checked October 29, 2026); release date given as April 30, 1997
 [^ref-50]: GamePressure – "Shivers Two: Harvest of Souls – Alternative Installer" mod page (cited as text only; the page's sidebar promotes adult mods) – Squirtthecat's community patch history
 [^ref-51]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Shivers_Two:_Harvest_of_Souls) – Technical compatibility issues documentation
