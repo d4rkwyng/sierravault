@@ -10,20 +10,21 @@ series: Dr. Brain / JumpStart
 engine: Unknown
 protagonist: Player (Secret Society member)
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: '*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* is an educational
-  adventure game developed and published by Knowledge Adventure in 2011,...'
+  adventure game for grades 3-5 from Knowledge Adventure, sold on disc for the Mac
+  in 2010 and carrying a 2011 copyright on its manual.'
 tags: [2010s, dr-brain-jumpstart, educational, sierra]
 ---
 # JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 *JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* is an educational adventure game developed and published by [[Knowledge Adventure]], whose official manual carries a "© 2011 Knowledge Adventure" notice[^ref-19][^ref-21]. It is designed for children in grades three through five: Knowledge Adventure's September 2010 press release describes it as for "older children ages 8-10" to "practice critical skills needed for the 3rd, 4th and 5th grades"[^ref-23], and the ESRB title carries the same "3rd-5th Grade" band[^ref-6]. It is a post-Sierra continuation: the title carries both Knowledge Adventure's JumpStart Advanced branding and the Dr. Brain series name[^ref-6], a series that Sierra On-Line introduced and that Knowledge Adventure continued after Sierra was acquired by CUC International in 1996[^ref-2]. The game casts players as members of the Secret Society of Dr. Brain, an organization dedicated to exploration, adventure, and learning through time travel[^ref-3].
 
-The title features the distinctive Dr. Brain character, a bespectacled scientist with red hair who wears a lab coat over a purple shirt and black tie[^ref-4]. With more than 140 games, missions, and adventures, the game offers substantial content for young learners[^ref-5]. Players engage with educational activities covering syllables, basic arithmetic, and United States geography, all wrapped in an action-adventure framework[^ref-6].
+The title features the distinctive Dr. Brain character, a bespectacled scientist with red hair who wears a lab coat over a purple shirt and black tie[^ref-4]. With more than 140 games, missions, and adventures, the game offers substantial content for young learners[^ref-5]. Players engage with educational activities covering syllables, basic arithmetic, and United States geography, all wrapped in an adventure framework[^ref-6].
 
 The game reflects Knowledge Adventure's approach to the Dr. Brain franchise, which the CUC division turned into a more action-oriented series than Sierra's originals[^ref-2]. The Knowledge Adventure series is "set in 2326 following a new Dr. Brain, a twenty-something genius instead of an old mad scientist"[^ref-2]. This marked a significant departure from the original Sierra series, which began as an idea by [[Corey Cole]][^ref-18], co-designer of the Quest for Glory series[^ref-7]. The Knowledge Adventure games feature "less education-oriented and more problem-solving puzzles"[^ref-2]. The year is not entirely settled: the manual's copyright line says 2011[^ref-19][^ref-21] and Stash lists 2011[^ref-16], but a boxed Mac CD-ROM edition was on sale earlier. Amazon's listing gives a "Date First Available" of 19 May 2010 and a publication date of 30 May 2010[^ref-24][^ref-5], and Knowledge Adventure's press release of 15 September 2010 lists "Jumpstart Advanced 3rd – 5th Grade: Adventures of Dr. Brain" at $29.99 "for the Mac"[^ref-23]. The Mac App Store edition (version 1.2) is dated 30 September 2011 by the third-party aggregator softwar.io[^ref-25]. That the 2010 disc and the 2011 App Store edition are the same product is an inference from the identical title and description; no source states it.
 
@@ -104,7 +105,7 @@ After the second game, The Island of Dr. Brain, was released, Sierra acquired Br
 
 The rights to the Dr. Brain series passed to Knowledge Adventure "sometime after the fourth game was released"[^ref-7]; Wikipedia places this after CUC International acquired Sierra in 1996, with the series continued by CUC's Knowledge Adventure division[^ref-2]. The Knowledge Adventure games recast Dr. Brain as a twenty-something genius instead of a mad scientist in his sixties[^ref-7]. This title carries the JumpStart Advanced name alongside the Dr. Brain name[^ref-6].
 
-Knowledge Adventure released four games based on the original series[^ref-2]: Dr. Brain Thinking Games: Puzzle Madness (1998), IQ Adventure (1998 per MobyGames[^ref-22]; Wikipedia gives 1999[^ref-2]), Action Reaction, and The Adventures of Dr. Brain[^ref-2]. The Mac version is listed for Mac OS X and Mac OS X Intel[^ref-5], and the ESRB lists the platform as Macintosh[^ref-6]. Every first-party source found for 2011 lists Mac only[^ref-21][^ref-6]; a Windows installer of unknown date was uploaded to the Internet Archive in 2023[^ref-15]. Knowledge Adventure handled both development and publishing duties for the title[^ref-8].
+Knowledge Adventure released four games based on the original series[^ref-2]: Dr. Brain Thinking Games: Puzzle Madness (1998), IQ Adventure (Wikipedia gives 1999[^ref-2]; MobyGames lists 1998 and also a 1999 "Mindventure" re-release[^ref-22]), Action Reaction, and The Adventures of Dr. Brain[^ref-2]. The Mac version is listed for Mac OS X and Mac OS X Intel[^ref-5], and the ESRB lists the platform as Macintosh[^ref-6]. Every first-party source found for 2011 lists Mac only[^ref-21][^ref-6]; a Windows installer of unknown date was uploaded to the Internet Archive in 2023[^ref-15]. Knowledge Adventure handled both development and publishing duties for the title[^ref-8].
 
 ### Technical Achievements
 
@@ -165,7 +166,9 @@ The ESRB rated the game E for Everyone[^ref-6].
 
 ### Collections
 
-The game was released under Knowledge Adventure's JumpStart Advanced name, targeting third through fifth graders[^ref-23][^ref-6]. Knowledge Adventure changed its name to JumpStart Games in October 2012[^ref-20], and the 2023 Internet Archive upload credits JumpStart Games, the company's name from October 2012 on[^ref-15][^ref-20]. JumpStart Games ceased operations and ended support for its games (other than *Neopets*) on June 30, 2023[^ref-20].
+The game was released under Knowledge Adventure's JumpStart Advanced name, targeting third through fifth graders[^ref-23][^ref-6]. Knowledge Adventure changed its name to JumpStart Games in October 2012[^ref-20], and the 2023 Internet Archive upload credits JumpStart Games, the company's name from October 2012 on[^ref-15][^ref-20]. Wikipedia says JumpStart Games ended operations and support for its games (other than *Neopets*) on June 30, 2023, and that the company officially closed on July 1, 2023[^ref-20].
+
+In October 2023 JumpStart Games and the Jordan Freeman Group re-released the series' earlier [[1998 - Dr. Brain Thinking Games - IQ Adventure|IQ Adventure]] on ZOOM Platform as *Dr. Brain: Mind Venture*[^ref-22][^ref-26]; this 2011 title was not among them (checked November 2026).
 
 ### Fan Projects
 
@@ -219,9 +222,10 @@ No publications specific to this title were detailed in the available research.
 [^ref-17]: [Dr. Brain Omnipedia Wiki (Fandom) – Adventures of Dr. Brain](https://drbrain.fandom.com/wiki/Adventures_of_Dr._Brain) – plot premise, The Hench, Goopods and Goo Gords, Industrial and Ancient eras
 [^ref-18]: [Wikipedia – Castle of Dr. Brain](https://en.wikipedia.org/wiki/Castle_of_Dr._Brain) – Corey Cole's proposal, Discovery series (established 1992), Mastermind/Hangman inspirations
 [^ref-19]: [JumpStart.com – Adventures of Dr. Brain Game Manual (Wayback Machine, 2021-10-21)](https://web.archive.org/web/20211021083859/https://www.jumpstart.com/customercare/game-manual/adventures-of-dr-brain) – official manual: Sea Lab, IQ Actionizer, Time Slicer missions, controls, Mac system requirements, © 2011 Knowledge Adventure
-[^ref-20]: [Wikipedia – JumpStart Games](https://en.wikipedia.org/wiki/JumpStart_Games) – Knowledge Adventure renamed JumpStart Games (October 2012); operations ceased June 2023
+[^ref-20]: [Wikipedia – JumpStart Games](https://en.wikipedia.org/wiki/JumpStart_Games) – Knowledge Adventure renamed JumpStart Games (October 2012); operations ceased June 2023; officially closed 1 July 2023
 [^ref-21]: [JumpStart.com – Adventures of Dr. Brain Game Manual (Wayback Machine, 2011-09-25)](http://web.archive.org/web/20110925185204/http://www.jumpstart.com:80/CustomerCare/GameManual/DrBrain.aspx) – contemporary manual: Mac OS X 10.6, Mac App Store download, © 2011 Knowledge Adventure
-[^ref-22]: [MobyGames – Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) – Windows, 1998 (read via the MobyGames API)
+[^ref-22]: [MobyGames – Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) – Windows, 1998; 1999 "Mindventure re-release"; 2023-10-07 Zoom Platform release, published by Jumpstart Games and Jordan Freeman Group (read via the MobyGames API)
 [^ref-23]: [Knowledge Adventure – "Knowledge Adventure Announces Holiday Products" press release, 15 September 2010 (Wayback Machine, 2013-08-20)](http://web.archive.org/web/20130820234155/http://www.jumpstart.com/aboutus/press-releases/knowledge-adventure-announces-holiday-products) – $29.99 for the Mac, ages 8-10, 3rd-5th grade skills
 [^ref-24]: [Amazon.com – Jumpstart 3-5 Adventures of Doctor Brain](https://www.amazon.com/Jumpstart-3-5-Adventures-Doctor-Brain/dp/B003MU9COU) – CD-ROM, Mac OS X, Date First Available 19 May 2010, publication date 30 May 2010, rated Everyone, item model 20858
 [^ref-25]: [softwar.io – JumpStart Advanced 3-5 The Adventures of Dr. Brain (Mac App Store data)](https://softwar.io/app/jumpstart-advanced-3-5-adventures-dr-brain) – third-party aggregator: Knowledge Adventure, version 1.2, released 30 Sep 2011
+[^ref-26]: [ZOOM Platform – Dr. Brain: Mind Venture](https://www.zoom-platform.com/product/dr-brain-mind-venture) – store page: publishers and developers Jordan Freeman Group and JumpStart Games
