@@ -10,7 +10,7 @@ series: PGA Championship Golf
 engine: Custom (TrueSwing and TriClick swing models)
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: PGA Championship Golf 1999 Edition is a 1999 Windows golf simulation
   developed by Headgate Studios and published by Sierra Sports, the sequel to Front
   Page Sports Golf, with eight courses, the TrueSwing mouse swing, ReadyPlay and a
@@ -20,7 +20,7 @@ composer: [Chuck Barth]
 ---
 # PGA Championship Golf 1999 Edition
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -116,10 +116,12 @@ Sierra Sports announced the game on July 13, 1998, as part of an agreement with 
 
 ### Production
 
-AllGame's credits list Vance Cook as designer, director and software engineer, Mike Jacob as producer, and Kari St. John as art director. Chuck Barth is credited with music and sound effects.[^ref-6] The game was developed by Headgate Studios.[^ref-6][^ref-1] Brian Silvernail appears among nine Course Architect design consultants, not as a lead designer.[^ref-6] The manual was written by Nathan Hall. Mike Jacob and Mark Lye wrote the commentary script, and golfer motions were motion-captured.[^ref-6]
+AllGame's credits list Vance Cook as designer, director and software engineer, Mike Jacob as producer, Dan Rogers as executive director, and Kari St. John as art director. Michael D. Jones is credited as software engineer and team lead (course creation, TrueSwing and golfer rendering), and Dale Deputy as software engineer for the game engine and ReadyPlay. Mark Merrill is credited as course consultant, Troy McFarland as motion capture department head and technical director, and Zygote Media Group, Inc. for the golfer models. Chuck Barth is credited with music and sound effects.[^ref-6] The game was developed by Headgate Studios.[^ref-6][^ref-1] Brian Silvernail appears among nine Course Architect design consultants, not as a lead designer.[^ref-6] The manual was written by Nathan Hall. Mike Jacob and Mark Lye wrote the commentary script, and golfer motions were motion-captured.[^ref-6] The package included an instruction manual and a TrueSwing reference card.[^ref-6]
 
-The game was scheduled for October 1998 and slipped to 1999.[^ref-4] Sierra announced that it had gone gold on May 20, 1999.[^ref-2] On May 28, Sierra said it would reach North American retail by June 1.[^ref-3] Sources give slightly different release dates:
+The game was scheduled for October 1998 and slipped to 1999.[^ref-4] In a June 28, 2000 SportPlanet interview, Mike Jacob said: "We ran into production delays with PGA Championship Golf 1999 that hurt our marketing efforts." He added that the goals for PGA Championship Golf 2000 included "many of the things we wanted to have in PGA Championship Golf 1999, but were unable to due to timing for release," and, of ReadyPlay, "We were first with ReadyPlay."[^ref-24] Sierra announced that it had gone gold on May 20, 1999.[^ref-2] On May 28, Sierra said it would reach North American retail by June 1.[^ref-3] Sources give slightly different release dates:
 - MobyGames: June 1, 1999[^ref-1]
+- AllGame: July 6, 1999[^ref-6]
+- IGN: July 1, 1999 (initial release, as listed on its game page)[^ref-13]
 - A June 1999 *Computer Games Strategy Plus* news item: May 27, 1999[^ref-18]
 - GameRankings: May 31, 1999[^ref-16]
 
@@ -185,14 +187,14 @@ The game was followed in 2000 by [[2000 - PGA Championship Golf 2000|PGA Champio
 [^ref-3]: [Computer Games Strategy Plus – PGA Championship Golf 1999 Edition Coming June 1 (May 28, 1999)](https://web.archive.org/web/20030709074407/http://www.cdmag.com/articles/020/068/pga_champ_june1.html) – North American retail by June 1; sequel to Front Page Sports: Golf
 [^ref-4]: [Computer Games Strategy Plus – Sierra Sports teams with PGA Interactive (July 13, 1998)](https://web.archive.org/web/20030523203927/http://www.cdmag.com/articles/013/053/pga_championship_golf.html) – announcement; PGA Interactive alliance; seven courses incl. Sahalee; 20,000-polygon golfers; October ship target; $29.95
 [^ref-5]: [Computer Games Strategy Plus – PGA Championship Golf review, William Abner (June 18, 1999)](https://web.archive.org/web/20030524204800/http://www.cdmag.com/articles/020/146/pga_review.html) – "enigma" quote; Boone and Lye; ReadyPlay; broken offline tourneys; WON-only Internet play; 3.5/5; requirements
-[^ref-6]: [AllGame – PGA Championship Golf 1999 Credits](https://web.archive.org/web/20141116041050/http://www.allgame.com/game.php?id=17654&tab=credits) – Vance Cook (Designer, Director, Software Engineer); Mike Jacob (Producer); Chuck Barth (Music); commentators; voice talent; Course Architect consultants
+[^ref-6]: [AllGame – PGA Championship Golf 1999 Credits](https://web.archive.org/web/20141116041050/http://www.allgame.com/game.php?id=17654&tab=credits) – release date July 6, 1999; included in package (manual, TrueSwing reference card); Vance Cook (Designer, Director, Software Engineer); Michael D. Jones; Dale Deputy; Mike Jacob (Producer); Dan Rogers (Executive Director); Mark Merrill (Course Consultant); Troy McFarland (Motion Capture Dept Head & Tech Director); Chuck Barth (Music); commentators; voice talent; Zygote Media Group (golfer models); Course Architect consultants
 [^ref-7]: [AllGame – PGA Championship Golf 1999 review, Michael L. House](https://web.archive.org/web/20141116041049/http://www.allgame.com/game.php?id=17654&tab=review) – "Holy Grail" quote; ReadyPlay "enormous innovation"; commentary criticism
 [^ref-8]: [CNET Gamecenter – PGA Championship Golf 1999 Edition review, Gordon Goble (July 29, 1999)](https://web.archive.org/web/20001027195837/http://www.gamecenter.com/Reviews/Item/0,6,0-3012,00.html) – 7/10; ReadyPlay; "dull, almost drab look"; narrated course videos
 [^ref-9]: [GameSpot – PGA Championship Golf 1999 Edition review, Stephen Poole](https://web.archive.org/web/20050104075514/https://www.gamespot.com/pc/sports/pgachampionshipgolf1999e/review.html) – 8.5; eight courses; Jocassee Shoals; horizontal/vertical TrueSwing; aiming; play types; Tom Lehman; no tour; 1400 speech clips; WON-only
-[^ref-10]: [PC Gamer (US) – PGA Championship Golf 1999 Edition review, Rob Smolka](https://web.archive.org/web/20041120133316/http://www.pcgamer.com/reviews/archives/review_2000-08-17an.html) – 90%; TrueSwing; physics quote; ReadyPlay; whole-plot course editor; 12 types of play
+[^ref-10]: [PC Gamer (US) – PGA Championship Golf 1999 Edition review, Rob Smolka](https://web.archive.org/web/20041120133316/http://www.pcgamer.com/reviews/archives/review_2000-08-17an.html) – 90% (page's scale: "90% - 100% EDITORS' CHOICE"); TrueSwing; physics quote; ReadyPlay; whole-plot course editor; 12 types of play
 [^ref-11]: [PC Gamer (UK) – PGA Championship Golf 99 review, Chris Buxton (Issue 73, September 1999)](https://web.archive.org/web/20010924221538/http://www.pcgamer.co.uk/games/gamefile_review_page.asp?item_id=868) – 73%; spectators and animation criticism
 [^ref-12]: [GamePro – PGA Championship Golf 1999 Edition review](https://web.archive.org/web/20050213224440/http://gamepro.com/computer/pc/games/reviews/630.shtml) – 20,000-polygon golfer; horizontal TrueSwing; $29.95 price
-[^ref-13]: [IGN – PGA Championship Golf 1999 Edition review, Steve Butts (July 15, 1999)](https://www.ign.com/articles/1999/07/15/pga-championship-golf-1999-edition) – 7.6; TrueSwing description; play formats; "no season mode"; Course Architect lock-ups; spectators
+[^ref-13]: [IGN – PGA Championship Golf 1999 Edition review, Steve Butts (July 15, 1999)](https://www.ign.com/articles/1999/07/15/pga-championship-golf-1999-edition) – 7.6; "Initial Release: Jul 1, 1999" on the game page; TrueSwing description; play formats; "no season mode"; Course Architect lock-ups; spectators
 [^ref-14]: [Hartford Courant – 'PGA 99' Still Not Up to Par (September 26, 1999)](https://www.courant.com/1999/09/26/pga-99-still-not-up-to-par/) – byline blank online; the page shows "Rosano's rating" (Wikipedia's citation gives the first name as Paul); 8.2/10; $29.95; mouse swing "way ahead of the competition"; architect crashes after patch
 [^ref-15]: [Eurogamer – PGA Championship Golf 1999 review, nach0king (August 3, 2000)](https://www.eurogamer.net/pga1999) – 8/10; Sierra Originals budget re-release; "top selling" quote; commentary "commendable"; lacks a tournament mode
 [^ref-16]: [GameRankings – PGA Championship Golf 1999 Edition (archived)](https://web.archive.org/web/20190526032744/https://www.gamerankings.com/pc/185317-pga-championship-golf-1999-edition/index.html) – 79.81% from 16 reviews; release date May 31, 1999
@@ -203,3 +205,4 @@ The game was followed in 2000 by [[2000 - PGA Championship Golf 2000|PGA Champio
 [^ref-21]: [Wikipedia – PGA Championship Golf 1999 Edition](https://en.wikipedia.org/wiki/PGA_Championship_Golf_1999_Edition) – overview; sequel PGA Championship Golf 2000
 [^ref-22]: [MobyGames – PGA Championship Golf (1998)](https://www.mobygames.com/game/32505/pga-championship-golf/) – 1998 Windows release, aka "PGA Championship Golf '99"; listed as previous entry in the series
 [^ref-23]: [Internet Archive – Sierra PGA Championship Golf 99 (Win95)(1999)(Eng)](https://archive.org/details/Sierra_PGA_Championship_Golf_99_Win95_1999_Eng) – two CD images (Install, Courses)
+[^ref-24]: [SportPlanet – Interview: PGA Championship Golf 2000 (Wayback, 2001)](https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/) – Christopher E. Johnson interviews Senior Producer Mike Jacob, June 28, 2000; production delays on the 1999 game; ReadyPlay
