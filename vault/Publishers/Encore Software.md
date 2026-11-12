@@ -3,12 +3,12 @@ title: "Encore Software"
 type: publisher
 founded: 1994
 headquarters: "San Francisco Bay Area, California, United States"
-parent_company: "Sereno Ventures, LLC (acquired Encore's assets, 2017)"
-last_updated: "2026-11-11"
+parent_company: "Navarre Corporation (2002-2014); Wynit Distribution / WD Navarre Holdings (2014-2017); Sereno Ventures, LLC (2017)"
+last_updated: "2026-11-12"
 ---
 # Encore Software
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ On November 11 (2008, per Wikipedia), Navarre announced an expanded agreement gi
 
 ### After Navarre (2014-2017)
 
-On July 9, 2014, Speed Commerce, Inc., as Navarre Corporation had been renamed, sold substantially all of the assets of its retail distribution and software publishing business (the "Navarre Business Assets") to Wynit Distribution, LLC.[^ref-25] Wikipedia says the company changed its name from Navarre Corporation to Speed Commerce after a 2013 merger, and that the July 2014 sale included Encore.[^ref-26] By 2017 the business was held as WD Encore Software, LLC, one of the Wynit companies that filed for Chapter 11 bankruptcy in Minnesota on September 8, 2017. On November 9, 2017, the court approved the sale of Encore's business and assets to Sereno Ventures, LLC for $1.7 million; the sale closed on November 13, 2017.[^ref-27]
+On July 9, 2014, Speed Commerce, Inc., as Navarre Corporation had been renamed, sold substantially all of the assets of its retail distribution and software publishing business (the "Navarre Business Assets") to Wynit Distribution, LLC.[^ref-25] Wikipedia says the company changed its name from Navarre Corporation to Speed Commerce after a 2013 merger, and that the July 2014 sale included Encore.[^ref-26] By 2017 the business was held as WD Encore Software, LLC, one of the Wynit companies that filed for Chapter 11 bankruptcy in Minnesota on September 8, 2017. On November 9, 2017, the court approved the sale of Encore's business and assets to Sereno Ventures, LLC for $1.7 million; the sale closed on November 13, 2017.[^ref-27] In between, Encore's Hoyle store (captured July 2017) described the publisher as "WD Encore Software LLC, a subsidiary of WD Navarre Holdings, LLC".[^ref-35]
 
 ## Sierra Connection
 
@@ -51,8 +51,8 @@ The Hoyle series began in 1989 and was initially developed and published by Sier
 - **2005** — [[2006 - Hoyle Casino|Hoyle Casino]] — Notes: Updated casino collection
 - **2006** — [[2006 - Hoyle Miami Solitaire|Hoyle Miami Solitaire]] — Notes: Solitaire compilation
 - **2006** — [[2007 - Hoyle Casino|Hoyle Casino]] — Notes: Annual update
-- **2005** — [[2005 - Hoyle Card Games|Hoyle Card Games]] — Notes: Sierra-built; VU Games released it in 2004, and MobyGames lists an Encore slipcase release in 2005[^ref-30]
-- **2007** — [[2007 - Hoyle Card Games 2008|Hoyle Card Games]] — Notes: Card game collection
+- **2004** — [[2005 - Hoyle Card Games|Hoyle Card Games]] — Notes: Sierra-built; VU Games released it September 14, 2004; MobyGames lists an Encore slipcase re-release in 2005[^ref-30]
+- **2007** — [[2007 - Hoyle Card Games 2008|Hoyle Card Games]] — Notes: Card game collection; Greenstreet Games published the European release
 - **2007** — [[2007 - Hoyle Casino 2008|Hoyle Casino 2008]] — Notes: Casino games update
 - **2007** — [[2008 - Hoyle Puzzle and Board Games|Hoyle Puzzle and Board Games]] — Notes: Puzzle compilation
 - **2010** — [[2010 - Hoyle Puzzle and Board Games 2011|Hoyle Puzzle and Board Games 2011]] — Notes: Updated edition
@@ -65,6 +65,8 @@ Years follow each game's SierraVault page. Hoyle Board Games was developed by Si
 ## Current Status
 
 Encore Software, LLC continues to operate as a software publisher. Besides retail publishing, it sells directly to customers through its managed sites.[^ref-2] Its contact page gives an address in Novato, California.[^ref-10]
+
+The Hoyle line has stayed on sale under Encore's own name. In December 2019 the 2015 card collection returned on Steam as *Encore Card Games Collection*, with Encore Software as publisher,[^ref-32] and the 2016 casino collection returned there as *Encore Casino Games Collection*, also in December 2019.[^ref-34][^ref-33] In 2020 Encore re-released further Hoyle titles as its *Encore Classic Games* line, including *Encore Classic Card Games*, *Encore Classic Puzzle & Board Games* and *Encore Classic Casino Games*.[^ref-33][^ref-21]
 
 ## References
 
@@ -91,3 +93,7 @@ Encore Software, LLC continues to operate as a software publisher. Besides retai
 [^ref-29]: [IGN - Hoyle Board Games [2005]](https://www.ign.com/games/hoyle-board-games-2005) - Encore; initial release Jul 13, 2005
 [^ref-30]: [MobyGames - Hoyle Card Games 2005 Releases](https://www.mobygames.com/game/178234/hoyle-card-games-2005/releases/) - Retail release published by Sierra Entertainment, Inc. (2005); slipcase release published by Encore, Inc. (2005); read via the MobyGames API
 [^ref-31]: [GameFAQs - Hoyle Official Card Games Collection (PC) Release Data](https://gamefaqs.gamespot.com/pc/203237-hoyle-official-card-games-collection/data) - US release published by Encore Software, 11/06/15, barcode 705381412502
+[^ref-32]: [Steam - Encore Card Games Collection (App 906240)](https://store.steampowered.com/app/906240/) - Publisher and developer listed as Encore Software; release December 2019
+[^ref-33]: [Wikipedia - Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) - "re-released as Encore Casino Games Collection (2019)"; Hoyle Casino Games (2011) "re-released as Encore Classic Casino Games (2020)"
+[^ref-34]: [Steam - Encore Casino Games Collection (App 906250)](https://store.steampowered.com/app/906250/) - Release date Dec 24, 2019; publisher Encore Software
+[^ref-35]: [Hoyle Gaming (Encore) - Hoyle Official Casino Games Collection product page (Wayback Machine, July 6, 2017)](https://web.archive.org/web/20170706024035/http://www.hoylegaming.com/p-153-hoyle-official-casino-games-collection.aspx?utm_source=Home-Page&utm_medium=Banner&utm_campaign=Casino%20Games&utm_nooverride=1) - "Published by WD Encore Software LLC, a subsidiary of WD Navarre Holdings, LLC"

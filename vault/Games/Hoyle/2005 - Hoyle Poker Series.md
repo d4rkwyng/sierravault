@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Hoyle Poker Series is a poker simulation video game released in 2005
   for Windows, credited to Sierra Entertainment as developer and published by Encore
   Software.'
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Poker Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -103,7 +103,7 @@ Hoyle Poker Series grew out of Sierra's long-running Hoyle series, a staple of i
 
 According to MobyGames, the Friday Night Poker component is based on Hoyle Texas Hold 'Em, and elements of its gameplay can be traced back to Sierra's [[1997 - Hoyle Poker|Hoyle Poker]] (1997)[^ref-1].
 
-MobyGames credits Sierra Entertainment as the game's developer and Encore Software as its publisher[^ref-1], and Wikipedia's list of Sierra Entertainment video games gives the same pairing[^ref-10]. The Hoyle licence itself passed from VU Games to Encore in December 2004, effective 23 December 2004[^ref-27]; Encore announced an exclusive licensing agreement with The United States Playing Card Company for the Hoyle brand in April 2005[^ref-28], and Encore published the series from 2005 to 2016[^ref-2].
+MobyGames credits Sierra Entertainment as the game's developer and Encore Software as its publisher[^ref-1], and Wikipedia's list of Sierra Entertainment video games gives the same pairing[^ref-10]. The Hoyle licence itself passed from VU Games to Encore in December 2004, effective 23 December 2004[^ref-27]; Encore announced an exclusive licensing agreement with The United States Playing Card Company for the Hoyle brand on December 21, 2004[^ref-28], and Encore published the series from 2005 to 2016[^ref-2].
 
 ### Production
 
@@ -292,4 +292,4 @@ The early Hoyle volumes used Sierra adventure game characters as opponents; Comp
 [^ref-25]: [MobyGames – Hoyle Poker Series MobyRank (archived July 2015)](https://web.archive.org/web/20150711173605/http://www.mobygames.com:80/game/windows/hoyle-poker-series/mobyrank) – critic reviews: GameArena 60; one critic review listed
 [^ref-26]: [GameArena – Hoyle Poker Series review (archived October 2009)](https://web.archive.org/web/20091025011319/http://www.gamearena.com.au/pc/games/title/hoyle-poker-series/reviews.php) – review by Dan, 17/12/07, score 6; 14 variations, $10,000 bankroll, table settings, G8+, Australian release 11 May 2005
 [^ref-27]: [Worthplaying – Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) – "assignment of the Hoyle games license"; "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing activities for the Hoyle family of products"
-[^ref-28]: [Encore (Navarre) press release – exclusive Hoyle licensing agreement with The United States Playing Card Company (archived April 2005)](https://web.archive.org/web/20050428205939/http://www.encoreusa.com:80/PressRelease/Press263.htm) – exclusive licensing agreement for Hoyle-branded properties; worldwide retail and electronic download PC publishing
+[^ref-28]: [Encore (Navarre) press release – exclusive Hoyle licensing agreement with The United States Playing Card Company (December 21, 2004; Wayback copy archived April 2005)](https://web.archive.org/web/20050428205939/http://www.encoreusa.com:80/PressRelease/Press263.htm) – exclusive licensing agreement for Hoyle-branded properties; worldwide retail and electronic download PC publishing
