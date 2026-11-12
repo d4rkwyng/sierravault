@@ -10,7 +10,7 @@ series: Krondor
 engine: 3Space
 protagonist: Gorath, Locklear, Owyn, James, Patrus, Pug
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Jan Paul Moorhead]
 description: 'Betrayal at Krondor is a role-playing game developed by Dynamix and
   published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set in Raymond
@@ -20,13 +20,13 @@ tags: [1990s, dynamix, krondor, rpg, sierra]
 ---
 # Betrayal at Krondor
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Betrayal at Krondor is a role-playing game developed by Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS,[^ref-1][^ref-30] although The Digital Antiquarian dates its shipment to June 15, 1993.[^ref-20] Set in the fantasy world of Midkemia from Raymond E. Feist's Riftwar novels, the game featured an original story that Feist later novelized as *Krondor: The Betrayal*, and the game is considered canon in his universe.[^ref-1] When Computer Gaming World inducted it into its Hall of Fame in February 1996, the magazine called it "the first role-playing game to offer a 3-D environment" and "one of the first games to use digitized images effectively in the context of a role-playing game."[^ref-2]
 
-Designed to resemble an interactive novel, Betrayal at Krondor divided its narrative into nine distinct chapters, each with specific goals while allowing players considerable freedom in how those objectives were achieved.[^ref-4][^ref-24] The game employed Dynamix's 3Space engine, the same technology used in their acclaimed flight simulators Red Baron and Aces over Europe, adapted to create an immersive fantasy world spanning 224 million square feet of explorable terrain.[^ref-5] Computer Gaming World called it "a fantasy role-playing game unlike any other ... a new high-watermark in RPG design."[^ref-1]
+Designed to resemble an interactive novel, Betrayal at Krondor divided its narrative into nine distinct chapters, each with specific goals while allowing players considerable freedom in how those objectives were achieved.[^ref-4][^ref-24] The game employed Dynamix's 3Space engine, the same technology used in their acclaimed flight simulators Red Baron and Aces over Europe, adapted to create an immersive fantasy world spanning 224 million square feet of explorable terrain.[^ref-5] Computer Gaming World called it "a fantasy role-playing game unlike any other" and "a new high-watermark in RPG design."[^ref-42]
 
 The game achieved critical and commercial success, winning Computer Gaming World's Premier Role-Playing Game of the Year award;[^ref-40] by Feist's own account, it also sat atop Entertainment Weekly's CD game best-seller list for six months.[^ref-6] Though initial sales on floppy disk were slow, the game became a hit when it was re-released on CD-ROM in 1994.[^ref-1][^ref-24]
 
@@ -38,7 +38,7 @@ The game achieved critical and commercial success, winning Computer Gaming World
 > **Platforms:** MS-DOS, Windows[^ref-1]
 > **Release Year:** 1993
 > **Series:** Krondor
-> **Protagonist:** Multiple playable characters
+> **Protagonist:** Gorath, Locklear, Owyn, James, Patrus, Pug[^ref-1]
 > **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
@@ -79,7 +79,7 @@ The game features a distinctive skill-based character development system that pr
 
 One of the most memorable gameplay elements are the moredhel wordlock chests, locked containers requiring players to solve riddle puzzles to discover the correct word combination.[^ref-1] These chests, hidden throughout the land, can hold valuable items and equipment as well as quest items essential to completing the game.[^ref-1] Combat operates on a turn-based tactical system where players position characters on a grid, described as "positioning his characters on a grid like a game of chess."[^ref-11]
 
-The game notably lacks random encounters, with all enemy encounters placed deliberately at the beginning of each chapter.[^ref-20] This finite pool of combat encounters means players must manage resources carefully, as mistakes early in the game can potentially make later chapters unwinnable.[^ref-20] Players can rest to recover health and stamina, though resting outdoors only restores characters to 80% of their maximum.[^ref-19]
+The game notably lacks random encounters, with all enemy encounters placed deliberately at the beginning of each chapter.[^ref-20] Because the encounters are fixed, the pool of available money and experience is finite: encounters skipped in earlier chapters cannot be returned to for grinding, so players who rush the early chapters or make poor character-development choices may not be strong enough for the later ones.[^ref-20] Players can rest to recover health and stamina, though resting outdoors only restores characters to 80% of their maximum.[^ref-19]
 
 ## Reception
 
@@ -89,7 +89,7 @@ Betrayal at Krondor received widespread critical acclaim upon release, with revi
 
 **Pelit magazine** awarded the game 94%, praising "the wonderful game system, lack of bugs, and the book-like atmosphere" and declaring "Krondor is as big a revolution in turn-based role playing games as the Underworlds were in 3D role playing games."[^ref-1][^ref-3]
 
-**Computer Gaming World** (October 1993) named it "a fantasy role-playing game unlike any other" and "a new high-watermark in RPG design," praising its combat as "the best I've seen in a fantasy CRPG" and calling it "a rare gem...and has set new standards for others to follow. For once, a game actually lives up to, even exceeds, its advance billing."[^ref-1]
+**Computer Gaming World** (October 1993) named it "a fantasy role-playing game unlike any other" and "a new high-watermark in RPG design," praising its combat as "the best I've seen in a fantasy CRPG" and calling it "a rare gem" that "has set new standards for others to follow. For once, a game actually lives up to, even exceeds, its advance billing."[^ref-42]
 
 **White Wolf Magazine \#38** gave an excellent rating, with Jim Trunzo writing: "Betrayal at Krondor employs one of the easiest and most intuitive interfaces encountered, one that conveniently handles all aspects of the game, from trading to casting magic spells to combat. Graphics and sound are top-notch, character development is logical and fair, combat is beautifully animated, and I have yet to find anything about the game that I don't like. There simply isn't any facet of the game that isn't outstanding."[^ref-1]
 
@@ -112,10 +112,10 @@ The game has been described as "thoroughly unique, a welcome breath of bold orig
 The game earned particular praise for its immersive qualities. One MobyGames reviewer wrote: "A gasp escaped my lips as I reluctantly quit the game. 'This is what immersion is all about', I muttered with grim satisfaction."[^ref-21] Another declared: "I'd count it among the four finest RPGs released so far, along with Ultima VII: The Black Gate, Baldur's Gate, and Final Fantasy IV."[^ref-23]
 
 **Aggregate Scores:**
-- **MobyGames:** 85% critics score (18 reviews), Moby Score 7.9, 106 player ratings[^ref-24]
-- **IMDB:** 8.5/10 (90 ratings)[^ref-25]
-- **GOG.com:** 4.6/5 (90 reviews)[^ref-26]
-- **Steam:** Very Positive (90% of 131 reviews)[^ref-27]
+- **MobyGames:** 85% critics score, Moby Score 7.9[^ref-24]
+- **IMDB:** 8.5/10[^ref-25]
+- **GOG.com:** 4.6/5[^ref-26]
+- **Steam:** Very Positive (90% positive)[^ref-27]
 - **GameRankings:** 87.5% (2 reviews)[^ref-41]
 
 ## Development
@@ -239,7 +239,7 @@ The game accumulated numerous accolades:[^ref-1][^ref-6][^ref-24]
 - **Computer Gaming World #43 on 150 Best Games of All Time** (November 1996)
 - **GameStar (Germany) #76 in 100 Most Important PC Games of the Nineties** (December 1999)
 - **PC Gamer #31 Best Computer Game Ever** (1994)
-- **PC Gamer #44 Best Computer Game Ever** (1998)
+- **PC Gamer #44 Best Computer Game Ever** (October 1998 per Wikipedia;[^ref-1] November 1999 per MobyGames[^ref-24])
 - **PC Gamer Top 50 Computer Games of All Time** (1997)
 
 ### Collections
@@ -288,7 +288,7 @@ Betrayal at Krondor spawned both official and unofficial successors:
 
 ## See Also
 
-
+- [[Krondor Series]]
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
 
 - [[1998 - Return to Krondor]]
@@ -318,10 +318,10 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-21]: [MobyGames – Unicorn Lynx Review](https://www.mobygames.com/game/285/betrayal-at-krondor/user-review/2460737/) – BioWare influence, critical analysis
 [^ref-22]: [IGN – Top 100 RPGs (archived)](https://web.archive.org/web/20260116000133/https://www.ign.com/lists/top-100-rpgs/92) – Chris Reed quotes, ranking
 [^ref-23]: [MobyGames Reviews Page](https://www.mobygames.com/game/285/betrayal-at-krondor/reviews/) – community reviews, bug reports
-[^ref-24]: [MobyGames – Betrayal at Krondor](https://www.mobygames.com/game/285/betrayal-at-krondor/) – credits, ratings, awards, technical specs
-[^ref-25]: [IMDB – Betrayal at Krondor](https://www.imdb.com/title/tt0375599/) – user ratings and reviews
-[^ref-26]: [GOG.com Store Page](https://www.gog.com/en/game/betrayal_at_krondor) – user reviews, system requirements
-[^ref-27]: [Steam Store – Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – user reviews, awards, system requirements
+[^ref-24]: [MobyGames – Betrayal at Krondor](https://www.mobygames.com/game/285/betrayal-at-krondor/) – credits, ratings, awards, technical specs; as of November 11, 2026: critics 85% (18 reviews), Moby Score 7.9, players 106 ratings
+[^ref-25]: [IMDB – Betrayal at Krondor](https://www.imdb.com/title/tt0375599/) – user ratings and reviews; 8.5/10 from 88 ratings as of November 11, 2026
+[^ref-26]: [GOG.com Store Page](https://www.gog.com/en/game/betrayal_at_krondor) – user reviews, system requirements; 4.6/5 average from 91 reviews (1,280 ratings) as of November 11, 2026
+[^ref-27]: [Steam Store – Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – user reviews, awards, system requirements; Very Positive, 90% of 132 user reviews positive as of November 11, 2026
 [^ref-28]: [Neal Hallford – Krondor Confidential Part I](https://www.nealhallford.com/p/krondor-confidential-part-i) – development origins, team formation
 [^ref-29]: [Neal Hallford Tumblr – Remaster FAQ](https://nealiios.tumblr.com/post/141194355948/betrayal-at-krondor-remastered-faq/amp) – team size, development time
 [^ref-30]: [Retro365 – 30th Anniversary](https://retro365.blog/2023/05/18/betrayal-at-krondor-celebrating-30-years/) – development history, office locations
@@ -336,3 +336,4 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-39]: [Betrayal Fandom Wiki – Manual](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor_Manual) – manual specifications
 [^ref-40]: [Computer Gaming World #119 (June 1994), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: "the winner of the PREMIER Role-Playing Game of the Year award is Betrayal at Krondor"; DOOM is named PREMIER Game of the Year
 [^ref-41]: [GameRankings – Betrayal at Krondor (archived 2019)](https://web.archive.org/web/20191209012808/https://www.gamerankings.com/pc/564546-betrayal-at-krondor/) – "87.50%", "Score based on 2 reviews"
+[^ref-42]: [Computer Gaming World #111 (October 1993), Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_111) – Jay Kee's review "The Krondor Passes": "a fantasy role-playing game unlike any other", "a new high-watermark in RPG design", "the best I've seen in a fantasy CRPG", "a rare gem"

@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Leisure Suit Larry: Wet Dreams Don''t Dry is the ninth installment in
   the Leisure Suit Larry series, a 2018 point-and-click adventure by CrazyBunch that
   sends Larry Laffer from the late 1980s into the age of smartphones and dating apps.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -86,7 +86,7 @@ A GameFAQs user review rated it 8/10, stating: "While it is a shame that Al Lowe
 
 ### Origins
 
-The project began when German publisher Assemble Entertainment acquired the rights to the original Larry games from Codemasters and was allowed to produce its own new Larry title[^ref-7], developed by CrazyBunch[^ref-2]. At PAX West 2018, Operation Rainfall reported that the game's director described himself and his team as fans of the classic Sierra and LucasArts adventure games who hoped to live up to that legacy[^ref-14]. The story picks up shortly after the events of the original Land of the Lounge Lizards[^ref-16]; one GameFAQs guide writer describes it as "retconning anything that came after LSL1"[^ref-21].
+The new Larry title was developed by CrazyBunch[^ref-2] and published by German company Assemble Entertainment. User-contributed IMDb trivia says Assemble acquired the rights from Codemasters to distribute the original Leisure Suit Larry games 1 through 7 plus Magna Cum Laude, and requested and was allowed to produce its own new Larry title[^ref-7]. Video Games Chronicle (October 2026) describes the arrangement differently, citing a 2018 Steam message from an Assemble staff member that the Leisure Suit Larry IP was owned by Codemasters and "licensed out to Assemble Games for exclusive online distribution rights"[^ref-61]. At PAX West 2018, Operation Rainfall reported that the game's director described himself and his team as fans of the classic Sierra and LucasArts adventure games who hoped to live up to that legacy[^ref-14]. The story picks up shortly after the events of the original Land of the Lounge Lizards[^ref-16]; one GameFAQs guide writer describes it as "retconning anything that came after LSL1"[^ref-21].
 
 Notably absent from development was series creator Al Lowe[^ref-9], who "only found out about the game when it was first announced to the public in May 2018, six months before the game's release"[^ref-7]. Lowe expressed his feelings about the project's title, stating: "if that title is the best they could come up with, I'm glad I'm not."[^ref-9]
 
@@ -94,13 +94,48 @@ Notably absent from development was series creator Al Lowe[^ref-9], who "only fo
 
 The game was developed using Unity engine (specifically build 2017.4.29f1)[^ref-26] with a team of 61 people credited, in 33 professional roles plus 28 thanks[^ref-8].
 
-After fan backlash to the new voice heard in the first trailer, the producers recast the role at the last minute with original Larry voice actor Jan Rabson; the replaced actor had already recorded around 25% of Larry's dialogue[^ref-7]. The soundtrack was composed by Johannes Semm and Kai Rosenkranz[^ref-28] and was sold separately as DLC on Steam; like the game, the soundtrack's Steam page now says it is "no longer available on the Steam store"[^ref-58].
+Jan Rabson, who had voiced Larry Laffer since Leisure Suit Larry 6 in 1993, played Larry in this game[^ref-63]. According to user-contributed IMDb trivia, the role was recast at the last minute with Rabson after fan backlash to the Larry voice heard in the first trailer, and the other voice actor had already recorded around 25% of Larry's dialogue[^ref-7]. The soundtrack was composed by Johannes Semm and Kai Rosenkranz[^ref-28] and was sold separately as DLC on Steam; like the game, the soundtrack's Steam page now says it is "no longer available on the Steam store"[^ref-58].
+
+### Voice Cast
+
+| Actor | Role (English version) |
+|-------|------------------------|
+| Jan Rabson | Larry Laffer |
+| Charlotte Moore | Faith |
+| Melli Bond | Nari / Watch Female |
+| Laurence Bouvard | Erin / Waltraud |
+| Arlene Decker | Becky |
+| Akie Kotabe | Richard / Everitt |
+| Toby Longworth | Cebe / Stix |
+| Nicolette McKenzie | Bea |
+| Eric Meyers | El Ungulado / El Rey / Phteven / Smokey Bear / Unknown Man |
+| Christopher Ragland | Finley / Al Parka / Lance / Mysterious Voice |
+| Penelope Rawlins | Pi / Pi Prototype |
+| William Roberts | Lefty |
+| Jess Robinson | Anu |
+| Elena Saurel | Diana |
+| Martin T. Sherman | Kyle / Tuck / Atticus |
+
+Cast as listed by IMDb[^ref-64]. IMDb also lists a German-language cast, with Philipp Moog as Larry Laffer[^ref-64]. IMDb credits Malte Schmidt as director and Falko Löffler, Stefan Marcinek and Maurice Alain Hagelstein as writers[^ref-64].
 
 ### Technical Achievements
 
 The game was released for Windows, macOS, PlayStation 4, Nintendo Switch and Xbox One[^ref-1], plus iOS[^ref-50]. PCGamingWiki lists Windows Vista as the minimum PC operating system[^ref-26], while GOG's listing (before the game left the store) gave Windows 7/8/10[^ref-36]. Post-release support included patches rolled out differently between Steam and GOG.com platforms, with Steam typically receiving updates first[^ref-31].
 
-After fan comments that the original ending seemed abrupt[^ref-7], a free "Happy Ending Update" was released on Steam on November 7, 2019 and on GOG.com on November 14, 2019[^ref-31]; it reached the Switch version by January 2020[^ref-32]. This content served as an epilogue expanding upon Larry's misadventures and providing closure to the Faith storyline[^ref-32].
+After fan comments that the original ending seemed abrupt[^ref-7], a free "Happy Ending Update" was released on Steam on November 7, 2019 and on GOG.com on November 14, 2019[^ref-31]; it reached the Switch version by January 2020[^ref-32]. This content served as an epilogue expanding upon Larry's misadventures and providing closure to the Faith storyline[^ref-32]. MobyGames lists the update as v1.2.0.49, which added new scenes after the previous ending showing Faith's fate, and added controller support[^ref-31]; MobyGames also lists the game under the alternate title "Leisure Suit Larry: Wet Dreams Don't Dry - Happy Ending Edition" (described as the updated release title)[^ref-2]. An earlier patch, v1.0.7 (January 29, 2019 on Steam, January 31 on GOG.com), added Spanish, Italian and French subtitles[^ref-31].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original release | November 7, 2018 | Windows, macOS | Release dates per PCGamingWiki[^ref-26] |
+| Patch v1.0.3 / v1.0.4 | November 9 and November 20, 2018 | Windows, macOS | v1.0.3 (Steam and GOG.com) fixed several bugs; v1.0.4 (Steam, then GOG.com on November 22) reworked and extended the inventory[^ref-31] |
+| Patch v1.0.7 | January 29, 2019 (Steam); January 31, 2019 (GOG.com) | Windows, macOS | Added Spanish, Italian and French subtitles[^ref-31] |
+| Console | June 13, 2019 | Nintendo Switch, PlayStation 4 | [^ref-1] |
+| Mobile | August 7, 2019 | iOS | [^ref-50] |
+| Happy Ending Update | November 7, 2019 (Steam); November 14, 2019 (GOG.com) | Windows, macOS | v1.2.0.49: new scenes after the previous ending; controller support[^ref-31] |
+| Console | September 15, 2020 | Xbox One | [^ref-1] |
+| Retail box | n/a | Windows | Limited edition of 1,000 boxes ("Limitierte Big-Box-Edition"), available in German-speaking (DACH) countries, per PCGamingWiki[^ref-26] |
 
 ## Legacy
 
@@ -124,6 +159,8 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 
 > [!note] Delisted from Steam and GOG (October 23, 2026)
 > On October 8, 2026, publisher Assemble Entertainment announced on Steam that *Wet Dreams Don't Dry* and *Wet Dreams Dry Twice* would be sold on Steam only until October 23, 2026, after which both games would be removed from the store. No reason was given, and Assemble said only that "we can't share anything about his future"; the notice does not mention GOG or the console stores.[^ref-49]
+>
+> Context: on May 1, 2025, Game*Spark reported that Assemble had announced on Steam that seven earlier Leisure Suit Larry titles (parts 1, 2, 3, 5, 6 and 7, plus *Magna Cum Laude Uncut and Uncensored*) would be removed from sale, that no official reason was given, and that the two *Wet Dreams* games, developed by CrazyBunch, would remain on sale.[^ref-62] On October 9, 2026, Video Games Chronicle wrote that "the first seven Leisure Suit Larry games were delisted last year" and that the last two were now joining them.[^ref-61] Both outlets report a suggestion by Phil Salvador, library director of the Video Game History Foundation, that the cause may be the Codemasters licence: the Steam versions are licensed from Codemasters, Assemble held exclusive online distribution rights (the Game*Spark article says this excluded GOG.com), and Electronic Arts, which acquired Codemasters in 2021, may not have renewed the licence.[^ref-62][^ref-61] This is Salvador's speculation, not a statement from Assemble or Electronic Arts.
 >
 > The removal went ahead as announced. The Steam store pages for both games now state that they are "no longer available on the Steam store",[^ref-37] and Time Extension reported that both were also being withdrawn from GOG.[^ref-54] On October 23, Delisted Games reported that GOG had confirmed the games would leave its storefront "today as well at 5pm EST",[^ref-57] and PCGamingWiki lists the GOG release as "Delisted on October 23, 2026".[^ref-26] GOG's store pages for the two games now redirect to its general catalogue.
 >
@@ -192,3 +229,7 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-58]: [Steam Store Page – Leisure Suit Larry - Wet Dreams Don't Dry Soundtrack (app 975530)](https://store.steampowered.com/app/975530/) – checked October 28, 2026: "no longer available on the Steam store"
 [^ref-59]: [iphone-ticker.de – "Wet Dreams Don't Dry: Leisure Suit Larry springt aufs iPhone" (August 8, 2019)](https://www.iphone-ticker.de/wet-dreams-dont-dry-leisure-suit-larry-springt-aufs-iphone-144983/) – iOS release coverage linking App Store ID 1456383070
 [^ref-60]: [Xbox Store – Leisure Suit Larry - Wet Dreams Don't Dry](https://www.xbox.com/en-US/games/store/leisure-suit-larry-wet-dreams-dont-dry/9P270NDWMQ2H) – checked October 28, 2026: no purchasable offer listed for the product
+[^ref-61]: [Video Games Chronicle: "After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them" (Chris Scullion, October 9, 2026)](https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/) – Codemasters licence to Assemble for exclusive online distribution rights (2018 Steam message); Phil Salvador's suggestion on Bluesky
+[^ref-62]: [Game*Spark: Leisure Suit Larry series Steam versions to be delisted (May 1, 2025)](https://www.gamespark.jp/article/2025/05/01/152148.html) – Japanese-language report of the 2025 delisting of seven earlier Larry games; Codemasters licence and Phil Salvador's suggestion
+[^ref-63]: [Wikipedia - Jan Rabson](https://en.wikipedia.org/wiki/Jan_Rabson) – Video games table lists Rabson as Larry Laffer from Leisure Suit Larry 6 (1993) through Wet Dreams Don't Dry (2018)
+[^ref-64]: [IMDb Full Cast & Crew](https://www.imdb.com/title/tt9175418/fullcredits/) – English and German voice cast; director and writers
