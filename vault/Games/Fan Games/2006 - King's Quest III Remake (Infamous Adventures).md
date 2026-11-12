@@ -10,17 +10,17 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: 'King''s Quest III: To Heir Is Human is a free 2006 fan remake of Sierra On-Line''s 1986 adventure, rebuilt by Infamous Adventures in Adventure Game Studio with redrawn graphics, a point-and-click interface, new music and a voice pack.'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-King's Quest III: To Heir Is Human is a free fan-made remake of Sierra On-Line's 1986 adventure game, developed and published by [[Infamous Adventures]] and released on June 19, 2006[^ref-1][^ref-3][^ref-23][^ref-25]. It retells the original story designed by [[Roberta Williams]] with redrawn backgrounds, hand-drawn close-up cutscenes, dialogue portraits, original music, a voice pack including narration, and a point-and-click interface in place of the original text parser[^ref-2][^ref-3]. Infamous Adventures, which describes itself as "Makers of Sierra Remakes including King's Quest III and Space Quest II," said it made the game to introduce a new generation of players to the classic and to show longtime fans "something new and special"[^ref-11][^ref-3].
+King's Quest III: To Heir Is Human is a free fan-made remake of Sierra On-Line's 1986 [[1986 - King's Quest III - To Heir Is Human|adventure game]], developed and published by [[Infamous Adventures]] and released on June 19, 2006[^ref-1][^ref-3][^ref-23][^ref-25]. It retells the original story designed by [[Roberta Williams]] with redrawn backgrounds, hand-drawn close-up cutscenes, dialogue portraits, original music, a voice pack including narration, and a point-and-click interface in place of the original text parser[^ref-2][^ref-3]. Infamous Adventures, which describes itself as "Makers of Sierra Remakes including King's Quest III and Space Quest II," said it made the game to introduce a new generation of players to the classic and to show longtime fans "something new and special"[^ref-11][^ref-3].
 
 Hardcore Gaming 101 called it "a pretty faithful recreation of the original game"[^ref-19]. Players take the role of Gwydion, the 17-year-old slave of the wizard Manannan, who must escape his master and discover his true identity[^ref-22]. The game won the AGS Award for Best Documentation in 2006[^ref-17], and it is currently offered on itch.io for Windows and macOS on a "name your own price" basis[^ref-4].
 
@@ -133,6 +133,12 @@ One itch.io user reported problems with the current release on a modern Windows 
 
 In reply, the Infamous Quests account said that "it IS an older program, so it might have some quirks running on Windows 10"[^ref-4].
 
+Problems also surfaced around the 2006 release itself:
+- **Launcher scare (June 2006):** The team's June 18, 2006 release post carried an "Important" notice that there "was a fault in the Launcher which had a potential virus." It said the file had been fixed and scanned repeatedly, that it "isn't a spreadable virus," and that players should still run a virus scan. Players were told to download a new launcher and replace the old one in Program Files\IA\King's Quest III[^ref-3]. Version 2.0 later removed the launcher altogether, so the game could be installed anywhere rather than only in Program Files[^ref-18].
+- **Old saves:** A July 1, 2006 update on the planned patch warned that "due to this patch you can't restore old games so it'd be a fresh new start"[^ref-3].
+- **Lost voice files:** While assembling the voice pack, the team found it had "lost some of the voice files, in particular Andy Hoyos' performance of about half of the Manannan files," which everyone had assumed were still on the forums "which had been hacked a few months ago." Those lines were re-recorded[^ref-18].
+- **Rebuild instead of a patch:** Klytos wrote that "the patch isn't really a patch," because the patch "was going to be nearly the same size as the entire build"[^ref-18].
+
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -140,6 +146,12 @@ In reply, the Infamous Quests account said that "it IS an older program, so it m
 | 1.0 | June 19, 2006 | Windows | Original release[^ref-3][^ref-23][^ref-25]. The AGS database lists June 25, 2006[^ref-17]. |
 | 2.0 + Voice Pack | August 20, 2006 | Windows | A full rebuild instead of a patch. It fixed "well over 200" minor errors and restored the magic map. It also added a delete button for saved games, the special full-points ending and the voice pack[^ref-18]. Adventure Gamers covered the release on September 6, 2006[^ref-24]. |
 | itch.io re-release | Undated | Windows, macOS | Distributed as a "name your own price" download with Windows and macOS builds[^ref-4] |
+
+### Easter Eggs and Trivia
+
+- **Moonlight Sonata:** After version 1.0, players debated whether a "Moonlight Sonata" was hidden in the game. Klytos wrote in the version 2.0 announcement that "there really wasn't a 'Moonlight Sonata' in the first release of the game. We added it into the soundtrack to amuse ourselves watching people looking for it." He said it was in version 2.0, tied to the special full-points ending[^ref-18].
+- **Manannan's robe:** Sinister decided Manannan "didn't look evil enough" and gave him "a 'cool' red trim on his robes as he did in the classic game," new sprites added in version 2.0[^ref-18].
+- **On television:** On July 27, 2006, team member Broomie posted that the remake had appeared on the program Electric Playground, in an episode aired July 17, 2006. He wrote that it was not a review or an advertisement, and that the program seemed to believe the Infamous Adventures version was the original 1986 Sierra game[^ref-18].
 
 ## Legacy
 
@@ -157,20 +169,21 @@ HG101 notes that the two remakes share an interface, VGA-style graphics and full
 - [MobyGames](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/)
 - [Internet Archive – King's Quest III [fan remake]](https://archive.org/details/kings-quest-iii-fan-remake)
 
+## Related Games
+
+This fan remake reimagines Sierra's original [[1986 - King's Quest III - To Heir Is Human]].
+
+**Infamous Adventures Fan Games:**
+- **Previous:** N/A (this was the team's first completed remake)
+- **Next:** [[2011 - Space Quest II VGA Remake]] (2011); [[TBD - King's Quest IV Remake (Infamous Adventures)]] (in development)
+
+**Competing remake:** AGD Interactive's [[2011 - King's Quest III Redux - To Heir is Human]] (2011) is a separate remake of the same game.
+
 ## See Also
 
-- [[2001 - King's Quest I VGA Remake]]
-- [[2001 - Space Quest - The Lost Chapter]]
-- [[2002 - King's Quest II+ - Romancing the Stones]]
-- [[2003 - Space Quest 0 - Replicated]]
-- [[2008 - Quest for Glory II VGA Remake]]
-- [[2010 - The Silver Lining]]
+- [[1986 - King's Quest III - To Heir Is Human]]
 - [[2011 - King's Quest III Redux - To Heir is Human]]
-- [[2011 - Space Quest - Vohaul Strikes Back]]
 - [[2011 - Space Quest II VGA Remake]]
-- [[2012 - Space Quest - Incinerations]]
-- [[2021 - King's Quest IV Retold]]
-- [[2025 - SCP Sierra Conversion Project]]
 - [[TBD - King's Quest IV Remake (Infamous Adventures)]]
 
 ## References
