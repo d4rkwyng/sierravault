@@ -3,6 +3,7 @@ title: Winnie the Pooh in the Hundred Acre Wood
 release_year: 1984
 developer: Sierra On-Line
 designer: [Al Lowe]
+composer: [Al Lowe]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [Apple II, C64, DOS, Atari ST, Amiga, TRS-80 Color Computer]
@@ -10,28 +11,29 @@ series: Disney
 engine: Pre-AGI
 protagonist: Player (unnamed child)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: '*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure
-  game developed by Sierra On-Line in collaboration with Walt Disney Computer Software,
+  game developed by Sierra On-Line with the Walt Disney Personal Computer Software staff,
   released in 1984 for the Apple II and Commodore 64, in which players return lost
   belongings to the residents of the Hundred Acre Wood.'
 tags: [1980s, adventure, al-lowe, disney, sierra]
 ---
 # Winnie the Pooh in the Hundred Acre Wood
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure game developed by Sierra On-Line in collaboration with Walt Disney Computer Software, released in December 1984 for the Apple II and Commodore 64.[^ref-1][^ref-9][^ref-32] It was one of a handful of Disney-licensed titles Sierra released during the mid-1980s,[^ref-19] and its manual states that it "develops reading comprehension, problem solving, logic and mapping skills."[^ref-10] Designer [[Al Lowe]], who would later achieve fame as the creator of the *Leisure Suit Larry* series, considers this children's game among his finest work.[^ref-3]
+*Winnie the Pooh in the Hundred Acre Wood* is an educational adventure game developed by Sierra On-Line with the Walt Disney Personal Computer Software staff, released in December 1984 for the Apple II and Commodore 64.[^ref-1][^ref-9][^ref-32] It was one of a handful of Disney-licensed titles Sierra released during the mid-1980s,[^ref-19] and its manual states that it "develops reading comprehension, problem solving, logic and mapping skills."[^ref-10] Designer [[Al Lowe]], who would later achieve fame as the creator of the *Leisure Suit Larry* series, considers this children's game among his finest work.[^ref-3]
 
 Set in the familiar world of A.A. Milne's classic stories as depicted in Disney's animated featurettes, the game challenges young players to help the residents of the Hundred Acre Wood recover their belongings after a blustery wind scatters objects throughout the forest.[^ref-4] Like Lowe's earlier *Troll's Tale*, the game requires no typing: players pick from context-sensitive lists of actions, which made it accessible to early readers.[^ref-3][^ref-5] Disney shared artwork from their Pooh animated films, which Sierra's artists used as inspiration for the game's charming background illustrations.[^ref-3]
 
 Contemporary reviewers were positive: *Apple User* wrote that, unlike licensed games that rely on a famous character to sell them, this one and its sister title *Mickey's Space Adventure* "deserve to succeed on merit alone."[^ref-6] Al Lowe later released the game as freeware and offers it on his own website.[^ref-3][^ref-7]
 
 > [!info]- Game Info
-> **Developer:** [[Sierra On-Line]] / Walt [[Disney]] Computer Software[^ref-1]
+> **Developer:** [[Sierra On-Line]] / Walt Disney Personal Computer Software Staff[^ref-1]
 > **Designer:** [[Al Lowe]][^ref-1]
+> **Music:** [[Al Lowe]][^ref-21]
 > **Publisher:** Sierra On-Line (NA), U.S. Gold (EU)[^ref-1]
 > **Engine:** Pre-AGI[^ref-31] (the engine Al Lowe built for *Troll's Tale*[^ref-3])
 > **Platforms:** Apple II, Commodore 64, MS-DOS, Atari ST, Amiga, TRS-80 Color Computer[^ref-1]
@@ -62,14 +64,7 @@ The Hundred Acre Wood's overworld is a grid of five rooms by six, and most of th
 
 Each playthrough offers a different experience, as the ten objects to be found are randomly placed at the start of each new game.[^ref-14] This randomization provides significant replay value and ensures that children cannot simply memorize solutions. Players can only carry one item at a time, requiring careful planning and multiple trips across the forest to complete their mission.[^ref-9]
 
-Key locations include:
-- **Pooh's House:** Home of Winnie the Pooh, featuring his famous honey pot tree
-- **Piglet's House:** The small abode of Pooh's timid friend
-- **Eeyore's Gloomy Place:** Where the melancholy donkey resides
-- **Owl's House:** Home to the wise (if verbose) Owl
-- **Rabbit's House:** Rabbit's tidy burrow and garden
-- **Kanga and Roo's House:** Home of the kangaroo mother and son
-- **Christopher Robin's House:** The dwelling of Pooh's human friend
+Locations named in the sources include Pooh's tree, which players can climb to see the limb where Pooh keeps his honey pots,[^ref-9] Rabbit's house, which has three interior screens,[^ref-13] and places such as the bridge and the picnic table, to which some of the lost objects belong.[^ref-14] The Sierra Chest walkthrough map places Owl's home at D4, where showing Owl an object gives a hint about its owner, and Eeyore at E6, Kanga at A2 and Christopher Robin at E3.[^ref-14]
 
 ### Puzzles and Mechanics
 
@@ -123,9 +118,12 @@ Al Lowe designed and programmed the game using the same engine he had created fo
 The graphics team played a crucial role in bringing the Hundred Acre Wood to life. Mark Crowe, who would later co-create the *Space Quest* series, worked on the game as one of his first computer graphics projects at Sierra.[^ref-20] As Crowe recalled: "I started with Sierra in the Art Department, designing packaging and documentation and what not, so I used my illustration skills there. My first computer graphics project was creating the graphics for Winnie the Pooh and the One Hundred Acre Wood."[^ref-20]
 
 **Development Credits:**
-- **Designer:** [[Al Lowe]][^ref-9]
-- **Artists:** [[Mark Crowe]], Doug MacNeill, Jennifer Nelsen, Terry Pierce[^ref-9]
-- **Sound:** Al Lowe[^ref-12][^ref-21]
+- **Designers:** [[Al Lowe]]; Walt Disney Personal Computer Software Staff[^ref-1]
+- **Programming (Apple and Commodore):** [[Al Lowe]][^ref-1]
+- **Artists:** [[Mark Crowe]], Doug MacNeill, Jennifer Nelsen, Terry Pierce[^ref-9][^ref-1]
+- **Illustrator:** [[Mark Crowe]][^ref-1]
+- **Player's Guide:** Annette Childs[^ref-1]
+- **Sound and music:** Al Lowe[^ref-12][^ref-21]
 
 ### Technical Achievements
 
@@ -182,7 +180,7 @@ Due to the game's age, modern players will require an emulator such as DOSBox to
 
 ### Sales and Commercial Impact
 
-No sales figures for the game have been published. Jimmy Maher writes that Disney's "control-freak tendencies and their high royalties quickly soured everyone on the deal," and that most activity stopped well before the license expired.[^ref-19]
+No sales figures specific to this game have been published. *Billboard* reported in December 1984 that Sierra was selling three of the Disney titles for about $40 and that "it is believed that initial orders numbered about 40,000"; the article covers the three titles together, not this game alone.[^ref-32] Jimmy Maher writes that Disney's "control-freak tendencies and their high royalties quickly soured everyone on the deal," and that most activity stopped well before the license expired.[^ref-19]
 
 The game generated enough community interest that years later, when GOG.com established their wishlist system, 331 users had voted for the game to be made available on the platform.[^ref-24] User comments included "Many gamers want this" and "I want this but unironically!"—demonstrating lasting nostalgic appeal.[^ref-24]
 
@@ -200,7 +198,7 @@ Al Lowe generously released the DOS version of the game as freeware, ensuring it
 
 ### Critical Perspective
 
-The game is an early credit for two people who went on to larger Sierra work: Al Lowe, later the creator of *Leisure Suit Larry*,[^ref-3] and Mark Crowe, later co-creator of the *Space Quest* series.[^ref-20] Lowe has written: "I consider this game one of my best."[^ref-3]
+The game is an early credit for two people who went on to larger Sierra work: Al Lowe, later the creator of *Leisure Suit Larry*,[^ref-3] and Mark Crowe, later co-creator of the *Space Quest* series.[^ref-20] Lowe has written: "I consider this game one of my best."[^ref-3] The game also led to his next Disney project: in a 2010 interview he said Disney approached him about [[1986 - The Black Cauldron]] because "They liked what I did on Winnie the Pooh."[^ref-35]
 
 Like Lowe's earlier *Troll's Tale*, the game needs no typing: players choose from a list of actions for each location, which suited its young audience.[^ref-3][^ref-5]
 
@@ -224,7 +222,7 @@ Like Lowe's earlier *Troll's Tale*, the game needs no typing: players choose fro
 - [[Al Lowe]] — programmer/designer on this title prior to creating Leisure Suit Larry[^ref-3][^ref-20]
 - [[Mark Crowe]] — artist on this title prior to co-creating the Space Quest series[^ref-20]
 - [[Sierra On-Line]] — developer and publisher
-- [[1986 - The Black Cauldron]] — later Sierra-Disney collaboration
+- [[1986 - The Black Cauldron]] — later Sierra-Disney collaboration; Lowe said Disney approached him for it because "They liked what I did on Winnie the Pooh"[^ref-35]
 
 ## References
 
@@ -259,3 +257,4 @@ Like Lowe's earlier *Troll's Tale*, the game needs no typing: players choose fro
 [^ref-32]: [Internet Archive – Billboard, December 15, 1984](https://archive.org/details/bub_gb_nSQEAAAAMBAJ/page/n25/mode/2up) – article on the Disney–Sierra deal: Sierra "is selling three of the titles for about $40"; Al Lowe "took charge of" the Pooh game
 [^ref-33]: [Internet Archive – Antic Vol. 5 No. 4 (August 1986), pp. 72–73](https://archive.org/details/1986-08-anticmagazine/page/72/mode/2up) – Atari ST review by Rebecca Guber, age 8; mouse control; $24.95, age 7 and up
 [^ref-34]: [MobyGames – Specs (Wayback snapshot, February 2, 2026)](https://web.archive.org/web/20260202104837/https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/specs/) – DOS: minimum CPU Intel 8088 / 8086; CGA, CGA Composite, Tandy/PCjr; 1 player
+[^ref-35]: [Game Developer – In-Depth: Al Lowe Talks Early-Days Adventure Genre Challenges In New Book](https://www.gamedeveloper.com/game-platforms/in-depth-al-lowe-talks-early-days-adventure-genre-challenges-in-new-book) – interview excerpt (July 30, 2010); Lowe: "They liked what I did on Winnie the Pooh"
