@@ -7,20 +7,20 @@ first_release: 1990
 last_release: 1991
 total_games: 2
 genre: "Adventure, Historical / Mythological"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 
 # Conquests Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 The Conquests series is a two-game historical-and-mythological adventure line designed by **[[Christy Marx]]** for Sierra On-Line: [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] (1990) and [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] (1991).[^ref-1][^ref-2] Both games adapt British legendry — Arthurian myth for *Camelot*, the Robin Hood tradition for *Longbow* — into Sierra adventure-game form (SCI0 for *Camelot*, SCI1 for *Longbow*), aiming, as Hardcore Gaming 101 puts it, at "more faithful, scholarly retellings of these stories" than the mash-up of "medieval lore, mythology and fairy tales" in Sierra's own *King's Quest*.[^ref-12][^ref-9] Marx's husband, [[Peter Ledger]], provided the artwork for *Camelot*,[^ref-12] but in Marx's words he "hated it and quit after the first game";[^ref-20] *Longbow*'s artist was Kenn Nishiuye.[^ref-2]
 
-Marx came to games from a career writing television animation, with credits including *G.I. Joe*, *Spider-Man and His Amazing Friends*, and *Jem and the Holograms* (which she developed and head-wrote).[^ref-3] *Longbow* in particular is built around branching outcomes: how the player performs over its days determines which of four endings Robin receives.[^ref-2]
+Marx came to games from a career writing television animation, with credits including *G.I. Joe*, *Spider-Man and His Amazing Friends*, and *Jem and the Holograms* (which she developed and head-wrote).[^ref-3] *Longbow* in particular is built around branching outcomes: how the player performs over its days determines which of four endings Robin receives.[^ref-2] (GOG's store description says the game has "at least five possible endings".)[^ref-14]
 
-The series produced exactly two games. Marx left Sierra after *Longbow* to return to writing for non-interactive media,[^ref-15] and the franchise was not continued by other designers. She later said that, "Had I remained at Sierra, the direction I was thinking about for a third game was Conquests of Charlemagne."[^ref-4]
+The series produced exactly two games. Marx left Sierra after *Longbow* and returned to writing for non-interactive media,[^ref-15] and the franchise was not continued by other designers. She later said that, "Had I remained at Sierra, the direction I was thinking about for a third game was Conquests of Charlemagne."[^ref-4]
 
 ## Series Timeline
 
@@ -49,7 +49,7 @@ Christy Marx's first Sierra design. The player is **King Arthur**, who must lead
 - **Medieval-style music** — a soundtrack of "authentic-sounding medieval music" composed by [[Mark Seibert]].[^ref-1]
 - **High research density** — Marx "extensively researched both the mythology and the history of early Britain";[^ref-6] the manual's bibliography lists works by Charles Squire, Sir James George Frazer, Sir James Knowles, Barbara G. Walker, John Matthews & Bob Stewart and John M. Allegro, and recommends Mary Stewart's Arthurian trilogy.[^ref-16]
 
-**Reception:** Generally positive. *Games International* gave it 9/10 and *Dragon* 4½/5, and *VideoGames & Computer Entertainment* named it "Best Computer Adventure Game of 1990" (per Marx's own credits page).[^ref-1][^ref-3] *Computer Gaming World*'s Scorpia was cooler: she found the EGA graphics inferior to earlier Sierra games and the puzzles too easy, calling it "a game more for the beginning adventure gamer, rather than the experienced one."[^ref-7]
+**Reception:** Generally positive. *Games International* gave it 9/10 and *Dragon* 4½/5, and *VideoGames & Computer Entertainment* named it "Best Computer Adventure Game of 1990" (per Marx's own credits page).[^ref-1][^ref-3] Her credits page also lists an Excellence Award from *Game Player's* magazine for the game.[^ref-3] *Computer Gaming World*'s Scorpia was cooler: she found the EGA graphics inferior to earlier Sierra games and the puzzles too easy, calling it "a game more for the beginning adventure gamer, rather than the experienced one."[^ref-7]
 
 ## Conquests of the Longbow: The Legend of Robin Hood (1991)
 
@@ -58,11 +58,11 @@ Marx's second Conquests entry. The player is Robin Hood, leading the Sherwood Fo
 **Design features:**
 - **Day-by-day structure** — the story unfolds over a series of in-game days, each closing with a cutscene of Robin and his men discussing events.[^ref-2]
 - **Four endings** — ranging from Robin being hanged to being granted a noble title and Maid Marian's hand.[^ref-2]
-- **Folklore beyond Hollywood** — the cast includes the Green Man, a powerful forest spirit whose trust Robin must win, and Maid Marian as a pagan forest priestess.[^ref-2]
+- **Folklore and paganism** — the cast includes the Green Man, a powerful forest spirit whose trust Robin must win, and Maid Marian as a pagan forest priestess.[^ref-2]
 - **Disguise and infiltration** — much of the game is spent "finding new disguises" and "infiltrating the towns, castles and abbeys for vital information";[^ref-9] disguises include a beggar's rags, a Fen Monk's and a monk of St. Mary's robes, a yeoman's clothes, and a jeweler's clothes.[^ref-17]
 - **Nine Men's Morris** — the only mandatory minigame, an ancient strategy board game.[^ref-9]
 
-**Reception:** *Dragon* gave it 5 out of 5 stars in March 1992.[^ref-2] *Computer Gaming World* did not score it, but in its November 1992 Game of the Year awards nominated it as one of four Adventure Game of the Year finalists, praising "its attention to historical detail (including the music) and number of puzzles"; the award went to *Monkey Island 2*.[^ref-10][^ref-18] Sierra's own spring 1992 magazine listed it as the company's biggest current seller,[^ref-15] and Adventure Gamers later ranked it the 42nd-best adventure game of all time (2011).[^ref-2]
+**Reception:** *Dragon* gave it 5 out of 5 stars in March 1992.[^ref-2] Marx's credits page says it was voted Best Adventure Game of 1992 by *Computer Game Review* and *Enchanted Realms* (for the Amiga version).[^ref-3] *Computer Gaming World* did not score it, but in its November 1992 Game of the Year awards nominated it as one of four Adventure Game of the Year finalists, praising "its attention to historical detail (including the music) and number of puzzles"; the award went to *Monkey Island 2*.[^ref-10][^ref-18] Sierra's own spring 1992 magazine listed it as the company's biggest current seller,[^ref-15] and Adventure Gamers later ranked it the 42nd-best adventure game of all time (2011).[^ref-2]
 
 ## Series Design Identity
 
@@ -70,7 +70,7 @@ What unifies the two games:
 
 1. **Designer-as-historian approach** — Hardcore Gaming 101 contrasts the series' "more faithful, scholarly retellings" with *King's Quest*'s "mish-mash of medieval lore, mythology and fairy tales".[^ref-12]
 2. **Rewarding conduct** — *Camelot* awards "Soul" points for helping others, and *Longbow*'s ending depends on how well the player performs.[^ref-1][^ref-2]
-3. **Period-flavoured music** — both scores were singled out for their medieval atmosphere.[^ref-1][^ref-10]
+3. **Period-flavoured music** — Wikipedia describes *Camelot*'s soundtrack as "authentic-sounding medieval music",[^ref-1] and *Computer Gaming World* credited *Longbow*'s "attention to historical detail (including the music)".[^ref-10][^ref-18]
 4. **Legendry-faithful storytelling** — *Camelot*'s box copy laments that the Arthur legend had been "recast as a cartoon and children's story", its "mystic rituals and dark passions" watered down.[^ref-12]
 
 ## Technical Evolution
@@ -89,8 +89,6 @@ Further detail on each game's reception is under the per-game sections above.
 ## Legacy
 
 The Conquests series occupies a distinctive niche in Sierra's catalog — Marx's research-driven approach distinguishes it from the fairy-tale mix of *King's Quest*.[^ref-12] Polygon notes that the games "aren't as well-remembered as other Sierra properties, like King's Quest or Quest for Glory," but that "Marx's penchant for world building gives the classic folklore a unique richness."[^ref-19]
-
-Christy Marx left Sierra after *Longbow* and returned to writing for non-interactive media.[^ref-15]
 
 ## Playing Today
 
