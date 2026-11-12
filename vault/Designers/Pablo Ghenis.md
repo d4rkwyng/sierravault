@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Quest for Glory II", "Space Quest IV", "Codename: ICEMAN"]
 companies: ["Sierra On-Line"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Pablo Ghenis
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Pablo Ghenis is a programmer who worked on the development system for Sierra On-Line's [[Sierra Creative Interpreter|SCI]] (Sierra Creative Interpreter) in the engine's early years.[^ref-1] MobyGames credits him on 22 games, nearly all for interpreter or development-system work, plus programming credits on Codename: ICEMAN and Conquests of the Longbow.[^ref-16][^ref-21]
+Pablo Ghenis is a programmer who worked on the development system for Sierra On-Line's [[Sierra Creative Interpreter|SCI]] (Sierra Creative Interpreter) in the engine's early years.[^ref-1][^ref-27] MobyGames credits him on 22 games, nearly all for interpreter or development-system work, plus programming credits on Codename: ICEMAN and Conquests of the Longbow.[^ref-16][^ref-21]
 
 His credits run from 1988 to 1991, from King's Quest IV and Leisure Suit Larry 2 through the VGA releases of King's Quest V and Space Quest IV.[^ref-15][^ref-16]
 
