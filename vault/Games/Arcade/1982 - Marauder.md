@@ -10,14 +10,14 @@ series: None
 engine: Not documented
 protagonist: The Marauder
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: '*Marauder* is a top-down arcade shooter developed by On-Line Systems
   and released in 1982 for the Apple II, Atari 2600, and Atari 8-bit computers. Designed by Eric Hammond and Rorke Weigandt, it pairs a rocket-shooter stage with a Berzerk-style robot maze.'
 tags: [1980s, shooter, sierra]
 ---
 # Marauder
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -73,7 +73,7 @@ The Apple II and Atari 8-bit versions feature a two-phase gameplay structure tha
 
 ## Reception
 
-### Early Reviews
+### Contemporary Reviews
 
 *Softline* reviewed the Apple II original in its September 1982 issue, crediting it "By Rorke Weigandt and Eric Hammond" and describing "a two-part space seek-and-destroy game"[^ref-16]. The reviewer noted that the robots cannot be seen until they are in line of sight, and concluded: "All in all, Marauder is as good as any mindless arcade game, and better than most"[^ref-16]. The listing gave "Apple II, Apple II Plus; 48K; disk. $34.95 from Sierra On-Line"[^ref-16].
 
@@ -83,7 +83,9 @@ The Apple II and Atari 8-bit versions feature a two-phase gameplay structure tha
 
 In July 1983 *Electronic Fun with Computers & Games* reviewed the Atari 400/800 version (by Paul Backer)[^ref-19]. It described the first stage as "a hybrid of Space Invaders and Missile Command" and the second as "Berzerk with some very interesting changes", including that "you can only see the robots when they are in the same corridor as you"[^ref-19]. The review found "very little challenge for better-than-average players" and called the game "an absolute must-have" for those just starting out with action games[^ref-19]. Atarimania's transcription of the review lists a rating of 3 out of 4[^ref-26].
 
-The earliest online review that Orphaned Games could find was negative: The Video Game Critic gave the Atari 2600 version an **F** in 2002, calling the game a "cakewalk"[^ref-8][^ref-11]. The reviewer later revised this after a reader pointed out he had been overly critical[^ref-11].
+*A.N.A.L.O.G. Computing* took the opposite view of the Atari 8-bit version in issue No. 12 (July/August 1983), where the magazine, spelling the title "MAURADER", wrote: "MAURADER is a cheap combination of MISSILE COMMAND and SHAMUS, with poor graphics, sounds and playability"[^ref-27]. The same piece said Sierra On-Line, "while still holding their high standing in the Apple market, is rapidly losing the respect they have earned from ATARI owners" through releases including *Marauder*, *WallWar*, *Lunar Leeper* and the rewritten *Jawbreaker*[^ref-27]. Set beside *Electronic Fun*'s "absolute must-have" for newcomers, the two reviews split on the Atari 8-bit version[^ref-19][^ref-27].
+
+The only online review that Orphaned Games could find (in 2011) was negative: The Video Game Critic gave the Atari 2600 version an **F** in 2002, calling the game a "cakewalk"[^ref-8][^ref-11]. The reviewer later revised this after a reader pointed out he had been overly critical[^ref-11].
 
 Retro365 lists the November 1982 issue of *Softline* magazine among its period sources for the game's history[^ref-3], and the @oldschoolfrp Tumblr archive reposts a 1982 *Marauder* magazine scan tagged \#Softline[^ref-7].
 
@@ -106,7 +108,7 @@ The Doctor Spuds review blog offered a more tempered assessment, rating it as "t
 
 ### Origins
 
-*Marauder* was created by Eric Hammond and Rorke Weigandt on Weigandt's Apple II computer, and was then picked up by On-Line Systems, which published it for the Apple II in 1982[^ref-3]. Retro365 calls it Hammond and Weigandt's first game[^ref-3]; the same article notes that when Hammond wrote *One-on-One* for Electronic Arts in 1983, he had only a year of experience and two simple commercial releases behind him[^ref-3]. Hammond was self-taught, having learned both BASIC and 6502 Assembly Language independently before contributing to this project[^ref-3].
+*Marauder* was created by Eric Hammond and Rorke Weigandt on Weigandt's Apple II computer, and was then picked up by On-Line Systems, which published it for the Apple II in 1982[^ref-3]. Retro365 calls it Hammond and Weigandt's first game[^ref-3]; the same article notes that when Hammond wrote *One-on-One* for Electronic Arts in 1983, he had only a year of experience and two simple commercial releases behind him[^ref-3]. Hammond was self-taught, having learned both BASIC and 6502 Assembly Language independently before contributing to this project[^ref-3]. After *Marauder* he spent eight weeks creating *Maze Craze Construction Set*, a *Pac-Man*-style game with a construction set for players, enemies and mazes, which Data Trek, Inc. published for the Apple II in 1983; he joined Lucasfilm Games in 1989 to work on sound effects and music[^ref-3].
 
 The creative inspiration for *Marauder* drew directly from the most successful arcade games of the era. Retro365 describes the original game's first part as a hybrid of *Space Invaders* and *Missile Command*, and its second part as a variation of *Berzerk*[^ref-3]. Kotaku's game summary calls *Marauder* "a Berzerk-clone with some minor alterations"[^ref-15].
 
@@ -133,7 +135,7 @@ The game also managed to implement room persistence within the constraints of th
 
 **Apple II Version:**[^ref-3]
 - **Memory Usage:** ~48 KB (the manual cover reads "Disk 48K Apple II or II Plus, Requires DOS 3.3")[^ref-22][^ref-23]
-- **Media:** Floppy 5.25"[^ref-12][^ref-16]
+- **Media:** Floppy 5.25"[^ref-1][^ref-12][^ref-16]
 - **Gameplay Phases:** Two phases
 
 **Atari 8-bit Version:**[^ref-3]
@@ -194,6 +196,8 @@ The game's wrap-around box art depicts robots chasing the titular marauder throu
 ### Sales and Commercial Impact
 
 *Marauder* achieved only modest commercial success according to available records[^ref-3]. Retro365 attributes this partly to piracy: the game was "widely pirated from the get-go", after a pre-release copy lent to a joystick manufacturer for a tradeshow reached pirate boards within days[^ref-3]. As one retrospective noted: "The shelf life of games in the early '80s was merely a few weeks, that was all it took before the copy protection was cracked and piracy took over"[^ref-3].
+
+*Softalk*'s September 1982 bestseller column, drawn from a poll of Apple-franchised retail stores on their July sales, said of Sierra On-Line (then On-Line Systems) that "Cannonball Blitz and Marauder joined Screen Writer on the Top Thirty"[^ref-17].
 
 In late 1982 the Atari 400/800 version was released under Sierra's new SierraVision action label, alongside a rerelease of the Apple II version[^ref-3]. A year later, after the North American video game market crash, the SierraVision label was dropped for good[^ref-3].
 
@@ -289,3 +293,4 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-24]: [AtariAge – Marauder (Tigervision, Atari 2600)](https://atariage.com/software_page.php?SoftwareLabelID=284) – model 7-005, developer Sierra On-Line, programmer Rorke Weigandt
 [^ref-25]: [Atarimania – Marauder (Atari 2600, Tigervision, 1982)](https://www.atarimania.com/games/atari-2600-games-marauder-16947) – serial 7-005, programmer Rorke Weigandt, European and Brazilian releases
 [^ref-26]: [Atarimania – Marauder (Atari 8-bit, Sierra On-Line, 1982)](https://www.atarimania.com/games/atari-400-800-xl-xe-games-marauder-3146) – programmers Hammond and Weigandt, disk release, transcription of the Electronic Fun review
+[^ref-27]: [A.N.A.L.O.G. Computing, No. 12, July/August 1983 (archive.org scan)](https://archive.org/details/ANALOG-Computing-12-600DPI) – Atari 8-bit review (spelled "MAURADER"): "cheap combination of MISSILE COMMAND and SHAMUS"; Sierra "rapidly losing the respect" remark
