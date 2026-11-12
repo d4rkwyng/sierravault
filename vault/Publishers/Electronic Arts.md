@@ -3,16 +3,16 @@ title: "Electronic Arts"
 type: publisher
 founded: 1982
 headquarters: "Redwood City, California, United States"
-parent_company: "PIF, Silver Lake and Affinity Partners consortium (private since August 2026)"
-last_updated: "2026-11-11"
+parent_company: "PIF, Silver Lake and Affinity Partners consortium (acquisition closed August 2026)"
+last_updated: "2026-11-12"
 ---
 # Electronic Arts
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Electronic Arts Inc. (EA) is an American video game company headquartered in Redwood City, California, founded in 1982 by former Apple employee Trip Hawkins.[^ref-1][^ref-2][^ref-6] Its early games were packaged like rock albums, with the designers' names on the front.[^ref-3] EA now publishes franchises such as Madden NFL, EA Sports FC (formerly FIFA), The Sims and Battlefield.[^ref-1][^ref-11] On August 4, 2026, EA announced that its acquisition by PIF, Silver Lake and Affinity Partners had closed; its common stock ceased trading and was delisted from NASDAQ, making EA a private company.[^ref-27] Wikipedia's article gives the Public Investment Fund as the largest owner of the post-deal company, but the EA release gives no ownership split.[^ref-1][^ref-27]
+Electronic Arts Inc. (EA) is an American video game company headquartered in Redwood City, California, founded in 1982 by former Apple employee Trip Hawkins.[^ref-1][^ref-2][^ref-6] Its early games were packaged like rock albums, with the designers' names on the front.[^ref-3] EA now publishes franchises such as Madden NFL, EA Sports FC (formerly FIFA), The Sims and Battlefield.[^ref-1][^ref-11] On August 4, 2026, EA announced that its acquisition by PIF, Silver Lake and Affinity Partners had closed; its common stock "has ceased trading and will be delisted from NASDAQ."[^ref-27] Wikipedia says the buyout was completed on that date and gives the Public Investment Fund as the largest owner of the post-deal company, but the EA release gives no ownership split.[^ref-1][^ref-27]
 
 ## Sierra Connection
 
@@ -26,23 +26,26 @@ Electronic Arts published several games developed by studios that later became p
 
 **Thexder (Amiga):** Compute! (March 1988) printed "Amiga version distributed by: Electronic Arts" in its review of Sierra's *[[1985 - Thexder|Thexder]]*; the vault's Thexder page lists the Amiga release as December 1987 in the US, with EA as US distributor.[^ref-28]
 
-**Valve (2005):** In July 2005 GamesIndustry.biz reported that Electronic Arts would publish the Xbox version of *[[2004 - Half-Life 2|Half-Life 2]]* in October and distribute [[Developers/Valve Corporation|Valve]]'s PC back catalogue worldwide, including a boxed "Game of the Year" edition. The article stresses that this was "a distribution deal, rather than a publishing deal" for the PC titles. It followed the end of Vivendi Universal Games' distribution of Valve products.[^ref-29]
+**Valve (2005):** In July 2005 GamesIndustry.biz reported that Electronic Arts would publish the Xbox version of *[[2004 - Half-Life 2|Half-Life 2]]* in October and distribute [[Valve Corporation|Valve]]'s PC back catalogue worldwide, including a boxed "Game of the Year" edition. The article stresses that this was "a distribution deal, rather than a publishing deal" for the PC titles. It followed the end of Vivendi Universal Games' distribution of Valve products.[^ref-29]
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Developer |
-|------|------|-----------|
-| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Papyrus Design Group |
+| Year | Game | Developer | Role |
+|------|------|-----------|------|
+| 1987 | [[1985 - Thexder\|Thexder]] (Amiga) | Game Arts | Distributor (US)[^ref-28] |
+| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Papyrus Design Group | Publisher |
+| 1996 | Road Rash (Windows) | Papyrus Design Group | Publisher[^ref-30] |
+| 2005 | [[2004 - Half-Life 2\|Half-Life 2]] (Xbox) | Valve | Publisher (Xbox); distributor of the PC version[^ref-29] |
 
 ## Related
 
 - **Developer (later Sierra):** [[Developers/Dynamix|Dynamix]]
-- **Developer (later Sierra):** [[Papyrus Design Group|Papyrus Design Group]]
+- **Developer (later Sierra):** [[Papyrus Design Group]]
 - **Studio (Sierra 1996-1999, EA from 2006):** [[Headgate Studios]]
 
 ## References
 
-[^ref-1]: [Wikipedia - Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts) - Founded May 1982 by Trip Hawkins; headquarters Redwood City; franchises; owners Public Investment Fund (93.4%), Silver Lake, Affinity Partners
+[^ref-1]: [Wikipedia - Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts) - Founded May 1982 by Trip Hawkins; headquarters Redwood City; franchises; owners Public Investment Fund, Silver Lake, Affinity Partners; the 93.4% / 5.5% / 1.1% split is Wikipedia's figure, which it attributes to a Wall Street Journal report
 [^ref-2]: [MobyGames - Electronic Arts, Inc. (Wayback, January 2025)](https://web.archive.org/web/20250115023139/https://www.mobygames.com/company/2/electronic-arts-inc/) - Moby ID 2; "Founded in 1982 as Amazin' Software by Trip Hawkins"
 [^ref-3]: [Game Developer - We See Farther: A History of Electronic Arts](https://www.gamedeveloper.com/business/we-see-farther---a-history-of-electronic-arts) - Jeffrey Fleming; Hawkins "incorporated EA on May 28, 1982"; gatefold sleeves "with the designer's names on the front" that looked like rock albums
 [^ref-6]: [Company Histories - Electronic Arts Inc.](https://www.company-histories.com/Electronic-Arts-Inc-Company-History.html) - "Founded 1982 San Mateo, CA"
@@ -63,3 +66,4 @@ Electronic Arts published several games developed by studios that later became p
 [^ref-27]: [EA - EA Announces Completion of Acquisition](https://www.ea.com/news/ea-announces-completion-of-acquisition) - August 4, 2026 release: acquisition by PIF, Silver Lake and Affinity Partners "has successfully closed"; common stock "has ceased trading and will be delisted from NASDAQ"; $210 cash per share; no ownership percentages given
 [^ref-28]: [Compute! Issue 94, March 1988, p. 21 - Thexder review](https://www.atarimagazines.com/compute/issue94/P21_1_REVIEWS_THEXDER.php) - "Amiga version distributed by: Electronic Arts, 1820 Gateway Dr., San Mateo, CA 94404"; $34.95
 [^ref-29]: [GamesIndustry.biz - EA to publish Half-Life 2 Xbox, distribute Valve PC titles](https://www.gamesindustry.biz/articles/ea-to-publish-half-life-2-xbox-distribute-valve-pc-titles) - Rob Fahey, July 19, 2005: Xbox version published in October by EA; back catalogue of PC titles distributed worldwide by EA; "a distribution deal, rather than a publishing deal"
+[^ref-30]: [MobyGames - Road Rash (Windows, PlayStation, Saturn, 3DO)](https://www.mobygames.com/game/17194/road-rash/) - Windows release 1996: Electronic Arts, Inc. "Published by"; Papyrus Design Group, Inc. "Developed by"
