@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'Space Quest: Chapter I – The Sarien Encounter is a graphic adventure
   game developed and published by Sierra On-Line, released in October 1986 for MS-DOS,
   in which janitor Roger Wilco must stop the Sariens from using the stolen Star Generator.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14].
@@ -82,7 +82,7 @@ Adventure Gamers called the game "undeniably flawed, yet undeniably fun" and "pe
 - **Adventure Gamers:** 3.5/5 stars (Dante Kleinberg, 2008)[^ref-19]
 - **MobyGames:** 69% critics[^ref-14]
 - **GOG:** 4.3/5 (578 ratings, collection, as of Oct 2026)[^ref-8]
-- **Steam:** Very Positive, 85% of 335 reviews (collection, as of Oct 2026)[^ref-9]
+- **Steam:** Very Positive (collection)[^ref-9]
 - **HowLongToBeat:** 3 hours main story (entry titled for the 1991 VGA remake, so times may not reflect this version)[^ref-10]
 
 ## Development
@@ -96,7 +96,22 @@ Crowe created four rooms of graphics and Murphy wrote the code to run them, esse
 
 Major influences included Stanley Kubrick's 2001: A Space Odyssey (Murphy said it "changed how I thought about a lot of things"), Ray Bradbury, Arthur C. Clarke, Rocky and Bullwinkle, Douglas Adams' Hitchhiker's Guide, Gary Larson's Far Side, and B. Kliban[^ref-21][^ref-22]. The "Two Guys from Andromeda" moniker came from two sources: Crowe was inspired by "Two Guys from Italy" restaurant chain, while Murphy drew from a department store name[^ref-22]. Ken Williams gave them latitude on parodies, reportedly telling them: "If you guys don't mind paying lawyers' fees, you can put whatever you want in your game"[^ref-21].
 
-The desert planet Kerona was named after the designers' favorite beer at the time[^ref-23]. Mark Crowe, the game's graphic artist, is credited with composing the original theme song[^ref-23][^ref-30], although the Sierra Fandom wiki's credits list Al Lowe for music[^ref-5]. On one early box printing, the film was put in backwards, mirroring the Sierra half-dome in the background. Scott Murphy called it "that second box": "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23][^ref-30]
+### Development Credits
+
+| Role | Credit |
+|------|--------|
+| Game by | Two Guys From Andromeda |
+| Design and writing | [[Mark Crowe]], [[Scott Murphy]] |
+| Graphics / artwork | [[Mark Crowe]] |
+| Programming | Sol Ackerman, [[Scott Murphy]], [[Ken Williams]] |
+| Music | [[Al Lowe]] |
+| Interpreter / development system | Chris Iden, [[Jeff Stephenson]] |
+| Atari ST version | [[Corey Cole]] |
+| Amiga version | [[Jeff Stephenson]] |
+| Apple IIgs version | John Rettig |
+| Macintosh version | Mark Langbehn of Fairfield Software |
+
+Credits as listed by the Sierra Fandom wiki[^ref-5].
 
 ### Technical Achievements
 - Used Sierra's AGI (Adventure Game Interpreter) engine with 160×200 resolution and 16 colors[^ref-4][^ref-5]
@@ -108,39 +123,44 @@ The desert planet Kerona was named after the designers' favorite beer at the tim
 - The Amiga version used an extended color palette compared to other platforms[^ref-17]
 - Supported in ScummVM since version 0.10.0[^ref-17]
 
-### Unused Content
+### Cut Content
 Data mining has revealed several cut elements from the game[^ref-18]:
-- **Debug mode:** Pressing Alt+D enables developer functions including teleportation, inventory manipulation, and variable editing
-- **Unused graphics:** Three static Sarien guards with a beefier design than the final version; early frames showing Orat examining the dehydrated water can before eating it (suggesting a "GIVE CAN" command was planned); an older Star Generator keypad lacking the enter button
-- **Cut items:** A "Life Detector" (removed entirely in version 2.2); "Pocket Lint" as a joke item (this gag later appeared in Leisure Suit Larry, where Larry's lint description asks "why is this stuff in every adventure game?")
-- **Coding bug:** Returning to the starting room gives a 21% chance of three marching guards. The same code was copied into a neighbouring room (logic 4), where a coordinate-check bug means the guards never appear
-- **Version differences:** Multiple releases (1.0x, 1.1a, 2.2) contain different content, with some unused code and items removed in later versions
-- **Version-specific easter eggs:** In version 1.0x, typing "ken" on the Arcada made Ken Williams walk on screen and complain the game was behind schedule. It was removed from later versions. Conversely, typing "scott" brings up a personal message from Scott Murphy asking players to write him at Sierra, but only in version 2.2[^ref-5][^ref-18][^ref-23]
-- **Hidden easter eggs:** Behind Droids-B-Us in Ulence Flats, typing "take leak" gives one of three joke messages, and a few buckazoids are stashed there (5 per SpaceQuest.net, which says they are missing in version 1.0X; one per the Space Quest FAQ)[^ref-26][^ref-23]; traveling to a specific desert location (E,E,N,N,E,E from the escape pod) and waiting causes a meteor to crash directly on Roger[^ref-26]
+- **Debug mode:** Pressing Alt+D enables developer functions including teleportation, inventory manipulation, and variable editing[^ref-18]
+- **Unused graphics:** Three static Sarien guards with a beefier design than the final version; early frames showing Orat examining the dehydrated water can before eating it (suggesting a "GIVE CAN" command was planned); an older Star Generator keypad lacking the enter button[^ref-18]
+- **Cut items:** A "Life Detector" (removed entirely in version 2.2); "Pocket Lint" as a joke item (this gag later appeared in Leisure Suit Larry, where Larry's lint description asks "why is this stuff in every adventure game?")[^ref-18]
+- **Coding bug:** Returning to the starting room gives a 21% chance of three marching guards. The same code was copied into a neighbouring room (logic 4), where a coordinate-check bug means the guards never appear[^ref-18]
+- **Version differences:** Multiple releases (1.0x, 1.1a, 2.2) contain different content, with some unused code and items removed in later versions[^ref-18]
 
 ### Version History
 
-- **1.0x** (1986): has the Ken Williams easter egg; no EGA support[^ref-5]
-- **1.1a** (1986): removed the Ken Williams easter egg; added EGA support[^ref-5]
-- **2.2** (1987): rerelease on the updated AGI interpreter with pull-down menus[^ref-5]
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0x | 1986 | DOS | Has the Ken Williams easter egg; no EGA support[^ref-5] |
+| 1.1a | 1986 | DOS | Removed the Ken Williams easter egg; added EGA support[^ref-5] |
+| 2.2 | 1987 | DOS (PC/Tandy/PCjr) | Rerelease on the updated AGI interpreter with pull-down menus[^ref-5] |
 
-## Trivia
+### Easter Eggs and Trivia
 
 - The planet Kerona was named after the designers' favorite beer at the time—Corona[^ref-5][^ref-23]
 - Mark Crowe, the game's graphic artist, is credited with composing the original theme song[^ref-23][^ref-30]; the Sierra Fandom wiki's credits instead list Al Lowe for music[^ref-5]
 - One early box printing ("that second box," per Scott Murphy) had the film put in backwards, mirroring the Sierra half-dome in the background. Murphy: "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23][^ref-30]
 - Mark Crowe said the "Two Guys" name was borrowed from "Two Guys from Italy," which he called an east coast pizza chain (Murphy remembered it as a local Italian restaurant chain)[^ref-30][^ref-22]
+- The store where Roger buys a droid is called Droids B Us, a parody of Toys 'R' Us. In the first release (version 1.0X) it was called Droids R Us, until, per the Sierra Fandom wiki, Toys 'R' Us sued and Sierra changed the name[^ref-5]
+- Pressing the "Don't touch" button in the escape pod puts Roger inside another Sierra adventure game, King's Quest; the game cannot be continued from there and must be restarted or restored[^ref-5]
+- In version 1.0x, typing "ken" on the Arcada made Ken Williams walk on screen and complain the game was behind schedule. It was removed from later versions[^ref-5][^ref-18][^ref-23]
+- Typing "scott" in version 2.2 displays a personal message from Scott Murphy asking players to drop him a line at Sierra. Earlier versions show "Don't snivel!" instead[^ref-5][^ref-18][^ref-23]
+- Behind Droids B Us in Ulence Flats, typing "take leak" gives one of three joke messages, and a few buckazoids are stashed there (5 per SpaceQuest.net, which says they are missing in version 1.0X; one per the Space Quest FAQ)[^ref-26][^ref-23]
+- Traveling to a specific desert location (E,E,N,N,E,E from the escape pod) and waiting causes a meteor to crash directly on Roger[^ref-26]
 - Talk to one of the Sarien guards on the Deltaur and he will eventually ask if you've played King's Quest II. Talking to the guard earns 1 point and answering "yes" earns 5 more. Murphy, in the Space Quest FAQ: "Kissing the Sarien was all Ken Williams' doing, as was the KQ2 reference(s)."[^ref-7][^ref-23]
 - Typing "holy shit" while playing the slot machine in version 2.2 makes beating it trivially easy[^ref-30][^ref-32]. It brings up a menu that configures the next pull; its text exists in earlier versions, suggesting a debugging tool added back in due to player complaints[^ref-18]
 - Kicking a dead crew member on the Arcada costs you one point—though "who would do such a thing?"[^ref-30]
 - The code to disable the Star Generator (6858) matches the last four digits of Sierra's phone number from 1988: (209) 683-6858[^ref-30]
 - The ZZ Top aliens in the bar play "Sharp Dressed Man" from their 1983 album *Eliminator*, while the Blues Brothers play "Can't Turn You Loose"[^ref-30]
-- Typing "scott" in version 2.2 displays a personal message from Scott Murphy asking players to drop him a line at Sierra. Earlier versions show "Don't snivel!" instead[^ref-18]
-- A point-scoring bug allows players to reach 254 points (of 202): keep shooting Sariens (each costs points) until you have no points left, then shoot one more[^ref-30]
+- A point-scoring bug allows players to reach 254 points on a 202-point scale: keep shooting Sariens (each costs points) until you have no points left, then shoot one more[^ref-30]
 - In version 1.0X, you can get 207 out of 202 points by typing "get kit" twice after the escape pod crash lands[^ref-30]
 - Murphy recalled fan mail from a computer club in Russia, where the games weren't sold and must have been smuggled in[^ref-11]
 
-## Technical Information
+### Technical Specifications
 
 | Specification | Details |
 |--------------|---------|
@@ -152,7 +172,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 | RAM Required | 256KB[^ref-15] |
 | Media | 3.5" or 5.25" floppy disks[^ref-4] |
 
-### System Requirements (Original)
+**System Requirements (Original)**
 
 | Component | Minimum |
 |-----------|---------|
@@ -163,7 +183,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 | Storage | 1.5 MB[^ref-15] |
 | Sound | PC Speaker (optional: Tandy/PCjr 3-voice)[^ref-1] |
 
-### Modern Compatibility
+**Modern Compatibility**
 - **ScummVM**: Supported since v0.10.0 (recommended)[^ref-17]
 - **DOSBox**: the Steam Space Quest Collection runs pre-configured in DOSBox, and GOG offers a DOSBox version through GOG Galaxy alongside its default ScummVM setup[^ref-15]
 
@@ -172,6 +192,8 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 Space Quest spawned five sequels and a VGA remake[^ref-6]. The series became known for its satirical take on science fiction tropes, with references and parodies of works ranging from Star Trek to Star Wars[^ref-5]. The narrator became one of the most amusing elements, offering sarcastic commentary on Roger's every action[^ref-6].
 
 Starting around Space Quest III, the series became self-referential, featuring its real-life creators as captives to be rescued[^ref-6]. By March 1996, combined sales of the Space Quest series surpassed 1.2 million units[^ref-1].
+
+The Two Guys from Andromeda later launched a Kickstarter in May 2012 for SpaceVenture, a spiritual successor to Space Quest; A2Central reports it raised US$539,767 and entered Steam Early Access on April 1, 2025, with the full version released on December 23, 2025[^ref-40][^ref-41]. Steam's store page lists an Early Access release date of April 1, 2025 and a release date of December 23, 2025 for the game, with the developer and publisher given as Guys from Andromeda[^ref-40].
 
 ### Collections
 
@@ -189,9 +211,6 @@ This game has been included in the following collections:
 
 - [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3)[^ref-8]
 - [Steam – Space Quest Collection](https://store.steampowered.com/app/10110)[^ref-9]
-
-**Download / Preservation**
-
 
 **Manuals & Extras**
 
@@ -211,6 +230,7 @@ This game has been included in the following collections:
 
 ## See Also
 
+- [[Space Quest Series]]
 - [[1987 - Space Quest II - Vohaul's Revenge]]
 - [[1989 - Space Quest III - The Pirates of Pestulon]]
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
@@ -227,7 +247,7 @@ This game has been included in the following collections:
 [^ref-6]: [Hardcore Gaming 101 – Space Quest](https://www.hardcoregaming101.net/space-quest-i/) ([archived November 25, 2024](http://web.archive.org/web/20241125153450/http://www.hardcoregaming101.net/space-quest-i/)) – retrospective analysis
 [^ref-7]: [WiW – Space Quest Point List](https://wiw.org/~jess/sq1pts.html) – complete point list
 [^ref-8]: [GOG – Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) – purchase, user reviews
-[^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews
+[^ref-9]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110) – purchase, user reviews; "Very Positive", 85% of 337 user reviews positive as of November 11, 2026
 [^ref-10]: [HowLongToBeat – Space Quest I](https://howlongtobeat.com/game/8863) – completion times (entry titled "Space Quest I: Roger Wilco in The Sarien Encounter", the VGA remake)
 [^ref-11]: [WiW – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – development history, design philosophy
 [^ref-14]: [MobyGames – Space Quest I](https://www.mobygames.com/game/114/space-quest-chapter-i-the-sarien-encounter/) – Oct 1986; 69% critics; DOS Oct 1986, Amiga/Atari ST Dec 1986, Mac/Apple II/IIgs 1987; Sierra On-Line developer/publisher
@@ -253,3 +273,5 @@ This game has been included in the following collections:
 [^ref-37]: [MobyGames – Triple Value Pack](https://www.mobygames.com/game/21655/triple-value-pack/) – read via the MobyGames API: 1987 DOS compilation of Space Quest: Chapter I, King's Quest II and Mixed-Up Mother Goose
 [^ref-38]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – read via the MobyGames API: 1997 DOS/Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (VGA version)"
 [^ref-39]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – read via the MobyGames API: 2006 Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (EGA version)"
+[^ref-40]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/) – developer and publisher Guys from Andromeda; Early Access Release Date Apr 1, 2025; Release Date Dec 23, 2025 (store page read November 11, 2026)
+[^ref-41]: [A2Central – Two Guys from Andromeda launch SpaceVenture (Ken Gagne, January 16, 2026, updated October 18, 2026)](https://a2central.com/2026/01/spaceventure/) – May 2012 Kickstarter raised US$539,767; Steam Early Access April 1, 2025; full version released December 23, 2025 on Steam and itch.io
