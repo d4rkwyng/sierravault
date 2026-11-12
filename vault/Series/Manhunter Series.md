@@ -7,22 +7,30 @@ first_release: 1988
 last_release: 1989
 total_games: 2
 genre: "Adventure, Science Fiction"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # Manhunter Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-The Manhunter series is a two-game post-apocalyptic science-fiction adventure series developed by **Evryware** (Dave Murry, Barry Murry, and Dee Dee Murry) and published by Sierra On-Line in 1988 and 1989.[^ref-1][^ref-11] MobyGames describes it as a "series of first-person adventure games, set in a world where alien 'Orbs' rule mankind", in which the player is a Manhunter employed by the Orbs to investigate the human resistance but eventually rebels against them.[^ref-2] The Murrys have said that "the tone of Manhunter was darker than other Sierra titles."[^ref-8] Sources disagree on when Dee Dee Murry joined the team and in what capacity, so the credits below follow the cited sources; see [[Evryware]] for the conflict.[^ref-8][^ref-21]
+The Manhunter series is a two-game post-apocalyptic science-fiction adventure series developed by **Evryware** (Dave Murry, Barry Murry, and Dee Dee Murry) and published by Sierra On-Line in 1988 and 1989.[^ref-1][^ref-11] MobyGames describes it as a "series of first-person adventure games, set in a world where alien 'Orbs' rule mankind", in which the player is a Manhunter employed by the Orbs to investigate the human resistance but eventually rebels against them.[^ref-2] The Murrys have said that "the tone of Manhunter was darker than other Sierra titles."[^ref-8] Sources disagree on when Dee Dee Murry joined the team: Evryware's team page says she has been lead artist "since 1984,"[^ref-21] the 1992 manual for *The Ancient Art of War in the Skies* says she "joined the team in 1987,"[^ref-22] and the 1997 interview places it around the time *Manhunter: New York* was released ("At this point, our sister, Dee Dee joined the team").[^ref-8] See [[Evryware]] for the conflict.
+
+Barry Murry is credited as composer of both games.[^ref-1][^ref-6] *Manhunter: New York* appeared on DOS, Amiga, Atari ST, Apple II, Apple IIGS and Macintosh;[^ref-3] *Manhunter 2: San Francisco* on DOS, Amiga, Atari ST and Macintosh.[^ref-17]
 
 The series is unusual within the Sierra catalog for three reasons:
 
 1. **Not Sierra-developed** — Evryware was an outside developer. Sierra "gave us the engine and told us that we could do whatever we wanted with it. They didn't even see the game until it was almost done," the Murrys recalled.[^ref-8] 
 2. **A silenced world, seen in first person** — Under the Orbs, "speaking is a capital offense", and the nameless Manhunter investigates through a first-person view and an overhead tracking map.[^ref-3] Unlike other AGI games, it used no text parser.[^ref-1]
 3. **A planned trilogy** — Posters throughout the series tease a third installment, *Manhunter 3: London*,[^ref-16] which was never made. See [[CXL - Manhunter 3]] for the cancelled-entry documentation.
+
+## Key Characters
+
+- **The Manhunter** — the unnamed player character, a human tracker employed by the Orbs in both games; the sequel has the player assume the identity of a local Manhunter killed in the crash.[^ref-1][^ref-6]
+- **The Orbs** — the alien rulers, who look like giant floating eyeballs.[^ref-1]
+- **Phil (Phil Cook)** — the antagonist, a killer who murders members of the human resistance; he escapes at the end of the first game, is pursued to San Francisco in the second, and flees again in an Orb ship toward London.[^ref-1][^ref-6]
 
 ## Series Timeline
 
@@ -123,3 +131,4 @@ ScummVM supports both titles through its AGI engine, rating each "Good".[^ref-15
 [^ref-19]: [GOG Dreamlist — Manhunter 2: San Francisco](https://www.gog.com/dreamlist/game/manhunter-2-san-francisco) — Community request entry (not for sale)
 [^ref-20]: [Computer Entertainer, October 1988 (Vol. 7 No. 7) – Internet Archive](https://archive.org/details/computer-entertainer-7-7) — Review of Manhunter: New York: "quite unlike any the company has ever released before"; "Recommended"
 [^ref-21]: [Evryware — Team](https://www.evryware.com/team.html) — Dee Dee Murry "Lead Artist on the Evryware team since 1984"; worked on the Manhunter series
+[^ref-22]: [The Ancient Art of War in the Skies manual, "A Word from the Authors" (Internet Archive)](https://archive.org/details/ancientartofwarintheskiesmanual) — "Dee Dee Murry joined the team in 1987 and helped design the graphics for the popular adventure games, "Manhunter: New York" and "Manhunter: San Francisco.""
