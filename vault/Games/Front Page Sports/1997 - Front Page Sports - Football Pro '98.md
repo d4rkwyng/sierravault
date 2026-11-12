@@ -11,14 +11,15 @@ series: Front Page Sports
 engine: Unnamed 3D engine (unchanged from previous edition)
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Front Page Sports: Football Pro ''98 is a comprehensive American football
-  simulation game that puts players in both the coach''s headset and the quarterback''s...'
+  simulation game from Synergistic Software and Sierra On-Line that puts players in
+  both the coach''s headset and the quarterback''s cleats.'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 98
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -48,7 +49,7 @@ As a sports simulation game, Front Page Sports: Football Pro '98 does not featur
 
 ### Interface and Controls
 
-The biggest enhancement in the '98 version was a completely revamped interface. GameSpot noted that "The interface has been totally revamped, and the good news is that it's much easier to use than before"[^ref-16].
+The biggest enhancement in the '98 version was a completely revamped interface. GameSpot noted that "The interface has been totally revamped, and the good news is that it's much easier to use than before"[^ref-16]. Computer Gaming World's Terry Coleman disagreed, writing that "the interface has inexplicably changed for the worse" and calling it flashier but "more difficult to get around in," especially in career mode over several seasons[^ref-33].
 
 The game supported joystick, gamepad, and keyboard input[^ref-6], though GameSpot complained that it "still supports only two gamepad/joystick buttons," where Madden NFL '98 supported four[^ref-16]. A new option let players view the action from 16 different angles, and the game included artwork for all 30 NFL stadiums[^ref-16]. Sierra also added a default camera management system meant to simulate NFL television coverage[^ref-9].
 
@@ -61,7 +62,7 @@ Front Page Sports: Football Pro '98 featured two main playing modes[^ref-2]:
 - An "industry-leading play editor"[^ref-6]
 - Game plans and practice-camp priorities[^ref-16]
 
-**Action Mode**: Direct control of on-field gameplay with motion-captured animations. Sierra's press release billed an "Enhanced Arcade Mode" for the release[^ref-9].
+**Action Mode**: Direct control of on-field gameplay with motion-captured animations[^ref-6]. Sierra's press release billed an "Enhanced Arcade Mode" for the release[^ref-9].
 
 The career mode allowed players to manage multiple seasons, with players improving as they gained experience and slowing down as they aged[^ref-2]. Computer Games Magazine judged that "The career play mode is still the best in the sports game business"[^ref-13].
 
@@ -70,8 +71,8 @@ The career mode allowed players to manage multiple seasons, with players improvi
 The box promised a "Physics-based 3-D environment and ball dynamics" and "Motion-captured player movement"[^ref-6]. Sierra's marketing emphasized that "Physics-based ball dynamics, motion-captured movement and individual player AI deliver the most accurate gameplay results of any football simulation"[^ref-5].
 
 Key gameplay features included:
-- Full motion-captured 3D player animations
-- Individual AI for each player on the field
+- Full motion-captured player animations[^ref-6]
+- Individual player AI[^ref-5]
 - Industry-leading play editor; every NFL team's playbook designed by the NFL's Will Furrer[^ref-6]
 - Injuries, so players must regulate how long and hard they play their veterans[^ref-9]
 
@@ -87,7 +88,7 @@ The game supported modem, network, and Internet play[^ref-6]. Computer Games Mag
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Computer Gaming World | 3/5 | Review by Terry Coleman, March 1998[^ref-8] |
+| Computer Gaming World | 3/5 | "Rebuilding Year" by Terry Coleman, March 1998; verdict: "best viewed as an expansion disk"[^ref-8][^ref-33] |
 | Computer Games Magazine | 1.5/5 | Review by Jonah Falcon, February 1998[^ref-8] |
 | GameSpot | 6.3/10 | Review by Stephen Poole[^ref-8][^ref-5] |
 | PC Player | 63/100 | Review by Alex Brante, January 1998[^ref-8] |
@@ -99,7 +100,7 @@ In sales, a Hartford Courant chart of the top-selling football games from Januar
 
 GameSpot's Stephen Poole concluded: "For gamers who revel in the challenges of play design, draft and trade decisions, game plans, and even practice-camp priorities, FPS: FP '98 is still the only game in town. Whether or not a slightly improved version of 'the only game in town' is worth $25 or $30, though, is up to you"[^ref-8].
 
-This analysis captured the game's core appeal while acknowledging its limitations. Computer Games Magazine was harsher, noting that "The in-game 3D engine itself is unchanged" and calling it a "massively buggy game"[^ref-13].
+Coleman's Computer Gaming World review faulted the missing 3D hardware support and said multiplayer over LAN or Internet was "still a frustrating series of lock-ups and crashes"; he went back to Football Pro '97, "still the best pigskin simulation on the market"[^ref-33]. This analysis captured the game's core appeal while acknowledging its limitations. Computer Games Magazine was harsher, noting that "The in-game 3D engine itself is unchanged" and calling it a "massively buggy game"[^ref-13].
 
 Poole also noted irony in the marketing: "It's more than a little ironic that Sierra On-Line chose Dan Marino over Barry Sanders to appear on the box," since Sanders, who had graced the two previous boxes, had just had his greatest season while Marino had the most mediocre campaign of his career[^ref-16].
 
@@ -163,8 +164,8 @@ The community still remembers the '98 edition fondly. One GOG fan noted: "after 
 The game continues to be supported by dedicated fan communities who have created mods addressing the original release's shortcomings. The VPNFL99 mod was described as "the most comprehensive and authentic NFL simulation yet for FB Pro users"[^ref-23], demonstrating the ongoing dedication of the game's fanbase.
 
 These community efforts:
-- Corrected player ratings
-- Fixed problematic stock plays
+- Corrected player ratings[^ref-23]
+- Fixed problematic stock plays[^ref-23]
 
 ## Downloads
 
@@ -173,7 +174,7 @@ These community efforts:
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) - Community Dreamlist entry[^ref-18]
 
 **Download / Preservation**
-- [Internet Archive](https://archive.org/details/football-pro-98-sierra) - CD-ROM preservation
+- [Internet Archive](https://archive.org/details/football-pro-98-sierra) - CD-ROM preservation[^ref-34]
 - [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Official patches, including the v1.08 update[^ref-22]
 - [GMGames Community](https://gmgames.org/front-page-sports-football-fb-pro-98/) - Active modding community[^ref-15]
 
@@ -182,6 +183,7 @@ These community efforts:
 - [[1997 - Front Page Sports - Baseball Pro '98|← Previous: Front Page Sports - Baseball Pro '98]]
 - [[1997 - Front Page Sports - Golf|→ Next: Front Page Sports - Golf]]
 
+- [[Front Page Sports Series]]
 - [[1992 - Front Page Sports Football 92]]
 - [[1993 - Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Baseball Pro]]
@@ -217,3 +219,5 @@ These community efforts:
 [^ref-28]: [Wikipedia - Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) - Series history, final version, cancelled 2000 edition
 [^ref-31]: [CNNfn – "Sierra recalls popular game" (January 21, 1999, Wayback)](https://web.archive.org/web/20021023224738/http://money.cnn.com/1999/01/21/life/sierra/) – Sierra Sports recalls Football Pro 99
 [^ref-32]: [Hartford Courant – "Top-selling football games" (January 16, 1998, p. 161; Newspapers.com clipping, Wayback)](https://web.archive.org/web/20220731154056/https://www.newspapers.com/clip/106667165/hartford-courant/) - January to October 1997 chart; Front Page Sports: Football '98 ranked 8th
+[^ref-33]: [Computer Gaming World, Issue 164 (March 1998), p. 216 – "Rebuilding Year" by Terry Coleman (Internet Archive)](https://archive.org/details/computer-gaming-world-issue-164-march-1998) – Interface, 3D support, multiplayer and verdict quotes
+[^ref-34]: [Internet Archive – Football Pro '98 Sierra](https://archive.org/details/football-pro-98-sierra) – CD-ROM contribution (cdrom_contributions collection)
