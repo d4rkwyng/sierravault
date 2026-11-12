@@ -112,11 +112,11 @@ After Sierra's management changed, Lori Cole recalled, she "was approached by th
 - **Interface Art Designer:** Terry Robinson
 - **Art:** Linda Lubken, Mike Cicchi, Deanna Yhalkee, Tim Loucks, Dan Peters, Scott Multer, Al Eufrasio, Ananda Linde, Robin Phanco, Jason Piel, Barry T. Smith, Clayton Larabie, Michael Hutchison, Christopher Willis
 - **Music:** Victor Crews, Dan Kehler
-- **Writing:** [[Leslie Balfour]], Nancy Grimsley
+- **Writing:** [[Leslie Balfour]] (who recalls being hired as a writer for The Realm by David Slayback[^ref-36]), Nancy Grimsley
 - **Composer:** Chance Thomas[^ref-1]
 - **In-world map:** Richard Powell, who drew the map as the in-game cartographer "Ricky Paulo" and had worked on Space Quest, Lighthouse, Gabriel Knight 2 and Outpost 2[^ref-23]
 
-**MobyGames credits** (read via the MobyGames API):[^ref-4] Executive Producers [[Ken Williams]] and Craig Alexander; Producer Mark Zechiel; Art Director Linda Lubken; Designer and System Architect Stephen Nichols; and Assistant Designer and Programmer Janus Anderson. MobyGames also credits [[Leslie Balfour]] as writer.
+**MobyGames credits** (read via the MobyGames API):[^ref-4] Executive Producers [[Ken Williams]] and Craig Alexander; Producer Mark Zechiel; Art Director Linda Lubken; Designer and System Architect Stephen Nichols; and Assistant Designer and Programmer Janus Anderson. MobyGames' entry for The Realm lists [[Leslie Balfour]] under Special Thanks To;[^ref-35] her own account is that David Slayback hired her as a writer for The Realm.[^ref-36]
 
 **Later-era contributors:** Jordan Neville, a member of Rat Labs LLC, which acquired the rights to develop and maintain the game in the late 2010s, was not part of the Sierra-era team; Wikipedia's infobox also lists him as a designer, which is not supported by the original credit roll.[^ref-30][^ref-3]
 
@@ -302,3 +302,5 @@ Ken Williams later said the game "needed an engineer to lead it more than a crea
 [^ref-32]: [The Realm Server – A Royal Decree from the Arcanum of Digital Alchemy (30 Mar 2026)](https://www.realmserver.com/post/a-royal-decree-from-the-arcanum-of-digital-alchemy) – new client released officially; object limit "65,535 objects" raised to "over one million"
 [^ref-33]: [The Realm Server – Cross-Platform Client & Launcher – Beta Release! (10 Nov 2026)](https://www.realmserver.com/post/cross-platform-client-launcher-beta-release) – "cross-platform launcher and client are now available in BETA for macOS and Linux"
 [^ref-34]: [Engadget – The Game Archaeologist: Steve Nichols' The Realm Online debriefing, part 2 (2012)](https://www.engadget.com/2012-12-01-the-game-archaeologist-steve-nichols-the-realm-online-debriefi.html) – Nichols on the version 2.x to 3.x upgrade and "a limited character wipe"
+[^ref-35]: [MobyGames – Leslie Balfour (Wayback copy, Dec 27, 2023)](https://web.archive.org/web/20231227165842/https://www.mobygames.com/person/42242/leslie-balfour/) – The Realm (1997, Windows): Special Thanks To
+[^ref-36]: [Campo Santo Quarterly – Selected stories from the days of Laura Bow (Wayback copy, Mar 30, 2020)](https://web.archive.org/web/20200330012511/https://quarterly.camposanto.com/selected-stories-from-the-days-of-laura-bow-5302099438a7) – Leslie Balfour: "David Slayback hired me as a writer for The Realm"

@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI32
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click
   adventure game developed and published by Sierra On-Line, released in 1995 for MS-DOS
   and Windows (Sierra Chest gives July 11, 1995; PCGamingWiki gives March 1995).'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest 6: Roger Wilco in the Spinal Frontier
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Developers/Sierra On-Line|Sierra On-Line]], released in 1995 for MS-DOS and Windows, with a Macintosh version following in 1996[^ref-6]. Sources differ on the exact date: Sierra Chest gives July 11, 1995[^ref-2], PCGamingWiki gives March 1995[^ref-5], and the SCI Wiki dates the version 1.0 interpreter build June 20, 1995[^ref-33]. It was the first Space Quest released exclusively on CD-ROM[^ref-6]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-14][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution[^ref-3][^ref-14]. Critics were split on the look: *Computer Gaming World* found the graphics "better than in any previous Space Quest, but nowhere near the level of King's Quest"[^ref-19], while *PC Gamer* saw "a couple of steps backwards as far as the graphics and voice-overs are concerned"[^ref-28]. Looking back in 2011, Dante Kleinberg of *Adventure Gamers* wrote that "the graphics are undoubtedly the best of the series"[^ref-26]. Gary Owens returned as narrator once again[^ref-11][^ref-19]. The final portion, in which Roger is miniaturized and enters a shipmate's body, spoofs *Fantastic Voyage* and *Innerspace*; a rejected title was "Roger Wilco in Innard Space"[^ref-25][^ref-19].
@@ -94,7 +94,7 @@ In a 2006 interview, Mandel spoke candidly about his disappointment: "One of the
 
 The romantic interest Stellar Santiago provides a continuity dilemma, since the woman who bore Roger a son (according to Space Quest IV's narrative) was Beatrice Wankmeister[^ref-3]. The game appears to downplay Space Quest V, with very few references made to the previous entry[^ref-3]. A notable plot inconsistency involves Roger receiving credit for the "successful return of the SCS Eureka," despite that ship being destroyed in the previous game[^ref-14].
 
-[[Leslie Balfour]] wrote the Popular Janitronics magazine included with the game[^ref-16]. She also coined the series tagline "In Space, Nobody Can Hear You Clean"—which Josh Mandel called "the best tagline Sierra ever had"[^ref-15].
+[[Leslie Balfour]] edited the Popular Janitronics magazine included with the game; MobyGames credits her as Magazine Editor[^ref-40], and she recalls that "Josh Mandel asked me to do Popular Janitronics for SQ6"[^ref-16]. She also coined the series tagline "In Space, Nobody Can Hear You Clean"—which Josh Mandel called "the best tagline Sierra ever had"[^ref-15].
 
 ### Production
 Scott Murphy describes Oliver Brelsford as the third and final project manager on the game[^ref-24].
@@ -312,3 +312,4 @@ This game has been included in the following collections:
 [^ref-37]: [MobyGames – Adventure: 3 Out-Of-This-World Games](https://www.mobygames.com/game/21816/adventure-3-out-of-this-world-games/) – read via the MobyGames API: 1996 DOS/Windows compilation of Lighthouse, Police Quest: Open Season and Space Quest 6
 [^ref-38]: [MobyGames – Space Quest 6 credits](https://www.mobygames.com/game/145/space-quest-6-roger-wilco-in-the-spinal-frontier/credits/) – DOS credits: design, programming, producer Oliver Brelsford, music composers, sound, documentation, voice direction and recording studios, acting credits
 [^ref-39]: [The Cutting Room Floor – Space Quest 6: Roger Wilco in the Spinal Frontier](https://tcrf.net/Space_Quest_6:_Roger_Wilco_in_the_Spinal_Frontier) – unused graphics and music, leftover LSL6 animation, SCI debugger, release dates
+[^ref-40]: [MobyGames – Space Quest 6 credits (Wayback copy, Dec 8, 2015)](https://web.archive.org/web/20151208004947/http://www.mobygames.com/game/dos/space-quest-6-roger-wilco-in-the-spinal-frontier/credits) – Popular Janitronics Magazine: Magazine Editor Leslie Balfour; Magazine Design Lori Lucia; contributors Josh Mandel, Scott Murphy, Leslie Balfour
