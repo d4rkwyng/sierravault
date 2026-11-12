@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: N/A (Strategy Game)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Empire Earth: The Art of Conquest is the official expansion pack for
   the real-time strategy game Empire Earth, developed by Mad Doc Software and published by Sierra Entertainment in 2002.'
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth: The Art of Conquest
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -79,11 +79,13 @@ IGN's Steve Butts gave the expansion 7.8/10, with breakdown scores of 8.0 for pr
 
 GameSpot's Tom Chick was particularly harsh, awarding only 5.2/10 and calling it "this disappointing addition to Stainless Steel Studios' everything-and-the-kitchen-sink real-time strategy game doesn't do much to justify its steep $30 price tag."[^ref-17] He criticized the Space Age content specifically, noting "Compared with the other 14 epochs in Empire Earth, space in The Art of Conquest is almost as empty as the real thing" and describing spaceships as "essentially big, ugly boats."[^ref-17]
 
-PC Zone UK rated it 84/100, while PC Gamer gave it only 51/100,[^ref-18] stating "You're left with the feeling that someone decided that an add-on was a good way to get you to pay more for 'Empire Earth's bounteous content overflow."[^ref-16] ActionTrip scored it 51/100, noting "the AI still wasn't tweaked properly" and that "units still act aggressively; blindly rushing forth to battle and disregarding the orders they've been given."[^ref-16]
+PC Zone UK rated it 84/100, while PC Gamer gave it only 51/100,[^ref-18] stating "You're left with the feeling that someone decided that an add-on was a good way to get you to pay more for 'Empire Earth's bounteous content overflow."[^ref-16] ActionTrip scored it 51/100, noting "the AI still wasn't tweaked properly" and that "units still act aggressively; blindly rushing forth to battle and disregarding the orders they've been given."[^ref-16] All Game Guide scored it 80, Game Over Online 78, Gamers' Temple 74 and Armchair Empire 68.[^ref-16]
 
 ### Modern Assessment
 
 Over time, the expansion has developed a dedicated following among strategy game enthusiasts, with many appreciating its ambition despite its flaws. Community members have noted that "this program is over 10 years old, but still captivates your imagination."[^ref-10] The game maintains an active modding community and fan-maintained servers that keep multiplayer alive years after official server shutdown.
+
+On Steam, Empire Earth: Gold Edition includes The Art of Conquest expansion, with 3 further campaigns and 18 scenarios. The store page states that the official multiplayer servers have been taken offline and that playing over the Internet is no longer possible. It lists Windows 10 or Windows 11 as the required operating system, and its user reviews are rated Very Positive (91% of 271 positive).[^ref-38]
 
 **Aggregate Scores:**
 - **Metacritic:** 63/100 (Mixed or Average based on 13 critic reviews)[^ref-16]
@@ -110,6 +112,8 @@ The development schedule was tight, preventing the team from showing the game at
 
 **Development Credits:**[^ref-37]
 - **Producer:** Ken Davis
+- **Producer (Sierra Entertainment):** Jon Payne
+- **Executive Producer (Sierra Entertainment):** Eric Hayashi
 - **Lead Designer:** Matthew Nordhaus
 - **Lead Programmer:** Rex E. Bradford
 - **Lead Artist:** Mark C. Graham
@@ -193,10 +197,6 @@ The game was designed for Windows 98 and relies on components not well-supported
 - "friendly skies" - Planes refuel in air
 - "coffee train" - Complete all building construction
 
-## Voice Cast
-
-No voice cast or voice direction credits are documented in the sources consulted. IGN's review noted that units speak in-character acknowledgements, such as the Roman centurion's "vini, vidi, vici," though selecting large groups produced echoing, delayed responses.[^ref-6]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -216,7 +216,7 @@ The original Empire Earth received significant recognition which helped promote 
 - **Empire Earth: Platinum Edition** (Europe) - Alternative regional naming[^ref-26]
 - **Empire Earth: Complete** (Japan) - Japanese market release[^ref-26]
 
-The game is currently available digitally through GOG.com as part of the Empire Earth Gold Edition package.[^ref-31]
+The game is currently available digitally through GOG.com as part of the Empire Earth Gold Edition package.[^ref-42]
 
 ### Server Shutdown
 
@@ -304,5 +304,6 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 [^ref-37]: [MobyGames – Empire Earth: The Art of Conquest credits](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/credits/) – Mad Doc Software credits: producer, lead designer, lead programmer, executive direction
 [^ref-38]: [Steam – Empire Earth: Gold Edition](https://store.steampowered.com/app/254760/) – Gold Edition includes The Art of Conquest; publisher Rebellion
 [^ref-39]: [GameFAQs – Empire Earth: The Art of Conquest Data](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/data) – release data: "Empire Earth: Gold Edition | US | Sierra Entertainment | … | 03/06/03"
-[^ref-40]: [MobyGames – Empire Earth: The Art of Conquest](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/) – Windows release dates (read via the MobyGames API): United States 2002-09-16
+[^ref-40]: [MobyGames – Empire Earth: The Art of Conquest](https://www.mobygames.com/game/8037/empire-earth-the-art-of-conquest/) – Windows release dates: United States 2002-09-16
 [^ref-41]: [Rebellion – Empire Earth: Classic strategy series is now available on Steam](https://rebellion.com/empire-earth-classic-strategy-series-is-now-available-on-steam/) – 26th May 2026: "now available on Steam for the first time ever"; Gold Editions include The Art of Conquest
+[^ref-42]: [GOG – Empire Earth Gold Edition](https://www.gog.com/game/empire_earth_gold_edition) – GOG store listing for the Gold Edition; its update notes cover The Art of Conquest main menu
