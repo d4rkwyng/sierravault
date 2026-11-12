@@ -10,7 +10,7 @@ series: After Dark
 engine: After Dark (add-on modules)
 protagonist: Spacecraft pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'More After Dark, released in 1991, was an expansion package for Berkeley
   Systems'' After Dark screensaver software, "the software that kicked off the screensaver
   craze of the 1990s."'
@@ -18,21 +18,21 @@ tags: [1990s, after-dark, shooter, sierra]
 ---
 # More After Dark
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-More After Dark, released in 1991, was an expansion package for Berkeley Systems' After Dark screensaver software—"the software that kicked off the screensaver craze of the 1990s."[^ref-1] The add-on contained 26 new modules, according to the Internet Archive's Windows package,[^ref-2] though a 2007 Low End Mac retrospective recalled it as adding "25 more modules to After Dark 2.0";[^ref-23] one of them was Lunatic Fringe, a playable top-down space shooter.[^ref-5] Lunatic Fringe was written by Ben Haller, per John Gruber's 2026 Daring Fireball post on the Afterglow emulator.[^ref-26] The Macintosh Repository's description calls that module "absolutely brilliant... a fully playable game similar to Maelstrom but somewhat even cooler."[^ref-3]
+More After Dark, released in 1991, was an expansion package for Berkeley Systems' After Dark screensaver software—"the software that kicked off the screensaver craze of the 1990s."[^ref-1] The add-on contained 26 new modules, according to the Internet Archive's Windows package,[^ref-2] though a 2007 Low End Mac retrospective recalled it as adding "25 more modules to After Dark 2.0";[^ref-23] one of them was Lunatic Fringe, a playable top-down space shooter.[^ref-5] Lunatic Fringe was written by Ben Haller, named in 1991 as "Ben Haller of Solarian II fame"[^ref-31] and again in John Gruber's 2026 Daring Fireball post on the Afterglow emulator.[^ref-26] The Macintosh Repository's description calls that module "absolutely brilliant... a fully playable game similar to Maelstrom but somewhat even cooler."[^ref-3]
 
 The package required an existing installation of After Dark 2.0 or another After Dark product to function, and would refuse to install if the base software could not be found.[^ref-2] After the original, Berkeley Systems released further editions, including themed ones built around licensed properties such as Star Trek, The Simpsons, Looney Tunes, Marvel, and Disney characters.[^ref-4] The After Dark system also allowed for the development and use of third-party modules, "many hundreds of which were created at the height of its popularity."[^ref-4]
 
 According to MobyGames, the inclusion of Lunatic Fringe made More After Dark Berkeley Systems' first foray into games. The package billed the module as "the exciting new space game from the creator of Solarian II."[^ref-5] The Computer History Museum's catalog entry for a 1991 boxed copy, published by Berkeley Systems, lists a 3.5-inch floppy disk, a Virex-D virus scanner module, a manual, usage notes (an updater to 2.0v) and the "Lunatic Fringe game module, from the creator of Solarian II."[^ref-24]
 
-More After Dark was published by Berkeley Systems, not Sierra.[^ref-5] In April 1997, CUC International, which had already acquired Sierra On-Line the year before, acquired Berkeley Systems.[^ref-20] Wikipedia's Berkeley Systems article gives the buyer as CUC's Sierra On-Line division,[^ref-28] while the Los Angeles Times reported at the time that the terms of the deal were not disclosed;[^ref-30] a later-circulated $13.8 million figure has no contemporary source.
+More After Dark was published by Berkeley Systems, not Sierra.[^ref-5] In April 1997, CUC International, which had already acquired Sierra On-Line the year before, acquired Berkeley Systems.[^ref-20] Wikipedia's Berkeley Systems article gives the buyer as CUC's Sierra On-Line division,[^ref-28] while the Los Angeles Times reported at the time that the terms of the deal were not disclosed;[^ref-30] Wikipedia's article gives a price of $13.8 million,[^ref-28] but none of the contemporary reports cited here (Wired, LA Times) give a price.
 
 > [!info]- Game Info
 > **Developer:** [[Berkeley Systems]], Inc.[^ref-5]
-> **Designer:** Ben Haller (Stick Software) for Lunatic Fringe[^ref-26]; the other modules' designers are not documented. The package billed Lunatic Fringe as "from the creator of Solarian II"[^ref-5][^ref-24]
+> **Designer:** Ben Haller (Stick Software) for Lunatic Fringe[^ref-31][^ref-26]; the other modules' designers are not documented. The package billed Lunatic Fringe as "from the creator of Solarian II"[^ref-5][^ref-24]
 > **Publisher:** Berkeley Systems, Inc.[^ref-5]
 > **Engine:** After Dark (runs as add-on modules for After Dark 2.0)[^ref-5]
 > **Platforms:** Macintosh, Windows 3.x[^ref-7][^ref-2]
@@ -71,6 +71,8 @@ Rather than traditional puzzles, Lunatic Fringe is a straightforward shooter.[^r
 
 David Tointon reviewed the two packages together as "After Dark and More After Dark" in *Apple 2000* (February 1992, p. 55).[^ref-3] He called Lunatic Fringe "a fairly decent game by the author of Solarian II," judging it "a lot better than some of the games out commercially on the Mac, but I still think it could be better."[^ref-3] He also praised the visual quality of the modules generally: "I wish that Mac games had as good graphics as the Fish! module."[^ref-3] His verdict on the whole package was "buy it. You'll love it."[^ref-3]
 
+In August 1991, TidBITS's Macworld Expo report called More After Dark "the best bargain and the real honey of the show." It noted that the package's 26 add-on display modules, plus an updater bringing a 2.0-or-later copy of After Dark to version 2.0v (compatible with System 7 and the new 68040 machines), cost "a mere $39.95," and it described Lunatic Fringe as "an addicting game by Ben Haller of Solarian II fame. It's as good as any space ship game on the market." It also singled out the bundled Virex-D, "a detect-only version of Virex."[^ref-31]
+
 ### Modern Assessment
 
 Interest in Lunatic Fringe outlasted the original software: Low End Mac's 2007 After Dark history pointed readers "who loved Lunatic Fringe, which was a part of More After Dark" to a Sealie Software project for running it under the Classic environment of Mac OS X. That project still needed the original Lunatic Fringe module.[^ref-21] Engadget's Robert Palmer described it in 2008 as "a Maelstrom-like game built-in to After Dark" and noted that Sealie Software's Fringe Player brought it back to Intel-based Macs.[^ref-27] In August 2026, Daring Fireball described Jeff Halter's Lunacy as having revived "Ben Haller's Lunatic Fringe game," and Halter's newer Afterglow as an emulator built for running After Dark modules, running the original 68k module code.[^ref-26] iDrop News likewise called Lunatic Fringe "the classic More After Dark game" that Lunacy plays on modern Macs.[^ref-29] The Macintosh Repository's description still rates the module "absolutely brilliant."[^ref-3]
@@ -93,7 +95,7 @@ Speaking about the After Dark team in general, Beard said: "I think you go throu
 
 **Development Credits:**
 - Individual credits for More After Dark's other modules are not documented in available sources; MobyGames lists Berkeley Systems as developer and publisher only[^ref-5]
-- **Lunatic Fringe:** Ben Haller (Stick Software)[^ref-26]; billed on the package as "from the creator of Solarian II"[^ref-5][^ref-24]
+- **Lunatic Fringe:** Ben Haller (Stick Software)[^ref-31][^ref-26]; billed on the package as "from the creator of Solarian II"[^ref-5][^ref-24]
 
 ### Technical Achievements
 
@@ -108,6 +110,7 @@ Beard named the modules as After Dark's defining feature: "Clearly the modules m
 - **Requirements:** After Dark 2.0[^ref-5]
 - **Download size (MyAbandonware):** 600 KB, the size of the preserved archive, not a 1991 specification[^ref-7]
 - **Perspective:** Top-down[^ref-5]
+- **Screen behavior:** MobyGames tags Lunatic Fringe "Fixed / flip-screen,"[^ref-5] while the Macintosh Repository's description says the module scrolls rather than wraps.[^ref-3]
 - **Later edition:** The Macintosh Repository's entry for More After Dark is dated 1996. It lists the package as "26 AD modules for After Dark 3.0 or 4.0" with a 68K + PPC (FAT) architecture, so these specs describe that later edition, not the 1991 release.[^ref-3]
 
 **Windows 3.x Version:**
@@ -174,14 +177,10 @@ The After Dark community created hundreds of third-party modules during the soft
 
 More After Dark marks the point where Berkeley Systems' screensaver line first included a game.[^ref-5] Tointon's 1992 review captured that blurred line, warning that "After Dark is so much fun that I keep forgetting that it's a utility, not a game."[^ref-3] Beard attributed the product's appeal to "an elegance to the product, a simplicity that was consistent with the philosophy of the Macintosh itself."[^ref-10]
 
-## Purchase
-
-- Not sold on GOG or Steam; searches of both stores on 27 October 2026 found no listing
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available for digital purchase; see preservation links below
+- Not sold on GOG or Steam (checked November 2026); see preservation links below
 
 **Download / Preservation**
 - [Internet Archive – After Dark: More After Dark](https://archive.org/details/AfterDark_-_MoreAfterDark)[^ref-2]
@@ -204,7 +203,7 @@ More After Dark marks the point where Berkeley Systems' screensaver line first i
 [^ref-4]: [Internet Archive – After Dark 4.0 Deluxe](https://archive.org/details/after-dark-4.0-deluxe) – third-party modules, licensed editions
 [^ref-5]: [MobyGames – More After Dark: Volume 1](https://www.mobygames.com/game/137264/more-after-dark-volume-1/) – release date, developer/publisher, Lunatic Fringe gameplay description, specs, no Volume 2 released
 [^ref-7]: [MyAbandonware – More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf) – platforms, download archive sizes
-[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) – After Dark 2.0 for Windows due February 1992 (InfoWorld, 17 Feb 1992), version history, assembly language and C, Flying Toasters as most famous module, Bad Dog TV series, MoveOn.org founders
+[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software%29) – After Dark 2.0 for Windows due February 1992 (InfoWorld, 17 Feb 1992), version history, assembly language and C, Flying Toasters as most famous module, Bad Dog TV series, MoveOn.org founders
 [^ref-9]: [Internet Archive – After Dark (Windows)](https://archive.org/details/AFTERDARK_WIN) – intertextual references between modules
 [^ref-10]: [Low End Mac – On Mighty Toaster Wings: More After Dark History](https://lowendmac.com/2007/on-mighty-toaster-wings-more-after-dark-history/) – Patrick Beard interview (2007) on After Dark's origins and design
 [^ref-11]: [MobyGames – After Dark Games](https://www.mobygames.com/game/4821/after-dark-games/) – Sierra On-Line publication of After Dark Games, 1998
@@ -220,3 +219,4 @@ More After Dark marks the point where Berkeley Systems' screensaver line first i
 [^ref-28]: [Wikipedia – Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) – co-founded 1987 by Wes Boyd and Joan Blades; acquired by the Sierra On-Line division of CUC International in 1997
 [^ref-29]: [iDrop News – How to run After Dark screen savers on a modern Mac (Chris Hauk, 28 Aug 2026)](https://www.idropnews.com/news/how-to-run-after-dark-screen-savers-modern-mac/267778/) – Lunacy plays "the classic More After Dark game called Lunatic Fringe"; Afterglow runs original 68k modules
 [^ref-30]: [Los Angeles Times – CUC Agrees to Acquire Berkeley Systems Inc. (10 April 1997)](https://www.latimes.com/archives/la-xpm-1997-04-10-fi-47219-story.html) – "Terms of the deal, which is scheduled to be completed Friday, were not disclosed."
+[^ref-31]: [TidBITS #76 - The Highlights (12 August 1991)](https://tidbits.com/1991/08/12/the-highlights/) – Macworld Expo coverage of More After Dark (26 add-on modules, $39.95, 2.0v updater, Lunatic Fringe by Ben Haller of Solarian II fame, Virex-D)
