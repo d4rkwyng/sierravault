@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: DOS4GW
 protagonist: Player-controlled Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-10-29'
+last_updated: '2026-11-12'
 composer: [Keith Zizza]
 description: Lords of the Realm II is a 1996 medieval strategy game from Impressions
   Games and Sierra On-Line that pairs turn-based county management with real-time battles
@@ -19,15 +19,15 @@ tags: [1990s, impressions, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Lords of the Realm II is a medieval strategy game that masterfully blends turn-based resource management with real-time combat, set against a rich historical backdrop of 13th-century England.[^ref-1] Released in North America on November 20, 1996 (Steam's store page lists October 31),[^ref-6][^ref-55] the game was developed by [[Impressions Games]] and published by [[Sierra On-Line]], which had bought Impressions in 1995.[^ref-54] The game places players in the role of a feudal lord competing against four other nobles for the vacant English throne following the death of the king in 1268 A.D.[^ref-1][^ref-10]
+Lords of the Realm II is a medieval strategy game that pairs turn-based resource management with real-time battles and sieges, set in 1268 under an alternate history in which a king dies without an heir.[^ref-6] Released in North America on November 20, 1996 (Steam's store page lists October 31),[^ref-6][^ref-55] the game was developed by [[Impressions Games]] and published by [[Sierra On-Line]], which had bought Impressions in 1995.[^ref-54] The game places players in the role of a feudal lord competing against four other nobles for the vacant English throne following the death of the king in 1268 A.D.[^ref-1][^ref-10]
 
-What distinguished Lords of the Realm II from many medieval strategy games of its era was its commitment to historical authenticity over fantasy elements—the game features no magic, no supernatural forces, and no technology tree.[^ref-4] Instead, players must carefully manage food, population, and happiness levels to build their power base while avoiding Malthusian population crashes.[^ref-4] PC Gamer praised the game as offering "the best of two worlds, adding the real time combat model of a WarCraft II to the turn-based strategic elements of a Civilization."[^ref-5]
+Gamicus describes Lords of the Realm II as very different from many medieval strategy games: it has a strong medieval feel and is historically based, with no magic and no technology tree.[^ref-4] Critics were less convinced by the history; *Computer Gaming World* appreciated the setting but found its representation "half hearted".[^ref-6] Instead of spells or tech, Gamicus singles out the need to keep food, population and happiness in balance so that a county can grow without suffering a Malthusian collapse.[^ref-4] PC Gamer praised the game as offering "the best of two worlds, adding the real time combat model of a WarCraft II to the turn-based strategic elements of a Civilization."[^ref-5]
 
-The game sold well. Sierra reported more than 350,000 copies sold worldwide by November 1997,[^ref-53] it peaked at number 9 on PC Data's chart in January 1997,[^ref-7] and it was among the best-selling computer games of 1997 and 1998.[^ref-6] [[David Lester]] later said it sold 2.5 million copies worldwide.[^ref-6] Steam user reviews remain overwhelmingly positive decades later: the store page showed 96% of 1,644 reviews as positive in October 2026.[^ref-5]
+The game sold well. Sierra reported more than 350,000 copies sold worldwide by November 1997,[^ref-53] it peaked at number 9 on PC Data's chart in January 1997,[^ref-7] and it was among the best-selling computer games of 1997 and 1998.[^ref-6] [[David Lester]] later said it sold 2.5 million copies worldwide.[^ref-6] Steam user reviews remain overwhelmingly positive decades later: the store page showed 96% of 1,649 reviews as positive in November 2026.[^ref-5]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -74,8 +74,6 @@ The fundamental theorem of Lords of the Realm II is that the player's power is d
 
 Armies are drawn from seven troop types: peasants, archers, macemen, swordsmen, crossbowmen, pikemen and knights. Home of the Underdogs notes that each has its own strengths and weaknesses, "although an army of knights usually is practically invincible."[^ref-51] If players shield their archers with a wall of pikemen, they can defeat enemy forces relatively cheaply.[^ref-23]
 
-Perhaps the game's most remarkable feature is the need to carefully manage food, population, and happiness levels in order to build population levels while avoiding Malthusian meltdowns.[^ref-4]
-
 ## Reception
 
 ### Contemporary Reviews
@@ -88,15 +86,15 @@ The Adrenaline Vault gave a score of 70%, noting that "The AI in this game faile
 
 ### Modern Assessment
 
-One 2012 Metacritic user review called it "Simply way ahead of its time, a defining piece of the Grand Strategy Genre, feature more polished and complex gameplay than titles from the Total War series offer 15 years later."[^ref-19] Steam's store page shows 96% of about 1,600 user reviews as positive.[^ref-5]
+One 2012 Metacritic user review called it "Simply way ahead of its time, a defining piece of the Grand Strategy Genre, feature more polished and complex gameplay than titles from the Total War series offer 15 years later."[^ref-19] Steam's store page shows 96% of about 1,650 user reviews as positive.[^ref-5]
 
 Home of the Underdogs called it "one of the most underrated strategy games of all time" and "the best game designed by David Lester, prolific designer and founder of Impressions."[^ref-51] Modern players appreciate that despite dated mechanics, they remain "rock solid, and the art style is timeless."[^ref-27]
 
 **Aggregate Scores:**
 - **Metacritic:** 77/100 (6 critic reviews)[^ref-19]
 - **MobyGames:** 80% (Critics)[^ref-1]
-- **Steam:** 96% positive (1,644 reviews, October 2026)[^ref-5]
-- **GOG:** 4.5/5 (94 reviews)[^ref-15]
+- **Steam:** 96% positive (1,649 reviews, November 2026)[^ref-5]
+- **GOG:** 4.5/5 (96 reviews, as of November 2026)[^ref-15]
 
 ## Development
 
@@ -104,7 +102,7 @@ Home of the Underdogs called it "one of the most underrated strategy games of al
 
 Lords of the Realm II was developed by Impressions Games following the success of the original Lords of the Realm in 1994.[^ref-17] The first game had won PC Gamer US's 1994 Best Historical Simulation award and was nominated for Computer Gaming World's Strategy Game of the Year.[^ref-17] While considered by some not so much a sequel as a remake featuring enhanced graphics and improved gameplay mechanics, Lords II expanded significantly on the original formula.[^ref-16]
 
-Impressions general manager David Lester explained the decision to add real-time combat to *Next Generation* in 1996: "We wanted the game to be more multiplayer friendly, and one way to do that was by adding realtime combat. Besides, when you can bring a castle down by aiming a battering ram or a catapult at it in realtime, it's a lot more satisfying."[^ref-52] This shift from the original's turn-based battles to real-time tactical combat proved to be one of the game's most celebrated features.
+Impressions general manager David Lester explained the decision to add real-time combat to *Next Generation* in 1996: "We wanted the game to be more multiplayer friendly, and one way to do that was by adding realtime combat. Besides, when you can bring a castle down by aiming a battering ram or a catapult at it in realtime, it's a lot more satisfying."[^ref-52] Wikipedia describes the real-time combat mode as having received a mixed reception: PC Games praised it as "exciting" and executed with "energy, ease and visual panache", while *Next Generation* found the computer's tactics in sieges "inept".[^ref-6]
 
 ### Production
 
@@ -147,7 +145,7 @@ The visual presentation featured 256-color square-pixel SVGA graphics at 640x480
 
 ### Cut Content
 
-The game's soundtrack was originally intended to be released on the CD-ROM as 16-bit 44100 stereo WAV files, but there wasn't enough room on the CD to accommodate them.[^ref-28] Because the music files wouldn't stream directly off the CD, they had to be loaded into memory and were therefore released as 8-bit 11025 Hz files instead—a significant quality downgrade.[^ref-28] Composer Keith Zizza later created a remastered version of the soundtrack in 2020 to restore the intended audio quality.[^ref-30]
+The game's soundtrack was originally intended to be released on the CD-ROM as 16-bit 44100 stereo WAV files, but there wasn't enough room on the CD to accommodate them.[^ref-28] Because the music files wouldn't stream directly off the CD, they had to be loaded into memory and were therefore released as 8-bit 11025 Hz files instead—a significant quality downgrade.[^ref-28] Composer Keith Zizza later released remastered, full-fidelity versions of the tunes on his YouTube channel; the "Setup" track was uploaded in April 2019.[^ref-57]
 
 A file called "Pumkin.wav" appeared on the game disc as a composite file used only as filler to maximize disc data capacity; it was never meant to be played by users.[^ref-28]
 
@@ -158,7 +156,7 @@ A file called "Pumkin.wav" appeared on the game disc as a composite file used on
 | 1.0 | November 20, 1996 | DOS/Windows | Initial North American release[^ref-6] |
 | 1.03 | — | PC | Patch (lotr2103): fixes battle crashes with music off, missing "Play Now" maps and Europe map crashes[^ref-31] |
 | Siege Pack | June 10, 1997 | DOS/Windows/Mac | Expansion pack[^ref-6] |
-| Lords Royal Collection | Announced November 3, 1997 | Windows 95/Mac | Compilation with Lords of the Realm and the Siege Pack; scheduled for late October, in stores November[^ref-53][^ref-6] |
+| Lords Royal Collection | Announced November 3, 1997 | Windows 95/Mac | Windows 95 edition: Lords of the Realm, Lords of the Realm II, the Siege Pack and a Lords of Magic demo; Mac edition: Lords of the Realm II and the Siege Pack only; scheduled for late October, in stores November[^ref-53][^ref-6] |
 | Mac OS X | April 23, 2013 | macOS | Digital re-release[^ref-33] |
 
 ### Technical Issues
@@ -226,9 +224,10 @@ The expansion featured:[^ref-42]
 ### Collections
 
 The game has been released in several compilation formats:[^ref-44]
-- **Royal Edition (1997):** Included Lords of the Realm, Lords of the Realm II, and the Siege Pack expansion
+- **Lords Royal Collection (announced November 1997):** Sierra's press release described a four-CD-ROM Windows 95 pack with Lords of the Realm, Lords of the Realm II, the Siege Pack and a Lords of Magic demo; the Macintosh version combined only Lords of the Realm II and the Siege Pack.[^ref-53]
 - **Lords of the Realm II + Siege Pack (1998):** Bundled main game with expansion
-- **Lords of the Realm: Royal Edition (GOG, 2009):** Digital re-release including both original games and expansion[^ref-32]
+- **Lords of the Realm: Royal Edition (GOG, 2009):** Digital re-release including Lords of the Realm, Lords of the Realm II and the Siege Pack expansion[^ref-15][^ref-32]
+- **Steam:** Lords of the Realm II is sold with the Siege Pack expansion included[^ref-5]
 
 ### Fan Projects
 
@@ -297,7 +296,6 @@ Modern players often compare it to the Total War series: one retrospective says 
 [^ref-27]: [Scratch-That.org Review](https://scratch-that.org/2023/12/05/heres-what-i-thought-of-lords-of-the-realm-2/) – modern assessment, comfort food comparison, Impressions history
 [^ref-28]: [VOGONS Forum – Audio Mod Discussion](https://www.vogons.org/viewtopic.php?t=96875) – Keith Zizza quotes on audio constraints, Pumkin.wav
 [^ref-29]: [MobyGames – Technical Specs](https://www.mobygames.com/game/998/lords-of-the-realm-ii/specs/) – detailed platform specifications, ratings
-[^ref-30]: [KHInsider – Remastered Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/lords-of-the-realm-ii-remastered-soundtrack-ibm-pc-msdos-gamerip-2020) – 2020 remaster by Keith Zizza
 [^ref-31]: [Sierra Help – Lords of the Realm II](https://sierrahelp.com/Games/LordsOfTheRealm/LordsOfTheRealm2Help.html) – technical issues, patches
 [^ref-32]: [GOGDB – Royal Edition](https://www.gogdb.org/product/1207658780) – release dates, package contents
 [^ref-33]: [PCGamingWiki – Lords of the Realm II](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm_II) – platform releases, known issues, version history
@@ -322,3 +320,4 @@ Modern players often compare it to the Total War series: one retrospective says 
 [^ref-54]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Lester sold the company to Sierra On-Line in 1995
 [^ref-55]: [Online Gaming Review – November 1996 news (Wayback)](https://web.archive.org/web/19970227065708/http://www.ogr.com/news/news1196.html) – "Lords of the Realm 2, from Sierra is now available" (November 21, 1996 entry)
 [^ref-56]: [MobyGames – Lords of the Realm II: Siege Pack](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/) – credits: Music & Sound Effects, Edward Saltzman and Keith Zizza
+[^ref-57]: [Keith Zizza – Lords of the Realm 2 – Setup (1996, Remastered) (YouTube)](https://www.youtube.com/watch?v=FgIvMBZ1ZAc) – composer's own upload dated 2019-04-18; description: "So here they are, the full fidelity tunes from over two decades ago"
