@@ -10,14 +10,16 @@ series: Manhunter
 engine: Modified AGI (Adventure Game Interpreter)
 protagonist: Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Manhunter: New York is a post-apocalyptic adventure game released in
-  1988 by Sierra On-Line, developed by brothers Barry and Dave Murry...'
+  1988 by Sierra On-Line, developed by Evryware, the company of brothers Barry and
+  Dave Murry, in which the player works as a human tracker for alien overlords in
+  occupied New York.'
 tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter: New York
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,7 +32,7 @@ Its gritty, sometimes gory visuals, unusual interface and real New York location
 > **Designer:** Barry Murry, Dave Murry[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Modified AGI[^ref-1]
-> **Platforms:** DOS, Amiga, Apple II, Apple IIGS, Atari ST, Macintosh[^ref-8]
+> **Platforms:** DOS, Amiga, Apple II, Apple IIGS, Atari ST, Mac[^ref-1]
 > **Release Year:** 1988
 > **Series:** Manhunter
 > **Protagonist:** Manhunter
@@ -67,11 +69,14 @@ The game requires careful observation and memory skills, as Scorpia noted in her
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Computer and Video Games (Mar 1989) | No overall score (Personal 93%, Value 88%); awarded AGM | Atari ST version, reviewed by Keith Campbell: "Having persevered with it, I am currently impressed and intrigued by its puzzles"[^ref-25][^ref-18] |
+| Computer and Video Games (Mar 1989) | No overall score; ratings box: Graphics 81%, Playability 92%, Puzzleability 93%, Atmosphere 82%, Personal 93%, Value 88% | Atari ST version, reviewed by Keith Campbell: "Having persevered with it, I am currently impressed and intrigued by its puzzles"[^ref-25][^ref-18] |
 | The Games Machine (Mar 1989) | 67% | Atari ST version: "It won't win any prizes for graphics but it does create a realistic, if simplistic, atmosphere of a run down, oppressed metropolis"[^ref-27][^ref-18] |
 | Your Amiga (Jul 1989) | 67% | Amiga version, reviewed by Tony Hetherington[^ref-9] |
 | Datormagazin (Aug 1989) | 2/10 | Amiga version[^ref-9] |
-| Computer Entertainer | N/A | "We found Manhunter: New York a fascinating and very sophisticated role-playing game that is quite out of the ordinary"[^ref-19] |
+| Computer Entertainer (Oct 1988) | Recommended | IBM/Tandy/compatibles (DOS) version reviewed: "We found MANHUNTER: NEW YORK a fascinating and very sophisticated role-playing game that is quite out of the ordinary"[^ref-28][^ref-19] |
+| Games magazine (Jun/Jul 1989) | No score | "Manhunter New York ($50) is a decidedly darker game, full of grim humor, and one of the most involving computer games I've played" (p. 49)[^ref-29] |
+| Asimov's Science Fiction (Jun 1989) | No score | Matthew J. Costello's column says of three new games that "these games are each major breakthroughs", calls Battletech "a definite contender for Best Game of the Year," and adds "As is Manhunter: New York"; he writes that the "graphics are some of the best I have seen"[^ref-30] |
+| Australian Commodore and Amiga Review (Oct 1989) | No score | Amiga version, reviewed by Ken Simpson (p. 61): "Manhunter is a mixed bag - an exciting concept, let down by second rate graphics"[^ref-31] |
 
 ### Modern Assessment
 
@@ -97,6 +102,18 @@ Manhunter: New York was notable in several technical aspects. The DOS version su
 
 Its use of real New York City locations helped set it apart from Sierra's other titles[^ref-14].
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| Original | Sep 1988 | DOS | Five 5.25" and two 3.5" disks[^ref-28][^ref-1] |
+| Port | 1988 | Apple II | Month not given[^ref-1] |
+| Port | Nov 1988 | Apple IIGS | Platform release[^ref-1] |
+| Port | Jan 1989 | Atari ST | Five disks[^ref-25][^ref-1] |
+| Port | Apr 1989 | Amiga | Platform release[^ref-1] |
+| Port | Sep 1989 | Mac | Ported by Fairfield Software[^ref-1] |
+| Brazilian release | Dec 1990 | DOS | Distributed by Brasoft[^ref-1] |
+
 ## Legacy
 
 The Manhunter series ended after the second game[^ref-21]. The Murrys said in 1997 that both Manhunter games "sold very well (more than 100,000 of each)", and that they did not own the rights to Manhunter[^ref-24]. A third game, Manhunter: London, was planned but never made[^ref-13][^ref-21].
@@ -113,7 +130,7 @@ Banjo's Mods argues that "many of the things the Manhunter games did would later
 
 **Purchase / Digital Stores**
 - Currently not available on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/manhunter-new-york) - Community Dreamlist entry
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/manhunter-new-york-ha)
@@ -121,6 +138,7 @@ Banjo's Mods argues that "many of the things the Manhunter games did would later
 
 ## See Also
 
+- [[Manhunter Series]]
 - [[1989 - Manhunter - San Francisco|→ Next: Manhunter - San Francisco]]
 
 ## References
@@ -146,6 +164,10 @@ Banjo's Mods argues that "many of the things the Manhunter games did would later
 [^ref-22]: [Larry Laffer](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-i-ii-unofficial-patch-fixes-by-banjos-mods) – Unofficial patch fixes
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/manhunter-new-york) – Fan comments and praise
 [^ref-24]: [Games Domain: Interview with Evryware (Part 1), 1997 (Wayback)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) – Murry brothers on Evryware, Dee Dee, sales
-[^ref-25]: [Computer and Video Games #89, March 1989 (archive.org scan)](https://archive.org/details/ComputerAndVideoGamesIssue089Mar89) – Keith Campbell's Atari ST review, pp.66–67; ratings box with no overall score, AGM badge
+[^ref-25]: [Computer and Video Games #89, March 1989 (archive.org scan)](https://archive.org/details/ComputerAndVideoGamesIssue089Mar89) – Keith Campbell's Atari ST review, pp.66–67; ratings box with no overall score
 [^ref-26]: [Computer Gaming World #54, December 1988 (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_54) – Scorpia's "Scorpion's Tale" column on Manhunter: New York
 [^ref-27]: [The Games Machine #16, March 1989 (archive.org scan)](https://archive.org/details/thegamesmachine-16) – Atari ST review, 67% overall
+[^ref-28]: [Computer Entertainer, October 1988 (archive.org scan)](https://archive.org/details/computer-entertainer-7-7) – DOS review, "Recommended", MSR $49.95; disk count
+[^ref-29]: [GAMES Magazine #98, June/July 1989 (archive.org scan)](https://archive.org/details/games-98-1989-june) – Capsule review, p. 49
+[^ref-30]: [Asimov's Science Fiction, June 1989 (archive.org scan)](https://archive.org/details/Asimovs_v13n06_1989-06) – "Neat Stuff" computer-games column by Matthew J. Costello
+[^ref-31]: [Australian Commodore and Amiga Review, October 1989 (archive.org scan)](https://archive.org/details/Australian_Commodore_and_Amiga_Review_The_Volume_6_Issue_10_1989-10_Saturday_Magazine_AU) – Amiga review by Ken Simpson, p. 61
