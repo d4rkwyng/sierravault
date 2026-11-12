@@ -42,7 +42,7 @@ Years follow the vault's game pages. The vault holds 55 Hoyle pages, but several
 | 1997 | [[1997 - Hoyle Poker\|Hoyle Poker]] | Hoyle Casino spin-off[^ref-17] |
 | 1998 | [[1998 - Hoyle Battling Ships and War\|Hoyle Battling Ships and War]] | |
 | 1998 | [[1999 - Hoyle Casino\|Hoyle Casino 1999]] | Hoyle Casino 3, sold as Hoyle Casino 99; first release October 1, 1998[^ref-4][^ref-24][^ref-25] |
-| 1999 | [[1999 - Hoyle Backgammon and Cribbage\|Hoyle Backgammon and Cribbage]] | |
+| 1999 | [[1999 - Hoyle Backgammon and Cribbage\|Hoyle Backgammon and Cribbage]] | Windows and Macintosh; first release March 15, 1999 ([Sierra Chest](https://sierrachest.com/index.php?a=games&id=819&title=hoyle-backgammon-cribbage&fld=general)) |
 | 1999 | [[1999 - Hoyle Slots and Video Poker\|Hoyle Slots and Video Poker]] | |
 | 1999 | [[1999 - Hoyle Word Games\|Hoyle Word Games]] | |
 | 2000 | [[2000 - Hoyle Casino\|Hoyle Casino 2001]] | |

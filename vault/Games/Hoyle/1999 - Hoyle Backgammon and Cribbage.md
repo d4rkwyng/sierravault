@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Evan Schiller]
 description: Hoyle Backgammon & Cribbage is a digital adaptation of two classic board
   and card games, released by Sierra On-Line in 1999 for Windows and Macintosh.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Backgammon & Cribbage
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ Due to the limited availability of contemporary gaming magazine reviews in the r
 Modern retrospective assessments of Hoyle Backgammon & Cribbage have been modest. GameFAQs users rated the PC version "Fair" based on 2 ratings;[^ref-5] the Mac version is unrated there.[^ref-29] Metacritic lists no critic or user reviews.[^ref-15]
 
 **Aggregate Scores:**
-- **MobyGames:** 85% critic average (1 review); players 2.0 out of 5 (2 ratings)[^ref-27]
+- **MobyGames:** 85% critic average (a single unnamed critic rating); players 2.0 out of 5 (2 ratings)[^ref-27]
 - **GameFAQs:** Fair (2 ratings)[^ref-5]
 - **Metacritic:** tbd (no reviews)[^ref-15]
 
@@ -101,6 +101,13 @@ Sierra Chest gives the game's first release date as March 15, 1999.[^ref-6] All 
 - **Associate Producer:** Robert L. Jerauld
 - **Designers:** Paul Horn, [[Rabih AbouJaoudé]], Michael Katz, Robert L. Jerauld
 - **Lead Engineers:** Earl Malmrose, Michael Katz
+- **Software Engineers:** Paul Horn, John Tighe, Tim Weiss, Eric Tangborn
+- **Senior Software Engineers:** John Gilmore, Mark Seminatore
+- **Lead Artist - 3D Illustrator:** [[Rabih AbouJaoudé]]
+- **Senior 3D Artists:** Julian Love, Eric Hook
+- **3D Modeler:** Max Braun
+- **Senior Artist - 2D Illustrator:** Heather Ivy
+- **Artist - 2D Illustrator:** Gayle Rowbotham
 - **Script Writers:** Jeff Hoyt, Allan Batchelder, Rodney Sherwood, Robert L. Jerauld
 - **Composer:** Evan Schiller
 - **Voice Actors:** Pat Cashman and eight others (see Voice Cast)
@@ -126,9 +133,9 @@ No specific information about cut content has been documented in available sourc
 |---------|------|----------|-------|
 | Initial | March 15, 1999 | IBM PC | First release date[^ref-6][^ref-24] |
 | US Retail | May 1999 | Macintosh | US release[^ref-2][^ref-29] |
-| EU Release | August 10, 2001 | PC | European release[^ref-1][^ref-2] |
+| EU Release | 2001 | PC | European release; GameFAQs prints the date as "08/10/01"[^ref-1][^ref-2] |
 
-Sierra Chest gives a first release date of March 15, 1999,[^ref-6] matching the WON launch date;[^ref-24] GameFAQs lists the US Mac release as May 1999[^ref-29] and a European PC release on August 10, 2001,[^ref-2] and MobyGames lists a UK release in 2001.[^ref-1]
+Sierra Chest gives a first release date of March 15, 1999,[^ref-6] matching the WON launch date;[^ref-24] GameFAQs lists the US Mac release as May 1999[^ref-29] and and a European PC release dated "08/10/01" as printed,[^ref-2] while MobyGames lists a UK release in 2001.[^ref-1]
 
 ### Technical Issues
 
@@ -166,13 +173,12 @@ The game was associated with the broader Hoyle brand, which had connections to E
 
 ### Critical Perspective
 
-Hoyle Backgammon & Cribbage was released after Sierra had passed from independent ownership to CUC International and then Cendant.[^ref-4][^ref-7] Little critical writing about the game survives: MobyGames records a single critic score,[^ref-27] and Metacritic has no reviews.[^ref-15] Its internet play ran on WON.NET; the original retail Hoyle servers closed on February 29, 2000, after Sierra moved online Hoyle play to the free Hoyle Channel.[^ref-24][^ref-31]
+Hoyle Backgammon & Cribbage was released after Sierra had passed from independent ownership to CUC International and then Cendant.[^ref-4][^ref-7] Little critical writing about the game survives: MobyGames records a single critic rating from an unnamed critic,[^ref-27] and Metacritic has no reviews.[^ref-15] Its internet play ran on WON.NET; the original retail Hoyle servers closed on February 29, 2000, after Sierra moved online Hoyle play to the free Hoyle Channel.[^ref-24][^ref-31]
 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
+- Not sold on GOG or Steam (checked November 11, 2026)
 
 ## Downloads
 
