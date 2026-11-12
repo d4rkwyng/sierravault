@@ -5,11 +5,11 @@ founded: 2004
 headquarters: "United States"
 parent_company: null
 related_companies: ["AGD Interactive"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Himalaya Studios
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -17,9 +17,16 @@ Himalaya Studios is an independent adventure game studio. It was established in 
 
 For detailed information about the studio's history, notable games, and key people, see [[Developers/Himalaya Studios|Himalaya Studios (Developer)]].
 
+## Key People
+
+- **Britney K. Brimhall** — co-founder (2004); Chairman and CEO of Himalaya Studios in 2006; earlier co-established AGD Interactive.[^ref-1][^ref-2][^ref-18]
+- **Christopher T. Warren** — co-founder (2004); earlier co-established AGD Interactive.[^ref-1][^ref-2][^ref-18]
+
 ## Publishing History
 
 Himalaya published its first game on CD-ROM, and later digitally. Its debut, *Al Emmo and the Lost Dutchman's Mine*, came out in 2006 as Himalaya's "first retail game"; some later regional and retail editions were published by third parties (rondomedia in Germany in 2007, Meridian4 in 2008, United Independent Entertainment in Germany in 2012).[^ref-7][^ref-5] An enhanced version 4.0 followed on November 26, 2013, sold through Himalaya's own store and Desura, and the game reached Steam on May 9, 2014 with Himalaya as developer and publisher.[^ref-23][^ref-19] In August 2010 Himalaya released *Al Emmo's Postcards from Anozira*, a hidden-object game built with the AGS engine and based on Al Emmo; it came to Steam on June 2, 2015.[^ref-22][^ref-21][^ref-20][^ref-17] Himalaya also ported *Al Emmo and the Lost Dutchman's Mine* to iPad, iPhone and iPod touch, announced on its news page as available on the App Store on July 9, 2015.[^ref-25][^ref-7] *Mage's Initiation: Reign of the Elements* was funded on Kickstarter in 2013 (3,157 backers pledged $125,174) and released on 30 January 2019. Himalaya Studios developed and published it.[^ref-8][^ref-3][^ref-16] Adventure Gamers called it "a game more than a full decade in the making".[^ref-6]
+
+From September 2009 Himalaya's online store also sold a selection of hand-picked, classic-style adventure games from other developers, among them *Jolly Rover*, announced as available on the Himalaya store on February 24, 2012.[^ref-25] *Mage's Initiation* launched on January 30, 2019 for Windows, Mac and Linux on Steam, GOG and the Humble Store.[^ref-25][^ref-3][^ref-4]
 
 ## Current Status
 
@@ -56,5 +63,5 @@ As of November 11, 2026, the newest item on Himalaya's own news page is dated Ma
 [^ref-22]: [Himalaya Studios - News (Wayback 2011)](https://web.archive.org/web/20111204093620/http://www.himalayastudios.com:80/news.php) - "New game: Postcards from Anozira, August 02, 2010"; "we developed a Hidden Object Game with the AGS engine, based on Al Emmo"
 [^ref-23]: [Himalaya Studios forum - Al Emmo Enhanced Out Now!](http://www.himalayastudios.com/forum/index.php?topic=1002.0) - November 26, 2013: version 4.0 released; sold via the Himalaya Store and Desura; Steam Greenlight still pending
 [^ref-24]: [IndieDB - Himalaya Studios, Inc](https://www.indiedb.com/company/himalaya-studios) - Developer & Publisher profile; "a C Corporation established in 2011 in Delaware" (same text as the About page)
-[^ref-25]: [Himalaya Studios - News](https://www.himalayastudios.com/news.php) - Fetched 2026-11-11: newest item "Cross Promo Cosplay Contest with Transolar Games and Himalaya Studios", March 23, 2019; "Al Emmo now available on the App Store!", July 09, 2015 ("ported to iPad, iPhone, and iPod touch")
+[^ref-25]: [Himalaya Studios - News](https://www.himalayastudios.com/news.php) - Fetched 2026-11-11 and 2026-11-12: "Himalaya Studios Has Re-opened for Business!", September 20, 2009 ("a new Games Store with a selection of hand-picked, classic-style adventure games"); "The fantastic piratey-dog-themed adventure game "Jolly Rover" is now available on the Himalaya store", February 24, 2012; "Mage's Initiation is Out Now!", January 30, 2019 (Windows, Mac, Linux; Steam, GOG, Humble Store); newest item "Cross Promo Cosplay Contest with Transolar Games and Himalaya Studios", March 23, 2019; "Al Emmo now available on the App Store!", July 09, 2015 ("ported to iPad, iPhone, and iPod touch")
 [^ref-26]: [Himalaya Studios - News (Wayback 2026-03-18)](https://web.archive.org/web/20260318075458/http://www.himalayastudios.com/news.php) - Capture of 2026-03-18 shows the same newest item, March 23, 2019
