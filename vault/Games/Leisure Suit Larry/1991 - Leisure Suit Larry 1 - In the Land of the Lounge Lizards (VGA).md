@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Christopher Braymen, Al Lowe]
 description: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA is a 1991
   remake of Sierra On-Line''s influential 1987 adult comedy adventure game, featuring
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -136,7 +136,7 @@ The original was notably the first Sierra title to use beta testing through Comp
 - **Executive Producer:** Ken Williams[^ref-48][^ref-5]
 - **Creative Director:** [[Bill Davis]][^ref-1]
 - **Director and Game Designer:** Al Lowe
-- **Producer:** Stuart Moulder
+- **Producer:** [[Stuart Moulder]]
 - **Art Designer:** Bil Skirvin (credited as William D. Skirvin)
 - **Lead Programmer:** Oliver Brelsford
 - **Witty Text and Documentation:** Josh Mandel

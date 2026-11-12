@@ -132,6 +132,7 @@ The elaborate death scenes, in which each victim meets a gruesome end tied to a 
 - **Music Director:** [[Mark Seibert]], who also played guitar on "The Archaeologist Song"[^ref-29]
 - **Creative Director:** [[Bill Davis]][^ref-1]
 - **Lead Programmer:** Brian K. Hughes[^ref-29]
+- **Special Thanks:** [[Stuart Moulder]][^ref-39]
 - **CD Conversion Programmers:** Bob Andrews, [[Scott Murphy]][^ref-29]
 - **Art Director:** Cheryl Sweeney[^ref-29]
 
@@ -254,7 +255,7 @@ The cast below is from the 1993 CD-ROM version, which added voice acting; the or
 | Bartender/Bouncer | Brian K. Hughes[^ref-29] |
 | Biff/Desk Sergeant | Barry T. Smith[^ref-29] |
 | Bob the Taxi Driver | Daniel Carver[^ref-29] |
-| Blue Person | Stuart Moulder[^ref-29] |
+| Blue Person | [[Stuart Moulder]][^ref-29] |
 | Drunk | J. Mark Hood[^ref-29] |
 | Flapper | [[Jane Jensen]][^ref-29] |
 | Luigi | James O'Keefe[^ref-29] |
@@ -349,3 +350,4 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-35]: [Retro Freak Reviews](https://retrofreakreviews.com/2025/08/04/the-dagger-of-amon-ra-dos-review/) – voice acting by Sierra staff
 [^ref-37]: [The Adventurers' Guild – Won!](https://advgamer.blogspot.com/2017/10/the-dagger-of-amon-ra-won.html) – endgame playthrough, O'Riley as the killer, DOSBox "out of handles" error
 [^ref-38]: [Sierra Chest – Laura Bow 2](https://www.sierrachest.com/index.php?a=games&id=34&title=laura-bow-2) – "also included in the 1997 King's Quest Collection, as well as in the Roberta Williams Anthology"; CD-ROM voices by Leslie Balfour and other Sierra employees
+[^ref-39]: [MobyGames – Stuart Moulder credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) – "Special Thanks" for The Dagger of Amon Ra (1992, DOS)

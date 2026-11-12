@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -148,6 +148,7 @@ Voice recording sessions were directed by Stuart M. Rosen, who had won numerous 
 - **Music Conversions:** Neal Grandstaff, Jay D. Usher, Chris Braymen[^ref-63][^ref-57]
 - **Voice Director:** Stuart M. Rosen
 - **Composer:** [[Robert Holmes]]
+- **Special Thanks:** [[Stuart Moulder]][^ref-70]
 
 ### Voice Cast
 
@@ -416,3 +417,4 @@ Tim Curry, who voiced Gabriel Knight, died on August 25, 2026, at the age of 80.
 [^ref-67]: [GameRankings – Gabriel Knight: Sins of the Fathers (archived 2009)](https://web.archive.org/web/20090207143808/http://www.gamerankings.com/htmlpages2/562666.asp?q=gabriel%20knight) — "Avg Ratio: 93% Based On 5 Media Outlets"
 [^ref-68]: [GamingOnLinux – Five more classics join the GOG Preservation Program](https://www.gamingonlinux.com/2026/10/five-more-classics-join-the-gog-preservation-program/) — Liam Squires-Hand, October 30, 2026; GOG v2 changelog for Gabriel Knight: Sins of the Fathers 1.1 (October 29, 2026): DOS version on DOSBox, Windows version on ScummVM, launcher, cloud saves, subtitles on by default, graphic novel, making-of documentary and trailer as goodies
 [^ref-69]: [Tim Curry, Outlandish Star of 'The Rocky Horror Picture Show,' Dies at 80 (The Hollywood Reporter)](https://www.hollywoodreporter.com/movies/movie-news/tim-curry-dead-rocky-horror-picture-show-1236682015/) — Lisa de los Reyes, August 26, 2026; Tim Curry died on August 25, 2026, aged 80
+[^ref-70]: [MobyGames – Stuart Moulder credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) – "Special Thanks" for Gabriel Knight: Sins of the Fathers (1993, DOS)

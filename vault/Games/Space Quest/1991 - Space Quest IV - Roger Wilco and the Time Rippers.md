@@ -10,14 +10,14 @@ series: Space Quest
 engine: 'SCI1 (floppy), SCI1.1 (CD)'
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
   game developed and published by Sierra On-Line, released on March 4, 1991 for MS-DOS, with later ports to Windows, Macintosh, Amiga, PC-98 and a CD-ROM edition with narration by Gary Owens.'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 4, 1991 for MS-DOS[^ref-9] with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
@@ -147,6 +147,7 @@ The credits below are those MobyGames lists for the DOS version (1991).
 - **Art Designer:** [[Mark Crowe]]
 - **Executive Producer:** [[Ken Williams]]
 - **Producer:** [[Guruka Singh Khalsa]]
+- **Producer (Macintosh version):** [[Stuart Moulder]][^ref-66]
 - **Creative Director:** [[Bill Davis]]
 - **Programming:** Oliver Brelsford, Juan Carlos Escobar, Brian K. Hughes, Mike Larsen, Randy MacNeill, Doug Oldfield, Raoul Said, Jerry Shaw
 - **Graphics / Artwork:** Jane Cardinal, Eric Kasner, Jeff Crowe, Desie Hartman, James Larsen, Nathan Larsen, Suzi Livengood, Cheryl Loyd, Michael A. Milo, Gerald Moore, Jennifer Terry, Cheryl Sweeney, Willis Wong, Jon Bock
@@ -392,3 +393,4 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-63]: [The Adventure Gamer – Space Quest IV interview with the Two Guys from Andromeda (June 15, 2015)](https://advgamer.blogspot.com/2015/06/space-quest-iv-interview-with-two-guys.html) – Mark Crowe: "There was the Latex Babes of Estros video capture session"; video captured animation studio "in a warehouse across town"; traveled to Burbank to record Gary Owens for the CD edition
 [^ref-64]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/) – developer and publisher Guys from Andromeda; Early Access Release Date Apr 1, 2025; Release Date Dec 23, 2025 (store page read November 11, 2026)
 [^ref-65]: [A2Central – Two Guys from Andromeda launch SpaceVenture (Ken Gagne, January 16, 2026, updated October 18, 2026)](https://a2central.com/2026/01/spaceventure/) – May 2012 Kickstarter raised US$539,767; Steam Early Access April 1, 2025; full version released December 23, 2025 on Steam and itch.io
+[^ref-66]: [MobyGames – Stuart Moulder credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) – "Producer" for Space Quest IV: Roger Wilco and the Time Rippers (1991, Macintosh)

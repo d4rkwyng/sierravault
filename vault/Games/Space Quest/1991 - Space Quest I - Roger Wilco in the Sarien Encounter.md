@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake
   of the original 1986 Space Quest: The Sarien Encounter, developed and published
   by Sierra On-Line for MS-DOS, Amiga, and Macintosh.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest I: Roger Wilco in the Sarien Encounter
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-4].
@@ -114,7 +114,7 @@ The game was released in both VGA and a rare EGA version based on the VGA versio
 
 ### Production
 
-The credits list Ken Williams as Executive Producer and Stuart Moulder as Producer[^ref-31][^ref-5]. Bill Davis is Creative Director, Douglas Herring and Scott Murphy are Directors, and Herring is also Art Designer[^ref-31]. [[Andy Hoyos]] is one of nine Background Artists, alongside Jay Allan Friedmann, Herring and others[^ref-31]. [[Gano Haine]] and Bridget McKenna are credited for Additional Material[^ref-43]. The Amiga conversion credits list Steven Coallier and Jerry Shaw for Amiga Implementation[^ref-5].
+The credits list Ken Williams as Executive Producer and [[Stuart Moulder]] as Producer[^ref-31][^ref-5]. Bill Davis is Creative Director, Douglas Herring and Scott Murphy are Directors, and Herring is also Art Designer[^ref-31]. [[Andy Hoyos]] is one of nine Background Artists, alongside Jay Allan Friedmann, Herring and others[^ref-31]. [[Gano Haine]] and Bridget McKenna are credited for Additional Material[^ref-43]. The Amiga conversion credits list Steven Coallier and Jerry Shaw for Amiga Implementation[^ref-5].
 
 Ken Allen is credited as Composer and Mark Seibert as Music Director, with Allen, Orpheus Hanley and Seibert credited for sound effects[^ref-31][^ref-5]. The Sierra Wiki's staff roll also carries a separate line, "Space Quest 1 Theme Based on the Original Composition: Mark Crowe", so the opening theme derives from [[Mark Crowe]]'s composition for the original game[^ref-5].
 

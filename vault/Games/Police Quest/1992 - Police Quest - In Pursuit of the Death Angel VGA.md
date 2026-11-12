@@ -129,6 +129,7 @@ Sierra's InterAction magazine introduced the new edition with "superb, full-colo
 - **Art Director:** James Larsen
 - **Lead Programmer:** Mike Larsen
 - **Composer:** Robert Atesalp (Music Director: Mark Seibert)
+- **Very Special Thanks To:** [[Stuart Moulder]][^ref-52]
 
 **1987 original credits:**[^ref-22]
 - **Designer and Writer:** Jim Walls
@@ -296,3 +297,4 @@ Jim Walls had no involvement in the remake, but his story was carried over intac
 [^ref-49]: [GOG Database – Police Quest release notes](https://www.gogdb.org/product/1207661263/releasenotes) – 20 February 2026: switched emulation from DOSBox to ScummVM, cloud saves
 [^ref-50]: [MobyGames – SWAT Career Pack](https://www.mobygames.com/game/31963/swat-career-pack/) – 2000 compilation "including the Police Quest 1 VGA remake"; lists both the 1987 entry and the VGA remake (read via the MobyGames API and the Wayback copy of 27 October 2025)
 [^ref-51]: [MobyGames – Police Quest Collection (2006)](https://www.mobygames.com/game/27942/police-quest-collection/) – Windows XP compilation of the first four games; links only to the 1987 entry for PQ1 (read via the MobyGames API)
+[^ref-52]: [MobyGames – Stuart Moulder credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) – "Very Special Thanks To" for Police Quest: In Pursuit of the Death Angel (1992, DOS)

@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: SCI1.1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Rob Atesalp]
 description: The Island of Dr. Brain is an educational puzzle game released
   in 1992 by Sierra On-Line as part of the Sierra Discovery Series. As the second...
@@ -18,7 +18,7 @@ tags: [1990s, dr-brain, educational, sci, sierra]
 ---
 # The Island of Dr. Brain
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -119,6 +119,7 @@ Corey Cole later reflected on the challenges of puzzle design, recalling that wh
 - **Art Design:** Jon Bock[^ref-35]
 - **Senior Artist:** Dennis Lewis[^ref-35]
 - **Art and Animation:** Frances Anne Powell, Daryle Smith[^ref-35]
+- **Special Thanks:** [[Stuart Moulder]][^ref-39]
 
 ### Technical Achievements
 
@@ -264,3 +265,4 @@ Later, CUC International, which already owned Sierra, announced in November 1996
 [^ref-36]: [CUC International – "CUC International Completes Acquisition of Knowledge Adventure" (1997, Wayback)](https://web.archive.org/web/19970714182108/http://www.cucsoftware.com/press/kaacq.html) – closing price "on January 31, 1997"; KA "is part of the CUC Software division, which includes Davidson, Blizzard Entertainment, and Sierra On-Line"
 [^ref-37]: [Los Angeles Times – "CUC Will Buy Knowledge Adventure" (November 6, 1996)](https://www.latimes.com/archives/la-xpm-1996-11-06-fi-61744-story.html) – CUC International "plans to buy the privately held firm by year-end"
 [^ref-38]: [Computer Gaming World, issue 105 (April 1993) – Charles Ardai, "More 'Edu,' Less 'Tainment'," pp. 54-55; software update list](https://archive.org/details/Computer_Gaming_World_Issue_105) – "this is not an adventure game"; linear puzzle sequence; hint watch; $49.95 data box; "Island of Dr. Brain Update" dated 12/23/92
+[^ref-39]: [MobyGames – Stuart Moulder credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) – "Special Thanks" for The Island of Dr. Brain (1992, DOS)
