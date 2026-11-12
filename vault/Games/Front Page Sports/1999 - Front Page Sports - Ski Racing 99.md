@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-created skier
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: 'Front Page Sports: Ski Racing ''99 is the MobyGames listing for DSF
   Ski ''99: Extreme Edition, the 1999 German Windows release of Sierra Sports: Skiing
   1999 Edition, a Dynamix skiing game published by Sierra On-Line.'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing '99
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 > [!note] German-edition stub
 > This page covers the German release, **DSF Ski '99: Extreme Edition**. The game itself is documented in full at **[[1998 - Sierra Sports Skiing 1999 Edition|Sierra Sports: Skiing 1999 Edition]]**. Facts on this page are limited to what sources say about this edition and its parent game.
@@ -27,7 +27,7 @@ tags: [1990s, front-page-sports, sierra]
 
 *Front Page Sports: Ski Racing '99* is the title under which MobyGames lists a single 1999 Windows release from Germany, developed by [[Dynamix]] and published by [[Sierra On-Line]], with the German title *DSF Ski '99: Extreme Edition*.[^ref-1] The German magazine PC Joker reviewed it under that name in its February 1999 issue.[^ref-18] Germany's PC Games, in a January 1999 Sierra special, wrote that "Skiing 99" was expected in Germany "voraussichtlich im Januar" (probably in January) under the title *DSF Ski Extreme Edition 99*.[^ref-32]
 
-The parent game, *[[1998 - Sierra Sports Skiing 1999 Edition|Sierra Sports: Skiing 1999 Edition]]*, was in North American stores by November 10, 1998, according to a Computer Games Strategy Plus news item posted that day.[^ref-22][^ref-21] The "99" in the name marks the edition, not the year of release. In the UK the game was sold as *Ski Racing Extreme Edition*: PC Zone's January 1999 issue called it "forthcoming",[^ref-29] and PC Gaming World's February 1999 review listed it as "Out Now".[^ref-28] It followed *[[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]]* (1997), which is a separate game with its own page. PC Joker's review index lists the two separately: "DSF Ski" (5/98, 33%) and "DSF Ski '99 Extreme Edition" (2/99, 60%).[^ref-31]
+The parent game, *[[1998 - Sierra Sports Skiing 1999 Edition|Sierra Sports: Skiing 1999 Edition]]*, was in North American stores by November 10, 1998, according to a Computer Games Strategy Plus news item posted that day.[^ref-22] The "99" in the name marks the edition, not the year of release. In the UK the game was sold as *Ski Racing Extreme Edition*: PC Zone's January 1999 issue called it "forthcoming",[^ref-29] and PC Gaming World's February 1999 review listed it as "Out Now".[^ref-28] It followed *[[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]]* (1997), which is a separate game with its own page. PC Joker's review index lists the two separately: "DSF Ski" (5/98, 33%) and "DSF Ski '99 Extreme Edition" (2/99, 60%).[^ref-31]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -85,7 +85,7 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 ## Purchase
 
-- Not currently sold on Steam.[^ref-12]
+- Not currently sold on Steam; GOG: no listing (checked November 12, 2026).[^ref-12]
 
 ## Patches
 
@@ -93,9 +93,10 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 ## See Also
 
-- **[[1998 - Sierra Sports Skiing 1999 Edition]]** – main page for this game
-- [[1997 - Front Page Sports - Ski Racing]] – the 1997 predecessor
-- [[1997 - Front Page Sports Golf - Tour Course Add-On|← Previous: Front Page Sports Golf - Tour Course Add-On]]
+- **[[1998 - Sierra Sports Skiing 1999 Edition]]** – the US original of this game
+- **[[1997 - Front Page Sports - Ski Racing]]** – the prior edition
+
+**Front Page Sports series**
 
 - [[1992 - Front Page Sports Football 92]]
 - [[1993 - Front Page Sports - Football Pro]]
@@ -115,15 +116,13 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 [^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – "FPS: Ski Racing 1999 – Ski Racing 1999 (skiup) (ZIP file) [1.9 MB]"
 
-[^ref-12]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on Steam platform
+[^ref-12]: No Steam listing found (checked November 12, 2026) – game not available on Steam platform
 
 [^ref-18]: [PC Joker 2/99 (archive.org full text)](https://archive.org/details/PCJoker0299) – p. 105 review "DSF Ski '99 Extreme Edition (Sierra)": Picabo Street, 5 races, up to 8 players in turn, graphics, controls, score 60% (checked against the page scan), USK, price, system requirements
 
 [^ref-19]: [Kultboy – DSF SKI '99 Extreme Edition](https://www.kultboy.com/testbericht-uebersicht/7565/) – PC Joker 2/99 review, score 60%
 
 [^ref-20]: [Gamecenter – Skiing 1999 Edition (Gordon Goble, 12/1/1998, Wayback)](https://web.archive.org/web/20000816165713/http://gamecenter.com/Reviews/Item/0,6,0-2309,00.html) – 7/10 review of the parent game
-
-[^ref-21]: [Wikipedia – Sierra Sports: Skiing 1999 Edition](https://en.wikipedia.org/wiki/Sierra_Sports:_Skiing_1999_Edition) – NA release November 10, 1998 (corroborates ref-22)
 
 [^ref-22]: [Computer Games Strategy Plus – "Sierra Sports Skiing 99 in Stores" (Joel Hulsey, posted 11/10/1998, Wayback)](https://web.archive.org/web/20030529145242/http://www.cdmag.com/articles/015/094/ski.html) – arrived at North American retail; Picabo Street; Sean Gleason quote; WON.net multiplayer; seasons and single races; Mt. Dynamix and Mt. Sierra
 

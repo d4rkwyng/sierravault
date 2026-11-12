@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Proprietary Dynamix 3D engine
 protagonist: Ski Racer (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed
   by Dynamix and published by Sierra On-Line, simulating four World Cup alpine
   skiing events.'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -118,7 +118,7 @@ Gamezilla listed the system requirements as a Pentium 90, 16 MB RAM, 4X CD-ROM d
 | Version | Year | Notes |
 |---------|------|-------|
 | Original release | 1997 | Windows 95[^ref-10][^ref-26] |
-| Update (skiup12) | — | Official Sierra update; MobyGames records two patches, neither adding Rendition support[^ref-24][^ref-5] |
+| Update (skiup12) | — | Official Sierra update; MobyGames records two patches, neither adding Rendition support[^ref-24][^ref-5]. Sierra Sports' website offered a free 1.7 MB v1.2 patch for registered owners that added the Mt. Dynamix freestyle mountain and 3Dfx Rush support[^ref-28] |
 
 ### Development Credits
 
@@ -181,3 +181,4 @@ The game filled a niche in PC gaming, as "skiing games are something of a rarity
 [^ref-25]: [MobyGames – Front Page Sports: Ski Racing Credits](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/credits/) – designer, director, producer, Loudmouth Inc., Picabo Street as "The Star", resorts
 [^ref-26]: [MobyGames – Front Page Sports: Ski Racing Specs](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/specs/) – Windows 95 minimum OS, Pentium, 16 MB RAM, 4X CD-ROM, mouse, force feedback
 [^ref-27]: [GameStar, May 1998 (issue 8), p. 102 – DSF Ski Racing review, full text (Internet Archive)](https://archive.org/download/GameStar.N008.1998.05/GameStar.N008.1998.05-gamestar_djvu.txt) – German version reviewed as "DSF Ski Racing"; score 28; "Kaufen Sie sich lieber einen Skipass."
+[^ref-28]: [Sierra Sports – "Mt. Dynamix" patch page (Wayback, 6 Dec 1998)](https://web.archive.org/web/19981206053704/http://www.sierrasports.com/mt-dynamix.html) – "This patch will upgrade registered owners of Ski Racing to version 1.2. This patch includes Mt. Dynamix, 3DFX Rush support, and numerous fixes."
