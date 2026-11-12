@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Donald Duck
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Al Lowe]
 description: Donald Duck's Playground is a 1984 educational game designed by Al Lowe and
   published by Sierra On-Line under license from Walt Disney, in which Donald works
@@ -19,7 +19,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,7 +81,7 @@ Sierra Chest calls the McDuck Airlines job "by far the fastest money-maker of th
 
 *Compute!'s Gazette* reviewed the Commodore 64 version in October 1985. C. Regena wrote that for children ages 7 to 11 it "does an excellent job of teaching the basics of money handling, sorting items, and making logical decisions," and concluded that "the program is so much fun it will hold a child's interest for hours."[^ref-32] The review listed the price as $34.95; the November 1985 issue's corrections column said the suggested retail price "was listed incorrectly" and that "the price is $24.95."[^ref-32][^ref-33]
 
-*Family Computing* (August 1986) reviewed it on the 64K Apple, also for the C64/C128, for ages 7 to 11 at $30. Tana A. Summers wrote: "I was impressed with how many learning activities can be packed into one program." She and her ten-year-old daughter finished the four jobs with a total of $1.19 to spend.[^ref-34]
+*Family Computing* (August 1986) reviewed it on the 64K Apple, also for the C64/C128, for ages 7 to 11 at $30. T. A. Summers wrote: "I was impressed with how many learning activities can be packed into one program." She and a ten-year-old named Betsy finished the four jobs with a total of $1.19 to spend.[^ref-34]
 
 In *Computer Gaming World* (issue 28, May 1986), Roy Wagner's "The Commodore Key" column covered the C64 version for ages 5 to 10. He wrote that "the Disney characters are well portrayed" and that "the graphics are remarkable, both in appearance and in the fact that hi-res mode was not used," since all graphics were made by redefining most of the C64's 255 character graphics.[^ref-35]
 
@@ -111,21 +111,24 @@ Lemon64 users rate the Commodore 64 version 7.77/10 from 155 votes (as of Octobe
 
 Al Lowe's official biography says Donald Duck's Playground and his other early Disney titles were "produced after Sierra acquired the rights to several Disney characters in the early 1980s."[^ref-29] It was one of three Disney-licensed computer games Sierra produced in 1984, alongside *Winnie the Pooh* and *Mickey's Space Adventure*.[^ref-15]
 
-The FRGCB blog describes it as "the first exclusively C64-released Disney-licenced game," and also says it was the first of only two games Al Lowe coded for the C64, the other being *Winnie the Pooh in the Hundred Acre Wood*.[^ref-6] The game was originally advertised as educational entertainment.[^ref-6]
+The FRGCB blog describes it as "the first exclusively C64-released Disney-licenced game," and also says it was the first of only two games Al Lowe coded for the C64, the other being *Winnie the Pooh in the Hundred Acre Wood*.[^ref-6] *Billboard* in December 1984 instead credited Chuck Benton with writing *Donald Duck's Playground* and said Lowe "took charge of" the Pooh game.[^ref-40] The game was originally advertised as educational entertainment.[^ref-6]
 
 ### Production
 
-Sources disagree about who programmed the C64 original. Lemon64 lists Al Lowe as coder and FRGCB states: "Written by Al Lowe for the Commodore 64."[^ref-14][^ref-6] MobyGames' C64 credits instead list [[Chuck Benton]] for the "Commodore 64 program", with Al Lowe credited for music.[^ref-26] According to FRGCB, Lowe told Hardcore Gaming 101 that he wrote the music very quickly because there was no budget for another person to do it.[^ref-6] He transcribed the music in assembly and implemented it in his own sound driver, which drives the Commodore 64's SID chip.[^ref-20]
+Sources disagree about who programmed the C64 original. Lemon64 lists Al Lowe as coder and FRGCB states: "Written by Al Lowe for the Commodore 64."[^ref-14][^ref-6] MobyGames' C64 credits instead list [[Chuck Benton]] for the "Commodore 64 program", with Al Lowe credited for music.[^ref-26] *Billboard* reported in December 1984 that "Chuck Benton wrote 'Donald Duck's Playground,'" while Al Lowe "took charge of" the Winnie the Pooh game.[^ref-40] The U.S. Gold manual, meanwhile, credits the game as "Designed by Al Lowe and the Walt Disney Personal Computer Software Staff."[^ref-37] According to FRGCB, Lowe told Hardcore Gaming 101 that he wrote the music very quickly because there was no budget for another person to do it.[^ref-6] He transcribed the music in assembly and implemented it in his own sound driver, which drives the Commodore 64's SID chip.[^ref-20]
+
+Disney's Richard Boehning, vice president of educational media/computer software, told *Billboard* that Disney's own software design team worked on the titles alongside Sierra's: "we had our software design team as well as Sierra's working on the titles."[^ref-40]
 
 C64-Wiki notes that the game slips in small lessons, such as Donald looking left and right before crossing the rails.[^ref-2] *The Rainbow* praised the no-lose design as "an excellent way to present an educational-type game as it avoids causing a great deal of frustration in the user."[^ref-25]
 
 **Development Credits:**
 - **Designer:** [[Al Lowe]][^ref-13]
 - **Programmers:** Al Lowe, [[Jeff Stephenson]], Chris Iden[^ref-13]
-- **C64 program:** Al Lowe (per Lemon64 and FRGCB) or Chuck Benton (per MobyGames)[^ref-14][^ref-6][^ref-26]
+- **C64 program:** Al Lowe (per Lemon64 and FRGCB) or Chuck Benton (per MobyGames and *Billboard*)[^ref-14][^ref-6][^ref-26][^ref-40]
 - **Graphics:** [[Mark Crowe]][^ref-13]
 - **TRS-80 CoCo graphics:** Gerald Moore, Doug MacNeill (per MobyGames' CoCo credits)[^ref-31]
 - **Additional Design:** Walt Disney Personal Computer Software Design and Development Staff[^ref-6]; the U.S. Gold manual credits "Designed by Al Lowe and the Walt Disney Personal Computer Software Staff"[^ref-37]
+- **Player's Guide:** Annette Childs (per MobyGames' CoCo credits)[^ref-31]
 - **Apple II / TRS-80 CoCo conversion:** Al Lowe, Jerry Moore, Doug MacNeill[^ref-6]
 - **Composer:** Al Lowe[^ref-13]
 
@@ -205,7 +208,7 @@ One MyAbandonware user reported that the DOS version ran too fast, with keys act
 
 ### Sales and Commercial Impact
 
-No sales figures have been found. The game's official description says it won several awards from educational software magazines as best educational game of the year.[^ref-1][^ref-3]
+No sales figures specific to this game have been published. *Billboard* reported in December 1984 that Sierra was selling three of the Disney titles for about $40 and that "it is believed that initial orders numbered about 40,000"; the figures cover the first three titles together, not this game alone, and the titles were geared for ages seven and up.[^ref-40] The game's official description says it won several awards from educational software magazines as best educational game of the year.[^ref-1][^ref-3]
 
 The game was published by Sierra On-Line in North America and by U.S. Gold in Europe.[^ref-5][^ref-26] Lemon64 also lists a European release under the Kids! label, and C64-Wiki lists Aackosoft among its publishers.[^ref-14][^ref-2] Releases followed on seven platforms between 1984 and 1988.[^ref-26]
 
@@ -283,11 +286,12 @@ Not every modern reviewer is as warm. *Data Driven Gamer* rated its edutainment 
 [^ref-29]: [Al Lowe – Biography](https://allowe.com/al/bio1.html) – Disney license context for Lowe's early Sierra titles
 [^ref-30]: [ScummVM – AGI detection table (detection_tables.h)](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/agi/detection_tables.h) – release builds, dates and interpreter versions for the PC booter, Atari ST, Amiga and DOS versions; CoCo build listed as an early AGI game
 [^ref-31]: [MobyGames – Donald Duck's Playground Credits (TRS-80 CoCo)](https://web.archive.org/web/20201024122615/https://www.mobygames.com/game/trs-80-coco/donald-ducks-playground/credits) – Wayback, October 2020: "Graphics by Gerald Moore, Doug MacNeill" on the CoCo release
-[^ref-32]: [Compute!'s Gazette, October 1985 – C. Regena, "Donald Duck's Playground" (p. 73)](https://archive.org/details/computes.gazette) – C64 review, ages 7 to 11, "excellent job of teaching the basics of money handling", jobs and shops, $34.95
-[^ref-33]: [Compute!'s Gazette, November 1985 – Corrections](https://archive.org/details/computes.gazette) – "The price is $24.95" correction for the October review
-[^ref-34]: [Family Computing, August 1986 – Tana A. Summers, "Donald Duck's Playground"](https://archive.org/details/FamilyComputingIssue041983Dec) – reviewed on 64K Apple, also C64/128, "Planned for IBM PC/PCjr", $30, ages 7-11
-[^ref-35]: [Computer Gaming World, issue 28 (May 1986) – Roy Wagner, "The Commodore Key"](https://archive.org/details/cgw_museum_pdfs) – C64 review, ages 5 to 10, character-graphics note, Becky's Toy Store
-[^ref-36]: [Page 6 Magazine, issue 28 (July/August 1987) – Les Ellingham, "Donald Duck's Playground"](https://archive.org/details/Page630Nov87) – Atari ST review, £24.95, control and disk-loading criticisms
+[^ref-32]: [Compute!'s Gazette, October 1985 – C. Regena, "Donald Duck's Playground" (p. 73)](https://archive.org/details/computes.gazette/Compute_Gazette_Issue_28_1985_Oct) – C64 review, ages 7 to 11, "excellent job of teaching the basics of money handling", jobs and shops, $34.95
+[^ref-33]: [Compute!'s Gazette, November 1985 – Corrections](https://archive.org/details/computes.gazette/Compute_Gazette_Issue_29_1985_Nov) – "The price is $24.95" correction for the October review
+[^ref-34]: [Family Computing, August 1986 – T. A. Summers, "Donald Duck's Playground"](https://archive.org/details/FamilyComputingIssue041983Dec/Family_Computing_Issue_36_1986_Aug) – reviewed on 64K Apple, also C64/128, "Planned for IBM PC/PCjr", $30, ages 7-11
+[^ref-35]: [Computer Gaming World, issue 28 (May 1986) – Roy Wagner, "The Commodore Key"](https://archive.org/details/cgw_museum_pdfs/cgw_28) – C64 review, ages 5 to 10, character-graphics note, Becky's Toy Store
+[^ref-36]: [Page 6 Magazine, issue 28 (July/August 1987) – Les Ellingham, "Donald Duck's Playground"](https://archive.org/details/Page630Nov87/Page6/Page6-28-Jul87) – Atari ST review, £24.95, control and disk-loading criticisms
 [^ref-37]: [Internet Archive – Donald Duck's Playground (U.S. Gold) Instructions](https://archive.org/details/Donald_Ducks_Playground_198x_U.S._Gold_1240_Instructions) – C64 manual title page: "Designed by Al Lowe and the Walt Disney Personal Computer Software Staff", (c) Walt Disney Productions, 1984
 [^ref-38]: [GOG Community Wishlist – Donald Duck's Playground](https://www.gog.com/wishlist/games/donald_ducks_playground) – the game's wishlist entry, read-only with a note that the wishlist moved to the GOG Dreamlist
 [^ref-39]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 18, 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – lists Donald Duck's Playground interpreter 2.001 as 1986-06-08 and the PC release as a booter, version 1.0Q
+[^ref-40]: [Internet Archive – Billboard, December 15, 1984, p. 26](https://archive.org/details/bub_gb_nSQEAAAAMBAJ/page/n25/mode/2up) – Faye Zuckerman, "Walt Disney Productions teams with Sierra On-Line on five programs": Chuck Benton wrote "Donald Duck's Playground"; about $40 for three titles, about 40,000 initial orders; Boehning on the joint design teams
