@@ -10,7 +10,7 @@ series: Standalone
 engine: GoldSrc
 protagonist: Major Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Gunman Chronicles is a first-person shooter released in November 2000
   by Rewolf Software, a team of modders whose Half-Life total conversion Sierra Studios
   published as a standalone retail game.
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, standalone]
 ---
 # Gunman Chronicles
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -26,7 +26,7 @@ Gunman Chronicles is a first-person shooter released in November 2000 that began
 
 Developed by a globally distributed team of teenage modders who coordinated design through ICQ,[^ref-36] Gunman Chronicles was the first independent non-Half-Life game to use the GoldSrc engine.[^ref-18] Its showing at the Half-Life Mod Expo in 1999 attracted Sierra's attention,[^ref-1][^ref-19] and Valve later gave the team office space at its Seattle headquarters and $20,000 in funding to finish the game.[^ref-37] Critics faulted its derivative relationship to Half-Life while praising its configurable weapons,[^ref-31][^ref-30] and it retains fans, some of whom lament that it has never come to Steam.[^ref-20][^ref-29]
 
-The game's tagline reads "It's High Noon In Deep Space."[^ref-13] Reviewers and wikis describe a genre blend that set Starship Troopers-style military science fiction[^ref-26][^ref-12] alongside steampunk and American Civil War styling.[^ref-11][^ref-25] Players assume the role of Major Archer, leader of the Gunmen, "the only law in this area of the galaxy,"[^ref-7] as he hunts the source of a renewed Xenome outbreak. The Xenomes turn out to be genetically engineered bioweapons,[^ref-13] and the trail leads to the General, the commanding officer Archer's unit left behind believing him dead.[^ref-11]
+The game's tagline reads "It's High Noon In Deep Space."[^ref-13] Reviewers and wikis describe a genre blend that set Starship Troopers-style military science fiction[^ref-26][^ref-12] alongside steampunk and American Civil War styling.[^ref-11][^ref-25] Players assume the role of Major Archer, leader of the Gunmen, "the only law in this area of the galaxy,"[^ref-7] as he hunts the source of a renewed Xenome outbreak. The official site describes the Xenomes as an alien infestation whose DNA a "mysterious presence" has tinkered with, "making them bigger and stronger than before,"[^ref-52] and the trail leads to the General, the commanding officer Archer's unit left behind believing him dead.[^ref-11]
 
 > [!info]- Game Info
 > **Developer:** Rewolf Software[^ref-1]
@@ -46,7 +46,7 @@ Five years before the game's events, the word "Xenome" had no meaning to the ave
 
 The game opens with Major Archer and his platoon responding to a Gunman distress signal on a jungle planet inhabited by dinosaurs.[^ref-10] What begins as a routine rescue mission quickly spirals into something far more sinister when Archer discovers that The General survived the battle on Banzure Prime and, feeling betrayed by his followers, has set out to create a race of super-Xenomes to conquer humanity.[^ref-11]
 
-As Archer pursues the truth across four distinct worlds,[^ref-19] he encounters a menagerie of threats including dinosaurs, hostile bandits, and waves of Xenome creatures.[^ref-12] The narrative reveals that the Xenomes are not a natural alien species but rather genetically engineered bioweapons—a revelation that reframes the entire conflict and The General's role in it.[^ref-13] Along the way, Archer must also contend with a deranged AI facility overseer who announces, "Allow me to introduce myself - I am the mainframe in control of this facility, and you are DEAD!"[^ref-14]
+As Archer pursues the truth across four distinct worlds,[^ref-19] he encounters a menagerie of threats including dinosaurs, hostile bandits, and waves of Xenome creatures.[^ref-12] The Xenomes are a natural genus of silicon-based creatures; the narrative reveals that the General's rogue cell is engineering new, enhanced Xenome breeds to use as weapons.[^ref-1][^ref-52] Along the way, Archer must also contend with a deranged AI facility overseer who announces, "Allow me to introduce myself - I am the mainframe in control of this facility, and you are DEAD!"[^ref-14]
 
 The storyline features "twists and turns" as Archer pieces together The General's conspiracy while fighting through Mayan temple complexes, military installations, and alien-infested territories.[^ref-15] One retrospective reviewer concluded that the game "feels like a 'B' action movie – it tells a story well, even if the story told isn't that memorable."[^ref-16]
 
@@ -97,7 +97,7 @@ Gunman Chronicles received a mixed critical response, with reviewers consistentl
 - **Yahoo!:** 70/100 – Said the game "doesn't necessarily capture the imagination to the extent that" Half-Life did, but it "does pack a pretty good punch"[^ref-29]
 - **CNET Gamecenter:** 6/10 – "Gunman Chronicles is a good first effort, but it's too derivative of Half-Life in many spots, and it lacks focus and polish"[^ref-31]
 - **GameSpot:** 5.8/10 – "Gunman Chronicles is certainly a solid effort by its developers, and large publishers should continue to encourage this grassroots movement among upstart development teams"[^ref-22]
-- **PC Gamer:** Score of 52 – Argued that better Half-Life modifications could be downloaded for free.[^ref-29]
+- **PC Gamer (US, February 2001):** 52% ("Merely Okay") – Jim Preston wrote that "Gunman Chronicles lacks the polish and professionalism that we've come to expect from full-priced games," praising the weapon "modify" system and the tanks, and concluded that "Better Half-Life fixes can be downloaded for free."[^ref-53]
 - **GameRevolution:** C[^ref-1] – Wrote that Gunman Chronicles "looks a lot like Half-Life" but "lacks the personality and creativity that made Half-Life such an epic game."[^ref-32]
 - **All Game Guide:** 40/100 – "The game is so predictable that you'll find yourself becoming agitated as you play"[^ref-33]
 - **NextGen:** "A respectable mod that's still no better than some of the free stuff out there"[^ref-1]
@@ -109,10 +109,10 @@ Later retrospectives remember the game with affection, though rarely without qua
 
 **Aggregate Scores:**
 - **Metacritic:** 65/100 (critic), 6.8/10 (user)[^ref-29]
-- **MobyGames:** 72% (critic), 3.4/5 (38 user ratings)[^ref-2]
+- **MobyGames:** 72% (critic), 6.9/10 (40 user votes; read via the MobyGames API, November 11, 2026)[^ref-2]
 - **IMDB:** 7.2/10[^ref-10]
 - **ModDB:** 9.1/10[^ref-11]
-- **MyAbandonware:** 4.6/5[^ref-18]
+- **MyAbandonware:** 4.5/5 (151 ratings, checked November 11, 2026)[^ref-18]
 - **Amazon US:** 3.7/5 (31 ratings)[^ref-5]
 - **Amazon UK:** 4.1/5[^ref-34]
 
@@ -124,7 +124,7 @@ One Metacritic user review laments the game's unavailability: "Perfect game. I w
 
 Gunman Chronicles has one of the most unusual development histories in gaming. The project began life as a Doom II mod created by Herbert "Herb" Flower;[^ref-44][^ref-36] Flower ported it to the Build and Quake engines, and in its Quake form it was a deathmatch mod titled "Gunmanship 101."[^ref-36][^ref-1] After a stint on Quake II, it settled on Valve's GoldSrc engine as a Half-Life total conversion.[^ref-1][^ref-2]
 
-The development team consisted of modders from across the globe, including contributors from Italy, Ukraine, and Germany; according to Herb Flower, the team were all 16-17 years old, with design coordinated via ICQ.[^ref-36] Contemporary reviews reported that the team shared work over the Internet using chat programs and FTP software, and that many collaborators had never met in person.[^ref-26][^ref-22] That changed late in development, when Valve brought the entire team together in Seattle for about two and a half months.[^ref-36]
+The development team consisted of modders from across the globe, including contributors from Italy, Ukraine, and Germany; according to Herb Flower, the team were all 16-17 years old, with design coordinated via ICQ.[^ref-36] Contemporary reviews reported that the team shared work over the Internet using chat programs and FTP software, and that many collaborators had never met in person;[^ref-26][^ref-22] PC Gamer's February 2001 review likewise described Rewolf as "an international collection of amateur modmakers who never actually met each other while working on the project."[^ref-53] That changed late in development, when Valve brought the entire team together in Seattle for about two and a half months.[^ref-36]
 
 ### Production
 
@@ -248,7 +248,13 @@ The game has inspired ongoing preservation efforts due to its abandonment by bot
 - **Sandbot:** Community-created bot modification for multiplayer, though users complained about "impossible reaction times and near perfect headshot accuracy"[^ref-47]
 - **Speedrunning Community:** Active speedrun scene with tools including Bunnymod XT, Cutsceneless Mod, and Auto Weapon Customization scripts[^ref-48]
 
-As of community discussions in 2015, two multiplayer servers were still running.[^ref-49] The rights situation remains murky—"Rewolf is defunct, Valve doesn't care, and the petition has failed."[^ref-49]
+As of community discussions in 2015, two multiplayer servers were still running.[^ref-49] The rights situation remains murky—"Rewolf is defunct, Valve doesn't care, and the petition has failed."[^ref-49] Flower told PC Gamer he does not know why the game is not on Steam but assumes a rights issue between Valve and Vivendi.[^ref-36]
+
+### Rewolf Aftermath
+
+Rewolf Software, also known as Rewolf Entertainment, was founded in Utah by Herbert Flower in 1996; its team came from the mod scene and was assembled for a single project, Gunman Chronicles, and it dissolved after the game shipped.[^ref-1] Flower co-founded Mythyn Interactive with Paul Witte in 2001,[^ref-1] and PC Gamer reports that the company made the Ultima Online-inspired MMO Linkrealms, a project Flower said took ten years.[^ref-36] Stefan Baier, Renier Banninga and Adrian Banninga moved to the Netherlands and co-founded Streamline Studios with Alexander L. Fernandez.[^ref-1]
+
+Flower told PC Gamer that his deal with Valve gave Rewolf first right of refusal on a sequel, but that when the team asked years later whether Valve would mind them "fiddling" with the game, the answer was "a hard 'No, don't do it.'"[^ref-36]
 
 ### Related Publications
 
@@ -335,3 +341,5 @@ One retrospective set the game against Halo, which arrived a year later with "en
 [^ref-48]: [Speedrun.com Resources](https://www.speedrun.com/gmc/resources) – speedrun tools
 [^ref-49]: [Reddit – Abandonware Discussion](https://www.reddit.com/r/HalfLife/comments/30gh8r/since_gunman_chronicles_is_clearly_abandonware/) – server status, rights situation
 [^ref-51]: [Obscuritory](https://obscuritory.com/shooter/gunman-chronicles/) – "break the mold" analysis, escalating scale quote
+[^ref-52]: [Gunman Chronicles Official Website (Wayback)](https://web.archive.org/web/20260118132440/http://gunmanchronicles.com/) – Xenome infestation, "tinkered with the DNA" description
+[^ref-53]: [PC Gamer, February 2001 (Internet Archive)](https://archive.org/details/pc-gamer-2001-02/page/n83) – Jim Preston review, p. 72, 52%, Rewolf "never actually met" quote
