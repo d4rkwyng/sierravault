@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows PC in 1999.
@@ -19,7 +19,7 @@ last_modified: 2026-10-27T10:25:25-06:00
 ---
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -146,7 +146,7 @@ The game used commercial sound effect libraries, including Hollywood Edge and So
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 31, 1999 | Windows | Initial release (Metacritic date; Wikipedia gives September 20, 1999)[^ref-7][^ref-1] |
+| 1.0 | August 31, 1999 | Windows | Initial release (Metacritic date; GameFAQs also lists August 31, 1999; Wikipedia gives September 20, 1999)[^ref-7][^ref-27][^ref-1] |
 | 1.1 | Unknown | Windows | Patch needed for the NoFuel cheat code[^ref-8] |
 | Deluxe | September 30, 2000 | Windows | Separate enhanced release with 50 new missions and a track creation system[^ref-1][^ref-6] |
 
@@ -181,18 +181,16 @@ The game was released under the Sierra Attractions casual gaming label, announce
 
 ### Sequels and Related Games
 
-The Deluxe version, released in 2000, was an enhanced release adding 50 new missions and a new track creation system[^ref-6]. Lionel later licensed other train games, including Lionel Trains: On Track for the Nintendo DS[^ref-1].
+The Deluxe version, released in 2000, was an enhanced release adding 50 new missions and a new track creation system[^ref-6]. Review Corner's children's software review of the Deluxe edition describes 80+ puzzles, three new train worlds for a total of ten, and a newly designed track layout system[^ref-28]. Lionel later licensed other train games, including Lionel Trains: On Track for the Nintendo DS[^ref-1].
 
 ### Critical Perspective
 
 3D Ultra Lionel Traintown combined puzzle gameplay, educational jobs and the Lionel license, and showed that the 3D Ultra line could move beyond arcade games into puzzle gaming[^ref-3]. Its Family Entertainment award[^ref-23] and the fond memories players still share online[^ref-12][^ref-18] suggest it left a lasting impression on the families who played it.
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam. GOG lists it only as a Dreamlist (wishlist) entry.
-
-## Downloads
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/3-d-ultra-lionel-train-town-deluxe-hut) (Deluxe edition)
@@ -203,6 +201,7 @@ The Deluxe version, released in 2000, was an enhanced release adding 50 new miss
 
 ## See Also
 
+- [[3D Ultra Series]]
 - [[1999 - 3-D Ultra Cool Pool|← Previous: 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Pinball - Power|→ Next: 3-D Ultra Pinball - Power]]
 
@@ -244,3 +243,5 @@ The Deluxe version, released in 2000, was an enhanced release adding 50 new miss
 [^ref-24]: [Wikipedia – 3rd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/3rd_Annual_Interactive_Achievement_Awards) – ceremony held May 11, 2000 at the Millennium Biltmore Hotel during E3 2000
 [^ref-25]: [MobyGames – 3-D Ultra Lionel TrainTown](https://www.mobygames.com/game/192264/3-d-ultra-lionel-traintown/) – back-of-box features, developer/publisher credits, alternate title "Mini Train"
 [^ref-26]: [IGN – 3-D Three (Wayback Machine)](https://web.archive.org/web/20240629193048/https://www.ign.com/articles/1999/09/21/3-d-three) – September 1999 announcement with Radio Control Racers and Cool Pool, ~$19.95 price
+[^ref-27]: [GameFAQs – 3D Ultra Lionel Traintown](https://gamefaqs.gamespot.com/pc/196509-3d-ultra-lionel-traintown) – release August 31, 1999; developer Dynamix; box description of more than 70 assignments from Caboose Washer to Whistle Blower
+[^ref-28]: [Review Corner – 3D Ultra Lionel Train Town Deluxe (Wayback Machine)](https://web.archive.org/web/20060219081156/http://reviewcorner.com/software/3dultralioneldlx.html) – children's software review of the Deluxe edition; 80+ puzzles, 3 new train worlds (10 in total), newly designed track layout system
