@@ -10,7 +10,7 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: William 'Blade' Hunter
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Rise of the Dragon is a cyberpunk graphic adventure game developed by
   Dynamix and published by Sierra On-Line in 1990. Set in a dystopian Los Angeles
   in 2053, it follows former police detective William 'Blade' Hunter as he investigates
@@ -19,7 +19,7 @@ tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Rise of the Dragon
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -68,10 +68,10 @@ Unlike most adventure games of the time, Rise of the Dragon operates in a living
 Blade's day typically begins at noon and ends at 1 AM when he must return home to sleep.[^ref-23] Wikipedia notes that the game ends after only three days if the villains' plans are not delayed.[^ref-2] Amiga Power counted "85 detail-packed locations" across futuristic Los Angeles.[^ref-48]
 
 **Key Locations:**
-- **Chen Lu's Apartment:** Where Blade finds the dealer Chen Lu assassinated with an overdose of MTZ[^ref-2]
-- **The Pleasure Dome:** A nightclub; the David Wolf cameo appears outside it[^ref-3]
-- **The Reservoir:** The Hollywood reservoir that the Triad plans to poison with MTZ[^ref-2]
-- **Deng Hwang Enterprises:** The antagonist's headquarters[^ref-15]
+- **Chen Lu's Apartment:** Where Blade finds the dealer Chen Lu assassinated with an overdose of MTZ[^ref-2][^ref-53]
+- **The Pleasure Dome:** A nightclub; the David Wolf cameo appears outside it[^ref-3][^ref-53]
+- **The Reservoir:** The Hollywood reservoir that the Triad plans to poison with MTZ[^ref-2][^ref-53]
+- **Deng Hwang Enterprises:** The antagonist's headquarters[^ref-15][^ref-53]
 
 ### Puzzles and Mechanics
 
@@ -85,7 +85,7 @@ One of the game's most unforgiving mechanics involves Blade's relationship with 
 
 ### Contemporary Reviews
 
-Rise of the Dragon's reception was generally positive.[^ref-2] *Dragon* magazine gave the game 5 out of 5 stars.[^ref-2]
+Rise of the Dragon's reception was generally positive.[^ref-2] *Dragon* magazine gave the game 5 out of 5 stars.[^ref-2] *Electronic Gaming Monthly* scored the Sega CD version 7.6 out of 10.[^ref-2]
 
 European gaming magazines were particularly enthusiastic. Datormagazin awarded the game 96%,[^ref-21] while French publication Joystick gave it 94%.[^ref-21] The One rated the Amiga version 92%, with the DOS version receiving 89% from the same publication.[^ref-21] Génération 4 awarded scores of 91% and 90% across different issues.[^ref-21] Amiga Format gave it 86% (reviewer Trenton Webb),[^ref-21] remembering it for its graphics and sound.[^ref-3]
 
@@ -119,10 +119,11 @@ Tunnell and David Selle's concept was inspired by Ridley Scott's Blade Runner an
 
 Development required an estimated 11,000 man-hours to complete.[^ref-47] The production utilized photography, lighting facilities, color scanning, and image processing to create game assets.[^ref-3] Veteran comic-book illustrator Robert Caracol, who had joined Dynamix from Dark Horse Comics, drew most of the scenery with pen and ink for digitization.[^ref-16][^ref-47] Art direction was handled by Randy Dersham.[^ref-47]
 
-The game was coded in Turbo C++ and built using the Dynamix Game Development System (DGDS), which would later be used for Heart of China and The Adventures of Willy Beamish.[^ref-3] Sources disagree on the scene count. The Dynamix wiki says the game ended up with 105 scenes, 12,500 individual animations, and 26,000 pieces of text;[^ref-3] Retro365 gives the same animation and text figures but "over 80 scenes";[^ref-47] GOG's store page says "Over 85 scenes and location",[^ref-33] and Amiga Power counted "85 detail-packed locations".[^ref-48]
+The game was coded in Turbo C++ and built using the Dynamix Game Development System (DGDS), which would later be used for Heart of China and The Adventures of Willy Beamish.[^ref-3] The Dynamix wiki says the company created DGDS for this game, building on the tools used for *David Wolf: Secret Agent*,[^ref-3] and ScummVM calls Rise of the Dragon the first of a small number of games built on the engine.[^ref-42] Sources disagree on the scene count. The Dynamix wiki says the game ended up with 105 scenes, 12,500 individual animations, and 26,000 pieces of text;[^ref-3] Retro365 gives the same animation and text figures but "over 80 scenes";[^ref-47] GOG's store page says "Over 85 scenes and location",[^ref-33] and Amiga Power counted "85 detail-packed locations".[^ref-48]
 
 **Development Credits:**[^ref-3]
 - **Designer and Director:** Jeff Tunnell
+- **Co-Director:** Alan McKean[^ref-2]
 - **Original Story:** David Selle, Jeff Tunnell
 - **Dialogue and Text:** Jerry Luttrell, David Selle
 - **Art Direction:** [[Randy Dersham]]
@@ -176,9 +177,6 @@ The Sega CD version underwent content modifications due to its MA-17 rating from
 | — | September 25, 1992 | Mega CD | Japanese release published by Sega, ported by Game Arts[^ref-44][^ref-11] |
 | — | 1993 and 1994 | Sega CD | United States releases published by Dynamix with voice acting; MobyGames lists both a 1993 and a 1994 US release,[^ref-44] Wikipedia gives 1993,[^ref-2] and Sega Retro gives 1994-03 at $49.99[^ref-11] |
 | — | November 8, 2017 | Windows (DOSBox) | Digital re-release by Activision[^ref-26] |
-
-**DGDS Engine Versions:**[^ref-3]
-The game was built using the Dynamix Game Development System (DGDS), the first title to utilize this proprietary engine. The same engine was subsequently used for Heart of China (1991) and The Adventures of Willy Beamish (1991).
 
 ### Technical Issues
 
@@ -255,10 +253,11 @@ Rise of the Dragon was highly ambitious for its time,[^ref-4] and in 1996 *Compu
 - Supported since ScummVM 2.9.0 (December 22, 2024)[^ref-43]
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
 
-**Download / Preservation**
-- [Internet Archive – Manual](https://archive.org/stream/Rise_of_the_Dragon_1993_Dynamix_US/Rise_of_the_Dragon_1993_Dynamix_US_djvu.txt)
-
 **Manuals & Extras**
+- [Internet Archive – Sega CD Manual (1993)](https://archive.org/details/Rise_of_the_Dragon_1993_Dynamix_US)
+- [The Sierra Help Pages – Rise of the Dragon Walkthrough](https://sierrahelp.com/Walkthroughs/RiseOfTheDragonWalkthrough.html)
+
+No Steam listing (checked 2026-11-12)
 
 ## See Also
 
@@ -296,7 +295,7 @@ Rise of the Dragon was highly ambitious for its time,[^ref-4] and in 1996 *Compu
 [^ref-34]: MyAbandonware – Rise of the Dragon *(download link removed: the game is sold commercially)* — Preservation page; game page (checked 2026-10-16) carries the "Review By HOTUD" text quoted for the death scenes
 [^ref-42]: [ScummVM – Rise of the Dragon public testing (October 30, 2024)](https://www.scummvm.org/news/20241030/) — Public testing announcement, first DGDS game
 [^ref-43]: [ScummVM 2.9.0 Release Notes (December 22, 2024)](https://www.scummvm.org/news/20241222/) — Rise of the Dragon listed among newly supported games
-[^ref-44]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) — Description, critic/player ratings, user reviews, trivia, specs, compilation listing; releases: published by Sierra On-Line (DOS/Amiga/Mac); Sega CD ported by Game Arts, with a 1992-09-25 Japan release (Sega) and 1993 and 1994 US releases (Dynamix) (read via the MobyGames API)
+[^ref-44]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) — Description, critic/player ratings, user reviews, trivia, specs, compilation listing; releases: published by Sierra On-Line (DOS/Amiga/Mac); Sega CD ported by Game Arts, with a 1992-09-25 Japan release (Sega) and 1993 and 1994 US releases (Dynamix)
 [^ref-45]: [Sierra Chest – Rise of the Dragon](https://www.sierrachest.com/index.php?a=games&id=377&fld=general) — Setting, multiple endings, Sega CD notes, Unreal 4 fan remake, Sierra Award Winners compilation
 [^ref-46]: [Computer Gaming World Issue 79 (February 1991)](https://archive.org/details/Computer_Gaming_World_Issue_79) — Contemporary review (Wyatt Lee); review box: "PUBLISHER: Dynamix (Division of Sierra)", $59.95
 [^ref-47]: [Retro365 – Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Development history: 1988 concept, 11,000 man-hours, Dersham/Caracol, Cam Clarke
@@ -304,4 +303,5 @@ Rise of the Dragon was highly ambitious for its time,[^ref-4] and in 1996 *Compu
 [^ref-49]: [Sierra Fandom Wiki – Rise of the Dragon](https://sierra.fandom.com/wiki/Rise_of_the_Dragon) — Blade Runner tribute, Deckard-like clothing
 [^ref-50]: [TV Tropes – Rise of the Dragon](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RiseOfTheDragon) — Mayor's hiring line quoted verbatim; "fourteen million can be saved" (best ending)
 [^ref-51]: [The Spoiler – Rise of the Dragon walkthrough by Asanthus (Just Adventure), variant 2](https://the-spoiler.com/ADVENTURE/Dynamix/rise.of.the.dragon.2.html) — "If you stand her up, the game is over"; "Karyn's help is crucial to completion of the game"; arrest for indecent exposure
-[^ref-52]: [Internet Archive – Rise of the Dragon (1993)(Dynamix)(US) Sega CD manual](https://archive.org/stream/Rise_of_the_Dragon_1993_Dynamix_US/Rise_of_the_Dragon_1993_Dynamix_US_djvu.txt) — "Licensed by Sega Enterprises, Ltd. for play on the Sega CD system"
+[^ref-52]: [Internet Archive – Rise of the Dragon (1993)(Dynamix)(US) Sega CD manual](https://archive.org/details/Rise_of_the_Dragon_1993_Dynamix_US) — "Licensed by Sega Enterprises, Ltd. for play on the Sega CD system"
+[^ref-53]: [The Sierra Help Pages – Rise of the Dragon Walkthrough](https://sierrahelp.com/Walkthroughs/RiseOfTheDragonWalkthrough.html) — Location chapters: Your Apartment, City Hall, The Warehouse, The Pleasure Dome, Chen Lu's Apartment, Johnny Qwong's Residence, The Reservoir, Deng Hwang Enterprises
