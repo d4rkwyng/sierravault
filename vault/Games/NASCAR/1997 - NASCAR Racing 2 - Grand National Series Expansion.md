@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 2 simulation engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: NASCAR Racing 2 Grand National Series Expansion was a 1997 DOS add-on
   for Sierra's NASCAR Racing 2, developed by Papyrus Design Group, adding Busch Grand
   National drivers, 10 official tracks and two fantasy tracks.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2 Grand National Series Expansion
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ The base game NASCAR Racing 2 had used a new game engine that improved graphics,
 
 ## Story Summary
 
-As a racing simulation, NASCAR Racing 2 Grand National Series Expansion has no narrative. Electric Games described it as bringing "the whole 1997 Grand National series experience" to the game, with "10 new tracks, 30 new drivers, and two fantastic fantasy tracks."[^ref-21]
+As a racing simulation, NASCAR Racing 2 Grand National Series Expansion has no narrative. Electric Games described it as bringing "the whole 1997 Grand National series experience" to the game, with "10 new tracks, 30 new drivers, and two fantastic fantasy tracks."[^ref-21][^ref-31]
 
 ## Gameplay
 
@@ -75,7 +75,7 @@ The base game included a toggleable damage model (bodywork, engine and wheels), 
 
 ### Track Selection
 
-The expansion added 10 official Grand National tracks plus two fantasy tracks, Bull Run Raceway and Red Rock International Raceway.[^ref-1][^ref-24] GameSpot's Papyrus history noted that it came without "serious, anticipated upgrades such as 3D acceleration support or pit crew animations."[^ref-29]
+The expansion added 10 official Grand National tracks plus two fantasy tracks, Bull Run Raceway and Red Rock International Raceway.[^ref-1][^ref-24] Computer Gaming World's rundown named the real tracks as California Speedway, Gateway International Speedway, Hickory Motor Speedway, Indianapolis Raceway Park, Milwaukee Mile, Myrtle Beach Speedway, Nashville Speedway USA, Nazareth Speedway, South Boston Speedway and Texas Motor Speedway.[^ref-27] Bull Run Raceway is an imaginary 3.6-mile course with long straights and heavy braking zones, while Red Rock International Raceway is a wide road course set amid seaside mountains, with large elevation changes.[^ref-27] GameSpot's Papyrus history noted that it came without "serious, anticipated upgrades such as 3D acceleration support or pit crew animations."[^ref-29]
 
 ## Reception
 
@@ -85,7 +85,7 @@ The expansion added 10 official Grand National tracks plus two fantasy tracks, B
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
-| Electric Games (1997) | 91% | "A great extention to the king of NASCAR sims"[^ref-21] |
+| Electric Games (1997) | 91% | "A great extention to the king of NASCAR sims"[^ref-31] |
 | Computer Gaming World (April 1998) | 3.5/5 | "the 12 new tracks (10 real tracks, 2 fantasy tracks) and new seasons breathe life into this aging game"[^ref-27] |
 
 Gordon Goble's Computer Gaming World review, "Back on Track", credited the pack with addressing "unrecognized control devices, unsavable races, and bizarre pitting rituals" in the base game.[^ref-27] He also faulted it for not giving players a distinct Grand National car, for leaving AI problems unfixed and for "somewhat slow frame rates" in 3D.[^ref-27]
@@ -127,7 +127,12 @@ Elton Sawyer and Patty Moise provided the advice for the new Grand National trac
 
 MobyGames describes NASCAR Racing 2 as the first NASCAR game to have 3D acceleration, with 3Dfx under DOS and Rendition under Windows.[^ref-3] Sierra's 3Dfx executable for the base game came later, as a 1998 "3Dfx Beta Update" whose graphics options were set at the command prompt or in AUTOEXEC.BAT.[^ref-16] MobyGames lists 3Dfx support for the expansion,[^ref-22] while Computer Gaming World's review box listed Rendition as its 3D support and found that the pack "doesn't seem fully optimized for 3D."[^ref-27]
 
-**Technical Specifications (expansion, per MobyGames):**[^ref-22]
+### Technical Specifications
+
+Computer Gaming World's review box listed a price of $49.95, a 486/66 minimum with 16 MB RAM, a 2x CD-ROM drive and Rendition 3D support.[^ref-27]
+
+MobyGames lists these specifications for the expansion:[^ref-22]
+
 - Platform: DOS, CD-ROM (2X drive minimum)
 - Minimum: Intel i486, 16 MB RAM
 - Video: VGA and SuperVGA
@@ -181,7 +186,7 @@ The base game is no longer commercially available and is considered abandonware;
 
 ## References
 
-[^ref-1]: [MobyGames - NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – Game description, publisher (Sierra On-Line), release date, player-vote count; read via the MobyGames API 2026-10-29
+[^ref-1]: [MobyGames - NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – Game description, publisher (Sierra On-Line), release date, player-vote count
 [^ref-2]: [Internet Archive - Nascar Grand National Series Expansion Pack 1997 Sierra CD](https://archive.org/details/nascar-grand-national-series-expansion-pack-1997-sierra-cd) – Preserved original CD
 [^ref-3]: [Internet Archive - NASCAR Racing 2 MS-DOS](https://archive.org/details/msdos_NASCAR_Racing_2_1996) – Technical improvements
 [^ref-4]: [GameSpot - NASCAR Racing 2 Review](https://www.gamespot.com/reviews/nascar-racing-2-review/1900-2543742/) – Tim Soete review
@@ -207,4 +212,5 @@ The base game is no longer commercially available and is considered abandonware;
 [^ref-27]: [Internet Archive - Computer Gaming World Issue 165 (April 1998)](https://archive.org/details/Computer_Gaming_World_Issue_165/page/n185/mode/1up) – Gordon Goble, "Back on Track", p. 182; 3.5 of 5 stars (checked against page image)
 [^ref-28]: [GameSpot - History of Papyrus Racing Games, page 2 (archived)](https://web.archive.org/web/20040805133318/http://www.gamespot.com/features/6103365/p-2.html) – Gord Goble, 2004; Kaemmer and Khudari formed Papyrus Design Group in 1987
 [^ref-29]: [GameSpot - History of Papyrus Racing Games, page 5 (archived)](https://web.archive.org/web/20040805135144/http://www.gamespot.com/features/6103365/p-5.html) – Gord Goble, 2004; 800,000 units, Grand National expansion contents
-[^ref-30]: [MobyGames - NASCAR Racing 2 + Track Pack](https://www.mobygames.com/game/124417/) – Retail compilation of NASCAR Racing 2 and the Grand National Series Expansion Pack (DOS and Windows, 1998); read via the MobyGames API 2026-11-11
+[^ref-30]: [MobyGames - NASCAR Racing 2 + Track Pack](https://www.mobygames.com/game/124417/) – Retail compilation of NASCAR Racing 2 and the Grand National Series Expansion Pack (DOS and Windows, 1998)
+[^ref-31]: [Electric Games - NASCAR Grand National Series Expansion Pack review (archived)](http://web.archive.org/web/20051231080537/www.electric-games.com/reviews/nascar2exp.html) – 1997 review; Overall Impression 91%
