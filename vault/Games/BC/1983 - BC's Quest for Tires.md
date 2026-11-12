@@ -10,7 +10,7 @@ series: B.C.
 engine: Custom
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: B.C.'s Quest for Tires is a 1983 side-scrolling action game based on
   Johnny Hart's newspaper comic strip *B.C.*, published by Sierra On-Line and developed
   by Sydney Development Corp.
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C.'s Quest for Tires
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ Contemporary reviewers praised the game's animation and faithful recreation of H
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-1]
-> **Designer:** Rick Banks, Michael Bate[^ref-24][^ref-20]
+> **Designer:** Rick Banks, Michael Bate (Bate per CollectorVision)[^ref-24][^ref-20]
 > **Programmer:** [[Chuck Benton]] (Atari 8-bit, Commodore 64)[^ref-3][^ref-12]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Custom
@@ -52,7 +52,7 @@ Thor must also contend with club-wielding Neanderthals and dodge stones thrown a
 
 ### Interface and Controls
 
-B.C.'s Quest for Tires employs a simple joystick-based control scheme, with players using a joystick in port 2 on most home computer versions.[^ref-11] The game supports one or two players taking turns.[^ref-11] Thor automatically scrolls forward at a constant speed, and players must time their inputs to navigate obstacles successfully.
+B.C.'s Quest for Tires employs a simple joystick-based control scheme, with players using a joystick in port 2 on most home computer versions.[^ref-11] The game supports one or two players taking turns.[^ref-11] The game is a "forced runner" in which Thor moves automatically from left to right,[^ref-2] and on the Atari version the joystick's left and right movements regulate his speed,[^ref-35] so players must time their inputs to navigate obstacles successfully.
 
 The primary controls allow Thor to jump over obstacles or duck under them.[^ref-2] However, the ducking mechanic has a quirk—when you duck, the character bounces up and down, so players must avoid ducking too soon.[^ref-7] The PC version cannot be played without a joystick; the *FRGCB* blog says it "will launch an unplayable game, where Thor just keeps on jumping".[^ref-12] A MyAbandonware user comment adds that the PC booter release "never had support for Keyboard Control".[^ref-19]
 
@@ -60,13 +60,13 @@ The primary controls allow Thor to jump over obstacles or duck under them.[^ref-
 
 The game follows a linear structure where Thor must navigate through several distinct obstacle types on his way to rescue Cute Chick. Contemporary reviews described it as "that get-from-point-A-to-point-B kind of game."[^ref-3] *Softline* magazine characterized it as "not so much a computer game as it is an interactive cartoon. This cartoon has its limits, but it does provide some challenge."[^ref-3]
 
-The obstacles Thor encounters include:
+The obstacles Thor encounters include:[^ref-7][^ref-2][^ref-34]
 
 - **Rocky Terrain:** Rocks and boulders that must be jumped over
 - **Trees and Forests:** Low-hanging branches requiring ducking
 - **Rivers:** Water hazards requiring precise jumping
-- **Lava Pits:** Dangerous gaps to leap across
-- **Cliffs:** Elevated terrain requiring careful timing
+- **Lava Pits:** Pits that Thor crosses at one point carried by a Dooky Bird
+- **Cliffs:** Edges Thor can fall from
 - **Fat Broad:** A character from the strip who taunts Thor with "Jump, sucker!"[^ref-12]
 
 Rather than traditional levels of increasing difficulty, the game offers new obstacles to overcome on the path to rescue.[^ref-3] The gameplay requires far more timing than strategy.[^ref-3] The game is notably short; a MobyGames player review calls it "one of the shortest games, with the average person being able to complete it in ten minutes, providing they don't lose a life."[^ref-1]
@@ -83,7 +83,7 @@ The core mechanic involves precise timing of jumps and ducks to avoid hazards. A
 
 The game received mixed to positive reviews upon release, with particular praise for its graphics and animation quality.
 
-*Electronic Fun* awarded the game 3 out of 4 stars in February 1984, praising that "the graphics have been lovingly" recreated from the source material.[^ref-16] *Electronic Games* (July 1984, reviewer Bill Kunkel) covered the ColecoVision version, noting that the right controller button speeds Thor up, making each successful jump worth double, quadruple or even eight times the points (the left button brakes), that he travels through twelve screens, and that "the animation is top-quality".[^ref-32] *Electronic Games* (May 1984) was enthusiastic about the conversion, stating: "Programmer Chuck Benton has translated all of the comic strip's considerable charm to the electronic game screen using graphics that will certainly please all Hart fans in the audience."[^ref-16]
+*Electronic Fun* (February 1984, reviewer George Kopp) awarded the Atari version 3 out of 4 stars.[^ref-16] Kopp wrote: "The graphics have been lovingly recreated by Sydney Development Corp., the Canadian firm that made the original B.C. deal with cartoonist Johnny Hart and then sold the distribution rights to Sierra," and called the graphics "simply terrific"; he found the soundtrack dull and noted that the second round adds no new obstacles, though each round is faster.[^ref-34] *Electronic Games* (July 1984, reviewer Bill Kunkel) covered the ColecoVision version, noting that the right controller button speeds Thor up, making each successful jump worth double, quadruple or even eight times the points (the left button brakes), that he travels through twelve screens, and that "the animation is top-quality".[^ref-32] *Electronic Games* (May 1984, reviewer Arnie Katz) was enthusiastic about the Atari conversion, stating: "Programmer Chuck Benton has translated all of the comic strip's considerable charm to the electronic game screen using graphics that will certainly please all Hart fans in the audience." Katz noted that the game has four skill levels, said the play is "much more fluid" than *Smurf Rescue*'s, and called it "a polished gem, brilliant and beautiful".[^ref-35]
 
 *ANTIC Magazine* (March 1984) offered a nuanced assessment from reviewer Harvey Bernstein, praising "the animation is first-rate" while criticizing the gameplay: "It seems as though the programmers put so much effort into recreating the look of B.C. that they forgot about game play." He concluded: "I can recommend BC's Quest for Tires for its animation" but "I think most gamers will enjoy the game for a day or two, then relegate it to the shelf."[^ref-5]
 
@@ -114,12 +114,12 @@ The *C64-Wiki* community notes: "Spartan comical graphics with a bumpy scrolling
 
 **Aggregate Scores:**
 - **MobyGames:** 7.3 Moby Score, 73% critics average (12 reviews), 3.6/5 players (67 ratings, October 2026)[^ref-1]
-- **Atarimania:** 8.4/10 (197 votes, October 2026)[^ref-16]
+- **Atarimania:** 8.4/10 (197 votes, checked 2026-11-12)[^ref-16]
 - **Lemon64:** 7.35/10 (72 votes, February 2007, as recorded by C64-Wiki)[^ref-11]
 - **C64-Wiki:** 7.57/10 (51 votes)[^ref-11]
 - **World of Spectrum:** 7.56/10 (27 votes, November 2014, as recorded by FRGCB)[^ref-12]
-- **IMDB:** 5.3/10 (17 ratings)[^ref-20]
-- **MyAbandonware:** 4.37/5 (19 votes)[^ref-19]
+- **IMDB:** 5.5/10 (19 ratings, checked 2026-11-12)[^ref-20]
+- **MyAbandonware:** 4.4/5 (20 votes, checked 2026-11-12)[^ref-19]
 
 ## Development
 
@@ -205,7 +205,7 @@ No specific cut content has been documented in available sources.
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | October 1983 | Atari 8-bit | Initial release[^ref-1] |
-| Original | 1983 | ColecoVision | Console release[^ref-2] |
+| Original | November 1983 | ColecoVision | Console release; in-game title "B.C.'s Quest"[^ref-2][^ref-1] |
 | Original | 1984 | Commodore 64 | Home computer release[^ref-17] |
 | Original | 1984 | IBM PC | CGA graphics version[^ref-1] |
 | Original | 1984 | Apple II | Home computer release (MobyGames: March 1984; FRGCB lists 1983)[^ref-1][^ref-12] |
@@ -261,14 +261,10 @@ The game represents an early example of successful comic strip licensing in vide
 
 The game also exemplifies the rapid multi-platform development practices of the early 1980s, with different programmers creating distinct versions for various home computers and consoles. Chuck Benton's story of designing "the second half of the game myself, even though it wasn't part of the contract" reveals the informal, entrepreneurial nature of game development in this era.[^ref-21] That Sierra had its in-house designers copy his builds speaks to both the quality of his contribution and the collaborative chaos of early game publishing.
 
-## Purchase
-
-- The original game is not sold on GOG or Steam (store searches checked October 11, 2026).
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on major digital storefronts
+- Not currently available on major digital storefronts; the original game is not sold on GOG or Steam (store searches checked 2026-11-12)
 
 **Download / Preservation**
 - [Internet Archive – ColecoVision Version](https://archive.org/details/BCs_Quest_for_Tires_1983_Sierra_On_Line)[^ref-2]
@@ -316,3 +312,5 @@ The game also exemplifies the rapid multi-platform development practices of the 
 [^ref-31]: [Ottawa Citizen – "Cutting Edge" (March 10, 1997, p. 49), Wayback copy of the Newspapers.com clipping](https://web.archive.org/web/20230816052449/https://www.newspapers.com/article/the-ottawa-citizen/130054408/) – "won the Software Publisher's Association's 1989 best game award"; sold "a million copies"
 [^ref-32]: [Internet Archive – Electronic Games, Vol. 2 No. 13 (July 1984)](https://archive.org/details/Electronic_Games_Volume_02_Number_13_1984-07_Reese_Communications_US) – Bill Kunkel's ColecoVision review: speed button, twelve screens
 [^ref-33]: [Wikipedia – Sydney Development Corporation](https://en.wikipedia.org/wiki/Sydney_Development_Corporation) – company article: first publicly traded software company in Canada, founded 1978 by Tarrnie Williams
+[^ref-34]: [Internet Archive – Electronic Fun with Computers & Games, Vol. 2 No. 4 (February 1984)](https://archive.org/details/electronic-fun-with-computers-and-games-volume-2-number-4-february-1984) – George Kopp's Atari review: Sydney Development graphics, flaws, obstacles
+[^ref-35]: [Internet Archive – Electronic Games, Vol. 2 No. 12 (May 1984)](https://archive.org/details/Electronic_Games_Volume_02_Number_12_1984-05_Reese_Communications_US) – Arnie Katz's Atari review: four skill levels, speed control, "polished gem"
