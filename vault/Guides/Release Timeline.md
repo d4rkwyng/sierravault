@@ -295,7 +295,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 - [[1996 - Hoyle Bridge|Hoyle Bridge]] — Series: Hoyle, Type: Card Game[^ref-8]
 - [[1996 - Hoyle Casino|Hoyle Casino]] — Series: Hoyle, Type: Casino Simulation
 - [[1996 - Hoyle Solitaire|Hoyle Solitaire]] (Hoyle Official Book of Games Volume 5) — Series: Hoyle, Type: Puzzle / Card Game[^ref-10]
-- [[1996 - Hunter Hunted|Hunter Hunted]] — Series: K.A.A. (Kill All Aliens), Type: Action Platformer
+- [[1996 - Hunter Hunted|Hunter Hunted]] — Series: K.A.A. (Knot Another Adventure Game), Type: Action Platformer
 - **[[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7 - Love for Sail]]** — Series: Leisure Suit Larry, Type: Adventure
 - [[1996 - Lighthouse - The Dark Being|Lighthouse - The Dark Being]] — Series: Lighthouse, Type: Adventure
 - [[1996 - Lords of the Realm II|Lords of the Realm II]] — Series: Lords of the Realm, Type: Strategy

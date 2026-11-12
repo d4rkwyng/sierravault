@@ -93,6 +93,7 @@ A selection of notable Dynamix-developed titles that have SierraVault pages, not
 - **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (Jeff Tunnell Productions) — Genre: Puzzle
 - **1995** — [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] — Genre: Pinball
 - **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Genre: Sports/Fishing
+- **1996** — [[1996 - CyberGladiators|CyberGladiators]] — Genre: Fighting
 - **1996** — [[1996 - Earthsiege 2|Earthsiege 2]] — Genre: Mech Combat
 - **1996** — [[1996 - Hunter Hunted|Hunter Hunted]] — Genre: Action
 - **1996** — [[1996 - MissionForce - Cyberstorm|MissionForce: Cyberstorm]] — Genre: Turn-Based Strategy

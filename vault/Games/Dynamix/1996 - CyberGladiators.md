@@ -10,14 +10,14 @@ series: K.A.A. series
 engine: Unknown
 protagonist: Player-selected fighter
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: CyberGladiators is a one-on-one 3D fighting game released in November
-  1996 for Windows 95, developed by Dynamix, Inc. under its short-lived k.a.a. action label and published by Sierra On-Line...
+  1996 for Windows 95, developed by Dynamix, Inc. under its short-lived k.a.a. action label and published by Sierra On-Line.
 tags: [1990s, k-a-a-series, sierra]
 ---
 # CyberGladiators
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -28,17 +28,17 @@ The premise centers on a freak cosmic storm that turned fallen heroes and impris
 CyberGladiators evolved from a cancelled Sierra project called CRY.SYS[^ref-3]. It offers single-player play against the computer and two-player matches on the same PC; it has no LAN or online play[^ref-6].
 
 > [!info]- Game Info
-> **Developer:** Dynamix, Inc.[^ref-1]
-> **Director:** Randy Thompson[^ref-4]
-> **Producer:** Ken Embery[^ref-4]
-> **Publisher:** Sierra On-Line[^ref-1]
+> **Developer:** [[Dynamix|Dynamix, Inc.]][^ref-1]
+> **Designer:** Randy Thompson[^ref-29]
+> **Director:** Randy Thompson[^ref-38]
+> **Producer:** Ken Embery[^ref-38]
+> **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Unknown
 > **Platforms:** Windows 95[^ref-4]
 > **Release Year:** 1996[^ref-4]
 > **Series:** K.A.A. series[^ref-7]
 > **Protagonist:** Player-selected fighter
 > **Sierra Lineage:** Core Sierra
-> **Designer:** Randy Thompson[^ref-29]
 
 ## Story Summary
 
@@ -106,6 +106,10 @@ PC Multimedia & Entertainment told owners of Rendition Vérité or 3Dfx Voodoo a
 
 GameSpot's staff review scored it 8.3. It praised the graphics and sound: "CyberGladiators' graphics and sound alone make it worth checking out." It then added: "As for the fighting, it's standard fare"[^ref-27]. PC Zone gave the game 6.4 out of 10[^ref-4][^ref-31].
 
+In the United States, Computer Gaming World's March 1997 issue (#152) reviewed it as Sierra's first entry in the fighting-game market. E. Chin wrote that it "isn't too shabby," that it is "definitely not up to par with Virtua Fighter," and that "its gameplay is at least as good as Mortal Kombat for the PC." Chin praised the interactive arenas, where "Meteors crash onto arenas, barrels lie ready to be kicked at your enemy, and spears lie ready to be thrown," and called the graphics "fantastic on a Rendition- or 3Dfx-based 3D card." The review noted support for the Sidewinder, GrIP and other controllers, but added that "there is a lack of depth" for fighting fans seeking a serious and replayable game[^ref-34].
+
+PC Zone's print review appeared in issue 48 (March 1997). It said the game is "only playable if you're lucky enough to have a 3D accelerator card" and "without one it's offensively s-l-o-o-w," that "with the correct hardware, it looks gorgeous; the gameplay, sadly, is somewhat lacking," and advised readers to wait for the PC version of Tekken 2. It did credit "specific support for the new multi-button gamepads" and the weapons thrown into the arena by the unseen audience[^ref-35].
+
 ### Modern Assessment
 
 User comments are sparse. On Classic Gaming Network, a 2014 comment says it "Feels like Rise of the Robots, but in 3D!"[^ref-5]. On MyAbandonware, one user called it a "VERY COOL GAME!" and the site's rating stands at 4.4 out of 5 from 5 votes[^ref-15].
@@ -129,13 +133,25 @@ CyberGladiators is what Sierra's cancelled project CRY.SYS evolved into[^ref-3].
 
 ### Production
 
-Development was handled by Dynamix, Inc., with Randy Thompson serving as director and Ken Embery as producer[^ref-4]. The game was built for Windows 95 and used Microsoft's DirectX[^ref-27].
+Development was handled by Dynamix, Inc., with [[Jeff Tunnell|Jeffrey Tunnell]] as executive producer, Ken Embery as producer, and Randy Thompson as director and as one of four programmers. Rhett Anderson was lead programmer, Michael Waite creative director, and Damon Mitchell art director as well as fighter modeler and texture artist. David Leung served as fight consultant and also appears among the five motion actors[^ref-38]. The game was built for Windows 95 and used Microsoft's DirectX[^ref-27].
 
 Voice recording was handled by Full Moon Studios, and the music was produced by Loudmouth, Inc.[^ref-18]
 
-**Development Credits:**[^ref-4]
-- **Director:** Randy Thompson
+**Development Credits:**[^ref-38]
+- **Executive Producer:** Jeffrey Tunnell
 - **Producer:** Ken Embery
+- **Art Producer:** Jay Dee Alley
+- **Director:** Randy Thompson
+- **Creative Director:** Michael Waite
+- **Art Director:** Damon Mitchell
+- **Lead Programmer:** Rhett Anderson
+- **Programmers:** Tim Midkiff, Nels Bruckner, Randy Thompson, Mark Frohnmayer
+- **Fight Consultant:** David Leung
+- **Motion Actors:** Kellie Bishop, James Choi, Donald Hom, Chari Hunter, David Leung
+- **Sound Effects:** Ken Rogers
+- **Game Voices:** Heather Henderson, Sam A. Mowry, Chrisse Roccaro, Navgad Shenck
+- **Documentation Writing:** Randy Thompson
+- **QA Director:** David Steele
 - **Music By:** Loudmouth, Inc.[^ref-18]
 - **Voice Recording:** Full Moon Studios[^ref-18]
 
@@ -160,6 +176,28 @@ CyberGladiators supports Direct3D 2 and 3dfx Glide 2.1.1 for 3D acceleration, an
 
 **Download Size (Archive):** 290 MB[^ref-15]
 
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 1.0 | November 18, 1996 | Windows 95 | Initial retail release[^ref-4] |
+| Demo 1.0B | 1996 | Windows 95 | Promotional demo version[^ref-20] |
+
+The game was released in multiple regional editions, with confirmed releases in the United States, Germany, and France[^ref-18].
+
+**Screamin' 3D Bundle:** Sierra packaged CyberGladiators with its Screamin' 3D graphics card, a Rendition Vérité-based board with 4 MB of EDO DRAM sold for under $200 through Sierra's own offer, along with Indy Car Racing II, Silent Thunder and a Rendition-ready version of Quake[^ref-37]. NEXT Generation listed the $199 bundle in its February 1997 issue and remarked that "Cybergladiators is rather plain without 3D acceleration, with it, it is gorgeous"[^ref-36].
+
+**Demo Distribution:**[^ref-28]
+The CyberGladiators demo (2.99 MB) was included as promotional material with several other Sierra titles:[^ref-28]
+- 2 Good 2 Be True
+- 3-D Ultra Pinball 2: Creep Night
+- Birthright: The Gorgon's Alliance
+- Front Page Sports: Football Pro '97
+- Front Page Sports: Trophy Bass 2
+- Hunter Hunted
+- Lords of the Realm II
+- Lords of the Realm II: Royal Edition
+
 ### Technical Issues
 
 CyberGladiators has a timing bug that affects play on later systems. The game uses QueryPerformanceCounter() for timing calculations but fails to check QueryPerformanceFrequency(), resulting in incorrect conversion of performance counter cycles to milliseconds[^ref-20]. Bitpatch titles its patch a "Speed Fix"[^ref-20], and Sierra Chest notes that the demo may run at "lightning fast game speed"[^ref-28].
@@ -176,26 +214,6 @@ According to Bitpatch, ACT's EmulateSlowCpu shim "doesn't seem to work here," no
 Additional compatibility notes indicate the game likely requires a ddraw or glide wrapper for proper operation on modern computers[^ref-28]. The Sierra installer may also fail if the system test is performed during installation—users must answer "No" to bypass this check[^ref-10].
 
 Users on MyAbandonware report that the best method for playing the game on modern systems is running Windows 95 inside DOSBox or a similar virtualization environment[^ref-15]. One user comment there reports a persistent "insert cd" message, and another asks whether the image file is corrupted[^ref-15].
-
-### Version History
-
-| Version | Date | Platform | Notes |
-|---------|------|----------|-------|
-| 1.0 | November 18, 1996 | Windows 95 | Initial retail release[^ref-4] |
-| Demo 1.0B | 1996 | Windows 95 | Promotional demo version[^ref-20] |
-
-The game was released in multiple regional editions, with confirmed releases in the United States, Germany, and France[^ref-18].
-
-**Demo Distribution:**[^ref-28]
-The CyberGladiators demo (2.99 MB) was included as promotional material with several other Sierra titles:[^ref-28]
-- 2 Good 2 Be True
-- 3-D Ultra Pinball 2: Creep Night
-- Birthright: The Gorgon's Alliance
-- Front Page Sports: Football Pro '97
-- Front Page Sports: Trophy Bass 2
-- Hunter Hunted
-- Lords of the Realm II
-- Lords of the Realm II: Royal Edition
 
 ### Easter Eggs and Trivia
 
@@ -223,11 +241,10 @@ No significant fan remakes or modifications have been documented for CyberGladia
 
 Reviewers mostly agreed on the game's strengths and weaknesses. Its 3D graphics won praise from GameSpot and from PC Multimedia & Entertainment[^ref-27][^ref-31]. GameSpot judged the fighting itself "standard fare"[^ref-27], and several German and French magazines scored it at or below 54%[^ref-31].
 
-## Purchase
-
-- [GOG Dreamlist – CyberGladiators](https://www.gog.com/dreamlist/game/cybergladiators-1996) – Not sold on GOG; community vote page only
-
 ## Downloads
+
+**Purchase / Digital Stores**
+- [GOG Dreamlist – CyberGladiators](https://www.gog.com/dreamlist/game/cybergladiators-1996) – Not sold on GOG; community vote page only
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/cybergladiators) – Full game preservation[^ref-1]
@@ -277,3 +294,8 @@ Reviewers mostly agreed on the game's strengths and weaknesses. Its 3D graphics 
 [^ref-31]: [MobyGames – CyberGladiators Critic Reviews](https://www.mobygames.com/game/2858/cybergladiators/reviews/) – 14 critic scores (33%–92%), average 62%; review excerpts (the Gamecenter and CNET entries are the same gamecenter.com review)
 [^ref-32]: [CNET Gamecenter – CyberGladiators Review (Wayback Machine)](https://web.archive.org/web/20001203193600/http://www.gamecenter.com/Reviews/Item/Textonly/0,78,0-441,00.html) – Shane Mooney, January 14, 1997; "Rating: 7"; "has enough unique features and killer graphics to make it appealing to fans of the genre"
 [^ref-33]: [Super Page 58 – Digitiser review archive: Cyber Gladiators (PC), 8/1/97](https://www.superpage58.com/digitiser-video-game-reviews-archive-cyber-gladiators-pc-1997.htm) – Teletext page 172 screen captures, January 8, 1997; Visuals 80%, Gameplay 69%, Overall 68%
+[^ref-34]: [Computer Gaming World, Issue 152 (March 1997)](https://archive.org/details/Computer_Gaming_World_Issue_152) – E. Chin's CyberGladiators review: "isn't too shabby," "at least as good as Mortal Kombat for the PC," interactive arenas, Rendition/3Dfx graphics, "a lack of depth"
+[^ref-35]: [PC Zone, Issue 48 (March 1997)](https://archive.org/details/PC_Zone_48_March_1997) – Cyber Gladiators review: needs a 3D accelerator, "looks gorgeous; the gameplay, sadly, is somewhat lacking," multi-button gamepad support
+[^ref-36]: [NEXT Generation, Issue 26 (February 1997)](https://archive.org/details/nextgen-issue-26) – 3D card roundup: Sierra Screamin' 3D, $199, bundle with Shareware Quake, Indy Car Racing II, Silent Thunder and Cyber Gladiators
+[^ref-37]: [InterAction Magazine, Spring 1997](https://archive.org/details/InterAction_Magazine_Spring_1997_1997_Sierra_On-Line_US) – Screamin' 3D bundle advertisement (under $200, 4 MB EDO DRAM, Rendition Vérité); CyberGladiators feature ("eight fighters (plus two bosses)... ten fighting arenas")
+[^ref-38]: [MobyGames – CyberGladiators Credits](https://www.mobygames.com/game/2858/cybergladiators/credits/) – Windows credits, 46 people with 52 credits (executive producer, producer, director, programmers, art, motion actors, voices, QA)
