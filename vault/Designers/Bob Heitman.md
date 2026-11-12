@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest IV", "Space Quest III", "Manhunter: New York", "Ringworld: Revenge of the Patriarch", "Blue Force"]
 companies: ["Sierra On-Line", "Tsunami Media", "Triton Interactive", "Legend Entertainment"]
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 ---
 # Bob Heitman
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ As SCI matured, his credits are mostly for the engine itself: "Development Syste
 
 Rising through Sierra's ranks, Heitman eventually served as VP of Engineering and VP of Product Development, and as acting General Manager for The Sierra Network (TSN), Sierra's online gaming service.[^ref-3]
 
-### Tsunami Media (1991–1994)
+### Tsunami Media (from 1991)
 
 After leaving Sierra in late 1991, Heitman went to work under contract to Tsunami Media.[^ref-3] MobyGames credits him with creating the technology behind Tsunami Media's games, as well as the Passport2 online gaming network.[^ref-1]
 
@@ -106,7 +106,7 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 - **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: Game Development System
 - **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Game Development System
 - **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] — Role: Game Development System
-- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Game Development System
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Game Development System (MobyGames' person credit sheet; the game's own MobyGames credits list "Robert Eric Heitman" under Programming[^ref-30])
 - **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] — Role: Interpreter / Development System
 - **1988** — [[1988 - Gold Rush|Gold Rush!]] — Role: Graphics Utilities; Graphics / Artwork
 - **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Sierra Creative Interpreter (SCI)
@@ -114,7 +114,7 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 - **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] — Role: Interpreter / Development System
 - **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Development System
 - **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Authors
-- **1989** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Development System
+- **1989** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Development System (MobyGames dates the game 1989;[^ref-16] Wikipedia gives 1990[^ref-31])
 - **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games Vol. 1]] — Role: Development System
 - **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games Vol. 2]] — Role: Development System
 - **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Role: Development System
@@ -134,11 +134,11 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 (VGA)]] — Role: System Programmer
 - 1992 — Jones in the Fast Lane: CD-ROM — Interpreter / Development System; Acting / Voiceovers
 
-### Tsunami Media (1991–1994)
+### Tsunami Media (from 1991)
 
 - 1992 — Ringworld: Revenge of the Patriarch — Game Design, Game Programming, User's Manual
 - 1992 — Wacky Funsters! The Geekwad's Guide to Gaming — TsAGE System Development
-- **1993** — [[1993 - Blue Force|Blue Force]] — Role: Game Programming
+- **1993** — [[1993 - Blue Force|Blue Force]] — Role: Game Programming (the printed manual names him under "TsAGE Developed By"[^ref-29])
 - 1993 — The Geekwad: Games of the Galaxy — TsAGE System Development Team
 - 1994 — Return to Ringworld — Executive Producer, Technical Consultant
 - 1994 — Man Enough — Programming
@@ -157,7 +157,7 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 ## References
 
 [^ref-1]: [MobyGames - Robert Eric Heitman](https://www.mobygames.com/person/2200/robert-eric-heitman/) — Biography: one of Sierra's first employees, SCI co-developer, Tsunami technology, Passport2
-[^ref-3]: [Adventure Game Fan Fair - Robert Heitman](https://adventuregamefanfair.com/guests/robert-heitman/) — Biography, Sierra management roles, and Triton Interactive founding (live page returned HTTP 500 on 2026-11-11; [Wayback copy, 2026-06-17](https://web.archive.org/web/20260617002802/https://adventuregamefanfair.com/guests/robert-heitman/) carries the full bio)
+[^ref-3]: [Adventure Game Fan Fair - Robert Heitman](https://adventuregamefanfair.com/guests/robert-heitman/) — Biography, Sierra management roles, and Triton Interactive founding ([Wayback copy, 2026-06-17](https://web.archive.org/web/20260617002802/https://adventuregamefanfair.com/guests/robert-heitman/) carries the full bio)
 [^ref-5]: [LaunchBox - Robert Heitman Games](https://gamesdb.launchbox-app.com/developers/games/29876-robert-heitman) — Ultima II Atari ST port
 [^ref-7]: [Edenwaith - Reverse Engineering AGI](https://www.edenwaith.com/blog/index.php?p=87) — Names Heitman among the designers of AGI ([Wayback copy, 2026-06-14](https://web.archive.org/web/20260614215742/https://www.edenwaith.com/blog/index.php?p=87), used because the live site failed TLS on 2026-11-11)
 [^ref-8]: [MobyGames - Game Engine: Sierra's Creative Interpreter (SCI), sorted by date (Wayback, October 2023)](https://web.archive.org/web/20231030174919/https://www.mobygames.com/group/6528/game-engine-sierras-creative-interpreter-sci/sort:date/) — SCI "from 1988 to 1996"; date-sorted list opens with King's Quest IV (1988)
@@ -178,3 +178,6 @@ Roles below follow MobyGames' credit wording.[^ref-16]
 [^ref-26]: [ScummVM source - engines/tsage/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/tsage/detection_tables.h) — Protostar entries flagged "Demo" / ADGF_DEMO
 [^ref-27]: [MobyGames - King's Quest III: To Heir is Human (Wayback, July 2026)](https://web.archive.org/web/20260730071115/https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) — Credits list "Bob Kernaghan" among the programmers (Moby ID 126)
 [^ref-28]: [PC Gamer - From floppy disks to the crowdfunding revolution, adventure RPG pioneers Lori and Corey Cole have seen it all](https://www.pcgamer.com/from-floppy-disks-to-the-crowdfunding-revolution-adventure-rpg-pioneers-lori-and-corey-cole-have-seen-it-all/) — "Programming manager Bob Heitman nixed that idea"; Cole's account of the animation-system objection
+[^ref-29]: [Blue Force (1993) Manual - Internet Archive](https://archive.org/details/00308-blue-force-1993-manual) — Printed manual: "(c) Tsunami Media, Inc., 1993"; credits list (Game Programming, Art Direction, Background Renderings, TsAGE Developed By)
+[^ref-30]: [MobyGames - Police Quest 2: The Vengeance](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/) — DOS credits: Programming lists Robert Fischbach, Robert Eric Heitman, Chris Hoyt, Mickie Lee, Jerry Shaw, David Slayback (Moby ID 147)
+[^ref-31]: [Wikipedia - Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) — "published by the American computer game company Sierra On-Line in 1990"
