@@ -10,14 +10,15 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
+composer: [Chuck Mitchell]
 description: Return to Krondor is a 1998 fantasy role-playing game by PyroTechnix and
   7th Level, published by Sierra Studios as the sequel to Betrayal at Krondor.
 tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,6 +31,7 @@ Return to Krondor received above-average reviews according to GameRankings (72%)
 > [!info]- Game Info
 > **Developer:** PyroTechnix, 7th Level[^ref-1]
 > **Designer:** Andy Ashcraft, Jeryd Pojawa[^ref-51]
+> **Composer:** Chuck Mitchell[^ref-56][^ref-1]
 > **Publisher:** Sierra Studios[^ref-1]
 > **Engine:** True3D[^ref-1]
 > **Platforms:** Windows[^ref-1]
@@ -81,7 +83,7 @@ Return to Krondor received above-average reviews according to GameRankings (72%)
 
 GameSpot awarded the game 7.9/10, with reviewer Desslock noting that "Return to Krondor may not be an epic sequel to Betrayal at Krondor, but its excellent graphics and immersive plot make it an enjoyable story-driven game"[^ref-21]. PC Gamer US gave it 80%, calling it "a fun, quick RPG with a good story"[^ref-1]. Computer Games Strategy Plus was highly enthusiastic, with John Altman calling it "very engaging" and concluding that it "is a stunning return to form for the Krondor series"; he also praised "some of the juiciest turn-based battles ever to grace a role-playing game"[^ref-3].
 
-IGN scored the game 7.4/10, with Steve Butts stating that "Return to Krondor really delivers"[^ref-20]. Game Informer awarded 8.25/10[^ref-1]. CNET Gamecenter gave it 8/10, with Arinn Dembo describing it as "one of the most complex role-playing games of the year"[^ref-22].
+IGN scored the game 7.4/10, with Steve Butts stating that "Return to Krondor really delivers"[^ref-20]. Game Informer awarded 8.25/10[^ref-1]. CNET Gamecenter gave it 8/10, with Arinn Dembo describing it as "one of the most complex role-playing games of the year"[^ref-22]. GameRevolution (credited to "GR Staff", January 1, 1999) scored it 8, listing "Good Plot," "Terrific Graphics," "Excellent Sound," "Too Short" and "Just a Few Bugs," and concluding that "Slight bugs and lack of longevity aside, this is one of the most invigorating and addictive RPGs to come out since Diablo rocked the PC gaming world way back in 1996"[^ref-55].
 
 However, Computer Gaming World's Petra Schlunk was highly critical, writing that the game "is completely underdeveloped; too short; shamefully unfinished in terms of its story; and far too linear," though she conceded that "If all you want is a lightweight RPG for a long weekend, this game will serve you well"[^ref-23]. PC Accelerator gave only 5/10[^ref-1]. Next Generation scored it 3/5, noting "The game is well-made, and the plot will keep gamers on the edge of their seats. It's just too bad they won't stay there very long"[^ref-1].
 
@@ -89,16 +91,16 @@ AllGame's Joshua Roberts praised the visuals, stating "It's easily one of the mo
 
 ### Modern Assessment
 
-Modern assessments of Return to Krondor remain divided. The game holds a 71.67% aggregate score on GameRankings based on 21 reviews[^ref-25]. MobyGames lists a critics average of 74%[^ref-5]. GOG.com users rate it 3.9/5[^ref-2], while Steam reviews show a "Mixed" rating with 65% positive from 103 reviews[^ref-7].
+Modern assessments of Return to Krondor remain divided. The game holds a 71.67% aggregate score on GameRankings based on 21 reviews[^ref-25]. As of November 11, 2026, MobyGames lists a critics average of 75% (31 ratings)[^ref-5]. GOG.com users rate it 3.9/5[^ref-2], while Steam reviews show a "Mixed" rating with 65% positive from 104 user reviews[^ref-7].
 
 Some retrospective voices are more enthusiastic. One MobyGames user declared that "1998 was quite a year for the CRPG... Baldur's Gate as well as Return To Krondor were released. These two epic CRPGS would usher in a new age of CRPG goodness. Of those two aforementioned games, RTK was by far the better"[^ref-5]. Another simply called it "One of the best CRPGs ever made"[^ref-5].
 
 **Aggregate Scores:**
 - **GameRankings:** 71.67% (21 reviews)[^ref-25]
-- **MobyGames:** 74% (critics average)[^ref-5]
+- **MobyGames:** 75% (critics average, 31 ratings; as of November 11, 2026)[^ref-5]
 - **IMDB:** 7.2/10 (36 ratings)[^ref-27]
 - **GOG.com:** 3.9/5[^ref-2]
-- **Steam:** 65% positive (103 reviews)[^ref-7]
+- **Steam:** 65% positive (104 reviews; as of November 11, 2026)[^ref-7]
 
 ## Development
 
@@ -113,6 +115,8 @@ After Dynamix abandoned the sequel, 7th Level purchased the license in 1995[^ref
 ### Production
 
 Development of Return to Krondor proved troubled and prolonged. 7th Level developed the game basics, produced screen backgrounds, and added character voices, but turned to their Cincinnati-based subsidiary PyroTechnix for the technical aspects[^ref-1]. PyroTechnix brought their True3D engine to the project, the same technology that Sony had licensed for EverQuest[^ref-33].
+
+In a 1998 interview with the Vault Network (archived by the Wayback Machine on December 5, 1998), PyroTechnix studio manager Sinjin Bain said the company had come to games through digital photo-retouching and multimedia technology that became "a large part of CorelDRAW! 5.0 and 6.0," then built True3D and licensed it to developers including Viacom New Media and Sony before being acquired by 7th Level[^ref-54]. He said 7th Level had "developed a great initial story with Ray [Feist], great graphics, sound, and other game assets" but, "due to internal problems they never quite got around to making the game," and that Dynamix "did not pick up the option for another title" after Betrayal at Krondor, so the rights reverted to Feist before 7th Level obtained them[^ref-54]. PyroTechnix, he said, had to "re-texture all the characters, all 150 of them"; he also named Mark Skelton, the lead 7th Level artist on the cinematics, who had since joined Blizzard, and Jeff Mills, the lead technical art director responsible for many of the pre-rendered backgrounds, who had joined PyroTechnix[^ref-54].
 
 As 7th Level faced financial difficulties and worked to exit the game publishing business, they agreed on December 8, 1997, to sell PyroTechnix to Sierra On-Line for $1.2 million[^ref-34][^ref-36]. The deal brought Return to Krondor back to Sierra—the original publishers of Betrayal at Krondor. Scott Lynch, Senior Vice President of Sierra, stated: "PyroTechnix is an innovative and talented team that complements Sierra's roster of industry-leading game developers and 'Return to Krondor' will be a key product in our 1998 line-up"[^ref-36]. He added, "As the original developers of 'Betrayal at Krondor' we're thrilled to welcome Raymond Feist and the 'Krondor' series back to the Sierra family"[^ref-36].
 
@@ -132,6 +136,8 @@ The game was completed by PyroTechnix under Sierra's direction and released in N
 Return to Krondor utilized PyroTechnix's proprietary True3D engine, which supported both Direct3D and software rendering modes[^ref-21]. The game featured over 180 motion-captured 3D characters, more than 200 rendered locations, and real-time lighting and special effects advertised as "new to role-playing games"[^ref-17][^ref-8].
 
 The graphics employed pre-rendered 2D backgrounds—over 2,500 attractive backdrops edited in Adobe Photoshop—combined with 3D character models[^ref-35][^ref-15]. Colin E. Sweeney noted that the backgrounds were "pre-rendered and edited in Adobe PhotoShop"[^ref-15]. The 16-bit color graphics were considered "pretty stunning" for the time[^ref-28].
+
+The music was composed by Chuck Mitchell[^ref-56][^ref-1]. A 14-track CD, "The Original Soundtrack from Return To Krondor" (1998, 34:45), lists Mitchell as composer and Voice Of The Arts as the organization[^ref-56].
 
 ### Technical Specifications
 
@@ -168,10 +174,12 @@ A PlayStation port was discussed but never materialized. When asked about the po
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | November 24, 1998 (some databases list November 30) | Windows | Initial release[^ref-52][^ref-5] |
+| 1.0 | November 30, 1998 | Windows | Initial release; date as given by MobyGames, GOG.com, Steam, GameFAQs and Sierra Chest[^ref-5][^ref-2][^ref-7][^ref-45][^ref-44] |
 | 1.0.0.6 | 1998 | Windows | Patch fixing save problems, DirectSound workarounds, crash fixes[^ref-38] |
 | GOG.com | March 4, 2010 | Windows | Updated for modern Windows compatibility[^ref-1][^ref-4] |
 | Steam | December 15, 2016 | Windows | Digital distribution release[^ref-39] |
+
+Other release dates appear in print and online. GameSpot's "New Releases" list for November 24, 1998 includes the game, and Wikipedia gives that as the North American date[^ref-52][^ref-1]; IGN's review page shows an initial release of November 8, 1998[^ref-20]. Both GOG.com and Steam currently name Activision as the publisher, and Steam's page carries a "© 1998 Activision Publishing, Inc." notice[^ref-2][^ref-7].
 
 ### Technical Issues
 
@@ -229,11 +237,13 @@ The game was released in several packaged editions:
 
 The original CD release included demos for Caesar III, Hoyle Board Games 2, and Lords of Magic Special Edition[^ref-44].
 
+MobyGames lists the game as included in the compilations *10 Spiele-Hits Vol. 3* (2003), *Die Ultimative PC-Spielesammlung für die ganze Familie* (2000), *Drachenfeuer und andere Legenden* (2001) and *Dragon Stories* (2000)[^ref-5]. On Steam it is one of the 52 items in the Activision Collection bundle (as of November 11, 2026)[^ref-7].
+
 ### Fan Projects
 
 The game has maintained a devoted following with fan-created resources:
 - Multiple detailed walkthroughs on GameFAQs[^ref-45]
-- Speedrunning community with routing guides[^ref-46]
+- A small speedrun.com leaderboard: as of November 11, 2026, one Any% category with 13 runs by 2 players, plus a single routing guide[^ref-46]
 - Fan websites dedicated to documenting "all possible quests, plots, twists, and neat little quirks"[^ref-47]
 
 One devoted fan reported playing their "favourite cRPG 'Return to Krondor' for fifth or sixth time," remaining "still enthralled with its story and music"[^ref-48]. Raymond Feist himself passed along that composer Chuck Mitchell "still has copies of the sound track and was glad to hear people still like them"[^ref-48].
@@ -276,12 +286,12 @@ No download is listed: the game is sold on GOG.com and Steam.
 ## References
 
 [^ref-1]: [Wikipedia – Return to Krondor](https://en.wikipedia.org/wiki/Return_to_Krondor) – release date, developer, publisher, reviews, awards, development history
-[^ref-2]: [GOG.com – Return to Krondor](https://www.gog.com/en/game/return_to_krondor) – plot summary, user ratings, system requirements
+[^ref-2]: [GOG.com – Return to Krondor](https://www.gog.com/en/game/return_to_krondor) – plot summary, user ratings, system requirements; page lists release date 1998-11-30 and publisher Activision (checked November 11, 2026)
 [^ref-3]: [Computer Games Strategy Plus Review (Archived)](https://web.archive.org/web/20050208084731/http://www.cdmag.com/articles/016/083/return_krondor_review.html) – John Altman review quotes
 [^ref-4]: [GOG.com Forum – New Release Announcement](https://www.gog.com/forum/general_archive/new_release_return_to_krondor/page1) – GOG.com release, March 4, 2010
-[^ref-5]: [MobyGames – Return to Krondor](https://www.mobygames.com/game/458/return-to-krondor/) – credits, trivia, user reviews, aggregate score, gameplay description
+[^ref-5]: [MobyGames – Return to Krondor](https://www.mobygames.com/game/458/return-to-krondor/) – credits, trivia, user reviews, aggregate score (critics 75% from 31 ratings, Moby Score 7.2, read via ScraperAPI November 11, 2026), release date November 30, 1998, "Included in" compilations, gameplay description
 [^ref-6]: [ModDB – Return to Krondor](https://www.moddb.com/games/return-to-krondor) – feature highlights
-[^ref-7]: [Steam Store Page](https://store.steampowered.com/app/564960/Return_to_Krondor/) – plot description, user ratings, system requirements
+[^ref-7]: [Steam Store Page](https://store.steampowered.com/app/564960/Return_to_Krondor/) – plot description, system requirements; checked November 11, 2026: Mixed, 65% of 104 user reviews positive, release date Nov 30, 1998, publisher Activision, member of the 52-item Activision Collection bundle
 [^ref-8]: [Amazon UK Product Page](https://www.amazon.co.uk/Sierra-UK-Return-To-Krondor/dp/B00004UA0N) – game features, character descriptions
 [^ref-9]: [Prima Strategy Guide (Amazon)](https://www.amazon.com/Return-Krondor-Primas-Official-Strategy/dp/0761507094) – character names, chapter count
 [^ref-10]: [TV Tropes – Return to Krondor](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ReturntoKrondor) – trivia, character dialogue, development notes
@@ -292,7 +302,7 @@ No download is listed: the game is sold on GOG.com and Steam.
 [^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Return_to_Krondor) – technical issues, controls, compatibility
 [^ref-17]: [Crydee.com – Return to Krondor](https://www.crydee.com/raymond-feist/games/computer-based/return-to-krondor) – features, system requirements
 [^ref-19]: [Angelfire Walkthrough](https://web.archive.org/web/20250904022449/https://www.angelfire.com/hero/tjekanefir/rkrondor.htm) – gameplay details, chapter structure
-[^ref-20]: [IGN Review](https://www.ign.com/articles/1999/01/29/return-to-krondor) – score, gameplay features
+[^ref-20]: [IGN Review](https://www.ign.com/articles/1999/01/29/return-to-krondor) – score, gameplay features; page header shows "Initial Release: Nov 8, 1998" (checked November 11, 2026)
 [^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/return-to-krondor-review/1900-2532792/) – score, technical assessment
 [^ref-22]: [CNET Gamecenter Review (Archived)](https://web.archive.org/web/20000823093208/http://gamecenter.com/Reviews/Item/0,6,0-2367,00.html) – Arinn Dembo review; Jazhara, William, Kendaric and Solon described
 [^ref-23]: [Computer Gaming World Review (Archived)](https://web.archive.org/web/20000816011313/http://www.gamespot.com/rpg/returnto/review_cgw.html) – Petra Schlunk review, system requirements
@@ -314,12 +324,15 @@ No download is listed: the game is sold on GOG.com and Steam.
 [^ref-41]: [IGN Cheats](https://www.ign.com/wikis/pc-cheats/Return_to_Krondor_Cheats) – cheat codes
 [^ref-42]: [Crydee.com – Origins of Midkemia](https://www.crydee.com/raymond-feist/origins-of-midkemia) – world creation trivia
 [^ref-43]: [GameSpot Sales Figures](https://www.gamespot.com/articles/latest-pc-sales-figures/1100-2619252/) – sales chart ranking
-[^ref-44]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=209&title=return-to-krondor&fld=box) – packaging variants, included demos
-[^ref-45]: [GameFAQs](https://gamefaqs.gamespot.com/pc/90603-return-to-krondor/faqs) – alternate title, guides
-[^ref-46]: [Speedrun.com Guide](https://www.speedrun.com/return_to_krondor/guides/g6i9r) – speedrunning strategies
+[^ref-44]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=209&title=return-to-krondor&fld=box) – packaging variants, included demos, first release 1998-11-30
+[^ref-45]: [GameFAQs](https://gamefaqs.gamespot.com/pc/90603-return-to-krondor/faqs) – alternate title, guides; release listed as November 30, 1998 on the game page
+[^ref-46]: [Speedrun.com Guide](https://www.speedrun.com/return_to_krondor/guides/g6i9r) – speedrunning strategies; the game's speedrun.com page (checked November 11, 2026) shows one Any% leaderboard, 13 runs, 2 players, 2 followers
 [^ref-47]: [Ataniel.org Fan Site](http://www.ataniel.org/rkrondor3.htm) – fan resources
 [^ref-48]: [Narkive Forum – Soundtrack Discussion](https://comp.sys.ibm.pc.games.rpg.narkive.com/jfRmTQ8C/crosspost-return-to-krondor-soundtrack) – fan testimonials, Raymond Feist response
 [^ref-50]: [Game-Over.net Review](https://www.game-over.net/review/december/rtk/) – series intentions
 [^ref-51]: [MobyGames – Return to Krondor Windows credits](https://www.mobygames.com/game/458/return-to-krondor/credits/windows/) – full credits with role labels, voice talent
 [^ref-52]: [GameSpot – New Releases, November 24, 1998 (Archived)](https://web.archive.org/web/20000606102406/http://headline.gamespot.com/news/98_11/24_pc_new/index.html) – North American release date
 [^ref-53]: [Computer Gaming World #117 (April 1994), letter "New Riftwar In Krondor?" (archive.org scan)](https://archive.org/details/Computer_Gaming_World_Issue_117) – p. 142: Dynamix "elected to terminate both the project and the project's guiding force on the computer side, John Cutter"
+[^ref-54]: [Return to Krondor Interview – Vault Network, Sinjin Bain (Archived December 5, 1998)](https://web.archive.org/web/19981205092134/https://www.vaultnetwork.com/features/interviews/returntokrondor.shtml) – PyroTechnix history, True3D licensing, 7th Level handover, 150 re-textured characters; page marked ©1998 The Vault Network
+[^ref-55]: [GameRevolution – "Stop that Bad Man…Kill him! Kill him dead!" Review (GR Staff, January 1, 1999)](https://www.gamerevolution.com/review/33070-return-to-krondor-review) – score 8, pros/cons list, closing verdict
+[^ref-56]: [VGMdb – The Original Soundtrack from Return To Krondor](https://vgmdb.net/album/2263) – composer Chuck Mitchell, 14 tracks, 34:45, Voice Of The Arts
