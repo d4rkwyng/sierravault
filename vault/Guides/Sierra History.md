@@ -1,11 +1,11 @@
 ---
 title: "Sierra On-Line History"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Sierra On-Line: The Complete History
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 Sierra Entertainment, Inc. (formerly On-Line Systems and Sierra On-Line, Inc.) was an American video game developer and publisher that pioneered the graphic adventure game genre. Founded in 1979 by husband-and-wife team [[Ken Williams]] and [[Roberta Williams]], Sierra became synonymous with interactive storytelling before the brand was shut down in 2008. As of March 31, 1996, shortly before its sale to CUC International, Sierra and its subsidiaries employed approximately 888 people[^ref-24], and it published some of the most influential games in computer entertainment history.
 
@@ -27,7 +27,7 @@ With Ken's programming help, Roberta designed [[1980 - Hi-Res Adventure 1 - Myst
 
 Released through mail-order in May 1980[^ref-23], Mystery House became an instant hit. Ken Williams later recalled that their goal had been 10,000 copies and that they "wound up selling a LOT more than 10,000 copies"[^ref-37]. It is described as the first computer adventure game to feature graphics, though made with crude, static, monochrome line drawings[^ref-5].
 
-Roberta personally packed the disks in Ziploc bags and answered her home phone to provide hints for puzzles[^ref-3]. In October 1980 the family moved to Coarsegold, California, and on December 1, 1980, the company opened its first office in nearby Oakhurst[^ref-2].
+Roberta personally packed the disks in Ziploc bags and answered her home phone to provide hints for puzzles[^ref-3]. On-Line Systems began in Simi Valley, California[^ref-2], then relocated to the Sierra Nevada foothills near Yosemite, and on December 1, 1980, it opened its first official headquarters in nearby Oakhurst[^ref-2].
 
 ### Building the Hi-Res Adventure Line
 
@@ -38,7 +38,7 @@ The Hi-Res Adventure series continued with several landmark titles:
 - **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Cranston Manor]] — Significance: Expanded adventure format
 - **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Ulysses and the Golden Fleece]] — Significance: Greek mythology setting
 - **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] — Significance: Massive game filling both sides of six floppy disks, spanning thousands of years[^ref-3][^ref-36]
-- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|The Dark Crystal]] — Significance: Licensed adaptation; Jim Henson personally approached Ken Williams[^ref-3]
+- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|The Dark Crystal]] — Significance: Licensed adaptation; accounts differ on who was first contacted: HistoryLink says Jim Henson reached out to Roberta Williams in mid-1982[^ref-2], Wikipedia says he approached Ken Williams[^ref-3], and Jason Dyer's account names Christopher Cerf as the instigator of contact[^ref-59]
 
 The Wizard and the Princess improved on Mystery House with color graphics and dithering[^ref-3]. Its success—60,000 copies sold—led to hiring more employees for distribution and programming.
 
@@ -49,6 +49,8 @@ The Wizard and the Princess improved on Mystery House with color graphics and di
 ### The Name Change
 
 On-Line Systems, by then based in Oakhurst near the Sierra Nevada mountains, was renamed **Sierra On-Line**, with its new logo incorporating the imagery of Half Dome mountain[^ref-5]. Sources differ on the year: Wikipedia gives 1982[^ref-5], while HistoryLink says the new headquarters on Victoria Lane in Oakhurst would open in 1983 and that "at this time the company name was changed"[^ref-2].
+
+In 1983, at investors' urging, Sierra began making cartridges for early Atari game machines; Gale's company history calls the result a "disaster" that forced Sierra to cut its staff from 120 to 30[^ref-62].
 
 By early 1984, *InfoWorld* estimated Sierra was the world's 12th-largest microcomputer software company, with $12.5 million in 1983 sales[^ref-5].
 
@@ -72,7 +74,7 @@ While finishing [[1986 - The Black Cauldron|The Black Cauldron]], art director [
 
 [[Al Lowe]], who had worked at Sierra for several years, was asked by Ken to create a modern version of Chuck Benton's *Softporn Adventure* from 1981—the only pure text adventure Sierra had released. [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] won the Software Publishers Association's Best Adventure Game award of 1987. Notably, Sierra sold many more hintbooks than actual copies—a sign the game first became famous through piracy[^ref-5].
 
-Ken Williams befriended retired highway patrol officer [[Jim Walls]] and recruited him to produce [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]], released in 1987. The series became known for its strict adherence to authentic police procedure.
+Ken Williams met California Highway Patrol officer [[Jim Walls]] in 1985 and recruited him to design [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]], released in 1987[^ref-60]. The series became known for its strict adherence to authentic police procedure.
 
 ### The SCI Revolution
 
@@ -88,7 +90,7 @@ A planned 1987 stock offering was cancelled after the "Black Monday" crash; Sier
 
 | Year | Acquisition | Notable Contributions |
 |------|-------------|----------------------|
-| 1990[^ref-23] | [[Dynamix]] | Flight sims (Red Baron, Aces), Incredible Machine |
+| 1990[^ref-23] | [[Dynamix]] | Flight sims (Red Baron, Aces); The Incredible Machine (Jeff Tunnell Productions, a Dynamix spin-off) |
 | 1992[^ref-47][^ref-48] | [[Bright Star Technology]] | Educational software |
 | 1993[^ref-24] | [[Coktel Vision]] | Gobliiins series, European adventures |
 | 1995[^ref-25] | [[Impressions Games]] | Caesar, Pharaoh, city builders |
@@ -166,7 +168,7 @@ Ken Williams later reflected on Half-Life: "By the time I decided we wanted into
 
 ### The End
 
-In August 2001 Sierra announced a reorganization that closed Dynamix, on August 14, 2001[^ref-58], with 97 Dynamix employees laid off[^ref-57]; Wikipedia separately reports layoffs of 148 employees at the Bellevue headquarters as part of the same reorganization[^ref-5]. In early 2004 Vivendi Universal Games shut down Impressions Games and Papyrus Design Group, Sierra's last owned studios[^ref-5].
+In August 2001 Sierra announced a reorganization that closed Dynamix, on August 14, 2001[^ref-58], with 97 Dynamix employees laid off[^ref-57]; Wikipedia separately reports layoffs of 148 employees at the Bellevue headquarters as part of the same reorganization[^ref-5]. In spring 2004 (April–May; sources differ) Vivendi Universal Games shut down Impressions Games and Papyrus Design Group[^ref-61], which Wikipedia calls Sierra's last owned studios[^ref-5].
 
 Sierra was formally disestablished as a company in August 2004 and reformed as a division of the former CUC Software group, which Vivendi branded as Vivendi Games in 2006[^ref-5]. The Sierra division continued operating through Vivendi Games's merger with Activision to form Activision Blizzard, which closed on July 9, 2008[^ref-26], but was shut down later that year[^ref-5].
 
@@ -209,7 +211,7 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 
 | Person | Role | Years |
 |--------|------|-------|
-| [[Ken Williams]] | Co-founder, CEO | 1979–1997 |
+| [[Ken Williams]] | Co-founder; CEO to 1996, stayed on to November 1997[^ref-63][^ref-1] | 1979–1997 |
 | [[Roberta Williams]] | Co-founder, Lead Designer | 1979–1999 |
 | [[Al Lowe]] | Designer (Leisure Suit Larry) | 1982–1999 |
 | [[Scott Murphy]] | Designer (Space Quest) | 1986–1999 (as designer) |
@@ -235,7 +237,7 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 ## References
 
 [^ref-1]: [Wikipedia – Ken Williams](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) – Ken born October 30, 1954, in Evansville; Industry Icons award 2014; memoir published July 24, 2020
-[^ref-2]: [HistoryLink – Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) – Roberta's birth; Ken born in Evansville; marriage November 4, 1972; Ken's 1979 IBM-mainframe consulting; Coarsegold (Oct 1980) and Oakhurst office (Dec 1, 1980); 1982 rename; Roberta retired 1999; acquisition "completed on July 26, 1996"
+[^ref-2]: [HistoryLink – Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) – Roberta's birth; Ken born in Evansville; marriage November 4, 1972; Ken's 1979 IBM-mainframe consulting; Coarsegold (Oct 1980) and Oakhurst office (Dec 1, 1980); name change tied to the 1983 Victoria Lane HQ opening; Roberta retired 1999; acquisition "completed on July 26, 1996"
 [^ref-3]: [Wikipedia – Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) – Early game development, Mystery House creation, Wizard and the Princess sales
 [^ref-5]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Company history: Mystery House sales, InfoWorld ranking, Sierra Network, CUC close July 24, 1996, 1998 sub-brands, Vivendi era, Microsoft ownership
 [^ref-17]: [Wikipedia – Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) – "originally budgeted for $800,000, but it ultimately cost $4.5 million"
@@ -279,3 +281,8 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-56]: [Cendant Corporation Form 10-K for 1998 (SEC EDGAR, via Wayback)](https://web.archive.org/web/20250430200024/https://www.sec.gov/Archives/edgar/data/723612/0000950136-99-000391.txt) – "on January 12, 1999, we completed the sale of our consumer software division, Cendant Software and its subsidiaries, to Paris-based Havas SA"
 [^ref-57]: [GameSpot – Sierra closes Dynamix (Wayback)](https://web.archive.org/web/20190718152841/https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) – "The closure includes lay-offs for 97 Dynamix employees"
 [^ref-58]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – "The Dynamix studio was closed by Sierra On-Line on August 14, 2001, as part of Sierra's restructuring under Vivendi Universal Interactive Publishing"
+[^ref-59]: [The Renga in Blue – The Dark Crystal (1983)](https://bluerenga.blog/2025/07/01/the-dark-crystal-1983/) – Jason Dyer, 2025: "For The Dark Crystal, the instigator of contact was Christopher Cerf, longtime songwriter for Sesame Street."
+[^ref-60]: [Wikipedia – Police Quest: In Pursuit of the Death Angel](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – "In 1985, Williams met California Highway Patrol (CHP) officer Jim Walls, who was on administrative leave"; Walls retired from the CHP in 1986; designer Jim Walls
+[^ref-61]: [CNN/Money – VU Games job cuts (June 21, 2004; Wayback)](https://web.archive.org/web/20041204223605/http://money.cnn.com/2004/06/21/technology/vugames/index.htm) – "the May shutdown of a pair of longtime development studios. Papyrus Studios ... and Impressions Games"; Wikipedia's Sierra article says "early 2004"; MobyGames and Wikipedia's Impressions article say April
+[^ref-62]: [Encyclopedia.com – Sierra On-Line Inc. (Gale International Directory of Company Histories)](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) – "in 1983 the company began producing cartridges for the early Atari video game machines ... The resulting disaster forced Sierra to cut its number of employees from 120 to 30."
+[^ref-63]: [SierraGamers – Ken Williams (Wayback)](http://web.archive.org/web/20260728010152/https://www.sierragamers.com/ken-williams/) – "I was Sierra's Chairman and CEO throughout the 18 year period from 1979 to 1996."
