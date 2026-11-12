@@ -10,7 +10,7 @@ series: Disney
 engine: AGI
 protagonist: Taran
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: The Black Cauldron is a 1986 Sierra On-Line adventure game based on
   Disney's 1985 animated film, designed by Al Lowe and Roberta Williams and controlled
   with function keys instead of a text parser.
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, al-lowe, disney, roberta-williams, sierra]
 ---
 # The Black Cauldron
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ Disney had no in-house software developers at the time[^ref-4]. Al Lowe has give
 
 Disney provided Sierra with unusual access to the film's original materials. Al Lowe described how "They gave me complete access to the original hand-painted backgrounds, the original Elmer Bernstein score, even the original animation cells, which were still literally lying in heaps, before being sent off to the dump!"[^ref-4]
 
-MobyGames credits the game design to Al Lowe and Roberta Williams. The programming credits go to Sol Ackerman, Chris Iden, Al Lowe, Scott Murphy, Jeff Stephenson and Ken Williams, and the graphics credits to [[Mark Crowe]], Gerald Moore, Karen Nugent and Terry Pierce[^ref-31]. Wikipedia states that Crowe was the game's art director[^ref-36]. The Player's Manual is credited to Annette Childs[^ref-37]. In a Spring 1989 Sierra Newsletter interview, Crowe said he "did some animation for Black Cauldron which was the first project Scott and I worked on together"[^ref-30]. Murphy described spending "nights out at his house debugging Black Cauldron. And then I ended up being the only one working on it. After a while Ken and Al Lowe bailed out on me. So I got Black Cauldron shipping"[^ref-30]. While finishing The Black Cauldron, Crowe and Murphy began planning the game that became Space Quest[^ref-23].
+MobyGames credits the game design to Al Lowe and Roberta Williams. The programming credits go to Sol Ackerman, Chris Iden, Al Lowe, [[Scott Murphy]], Jeff Stephenson and Ken Williams, and the graphics credits to [[Mark Crowe]], Gerald Moore, Karen Nugent and Terry Pierce[^ref-31]. Wikipedia states that Crowe was the game's art director[^ref-36]. The Player's Manual is credited to Annette Childs[^ref-37]. In a Spring 1989 Sierra Newsletter interview, Crowe said he "did some animation for Black Cauldron which was the first project Scott and I worked on together"[^ref-30]. Murphy described spending "nights out at his house debugging Black Cauldron. And then I ended up being the only one working on it. After a while Ken and Al Lowe bailed out on me. So I got Black Cauldron shipping"[^ref-30]. While finishing The Black Cauldron, Crowe and Murphy began planning the game that became Space Quest[^ref-23].
 
 ### Technical Achievements
 

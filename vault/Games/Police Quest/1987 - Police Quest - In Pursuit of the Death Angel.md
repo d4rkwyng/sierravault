@@ -10,14 +10,14 @@ series: Police Quest
 engine: AGI
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Police Quest: In Pursuit of the Death Angel is a 1987 police procedural
   adventure game by Jim Walls and Sierra On-Line.'
 tags: [1980s, adventure, agi, police-quest, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -97,7 +97,7 @@ Tammy Dargan, the series' later producer, said: "It was [our] intention to creat
 
 ### Production
 
-Jim Walls served as the primary designer, drawing from his 15-year law enforcement career to create authentic scenarios[^ref-42]. The development team included artists Mark Crowe and Gerald Moore and composer Margaret Lowe[^ref-15]. MobyGames lists [[Al Lowe]] among the game's programmers, alongside Greg Rowland, Scott Murphy and Ken Williams[^ref-21]. The game's manual, referred to in-game as the "LPD Indoctrination Guide", contained detailed police procedures and penal codes necessary for successful gameplay[^ref-52].
+Jim Walls served as the primary designer, drawing from his 15-year law enforcement career to create authentic scenarios[^ref-42]. The development team included artists Mark Crowe and Gerald Moore and composer Margaret Lowe[^ref-15]. MobyGames lists [[Al Lowe]] among the game's programmers, alongside Greg Rowland, [[Scott Murphy]] and Ken Williams[^ref-21]. The game's manual, referred to in-game as the "LPD Indoctrination Guide", contained detailed police procedures and penal codes necessary for successful gameplay[^ref-52].
 
 The 1992 remake was produced after Jim Walls left Sierra, with Tammy Dargan and her crew handling the conversion to the SCI engine[^ref-41]. This version featured completely redrawn 256-color VGA graphics and replaced the text interface with point-and-click controls[^ref-56].
 

@@ -79,7 +79,7 @@ MobyGames credits this version (DOS) as follows[^ref-19]:
 - SCI Development System: Jeff Stephenson, Robert Eric Heitman, Pablo Ghenis, John Hartin, Dan Foy, John Rettig, Corinna Abdul, Corey Cole
 - Quality Assurance: Sharon Hoban-Smith, Sharon Simmons, Victor Sadauskas
 
-The manual's own credits use the short forms Jerry Moore and Carlos Escobar, list the development-system programmers as "Jeff Stevenson" and "Robert E. Heitman", spell the composer "James William Eliot", and add additional artist Cheryl Loyd and programmers Scott Murphy, Chris Smith and Chris Hoyt[^ref-26].
+The manual's own credits use the short forms Jerry Moore and Carlos Escobar, list the development-system programmers as "Jeff Stevenson" and "Robert E. Heitman", spell the composer "James William Eliot", and add additional artist Cheryl Loyd and programmers [[Scott Murphy]], Chris Smith and Chris Hoyt[^ref-26].
 
 ### Atari ST upgrade
 

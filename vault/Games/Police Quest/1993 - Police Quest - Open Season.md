@@ -127,7 +127,7 @@ MobyGames lists the following among the DOS version's credits[^ref-53]:
 - **Composer:** Neal Grandstaff
 - **Cinematographer:** Rod Fung
 - **Artists:** Dana Moody, Barry T. Smith, Donald Waller
-- **Programmers:** David Artis, Cynthia Joseph, Scott Murphy
+- **Programmers:** David Artis, Cynthia Joseph, [[Scott Murphy]]
 
 ### Cast
 

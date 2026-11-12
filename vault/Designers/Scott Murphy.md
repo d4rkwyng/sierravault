@@ -2,13 +2,14 @@
 title: "Scott Murphy"
 type: designer
 death_year: null
-notable_games: ["Space Quest: The Sarien Encounter", "Space Quest II: Vohaul's Revenge", "Space Quest IV: Roger Wilco and the Time Rippers"]
+notable_games: ["Space Quest: The Sarien Encounter", "Space Quest II: Vohaul's Revenge", "Space Quest III: The Pirates of Pestulon", "Space Quest IV: Roger Wilco and the Time Rippers"]
 companies: ["Sierra On-Line", "Guys from Andromeda"]
-last_updated: '2026-11-11'
+birth_year: null
+last_updated: '2026-11-12'
 ---
 # Scott Murphy
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -44,7 +45,7 @@ Murphy left the games industry. In 2012 he described the exit this way: "I was a
 
 ### Guys from Andromeda (2012–present)
 
-In April 2012 Murphy and Crowe announced they were working together again.[^ref-28][^ref-3] With Chris Pope they formed Guys From Andromeda LLC[^ref-54] and launched a Kickstarter campaign for SpaceVenture, a spiritual successor to Space Quest.[^ref-15][^ref-27] In 2015, while Murphy was away from the project, Crowe and Pope released part of it as a standalone game, [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]]; a Kickstarter update written by Crowe, Murphy and Pope together said Murphy was "unable to be part of the team" at the time.[^ref-49][^ref-53] [[2022 - SpaceVenture|SpaceVenture]] went to Kickstarter backers on September 16, 2022,[^ref-47][^ref-45] reached Steam Early Access on April 1, 2025, after a troubled development,[^ref-45] and had its full release on December 23, 2025.[^ref-48]
+In March 2012 Murphy and Crowe announced on the official Two Guys site that they were working together again; Rock Paper Shotgun and Adventure Classic Gaming covered the reunion later that spring.[^ref-55][^ref-28][^ref-3] With Chris Pope they formed Guys From Andromeda LLC[^ref-54] and launched a Kickstarter campaign for SpaceVenture, a spiritual successor to Space Quest.[^ref-15][^ref-27] In 2015, while Murphy was away from the project, Crowe and Pope released part of it as a standalone game, [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]]; a Kickstarter update written by Crowe, Murphy and Pope together said Murphy was "unable to be part of the team" at the time.[^ref-49][^ref-53] [[2022 - SpaceVenture|SpaceVenture]] went to Kickstarter backers on September 16, 2022,[^ref-47][^ref-45] reached Steam Early Access on April 1, 2025, after a troubled development,[^ref-45] and had its full release on December 23, 2025.[^ref-48]
 
 ## Notable Works
 
@@ -80,7 +81,11 @@ Roles follow MobyGames.[^ref-8]
 - **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Role: Audio Editor, Foley
 - **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Role: Designer, Writer, Voice Director
 
-MobyGames also lists smaller credits not shown above: Mickey's Space Adventure (1985, Thanks/Staff), SimCity Enhanced CD-ROM (1993, Production Coordinators), Space Quest: Collector's Edition (1994, Producer, Programming and Interface, Video), Leisure Suit Larry's Greatest Hits and Misses! (1994, Producers), the CD-ROM Mixed-Up Mother Goose (Programmers (CD-ROM)) and Police Quest: SWAT 2 (1998, photo model).[^ref-8]
+MobyGames also lists smaller credits not shown above: Mickey's Space Adventure (1985, Thanks/Staff), SimCity Enhanced CD-ROM (1993, Production Coordinators), Space Quest: Collector's Edition (1994, Producer, Programming and Interface, Video), the King's Quest collections (King's Quest: Collector's Edition, 1994; King's Quest: Collection Series, 1997; King's Quest Collection, 2006; all "Programming and Interface"), Leisure Suit Larry's Greatest Hits and Misses! (1994, Producers), the CD-ROM Mixed-Up Mother Goose (Programmers (CD-ROM)) and Police Quest: SWAT 2 (1998, photo model).[^ref-8][^ref-56]
+
+### Fan projects
+
+- **2011** — [[2011 - Space Quest II VGA Remake]] — Role: Designed by[^ref-56]
 
 ### Guys from Andromeda (2012–present)
 
@@ -90,7 +95,7 @@ MobyGames also lists smaller credits not shown above: Mickey's Space Adventure (
 ## References
 
 [^ref-1]: [MobyGames - Scott Murphy (Wayback, May 2023)](https://web.archive.org/web/20230517105719/https://www.mobygames.com/person/4525/scott-murphy/) — Biography: dealer returns, support, QA; Black Cauldron; "Murphy programming, Crowe doing art, both designing, they did four Space Quest games together"; SQ6 and Josh Mandel; "laid off from Sierra in early 1999"; Guys from Andromeda in 2012
-[^ref-3]: [Adventure Classic Gaming – Interview with Mark Crowe and Scott Murphy](https://www.adventureclassicgaming.com/index.php/site/interviews/729/) — June 10, 2012: SpaceVenture announced by Crowe and Murphy in April 2012
+[^ref-3]: [Adventure Classic Gaming – Interview with Mark Crowe and Scott Murphy](https://www.adventureclassicgaming.com/index.php/site/interviews/729/) — June 10, 2012: interview with Crowe and Murphy on the SpaceVenture reunion
 [^ref-5]: [Best of AMA - Scott Murphy](https://bestofama.com/ops/scott-murphy-video-game-designer) — Archive of the joint Guys From Andromeda Reddit AMA ("IAm (We are) Guys From Andromeda"), June 7, 2012; the Roger answer is Murphy's ("It was more like me. Not as much Mark"): "Roger was the antithesis of all other game characters of the time…"
 [^ref-6]: [Choicest Games - Where Are They Now: Scott Murphy](https://www.choicestgames.com/2014/08/where-are-they-now-scott-murphy.html) — 2014: SQ6 "the only Space Quest game that Scott worked on without Mark"; programmed Police Quest, Mixed-Up Mother Goose, EcoQuest, Dagger of Amon Ra; SQ7 work from 1997
 [^ref-7]: [Adventure Classic Gaming – Interview with Scott Murphy (2006)](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) — Dealer returns, self-taught, "SQ4 showed how dark we'd become", parser interface, "dumped a month and a half" before Chainsaw Monday, office jobs after Sierra
@@ -99,10 +104,10 @@ MobyGames also lists smaller credits not shown above: Mickey's Space Adventure (
 [^ref-15]: [Wikipedia – Scott Murphy (video game designer)](https://en.wikipedia.org/wiki/Scott_Murphy_(video_game_designer)) — Born 1954 (tier-4, uncited there); Crowe "developed Space Quest V without Murphy's input"; Guys from Andromeda with Chris Pope
 [^ref-19]: [Game Developer - The 20-Year Estrangement of the Two Guys from Andromeda](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) — Leigh Alexander, June 1, 2012: "1991's Space Quest IV was the last game the Two Guys would make together"; Crowe left for Dynamix
 [^ref-27]: [Kickstarter - SpaceVenture](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) — Two Guys from Andromeda crowdfunding campaign (2012); live page bot-blocked, [Wayback copy, June 16, 2012](http://web.archive.org/web/20120616070424/http://www.kickstarter.com:80/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que): 10,809 backers, $539,767 pledged of $500,000 goal, "Funding Successful"
-[^ref-28]: [Rock Paper Shotgun - Two Guys From Andromeda Reform To Make Space Quest](https://www.rockpapershotgun.com/two-guys-from-andromeda-reform-to-make-space-quest) — John Walker, April 16, 2012: reunion announced
+[^ref-28]: [Rock Paper Shotgun - Two Guys From Andromeda Reform To Make Space Quest](https://www.rockpapershotgun.com/two-guys-from-andromeda-reform-to-make-space-quest) — John Walker, April 16, 2012: report on the reunion
 [^ref-29]: [IGN - A Year of Adventure: Space Quest I & II](https://www.ign.com/articles/2014/02/24/a-year-of-adventure-3-space-quest-i-ii) — February 24, 2014: Crowe (artist) and Murphy (programmer), earlier AGI titles
-[^ref-33]: [MobyGames - Space Quest IV: Roger Wilco and the Time Rippers](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) — Game record (ID 143, verified via the MobyGames API)
-[^ref-35]: [MobyGames - King's Quest](https://www.mobygames.com/game/122/kings-quest/) — Game record (ID 122, verified via the MobyGames API); Murphy's credit on it is "Thanks to"
+[^ref-33]: [MobyGames - Space Quest IV: Roger Wilco and the Time Rippers](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/) — Game record (ID 143)
+[^ref-35]: [MobyGames - King's Quest](https://www.mobygames.com/game/122/kings-quest/) — Game record (ID 122); Murphy's credit on it is "Thanks to"
 [^ref-37]: [The Sierra Newsletter, Vol. 2 No. 1, Spring 1989 – "The Men Who Designed Space Quest 3"](https://archive.org/details/Sierra_Newsletter_The_Volume_2_Number_1_Spring_1989_1989_Sierra_On-Line_US) — Murphy on dealer returns, support, QA and "bugging Ken"; Crowe: Black Cauldron "his first job creating source code" (transcribed at wiw.org/~jess/2guys_sq3.html)
 [^ref-45]: [Kotaku - 12 Years Late, This Kickstarter-Funded Tribute To A Legendary Adventure Game Series Is A Complete Disaster](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) — John Walker, April 4, 2025: Kickstarter in 2012, Steam Early Access from April 1, 2025
 [^ref-46]: [Adventure Gamers – Mark Crowe interview (Wayback, June 2025)](https://web.archive.org/web/20250610050515/https://adventuregamers.com/article/mark_crowe) — 2002: "I've always considered Space Quest 4 to be our (Scott and I) masterpiece."
@@ -114,3 +119,5 @@ MobyGames also lists smaller credits not shown above: Mickey's Space Adventure (
 [^ref-52]: [Wiw.org – Space Quest 7 Archive](https://wiw.org/~jess/sq7.html) — "Early 1997: Sierra greenlights a seventh Space Quest game… led by Scott Murphy and Leslie Balfour"; "February 1998: News leaks that Sierra has laid off SQ7 designer Scott Murphy. He remains under contract…"
 [^ref-53]: [Kickstarter - SpaceVenture Update #104 (Wayback, July 2016)](https://web.archive.org/web/20160720183246/https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/1367531) — September 30, 2015, "written by Mark Crowe, Scott Murphy, and Chris Pope together": Crowe and Pope focused on Cluck Yegger "with Scott being unable to be part of the team"
 [^ref-54]: [Guys From Andromeda - official site](http://guysfromandromeda.com/) — "Guys From Andromeda LLC co-founder Chris Pope"
+[^ref-55]: [Guys From Andromeda - Scott and Mark in their Epic new SpaceVenture](https://guysfromandromeda.com/uncategorized/new-game/) — Chris Pope, March 25, 2012: "After a brief 25+ year hiatus we (Mark and Scott) have joined forces once again"
+[^ref-56]: [MobyGames - Scott Murphy credits](https://www.mobygames.com/person/4525/scott-murphy/credits/) — Space Quest II (2011, Windows): "Designed by"; King's Quest Collection (2006), Collection Series (1997) and Collector's Edition (1994): "Programming and Interface"
