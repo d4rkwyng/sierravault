@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: SCI2.1
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Johnathan Cunningham]
 description: Hoyle Bridge is a 1996 contract bridge game for Windows 3.x and Windows
   95 from Sierra On-Line, a Sierra Originals release derived from Hoyle Classic Games
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -35,7 +35,7 @@ Hoyle Bridge lets the player choose from eleven comical animated characters, or 
 > **Producer:** Stephen H. Van Horn (Producer); [[Ken Williams]] (Executive Producer)[^ref-1]
 > **Creative Direction:** Julie Pogue Barnes[^ref-1]
 > **Programmer:** Earl Malmrose (Lead Engineer)[^ref-1]
-> **Artist:** Rabih AbouJaoudé (Lead Artist)[^ref-1]
+> **Artist:** [[Rabih AbouJaoudé]] (Lead Artist)[^ref-1]
 > **Composer:** Johnathan Cunningham (Sound and Music Design)[^ref-1]
 > **Engine:** SCI2.1[^ref-5]
 > **Platforms:** Windows 3.x, Windows 95[^ref-5]

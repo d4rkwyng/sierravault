@@ -31,7 +31,7 @@ Alongside the Windows and Macintosh release, Sierra brought the game to the Sega
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-3]
-> **Designer:** Sierra On-Line internal team (no individual designer credit)[^ref-3]
+> **Designer:** [[Rabih AbouJaoudé]] (Designer and Lead Artist, Macintosh version; Lead Artist, Dreamcast version), among other credited team members[^ref-33][^ref-34]
 > **Publisher:** Sierra On-Line, Inc. (Sierra Attractions label)[^ref-3][^ref-22]
 > **Platforms:** Windows, Macintosh, Sega Dreamcast, Game Boy Color[^ref-3][^ref-6]
 > **Release Year:** 2000[^ref-10]
@@ -269,3 +269,5 @@ Sierra released further yearly editions of Hoyle Casino, beginning with [[2001 -
 [^ref-30]: [GameFAQs – Hoyle Casino 2001 (PC) release data](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001/data) – retail name Hoyle Casino 2001; EU 11/03/00 and US 11/14/00, Sierra Entertainment, rated E (read via ScraperAPI)
 [^ref-31]: [HonestGamers – Hoyle Casino (Dreamcast)](http://www.honestgamers.com/1277/dreamcast/hoyle-casino/game.html) – developer Sierra, also on Game Boy Color, North America September 29, 2000, IGN 8.8/10
 [^ref-32]: [GameFAQs – Hoyle Casino (Dreamcast) user review "So bad, it's good" by JPeeples](https://gamefaqs.gamespot.com/dreamcast/577923-hoyle-casino/reviews/21475) – user review (08/04/2001): card suits hard to tell apart, pre-made characters with differing bankrolls (read via ScraperAPI)
+[^ref-33]: [MobyGames – Hoyle Casino (Macintosh, 2000) Credits](https://www.mobygames.com/game/2686/hoyle-casino/credits/macintosh/) – Designers: Paul Horn, Julian Love, Robert L. Jerauld, Rabih AbouJaoudé, Michael Katz; Lead Artists: Julian Love, Rabih AbouJaoudé (read via ScraperAPI)
+[^ref-34]: [MobyGames – Hoyle Casino (Dreamcast, 2000) Credits](https://www.mobygames.com/game/2686/hoyle-casino/credits/dreamcast/) – Lead Artists: Julian Love, Rabih AbouJaoudé (read via ScraperAPI)
