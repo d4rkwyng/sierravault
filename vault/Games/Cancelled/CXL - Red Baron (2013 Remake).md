@@ -10,14 +10,14 @@ series: Red Baron
 engine: Unknown
 protagonist: Player-created WWI pilot
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Red Baron was Mad Otter Games' unreleased WWI dogfighting game led by
   original Red Baron creator Damon Slye. Its 2013 Kickstarter failed, and no release followed.
 tags: [2010s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron 2013 Remake
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ tags: [2010s, dynamix, red-baron, sierra, simulation]
 
 Mad Otter launched a Kickstarter on October 22, 2013, seeking $250,000[^ref-16][^ref-24][^ref-28]. A week in, with about $33,000 pledged, the studio posted that it would "cancel the Kickstarter campaign… for now" and relaunch in early 2014[^ref-17][^ref-18][^ref-26]. Kickstarter's own record, however, shows the campaign running to its November 22, 2013 deadline and ending as unsuccessful, with $40,493 from 1,118 backers[^ref-16]. The game was put on Steam Greenlight in October 2013, alongside the Kickstarter[^ref-20][^ref-30].
 
-Development continued afterwards. In August 2014 Slye said the plan was to build a better prototype, grow a community and run a second Kickstarter[^ref-19]. In September 2015 he was looking to raise $50,000 for a prototype, "with a potential release in 2016"[^ref-1]. In January 2016 Mad Otter put the *original* Red Baron games on Steam "in hopes of generating interest in a new Red Baron crowdfunding campaign"[^ref-21]. No release followed, and no formal cancellation announcement has been found; the official site's archived snapshots of 2017 and 2023 still show the 2013 pitch[^ref-31]. The project simply went quiet. The planned game was to be DRM-free and offline in single-player, with no subscriptions and no pay-to-win[^ref-7].
+Development continued afterwards. In August 2014 Slye said the plan was to build a better prototype, grow a community and run a second Kickstarter[^ref-19]. In September 2015 he was looking to raise $50,000 for a prototype, "with a potential release in 2016"[^ref-1]. In January 2016 Mad Otter put the *original* Red Baron games on Steam "in hopes of generating interest in a new Red Baron crowdfunding campaign"[^ref-21]. No release followed, and no formal cancellation announcement has been found; the official site's archived snapshots of 2017, 2023 and July 2025 still show the 2013 pitch[^ref-31]. The project simply went quiet. The planned game was to be DRM-free and offline in single-player, with no subscriptions and no pay-to-win[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Mad Otter Games[^ref-16]
@@ -66,11 +66,11 @@ Mad Otter said it wanted to take the MOBA genre "to the skies". Eurogamer noted 
 
 ### Origins
 
-Slye co-founded Dynamix, which Sierra later bought, and designed the 1990 Red Baron, "a massive commercial and critical success"[^ref-1]. The original sold more than 500,000 copies and was Computer Gaming World's 1991 Simulation of the Year[^ref-4]. Slye left "the game and flight sim industry in 1994"[^ref-25] and stayed away for about 12 years, returning around 2007 to found Mad Otter, best known for the MMO *Villagers and Heroes*[^ref-1]. The studio also made *Ace of Aces* for InstantAction, GarageGames' web game platform[^ref-23]. In September 2009 Mad Otter announced that it now owned "all rights" to the original Red Baron games, and offered a $1,500 reward for their original C/C++ source code[^ref-23]. The team said its members had built Red Baron, Aces of the Pacific, Aces over Europe, A-10 Tank Killer and Ace of Aces[^ref-7]. At the 2013 launch Slye said of the series: "like some strange crazy boomerang it came back to me in the form of a red Fokker Triplane"[^ref-29].
+Slye co-founded Dynamix, which Sierra later bought, and designed the 1990 Red Baron, "a massive commercial and critical success"[^ref-1]. The original sold more than 500,000 copies and was Computer Gaming World's 1991 Simulation of the Year[^ref-4]. Slye left "the game and flight sim industry in 1994"[^ref-25] and stayed away for about 12 years, returning around 2007 to found Mad Otter, best known for the MMO *Villagers and Heroes*[^ref-1]. Polygon's 2013 account says he founded Mad Otter Games in 2007 after his former Dynamix partner Jeff Tunnell, crossing a street in front of his car in Eugene, asked him: "Hey Damon, want to make games again?"[^ref-32] The studio also made *Ace of Aces* for InstantAction, GarageGames' web game platform[^ref-23]. In September 2009 Mad Otter announced that it now owned "all rights" to the original Red Baron games, and offered a $1,500 reward for their original C/C++ source code[^ref-23]. Gamasutra noted that earlier that year Sierra had released a "poorly-received new game, Red Baron Arcade," on PlayStation Network ([[2008 - Red Baron Arcade]])[^ref-23]. The team said its members had built Red Baron, Aces of the Pacific, Aces over Europe, A-10 Tank Killer and Ace of Aces[^ref-7]. At the 2013 launch Slye said of the series: "like some strange crazy boomerang it came back to me in the form of a red Fokker Triplane"[^ref-29].
 
 ### Production
 
-The Kickstarter ran from October 22 to November 22, 2013 (30 days) with a $250,000 goal[^ref-16]. Backer reward tiers gave an estimated delivery of November 2014[^ref-16][^ref-28]. Its pitch video, with gameplay footage and team interviews, was praised by Cliqist, and Brian Fargo publicly backed it[^ref-19]. Minimum and recommended specifications were published alongside the Greenlight listing[^ref-20][^ref-30]. The campaign FAQ said Red Baron would support Linux and SteamOS, while OS X support was still undecided[^ref-16]. A CD Projekt Red forum post five days after launch (October 27) passed on the Linux and DRM-free plans[^ref-10].
+The Kickstarter ran from October 22 to November 22, 2013 (30 days) with a $250,000 goal[^ref-16]. Backer reward tiers gave an estimated delivery of November 2014[^ref-16][^ref-28]. Update #3 listed "a key for classic Red Baron Pack (which includes Red Baron Classic, Mission Builder, and Red Baron 3D)" among the rewards of the Pilot tier[^ref-30]. Its pitch video, with gameplay footage and team interviews, was praised by Cliqist, and Brian Fargo publicly backed it[^ref-19]. Minimum and recommended specifications were published alongside the Greenlight listing[^ref-20][^ref-30]. The campaign FAQ said Red Baron would support Linux and SteamOS, while OS X support was still undecided[^ref-16]. A CD Projekt Red forum post five days after launch (October 27) passed on the Linux and DRM-free plans[^ref-10].
 
 On October 30, 2013 Mad Otter told backers: "we are going to cancel the Kickstarter campaign… for now. We will still be moving forward with Red Baron with the plans to relaunch the campaign early next year"[^ref-18][^ref-26]. The update, signed by Damon Slye and the Mad Otter team, promised alpha access to anyone who followed the studio on social media and later backed the relaunch at a tier that included the game[^ref-26]. The campaign was never actually pulled. On November 21, the day before the deadline, Mad Otter posted a final update listing lessons learned: "It's better to Pre-Announce the product instead of just starting the Campaign and Announcing on the same day," and "Single-Player is really important"[^ref-27]. Kickstarter records the project as "Funding Unsuccessful" (not cancelled) at its deadline, with $40,493 pledged by 1,118 backers[^ref-16].
 
@@ -113,15 +113,18 @@ In Cliqist's 2014 postmortem, Slye said: "Our biggest mistake by far was not bui
 
 The campaign raised $40,493 of its $250,000 goal, about 16%[^ref-16]. Cliqist judged that the content itself was strong but that too few people saw it: the campaign had little pre-launch buzz and few updates after its first week[^ref-19]. Slye agreed, saying he "should have announced the campaign well before — 3 months or more even — and built up the community"[^ref-19].
 
-### Steam Re-release of the Originals
+### Re-release of the Originals
 
-The Red Baron games that did reach Steam in January 2016 were the old ones, not this project: the *Red Baron Pack*, with the original Red Baron, Red Baron 3D and the Mission Builder plus scanned manuals, published by Mad Otter[^ref-21][^ref-22]. GameWatcher reported they were released "in hopes of generating interest in a new Red Baron crowdfunding campaign"[^ref-21]. No such campaign has been found.
+The same three original games had already been on sale elsewhere: the *Red Baron Pack* has been sold on GOG since October 8, 2009, the month after Mad Otter announced it owned the rights[^ref-33][^ref-23].
+
+The Red Baron games that reached Steam in January 2016 were the old ones, not this project: the *Red Baron Pack*, with the original Red Baron, Red Baron 3D and the Mission Builder plus scanned manuals, published by Mad Otter[^ref-21][^ref-22]. GameWatcher reported they were released "in hopes of generating interest in a new Red Baron crowdfunding campaign"[^ref-21]. No such campaign has been found.
 
 ## Downloads
 
 **Original Games (Not this unreleased project)**
 
 **Purchase / Digital Stores**
+- [GOG](https://www.gog.com/en/game/red_baron_pack) - Red Baron Pack (Red Baron, Mission Builder, Red Baron 3D), sold on GOG since October 2009[^ref-33]
 - [Steam](https://store.steampowered.com/app/263940/) - Red Baron Pack (original Red Baron, Red Baron 3D, Mission Builder)[^ref-22]
 
 **Related Resources**
@@ -132,9 +135,9 @@ The Red Baron games that did reach Steam in January 2016 were the old ones, not 
 
 - [[1990 - Red Baron|← Original: Red Baron]] - The 1990 Dynamix game
 
-- [[1997 - Red Baron II]] - Last new Red Baron game released
+- [[1997 - Red Baron II]] - The last Dynamix-developed Red Baron simulator
 
-- [[1998 - Red Baron 3D]] - Enhanced re-release of Red Baron II, included in the 2016 Steam pack
+- [[1998 - Red Baron 3D]] - The patched, renamed version of Red Baron II, included in the Red Baron Pack
 
 - [[Damon Slye]] - Series creator who led this project
 
@@ -159,4 +162,6 @@ The Red Baron games that did reach Steam in January 2016 were the old ones, not 
 [^ref-28]: [Eurogamer – WW1 dogfighting game Red Baron back with MOBA elements](https://www.eurogamer.net/ww1-dogfighting-game-red-baron-back-with-moba-elements) – Wesley Yin-Poole, Oct 23, 2013: $250,000 Kickstarter, MOBA "to the skies", three-lane map, Nov 2014 release if funded
 [^ref-29]: [Saving Content – Red Baron returns with original creator Damon Slye and Mad Otter Studios on Kickstarter](https://www.savingcontent.com/2013/10/23/red-baron-returns-with-original-creator-damon-slye-and/) – Oct 23, 2013: $250,000 Kickstarter, Slye's Dynamix credits, "boomerang" quote
 [^ref-30]: [Kickstarter – Red Baron Update #3: Steam Greenlight and System Requirements](https://web.archive.org/web/20131202052431/http://www.kickstarter.com:80/projects/madottergames/red-baron/posts/638865) – Oct 23, 2013: "Red Baron goes live on Greenlight!"; approximate minimum and recommended system requirements (Wayback)
-[^ref-31]: Red Baron Game Official Site, Wayback snapshots of [Sep 13, 2017](https://web.archive.org/web/20170913233034/http://redbarongame.com/) and [Jan 30, 2023](https://web.archive.org/web/20230130084616/http://redbarongame.com/) – both still show the 2013 pitch ("Red Baron is back!"); no cancellation notice on either
+[^ref-31]: Red Baron Game Official Site, Wayback snapshots of [Sep 13, 2017](https://web.archive.org/web/20170913233034/http://redbarongame.com/), [Jan 30, 2023](https://web.archive.org/web/20230130084616/http://redbarongame.com/) and [Jul 13, 2025](https://web.archive.org/web/20250713132652/http://redbarongame.com/) – all still show the 2013 pitch ("Red Baron is back!"); no cancellation notice on any
+[^ref-32]: [Polygon – Two decades after he vanished, Red Baron's creator is back](https://www.polygon.com/2013/10/25/5027564/two-decades-after-he-vanished-red-barons-creator-is-back) – Oct 25, 2013: Slye left the industry in 1994; Tunnell encounter; founded Mad Otter Games in 2007
+[^ref-33]: [GOG – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – Store page for the pack (Red Baron, Mission Builder, Red Baron 3D); GOG catalog release date 2009-10-08, earliest user reviews dated Oct 8, 2009
