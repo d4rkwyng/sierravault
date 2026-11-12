@@ -10,7 +10,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Roberta Williams'' 1983 graphic adventure adaptation of Jim Henson''s film
   The Dark Crystal, the sixth and final Hi-Res Adventure, made with art direction
   from Henson Associates.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #6: The Dark Crystal
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -55,9 +55,9 @@ A GameFAQs walkthrough reminds players that "THERE IS >>NO<< SCORE IN THE DARK C
 
 ### Interface and Controls
 
-The Dark Crystal runs on Sierra's ADL (Adventure Development Language) engine[^ref-2] with a traditional parser. Each location has a text description and a static illustration, and the player types one- or two-word commands, usually verb and noun, such as GO NORTH or CLIMB TREE[^ref-41][^ref-2]. Alex Bevilacqua wrote that "for a very early graphical adventure it's definitely well done and really shows off the power of the ADL engine"[^ref-2].
+The Dark Crystal runs on Sierra's ADL (Adventure Development Language) engine[^ref-2] with a traditional parser. Each location has a text description and a static illustration, and the player types one- or two-word commands, usually verb and noun, such as GO NORTH or CLIMB TREE[^ref-41][^ref-2]. The manual describes a vocabulary that "only understands phrases of one or two words," with single compass letters for movement (N, S, E, W, U and D)[^ref-44]. Pressing RETURN without a command reviews the previous 25 lines of commands and responses, and RETURN again goes back to the scene[^ref-44]. Alex Bevilacqua wrote that "for a very early graphical adventure it's definitely well done and really shows off the power of the ADL engine"[^ref-2].
 
-Bevilacqua also found the Apple II art "basically monochrome", which he attributes to the Apple II having only six colours to choose from. He notes that Ken Williams later enhanced the ADL interpreter with dithering, which expanded the palette to 21 colours[^ref-2]. The Japanese FM-7, PC-88 and PC-98 releases published by Starcraft added more colours to the original graphics[^ref-5][^ref-7]. The game uses keyboard input and is single-player[^ref-12].
+Bevilacqua also found the Apple II art "basically monochrome", which he attributes to the Apple II having only six colours to choose from. He notes that Ken Williams later enhanced the ADL interpreter with dithering, which expanded the palette to 21 colours[^ref-2]. The Japanese FM-7, PC-88 and PC-98 releases published by StarCraft added more colours to the original graphics[^ref-5][^ref-7]. The game uses keyboard input and is single-player[^ref-12].
 
 ### Structure and Progression
 
@@ -112,9 +112,20 @@ Cerf called the result "interactive fiction"[^ref-4]. Ken Williams told Creative
 
 Wikipedia and Bevilacqua, both drawing on MobyGames' cover data, describe it as the first Hi-Res Adventure released directly under the SierraVenture label[^ref-11][^ref-2]. The Atari 8-bit port is credited to Yosemite Software Products, with Chris Iden as programmer[^ref-7][^ref-13]. Hi-Res noted that copy protection was light: "Sierra has eschewed any sort of copy protection for all but Side A," so players could back up the data disks[^ref-41].
 
-The official manual (stock number DCD-001) lists the Apple II requirements as an Apple II or II+ with 48K, a disk drive and a monitor, colour for the best effect, and states that "Side A of Disk 1 is copy-protected. Side B of Disk 1 and both sides of Disk 2 are not"[^ref-44]. It credits Mary Ann Horstmeyer (Henson Associates) and Roberta Williams (Sierra) as project managers, and describes the game as produced by Sierra On-Line "in Great Conjunction with the Muppet Labs Division of Henson Associates, Inc., and Christopher Cerf Associates, Inc."[^ref-44]
+The official manual (stock number DCD-001) lists the Apple II requirements as an Apple II or II+ with 48K, a disk drive and a monitor, colour for the best effect, and states that "Side A of Disk 1 is copy-protected. Side B of Disk 1 and both sides of Disk 2 are not"[^ref-44]. It credits Mary Ann Horstmeyer (Henson Associates) and Roberta Williams (Sierra) as project managers, and describes the game as produced by Sierra On-Line "in Great Conjunction with the Muppet Labs Division of Henson Associates, Inc., and Christopher Cerf Associates, Inc."[^ref-44] The instruction manual is credited to Doug van Aman and John Williams, and Aughra's Song to Professor J.J. Llewellyn, an abridged excerpt from The World of the Dark Crystal (Alfred A. Knopf)[^ref-44]. The manual states that the game is based on the film produced by Jim Henson and Gary Kurtz and directed by Jim Henson and Frank Oz, with story by Jim Henson, screenplay by David Odell and conceptual design by Brian Froud, and carries a "Copyright © 1982 by Henson Associates, Inc." notice[^ref-44].
 
-According to MobyGames, the Apple II and Atari 8-bit editions contain the same adventure and differ mainly in palette, screen layout and visual presentation. The Japanese versions were localized and published by Starcraft[^ref-7].
+According to MobyGames, the Apple II and Atari 8-bit editions contain the same adventure and differ mainly in palette, screen layout and visual presentation. The Japanese versions were localized and published by StarCraft[^ref-7].
+
+### Version History
+
+| Platform | First release (MobyGames) | Notes |
+|----------|---------------------------|-------|
+| Apple II | 1983 | Original release[^ref-7] |
+| Atari 8-bit | 1983-07 | Port credited to Yosemite Software Products[^ref-7][^ref-13] |
+| FM-7 | 1984 | Japanese version, published and localized by StarCraft[^ref-7] |
+| PC-88 | 1984-01 | Japanese version, published and localized by StarCraft[^ref-7] |
+| PC-98 | 1984-01 | Japanese version, published and localized by StarCraft[^ref-7] |
+| Browser | 2020-02-03 | Official recreation[^ref-7] |
 
 ## Legacy
 
@@ -141,6 +152,8 @@ The Jim Henson Company hosts a free official re-creation of the game on the Dark
 
 ## See Also
 
+- [[Hi-Res Adventures Series]]
+- [[1982 - Hi-Res Adventure 5 - Time Zone|← Previous: Time Zone]]
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
@@ -161,10 +174,10 @@ The Jim Henson Company hosts a free official re-creation of the game on the Dark
 [^ref-4]: [The Renga in Blue - The Dark Crystal (1983)](https://bluerenga.blog/2025/07/01/the-dark-crystal-1983/) – Jason Dyer, 2025: Cerf's role, Henson collaboration, 1982 TV interview quotes, Toy Fair Feb 1983 preview, disk swaps, third-person shift
 [^ref-5]: [Hardcore Gaming 101 - The Dark Crystal](http://www.hardcoregaming101.net/dark-crystal-the/) ([archived copy](http://web.archive.org/web/20240118090021/http://www.hardcoregaming101.net/dark-crystal-the/)) – 2021 retrospective by Mat Bradley-Tschirgi: origins after Time Zone, Mahon graphics, Japanese versions, Gelfling Adventure, web remake
 [^ref-6]: [Sierra Gamers - The Dark Crystal](https://www.sierragamers.com/the-dark-crystal/) – release year 1983; previous game in series: Time Zone
-[^ref-7]: [MobyGames - Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – platforms and release dates, Starcraft Japanese versions, Yosemite Software Products Atari port, 2020 browser version
+[^ref-7]: [MobyGames - Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – platforms and release dates, StarCraft Japanese versions, Yosemite Software Products Atari port, 2020 browser version
 [^ref-8]: [Lutris - Hi-Res Adventure #6: The Dark Crystal](https://lutris.net/games/hi-res-adventure-6-the-dark-crystal/) – setting and plot summary
 [^ref-9]: [Dark Crystal Wiki - The Dark Crystal (computer game)](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal_%28computer_game%29) – official product description; Kira and Fizzgig
-[^ref-10]: [GameFAQs - The Dark Crystal walkthrough](https://gamefaqs.gamespot.com/appleii/564085-the-dark-crystal/faqs/1542) – walkthrough by "The Elven Adventurer": no-score note, movie hint, ending
+[^ref-10]: [GameFAQs - The Dark Crystal walkthrough](https://gamefaqs.gamespot.com/appleii/564085-the-dark-crystal/faqs/1542) – walkthrough by Spy, under 'The Elven Adventurer' header: no-score note, movie hint, ending
 [^ref-11]: [Wikipedia - The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_%28video_game%29) – SierraVenture label, Gelfling Adventure (1984)
 [^ref-12]: [UVList - Hi-Res Adventure #6: The Dark Crystal](https://www.uvlist.net/game-154099-Hi+Res+Adventure+6+The+Dark+Crystal) – external review scores (average 65.3%, median 66.5%), single player, keyboard
 [^ref-13]: [Atarimania - Hi-Res Adventure #6: The Dark Crystal](https://www.atarimania.com/game-atari-400-800-xl-xe-hi-res-adventure-6-the-dark-crystal_2468.html) – Atari 8-bit entry; programmer Chris Iden; reprints The Book of Atari Software (1984) review, rated A-
