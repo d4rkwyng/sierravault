@@ -10,13 +10,13 @@ series: None
 engine: Machine Language
 protagonist: Player-created Boxer
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Sierra Championship Boxing is a boxing simulation developed by Evryware's Dave and Barry Murry and published by Sierra On-Line for the IBM PC, later ported to the Commodore 64, Macintosh and Apple II.
 tags: [1980s, sports, boxing, evryware, sierra]
 ---
 # Sierra Championship Boxing
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 
 ## Overview
@@ -54,7 +54,7 @@ Sierra Championship Boxing is played mainly with the keyboard. MobyGames also li
 
 The game is built around individual bouts rather than a campaign.[^ref-12] A typical session runs as follows:
 
-- **Fighter Selection:** Pick from the supplied roster. PC Magazine counted 53 fighters in the IBM PC version, while InfoWorld's review also cites a figure of 53 and Retro365 describes "a list of 50 famous boxers."[^ref-23][^ref-30][^ref-6]
+- **Fighter Selection:** Pick from the supplied roster. PC Magazine counted 53 fighters in the IBM PC version, while InfoWorld's review also cites a figure of 53 and Retro365 describes "a list of 50 famous boxers." Guinness World Records, by contrast, describes "around 20 historical World Heavyweight champs and contenders."[^ref-23][^ref-30][^ref-6][^ref-24]
 - **Character Creation:** Alternatively, create a new fighter by setting name, age, height, weight, reach, endurance, style and other factors.[^ref-23] The Macintosh version calls this area "The Training Room."[^ref-21]
 - **Match Setup:** Choose the match parameters, such as the time per round, the number of rounds and the scoring system.[^ref-18]
 - **The Bout:** Fight the match in one of the three play modes.
@@ -93,6 +93,7 @@ A HOTUD review on MyAbandonware called it "A great first game by any standard." 
 **Aggregate Scores:**
 - **MobyGames:** 81% (critics, 1 rating)[^ref-7]
 - **Abandonware DOS:** 3.88/5.00[^ref-1]
+- **MobyGames players:** 3.8/5 (11 votes, checked November 12, 2026)[^ref-7]
 - **MyAbandonware:** 4.75/5 (8 votes, checked October 29, 2026)[^ref-10]
 - **Vizzed.com:** 7.5/10[^ref-13]
 - **IMDB:** 5.0/10 (10 ratings, checked October 29, 2026)[^ref-14]
@@ -208,7 +209,7 @@ Sierra Championship Boxing is not sold on GOG or Steam. The following preservati
 [^ref-2]: [Wikipedia – Sierra Championship Boxing](https://en.wikipedia.org/wiki/Sierra_Championship_Boxing) – InfoWorld review citation (Mace, June 25, 1984, p. 38), self-booting disk
 [^ref-5]: [Macintosh Repository – Sierra Championship Boxing](https://www.macintoshrepository.org/3494-sierra-championship-boxing) – transcript of the Washington Apple Pi review, Mac compatibility of archived copies
 [^ref-6]: [Retro365 Blog – Sierra Championship Boxing](https://retro365.blog/2022/11/23/q-bits-from-my-personal-collection-sierra-championship-boxing-the-most-extensive-sports-game-created-for-microcomputers/) – InfoWorld summary, 50-boxer roster, Microsoft Home Software Division, CGA/composite, ticket, marketed to 1988
-[^ref-7]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – credits (Program: Dave Murry; Animation: Barry Murry), play modes, specs and input devices by platform (read via the MobyGames API), critic score
+[^ref-7]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – credits (Program: Dave Murry; Animation: Barry Murry), play modes, specs and input devices by platform, critic score
 [^ref-8]: [LaunchBox Games Database – Sierra Championship Boxing](https://gamesdb.launchbox-app.com/games/details/97786-sierra-championship-boxing) – three play modes
 [^ref-9]: [Sierra Chest – Championship Boxing](https://sierrachest.com/index.php?a=games&id=362&title=championship-boxing&fld=box) – engine, platforms, first release 1984
 [^ref-10]: [MyAbandonware – Sierra Championship Boxing](https://www.myabandonware.com/game/sierra-championship-boxing-cx) – HOTUD review, user rating
@@ -218,7 +219,7 @@ Sierra Championship Boxing is not sold on GOG or Steam. The following preservati
 [^ref-15]: [MyAbandonware Play Page – Sierra Championship Boxing](https://www.myabandonware.com/game/sierra-championship-boxing-cx/play-cx) – user comments, compatibility issues
 [^ref-16]: [GameFAQs – Sierra Championship Boxing](https://gamefaqs.gamespot.com/pc/223940-sierra-championship-boxing) – alternate European title
 [^ref-18]: [PixelatedArcade – Sierra Championship Boxing](https://pixelatedarcade.com/games/sierra-championship-boxing) – match options, manuals, copy protection
-[^ref-20]: [Games Domain – Interview with Evryware (Part 1), 1 June 1997 (Wayback Machine)](https://web.archive.org/web/20010709143512/http://www.gamesdomain.com/gdr.cgi?depart%2Fjun97%2Fevryware.html) – the Murrys on their first PC game, Microsoft, Ken Williams, 1983 Sierra release
+[^ref-20]: [Games Domain – Interview with Evryware (Part 1), 1 June 1997 (Wayback Machine)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) – the Murrys on their first PC game, Microsoft, Ken Williams, 1983 Sierra release
 [^ref-21]: [Washington Apple Pi Journal, April 1986, p. 22 – Richard Bollar, "Sierra Championship Boxing: A Review" (Internet Archive scan)](https://archive.org/details/washingtonapplepijournal198604) – Macintosh review
 [^ref-22]: [Computer Gaming World #27, April 1986, p. 40 – Rick Teverbaugh, "Sports Scoreboard" (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_27) – Commodore version review
 [^ref-23]: [PC Magazine, November 13, 1984, p. 311 – Corey Sandler, "Ringside Thrills" (Internet Archive scan)](https://archive.org/details/PC-Mag-1984-11-13) – IBM PC review, 14.5/18 score, 53 fighters, credits, requirements
@@ -226,6 +227,6 @@ Sierra Championship Boxing is not sold on GOG or Steam. The following preservati
 [^ref-25]: [Computer Entertainer, January 1986 – "1985 Index" (p. 6) and "Availability Update" (p. 14) (PDF scan)](https://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_jan86.pdf) – review months for Mac and C64 versions, Apple II scheduling
 [^ref-26]: [MobyGames – Sierra Championship Boxing releases](https://www.mobygames.com/game/4172/sierra-championship-boxing/releases/) – release dates by platform, Aackosoft Netherlands release
 [^ref-27]: [MobyGames – Sierra Championship Boxing screenshots](https://www.mobygames.com/game/4172/sierra-championship-boxing/screenshots/) – gym screen trainer line
-[^ref-28]: [MobyGames – Ringside Seat](https://www.mobygames.com/game/51276/ringside-seat/) – SSI boxing simulation, Apple II and Commodore 64, 1983; "over 45 great fighters past and present" (read via the MobyGames API)
+[^ref-28]: [MobyGames – Ringside Seat](https://www.mobygames.com/game/51276/ringside-seat/) – SSI boxing simulation, Apple II and Commodore 64, 1983; "over 45 great fighters past and present"
 [^ref-29]: [PCjr Magazine, April 1984 (Vol. 1 No. 3) – Computer Outlet advertisement (Internet Archive scan)](https://archive.org/details/pcjr-magazine-1984-volume-1) – "Championship Boxing ...$22" in the P.C. JR. recreation list (file "198404 - Volume 1 Number 3")
-[^ref-30]: [Google Books – InfoWorld, June 25, 1984 issue](https://books.google.com/books?id=wS4EAAAAMBAJ) – review text read via Google Books snippets: "by far the most extensive sports game created for a microcomputer", "could usher in a new era of sports simulation games", "53 real" (Murry credit, $34.95)
+[^ref-30]: [Google Books – InfoWorld, June 25, 1984 issue](https://books.google.com/books?id=wS4EAAAAMBAJ) – review text: "by far the most extensive sports game created for a microcomputer", "could usher in a new era of sports simulation games", "53 real" (Murry credit, $34.95)
