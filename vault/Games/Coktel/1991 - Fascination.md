@@ -8,22 +8,23 @@ genre: Adventure
 platforms: [DOS, Amiga, Atari ST]
 series: Standalone
 engine: Gob
-protagonist: Doralice May
+protagonist: Doralice
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Frédéric Motte, Alain Sery]
 description: '*Fascination* is an erotic thriller graphic adventure game developed
  by Coktel Vision and published under its Tomahawk label in 1991 for the Amiga, Atari
- ST, and MS-DOS...'
+ ST, and MS-DOS. Designed by Muriel Tramis, it follows airline captain Doralice, who
+ is handed a vial of a drug that lowers inhibitions by a dying passenger.'
 tags: [1990s, adventure, sierra, standalone]
 ---
 # Fascination
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-*Fascination* is an erotic thriller graphic adventure game developed by Coktel Vision and published under Tomahawk, the label Coktel used for its simulation and erotic games, in 1991 for the Amiga, Atari ST, and MS-DOS platforms.[^ref-10][^ref-24][^ref-32] The game places players in the role of Doralice May, described in the game's manual as "the sexiest captain on the Paris-Miami flight,"[^ref-21][^ref-29] who becomes entangled in a dangerous conspiracy involving a revolutionary chemical substance after a dying passenger entrusts her with a mysterious vial.[^ref-2] As a first-person point-and-click adventure, *Fascination* was the third and final entry in Coktel Vision's short-lived line of mature-themed adventure games that began with *Emmanuelle* (1989) and continued with *Geisha* (1990).[^ref-10][^ref-18][^ref-6]
+*Fascination* is an erotic thriller graphic adventure game developed by Coktel Vision and published under Tomahawk, the label Coktel used for its simulation and erotic games, in 1991 for the Amiga, Atari ST, and MS-DOS platforms.[^ref-10][^ref-24][^ref-32] The game places players in the role of Doralice, described in the game's manual as "the sexiest captain on the Paris-Miami flight,"[^ref-21][^ref-29] who becomes entangled in a dangerous conspiracy involving a revolutionary chemical substance after a dying passenger entrusts her with a mysterious vial.[^ref-2] As a first-person point-and-click adventure, *Fascination* was the third and final entry in Coktel Vision's short-lived line of mature-themed adventure games that began with *Emmanuelle* (1989) and continued with *Geisha* (1990).[^ref-10][^ref-18][^ref-6]
 
 The game was designed by [[Muriel Tramis]], a designer from Martinique whose Coktel Vision games frequently featured female protagonists and mildly erotic scenes.[^ref-4][^ref-38] Despite its adult themes, *Fascination* was noted by *The Adventurers' Guild* for having "sensible problems with sensible solutions, not based on minigames or external sources of information, but on the logical use of items you'll find."[^ref-5] The protagonist Doralice would later return in Coktel Vision's *Lost in Time* (1993), establishing a loose continuity between the games.[^ref-6]
 
@@ -38,12 +39,12 @@ Contemporary reception was mixed, with French publications rating the PC version
 > **Platforms:** MS-DOS, Amiga, Atari ST[^ref-1]
 > **Release Year:** 1991[^ref-33]
 > **Series:** Standalone (Doralice appears in Lost in Time)
-> **Protagonist:** Doralice May
+> **Protagonist:** Doralice
 > **Sierra Lineage:** Sierra Label (Coktel)
 
 ## Story Summary
 
-The narrative opens with Jeffrey Miller, CEO of Quantum Unlimited Laboratory (Q.U.L.), who has discovered a revolutionary cerebro-chemical substance capable of neutralizing behavioral inhibitors—essentially a drug that increases the sex drive.[^ref-11][^ref-24] Miller's right-hand man,[^ref-6] Fayard Nichols, is transporting a prototype vial of this substance when he suffers a fatal heart attack aboard a Paris-to-Miami flight. In his dying moments, Nichols places the vial into the hands of Captain Doralice May, the flight's commanding officer, imploring her to deliver it into safe hands.[^ref-2]
+The narrative opens with Jeffrey Miller, CEO of Quantum Unlimited Laboratory (Q.U.L.), who has discovered a revolutionary cerebro-chemical substance capable of neutralizing behavioral inhibitors—essentially a drug that increases the sex drive.[^ref-11][^ref-24] Miller's right-hand man,[^ref-6] Fayard Nichols, is transporting a prototype vial of this substance when he suffers a fatal heart attack aboard a Paris-to-Miami flight. In his dying moments, Nichols places the vial into the hands of Captain Doralice, the flight's commanding officer, imploring her to deliver it into safe hands.[^ref-2]
 
 Upon landing in Miami, Doralice finds herself thrust into a dangerous conspiracy. The chemical's potential has attracted numerous interested parties, and Miller himself has been assassinated.[^ref-24] Doralice must navigate Miami's various locales—including a lingerie shop in Coconut Grove, a jazz club in Little Havana, and the historic Villa Vizcaya—to uncover the truth.[^ref-6] A recorded message from Miller tasks her with recovering a stolen vial and delivering both samples to his son Kenneth.[^ref-14] The French Wikipedia summarises her task as often having to lie, use her charms and above all her wits to carry out her investigation and solve the mystery.[^ref-6]
 
@@ -64,7 +65,8 @@ The game follows a linear progression through various Miami locations as Doralic
 - **Coconut Grove:** Features a lingerie shop important to the investigation[^ref-6]
 - **Little Havana:** Contains a jazz club with vital clues[^ref-6]
 - **Quantum Unlimited Laboratory:** Miller's research facility[^ref-14]
-- **Villa Mollière/Villa Vizcaya:** Climactic location for the game's finale[^ref-6]
+- **Villa Mollière:** Kenneth's villa, where Doralice has a love scene with him[^ref-14]
+- **Villa Vizcaya:** The last location listed in the walkthrough[^ref-6][^ref-14]
 
 ### Puzzles and Mechanics
 
@@ -81,9 +83,9 @@ One notable puzzle involves an aquarium containing piranhas—players who attemp
 
 ### Contemporary Reviews
 
-French gaming publications gave *Fascination* high marks upon its initial release on PC. *Génération 4* (Issue 38) awarded the game 91%, with reviewer Christian Roux praising the title in November 1991.[^ref-7] Similarly, *Joystick* (Issue 21) gave the PC version 90%, reviewed by Moulinex in the same month.[^ref-7]
+French gaming publications gave *Fascination* high marks upon its initial release on PC. *Génération 4* (Issue 38) awarded the game 91%, with reviewer Christian Roux praising the title in November 1991.[^ref-7] Similarly, *Joystick* (Issue 21) gave the PC version 90%, reviewed by Moulinex in the same month.[^ref-7] *Tilt* (No. 96, December 1991) reviewed the PC version, with Jean-Loup Jovanovic giving it an interest rating of 15 out of 20 (six stars for graphics, four for sound via the MDO interface). He wrote that the scenario "mêle humour, espionnage et érotisme (très soft)" and ended the review with "Un bon jeu d'aventure, en français de surcroît."[^ref-41]
 
-The Amiga version received more varied scores across European publications. *CU Amiga* gave the game 80%, with reviewer Tony Dillon noting its strengths in September 1992.[^ref-7] *Amiga Games* awarded 79% from Lutz Mahle in December 1992, while *Amiga Mania* gave 78% from Jeff Davy in November 1992.[^ref-7] Lower scores came from *Amiga Power* at 67% (Jonathan Davies, September 1992), *Amiga Format* at 65% (James Leach, October 1992), and *The One Amiga* at 62% (Khalid Howlader, September 1992).[^ref-7]
+The Amiga version received more varied scores across European publications. *CU Amiga* gave the game 80%, with reviewer Tony Dillon noting its strengths in September 1992.[^ref-7] *Amiga Games* awarded 79% from Lutz Mahle in December 1992, while *Amiga Mania* gave 78% from Jeff Davy in November 1992.[^ref-7] Lower scores came from *Amiga Power* at 67% (Jonathan Davies, September 1992), *Amiga Format* at 65% (James Leach, October 1992), and *The One Amiga* at 62% (Khalid Howlader, September 1992).[^ref-7] *Tilt* (No. 102, May 1992) reviewed a French-language Amiga edition, listing Tomahawk as publisher, with Jacques Harbonn rating graphics 14 and sound 8; he found the port had lost "les graphismes hauts en couleur et la superbe séquence de présentation vidéo digitalisée" of the PC version.[^ref-42]
 
 The most critical Amiga reviews came from *Amiga Action* (51%, Peter Lee), *Amiga Joker* (48%, Oskar Dzierzynski), and *Amiga Computing* (47%, Ben Styles).[^ref-7] Ben Styles of *Amiga Computing* wrote that "The French just aren't funny any more."[^ref-21]
 
@@ -105,7 +107,7 @@ The *Atari Legend* retrospective was more nostalgic, with the reviewer stating "
 
 ### Origins
 
-*Fascination* emerged from Coktel Vision's experimentation with mature-themed adventure games in the late 1980s and early 1990s. The company, known mainly for educational titles, published its simulation and erotic games under the Tomahawk label to keep them apart from its edutainment line.[^ref-32] It had previously released *Emmanuelle* (1989) and *Geisha* (1990) before developing *Fascination* as the third and final entry in this unofficial trilogy.[^ref-10][^ref-18] The game was designed by Muriel Tramis, whose work consistently featured female protagonists and explored themes of sensuality within adventure game frameworks.[^ref-4]
+*Fascination* emerged from Coktel Vision's experimentation with mature-themed adventure games in the late 1980s and early 1990s. The company, known mainly for educational titles, published its simulation and erotic games under the Tomahawk label to keep them apart from its edutainment line.[^ref-32] It had previously released *Emmanuelle* (1989) and *Geisha* (1990) before developing *Fascination* as the third and final entry in this unofficial trilogy.[^ref-10][^ref-18] The game was designed by Muriel Tramis, whose work consistently featured female protagonists and explored themes of sensuality within adventure game frameworks.[^ref-4] In a 2018 interview with *The Adventure Gamer*, Tramis said of the sexuality theme: "It was my own idea. I found that video games had been until then too much just a matter of men." She said she "created the first female heroine before Lara Croft", and that "The only condition on my publisher's part was that they had to appear under another brand: Tomahawk." On Coktel's erotic line she added that "Tomahawk was not another company; it was simply a trick, a brand under which Coktel Vision created some".[^ref-44]
 
 ### Production
 
@@ -140,12 +142,13 @@ The music is usually credited to Frédéric Motte (credited as "Moby" in some ve
 **CD-ROM Version (1992):**[^ref-10]
 - **Resolution:** 320x200, 256 colors
 - **Audio:** Speech on a CD audio track[^ref-10]
+- **Bundle:** In June 1992, French distributor Guillemot advertised its Sound Blaster CD-ROM Drive (internal) for 2,790 F with the *Fascination* CD-ROM included free, for owners of a Sound Blaster Pro card; the offer ran to 31 August 1992 while stocks lasted[^ref-43]
 - **Notes:** First CD game created by Coktel Vision[^ref-10]; includes censored content compared to floppy version[^ref-29][^ref-35]
 
 **Amiga Version:**[^ref-9]
 - **Platforms:** Amiga OCS/ECS
 - **Disks:** 2
-- **Language:** English
+- **Language:** English; a French-language Amiga edition was also sold[^ref-42]
 - **Development Tool:** C Code
 
 ### Cut Content
@@ -210,7 +213,7 @@ While specific sales figures are not available, *Fascination* represented the co
 
 ### Collections
 
-The protagonist Doralice May returned in *Lost in Time* (1993), creating an informal continuity between the games.[^ref-6] *Fascination* itself remained a standalone title. It appeared in period compilations such as the Dutch Flyer collection but has not been re-released in modern times;[^ref-8] it remains playable through ScummVM.[^ref-10]
+The protagonist Doralice returned in *Lost in Time* (1993), creating an informal continuity between the games.[^ref-6] *Fascination* itself remained a standalone title. It appeared in period compilations such as the Dutch Flyer collection but has not been re-released in modern times;[^ref-8] it remains playable through ScummVM.[^ref-10]
 
 ### Fan Projects
 
@@ -227,15 +230,16 @@ The game is supported by ScummVM, the open-source adventure game engine, allowin
 
 Reviewers have been less generous about how the game handles sex. *The Adventurers' Guild* found its sexuality "mostly just there to spice things up", with silly puns, sex jokes and "perhaps an occasional corny nude shot", but criticised the use of a drug-induced rape spree as a source of humour, deducting a point for "the careless use of rape in the plot."[^ref-5] The floppy release includes nude scenes, such as the optional shower cutscene, which were cut or covered in the 1992 CD-ROM version.[^ref-20][^ref-35]
 
+Tramis said she found the *Leisure Suit Larry* games "a little vulgar", and said that in *Fascination* and *Lost in Time* her heroines "are smart and use logic to get by. They are not violent."[^ref-44]
+
 The game was released shortly before Coktel Vision was acquired by Sierra On-Line, a deal finalised on 29 October 1993.[^ref-32] Among modern retrospectives, *I Heart Old Games* placed it among adventure games that are neither masterpieces nor awful, "probably in the lowest tier of it but is not an horrible game."[^ref-8]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG Dreamlist – Fascination](https://www.gog.com/dreamlist/game/fascination) - Community Dreamlist entry; the game is not sold on GOG
 
 **Download / Preservation**
-- [Internet Archive – CD Version](https://archive.org/details/fascination-cd)[^ref-13]
 - [Internet Archive – DOS Version](https://archive.org/details/msdos_Fascination_1991)[^ref-31]
 - [MyAbandonware](https://www.myabandonware.com/game/fascination-15h)[^ref-18]
 
@@ -264,7 +268,6 @@ The game was released shortly before Coktel Vision was acquired by Sierra On-Lin
 [^ref-9]: [Lemon Amiga – Fascination](https://www.lemonamiga.com/games/details.php?id=1398) – development credits, user reviews, technical specs
 [^ref-10]: [ScummVM Wiki – Fascination](https://wiki.scummvm.org/index.php?title=Fascination) – engine information, CD version details, file locations
 [^ref-11]: [The Adventurers' Guild – Fascination Introduction](https://advgamer.blogspot.com/2017/05/game-84-fascination-introduction.html) – plot synopsis, Miller's research
-[^ref-13]: [Internet Archive – Fascination CD](https://archive.org/details/fascination-cd) – plot summary, archive statistics
 [^ref-14]: [StrategyWiki – Fascination Walkthrough](https://strategywiki.org/wiki/Fascination/Walkthrough) – gameplay locations, Miller's message
 [^ref-15]: [StrategyWiki – Fascination](https://strategywiki.org/wiki/Fascination) – developer/publisher credits (stub page)
 [^ref-16]: [MobyGames – Fascination User Review](https://www.mobygames.com/game/9399/fascination/user-review/2649803/) – interface description, game length
@@ -286,8 +289,12 @@ The game was released shortly before Coktel Vision was acquired by Sierra On-Lin
 [^ref-33]: [MobyGames – Fascination Releases](https://www.mobygames.com/game/9399/fascination/releases/) – release dates, countries, publisher/developer credits, Digital Integration US distribution
 [^ref-34]: [MobyGames – Fascination Tech Specs](https://www.mobygames.com/game/9399/fascination/specs/) – DOS minimum CPU/OS/RAM, media, video modes, sound devices
 [^ref-35]: [MobyGames – Fascination Trivia](https://www.mobygames.com/game/9399/fascination/trivia/) – CD-ROM censorship details, Intersound MDO support, Motte on sampled .MOD music
-[^ref-36]: [The Sierra Chest – The CD ROM Catalogue 1994](https://sierrachest.com/index.php?a=publications&id=5) – Sierra UK catalogue; page 15 ("E.S.S. Mega - Fascination") and back-cover title list include Fascination under "CD ROM Classics"
+[^ref-36]: [The Sierra Chest – The CD ROM Catalogue 1994](https://sierrachest.com/index.php?a=publications&id=5) – Sierra UK catalogue; page 15 ("E.S.S. Mega - Fascination") is headed "CD ROM Classics", and the back cover lists Fascination among Sierra's CD-ROM titles
 [^ref-37]: [ScummVM Wiki – Category: Gob Games (Wayback, 15 August 2025)](http://web.archive.org/web/20250815053807/https://wiki.scummvm.org/index.php?title=Category%3AGob_Games) – Gob engine games include Fascination, Gobliiins, Gobliins 2 and Goblins 3
 [^ref-38]: [The Obscuritory – Muriel Tramis speaks about her career and the memory of Martinique](https://obscuritory.com/essay/muriel-tramis-interview/) – Phil Salvador, 5 March 2018; "She grew up in Martinique but left for France at age 16"
 [^ref-39]: [ST Format Issue 39, October 1992 (Internet Archive)](https://archive.org/details/stformathi05) – Fascination review by Andy Lowe, scan pages 114–115 (stf39jpg.zip); software house Coktel Vision/Digital Integration, ST Format Rating 78%
 [^ref-40]: [Atari ST Review Issue 6, October 1992 (Internet Archive)](https://archive.org/details/atari-st-review-006) – Fascination review, p. 96; company Digital Integration, overall 80%
+[^ref-41]: [Tilt No. 96, December 1991 (Internet Archive)](https://archive.org/details/Tilt096) – Fascination PC review by Jean-Loup Jovanovic, interest 15, graphics 6 stars, sound 4 stars (MDO interface), editor Tomahawk
+[^ref-42]: [Tilt No. 102, May 1992 (Internet Archive)](https://archive.org/details/Tilt102) – Fascination Amiga review by Jacques Harbonn, editor Tomahawk, graphics 14, sound 8, game in French
+[^ref-43]: [Tilt No. 103, June 1992 (Internet Archive)](https://archive.org/details/Tilt103) – Guillemot advertisement: CD-ROM drive at 2,790 F with the Fascination CD-ROM free, offer valid to 31 August 1992
+[^ref-44]: [The Adventure Gamer – Interview with Muriel Tramis](https://advgamer.blogspot.com/2018/03/interview-with-muriel-tramis.html) – 19 March 2018; Tomahawk as a Coktel brand, her heroines, first female heroine, Leisure Suit Larry
