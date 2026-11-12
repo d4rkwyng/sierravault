@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Unknown
 protagonist: Spooky the Ghost
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Gordon van Ekström]
 description: Kid's Typing is a 1993 touch-typing tutor for children, developed by
   Bright Star Technology and published by Sierra On-Line in the Talking Tutor series,
@@ -19,11 +19,11 @@ tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Kid's Typing
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Kid's Typing is an educational typing game released in 1993 by [[Sierra On-Line]], developed by [[Bright Star Technology]] as part of the Talking Tutor series of educational software.[^ref-1][^ref-9] MobyGames documents a hybrid Macintosh / Windows 3.x CD-ROM release,[^ref-25] and a 1995 buyer's guide lists both CD-ROM and floppy editions for each platform.[^ref-29] The game teaches touch typing through Spooky, "a talkative ghost who lives in the attic of an all-American home," who "uses humor and games to teach kids how to type."[^ref-2] Sierra's own documentation describes it as designed for children between the ages of seven and ten,[^ref-28] and Sierra's Spring 1994 *InterAction* magazine likewise describes Spooky as the tutor who "guides seven- to ten-year-olds through Kid's Typing."[^ref-31]
+Kid's Typing is an educational typing game released in 1993 by [[Sierra On-Line]], developed by [[Bright Star Technology]] as part of the Talking Tutor series of educational software.[^ref-1][^ref-9] MobyGames documents a hybrid Macintosh / Windows 3.x CD-ROM release,[^ref-25] Sierra's Holiday 1993 *InterAction* order form lists it as new, at $42.45 for Windows/Macintosh,[^ref-35] and a 1995 buyer's guide lists both CD-ROM and floppy editions for each platform.[^ref-29] The game teaches touch typing through Spooky, "a talkative ghost who lives in the attic of an all-American home," who "uses humor and games to teach kids how to type."[^ref-2] Sierra's own documentation describes it as designed for children between the ages of seven and ten,[^ref-28] and Sierra's Spring 1994 *InterAction* magazine likewise describes Spooky as the tutor who "guides seven- to ten-year-olds through Kid's Typing."[^ref-31]
 
 Rather than presenting drills alone, Kid's Typing sets its practice in a house where Spooky tries to scare an oblivious family, and the faster the player types, the more haunted the house becomes.[^ref-9] Its lessons are generated from the player's performance: "Built-in intelligence enables him to continuously create new lessons based on your child's typing accuracy and speed."[^ref-2] Sierra re-released the game in 1996 as part of its SierraOriginals line.[^ref-25]
 
@@ -78,11 +78,13 @@ At the end of each session the game shows statistics: words per minute, accuracy
 
 ### Contemporary Reviews
 
+The *Washington Post* (13 December 1993) listed "Kid's Typing (ages 7-10; IBM and Macintosh; $49.95)" and called Bright Star's program "The most creatively amusing of several interactive typing programs," describing its "personalized talking tutor for keyboarding techniques" as "a mischievous ghost named Spooky who rewards students with rascally jaunts through the house he haunts. The library has 30 classic children's books for extracurricular typing."[^ref-34] Sierra reprinted "The most creatively amusing of several interactive typing programs," credited to the *Washington Post*, in its Spring 1995 *InterAction* advertisement for the game.[^ref-37]
+
 *The Computer Museum Guide to the Best Software for Kids* (1995) gave Kid's Typing two stars on its one-to-four-star scale and rated it "Best for ages 6-8."[^ref-29] The guide praised its "crisp, colorful graphics, a friendly typing tutor named Spooky the Ghost and rewarding little animations," and concluded: "A series of typing lessons with a clean, contemporary look. But kids will need your encouragement to stick with the practice."[^ref-29][^ref-27] The guide's category ratings were two stars for Learning ("Basic touch-typing skills"), two for Looks ("Appealing haunted-attic setting") and one for Longevity, with the note that "Learning to type is still a chore that kids try to avoid."[^ref-29] Sierra listed the game on page 35 of its 15th-anniversary catalog for Winter 1994–95.[^ref-24]
 
 ### Awards and Publisher Claims
 
-Sierra's own Holiday 1994 *InterAction* magazine says Kid's Typing was a "Winner of a 1994 Club Kidsoft Member's Choice Award." This is Sierra's claim as printed in its own magazine; no independent record of the award was checked.[^ref-30] In Sierra's Fall 1995 *InterAction*, educational technology consultant Jay Moore says of the Talking Tutor series, "Teachers like the Talking Tutor series," and calls Spooky "very engaging." The magazine is Sierra-published, so this is a publisher-supplied testimonial rather than an independent review.[^ref-32]
+Sierra's own Holiday 1994 *InterAction* magazine says Kid's Typing was a "Winner of a 1994 Club Kidsoft Member's Choice Award." This is Sierra's claim as printed in its own magazine; no independent record of the award was checked.[^ref-30] In Sierra's Fall 1995 *InterAction*, educational technology consultant Jay Moore says of the Talking Tutor series, "Teachers like the Talking Tutor series," and calls Spooky "very engaging." The magazine is Sierra-published, so this is a publisher-supplied testimonial rather than an independent review.[^ref-32] The same issue's catalog entry for the game prints "Five Stars" — "Highest Rating — CD-ROM Today" and "Seal of Approval, National Parenting Center." These are Sierra's printed claims; the original CD-ROM Today review and the seal were not checked.[^ref-32]
 
 ### Modern Assessment
 
@@ -100,6 +102,8 @@ In a 2023 r/nostalgia post, one user recalled: "Pretty sure I played it once but
 
 Kid's Typing was developed by [[Bright Star Technology]] and published by [[Sierra On-Line]].[^ref-1] Sierra Chest groups it in the Talking Tutor series, alongside Alphabet Blocks, Beginning Reading, Spelling Jungle, Spelling Blizzard and Early Math.[^ref-4][^ref-9] Wikipedia's article on Bright Star Technology says Sierra acquired the company in 1992 and lists Kid's Typing among its titles.[^ref-33]
 
+In Spring 1994 Sierra announced "the arrival of its Dream Team line of children's software products to software stores nationwide," developed by "Sierra's edutainment subsidiary, Bright Star Technology," and offered them "for a limited time" at a "VERY SPECIAL INTRODUCTORY PRICE - UP TO 50% OFF," with the offer ending April 30, 1994. The same issue names Spooky as one of the line's tutors.[^ref-31] Macintosh Repository, Classic Reload and GOG's Dreamlist title the game "Dream Team: Kid's Typing," and the Internet Archive item "Dream Team Kid's Typing."[^ref-5][^ref-3][^ref-2][^ref-7]
+
 ### Production
 
 **Development Credits:**[^ref-22][^ref-1]
@@ -111,14 +115,14 @@ Kid's Typing was developed by [[Bright Star Technology]] and published by [[Sier
 - **Quality Assurance:** Tim Knappenberger, Jay Williams
 - **Audio Director / Composer:** Gordon van Ekström
 - **Lead Audio Engineer:** Kevin Cannon
-- **Voice Talent:** Annette Toutonghi
+- **Voice Talent:** Annette Toutonghi (the only voice performer credited)
 - **User Guide:** Cathy Malmrose, Leslie Geller; Bill Baker (on-line conversion)
 
-MobyGames' credit listing carries the notice "© 1993 Bright Star Technology Inc."[^ref-1]
+MobyGames spells the names Olmsteed and Ekström; Sierra Chest spells them Olmstead and Ekstrom.[^ref-1][^ref-22] MobyGames' credit listing carries the notice "© 1993 Bright Star Technology Inc."[^ref-1]
 
 ### Technical Achievements
 
-Spooky speaks to the player,[^ref-2] and the Windows version requires a sound card supporting Windows 3.1. The game "does not support the internal speaker sound driver."[^ref-23] The documentation highlights two design features: text that scrolls smoothly three lines at a time instead of jumping, and lessons generated from the player's own weakest keys.[^ref-28]
+The game's characters speak: Annette Toutonghi is the only credited Voice Talent, though the credits don't say which character or characters she voices,[^ref-22][^ref-1] and Sierra's Spring 1994 *InterAction* described the Dream Team tutors as characters whose mouths move in sync with their spoken words.[^ref-31] The Windows version requires a sound card supporting Windows 3.1. The game "does not support the internal speaker sound driver."[^ref-23] The documentation highlights two design features: text that scrolls smoothly three lines at a time instead of jumping, and lessons generated from the player's own weakest keys.[^ref-28]
 
 ### Technical Specifications
 
@@ -144,24 +148,17 @@ Spooky speaks to the player,[^ref-2] and the Windows version requires a sound ca
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | 1993 | Windows 3.x, Macintosh | Hybrid Mac / Windows 3.x CD-ROM release[^ref-25]; the 1995 Computer Museum Guide also lists CD-ROM or floppy editions for both platforms[^ref-29] |
-| SierraOriginals | 1996 | Windows 3.x, Macintosh | Budget re-release[^ref-25] |
+| Floppy and CD-ROM editions | 1994 | Windows 3.x, Macintosh | Quality Computers' *Enhance* Fall 1994 catalog lists Macintosh and Windows each in a floppy ("Consumer") edition and a CD-ROM edition; it prints $49.95 for both CD-ROM editions and $34.95 for the Windows floppy[^ref-36] |
+| SierraOriginals | 1996 | Windows 3.x, Macintosh | Budget re-release; UPC-A 020626801928, ISBN-10 0871774011[^ref-25] |
 
 ### Technical Issues
 
 Sierra Chest reports that it got Kid's Typing running both under Windows 3.1 in DOSBox and directly under Windows XP.[^ref-23] If the display isn't set to 256 colours, the game warns "This program works best with 256 colors."[^ref-23] Amazon reviewers report mixed results on later systems. One got it running on XP in compatibility mode. Others could not get it working on Windows 7 or 8. Others ran it on Windows 10 by installing Windows 3.1 under DOSBox.[^ref-11] Macintosh Repository lists the Mac version as compatible with Mac OS 6.0 through 9.2 and suggests the Basilisk II emulator.[^ref-5]
 
-### Easter Eggs and Trivia
+### Trivia
 
 - In the attic, clicking the picture frame with broken glass shows the game's credits.[^ref-21]
 - A demo of Kid's Typing is included in a Talking Tutor demo file (26.6 MB download) on Sierra's *Sneak Peeks 2* PC CD-ROM, alongside demos of Alphabet Blocks, Beginning Reading, Spelling Jungle, Spelling Blizzard and Early Math.[^ref-4]
-
-## Voice Cast
-
-| Actor | Credited Role |
-|-------|---------------|
-| Annette Toutonghi | Voice Talent[^ref-22][^ref-1] |
-
-The credits list a single voice performer. Which character or characters she voices isn't specified.[^ref-22]
 
 ## Legacy
 
@@ -175,7 +172,7 @@ The Talking Tutor demo file containing Kid's Typing was distributed on Sierra's 
 
 ### Preservation
 
-Kid's Typing is not sold on any current digital storefront. Copies are preserved at:
+Kid's Typing is not sold on any current digital storefront (checked November 2026). Copies are preserved at:
 - Macintosh Repository, which hosts an ISO image of the hybrid Mac/PC CD-ROM[^ref-5]
 - Classic Reload, which hosts a browser-playable Windows 3.x version[^ref-3]
 - Internet Archive, which hosts the hybrid CD-ROM image[^ref-7]
@@ -183,7 +180,7 @@ Kid's Typing is not sold on any current digital storefront. Copies are preserved
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on digital storefronts
+- Not currently available on digital storefronts (checked November 2026)
 
 **Preservation / Abandonware**
 - [Macintosh Repository](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) - Mac/PC hybrid ISO[^ref-5]
@@ -204,6 +201,8 @@ Kid's Typing is not sold on any current digital storefront. Copies are preserved
 - [[1984 - Wizard of Id's WizMath]]
 - [[1984 - Wizard of Id's WizType]]
 - [[1992 - Ready, Set, Read with Bananas & Jack]]
+- [[1993 - Spelling Jungle]]
+- [[1994 - Spelling Blizzard]]
 
 ## References
 
@@ -226,6 +225,10 @@ Kid's Typing is not sold on any current digital storefront. Copies are preserved
 [^ref-28]: [Sierra Chest – Kid's Typing Walkthrough: Introduction](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough) – reproduces Sierra's documentation: ages seven to ten, three environments, fifteen-lesson key order, lesson structure, weak-key lesson generation, three-line smooth scrolling ([archived copy, 2019-07-18](https://web.archive.org/web/20190718143659/http://sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough))
 [^ref-29]: [The Computer Museum Guide to the Best Software for Kids (HarperPerennial, 1995), p. 208 – Internet Archive scan](https://archive.org/details/computermuseumguid00mira/page/208/mode/1up) – Kid's Typing review: two stars (the guide rates "from 1 to 4 stars", per its introduction), "Best for ages 6-8", bottom-line verdict
 [^ref-30]: [InterAction, Vol. 7 No. 2 (Holiday 1994) – Internet Archive](https://archive.org/details/022_interaction_volume_7_number_2_holiday_1994) – Sierra's catalog blurb for Kid's Typing: "Winner of a 1994 Club Kidsoft Member's Choice Award" (Sierra's own claim)
-[^ref-31]: [InterAction, Vol. 6 No. 4 (Spring 1994) – Internet Archive](https://archive.org/details/020_InterAction_Volume_6_Number_4_Spring_1994) – Dream Team article ("Spooky, who guides seven- to ten-year-olds through Kid's Typing") and order form price of 39.95
-[^ref-32]: [InterAction, Fall 1995 – Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – Jay Moore comment on the Talking Tutor series and Spooky (Sierra-published testimonial, not independent)
+[^ref-31]: [InterAction, Vol. 6 No. 4 (Spring 1994) – Internet Archive](https://archive.org/details/020_InterAction_Volume_6_Number_4_Spring_1994) – Dream Team announcement and article (Spooky "guides seven- to ten-year-olds through Kid's Typing"; synchronized lip-sync speech; introductory price through April 30, 1994) and order form price of 39.95
+[^ref-32]: [InterAction, Fall 1995 – Internet Archive](https://archive.org/details/InterAction_Magazine_Fall_1995_1995_Sierra_On-Line_US) – Jay Moore comment on the Talking Tutor series and Spooky (Sierra-published testimonial, not independent); catalog blurb with Sierra's printed "Five Stars" CD-ROM Today and National Parenting Center claims
 [^ref-33]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – acquired by Sierra On-Line in 1992; Kid's Typing in its title list
+[^ref-34]: [The Washington Post – "Computers" by Don Oldenburg, 13 December 1993 (archived 2018-05-01)](https://web.archive.org/web/20180501224813/https://www.washingtonpost.com/archive/lifestyle/1993/12/13/computers/8771dcb5-068b-44e1-bb25-f2382731c62a/) – Kid's Typing capsule review: ages 7-10, IBM and Macintosh, $49.95, "most creatively amusing", 30 classic children's books
+[^ref-35]: [InterAction, Vol. 6 No. 3 (Holiday 1993) – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – Bright Star Kid's Typing, $42.45, Windows/Macintosh; order form lists it as new
+[^ref-36]: [Quality Computers, Enhance catalog (Fall 1994) – Internet Archive](https://archive.org/details/Enhance_Fall_1994) – Kid's Typing, grade level 2nd-5th, Macintosh and Windows floppy and CD-ROM editions
+[^ref-37]: [InterAction, Spring 1995 – Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1995_1995_Sierra_On-Line_US) – Sierra's Kid's Typing advertisement reprinting the Washington Post "most creatively amusing" line
