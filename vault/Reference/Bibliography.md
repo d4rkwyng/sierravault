@@ -28,7 +28,7 @@ Ken Williams's memoir is a primary source; Kent, Levy, Donovan and Mills are sec
 
 
 - **Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line*** (Lulu.com, July 24, 2020; ISBN 978-1-71672-736-8). Self-published memoir by Sierra's co-founder covering founding through the CUC sale. The single most important primary source for the company's business history.[^ref-kw-book]
-- **Steven L. Kent, *The Ultimate History of Video Games: From Pong to Pokémon and Beyond*** (Prima Publishing and Three Rivers Press editions, 2001; Crown Publishing reissue, 2021; ISBN 0-7615-3643-4). Industry-wide survey in which Sierra is not a central subject.[^ref-kent]
+- **Steven L. Kent, *The Ultimate History of Video Games: From Pong to Pokémon and Beyond*** (Prima Publishing and Three Rivers Press editions, 2001; Crown Publishing reissue, 2021; ISBN 0-7615-3643-4). Industry-wide history of video games.[^ref-kent]
 - **Steven Levy, *Hackers: Heroes of the Computer Revolution*** (Anchor Press/Doubleday, 1984). Documents early On-Line Systems and the broader Apple II hobbyist context.[^ref-levy]
 - **Tristan Donovan, *Replay: The History of Video Games*** (Yellow Ant, 2010). Industry survey with adventure-game-genre coverage.[^ref-donovan]
 - **Shawn Mills, *Sierra Adventure: The Story of Sierra On-Line*** (Lulu Press, Inc., 2020; ISBN 978-1-71675-872-0). Book about Sierra On-Line.[^ref-mills]
