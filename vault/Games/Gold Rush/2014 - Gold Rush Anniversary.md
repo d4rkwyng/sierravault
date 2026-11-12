@@ -2,7 +2,7 @@
 title: Gold Rush! Anniversary
 release_year: 2014
 developer: Sunlight Games
-designer: [Ken MacNeill (original game), Doug MacNeill (original game)]
+designer: [Doug MacNeill, Ken MacNeill]
 publisher: Sunlight Games
 genre: Adventure
 platforms: [Windows, Mac, Linux, iOS, Android]
@@ -10,14 +10,14 @@ series: Gold Rush!
 engine: Unity
 protagonist: Jerrod Wilson
 sierra_lineage: Fan Project
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line
   adventure game Gold Rush!, developed and published by Sunlight Games.
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! Anniversary
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ One of the defining features of the Anniversary edition is its dual control sche
 
 > [!info]- Game Info
 > **Developer:** Sunlight Games[^ref-2]
-> **Designer:** Ken MacNeill, Doug MacNeill (original game)[^ref-18]
+> **Designer:** Doug MacNeill, Ken MacNeill (original game)[^ref-18]
 > **Publisher:** Sunlight Games[^ref-2][^ref-17]
 > **Engine:** Unity[^ref-17]
 > **Platforms:** Windows, Mac, Linux, iOS, Android[^ref-3]
@@ -92,16 +92,17 @@ GameOver.gr rated it 50/100. Metacritic's excerpt of the review calls it "An unr
 
 ### Modern Assessment
 
-On Steam, 66% of 66 user reviews are positive, a "Mixed" rating.[^ref-2] On Metacritic, one user review calls the point-and-click interface "not intelligent" and the voice acting "atrocious".[^ref-13]
+On Steam, 67% of 67 user reviews are positive, a "Mixed" rating (November 2026).[^ref-2] On Metacritic, one user review calls the point-and-click interface "not intelligent" and the voice acting "atrocious".[^ref-13]
 
 The iOS App Store shows a 3.0 out of 5 rating from 12 ratings.[^ref-4] Users praised the game concept but criticized the touch controls. One reviewer wrote: "The controls are awful. I keep wishing I was just playing the original. This release just isn't fun to play."[^ref-4] Another called it a "Good game in need for more forgiving touch controls".[^ref-4]
 
 **Aggregate Scores:**
-- **Steam User Reviews:** 66% positive (66 reviews)[^ref-2]
+- **Steam User Reviews:** 67% positive (67 reviews, November 2026)[^ref-2]
 - **Adventure Gamers:** 1.5/5 stars[^ref-5]
 - **3rd-strike.com:** 7.0/10[^ref-1]
 - **Just Adventure:** B-[^ref-7]
 - **Hooked Gamers:** 57/100[^ref-13]
+- **Adventure Gamers (as listed by Metacritic, January 18, 2015):** 30/100[^ref-13]
 - **GameOver.gr:** 50/100[^ref-13]
 - **Gameboomers:** C[^ref-26]
 - **Adventure Corner:** 54/100[^ref-10][^ref-22]
@@ -128,9 +129,13 @@ The remake added newly recorded voice-overs and re-recorded music.[^ref-2][^ref-
 - **Developer:** Sunlight Games
 - **Executive Producer:** Marco Sowa
 - **Lead Programmer:** Tim Polak
+- **Graphics:** Ben Hölzemer, Marcus Hussock, Michael Schmitz, Marco Sowa, Claudia Zähle
 - **Lead Graphics:** Sebastian Krauß (so credited by MobyGames; Adventure Corner's 2014 interview instead headed him "Lead Designer")[^ref-25]
 - **Music Production and Arrangements:** Alon Kaplan
-- **Original Game:** Ken MacNeill, Doug MacNeill
+- **Violin:** Ariella Zeitlin-Hoffman
+- **Text:** Tim Polak, Marco Sowa, Miriam Wähler
+- **Box Art:** Thomas Kronenberg
+- **Original Game:** Doug MacNeill, Ken MacNeill
 - **Original Composer (1988):** Anita Scott[^ref-8]
 
 ### Technical Achievements
@@ -185,7 +190,10 @@ Adventure Corner's review noted that a German voice-over, repeatedly promised du
 | 1.1.2 | April 14, 2015 | Android | Fixed start-problem on some devices[^ref-3] |
 | 1.1.2 | May 20, 2015 | iOS | Minor issues fixed, new title screen[^ref-4] |
 | 1.1.3 | April 28, 2018 | iOS | iOS 11 support; smaller devices now supported[^ref-4] |
-| Update | May 30, 2024 | Steam | First update in more than nine years[^ref-3] |
+| — | May 11, 2018 | Steam (Windows) | Steam Cloud support added[^ref-27] |
+| 1.15 | May 30, 2024 | Steam | First update in more than nine years; engine updated, saving rebuilt, mouse cursor kept in the game screen, parser and cursor fixes[^ref-3][^ref-27] |
+| — | August 19, 2024 | Steam | Steam Cloud saves re-enabled[^ref-27] |
+| 1.15 (fix) | February 25, 2025 | Steam | Second patch of 1.15: missing water texture at the Brooklyn ship, a collision, voice problems, larger inventory and points numbers[^ref-27] |
 | 1.15 | September 4, 2025 | iOS | Engine updated, saving system rebuilt, artwork improvements[^ref-4] |
 
 ### Technical Issues
@@ -205,6 +213,8 @@ The Anniversary edition suffered from various technical problems.[^ref-7]
 - iOS touch controls pulling down the Notification Center during inventory management[^ref-4]
 - Tiny, hard-to-read text on smaller iOS devices[^ref-4]
 - Laggy performance reported on iPad 3[^ref-4]
+
+The Steam changelog for version 1.15 (May 2024) lists, among its fixes: "Bug in parser fixed, when Jerrod gets stuck from going from harbor into direction of the bank"; "The mouse-cursor is now kept in the game-screen"; and "After changing from P&C to parser and back, sometimes the mouse cursor was not in the menu, fixed!"[^ref-27]
 
 **Audio Problems:**
 - Music sometimes drowns out narrator voice[^ref-5]
@@ -231,6 +241,14 @@ The Anniversary edition adds English voice-overs for the narration and dialogue.
 Specific sales figures for Gold Rush! Anniversary were not publicly disclosed. The game launched on Steam at $34.99 (€29.99), and Just Adventure's reviewer called that price "a big shocker both to me and many others".[^ref-3][^ref-7] One Steam community member wrote: "for $35 I would expect a 3D voice acted remake. Skyrim costs less than $35 and that provides thousands of hours of fun."[^ref-21]
 
 The game now sells for $4.99 on Steam and €3.99 on FireFlower Games.[^ref-2][^ref-12][^ref-14] A boxed DRM-free version was ready for shipping on December 1, 2014.[^ref-3]
+
+**Pricing history:**
+- **November 7, 2014:** Steam launch at $34.99 (€29.99), with the digital Special Edition upgrade at €4.99.[^ref-3]
+- **February 3, 2015:** Steam price cut to $19.99, and the Special Edition to $24.99.[^ref-27]
+- **May 5, 2015:** The PC box version was reduced to €19.99, and the Special Edition box to €29.99.[^ref-3]
+- **September 1, 2015:** Steam price cut again, to $12.99/€10.99/£9.99, with the Special Edition at $14.99/€12.99/£10.99.[^ref-27]
+- **November 2026:** Steam lists the game at $4.99, the Special Edition package at $5.99 and the Special Edition upgrade DLC at $1.99.[^ref-2] The iOS App Store lists it at $1.99.[^ref-4]
+- Gold Rush! Anniversary has no GOG listing (checked November 2026).
 
 ### Collections
 
@@ -292,3 +310,4 @@ The original Gold Rush! held significant historical importance—Adventure Gamer
 [^ref-24]: [GamingOnLinux – Gold Rush! Anniversary Adventure Game Now Available On Linux](https://gamingonlinux.com/2014/11/gold-rush-anniversary-adventure-game-now-available-on-linux) – Liam Squires-Hand, 22 November 2014: Linux port available, "works almost perfectly"
 [^ref-25]: [Adventure Corner – Community-Interview mit Sunlight Games](https://www.adventurecorner.de/articles/8284/community-interview-mit-sunlight-games) – 8 July 2014 (German): Wintermute then Unity, Cologne studio, German voice casting, Sebastian Krauß listed as "Lead Designer"
 [^ref-26]: [Gameboomers – Gold Rush Anniversary Edition review](http://www.gameboomers.com/reviews/Gg/Gold%20RushAnniversaryEdition/Gold%20Rush%20Anniversary%20Edition.htm) – flotsam, February 2015: grade C, voice acting "passable at best"
+[^ref-27]: [Steam News API – Gold Rush! Anniversary announcements](https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=319230&count=50) – developer posts: Steam Cloud (11 May 2018), version 1.15 changelog (30 May 2024), Steam Cloud re-enabled (19 Aug 2024), 1.15 fix (25 Feb 2025), price cuts (3 Feb and 1 Sep 2015)
