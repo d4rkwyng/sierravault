@@ -10,7 +10,7 @@ series: Transylvania
 engine: COMPREHEND
 protagonist: The Hero of Transylvania
 sierra_lineage: Third-Party Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'The Crimson Crown (Transylvania II), Antonio Antiochia''s 1985 illustrated
   text adventure for Polarware and the sequel to Transylvania, with an IBM PC port
   by Dynamix.'
@@ -18,15 +18,15 @@ tags: [1980s, adventure, sierra, transylvania]
 ---
 # The Crimson Crown
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-The Crimson Crown, also known as *Transylvania II: The Crimson Crown* and *Further Adventures in Transylvania*, is an illustrated text adventure published by Polarware and written by Antonio Antiochia.[^ref-1] The Lysator adventure archive credits the game to Antiochia, with animations by Dallas Snell. It calls the game the first COMPREHEND release, though its entry for the 1985 COMPREHEND rewrite of *Transylvania* makes the same claim for that game.[^ref-7] It was released in October 1985 for the Apple II and Commodore 64, followed by ports to other platforms through 1986.[^ref-1][^ref-18] It is the sequel to *Transylvania*, which Penguin Software first published for the Apple II in 1982.[^ref-5] The game was marketed as "a spine-tingling illustrated interactive novel".[^ref-3]
+The Crimson Crown, also known as *Transylvania II: The Crimson Crown* and *Further Adventures in Transylvania*, is an illustrated text adventure published by Polarware and written by Antonio Antiochia.[^ref-1] The Digital Antiquarian says it and the rewritten *Transylvania* "became the first two Comprehend releases from Penguin in the fall of 1985."[^ref-27] It was released in October 1985 for the Apple II and Commodore 64, followed by ports to other platforms through 1986.[^ref-1][^ref-18] It is the sequel to *Transylvania*, which Penguin Software first published for the Apple II in 1982.[^ref-5] The game was marketed as "a spine-tingling illustrated interactive novel".[^ref-3]
 
 The game renders the current location as a picture, which Giant Bomb says gives the player "a sense of presence" that the more common text adventures of the era lacked.[^ref-4] The player sets out to defeat a magical vampire with the help of Princess Sabrina, now a fledgling magician, and Prince Erik, the heir to the throne.[^ref-5] Giant Bomb calls the game "unique among graphical text adventures of the era, in that companions interact with, and accompany the player."[^ref-4]
 
-The game was later released as freeware.[^ref-13] Wikipedia says the rights to the old Penguin Software and Polarware titles were bought back after Merit Software acquired Polarware in 1988, and that many of them were then made freeware. No source gives the exact year.[^ref-24]
+The game was later released as freeware.[^ref-13] Wikipedia says the rights to the old Penguin Software and Polarware titles were bought back after Merit Software acquired Polarware in 1988, and that many of them were then made freeware.[^ref-24]
 
 > [!info]- Game Info
 > **Developer:** Polarware[^ref-1]
@@ -64,19 +64,20 @@ The main goal is to reach and defeat the Vampire Lord Drakul before he unlocks t
 - **Explore Transylvania:** visit familiar places such as the ancient tree stump, along with new ones such as a wizard's castle and underground caverns.[^ref-1]
 - **Use companion abilities:** direct Sabrina's magic and Erik's skills at particular obstacles.[^ref-1][^ref-16]
 - **Gather items:** collect the objects needed to defeat the vampire, while managing a limited inventory.[^ref-16]
-- **Solve the Gryphon's riddles:** answer riddles taken from the game's packaging in order to progress.[^ref-11][^ref-17]
 
 ### Puzzles and Mechanics
 
 Some puzzles are timed.[^ref-16] In one, Prince Erik turns into a frog after drinking a potion. A GameFAQs walkthrough says this happens after four moves in the original version but after two in the abandonware version.[^ref-10] Inventory space is limited, so items sometimes have to be dropped. Saving often is necessary, and the Atari ST version provides four save slots.[^ref-16]
 
-The copy protection is part of the gameplay. A Gryphon tells the player to answer riddles that were included with the boxed game.[^ref-15] The riddles came on a parchment in the original packaging, and Gaming After 40 notes that the game "can't readily be finished without it."[^ref-11] The illustrations often show objects and possibilities that the text does not mention, so players need to study them.[^ref-11]
+The copy protection is part of the gameplay. A Gryphon tells the player to answer riddles that were included with the boxed game.[^ref-15][^ref-17] The riddles came on a parchment in the original packaging, and Gaming After 40 notes that the game "can't readily be finished without it."[^ref-11] The illustrations often show objects and possibilities that the text does not mention, so players need to study them.[^ref-11]
 
 ## Reception
 
 ### Contemporary Reviews
 
-This page has not yet located a contemporary magazine review. Period scans do show the game on sale. A Polarware advertisement in *Antic* (May 1986) promoted The Crimson Crown among its "COMPREHEND Interactive Novels with graphics," and a mail-order discounter in the same issue listed "Crimson Crown 520ST" for the Atari ST at $25.[^ref-25]
+*Page 6* (issue 20, March/April 1986) reviewed the Atari ST version, priced at £39.95 and requiring a colour monitor. The reviewer called it "an interesting adventure but it is not in the class of Infocom" and noted that the mouse is used for movement, loading, saving and quitting. The graphics were "good, but no better than on an 8-bit system" and "hardly live up to the box description of 'beautifully detailed'". The review concluded: "Definitely one for Adventure addicts but Graphics freaks should wait awhile."[^ref-28]
+
+Period scans also show the game on sale. A Polarware advertisement in *Antic* (May 1986) promoted The Crimson Crown among its "COMPREHEND Interactive Novels with graphics," and a mail-order discounter in the same issue listed "Crimson Crown 520ST" for the Atari ST at $25.[^ref-25]
 
 ### Modern Assessment
 
@@ -94,9 +95,9 @@ DOSGames.com gives the game a site rating of 3.5 out of 5.[^ref-13] GameFAQs use
 
 ### Origins
 
-The Crimson Crown is the sequel to *Transylvania* (1982).[^ref-5] Antonio Antiochia wrote that game, and it was one of the first two games Penguin Software published.[^ref-24] MobyGames credits Antiochia with both writing and illustrating The Crimson Crown.[^ref-1] Bevilacqua described the game as essentially a one-man show.[^ref-16] The Lysator archive, however, also credits Dallas Snell with the game's animations,[^ref-7] and the Dynamix Fandom wiki lists him for "Parser and Animation".[^ref-6]
+Antonio Antiochia also wrote *Transylvania* (1982), one of the first two games Penguin Software published.[^ref-24] MobyGames credits Antiochia with both writing and illustrating The Crimson Crown.[^ref-1] Bevilacqua described the game as essentially a one-man show.[^ref-16] The Lysator archive, however, also credits Dallas Snell with the game's animations,[^ref-7] and the Dynamix Fandom wiki lists him for "Parser and Animation".[^ref-6]
 
-The company behind the game began as Penguin Software. Penguin Books challenged it over the name, and founder Mark Pelczarski phased in the new name "Polarware".[^ref-24] Lysator says the company was called Penguin Software "until late 1985". It adds that the COMPREHEND system was finished at about the same time as the name change, and that The Crimson Crown "was never released by Penguin, but was the first Comprehend release." Its entry for the 1985 COMPREHEND rewrite of *Transylvania*, however, says "This was the first Comprehend game released", so the order of the two is unclear.[^ref-7] Polarware's 1986 advertising still credited "Polarware/Penguin Software, Inc." and called the illustrations "Penguin Software's longtime specialty."[^ref-25]
+The company behind the game began as Penguin Software. Penguin Books challenged it over the name, and founder Mark Pelczarski phased in the new name "Polarware".[^ref-24] Lysator says the company was called Penguin Software "until late 1985" and that the COMPREHEND system was finished at about the same time as the name change.[^ref-7] The Digital Antiquarian adds that Antiochia finished the sequel first, then returned to the original and made a new COMPREHEND version of it with more text, locations and puzzles.[^ref-27] Polarware's 1986 advertising still credited "Polarware/Penguin Software, Inc." and called the illustrations "Penguin Software's longtime specialty."[^ref-25]
 
 ### Production
 
@@ -114,7 +115,7 @@ The game was built with COMPREHEND, Polarware's adventure development system, an
 
 ### Technical Achievements
 
-The COMPREHEND parser accepted full-sentence commands rather than simple verb-noun input, and the game was advertised as having a vocabulary of over 1,000 words.[^ref-3][^ref-4] MobyGames notes that the IBM PC version "is one of the few PC titles that supports 16 colors exclusively in PCjr computers."[^ref-1]
+MobyGames notes that the IBM PC version "is one of the few PC titles that supports 16 colors exclusively in PCjr computers."[^ref-1]
 
 Players can direct either Princess Sabrina or Prince Erik to act by naming them at the start of a command, for example SABRINA, CAST SPELL or ERIK, TAKE SWORD.[^ref-16]
 
@@ -141,7 +142,6 @@ Players can direct either Princess Sabrina or Prince Erik to act by naming them 
 | 1.0 | February 1986 | PC-98 | Japanese release by StarCraft[^ref-1] |
 | 1.0 | August 1986 | Amiga | Port release[^ref-1] |
 | 1.0 | 1986 | FM-7 | Japanese release by StarCraft[^ref-1] |
-| Freeware | After 1988 (year unconfirmed) | Multiple | Released free[^ref-13][^ref-24] |
 
 ### Technical Issues
 
@@ -163,7 +163,7 @@ No sales figures for the game have been found. It was released on nine platforms
 
 ### Collections
 
-The Internet Archive hosts a playable copy of the Commodore 64 version.[^ref-2] MyAbandonware offers the DOS version to play in a browser.[^ref-22]
+The Internet Archive hosts a playable copy of the Commodore 64 version.[^ref-2] MyAbandonware offers the DOS version to play in a browser.[^ref-22] ScummVM supports the game as `glk:crimsoncrown`, rated "Good" (minor issues that do not impact the experience) for the DOS version; its compatibility page notes that "Animations during scene rendering are not supported".[^ref-29]
 
 ### Dynamix PC Port
 
@@ -202,7 +202,7 @@ No current digital storefront listing was found. GOG does not sell the game; it 
 [^ref-4]: [Giant Bomb – The Crimson Crown](https://www.giantbomb.com/the-crimson-crown/3030-5131/) – rendered locations, companions, Comprehend full-sentence parser, plot
 [^ref-5]: [Wikipedia – Transylvania (series)](https://en.wikipedia.org/wiki/Transylvania_(series)) – series overview, 1982 original, companions, Transylvania III, engine reconstruction
 [^ref-6]: [Dynamix Fandom Wiki – The Crimson Crown](https://dynamix.fandom.com/wiki/The_Crimson_Crown) – release dates, Dynamix DOS port, credits (Dallas Snell, "Parser and Animation")
-[^ref-7]: [Lysator – PolarWare adventures](https://www.lysator.liu.se/adventure/PolarWare.html) – credits (Antiochia; Dallas Snell, animations), "first Comprehend release" (a claim it also makes for the 1985 Transylvania rewrite), Penguin-to-PolarWare name change, packaging
+[^ref-7]: [Lysator – PolarWare adventures](https://www.lysator.liu.se/adventure/PolarWare.html) – credits (Antiochia; Dallas Snell, animations), Penguin-to-PolarWare name change, packaging
 [^ref-8]: [Gamepressure – The Crimson Crown](https://www.gamepressure.com/games/the-crimson-crown/zd2a6d) – user rating (4.8/10, 5 ratings)
 [^ref-10]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/appleii/976646-the-crimson-crown/faqs/59450) – version differences, frog transformation, story quotes, Part 2 disk prompt
 [^ref-11]: [Gaming After 40 – Adventure of the Week](http://gamingafter40.blogspot.com/2014/01/adventure-of-week-crimson-crown-1985.html) – copy-protection parchment, vector-and-fill graphics, mixed-case text, Erik quote, Kadash sword
@@ -219,4 +219,7 @@ No current digital storefront listing was found. GOG does not sell the game; it 
 [^ref-23]: [Wikidata – Q57164149](https://www.wikidata.org/wiki/Q57164149) – series ordinal, platform list
 [^ref-24]: [Wikipedia – Penguin Software](https://en.wikipedia.org/wiki/Penguin_Software) – name change to Polarware, Comprehend and Graphics Magician, Merit acquisition, freeware re-release, engine reconstruction
 [^ref-25]: [Antic Magazine Vol. 5 No. 1 (May 1986)](https://archive.org/details/1986-05-anticmagazine) – Polarware advertisement "COMPREHEND Interactive Novels with graphics" (p. 50, unnumbered, facing p. 51); Software Discounters of America listing "Crimson Crown 520ST . . $25" (p. 114, unnumbered, facing p. 115)
+[^ref-27]: [The Digital Antiquarian – Comprehend](https://www.filfre.net/2014/06/comprehend/) – Jimmy Maher, June 20, 2014: The Crimson Crown and the rewritten Transylvania "became the first two Comprehend releases from Penguin in the fall of 1985"; Antiochia finished the sequel before reworking the original
+[^ref-28]: [Page 6 – Issue 20 (Mar/Apr 1986), The Crimson Crown](https://page6.org/archive/issue_20/page_21b.htm) – contemporary review of the Atari ST version (£39.95), verdict and graphics comments
+[^ref-29]: [ScummVM Compatibility – The Crimson Crown: Further Adventures in Transylvania](https://scummvm.org/compatibility/DEV/glk:crimsoncrown/) – ID glk:crimsoncrown, support level "Good", DOS, animations note
 [^ref-26]: [MechWarrior manual (Activision/Dynamix, 1989)](https://archive.org/details/Mechwarrior) – "The Developers of MECHWARRIOR": Paul Bowman's previous Dynamix projects include "Crimson Crown"
