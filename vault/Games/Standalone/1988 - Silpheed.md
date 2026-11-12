@@ -10,13 +10,13 @@ series: Standalone
 engine: Unknown
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Silpheed is a polygon-based vertical scrolling shooter by Game Arts that debuted on the Japanese NEC PC-8801 in 1986 and was published in North America by Sierra On-Line in 1988-1989.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -103,7 +103,7 @@ AllGame reviewer Kyle Knight called the DOS version "a decent enough PC shooter"
 
 ### Origins
 
-Silpheed was developed by Game Arts, a Japanese studio whose founders included developers of ASCII's AX series of games, several of them members of the University of Tokyo Microcomputer Club (UTMC).[^ref-32] Game historian John Szczepaniak wrote: "The consensus was that Game Arts was born from the passion and camaraderie of the AX series. During my trip to Japan I interviewed AX developers Akira Takiguchi (see below), Masakuni Mitsuhashi (Silpheed), and Kohei Ikeda (Thexder)."[^ref-32]
+Silpheed was developed by Game Arts, a Japanese studio that, in John Szczepaniak's words, was formed when "several members who created AX branded games went on to form Game Arts." In the Akira Takiguchi interview he translated, Masakuni Mitsuhashi is named among the University of Tokyo Microcomputer Club (UTMC) members who signed up to make games for ASCII's AX series.[^ref-32] Game historian John Szczepaniak wrote: "The consensus was that Game Arts was born from the passion and camaraderie of the AX series. During my trip to Japan I interviewed AX developers Akira Takiguchi (see below), Masakuni Mitsuhashi (Silpheed), and Kohei Ikeda (Thexder)."[^ref-32]
 
 The game was inspired in part by the 3D shooting section of the arcade game Major Havoc. An annotation to Szczepaniak's translated interview with Akira Takiguchi says: "Like Theseus, Thexder and The Quest of Ki were influenced by the latter part of Major Havoc. In addition, the 3D shooting part in the first half was apparently the inspiration for Silpheed."[^ref-32]
 
@@ -119,18 +119,37 @@ The TRS-80 CoCo port presented particular challenges. Programmer Robert Lindsley
 
 **Development Credits:**[^ref-25][^ref-62]
 
+- **Producers:** Yoichi Miyaji, Toshiyuki Uchida[^ref-25]
+- **Director:** Takeshi Miyaji[^ref-25]
 - **Chief Designer:** Takeshi Miyaji
 - **Assistant Designers:** Hiromi Ohba (pen name of Masakuni Mitsuhashi), Osamu Harada[^ref-32]
+- **Graphics:** Satoshi Uesaka, Nobuyuki Ogawa, Akira Eye[^ref-25]
 - **Music \#1–\#4:** Mecano Associates (Fumihito Kasatani, Nobuyuki Aoshima)
 - **Sub programer [sic] (Music and opening):** [[Hibiki Godai]][^ref-64]
 - **Music \#5–\#12:** Game Arts music staff (Hiromi Ohba, Hibiki Godai)
 - **Voice of Xacalite:** Masakuni Mitsuhashi
-- **Voice of Wolf Control:** Satoshi Uesaka
+- **Voice of Wolf Control:** Satoshi Uesaka (credited as Gappa Kamoi)
 - **Voice of Vince Control:** Yuzo Sunaga, Nia Necoyama
+- **Package Illustration:** Jun Suemi[^ref-25]
+- **Package Design:** Joji Fukai[^ref-25]
+- **Editor:** Mariko Uemura[^ref-25]
 - **DOS Programming:** Gary Butts, Jim Heintz
 - **Apple IIGS Programming:** John Rettig[^ref-57]
 - **US Music Development System:** Stuart Goldstein
 - **US Music Editing:** Mark Seibert
+
+The designer credit above follows Wikipedia and MobyGames' PC-88 credits. Computer Gaming World's August 1989 review of the IBM version instead lists the designers as "S. Uesaka and H. Godai."[^ref-1][^ref-25][^ref-54]
+
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Xacalite | Masakuni Mitsuhashi |
+| Wolf Control | Satoshi Uesaka |
+| Vince Control | Yuzo Sunaga |
+| Vince Control | Nia Necoyama |
+
+MobyGames' PC-88 credits list Masakuni Mitsuhashi and Takeshi Miyaji under "Voice convert."[^ref-25]
 
 ### Technical Achievements
 
@@ -202,17 +221,6 @@ The contemporary COMPUTE! review warned that "Most people will find Silpheed a t
 - **Sound Card Bundle:** Silpheed came free with the Creative CMS Game Blaster sound card[^ref-56][^ref-60]
 - **English Voice Acting:** TV Tropes' trivia page claims the Silpheed games, despite being made by a Japanese company, are "voice-acted exclusively in English"; this rests on that one tier-4 source and sits uneasily with the Japanese voice cast credited on the PC-88 original[^ref-44][^ref-25]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Xacalite | Masakuni Mitsuhashi |
-| Wolf Control | Satoshi Uesaka |
-| Vince Control | Yuzo Sunaga |
-| Vince Control | Nia Necoyama |
-
-MobyGames' PC-88 credits list Masakuni Mitsuhashi and Takeshi Miyaji under "Voice convert."[^ref-25]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -229,8 +237,6 @@ Silpheed has been preserved and re-released through various channels:
 - **Sega Genesis Mini 2:** The Sega CD version was included on this retro compilation console in 2022, ported by M2[^ref-20]
 - **SILPHEED: PC Sound of Game Arts:** A 2006 soundtrack compilation with music from Thexder, Silpheed, Tactical Gladiator Veigues and Fire Hawk[^ref-6][^ref-16]
 
-### Fan Projects
-
 Sierra's DOS and Apple IIgs versions have not been re-released; TV Tropes notes that they are "only available as Abandonware, likely due to rights issues."[^ref-44] A GOG wishlist request for the IBM version notes that the game works in DOSBox.[^ref-46]
 
 ### Related Publications
@@ -238,7 +244,6 @@ Sierra's DOS and Apple IIgs versions have not been re-released; TV Tropes notes 
 - **20-Page Instruction Manual:** Included with the original game, containing gameplay tips and story background[^ref-8][^ref-10]
 - **Japanese Album and Sheet Music:** Sierra reported in 1988 that a Silpheed album and a book of the sheet music had been released in Japan[^ref-57]
 - **Silpheed Official Game Music Sound (1993):** Soundtrack album released by Youmex/Futureland featuring both Sega CD and PC-88 versions[^ref-47]
-- **QY Sound of Game Arts (2006):** Arranged soundtrack album by Packen Software[^ref-48]
 
 ### Critical Perspective
 
@@ -278,7 +283,7 @@ Hardcore Gaming 101 notes that Nintendo's Star Fox "has some rather uncanny simi
 [^ref-13]: [Pixelated Arcade – Silpheed](https://www.pixelatedarcade.com/games/silpheed) – story, battle areas, weapons, version 3.2 PS/1 Audio Card support
 [^ref-14]: [MobyGames – Silpheed](https://www.mobygames.com/game/167/silpheed/) – Moby Score, user reviews
 [^ref-15]: [Nintendo UK – EGGCONSOLE Silpheed](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/EGGCONSOLE-SILPHEED-PC-8801mkIISR-2502979.html) – European release date 11/01/2024 (January 11, 2024)
-[^ref-16]: [Hardcore Gaming 101 – Silpheed](http://www.hardcoregaming101.net/silpheed/) – manual story text, polygon graphics, port comparisons, hidden minigames, retrospective analysis
+[^ref-16]: [Hardcore Gaming 101 – Silpheed (Archived)](https://web.archive.org/web/20260125035919/http://www.hardcoregaming101.net/silpheed/) – manual story text, polygon graphics, port comparisons, hidden minigames, retrospective analysis
 [^ref-18]: [Nintendo US Store – EGGCONSOLE Silpheed](https://www.nintendo.com/us/store/products/eggconsole-silpheed-pc-8801mkiisr-switch/) – eShop description, release date December 21, 2023
 [^ref-20]: [TV Tropes – Silpheed](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Silpheed) – Xacalite quote, shield capacity, Star Fox homages, Genesis Mini 2
 [^ref-21]: [GameFAQs Review by Kuro-chan_101](https://gamefaqs.gamespot.com/pc/579259-silpheed/reviews/157232) – single user review, level count
@@ -294,11 +299,10 @@ Hardcore Gaming 101 notes that Nintendo's Star Fox "has some rather uncanny simi
 [^ref-38]: [Archived Silpheed.org](https://web.archive.org/web/20141101093634/http://www.silpheed.org/silpheedPC.htm) – hidden minigames, planet-destroying missiles trivia
 [^ref-39]: [MobyGames – TRS-80 CoCo Release](https://www.mobygames.com/game/167/silpheed/releases/trs-80-coco) – Synergistic Software port credit
 [^ref-41]: [MobyGames – Apple IIgs Release](https://www.mobygames.com/game/167/silpheed/releases/apple2gs) – release date and region
-[^ref-43]: [Hardcore Gaming 101 – Silpheed Sega CD](http://www.hardcoregaming101.net/silpheed-sega-cd/) – Star Fox comparisons
+[^ref-43]: [Hardcore Gaming 101 – Silpheed Sega CD (Archived)](https://web.archive.org/web/20260211221911/http://www.hardcoregaming101.net/silpheed-sega-cd/) – Star Fox comparisons
 [^ref-44]: [TV Tropes – Silpheed Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Silpheed) – abandonware status, English voice acting
 [^ref-46]: [GOG Wishlist – Silpheed](https://www.gog.com/wishlist/games/silpheed) – community request; DOSBox compatibility
 [^ref-47]: [VGMdb – Silpheed Official Game Music Sound](https://vgmdb.net/album/2097) – soundtrack album details
-[^ref-48]: [KHInsider – QY Sound of Game Arts](https://downloads.khinsider.com/game-soundtracks/album/silpheed-qy-sound-of-game-arts-2006) – arranged soundtrack information
 [^ref-53]: [Wikipedia – Yamaha YM2203](https://en.wikipedia.org/wiki/Yamaha_YM2203) – six-channel (3 FM and 3 SSG) OPN sound chip used in NEC computers
 [^ref-54]: [Computer Gaming World #62 (August 1989), p. 22 – "Samurai Space Pilot" by Sheila A. Carter](https://archive.org/details/Computer_Gaming_World_Issue_62) – 20 levels plus final battle, at least 15 enemy types, weapon every 50,000 points, Bob Siebenberg credit, $34.95
 [^ref-55]: [Dragon #151 (November 1989), pp. 52–53 – "The Role of Computers"](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23151%5Bocr%5D.pdf) – five-star (Superb) rating, year-3032 backstory, four battle areas, review quote
