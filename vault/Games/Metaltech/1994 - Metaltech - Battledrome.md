@@ -7,10 +7,10 @@ publisher: Sierra On-Line, Inc.
 genre: Vehicle Simulation
 platforms: [DOS]
 series: Metaltech
-engine: Unconfirmed
+engine: 3Space
 protagonist: Player-created HERC pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Metaltech: Battledrome is a mecha-style combat simulation game developed
   by Dynamix and published by Sierra On-Line in 1994 for DOS, built around one-on-one
   HERC arena duels over modem or network.'
@@ -18,21 +18,23 @@ tags: [1990s, dynamix, metaltech, sierra, simulation]
 ---
 # Metaltech: Battledrome
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Metaltech: Battledrome is a mecha-style combat simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1994 for DOS[^ref-1]. The game puts players in command of giant robotic fighting machines known as Herculeans, or "HERCs" for short, engaging in gladiatorial one-on-one arena combat for power, pride, and money[^ref-2]. The Collection Chamber calls it "an early online battle arena"—while conceding "it's not the first of its type"—and credits it as "the precursor to Activision's NetMech"[^ref-3].
 
-The game was released as a companion title to Metaltech: Earthsiege, sharing the same universe and roughly similar gaming mechanics but offering a distinctly different experience focused on arena dueling rather than mission-based combat[^ref-4]. While Earthsiege provided a more traditional single-player campaign, Battledrome was designed from the outset primarily as a two-player head-to-head experience, leveraging the emerging technologies of modem and network play to deliver competitive mech combat[^ref-5]. OldGames.sk notes that it "was apparently never designed to satisfy single-player urges"[^ref-5], and Computer Gaming World's verdict box listed "a weak single player mode" among its cons[^ref-26].
+The game was released as a companion title to [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]], sharing the same universe and roughly similar gaming mechanics but offering a distinctly different experience focused on arena dueling rather than mission-based combat[^ref-4]. Where the Collection Chamber says it drops the career modes of the previous game[^ref-3], OldGames.sk says Battledrome was designed from the outset primarily as a two-player head-to-head experience, leveraging the emerging technologies of modem and network play to deliver competitive mech combat[^ref-5]. OldGames.sk notes that it "was apparently never designed to satisfy single-player urges"[^ref-5], and Computer Gaming World's verdict box listed "a weak single player mode" among its cons[^ref-26].
 
-Advertised as using Dynamix's 3Space animation engine,[^ref-8] the game offered fully three-dimensional graphics with textured in-game items and rudimentary physics[^ref-17]. Players could customize their cockpit displays, deploy controllable remote camera probes, and choose from ten customizable HERC chassis equipped with a broad weapons arsenal[^ref-8]. The game's marketing emphasized its intense robotic combat with the tagline "Thundering robotic combat for those who have the guts!"[^ref-9]
+The Dynamix Wiki files the game under its "3Space Games" category[^ref-17], and a retail listing advertises "3Space animation"[^ref-8]. The game offered fully three-dimensional graphics with textured in-game items and rudimentary physics[^ref-17]. Players could customize their cockpit displays, deploy controllable remote camera probes, and choose from ten customizable HERC chassis equipped with a broad weapons arsenal[^ref-8]. The game's marketing emphasized its intense robotic combat with the tagline "Thundering robotic combat for those who have the guts!"[^ref-9]
+
+MobyGames dates the original US release to 1994, with US, UK and French CD-ROM releases in 1995[^ref-21]. Some databases give 1995 instead: Metacritic lists "Released On: Apr 30, 1995"[^ref-9], and OldGames.sk dates the game 1995[^ref-5]. Computer Gaming World reviewed it in February 1995[^ref-26].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
 > **Designer:** [[David Selle]], Tim Gift[^ref-4]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
-> **Engine:** Unconfirmed: a retail listing advertises "3Space animation"[^ref-8], but Sierra Chest groups the game under Unknown/unnamed engines[^ref-27]
+> **Engine:** 3Space[^ref-17][^ref-8]
 > **Platforms:** DOS[^ref-1]
 > **Release Year:** 1994
 > **Series:** Metaltech
@@ -41,11 +43,11 @@ Advertised as using Dynamix's 3Space animation engine,[^ref-8] the game offered 
 
 ## Story Summary
 
-Metaltech: Battledrome is set within the broader Metaltech universe, which shares similarities with the BattleTech franchise in its depiction of giant robot combat[^ref-10]. The game presents a future where massive Herculean fighting machines compete in sanctioned gladiatorial combat within the "Battledrome Robotic Combat Network"[^ref-11]. Unlike the more narrative-driven Earthsiege, Battledrome focuses less on overarching story and more on the competitive sport of mech warfare.
+Metaltech: Battledrome is set within the broader Metaltech universe, which shares similarities with the BattleTech franchise in its depiction of giant robot combat[^ref-10]. The game presents a future where massive Herculean fighting machines compete in sanctioned gladiatorial combat within the "Battledrome Robotic Combat Network"[^ref-11]. The Collection Chamber describes it as removing "the career modes and strategic elements of the previous game" to focus on multiplayer[^ref-3].
 
 Players enter this world of "virtual carnage and real adrenaline" as aspiring HERC pilots seeking to climb the ranks of the Battledrome circuit[^ref-11]. The goal is straightforward yet compelling: fight your way to the top of the rankings, where "only one fighter can be ranked #1"[^ref-9]. Victory brings not only glory but also substantial financial rewards, as players can bet in-game prize money—or even wager their own HERC—on the outcome of battles[^ref-2].
 
-The narrative framework positions pilots as participants in what amounts to a futuristic blood sport, where mechanical gladiators clash in deadly arenas. Success means reducing your opponent "to a quivering mass of broken neural connections, while your Herculan fighting machine stands triumphant above the wreckage, glowing in the data-streams of cyberspace"[^ref-11]. This visceral description captures the game's tone—part sports competition, part brutal robot warfare.
+The game's own description sets out the goal as "pure, sweet victory," reducing your opponent "to a quivering mass of broken neural connections, while your Herculan fighting machine stands triumphant above the wreckage, glowing in the data-streams of cyberspace"[^ref-11].
 
 The Metaltech series would later expand into the Earthsiege, Cyberstorm, and eventually the Tribes game series, establishing a connected universe of futuristic warfare[^ref-10]. Battledrome represents an early entry point into this universe, focusing on the gladiatorial aspect of HERC combat that exists alongside the larger military conflicts depicted in companion titles.
 
@@ -59,21 +61,21 @@ The control scheme supports multiple input devices including keyboard, mouse, an
 
 ### Structure and Progression
 
-The game offers multiple modes of engagement designed to accommodate both quick battles and extended campaigns:
+The game offers multiple modes of engagement designed to accommodate both quick battles and extended play:
 
 - **Instant Action Mode:** Allows players to immediately jump into combat against computer-controlled opponents without the management elements[^ref-14]
-- **Campaign Mode:** Players purchase equipment, build their reputation, and climb the rankings over time[^ref-4]
+- **Ongoing Play:** Players enter an alias and fight multiple matches, betting money on each one[^ref-14]; winning matches advances them through the ranking system[^ref-26], and they purchase and upgrade equipment between fights[^ref-4]
 - **Multiplayer Mode:** Head-to-head combat via modem or local area network. DOSGames lists "Up to 2 players"[^ref-14]; Computer Gaming World explains that "only two players can compete in each match," but the network mode supports several matches at once, so "if you have six players attached to the network, three sets of head-to-head games could be played"[^ref-26]
 
-In the campaign mode, players must manage their resources carefully. Before each fight, combatants can negotiate battle conditions including arena size, the presence of blaster turrets, and environmental obstacles[^ref-15]. Computer-generated opponents will issue, accept, or deny challenges based on various factors, creating a dynamic competitive environment[^ref-15].
+Computer Gaming World describes the flow: players log in and create a pilot, then choose local play (versus the computer) or remote play, and pick opponents from a challenge board that lists the available players, with the best at the top[^ref-26]. Once a challenge is accepted, a negotiation window lets the two sides agree on a monetary wager, restrict each other's weapons, set the layout of the arena, and end the match at a chosen damage level[^ref-26]. Free Game Empire's description says players can challenge up to 50 computer-controlled opponents or human opponents over a modem or network[^ref-11].
 
-A unique progression mechanic ties success to advancement: winning fights improves a player's ranking and unlocks access to heavier and more powerful HERC chassis[^ref-16]. The risk-reward system allows pilots to bet substantial sums, with the possibility of even wagering their own mech on the outcome of particularly high-stakes matches[^ref-2].
+A unique progression mechanic ties success to advancement: winning fights improves a player's ranking and unlocks access to heavier and more powerful HERC chassis[^ref-16]. At the first rank, a pilot can use only the lightest HERCs, beginning with a single Stryder[^ref-26]. The risk-reward system allows pilots to bet substantial sums, with the possibility of even wagering their own mech on the outcome of particularly high-stakes matches[^ref-2].
 
 ### Puzzles and Mechanics
 
 Rather than traditional puzzles, Battledrome focuses on tactical combat mechanics and resource management. Each player can "redistribute priority between engine, shield and weapons"[^ref-16]. This energy distribution system adds strategic depth, requiring pilots to adapt their configurations based on their chosen HERC, loadout, and opponent.
 
-The equipment system requires players to purchase various components including HERC chassis, generators, shields, servos, and weapons[^ref-4]. The ten customizable HERC chassis each offer different characteristics, and the broad weapons arsenal allows for diverse combat styles[^ref-8]. Smart equipment choices and energy management often determine victory as much as piloting skill.
+The equipment system requires players to purchase various components including HERC chassis, generators, shields, servos, and weapons[^ref-4]. The ten customizable HERC chassis each offer different characteristics, and the broad weapons arsenal allows for diverse combat styles[^ref-8]. Wikipedia notes that energy distribution, weapon limitations, the terms agreed in negotiation, HERC chassis qualities and arena hazards combine to allow tactics such as hit-and-run, direct assault and outsmarting an opponent by weapon range[^ref-4].
 
 ## Reception
 
@@ -83,7 +85,7 @@ Metaltech: Battledrome received mixed reviews upon release, with critics general
 
 Computer and Video Games was more enthusiastic. Its review in issue #161 (April 1995, p. 65), by Rad Automatic, scored the game 86 percent overall, with 88 for graphics, 86 for sound, 90 for playability and 83 for value[^ref-28]. The verdict opened by warning that "you need a very hi-spec PC to run it properly" and closed with a significant caveat: without a modem, "one-on-one combat against faceless computer opponents loses its appeal quite rapidly, no matter how well it's dressed. Battledrome is a superb product, but only if you've got the kit"[^ref-28]. This observation highlighted the game's fundamental design philosophy—it was built for multiplayer, and those without network or modem access would find the experience diminished.
 
-DOSGames.com rated the demo 4 out of 5, saying it "will be of interest to mech fans," though its reviewer added, "Personally I don't enjoy this kind of deathmatch game"[^ref-14]. Abandonware DOS similarly rated it 4.00 out of 5.00[^ref-18]. OldGames.sk gave the game an 85% rating, praising its multiplayer focus despite acknowledging the limited single-player appeal[^ref-5].
+DOSGames.com rated the demo 4 out of 5, saying it "will be of interest to mech fans," though its reviewer added, "Personally I don't enjoy this kind of deathmatch game"[^ref-14]. Abandonware DOS similarly rated it 4.00 out of 5.00[^ref-18]. OldGames.sk shows an 85% score of its own alongside a 69% average from 17 user votes; its text calls the two-player aspect "ahead of its time as a predecessor to NetMech" while noting the game "was apparently never designed to satisfy single-player urges"[^ref-5].
 
 ### Modern Assessment
 
@@ -93,27 +95,29 @@ A 2012 thread on the Starsiege community forums calls it "one of those awesome L
 
 **Aggregate Scores:**
 - **MobyGames:** Critics average 63% (15 ratings); Players 4.1/5 (8 ratings)[^ref-1]
-- **OldGames.sk:** 85%[^ref-5]
+- **OldGames.sk:** 85% (the site's own score); user average 69% (17 votes)[^ref-5]
 - **DOSGames.com:** 4/5[^ref-14]
 - **Abandonware DOS:** 4.00/5.00[^ref-18]
 - **MyAbandonware:** 4.71/5 (14 votes)[^ref-12]
-- **Free Game Empire:** 3/5[^ref-11]
+- **Free Game Empire:** 4/5 (3 user ratings)[^ref-11]
 
 ## Development
 
 ### Origins
 
-Metaltech: Battledrome emerged from Dynamix's ambitious push into the mech combat genre during the mid-1990s. The company, originally founded as the Software Entertainment Company by Jeff Tunnell and Damon Slye (graduates from the University of Oregon), was located in Eugene, Oregon[^ref-11]. After struggling financially, Dynamix was sold to Sierra On-Line in August 1990, providing the resources needed for larger-scale projects[^ref-11].
+Metaltech: Battledrome was developed by Dynamix. The company, originally founded as the Software Entertainment Company by Jeff Tunnell and Damon Slye (graduates from the University of Oregon), was located in Eugene, Oregon[^ref-11]. Free Game Empire's company note says the games "weren't making enough money to keep Dynamix going," and that the company was sold to Sierra On-Line in August 1990[^ref-11].
 
 The game was conceived as a companion piece to Metaltech: Earthsiege, with both titles sharing the same universe and core mechanics but offering distinctly different experiences[^ref-4]. While Earthsiege focused on mission-based combat against AI opponents, Battledrome was designed specifically to capitalize on emerging network and modem technologies for head-to-head competitive play[^ref-1].
 
 The design centered on gladiatorial mech combat; the Sierra Fandom wiki notes the game's "similarities to the BattleTech universe and games"[^ref-10]. Computer Gaming World's reviewer questioned the split itself, regretting "Dynamix's decision to split Metaltech into two seperate [sic] games"[^ref-26].
 
+Sources differ on series order: the Sierra Wiki names Metaltech: Battledrome as the first game in the MetalTech series, released within 1994[^ref-10], while the Collection Chamber says it removes "the career modes and strategic elements of the previous game" and was released "in the same year as EarthSiege"[^ref-3]. See [[1994 - Metaltech - Earthsiege]] for the companion title.
+
 ### Production
 
 Development was led by designers David Selle and Tim Gift, with Tim Gift also serving as lead programmer[^ref-4]. [[Mark Crowe]] served as producer and art director[^ref-17][^ref-1]. The writing team included Neal Hallford, David Selle, Gregory Rucka, and Kurt Weber, who crafted the game's universe and flavor text[^ref-17].
 
-Its retail listing advertises Dynamix's 3Space engine[^ref-8]; the game has fully three-dimensional graphics, textured in-game items and rudimentary physics[^ref-17]. Christopher Stevens and Timothy Steven Clarke are credited with the original music[^ref-1]; the Mirsoft Game Music Base lists 17 MIDI tunes from the game[^ref-20].
+The Dynamix Wiki lists Battledrome among its 3Space games[^ref-17] and a retail listing advertises "3Space animation"[^ref-8]; the game has fully three-dimensional graphics, textured in-game items and rudimentary physics[^ref-17]. Sierra Chest's engine index, by contrast, lists it among the unknown or unnamed engines[^ref-27]. Christopher Stevens and Timothy Steven Clarke are credited with the original music[^ref-1]; the Mirsoft Game Music Base lists 17 MIDI tunes from the game[^ref-20].
 
 One cause for criticism was the game's high hardware requirements for typical PCs of the time[^ref-17]; Computer and Video Games said "you need a very hi-spec PC to run it properly"[^ref-28], though OldGames.sk notes it "would run respectably on a 486-33"[^ref-5].
 
@@ -125,6 +129,17 @@ One cause for criticism was the game's high hardware requirements for typical PC
 - **Writers:** [[Neal Hallford]], David Selle, Gregory Rucka, Kurt Weber
 - **Composers:** Christopher Stevens, Timothy Steven Clarke
 - **Voice Actors:** Ed Raggozino, Sher Alltucker
+
+### Voice Cast
+
+DOSGames.com notes the game includes "voices for various aspects of the game"[^ref-14]; MobyGames credits Ed Raggozino and Sher Alltucker as voice talent[^ref-1], and the Dynamix Wiki also lists Sher Alltucker as voice talent coordinator[^ref-17].
+
+**Principal Cast:**[^ref-1]
+
+| Actor | Characters |
+|-------|------------|
+| Ed Raggozino | Various |
+| Sher Alltucker | Various |
 
 ### Technical Achievements
 
@@ -178,20 +193,7 @@ The high hardware requirements drew criticism at the time of release[^ref-17]; C
 - **BattleTech Similarities:** The Sierra Fandom wiki describes it as a "giant robot combat game with similarities to the BattleTech universe and games"[^ref-10]
 - **Alternative Title:** The full title was "Metaltech: Battledrome - Robotic Combat Network," reflecting its focus on networked competition[^ref-17]
 
-## Voice Cast
-
-| Character/Role | Voice Actor |
-|----------------|-------------|
-| Various | Ed Raggozino |
-| Various | Sher Alltucker |
-
-DOSGames.com notes the game includes "voices for various aspects of the game"[^ref-14]; MobyGames credits Ed Raggozino and Sher Alltucker as voice talent[^ref-1].
-
 ## Legacy
-
-### Sales and Commercial Impact
-
-Specific sales figures for Metaltech: Battledrome are not documented in available sources. Its release alongside Earthsiege created a complementary product line that addressed both single-player and multiplayer audiences[^ref-4].
 
 ### Collections
 
@@ -199,7 +201,7 @@ The game has been preserved through various abandonware archives and retro gamin
 
 ### Fan Projects
 
-On the Starsiege community forums, a July 2012 thread gives a detailed guide for running Battledrome on modern systems with LAN multiplayer support[^ref-19]. Its author, forum member "mairujyat," compiled instructions for network play using DOSBox and Hamachi, ensuring the game's multiplayer legacy remains accessible[^ref-19].
+On the Starsiege community forums, a July 2012 thread gives a detailed guide for running Battledrome on modern systems with LAN multiplayer support[^ref-19]. Its author, forum member "mairujyat," compiled instructions for network play using DOSBox and Hamachi[^ref-19].
 
 The game's MIDI soundtrack was extracted and converted to standard format by community member "Locutus," who noted "I sort of liked some of the music from this old DOS game, so I converted the MIDI tunes from Battledrome to the widely known MIDI format"[^ref-20].
 
@@ -207,11 +209,11 @@ The game's MIDI soundtrack was extracted and converted to standard format by com
 
 Metaltech: Battledrome represents an early entry in what would become an extensive game universe. The Metaltech series spawned the Earthsiege games, which in turn led to Cyberstorm and eventually the highly influential Tribes series[^ref-10]. While Battledrome focused specifically on arena combat, it shared the universe and many mechanical designs with its companion titles.
 
-MobyGames places the game in its "Metaltech / Tribes universe" group[^ref-1], establishing the concept of HERC combat that would be expanded upon in subsequent titles. Its emphasis on networked multiplayer presaged developments that would become central to the Tribes franchise's identity.
+MobyGames places the game in its "Metaltech / Tribes universe" group[^ref-1]. 
 
 ### Critical Perspective
 
-Metaltech: Battledrome occupies an interesting position in gaming history as a title that was genuinely ahead of its time yet constrained by the technological realities of its era. Its design philosophy—prioritizing networked head-to-head competition over single-player content—anticipated the online gaming boom that would transform the industry in subsequent decades. However, in 1994-1995, the infrastructure for such gaming was limited to those with modems or network access, severely restricting the potential audience.
+Metaltech: Battledrome prioritized networked head-to-head competition over single-player content[^ref-3][^ref-26]. OldGames.sk calls its two-player aspect "ahead of its time as a predecessor to NetMech"[^ref-5], while the Collection Chamber notes the LAN and modem modes were "two-player only experiences due to the limited technology of the time"[^ref-3].
 
 The game's critical reception reflected this tension. Computer Gaming World called it "an average game" in single-player mode, but said that on a network with friends it "quickly becomes an addiction"[^ref-26]. Computer and Video Games called it "a superb product, but only if you've got the kit"[^ref-28].
 
@@ -228,10 +230,13 @@ From a modern perspective, The Collection Chamber places it in the history of on
 - [DOS Games Archive – Demo](https://www.dosgamesarchive.com/download/metaltech-battledrome)[^ref-25]
 - [ClassicReload – Browser Play](https://classicreload.com/metaltech-battledrome.html)[^ref-16]
 
-**LAN Play Instructions**
-- [Starsiege Forums – Modern LAN Setup Guide](https://starsiege1.proboards.com/thread/791/metaltech-battledrome-plus-lan-instructions)[^ref-19]
+**Manuals & Extras**
+- [Starsiege Forums – Modern LAN Setup Guide](https://starsiege1.proboards.com/thread/791/metaltech-battledrome-plus-lan-instructions)[^ref-19] - LAN play instructions
 
 ## See Also
+
+- **Previous:** N/A
+- [[1994 - Metaltech - Earthsiege|→ Next: Metaltech - Earthsiege]]
 
 - [[1994 - Metaltech - Earthsiege Speech Pack]]
 - [[1995 - Metaltech - Earthsiege Expansion Pack]]
@@ -245,25 +250,23 @@ From a modern perspective, The Collection Chamber places it in the history of on
 - [[2004 - Tribes - Vengeance]]
 - [[2024 - Tribes 3 - Rivals]]
 
-- **Related:** [[1994 - Metaltech - Earthsiege]]
-
 ## References
 
 [^ref-1]: [MobyGames – Metaltech: Battledrome](https://www.mobygames.com/game/1401/metaltech-battledrome/) – developer, publisher, release date, platform, ratings (63% critics / 4.1 players as of Oct 2026), credits (DOS credits list "Art Direction: Mark Crowe"; page copy read via ScraperAPI, October 26, 2026)
 [^ref-2]: [Internet Archive – Battledrome Demo](https://archive.org/details/bdrome) – game description, betting mechanics, release year
 [^ref-3]: [Collection Chamber – Metaltech: Battledrome](https://collectionchamber.blogspot.com/p/metaltech-battledrome.html) – "early online battle arena", two-player LAN/modem, "precursor to Activision's NetMech", control criticism
 [^ref-4]: [Wikipedia – Metaltech: Battledrome](https://en.wikipedia.org/wiki/Metaltech:_Battledrome) – designers, Earthsiege companion status, equipment purchase mechanics
-[^ref-5]: [OldGames.sk – Metaltech: Battledrome](https://www.oldgames.sk/en/game/metaltech-battledrome/) – 85% rating, runs "respectably on a 486-33", two-player head-to-head design
+[^ref-5]: [OldGames.sk – Metaltech: Battledrome](https://www.oldgames.sk/en/game/metaltech-battledrome/) – 85% OldGames score (user average 69%, 17 votes; page dates the game 1995), runs "respectably on a 486-33", two-player head-to-head design
 [^ref-8]: [Amazon – Metaltech Battledrome](https://www.amazon.com/Metaltech-Battledrome-PC/dp/B000S8E8EI) – 3Space engine, customizable features, HERC chassis count, weapons arsenal
-[^ref-9]: [Metacritic – Metaltech: Battledrome](https://www.metacritic.com/game/metaltech-battledrome/) – marketing tagline, ranking competition
-[^ref-10]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – BattleTech similarities, series evolution to Tribes
-[^ref-11]: [Free Game Empire – Metaltech Battledrome](https://www.freegameempire.com/games/Metaltech-Battledrome) – Battledrome Robotic Combat Network description, game atmosphere, Dynamix company history
+[^ref-9]: [Metacritic – Metaltech: Battledrome](https://www.metacritic.com/game/metaltech-battledrome/) – marketing tagline, ranking competition; "Released On: Apr 30, 1995"
+[^ref-10]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – BattleTech similarities, series evolution to Tribes; "the first game in the new MetalTech series"
+[^ref-11]: [Free Game Empire – Metaltech Battledrome](https://www.freegameempire.com/games/Metaltech-Battledrome) – Battledrome Robotic Combat Network description, game atmosphere, Dynamix company history; 4/5 stars from 3 ratings
 [^ref-12]: [MyAbandonware – Metaltech: Battledrome](https://www.myabandonware.com/game/metaltech-battledrome-2wd) – first-person perspective, user rating (4.71/5, 14 votes, October 29, 2026), regional release dates
 [^ref-13]: [MobyGames – Technical Specs](https://www.mobygames.com/game/1401/metaltech-battledrome/specs/dos/) – minimum system requirements, input devices, sound devices, multiplayer options (IPX, modem), content ratings
 [^ref-14]: [DOSGames.com – Metaltech: Battledrome](https://dosgames.com/game/metaltech-battledrome/) – 4/5 demo review, "Up to 2 players", resolution, voices, Instant Action mode
 [^ref-15]: [GOG Wishlist – Metaltech: Battledrome](https://www.gog.com/wishlist/games/metaltech_battledrome) – user comments: negotiation mechanics, Warlord name trick, "WAY ahead of it's time"
 [^ref-16]: [ClassicReload – Metaltech: Battledrome](https://classicreload.com/metaltech-battledrome.html) – energy distribution mechanic, ranking progression
-[^ref-17]: [Dynamix Fandom Wiki – Metaltech: Battledrome](https://dynamix.fandom.com/wiki/Metaltech:_Battledrome) – credits, 3D graphics, rudimentary physics, CGW 3/5 score, hardware-requirement criticism
+[^ref-17]: [Dynamix Fandom Wiki – Metaltech: Battledrome](https://dynamix.fandom.com/wiki/Metaltech:_Battledrome) – credits, 3D graphics, rudimentary physics, "3Space Games" category, CGW 3/5 score, hardware-requirement criticism
 [^ref-18]: [Abandonware DOS – Metaltech: Battledrome](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Metaltech:+Battledrome&gid=3323) – rating, designers, game modes
 [^ref-19]: [Starsiege Forums – LAN Instructions](https://starsiege1.proboards.com/thread/791/metaltech-battledrome-plus-lan-instructions) – modern DOSBox + Hamachi LAN play instructions
 [^ref-20]: [Mirsoft Game Music Base](http://www.mirsoft.info/gmb/music_info.php?id_ele=MjEzNA%3D%3D) ([archived May 2024](https://web.archive.org/web/20240510022205/http://www.mirsoft.info/gmb/music_info.php?id_ele=MjEzNA==)) – 17 tunes; ripper Locutus: "Battledrome used to play the MIDIs at half the speed, so I slowed 'em down for you"
@@ -271,6 +274,6 @@ From a modern perspective, The Collection Chamber places it in the history of on
 [^ref-22]: [IGN – PC Cheats](https://www.ign.com/wikis/pc-cheats/Metaltech:_Battledrome_Cheats) – asterisk name cheat
 [^ref-23]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Metaltech_Battledrome_1994) – preservation, recommended hardware
 [^ref-25]: [DOS Games Archive – Demo Download](https://www.dosgamesarchive.com/download/metaltech-battledrome) – demo details, executable information
-[^ref-26]: [Computer Gaming World #127 (February 1995) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_127) – Jeff James review "Net Profit", pp. 112–116: spec box ("# of Players: 1-4 (modem and network)"), two players per match with multiple matches per network, controls "a bit unwieldy", "Editors Speak" box (3/5 stars, pros/cons); separate network-games table in the same issue lists Battledrome as 1–2 players, IPX
+[^ref-26]: [Computer Gaming World #127 (February 1995) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_127) – Jeff James review "Net Profit", pp. 112–116: log-in, local vs. remote play, challenge board, negotiation window, rank ladder (first rank, Stryder), spec box ("# of Players: 1-4 (modem and network)"), two players per match with multiple matches per network, controls "a bit unwieldy", "Editors Speak" box (3/5 stars, pros/cons); separate network-games table in the same issue lists Battledrome as 1–2 players, IPX
 [^ref-27]: [Sierra Chest – Engine: Unknown/unnamed (archived May 2019)](https://web.archive.org/web/20190512153148/http://sierrachest.com/index.php?a=engines&id=15) – lists "Metaltech: Battledrome" among games with an unknown or unnamed engine
 [^ref-28]: [Computer and Video Games #161 (April 1995) – Internet Archive](https://archive.org/details/computer-and-video-games-uk-161) – PC review by Rad Automatic, p. 65: verdict box ("you need a very hi-spec PC to run it properly"; "Battledrome is a superb product, but only if you've got the kit"); Graphics 88, Sound 86, Playability 90, Value 83, Overall 86
