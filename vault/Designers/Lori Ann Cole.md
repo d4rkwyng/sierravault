@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Quest for Glory I: So You Want to Be a Hero", "Quest for Glory II: Trial by Fire", "Quest for Glory III: Wages of War", "Quest for Glory: Shadows of Darkness", "Quest for Glory V: Dragon Fire"]
 companies: ["Sierra On-Line", "FAR Productions", "Transolar Games"]
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 # Lori Ann Cole
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,7 +81,7 @@ Cole has said that the series was meant to make players think: "The QFG series r
 
 ## Legacy
 
-Computer Gaming World's 1990 award recognised the series' mix of adventure and role-playing from the start.[^ref-28] The Quest for Glory II VGA Remake (2008) by AGD Interactive carries the Coles' original "Written & Designed by" credit,[^ref-9] and Lori and Corey returned to the adventure-RPG hybrid with Hero-U.[^ref-21][^ref-26]
+Computer Gaming World's 1990 award recognised the adventure and role-playing mix in *Hero's Quest*.[^ref-28] The Quest for Glory II VGA Remake (2008) by AGD Interactive carries the Coles' original "Written & Designed by" credit,[^ref-9] and Lori and Corey returned to the adventure-RPG hybrid with Hero-U.[^ref-21][^ref-26]
 
 ## Games
 
@@ -131,7 +131,7 @@ Credits follow MobyGames unless noted.[^ref-9]
 [^ref-2]: [Quest for Glory Wiki – Interview with Lori Ann Cole and Mishell Baker (Inventory 9, October 2003)](https://questforglory.fandom.com/wiki/Interview_with_Lori_Ann_Cole_and_Mishell_Baker) — Lori's own words: "lover of fantasy", "always wanted to be a teacher… Indian Reservation", "I really enjoyed RPG games", Paladin, "Not in the least", "We'd love to acquire the rights"
 [^ref-3]: [Choicest Games – Where Are They Now: Lori Ann Cole (2014)](https://www.choicestgames.com/2014/10/where-are-they-now-lori-ann-cole.html) — Hero's Quest renamed because the name sounded like the HeroQuest board game
 [^ref-8]: [Adventure Classic Gaming – Interview with Lori Ann Cole (Jonathan Yalon; posted 9 March 2008, courtesy of HebrewQuest)](http://www.adventureclassicgaming.com/index.php/site/interviews/323/) — "I am a teacher by profession and inclination"; "Corey and I do not have the rights to QFG"
-[^ref-9]: [MobyGames – Lori Ann Cole credits](https://www.mobygames.com/person/3681/lori-ann-cole/credits/) — 48 credits on 19 games (read from a dossier copy fetched 2026-01-14; includes Space Quest: Collector's Edition "Video", Quest for Infamy "Thanks", Heroine's Quest "Inspired by"): QFG roles, QFG II VGA Remake, SWAT 2 photo model, Shannara, Bolt Riley game design
+[^ref-9]: [MobyGames – Lori Ann Cole credits](https://www.mobygames.com/person/3681/lori-ann-cole/credits/) — 48 credits on 19 games – includes Space Quest: Collector's Edition "Video", Quest for Infamy "Thanks", Heroine's Quest "Inspired by": QFG roles, QFG II VGA Remake, SWAT 2 photo model, Shannara, Bolt Riley game design
 [^ref-11]: [IMDb – Lori Ann Cole](https://www.imdb.com/name/nm0998771/) — Writer credits incl. Bolt Riley (co-writer); Smaude voice
 [^ref-12]: [The Digital Antiquarian – So You Want to Be a Hero? (Jimmy Maher, 2016)](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) — Westercon 1979, Arizona, The Spellbook, Maher's quote of her aims, "the worst of both worlds"
 [^ref-13]: [Adventure Classic Gaming – Interview with Lori Ann Cole (September 2003)](http://www.adventureclassicgaming.com/index.php/site/interviews/208/) — "among the earliest hybrid role-playing/adventure game series"; hired first as a freelance contractor; FAR Productions developed Shannara
@@ -148,7 +148,7 @@ Credits follow MobyGames unless noted.[^ref-9]
 [^ref-33]: [Hardcore Gaming 101 – Corey Cole (Interview) (Kurt Kalata, posted July 31, 2017)](http://www.hardcoregaming101.net/interview-with-corey-cole/) — "Sierra broke our contract after QfG4 shipped"; Bob Bates and Legend; "QfG5 took almost 4 years to develop"; "Lori came up with most of the characters"
 [^ref-34]: [Strange Horizons – Games to Life: An Interview with Lori, Corey, and Michael Cole of Transolar Games (Joseph Howse, 26 May 2008)](http://strangehorizons.com/non-fiction/articles/games-to-life-an-interview-with-lori-corey-and-michael-cole-of-transolar-games/) — "twenty years' experience in the design, direction, and scriptwriting of computer games"; "Arizona D&D" variant
 [^ref-35]: [Corey and Lori Cole on Patreon – Our first years at Sierra: making Hero's Quest (27 January 2024)](https://www.patreon.com/posts/our-first-years-97270318) — "Ken invited Lori to propose a role-playing game"; interest in "Lori's background as a teacher"; "Lori was about to start directing a game project"
-[^ref-36]: [MobyGames – Corey Cole profile](https://www.mobygames.com/person/3682/corey-cole/) — Biography: "introduced the Coles to Ken Williams in 1988"; renamed "Due to trademark issues"; Sierra "closed its Yosemite Entertainment office in 1999"; "Lori and Corey run Transolar Games" (dossier copy, January 2026)
+[^ref-36]: [MobyGames – Corey Cole profile](https://www.mobygames.com/person/3682/corey-cole/) — Biography: "introduced the Coles to Ken Williams in 1988"; renamed "Due to trademark issues"; Sierra "closed its Yosemite Entertainment office in 1999"; "Lori and Corey run Transolar Games"
 [^ref-37]: [MobyGames – Quest for Glory V: Dragon Fire credits, Windows (Wayback, September 2025)](https://web.archive.org/web/20250914124746/https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/credits/windows/) — "Designer Lori Ann Cole"; thanks "the Yosemite Entertainment development site"
 [^ref-38]: [The Digital Antiquarian – Sierra at the Cusp of the Multimedia Age (Jimmy Maher, 2018)](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) — "King's Quest V instead shipped on CD in August of 1991"
 [^ref-39]: [Summer Daze at Hero-U on BackerKit – Project Updates, "What We Did Last Summer... and What We're Doing for Next Summer" (16 September 2026)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) — Ifeyo's Adventure: "Expect Ifeyo's Adventure in late Spring or early Summer 2027"; "Lori plans to complete the scripting in the next few months"; Sami's Story third concept; "over five years" / "another three years"

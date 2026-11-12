@@ -115,7 +115,7 @@ The first Kickstarter campaign launched in October 2012, seeking $400,000 to fun
 
 Development proved far more challenging than anticipated. "We figured we could turn out the original concept game in 1-2 years, but development ballooned to over five years," Corey Cole later admitted[^ref-33]. The game was developed by a remote, part-time team facing numerous hurdles. In January 2015, the project underwent a significant reboot when experienced Unity developers were added to address technical challenges[^ref-1]. The original concept changed considerably during this period—the final product "bears little resemblance to early concept art" according to contemporary coverage[^ref-18].
 
-Cidney Hamilton, the game's programmer, provided detailed insight into the production challenges in a postmortem: "We could have shipped sooner by cutting features; the Coles chose not to do this"[^ref-7]. The team's commitment to their vision came at significant personal cost—the Coles took out loans and used Patreon support alongside Kickstarter funds to complete the project[^ref-28]. The game's total budget exceeded $1 million by the time of release[^ref-1].
+Cidney Hamilton, the game's programmer, provided detailed insight into the production challenges in a postmortem: "We could have shipped sooner by cutting features; the Coles chose not to do this"[^ref-7]. The Coles used Patreon support alongside Kickstarter funds to complete the project[^ref-28]. The game's total budget exceeded $1 million by the time of release[^ref-1].
 
 **Development Credits:**[^ref-15]
 - **Lead Designers:** Lori Ann Cole, Corey Cole
