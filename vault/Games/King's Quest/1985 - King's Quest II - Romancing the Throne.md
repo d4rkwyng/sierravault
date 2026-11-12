@@ -10,16 +10,17 @@ series: King's Quest
 engine: AGI
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Al Lowe]
 description: 'King''s Quest II: Romancing the Throne is the second installment in
-  the King''s Quest series, released in 1985 (May per Wikipedia, June per MobyGames) for IBM PC and PCjr. Designed by
-  Roberta...'
+  the King''s Quest series, released by Sierra On-Line in 1985 for IBM PC and PCjr.
+  Designed by Roberta Williams on the AGI engine, it sends King Graham to the land
+  of Kolyma to rescue Valanice.'
 tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -86,7 +87,7 @@ Modern retrospectives acknowledge the game's historical importance while noting 
 **Modern Scores:**
 - **MobyGames:** 7.1/10 MobyScore, 78% critics (14 ratings), 3.5/5 players (109 ratings), as of 2026[^ref-1]
 - **GOG:** 4.1/5 (42 reviews, KQ 1+2+3 bundle)[^ref-26]
-- **Steam:** 87% Very Positive (331 reviews, KQ Collection)[^ref-27]
+- **Steam:** 87% Very Positive (333 reviews as of November 11, 2026, KQ Collection)[^ref-27]
 - **IMDB:** 7.2/10 (140+ votes)[^ref-15]
 - **Adventure Gamers:** 3/5[^ref-10]
 - **Techtite (Apple II, 2000):** 5/5[^ref-39]
@@ -95,6 +96,8 @@ Modern retrospectives acknowledge the game's historical importance while noting 
 ## Development
 
 ### Origins
+
+Sierra had developed the Adventure Game Interpreter (AGI) engine for King's Quest I, and the sequel reused it with an improved parser that understood over three times as many words, especially adjectives, and could handle combining phrases with "and"[^ref-2]. The artists drew the backgrounds for each location first; these were saved as sets of drawing instructions rather than images to save space, so each screen is drawn over a few seconds whenever Graham enters a location[^ref-2]. Roberta Williams wanted a more complex plot but was limited by the memory and space of the computers of the time, which resulted in "treasure hunts with lots of simple goals [...] and fun puzzles"[^ref-2].
 
 Development of King's Quest II served as a training ground for Sierra employees new to the AGI technology[^ref-3]. [[Scott Murphy]] and [[Mark Crowe]], who would later create the Space Quest series, joined the team along with [[Al Lowe]], future creator of Leisure Suit Larry[^ref-3][^ref-17]. As DOS Days documented: "These people included Scott Murphy, Mark Crowe and Al Lowe, who would later become famous adventure game creators themselves"[^ref-3].
 
@@ -126,24 +129,30 @@ The booter version plays music at a slower tempo and louder volume compared to t
 
 ### Technical Achievements
 
+- **Expanded parser:** Understood over three times as many words as King's Quest I, especially adjectives, and handled combining phrases with "and"[^ref-2]
+- **Backgrounds as drawing instructions:** Location backgrounds were stored as drawing instructions rather than images to save space[^ref-2]
 - **Opening cutscene:** The minimal story is told mostly through the manual and an introductory cutscene[^ref-2]
 - **Goal-sensitive events:** The game world dynamically changes as players advance—new characters appear, areas open and close based on story progression[^ref-10]
 - **Linear story structure:** Showed an evolution toward "the more linear, story-driven model still widely used in adventure games today"[^ref-10]
 
 ### Music and Audio
 
-Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, several of them arrangements of public-domain works such as a Tchaikovsky piece (the "Kiss" cue, which VGMPF links to *Romeo and Juliet*), Bach, Chopin, Mendelssohn and Wagner, plus a Space Quest trailer theme by Mark Crowe and Tommy Shaw[^ref-20]. DOS Days noted that "KQ2 has over twice the number of songs as KQ1" while reusing some tracks including the Title, Danger, and Dead themes[^ref-3]. The opening screen features "Greensleeves" on the PC speaker[^ref-10]. When Graham encounters the ghosts, the game plays an unlicensed arrangement of Rod Temperton's "Thriller", and the Batmobile gag uses Neal Hefti's Batman theme[^ref-20].
+Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, several of them arrangements of public-domain works such as a Tchaikovsky piece (the "Kiss" cue, which VGMPF files under the title *Romeo and Juliet*), Bach, Chopin, Mendelssohn and Wagner, plus a Space Quest trailer theme by Mark Crowe and Tommy Shaw[^ref-20]. DOS Days noted that "KQ2 has over twice the number of songs as KQ1" while reusing some tracks including the Title, Danger, and Dead themes[^ref-3]. The opening screen features "Greensleeves" on the PC speaker[^ref-10]. When Graham encounters the ghosts, the game plays an unlicensed arrangement of Rod Temperton's "Thriller", and the Batmobile gag uses Neal Hefti's Batman theme[^ref-20].
 
 ### Version History
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
+| Atari ST | 1985 | Atari ST | MobyGames lists a 1985 first release[^ref-1] |
+| Apple II | November 1985 | Apple II | MobyGames first release date[^ref-1] |
 | 1.0W | 1985 | DOS (Booter) | PC Booter version[^ref-3] |
 | 1.0H | 1985 | DOS (Booter) | PC Booter; changes from 1.0W unknown[^ref-3] |
 | 2.1 | April 10, 1987 | DOS | Key disk protection; AGI2 2.411[^ref-3] |
 | 2.2 | May 7, 1987 | DOS | Key disk protection[^ref-3] |
 | 2.2 | December 1, 1987 | DOS | AGIMIDI support added[^ref-3] |
+| Amiga | April 1987 | Amiga | MobyGames first release date[^ref-1] |
 | Mac | June 1987 | Macintosh | Mac port[^ref-1] with 4givmeken backdoor[^ref-22] |
+| Apple IIgs | August 1988 | Apple IIgs | MobyGames first release date[^ref-1] |
 
 **AGI Interpreter Versions:**[^ref-3]
 
@@ -159,7 +168,7 @@ Al Lowe composed and arranged the soundtrack—VGMPF lists fourteen pieces, seve
 
 ## Legacy
 
-In February 1987, Computer Entertainer reported that the first two King's Quest games had each earned Software Publishers Association gold awards for certified sales of over 100,000 units[^ref-46], and by mid-1987 Sierra's packaging advertised the first three games as "Over 500,000 Sold"[^ref-2]. The game served as a training ground for future Sierra legends—Scott Murphy and Mark Crowe (Space Quest) and Al Lowe (Leisure Suit Larry) all worked on the project[^ref-3][^ref-17].
+In February 1987, Computer Entertainer reported that the first two King's Quest games had each earned Software Publishers Association gold awards for certified sales of over 100,000 units[^ref-46], and by mid-1987 the first three King's Quest games had together sold over 500,000 copies[^ref-2]; the box text of the 1987 King's Quest III release likewise reads "The best-selling 3-D animated adventure series. By Roberta Williams. Over 500,000 sold."[^ref-51]. The game served as a training ground for future Sierra legends—Scott Murphy and Mark Crowe (Space Quest) and Al Lowe (Leisure Suit Larry) all worked on the project[^ref-3][^ref-17].
 
 ### Remakes
 
@@ -208,8 +217,6 @@ This game has been included in[^ref-1]:
 - [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3)[^ref-26]
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100)[^ref-27]
 
-**Download / Preservation**
-
 **Manuals & Extras**
 - [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) – technical support, patches[^ref-30]
 - [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) – walkthrough, maps[^ref-19]
@@ -253,7 +260,7 @@ This game has been included in[^ref-1]:
 [^ref-23]: [AGD Interactive – King's Quest II: About](https://www.agdinteractive.com/games/kq2/about/about.html) — Free VGA remake; AGDI-reported 451,400+ downloads; "no plans were ever made to upgrade King's Quest II"
 [^ref-25]: [CGM – King's Quest Chapter 3 Releases April 26](https://www.cgmagonline.com/news/kings-quest-chapter-3-releases-april-26) — "Once Upon a Climb" release date
 [^ref-26]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) — Digital release with 4.1/5 rating (42 reviews)
-[^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) — Digital collection with 87% Very Positive rating (331 reviews)
+[^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) — Digital collection with 87% Very Positive rating (333 reviews, checked November 11, 2026)
 [^ref-30]: [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) — Technical support and patch information
 [^ref-31]: [PCGamingWiki – King's Quest II](https://www.pcgamingwiki.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Modern compatibility fixes and technical information
 
@@ -273,3 +280,4 @@ This game has been included in[^ref-1]:
 [^ref-48]: [King's Quest Omnipedia – King's Quest II: Romancing the Throne SCI](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne_SCI) — Cancelled remake; quotes Trivette, Official Book of King's Quest (3rd ed., 1993), p. 9: "but at this writing that has not been done"
 [^ref-49]: [AGD Interactive – King's Quest II: About the Developers](https://www.agdinteractive.com/games/kq2/about/aboutdev.html) — "Josh Mandel once again lending his voice to the role of King Graham"
 [^ref-50]: [Wikipedia – King's Quest II: Romancing the Stones](https://en.wikipedia.org/wiki/King%27s_Quest_II:_Romancing_the_Stones) — AGDI remake; engine: Adventure Game Studio
+[^ref-51]: [Eli's Software Encyclopedia – King's Quest III (Tandy Color Computer, 1987 USA/Canada release)](https://elisoftware.org/wiki/King%27s_Quest_III_To_Heir_Is_Human_%28Tandy_Color_Computer,_5_1/4%22_Disk%29_Sierra_-_1987_USA,_Canada_Release) — Box text transcription: "The best-selling 3-D animated adventure series. By Roberta Williams. Over 500,000 sold."
