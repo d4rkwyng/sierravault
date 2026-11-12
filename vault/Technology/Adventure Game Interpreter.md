@@ -4,14 +4,14 @@ type: technology
 developer: "Sierra On-Line"
 years_active: "1984-1989"
 total_games: 14
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 description: "Sierra On-Line's first animated adventure engine (1984-1989): the 160×200, 16-colour text-parser interpreter behind 14 Sierra games including King's Quest and Space Quest, its versions, and how to play it today."
 tags: [technology, agi, sierra, adventure-engine, text-parser, preservation]
 ---
 
 # Adventure Game Interpreter (AGI)
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -145,7 +145,7 @@ The AGI engine has been thoroughly documented by fans:
 - **AGI Specifications** — fan-written documentation of AGI's resource and sound formats (the sound chapter by Lance Ewing, with additions by Claudio Matsuoka, Paul Lunga and Ian Schmidt, 1999)[^ref-10]
 - **AGI Studio** — Peter Kelly's 1997 tool for viewing, editing and creating AGI games[^ref-9]
 - **NAGI** — Nick Sonneveld's New Adventure Game Interpreter[^ref-9]
-- **ScummVM** — AGI support added to ScummVM in May 2006 and first released in version 0.10.0 (June 20, 2007)[^ref-14][^ref-24]
+- **ScummVM** — AGI support added to ScummVM in May 2006 and first released in version 0.10.0 (June 20, 2007)[^ref-14][^ref-24]. ScummVM's AGI engine "is based on the code of the Sarien project, used with permission", and the Pre-AGI games are handled by its TrollVM code[^ref-14]
 
 ### Preservation
 ScummVM supports all the Sierra AGI games.[^ref-20]
