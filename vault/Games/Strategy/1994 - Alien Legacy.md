@@ -8,10 +8,10 @@ publisher: Sierra On-Line
 genre: Real-Time Strategy
 platforms: [DOS]
 series: Standalone
-engine: Unknown
+engine: null
 protagonist: Captain of UNS Calypso
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Alien Legacy is a 1994 science fiction real-time strategy game for DOS, developed
   by Ybarra Productions under producer Joe Ybarra and published by Sierra On-Line, in which the
   captain of the seedship UNS Calypso colonizes the Beta Caeli system.
@@ -19,7 +19,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # Alien Legacy
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,16 +30,15 @@ Set in a future where humanity faces extinction following an alien attack, Alien
 > [!info]- Game Info
 > **Developer:** Ybarra Productions, Inc.[^ref-1]
 > **Designers:** Scot Amos, Michael E. Moore, Rich Waters[^ref-10]
-> **Producer:** Joe Ybarra[^ref-10]
-> **Team Leader:** Andy Riedel[^ref-10]
-> **Composers:** Biard MacGuineas, Steve Baker[^ref-10]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Unknown (audio: AIL/Miles Sound System)[^ref-1]
 > **Platforms:** MS-DOS[^ref-1]
 > **Release Year:** 1994[^ref-1]
 > **Series:** Standalone
 > **Protagonist:** Captain of UNS Calypso
 > **Sierra Lineage:** Sierra Published
+> **Producer:** Joe Ybarra[^ref-10]
+> **Team Leader:** Andy Riedel[^ref-10]
+> **Composers:** Biard MacGuineas, Steve Baker[^ref-10]
 > **ESRB Rating:** Kids to Adults[^ref-1]
 
 ## Story Summary
@@ -90,7 +89,7 @@ Alien Legacy received generally positive reviews upon release, though critics no
 
 **PC Zone** #20 (November 1994) scored it **80** and marked it Recommended, calling it a "space strategy thing which is a bit like Outpost without the pretty bits. Daunting at first, but ultimately very rewarding"[^ref-34].
 
-**White Wolf Inphobia** (#52, February 1995) awarded the game **5 out of 5**. Wikipedia quotes reviewer James V. Trunzo: "Alien Legacy, in fact, is Spaceflight [sic] taken to the next level. New elements, such as natural disasters and colony construction on a building-by-building basis, have been added to older space adventure elements, improving upon an already solid concept"[^ref-7].
+**White Wolf Inphobia** (#52, February 1995) awarded the game **5 out of 5**. Wikipedia quotes reviewer James V. Trunzo: "Alien Legacy, in fact, is Spaceflight taken to the next level. New elements, such as natural disasters and colony construction on a building-by-building basis, have been added to older space adventure elements, improving upon an already solid concept"[^ref-7].
 
 The Finnish magazine **Pelit** (June 1994) gave the game **82%**. Reviewer Niko Nirvi placed it among "strategialla höystetyt juonelliset avaruusoopperat" (story-driven space operas seasoned with strategy) and wrote that as a strategy or adventure game it is "aika heppoista kamaa" (rather flimsy stuff), but the plot kept him interested to the end[^ref-20]. His verdict: "Alien Legacy on ihan kiva välipala, ei sen enempää. Pehmeä lasku peliuraansa aloitteleville." ("Alien Legacy is quite a nice snack, nothing more. A soft landing for those starting their gaming careers.")[^ref-20]
 
@@ -107,7 +106,7 @@ The game maintains a devoted cult following decades after release. Amazon custom
 **Aggregate Scores:**
 - **MobyGames Critics Average:** 79% (26 ratings, as of November 2026)[^ref-1]
 - **AbandonwareDOS:** 3.85/5.00 (73 votes)[^ref-3]
-- **MyAbandonware:** 4.47/5 (52 votes, as of November 2026)[^ref-13]
+- **MyAbandonware:** 4.5/5 (53 votes, as of November 2026)[^ref-13]
 - **OldGames.sk:** 80%[^ref-24]
 - **Amazon:** 4.8/5 stars[^ref-22]
 - **GameFAQs User Rating:** "Great" (24 ratings)[^ref-11]
@@ -138,7 +137,7 @@ Sierra released one patch, v1.01 (December 1994), for the floppy version only. M
 
 ### Technical Achievements
 
-Alien Legacy used the AIL/Miles Sound System for audio[^ref-1]. The manual recommends a Sound Blaster, AdLib, or PAS sound card[^ref-10]; Game Bytes' review also listed AdLib Gold, Sound Blaster Pro, and Roland support[^ref-21]. A fan rip of the soundtrack on KHInsider lists 49 files totaling 35 MB and 38 minutes 39 seconds, many of them in pairs of matching length (such as M3T00 and M3T00G)[^ref-26].
+Alien Legacy used the AIL/Miles Sound System for audio[^ref-1]. The manual recommends a Sound Blaster, AdLib, or PAS sound card[^ref-10]; Game Bytes' review also listed AdLib Gold, Sound Blaster Pro, and Roland support[^ref-21].
 
 The planetary exploration segments use 3D fractal landscape rendering[^ref-14]. Planets move along their orbital paths in real time[^ref-21], so journeys have to account for the worlds' relative orbital positions[^ref-10].
 
@@ -303,7 +302,6 @@ Alien Legacy is remembered as an ambitious hybrid of colony management, planetar
 [^ref-22]: [Amazon – Alien Legacy DOS](https://www.amazon.com/Alien-Legacy-DOS/dp/B0002S50O6) – customer reviews, ratings
 [^ref-23]: [GOG.com Wishlist – Alien Legacy](https://www.gog.com/wishlist/games/alien_legacy) – 225 votes; community comments
 [^ref-24]: [OldGames.sk – Alien Legacy](https://www.oldgames.sk/en/game/alien-legacy/download/3620/) – rating, game description
-[^ref-26]: [KHInsider – Alien Legacy Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/alien-legacy-gamerip) – soundtrack details
 [^ref-27]: [PCGamingWiki – Alien Legacy](https://www.pcgamingwiki.com/wiki/Alien_Legacy) – technical specifications, save compatibility, localizations
 [^ref-28]: [RPG Codex – Let's Play Alien Legacy](https://rpgcodex.net/forums/threads/lets-play-alien-legacy.76947/) – gameplay experience, time-flow bug
 [^ref-29]: [VOGONS – Alien Legacy CD Issues](https://www.vogons.org/viewtopic.php?t=27204) – DOSBox mounting, copy protection
