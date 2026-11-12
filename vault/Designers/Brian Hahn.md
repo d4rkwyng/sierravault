@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["The Incredible Machine", "Sid & Al's Incredible Toons", "The Adventures of Willy Beamish", "Johnny Castaway"]
 companies: ["Dynamix", "Sierra On-Line", "GarageGames", "Spotkin"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Brian Hahn
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Brian Hahn is an American artist, art director and game designer, best known for his long run at Dynamix.[^ref-16] He was art director on [[1992 - The Incredible Machine|The Incredible Machine]] (the series was created by [[Kevin Ryan]], with [[Jeff Tunnell]] producing)[^ref-16][^ref-10] and went on to co-design its follow-ups, including [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], [[1994 - The Incredible Machine 2|The Incredible Machine 2]] and the Contraptions games.[^ref-16] MobyGames credits him on 38 games.[^ref-18]
+Brian Hahn is an artist, art director and game designer, best known for his long run at Dynamix.[^ref-16] He was art director on [[1992 - The Incredible Machine|The Incredible Machine]] (the series was originally designed and coded by [[Kevin Ryan]] and produced by [[Jeff Tunnell]])[^ref-16][^ref-10] and went on to co-design its follow-ups, including [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], [[1994 - The Incredible Machine 2|The Incredible Machine 2]] and the Contraptions games.[^ref-16] MobyGames credits him on 38 games.[^ref-18]
 
 At Dynamix he was also an artist on adventure games such as [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]] and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], and art director on Trophy Bass (1995), Front Page Sports: Trophy Rivers (1997) and the 3-D Ultra Minigolf games.[^ref-16] Jeff Tunnell credits him with most of the gags in the Johnny Castaway screensaver (1992).[^ref-6] In 2013 he rejoined Tunnell and Ryan to work on Contraption Maker, the spiritual successor to The Incredible Machine.[^ref-17]
 
@@ -37,9 +37,9 @@ Hahn was one of the artists on [[1990 - Rise of the Dragon|Rise of the Dragon]] 
 
 #### The Incredible Machine Era (1992–1995)
 
-[[1992 - The Incredible Machine|The Incredible Machine]] was designed and coded by [[Kevin Ryan]] and produced by [[Jeff Tunnell]];[^ref-10] Hahn was its art director.[^ref-16] He then designed and art-directed its follow-ups: MobyGames credits him among the designers of [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993), [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994, original designers) and [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994), and as art director on all three and on The Even More! Incredible Machine (1993). On Sid & Al's and The Incredible Toon Machine he also did the music and sound effects.[^ref-16] MobyGames files the 1995 Windows release of The Incredible Machine 2 under the alternate title "The Incredible Machine Version 3.0", the game the vault covers as [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]]; Hahn is credited there as one of the designers, as art director and for manual artwork.[^ref-26][^ref-2]
+[[1992 - The Incredible Machine|The Incredible Machine]] was designed and coded by [[Kevin Ryan]] and produced by [[Jeff Tunnell]];[^ref-10] Hahn was its art director.[^ref-16] He then designed and art-directed its follow-ups: MobyGames credits him among the designers of [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993), [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994, original designers) and [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994), and as art director on all three and on The Even More! Incredible Machine (1993). On Sid & Al's and The Incredible Toon Machine he also did the music and sound effects, and MobyGames lists a separate animation credit for him on The Incredible Toon Machine.[^ref-16][^ref-2] MobyGames files the 1995 Windows release of The Incredible Machine 2 under the alternate title "The Incredible Machine Version 3.0", the game the vault covers as [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]]; Hahn is credited there as one of the designers, as art director and for manual artwork.[^ref-26][^ref-2]
 
-In 1992, Hahn also worked on [[1992 - Johnny Castaway|Johnny Castaway]]. Asked about the "Gags" credit, Tunnell wrote: "Brian Hahn and I, but mostly Brian, came up with most of the gags. Brian is so funny, he is always the guy when thinking up funny characters and almost Vaudvillian stunts and pranks."[^ref-6]
+In 1992, Hahn also worked on [[1992 - Johnny Castaway|Johnny Castaway]]; the Dynamix Wiki credits him as art director and for the gags.[^ref-1] Asked about the "Gags" credit, Tunnell wrote: "Brian Hahn and I, but mostly Brian, came up with most of the gags. Brian is so funny, he is always the guy when thinking up funny characters and almost Vaudvillian stunts and pranks."[^ref-6]
 
 Hahn also art-directed educational titles including Quarky & Quaysoo's Turbo Science (1992) and Turbo Learning: Mega Math (1993), and was one of the art directors of Trophy Bass (1995).[^ref-16]
 
@@ -51,13 +51,13 @@ He art-directed [[1996 - Hunter Hunted|Hunter Hunted]] (1996) and was one of the
 - 3-D Ultra NASCAR Pinball (1998) as Managing Art Director
 - 3-D Ultra Pinball: Thrillride (2000) as Art Assistance
 
-[[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] (2000) and [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] (2001) saw him return as designer and art director; he also did the box art for Contraptions.[^ref-16]
+[[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] (2000) and [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] (2001) saw him return as designer and art director; he also did the box art for Contraptions, and MobyGames lists a separate "Contraption Design" credit for him on the 2000 game.[^ref-16][^ref-2]
 
 ### After Dynamix
 
 MobyGames credits him on GarageGames' Marble Blast (2002, "The Marble Blast Team") and as an artist on Chain Reaction (2002).[^ref-16] It also lists him among the artists on the November 2017 Windows release of [[1991 - Heart of China|Heart of China]].[^ref-2][^ref-25]
 
-On May 13, 2013, Jeff Tunnell announced Contraption Maker, "the spiritual successor to The Incredible Machine", adding that "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin), so we have the entire original team that worked on TIM."[^ref-17] Contraption Maker entered Steam Early Access in August 2013[^ref-20] and reached its 1.0 release on July 7, 2014.[^ref-21]
+On May 13, 2013, Jeff Tunnell announced Contraption Maker, "the spiritual successor to The Incredible Machine", adding that "Kevin Ryan and Brian Hahn are both working on the project (along with the rest of the incredibly talented people at Spotkin), so we have the entire original team that worked on TIM."[^ref-17] Contraption Maker entered Steam Early Access in August 2013[^ref-20][^ref-10] and reached its 1.0 release on July 7, 2014.[^ref-21][^ref-27]
 
 MobyGames' profile for Hahn also lists FX Artist credits on The Elder Scrolls Online expansions from 2018 onward.[^ref-16][^ref-18] It has not been confirmed that these belong to the same Brian Hahn: his own MobyGames biography does not mention ZeniMax.
 
@@ -73,7 +73,7 @@ Hahn was art director on [[1992 - The Incredible Machine|The Incredible Machine]
 
 ### Johnny Castaway (1992)
 
-For the Johnny Castaway screensaver, Tunnell says Hahn came up with most of the gags.[^ref-6] Tunnell describes it as having been "pitched as the world's first story telling screen saver."[^ref-6]
+For the Johnny Castaway screensaver, the Dynamix Wiki credits Hahn as art director and for the gags, and Tunnell says he came up with most of the gags.[^ref-1][^ref-6] Tunnell describes it as having been "pitched as the world's first story telling screen saver."[^ref-6]
 
 ### Sid & Al's Incredible Toons (1993)
 
@@ -81,7 +81,7 @@ On [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]], Hahn is c
 
 ## Games
 
-Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
+Roles follow MobyGames' credit wording unless another source is cited.[^ref-16] Animator Wheeler's first name appears as "Sheri" in the Tunnell, Retro365 and Sega Wiki sources and as "Sherry" in MobyGames' credit wording; each is given here as its source spells it.
 
 ### Early Career (1985–1989)
 
@@ -94,7 +94,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
 ### Adventure Era (1990–1992)
 
 - **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Artist
-- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Artists
+- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Artists (the 1992 Sega CD release credits him "as Erian Hahn")[^ref-2]
 - **1991** — [[1991 - Heart of China|Heart of China]] — Role: Artists
 - **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Artists
 - **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: Artists EGA
@@ -102,12 +102,12 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
 ### The Incredible Machine Era (1992–1995)
 
 - **1992** — [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] — Role: Art Director
-- **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Gags[^ref-6]
+- **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Art Director, Gags[^ref-1][^ref-6]
 - **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Art Director
 - **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Art Director
 - **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Designers, Art Director, Animation, Music / Sound Effects, Manual Art[^ref-24]
 - **1993** — [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] — Role: Art Director
-- **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Original Designers, Art Directors, Music & Sound Effects, Manual Art
+- **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Original Designers, Art Directors, Animation, Music & Sound Effects, Manual Art[^ref-2]
 - **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Designers, Art Director, Manual Artwork
 - **1995** — [[1995 - The Incredible Machine 3.0|The Incredible Machine 3.0]] — Role: Designers, Art Director, Manual Artwork (MobyGames lists this Windows release under The Incredible Machine 2)[^ref-26]
 - **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Art Directors
@@ -121,7 +121,7 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
 - **1998** — [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] — Role: Managing Art Director
 - **1999** — [[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] — Role: Special Thanks
 - **1999** — [[1999 - Field & Stream - Trophy Bass 3D|Field & Stream: Trophy Bass 3D]] — Role: Past Contributions
-- **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] — Role: Designer, Art Director, Box Art
+- **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] — Role: Designer, Art Director, Contraption Design, Box Art[^ref-2]
 - **2000** — [[2000 - 3-D Ultra Pinball - Thrill Ride|3-D Ultra Pinball: Thrillride]] — Role: Art Assistance
 - **2000** — [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|3-D Ultra Radio Control Racers Deluxe]] — Role: Art Special Thanks
 - **2000** — [[2000 - Field & Stream - Trophy Bass 4|Field & Stream: Trophy Bass 4]] — Role: Past Contributions
@@ -156,3 +156,4 @@ Roles follow MobyGames' credit wording unless another source is cited.[^ref-16]
 [^ref-24]: [MobyGames - Sid & Al's Incredible Toons credits (Wayback, April 2016)](https://web.archive.org/web/20160409132045/http://www.mobygames.com/game/dos/sid-als-incredible-toons/credits) — Designers, Art Director, "Animation Brian Hahn, Sherry Wheeler", Music / Sound Effects, Manual Art
 [^ref-25]: [MobyGames - Heart of China](https://www.mobygames.com/game/164/heart-of-china/) — Windows release 2017-11-08; Brian Hahn in the credits (ID 164, via MobyGames API and page copy of 2026-11-11)
 [^ref-26]: [MobyGames - The Incredible Machine 2](https://www.mobygames.com/game/1605/the-incredible-machine-2/) — Windows 1995; alternate title "The Incredible Machine Version 3.0"; Brian Hahn credited as designer and art director (ID 1605, via MobyGames API)
+[^ref-27]: [Steam - Contraption Maker](https://store.steampowered.com/app/241240/) — Release date Jul 7, 2014; developer Kevin Ryan
