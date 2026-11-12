@@ -10,7 +10,7 @@ series: Hi-Res Series
 engine: Machine Language
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hi-Res Cribbage is a single-player cribbage game for the Apple II, written
   by Warren Schwader and published by On-Line Systems, which hired Schwader on the
   strength of it.
@@ -18,7 +18,7 @@ tags: [1980s, hi-res-series, sierra]
 ---
 # Hi-Res Cribbage
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,7 @@ Schwader's work on Hi-Res Cribbage led to his hiring as one of On-Line Systems' 
 
 ## Story Summary
 
-As a card game simulation, Hi-Res Cribbage does not feature a narrative story in the traditional sense. The game instead recreates the experience of playing cribbage, a card game with origins in 17th-century England, attributed to Sir John Suckling.[^ref-6]
+As a card game simulation, Hi-Res Cribbage does not feature a narrative story in the traditional sense. The game instead recreates the experience of playing cribbage, a card game which, according to John Aubrey, was created by the English poet Sir John Suckling in the early 17th century as a derivation of the game "noddy."[^ref-28]
 
 Players play hands of cribbage against a computer opponent. The computer's algorithm evaluates hands by 12 major rules, and Retro365 reports it was "nearly as good at cribbage as Schwader himself."[^ref-6] The game's own description warns that "if you're not careful, and don't play your cards right, the computer will skunk you," using the cribbage term for a decisive victory.[^ref-4][^ref-26] *Softalk*'s 1981 reviewer likewise noted that skunking and double skunking are possible, and that the computer records your skunks with evident glee.[^ref-24]
 
@@ -77,6 +77,8 @@ While not featuring puzzles in the adventure game sense, Hi-Res Cribbage require
 *Softalk* reviewed the game in its April 1981 issue (p. 42). The reviewer judged that "the computer Hi-Res Cribbage plays a solid, challenging game," adding: "Cribbage has been overdue on the Apple, and its debut is a very honorable one." The review praised the elongated spiral hi-res board and the "well-done hi-res cards, which actually show red for the red suits," and noted that the program offers slow and fast modes. Its one wish was for an option to turn off the "very strange, low-pitched sounds."[^ref-24]
 
 *Softalk*'s February 1981 new-product notice had described the game as bringing "the classic game to the Apple," with a manual that "guides the rookie against a tough digital opponent that's a strong match for the veteran as well," at $24.95.[^ref-23] According to Retro365, one of Schwader's cassettes reached Ken Williams in California, and Williams, impressed with the game, its hi-res graphics and Schwader's ability to build it in the crude mini-assembler, offered him a job.[^ref-6] Retro365's author describes the cassette game as "surprisingly well done with crisp graphics and well-crafted logic."[^ref-6]
+
+Hi-Res Cribbage was not the only cribbage program for the Apple II by the end of 1981: *Softalk*'s December 1981 issue also carried a listing for Art Carpet's *Cribbage* ("Hi-res cards and cribbage board," $29.95) and a Computek advertisement for *Cribbage II* ($29.95).[^ref-27]
 
 ### Modern Assessment
 
@@ -140,7 +142,7 @@ No specific technical issues or bugs have been documented in available sources.
 
 - An introductory guide to the game appeared in the first *On-Line Letter* newsletter in June 1981.[^ref-6]
 - Schwader was hired by On-Line Systems after a few of his cassettes "found their way out to California where Ken Williams saw them."[^ref-5][^ref-6]
-- The game's rules follow traditional cribbage, a game attributed to Sir John Suckling in 1600s England.[^ref-6]
+- The game's rules follow traditional cribbage, which, according to John Aubrey, Sir John Suckling created in the early 17th century as a derivation of the game "noddy."[^ref-28]
 - RetroMags hosts an advertisement scan for the game in its Apple II advertisements gallery.[^ref-11]
 
 ## Legacy
@@ -149,7 +151,7 @@ No specific technical issues or bugs have been documented in available sources.
 
 Hi-Res Cribbage sold about two thousand copies in its On-Line Systems disk release, following a couple hundred cassette sales of Schwader's own games.[^ref-5][^ref-6] Schwader characterized the result as one that "wasn't awful but not a hit."[^ref-5] *Softalk*'s May 1981 bestseller column, covering March sales, listed Hi-Res Cribbage among the titles making the magazine's Top Thirty for the first time, and noted that it and *Missile Defense* were both On-Line Systems newcomers to the list.[^ref-25]
 
-The game impressed Ken Williams enough that he hired Schwader, who called himself "the first programmer that Sierra ever hired in 1981"; Retro365 instead calls him the company's second-hired programmer.[^ref-5][^ref-6] *Softalk* reported in April 1981 that Schwader, "author of Cribbage," had moved from Janesville, Wisconsin, to Coarsegold, California, to join On-Line's staff.[^ref-24] Schwader stayed with Sierra until 1993.[^ref-5] At On-Line he also sped up the graphics rendering for *Time Zone*.[^ref-20]
+The game impressed Ken Williams enough that he hired Schwader, who called himself "the first programmer that Sierra ever hired in 1981"; Retro365 instead calls him the company's second-hired programmer.[^ref-5][^ref-6] In *Sierra News Magazine* (Autumn 1989), Schwader likewise recalled of his move to California: "As far as I remember, I was the first programmer they hired."[^ref-29] *Softalk* reported in April 1981 that Schwader, "author of Cribbage," had moved from Janesville, Wisconsin, to Coarsegold, California, to join On-Line's staff.[^ref-24] Schwader stayed with Sierra until 1993.[^ref-5] At On-Line he also sped up the graphics rendering for *Time Zone*.[^ref-20]
 
 ### Collections
 
@@ -192,6 +194,7 @@ Not commercially available. Hi-Res Cribbage is not currently sold on any digital
 
 ## See Also
 
+- [[Hi-Res Adventures Series]]
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
@@ -233,3 +236,5 @@ Not commercially available. Hi-Res Cribbage is not currently sold on any digital
 [^ref-25]: [Softalk, May 1981 (Internet Archive)](https://archive.org/details/softalkv1n09may1981) – bestseller column for March: Hi-Res Cribbage among the new Top Thirty entries (full-text OCR; no rank read)
 [^ref-26]: [On-Line Systems product catalog (Museum of Computer Adventure Game History)](https://www.mocagh.org/sierra/sierra-catalog3.pdf) – publisher's own description ("invisible hand", "the computer will skunk you", "a very challenging game"); "48K APPLE II/II+ DOS3.2 or 3.3", $24.95; undated catalog
 [^ref-27]: [Softalk, December 1981 (Internet Archive)](https://archive.org/details/softalkv2n04dec1981) – On-Line product listing ("Either DOS. $24.95") and index entry giving the April 1981 review on p. 42 (full-text OCR)
+[^ref-28]: [Wikipedia – Cribbage](https://en.wikipedia.org/wiki/Cribbage) – "According to John Aubrey, it was created by the English poet Sir John Suckling in the early 17th century as a derivation of the game 'noddy'"
+[^ref-29]: [The Sierra News Magazine, Vol. 2 No. 2 (Autumn 1989) (Internet Archive)](https://archive.org/details/006_Sierra_News_Magazine_Volume_2_Number_2_Autumn_1989) – Schwader on joining Sierra: "As far as I remember, I was the first programmer they hired" (full-text OCR)
