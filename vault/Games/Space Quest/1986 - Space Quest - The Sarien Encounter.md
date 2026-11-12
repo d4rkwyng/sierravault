@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest: Chapter I – The Sarien Encounter is a graphic adventure
   game developed and published by Sierra On-Line, released in October 1986 for MS-DOS,
   in which janitor Roger Wilco must stop the Sariens from using the stolen Star Generator.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14].
@@ -41,13 +41,13 @@ The game's combination of science fiction setting, sardonic humor, and frequent 
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
-Within the Earnon galaxy, Roger Wilco is a janitor aboard the scientific spaceship Arcada, which holds a powerful experimental device called the Star Generator[^ref-1][^ref-5][^ref-17]. Roger emerges from an on-duty nap in a broom closet to find the ship has been boarded and seized by the sinister Sariens, who have stolen the Star Generator—a device that could cause untold disaster in their hands[^ref-1][^ref-5][^ref-17].
+Roger Wilco is a janitor on the Arcada, a science vessel in the Earnon galaxy that carries an experimental device called the Star Generator[^ref-1][^ref-5][^ref-17]. He wakes from a nap in a broom closet to discover that the Sariens have taken over the ship and made off with the Star Generator, which could bring disaster in the wrong hands[^ref-1][^ref-5][^ref-17].
 
-Acquiring a keycard from a dead crew member's body, Roger flees the ship in an escape pod moments before the Arcada self-destructs[^ref-1][^ref-5]. The pod crash-lands on the planet Kerona, a dry, barren wasteland[^ref-1][^ref-5]. Roger defeats a spider-droid that the Sariens dispatched to eliminate him and is greeted by a mysterious figure in a cave system who offers help if he kills a monstrous creature called Orat[^ref-1][^ref-5].
+Roger takes a keycard from a dead crew member and escapes in a pod just before the Arcada destroys itself[^ref-1][^ref-5]. The pod lands on Kerona, a dry and barren planet[^ref-1][^ref-5]. There he beats a spider-droid sent by the Sariens to finish him off, then meets a mysterious figure in a cave system who promises assistance if Roger kills a monstrous creature named Orat[^ref-1][^ref-5].
 
-After Roger succeeds in the task, the figure supplies him with a skimmer craft to help him reach the town of Ulence Flats, where he can find a new ship[^ref-1][^ref-5]. There, Roger gambles on slot machines in a cantina to acquire the money needed to buy a spaceship, along with a navigation droid to pilot it[^ref-1][^ref-5]. During this time, he learns from a bar customer the location of the Sariens' spaceship, the Deltaur[^ref-1][^ref-5].
+Once Orat is dealt with, the figure gives Roger a skimmer so he can travel to Ulence Flats, a town where he can find a new ship[^ref-1][^ref-5]. In the town's cantina he plays the slot machines to raise enough money for a spaceship and a navigation droid to fly it[^ref-1][^ref-5]. Along the way a bar patron tells him where the Sariens' ship, the Deltaur, can be found[^ref-1][^ref-5].
 
-Roger boards the Deltaur and secures a Sarien disguise[^ref-1][^ref-5]. He programs the Star Generator to self-destruct and escapes the ship just before it explodes[^ref-1][^ref-5]. At the end of the game, Roger's efforts are rewarded when he receives the Golden Mop as a token of eternal gratitude from the people of Xenon[^ref-1][^ref-5].
+Aboard the Deltaur, Roger obtains a Sarien disguise[^ref-1][^ref-5]. He sets the Star Generator to self-destruct and flees before the ship blows up[^ref-1][^ref-5]. In the closing scene he is given the Golden Mop by the grateful people of Xenon[^ref-1][^ref-5].
 
 ## Gameplay
 
@@ -118,6 +118,7 @@ Credits as listed by the Sierra Fandom wiki[^ref-5].
 - Pseudo-3D environment allowing characters to move in front of and behind objects[^ref-5]
 - Sound through PC internal speaker; Tandy 1000, PCjr, and Amiga computers heard a three-voice soundtrack[^ref-1][^ref-4]
 - Apple IIgs version featured a fifteen-voice soundtrack with notably richer sound[^ref-1]
+- First Space Quest game with digitized voice: the alarm at the start of the game blares "battle stations" as Roger awakens[^ref-5]
 - The 1987 rerelease (version 2.2) adopted the pull-down menus of the updated 1987 AGI interpreter[^ref-5]
 - Released October 1986 for MS-DOS, with ports to Tandy 1000, PCjr, Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14][^ref-17]
 - The Amiga version used an extended color palette compared to other platforms[^ref-17]
@@ -145,7 +146,7 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 - Mark Crowe, the game's graphic artist, is credited with composing the original theme song[^ref-23][^ref-30]; the Sierra Fandom wiki's credits instead list Al Lowe for music[^ref-5]
 - One early box printing ("that second box," per Scott Murphy) had the film put in backwards, mirroring the Sierra half-dome in the background. Murphy: "There are only a few thousand of them out there. Collectors items, maybe?"[^ref-23][^ref-30]
 - Mark Crowe said the "Two Guys" name was borrowed from "Two Guys from Italy," which he called an east coast pizza chain (Murphy remembered it as a local Italian restaurant chain)[^ref-30][^ref-22]
-- The store where Roger buys a droid is called Droids B Us, a parody of Toys 'R' Us. In the first release (version 1.0X) it was called Droids R Us, until, per the Sierra Fandom wiki, Toys 'R' Us sued and Sierra changed the name[^ref-5]
+- The store where Roger buys a droid is called Droids B Us, a parody of Toys 'R' Us. In versions 1.0X and 1.1a it was called Droids R Us; The Cutting Room Floor says it was changed in version 2.2 "to avoid possible litigation from Toys "R" Us," while the Sierra Fandom wiki says Toys 'R' Us sued[^ref-5][^ref-18]
 - Pressing the "Don't touch" button in the escape pod puts Roger inside another Sierra adventure game, King's Quest; the game cannot be continued from there and must be restarted or restored[^ref-5]
 - In version 1.0x, typing "ken" on the Arcada made Ken Williams walk on screen and complain the game was behind schedule. It was removed from later versions[^ref-5][^ref-18][^ref-23]
 - Typing "scott" in version 2.2 displays a personal message from Scott Murphy asking players to drop him a line at Sierra. Earlier versions show "Don't snivel!" instead[^ref-5][^ref-18][^ref-23]
@@ -239,7 +240,7 @@ This game has been included in the following collections:
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 
 ## References
-[^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article (linked in Downloads section)
+[^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article
 [^ref-2]: [Sierra Chest – Space Quest I](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) ([archived December 5, 2024](http://web.archive.org/web/20241205160041/https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general)) – Sierra history, collections, platforms
 [^ref-3]: [Dynamix Fandom Wiki – Mark Crowe](https://dynamix.fandom.com/wiki/Mark_Crowe) – designer biography, development history
 [^ref-4]: [SpaceQuest.net – Space Quest 1 Game Information](https://spacequest.net/sq1/gameinfo.php) – sales figures, original packaging, release details
@@ -269,9 +270,9 @@ This game has been included in the following collections:
 [^ref-33]: [Computer Gaming World #45, March 1988 – Scorpia, "Scorpion's Tale: Space Quest" (pp. 9, 49, 51)](https://www.cgwmuseum.org/galleries/issues/cgw_45.pdf) – period walkthrough column with verdict: "a middle-of-the-road game"
 [^ref-34]: [Compute! #99, August 1988 – James V. Trunzo, "Space Quest—The Sarien Encounter" review (pp. 70–71)](https://archive.org/stream/1988-08-compute-magazine/Compute_Issue_099_1988_Aug#page/n71/mode/2up) – Apple IIGS review; $49.95 suggested price for Apple II, IIGS, Atari ST, Macintosh and IBM PC
 [^ref-35]: [The Digital Antiquarian – "The 14 Deadly Sins of Graphic-Adventure Design (or, Why Ron Gilbert Hated Adventure Games)" (Jimmy Maher, July 2015)](https://www.filfre.net/2015/07/the-14-deadly-sins-of-graphic-adventure-design/) – Crowe and Murphy say they were unaware of Planetfall
-[^ref-36]: [MobyGames – 3-D Animated Adventure Games Starter Pack](https://www.mobygames.com/game/1077/3-d-animated-adventure-games-starter-pack/) – read via the MobyGames API: 1987 DOS compilation of Leisure Suit Larry in the Land of the Lounge Lizards, Police Quest and Space Quest: Chapter I
-[^ref-37]: [MobyGames – Triple Value Pack](https://www.mobygames.com/game/21655/triple-value-pack/) – read via the MobyGames API: 1987 DOS compilation of Space Quest: Chapter I, King's Quest II and Mixed-Up Mother Goose
-[^ref-38]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – read via the MobyGames API: 1997 DOS/Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (VGA version)"
-[^ref-39]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – read via the MobyGames API: 2006 Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (EGA version)"
-[^ref-40]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/) – developer and publisher Guys from Andromeda; Early Access Release Date Apr 1, 2025; Release Date Dec 23, 2025 (store page read November 11, 2026)
+[^ref-36]: [MobyGames – 3-D Animated Adventure Games Starter Pack](https://www.mobygames.com/game/1077/3-d-animated-adventure-games-starter-pack/) – 1987 DOS compilation of Leisure Suit Larry in the Land of the Lounge Lizards, Police Quest and Space Quest: Chapter I
+[^ref-37]: [MobyGames – Triple Value Pack](https://www.mobygames.com/game/21655/triple-value-pack/) – 1987 DOS compilation of Space Quest: Chapter I, King's Quest II and Mixed-Up Mother Goose
+[^ref-38]: [MobyGames – Space Quest: Collection Series](https://www.mobygames.com/game/2817/space-quest-collection-series/) – 1997 DOS/Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (VGA version)"
+[^ref-39]: [MobyGames – Space Quest Collection](https://www.mobygames.com/game/25916/space-quest-collection/) – 2006 Windows compilation; lists "Space Quest: Chapter I - The Sarien Encounter (EGA version)"
+[^ref-40]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/) – developer and publisher Guys from Andromeda; Early Access Release Date Apr 1, 2025; Release Date Dec 23, 2025
 [^ref-41]: [A2Central – Two Guys from Andromeda launch SpaceVenture (Ken Gagne, January 16, 2026, updated October 18, 2026)](https://a2central.com/2026/01/spaceventure/) – May 2012 Kickstarter raised US$539,767; Steam Early Access April 1, 2025; full version released December 23, 2025 on Steam and itch.io
