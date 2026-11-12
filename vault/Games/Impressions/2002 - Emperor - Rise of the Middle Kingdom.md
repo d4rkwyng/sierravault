@@ -10,7 +10,7 @@ series: City Building Series
 engine: 2D-sprite game engine
 protagonist: Player as Emperor/City Administrator
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Jeff van Dyck]
 description: 'Emperor: Rise of the Middle Kingdom is a city-building strategy game
   set in ancient China, developed by BreakAway Games in collaboration with Impressions
@@ -19,13 +19,13 @@ tags: [2000s, city-building-series, sierra, strategy]
 ---
 # Emperor: Rise of the Middle Kingdom
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Emperor: Rise of the Middle Kingdom is a city-building strategy game developed by BreakAway Games in collaboration with [[Impressions Games]] and published by [[Sierra On-Line|Sierra Entertainment]] in September 2002[^ref-1]. The sixth entry in Sierra's acclaimed City Building Series, Emperor transported players to ancient China, spanning 3,000 years of Chinese history[^ref-18], from the Xia Dynasty (c. 2100 BCE) up to the invasion of northern China by Genghis Khan (c. 1211 CE)[^ref-17]. The game represented both a culmination of the series' established mechanics and a thematic departure, being the first title to move outside of European and Northern African settings[^ref-2].
 
-The game challenges players to construct and manage Chinese cities through seven imperial dynasties[^ref-18], balancing economic development, monument construction, military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, one GOG.com reviewer calls Emperor "the pinnacle of the series"[^ref-4].
+The game challenges players to construct and manage Chinese cities through seven imperial dynasties[^ref-18], balancing economic development, monument construction[^ref-2], military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, one GOG.com reviewer calls Emperor "the pinnacle of the series"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** BreakAway Games, [[Impressions Games]][^ref-1]
@@ -56,7 +56,7 @@ City information is grouped into 11 ministries: religion, entertainment, commerc
 
 ### Structure and Progression
 
-The game features over 40 scenarios organized into seven dynastic campaigns, each representing a distinct period of Chinese history[^ref-13]:
+The game features over 40 scenarios[^ref-13] organized into seven dynastic campaigns[^ref-18], each representing a distinct period of Chinese history:
 
 - **Xia Dynasty (Tutorial):** Introduction to basic city-building mechanics in prehistoric China, cultivating millet and establishing fundamental infrastructure[^ref-11]
 - **Shang Dynasty**
@@ -100,6 +100,8 @@ The game's re-release on GOG.com in February 2017 introduced it to new audiences
 - **Metacritic:** 77/100 (based on 15 critic reviews)[^ref-19]
 - **GOG.com:** 4.7/5 (324 user reviews)[^ref-4]
 - **HowLongToBeat:** 79% recommendation[^ref-26]
+- **Metacritic users:** 7.8/10 (39 ratings)[^ref-19]
+- **jeuxvideo.com:** 15/20 (Romendil, 16 December 2002)[^ref-42]
 - **IMDb:** 7.2/10 (21 ratings)[^ref-27]
 
 ## Development
@@ -114,7 +116,7 @@ BreakAway Games was contracted to develop Emperor after having previously worked
 
 The development built upon the Zeus: Master of Olympus game engine, retaining the 2D-sprite graphics that had defined the series while implementing China-specific features[^ref-5]. Buildings were designed 25% larger than in previous games, providing more visual detail[^ref-15]. The team created nearly 80 distinct structures including various farm types for different crops and climatic regions[^ref-21].
 
-The addition of multiplayer represented a significant technical undertaking, supporting up to eight players online via Sierra's gaming system, direct IP connection, or LAN[^ref-15]. Multiplayer games were designed to take approximately 90 minutes[^ref-18], with both competitive and cooperative modes available[^ref-28]. The development team also created a Campaign Creator tool, allowing players to design custom missions and share them with the community[^ref-29].
+The addition of multiplayer represented a significant technical undertaking, supporting up to eight players online via Sierra's gaming system, direct IP connection, or LAN[^ref-15]. The official WON online service has since been shut down[^ref-30], and the GOG release supports multiplayer over LAN or direct connection only[^ref-4]. Multiplayer games were designed to take approximately 90 minutes[^ref-18], with both competitive and cooperative modes available[^ref-28]. The development team also created a Campaign Creator tool, allowing players to design custom missions and share them with the community[^ref-29].
 
 **Development Credits:**[^ref-1]
 - **Game Design:** Charles Kibler, Ben Knight, Melissa Sawicki, Ed Beach[^ref-41]
@@ -125,7 +127,7 @@ The addition of multiplayer represented a significant technical undertaking, sup
 
 Emperor was the last game in the series to use the same 2D-sprite engine as the earlier titles[^ref-1]. Rather than pursuing 3D graphics, which would later be implemented in Caesar IV, the team focused on maximizing the visual appeal of the isometric perspective. As GameWatcher noted, "The '3D acceleration makes a great game' rule just simply doesn't apply here. Emperor's graphics are vivid, colorful and eye catching"[^ref-15].
 
-The game's support for multiple food types and quality levels added complexity to the economic simulation[^ref-12]. Jeff van Dyck composed the soundtrack[^ref-36], which GameWatcher called "absolutely great", saying it "puts you just right in ancient China"[^ref-15].
+The game's support for multiple food types and quality levels added complexity to the economic simulation[^ref-12]. Jeff van Dyck composed the soundtrack, which was released as a 23-track remastered album on Bandcamp on February 8, 2021[^ref-36]. GameWatcher called it "absolutely great", saying it "puts you just right in ancient China"[^ref-15].
 
 ### Technical Specifications
 
@@ -143,10 +145,6 @@ The game's support for multiple food types and quality levels added complexity t
 - 4:3 aspect ratio only (widescreen requires community patches)[^ref-37]
 
 **Framerate:** 20 FPS cap[^ref-30]
-
-### Cut Content
-
-No significant cut content has been documented in the available research materials. The game shipped with all seven planned dynasty campaigns and the full complement of buildings and features outlined during development.
 
 ### Version History
 
@@ -199,7 +197,7 @@ The game features voiced narration and ambient character dialogue. Specific voic
 
 ### Sales and Commercial Impact
 
-While specific sales figures were not documented in the available research, Emperor represented the culmination of Sierra's City Building Series before the transition to 3D with Caesar IV. The game's continued availability on GOG.com and active modding community demonstrate its lasting commercial appeal. As PC Gamer noted, "Like its predecessors, it'll ensure a profit margin for Sierra on very little investment"[^ref-21].
+Emperor was the last of Sierra's City Building Series games to use the 2D-sprite engine before the transition to 3D with Caesar IV[^ref-1]. As PC Gamer noted, "Like its predecessors, it'll ensure a profit margin for Sierra on very little investment"[^ref-21].
 
 ### Collections
 
@@ -294,9 +292,10 @@ The game also holds significance as the last entry in the series to use the 2D-s
 [^ref-33]: [GameFAQs Cheats](https://gamefaqs.gamespot.com/pc/553878-emperor-rise-of-the-middle-kingdom/cheats) – cheat codes list
 [^ref-34]: [Sierra Chest Archive](https://sierrachest.com/index.php?a=games&id=88&title=emperor&fld=box) – packaging variants, included materials
 [^ref-35]: [ModDB – EmperorLimitPatch](https://www.moddb.com/mods/emperorlimitpatch) – building limit removal mod
-[^ref-36]: [Jeff van Dyck Bandcamp](https://jeffvandyck.bandcamp.com/album/emperor-rise-of-the-middle-kingdom) – soundtrack release, track listing
+[^ref-36]: [Jeff van Dyck Bandcamp](https://jeffvandyck.bandcamp.com/album/emperor-rise-of-the-middle-kingdom) – soundtrack release (23 tracks, remastered, February 8, 2021), track listing
 [^ref-37]: GamePressure – Widescreen Patch, gamepressure.com (link removed: the page's patch sidebar promotes 18+ uncensor patches) – mod information, native resolution limitations
 [^ref-38]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Lords of the Realm III as final game (March 2004), studio closure April 2004
 [^ref-39]: [Computer Gaming World #220 (November 2002), pp. 126–127 – Emperor review by Tom Chick](https://archive.org/details/Computer_Gaming_World_Issue_220) – review verdict; requirements box (Pentium II 400, 64MB RAM, 900MB hard drive space; recommended Pentium III 800, 128MB RAM), checked against the p.126 page image
 [^ref-40]: [Emperor Heaven – Patches](https://emperor.heavengames.com/downloads/lister.php?category=patches) – patch 1.0.1.0 dated August 6, 2003
 [^ref-41]: [MobyGames – Emperor: Rise of the Middle Kingdom credits](https://www.mobygames.com/game/6729/emperor-rise-of-the-middle-kingdom/credits/) – Game Design: Charles Kibler, Ben Knight, Melissa Sawicki, Ed Beach; Design Lead (Impressions Games/Sierra): Tony Leier
+[^ref-42]: [jeuxvideo.com – Test Empereur : L'Empire Du Milieu](https://www.jeuxvideo.com/articles/0000/00002740_test.htm) – Romendil, 16 December 2002; editorial score 15/20 (graphics 15, gameplay 16, lifespan 16, sound 15); seven solo campaigns
