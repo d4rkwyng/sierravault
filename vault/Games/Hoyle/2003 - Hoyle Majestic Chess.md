@@ -12,7 +12,7 @@ series: Hoyle
 engine: WChess 2000
 protagonist: The King
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Clockwork Productions]
 description: Hoyle Majestic Chess is a chess video game developed by Fluent Entertainment,
   Inc. and published by Sierra Entertainment in North America in 2003. Its Chess
@@ -21,7 +21,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Majestic Chess
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -115,11 +115,18 @@ MobyGames credits Sidhe Interactive with additional software design and addition
 **Development Credits:**[^ref-1][^ref-13][^ref-32]
 - **Director:** Don Laabs (MobyGames: Managing Director, Donald W. Laabs)
 - **Producer:** Stanley Biesiadecki
+- **Associate Producer:** John Merlino[^ref-6][^ref-32]
+- **Production Assistant:** Greg Laabs
+- **Director of Development:** James Stoddard
+- **Art Director:** Duncan Pond
+- **Artists:** Jon Gerhard, Danny Lee, Shawn McCulley, Jan Sleeper
 - **Story Writer:** Chris Warden
 - **Technical Writer:** Eileen Foran
+- **Editor:** Emma Fox
+- **Quality Assurance:** William Emery, Alan Feingold, Blair Reynolds, Daniel Roberts
 - **Software Designers:** Donald W. Laabs, David L. Bringhurst, Dave Farquharson, David K. Goodman, Tim Logan, Sivakumar Veerappan
 - **Chess Consultants:** James Eade, Nick DeFirmian, Larry Evans
-- **Additional Software Design and Art:** Sidhe Interactive
+- **Additional Software Design and Art:** Sidhe Interactive (Team Lead: Tyrone McAuley; Art Lead: John Sheils)
 - **Online Design (Sidhe Interactive):** Bill Forster, Ewen McNeill
 - **Online Programming (Sidhe Interactive):** Bill Forster, Nicolas Croad, Ewen McNeill, Lloyd Weehuizen
 - **Chess Engine:** David Kittinger (WChess 2000)
@@ -165,7 +172,7 @@ The game features an original musical score produced by Clockwork Productions, w
 
 ### Cut Content
 
-An Xbox version of Hoyle Majestic Chess was announced in April 2003 and appeared on Metacritic's listing for the platform.[^ref-3] However, this console port was ultimately canceled;[^ref-2] GameFAQs lists the Xbox entry (Fluent, VU Games) with the release status "Canceled."[^ref-34]
+An Xbox version of Hoyle Majestic Chess was announced in April 2003[^ref-2] and appeared on Metacritic's listing for the platform.[^ref-3] However, this console port was ultimately canceled;[^ref-2] GameFAQs lists the Xbox entry (Fluent, VU Games) with the release status "Canceled."[^ref-34]
 
 ### Version History
 
@@ -213,7 +220,7 @@ A Metacritic user review of Pixel Wizards' Chessaria: The Tactical Adventure (20
 
 ### Critical Perspective
 
-Contemporary critics framed the game as a teaching tool rather than a serious analysis program: GameSpot noted it had no database functions and was "clearly not targeted at serious players,"[^ref-23] and Computer Gaming World judged it better as competition for casual amateurs than as a tutor for true novices.[^ref-26] Players still seek it out; one MyAbandonware commenter wrote that "there simply isn't anything else like it, even today,"[^ref-5].
+Contemporary critics framed the game as a teaching tool rather than a serious analysis program: GameSpot noted it had no database functions and was "clearly not targeted at serious players,"[^ref-23] and Computer Gaming World judged it better as competition for casual amateurs than as a tutor for true novices.[^ref-26] Players still seek it out; one MyAbandonware commenter wrote that "there simply isn't anything else like it, even today."[^ref-5]
 
 ## Purchase
 
@@ -289,8 +296,6 @@ Contemporary critics framed the game as a teaching tool rather than a serious an
 - [[2010 - Hoyle Swashbucklin Slots]]
 - [[2015 - Hoyle Official Card Games Collection]]
 - [[2016 - Hoyle Casino Games Collection]]
-
-- **Series:** Hoyle Games (Sierra Entertainment)
 
 ## References
 
