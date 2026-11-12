@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Charles Callet]
 description: 'Playtoons 2: The Case of the Counterfeit Collaborator is an interactive
   storybook and creativity game developed by Coktel Vision and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 2: The Case of the Counterfeit Collaborator
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,7 @@ As with the rest of the series, if several Playtoons games are installed on the 
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
-> **Designer:** No "designer" credit; Valérie Courtial (project lead), Jeff Rey (art director)[^ref-8]
+> **Designer:** Valérie Courtial (Project Lead), Jeff Rey (Art Director)[^ref-8]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Gob engine[^ref-5]
 > **Platforms:** Windows 3.1, Windows 95, Macintosh[^ref-7]
@@ -72,7 +72,7 @@ Wikipedia describes the series as focused on teaching children school topics in 
 
 ### Contemporary Reviews
 
-MobyGames records one critic review. It is from the German magazine *Fun Online* (January 1996), which MobyGames normalises to 83%[^ref-24]. The magazine reviewed Playtoons 2 and 3 together. Their shared rating box gives words, not a number: graphics and sound "super gut", fun factor "sehr gut"[^ref-28]. The review notes that every character, room and object from the story is available in the comic construction kit[^ref-24].
+MobyGames records one critic review. It is from the German magazine *Fun Online* (January 1996), which MobyGames normalises to 83%[^ref-24]. The magazine reviewed Playtoons 2 and 3 together on pages 56-57. A "So funktioniert Playtoons" box on page 57 gives words, not a number: "Grafik: super gut", "Sound: super gut", "Fun-Faktor: sehr gut", and "Alter: ab 8"[^ref-28]. The review notes that every character, room and object from the story is available in the comic construction kit ("Sämtliche Figuren, Räume und Gegenstände aus der Story stehen euch zur Verfügung")[^ref-28].
 
 **Aggregate Scores:**
 - **MobyGames:** 83%, based on one review (*Fun Online*)[^ref-24]
@@ -112,9 +112,14 @@ Sierra Chest notes that Playtoons 3: The Secret of the Castle was the first Play
 - **File Size:** About 438.7 MB (418.4 MiB; French disc image)[^ref-7]
 - **Platforms:** Windows 3.1, Windows 95, Macintosh
 
-**System Requirements:**
-- Windows 16-bit compatible system[^ref-1]
-- CD-ROM drive required
+**System Requirements:**[^ref-29]
+- **Windows 16-bit:** Windows 3.1, Intel i486 SX, 4 MB RAM, 2x CD-ROM drive (300 KB/s), 256 colours, 640×480, mouse; requires 2 MB of free hard disk space
+- **Macintosh:** System 7.1, Motorola 68040, 4 MB RAM, 2x CD-ROM drive (300 KB/s), mouse; fat binary; requires 1 MB of free hard disk space
+
+**Age Ratings:**
+- **USK (Germany):** 0 (ohne Altersbeschränkung) on both Windows 16-bit and Macintosh[^ref-29]
+- **Sierra catalogue:** the Sierra 1996-1997 Edutainment Catalogue lists the game on page 17 under "Spirou" with an age band of "4-10 years" and describes it as containing "The Case of the Counterfeit Collaborator" plus "the cartoon creation game with over 80 elements including Spirou and Fantasio"[^ref-30]
+- **Fun Online (Germany):** "Alter: ab 8"[^ref-28]
 
 ### Version History
 
@@ -125,6 +130,8 @@ MobyGames lists these releases (no version numbers given)[^ref-13]:
 | 1995 | Windows 16-bit, Macintosh | France | Coktel Vision |
 | 1995 | Windows 16-bit, Macintosh | Germany | Sierra Coktel Deutschland GmbH; also Sierra On-Line, distributed by Sierra Coktel Deutschland |
 | 1996 | Windows 16-bit, Macintosh | United States | Sierra On-Line |
+
+**Release year:** MobyGames, Sierra Chest and GameFAQs date the game to 1995[^ref-1][^ref-22][^ref-18]. The Internet Archive item for the French disc image is dated 1994[^ref-7], and the French Wikipedia's Spirou navigation box lists "Micmac à Champignac (jeu vidéo, 1994)"[^ref-23].
 
 ScummVM's detection table lists Windows builds in English, French, German and Italian. The English, French and German entries include builds marked "v1.002"; the Italian entry has no version string[^ref-25].
 
@@ -169,7 +176,7 @@ The Internet Archive hosts a disc image of the French release[^ref-7]. ScummVM c
 
 ### Critical Perspective
 
-The one contemporary review on record, from *Fun Online*, focused on the construction kit, noting that players get the full fun of making their own comics alongside the story[^ref-24].
+The one contemporary review on record, from *Fun Online*, focused on the construction kit, noting that players get the full fun of making their own comics alongside the story ("den vollen Spaß am Selbermachen")[^ref-28].
 
 ## Purchase
 
@@ -188,15 +195,9 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 
 ## See Also
 
-- [[1994 - Playtoons 1 - Uncle Archibald|← Previous: Playtoons 1 - Uncle Archibald]]
-- [[1995 - Playtoons 3 - The Secret of the Castle|→ Next: Playtoons 3 - The Secret of the Castle]]
-
-- [[1995 - Playtoons 4 - The Mandarine Prince]]
-
-- Playtoons 1: Uncle Archibald (1994)[^ref-15]
-- Playtoons 2: The Case of the Counterfeit Collaborator (1995)[^ref-1]
-- Playtoons 3: The Secret of the Castle (1995)[^ref-16][^ref-19]
-- Playtoons 4: The Mandarine Prince (1995)[^ref-17]
+- [[1994 - Playtoons 1 - Uncle Archibald|← Previous: Playtoons 1: Uncle Archibald]] (1994)[^ref-15]
+- [[1995 - Playtoons 3 - The Secret of the Castle|→ Next: Playtoons 3: The Secret of the Castle]] (1995)[^ref-16][^ref-19]
+- [[1995 - Playtoons 4 - The Mandarine Prince|Playtoons 4: The Mandarine Prince]] (1995)[^ref-17]
 - [[1995 - Playtoons 5 - The Stone of Wakan|Playtoons 5: The Stone of Wakan]] (1995)[^ref-3]
 
 ## References
@@ -206,7 +207,7 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 [^ref-3]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, page-jump structure, series list
 [^ref-4]: [MobyGames – Playtoons 1 Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – cross-title integration, series description, construction kit details
 [^ref-5]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, box editions
-[^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM note, preservation
+[^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM note, preservation; item date 1994
 [^ref-8]: [MobyGames – Playtoons 2 credits](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/credits/win3x/) – Windows 16-bit credits: project lead, art director, Dupuis licence line, music, voices
 [^ref-11]: [SierraChest – Playtoons 3](https://sierrachest.com/index.php?a=games&id=326&fld=general) – construction kit integration, Monsters add-on (Uncle Archibald), scene creation limits
 [^ref-12]: [Avid Wiki – Coktel Studio](https://www.avid.wiki/Coktel_Studio) – developer history
@@ -218,9 +219,11 @@ The one contemporary review on record, from *Fun Online*, focused on the constru
 [^ref-19]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – Playtoons 3 developer and publisher
 [^ref-20]: [MobyGames – Coktel Vision Company Page](https://www.mobygames.com/company/1127/coktel-vision/) – Sierra acquisition (MobyGames gives 1992; the body uses the 10-K's October 29, 1993), US publishing, later educational-only focus
 [^ref-22]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
-[^ref-23]: [Wikipédia (FR) – Spirou (série télévisée d'animation)](https://fr.wikipedia.org/wiki/Spirou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation)) – "Micmac à Champignac" listed in the first season (1993)
+[^ref-23]: [Wikipédia (FR) – Spirou (série télévisée d'animation)](https://fr.wikipedia.org/wiki/Spirou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation)) – "Micmac à Champignac" listed in the first season (1993); navigation box lists the video game as 1994
 [^ref-24]: [MobyGames – Playtoons 2 Reviews](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/reviews/) – single critic review: Fun Online (Germany), January 1996, normalised 83%
 [^ref-25]: [ScummVM source – engines/gob/detection/tables_playtoons.h](https://github.com/scummvm/scummvm/blob/master/engines/gob/detection/tables_playtoons.h) – "playtoons2" detection entries: EN/FR/DE/IT Windows builds, "v1.002"
 [^ref-26]: [ScummVM – Compatibility](https://www.scummvm.org/compatibility/) – official supported-games list (Playtoons 2 absent)
 [^ref-27]: [Sierra On-Line Form 10-K, fiscal year ended March 31, 1996 (SEC EDGAR, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
-[^ref-28]: [Fun Online, January 1996, pp. 56–57 (Internet Archive scan)](https://archive.org/details/fun-online-1996-01) – joint German-language review of Playtoons 2 and 3; rating box is verbal (graphics/sound "super gut", fun "sehr gut")
+[^ref-28]: [Fun Online, January 1996, pp. 56–57 (Internet Archive scan)](https://archive.org/details/fun-online-1996-01/page/n55) – joint German-language review of Playtoons 2 and 3; "So funktioniert Playtoons" box on p. 57: Grafik "super gut", Sound "super gut", Fun-Faktor "sehr gut", Alter "ab 8"
+[^ref-29]: [MobyGames – Playtoons 2 Specs](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/specs/) – Windows 16-bit and Macintosh system requirements, free disk space, USK rating (also read via the MobyGames API)
+[^ref-30]: [The Sierra Chest – Sierra 1996-1997 Edutainment Catalogue](https://www.sierrachest.com/index.php?a=publications&id=341) – page 17, "Playtoons 2 & 4: Spirou": age band 4-10 years, "over 80 elements including Spirou and Fantasio"
