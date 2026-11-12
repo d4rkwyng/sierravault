@@ -10,12 +10,14 @@ series: "Standalone"
 engine: "Unknown"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
+description: "Carcassonne is a 2007 Xbox Live Arcade adaptation of Klaus-Jürgen Wrede's tile-laying board game, developed by Sierra Online Seattle and published by Sierra Online, with The River expansion included."
+tags: [2000s, board-game, xbla, xbox-360, sierra-online]
 ---
 
 # Carcassonne
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -79,6 +81,22 @@ GameSpot's Alex Navarro gave it 7.5, calling it "a simple, yet effective transla
 
 Carcassonne was developed by Sierra Online Seattle, a studio in Issaquah, Washington, formerly known as Secret Lair Studios. Vivendi Games bought the studio on September 28, 2006, together with Studio Ch'in in Shanghai.[^ref-25][^ref-26] At the time of the purchase, Sierra Online already had Carcassonne in development for Xbox Live Arcade, alongside Assault Heroes.[^ref-26] MobyGames credits Sierra Online – Shanghai with additional development and graphics, SomaTone Interactive Audio with music, and VMC Game Labs with testing.[^ref-6]
 
+### Development Credits
+
+MobyGames' Xbox 360 credits list Klaus-Jürgen Wrede for the Carcassonne board game design. The Sierra Online Seattle team included:[^ref-36]
+
+- **Producer:** Becca Yucha
+- **Lead Designer:** Isaac Barry
+- **Lead Engineer:** Paul Burslem
+- **Lead Artist:** Jeff Selbig
+- **Lead UI Artist:** Pamela Ansman-Wolfe
+- **Engineers:** John Lykins, John Cuyle
+- **Designers:** David Kimber, Scott Hungerford
+- **Creative Director:** Jay Minn
+- **Studio Manager:** Jason Robar
+
+Sierra Online Shanghai provided production support (Lu Renji), art, engineering and QA, with Le Libin (Larry) as lead artist. Sierra Online's president was Ed Zobrist. Music and sound design were produced by SomaTone Interactive Audio, and additional testing came from VMC Game Labs.[^ref-36]
+
 ### Production
 
 Sierra Online game designer Isaac Barry described the guiding principle at a May 2007 preview: "Because of the fact that there are so many loyal Carcassonne fans, the first and foremost ethic behind the design is that we don't change anything."[^ref-16] The cel-shaded visuals were meant to resemble the board game's hand-drawn pieces.[^ref-16]
@@ -105,6 +123,8 @@ Major Nelson's marketplace listings noted that both paid packs were not availabl
 ## Legacy
 
 Carcassonne was one of several Xbox Live Arcade titles from Sierra Online, which positioned itself as "a key publisher of Xbox Live Arcade titles" after the 2006 studio acquisitions.[^ref-26][^ref-25] Its other XBLA projects included Assault Heroes, and an investor presentation also listed Ultra Mini Golf, The Incredible Machine and a Battlestar Galactica title.[^ref-25]
+
+Microsoft gave Carcassonne away free to Xbox Live members for 48 hours from November 15, 2007, to mark the service's fifth anniversary; Korean members received Hexic 2 instead.[^ref-37][^ref-38]
 
 On February 29, 2016, Carcassonne joined the Xbox One backward compatibility program.[^ref-31][^ref-14]
 
@@ -163,3 +183,6 @@ Carcassonne (June 2007) came before the two other Sierra Online Xbox Live Arcade
 [^ref-33]: [Carcassonne (2009, Nintendo DS) - MobyGames](https://www.mobygames.com/game/45320/carcassonne/) - Nintendo DS release 2009-10-23 (read via the MobyGames API)
 [^ref-34]: [Carcassonne (2010, iPhone) - MobyGames](https://www.mobygames.com/game/51466/carcassonne/) - iPhone release 2010-06-04 (read via the MobyGames API)
 [^ref-35]: [Carcassonne (2011, Android) - MobyGames](https://www.mobygames.com/game/66508/carcassonne/) - Android release 2011-07-06 (read via the MobyGames API)
+[^ref-36]: [Carcassonne (2007, Xbox 360) credits - MobyGames](https://www.mobygames.com/game/29452/carcassonne/credits/xbox360/) - Credits list: Producer Becca Yucha, Lead Designer Isaac Barry, Lead Engineer Paul Burslem; Wrede for board game design
+[^ref-37]: [MS confirms downloadable Xbox games, free Carcassonne for Live anniversary - Engadget](https://www.engadget.com/2007-11-13-ms-confirms-downloadable-xbox-games-free-carcassonne-for-live-a.html) - James Ransom-Wiley, November 13, 2007; free to all subscribers for 48 hours from Nov. 15 for the fifth anniversary
+[^ref-38]: [Microsoft giving away free XBLA game, points - WorthPlaying](https://worthplaying.com/article/2007/11/13/news/46709-microsoft-giving-away-free-xbla-game-points-and-confirms-xbox-downloads/) - Rainier, November 13, 2007; Carcassonne free worldwide, Hexic 2 in Korea; fifth anniversary of Xbox Live on Nov. 15
