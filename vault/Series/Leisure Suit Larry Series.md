@@ -7,12 +7,12 @@ first_release: 1987
 last_release: 2020
 total_games: 14
 genre: "Adventure, Comedy"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # Leisure Suit Larry Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -124,7 +124,7 @@ Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 
 
 > [!tip] Buying Notes
 > - **LSL1** - The GOG bundle includes both the 1987 original and the 1991 VGA remake, plus LSL2, 3, 5 and both versions of LSL6[^ref-26]
-> - **Steam** - LSL1–7 and Magna Cum Laude were delisted in May 2025;[^ref-10] Reloaded had already left Steam on November 24, 2017.[^ref-34] Both Wet Dreams games were removed from Steam and GOG on October 23, 2026.[^ref-12][^ref-33] The GOG versions of the classic games remained on sale after the 2025 delisting.[^ref-12]
+> - **Steam** - LSL1–7 and Magna Cum Laude were announced on April 30, 2025 as leaving the Steam store (existing owners keep them in their libraries);[^ref-44][^ref-10] Reloaded had already left Steam on November 24, 2017.[^ref-34] Both Wet Dreams games were removed from Steam and GOG on October 23, 2026.[^ref-12][^ref-33] The GOG versions of the classic games remained on sale after the 2025 Steam delisting.[^ref-12]
 
 ### Compatibility
 - **[ScummVM](https://www.scummvm.org/)** - Supports LSL1 (both the AGI original and the SCI remake), 2, 3, 5, 6 (both versions) and 7[^ref-27]
@@ -202,3 +202,4 @@ Larry's nephew, introduced in Magna Cum Laude (2004), the first entry with full 
 [^ref-41]: [Adventure Classic Gaming – Al Lowe Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/199/) – "In its first month, it sold 4,000 copies—the worst sales of any game in Sierra history"
 [^ref-42]: [Al Lowe – Is MCL Larry 8?](https://allowe.com/games/larry/history-of-larry/is-mcl-larry-8.html) – Cancelled "at the end of 1998" during contract negotiations for Lust in Space
 [^ref-43]: [Internet Archive – Design Document: Leisure Suit Larry's Casino (Al Lowe, 1997)](https://archive.org/details/LarrysCasinoDesign) – Creator listed as Al Lowe; mirrored from allowe.com
+[^ref-44]: [Steam News – Time for Larry to Retire (Just a Little Bit) (April 30, 2025)](https://store.steampowered.com/news/app/763970/view/1798454487579791) – Seven classic titles "will soon be leaving the Steam store and will no longer be available for purchase"; owners keep them in their libraries; read via the Steam News API
