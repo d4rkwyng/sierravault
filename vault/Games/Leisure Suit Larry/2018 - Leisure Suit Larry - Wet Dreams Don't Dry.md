@@ -8,6 +8,7 @@ genre: Adventure
 platforms: [PC, Mac, PlayStation 4, Nintendo Switch, iOS, Xbox One]
 series: Leisure Suit Larry
 engine: Unity
+composer: [Johannes Semm, Kai Rosenkranz]
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
 last_updated: '2026-11-12'
@@ -35,13 +36,14 @@ The game received mixed reviews, with Metacritic scores of 72 for the PC version
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Post-Sierra
 > **Engine:** Unity
+> **Composer:** Johannes Semm, Kai Rosenkranz[^ref-8]
 > **Protagonist:** Larry Laffer
 
 ## Story Summary
 
-The narrative begins with Larry Laffer awakening in the 21st century after being held in an underground laboratory since the 1980s[^ref-6]. Finding himself in the modern world of New Lost Wages, Larry discovers that "many of the people I knew are dead... everything has changed... I don't know this world"[^ref-3]. The central plot revolves around Larry's quest to win the affections of Faith, the assistant to Prune boss Bill "BJ" Jobs, who "only dates men with a perfect score on the dating app Timber"[^ref-1].
+The narrative begins with Larry Laffer awakening in the 21st century after being held in an underground laboratory since the 1980s[^ref-6]. Finding himself in the modern world of New Lost Wages, Larry discovers that "many of the people I knew are dead... everything has changed... I don't know this world"[^ref-3]. The central plot revolves around Larry's quest to win the affections of Faith, the assistant to Prune boss Bill "BJ" Jobs, who will only date men with a perfect score on the dating app Timber[^ref-1].
 
-To achieve his romantic goals, Larry must navigate the complexities of modern dating culture, including mastering the Timber app (a parody of Tinder)[^ref-3][^ref-9]. The game's structure follows Larry as he attempts various schemes to improve his dating profile score, leading him through encounters with numerous characters across New Lost Wages[^ref-10]. The story culminates in Larry discovering that Faith has been using a male figurehead named BJ to run her tech company, as "the business would not have thrived if it was known a woman was behind everything"[^ref-1].
+To achieve his romantic goals, Larry must navigate the complexities of modern dating culture, including mastering the Timber app (a parody of Tinder)[^ref-3][^ref-9]. The game's structure follows Larry as he attempts various schemes to improve his dating profile score, leading him through encounters with numerous characters across New Lost Wages[^ref-10]. The story culminates in Larry discovering that Faith is the true genius behind Prune and hired BJ as its male figurehead, reasoning that the business would not have thrived had it been known that a woman was behind everything[^ref-1].
 
 ## Gameplay
 
@@ -94,9 +96,9 @@ Notably absent from development was series creator Al Lowe[^ref-9], who "only fo
 
 The game was developed using Unity engine (specifically build 2017.4.29f1)[^ref-26] with a team of 61 people credited, in 33 professional roles plus 28 thanks[^ref-8].
 
-Special Thanks in the credits include Al Lowe and [[Chuck Benton]], the author of *Softporn Adventure*[^ref-8].
+Special Thanks in the credits include Al Lowe and [[Chuck Benton]][^ref-8], who originally wrote *Softporn Adventure*, the text adventure that inspired the Leisure Suit Larry series[^ref-65].
 
-Jan Rabson, who had voiced Larry Laffer since Leisure Suit Larry 6 in 1993, played Larry in this game[^ref-63]. According to user-contributed IMDb trivia, the role was recast at the last minute with Rabson after fan backlash to the Larry voice heard in the first trailer, and the other voice actor had already recorded around 25% of Larry's dialogue[^ref-7]. The soundtrack was composed by Johannes Semm and Kai Rosenkranz[^ref-28] and was sold separately as DLC on Steam; like the game, the soundtrack's Steam page now says it is "no longer available on the Steam store"[^ref-58].
+Jan Rabson, who had voiced Larry Laffer since Leisure Suit Larry 6 in 1993, played Larry in this game[^ref-63]. According to user-contributed IMDb trivia, the role was recast at the last minute with Rabson after fan backlash to the Larry voice heard in the first trailer, and the other voice actor had already recorded around 25% of Larry's dialogue[^ref-7]. The soundtrack was composed by Johannes Semm and Kai Rosenkranz[^ref-28] (IMDb spells the first name "Johannes Senn"[^ref-64]) and was sold separately as DLC on Steam; like the game, the soundtrack's Steam page now says it is "no longer available on the Steam store"[^ref-58].
 
 ### Voice Cast
 
@@ -118,7 +120,7 @@ Jan Rabson, who had voiced Larry Laffer since Leisure Suit Larry 6 in 1993, play
 | Elena Saurel | Diana |
 | Martin T. Sherman | Kyle / Tuck / Atticus |
 
-Cast as listed by IMDb[^ref-64]. IMDb also lists a German-language cast, with Philipp Moog as Larry Laffer[^ref-64]. IMDb credits Malte Schmidt as director and Falko Löffler, Stefan Marcinek and Maurice Alain Hagelstein as writers[^ref-64].
+Cast as listed by IMDb[^ref-64]. IMDb also lists a German-language cast, with Philipp Moog as Larry Laffer[^ref-64]. MobyGames lists Malte Schmidt for creative direction, Falko Löffler for writing, Stefan Marcinek for the original story idea, and Maurice Alain Hagelstein, Malte Schmidt and Heiner Schmidt for additional writing[^ref-8].
 
 ### Technical Achievements
 
@@ -136,6 +138,7 @@ After fan comments that the original ending seemed abrupt[^ref-7], a free "Happy
 | Console | June 13, 2019 | Nintendo Switch, PlayStation 4 | [^ref-1] |
 | Mobile | August 7, 2019 | iOS | [^ref-50] |
 | Happy Ending Update | November 7, 2019 (Steam); November 14, 2019 (GOG.com) | Windows, macOS | v1.2.0.49: new scenes after the previous ending; controller support[^ref-31] |
+| Hotfix v1.2.0.49b | November 14, 2019 (Steam); November 18, 2019 (GOG.com) | Windows, macOS | Fixed a savegame bug that made it impossible to save the game after the Happy Ending update[^ref-31] |
 | Console | September 15, 2020 | Xbox One | [^ref-1] |
 | Retail box | n/a | Windows | Limited edition of 1,000 boxes ("Limitierte Big-Box-Edition"), available in German-speaking (DACH) countries, per PCGamingWiki[^ref-26] |
 
@@ -235,3 +238,4 @@ In October 2026, Assemble announced that both Wet Dreams games would leave the S
 [^ref-62]: [Game*Spark: Leisure Suit Larry series Steam versions to be delisted (May 1, 2025)](https://www.gamespark.jp/article/2025/05/01/152148.html) – Japanese-language report of the 2025 delisting of seven earlier Larry games; Codemasters licence and Phil Salvador's suggestion
 [^ref-63]: [Wikipedia - Jan Rabson](https://en.wikipedia.org/wiki/Jan_Rabson) – Video games table lists Rabson as Larry Laffer from Leisure Suit Larry 6 (1993) through Wet Dreams Don't Dry (2018)
 [^ref-64]: [IMDb Full Cast & Crew](https://www.imdb.com/title/tt9175418/fullcredits/) – English and German voice cast; director and writers
+[^ref-65]: [MobyGames – Softporn Adventure](https://www.mobygames.com/game/9303/softporn-adventure/) – Description: "originally written by Chuck Benton for Apple II and became the inspiration for the animated Leisure Suit Larry series"
