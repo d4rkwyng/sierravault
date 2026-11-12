@@ -11,7 +11,7 @@ engine: 3Space
 composer: [Alan McKean, Chris Stevens, Mark Riley]
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'A-10 Tank Killer v1.5 is the 1991 update of Dynamix''s combat flight simulation
   of the A-10 Thunderbolt II "Warthog", adding Gulf War missions and improved graphics
   and sounds.'
@@ -19,7 +19,7 @@ tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 ---
 # A-10 Tank Killer v1.5
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -96,7 +96,15 @@ A-10 Tank Killer was developed by Dynamix, originally named Software Entertainme
 
 ### Production
 
-The development team included Lincoln Hutton, David McClurg, Mark Brenneman, Cyrus Kanga, Kobi Miller, Damon Slye, Alan McKean, Bryce Morcello, Piotr Lukaszuk, Jerry Luttrell, Randy Dersham, Christopher Reese, and Nels Bruckner[^ref-4]. MobyGames' credits spell the sound designer's name "Bryce Morsello"[^ref-19]. Alan McKean also composed the game's music[^ref-3]. Lemon Amiga's credits for the Amiga version 1.5 list Lloyd Madden as producer; Christopher Reese, David McClurg, Lincoln Hutton, Nels Bruckner, Peter Heinrich, Randy Thompson, Rhett Anderson and Stephen Cordon as coders; Cyrus Kanga, Damon Mitchell, Ian Gilliland, Kerrie Abbott, Mark Brenneman, Mark Peasley, Mark Vearrier, Randy Dersham, Rhonda Conley and Ron Clayborn for graphics; and Alan McKean, Chris Stevens and Mark Riley as musicians[^ref-15]. Zzap!'s 1991 review of the original noted that Dynamix used digitized photos of real actors in flight gear and a digitized cockpit from a genuine A-10[^ref-1].
+DOS Days lists the game's authors, without roles, as Lincoln Hutton, David McClurg, Mark Brenneman, Cyrus Kanga, Kobi Miller, Damon Slye, Alan McKean, Bryce Morcello, Piotr Lukaszuk, Jerry Luttrell, [[Randy Dersham]], Christopher Reese and Nels Bruckner[^ref-4]. MobyGames' credits spell the sound designer's name "Bryce Morsello"[^ref-19]. Alan McKean also composed the game's music[^ref-3]. Zzap!'s 1991 review of the original noted that Dynamix used digitized photos of real actors in flight gear and a digitized cockpit from a genuine A-10[^ref-1].
+
+**Development Credits:**
+- **Amiga v1.5 credits (Lemon Amiga):**[^ref-15]
+  - **Producer:** Lloyd Madden
+  - **Coders:** Christopher Reese, David McClurg, Lincoln Hutton, Nels Bruckner, Peter Heinrich, Randy Thompson, Rhett Anderson, Stephen Cordon
+  - **Graphics:** Cyrus Kanga, Damon Mitchell, Ian Gilliland, Kerrie Abbott, Mark Brenneman, Mark Peasley, Mark Vearrier, Randy Dersham, Rhonda Conley, Ron Clayborn (MobyGames credits Randy Dersham as "Director of Image Production"[^ref-19])
+  - **Musicians:** Alan McKean, Chris Stevens, Mark Riley
+- **Authors listed by DOS Days (roles not stated):** Lincoln Hutton, David McClurg, Mark Brenneman, Cyrus Kanga, Kobi Miller, Damon Slye, Alan McKean, Bryce Morcello, Piotr Lukaszuk, Jerry Luttrell, Randy Dersham, Christopher Reese, Nels Bruckner[^ref-4]
 
 ### Technical Achievements
 
