@@ -22,7 +22,7 @@ tags: [1990s, front-page-sports, sierra]
 
 ## Overview
 
-**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed by Dynamix and published by Sierra On-Line[^ref-1][^ref-5] for Windows 95[^ref-8][^ref-26]. GameSpot lists its first release as November 30, 1997[^ref-10], while the Sierra Chest gives December 10, 1997[^ref-6]. The game simulates the four World Cup skiing variants: Slalom, Giant Slalom, Super Giant Slalom and Downhill, focusing on realistic gameplay rather than arcade-style action[^ref-2]. Sierra enlisted world champion skier Picabo Street to help with the game[^ref-13]; she is credited as "The Star" of its video production and appears in video tips throughout[^ref-25][^ref-7].
+**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed by Dynamix and published by Sierra On-Line[^ref-1][^ref-5] for Windows 95, selling for $49.95 in early 1998[^ref-8][^ref-26]. GameSpot lists its first release as November 30, 1997[^ref-10], while the Sierra Chest gives December 10, 1997[^ref-6]. The game simulates the four World Cup skiing variants: Slalom, Giant Slalom, Super Giant Slalom and Downhill, focusing on realistic gameplay rather than arcade-style action[^ref-2]. Sierra enlisted world champion skier Picabo Street to help with the game[^ref-13]; she is credited as "The Star" of its video production and appears in video tips throughout[^ref-25][^ref-7]. MobyGames also lists the game under the German title "DSF Ski" and the French title "Sierra Sports Ski Racing"[^ref-5].
 
 Unlike the snowboarding games popular on console systems at the time, Front Page Sports: Ski Racing was designed as "a racing simulation through and through"[^ref-4]. The game features six courses based on real-world locations: Whistler, Aspen Mountain, Vail, Mt. Bachelor, Val d'Isère and Garmisch[^ref-7]. Players can compete in single races, multiple events at one resort, or an entire season on all six mountains[^ref-3].
 
@@ -72,14 +72,14 @@ The game also includes tricks such as daffies, back-scratchers, helicopters and 
 | GameSpot | 8/10 | "Great" rating, praised graphics and sound[^ref-10] |
 | Gamezilla | 75% | "Graphically one of the best sports sims available" (if it runs on your system)[^ref-7] |
 | PC Player | 62% | German magazine[^ref-1] |
-| PC Joker | 33% | German magazine[^ref-1] |
+| PC Joker | 33% | German magazine[^ref-1][^ref-29] |
 | GameStar | 28% | German magazine; "Kaufen Sie sich lieber einen Skipass"[^ref-1][^ref-27] |
 | Computer Gaming World | 2/5 | "Moderately fun arcade racing game"[^ref-1][^ref-23] |
 | Computer Games Magazine | 2/5 | "Mildly entertaining game"[^ref-1][^ref-13] |
 
 Critical reception was mixed. GameSpot's Tasos Kaiafas called it "the best there's ever been on the PC" but concluded that "though the graphics are impressive and the sound effects are inspiring, FrontPage Sports: Ski Racing falls a split-second short of a gold medal run"[^ref-4]. Gamezilla's reviewers gave it 75, noting that "of all the games I've played recently, this one was the hardest"[^ref-7].
 
-Computer Gaming World's Loyd Case and Computer Games Magazine's Benjamin E. Sones each gave it 2 out of 5[^ref-1]. Case praised the Picabo Street videos and the background graphics but called the controls "terrible, especially in slalom"[^ref-23]. Sones criticised the physics model, the six-trail limit and the hotseat-only multiplayer, calling it "a mildly entertaining game"[^ref-13]. GameStar (28%) and PC Joker (33%) scored it lower still, while PC Player gave 62%[^ref-1][^ref-27].
+Computer Gaming World's Loyd Case and Computer Games Magazine's Benjamin E. Sones each gave it 2 out of 5[^ref-1]. Case praised the Picabo Street videos and the background graphics but called the controls "terrible, especially in slalom"[^ref-23]. Sones criticised the physics model, the six-trail limit and the hotseat-only multiplayer, calling it "a mildly entertaining game"[^ref-13]. GameStar (28%) and PC Joker (33%) scored it lower still, while PC Player gave 62%[^ref-1][^ref-27][^ref-29].
 
 ### Modern Assessment
 
@@ -130,7 +130,7 @@ Gamezilla listed the system requirements as a Pentium 90, 16 MB RAM, 4X CD-ROM d
 
 ## Legacy
 
-According to Wikipedia, the game was later repackaged by publisher Sierra Sports as simply *Ski Racing*[^ref-1]. It was followed by [[1998 - Sierra Sports Skiing 1999 Edition]] (*Skiing, 1999 Edition*)[^ref-1][^ref-24], and its German edition is covered at [[1999 - Front Page Sports - Ski Racing 99]][^ref-24].
+According to Wikipedia, the game was later repackaged by publisher Sierra Sports as simply *Ski Racing*[^ref-1]. It was followed by [[1998 - Sierra Sports Skiing 1999 Edition]] (*Skiing, 1999 Edition*)[^ref-1][^ref-24], and its German edition is covered at [[1999 - Front Page Sports - Ski Racing 99]][^ref-30].
 
 The game filled a niche in PC gaming, as "skiing games are something of a rarity on the PC"[^ref-13]. It is preserved on the Internet Archive[^ref-2] and catalogued in databases such as IGDB[^ref-18].
 
@@ -139,6 +139,9 @@ The game filled a niche in PC gaming, as "skiing games are something of a rarity
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-ski-racing-fyl)
 - [Internet Archive](https://archive.org/details/front-page-sports-ski-racing)
+
+**Manuals & Extras**
+- [Sierra Help Pages – Front Page Sports Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) (Ski Racing update skiup12)
 
 ## See Also
 
@@ -182,3 +185,5 @@ The game filled a niche in PC gaming, as "skiing games are something of a rarity
 [^ref-26]: [MobyGames – Front Page Sports: Ski Racing Specs](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/specs/) – Windows 95 minimum OS, Pentium, 16 MB RAM, 4X CD-ROM, mouse, force feedback
 [^ref-27]: [GameStar, May 1998 (issue 8), p. 102 – DSF Ski Racing review, full text (Internet Archive)](https://archive.org/download/GameStar.N008.1998.05/GameStar.N008.1998.05-gamestar_djvu.txt) – German version reviewed as "DSF Ski Racing"; score 28; "Kaufen Sie sich lieber einen Skipass."
 [^ref-28]: [Sierra Sports – "Mt. Dynamix" patch page (Wayback, 6 Dec 1998)](https://web.archive.org/web/19981206053704/http://www.sierrasports.com/mt-dynamix.html) – "This patch will upgrade registered owners of Ski Racing to version 1.2. This patch includes Mt. Dynamix, 3DFX Rush support, and numerous fixes."
+[^ref-29]: [PC Joker 3/99 (archive.org full text)](https://archive.org/details/PCJoker0399) – review index: "DSF Ski" 5/98 Sport 33%
+[^ref-30]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – 1999 German release (DSF Ski '99: Extreme Edition) (read via the MobyGames API)
