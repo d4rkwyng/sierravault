@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Sir Graham
 sierra_lineage: Fan Project
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: 'King''s Quest I: Quest for the Crown VGA Remake is a free fan-made
   point-and-click remake of Roberta Williams'' 1984 adventure game, released on August
   7, 2001 by Tierra Entertainment (later AGD Interactive) and rebuilt as an Enhanced
@@ -19,7 +19,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest I: Quest for the Crown VGA Remake
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -46,7 +46,7 @@ The Kingdom of Daventry is in decline, and King Edward the Benevolent, who has n
 
 The king summons Sir Graham, his most loyal knight, for this quest[^ref-3]. The king promises that once Graham has collected all three treasures, he will become the new King of Daventry[^ref-13]. Graham accepts and sets off into the land of Daventry to find them[^ref-3].
 
-Throughout his journey, Graham encounters a cast of characters drawn from classic fairy tales, including the three Billy Goats Gruff, a giant atop a beanstalk reminiscent of Jack's adventure, a witch in a gingerbread house, and a mysterious gnome whose name must be guessed—an obvious nod to Rumpelstiltskin[^ref-11]. Many obstacles can be overcome by force or by cleverness, and the cleverer solution usually scores better; as one player review on the AGS database put it, "you'll get a much higher final score if you use more cunning means to achieve your aims"[^ref-19].
+Throughout his journey, Graham meets characters and situations drawn from classic fairy tales; Self Similar's review notes that the game draws on Three Billy Goats Gruff, Jack and the Beanstalk and Rumpelstiltskin, and that knowing those stories helps with certain segments[^ref-11]. A goat can knock a troll off a bridge[^ref-13], a giant holds the Magic Chest in Cloudland at the top of the beanstalk[^ref-38], and a witch lives in a gingerbread house[^ref-38], and a gnome's name must be guessed[^ref-13]. Many obstacles can be overcome by force or by cleverness, and the cleverer solution usually scores better; as one player review on the AGS database put it, "you'll get a much higher final score if you use more cunning means to achieve your aims"[^ref-19].
 
 When Graham returns to Castle Daventry with all three treasures, King Edward dies and Graham inherits the throne, setting the stage for the subsequent King's Quest titles[^ref-44][^ref-13]. The maximum score achievable in the game is 158 points[^ref-13].
 
@@ -70,7 +70,7 @@ The game's open structure means players can discover and collect various helpful
 
 ### Puzzles and Mechanics
 
-Puzzles in King's Quest I draw heavily from fairy tale logic and classic adventure game conventions[^ref-11]. Many solutions require applying knowledge from well-known stories—crossing a bridge requires dealing with a troll (echoing the Three Billy Goats Gruff), while escaping the giant involves tactics similar to Jack and the Beanstalk[^ref-11].
+Puzzles in King's Quest I draw heavily on fairy tale logic[^ref-11]. Self Similar singles out Three Billy Goats Gruff, Jack and the Beanstalk and Rumpelstiltskin as stories worth knowing before playing[^ref-11]. At the troll bridge, the goat can be used to knock the troll off for 4 points[^ref-13], and the same reviewer found the slingshot a more logical way to dispatch the giant than the "more peaceful solutions"[^ref-11].
 
 One infamous puzzle involves guessing a gnome's name. A note found in the witch's house hints that "Sometimes it is wise to think backwards," and the answer the remake accepts is "Ifnkovhgroghprm," worth 9 points; failing three guesses earns a key instead[^ref-13]. Players who guess correctly receive magic beans that grow into the beanstalk to Cloudland[^ref-13][^ref-38]. Version 4.2 RC1 made the name entry no longer case-sensitive[^ref-6].
 
@@ -105,7 +105,7 @@ Home of the Underdogs (user rating 8.23 from 243 votes) praised the remake: "The
 
 The remake began as a practice project by two anonymous developers who would later be known as Anonymous Game Developer #1 and Anonymous Game Developer #2[^ref-24]. Developer #1, a female from the Southwest US living on the West Coast who had previously worked at a European Internet startup, chose the company name "Tierra" because it was "the name of a mythical land that I'd created and written about as a kid. In Spanish, it meant Earth"[^ref-24].
 
-Alongside the remake, the team was developing a parody called "Royal Quest: Retrieving Lost Shit," which MobyGames describes as featuring a "bad-ass" Graham more interested in fighting than solving puzzles[^ref-7][^ref-18]. The two were developed simultaneously; Royal Quest was still in progress after the remake's release and was cancelled in late 2001 because the developers "believed that it did not promote the values and tone they were trying to preserve in remaking the old Sierra classics"[^ref-7][^ref-40]. Developer #2 lived in Melbourne, Australia, and the pair worked together remotely, preferring anonymity as "it goes against our purpose of releasing these games for a cause rather than for recognition"[^ref-24].
+In a 2006 interview with Adventure Classic Gaming, Britney Brimhall said the project began as a King's Quest I parody that the team "assumed we'd be taking a sabbatical for about two weeks" to finish: "It took us nearly 9 months to complete the King's Quest I VGA remake! About halfway into the project, we decided to drop the parody idea altogether and created a one-to-one remake of the first King's Quest game"[^ref-49]. A separate parody, "Royal Quest: Retrieving Lost Shit," which MobyGames describes as featuring a "bad-ass" Graham more interested in fighting than solving puzzles, remained in development after the remake's release[^ref-7][^ref-18]: a developer journal dated August 9, 2001 looks forward to "getting back and working on Royal Quest"[^ref-40]. Royal Quest was cancelled in late 2001 because the developers "believed that it did not promote the values and tone they were trying to preserve in remaking the old Sierra classics"[^ref-7][^ref-40], and Brimhall said the Tierra name, suited to the parody, afterwards seemed "sort of gimmicky" and "relied too much on Sierra's name"[^ref-49]. Developer #2 lived in Melbourne, Australia, and the pair worked together remotely, preferring anonymity as "it goes against our purpose of releasing these games for a cause rather than for recognition"[^ref-24].
 
 The developers aimed to create the VGA point-and-click version that Sierra never made. Erpy's guide notes that, unlike the other games Sierra remade, King's Quest I was never remade in VGA with a point-and-click interface[^ref-4]; Sierra's 1990 remake used 16-color EGA graphics[^ref-2] and still required players to type phrases[^ref-4]. AGDI's stated goal was to "remake King's Quest I: Quest for the Crown to the same level of quality as seen in Sierra's King's Quest V"[^ref-2].
 
@@ -113,7 +113,7 @@ The developers aimed to create the VGA point-and-click version that Sierra never
 
 Development was undertaken entirely by volunteers working without pay, which AGDI describes as "months of unpaid hard work", calling the remake and its future projects "our gift to the fans of the adventure gaming community"[^ref-2]. The initial release was built by just the two founding members, with the broader team expanding over subsequent versions[^ref-25].
 
-The team used the free Adventure Game Studio engine, which proved capable of recreating the Sierra adventure game experience faithfully[^ref-4]. Early versions used modified artwork with elements taken from other Sierra games, including King's Quest V and Quest for Glory IV and V, combined with artwork from Sierra's 1990 SCI remake[^ref-44]. AGDI later wrote that what it "found particularly jarring were the collaged and ripped elements of some backgrounds that had been taken from other Sierra games"[^ref-37].
+The team used the free Adventure Game Studio engine, which proved capable of recreating the Sierra adventure game experience faithfully[^ref-4]. Early versions used modified artwork with elements taken from other Sierra games, including King's Quest V[^ref-27] and Quest for Glory IV and V[^ref-44], combined with artwork from Sierra's 1990 SCI remake[^ref-44]. The King's Quest Fandom page for the Tierra version says "Some of the material is ripped from KQ5 (Dark Forest, Forest of Serenia, etc), Quest for Glory (QFG1VGA and QFG4)"[^ref-27]. AGDI later wrote that what it "found particularly jarring were the collaged and ripped elements of some backgrounds that had been taken from other Sierra games"[^ref-37].
 
 For the Enhanced Edition (version 4.0), artists John Paul Selwood, Emily Selwood, and Johan Botes re-edited all of the original backgrounds; AGDI says "Every collaged area has been removed and re-edited with unique artwork"[^ref-37]. Britney Brimhall also redid the character dialogue pictures, which gained full lip-syncing[^ref-37].
 
@@ -198,6 +198,8 @@ Several bugs were identified and addressed across versions:
 
 Version 4.2 RC1 was released in July 2024 specifically to address "compatibility issues on modern operating systems and hardware" that had accumulated over the decade since the last update[^ref-6].
 
+For players, AGDI's RC1 changelog lists added support for Windows 10 and Windows 11, an OpenGL graphics driver option, revised inventory item graphics (toggled with CTRL-Y), previously missing narrator lines, and "one new major Easter Egg"[^ref-6]. Save-games from earlier versions are not compatible with v4.2 RC1, and AGDI advised uninstalling previous versions first[^ref-6]. AGDI described RC1 as still in the beta phase and not yet on its main King's Quest I site, released for an open beta period before a final v4.2[^ref-6]. As of November 2026, AGDI's King's Quest I download page lists v4.1, last updated September 1, 2010[^ref-8].
+
 ### Easter Eggs and Trivia
 
 The remake includes numerous hidden references and secrets[^ref-13]:
@@ -235,9 +237,9 @@ Josh Mandel reprised his role as Graham, having previously voiced the character 
 
 ### Sales and Commercial Impact
 
-As a free fan project, the remake generated no direct revenue. According to AGDI, the game was downloaded over 5,000 times in its first month of August 2001, with "nearly half a million" in its first year[^ref-2]; AGDI also states that by September 2010 it had been downloaded over 494,000 times[^ref-1].
+As a free fan project, the remake generated no direct revenue. According to AGDI, the game was downloaded over 5,000 times in its first month of August 2001, with "nearly half a million" in its first year[^ref-2]; AGDI also states that by September 2010 it had been downloaded over 494,000 times[^ref-1]. In a developer journal dated August 9, 2001, the lead developer wrote that the goal when the project started had been to reach 400 adventure game fans "within the span of my lifetime" and that in less than 48 hours 700 people had downloaded the game, which exceeded 20MB[^ref-40].
 
-Just Adventure's October 2001 "State of Adventure Gaming" column noted that the nearly three-year-old King's Quest VIII: Mask of Eternity was the top-selling adventure game of August 2001 (19,484 units), and offered only as a theory ("what if...") that players of the remake, which had passed 20,000 downloads through Just Adventure, might have gone on to buy it[^ref-41]. Wikipedia summarizes this as KQ8 sales having "skyrocketed" that month[^ref-7]. The project won multiple AGS Awards in 2001, including Best AGS Documentation, Best Animation in an AGS Game, and Best Room Art in an AGS Game[^ref-19].
+Just Adventure's October 2001 "State of Adventure Gaming" column noted that the nearly three-year-old King's Quest VIII: Mask of Eternity was the top-selling adventure game of August 2001 (19,484 units), and offered only as a theory ("what if...") that players of the remake, which had passed 20,000 downloads through Just Adventure, might have gone on to buy it[^ref-41]. Wikipedia summarizes this as KQ8 sales having "skyrocketed" that month[^ref-7]. AGDI's January 17, 2009 announcement says Vivendi had planned to include the remake in its new King's Quest Collection, but the person who had agreed to include AGDI's remakes was laid off, the new team was never told, and "Vivendi went ahead and released the Collection while we were still working on the revamp"[^ref-37]. The project won multiple AGS Awards in 2001, including Best AGS Documentation, Best Animation in an AGS Game, and Best Room Art in an AGS Game[^ref-19].
 
 ### Awards
 
@@ -253,11 +255,11 @@ Just Adventure's October 2001 "State of Adventure Gaming" column noted that the 
 ### Fan Projects
 
 AGD Interactive followed this remake with increasingly ambitious projects:
-- **King's Quest II: Romancing the Stones** – A complete reimagining of King's Quest II that was described as transforming it into "a completely new game only in part based on the original, with far superior graphics, mouse control, music and voices"[^ref-32]
+- **King's Quest II: Romancing the Stones** – A remake of King's Quest II that AGDI says follows the tradition of its King's Quest I remake with updated graphics, the familiar Sierra point-and-click interface, an added storyline, deeper plot and fleshed-out characters, and was first released in December 2002[^ref-48]
 - **King's Quest III Redux: To Heir Is Human** – Released February 2011, praised by Destructoid as potentially "the definitive version of this timeless adventure game"[^ref-33]
 - **Quest for Glory II: Trial by Fire** – VGA remake released August 24, 2008[^ref-7]
 
-The development team later founded Himalaya Studios to create original commercial games, including the "adventure/RPG hybrid akin to Quest for Glory called Mage's Initiation"[^ref-34].
+AGDI's Newsletter #7 said the team's future direction would "focus on creating commercial adventure game titles under the Himalaya Studios banner"[^ref-42]. AGDI's home page later announced Mage's Initiation: Reign of the Elements on January 30, 2019, calling it "A lovingly-crafted Adventure/RPG that harkens back to King's Quest and Quest for Glory"[^ref-47].
 
 However, after Activision acquired Vivendi and the Sierra intellectual property, AGD Interactive reported that it had been informed "that we will not be granted permission to start any new Sierra remakes in the future"[^ref-42].
 
@@ -300,6 +302,14 @@ This fan remake is not sold anywhere; AGDI states that "the game is not availabl
 - [AGDI Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html)[^ref-4]
 - [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/faqs/33796)[^ref-13]
 
+## Related Games
+
+This VGA remake reimagines Roberta Williams' original [[1984 - King's Quest - Quest for the Crown]] and follows Sierra's own 1990 remake, [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]. It is part of the [[King's Quest Series]].
+
+**AGDI Fan Games:**
+- **Previous:** N/A
+- **Next:** [[2002 - King's Quest II+ - Romancing the Stones]]
+
 ## See Also
 
 - [[2001 - Space Quest - The Lost Chapter]]
@@ -325,7 +335,7 @@ This fan remake is not sold anywhere; AGDI states that "the game is not availabl
 [^ref-6]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes
 [^ref-7]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – company history, designer credits, commercial impact
 [^ref-8]: [AGD Interactive – Download Page](https://www.agdinteractive.com/games/kq1/download/download.html) – system requirements, platform support
-[^ref-11]: [Self Similar – KQ1 Review](https://www.selfsimilar.org/2017/07/kings-quest-review/) – gameplay analysis, fairy tale connections, version comparison
+[^ref-11]: [Self Similar – KQ1 Review](https://www.selfsimilar.org/2017/07/kings-quest-review/) – reviewer's remarks on the three fairy tales, the slingshot-and-giant solution, and the game's dead-ends
 [^ref-13]: [GameFAQs – Walkthrough/FAQ](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/faqs/33796) – Easter eggs, maximum score, development background
 [^ref-16]: [Retro Freak Reviews – King's Quest I DOS review](https://retrofreakreviews.com/2017/02/01/kings-quest-i-review/) – review of the original game: non-linear structure, screen count
 [^ref-17]: [King's Quest Fandom – Enhanced Edition](https://kingsquest.fandom.com/wiki/King's_Quest_I:_Quest_for_the_Crown_Enhanced_Edition) – No Dead-Ends mode description
@@ -340,9 +350,7 @@ This fan remake is not sold anywhere; AGDI states that "the game is not availabl
 [^ref-26]: [zSprawl Blog Review](http://zsprawl.com/wp/2011/04/game-review-kings-quest-vga-remake/) – resolution support, graphical options
 [^ref-27]: [King's Quest Fandom – Tierra Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(Tierra)) – cut content, differences from original
 [^ref-30]: [AGD Interactive Forum – Name Change Discussion](http://www.agdinteractive.com/forum/viewtopic.php?t=8395) – Tierra to AGDI name change
-[^ref-32]: [Reddit – KQ2 Romancing the Stones Review](https://www.reddit.com/r/adventuregames/comments/plfy46/just_finished_kings_quest_ii_romancing_the_stones/) – user impressions, comparison to original
 [^ref-33]: [Destructoid – KQ3 Redux Review](https://www.destructoid.com/reviews/review-kings-quest-iii-redux/) – 8/10 score, AGDI quality assessment
-[^ref-34]: [Reddit AMA – AGD Interactive/Himalaya Studios](https://www.reddit.com/r/IAmA/comments/1aeyg7/we_are_the_development_team_behind_the_kings/) – company evolution, Mage's Initiation
 [^ref-35]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King's_Quest_fan_games) – AGDI's KQ1 remake; fan licenses for AGDI, Phoenix Online and Infamous Adventures
 [^ref-36]: [AGD Interactive Forum – Patch Update v4.1 to v4.1b](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – 4.1b fixes; 4.1c launcher change
 [^ref-37]: [AGD Interactive Forum – KQ1 v4.1 release thread](https://www.agdinteractive.com/forum/viewtopic.php?t=13212) – v4.1/4.1b changelogs and the 17 January 2009 v4.0 announcement (background artists, narration, No Dead-Ends, origins as practice)
@@ -350,8 +358,11 @@ This fan remake is not sold anywhere; AGDI states that "the game is not availabl
 [^ref-39]: [AGD Interactive – KQ1 Hints: Random Hazards](https://www.agdinteractive.com/games/kq1/hints/randomhazards.html) – dwarf, sorcerer, ogre, wolf, witch
 [^ref-40]: [AGD Interactive – 2001 News & Designer Journals (Wayback)](https://web.archive.org/web/20070927215634/http://www.agdinteractive.com/news-2001.php) – Royal Quest development and cancellation
 [^ref-41]: [Just Adventure – The State of Adventure Gaming, October 2001 (Wayback)](https://web.archive.org/web/20100317114154/http://justadventure.com/articles/State_of_Adventure_Gaming/Oct-01/October_01.shtm) – August 2001 sales chart, KQ8 remake theory
-[^ref-42]: [AGD Interactive – Newsletter #7](https://agdinteractive.com/development/newsletter7.html) – Activision will not grant permission for new Sierra remakes
+[^ref-42]: [AGD Interactive – Newsletter #7](https://agdinteractive.com/development/newsletter7.html) – Activision will not grant permission for new Sierra remakes; future focus on Himalaya Studios commercial titles
 [^ref-43]: [Home of the Underdogs – King's Quest 1 VGA](https://homeoftheunderdogs.net/game.php?id=2881) – review by Scid; user rating 8.23 (243 votes)
 [^ref-44]: [Wikipedia – King's Quest I: Quest for the Crown (AGD Interactive), July 2012 (Wayback)](http://web.archive.org/web/20120726160204/http://en.wikipedia.org/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(AGD_Interactive)) – interface, voice cast, no heir, wrap-around map, borrowed artwork, licensing, cut content, inspiration of other fan remakes
 [^ref-45]: [Adventure Gamers – King's Quest 1 VGA review by Eivind Hagerup, 29 January 2004 (Wayback, 2004)](https://web.archive.org/web/20040905200411/http://adventuregamers.com/article/id,341) – contemporary review
 [^ref-46]: [AGD Interactive – KQ1 Development Team](https://www.agdinteractive.com/games/kq1/about/aboutdev.html) – original two-person team, Lewandowski's digital re-recording, Josh Mandel, John Bell narration
+[^ref-47]: [AGD Interactive – Home page](https://www.agdinteractive.com/) – Mage's Initiation announcement (January 30, 2019)
+[^ref-48]: [AGD Interactive – KQ2 Romancing the Stones, About the Game](https://www.agdinteractive.com/games/kq2/about/about.html) – KQ2 remake description, December 2002 release
+[^ref-49]: [Adventure Classic Gaming – Britney Brimhall interview, first posted 26 May 2006 (Wayback, 2013 capture)](https://web.archive.org/web/20130118083146/http://www.adventureclassicgaming.com/index.php/site/interviews/210/) – parody origin, nine months, one-to-one remake, Tierra rename
