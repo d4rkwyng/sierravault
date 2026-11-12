@@ -10,14 +10,14 @@ series: Take a Break!
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Take a Break! Pinball was a 1993 pinball computer game collection developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. It contains eight tables themed on Sierra and Dynamix adventure games and was the second released title in the Take a Break! series.
 tags: [1990s, dynamix, sierra, take-a-break]
 ---
 # Take a Break! Pinball
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -81,6 +81,8 @@ Reviews were mixed. Chris Lombardi's December 1993 *Computer Gaming World* pinba
 
 Boris Schneider of the German *PC Player* (September 1993) scored it 61, praising the table design and variety but criticising the ball movement: "Der hakelige Kugellauf kostet ganz schön Punkte" (the jerky ball movement costs quite a few points)[^ref-26]. *PC Review* (October 1993) compared it unfavourably with Pinball Dreams. Its reviewer couldn't resize the window, leaving "a doll-house sized table", called the music "not bad at all" but unlike a real pinball machine's, and concluded: "frankly I'd sooner play Solitaire"[^ref-27]. Wikipedia's review table lists the PC Review score as 4/10[^ref-9].
 
+T. Pajari of the Finnish *Com Club* (September 1993, p. 30) was harsher on speed. On his 8 MB 486 he found the game "epämiellyttävän hidas" (unpleasantly slow) with a ball that "nykii epätoivoisesti" (jerks desperately), though he thought the tables "todella hienoja" (really good) and the sound effects "erinomaisia" (excellent). He called it "aika heppoinen tekele" (a rather feeble effort) overall, but advised Pentium owners to get it, and noted that setting the display to 800x600 at 65 thousand colours made it fast enough to play. The review's rating box gives graphics 3+, sound 4-, playability 1+/3+ and appeal 2+[^ref-30].
+
 Home of the Underdogs later called it "Second and last in Sierra's underrated Take a Break! series" and "a good pinball game"[^ref-5].
 
 ### Modern Assessment
@@ -95,7 +97,7 @@ Retro365 (2025) judged that "The overall execution was lacking, with clunky game
 
 ### Origins
 
-Sierra introduced the Take a Break! line in InterAction's Summer 1992 issue as a series for Windows users who want a game that doesn't "take a huge investment of time or energy to get into or out of"[^ref-23]. The article announced Take-A-Break Pinball as "The first game in the series", "coming in April", with five pinball games "each based on a hit Sierra/Dynamix adventure game character", two of them with multiple playfields[^ref-23]. The announced date moved: InterAction's Fall 1992 preview still described "five fast-loading pinball games for Windows" but said it was "Slated for late fall", while Take-A-Break! Crosswords was already on sale in the same issue[^ref-24]. So the release moved from April to late fall 1992, and the game was on sale by mid-1993[^ref-22]. Pinball thus shipped as the series' second title in 1993[^ref-2].
+Sierra introduced the Take a Break! line in InterAction's Summer 1992 issue as a series for Windows users who want a game that doesn't "take a huge investment of time or energy to get into or out of"[^ref-23]. The article announced Take-A-Break Pinball as "The first game in the series", "coming in April", with five pinball games "each based on a hit Sierra/Dynamix adventure game character", two of them with multiple playfields[^ref-23]. The announced date moved: InterAction's Fall 1992 preview still described "five fast-loading pinball games for Windows" but said it was "Slated for late fall", while Take-A-Break! Crosswords was already on sale in the same issue[^ref-24]. The date then moved again: InterAction's Spring 1993 issue reported that a working copy had been shown at the Consumer Electronics Show in Las Vegas, where "it got a terrific response", and that the game was "scheduled to be released this spring"[^ref-29]. So the release moved from April to late fall 1992 and then to spring 1993, and the game was on sale by mid-1993[^ref-22]. Pinball thus shipped as the series' second title in 1993[^ref-2].
 
 According to CGW, "Microsoft said 'it couldn't be done' when Dynamix approached the programmers of Windows about a pinball game for that operating system", and it "took several years of hard work (a lot longer than they had expected)" for Dynamix to prove them wrong[^ref-20].
 
@@ -204,19 +206,23 @@ Computer Gaming World's verdict captured both the ambition and the problem: "Whi
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/take-a-break-pinball) – 3.5" floppy disk images (Greaseweazle flux and sector images); no in-browser emulator[^ref-11]
 - [MyAbandonware](https://www.myabandonware.com/game/take-a-break-pinball-f0j) – Download with documentation[^ref-5]
-- [ClassicReload](https://classicreload.com/take-a-break-pinball.html) – Browser-playable version[^ref-1]
+- [ClassicReload](https://classicreload.com/win3x-take-a-break-pinball.html) – Browser-playable version[^ref-1]
 
 **Patches and Updates**
 - [Sierra Help](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TakeABreakPinballUpdates.html) – Official patches including KQUEST.DLL and DIB.DRV fixes[^ref-8]
 
+**Manuals & Extras**
+- The retail package included a 23-page manual[^ref-10]
+
 ## See Also
 
-- [[1992 - Take a Break! Crosswords]]
+- Series: Take a Break!
+- Previous in series: [[1992 - Take a Break! Crosswords]]
 
 ## References
 
 
-[^ref-1]: [ClassicReload – Take a Break! Pinball](https://classicreload.com/take-a-break-pinball.html) – browser-playable version
+[^ref-1]: [ClassicReload – Take a Break! Pinball](https://classicreload.com/win3x-take-a-break-pinball.html) – browser-playable version
 [^ref-2]: [Retro365 – 3-D Ultra Pinball Article](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – Ernst Krogtoft, 2025; series history, "clunky gameplay", and the only source found for a 1995 CD-ROM release date (tier-4, uncorroborated)
 [^ref-3]: [Metacritic – Take a Break! Pinball Details](https://www.metacritic.com/game/take-a-break-pinball/details/) – box description: "jump from work to play in a nanosecond", "three balls in play at once"
 [^ref-4]: [Giant Bomb – Take a Break! Pinball](https://www.giantbomb.com/take-a-break-pinball/3030-10948/) – database entry: 1993, PC, Dynamix, Inc., Sierra
@@ -229,7 +235,7 @@ Computer Gaming World's verdict captured both the ambition and the problem: "Whi
 [^ref-11]: [Internet Archive – Take a Break! Pinball](https://archive.org/details/take-a-break-pinball) – 3.5" floppy disk images (Greaseweazle F1) for Windows 3.1
 [^ref-13]: [IGDB – Take a Break! Pinball](https://www.igdb.com/games/take-a-break-pinball) – Internet Game Database entry, Take a Break! Pinball (1993)
 [^ref-14]: [GameFAQs – Take a Break! Pinball](https://gamefaqs.gamespot.com/pc/922022-take-a-break-pinball) – PC, Dynamix / Sierra On-Line, release 1993; box description
-[^ref-15]: [Wikidata – Take a Break! Pinball (Q4050671)](https://www.wikidata.org/wiki/Q4050671) – structured metadata: 1993 video game, MobyGames ID 441
+[^ref-15]: [Wikidata – Take a Break! Pinball (Q4050671)](https://www.wikidata.org/wiki/Q4050671) – structured metadata: 1993 video game; MobyGames game ID 441, and MobyGames game ID (former scheme) take-a-break-pinball
 [^ref-20]: [Computer Gaming World #113 (December 1993) – Chris Lombardi, "Bumper Crop", pp. 110, 112, 114](https://archive.org/details/Computer_Gaming_World_Issue_113) – Take A Break Pinball review and spec box (p. 110); Microsoft "it couldn't be done" (p. 112); 386/486 performance, grunching, tilt (p. 114)
 [^ref-21]: [Computer Gaming World #110 (September 1993) – "Inside the Industry", p. 22](https://archive.org/details/Computer_Gaming_World_Issue_110) – "eight different pinball games in the same product, each built around the theme from a Sierra or Dynamix game"
 [^ref-22]: [Computer Gaming World #112 (November 1993) – "PC Research Hits List of Top-Selling Software, July, 1993", p. 224](https://archive.org/details/Computer_Gaming_World_Issue_112) – PC Games (MS-DOS) list, rank 16: "Take A Break! Pinball (Sierra On-Line, Inc.)"
@@ -239,3 +245,5 @@ Computer Gaming World's verdict captured both the ambition and the problem: "Whi
 [^ref-26]: [PC Player (Germany) 9/93 – Boris Schneider, "Take-A-Break Pinball", pp. 88–89](https://archive.org/details/PC-Player-German-Magazine-1993-09) – rating 61; "Der hakelige Kugellauf kostet ganz schön Punkte"; controls, language detection, boss icon
 [^ref-27]: [PC Review #24 (October 1993) – Pinball Dreams vs. Take-a-Break Pinball, pp. 92–93](https://archive.org/details/pc-review-24) – unresizable window, music, "frankly I'd sooner play Solitaire"
 [^ref-28]: [Computer Gaming World #113 (December 1993) – "Take A Break! Crosswords, Volumes I & II" listing, p. 62](https://archive.org/details/Computer_Gaming_World_Issue_113) – Crosswords Volumes I & II reviewed in the same issue as the Pinball review; the vault's Crosswords page records a 750-puzzle edition
+[^ref-29]: [InterAction Vol. VI No. 1 (Spring 1993) – "Coming up from Sierra Dynamix & Bright Star", p. 19](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – working copy shown at the Consumer Electronics Show in Las Vegas; "scheduled to be released this spring"
+[^ref-30]: [Com Club (Finland) September 1993 – T. Pajari, "Take a Break Pinball", p. 30](https://archive.org/details/comclub199309) – Finnish review: slow on a 486, good tables and sound, "aika heppoinen tekele"; rating box on the page image
