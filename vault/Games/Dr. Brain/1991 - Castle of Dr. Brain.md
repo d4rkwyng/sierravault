@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: SCI1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Castle of Dr. Brain is a 1991 educational puzzle game designed by Corey
   Cole and published by Sierra On-Line, the first Dr. Brain game and the best-selling
   title of Sierra's Discovery Series.
@@ -18,7 +18,7 @@ tags: [1990s, coles, dr-brain, educational, sci, sierra]
 ---
 # Castle of Dr. Brain
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -89,9 +89,11 @@ The "program the robot" puzzle on Expert difficulty is "particularly entertainin
 
 Castle of Dr. Brain received generally positive reviews upon release, though the Amiga port garnered more mixed responses due to technical limitations. Dragon magazine awarded the game 4 out of 5 stars in their April 1992 issue.[^ref-5] French publication Génération 4 gave the PC version an 80% score in December 1991.[^ref-18]
 
+Sierra's own InterAction magazine reprinted Cynthia E. Field's PC Games review in its Summer 1992 issue, which called Castle of Dr. Brain "the flagship title in Sierra's new series of mind ticklers."[^ref-51] The same issue reported that Sierra received five nominations at the Software Publishers Association awards, in categories covering Space Quest IV, Castle of Dr. Brain, Mixed-Up Fairy Tales, The Official Hoyle Book of Games Vol. 3 and The Sierra Network.[^ref-51]
+
 The Amiga version received varied scores across European gaming publications. Amiga Format gave the port its highest score at 81% in July 1992.[^ref-18] Amiga Action (reviewer Alan Bunker) awarded 79%.[^ref-18] Both Amiga Mania (reviewer Huw Pryce) and CU Amiga (reviewer Steve Keen) scored the game at 78%.[^ref-18] The One Amiga (reviewer David Upchurch) gave 75%.[^ref-18]
 
-More critical assessments came from Amiga Power, which awarded 61% while noting "As educational games go, it's a lot more imaginative than most, it's just a pity that it's so darned slow and difficult to control."[^ref-14] Amiga Joker's Max Magenauer scored it at 50%, while Datormagazin's Göran Fröjdh gave the lowest score at 45%.[^ref-18] A German publication described the game as "schlicht ein auf vier Disketten ausgewalztes Rätselheftchen" (simply a puzzle booklet rolled out on four diskettes).[^ref-14]
+More critical assessments came from Amiga Power, which awarded 61% while noting "As educational games go, it's a lot more imaginative than most, it's just a pity that it's so darned slow and difficult to control."[^ref-14] Amiga Joker's Max Magenauer scored it at 50%, while Datormagazin's Göran Fröjdh gave the lowest score at 45%.[^ref-18] Amiga Magazine (Lawrence van Rijn) gave it 6/10 in July 1992.[^ref-20] A German publication described the game as "schlicht ein auf vier Disketten ausgewalztes Rätselheftchen" (simply a puzzle booklet rolled out on four diskettes).[^ref-14]
 
 Amiga Power offered a memorable comparison: "Imagine you're taking part in the Crystal Maze, but there's no Richard O'Brien."[^ref-14] However, another publication declared it "probably the only genuinely fun piece of educational software I've come ever across."[^ref-14]
 
@@ -105,6 +107,7 @@ The Adventurers' Guild blog gave the game a 46/100 in their systematic playthrou
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 70%[^ref-1]
+- **Moby Score:** 7.7/10 (51 votes)[^ref-1]
 - **IMDB:** 6.6/10 (12 ratings)[^ref-19]
 - **MyAbandonware:** 4.52/5 (44 votes)[^ref-16]
 - **Lemon Amiga:** 7.18/10[^ref-20]
@@ -182,7 +185,7 @@ The soundtrack release reveals several unused music tracks that were composed bu
 
 | Release | Date | Platform | Notes |
 |---------|------|----------|-------|
-| Floppy | November 12, 1991 | IBM PC | Initial DOS release[^ref-24] |
+| Floppy | Fall 1991 (Sierra Chest gives 12 November 1991) | IBM PC | Initial DOS release; Computer Gaming World's November 1991 release chart lists it as already released, and Sierra's Fall 1991 InterAction describes it as "now available for MS/DOS personal computers"[^ref-24][^ref-49][^ref-50] |
 | Floppy | 1992 | Amiga | Published by Sierra On-Line (US)[^ref-37] |
 | Floppy | 1992 | Macintosh | Published by Sierra On-Line (US)[^ref-37] |
 | Floppy | October 9, 1992 | PC-98 | Japanese release by Sierra On-Line Japan[^ref-37] |
@@ -230,7 +233,7 @@ The game was marketed in Sierra catalogs as featuring an "outrageous gauntlet of
 
 A CD-ROM edition was also issued; the Internet Archive catalogues it as a 1996 Sierra release, and the Sierra Help Pages list its 2x CD-ROM requirements.[^ref-25][^ref-30]
 
-### Fan Projects
+### Preservation and Soundtracks
 
 The game has been preserved through various abandonware sites and digital archives including the Internet Archive, MyAbandonware, and ClassicReload, ensuring continued accessibility for modern players.[^ref-6] The Quest Studios archive hosts the Roland MT-32 soundtrack, "as recorded directly from the original Roland MT-32 Sound Module score."[^ref-10] Xeen Music has also released an MT-32 recording, including unused cues.[^ref-21]
 
@@ -244,7 +247,7 @@ The game has been preserved through various abandonware sites and digital archiv
 
 The game was one of the first titles in the educational line Sierra branded as the Discovery Series in 1992.[^ref-4]
 
-The Discovery Series brand manager explained the philosophy: "While they aren't intended to be hardcore educational products, they're more than just games. They have legitimate academic content."[^ref-4] Maher adds that Cole consulted no education professionals while making it, apart from his wife, a former schoolteacher.[^ref-4]
+The Discovery Series brand manager explained the philosophy: "While they aren't intended to be hardcore educational products, they're more than just games. They have legitimate academic content."[^ref-4] Maher adds that Cole consulted no education professionals while making it.[^ref-4]
 
 In place of the third-person view and visible onscreen avatar of the typical Sierra adventure, the game uses a first-person viewpoint, and its unnamed protagonist is meant to be the player.[^ref-4]
 
@@ -263,6 +266,7 @@ Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows
 
 **Manuals & Extras**
 - [Amiga Manual PDF](https://dl-manual.com/doc/amiga-castle-of-dr-brain-manual-0vej244pdnop)
+- [Sierra Help Pages – Castle of Dr. Brain](https://sierrahelp.com/Games/DrBrain/CastleOfDrBrainHelp.html) – reference page (manual, decoder grid, copy protection codes)
 
 **Soundtracks**
 - [Xeen Music – MT-32 Original Soundtrack](https://xeenmusic.bandcamp.com/album/castle-of-dr-brain-original-soundtrack-mt-32)
@@ -326,3 +330,6 @@ Cole has said that Dr. Cranium, the mad scientist of Quest for Glory IV: Shadows
 [^ref-46]: [StrategyWiki – The Castle of Dr. Brain/Planetarium](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Planetarium) – constellations, alien homeworlds, solar system
 [^ref-47]: [StrategyWiki – The Castle of Dr. Brain/Second maze](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Second_maze) – second elevator maze
 [^ref-48]: [StrategyWiki – The Castle of Dr. Brain/Third maze](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Third_maze) – third elevator maze
+[^ref-49]: [Computer Gaming World Issue 88 (November 1991)](https://archive.org/details/Computer_Gaming_World_Issue_88) – release chart lists "Castle of Dr. Brain" (IBM, $34) under PAST
+[^ref-50]: [InterAction Magazine, Fall 1991](https://archive.org/details/InterAction_Magazine_Vol._IV_Number_3_Fall_1991_1991_Sierra_On-Line_US) – "now available for MS/DOS personal computers, coming soon on the Macintosh and Amiga"
+[^ref-51]: [InterAction Magazine, Summer 1992](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) – reprint of Cynthia E. Field's PC Games review; Software Publishers Association nominations
