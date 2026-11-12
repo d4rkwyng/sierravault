@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks, Laura Bow
 engine: SCI1.1
 protagonist: Laura Bow (opponent)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a 1992
   Sierra On-Line budget release that pairs Yacht and Dominoes, taken from Hoyle 3,
   with Laura Bow as the opponent.'
@@ -18,13 +18,13 @@ tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Crazy Nick's Software Picks: Parlor Games with Laura Bow is a budget compilation title released by [[Sierra On-Line]] in 1992 as part of their Crazy Nick's Software Picks series[^ref-3]. The game features Laura Bow, the protagonist of Sierra's mystery adventure series, as the player's opponent in two classic parlor games: Yacht (a dice game based on Yahtzee) and Dominoes[^ref-2]. In the summer of 1992, Sierra combined mini arcade sequences, casino, and board games that were originally included in various adventure and Hoyle games, releasing these mini compilations as budget releases in blister cards under the Crazy Nick's Software Picks banner[^ref-3].
+Crazy Nick's Software Picks: Parlor Games with Laura Bow is a budget compilation title released by [[Sierra On-Line]] in 1992 as part of their Crazy Nick's Software Picks series[^ref-3]. The game features Laura Bow, the protagonist of Sierra's [[Laura Bow Series|mystery adventure series]], as the player's opponent in two classic parlor games: Yacht (a dice game based on Yahtzee) and Dominoes[^ref-2]. In the summer of 1992, Sierra combined mini arcade sequences, casino, and board games that were originally included in various adventure and Hoyle games, releasing these mini compilations as budget releases in blister cards under the Crazy Nick's Software Picks banner[^ref-3].
 
-Both games were originally included in Hoyle Official Book of Games Volume 3: Great Board Games, and the pack's music comes from the same source[^ref-3][^ref-20]. Players can challenge Laura at three different difficulty levels[^ref-2]. Sierra's own InterAction magazine announced the line in its Summer 1992 issue as low-priced VGA games that would retail for around $10[^ref-17].
+Both games were originally included in [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games Volume 3]]: Great Board Games, and the pack's music comes from the same source[^ref-3][^ref-20]. Players can challenge Laura at three different difficulty levels[^ref-2]. Sierra's own InterAction magazine announced the line in its Summer 1992 issue as low-priced VGA games that would retail for around $10[^ref-17].
 
 No full period review of the pack has been found, but *Computer Gaming World* and *PC Games* both noted it in 1992[^ref-22][^ref-23][^ref-24]. Neither the Sierra Chest nor MobyGames lists a review[^ref-16][^ref-19]. The only full review found is a 2011 retrospective guest post by "mecha-neko" on the Super Adventures in Gaming blog, which was negative[^ref-1].
 
@@ -35,6 +35,7 @@ No full period review of the pack has been found, but *Computer Gaming World* an
 > **Publisher:** Sierra On-Line, Inc.[^ref-2]
 > **Engine:** SCI1.1 (per PCGamingWiki)[^ref-5]
 > **Platforms:** DOS, IBM PC[^ref-2][^ref-3]
+> **Release Date:** June 5, 1992[^ref-3]
 > **Release Year:** 1992[^ref-3]
 > **Series:** Crazy Nick's Software Picks, Laura Bow
 > **Protagonist:** Laura Bow (opponent)
@@ -42,7 +43,7 @@ No full period review of the pack has been found, but *Computer Gaming World* an
 
 ## Story Summary
 
-As a budget compilation of board games, Crazy Nick's Software Picks: Parlor Games with Laura Bow does not feature a traditional narrative story. Instead, the game presents Laura Bow as the player's opponent in classic parlor games[^ref-2]. MobyGames describes the pack as introducing "Laura Bow of The Dagger of Amon Ra" and lists The Dagger of Amon Ra (1992) as the previous entry in the Laura Bow series[^ref-2]. The Dagger of Amon Ra was already on Sierra's price list in the same Summer 1992 InterAction issue that announced the Crazy Nick's line[^ref-17].
+As a budget compilation of board games, Crazy Nick's Software Picks: Parlor Games with Laura Bow does not feature a traditional narrative story. Instead, the game presents Laura Bow as the player's opponent in classic parlor games[^ref-2]. MobyGames describes the pack as introducing "Laura Bow of The Dagger of Amon Ra" and lists [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (1992) as the previous entry in the Laura Bow series[^ref-2]. *The Dagger of Amon Ra* was already on Sierra's price list in the same Summer 1992 InterAction issue that announced the Crazy Nick's line[^ref-17].
 
 Laura serves as the computer opponent at three difficulty levels; there is no two-player mode[^ref-2][^ref-1].
 
@@ -80,6 +81,8 @@ The magazine's October 1992 "Taking A Peek" column gave the pack a short entry: 
 
 *PC Games* listed it in an October 1992 news item on the line: "The sleuth from the Laura Bow Mystery Series hosts a sampling of games from the Hoyle Series, including Yacht and Dominoes."[^ref-24]
 
+*Game Players PC Entertainment* Vol. 5 No. 4 (cover: "Display Until September 8, 1992") reported in its news column that "on shelves now is a new line of $9.95 titles called Nick's Picks", whose sections Sierra had "extracted" from earlier games and coupled with famous Sierra personas, and named Parlor Games with Laura Bow in the lineup[^ref-27].
+
 The Sierra Chest's reviews tab reads "No reviews yet"[^ref-16], and MobyGames has no critic reviews recorded ("Be the first to add a critic review for this title!")[^ref-19]. The pack was a budget release sold in blister cards[^ref-3], which Sierra's own magazine said would retail for around $10[^ref-17].
 
 ### Modern Assessment
@@ -96,7 +99,7 @@ The only full review found is a 2011 guest post by "mecha-neko" on the Super Adv
 
 In the summer of 1992, Sierra combined mini arcade sequences, casino, and board games originally included in various adventure and Hoyle games, and released them as budget compilations under the Crazy Nick's Software Picks title[^ref-3]. InterAction's Summer 1992 "News Notes" described the first five games as "favorite arcade and strategy sequences extracted from best-selling Sierra games and featuring Sierra characters as opponents", due in stores in May or June[^ref-17]. It summarised this pack as "Take on the celebrated sleuth at Dominoes and Yacht"[^ref-17].
 
-Parlor Games with Laura Bow drew its games from Hoyle Official Book of Games Volume 3: Great Board Games[^ref-3]. Period coverage agreed on the Hoyle origin: *Computer Gaming World* called the games "jazzed-up versions of games from Sierra's Hoyle's Book of Games series"[^ref-23], and *PC Games* called them "a sampling of games from the Hoyle Series"[^ref-24]. Its six music tracks (main menu, Yacht and Dominoes, each in MT-32 and Sound Blaster versions) come from the same game[^ref-20].
+Parlor Games with Laura Bow drew its games from Hoyle Official Book of Games Volume 3: Great Board Games[^ref-3]. Period coverage agreed on the Hoyle origin: *Computer Gaming World* called the games "jazzed-up versions of games from Sierra's Hoyle's Book of Games series"[^ref-23], and *PC Games* called them "a sampling of games from the Hoyle Series"[^ref-24]. Sierra's own Spring 1993 InterAction described the source game as a collection of "six of the best board games around: Checkers, Backgammon, Pachisi, Yacht, Dominoes, and Snakes & Ladders", with 18 animated opponents, and the first Hoyle game to be rendered in VGA[^ref-26]. Its six music tracks (main menu, Yacht and Dominoes, each in MT-32 and Sound Blaster versions) come from the same game[^ref-20].
 
 ### Production
 
@@ -167,7 +170,7 @@ This game does not feature voice acting.
 
 ### Sales and Commercial Impact
 
-Specific sales figures have not been documented. Sierra's announcement put the expected retail price at around $10[^ref-17]; in the shops it sold for $9.95[^ref-22][^ref-24].
+Specific sales figures have not been documented. Sierra's announcement put the expected retail price at around $10[^ref-17]; in the shops it sold for $9.95[^ref-22][^ref-24]. By Spring 1993 Sierra's magazine carried a "Nick's Picks Special!" advertisement that listed Parlor Games with Laura Bow among the five packs, on VGA 3.5" low-density disks, with the offer expiring April 15, 1993[^ref-28].
 
 ### Collections
 
@@ -205,6 +208,9 @@ No hint book or strategy guide for this title is known. Sierra's InterAction mag
 
 ## See Also
 
+- [[Laura Bow Series]]
+- [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]]
+- [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games Volume 3]]
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
@@ -234,3 +240,6 @@ No hint book or strategy guide for this title is known. Sierra's InterAction mag
 [^ref-23]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek", p. 12: Parlor Games with Laura Bow entry; package contents, price and on-line rules in the King Graham entry on the same page
 [^ref-24]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, $9.95 price, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
 [^ref-25]: [ScummVM – engines/sci/engine/features.cpp](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/engine/features.cpp) – GID_CNICK_LAURABOW listed under "Demos/mini-games with no saving functionality"
+[^ref-26]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), Hoyle Book of Games, Volume 3 description (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own description: "six of the best board games around: Checkers, Backgammon, Pachisi, Yacht, Dominoes, and Snakes & Ladders", "the first Hoyle game to be rendered in VGA", "18 animated opponents" (the archive.org item is labelled June 1993; the printed issue date is Spring 1993). Promotional material
+[^ref-27]: [Game Players PC Entertainment Vol. 5 No. 4, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – news column, Sierra item: $9.95 Nick's Picks "on shelves now", five packs named including Parlor Games with Laura Bow; cover marked "Display Until September 8, 1992"
+[^ref-28]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), "Nick's Picks Special!" advertisement (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own ad naming the five packs including Parlor Games with Laura Bow, "VGA 3.5" LD disks", Offer No. 01381, expires 4/15/93. Promotional material, not independent reporting
