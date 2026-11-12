@@ -22,7 +22,7 @@ For the studio's full history, see [[Phoenix Online Studios|Phoenix Online Studi
 
 Phoenix began as the volunteer team behind *The Silver Lining*, a fan-made continuation of the King's Quest series. MobyGames says the group was formed in 2004 to work on it.[^ref-1] Gamasutra reported on 28 June 2010 that Activision had "at last given the go-ahead" for the game to be released for free,[^ref-43][^ref-25] and the first episode came out on 10 July 2010.[^ref-24][^ref-16]
 
-Phoenix also worked with Sierra designer [[Jane Jensen|Jane Jensen]]. This label published *Moebius: Empire Rising* (2014), which Phoenix Online Studios and Jensen's Pinkerton Road developed.[^ref-17][^ref-11][^ref-22] Her *Gabriel Knight: Sins of the Fathers 20th Anniversary Edition* (2014) was released by Phoenix Online Studios, with Pinkerton Road Studio as publisher on Steam, not by this label.[^ref-21][^ref-2]
+Phoenix also worked with Sierra designer [[Jane Jensen]]. This label published *Moebius: Empire Rising* (2014), which Phoenix Online Studios and Jensen's Pinkerton Road developed.[^ref-17][^ref-11][^ref-22] Her *Gabriel Knight: Sins of the Fathers 20th Anniversary Edition* (2014) was released by Phoenix Online Studios, with Pinkerton Road Studio as publisher on Steam, not by this label.[^ref-21][^ref-2]
 
 ## Games Published (Sierra Archive)
 
@@ -63,7 +63,7 @@ The company's About page lists:[^ref-3]
 ## Related
 
 - **Developer Page:** [[Phoenix Online Studios|Phoenix Online Studios]]
-- **Designer Partner:** [[Jane Jensen|Jane Jensen]]
+- **Designer Partner:** [[Jane Jensen]]
 - **Published Developer:** [[Publishers/Infamous Quests|Infamous Quests]]
 - **Fan Project:** [[2010 - The Silver Lining|The Silver Lining]]
 
@@ -89,8 +89,8 @@ The company's About page lists:[^ref-3]
 [^ref-26]: [Steam - Phoenix Online Publishing (publisher page)](https://store.steampowered.com/publisher/PhoenixOnline) - Lists the label's Steam titles, Cognition to Bleeding Moons (checked 2026-11-11)
 [^ref-27]: [App Store - Cognition Episode 1](https://apps.apple.com/us/app/cognition-episode-1/id598738593) - Seller "Phoenix Online Publishing LLC"; version 4.0 (02/08/2018) adds "Game of the Year Edition" content (checked 2026-11-11)
 [^ref-28]: [Phoenix Online Studios - News blog](https://www.postudios.com/blog/) - Newest post "Bleeding Moons is available now!" dated Sep.03, 2020; homepage HTTP Last-Modified 21 Mar 2023 (checked 2026-11-11)
-[^ref-29]: [MobyGames - Lost Civilization](https://www.mobygames.com/game/111624/lost-civilization/) - Windows 2014-03-18; read via the MobyGames API
-[^ref-30]: [MobyGames - A Rite from the Stars: Remaster Edition](https://www.mobygames.com/game/240423/a-rite-from-the-stars-remaster-edition/) - Windows 2025-02-02; consoles 2025-01-30; credited to the label on the company page (read via the MobyGames API)
+[^ref-29]: [MobyGames - Lost Civilization](https://www.mobygames.com/game/111624/lost-civilization/) - Windows 2014-03-18
+[^ref-30]: [MobyGames - A Rite from the Stars: Remaster Edition](https://www.mobygames.com/game/240423/a-rite-from-the-stars-remaster-edition/) - Windows 2025-02-02; consoles 2025-01-30; credited to the label on the company page
 [^ref-31]: [Steam - A Rite from the Stars: Remaster Edition](https://store.steampowered.com/app/2832470/) - Developer Flying Beast Labs; publisher Artax Games; 2 Feb 2025
 [^ref-32]: [Steam - Cognition: An Erica Reed Thriller](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/) - Developer Phoenix Online Studios; publisher Phoenix Online Publishing; 19 Sep 2013
 [^ref-33]: [Steam - Cornerstone: The Song of Tyrim](https://store.steampowered.com/app/284410/) - Developer Overflow; publisher Phoenix Online Publishing; 26 Apr 2016
