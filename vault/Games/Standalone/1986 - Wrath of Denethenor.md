@@ -10,14 +10,14 @@ series: Standalone
 engine: ASSM (6502 assembly)
 protagonist: Unnamed adventurer/scoundrel
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Wrath of Denethenor is a fantasy role-playing game developed by Christopher
-  Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64...
+  Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64, in which an unnamed scoundrel explorer travels five lands of Deledain to defeat the evil Lord Denethenor.
 tags: [1980s, rpg, sierra, standalone]
 ---
 # Wrath of Denethenor
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -97,7 +97,7 @@ Crim later said the box used "the common names of things" that Sierra had asked 
 
 Scorpia reviewed the game in the May 1987 issue of Computer Gaming World. She called it "well-crafted", but said "it offers nothing fresh (except perhaps in the way it handles hit points) to the RPG genre."[^ref-21] Her bottom line was "An easy-playing game of moderate accomplishments, best suited to those who haven't played too many games of the RPG type."[^ref-21]
 
-A review in InterAction, Sierra's own newsletter (Issue 2, 1987), called it "a quality program" despite its low price.[^ref-3][^ref-23] The reviewer said that at the going rate of about $50 "I'd give it an 8 out of 10", but because it cost half that and was not copy-protected, "it easily earns a 10 out of 10."[^ref-3][^ref-23] The CRPG Addict later pointed out that "this glowing review came from Sierra's own magazine."[^ref-4]
+A review in InterAction, Sierra's own newsletter (Issue 2, 1987), called it "a quality program" despite its low price.[^ref-3][^ref-23] The reviewer said that at the going rate of about $50 "I'd give it an 8 out of 10", but because it cost half that and was not copy-protected, "it easily earns a 10 out of 10."[^ref-3][^ref-23] The same reviewer's "biggest complaint" was the day-night cycle, "an interesting idea, but can get irritating fast", while the closing sequence was praised: "The grand finale is a masterpiece of programming."[^ref-3] The CRPG Addict later pointed out that "this glowing review came from Sierra's own magazine."[^ref-4]
 
 Saul Cohen reviewed the game in Info No. 23 (Nov/Dec 1988, p. 66), and Lemon64 records his rating as 2/5.[^ref-11][^ref-24] He found character creation's disk swaps "confusing and time-consuming" and concluded that "there are other role-playing games I would much rather play than this one."[^ref-24]
 
@@ -187,6 +187,10 @@ Sales were modest. Crim estimates "a few thousand units for both the Apple and C
 
 By spring 1988, Sierra's order form listed the Apple II version at $14.95.[^ref-22]
 
+### Sequel Attempts
+
+Crim later started a more ambitious adventure game with a friend and coworker in the early 1990s, but the effort "petered out fairly quickly with work distractions."[^ref-5]
+
 ### Collections
 
 The game is preserved through disk images on the Internet Archive, and Crim offers Apple IIe and C64 disk images on his own website.[^ref-2][^ref-5]
@@ -205,7 +209,7 @@ No fan remakes, ports or mods turned up in the sources consulted for this page. 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on Steam, GOG, or other modern digital storefronts
+- Not currently available on Steam, GOG, or other modern digital storefronts (checked 2026-11-12)
 
 **Download / Preservation**
 - [MyAbandonware – Wrath of Denethenor](https://www.myabandonware.com/game/wrath-of-denethenor-56w) — abandonware preservation download[^ref-14]
