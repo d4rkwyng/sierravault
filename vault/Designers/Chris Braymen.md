@@ -5,15 +5,15 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest VI", "Quest for Glory II", "EcoQuest"]
 companies: ["Sierra On-Line", "Sculptured Software", "Kodiak Interactive", "Sony", "Disney Interactive", "WB Games"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Chris Braymen
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Chris Braymen (credited as Christopher G. Braymen) is an American composer, sound designer and audio programmer who worked at Sierra On-Line from February 1990 to December 1993.[^ref-1][^ref-2] At Sierra he wrote music and sound effects for adventure games, usually alongside [[Mark Seibert]], and was lead composer on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] and [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]].[^ref-1][^ref-7][^ref-6][^ref-21]
+Chris Braymen (credited as Christopher G. Braymen, and also as Chris Brayman[^ref-3]) is an American composer, sound designer and audio programmer who worked at Sierra On-Line from February 1990 to December 1993.[^ref-1][^ref-2] At Sierra he wrote music and sound effects for adventure games, usually alongside [[Mark Seibert]], and was lead composer on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] and [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]].[^ref-1][^ref-7][^ref-6][^ref-21]
 
 After Sierra he moved into audio programming, at Sculptured Software, Kodiak Interactive, Sony Computer Entertainment America, Disney Interactive Studios and WB Games.[^ref-1] His most recent MobyGames credits are on MLB The Show 23 and 24.[^ref-2]
 
@@ -43,7 +43,7 @@ In December 1993 Braymen left Sierra for Sculptured Software, where he worked ma
 
 ### Kodiak Interactive (1998–2002)
 
-In August 1998 Braymen joined Kodiak Interactive, where he worked on audio libraries for PlayStation 2, Xbox and PC.[^ref-1] There he did sound programming for WCW Mayhem (1999), audio programming for WCW Backstage Assault (2000) and audio programming for Circus Maximus: Chariot Wars (2002).[^ref-1]
+In August 1998 Braymen joined Kodiak Interactive, where he worked on audio libraries for PlayStation 2, Xbox and PC.[^ref-1] There he did sound programming for WCW Mayhem (1999), audio programming for WCW Backstage Assault (2000) and audio programming for Circus Maximus: Chariot Wars (2002), with Solomon Blaz.[^ref-1] Sources differ on when he left: Choicest Games' timeline has him leaving Kodiak in 2001 and joining Sony in 2002, while VGMPF lists the 2002 Circus Maximus credit under Kodiak.[^ref-3][^ref-1]
 
 ### Sony Computer Entertainment America (2002–2013)
 
@@ -85,11 +85,15 @@ Braymen's King's Quest VI score has since been rearranged in two fan-produced re
 
 - **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Cartoon Sound Effects (with Mark Seibert)[^ref-25]
 - **1990** — [[1988 - Police Quest II - The Vengeance|Police Quest 2: The Vengeance]] (Amiga) — Role: with Mark Seibert (possibly arranger)[^ref-1]
+- **1990** — Quest for Glory I (Amiga) — Role: with Mark Seibert (Arranger?)[^ref-1]
 - **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Music, Sound (with Mark Seibert)[^ref-5][^ref-1]
+- **1991** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] (Amiga) — Role: with Mark Seibert[^ref-1]
 - **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Role: Lead Composer; arranged Al Lowe's main theme[^ref-1][^ref-24]
 - **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Arrangement and Additional Music[^ref-1]
+- **1991** — Leisure Suit Larry 5 (Amiga) — Role: Arrangement and Additional Music[^ref-1]
 - **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Music arranged and performed (with Mark Seibert and Paul Aleman)[^ref-26]
 - **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music and Sound Effects (with Ken Allen, Robert Atesalp, Orpheus Hanley and Mark Seibert)[^ref-27]
+- **1991** — Castle of Dr. Brain (Mac) — Role: with Ken Allen, Mark Seibert, Robert Atesalp and Orpheus Hanley[^ref-1]
 - **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Composer[^ref-6][^ref-1]
 - **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Synthesized Score and Sounds (with Ken Allen, Orpheus Hanley and Aubrey Hodges)[^ref-28]
 - **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Composer[^ref-7][^ref-1]
@@ -106,18 +110,23 @@ Braymen's King's Quest VI score has since been rearranged in two fan-produced re
 | 1994 | seaQuest DSV (Genesis) | Sculptured Software | Music (with Dean Morrell)[^ref-1] |
 | 1994 | Tecmo Super Baseball (Genesis) | Sculptured Software | Arranged Rick Rhodes's score (with Dean Morrell)[^ref-1] |
 | 1995 | Mortal Kombat 3 (Genesis) | Sculptured Software | Sound and Drivers (with Roy Wilkins)[^ref-1] |
+| 1995 | The Punisher (Genesis) | Sculptured Software | Arranger?[^ref-1] |
 | 1995 | WWF WrestleMania: The Arcade Game (32X/Genesis) | Sculptured Software | Arranger of Chris Granner's music[^ref-1] |
+| 1995 | WWF WrestleMania: The Arcade Game (Genesis) | Sculptured Software | Arranged Chris Granner's music (with Dean Morrell and Victor Crews)[^ref-1] |
 | 1996 | Ultimate Mortal Kombat 3 (Genesis) | Sculptured Software | Listed by VGMPF, role not stated[^ref-1] |
 | 1997 | WWF WrestleMania: The Arcade Game (DOS) | Sculptured Software | Arranger of Chris Granner's music[^ref-1] |
 | 1999 | WCW Mayhem (N64) | Kodiak Interactive | Sound Programming[^ref-1] |
 | 2000 | WCW Backstage Assault (N64) | Kodiak Interactive | Audio Programming[^ref-1] |
-| 2002 | Circus Maximus: Chariot Wars (Xbox) | Kodiak Interactive | Audio Programmer[^ref-1] |
+| 2002 | Circus Maximus: Chariot Wars (Xbox) | Kodiak Interactive | Audio Programmer (with Solomon Blaz)[^ref-1] |
 | 2002 | Disney/Pixar Monsters, Inc. (PS2) | Sony | Audio Software Engineer[^ref-1] |
 | 2003 | NFL GameDay 2004 (PS2) | Sony | Audio Tools[^ref-1] |
+| 2003 | NBA ShootOut 2004 (PS2) | Sony | Sports Audio Tools[^ref-1] |
 | 2004 | Jet Li: Rise to Honor (PS2) | Sony | Speech Audio Tools[^ref-1] |
 | 2005 | Gretzky NHL (PSP) | Sony | Audio Engineer[^ref-1] |
 | 2005 | Twisted Metal: Head-On (PSP) | Sony | Audio Tools[^ref-1] |
 | 2005 | MLB (PSP) | Sony | Audio Engineer[^ref-1] |
+| 2005 | MLB 2006 (PS2) | Sony | Audio Engineer[^ref-1] |
+| 2005 | The Con (PSP) | Sony | Additional Audio Programmer (with Jim Sproul)[^ref-1] |
 | 2005 | SOCOM 3: U.S. Navy SEALs (PS2) | Sony | Additional Audio Programming[^ref-1] |
 | 2006 | Resistance: Fall of Man (PS3) | Sony | Audio Team Engineer[^ref-1][^ref-2] |
 | 2007–2014 | MLB 07–14: The Show | Sony | Senior Audio Systems Engineer[^ref-1][^ref-2] |
@@ -131,7 +140,7 @@ Braymen's King's Quest VI score has since been rearranged in two fan-produced re
 
 [^ref-1]: [VGMPF - Chris Braymen](https://vgmpf.com/Wiki/index.php?title=Chris_Braymen) — biography (Sierra Feb 1990; Sculptured Dec 1993; Kodiak Aug 1998; Sony May 2002; Disney Oct 2013 to June 2016; WB Games Aug 2016) and gameography with per-game roles
 [^ref-2]: [MobyGames - Christopher G. Braymen](https://www.mobygames.com/person/3087/christopher-g-braymen/) — credit list (Wayback 2026-04-07 used): MLB The Show 23/24, Hogwarts Legacy, Cars 3, Toy Box 2.0 (2015), QFG II remake (2008) "Music by"
-[^ref-3]: [Choicest Games - Where Are They Now: Chris Braymen (Mark Goninon, November 2015)](https://www.choicestgames.com/2015/11/where-are-they-now-chris-braymen.html) — Eastman 1977–1981, DeAnza 1986–1987, Disney Interactive from 2013
+[^ref-3]: [Choicest Games - Where Are They Now: Chris Braymen (Mark Goninon, November 2015)](https://www.choicestgames.com/2015/11/where-are-they-now-chris-braymen.html) — Eastman 1977–1981, DeAnza 1986–1987, "aka Chris Brayman"; Kodiak 1998–2001, Sony 2002–2013, Disney Interactive from 2013
 [^ref-4]: [Diggers Factory - Magic Map Studio: King's Quest VI: An Ode to the Isles](https://www.diggersfactory.com/vinyl/316541/magic-map-studio-kings-quest-vi-an-ode-to-the-isles) — 2LP (Two Guys Records with Magic Map Studio); music "remastered and enhanced by … Magic Map Studio"; Chris Braymen in "Special thanks to"
 [^ref-5]: [MobyGames - Quest for Glory II: Trial by Fire (DOS) credits](https://www.mobygames.com/game/169/quest-for-glory-ii-trial-by-fire/credits/dos/) — Music and Sound: Christopher G. Braymen, Mark Seibert
 [^ref-6]: [MobyGames - EcoQuest: The Search for Cetus (DOS) credits](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) — "Composer: Christopher G. Braymen"; Music with Seibert, Hodges, Kehler, Hanley
