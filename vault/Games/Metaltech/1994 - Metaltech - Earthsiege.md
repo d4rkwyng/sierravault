@@ -10,7 +10,7 @@ series: Metaltech
 engine: 3Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Metaltech: Earthsiege is a 1994 mech combat simulation developed by Dynamix
   and published by Sierra On-Line for DOS, in which players pilot giant HERCs against
   the rebel Cybrid war machines.'
@@ -18,7 +18,7 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech: Earthsiege
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -106,7 +106,7 @@ The Collection Chamber retrospective concludes that "EarthSiege is one of the mo
 
 Dynamix had developed MechWarrior (1989) under its earlier publishing agreement with Activision.[^ref-2] The author of Remember PC DOS Games found no details about the decision to build a BattleTech competitor and guesses that Activision still held the BattleTech rights; on that reading, Dynamix created the Metaltech Universe as a setting it could develop over multiple games.[^ref-2] MobyGames notes that Earthsiege is not part of FASA's BattleTech universe, "though the resemblances are too close for legal comfort."[^ref-1] Sources differ on series order: Wikipedia and The Collection Chamber call Earthsiege the first Metaltech game,[^ref-4][^ref-6] while the Sierra Wiki names Metaltech: Battledrome as the first, released the same year.[^ref-5]
 
-Game design is credited to Mark Crowe and David Selle, with Crowe also producing; Paul Bowman was lead programmer and Robert Caracol art director, and Tim Gift is credited for the HERC animation technology.[^ref-1] Crowe, best known for creating the Space Quest series with his fellow "Guy from Andromeda" Scott Murphy, had moved to Dynamix after Space Quest IV and worked on the Earthsiege series there.[^ref-25]
+Game design is credited to Mark Crowe and David Selle, with Crowe also producing; Paul Bowman was lead programmer and Robert Caracol art director, and Tim Gift and Caedmon Irias are credited for the HERC animation technology.[^ref-1] Crowe, best known for creating the Space Quest series with his fellow "Guy from Andromeda" Scott Murphy, had moved to Dynamix after Space Quest IV and worked on the Earthsiege series there.[^ref-25]
 
 ### Production
 
@@ -115,6 +115,25 @@ The game featured voice acting from several performers, including Andre Rosey Br
 The original music was composed by Timothy Steven Clarke and Christopher Stevens, with sound effects and digitized speech by Ken Rogers.[^ref-1][^ref-4]
 
 In 1995, an expansion pack was released featuring a full-motion video introduction, new vehicles and weapons.[^ref-11] It added three new campaigns, new landscapes and the Apocalypse HERC, with original music by LoudMouth.[^ref-22] The expansion missions were far more diverse than the original campaign, though they were structured similarly with the standard waypoint-destroy-repeat pattern.[^ref-6] Access to the expansion content required toggling an option in the menu, which would basically reset the game with the new career mode replacing the old, with separate save files meaning salvaged weapons could not be carried over.[^ref-6]
+
+### Development Credits
+
+Credits for the DOS version, as listed by MobyGames:[^ref-28]
+
+- **Producer:** Mark Crowe
+- **Game Design:** Mark Crowe, David Selle
+- **Lead Programmer:** Paul Bowman
+- **Programming:** Bruce Schuldt, Marlen Shepherd
+- **Missions Programming:** Jan Carpenter, Joseph Muennich, David Selle
+- **Art Direction:** Robert Caracol
+- **Lead Production Artist:** David Aughenbaugh
+- **Animation & Lip Synch:** David Aughenbaugh
+- **3D Simulation Artist:** Damon Mitchell
+- **Audio Director:** Jan Paul Moorhead
+- **Original Music:** Timothy Steven Clarke, Christopher Stevens
+- **Sound FX and Digitized Speech:** Ken Rogers
+- **Photo and Video:** Dale Tendick
+- **HERC Animation Technology:** Tim Gift, Caedmon Irias
 
 ### Technical Achievements
 
@@ -147,7 +166,7 @@ The sequel, EarthSiege II, was "HUGE when it was released in 1996, garnering mos
 
 ### Preservation Status
 
-In 2015, Hi-Rez Studios released Earthsiege as freeware.[^ref-4] The Collection Chamber has created a custom installer using DOSBox DAUM that brings the game to modern systems, with the manual, reference card, and expansion pack included.[^ref-6] Version 2 of this preservation package (released January 27, 2023) fixed the Campaign 4, Mission 8 crash issue and improved the installer package.[^ref-6]
+Hi-Rez Studios made the Earthsiege series available for free; PC Gamer's report, archived in October 2015, said "Hi-Rez has made all the Tribes games available for free, as well as the Earthsiege series that predated it."[^ref-31] The Collection Chamber has created a custom installer using DOSBox DAUM that brings the game to modern systems, with the manual, reference card, and expansion pack included.[^ref-6] Version 2 of this preservation package (released January 27, 2023) fixed the Campaign 4, Mission 8 crash issue and improved the installer package.[^ref-6]
 
 ## Downloads
 
@@ -158,6 +177,9 @@ In 2015, Hi-Rez Studios released Earthsiege as freeware.[^ref-4] The Collection 
 - [MyAbandonware](https://www.myabandonware.com/game/metaltech-earthsiege-2pi)
 - [Internet Archive](https://archive.org/details/esdemo)
 - [The Collection Chamber](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) - Custom installer with DOSBox
+
+**Manuals & Extras**
+- [Earthsiege Tips](https://sierrahelp.com/Hints/EarthsiegeTips.html) - Gameplay hints from The Sierra Help Pages
 
 ## See Also
 
@@ -196,6 +218,7 @@ In 2015, Hi-Rez Studios released Earthsiege as freeware.[^ref-4] The Collection 
 [^ref-25]: [Wikipedia - Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – Space Quest co-creator; move to Dynamix and work on Earthsiege
 [^ref-26]: [Computer Gaming World #126, January 1995 (Internet Archive scan)](https://archive.org/details/Computer_Gaming_World_Issue_126) – Jeff James, "Rock 'Em, Sock 'Em, Robots", pp. 152–156: spec box, 45-mission career, wingmen, salvage, verdict; rated 2½ stars
 [^ref-27]: [Next Generation #2, February 1995 (Internet Archive scan)](https://archive.org/details/nextgen-issue-002) – "Rating PC" review, p. 95: salvage-focused targeting, controller support, mission video clips; rated four stars
-[^ref-28]: [MobyGames - Metaltech: Earthsiege (Wayback, January 17, 2026)](http://web.archive.org/web/20260117050750/https://www.mobygames.com/game/1402/metaltech-earthsiege/) – Critics 74% from 13 ratings; players 3.7/5 from 14 ratings; media types 3.5" floppy and CD-ROM; included in Best of Sierra Nr. 1 (1997)
+[^ref-28]: [MobyGames - Metaltech: Earthsiege (Wayback, January 17, 2026)](http://web.archive.org/web/20260117050750/https://www.mobygames.com/game/1402/metaltech-earthsiege/) – DOS credits; Critics 74% from 13 ratings; players 3.7/5 from 14 ratings; media types 3.5" floppy and CD-ROM; included in Best of Sierra Nr. 1 (1997)
 [^ref-29]: [The Sierra Chest - Metaltech: Earthsiege (General)](https://sierrachest.com/index.php?a=games&id=217&title=earthsiege-1&fld=general) – First release 1994-10-25; included in the German releases Best of Sierra: Limited Edition and Best of Sierra Nr.1
 [^ref-30]: [The Sierra Chest - Metaltech: Earthsiege (Publications)](https://sierrachest.com/index.php?a=games&id=217&title=earthsiege-1&fld=publications) – Appearances in the Multimedia Catalogue 1994-1995, the Sierra 15th anniversary catalog (Winter 94-95) and The Game Catalogue 1996-1997 (page 21, Sierra Originals)
+[^ref-31]: [PC Gamer - Hi-Rez makes previous Tribes games free (Wayback, October 30, 2015)](https://web.archive.org/web/20151030184042/http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – Tom Sykes: "Hi-Rez has made all the Tribes games available for free, as well as the Earthsiege series that predated it"
