@@ -51,7 +51,7 @@ The player assumes the role of a Manhunter, one of the few humans selected to wo
 
 ### Interface and Controls
 
-Unlike other AGI games, Manhunter: New York did not use a text parser; it used a first-person perspective and a rudimentary point-and-click interface instead[^ref-14]. Sierra's own walkthrough in the manual calls it "a unique Sierra 3-D animated adventure" that uses "an object oriented interface"[^ref-6].
+Unlike other AGI games, Manhunter: New York did not use a text parser; it used a first-person perspective and a rudimentary point-and-click interface instead[^ref-14]. Computer Entertainer's October 1988 review noted that "Views switch from first-person participant to third-person observer," and that the story can be played several ways, depending on whether the player aligns with the aliens or joins the human underground[^ref-28]. Sierra's own walkthrough in the manual calls it "a unique Sierra 3-D animated adventure" that uses "an object oriented interface"[^ref-6].
 
 Banjo's Mods, writing about the sequel, says that "like the first game, it is a huge departure from Sierra's normal adventure games, offering a dystopian horror theme with a first person interface"[^ref-16]. Players navigate through haunting locations that are replicas of a post-holocaust Manhattan, using authentic New York City geography as the foundation for the game world[^ref-12].
 
@@ -88,11 +88,11 @@ PC Gamer's Richard Cobbett noted that "Manhunter is one of the weirdest SF adven
 
 ### Origins
 
-Manhunter: New York was developed by Evryware, the company founded by brothers Barry and Dave Murry, rather than by Sierra's in-house team[^ref-24]. Their sister Dee Dee joined the team around the time the game was released[^ref-24]. The game was designed by Dave and Barry Murry using a modified AGI (Adventure Game Interpreter) system[^ref-11]. The sequel, Manhunter 2: San Francisco, used the same AGI engine[^ref-13].
+Manhunter: New York was developed by Evryware, the company founded by brothers Barry and Dave Murry, rather than by Sierra's in-house team[^ref-24]. Their sister Dee Dee joined the team around the time the game was released[^ref-24]. The game was designed by Dave and Barry Murry using a modified AGI (Adventure Game Interpreter) system[^ref-11]. In a 1997 interview the brothers recalled that Sierra offered them the use of its game system "to make whatever kind of game we wanted," that their first decision was not to use the word "Quest" in the title, and that the game moved to EGA, giving it 16 colors[^ref-24]. The sequel, Manhunter 2: San Francisco, used the same AGI engine[^ref-13].
 
 ### Production
 
-The development team included executive producer Ken Williams, with the game system developed by Jeff Stephenson, Robert Heitman, and Chris Iden[^ref-1]. Documentation was handled by Jerry Albright and Dave Murry, animated and background scenes by Barry Murry and Dee Dee Murry, while location research was conducted by Dr. Gary Stonedahl and Julie Stonedahl[^ref-1]. Barry Murry also served as the composer for the game's music[^ref-1].
+The development team included executive producer [[Ken Williams]], with the game system developed by [[Jeff Stephenson]], [[Bob Heitman|Robert Heitman]], and Chris Iden[^ref-1]. Documentation was handled by Jerry Albright and Dave Murry, animated and background scenes by Barry Murry and Dee Dee Murry, while location research was conducted by Dr. Gary Stonedahl and Julie Stonedahl[^ref-1]. Barry Murry also served as the composer for the game's music[^ref-1].
 
 Banjo's Mods writes that the Murrys' "technical accomplishments with the AGI engine are quite impressive, making a kind of game it was definitely not designed for"[^ref-16]. The Apple II version lets players skip the sewer maze, because memory limits prevented saving progress in that section[^ref-14].
 
@@ -124,7 +124,7 @@ The game has maintained a dedicated fan following, with users on the GOG Dreamli
 
 ### Enduring Influence
 
-Banjo's Mods argues that "many of the things the Manhunter games did would later become popular (first-person adventures, puzzles of the kind seen in Ripper and Black Dahlia, graphic horor [sic], 'detective'-based gameplay)"[^ref-16]. Fan-made unofficial patches fix small glitches in both games[^ref-22].
+Banjo's Mods argues that "many of the things the Manhunter games did would later become popular (first-person adventures, puzzles of the kind seen in Ripper and Black Dahlia, graphic horor [sic], 'detective'-based gameplay)"[^ref-16]. Fan-made unofficial patches fix small glitches in both games[^ref-22]. On September 21, 2026, Mean Hamster Software announced that its AGI-64 tool for building Commodore 64 versions of Sierra AGI games supports both Manhunter games[^ref-32].
 
 ## Downloads
 
@@ -171,3 +171,4 @@ Banjo's Mods argues that "many of the things the Manhunter games did would later
 [^ref-29]: [GAMES Magazine #98, June/July 1989 (archive.org scan)](https://archive.org/details/games-98-1989-june) – Capsule review, p. 49
 [^ref-30]: [Asimov's Science Fiction, June 1989 (archive.org scan)](https://archive.org/details/Asimovs_v13n06_1989-06) – "Neat Stuff" computer-games column by Matthew J. Costello
 [^ref-31]: [Australian Commodore and Amiga Review, October 1989 (archive.org scan)](https://archive.org/details/Australian_Commodore_and_Amiga_Review_The_Volume_6_Issue_10_1989-10_Saturday_Magazine_AU) – Amiga review by Ken Simpson, p. 61
+[^ref-32]: [Mean Hamster Software: AGI-64 and AGI-ANTIC are here](https://meanhamster.com/news/agi-64-is-now-available) – Sept 21, 2026 announcement; lists both Manhunter games among supported C64 titles
