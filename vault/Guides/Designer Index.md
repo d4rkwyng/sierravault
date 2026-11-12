@@ -1,13 +1,13 @@
 ---
 title: "Designer Index"
 type: index
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Designer Index
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
-This index profiles **57 key figures** who shaped Sierra On-Line and its affiliated studios. Organized by primary role, many individuals contributed across multiple disciplines throughout their careers. Rows follow each person's own profile page; footnotes give the credit source for rows corrected in October 2026.
+This index profiles **57 key figures** who shaped Sierra On-Line and its affiliated studios. Organized by primary role, many individuals contributed across multiple disciplines throughout their careers. Rows follow each person's own profile page; footnotes give the credit source where one is cited.
 
 ---
 
@@ -40,14 +40,14 @@ The storytellers behind Sierra's legendary adventure franchises.
 
 | Name | Primary Series | Notable Games |
 |------|----------------|---------------|
-| [[Al Lowe]] | Leisure Suit Larry | LSL 1–3, 5–7 (LSL 7 with Don Munsil), Torin's Passage[^ref-39][^ref-40] |
-| [[Corey Cole]] | Quest for Glory | QFG I–IV (with Lori); system engineering on QFG V[^ref-3] |
+| [[Al Lowe]] | Leisure Suit Larry | LSL 1–3, 5–7 (LSL 7: Lowe lead design, Don Munsil assistant design), Torin's Passage, [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] (designer, with Josh Mandel), [[1986 - The Black Cauldron\|The Black Cauldron]] (designer, with Roberta Williams)[^ref-39][^ref-40][^ref-44] |
+| [[Corey Cole]] | Quest for Glory | QFG I–IV (with Lori); system engineering on QFG V; [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] (designer, director)[^ref-3] |
 | [[Lori Ann Cole]] | Quest for Glory | QFG I–IV (with Corey); QFG V (designer)[^ref-4] |
-| [[Jane Jensen]] | Gabriel Knight | GK 1-3, Gray Matter |
+| [[Jane Jensen]] | Gabriel Knight | GK 1-3, Gray Matter, [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] (co-designer with Roberta Williams), [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] (co-designer)[^ref-47] |
 | [[Josh Mandel]] | Space Quest, Laura Bow | SQ6 (co-designer with Scott Murphy; left Sierra before it shipped), Dagger of Amon Ra (writer), Freddy Pharkas[^ref-38][^ref-6] |
-| [[Mark Crowe]] | Space Quest | SQ I–IV (Two Guys), SQ V[^ref-36] |
+| [[Mark Crowe]] | Space Quest | SQ I–IV (Two Guys), SQ V; [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] (director, art designer); [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] (producer, game design)[^ref-36] |
 | [[Scott Murphy]] | Space Quest | SQ I–IV (Two Guys), SQ6[^ref-2] |
-| [[Jim Walls]] | Police Quest | PQ 1-3, Blue Force |
+| [[Jim Walls]] | Police Quest | PQ 1-3, [[1990 - Codename - Iceman\|Codename: ICEMAN]] (designer, writer), Blue Force[^ref-46] |
 | [[Daryl Gates]] | Police Quest/SWAT | Namesake and consultant: PQ: Open Season, Police Quest: SWAT series (Tammy Dargan designed Open Season)[^ref-5] |
 
 ### Writers & Designers
@@ -79,7 +79,7 @@ Architects of Sierra's expansion beyond adventure games.
 | Name | Notable Work |
 |------|--------------|
 | [[Damon Slye]] | Red Baron, Aces of the Pacific, A-10 Tank Killer |
-| [[Jeff Tunnell]] | The Incredible Machine; Trophy Bass (executive producer)[^ref-33] |
+| [[Jeff Tunnell]] | The Incredible Machine; [[1990 - Rise of the Dragon\|Rise of the Dragon]] (design), [[1991 - Heart of China\|Heart of China]] (designer, director), [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] (director); Trophy Bass (executive producer)[^ref-33][^ref-45] |
 | [[Richard Tunnell]] | Incredible Machine 2, 3-D Ultra Pinball (additional design)[^ref-41] |
 | [[Kevin Ryan]] | The Incredible Machine (designer and programmer)[^ref-14] |
 | [[Randy Dersham]] | Trophy Bass series; Rise of the Dragon (art director); later head of Dynamix[^ref-11] |
@@ -88,7 +88,7 @@ Architects of Sierra's expansion beyond adventure games.
 | [[Doug Johnson]] | FPS: Baseball Pro '96/'98, Curse You! Red Baron[^ref-17][^ref-28] |
 | [[David Selle]] | EarthSiege, EarthSiege 2, Starsiege[^ref-13] |
 | [[Scott Youngblood]] | Starsiege: Tribes (lead designer), FPS: Ski Racing[^ref-9] |
-| [[Brian Hahn]] | The Incredible Machine games (design); art director on 3-D Ultra titles[^ref-34] |
+| [[Brian Hahn]] | The Incredible Machine games (design); art director on 3-D Ultra titles; artist on [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]]; gags on [[1992 - Johnny Castaway\|Johnny Castaway]][^ref-34][^ref-54] |
 
 ### Impressions Games
 
@@ -96,13 +96,13 @@ Architects of Sierra's expansion beyond adventure games.
 |------|--------------|
 | [[David Lester]] | Founder; Caesar II, Caesar III, Lords of the Realm II[^ref-12] |
 | [[Chris Beatrice]] | Pharaoh (lead designer), Zeus; studio head on Caesar III[^ref-20][^ref-32] |
-| [[Simon Bradbury]] | Lords of the Realm I-II |
+| [[Simon Bradbury]] | Lords of the Realm I-II, Stronghold, CivCity: Rome (game design)[^ref-49] |
 
 ### Papyrus Design Group
 
 | Name | Notable Work |
 |------|--------------|
-| [[Dave Kaemmer]] | NASCAR Racing, IndyCar Racing |
+| [[Dave Kaemmer]] | NASCAR Racing, IndyCar Racing, [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] (lead design), [[1998 - Grand Prix Legends\|Grand Prix Legends]] (designer, lead engineer)[^ref-50][^ref-51] |
 
 ### Synergistic Software
 
@@ -132,8 +132,8 @@ The French studio that brought a unique European sensibility to Sierra's catalog
 
 | Name | Notable Work |
 |------|--------------|
-| [[Muriel Tramis]] | Gobliiins series, Lost in Time |
-| [[Pierre Gilhodes]] | Gobliiins series (1-6), Inca |
+| [[Muriel Tramis]] | Gobliiins series, Lost in Time, Méwilo (1987), Freedom: Rebels in the Darkness (1988)[^ref-48] |
+| [[Pierre Gilhodes]] | Gobliiins series (1-6), [[1992 - Inca\|Inca]] (created by; designer credit disputed), [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|The Bizarre Adventures of Woodruff and the Schnibble]] (scenario, graphics)[^ref-52] |
 
 ---
 
@@ -144,9 +144,9 @@ The sonic architects who made Sierra games unforgettable.
 | Name | Notable Work | Achievements |
 |------|--------------|--------------|
 | [[Mark Seibert]] | Composer; music director (early 1990s); producer from 1992[^ref-21][^ref-30] | "Girl in the Tower" |
-| [[Ken Allen]] | Space Quest IV, King's Quest V | Recalls PC Magazine likening the SQ IV theme to John Williams[^ref-22] |
+| [[Ken Allen]] | Space Quest IV, King's Quest V, [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] (music), [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] (composer), Descent (music), Return to Ringworld (designer, director)[^ref-53] | Recalls PC Magazine likening the SQ IV theme to John Williams[^ref-22] |
 | [[Robert Holmes]] | Gabriel Knight trilogy | Jane Jensen collaborator |
-| [[Chris Braymen]] | King's Quest VI, Quest for Glory II, EcoQuest | Lead composer on KQ VI and EcoQuest[^ref-25] |
+| [[Chris Braymen]] | King's Quest VI, Quest for Glory II, EcoQuest | Composer on KQ VI and EcoQuest (VGMPF lists "Lead Composer")[^ref-25] |
 
 ---
 
@@ -252,7 +252,19 @@ The project leaders who brought games from concept to completion.
 [^ref-37]: [MobyGames – Neal Hallford credits](https://www.mobygames.com/person/4269/neal-hallford/credits/) – Return to Krondor (1998): "Original Story Concept"
 [^ref-38]: [MobyGames – Josh Mandel credits](https://www.mobygames.com/person/260/josh-mandel/credits/) – Space Quest 6 (Design, Writing); The Dagger of Amon Ra (Writer, voice roles)
 [^ref-39]: [MobyGames – Al Lowe credits](https://www.mobygames.com/person/3320/al-lowe/credits/) – design credits on LSL 1, 2, III, 5, 6 and Love for Sail! (Lead Design); Torin's Passage (Designer/Writer)
-[^ref-40]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – "Leisure Suit Larry: Love for Sail, designed by Al Lowe and Don Munsil"
+[^ref-40]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – "Leisure Suit Larry: Love for Sail, designed by Al Lowe and Don Munsil" (MobyGames, ref 44, lists Munsil under Assistant Design)
 [^ref-41]: [MobyGames – Richard Tunnell credit sheet (Wayback, Dec 2020)](http://web.archive.org/web/20201209084041/https://www.mobygames.com/developer/sheet/view/developerId,16748/) – "3-D Ultra Pinball (1995) ( Additional Design Help )"; The Incredible Machine 2 (Designers)
-[^ref-42]: [Adventure Game Fan Fair - Robert Heitman](https://adventuregamefanfair.com/guests/robert-heitman/) – co-developed the SCI system with Jeff Stephenson
-[^ref-43]: [Edenwaith - Reverse Engineering AGI](https://www.edenwaith.com/blog/index.php?p=87) – names "Jeff Stephenson, Chris Iden, Sol Ackerman, Robert Heitman" as designers of AGI
+[^ref-42]: [Adventure Game Fan Fair - Robert Heitman (Wayback)](http://web.archive.org/web/20260617002802/https://adventuregamefanfair.com/guests/robert-heitman/) – "went on to co-develop the SCI system with Jeff Stephenson"; co-developed the SCI system with Jeff Stephenson
+[^ref-43]: [Edenwaith - Reverse Engineering AGI (Wayback)](http://web.archive.org/web/20260614215742/https://www.edenwaith.com/blog/index.php?p=87) – names "Jeff Stephenson, Chris Iden, Sol Ackerman, Robert Heitman" as designers of AGI
+
+[^ref-44]: [MobyGames – Leisure Suit Larry: Love for Sail! (1996)](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/) – "Lead Design Al Lowe"; "Assistant Design Don Munsil"
+[^ref-45]: [MobyGames – Jeffrey Tunnell credit sheet (Wayback, Apr 2016)](https://web.archive.org/web/20160408062720/http://www.mobygames.com/developer/sheet/view/developerId,94388/) – "Heart of China (1991) ( Designer and Director )"; "Rise of the Dragon (1990) ( Design )"; "The Adventures of Willy Beamish (1991) ( Director )"
+[^ref-46]: [MobyGames – James Walls credits](https://www.mobygames.com/person/83001/james-walls/) – "Code-Name: Iceman" (Game Designer); Police Quest 3: The Kindred (Game Designer)
+[^ref-47]: [MobyGames – Jane Jensen credits](https://www.mobygames.com/person/2199/jane-jensen/credits/) – King's Quest VI: Heir Today, Gone Tomorrow ("Designed by"); EcoQuest: The Search for Cetus ("Game Designers")
+[^ref-48]: [Wikipedia – Muriel Tramis](https://en.wikipedia.org/wiki/Muriel_Tramis) – "She has written and directed the adventure games Méwilo, Freedom: Rebels in the Darkness, Geisha, Fascination, Lost in Time"
+[^ref-49]: [MobyGames – Simon Bradbury credits](https://www.mobygames.com/person/16533/simon-bradbury/credits/) – Stronghold (2001, "Game Design (FireFly)"); CivCity: Rome (2006, "Game Design")
+[^ref-50]: [MobyGames – Indianapolis 500: The Simulation credits (Wayback, Sep 2022)](https://web.archive.org/web/20220929220307/https://www.mobygames.com/game/dos/indianapolis-500-the-simulation/credits) – "Lead Design David Kaemmer"
+[^ref-51]: [MobyGames – Grand Prix Legends credits (Wayback, Jul 2020)](https://web.archive.org/web/20200728184056/https://www.mobygames.com/game/windows/grand-prix-legends/credits) – "Designers Randy Cassidy, David Kaemmer, Brian C. Mahony, Matt Sentell, Richard Yasi"; Lead Engineers include David Kaemmer
+[^ref-52]: [MobyGames – Pierre Gilhodes credits](https://www.mobygames.com/person/10718/pierre-gilhodes/credits/) – Inca (1992) "Created by"; The Bizarre Adventures of Woodruff and the Schnibble (1995) "Scenario" and "Graphics / Artwork"
+[^ref-53]: [MobyGames – Ken Allen credits (Wayback, Feb 2024)](https://web.archive.org/web/20240213112141/https://www.mobygames.com/person/273/ken-allen/credits/) – The Colonel's Bequest ("Music by"); Space Quest I (1991, "Composer"); Descent ("Music"); Return to Ringworld ("Designer", "Director")
+[^ref-54]: [Jeff Tunnell – Johnny Castaway Common Questions (Wayback, Sep 2026)](https://web.archive.org/web/20260927171540/https://jefftunnell.com/johnny-castaway-common-questions/) – "Brian Hahn and I, but mostly Brian, came up with most of the gags"

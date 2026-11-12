@@ -1,11 +1,11 @@
 ---
 title: "Easter Eggs and Secrets"
 type: guide
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 ---
 # Easter Eggs and Secrets: Sierra's Hidden Treasures
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 > "If you guys don't mind paying lawyers' fees, you can put whatever you want in your game."
 > — [[Ken Williams]] to the Two Guys from Andromeda[^ref-1]
@@ -26,11 +26,11 @@ The Space Quest series, created by the "Two Guys from Andromeda" ([[Mark Crowe]]
 [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] takes the self-reference furthest: its plot revolves around Roger Wilco rescuing the game's own creators. At an orbital Monolith Burger station, achieving a high score in the Astro Chicken arcade game reveals a hidden distress message from the "Two Guys" who've been abducted by ScumSoft.[^ref-3] Players must infiltrate ScumSoft headquarters, battle Elmo Pug in a Rock 'Em Sock 'Em Robots parody, and deliver Crowe and Murphy to Ken Williams at Sierra On-Line's real offices.[^ref-4]
 
 - **Fourth Wall Break:** In the finale, one of the Two Guys turns to the screen and asks if the game was worth $59.95[^ref-47]
-- **ScumSoft Cubicles:** Ken Williams and Rick Cavin (Head of Production) appear as whip-cracking overseers over programmer cubicles—a darkly humorous commentary on game development[^ref-6]
+- **ScumSoft Cubicles:** Ken Williams and Rick Cavin appear as whip-cracking overseers over programmer cubicles—a darkly humorous commentary on game development. SpaceQuest.net's cameo page calls Cavin "Head of Production at the time"[^ref-6], while Wikipedia describes him as Sierra's "director of operations"[^ref-55]
 - **Anti-frustration Feature:** The Astro Chicken message also appears after failing 10 times, for players who can't master the arcade gameplay[^ref-5]
 
 **Hidden Ken Williams Easter Egg (Space Quest I)**
-In the original [[1986 - Space Quest - The Sarien Encounter|Space Quest]], a Sarien guard near the elevators on the Deltaur will eventually ask if you own King's Quest II; talking to him earns 1 point and answering "yes" earns 5 more.[^ref-48] Scott Murphy later said: "Kissing the Sarien was all Ken Williams' doing, as was the KQ2 reference(s). We let him do some programming and just because he runs the company he thinks he can do whatever he wants."[^ref-7]
+In the original [[1986 - Space Quest - The Sarien Encounter|Space Quest]], a Sarien guard aboard the Deltaur will eventually ask if you own King's Quest II; talking to him earns 1 point and answering "yes" earns 5 more.[^ref-48] Scott Murphy later said: "Kissing the Sarien was all Ken Williams' doing, as was the KQ2 reference(s). We let him do some programming and just because he runs the company he thinks he can do whatever he wants."[^ref-7]
 
 **Version-Specific Developer Messages (Space Quest I)**
 In early versions, typing "ken" on the Arcada made Ken Williams walk onto the screen complaining the game was behind schedule; this does not work in version 2.2. The reverse is true of typing "scott" or "scott murphy", which displays a personal message from Scott Murphy asking players to write him at Sierra: it works in version 2.2 but not in the old 1.0X release.[^ref-7][^ref-39]
@@ -133,7 +133,7 @@ Sierra developers frequently inserted themselves and their colleagues into games
 
 ### The Williams Family
 - **Roberta Williams** appears as herself in LSL3's Sierra offices ending[^ref-30][^ref-45] and can be spotted at random when exiting the antique shop in [[1995 - Phantasmagoria|Phantasmagoria]][^ref-31]
-- **Roberta Williams as Mother Goose** - MobyGames' trivia for the 1991 VGA/CD version of [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] (covered on the original game's page) says the Mother Goose on the box is Roberta Williams in costume, and that the two children next to her are hers; sources disagree about the children[^ref-32]
+- **Roberta Williams as Mother Goose** - MobyGames' trivia for its Mixed-Up Mother Goose entry (the 1991 VGA/CD version; the game is covered at [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]]) says the Mother Goose on the box is Roberta Williams in costume, and that the two children next to her are hers. The trivia does not say which edition's box is meant, and sources disagree about the children[^ref-32]
 - **Ken Williams** appears in Space Quest I (the "ken" easter egg)[^ref-7], Space Quest III (ending sequence)[^ref-6], LSL1 VGA (bar patron)[^ref-22], and as an overseer at ScumSoft[^ref-6]
 
 ### Al Lowe
@@ -185,7 +185,7 @@ Many easter eggs are triggered by typing specific commands:
 ### Debug Modes, Cheats and Leftovers
 Some games have hidden debug modes or cheats, and some leave traces of them in their data:
 - **Space Quest III:** Typing "pump shark" or "backstage pass" enables debug mode; then "get life" grants items to skip sections[^ref-40]
-- **Inca:** During most action sequences, press \<SHIFT\>\<CTRL\>\<ALT\> I N C A to maximize lives and power[^ref-41]
+- **Inca:** Pressing \<SHIFT\>\<CTRL\>\<ALT\> restores all lives and power; the Sierra Chest says it does not work in the final fight against Aguirre[^ref-54]. A GameFAQs walkthrough adds that typing I N C A after the three keys works "during most action sequences"[^ref-41]; the Sierra Chest lists no letters
 - **Heart of China:** Unused text for a debug menu (12 entries, from "CANCEL" to jumps between locations) sits in VOLUME.001 at offset 0x15F80; it is leftover data, not a mode players can reach[^ref-49]
 
 ### Click Everything
@@ -209,7 +209,7 @@ Some easter eggs only appear on return visits:
 |------|-------------|--------|
 | LSL2 (v1.002.000 only) | Enter 555-0724 at the copy-protection phone-number prompt | Substitutes for any girl's number (Al Lowe's birthday)[^ref-21] |
 | LSL Reloaded | CTRL + ALT + X when the age quiz asks its first question | Skips the age-verification quiz; the game shows "CHEATER, CHEATER. CHEATER!!!"[^ref-43] |
-| Inca | SHIFT + CTRL + ALT, then I N C A, during most action sequences | Max lives and power[^ref-41] |
+| Inca | SHIFT + CTRL + ALT (Sierra Chest: not in the final fight); GameFAQs adds I N C A | Restores lives and power[^ref-54][^ref-41] |
 | Space Quest III | "pump shark" or "backstage pass" | Debug mode[^ref-40] |
 
 ---
@@ -283,7 +283,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-32]: [MobyGames – Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – trivia: "The picture of 'Mother Goose' on the box was of course Roberta Williams in costume. Less known, though, is that the two children next to her are hers."
 
-[^ref-33]: [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]] – Al Lowe wanted poster
+[^ref-33]: [MobyGames – Freddy Pharkas: Frontier Pharmacist](https://www.mobygames.com/game/1785/freddy-pharkas-frontier-pharmacist/) – trivia: "In Chester Field's store there is a wanted poster of Al Lowe."
 
 [^ref-34]: [TV Tropes – Shivers Two](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ShiversTwoHarvestOfSouls) – Al Lowe photograph cameo as sheriff
 
@@ -318,3 +318,7 @@ Some easter eggs only appear on return visits:
 [^ref-52]: [GameFAQs – Police Quest 2: The Vengeance trivia](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs) – "go up the escalators to the 2nd floor and walk through the metal detector… talk to the man furthest to the right. He'll introduce himself as 'Larry Laffer'"
 
 [^ref-53]: [MobyGames – Hero's Quest: So You Want to Be a Hero (1989)](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – trivia (dossier copy): "If you visit Mirror Lake twice a submarine will emerge… a plug for… Codename: ICEMAN. In the VGA remake the submarine is replaced by Delphineus… and the monster of Loch Ness"
+
+[^ref-54]: [The Sierra Chest – Inca cheats](https://web.archive.org/web/20250123165733/https://www.sierrachest.com/index.php?a=games&id=191&title=inca-1&fld=cheats) – "Restoring all lives and power: Press SHIFT CTRL ALT simultaneously. This cheat does not work in the final fight against Aguirre."
+
+[^ref-55]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon) – "parody versions of Sierra's president, Ken Williams, and director of operations, Rick Cavin"

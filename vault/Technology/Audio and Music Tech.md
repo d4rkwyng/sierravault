@@ -1,14 +1,14 @@
 ---
 title: "Audio and Music Technology"
 type: technology
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 description: "Sierra's audio and music technology evolution: PC speaker → Tandy → AdLib → Roland MT-32 → General MIDI → CD audio → recorded scores. The technical and creative arc behind Sierra's music program."
 tags: [technology, audio, music, midi, mt-32, adlib, cd-audio]
 ---
 
 # Audio and Music Technology
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,25 +30,25 @@ Notable: the Apple IIGS (1986) had a 15-voice Ensoniq sound chip that supported 
 ## Generation 2: Tandy 3-voice + IBM PCjr (1984–1993)
 
 **Hardware:** Tandy 1000 / IBM PCjr SN76489 chip — 3 square-wave voices plus white noise.[^ref-5] Ken Williams in 1988: "The Tandy 1000 is slightly better with three simultaneous notes."[^ref-26]
-**AGI engine support:** Native Tandy/PCjr playback.
+**AGI engine support:** Tandy/PCjr sound alongside the PC speaker, as listed for King's Quest III.[^ref-35]
 
 The IBM PCjr ([[Adventure Game Interpreter|AGI]]'s launch platform for [[1984 - King's Quest - Quest for the Crown|King's Quest]] in 1984) had a 3-voice TI SN76489 chip — a dramatic step up from a single PC speaker. The Tandy 1000 used the same chip.[^ref-5] AGI games such as [[1986 - King's Quest III - To Heir Is Human|King's Quest III]] supported Tandy/PCjr sound alongside the PC speaker.[^ref-35] Support continued well into the SCI era: MobyGames' DOS specs still list Tandy/PCjr sound for [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] and [[1993 - Space Quest V - The Next Mutation|Space Quest V]] (1993).[^ref-44][^ref-45][^ref-12]
 
 ## Generation 3: AdLib (1987–1992)
 
 **Hardware:** AdLib Music Synthesizer Card (Yamaha YM3812 OPL2 chip) — 9 FM-synthesis voices.[^ref-6][^ref-48]
-**SCI0 engine support:** AdLib music playback with multi-voice composition.
+**SCI0 engine support:** AdLib music listed in the DOS specs of King's Quest IV.[^ref-10]
 
-The AdLib card (released 1987) was the first add-on sound card for IBM compatibles to achieve widespread acceptance and became the first de facto standard for PC audio, until the Sound Blaster overshadowed it.[^ref-6] Sierra struck deals with both Roland and AdLib and wrote music for the AdLib and the MT-32 starting with *King's Quest IV*.[^ref-47] The card's chip offered nine melodic FM voices,[^ref-48] enough for chords, harmonies and varied instruments. The Digital Antiquarian gives its launch price as $245.[^ref-27]
+The AdLib card (released 1987) was the first add-on sound card for IBM compatibles to achieve widespread acceptance and became the first de facto standard for PC audio, until the Sound Blaster overshadowed it.[^ref-6] The card's chip offered nine melodic FM voices,[^ref-48] enough for chords, harmonies and varied instruments. The Digital Antiquarian gives its launch price as $245.[^ref-27]
 
-The AdLib was not the card [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV (SCI)]]'s score was written for — that was the MT-32 (see below) — but Sierra "duly added Ad Lib support to King's Quest IV and all the other SCI games before they shipped."[^ref-27] From then on, SCI releases routinely listed AdLib among their supported devices.[^ref-10][^ref-34][^ref-12]
+Sierra struck deals with both Roland and AdLib; Eric Wing's history of PC game MIDI says it adopted both devices and composed music for them "starting with King's Quest 4."[^ref-47] [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]]'s full score was scored on the MT-32 (see below),[^ref-9] and the Digital Antiquarian adds that Sierra "duly added Ad Lib support to King's Quest IV and all the other SCI games before they shipped."[^ref-27] From then on, SCI releases routinely listed AdLib among their supported devices.[^ref-10][^ref-34][^ref-12]
 
 Creative's Sound Blaster, released in 1989, used the same YM3812 chip and "provided compatibility with the market leader AdLib sound card"; *Compute!* called the opening music of [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] on the card "extraordinary".[^ref-49]
 
 ## Generation 4: Roland MT-32 (1988–1993)
 
 **Hardware:** Roland MT-32 Multi-Timbre Sound Module — LA synthesis (samples for attacks and drums, synthesis for the sustain), 32 partials giving 8 to 32 simultaneous notes, 128 preset synth sounds and 30 rhythm sounds.[^ref-9]
-**SCI0/SCI1/SCI1.1 engine support:** Full multi-channel routing.
+**SCI-era engine support:** MT-32 music listed in the DOS specs of King's Quest IV, V and VI and Space Quest IV.[^ref-10][^ref-44][^ref-33][^ref-45]
 
 The Roland MT-32 (1987) had an original list price of $695; Sierra sold it bundled with the necessary MPU-401 interface for $550.[^ref-9]
 
@@ -68,7 +68,6 @@ General MIDI appears in Sierra's tech specs from 1992: MobyGames lists GM alongs
 
 ## Generation 6: CD-ROM digital speech and audio (1991–1996)
 
-**Hardware:** Sound Blaster Pro/16/AWE32 with CD-ROM drive.
 **SCI1 onward:** Digital speech and CD audio; the CD versions of Mixed-Up Mother Goose and King's Quest V were SCI1 builds.[^ref-51]
 
 The CD-ROM era unlocked two transformative capabilities:
@@ -80,7 +79,7 @@ Voice acting became a significant production task. In 1992 Sierra's InterAction 
 
 ## Generation 7: Recorded scores (1995–1998)
 
-**Hardware:** Recorded music on CD; SCI2 streaming.
+**Hardware:** Recorded music on CD.
 
 For some of its highest-profile CD-ROM titles, Sierra moved from computer-generated music toward recorded scores:
 
@@ -95,12 +94,12 @@ Some of this music has since been revisited: *A Simple Refrain* presents Robert 
 
 **Playback:** Emulated sound devices in ScummVM.[^ref-24]
 
-ScummVM can emulate the MT-32, provided the player supplies the original MT-32 ROMs, and offers MAME, DOSBox and Nuked OPL emulators for AdLib music.[^ref-24]
+ScummVM can emulate the MT-32, provided the player supplies the original MT-32 ROMs, and offers MAME, DOSBox and Nuked OPL emulators for AdLib music.[^ref-24] For General MIDI music it can use the FluidSynth software synthesizer, if the build includes libfluidsynth and the player specifies a SoundFont; the documentation notes that FluidSynth's processor requirements are quite high.[^ref-53]
 
 Notable preservation efforts:
 
 - **Munt** — Open-source library that emulates "(approximately)" the Roland MT-32, CM-32L and LAPC-I; the project also ships a patch for the official DOSBox 0.74 release.[^ref-20]
-- **ScummVM SCI music routing** — Plays original SCI music files through emulated or modern audio.[^ref-24]
+- **ScummVM FluidSynth** — Plays General MIDI music through a SoundFont-based software synthesizer.[^ref-53]
 
 For [[2015 - King's Quest|King's Quest (2015)]] (Unreal Engine 3), The Odd Gentlemen's score was written by Ben and David Stanton; David Stanton described how the original games inspired it in a 2015 behind-the-scenes video.[^ref-21][^ref-39]
 
@@ -109,6 +108,7 @@ For [[2015 - King's Quest|King's Quest (2015)]] (Unreal Engine 3), The Odd Gentl
 ## Notable Sierra composers
 
 - **William Goldstein** — *King's Quest IV* (1988). Known for the TV series *Fame* and the Touchstone film *Hello Again*.[^ref-26]
+- **[[Chris Braymen]]** — Credited as composer (Christopher G. Braymen) on *King's Quest VI* (1992), *EcoQuest: The Search for Cetus* (1991) and *The Dagger of Amon Ra* (1992).[^ref-54][^ref-55][^ref-56]
 - **[[Mark Seibert]]** — Hired as a musician and music editor on *King's Quest IV*, promoted to music director after a few years, and to producer in 1992. Co-composed *Phantasmagoria* with Jay Usher; Mask of Eternity.[^ref-32][^ref-17]
 - **[[Ken Allen]]** — *The Colonel's Bequest*, *King's Quest V*, *Space Quest IV*, *Conquests of the Longbow*, *Jones in the Fast Lane*, among others.[^ref-36]
 - **[[Robert Holmes]]** — *Gabriel Knight: Sins of the Fathers*; *The Beast Within* (main themes and opera sequences; Jay Usher credited for "Additional Orchestration and Arrangement"); his themes underpin David Henry's *Gabriel Knight 3* score. Later *Gray Matter*.[^ref-16][^ref-29][^ref-52][^ref-30]
@@ -126,8 +126,7 @@ For users running classic Sierra games today via [[ScummVM]] or DOSBox:
 
 - **AGI titles** — Original DOS releases supported the PC speaker and Tandy/PCjr sound.[^ref-35]
 - **SCI0–SCI1.1 titles** — PC speaker, AdLib and MT-32 are the common options; General MIDI appears only from about 1992 onward (see Generation 5).[^ref-10][^ref-33] ScummVM's built-in MT-32 emulation needs the original ROMs.[^ref-24]
-- **SCI2/SCI32 titles** — Original MIDI + Red Book audio tracks supported.
-- **CD-ROM games** — Original speech tracks supported in their original form.
+- **General MIDI** — ScummVM can play General MIDI music through FluidSynth with a SoundFont.[^ref-53]
 
 The recommended setup for music-purist players: ScummVM's built-in MT-32 emulation, which requires the original MT-32 ROMs taken from the player's own module, for SCI music; original CD-ROM speech tracks for digital audio.[^ref-24]
 
@@ -139,7 +138,7 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 - [[Sierra Creative Interpreter]] — SCI engine audio architecture
 - [[ScummVM|ScummVM]] — Modern audio playback for original game music
 - [[Engine History|Engine History]] — Engine generations correlated to audio capabilities
-- [[Ken Allen]], [[Mark Seibert]], [[Robert Holmes]] — Designer profiles for the major composers
+- [[Chris Braymen]], [[Ken Allen]], [[Mark Seibert]], [[Robert Holmes]] — Designer profiles for the major composers
 
 ## References
 
@@ -189,3 +188,7 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-51]: [ScummVM Wiki — Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) — Mixed-Up Mother Goose (CD Version) under SCI1 (early); King's Quest V (CD Version) under SCI1 (late)
 [^ref-46]: [Bandcamp — A Simple Refrain: The Game Themes of Robert Holmes](https://robertholmessoundtracks.bandcamp.com/album/a-simple-refrain-the-game-themes-of-robert-holmes) — Solo-piano versions by Roger Hooper of GK1–3, Gray Matter and Moebius themes
 [^ref-52]: [MobyGames – The Beast Within: A Gabriel Knight Mystery credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) — "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
+[^ref-53]: [ScummVM Documentation — General MIDI device emulation (FluidSynth)](https://docs.scummvm.org/en/latest/advanced_topics/understand_audio.html) – requires libfluidsynth support and a SoundFont; "processor requirements for FluidSynth are quite high"
+[^ref-54]: [MobyGames — King's Quest VI credits (DOS)](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/credits/dos/) – "Composer: Christopher G. Braymen"
+[^ref-55]: [MobyGames — EcoQuest: The Search for Cetus credits (DOS)](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/credits/dos/) – Music: Christopher G. Braymen, Mark Seibert, Aubrey Hodges and others
+[^ref-56]: [MobyGames — The Dagger of Amon Ra credits (DOS)](https://www.mobygames.com/game/462/the-dagger-of-amon-ra/credits/dos/) – "Composer: Christopher G. Braymen"
