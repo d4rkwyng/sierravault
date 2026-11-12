@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: null
 protagonist: None (Player as inventor)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: null
 description: The Incredible Machine (2011) is an iOS remake of the classic physics puzzle series, developed by Playdom and published by Disney Mobile for iPad and iPhone, with Jeff Tunnell involved.
 tags: [2010s, puzzle, ios, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -90,7 +90,7 @@ The original [[1992 - The Incredible Machine]] was developed by Dynamix and Jeff
 
 ### Production
 
-GamePro reported that the iPad game was "built from the ground up, with completely new sprites and art work but with many returning objects and characters," and Disney said the creative team behind the early-1990s games had returned[^ref-46]. Pocket Gamer likewise reported that the game came "courtesy of the original developers behind the 1993 PC hit"[^ref-57]. The game was shown at Disney's booth at E3 2011[^ref-49]. The publisher's App Store listing carried the marketing line "WINNER***BEST iPHONE/iPAD GAME OF E3***IGN"; this is Disney's own promotional wording, and the IGN source found lists only nominations[^ref-60][^ref-51].
+GamePro reported that the iPad game was "built from the ground up, with completely new sprites and art work but with many returning objects and characters," and GamePro's Chris Holt wrote that "the original developers behind the early-90s puzzlers are back" and that "the creative team behind it remains the same"[^ref-46]. Pocket Gamer likewise reported that the game came "courtesy of the original developers behind the 1993 PC hit"[^ref-57]. The game was shown at Disney's booth at E3 2011[^ref-49]. The publisher's App Store listing carried the marketing line "WINNER***BEST iPHONE/iPAD GAME OF E3***IGN"; this is Disney's own promotional wording, and the IGN source found lists only nominations[^ref-60][^ref-51].
 
 ### Version History
 
@@ -108,11 +108,11 @@ IGN nominated the game in two categories of its Best of E3 2011 awards: Best iPh
 
 ### Availability
 
-The app is no longer sold; Hardcore Gaming 101 reports that it was removed from storefronts at some point after release[^ref-52]. Hardcore Gaming 101's series retrospective follows it with Contraption Maker (2014), which "claims to come right from that series' original creators"[^ref-52].
+The app is no longer sold; Wired reported in 2013 that Disney "quietly pulled the game from the iOS store within a year of its release"[^ref-62], and Hardcore Gaming 101 likewise reports that it was removed from storefronts[^ref-52]. Hardcore Gaming 101's series retrospective follows it with Contraption Maker (2014), which "claims to come right from that series' original creators"[^ref-52] and is sold on Steam[^ref-63].
 
 ## Downloads
 
-The game is not available for purchase or download; it has been removed from the App Store[^ref-52].
+**Purchase / Digital Stores:** The game is not available for purchase or download. It was removed from the App Store within a year of its release, according to Wired[^ref-62][^ref-52]. It has no Steam or GOG listing (checked November 2026).
 
 ## See Also
 
@@ -150,3 +150,5 @@ The game is not available for purchase or download; it has been removed from the
 [^ref-59]: [ifun.de – Disney bringt den Klassiker The Incredible Machine aufs iPad](https://www.ifun.de/disney-bringt-den-klassiker-the-incredible-machine-aufs-ipad-13099/) – German news, June 10, 2011; 60 levels, 90+ items, 2.39 euros, in-app level packs
 [^ref-60]: [Apple App Store listing – The Incredible Machine, Disney (archived March 2012)](https://web.archive.org/web/2012/http://itunes.apple.com/us/app/the-incredible-machine/id440297659?mt=8) – publisher description: 75 levels, pack names, 90+ items, Game Center stars, v1.1.0 notes, Expert pack; IGN line is marketing
 [^ref-61]: [Nine Over Ten – The Incredible Machine review](https://www.nineoverten.com/?p=8135) – July 15, 2011; iPhone version, 60 levels, $2.99, Game Center star leaderboards, 4.5 out of 5
+[^ref-62]: [Wired – The Incredible Machine Is Back, Spiritually](https://www.wired.com/2013/05/contraption-maker/) – Bo Moore, May 13, 2013; Disney's 2011 iOS version "quietly pulled … within a year of its release"
+[^ref-63]: [Steam – Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) – store page for the 2014 spiritual successor (released July 7, 2014)
