@@ -10,7 +10,7 @@ series: B.C.
 engine: Custom
 protagonist: Thor
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: B.C.'s Quest for Tires is a 1983 side-scrolling action game based on
   Johnny Hart's newspaper comic strip *B.C.*, published by Sierra On-Line and developed
   by Sydney Development Corp.
@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C.'s Quest for Tires
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,8 +30,8 @@ Contemporary reviewers praised the game's animation and faithful recreation of H
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-1]
-> **Designer:** Rick Banks, Michael Bate[^ref-3]
-> **Programmer:** [[Chuck Benton]] (Atari 8-bit, Commodore 64)[^ref-3]
+> **Designer:** Rick Banks, Michael Bate[^ref-24][^ref-20]
+> **Programmer:** [[Chuck Benton]] (Atari 8-bit, Commodore 64)[^ref-3][^ref-12]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Custom
 > **Platforms:** Apple II, Atari 8-bit, ColecoVision, Commodore 64, IBM PC, MSX, ZX Spectrum[^ref-1]
@@ -83,7 +83,7 @@ The core mechanic involves precise timing of jumps and ducks to avoid hazards. A
 
 The game received mixed to positive reviews upon release, with particular praise for its graphics and animation quality.
 
-*Electronic Fun* awarded the game 3 out of 4 stars in February 1984, praising that "the graphics have been lovingly" recreated from the source material.[^ref-16] *Electronic Games* (May 1984) was enthusiastic about the conversion, stating: "Programmer Chuck Benton has translated all of the comic strip's considerable charm to the electronic game screen using graphics that will certainly please all Hart fans in the audience."[^ref-16]
+*Electronic Fun* awarded the game 3 out of 4 stars in February 1984, praising that "the graphics have been lovingly" recreated from the source material.[^ref-16] *Electronic Games* (July 1984, reviewer Bill Kunkel) covered the ColecoVision version, noting that the right controller button speeds Thor up, making each successful jump worth double, quadruple or even eight times the points (the left button brakes), that he travels through twelve screens, and that "the animation is top-quality".[^ref-32] *Electronic Games* (May 1984) was enthusiastic about the conversion, stating: "Programmer Chuck Benton has translated all of the comic strip's considerable charm to the electronic game screen using graphics that will certainly please all Hart fans in the audience."[^ref-16]
 
 *ANTIC Magazine* (March 1984) offered a nuanced assessment from reviewer Harvey Bernstein, praising "the animation is first-rate" while criticizing the gameplay: "It seems as though the programmers put so much effort into recreating the look of B.C. that they forgot about game play." He concluded: "I can recommend BC's Quest for Tires for its animation" but "I think most gamers will enjoy the game for a day or two, then relegate it to the shelf."[^ref-5]
 
@@ -125,13 +125,13 @@ The *C64-Wiki* community notes: "Spartan comical graphics with a bumpy scrolling
 
 ### Origins
 
-B.C.'s Quest for Tires was developed by Sydney Development Corp., a "relatively obscure Canadian developer, not even having their own Wikipedia page."[^ref-4] The *Georgia Straight* places the company at the start of Vancouver's game industry: it was formed in 1978 by Tarrnie Williams, who had spent ten years working in Vancouver for IBM, and it published *Evolution*, the first game created in Vancouver.[^ref-29] Sierra On-Line licensed the rights to the characters from Johnny Hart's *B.C.* comic strip,[^ref-5] which made its newspaper debut on February 17, 1958.[^ref-12]
+B.C.'s Quest for Tires was developed by Sydney Development Corp., a "relatively obscure Canadian developer, not even having their own Wikipedia page," as a 2021 *Data Driven Gamer* post put it;[^ref-4] the company has since gained a Wikipedia article, which describes it as the first publicly traded software company in Canada.[^ref-33] The *Georgia Straight* places the company at the start of Vancouver's game industry: it was formed in 1978 by Tarrnie Williams, who had spent ten years working in Vancouver for IBM, and it published *Evolution*, the first game created in Vancouver.[^ref-29] Sierra On-Line licensed the rights to the characters from Johnny Hart's *B.C.* comic strip,[^ref-5] which made its newspaper debut on February 17, 1958.[^ref-12]
 
 The game's concept drew inspiration from the side-scrolling action of Irem's *Moon Patrol* arcade game from 1982, adapting that gameplay style to the prehistoric comic strip setting.[^ref-1] The title itself was a clever pun on the 1981 French film *Quest for Fire*, a serious prehistoric drama—transforming it into a comedic play on words for a game about wheeled transportation.[^ref-3]
 
 ### Production
 
-Development was split between multiple programmers working on different platform versions. Rick Banks and MaryLou O'Rourke of Sydney Development programmed the Apple II, ColecoVision, and IBM PC versions.[^ref-12] An anonymous commenter quoted by *Data Driven Gamer* suggested that ColecoVision was likely the original target platform, since the Atari and Commodore versions are credited to Sierra's Chuck Benton.[^ref-4]
+Development was split between multiple programmers working on different platform versions. The FRGCB blog credits Rick Banks and MaryLou O'Rourke of Sydney Development with the Apple II, ColecoVision, and IBM PC versions,[^ref-12] while Wikipedia, citing the Giant List of Classic Game Programmers, credits Banks and O'Rourke with ColecoVision, Justin Gray with Apple II, and Chuck Benton with the Atari 8-bit and Commodore 64 versions.[^ref-3] An anonymous commenter quoted by *Data Driven Gamer* suggested that ColecoVision was likely the original target platform, since the Atari and Commodore versions are credited to Sierra's Chuck Benton.[^ref-4]
 
 Chuck Benton, who had previously designed and programmed the notorious *Softporn Adventure* for On-Line Systems (which later spawned the *Leisure Suit Larry* series), handled the Atari 8-bit and Commodore 64 conversions.[^ref-17] *The New Yorker* describes the unusual circumstances of his involvement: Sierra hired him to convert its ColecoVision titles to the Commodore 64. "I'd play the game as far as I could," Benton explained, "and then would, essentially, create a knock-off of what I'd seen."[^ref-21]
 
@@ -139,16 +139,18 @@ Benton completed his version in just eight weeks.[^ref-21] Remarkably, he went b
 
 Mike Davies converted the ZX Spectrum version for Software Projects Ltd.[^ref-22] N.R. Dick of Interphase Technologies handled the MSX conversion for Toshiba-EMI Ltd.[^ref-12]
 
-**Development Credits:**[^ref-3][^ref-11][^ref-12][^ref-17]
-- **Designers:** Rick Banks, Michael Bate
-- **Programmer (Apple II, ColecoVision, IBM PC):** Rick Banks, MaryLou O'Rourke
+**Development Credits:**[^ref-3][^ref-11][^ref-12][^ref-17][^ref-20][^ref-24]
+- **Designers:** Rick Banks, Michael Bate (per CollectorVision; IMDb lists Michael Bate as a director)
+- **Programmer (ColecoVision):** Rick Banks, MaryLou O'Rourke
+- **Programmer (Apple II):** Justin Gray (Giant List, via Wikipedia) or Rick Banks and MaryLou O'Rourke (FRGCB)
+- **Programmer (IBM PC):** Rick Banks, MaryLou O'Rourke (FRGCB)
 - **Programmer (Atari 8-bit, Commodore 64):** Charles "Chuck" Benton
 - **Programmer (ZX Spectrum):** Mike Davies
 - **Programmer (MSX):** N.R. Dick (Interphase Technologies)
 - **Production Company:** Sydney Development Corp.
 - **Characters:** Johnny Hart (*B.C.* comic strip)
 
-Wikipedia credits Rick Banks and Michael Bate as the designers and Chuck Benton as programmer of the Commodore 64 and Atari versions;[^ref-3] the FRGCB blog says Benton "designed and programmed" his Atari 8-bit and Commodore 64 versions.[^ref-12] IMDb, a user-edited database, additionally lists Benton and Hart as writers.[^ref-20]
+CollectorVision states the game was "first designed by Rick Banks and Michael Bate",[^ref-24] and IMDb, a user-edited database, lists Michael Bate and Chuck Benton as directors.[^ref-20] Wikipedia lists only programmers by version and gives no designer.[^ref-3] C64-Wiki spells the second name "Michael Bates" for the sequel. The FRGCB blog says Benton "designed and programmed" his Atari 8-bit and Commodore 64 versions.[^ref-12] IMDb additionally lists Benton and Hart as writers.[^ref-20]
 
 ### Technical Achievements
 
@@ -286,7 +288,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 
 [^ref-1]: [MobyGames – B.C.'s Quest for Tires](https://www.mobygames.com/game/7196/bcs-quest-for-tires/) – platform releases, ratings, technical specifications, developer credits
 [^ref-2]: [Internet Archive – ColecoVision Version](https://archive.org/details/BCs_Quest_for_Tires_1983_Sierra_On_Line) – release date, gameplay description, historical significance as early runner
-[^ref-3]: [Wikipedia – B.C.'s Quest for Tires](https://en.wikipedia.org/wiki/B.C.'s_Quest_for_Tires) – sales figures, awards, designer credits, title origin, contemporary reviews
+[^ref-3]: [Wikipedia – B.C.'s Quest for Tires](https://en.wikipedia.org/wiki/B.C.'s_Quest_for_Tires) – sales figures, awards, title origin, contemporary reviews
 [^ref-4]: [Data Driven Gamer – B.C.'s Quest for Tires Review](https://datadrivengamer.blogspot.com/2021/06/games-267-268-evolution-bcs-quest-for.html) – Sydney Development background, gameplay criticism, platform development history
 [^ref-5]: [ANTIC Magazine Vol. 2 No. 12 (March 1984)](http://www.atarimagazines.com/v2n12/productreviews.html) – Harvey Bernstein review, technical requirements, animation praise
 [^ref-6]: [ColecoVision Box Art Archive](https://colecoboxart.com/coleco_bcquest.htm) – game description, copyright information, box documentation
@@ -303,7 +305,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 [^ref-21]: [The New Yorker – Don't Stop: The Game That Conquered Smartphones](https://www.newyorker.com/tech/annals-of-technology/dont-stop-the-game-that-conquered-smartphones) – Chuck Benton interview, development timeline, sales figures
 [^ref-22]: [World of Spectrum – B.C.'s Quest for Tires](https://worldofspectrum.org/archive/software/games/bcs-quest-for-tires-software-projects-ltd) – ZX Spectrum specifications, protection scheme, Mike Davies credit
 [^ref-23]: [Games Database – MSX Version](https://www.gamesdatabase.org/game/msx/bcs-quest-for-tires) – MSX release date, Toshiba-EMI publisher
-[^ref-24]: [CollectorVision Games – B.C.'s Quest for Tires](https://www.collectorvision.com/games/bcquest.php) – Intellivision homebrew release (2015), anonymous programmer, original designers
+[^ref-24]: [CollectorVision Games – B.C.'s Quest for Tires](https://www.collectorvision.com/games/bcquest.php) – Intellivision homebrew release (2015), anonymous programmer, original designers ("first designed by Rick Banks and Michael Bate")
 [^ref-25]: [RarityGuide – B.C.'s Quest for Tires Review](http://www.rarityguide.com/articles/articles/49/1/JUMP-SUCKER-A-review-of-B-Cs-Quest-for-Tires-for-the-Commodore-64/Page1.html) – awards list
 [^ref-26]: [Speedrun.com – B.C.'s Quest for Tires](https://www.speedrun.com/bcs_quest_for_tires) – speedrun records and run counts (checked October 2026)
 [^ref-27]: [Internet Archive – Coleco ColecoVision Manual: BC's Quest for Tires II – Grog's Revenge (1984)](https://archive.org/details/BCs_Quest_for_Tires_II_Grogs_Revenge_1984_Coleco) – manual for the 1984 sequel, not this game; confirms the sequel's existence
@@ -311,3 +313,5 @@ The game also exemplifies the rapid multi-platform development practices of the 
 [^ref-29]: [Georgia Straight – Video game family tree](https://www.straight.com/article-198534/video-game-family-tree) – Sydney Development formed 1978 by Tarrnie Williams; publisher of Evolution
 [^ref-30]: [Intellivision Revolution – BC's Quest for Tires in Development for Intellivision](https://www.intellivisionrevolution.com/entries/intellivision-homebrew-games/bc-s-quest-for-tires-in-development-for-intellivision) – April 6, 2014 development announcement
 [^ref-31]: [Ottawa Citizen – "Cutting Edge" (March 10, 1997, p. 49), Wayback copy of the Newspapers.com clipping](https://web.archive.org/web/20230816052449/https://www.newspapers.com/article/the-ottawa-citizen/130054408/) – "won the Software Publisher's Association's 1989 best game award"; sold "a million copies"
+[^ref-32]: [Internet Archive – Electronic Games, Vol. 2 No. 13 (July 1984)](https://archive.org/details/Electronic_Games_Volume_02_Number_13_1984-07_Reese_Communications_US) – Bill Kunkel's ColecoVision review: speed button, twelve screens
+[^ref-33]: [Wikipedia – Sydney Development Corporation](https://en.wikipedia.org/wiki/Sydney_Development_Corporation) – company article: first publicly traded software company in Canada, founded 1978 by Tarrnie Williams
