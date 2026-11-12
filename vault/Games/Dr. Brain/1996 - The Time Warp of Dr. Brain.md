@@ -28,7 +28,7 @@ As described by Sierra's original marketing materials, "Dr. Brain is trapped in 
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
 > **Designer:** Mark Krause, Ward Makielski[^ref-1]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
-> **Platforms:** Windows, Windows 3.x, Macintosh[^ref-1][^ref-54]
+> **Platforms:** Windows, Windows 3.x, Macintosh[^ref-1]
 > **Release Year:** 1996
 > **Series:** Dr. Brain
 > **Protagonist:** Player, rescuing Dr. Brain[^ref-1]
@@ -52,7 +52,7 @@ One player confessed "I also probably played the Space Invaders clone on the tit
 
 The player must hit the appropriate spaceship (new game, restore, or quit) to navigate[^ref-40].
 
-The game is played with the mouse[^ref-12]; MobyGames lists keyboard and mouse as supported input devices[^ref-1].
+The game is played with the mouse[^ref-46][^ref-12]; MobyGames lists keyboard and mouse as supported input devices[^ref-1].
 
 Individual puzzles can be played in any order and are "selectable from the bar at top of the screen"[^ref-43].
 
@@ -60,7 +60,7 @@ Individual puzzles can be played in any order and are "selectable from the bar a
 
 The game is structured around 10 different puzzle groups, with 20 levels in each group[^ref-46], offering three difficulty levels: novice, expert, and genius[^ref-2].
 
-Players need to accumulate 12,000 points to complete the game[^ref-40], with wins at novice, expert, and genius levels earning 250, 1,000, and 2,250 points respectively[^ref-40].
+Players need to accumulate approximately 12,000 points to complete the game[^ref-40], with wins at novice, expert, and genius levels earning 250, 1,000, and 2,250 points respectively[^ref-40].
 
 The puzzles span various time periods and themes, from arranging prehistoric rock music in Caveman Rock to matrix logic puzzles in the far future[^ref-39], providing what one player recalled as "probably my first experiences with real-time strategy and time management puzzles"[^ref-41].
 
@@ -104,6 +104,8 @@ Collection Chamber described the visuals as looking "like you are prodding aroun
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | The Electric Playground | 8/10 | "puzzle pandemonium playing Dr. Brain"[^ref-45] |
+| PC Team | 75 | Feb 1997; MobyGames-listed score for a French review[^ref-56] |
+| Power Play | 63 | Mar 1997; MobyGames-listed score for a German review[^ref-56] |
 | MobyGames Critics | 78% | Average of 6 critic ratings[^ref-1] |
 | Pixel Pacas | 1/5 alpacas | Modern retrospective[^ref-16] |
 | MyAbandonware Users | 4.46/5 | Community rating, 24 votes (as of October 2026)[^ref-15] |
@@ -114,9 +116,9 @@ The review concluded that "Dr. Brain is a very playable and engaging puzzle game
 
 James observed that "the voice of Dr. Brain might get on your nerves but I found that as soon as I was ready to wring his little CG neck he would come out with a quip that would actually make me laugh"[^ref-45].
 
-She particularly praised the ability to "switch back and forth between puzzles" without completing one before moving to the next, calling it "perfect for those of us with short attention spans"[^ref-45].
+She particularly praised the ability to "switch back and forth between puzzles" without completing one before moving to the next, calling it "perfect for those of us with short attention spans"[^ref-45]. The manual helpfully indicates "which parts of the brain you are exercising with each puzzle"[^ref-45].
 
-Rosemary Young's review at Metzomagic noted the game "is targeted at players from twelve to adult, though I can't see any reason why all the family couldn't join in"[^ref-46]. The manual helpfully indicates "which parts of the brain you are exercising with each puzzle"[^ref-45].
+Rosemary Young's review at Metzomagic noted the game "is targeted at players from twelve to adult, though I can't see any reason why all the family couldn't join in"[^ref-46].
 
 ### Modern Assessment
 
@@ -138,7 +140,7 @@ The Time Warp of Dr. Brain was developed as the fourth entry in Sierra's educati
 
 ### Developer Credit
 
-MobyGames lists Sierra On-Line, Inc. as developer on all platforms[^ref-1], and the Mac box back cover reads "©1996 Sierra On-Line, Inc."; Wikipedia's article on the game lists Sierra On-Line as developer[^ref-2]. Wikipedia's Dr. Brain series article says that "After the second game was released, Sierra acquired another company, Bright Star Technology, known for its educational games. The series was turned over to a Bright Star team"[^ref-49]. The Digital Antiquarian likewise writes that "Later entries were given to Bright Star Technology, a developer specializing in educational software which Sierra acquired in 1992"[^ref-53]. Neither source names The Time Warp of Dr. Brain specifically, and the MobyGames credits for the game do not list Bright Star.
+MobyGames lists Sierra On-Line, Inc. as developer on all platforms[^ref-1], and the Mac box back cover reads "©1996 Sierra On-Line, Inc."[^ref-55]; Wikipedia's article on the game lists Sierra On-Line as developer[^ref-2]. Wikipedia's Dr. Brain series article says that "After the second game was released, Sierra acquired another company, [[Bright Star Technology]], known for its educational games. The series was turned over to a Bright Star team"[^ref-49]. The Digital Antiquarian likewise writes that "Later entries were given to Bright Star Technology, a developer specializing in educational software which Sierra acquired in 1992"[^ref-53]. Neither source names The Time Warp of Dr. Brain specifically, and the MobyGames credits for the game do not list Bright Star.
 
 ### Production
 
@@ -160,6 +162,12 @@ The Time Warp of Dr. Brain was released with comprehensive language support, ava
 
 Technical specifications included support for 68K and PowerPC architectures on Mac[^ref-3], with minimum requirements of a 486/DX66 processor, 8MB RAM, SVGA display at 640x480 with 256 colors, and a 2x CD-ROM drive[^ref-46]. The Windows version required Windows 3.1 or Windows 95[^ref-46].
 
+### Version History
+
+| Version | Date | Platforms | Notes |
+|---------|------|-----------|-------|
+| Rev 1 | March 26, 1997 (volume creation date) | PC/Mac hybrid | Volume label DRBRAIN4[^ref-57] |
+
 ## Legacy
 
 The Time Warp of Dr. Brain represents the end of an era for the original Dr. Brain series, as it was "the final game in Sierra's entries of the Dr. Brain series"[^ref-39]. As a direct sequel to The Lost Mind of Dr. Brain[^ref-39], it was the last Dr. Brain game Sierra developed itself. Giant Bomb notes that "three additional games were created in a revival by Knowledge Adventure"[^ref-39]; Wikipedia says Knowledge Adventure "later released four games based on the original series"[^ref-49], and TV Tropes also lists four[^ref-52]. Knowledge Adventure joined Sierra's corporate family through CUC International, which already owned Sierra: CUC announced in November 1996 that it would buy Knowledge Adventure[^ref-51] and completed the purchase on January 31, 1997, placing it in the CUC Software division alongside Sierra On-Line[^ref-50].
@@ -180,7 +188,7 @@ Original Sierra marketing materials preserved in the Wayback Machine showcase th
 
 ## Availability
 
-No GOG or Steam store listing for the game was found on 2026-11-11. The game had 294 votes on GOG's Dreamlist as of October 2026 requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GoG already!"[^ref-41]
+No GOG or Steam store listing for the game was found on 2026-11-11. The game had 300 votes on GOG's Dreamlist as of November 12, 2026 requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GoG already!"[^ref-41]
 
 ## Downloads
 
@@ -200,7 +208,7 @@ No GOG or Steam store listing for the game was found on 2026-11-11. The game had
 
 ## References
 
-[^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Release date, developer and credits information (read via the MobyGames API); description: "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him. The only way to save him is by completing a series of puzzles"
+[^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – Release date, developer and credits information; description: "Dr. Brain is trapped in the 'space time discontinuum' and you have to save him. The only way to save him is by completing a series of puzzles"
 [^ref-2]: [Wikipedia - The Time Warp of Dr. Brain](https://en.wikipedia.org/wiki/The_Time_Warp_of_Dr._Brain) – Series information and installment number
 [^ref-3]: [Macintosh Repository](https://www.macintoshrepository.org/3249-the-time-warp-of-dr-brain) – Puzzle count and world information
 [^ref-4]: [Metacritic - The Time Warp of Dr. Brain](https://www.metacritic.com/game/the-time-warp-of-dr-brain/) – Official game description
@@ -211,7 +219,9 @@ No GOG or Steam store listing for the game was found on 2026-11-11. The game had
 [^ref-16]: [Pixel Pacas](https://pixelpacas.com/the-time-warp-of-dr-brain-review/) – Critical modern assessment
 [^ref-18]: [MobyGames Forum](https://www.mobygames.com/forum/game/6885/thread/215308/looking-for-someone-who-worked-on-the-dr-brain-series/) – Educational use context
 [^ref-33]: [Wayback Machine - Sierra Product Page](https://web.archive.org/web/19961219233717/http://www.sierra.com/cgi-bin/store/product-description?9311810300) – Original marketing materials
-[^ref-54]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – Primary database entry
+[^ref-55]: [Internet Archive - The Time Warp of Dr. Brain (Macintosh back cover scan)](https://archive.org/details/the-time-warp-of-dr-brain) – Back cover reads "©1996 Sierra On-Line, Inc."
+[^ref-56]: [MobyGames - Time Warp of Dr. Brain, MobyRank (Wayback, July 22, 2019)](https://web.archive.org/web/20190722121557/https://www.mobygames.com/game/windows/time-warp-of-dr-brain/mobyrank) – PC Team (Feb 1997) 75; Power Play (Mar 1997) 63
+[^ref-57]: [Redump - Time Warp of Dr. Brain, The (USA) (Rev 1)](https://redump.info/disc/133145) – Volume label DRBRAIN4 (PC/Mac Hybrid); creation date 1997-03-26
 [^ref-39]: [Giant Bomb - The Time Warp of Dr. Brain](https://www.giantbomb.com/the-time-warp-of-dr-brain/3030-7329/) – Comprehensive puzzle descriptions and gameplay details
 [^ref-40]: [Dr. Brain Omnipedia Wiki](https://drbrain.fandom.com/wiki/The_Time_Warp_of_Dr._Brain) – Point system and puzzle mechanics
 [^ref-41]: [GOG Dreamlist - Player Stories](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – Player memories and experiences
