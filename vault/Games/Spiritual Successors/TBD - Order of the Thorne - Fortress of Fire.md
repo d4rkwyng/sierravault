@@ -22,7 +22,7 @@ tags: [adventure, order-of-the-thorne, sierra]
 
 ## Overview
 
-**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click adventure game developed by [[Infamous Quests]], intended as the second and likely final installment in the *Order of the Thorne* fantasy anthology series[^ref-1]. First announced in 2015 after a successful Kickstarter campaign that raised $30,944 plus additional funds via PayPal[^ref-7], the game was billed as "the thrilling conclusion" to *The King's Challenge* (2016), set in the fantasy realm of Uir[^ref-3][^ref-20].
+**Order of the Thorne: Fortress of Fire** is an unreleased point-and-click adventure game developed by [[Infamous Quests]], intended as the second and likely final installment in the *Order of the Thorne* fantasy anthology series[^ref-1]. First announced in 2015 after a successful Kickstarter campaign that raised $30,943 (Wikipedia gives $30,944) plus additional funds via PayPal[^ref-23][^ref-7], the game was billed as "the thrilling conclusion" to *The King's Challenge* (2016), set in the fantasy realm of Uir[^ref-3][^ref-20].
 
 The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. Its itch.io page still carries a banner reading "Coming in 2020"[^ref-3], but it has remained in development limbo for years, with the developer acknowledging in October 2025 that significant work remains to complete the project[^ref-5].
 
@@ -86,7 +86,7 @@ The developer has acknowledged in retrospective commentary that the reception to
 
 ### Origins
 
-*Fortress of Fire* emerged from Infamous Quests' ambitious 2015 Kickstarter campaign, which sought funding for both a new *Order of the Thorne* adventure and a prequel to *Quest for Infamy* titled *Roehm to Ruin*[^ref-7][^ref-8]. The campaign successfully concluded on May 3, 2015, raising $30,944 plus additional funds via PayPal, which allowed the team to announce *Fortress of Fire* as a third game alongside the two promised in the original pitch[^ref-7]; Cliqist summarised the campaign as "two new games (three with stretch goals)"[^ref-13].
+*Fortress of Fire* emerged from Infamous Quests' ambitious 2015 Kickstarter campaign, which sought funding for both a new *Order of the Thorne* adventure and a prequel to *Quest for Infamy* titled *Roehm to Ruin*[^ref-7][^ref-8]. The campaign successfully concluded on May 3, 2015, raising $30,943 (Wikipedia gives $30,944) plus additional funds via PayPal, which allowed the team to announce *Fortress of Fire* as a third game alongside the two promised in the original pitch[^ref-23][^ref-7]; Cliqist summarised the campaign as "two new games (three with stretch goals)"[^ref-13].
 
 The developer described *Order of the Thorne* as "our planned anthology featuring adventure games set in the fantasy realm of Uir"[^ref-20][^ref-12]; *The King's Challenge* starred Finn the Bard, while *Fortress of Fire* switches to Patrick the squire[^ref-20].
 
@@ -203,3 +203,4 @@ Interest in the game has outlasted its development. Fans were already discussing
 [^ref-20]: [Infamous Quests – Order of the Thorne: Fortress of Fire (official site, archived 2019-12-12)](https://web.archive.org/web/20191212014129/http://www.infamous-quests.com/home/games/fortress-of-fire/) – Patrick and Sir Caradoc, Land of Sunlight story, features, AGS, Steam plans, anthology FAQ
 [^ref-21]: [Infamous Quests – Kickstarter update mirrored on BackerKit (Sep 28, 2019)](https://infamousquestsgames.backerkit.com/hosted_preorders/project_updates) – "most backgrounds done, and about 60% of the animations. Music is all done"; team on full-time jobs
 [^ref-22]: [Infamous Quests – official home page (archived 2019-12-23)](https://web.archive.org/web/20191223002133/http://www.infamous-quests.com/home/) – "FoF is at least a year away"
+[^ref-23]: [Kickstarter – "Order of the Thorne" & "Roehm To Ruin" by Infamous Quests](https://www.kickstarter.com/projects/1992695780/order-of-the-thorne-and-roehm-to-ruin-by-infamous) – "836 backers pledged $30,943 to help bring this project to life"

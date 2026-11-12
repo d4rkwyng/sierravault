@@ -7,15 +7,15 @@ headquarters: "Syracuse, New York, United States"
 notable_games: ["Quest for Infamy", "Order of the Thorne: The King's Challenge"]
 parent_company: null
 predecessor_company: "Infamous Adventures"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Infamous Quests
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Infamous Quests is an independent adventure game developer based in Syracuse, New York. Steven Alexander and Shawn Mills founded it in 2012.[^ref-3][^ref-9] The two had earlier run [[Infamous Adventures]], an amateur studio that made free remakes of Sierra adventures. They set up Infamous Quests "in order to separate it from their free fan-remake development company".[^ref-9] Its games are *Quest for Infamy* (2014), inspired by Sierra's Quest for Glory series, and *Order of the Thorne: The King's Challenge* (2016).[^ref-9][^ref-1]
+Infamous Quests is an independent adventure game developer based in Syracuse, New York. Steven Alexander and Shawn Mills founded it in 2012.[^ref-3][^ref-9] The studio's own *Quest for Infamy* website names James Broom as a third founder alongside Mills and Alexander.[^ref-17] The two had earlier run [[Infamous Adventures]], an amateur studio that made free remakes of Sierra adventures. They set up Infamous Quests "in order to separate it from their free fan-remake development company".[^ref-9] Its games are *Quest for Infamy* (2014), inspired by Sierra's Quest for Glory series, and *Order of the Thorne: The King's Challenge* (2016).[^ref-9][^ref-1]
 
 The studio is no longer a full-time developer. In an October 2025 post on the studio's Patreon (the account's Bluesky bio reads "Posts by Steven Alexander"), the studio wrote that after *Order of the Thorne* "we really couldn’t go on as a full-time game development company". Its two remaining announced games, *Roehm to Ruin* and *Fortress of Fire*, are unreleased.[^ref-21][^ref-36] In July 2026 posts on the studio's Bluesky account, Alexander said his desire to work on games "has been in a waning phase all year" and that "I find my heart not in it as much as it used to be".[^ref-34][^ref-35]
 
@@ -23,11 +23,11 @@ The studio is no longer a full-time developer. In an October 2025 post on the st
 
 ### Origins at Infamous Adventures
 
-Before Infamous Quests, Alexander and Mills ran [[Infamous Adventures]], an amateur studio that made free remakes of Sierra adventures, among them *King's Quest III* and *Space Quest II*.[^ref-9][^ref-10][^ref-18] Hardcore Gaming 101 describes the two as regulars in the mid-2000s on the forums of Tierra, the fan group now known as AGD Interactive, which had made remakes of *King's Quest I* and *II*.[^ref-33] A 2014 Sierra Help forum post called Infamous Quests "the professional reincarnation of Infamous Adventures".[^ref-18]
+Before Infamous Quests, Alexander and Mills ran [[Infamous Adventures]], an amateur studio that made free remakes of Sierra adventures, among them *King's Quest III* and *Space Quest II*.[^ref-9][^ref-10][^ref-18] Hardcore Gaming 101 describes the two as regulars in the mid-2000s on the forums of Tierra, the fan group now known as AGD Interactive, which had made remakes of *King's Quest I* and *II*.[^ref-33] A 2014 Sierra Help forum post called Infamous Quests "the professional reincarnation of Infamous Adventures".[^ref-18] In a site post dated 27 July 2012, Alexander and Mills announced that Infamous Adventures was no longer producing games and that they had started a new company, Infamous Quests, to create original adventure games.[^ref-38]
 
 ### Quest for Infamy (2012–2014)
 
-The studio announced *Quest for Infamy* in 2012. It is an adventure RPG made with Adventure Game Studio in which the player is "the morally gray William Roehm". The developers raised $63,281 from 1,656 backers on Kickstarter.[^ref-9][^ref-24] It was released on 10 July 2014, and [[Phoenix Online Publishing]] published it on Steam.[^ref-19][^ref-26] Infamous Quests released it on GOG itself the same day.[^ref-30] Ratalaika Games published the PlayStation 4, PlayStation 5, Xbox One, Xbox Series and Nintendo Switch versions on 4 March 2022, according to MobyGames.[^ref-32]
+The project began under Infamous Adventures: *Quest for Infamy: So You Want to be a Villain?* was first announced around December 2003, and was then in "suspended production" for many years.[^ref-37] Infamous Quests launched its Kickstarter for the game in 2012. It is an adventure RPG made with Adventure Game Studio in which the player is "the morally gray William Roehm". The developers raised $63,281 from 1,656 backers on Kickstarter.[^ref-9][^ref-24] It was released on 10 July 2014, and [[Phoenix Online Publishing]] published it on Steam.[^ref-19][^ref-26] Infamous Quests released it on GOG itself the same day.[^ref-30] Ratalaika Games published the PlayStation 4, PlayStation 5, Xbox One, Xbox Series and Nintendo Switch versions on 4 March 2022, according to MobyGames.[^ref-32]
 
 ### Order of the Thorne and Roehm to Ruin (2015–present)
 
@@ -49,7 +49,7 @@ In *The King's Challenge*, the player guides Finn the bard "on his quest to writ
 
 - **Shawn Mills**: co-founder. He is credited on *The King's Challenge* as director, writer and programmer.[^ref-9][^ref-22]
 - **Steven Alexander**: co-founder. He is credited on *The King's Challenge* as producer, writer and programmer.[^ref-9][^ref-22]
-- **James Broom**: listed by Wikipedia as a key person. He is credited on *The King's Challenge* as writer and animator.[^ref-9][^ref-22]
+- **James Broom**: named as a third founder on the studio's *Quest for Infamy* website,[^ref-17] and listed by Wikipedia as a key person. He is credited on *The King's Challenge* as writer and animator.[^ref-9][^ref-22]
 
 ## Legacy
 
@@ -71,7 +71,7 @@ Hardcore Gaming 101 reports that *Quest for Infamy* "was honored with four Adven
 [^ref-5]: [Patreon - Infamous Quests](https://www.patreon.com/cw/InfamousQuests) — studio Patreon page
 [^ref-9]: [Wikipedia - Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) — founded 2012; Syracuse; key people incl. James Broom; QfI Kickstarter $63,281; 2015 Kickstarter $30,944 (the Kickstarter page itself shows $30,943); OotT anthology
 [^ref-10]: [Reddit AMA - Steven Alexander and Shawn Mills](https://www.reddit.com/r/IAmA/comments/29o0ve/we_are_steven_alexander_and_shawn_mills_creators/) — founders on Infamous Adventures' KQ3 and SQ2 remakes and founding Infamous Quests
-[^ref-17]: [Quest for Infamy - About Page](https://questforinfamy.com/about-qfi) — three classes (Brigand, Rogue, Sorcerer); story setup
+[^ref-17]: [Quest for Infamy - About Page](https://questforinfamy.com/about-qfi) — three classes (Brigand, Rogue, Sorcerer); story setup; "Infamous Quests was founded in 2012 by Shawn Mills, James Broom and Steven Alexander"
 [^ref-18]: [Sierra Help Forums - Quest for Infamy thread (Wayback 2014)](http://web.archive.org/web/20140908005914/http://sierrahelp.com/forums/viewtopic.php?f=24&t=3989) — "Infamous Quests is the professional reincarnation of Infamous Adventures"
 [^ref-19]: [PostuStudios - Quest for Infamy Company Page](https://www.postudios.com/company/games/questforinfamy/) — QfI "A spiritual heir to yesteryear's heroic quests", release July 10th, 2014; OotT release post (Finn the bard, Faerie Realm challenge)
 [^ref-21]: [Patreon - Infamous Quests, "Updates on RtR and Fortress of Fire" (15 Oct 2025)](https://www.patreon.com/posts/141274312) — no longer full-time; Roehm to Ruin awaiting voice sessions; Fortress of Fire "in a real state of limbo"
@@ -90,3 +90,5 @@ Hardcore Gaming 101 reports that *Quest for Infamy* "was honored with four Adven
 [^ref-34]: [Bluesky - Infamous Quests (21 Jul 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mr4upnsfpc2t) — "my desire to do so has been in a waning phase all year" (only this phrase is cited)
 [^ref-35]: [Bluesky - Infamous Quests (22 Jul 2026)](https://bsky.app/profile/infamousquests.bsky.social/post/3mrakewn53k2n) — "I find my heart not in it as much as it used to be."
 [^ref-36]: [Bluesky - Infamous Quests profile](https://bsky.app/profile/infamousquests.bsky.social) — bio reads "Posts by Steven Alexander" (read via the Bluesky public API)
+[^ref-37]: [Quest for Glory Fandom - Quest for Infamy (Wayback copy, 20 Aug 2022)](https://web.archive.org/web/20220820013847/https://questforglory.fandom.com/wiki/Quest_for_Infamy) — "Quest for Infamy: So You Want to be a Villain? was first announced around December 2003"; "suspended production" for many years
+[^ref-38]: [Wikipedia - Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) — a post on the studio's website dated 27 July 2012 announced it was no longer producing games and that Mills and Alexander had started Infamous Quests
