@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech Jupiter
 protagonist: Cate Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Nathan Grigg]
 description: 'No One Lives Forever 2: A Spy in H.A.R.M.''s Way (NOLF 2) is a 2002
   first-person shooter developed by Monolith Productions and published under the Sierra
@@ -19,7 +19,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # No One Lives Forever 2: A Spy in H.A.R.M.'s Way
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -125,8 +125,21 @@ The development faced additional challenges when several team members had to tem
 
 The game credits 188 people total—100 developers and 88 in the thanks section[^ref-12].
 
-**Development Credits:**[^ref-33]
-- **Creative Director:** Craig Hubbard
+**Development Credits:**[^ref-51][^ref-1]
+- **Creative Director / Lead Game Designer:** Craig Hubbard
+- **Producers:** Chris Miller (Fox Interactive), Samantha Ryan (Monolith)
+- **Associate Producer:** Aaron Blean
+- **Sierra Entertainment/Vivendi Universal Publishing:** Producer Bernadette Pryor; Executive Producer Bill Dugan
+- **Director of Development:** Chris Hewett
+- **Director of Engineering:** Kevin Stephens (Wikipedia lists Stephens and Brad Pendleton as the game's programmers)
+- **Lead Engineer:** Brad Pendleton
+- **Senior Engineers:** Vivien Francis, Jeff Orkin
+- **Lead Level Designer:** John Mulkey
+- **Art Director / Lead 3D Artist:** David Longo
+- **Art Lead:** C. Wes Saulsberry III
+- **Manual Design:** Sweeney Designs
+
+**Audio Credits:**[^ref-33]
 - **Lead Sound Design:** James Ackley
 - **Sound Designers:** Brian Pamintuan, Cassano Thruston
 - **Composer:** Nathan Grigg
@@ -137,6 +150,37 @@ The game credits 188 people total—100 developers and 88 in the thanks section[
 - **Cello:** Lori Goldston
 - **Recording Engineers:** Jay Kenney, Vincent Gates, Nathan Grigg
 - **Music Design:** Music Design Network, LLC
+
+### Voice Cast
+
+Cast per Gamicus and IMDb[^ref-11][^ref-9]:
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Cate Archer | Jen Taylor |
+| Isako | Jen Taylor |
+| Bruno Lawrie | John Patrick Lowrie |
+| Magnus Armstrong | André Sogliuzzo |
+| Isaac Barnes | David Scully |
+| Morgan Hawkins | Ken Boynton |
+| Dr. Otto Schenker | Jeff Steitzer |
+| Mr. Jones | Nigel Neale |
+| The Director | John Armstrong |
+| Pierre "The Mime King" | John Armstrong |
+| Dimitri Volkov | Jock Blaney |
+| Santa | Ken Boynton |
+| Kamal Khubchani | Ken Boynton |
+| Misha | Ken Boynton |
+| Anoop Banerjee | Ken Boynton |
+| Balaji Malpani | Ken Boynton |
+| Mime voices | Ken Boynton, Gary Schwartz |
+| Lt. Joseph Anders | Gary Schwartz |
+| Super Soldiers | Gary Schwartz |
+| The Director's Mother | Deena Burke |
+| Evil Alliance Guards | Todd Licea |
+| Additional Voices | Terrance Sloggins |
+
+Notably, Jen Taylor replaced Kit Harris as the voice of Cate Archer from the first game[^ref-8]. Cate's design was based on model Mitzi Martin, who provided motion capture for the original game[^ref-8]. MacPlay Director of Sales and Marketing Henry Price praised the voice work: "I'd say this is the funniest game I've played in a long time. I encourage players to stop and listen to the bad guys' conversations before doing away with them. Some of the dialogue is hysterical"[^ref-36].
 
 ### Technical Achievements
 
@@ -229,37 +273,6 @@ The game runs on frame-dependent mechanics and can break at higher than 60 FPS; 
 - **Archer Surname Connection:** Cate Archer shares her surname with Sterling Archer from the animated sitcom "Archer"[^ref-8].
 - **Character Origin:** The original character concept was a male operative named "Adam Church" before being changed to Cate Archer; an early proposed name was "Holly"[^ref-8].
 
-## Voice Cast
-
-Cast per Gamicus and IMDb[^ref-11][^ref-9]:
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Cate Archer | Jen Taylor |
-| Isako | Jen Taylor |
-| Bruno Lawrie | John Patrick Lowrie |
-| Magnus Armstrong | André Sogliuzzo |
-| Isaac Barnes | David Scully |
-| Morgan Hawkins | Ken Boynton |
-| Dr. Otto Schenker | Jeff Steitzer |
-| Mr. Jones | Nigel Neale |
-| The Director | John Armstrong |
-| Pierre "The Mime King" | John Armstrong |
-| Dimitri Volkov | Jock Blaney |
-| Santa | Ken Boynton |
-| Kamal Khubchani | Ken Boynton |
-| Misha | Ken Boynton |
-| Anoop Banerjee | Ken Boynton |
-| Balaji Malpani | Ken Boynton |
-| Mime voices | Ken Boynton, Gary Schwartz |
-| Lt. Joseph Anders | Gary Schwartz |
-| Super Soldiers | Gary Schwartz |
-| The Director's Mother | Deena Burke |
-| Evil Alliance Guards | Todd Licea |
-| Additional Voices | Terrance Sloggins |
-
-Notably, Jen Taylor replaced Kit Harris as the voice of Cate Archer from the first game[^ref-8]. Cate's design was based on model Mitzi Martin, who provided motion capture for the original game[^ref-8]. MacPlay Director of Sales and Marketing Henry Price praised the voice work: "I'd say this is the funniest game I've played in a long time. I encourage players to stop and listen to the bad guys' conversations before doing away with them. Some of the dialogue is hysterical"[^ref-36].
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -300,7 +313,9 @@ The source code was released as part of the No One Lives Forever 2 Toolkit, enab
 
 The game remains infamously unavailable for legal purchase due to complex ownership disputes. PCGamingWiki states "The game is not sold digitally due to various legality issues with several parties"[^ref-30]. Three companies potentially hold claims to the IP: 20th Century Fox, Activision, and Warner Bros. (owner of Monolith)[^ref-43]. PCGamingWiki now describes Monolith as defunct, with WB Games as its owner[^ref-30].
 
-Night Dive Studios, known for resurrecting classic games, attempted to secure rights but was unsuccessful. As reported by Kotaku in 2015, "They come back with a response that said they're not looking to either publish the game themselves at this time, or to partner with us"[^ref-43]. Activision community manager Dan Amrich stated the company "does not believe that we currently have the rights"[^ref-41]. GOG representative Trevor Longino admitted they "looked into it, but it's not an easy thing to do"[^ref-41]. Night Dive CEO Steven Kick remains determined: "I'm never going to stop. It'll happen one way or another"[^ref-41].
+Night Dive Studios, known for resurrecting classic games, attempted to secure rights but was unsuccessful. As reported by Kotaku in 2015, "They come back with a response that said they're not looking to either publish the game themselves at this time, or to partner with us"[^ref-43]. Activision community manager Dan Amrich stated the company "does not believe that we currently have the rights"[^ref-41]. GOG representative Trevor Longino admitted they "looked into it, but it's not an easy thing to do"[^ref-41]. Night Dive CEO Stephen Kick remains determined: "I'm never going to stop. It'll happen one way or another"[^ref-41].
+
+In March 2025, after Warner Bros. Games closed Monolith, Nightdive studio head Stephen Kick and director of business development Larry Kuperman told VGC that they remained hopeful of one day remastering the series' first game, The Operative: No One Lives Forever[^ref-52]. Kuperman said, "I'm still optimistic on that" and "I don't think we really know how that's going to shake out"; Kick said, "Never give up. We don't give up."[^ref-52] PCGamesN, reporting the interview, wrote that "the legal situation is still unclear", noting that Fox Interactive was bought by Vivendi in 2003, Vivendi later merged with Activision, and Activision is now owned by Microsoft[^ref-53]. As of November 2026, no re-release has been announced.
 
 ### Critical Perspective
 
@@ -324,10 +339,15 @@ The game's legal limbo also makes it a case study in game preservation: with no 
 - [v1.3 Patch](https://community.pcgamingwiki.com/files/file/303-no-one-lives-forever-2-a-spy-in-harms-way-patch/) - Multiple language versions available[^ref-37]
 - [NOLF 2 Toolkit](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm/downloads/no-one-lives-forever-2-toolkit) - Level editor and source code[^ref-45]
 
+**Manuals & Extras**
+- Scans of the European Windows release's case insert, manual and quick reference card are included in the Internet Archive preservation item[^ref-47]
+- Official extras: PCGamingWiki lists Map Pack 1 and Map Pack 2, plus demo versions for Single Player, A Taste of Ohio Teaser and Multiplayer[^ref-30]
+- Prima's Official Strategy Guide (see Related Publications)[^ref-46]
+
 ## See Also
 
-- [[2000 - No One Lives Forever]]
-- [[2003 - Contract J.A.C.K.]]
+- Previous: [[2000 - No One Lives Forever]]
+- Next: [[2003 - Contract J.A.C.K.]]
 
 ## References
 
@@ -378,3 +398,6 @@ The game's legal limbo also makes it a case study in game preservation: with no 
 [^ref-48]: [NOLF Fandom Wiki – Missions](https://nolf.fandom.com/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way_Missions) – chapter and scene titles
 [^ref-49]: [PC Gamer – How to run No One Lives Forever 2 on Windows 7/8](https://www.pcgamer.com/how-to-run-no-one-lives-forever-2-on-windows-78/) – Wes Fenlon, 2014; praise quotes, widescreen patch, 1440p crash, 4:3 damage flash
 [^ref-50]: [Metacritic – NOLF 2 PC critic reviews](https://www.metacritic.com/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way/critic-reviews/?platform=pc) – FiringSquad, Gamer's Pulse and GameNow quotes
+[^ref-51]: [MobyGames – NOLF 2 Credits (Windows)](https://www.mobygames.com/game/7391/no-one-lives-forever-2-a-spy-in-harms-way/credits/) – producers, engineering, level design, art and Sierra/Vivendi credits
+[^ref-52]: [VGC – Nightdive boss shares optimism for 'No One Lives Forever' remaster, despite studio closure](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – Chris Scullion, March 26, 2025; Kick and Kuperman quotes
+[^ref-53]: [PCGamesN – Classic FPS game No One Lives Forever might still get a new remaster](https://www.pcgamesn.com/no-one-lives-forever/classic-fps-remaster) – Ed Smith, March 27, 2025; rights chain, "legal situation is still unclear"
