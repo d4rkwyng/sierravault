@@ -3,6 +3,7 @@ title: 'King''s Quest: Mask of Eternity'
 release_year: 1998
 developer: Sierra Studios
 designer: [Roberta Williams, Mark Seibert]
+composer: [Ben Houge, Kevin Manthei, Mark Seibert]
 publisher: Sierra Studios
 genre: Action-Adventure
 platforms: [Windows]
@@ -22,7 +23,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sierra]
 
 King's Quest: Mask of Eternity represents a dramatic departure for Sierra's flagship adventure series, marking the first time in the franchise's fourteen-year history that players would not control King Graham or a member of his royal family.[^ref-1] The eighth official installment in the King's Quest series, it introduced real-time combat, full 3D graphics and RPG-inspired elements, a significant departure from the previous seven games.[^ref-1][^ref-2] Designer [[Roberta Williams]] intentionally moved away from the "Disney-ish" tone of previous entries, citing J.R.R. Tolkien rather than Walt Disney as the spiritual father of this darker, more mature adventure.[^ref-3]
 
-The game arrived during a tumultuous period for both Sierra and the adventure game genre. Released on November 24, 1998, five days after Valve's landmark Half-Life (November 19)[^ref-4] and about two weeks before Quest for Glory V: Dragon Fire (which reached stores the week of December 7)[^ref-5], Mask of Eternity emerged as Sierra struggled through the upheaval that followed its acquisition by CUC International.[^ref-6] The box copy announced that "the best selling adventure series of all time returns!", promising "a rich, intense story, the latest 3D technology and camera control" that switched between first-person and cinematic third-person views.[^ref-7]
+The game arrived during a tumultuous period for both Sierra and the adventure game genre. Released on November 24, 1998 (IGN's news briefs of that date report it "has been released")[^ref-51], five days after Valve's landmark Half-Life (November 19)[^ref-4] and about two weeks before Quest for Glory V: Dragon Fire (which reached stores the week of December 7)[^ref-5], Mask of Eternity emerged as Sierra struggled through the upheaval that followed its acquisition by CUC International.[^ref-6] The box copy announced that "the best selling adventure series of all time returns!", promising "a rich, intense story, the latest 3D technology and camera control" that switched between first-person and cinematic third-person views.[^ref-7]
 
 Its commercial performance is disputed: Roberta Williams claimed in 1999 that it outsold LucasArts' Grim Fandango two-to-one, but GameSpot later reported its US sales as "only a fraction" of its predecessors', and Jimmy Maher calls it a commercial failure.[^ref-1][^ref-6] It did earn multiple award nominations, including finalists for Computer Gaming World's Best Adventure prize and nominations from CNET Gamecenter, GameSpot, and the Academy of Interactive Arts & Sciences for PC Adventure Game of the Year.[^ref-1] The game received "generally positive, but mixed reviews," effectively bringing about the end of the King's Quest series.[^ref-8]
 
@@ -84,7 +85,7 @@ The game earned a reputation for extreme difficulty. GameSpot described it as "c
 King's Quest: Mask of Eternity received polarized reviews upon release, with scores ranging from perfect marks to near-failures depending on the publication and reviewer expectations.
 
 **Positive Reception:**
-- **CNET Gamecenter:** 9/10 and Five Stars[^ref-1][^ref-24]
+- **CNET Gamecenter:** 9/10 and Five Stars[^ref-1][^ref-24] (Arinn Dembo, December 17, 1998)[^ref-50]
 - **Computer Games Online (Strategy Plus):** 4/5 (January 19, 1999),[^ref-1] calling it "one of the most memorable adventure[s] of the year"[^ref-25] (Sierra's promotional page quoted it as "adventures"[^ref-24])
 - **Antagonist Games Network:** 95% (December 21, 1998)[^ref-24]
 - **AGN3D.COM:** reviewer called it "the best King's Quest game I have ever played" (January 13, 1999)[^ref-24]
@@ -96,7 +97,7 @@ King's Quest: Mask of Eternity received polarized reviews upon release, with sco
 
 **Mixed Reception:**
 - **GameSpot:** 7.6/10 from Vince Broady (December 29, 1998),[^ref-26] who called it "a vast, sprawling experiment that, while falling short of its goal, is enjoyable and noteworthy nonetheless"[^ref-27]
-- **IGN:** 7.8/10 from Tal Blevins (January 8, 1999), stating that "more traditional fans of the genre will probably scoff at this one because of its combat system... but they're only going to miss a chance to play an entertaining game"[^ref-20]
+- **IGN:** 7.8/10 from Tal Blevins (January 9, 1999), stating that "more traditional fans of the genre will probably scoff at this one because of its combat system... but they're only going to miss a chance to play an entertaining game"[^ref-20]
 - **Electric Playground:** 7/10[^ref-26]
 - **GameRevolution:** 7/10, declaring it "good effort, Roberta, but it seems your best days are behind you"[^ref-22]
 - **PC Gamer US:** 66%[^ref-1]
@@ -139,7 +140,8 @@ Fan histories relayed on the AGD Interactive forums describe an earlier design i
 
 **Development Credits:**[^ref-1][^ref-29]
 - **Design/Writing:** [[Roberta Williams]]
-- **Designer/Producer:** Mark Seibert
+- **Director:** Mark Seibert
+- **Designer/Producer:** Mark Seibert (Wikipedia's infobox instead lists Craig Alexander as producer)[^ref-1]
 - **Art Director:** Jason Piel
 - **Programming:** Scott Bodenbender, Alan B. Clark, Jim Edwards, John McKinnie, Jeff Orkin, Jeff Pobst, Adam Szofran, David Wenger
 - **Composers:** Ben Houge, Kevin Manthei, Mark Seibert
@@ -270,14 +272,15 @@ Mask of Eternity's sales are disputed. Roberta Williams claimed in 1999 that it 
 - **Won:** Adventure Game of the Year – Digital Entertainment On-line
 - **Won:** Outstanding Technical Achievement – RPG Vault
 - **Won:** Best Adventure-RPG in 1998 – Power Play Magazine (Issue 02/1999)[^ref-29]
-- **Finalist:** Computer Gaming World's 1998 "Best Adventure" prize
+- **Finalist:** Computer Gaming World's 1998 "Best Adventure" prize, which went to Grim Fandango and Sanitarium (tie)[^ref-1]
 - **Nominated:** PC Adventure Game of the Year – CNET Gamecenter, GameSpot, Computer Games Strategy Plus
-- **Nominated:** PC Adventure Game of the Year – 2nd Annual Interactive Achievement Awards, Academy of Interactive Arts & Sciences[^ref-49]
+- **Nominated:** PC Adventure Game of the Year – 2nd Annual Interactive Achievement Awards, Academy of Interactive Arts & Sciences; the award went to Grim Fandango[^ref-49]
 - **Nominated:** Outstanding Achievement in Character or Story Development – 2nd Annual Interactive Achievement Awards, Academy of Interactive Arts & Sciences[^ref-49]
 
 ### Collections
 
 - **King's Quest 7+8 Bundle:** Released September 7, 2010 on GOG.com, bundled with King's Quest VII: The Princeless Bride[^ref-37]
+- **German compilations:** Sierra's Classic Adventures, Shadow Quests and Best of Sierra Nr. 21[^ref-13]
 - **King's Quest Collection:** The game was not part of this compilation, but The Sierra Help Pages' unofficial collection patch can add an installed copy of it[^ref-44]
 
 ### Fan Projects
@@ -378,3 +381,5 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 [^ref-47]: [GameFAQs – Forum Discussion](https://gamefaqs.gamespot.com/boards/88800-kings-quest-mask-of-eternity/79133073) – music appreciation
 [^ref-48]: [Sierra Studios – "The Woman Behind the Mask: A Q&A with pioneer game designer Roberta Williams" (conducted by Eric Twelker), Internet Archive](https://web.archive.org/web/20010923101431/http://www.sierrastudios.com/games/mask/interview.html) – Williams on the game's spirituality theme and what the mask represents; the page notes an edited version ran in the Summer 1998 issue of Interaction Magazine
 [^ref-49]: [Wikipedia – 2nd Annual Interactive Achievement Awards](https://en.wikipedia.org/wiki/2nd_Annual_Interactive_Achievement_Awards) – finalists lists for PC Adventure Game of the Year and Outstanding Achievement in Character or Story Development
+[^ref-50]: [CNET Gamecenter – King's Quest: Mask of Eternity review (Arinn Dembo, December 17, 1998), Internet Archive](https://web.archive.org/web/20000816095800/http://www.gamecenter.com/Reviews/Item/0,6,0-2347,00.html) – reviewer and date; the score appears only as a graphic
+[^ref-51]: [IGN News Briefs, November 24, 1998, Internet Archive](https://web.archive.org/web/19991117072657/http://pc.ign.com/news/5871.html) – "Sierra's King's Quest VIII: Mask of Eternity has been released"
