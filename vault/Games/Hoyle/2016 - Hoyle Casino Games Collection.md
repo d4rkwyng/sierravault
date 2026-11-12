@@ -10,16 +10,16 @@ series: Hoyle Casino
 engine: Proprietary
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Official Casino Games Collection is a 2016 Encore compilation of
-  over 20 casino games for Windows and macOS, the latest edition in the Hoyle Casino
-  series that Sierra began in 1996; it was re-released in 2019 as Encore Casino Games
-  Collection.
+  over 20 casino games for Windows and macOS, the last Hoyle-branded edition in
+  the Hoyle Casino series that Sierra began in 1996; it was re-released in December
+  2019 as Encore Casino Games Collection.
 tags: [2010s, hoyle-casino, sierra]
 ---
 # Hoyle Official Casino Games Collection
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,11 +27,11 @@ Hoyle Official Casino Games Collection, first released in September 2016, is the
 
 The game is a virtual casino simulation in which players create profiles and are given virtual money to gamble with, the core mechanic of the Hoyle Casino series[^ref-1]. Available games include Blackjack, Craps, Baccarat, Roulette, and eleven popular variations of Poker[^ref-3]. The collection also features a Face Creator tool allowing players to customize their in-game avatars[^ref-2].
 
-IGN gives its initial release as September 19, 2016[^ref-3], and Encore's own Hoyle store sold it as a Windows download, a Mac download and a Mac/Windows CD at $19.99 each[^ref-24]. The game reached Steam on October 14, 2016[^ref-19][^ref-5], but the buy button was hidden at first; Encore announced on October 17 that it had been fixed[^ref-26]. User reception on Steam was negative: the store page shows an overall rating of "Negative" (16% of 18 reviews)[^ref-19]. The original Steam listing is now unlisted "at the request of the publisher"[^ref-19]. The game has not left sale, however. It was re-released in 2019 as *Encore Casino Games Collection*[^ref-1], which is still sold on Steam (developer listed as Webfoot) with the same game list, including Video Keno[^ref-23]. The Mac version also remains on sale at MacGameStore[^ref-2].
+IGN gives its initial release as September 19, 2016[^ref-3], and Encore's own Hoyle store sold it as a Windows download, a Mac download and a Mac/Windows CD at $19.99 each[^ref-24]. The game reached Steam on October 14, 2016[^ref-19][^ref-5], but the buy button was hidden at first; Encore announced on October 17 that it had been fixed[^ref-26]. User reception on Steam was negative: the store page shows an overall rating of "Negative" (16% of 18 reviews)[^ref-19]. The original Steam listing is now unlisted "at the request of the publisher"[^ref-19]. The game has not left sale, however. It was re-released in December 2019 as *Encore Casino Games Collection*[^ref-1], which is still sold on Steam for $19.99 as of November 2026 (publisher Encore Software LLC, developer listed as Webfoot) with the same game list, including Video Keno[^ref-23]. The Mac version also remains on sale at MacGameStore[^ref-2].
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-6]
-> **Publisher:** WD Encore Software LLC[^ref-24]; MacGameStore lists Viva Media LLC for the Mac version[^ref-2]
+> **Publisher:** WD Encore Software LLC[^ref-24] (listed as Encore on Steam[^ref-19]); MacGameStore lists Viva Media LLC for the Mac version[^ref-2]
 > **Platforms:** Windows, macOS[^ref-5]
 > **Release Year:** 2016 (September 19, per IGN)[^ref-3][^ref-20]
 > **Series:** Hoyle Casino
@@ -102,11 +102,11 @@ Sierra Entertainment developed and published the Hoyle Casino series from 1996 t
 
 After 2005, publication of the Hoyle Casino series moved to Encore, Inc., which is credited as the series' developer and publisher from 2005 to 2016[^ref-1]. Steam lists Encore as both developer and publisher of the 2016 release[^ref-19].
 
-Encore's own store page, which sold both the Windows and Mac versions, states that the game was "Published by WD Encore Software LLC, a subsidiary of WD Navarre Holdings, LLC" and that "Encore and Viva Media are registered trademarks of WD Navarre Holdings"[^ref-24]. MacGameStore lists Viva Media LLC as publisher of the Mac version[^ref-2]. The 2019 re-release, *Encore Casino Games Collection*, lists Webfoot as its developer on Steam[^ref-23].
+Encore's own store page, which sold both the Windows and Mac versions, states that the game was "Published by WD Encore Software LLC, a subsidiary of WD Navarre Holdings, LLC" and that "Encore and Viva Media are registered trademarks of WD Navarre Holdings"[^ref-24]. MacGameStore lists Viva Media LLC as publisher of the Mac version[^ref-2]. The 2019 re-release, *Encore Casino Games Collection*, lists Encore Software LLC as publisher and Webfoot as developer on Steam[^ref-23].
 
 **Development Credits:**
 - **Developer:** Encore Software[^ref-6]
-- **Publisher:** WD Encore Software LLC[^ref-24]
+- **Publisher:** WD Encore Software LLC[^ref-24] (Encore on Steam[^ref-19])
 - **Publisher (Mac, per MacGameStore):** Viva Media LLC[^ref-2]
 
 ### Technical Achievements
@@ -163,7 +163,7 @@ Keno itself was not cut: Video Keno is in the 2016 game list[^ref-1][^ref-23].
 | Retail | December 8, 2016 | PC | Australian retail release (GameFAQs)[^ref-6] |
 | Support | March 20, 2017 | Windows | Encore acknowledges a recent update may have made the game malfunction on Windows 10 and posts troubleshooting steps[^ref-27] |
 | Update | June 2017 | Windows | Windows 10 Creators Update launch fix (Encore, June 23)[^ref-28]; widescreen display working afterwards, per a Steam reviewer[^ref-7] |
-| Re-release | 2019 | Windows/Mac (Steam) | Re-released as *Encore Casino Games Collection*, developer listed as Webfoot[^ref-1][^ref-23] |
+| Re-release | December 2019 | Windows/Mac (Steam) | Re-released as *Encore Casino Games Collection*, publisher Encore Software LLC, developer listed as Webfoot, $19.99 as of November 2026[^ref-1][^ref-23] |
 
 **Series Version History (selected):**[^ref-1]
 
@@ -210,13 +210,13 @@ Steam reviewers reported a number of problems:
 
 ### Sales and Commercial Impact
 
-No sales figures for the 2016 release have been published. Raijin.gg estimates about 410 owners of the original Steam version as of October 2026[^ref-4]. For comparison, *Hoyle Casino 2000* sold 230,365 units in North America from January through October 2000[^ref-1].
+No sales figures for the 2016 release have been published. Raijin.gg estimates about 410 owners of the original Steam version, per its page checked in November 2026[^ref-4]. For comparison, *Hoyle Casino 2000* sold 230,365 units in North America from January through October 2000[^ref-1].
 
 The original Steam listing is unlisted at the publisher's request[^ref-19], but the game has stayed on sale: the Mac version through MacGameStore[^ref-2], and the Windows/Mac game as *Encore Casino Games Collection* on Steam since 2019[^ref-1][^ref-23].
 
 ### Collections
 
-The game was re-released in 2019 as *Encore Casino Games Collection*[^ref-1]. The Hoyle brand also appeared in numerous earlier releases:
+The game was re-released in December 2019 as *Encore Casino Games Collection*[^ref-1]. The Hoyle brand also appeared in numerous earlier releases:
 
 - **Hoyle's Official Book of Games** series (parent series featuring card and board games)[^ref-1]
 - Various Hoyle Casino editions from 1996 to 2016[^ref-1]
@@ -238,15 +238,10 @@ No strategy guide or companion book for the 2016 release has been identified.
 
 Hoyle Official Casino Games Collection is the latest game in a series that began under Sierra Entertainment and continued under Encore[^ref-1]. Players' complaints focused on what it lacked compared with earlier Hoyle Casino games, chiefly slot machines, horse betting and the casino trappings around the tables, along with clumsy bet controls and repetitive AI chatter[^ref-7]. Its listing is unlisted on Steam, but the same collection is still sold in its 2019 *Encore Casino Games Collection* form[^ref-23].
 
-## Purchase
-
-- [Steam – Encore Casino Games Collection (2019 re-release)](https://store.steampowered.com/app/906250/)[^ref-23]
-- [MacGameStore – Hoyle Official Casino Games Collection (Mac)](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/)[^ref-2]
-
 ## Downloads
 
 **Purchase / Digital Stores**
-- [Steam – Encore Casino Games Collection](https://store.steampowered.com/app/906250/) – 2019 re-release, on sale[^ref-23]
+- [Steam – Encore Casino Games Collection](https://store.steampowered.com/app/906250/) – 2019 re-release, $19.99 as of November 2026, on sale[^ref-23]
 - [MacGameStore](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – Mac version, on sale (demo available)[^ref-2]
 - Steam (original app 532950) – unlisted at the publisher's request[^ref-19]
 - Mac App Store – unavailable[^ref-5]
@@ -254,6 +249,7 @@ Hoyle Official Casino Games Collection is the latest game in a series that began
 ## See Also
 
 - [[2015 - Hoyle Official Card Games Collection|← Previous: Hoyle Official Card Games Collection]]
+- [[Hoyle Series]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -315,7 +311,7 @@ Hoyle Official Casino Games Collection is the latest game in a series that began
 [^ref-1]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, editions list, 2016 game list (incl. Video Keno), 2019 re-release as Encore Casino Games Collection, Hoyle Casino 2000 sales
 [^ref-2]: [MacGameStore – Hoyle Official Casino Games Collection](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – Mac release date (10/11/2016), publisher Viva Media, requirements, Catalina incompatibility, languages, user rating, still on sale
 [^ref-3]: [IGN – Hoyle Official Casino Games Collection 2016](https://www.ign.com/games/hoyle-official-casino-games-collection-2016) – publisher, game description, NR rating, "Initial Release: Sep 19, 2016"
-[^ref-4]: [Raijin.gg – Hoyle Official Casino Games Reviews](https://raijin.gg/app/532950/Hoyle_Official_Casino_Games/reviews) – Steam review score (27%, 22 reviews), estimated owners (about 410 as of October 23, 2026)
+[^ref-4]: [Raijin.gg – Hoyle Official Casino Games Reviews](https://raijin.gg/app/532950/Hoyle_Official_Casino_Games/reviews) – body text shows a 27% Steam review score ("Mostly negative", 22 reviews) while the page header shows 28%; estimated owners 411 (about 410); page states data as of November 12, 2026
 [^ref-5]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – system requirements, Steam App ID, Steam/Mac App Store availability, languages
 [^ref-6]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – developer, Australian release date (December 8, 2016), user ratings
 [^ref-7]: [Steam Community Reviews – Hoyle Official Casino Games](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – user reviews (quoted as written, 2016–2026); [most-recent filter](https://steamcommunity.com/app/532950/reviews/?browsefilter=mostrecent&filterLanguage=all) for later reviews, incl. the 2024 quote
@@ -325,7 +321,7 @@ Hoyle Official Casino Games Collection is the latest game in a series that began
 
 [^ref-19]: [Steam Store – Hoyle Official Casino Games (unlisted)](https://store.steampowered.com/app/532950/Hoyle_Official_Casino_Games/) – App ID 532950, release date October 14, 2016, Encore as developer/publisher, system requirements, review summary, notice that it is unlisted at the publisher's request
 [^ref-20]: [IGDB – Hoyle Official Casino Games Collection](https://www.igdb.com/games/hoyle-official-casino-games-collection) – release year, platform list, developer/publisher attribution
-[^ref-23]: [Steam Store – Encore Casino Games Collection](https://store.steampowered.com/app/906250/) – 2019 re-release, developer Webfoot, full game list incl. Video Keno, system requirements, still on sale
+[^ref-23]: [Steam Store – Encore Casino Games Collection](https://store.steampowered.com/app/906250/) – 2019 re-release (store page release date Dec 24, 2019; Steam appdetails API gives Dec 29, 2019), publisher Encore Software LLC, developer Webfoot, $19.99, full game list incl. Video Keno, system requirements, still on sale
 [^ref-24]: [Hoyle Gaming (Encore) – Hoyle Official Casino Games Collection product page (Wayback Machine, July 6, 2017)](https://web.archive.org/web/20170706024035/http://www.hoylegaming.com/p-153-hoyle-official-casino-games-collection.aspx?utm_source=Home-Page&utm_medium=Banner&utm_campaign=Casino%20Games&utm_nooverride=1) – Windows/Mac downloads and CD at $19.99, full game list, widescreen support, Face Creator, minimum requirements, "Published by WD Encore Software LLC"
 [^ref-25]: [ESRB – Hoyle Official Casino Games Collection](https://www.esrb.org/ratings/34593/hoyle-official-casino-games-collection/) – rated T for Teen, Simulated Gambling, Encore Software, Macintosh and Windows PC, "collection of twenty-two casino-based gambling games"
 [^ref-26]: [Steam – "Hoyle Official Casino Games is now live!" (Encore announcement, October 17, 2016)](https://steamcommunity.com/games/532950/announcements/detail/805408658845513609) – hidden buy button fixed; "an all-new cast of fully voiced characters, new graphics"
