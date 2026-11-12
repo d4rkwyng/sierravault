@@ -10,18 +10,18 @@ series: Lords of the Realm
 engine: Full 3D engine
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: '**Lords of the Realm III** is a 2004 medieval real-time strategy game developed by Impressions Games and published by Sierra Entertainment, the third entry in the series and the last game Impressions made.'
 tags: [2000s, lords-of-the-realm, sierra, strategy]
 composer: [Henry Beckett]
 ---
 # Lords of the Realm III
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-**Lords of the Realm III** is a medieval themed real-time strategy computer game released in March 2004[^ref-10]. Developed by Impressions Games and published by Sierra Entertainment, it marked a significant departure from its predecessors: in the words of Prima's official guide, "Turn-based has been replaced by real-time, two dimensions have become three, and multiplayer stands alongside single-player games"[^ref-14]. It is the third installment in the Lords of the Realm series and the last game made by Impressions Games[^ref-2][^ref-3].
+**Lords of the Realm III** is a medieval themed real-time strategy computer game released in March 2004[^ref-10]. Developed by Impressions Games and published by Sierra Entertainment, a subsidiary of Vivendi Universal Games[^ref-2], it marked a significant departure from its predecessors: in the words of Prima's official guide, "Turn-based has been replaced by real-time, two dimensions have become three, and multiplayer stands alongside single-player games"[^ref-14]. It is the third installment in the Lords of the Realm series and the last game made by Impressions Games[^ref-2][^ref-3].
 
 Sierra's own product description sets the game in the Middle Ages "between 850 AD and 1350 AD", with scenarios and campaigns spanning the British Isles, Germany, France, Normandy, Brittany, Flanders and Denmark, and covering castle building, siege, politics, religion and conquest[^ref-5]. (GameSpot's review describes the campaigns as moving "from the 11th century to the 15th"[^ref-11].) Players begin as a minor noble in a factionalized land, with the goal of uniting the country under their own rule[^ref-13].
 
@@ -72,20 +72,20 @@ Castle building and siege are central: the product description lists "castle bui
 | GameSpot | 8.4/10 | "One of the freshest, most satisfying games produced by Impressions in years"[^ref-11] |
 | IGN | 6.4/10 | Called it "best understood as an arcade-like answer to Activision's Medieval Total War"[^ref-18] |
 | Metacritic | 65/100 | Aggregate score indicating "mixed reviews"[^ref-2][^ref-15] |
-| GameSpy | 3/5 (75 on Metacritic) | "Doesn't look like a budget game ... but at times it certainly plays like one"[^ref-28][^ref-15] |
+| GameSpy | 3/5 (75 on Metacritic) | "Doesn't look like a budget game ... but at times it certainly plays like one"[^ref-28][^ref-2][^ref-15] |
 | Computer Games Magazine | 70/100 | Praised innovative genre blending despite manual issues[^ref-15] |
 | PC Gamer (US) | 66/100 | Expressed disappointment given series heritage[^ref-15] |
 | PC Gamer (UK) | 77/100 | Score only[^ref-2] |
 | PC Format | 41/100 | Score only[^ref-2] |
 | X-Play | 3/5 | Score only[^ref-2] |
 | PC Zone | 19/100 | Score only[^ref-2] |
-| Computer Gaming World | 1/5 (20 on Metacritic) | Tom Chick; "A clumsy, series-ending combo of real-time and strategy"[^ref-31][^ref-2][^ref-29] |
+| Computer Gaming World | 1/5 (20 on Metacritic) | Tom Chick; "A clumsy, series-ending combo of real-time and strategy"[^ref-31][^ref-32][^ref-2][^ref-29] |
 
 The game was a runner-up for *Computer Games Magazine*'s 2004 "Best Budget Game" award, losing to *The Political Machine*[^ref-2].
 
 ### Modern Assessment
 
-As of October 2026, GOG.com user reviews average 2.6/5 from 39 reviews[^ref-8], and Amazon customer ratings average 3.5/5 from 59 ratings[^ref-5]. Many critics measured the game against its predecessor: GameSpot warned that "Those looking for a straightforward sequel to Lords of the Realm II, however, will be disappointed"[^ref-11], and PC Gamer wrote that "Given the series' heritage and the long buildup to this entry, it's hard not to feel let down"[^ref-15].
+As of November 2026, GOG.com user reviews average 2.6/5 from 40 reviews[^ref-8]; as of October 2026, Amazon customer ratings averaged 3.5/5 from 59 ratings[^ref-5]. Many critics measured the game against its predecessor: GameSpot warned that "Those looking for a straightforward sequel to Lords of the Realm II, however, will be disappointed"[^ref-11], and PC Gamer wrote that "Given the series' heritage and the long buildup to this entry, it's hard not to feel let down"[^ref-15].
 
 Others found merit in the new design. *Computer Games Magazine* called its "blend of real-time strategy and tactics ... an innovative re-working of the genre"[^ref-15]. Several reviewers weighed the game against its $20 price: GameSpot found the gameplay "much better than you'd probably expect from a $20 release"[^ref-11], while GameSpy judged it "worth a look for the overly curious" at that price[^ref-28].
 
@@ -95,7 +95,7 @@ Others found merit in the new design. *Computer Games Magazine* called its "blen
 
 Prima's official guide describes Lords of the Realm III as continuing the tradition of Lords of the Realm II and bringing it "up to date"[^ref-14]. Development was turbulent: according to MobyGames, "a management shake-up" during development "ended with the departure of Beatrice and much of the company's leadership and senior staff", who left to form Tilted Mill Entertainment[^ref-19]. Chris Beatrice had previously held creative leadership of Impressions[^ref-19].
 
-Sierra announced the game on October 12, 2001, promising "a new real-time 3D engine" and a release in late 2002[^ref-30]. Vivendi had planned a $49.99 price as late as October 2003, but in February 2004 confirmed the game would retail for $19.99 when it shipped on March 16[^ref-27]. GameSpot's reviewer later remarked that the game deserved "more respect than that offered by release delays and getting kicked out the door with no fanfare"[^ref-11].
+Sierra announced the game on October 12, 2001, promising "a new real-time 3D engine" and a release in late 2002[^ref-30]. Vivendi had planned a $49.99 price as late as October 2003, but in February 2004 confirmed the game would retail for $19.99 when it shipped on March 16[^ref-27]. Wikipedia lists the release as March 16, 2004 in North America and March 26, 2004 in Europe[^ref-2]. GameSpot's reviewer later remarked that the game deserved "more respect than that offered by release delays and getting kicked out the door with no fanfare"[^ref-11].
 
 ### Production
 
@@ -113,7 +113,7 @@ Audio uses the Miles Sound System[^ref-4]. An update patch (version 1.01; Worthp
 
 Lords of the Realm III was the final game produced by Impressions Games; Vivendi Universal Games closed the studio in April 2004, about a month after the game's release[^ref-2][^ref-19].
 
-It is also the last game in the Lords of the Realm series. Computer Gaming World summed it up as "A clumsy, series-ending combo of real-time and strategy"[^ref-31][^ref-29]. The series was later sold to Rebellion Developments[^ref-19], and the game remains available through digital distribution platforms like Steam and GOG, where a Mac version was added in 2013[^ref-26][^ref-8][^ref-7].
+It is also the last game in the Lords of the Realm series. Computer Gaming World summed it up as "A clumsy, series-ending combo of real-time and strategy"[^ref-31][^ref-32][^ref-29]. The series was later sold to Rebellion Developments[^ref-19], and the game remains available through digital distribution on Steam[^ref-26] and GOG[^ref-8]. GOG added a Mac version in 2013[^ref-7][^ref-8].
 
 ## Downloads
 
@@ -123,9 +123,9 @@ It is also the last game in the Lords of the Realm series. Computer Gaming World
 
 ## See Also
 
-- [[1997 - Lords of the Realm II - Siege Pack|← Previous: Lords of the Realm II - Siege Pack]]
+- [[1996 - Lords of the Realm II|← Previous: Lords of the Realm II]]
+- [[1997 - Lords of the Realm II - Siege Pack]] (Lords of the Realm II expansion)
 - [[1994 - Lords of the Realm]]
-- [[1996 - Lords of the Realm II]]
 - **Next:** None (series concluded)
 
 ## References
@@ -157,3 +157,4 @@ It is also the last game in the Lords of the Realm series. Computer Gaming World
 [^ref-29]: [Metacritic Critic Reviews](https://www.metacritic.com/game/lords-of-the-realm-iii/critic-reviews/?platform=pc) – Computer Gaming World score and excerpt
 [^ref-30]: [GameSpot - Lords of the Realm III announced](https://www.gamespot.com/articles/lords-of-the-realm-iii-announced/1100-2817681/) – Trey Walker, October 12, 2001: announcement, new real-time 3D engine, late-2002 target
 [^ref-31]: [Computer Gaming World #240, July 2004 (Wayback PDF)](https://web.archive.org/web/20130510022448/http://www.cgwmuseum.org/galleries/issues/cgw_240.pdf) – p. 72: Tom Chick's review, one star of five, verdict quote
+[^ref-32]: [Computer Gaming World #240, July 2004 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_240) – p. 72: Tom Chick's review; verdict quote and publisher line (Vivendi Universal)
