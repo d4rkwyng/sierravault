@@ -11,7 +11,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 description: Mystery House is the 1980 Apple II murder-mystery adventure designed and
   illustrated by Roberta Williams and programmed by Ken Williams, released by On-Line
   Systems in May 1980 and widely regarded as the first graphical adventure game.
@@ -19,13 +19,13 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Mystery House is an adventure game for the Apple II, released by On-Line Systems in May 1980[^ref-6]. HistoryLink gives the exact date as May 5, 1980[^ref-27]. It was designed, written and illustrated by [[Roberta Williams]] and programmed by [[Ken Williams]][^ref-2]. It was the couple's first game, and its success launched their business, On-Line Systems, which was later renamed [[Sierra On-Line]][^ref-27]. Mystery House is widely regarded as the first adventure game with graphics[^ref-6][^ref-24]. Sierra's own 1987 public-domain notice called it "THE FIRST GRAPHIC ADVENTURE"[^ref-13], and later sources state this as plain fact[^ref-16][^ref-17][^ref-18][^ref-27]. Others qualify it: Wikipedia notes that graphical dungeon-crawl role-playing games such as *pedit5* (1975) used graphics earlier, though no earlier story-based adventure game did[^ref-1]. The game is also counted among the earliest horror video games[^ref-4].
+Mystery House is an adventure game for the Apple II, released by On-Line Systems in May 1980[^ref-6]. HistoryLink gives the exact date as May 5, 1980[^ref-27]. It was designed, written and illustrated by [[Roberta Williams]] and programmed by [[Ken Williams]][^ref-2]. It was the couple's first game, and its success launched their business, On-Line Systems, which was later renamed [[Sierra On-Line]][^ref-27]. Mystery House is widely regarded as the first adventure game with graphics[^ref-6][^ref-24]. Sierra's own 1987 public-domain notice called it "THE FIRST GRAPHIC ADVENTURE"[^ref-13], and later sources state this as plain fact[^ref-16][^ref-17][^ref-18][^ref-27]. Others qualify it: Wikipedia notes that graphical dungeon-crawl role-playing games such as *pedit5* (1975) used graphics earlier, though no earlier story-based adventure game did[^ref-1]. In his essay on the history of horror in video games, Richard Rouse III names Mystery House as "one of the first graphical adventures" on the path of the genre after *Zork*[^ref-4].
 
-The player is locked inside an abandoned Victorian mansion with seven other people[^ref-1]. A note found in the entry hall points to a treasure hunt for hidden jewels, but the other guests soon turn up dead around the house[^ref-24]. Accounts of the period link the setting and story to Agatha Christie's *And Then There Were None* and the board game *Clue*[^ref-6].
+The player is locked inside an abandoned Victorian mansion with seven other people[^ref-1]. A note found in the entry hall points to a treasure hunt for hidden jewels, but the other guests soon turn up dead around the house[^ref-24]. Accounts of the period link the setting and story to Agatha Christie's *And Then There Were None* and the board game *Clue*[^ref-6]. *Softalk* reported in February 1981 that Roberta based Mystery House on Christie's *Ten Little Indians* (*And Then There Were None*) and the board game *Clue*[^ref-30], and in a 1988 *Computer Gaming World* interview she confirmed both: "Yes, as well as the game, Clue"[^ref-31].
 
 The game was packaged in Ziploc bags holding a floppy disk and a photocopied instruction sheet, and sold for $24.95[^ref-6][^ref-27]. Sales figures for the game vary widely between sources (see [Sales Performance](#sales-performance)).
 
@@ -80,11 +80,11 @@ Sales figures for Mystery House differ widely, and none comes from audited recor
 - **Ken Williams (1995):** "Our goal was to sell 10,000 copies… We wound up selling a LOT more than 10,000 copies"[^ref-28].
 - **Chicago Tribune (1989):** the couple hoped "to sell a hundred copies of it. The game sold 10,000"[^ref-10].
 - **GamePro (2007):** the game sold "copies in the tens of thousands"[^ref-17].
-- ***High Score!* (DeMaria and Wilson):** puts the game's eventual sales at 80,000 copies[^ref-8]. (The book itself is a restricted lending copy, so its exact wording could not be re-checked; Wikipedia cites it for the same figure.)
+- ***High Score!* (DeMaria and Wilson):** puts the game's eventual worldwide sales, including the 1982 SierraVenture re-release, at 80,000 copies[^ref-8][^ref-1].
 
 Revenue figures from the first months come from Steven Levy, quoted by both Maher and HistoryLink: "Ken and Roberta made eleven thousand dollars that May. In June, they made twenty thousand dollars. July was thirty thousand"[^ref-26][^ref-27].
 
-### Later Assessment
+### Modern Assessment
 In its November 1996 fifteenth-anniversary issue, *Computer Gaming World* ranked Mystery House fourth among the most innovative games of all time. The magazine said "Roberta's first game was the first adventure game to use text and graphics together on the screen", and dated the game to 1979[^ref-16]. In 2007, GamePro named Mystery House the 51st most important game of all time, saying it "featured graphics at a time when most computer games did not"[^ref-17].
 
 Modern reviewers are less kind to it as a game. Baf's Guide says it "hasn't weathered as well as Adventure and Zork". It adds that "the graphics are crude, and the parser is substandard even for its time", but finds it "interesting to see where the Sierra empire got started"[^ref-14]. Maher concludes that "Mystery House is not a very good game", but credits its "very real formal innovations"[^ref-24].
@@ -94,16 +94,17 @@ Modern reviewers are less kind to it as a game. Baf's Guide says it "hasn't weat
 ### Origins
 In 1979, Ken Williams was working on an income-tax program for a remote mainframe from home, through a teletype terminal. On that terminal he came across *Adventure*, and Roberta was soon absorbed in it[^ref-2]. The Williamses bought an Apple II at the turn of 1980. Ken recalled that "Our gift to each other for Christmas 1979 was an Apple ][". Maher and Nooney both date the purchase to January 1980[^ref-2][^ref-6][^ref-25]. Ken wanted the machine to write a FORTRAN compiler, the project for which he had registered the On-Line Systems name[^ref-25].
 
-Roberta went on to play the Scott Adams adventures on the new Apple II, and then began designing her own game[^ref-25]. Her inspiration has been attributed to the board game *Clue* and Agatha Christie's *And Then There Were None*[^ref-6].
+Roberta went on to play the Scott Adams adventures on the new Apple II, and then began designing her own game[^ref-25]. Her inspiration has been attributed to the board game *Clue* and Agatha Christie's *And Then There Were None*[^ref-6]. *Softalk* gave the same two sources in 1981, and Roberta herself confirmed them in a 1988 interview[^ref-30][^ref-31].
 
 ### Who Proposed the Graphics
 Sources differ on whose idea the pictures were:
 - **Ken's own accounts credit Roberta.** In 1995 he said Roberta thought Adventure "would be better with graphics"[^ref-28]. In the Roberta Williams Anthology introduction he wrote: "Roberta thought I should help her program her vision of an adventure game with graphics"[^ref-2].
 - **Nooney** calls graphics "the substantially different component Williams insisted upon"[^ref-6].
+- **Softalk (February 1981)** describes a joint decision. After Roberta had written the scenario, Ken at first had no time for it. When he agreed to look at it, "together they decided" the game would need something to distinguish it from other adventures on the market, and "they determined that hi-res graphics could serve that purpose"[^ref-30].
 - **Maher** tells it as Ken's idea. Looking for an angle to make the game stand out, "then came the brainstorm: he could use the Apple's hi-res mode to include pictures with the text"[^ref-25].
 
 ### Production
-The Williamses bought a VersaWriter, a tracing tablet for the Apple II. A sketch is placed under its transparent surface and traced with a stylus[^ref-9]. Ken wrote his own software to drive it[^ref-9].
+The Williamses bought a VersaWriter, a tracing tablet for the Apple II, from Peripherals Plus[^ref-30]. A sketch is placed under its transparent surface and traced with a stylus[^ref-9]. Ken wrote his own software to drive it[^ref-9].
 
 Sources disagree on the number of pictures:
 - **Maher:** Ken and Roberta provided pictures for every location, "amounting to some 30 illustrations in all"[^ref-9].
@@ -138,12 +139,13 @@ Mystery House inspired the "Mystery House Taken Over" project (2005), a set of r
 
 In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21].
 
-## Purchase
+### Revival
+A new game titled *Mystery House*, from Guillotine Games and published by MMMera, Inc, is listed on Steam for Windows with a 2027 release. It is described as "a first and third-person horror revival of Roberta Williams' Mystery House" (store listing read November 11, 2026)[^ref-32].
+
+## Downloads
 
 **Purchase / Digital Stores**
 - Game is in the public domain as of 1987[^ref-21]
-
-## Downloads
 
 **Preservation / Archives**
 - [Internet Archive](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems)
@@ -152,8 +154,9 @@ In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21]
 
 ## See Also
 
-- [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
-- [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
+- [[Hi-Res Adventures Series]]
+- [[1980 - Hi-Res Adventure 0 - Mission Asteroid|← Previous: Mission Asteroid]]
+- [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|→ Next: The Wizard and the Princess]]
 - [[1980 - Hi-Res Cribbage]]
 - [[1980 - Hi-Res Football]]
 - [[1981 - Hi-Res Soccer]]
@@ -168,10 +171,10 @@ In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21]
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Mystery_House) – Comprehensive article on Mystery House
 [^ref-2]: [Sierra Help Pages (Wayback, Dec 2025)](https://web.archive.org/web/20251214145523/https://www.sierrahelp.com/Misc/IntroductionToRWAnth.html) – Ken Williams' introduction to The Roberta Williams Anthology
-[^ref-4]: Horror Video Games *(no online copy linked)* – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864-5479-2
+[^ref-4]: Horror Video Games *(no online copy linked)* – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games", p. 15, in Horror Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864-5479-2
 [^ref-5]: [Computer Gaming World, Jan–Feb 1982 (Internet Archive, "Issue 2.1")](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Mark Marlow, "On-Line Adventure Games" review, p. 31
 [^ref-6]: [American Journal of Play](https://www.museumofplay.org/app/uploads/2022/01/10-1-Article-3-Lets-begin-again.pdf) – Nooney, Laine (2017). "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game"
-[^ref-8]: [Internet Archive – High Score!](https://archive.org/details/highscoreillustr0000dema) – DeMaria, Rusel; Wilson, Johnny L. (2002). High Score!: The Illustrated History of Electronic Games. McGraw-Hill/Osborne (searchable lending copy)
+[^ref-8]: [Internet Archive – High Score!](https://archive.org/details/highscoreillustr0000dema) – DeMaria, Rusel; Wilson, Johnny L. (2002). High Score!: The Illustrated History of Electronic Games. McGraw-Hill/Osborne (searchable lending copy; [Wayback record of the Google Books edition entry](https://web.archive.org/web/20260109082125/https://books.google.com/books?id=HJNvZLvpCEQC))
 [^ref-9]: [The Digital Antiquarian](https://www.filfre.net/2011/10/mystery-house-part-1/) – Jimmy Maher's "Mystery House, Part 1"
 [^ref-10]: [Chicago Tribune](https://www.chicagotribune.com/1989/05/26/sierra-disks-offer-epic-adventures/) – Chicago Tribune (May 26, 1989). "Sierra disks offer epic adventures"
 [^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-1-mystery-house-7nl) – Game information and user ratings
@@ -190,3 +193,6 @@ In March 2009, Artsiness released an iPhone adaptation of Mystery House[^ref-21]
 [^ref-27]: [HistoryLink.org](https://historylink.org/File/20912) – Essay on Roberta Williams (Mystery House release, MICRO ad, Hi-Res Adventures)
 [^ref-28]: [PC Multimedia & Entertainment (Wayback)](https://web.archive.org/web/19981206115537/http://www.pcme.com/intrview/kwilliam/kwilliam.htm) – Michael Bendner, "An Interview with Ken Williams" (1995)
 [^ref-29]: [ScummVM Wiki – ADL (Wayback, Jan 2025)](https://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #1" among the games using this engine
+[^ref-30]: [Softalk, February 1981 (Internet Archive)](https://archive.org/details/softalkv1n06feb1981) – Article on Ken and Roberta Williams and On-Line Systems: "Mystery House was based on Agatha Christie's Ten Little Indians (And Then There Were None) and the board game Clue"
+[^ref-31]: [Computer Gaming World No. 54, December 1988 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_54) – Interview with Roberta Williams, p. 21
+[^ref-32]: [Steam – Mystery House (Guillotine Games)](https://store.steampowered.com/app/3108560/Mystery_House/) – Store listing, Windows, coming 2027; publisher MMMera, Inc
