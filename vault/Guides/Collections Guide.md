@@ -1,22 +1,22 @@
 ---
 title: "Collections & Anthologies Guide"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Collections & Anthologies Guide
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 This guide tracks official collections, anthology boxes, and modern digital bundles that gather multiple Sierra (or Sierra-adjacent) games into one release. Contents are taken from each product's MobyGames record or store page; store listings were checked on November 11, 2026. Use it to see which packages include a full series and which versions are shipped.
 
 ## Classic Boxed Anthologies
 
 ### King's Quest
-- **King's Quest: Collector's Edition (1994)** – DOS/Windows 3.x. KQ1 (with the VGA remake) and KQ2–KQ6, a preview of King's Quest VII, and small extras such as a checkers game and a trivia game.[^ref-1]
+- **King's Quest: Collector's Edition (1994)** (listed by SCG as *King's Quest 15th Anniversary Collector's Edition*) – DOS/Windows 3.x. KQ1 (with the VGA remake) and KQ2–KQ6, a preview of King's Quest VII, and small extras such as a checkers game and a trivia game.[^ref-1][^ref-34]
 - **King's Quest: Collection Series (1997)** – KQ1–KQ7 and a sneak preview of *Mask of Eternity*, plus *The Colonel's Bequest*, *The Dagger of Amon Ra* and *Mixed-Up Mother Goose Deluxe*.[^ref-2]
 
 ### Space Quest
-- **Space Quest: Collector's Edition (1994)** – SQ1 (both EGA and VGA versions), SQ2, SQ3, SQ4 (English CD-ROM version) and SQ5, plus a humorous movie clip about the history of the series.[^ref-3]
+- **Space Quest: Collector's Edition (1994)** (listed by SCG as *Space Quest 15th Anniversary Collector's Edition*) – SQ1 (both EGA and VGA versions), SQ2, SQ3, SQ4 (English CD-ROM version) and SQ5, plus a humorous movie clip about the history of the series.[^ref-3][^ref-34]
 - **Space Quest: Collection Series (1997)** – SQ1 through Space Quest 6, plus a preview of the never-completed Space Quest VII. MobyGames lists SQ1 in its VGA version; the SCG version tables list both the original AGI release and the VGA remake.[^ref-4][^ref-34]
 
 ### Leisure Suit Larry
@@ -53,12 +53,12 @@ This guide tracks official collections, anthology boxes, and modern digital bund
 ## Modern Digital Bundles
 
 - **GOG.com series packs** – King's Quest 1+2+3, 4+5+6 and 7+8; Space Quest 1+2+3 and 4+5+6; Leisure Suit Larry (LSL1–3, 5 and 6); Quest for Glory 1-5; Police Quest Collection; and Police Quest: SWAT 1+2. The Gabriel Knight games are sold individually rather than as a pack.[^ref-28][^ref-29]
-- **Steam collections** – *King's Quest Collection* (seven games) and *Space Quest Collection*, both on Steam since 2009; *Quest for Glory 1-5* and *Police Quest Collection*, added in 2016; the Gabriel Knight and Phantasmagoria games are sold individually.[^ref-30][^ref-31]
+- **Steam collections** – *King's Quest Collection* (seven games) and *Space Quest Collection*, both on Steam since 2009 (Steam's store pages show September 1, 2006 as the release date, while its API gives July 23, 2009); *Quest for Glory 1-5* and *Police Quest Collection*, added in 2016; the Gabriel Knight and Phantasmagoria games are sold individually.[^ref-30][^ref-31]
 - **Humble Sierra Bundle (2016)** – A pay-what-you-want Humble Bundle offering the Space Quest Collection, Phantasmagoria 1–2 and the Police Quest Collection at the base tier, with Quest for Glory 1-5, Gabriel Knight 1–3, the King's Quest Collection and *King's Quest: The Complete Collection* at higher tiers, alongside non-adventure titles such as Arcanum, Caesar 3–4 and Geometry Wars 3.[^ref-32]
 - **Humble Sierra the 3rd Bundle (2020)** – Ran May 5–19, 2020, with 17 items in three tiers, including the King's Quest Collection and Season Pass, Gabriel Knight 1–3, Phantasmagoria 1–2, Arcanum and the Space Quest, Police Quest and Quest for Glory collections.[^ref-33]
 - **Betrayal at Krondor Pack (GOG) / Betrayal Collection (Steam)** – *Betrayal at Krondor* and *Betrayal in Antara*. Steam lists the Betrayal Collection (Activision, developer Dynamix) as released December 15, 2016; GOG sells it as the Betrayal at Krondor Pack and gives 2010 as its release year (March 30) in its page data.[^ref-37][^ref-38]
 - **Red Baron Pack** – *Red Baron*, *Red Baron: Mission Builder* and *Red Baron 3D*. GOG's page data dates the pack October 8, 2009, while Steam (Mad Otter Games) shows January 7, 2016, and adds scans of the original manuals, maps and reference cards.[^ref-39][^ref-40]
-- **Hoyle re-releases on Steam** – *Hoyle Official Card Games* (Viva Media, November 18, 2015) and *Hoyle Official Casino Games* (Encore, October 14, 2016). Both store pages carry the Hoyle name but do not say which Sierra-era games they contain, so they are listed as Hoyle-branded releases rather than Sierra compilations.[^ref-41][^ref-42]
+- **Hoyle re-releases on Steam** – [[2015 - Hoyle Official Card Games Collection|*Hoyle Official Card Games*]] (Viva Media, November 18, 2015) and [[2016 - Hoyle Casino Games Collection|*Hoyle Official Casino Games*]] (Encore, October 14, 2016 on Steam). Both store pages carry the Hoyle name but do not say which Sierra-era games they contain, so they are listed as Hoyle-branded releases rather than Sierra compilations.[^ref-41][^ref-42]
 - **Sierra Games Collection (Xbox One, 2015)** – A digital compilation of *Geometry Wars 3: Dimensions Evolved*, *King's Quest: Chapter I – A Knight to Remember*, *Shiftlings* and *Velocity 2X*.[^ref-27]
 
 ## Fan & Community Collections
@@ -74,6 +74,13 @@ No fan-made "collection" products are catalogued here. For fan remakes and commu
 5. **Version gaps:** Not every release of a game appears in PC collections; reference individual game pages for other platforms.
 
 Use this guide alongside the [[Site Index]] and [[Platform Guide]] to decide which anthology meets your needs.
+
+## See Also
+
+- [[Versions]]
+- [[Buying Guide]]
+- [[Platform Guide]]
+- [[Fan Resources]]
 
 ## References
 
@@ -111,7 +118,7 @@ Use this guide alongside the [[Site Index]] and [[Platform Guide]] to decide whi
 [^ref-32]: [Game Informer – Humble Sierra Bundle Offers Up Adventure Classics](https://www.gameinformer.com/b/news/archive/2016/08/30/humble-sierra-bundle-offers-up-adventure-classics.aspx) – Matt Miller, August 30, 2016; tier contents
 [^ref-33]: [SteamGifts – Humble Sierra the 3rd Bundle](https://www.steamgifts.com/discussion/yQysW/humble-bundle-humble-sierra-the-3rd-bundle) – "3 Tiers, 17 Items 05 May 2020 - 19 May 2020"; tier contents
 [^ref-34]: [SCG Wiki – Sierra Game Versions (Wayback, October 22, 2019)](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) – "Leisure Suit Larry: The Ultimate Pleasure Pack (2000)"; Collection Series 1997 lists "Space Quest 1 (AGI) 2.2" and "Space Quest 1 (SCI) 2.000"; Space Quest Collection (2006) lists "Space Quest 1 (SCI) 2.000"
-[^ref-35]: [MobyGames – 3-D Ultra Pinball: Power!](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – read via the MobyGames API; Windows/Mac 1999; four pinball games incl. "3-D Ultra Pinball: Turbo Racing", "demo of 3-D Ultra Minigolf with three playable holes"
+[^ref-35]: [MobyGames – 3-D Ultra Pinball: Power!](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – Windows/Mac 1999; four pinball games incl. "3-D Ultra Pinball: Turbo Racing", "demo of 3-D Ultra Minigolf with three playable holes"
 [^ref-36]: [PCGamingWiki – Space Quest: Chapter I - The Sarien Encounter](https://www.pcgamingwiki.com/wiki/Space_Quest:_Chapter_I_-_The_Sarien_Encounter) – Steam: "Space Quest Collection. EGA and VGA versions (the latter in the legacy launcher)."
 [^ref-37]: [Steam – Betrayal Collection](https://store.steampowered.com/app/559640/) – checked 2026-11-11; "This Betrayal pack includes two games: Betrayal at Krondor and Betrayal in Antara."; Dec 15, 2016; Activision / Dynamix
 [^ref-38]: [GOG – Betrayal at Krondor Pack](https://www.gog.com/en/game/betrayal_at_krondor) – checked 2026-11-11; Betrayal at Krondor and Betrayal in Antara; page data releaseDate 2010-03-30
