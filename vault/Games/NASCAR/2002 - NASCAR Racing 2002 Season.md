@@ -10,13 +10,13 @@ series: NASCAR Racing
 engine: Papy3D (enhanced NASCAR Racing 4 engine)
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: NASCAR Racing 2002 Season is a stock-car racing simulation developed by Papyrus Design Group and published by Sierra Entertainment for Windows in February 2002, with a Mac OS X port by Westlake Interactive and Aspyr following in January 2003.
 tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2002 Season
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -46,7 +46,7 @@ The simulation offers both Simulation Mode for driving experts and Arcade Mode f
 
 ### Structure and Progression
 
-The game recreates the 2002 NASCAR Winston Cup Series season: its 24 tracks are the 23 real venues on the 2002 schedule plus the fictional Coca-Cola Superspeedway, a symmetrical oval with two 36-degree banked corners where GameSpot found 240 mph-plus speeds "not uncommon"[^ref-14][^ref-8]. Players can run testing sessions, single races (with practice, qualifying, warm-up and race), or a full points-based championship season[^ref-13]. The garage offers detailed setup options covering fuel load, aerodynamics, weight bias and suspension, and the game models physics down to each tire's temperature after a race[^ref-13].
+The game recreates the 2002 NASCAR Winston Cup Series season: its 24 tracks are the 23 real venues on the 2002 schedule plus the fictional Coca-Cola Superspeedway, a symmetrical oval with two 36-degree banked corners where GameSpot found 240 mph-plus speeds "not uncommon"[^ref-14]. Players can run testing sessions, single races (with practice, qualifying, warm-up and race), or a full points-based championship season[^ref-13]. The garage offers detailed setup options covering fuel load, aerodynamics, weight bias and suspension, and the game models physics down to each tire's temperature after a race[^ref-13].
 
 According to GameSpot, NASCAR Racing 2002 Season was "the very first NASCAR sim to offer complete tours of each and every facility", narrated by stock-car legend Darrell Waltrip[^ref-14]. Separately, voiceover Driving Lessons covering car control, strategy and tactics were created by Papyrus co-founder Dave Kaemmer[^ref-8]. Sources disagree on the number of lessons: GameSpot describes a 10-lesson tutorial and IGN "ten tutorials", while PC Gamer counted "six extensive training videos"[^ref-14][^ref-17][^ref-6]. Reviewers noted that neither the lessons nor the tours are interactive[^ref-14][^ref-17].
 
@@ -144,7 +144,7 @@ According to Wikipedia, citing Edge, the game sold at least 100,000 copies in th
 ## Downloads
 
 **Purchase / Digital Stores**
-- Currently not available on major digital platforms like Steam or GOG
+- Not available on Steam or GOG (checked 2026-11-12)
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-2002-season-2002) - Community Dreamlist
 
 **Download / Preservation**
@@ -165,7 +165,7 @@ According to Wikipedia, citing Edge, the game sold at least 100,000 copies in th
 
 ## References
 
-[^ref-1]: [MobyGames - NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) – Developer, credits (159 people), Westlake port, Aspyr publisher, modes, release dates, per-platform input devices (read via the MobyGames API)
+[^ref-1]: [MobyGames - NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) – Developer, credits (159 people), Westlake port, Aspyr publisher, modes, release dates, per-platform input devices
 [^ref-2]: [IGN - NASCAR Racing 2002 Season](https://www.ign.com/games/nascar-racing-2002-season/reviews) – Game summary, engine, Westlake/Aspyr listing
 [^ref-3]: [eBay Product Description](https://www.ebay.com/itm/126139280216) – Publisher product description (design philosophy)
 [^ref-5]: [Daily Downforce](https://dailydownforce.com/2002-nascar-racing-2002-season/) – Retrospective assessment
