@@ -10,7 +10,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Astronaut
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Hi-Res Adventure #0: Mission Asteroid is a 1980 Apple II graphic adventure
   by Ken and Roberta Williams for On-Line Systems, an easier introduction to the Hi-Res
   Adventure series in which an astronaut must destroy an asteroid headed for Earth.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -37,7 +37,7 @@ The Softalk listing advertised "Fantastic 21-color hi-res graphics" on a 48K dis
 > **Series:** Hi-Res Adventure
 > **Sierra Lineage:** Core Sierra
 > **Engine:** ADL (Adventure Development Language)[^ref-24]
-> **Protagonist:** Astronaut
+> **Protagonist:** Astronaut[^ref-25]
 
 ## Story Summary
 
@@ -88,7 +88,7 @@ The single MobyGames player review calls it a "short game introducing users to H
 
 ### Origins and Production
 
-Softalk's February 1981 profile of Roberta and Ken Williams says that "Mission: Asteroid was based on Lucifer's Hammer," the novel by Larry Niven and Jerry Pournelle. The same passage says Mystery House drew on Agatha Christie's *Ten Little Indians* (*And Then There Were None*) and the board game Clue, and that The Wizard and the Princess drew on traditional fairy tales[^ref-26].
+Softalk's February 1981 profile of Roberta and Ken Williams says that "Mission: Asteroid was based on Lucifer's Hammer," the novel by Larry Niven and Jerry Pournelle. The same passage says Mystery House drew on Agatha Christie's *Ten Little Indians* (*And Then There Were None*) and the board game Clue, and that The Wizard and the Princess drew on traditional fairy tales. The profile adds that Ken's graphics interpreter "required considerable expansion to include the real-time feature of Mission: Asteroid"[^ref-26].
 
 The manual is signed "KEN AND ROBERTA WILLIAMS," and MobyGames credits the game to Ken Williams and Roberta Williams, with cover artwork by Don Dixon[^ref-12][^ref-22]. Gaming After 40 found credits hard to pin down. It notes that "programming is credited to Chris Iden by some sources," and it reasons that Roberta must have had a hand in the game because it was included in the Roberta Williams Anthology[^ref-4]. On the art, the blog's author writes that "my understanding is that Ken Williams did the artwork himself using an early graphics tablet"[^ref-4].
 
@@ -138,7 +138,7 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 
 **Purchase / Digital Stores**
 - Currently not available on major digital distribution platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/wishlist/games/hires_adventure_0_mission_asteroid) - Community Dreamlist entry for this game
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-0-mission-asteroid-4yl)
@@ -160,6 +160,8 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 - [[1982 - Hi-Res Adventure 5 - Time Zone]]
 - [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
 - [[1984 - Gelfling Adventure]]
+
+→ Next: [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]]
 
 ## References
 
@@ -183,6 +185,6 @@ The game is catalogued by databases including IGDB[^ref-19], and its manual and 
 [^ref-22]: [Mission: Asteroid Apple II manual (Internet Archive)](https://archive.org/details/Mission_Asteroid_Hi-Res_Adventure_0) – Premise, parser, saving, signed "Ken and Roberta Williams"
 [^ref-23]: [Computer Gaming World, Issue 2.1, Jan–Feb 1982 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_2.1) – Mark Marlow's review of the On-Line Systems Hi-Res Adventures
 [^ref-24]: [ScummVM Wiki – ADL (Wayback, 2025-01-01)](http://web.archive.org/web/20250101192233/https://wiki.scummvm.org/index.php?title=ADL) – "ADL stands for 'Adventure Development Language'. It was created by Ken Williams"; lists "Hi-Res Adventure #0" among the games using this engine
-[^ref-25]: [Softalk, January 1981 (Internet Archive)](https://archive.org/details/softalkv1n05jan1981) – New-product item: number taken from "intended level of difficulty"; "the best graphics yet from the company"; 48K, disk, $19.95
+[^ref-25]: [Softalk, January 1981 (Internet Archive)](https://archive.org/details/softalkv1n05jan1981) – New-product item: number taken from "intended level of difficulty"; "the best graphics yet from the company"; 48K, disk, $19.95; On-Line Systems advertisement: "It is your mission, as an Astronaut, to rocket to the Asteroid and blow it up"
 [^ref-26]: [Softalk, February 1981 (Internet Archive)](https://archive.org/details/softalkv1n06feb1981) – Profile of Roberta and Ken Williams: "Mission: Asteroid was based on Lucifer's Hammer"
 [^ref-27]: [Softalk, March 1981 (Internet Archive)](https://archive.org/details/softalkv1n07mar1981) – Top Thirty list entry for Hi-Res Adventure #0: Mission: Asteroid; On-Line Systems advertisement ("over a hundred hi-res pictures")
