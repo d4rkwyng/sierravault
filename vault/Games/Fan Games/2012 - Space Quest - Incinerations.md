@@ -10,7 +10,7 @@ series: Space Quest (Fan Game)
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Space Quest: Incinerations is a fan-made sequel to Sierra''s
   Space Quest series, released free on January 11, 2012 by Chris Ushko under
   his Box of Mystery label.'
@@ -18,15 +18,15 @@ tags: [2010s, adventure, sierra, space-quest-fan-game]
 ---
 # Space Quest: Incinerations
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Space Quest: Incinerations is a fan-made sequel to Sierra's Space Quest series, released on January 11, 2012 by Chris Ushko under his Box of Mystery studio label[^ref-1][^ref-2]. Rock, Paper, Shotgun noted its "scale that goes above and beyond the call of duty for any fan-made game"[^ref-10]; it features over 45 minutes of fully-animated cinematics, 3D-rendered sprites and backgrounds, multiple endings, an achievement system, and over an hour of original music[^ref-3][^ref-7]. Set approximately ten years after the events of Space Quest 6: Roger Wilco in the Spinal Frontier, the game follows the continuing misadventures of space janitor Roger Wilco as he battles to rescue his beloved Beatrice, recover his stolen luggage, and save the universe from destruction[^ref-5][^ref-6].
+Space Quest: Incinerations is a fan-made sequel to Sierra's Space Quest series, released on January 11, 2012 by Chris Ushko under his Box of Mystery studio label[^ref-1][^ref-2]. It features over 45 minutes of fully-animated cinematics, 3D-rendered sprites and backgrounds, multiple endings, an achievement system, and over an hour of original music[^ref-3][^ref-7]. Set approximately ten years after the events of Space Quest 6: Roger Wilco in the Spinal Frontier, the game follows the continuing misadventures of space janitor Roger Wilco as he battles to rescue his beloved Beatrice, recover his stolen luggage, and save the universe from destruction[^ref-5][^ref-6].
 
 The project was six years in development[^ref-3], originally started as a team project in 1999 before being cancelled and revived in 2006[^ref-7]. Ushko ended up working largely as a solo developer[^ref-16], and at release described himself as "still in school" with no serious commercial work yet[^ref-9]. The game re-imagines the Space Quest universe in the style of a modern sci-fi action-thriller while maintaining the comedic sensibilities and puzzle-based gameplay that defined the original series[^ref-3]. As one reviewer noted, "it packs every bit as much charm, considerably more action, and isn't afraid to poke a little fun at itself where necessary"[^ref-10].
 
-Incinerations was released alongside Space Quest: Vohaul Strikes Back and the Space Quest 2 Remake as part of what fans called "The Big Three" fan sequels[^ref-7]; Rock, Paper, Shotgun called three fan-made sequels in one month "unprecedented"[^ref-10]. Adventure Gamers' Rob Murrant called it "one of the best fan made adventure games out there" and wrote that "had it been released in the late '90s, it could easily have been a commercial spiritual sequel to Space Quest 6"[^ref-11]. Rock, Paper, Shotgun described it as "a wonderful surprise" that "has no trouble impressing with the kind of action the Space Quest series never came close to, and to a scale that goes above and beyond the call of duty for any fan-made game"[^ref-10].
+Incinerations was released alongside Space Quest: Vohaul Strikes Back and the Space Quest 2 Remake as part of what fans called "The Big Three" fan sequels[^ref-7]; Both Rock, Paper, Shotgun and Adventure Gamers covered it, the latter comparing it to what could have been a commercial Space Quest 6 follow-up[^ref-10][^ref-11].
 
 > [!info]- Game Info
 > **Developer:** Box of Mystery[^ref-1]
@@ -43,7 +43,7 @@ Incinerations was released alongside Space Quest: Vohaul Strikes Back and the Sp
 
 The narrative begins ten years after Roger Wilco was demoted from his commanding position back down to janitor[^ref-12]. The galaxy is now under the rule of a powerful trigger-happy government, and Roger's days as a hapless point-and-click hero seem numbered[^ref-6]. The story opens with Roger thinking things are finally looking up when he lands a job interview for a prestigious position at a military base on his home planet Xenon[^ref-12].
 
-However, Roger's optimism is short-lived when a time-traveling troublemaker arrives to steal his beloved Beatrice, his future destiny, and—most tragically of all—his luggage[^ref-6][^ref-13]. This elaborate scheme is orchestrated by a rival captain seeking to kidnap Roger's girlfriend and ultimately destroy the universe[^ref-13]. The Space Quest Omnipedia describes the plot as "a convoluted time-travel conspiracy"[^ref-7].
+However, Roger's optimism is short-lived when a time-traveling troublemaker arrives to steal his beloved Beatrice, his future destiny, and—most tragically of all—his luggage[^ref-6][^ref-13]. This elaborate scheme is orchestrated by a rival captain seeking to kidnap Roger's girlfriend and ultimately destroy the universe[^ref-13]. The Space Quest Omnipedia describes the plot as "a convoluted time-travel conspiracy"[^ref-7], and calls the game "an indirect follow-up to the dark ending of Vohaul Strikes Back"[^ref-7].
 
 Roger must team up with various allies, including a robot companion named Doomtron, to navigate this dangerous adventure[^ref-6]. The game features dozens of original characters[^ref-14], and one GOG forum reviewer noted that "most of the memorable characters from the official games are in this game"[^ref-15]. That reviewer found the storyline "a little confusing, but great"[^ref-15], while Adventure Gamers judged that it "never becomes overly convoluted"[^ref-11].
 
@@ -59,7 +59,7 @@ GameCola criticized the interface, writing that it "looks like it's still going 
 
 ### Structure and Progression
 
-The game features an extensive adventure spanning over 100 CG backgrounds[^ref-7]. The gameplay alternates between traditional puzzle-solving segments and more action-oriented sequences, including an optional FPS rail-shooter segment that represents "the kind of action the Space Quest series never came close to"[^ref-7][^ref-10].
+The game features an extensive adventure spanning over 100 CG backgrounds[^ref-7]. The gameplay alternates between traditional puzzle-solving segments and more action-oriented sequences, including an optional FPS rail-shooter segment[^ref-7].
 
 Key locations include:
 - **Xenon:** Roger's home planet and the site of his military base job interview[^ref-12]
@@ -127,7 +127,7 @@ The game was designed with legal considerations in mind, structured so that "any
 
 The game's graphics were developed using Autodesk Maya for 3D rendering, with editing performed in Adobe Premiere and After Effects[^ref-7]. Particle Illusion was used for environmental effects[^ref-7]. The result was a visual style featuring 3D-rendered sprites and backgrounds, criticized by GameCola as an "unprofessional mishmash of 2D and 3D"[^ref-3][^ref-16].
 
-The game's 45-plus minutes of fully-animated cinematics were singled out by Adventure Gamers: "The quality here is amazing, especially for a fan creation"[^ref-3][^ref-11][^ref-14]. The Mac and Linux ports were made by Brian Seligman[^ref-24]. The game also features over 100 CG backgrounds and over an hour of original music composed by multiple musicians[^ref-7].
+The game's 45-plus minutes of fully-animated cinematics were singled out by Adventure Gamers: "The quality here is amazing, especially for a fan creation"[^ref-3][^ref-11][^ref-14]. The Mac and Linux ports were made by Brian Seligman[^ref-24]. According to the Space Quest Omnipedia, the game was designed with "fully CGI backgrounds, cell-shaded characters, and full-motion videos for the cinematics", and "many free models were downloaded from various 3D sites and modified" to suit its needs[^ref-7]. The game also features over 100 CG backgrounds and over an hour of original music composed by multiple musicians[^ref-7].
 
 ### Technical Specifications
 
@@ -179,6 +179,7 @@ The game is filled with references and hidden content typical of Space Quest tra
 - **The Price Is Right Reference:** A game show parody is included[^ref-21]
 - **"Frosta la Keister, Baby!" Trophy:** Awarded for double-freezing Beatrice[^ref-18]
 - **Fish from SQ6:** The recurring fish item returns and refuses to leave Roger's inventory[^ref-16]
+- **Super-Secret Ending:** Per the Box of Mystery FAQ, it is "based on a music video I made with my brothers in high school" and is "meant to be a really stupid in-joke that only the longest-time followers of Box of Mystery would get"[^ref-24]
 - **Falling Off Edge Joke:** The game trailer features a joke about Roger falling off the edge[^ref-9]
 - **Stealing from the Homeless:** As one piece of dialogue notes, "It's never too early in a game to steal from the homeless"[^ref-16]
 
@@ -211,9 +212,9 @@ The Space Quest Omnipedia wiki maintains documentation of these fan games while 
 
 ### Critical Perspective
 
-Adventure Gamers called it "one of the best fan made adventure games out there"[^ref-11]. It arrived before Mark Crowe and Scott Murphy, the original Two Guys from Andromeda, announced their own spiritual successor in March 2012[^ref-20].
+Adventure Gamers ranked it among the best fan-made adventure games[^ref-11]. It arrived before Mark Crowe and Scott Murphy, the original Two Guys from Andromeda, announced their own spiritual successor in March 2012[^ref-20].
 
-Rock, Paper, Shotgun said its scale "goes above and beyond the call of duty for any fan-made game"[^ref-10], while GameCola criticized its unpolished interface, "unprofessional mishmash of 2D and 3D" and recycled music[^ref-16]. GameFAQs reviewer Menbailee wrote: "This game doesn't just rank among my favorite fan-produced games; it ranks among my favorite Space Quests"[^ref-2].
+Rock, Paper, Shotgun singled out its scale and action[^ref-10], while GameCola criticized its unpolished interface, "unprofessional mishmash of 2D and 3D" and recycled music[^ref-16]. GameFAQs reviewer Menbailee wrote: "This game doesn't just rank among my favorite fan-produced games; it ranks among my favorite Space Quests"[^ref-2].
 
 According to GameCola, the game was designed so that its link to Roger Wilco and the Space Quest name could be jettisoned in the event of a cease-and-desist[^ref-16].
 
@@ -267,7 +268,7 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 [^ref-4]: [Adventure Gamers – Game Database](https://web.archive.org/web/20240222084405/https://adventuregamers.com/games/view/17400) – release date, plot description, Following Freeware coverage
 [^ref-5]: [MobyGames – Space Quest: Incinerations](https://www.mobygames.com/game/146101/space-quest-incinerations/) – platforms, engine, ratings, technical specs, timeline placement
 [^ref-6]: [GameFAQs – Game Page](https://gamefaqs.gamespot.com/pc/660661-space-quest-incinerations) – plot description, Doomtron character, government storyline
-[^ref-7]: [Space Quest Omnipedia – Incinerations](https://spacequest.fandom.com/wiki/Space_Quest:_Incinerations) – composers, development history, Maya/Premiere/After Effects, G4TV feature, multiple endings, AGS page rating
+[^ref-7]: [Space Quest Omnipedia – Incinerations](https://spacequest.fandom.com/wiki/Space_Quest:_Incinerations) – composers, development history, Maya/Premiere/After Effects, G4TV feature, multiple endings
 [^ref-8]: ChapterCheats – "Space Quest: Incinerations" video walkthrough page (cited as text only; the site's sidebar promotes adult games) – MrWhitman video walkthrough (7 chapters, February 15, 2018)
 [^ref-9]: [Telltale Games Community Forum – Release Thread](https://community.telltalegames.com/discussion/28243/space-quest-incinerations-new-fan-game-released) – development details, cut content, death room, animation praise, student status
 [^ref-10]: [Rock, Paper, Shotgun – Space Quest: Roger Wilco Not Over And Out](https://www.rockpapershotgun.com/space-quest-roger-wilco-not-over-and-out) – Richard Cobbett, January 19, 2012; "wonderful surprise", "if you only have time for one, download this"
