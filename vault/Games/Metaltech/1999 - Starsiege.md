@@ -10,7 +10,7 @@ series: Earthsiege / Metaltech
 engine: Darkstar
 protagonist: Harabec Weathers (Human Campaign) / Prometheus (Cybrid Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-12'
 composer: [Timothy Steven Clarke (Loudmouth Studios)]
 description: Starsiege is a mecha-style vehicle simulation game developed by Dynamix
   and published by Sierra On-Line, released in March 1999 for Microsoft Windows.
@@ -18,15 +18,15 @@ tags: [1990s, earthsiege-metaltech, sierra, simulation]
 ---
 # Starsiege
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Starsiege is a mecha-style vehicle simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]], released in March 1999 for Microsoft Windows; GameSpot's preview and Wikipedia give March 19, while PCGamingWiki lists March 24.[^ref-1][^ref-35][^ref-40] It was the last game in the Earthsiege series,[^ref-33] which GameRevolution said "for a long time has been seen as the only real competition to the vaunted Mechwarrior games."[^ref-20] Set in the year 2829, Starsiege depicts the conflict between humanity and the artificially intelligent Cybrid war machines across the solar system, with separate campaigns letting players fight the war from both the human and the Cybrid side.[^ref-3]
 
-The game arrived at a pivotal moment for the mech simulation genre, beating competitors MechWarrior 3, Heavy Gear II, and Slave Zero to market.[^ref-4] Starsiege's 3D graphics ran on the Darkstar engine[^ref-40]—the same engine behind the Starsiege: Tribes multiplayer shooter, released three months earlier in December 1998.[^ref-5] The game shipped with a printed 184-page manual and a 152-page full-color Compendium of the Starsiege universe's backstory.[^ref-6] Mark Hamill voiced the rebel leader Harabec Weathers.[^ref-7]
+The game arrived at a pivotal moment for the mech simulation genre, beating competitors MechWarrior 3, Heavy Gear II, and Slave Zero to market.[^ref-4] Starsiege's 3D graphics ran on the Darkstar engine[^ref-40]—the same engine behind the Starsiege: Tribes multiplayer shooter, released in late 1998.[^ref-5] The game shipped with a printed 184-page manual and a 152-page full-color Compendium of the Starsiege universe's backstory.[^ref-6] Mark Hamill voiced the rebel leader Harabec Weathers.[^ref-7]
 
-Sierra heavily hyped the game in its in-house magazine, hailing it as one of the greatest 3D games it would ever release.[^ref-33] Despite generally favorable reviews, Starsiege struggled commercially: Dynamix announced a launch shipment of 250,000 units to retailers, but according to PC Data it sold 36,000 units in the U.S. by the end of July 1999.[^ref-1] Fans later petitioned Sierra for a sequel.[^ref-42] In 2015, Hi-Rez Studios made Starsiege available as a free download along with the rest of the Earthsiege and Tribes games.[^ref-50]
+Sierra heavily hyped the game in its in-house magazine, hailing it as one of the greatest 3D games it would ever release.[^ref-33] Despite generally favorable reviews, Starsiege struggled commercially: Dynamix announced in February 1999 that it initially planned to ship 250,000 units,[^ref-54] but according to PC Data it sold 36,000 units in the U.S. by the end of July 1999.[^ref-55] Fans later petitioned Sierra for a sequel.[^ref-42] In 2015, Hi-Rez Studios made Starsiege available as a free download along with the rest of the Earthsiege and Tribes games.[^ref-50]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -190,9 +190,9 @@ The OpenGL performance was notably problematic on non-3Dfx hardware, with one re
 
 ### Sales and Commercial Impact
 
-Starsiege's commercial performance was disappointing despite Sierra's significant marketing investment. The game sold only approximately 36,000 units in the United States by the end of July 1999, well below the 250,000 units that had been shipped to retailers.[^ref-1] A fan petition claimed that Starsiege and Tribes each "sold approximately the same number of units," though this assertion is difficult to verify.[^ref-42]
+Starsiege's commercial performance was disappointing despite Sierra's significant marketing investment. The game sold only approximately 36,000 units in the United States by the end of July 1999, well below the 250,000 units Dynamix had said in February 1999 it initially planned to ship.[^ref-54][^ref-55] A fan petition claimed that Starsiege and Tribes each "sold approximately the same number of units," though this assertion is difficult to verify.[^ref-42]
 
-The underperformance had significant consequences for Dynamix. Calling the sales figures "pitiful", Mark Asher of CNET Gamecenter wrote: "Sierra gave this game a big push and it just didn't sell, and now most of Dynamix is gone."[^ref-1] When Sierra announced 105 layoffs in a 1999 reorganization, Dynamix in Eugene, Oregon, was the hardest-hit group: 60 of the 105 laid-off employees worked there on the Pro Pilot flight simulation series.[^ref-43] Dynamix eventually closed entirely in August 2001.[^ref-44]
+The underperformance had significant consequences for Dynamix. Calling the sales figures "pitiful", Mark Asher of CNET Gamecenter wrote: "Sierra gave this game a big push and it just didn't sell, and now most of Dynamix is gone."[^ref-55] When Sierra announced 105 layoffs in a 1999 reorganization, Dynamix in Eugene, Oregon, was the hardest-hit group: 60 of the 105 laid-off employees worked there on the Pro Pilot flight simulation series.[^ref-43] Dynamix eventually closed entirely in August 2001.[^ref-44]
 
 The game's copy protection was notably robust for its era. Unlike its companion title Tribes, which intentionally shipped without copy protection, "StarSiege is not capable of being copied in this manner and as such was limited to a customer base that actually was required to buy the game to enjoy it to its fullest extent."[^ref-42]
 
@@ -221,7 +221,7 @@ The r/starsiege subreddit serves as a gathering point for remaining fans,[^ref-3
 
 ### Spin-offs and Sequel
 
-Starsiege: Tribes (December 1998), a multiplayer-focused first-person shooter, shared the same engine and universe. As GameSpot put it before release, "Where Starsiege ends, Tribes begins."[^ref-35] Tribes went on to a series of sequels,[^ref-1] and PC Gamer US, giving it a 1999 Special Achievement in Innovation award, said that "Tribes re-wrote the laws of online battle."[^ref-47]
+Starsiege: Tribes (late 1998), a multiplayer-focused first-person shooter, shared the same engine and universe. As GameSpot put it before release, "Where Starsiege ends, Tribes begins."[^ref-35] Tribes went on to a series of sequels,[^ref-1] and PC Gamer US, giving it a 1999 Special Achievement in Innovation award, said that "Tribes re-wrote the laws of online battle."[^ref-47]
 
 GameRevolution's 1999 review mentioned a Starsiege 2, "which is apparently already in the works."[^ref-20] A fan petition launched in December 2000, which gathered 2,238 signatures, called on Sierra to develop Starsiege 2, complaining that the company had chosen other projects, including Tribes 2.[^ref-42]
 
@@ -231,13 +231,13 @@ Prophecy Games announced Starsiege: Deadzone in September 2022;[^ref-1] released
 
 Starsiege was the last of the Earthsiege games. Reviewers praised its visuals, extensive lore and dual human/Cybrid campaigns, and CNET Gamecenter called it "easily the best of the lot",[^ref-8] but it struggled to stand out against the MechWarrior series.[^ref-14]
 
-The game's legacy is complicated by its commercial failure, which CNET Gamecenter's Mark Asher linked to the loss of most of Dynamix.[^ref-1] Yet for those who experienced Starsiege, it left a lasting impression. As one fan eloquently stated: "I feel like Starsiege was the best mecha game ever made, yet very little attention was paid to it because of the Mechwarrior series."[^ref-14] The game's preservation as freeware ensures that future generations can experience what many consider an underappreciated gem of late-1990s PC gaming.
+The game's legacy is complicated by its commercial failure, which CNET Gamecenter's Mark Asher linked to the loss of most of Dynamix.[^ref-55] Yet for those who experienced Starsiege, it left a lasting impression. As one fan eloquently stated: "I feel like Starsiege was the best mecha game ever made, yet very little attention was paid to it because of the Mechwarrior series."[^ref-14] Hi-Rez Studios' 2015 decision to offer the game as a free download has kept it available to players.[^ref-50]
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Currently unavailable on major digital storefronts
+- Not currently available on GOG or Steam (as of November 2026)
+- Currently unavailable on major digital storefronts (as of November 2026)
 
 **Download / Preservation**
 - Hi-Rez Studios' official 2015 freeware release was hosted on its Tribes Universe website[^ref-50]
@@ -314,3 +314,5 @@ The game's legacy is complicated by its commercial failure, which CNET Gamecente
 [^ref-51]: [Steam – Starsiege: Deadzone – Store Page Update](https://steamcommunity.com/games/2170420/announcements/detail/5750603429273922411) – Prophecy Games, February 14, 2024: "temporarily retiring the store page"
 [^ref-52]: [Steam – Starsiege: Deadzone – Server Discontinuance](https://steamcommunity.com/games/2170420/announcements/detail/5762994032391614645) – Prophecy Games, April 18, 2024: "discontinue servers for Starsiege: Deadzone"
 [^ref-53]: [MobyGames – Starsiege (Archived December 2025)](https://web.archive.org/web/20251213235730/https://www.mobygames.com/game/364/starsiege/) – Wayback snapshot, 13 Dec 2025: "Critics 79% (25)"
+[^ref-54]: [GameDaily – Dynamix Finishes Starsiege (Archived May 2001)](https://web.archive.org/web/20010520134922/http://www.gamedaily.com/news/february_99/2_24/index.shtml) – February 24, 1999: "The company initially plans to ship 250,000 units of the sci-fi game"
+[^ref-55]: [CNET Gamecenter – Game Spin by Mark Asher (Archived June 2000)](https://web.archive.org/web/20000614023813/http://gamecenter.com/News/Item/Textonly/0,78,0-3226,00.html) – PC Data sales through end of July 1999: Starsiege "sold a pitiful 36,000 copies"
