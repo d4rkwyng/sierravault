@@ -1,7 +1,7 @@
 ---
 title: 'Inca II: Nations of Immortality'
 release_year: 1993
-developer: Coktel Vision
+developer: [Coktel Vision, MDO]
 designer: [Yannick Chosse, Stéphane Ressot]
 publisher: Sierra On-Line
 genre: Adventure
@@ -10,7 +10,7 @@ series: Inca
 engine: Gob
 protagonist: Atahualpa / El Dorado
 sierra_lineage: Sierra Published
-last_updated: '2026-11-07'
+last_updated: '2026-11-12'
 description: 'Inca II: Nations of Immortality is the sequel to Inca, a surreal space
   combat/adventure game drawing on Incan mythology, developed by Coktel Vision and
   published by Sierra On-Line.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, inca, sierra]
 ---
 # Inca II: Nations of Immortality
 
-<small style="color: gray">Last updated: November 7, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Inca II: Nations of Immortality is the sequel to Inca, the surreal space combat/
 The game opens with Atahualpa, son of El Dorado, before control passes back to El Dorado himself in the fight against his arch-enemy Aguirre[^ref-12], across settings that include the Australian desert and outer space[^ref-16][^ref-17]. Like its predecessor, Inca II used pre-rendered bitmaps and digitized video cutscenes[^ref-12]. Besides the standard release, a "Série limitée" edition released in France, Germany, Italy and the UK bundled the 3.5" floppy version with a soundtrack disc[^ref-7].
 
 > [!info]- Game Info
-> **Developer:** [[Coktel Vision]][^ref-12]
+> **Developer:** [[Coktel Vision]], MDO[^ref-12][^ref-33]
 > **Designers:** Yannick Chosse, Stéphane Ressot[^ref-12][^ref-26]
 > **Publisher:** [[Sierra On-Line]][^ref-12][^ref-30]
 > **Engine:** Gob (Coktel Vision engine)[^ref-16]
@@ -59,26 +59,11 @@ Besides first-person space dogfights, the player must repel a raid on a moving l
 
 The musical score was composed by Gilles Douieb[^ref-12][^ref-26], and the disc carries audio CD tracks, playable from track 2[^ref-21].
 
-## Technical Specifications
-
-| Component | Requirement |
-|-----------|-------------|
-| Processor | Intel i386 or higher[^ref-21] |
-| Memory | 2 MB RAM minimum[^ref-21] |
-| Operating System | PC/MS-DOS 5.0[^ref-21] |
-| Graphics | MCGA/VGA support[^ref-21] |
-| CD-ROM | 1X (150 KB/s) minimum[^ref-21] |
-| Sound | Adlib, Pro Audio Spectrum, Sound Blaster, SB16, SB Pro[^ref-21] |
-| Input | Keyboard, Mouse, Analog Joystick[^ref-21] |
-| Distribution | 3.5" floppy disks or CD-ROM[^ref-21] |
-
-Period sources give differing requirements. Computer Gaming World's spec box listed a 386 at 25 MHz or better, 4 MB RAM, VGA, a CD-ROM drive and a mouse, with Pro Audio and Sound Blaster support and no copy protection[^ref-25]; Tilt listed a 386SX at 25 MHz minimum (386DX or 486 recommended) and a hard-disk install of 8 to 31 MB[^ref-26]. Tilt also reported that version 1.0 could not play digitized speech on a Sound Blaster 16 ASP card[^ref-26].
-
 ## Reception
 
 ### Contemporary Reviews
 
-Inca II drew mixed reviews; MobyGames aggregates a 70% critic average from 16 ratings[^ref-12].
+Inca II drew mixed reviews; MobyGames aggregates a critic average of about 70%[^ref-12].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
@@ -90,7 +75,7 @@ Inca II drew mixed reviews; MobyGames aggregates a 70% critic average from 16 ra
 | Power Play (Jan. 1994) | 76% | Via MobyGames critic list[^ref-31] |
 | Computer Gaming World #122 (Sept. 1994) | 2 stars | Review by Charles Ardai[^ref-25] |
 | White Wolf #49 (Nov. 1994) | 3/5 | Review by James V. Trunzo[^ref-17] |
-| MobyGames | 70% | Critic average, 16 ratings[^ref-12] |
+| MobyGames | about 70% | Critic average[^ref-12] |
 
 PC Gamer praised the "great diversity of gameplay" and the $34.95 price, while noting that "the acting is pretty cheesy (not necessarily a bad thing!)"; its bottom line called it "a weird mix" that is "fun to play, easy on the wallet, and often stunning to look at"[^ref-22].
 
@@ -116,7 +101,7 @@ Developed by French studio Coktel Vision[^ref-12][^ref-25], Inca II was the comp
 
 ### Production
 
-The game's production involved digitized video cutscenes and pre-rendered graphics[^ref-12]. Joystick #45 introduced Yannick Chosse as the person behind the product ("à l'initiative du produit") and reported that Inca 2 "a demandé un an de développement" (took a year of development) and was "le fruit du travail d'une douzaine de personnes" (the work of about a dozen people)[^ref-32]. Chosse told the magazine that development began with 3D ships made on a Getris system, but "très vite, 3D Studio de Autodesk s'est imposé" (3D Studio quickly took over); the Getris ships were kept and the other 3D scenes were made in 3D Studio. He also said a Speech Pack would probably follow[^ref-32]. Joystick #42 reported that the programming was done not at Coktel's offices but in Bordeaux by the MDO team led by Arnaud Delrue, five programmers at that point, and that fifteen audio tracks were planned for the final version[^ref-33]. It described Gilles Douïeb composing on an Atari ST with Cubase and a Roland Sound Canvas[^ref-33]. Tilt's credits list the scenario by Y. Chosse and S. Ressot, programming by D. Giraudeau and O. Guerrier, and graphics by Y. Chosse, J. Kluytmans and J. Rey[^ref-26]; MobyGames credits Yannick Chosse and Stéphane Ressot with the script and adaptation[^ref-12]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12].
+The game's production involved digitized video cutscenes and pre-rendered graphics[^ref-12]. Joystick #45 introduced Yannick Chosse as the person behind the product ("à l'initiative du produit") and reported that Inca 2 "a demandé un an de développement" (took a year of development) and was "le fruit du travail d'une douzaine de personnes" (the work of about a dozen people)[^ref-32]. Chosse told the magazine that development began with 3D ships made on a Getris system, but "très vite, 3D Studio de Autodesk s'est imposé" (3D Studio quickly took over); the Getris ships were kept and the other 3D scenes were made in 3D Studio. He also said a Speech Pack would probably follow[^ref-32]. Power Play's December 1993 preview, which gave a fourth-quarter 1993 release, said most of the cut-scenes were produced with 3D Studio and Vista Pro, that the characters were filmed with a video camera and converted to VGA before being built into the game, and that a stripped-down floppy version would appear alongside the CD-ROM[^ref-37]. Joystick #42 reported that the programming was done not at Coktel's offices but in Bordeaux by the MDO team led by Arnaud Delrue, five programmers at that point, and that fifteen audio tracks were planned for the final version[^ref-33]. It described Gilles Douïeb composing on an Atari ST with Cubase and a Roland Sound Canvas[^ref-33]. Tilt's credits list the scenario by Y. Chosse and S. Ressot, programming by D. Giraudeau and O. Guerrier, and graphics by Y. Chosse, J. Kluytmans and J. Rey[^ref-26]; MobyGames credits Yannick Chosse and Stéphane Ressot with the script and adaptation[^ref-12]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12].
 
 ### Release
 
@@ -124,11 +109,65 @@ Coktel Vision ran a contest with Génération 4 in December 1993 "à l'occasion 
 
 The "Série limitée" edition, released in France, Germany, Italy and the UK, contained the 3.5" floppy version of the game plus a soundtrack disc[^ref-7].
 
+### Voice Cast
+
+MobyGames' DOS credits list a starring cast and eight further voice credits; character names are given only where shown[^ref-12].
+
+| Actor | Character / credit |
+|-------|--------------------|
+| Ivan Bond | Aguirre (starring) |
+| Yasmine Moïra | Aclla (starring) |
+| Ken Do | Starring |
+| J. Gallo | Starring |
+| Y. Karadec | Starring |
+| Nicole Favard | Voices |
+| Leslie Lanker | Voices |
+| Gilbert Lévy | Voices |
+| David Pini | Voices |
+| Hans-Jörg Schnass | Voices |
+| Doris Streibl | Voices |
+| Roland Waden | Voices |
+| Dana Burns Westberg | Voices |
+
+### Technical Specifications
+
+| Component | Requirement |
+|-----------|-------------|
+| Processor | Intel i386 or higher[^ref-21] |
+| Memory | 2 MB RAM minimum[^ref-21] |
+| Operating System | PC/MS-DOS 5.0[^ref-21] |
+| Graphics | MCGA/VGA support[^ref-21] |
+| CD-ROM | 1X (150 KB/s) minimum[^ref-21] |
+| Sound | Adlib, Pro Audio Spectrum, Sound Blaster, SB16, SB Pro[^ref-21] |
+| Input | Keyboard, Mouse, Analog Joystick[^ref-21] |
+| Distribution | 3.5" floppy disks or CD-ROM[^ref-21] |
+
+Period sources give differing requirements. Computer Gaming World's spec box listed a 386 at 25 MHz or better, 4 MB RAM, VGA, a CD-ROM drive and a mouse, with Pro Audio and Sound Blaster support and no copy protection[^ref-25]; Tilt listed a 386SX at 25 MHz minimum (386DX or 486 recommended) and a hard-disk install of 8 to 31 MB (the figure in its spec box; its body text says 9 to 31 MB)[^ref-26]. Tilt also reported that version 1.0 could not play digitized speech on a Sound Blaster 16 ASP card[^ref-26].
+
+### Version History
+
+| Version | Date | Platform | Notes |
+|---------|------|----------|-------|
+| 3.5" floppy | 1993 | DOS | German release distributed by Bomico[^ref-30]; Tilt noted that the floppy version lacked the digitized voices and animations[^ref-26] |
+| CD-ROM | 1993 | DOS | German release distributed by Bomico[^ref-30]; Génération 4 marked the PC and CD-ROM release with a December 1993 contest[^ref-28] |
+| Série limitée | 1993 | DOS | France, Germany, Italy and the UK; 3.5" floppy version plus a soundtrack disc[^ref-7] |
+| Enhanced CD-ROM Version | March 22, 1994 | DOS | US release published by Sierra On-Line[^ref-30] |
+| Collector's Edition | 1995 | DOS | Compilation of Inca and Inca II with a soundtrack disc[^ref-8] |
+| Crucial Entertainment reissue | 2000 | DOS | UK release[^ref-30] |
+| GamesLife x4: Volume Thirteen | 2001 | n/a | Compilation that includes Inca II[^ref-12] |
+
 ## Legacy
 
-Inca II is no longer sold commercially; the Internet Archive hosts an installer package that runs the game through DOSBox, tested on Windows 11[^ref-3]. The title was later included in the "Inca I & II: Collector's Edition" compilation released in 1995[^ref-8], which contained both games plus a soundtrack disc with music from both[^ref-8].
+Inca II is no longer sold commercially; the Internet Archive hosts an installer package that runs the game through DOSBox, tested on Windows 11[^ref-3].
+
+ScummVM's Gob engine supports Inca II; the game is completeable, but its space-combat sequences are not implemented[^ref-36].
 
 Players have requested an official re-release on GOG's wishlist[^ref-5].
+
+### Collections
+
+- Inca I & II: Collector's Edition (1995): both games plus a soundtrack disc with music from both[^ref-8]
+- GamesLife x4: Volume Thirteen (2001)[^ref-12]
 
 
 ## Downloads
@@ -147,7 +186,7 @@ Players have requested an official re-release on GOG's wishlist[^ref-5].
 [^ref-5]: [GOG Wishlist - Inca II](https://www.gog.com/wishlist/games/inca_ii) – User community wishlist with player comments and experiences
 [^ref-7]: [MobyGames - Inca II: Wiracocha (Série limitée)](https://www.mobygames.com/game/58618/) – Limited edition entry (read via the MobyGames API): 3.5" disk version plus soundtrack disc; 1993, France, Germany, Italy and UK, published by Sierra On-Line
 [^ref-8]: [MobyGames Collector's Edition](https://www.mobygames.com/game/4755/inca-i-ii-collectors-edition/) – 1995 compilation of Inca and Inca II with a soundtrack disc
-[^ref-12]: [MobyGames Nations of Immortality](https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/) – Game entry with description, credits, publishers and 70% critic average (16 ratings)
+[^ref-12]: [MobyGames Nations of Immortality](https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/) – Game entry with description, credits, publishers and a critic average of about 70%
 [^ref-16]: [Wikidata Entry](https://www.wikidata.org/wiki/Q20875674) – Structured metadata about the game including engine and platform information
 [^ref-17]: [Wikipedia - Inca II: Wiracocha](https://en.wikipedia.org/wiki/Inca_II:_Wiracocha) – Gameplay, plot and reception, including CGW summary and White Wolf #49 review
 [^ref-18]: [Giant Bomb](https://www.giantbomb.com/inca-ii-nations-of-immortality/3030-18441/) – Coktel Vision released it in Europe in 1993; Sierra published it in North America in 1994
@@ -166,3 +205,5 @@ Players have requested an official re-release on GOG's wishlist[^ref-5].
 [^ref-33]: [Joystick #42 (October 1993)](https://archive.org/details/joystick042) – "En chantier: Inca 2": programming by MDO in Bordeaux (Arnaud Delrue), fifteen audio tracks planned, Gilles Douïeb's Atari ST setup
 [^ref-34]: [InterAction, Fall 1994 (Vol. VII No. 1)](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra's own magazine: "Top Ten Games" (10. tie: Inca II) and "Inca II and Goblins Quest 3: The most original sequels ever..."
 [^ref-35]: [MobyGames - Inca](https://www.mobygames.com/game/4198/inca/) – Original game entry; DOS release 1992 (read via the MobyGames API)
+[^ref-36]: [ScummVM Wiki - Gob](https://wiki.scummvm.org/index.php?title=Gob) – Gob engine game list and status: Inca II "Completeable"; "Hard-coded space shooter not implemented"
+[^ref-37]: [Power Play #12/93 (December 1993), p. 18](https://archive.org/details/powerplaymagazine-1993-12) – German magazine preview "Inca 2: Wiracocha": expected 4th quarter 1993; cut-scenes made with 3D Studio and Vista Pro; characters filmed on video camera and converted to VGA; stripped-down floppy version planned (checked against page image)

@@ -280,7 +280,7 @@ Sierra bought Coktel Vision in 1993.[^ref-16] Earlier Coktel games were publishe
 - **1992** — [[1992 - Inca|Inca]] — Notes: Action-adventure
 - **1992** — [[1992 - Ween - The Prophecy|Ween: The Prophecy]] — Notes: Fantasy adventure
 - **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Notes: Trilogy finale
-- **1993** — [[1993 - Inca II - Wiracocha|Inca II]] — Notes: Sequel; published by Coktel Vision
+- **1993** — [[1993 - Inca II - Wiracocha|Inca II]] — Notes: Sequel; Sierra On-Line published the North American release (1994); sources differ on the 1993 European publisher (Coktel Vision or Sierra)
 - **1993** — [[1993 - Lost in Time|Lost in Time]] — Notes: Sci-fi adventure
 - **1994** — [[1994 - Playtoons 1 - Uncle Archibald|Playtoons 1]] — Notes: Children's
 - **1995** — [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2]] — Notes: Children's
