@@ -7,12 +7,12 @@ first_release: 1989
 last_release: 1998
 total_games: 6
 genre: "Adventure RPG"
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 
 # Quest for Glory Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -163,7 +163,7 @@ The Coles continued their work after Sierra:
 [^ref-26]: [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) – "A prequel to Quest for Infamy"
 [^ref-27]: [Wikipedia – Quest for Glory III: Wages of War](https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War) – Three "standard" classes; Paladin a "'hidden' class" opened by importing a hero from the previous game
 [^ref-28]: [Choicest Games – Where Are They Now: Lori Ann Cole (2014)](https://www.choicestgames.com/2014/10/where-are-they-now-lori-ann-cole.html) – Hero's Quest "renamed to Quest for Glory due to the original name sounding very similar to the HeroQuest board game"
-[^ref-29]: [Kickstarter - Hero-U Fantasy Adventure Role-Playing Game (2015)](https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game) – $116,888 pledged of $100,000 goal, 1,869 backers; funding period May 12 – Jun 16, 2015 (read via ScraperAPI)
+[^ref-29]: [Kickstarter - Hero-U Fantasy Adventure Role-Playing Game (2015)](https://www.kickstarter.com/projects/transolargames/hero-u-adventure-role-playing-game) – $116,888 pledged of $100,000 goal, 1,869 backers; funding period May 12 – Jun 16, 2015
 [^ref-30]: [Summer Daze at Hero-U on BackerKit – Project Updates, "What We Did Last Summer... and What We're Doing for Next Summer" (16 September 2026)](https://summerdaze.backerkit.com/hosted_preorders/project_updates) – "Expect Ifeyo's Adventure in late Spring or early Summer 2027"
 [^ref-31]: [DekuDeals – Hero-U: Rogue to Redemption](https://www.dekudeals.com/items/hero-u-rogue-to-redemption) – "Steam July 10, 2018 Switch February 9, 2021 PS4, PS5 April 24, 2025"
 [^ref-32]: [Hero-U: Rogue to Redemption – Fast Facts (Transolar Games, hero-u.com)](https://www.hero-u.com/RtR) – "Release Date July 9, 2018"
