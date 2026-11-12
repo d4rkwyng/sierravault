@@ -10,20 +10,21 @@ series: World in Conflict
 engine: MassTech
 protagonist: Lieutenant Parker
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
-description: World in Conflict is a real-time tactics video game developed by Swedish
-  studio Massive Entertainment and published by Sierra Entertainment under Vivendi...
+last_updated: '2026-11-11'
+description: 'World in Conflict is a real-time tactics video game developed by Swedish
+  studio Massive Entertainment and published by Sierra Entertainment under Vivendi
+  Games in 2007 for Windows, set in an alternate 1989 in which the Cold War turns hot.'
 tags: [2000s, sierra, world-in-conflict]
 ---
 # World in Conflict
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-World in Conflict is a real-time tactics video game developed by Swedish studio [[Massive Entertainment]] and published by [[Sierra On-Line|Sierra Entertainment]] under Vivendi Games, released on September 18, 2007 for Microsoft Windows.[^ref-1] The game presents an alternate history scenario where the Cold War never ended—as the product description states, "On November 9th, 1989 the Cold War was supposed to end—it didn't."[^ref-2] Instead, the Soviet Union invades Western Europe, and as World War III rages a Soviet-led army launches a surprise attack on the United States.[^ref-1][^ref-3]
+World in Conflict is a real-time tactics video game developed by Swedish studio [[Massive Entertainment]] and published by [[Sierra On-Line|Sierra Entertainment]] under Vivendi Games, released on September 18, 2007 in North America, September 20, 2007 in Australia and September 21, 2007 in Europe for Microsoft Windows.[^ref-1] The game presents an alternate history scenario where the Cold War never ended—as the product description states, "On November 9th, 1989 the Cold War was supposed to end—it didn't."[^ref-2] Instead, the Soviet Union invades Western Europe, and as World War III rages a Soviet-led army launches a surprise attack on the United States.[^ref-1][^ref-3]
 
-Distinguished from traditional real-time strategy games by its complete elimination of base-building and resource gathering mechanics, World in Conflict focuses entirely on tactical combat and unit deployment.[^ref-4] GameSpot declared it "the studio's masterwork," while Eurogamer noted that "it plays like a strategy game, but feels like an action game."[^ref-5] The game received widespread critical acclaim, earning a Metacritic score of 89/100[^ref-27] and numerous "Best Strategy Game" awards at E3 2007.[^ref-1]
+Distinguished from traditional real-time strategy games by its complete elimination of base-building and resource gathering mechanics, World in Conflict focuses entirely on tactical combat and unit deployment.[^ref-4] GameSpot declared it "the studio's masterwork,"[^ref-4] while Eurogamer noted that "it plays like a strategy game, but feels like an action game."[^ref-5] The game received widespread critical acclaim, earning a Metacritic score of 89/100[^ref-27] and numerous "Best Strategy Game" awards at E3 2007.[^ref-1]
 
 The game's single-player campaign was crafted by best-selling author and Cold War authority Larry Bond, lending the narrative an authentic military thriller quality.[^ref-6] With Alec Baldwin providing narration, fully destructible environments, and support for up to 16 players in multiplayer, World in Conflict represented what Martin Tremblay, president of worldwide studios at Sierra Entertainment, called a title "blurring the lines between strategy, action and first-person-shooter."[^ref-7]
 
@@ -84,9 +85,7 @@ Kikizo's Ian Dransfield gave 9/10, stating "Certainly one of the best PC release
 
 ### Modern Assessment
 
-World in Conflict has retained its reputation as a landmark title in the real-time tactics genre. It was included in the book *1001 Video Games You Must Play Before You Die*.[^ref-1]
-
-PC Gamer's modern retrospective noted that "World in Conflict never quite received the dues it deserved" despite its innovations, particularly praising the "surprisingly affecting solo campaign and some top-drawer nuclear explosions."[^ref-26] The game appears in Tony Mott's *1001 Video Games You Must Play Before You Die*, cementing its status as a classic.[^ref-18]
+PC Gamer's modern retrospective noted that "World in Conflict never quite received the dues it deserved" despite its innovations, particularly praising the "surprisingly affecting solo campaign and some top-drawer nuclear explosions."[^ref-26] The game appears in Tony Mott's *1001 Video Games You Must Play Before You Die*.[^ref-1][^ref-18]
 
 **Aggregate Scores:**
 - **Metacritic:** 89/100 (44 critic reviews)[^ref-27]
@@ -121,24 +120,64 @@ The Collector's Edition included unique bonuses: an actual piece of the Berlin W
 
 Motion capture was performed at Northern Light Studios and High Moon Studios, while the original score was recorded at Gula Studion.[^ref-34]
 
+### Voice Cast
+
+Cast and role names as credited by Metacritic and MobyGames.[^ref-64][^ref-34]
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Narrator | Alec Baldwin |
+| Sabatier | Philippe Bergeron |
+| Drill Commander | Brian Bloom |
+| Parker (Gamer) | Erik Bolin |
+| Various | Nolan North |
+| Various | Dwight Schultz |
+| Various | Charles Martinet |
+| Various | André Sogliuzzo |
+| Various | Dave Wittenberg |
+| Various | S. Scott Bullock |
+| Various | Richard McGonagle |
+| Various | Peter Jessop |
+| Various | Dmitri S. Boudrine |
+| Various | Michael Boyd |
+| Various | Antonio Del Prete |
+| Various | Sean Donnellan |
+| Various | Endre Hules |
+| Various | Mark Ivanir |
+| Various | Gerard Karsenty |
+| Various | Daniel Kash |
+| Various | Boris Kievsky |
+| Various | Lars Lippert |
+| Various | Tom Lowe |
+| Various | Sylvia McClure |
+| Various | Philip Proctor |
+| Various | Michael Ralph |
+| Various | Enn Reitel |
+| Various | Espen Sandvik |
+| Various | Jan Tellefsen |
+| Various | Emmanuel Todorov |
+| Various | Armando Valdes-Kennedy |
+
+Alec Baldwin narrates the events of the campaign before each mission.[^ref-1][^ref-64]
+
 ### Technical Achievements
 
 The MassTech engine represented a significant technical achievement, optimized specifically for displaying large numbers of units with spectacular visual effects. As one Massive representative explained, "MassTech is basically what makes our games look amazing and run very fast... You cannot get this kind of performance when you use an off-the-shelf engine."[^ref-35]
 
-The engine featured exceptional scalability: "WIC scales back much better than most other strategy games released in the last year. You can even play it on a 2 GHz P4 with 512MB RAM and a GF4 Ti 128MB."[^ref-35] Shaders were described as "10x longer compared to Ground Control II engine version," enabling the detailed destruction effects that became the game's visual signature.[^ref-35] The Havok physics integration allowed for realistic debris, vehicle destruction, and environmental damage that remained impressive years after release.[^ref-1]
+The engine featured exceptional scalability: "WIC scales back much better than most other strategy games released in the last year. You can even play it on a 2 GHz P4 with 512MB RAM and a GF4 Ti 128MB."[^ref-35] Shaders were described as "10x longer compared to Ground Control II engine version," enabling the detailed destruction effects that became the game's visual signature.[^ref-35] The Havok physics integration allowed for realistic debris, vehicle destruction, and environmental damage.[^ref-1]
 
 ### Technical Specifications
 
-**Minimum Requirements:**[^ref-36]
+**Minimum Requirements** (as listed for the Soviet Assault expansion):[^ref-36]
 - **OS:** Windows XP / Vista
 - **Processor:** 2.0 GHz single-core or faster
 - **Memory:** 512 MB (XP) / 1 GB (Vista)
 - **Graphics:** 128 MB DirectX 9.0c compatible
 - **Hard Drive:** 8 GB free space
 
-**Recommended Requirements:**[^ref-36]
+**Recommended Requirements** (as listed for the Soviet Assault expansion):[^ref-36]
 - **Processor:** 2.5 GHz or higher
-- **Memory:** 1.5 GB
+- **Memory:** 1 GB (XP) / 1.5 GB (Vista)
 - **Graphics:** 256 MB DirectX 9.0c compatible
 
 **Supported Graphics APIs:**[^ref-4]
@@ -184,53 +223,13 @@ The German version required modifications for USK rating compliance: the atomic 
 - **Sierra Logo Easter Egg:** The Sierra Entertainment logo appears as a combat zone with helicopters, momentarily displaying Soviet-style imagery with hammer and sickle.[^ref-12]
 - **Whitesnake Music:** The band Whitesnake's music plays during certain campaign moments—IGN's Dan Adams quipped, "When Whitesnake starts playing during World in Conflict's single player campaign, you'll realize that it is love that you're feeling."[^ref-22]
 
-## Voice Cast
-
-Cast and role names as credited by Metacritic and MobyGames.[^ref-64][^ref-34]
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Narrator | Alec Baldwin |
-| Sabatier | Philippe Bergeron |
-| Drill Commander | Brian Bloom |
-| Parker (Gamer) | Erik Bolin |
-| Various | Nolan North |
-| Various | Dwight Schultz |
-| Various | Charles Martinet |
-| Various | André Sogliuzzo |
-| Various | Dave Wittenberg |
-| Various | S. Scott Bullock |
-| Various | Richard McGonagle |
-| Various | Peter Jessop |
-| Various | Dmitri S. Boudrine |
-| Various | Michael Boyd |
-| Various | Antonio Del Prete |
-| Various | Sean Donnellan |
-| Various | Endre Hules |
-| Various | Mark Ivanir |
-| Various | Gerard Karsenty |
-| Various | Daniel Kash |
-| Various | Boris Kievsky |
-| Various | Lars Lippert |
-| Various | Tom Lowe |
-| Various | Sylvia McClure |
-| Various | Philip Proctor |
-| Various | Michael Ralph |
-| Various | Enn Reitel |
-| Various | Espen Sandvik |
-| Various | Jan Tellefsen |
-| Various | Emmanuel Todorov |
-| Various | Armando Valdes-Kennedy |
-
-Alec Baldwin narrates the events of the campaign before each mission.[^ref-1][^ref-64]
-
 ## Legacy
 
 ### Sales and Commercial Impact
 
 World in Conflict topped weekly sales charts in North America, Germany, and Australia during its debut week, demonstrating strong initial commercial performance.[^ref-47] GameStop's Bob McKenzie noted "World in Conflict is one of the hottest-selling PC games today as it appeals to fans of many genres, from first-person-shooter to RPG to sim."[^ref-47]
 
-Despite critical acclaim, Martin Walfisz reflected that "World In Conflict is the most played RTS aside from the ones we really have no stats for, namely the Blizzard games," suggesting the game found a dedicated audience even if mainstream success proved elusive.[^ref-30] Following the Activision-Vivendi merger in 2008, Sierra Entertainment was effectively dissolved, and Ubisoft acquired Massive Entertainment along with the World in Conflict intellectual property on November 10, 2008.[^ref-49]
+Despite critical acclaim, Martin Walfisz reflected that "World In Conflict is the most played RTS aside from the ones we really have no stats for, namely the Blizzard games."[^ref-30] Following the Activision-Vivendi merger, Massive Entertainment was let go, and Ubisoft acquired the studio along with the World in Conflict intellectual property on November 10, 2008.[^ref-49]
 
 ### Awards
 
@@ -262,9 +261,12 @@ The original Massgate multiplayer servers were shut down by Ubisoft on December 
 
 In a remarkable gesture, Ubisoft released the Massgate server source code on GitHub in December 2017, allowing the community to host their own servers indefinitely.[^ref-51] The GitHub repository notes: "The original game was released in 2007, and the official Massgate server was shutdown in 2016... As a piece of game development history, and for anyone interested in how online servers were written at the time, it can definitely be a point of interest."[^ref-51] One Reddit commenter called it a "wonderful Christmas present."[^ref-52]
 
+On March 11, 2024, Massgate.org released a Multiplayer Fix package for Windows Vista through 11, which requires the game to be updated to version 1.011 first.[^ref-65]
+
 ### Collections
 
-- **World in Conflict: Complete Edition** (March 2009) - Retail collection containing the original game and Soviet Assault expansion[^ref-1][^ref-40]
+- **World in Conflict: Complete Edition** (March 13, 2009) - Collection containing the original game and Soviet Assault expansion, sold at retail and by Steam and Direct2Drive download[^ref-1][^ref-40]
+- **World in Conflict: Soviet Assault** (March 13, 2009) - Released separately as a download for owners of the original game and in a retail version[^ref-1]
 - **GOG.com Release** (September 1, 2015) - DRM-free digital edition[^ref-53]
 - **Steam Release** (December 4, 2008) - Digital distribution, later delisted May 18, 2016[^ref-53]
 
@@ -350,7 +352,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-46]: [Easter Eggs – Massive T-Shirt](https://eeggs.com/items/53330.html) – cutscene easter egg
 [^ref-47]: [GamesIndustry.biz – Sales Charts](https://www.gamesindustry.biz/sierra-entertainments-world-in-conflicttm-conquers-worldwide-pc-sales-charts-in-debut-week) – debut week performance
 [^ref-48]: [Wired – Ubisoft Cancels World in Conflict Console Ports](https://www.wired.com/2009/03/ubisoft-cancels/) – critical assessment
-[^ref-49]: [MobyGames – Massive Entertainment](https://www.mobygames.com/company/1340/ubisoft-entertainment-sweden-ab-massive-entertainment/) – Ubisoft acquisition
+[^ref-49]: [MobyGames – Massive Entertainment](https://www.mobygames.com/company/1340/ubisoft-entertainment-sweden-ab-massive-entertainment/) ([Wayback Machine copy](https://web.archive.org/web/20260611084659/https://www.mobygames.com/company/1340/ubisoft-entertainment-sweden-ab-massive-entertainment/)) – Ubisoft acquisition on 10 November 2008, following Vivendi's merger into Activision Blizzard
 [^ref-50]: [Massgate.org](https://www.massgate.org/) – community server history, multiplayer restoration
 [^ref-51]: [GitHub – Ubisoft Massgate](https://github.com/ubisoft/massgate) – source code release, development history quote
 [^ref-52]: [PC Gamer – Ubisoft makes the World in Conflict multiplayer backend open source](https://www.pcgamer.com/ubisoft-makes-the-world-in-conflict-multiplayer-backend-open-source/) – December 2017 release, community reaction
@@ -361,8 +363,9 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [^ref-57]: [Wayward Strategy – Time as a Resource Part 3: World in Conflict](https://waywardstrategy.com/2015/07/20/time-as-a-resource-part-3-world-in-conflict/) – resource removal design philosophy
 [^ref-58]: [PC Gamer – Ubisoft postpones World in Conflict server shutdown after outcry](https://www.pcgamer.com/ubisoft-postpones-world-in-conflict-server-shutdown-after-outcry/) – Massive forum post on server shutdown
 [^ref-59]: [Wikipedia – Massive Entertainment](https://en.wikipedia.org/wiki/Massive_Entertainment) – headquarters in Malmö, Sweden
-[^ref-60]: [Steambase – World in Conflict Reviews](https://steambase.io/games/world-in-conflict-ad/reviews) – player score 77/100 (Steam app 21760)
+[^ref-60]: [Steambase – World in Conflict Reviews](https://steambase.io/games/world-in-conflict-ad/reviews) ([Wayback Machine copy](https://web.archive.org/web/20260410143426/https://steambase.io/games/world-in-conflict-ad/reviews)) – player score 77/100 (Steam app 21760)
 [^ref-61]: [Steambase – World in Conflict: Soviet Assault Reviews](https://steambase.io/games/world-in-conflict-soviet-assault/reviews) – player score 89/100 (Steam app 21910)
 [^ref-62]: [WorthPlaying – 'World in Conflict' - v1.005 Patches Available NOW](https://worthplaying.com/article/2007/12/17/news/47488-world-in-conflict-v1005-patches-available-now/) – v1.005 patch, December 17, 2007
 [^ref-63]: [CNET – World in Conflict review](https://www.cnet.com/reviews/world-in-conflict-review/) – David Power, October 3, 2007; "Each of the 14 missions throughout the campaign..."
 [^ref-64]: [Metacritic – World in Conflict details and credits](https://www.metacritic.com/game/world-in-conflict/details/) – cast list: "Alec Baldwin Cast: Narrator", "Philippe Bergeron Cast: Sabatier", "Brian Bloom Cast: Drill Commander", "Erik Bolin Cast: Parker - Gamer"
+[^ref-65]: Massgate.org – Multiplayer Fix downloads page, massgate.org/downloads.php (link omitted: the page offers game downloads) – "Release Date: 2024-03-11"; requires World in Conflict version 1.011; Windows Vista, 7, 8, 10, 11

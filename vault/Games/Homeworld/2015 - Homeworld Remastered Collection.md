@@ -10,15 +10,14 @@ series: Homeworld
 engine: Homeworld 2 Engine
 protagonist: Karan S'jet / Fleet Command
 sierra_lineage: Sierra Published
-last_updated: '2026-10-26'
+last_updated: '2026-11-11'
 composer: [Paul Ruskay]
-description: Homeworld Remastered Collection is a comprehensive restoration of Relic
-  Entertainment's groundbreaking space real-time strategy games, released on February...
+description: "Homeworld Remastered Collection is Gearbox Software's 2015 restoration of Relic Entertainment's space real-time strategy games Homeworld and Homeworld 2, released on February 25, 2015 alongside the original Classic versions."
 tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld Remastered Collection
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -71,9 +70,9 @@ The original Homeworld campaign spans 16 missions that tell a continuous story o
 Key campaign missions include:
 - **Return to Kharak** – The devastating discovery of the homeworld's destruction, famously scored to Samuel Barber's "Adagio for Strings"[^ref-22]
 - **Diamond Shoals** – Described in a Steam community guide as "certainly the most annoying mission of the game" due to asteroid hazards[^ref-65]
-- **Gardens of Kadesh** – A challenging encounter with the enigmatic Kadeshi
-- **Supernova Station** – A race against time near a dying star
-- **Tenhauser Gate** – The climactic approach to Hiigara
+- **Gardens of Kadesh** – The fleet harvests a nebula, and its inhabitants appear in response, annoyed at the intrusion[^ref-22]
+- **Supernova Station** – An active supernova site where harvesters must stay within the dust clouds shown in the sensors manager or the ships take progressive damage[^ref-22]
+- **Tenhauser Gate** – The Bentusi are under attack by a Taiidan/Kushan fleet; the walkthrough calls it an incidental mission where extra capital ships can be captured[^ref-22]
 
 ### Puzzles and Mechanics
 
@@ -385,7 +384,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-39]: [Wikipedia – Relic Entertainment](https://en.wikipedia.org/wiki/Relic_Entertainment) – company founding, founders list
 [^ref-40]: [GameSpot France – Homeworld (archived)](https://web.archive.org/web/20011201180335/http://www.gamespot.fr/stories/news/0,1610,2007290,00.html) – Sierra support quote
 [^ref-41]: [Gearbox Software Blog – Homeworld Code History](https://web.archive.org/web/20160511024546/http://www.gearboxsoftware.com/2013/11/inside-the-box-homeworld-a-brief-history-of-code/) – source code details, compiler info (archived)
-[^ref-42]: [Gearbox Software Blog – Inside the Box: Homeworld](http://www.gearboxsoftware.com/2013/08/inside-the-box-homeworld/) – source code size, community involvement
+[^ref-42]: [Gearbox Software Blog – Inside the Box: Homeworld (archived)](http://web.archive.org/web/20260312082607/https://www.gearboxsoftware.com/2013/08/inside-the-box-homeworld/) – source code size, community involvement
 [^ref-43]: [Rock Paper Shotgun – Homeworld Remastered Mods Interview](https://www.rockpapershotgun.com/homeworld-remastered-mods) – Brian Martel quote on remastering approach
 [^ref-44]: [PCGamingWiki – Homeworld](https://www.pcgamingwiki.com/wiki/Homeworld) – system requirements, compatibility issues, API support
 [^ref-45]: [GameFAQs – Homeworld Technical FAQ](https://gamefaqs.gamespot.com/pc/141615-homeworld/faqs/20042) – patch version history, requirements

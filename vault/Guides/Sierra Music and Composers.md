@@ -1,11 +1,11 @@
 ---
 title: "Sierra Music and Composers"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Sierra Music and Composers
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 Sierra On-Line's music followed the hardware of its day, from the single-voice PC speaker through MIDI sound cards to live studio recordings.
 
@@ -13,7 +13,7 @@ Sierra On-Line's music followed the hardware of its day, from the single-voice P
 
 Sierra's music department was led by [[Mark Seibert]], who rose from musician to music director.[^ref-8] The company invested in sound-hardware partnerships, most notably with Roland, and hired composers from outside the games industry.[^ref-2][^ref-3]
 
-[[Ken Allen]] became a musician at age 10, learning the French horn because his school was out of trumpets.[^ref-1] By his own account he went to college to become a music teacher, and took film-scoring classes at UCLA only after leaving Sierra.[^ref-5] His entry into the industry came through a classified ad in the Fresno Bee seeking musicians and composers for adventure games; across his career his music appears in about 30 games.[^ref-1]
+[[Ken Allen]] became a musician at age 10, learning the French horn because his school was out of trumpets.[^ref-1] By his own account he went to college to become a music teacher, and took film-scoring classes at UCLA only after leaving Sierra.[^ref-5] His entry into the industry came through a classified ad in the Fresno Bee seeking musicians and composers for adventure games; the Adventure Game Fan Fair biography says his music appears in about 30 games,[^ref-1] while Allen himself said in 2012 that his MobyGames profile listed about 50, with about 10 more uncredited.[^ref-5]
 
 ## Technology Progression
 
@@ -124,9 +124,17 @@ In 2024, Two Guys Records released "King's Quest VI - An Ode to the Isles," a tw
 
 - **Jay Usher** – [[1995 - Phantasmagoria|Phantasmagoria]],[^ref-55] [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]][^ref-49]
 - **Neal Grandstaff** – [[1994 - Outpost|Outpost]] (credited with Mark Seibert on the 2021 Xeen Music soundtrack release)[^ref-36], [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]],[^ref-49] [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]][^ref-51]
-- **Craig Safan** – [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] (Emmy-nominated in 1991; scored the TV series Cheers, though not its theme song)[^ref-37][^ref-54]
+- **Craig Safan** – [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] (Emmy-nominated in 1991; scored the TV series Cheers, though not its theme song)[^ref-37][^ref-54] VGMrips credits the game's music to Safan together with Al Lowe and Chris Braymen.[^ref-67]
 - **Mike Dana** – [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]][^ref-50]
 - **Dan Kehler** – [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]],[^ref-20] [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]][^ref-49]
+- **Orpheus Hanley** – credited with Ken Allen, Rob Atesalp, Christopher G. Braymen and Mark Seibert for music and sound effects on [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]][^ref-48]
+
+### Later Staff Composers
+
+- **Aubrey Hodges** – composer of [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]], whose soundtrack Wikipedia calls "largely original";[^ref-62] Al Lowe's page on the music of [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]] says that, apart from the game's ballads, "the rather extensive musical score was written by Aubrey Hodges."[^ref-63]
+- **Chance Thomas** – hired as a full-time composer by Sierra in 1996, he wrote the music for [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]].[^ref-64]
+- **Ben Houge and Kevin Manthei** – with Mark Seibert, composed the soundtrack of [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]], which inspired Donald M. Wilson's *Daventry Suite* for wind ensemble.[^ref-65]
+- **Chris Braymen** – also credited as a composer on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] (1992), alongside Mark Seibert.[^ref-66]
 
 ## Signature Themes and Memorable Pieces
 
@@ -162,6 +170,7 @@ Robert Holmes's score for [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel 
 - **Xeen Music** – Licensed archival recordings using authentic Roland MT-32/SC-55 equipment[^ref-25]
   - [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] MT-32 Archival Edition
   - [[1994 - Outpost|Outpost]] soundtrack[^ref-36]
+  - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] soundtrack (SC-55), credited to Ken Allen, Rob Atesalp, Mark Seibert and Bob Siebenberg, released October 22, 2025[^ref-60]
   
 - **Two Guys Records** – [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] "An Ode to the Isles" (2024, vinyl reorchestration)[^ref-21]
 
@@ -186,7 +195,7 @@ In 2013 Allen launched a Kickstarter project titled "Under the Half Dome"; 575 b
 
 ## References
 
-[^ref-1]: [Adventure Game Fan Fair – Ken Allen](https://adventuregamefanfair.com/guests/ken-allen-2/) — Biographical details, career overview, 30 games credits
+[^ref-1]: [Adventure Game Fan Fair – Ken Allen](https://adventuregamefanfair.com/guests/ken-allen-2/) ([Wayback copy, May 28, 2025](https://web.archive.org/web/20250528074740/https://adventuregamefanfair.com/guests/ken-allen-2/)) — French horn at age 10; Fresno Bee ad; "Ken's music appears in about 30 games"
 [^ref-2]: [The Digital Antiquarian – Sierra Gets Creative](https://www.filfre.net/2016/08/sierra-gets-creative/) — AdLib sound card history, sound card revolution timeline
 [^ref-3]: [Sierra Newsletter Winter 1988](https://www.mocagh.org/sierra/sierranews-winter88.pdf) — William Goldstein 75+ pieces, 40 minutes, Roland MT-32 partnership, marketing claims
 [^ref-4]: [The Official Book of King's Quest – Making of KQ4](https://kingsquest.fandom.com/wiki/The_Making_of_King%27s_Quest_IV) — 75+ music pieces, 35 character themes, SCI engine details
@@ -241,3 +250,10 @@ In 2013 Allen launched a Kickstarter project titled "Under the Half Dome"; 575 b
 [^ref-57]: [MobyGames – Space Quest V: The Next Mutation (specs)](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993) sound: AdLib, General MIDI, MT-32, Tandy / PCjr and others (read via the MobyGames API, checked 2026-10-26)
 [^ref-58]: [MobyGames – King's Quest VI: Heir Today, Gone Tomorrow (specs)](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/specs/) — DOS (1992) sound: AdLib, General MIDI, MT-32 and others (read via the MobyGames API, checked 2026-10-26)
 [^ref-59]: [MobyGames – The Beast Within: A Gabriel Knight Mystery credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) — "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
+[^ref-60]: [Xeen Music – Space Quest IV: Roger Wilco and the Time Rippers Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/space-quest-iv-roger-wilco-and-the-time-rippers-soundtrack-sc-55) — "by Ken Allen, Rob Atesalp, Mark Seibert, Bob Siebenberg, released 22 October 2025"
+[^ref-62]: [Wikipedia – Quest for Glory IV: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory_IV:_Shadows_of_Darkness) — composer Aubrey Hodges; "a largely original sound track by Aubrey Hodges"
+[^ref-63]: [Al Lowe – Music from Freddy Pharkas](https://allowe.com/games/fpfp/music-freddy.html) — "All the rest of the rather extensive musical score was written by Aubrey Hodges"
+[^ref-64]: [Wikipedia – Chance Thomas](https://en.wikipedia.org/wiki/Chance_Thomas) — Sierra "looking for a full-time composer" in 1996; Quest for Glory V: Dragon Fire
+[^ref-65]: [GameSpot – King's Quest Inspires Tune](https://www.gamespot.com/articles/kings-quest-inspires-tune/1100-2446807/) — Daventry Suite "a musical tribute to composers Kevin Manthei, Ben Houge, and Mark Seibert for their excellent soundtrack" (read via ScraperAPI)
+[^ref-66]: [Wikipedia – The Dagger of Amon Ra](https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra) — composers listed: Chris Braymen, Mark Seibert
+[^ref-67]: [VGMrips – Leisure Suit Larry 5 (IBM PC/AT, YM3812)](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) — composers listed: Al Lowe, Chris Braymen, Craig Safan
