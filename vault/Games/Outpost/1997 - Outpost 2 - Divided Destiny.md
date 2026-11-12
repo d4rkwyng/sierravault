@@ -10,7 +10,7 @@ series: Outpost
 engine: Proprietary (DirectX 3)
 protagonist: Colony Commander (Plymouth or Eden)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: 'Outpost 2: Divided Destiny is a 1997 Windows real-time strategy game
   developed by Dynamix and published by Sierra On-Line, in which two rival colonies
   on New Terra race to escape a spreading terraforming microbe called the Blight.'
@@ -18,11 +18,11 @@ tags: [1990s, outpost, sierra, strategy]
 ---
 # Outpost 2: Divided Destiny
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Outpost 2: Divided Destiny is a real-time strategy game developed by Dynamix and published by Sierra On-Line in 1997[^ref-1]. Unlike traditional real-time strategy games, Outpost 2 emphasizes colony management over the destruction of enemies[^ref-2]. The game is set on a distant planet called New Terra, where the last survivors of humanity must build sustainable colonies after Earth was destroyed by an asteroid impact known as Vulcan's Hammer[^ref-2][^ref-4].
+Outpost 2: Divided Destiny is a real-time strategy game developed by Dynamix and published by Sierra On-Line in 1997[^ref-1]. Unlike traditional real-time strategy games, Outpost 2 emphasizes colony management over the destruction of enemies[^ref-2]. The game is set on a distant planet called New Terra, where the last survivors of humanity must build sustainable colonies after Earth was destroyed by an asteroid impact known as Vulcan's Hammer[^ref-2][^ref-4]. Wikipedia and PCGamingWiki give the release date as August 18, 1997[^ref-2][^ref-17], while the Dynamix Wiki gives August 25, 1997[^ref-1].
 
 The game focuses on the happiness and survival of the colonists - the last remaining survivors of an Earth catastrophe[^ref-5]. Players must manage complex colony systems while dealing with environmental disasters, resource scarcity, and the spreading threat of a terraforming microbe gone wrong called "the Blight"[^ref-6]. Over time, two colonies arise that have different goals in rebuilding humanity[^ref-2][^ref-3], creating the central conflict that drives the game's narrative.
 
@@ -33,6 +33,7 @@ The game focuses on the happiness and survival of the colonists - the last remai
 > **Engine:** Proprietary (DirectX 3)[^ref-15]
 > **Platforms:** Windows 95/NT 4.0[^ref-8][^ref-15]
 > **Release Year:** 1997
+> **Release Date:** August 18, 1997 (Wikipedia, PCGamingWiki)[^ref-2][^ref-17]; August 25, 1997 (Dynamix Wiki)[^ref-1]
 > **Series:** Outpost
 > **Protagonist:** Colony Commander (Plymouth or Eden)
 > **Sierra Lineage:** Core Sierra
@@ -41,7 +42,7 @@ The game focuses on the happiness and survival of the colonists - the last remai
 
 The story begins after Earth has been devastated by an asteroid impact, forcing the last survivors to journey to a distant planet called New Terra[^ref-9]. The game's backstory reveals that "the earth, is dead. As the asteroid fragments landed, the last few survivors departed the solar system, seeking a new home among the stars"[^ref-10]. The colonists' situation becomes desperate when their secret terraforming experiments produce a deadly side effect - a mutated microbe spreading through the planet's crust that scientists call the "Blight"[^ref-6].
 
-The narrative is driven by survival missions where players must evacuate colonies as disasters strike.
+Both storylines feature frequent colony relocations to stay ahead of the Blight and other natural disasters[^ref-2].
 
 Early missions involve urgent evacuations with briefings stating "Something has gone horribly wrong. We must evacuate the colony immediately"[^ref-6].
 
@@ -55,7 +56,7 @@ The in-game storyline branches depending on whether Eden or Plymouth is chosen, 
 
 ### Interface and Controls
 
-The game features a top-down perspective with mouse and keyboard controls[^ref-12]. Players select and command units and structures with the mouse, and IGN's cheats page lists a "Bolster Production" tip, which says left-clicking and right-clicking a factory increases its production[^ref-13]. The interface emphasizes colony management systems over traditional military command structures found in other RTS games.
+The game features a top-down perspective with mouse and keyboard controls[^ref-12]. Players select and command units and structures with the mouse, and IGN's cheats page lists a "Bolster Production" tip, which says left-clicking and right-clicking a factory increases its production[^ref-13]. Unlike traditional real-time strategy games, the game emphasizes colony management over the destruction of enemies[^ref-2].
 
 ### Structure and Progression
 
@@ -136,9 +137,9 @@ GOG's store description lists 140 different vehicles and buildings and 60,000 fr
 
 ## Legacy
 
-Despite mixed contemporary reviews, Outpost 2 has maintained an active community of players and developers who continue to support and develop content for the game[^ref-21]. The Sierra Internet Gaming System (SIGS) that originally supported online play has been discontinued, but the game is now commonly played through virtual networks like Hamachi[^ref-2]. This dedicated community has kept multiplayer alive long after official support ended.
+Despite mixed contemporary reviews, Outpost 2 has maintained an active community of players and developers who continue to support and develop content for the game[^ref-21]. The Sierra Internet Gaming System (SIGS) that originally supported online play has been discontinued, but the game is now commonly played through virtual networks like Hamachi[^ref-2]. In October 2026 an administrator of the Outpost Universe forums announced SIGSWON, described as a rebuild of the classic SIGS/WON multiplayer client with an initial focus on Outpost 2; he opened it for public testing on October 19, 2026[^ref-27].
 
-The game is sold on GOG.com, which released it in 2020 with build version 1.2[^ref-22]. Official post-release support came in 1997 with Sierra's Scenario Pack 1. It added three multiplayer maps (Peacekeeper, La Corrida and Pie Chart), let the Eden campaign's twelfth mission run longer without exhausting internal resources, and improved the program's handling of more than 256 buildings[^ref-23]. Fan work continues at the Outpost Universe (outpost2.net). Its users have developed "tools, patches and new content", and in October 2026 its forums' Add On Missions and Programming & Development boards still had new posts[^ref-24].
+The game is sold on GOG.com, which released it in 2020 with build version 1.2[^ref-22]. Official post-release support came in 1997 with Sierra's Scenario Pack 1. It added three multiplayer maps (Peacekeeper, La Corrida and Pie Chart), let the Eden campaign's twelfth mission run longer without exhausting internal resources, and improved the program's handling of more than 256 buildings[^ref-23]. Fan work continues at the Outpost Universe (outpost2.net). Its users have developed "tools, patches and new content", and as of November 11, 2026 its forums' Add On Missions board had a last post on November 9, 2026 and the Programming & Development board on October 20, 2026[^ref-24].
 
 Outpost 2 stands out as an RTS built around survival and colony management rather than conquest[^ref-2].
 
@@ -155,7 +156,7 @@ Outpost 2 stands out as an RTS built around survival and colony management rathe
 
 - [[1994 - Outpost|← Previous: Outpost]]
 
-- **Next:** No direct sequel produced
+- **Next:** PCGamingWiki's Outpost series listing shows Outpost (1994) and Outpost 2: Divided Destiny (1997)[^ref-17]
 
 ## References
 
@@ -173,13 +174,14 @@ Outpost 2 stands out as an RTS built around survival and colony management rathe
 [^ref-13]: [IGN Cheats](https://www.ign.com/wikis/pc-cheats/Outpost_2:_Divided_Destiny_Cheats) – "Bolster Production" tip
 [^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny) – User rating ("Great", 24 ratings)
 [^ref-15]: [Archive.org Manual](https://archive.org/stream/Outpost_2_Manual/Outpost_2_Manual_djvu.txt) – System requirements, game modes, campaign structure, multiplayer connection methods, novella STORY option
-[^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Outpost_2:_Divided_Destiny) – Retail version 1.01, latest official patch 1.3.0.8, 4:3-only video, series chronology
+[^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Outpost_2:_Divided_Destiny) – Release date August 18, 1997, retail version 1.01, latest official patch 1.3.0.8, 4:3-only video, Outpost series listing (1994, 1997)
 [^ref-18]: GameFabrique *(download link removed: the game is sold commercially)* – Review text criticising combat
 [^ref-19]: [GameSpot Review](https://www.gamespot.com/reviews/outpost-2-divided-destiny-review/1900-2543568/) – Professional review and criticism
 [^ref-20]: [Metacritic](https://www.metacritic.com/game/outpost-2-divided-destiny/) – User score aggregate
 [^ref-21]: [Outpost2.net](https://www.outpost2.net/) – Outpost Universe fan community; ongoing tools, patches and add-on mission development
 [^ref-22]: [GOG Database](https://www.gogdb.org/product/1494370738) – Version history and digital distribution
 [^ref-23]: [Archive.org Update](https://archive.org/details/update_20161023) – Official 1997 Scenario Pack 1 and Update (three multiplayer scenarios plus program fixes)
-[^ref-24]: [Outpost Universe Forums](https://forum.outpost2.net/) – Board index (checked 2026-10-29): Add On Missions last post October 4, 2026; Programming & Development last post October 20, 2026
+[^ref-24]: [Outpost Universe Forums](https://forum.outpost2.net/) – Board index (checked 2026-11-11): Add On Missions last post November 9, 2026; Programming & Development last post October 20, 2026
 [^ref-25]: [Computer Gaming World #161, December 1997 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_161/page/n417/mode/2up) – Martin E. Cirulis, "Redemption" review, pp. 414–415: 3.5-star rating and verdict quote
 [^ref-26]: [The Adrenaline Vault (Wayback Machine)](https://web.archive.org/web/20100512030802/http://www.avault.com/reviews/pc/outpost-2-pc-review/) – Review by Pete Hines, published September 14, 1997 (page 1 only archived)
+[^ref-27]: [Outpost Universe Forums: SIGS Replacement Coming Soon - Outpost 2 Testers Wanted](https://forum.outpost2.net/index.php/topic,6465.0.html) – Thread started October 13, 2026 by forum administrator Galactic (SIGSWON, rebuild of the SIGS/WON client); public testing announced October 19, 2026 (checked 2026-11-11)
