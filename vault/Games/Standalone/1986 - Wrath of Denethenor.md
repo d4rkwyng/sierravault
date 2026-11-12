@@ -10,20 +10,20 @@ series: Standalone
 engine: ASSM (6502 assembly)
 protagonist: Unnamed adventurer/scoundrel
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Wrath of Denethenor is a fantasy role-playing game developed by Christopher
   Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64...
 tags: [1980s, rpg, sierra, standalone]
 ---
 # Wrath of Denethenor
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
 Wrath of Denethenor is a fantasy role-playing game developed by Christopher Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64 platforms.[^ref-1] Set in the war-torn world of Deledain, the game tasks players with defeating the evil Lord Denethenor, who has embraced dark mysticism and plunged the realm into chaos.[^ref-2][^ref-9] It was developed independently and published by Sierra,[^ref-4] and a review in Sierra's own newsletter noted that Crim "wrote the program specifically for novice gamers".[^ref-3][^ref-23]
 
-The CRPG Addict called it "the most competent Ultima clone that we've seen," and it draws heavily on Richard Garriott's Ultima II and III, using a similar top-down graphic tile perspective while adding its own complexities and expanded scope.[^ref-4][^ref-16] The developer later acknowledged this influence, noting "It's easy to see the influence of Ultima II and III, games which led me to want to make a game using a similar graphic tile style."[^ref-5] Its box copy promoted a role-playing system that "doesn't limit you to a set character class" and "10 different magic spells with unique visual effects",[^ref-8] and dimension doors carry the player between lands.[^ref-6][^ref-9]
+The CRPG Addict called it "the most competent Ultima clone that we've seen,"[^ref-4] and Giant Bomb describes it as "an early fantasy RPG in the vein of the Ultima games".[^ref-16] It draws heavily on Richard Garriott's Ultima II and III, using a similar top-down graphic tile perspective while adding its own complexities and expanded scope.[^ref-5] The developer later acknowledged this influence, noting "It's easy to see the influence of Ultima II and III, games which led me to want to make a game using a similar graphic tile style."[^ref-5] Its box copy promoted a role-playing system that "doesn't limit you to a set character class" and "10 different magic spells with unique visual effects",[^ref-8] and dimension doors carry the player between lands.[^ref-6][^ref-9]
 
 The Apple II version sold for $24.95 and the Commodore 64 version for $19.95.[^ref-21] The low price was at the designer's request, with Crim saying "I honestly think Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3] He also asked Sierra to release the game without copy protection, and Sierra presented the cheap, unprotected release as an experiment.[^ref-5] By spring 1988, Sierra's newsletter reported that the experiment "wasn't successful when tried with Wrath of Denethenor", because calls to customer service were "way out of proportion to the number of games actually sold".[^ref-22]
 
@@ -56,6 +56,8 @@ Commands are entered as single keystrokes, and Scorpia noted that "No joystick i
 
 Opinions of the combat controls differ. One walkthrough author wrote, "The combat system is horrendous, forcing you to use control-(direction) and then to decide where to strike."[^ref-12] Scorpia, by contrast, found that "Combat, once you get the hang of it, is fairly simple."[^ref-21] Attacks ask whether to strike high, medium or low.[^ref-1][^ref-13][^ref-21] Another player wrote: "Took awhile to figure out the attack commands, but now that I got it, man. Its great."[^ref-13]
 
+To attack, the player presses TAB on the Apple II or CTRL on the Commodore 64, then a direction, then chooses a high, level or low strike, according to the CRPG Addict.[^ref-4] The manual describes the same idea: hold down the Control key and press the movement key for the direction of the monster.[^ref-9]
+
 ### Structure and Progression
 
 The game world consists of five large outdoor areas that are connected by teleports (dimension doors).[^ref-12] One walkthrough author found that "WoD feels artificial with its teleports between worlds."[^ref-12]
@@ -75,6 +77,8 @@ The box promised "Over 300K of game maps".[^ref-8] There is a day and night cycl
 The game has no character classes. As one Lemon64 commenter put it, "You didn't roll for attributes or choose a class, just name the character."[^ref-11] Designer Christopher Crim explained his philosophy: "I wasn't much interested in creating a stats-heavy RPG or rolling characters with predefined roles. It was my intention that your character started out generic and you played it as you wished."[^ref-5]
 
 Players commented positively on this approach: "Best part was you didn't have to pick between fighter, magic user, thief, main character had components of all character classes."[^ref-14] Characters begin with standardized stats: Strength 5, Intelligence 5, Hit Points 1000, Stamina 600, and Gold 300.[^ref-4]
+
+Stamina is the resource that matters most. The CRPG Addict wrote that it "is boosted by food and depleted with every action and with every spell cast", while hit points are worth little.[^ref-4] The manual calls stamina the character's vitality, which "can only be replenished through nourishment".[^ref-9] Food costs money, and gold from fighting is scarce, so the CRPG Addict found the best income was burglarizing treasure chests in towns and castles, "just like in Ultima III". Stealing turns the chests' owners and guards hostile.[^ref-4]
 
 The magic system includes ten different spells, each with unique visual effects.[^ref-6][^ref-8] Some spells require components to cast, adding a resource management element to gameplay.[^ref-11] Players can interact with townsfolk for information, though attacking them triggers law enforcement responses.[^ref-11]
 
@@ -103,7 +107,7 @@ Chester Bolingbroke of the CRPG Addict blog played the game in March 2017, calli
 
 GameFAQs contributor ASchultz provided a walkthrough in 2007, noting that "Wrath of Denethenor is a fun retro 1-player RPG despite its faults."[^ref-12] In a 2008 Lemon64 forum thread, one user called it a "Real solid Ultima clone. Its a bit better than the first few actually..."[^ref-13]
 
-**Aggregate Scores (as of October 2026):**
+**Aggregate Scores (as of November 11, 2026):**
 - **MobyGames Critics:** 58% (2 ratings)[^ref-15]
 - **MyAbandonware:** 4.29/5 (7 votes)[^ref-14]
 
@@ -118,6 +122,8 @@ In hindsight, Crim reflected that he "probably should've avoided many of the tro
 The designer's philosophy emphasized accessibility: "I wasn't much interested in creating a stats-heavy RPG or rolling characters with predefined roles."[^ref-5] The InterAction reviewer said Crim aimed to give novices "an alternative to dealing with the complicated combat and magic systems and multiple character parties of most of the recent role-playing games."[^ref-3][^ref-23]
 
 ### Production
+
+Crim finished and playtested the game with friends, then submitted the complete game to three of the better-known publishers. The other two turned him down, while Sierra invited him to fly out to its headquarters for a tour and to discuss publishing it. Sierra's QA team found few if any issues.[^ref-5]
 
 Crim wrote the game for the Apple II in 1984–85. At Sierra's request, he then spent a few more months porting it to the Commodore 64, rewriting all of the graphics routines. Crim says the C64 disks were "distributed by Sierra back in 1986".[^ref-5] He described it as "more of a hack-and-slash adventure game", saying it was Sierra that insisted on calling it an RPG.[^ref-5]
 
@@ -230,10 +236,10 @@ No fan remakes, ports or mods turned up in the sources consulted for this page. 
 [^ref-10]: [Crimdom.net – Walkthrough](https://crimdom.net/wrath-of-denethenor/the-wrath-of-denethenor-walkthrough/) – 1987 Electronic Gamer walkthrough by "The Phoenix", written in the hero's voice
 [^ref-11]: [Lemon64 – Game Page](https://www.lemon64.com/game/wrath-of-denethenor) – user comments, C64 specs, Info No. 23 review listing (2/5)
 [^ref-12]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/appleii/941616-wrath-of-denethenor/faqs/49071) – gameplay analysis, criticism, combat details
-[^ref-13]: [Lemon64 – Forum Discussion](https://www.lemon64.com/forum/viewtopic.php?t=27106&sid=d81fd86ca9a0d76b90245ba38c49deb9) – user experiences, technical issues, source code status
+[^ref-13]: [Lemon64 – Forum Discussion](https://www.lemon64.com/forum/viewtopic.php?t=27106) – user experiences, technical issues, source code status
 [^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/wrath-of-denethenor-56w) – user ratings, download sizes, platform details
-[^ref-15]: [MobyGames – Wrath of Denethenor](https://www.mobygames.com/game/29990/wrath-of-denethenor/) – critic ratings, release dates, credits
-[^ref-16]: [Giant Bomb](https://www.giantbomb.com/wrath-of-denethenor/3030-11966/) – game description ("An early fantasy RPG in the vein of the Ultima games")
+[^ref-15]: [MobyGames – Wrath of Denethenor](https://www.mobygames.com/game/29990/wrath-of-denethenor/) – critic ratings (Critics 58% from 2 ratings, read 2026-11-11), release dates, credits
+[^ref-16]: [Giant Bomb](https://www.giantbomb.com/wrath-of-denethenor/3030-11966/) – game description ("An early fantasy RPG in the vein of the Ultima games"), 1986 release year, Apple II and Commodore 64 platforms
 [^ref-17]: [Internet Archive – Manual Scan](https://archive.org/details/wrathofdenethenormanual) – platform confirmation, publisher details
 [^ref-18]: [IGDB – Wrath of Denethenor](https://www.igdb.com/games/wrath-of-denethenor) — Internet Games Database entry, Apple II / C64 platform confirmation, release-year metadata
 [^ref-21]: [Computer Gaming World #37 (May 1987)](https://archive.org/details/Computer_Gaming_World_Issue_37) – Scorpia's review (from p. 30, continued later in the issue): prices ($24.95 Apple, $19.95 C-64), "two double-sided diskettes", verdict
