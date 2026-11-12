@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI2
 protagonist: Detective John Carey
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Police Quest: Open Season, released in 1993, marked a radical departure
   from the established Police Quest series. Produced by Sierra On-Line in cooperation
   with former LAPD chief Daryl F. Gates.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: Open Season
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -62,7 +62,7 @@ The investigation took players through multiple floors of Parker Center (LAPD he
 
 The puzzles mix police procedure with conventional adventure-game logic. MobyGames reviewer ETJB wrote that "some puzzles are entirely logical, but do require a basic understanding of professional police procedures", while "other puzzles are so illogical and bizarre, that you can only solve them by trial and error repetition or cheating"[^ref-34].
 
-The game's dialogue has drawn criticism for its stereotyped portrayal of Asian and African American characters[^ref-12]. Daryl Gates told Vibe magazine in 1994 that he had warned Sierra's writers this was a bad idea: "I told them that these people people [sic] use the same language as you and I." PC Gamer's Andy Kelly concluded that "it seems this advice fell on deaf ears"[^ref-12].
+The game's dialogue has drawn criticism for its stereotyped portrayal of Asian and African American characters[^ref-12]. Daryl Gates told Vibe magazine in 1994 that the colloquialisms were not his idea: "I told [Sierra] that these people use the same language that you and I use. A lot of that was changed."[^ref-54] PC Gamer's Andy Kelly concluded that "it seems this advice fell on deaf ears"[^ref-12].
 
 ## Reception
 
@@ -233,3 +233,4 @@ MobyGames lists Open Season as included in these compilations[^ref-15]:
 [^ref-51]: [Next Generation Issue #9 (September 1995), Internet Archive](https://archive.org/details/nextgen-issue-009) – Macintosh review, two stars: "the ultimate Sierra police-based game is still a fond dream to look forward to"
 [^ref-52]: [ScummVM – Compatibility (DEV): Police Quest IV: Open Season](https://www.scummvm.org/compatibility/DEV/sci:pq4) – Support level "Good"; DOS supported, Macintosh unsupported
 [^ref-53]: [MobyGames – Credits (DOS, 1993)](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/credits/) – Development credits: Fuller, Oldfield, Grandstaff, Fung, Moody, Smith, Waller, Artis, Joseph, Murphy
+[^ref-54]: [Vibe, April 1994 (Internet Archive)](https://archive.org/details/bub_gb_1SsEAAAAMBAJ) – Joseph V. Tirella, "Video Vigilante": Gates on the game's dialogue ("I told [Sierra] that these people use the same language that you and I use. A lot of that was changed.")
