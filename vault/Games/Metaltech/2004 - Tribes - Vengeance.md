@@ -11,7 +11,7 @@ series: "Starsiege"
 engine: "Unreal Engine 2 (modified; Vengeance engine)"
 protagonist: "Julia, Victoria and other playable characters"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: "Tribes: Vengeance is the 2004 Tribes game developed by Irrational Games and published by Vivendi Universal Games under the Sierra brand, the first in the series with a full single-player campaign."
 tags: [2000s, shooter, tribes, starsiege, sierra, irrational-games, ken-levine]
 composer: ["Eric Brosius"]
@@ -19,13 +19,13 @@ composer: ["Eric Brosius"]
 
 # Tribes: Vengeance
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Tribes: Vengeance is a science fiction first-person shooter for Windows, developed by Irrational Games and released by Vivendi Universal Games under the [[Sierra On-Line|Sierra]] brand in October 2004.[^ref-1][^ref-2] It was the first PC Tribes game made without [[Dynamix]], the studio that created the series and had been disbanded after *Tribes 2*. Reviewers at the time noted that Vivendi had handed the series to Irrational, the studio behind *System Shock 2* and *Freedom Force*.[^ref-3][^ref-4][^ref-5]
 
-The Sierra label is recorded in the game's own materials. The official Prima strategy guide carries the notice "© 2004 Sierra Entertainment, Inc. All rights reserved. Sierra, the Sierra logo, Tribes and the Tribes logo are trademarks or registered trademarks of Sierra Entertainment, Inc." It also states that the game was "Developed exclusively by Irrational Games".[^ref-6] The game's credits, as recorded by MobyGames, include a "Publishing by Vivendi Universal Games (Bellevue, Washington Team)" section with a "Sierra CPC Lead".[^ref-7] MobyGames now lists Sierra Entertainment as publisher, with Vivendi Universal Games subsidiaries as distributors. Wikipedia and The Sierra Chest name Vivendi Universal Games as publisher, and Wikipedia adds that it was "Released under the Sierra Entertainment brand name".[^ref-2][^ref-1][^ref-8]
+The Sierra label is recorded in the game's own materials. The official Prima strategy guide carries the notice "© 2004 Sierra Entertainment, Inc. All rights reserved. Sierra, the Sierra logo, Tribes and the Tribes logo are trademarks or registered trademarks of Sierra Entertainment, Inc." It also states that the game was "Developed exclusively by Irrational Games".[^ref-6] The game's credits, as recorded by MobyGames, include a "Publishing by Vivendi Universal Games (Bellevue, Washington Team)" section with a "Sierra CPC Lead".[^ref-7] MobyGames now lists Sierra Entertainment as publisher, with Vivendi Universal Games subsidiaries as distributors. Wikipedia and The Sierra Chest name Vivendi Universal Games as publisher, and Wikipedia adds that it was "Released under the Sierra Entertainment brand name".[^ref-2][^ref-1][^ref-8] Metacritic lists the publisher as "VU Games".[^ref-15]
 
 Vengeance kept the series' jetpacks, "skiing" and large team-based multiplayer battles. It was also the first Tribes game with a story-driven single-player campaign.[^ref-3][^ref-2][^ref-21] Critics rated it highly. GameSpot gave it 8.8, and it won Best PC Game and Best Game at the 2004 Australian Game Developers Awards.[^ref-3][^ref-9] Even so, a 2006 GameSpot report said it "sold poorly", and Vivendi ended online support within months.[^ref-10]
 
@@ -154,10 +154,15 @@ Its commercial failure overshadowed its reviews. GameSpot's 2006 report describe
 
 The Prima guide records an Irrational in-joke: in the cutscene before the palace missions, young Julia's toys are characters from Irrational's earlier *Freedom Force*.[^ref-6]
 
+### Collections
+
+The Sierra Chest lists the game as included in the German release of the *Best of Sierra: Action* compilation.[^ref-8]
+
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available. As of October 2026 the game is not sold on GOG or Steam. Hi-Rez Studios released it as freeware in 2015.
+- Not currently sold: no Steam or GOG listing (checked November 2026).
+- Freeware: Hi-Rez Studios made the game free to download, together with the other Tribes games up to *Tribes: Ascend*.[^ref-25][^ref-16]
 
 **Download / Preservation**
 - [Internet Archive – Tribes: Vengeance demo (single-player assassin mission)](https://archive.org/details/TribesVengeanceAssassinMission)
@@ -203,3 +208,4 @@ Tribes: Vengeance continues the Tribes line that Dynamix began with Starsiege: T
 [^ref-22]: [Edge (Australian edition) – Tribes: Vengeance review, issue 3 (December 2004), pp. 81–83 – Internet Archive](https://archive.org/details/Edge-AUS-03-2004-XMAS) – score box "[7]" (checked on the page image; the same issue scores Half-Life 2 "[10]"), excellent online multiplayer, uneven single-player, indoor missions "a letdown", Fuel and Ball modes
 [^ref-23]: [Edge (Australian edition) – AGDC Annual Industry Awards winners, issue 4 (January 2005) – Internet Archive](https://archive.org/details/Edge-AUS-04-2005-01) – Best Game, Best PC Game, Best Game Design and Best Level Design all listed for Tribes Vengeance (Irrational)
 [^ref-24]: [Edge (Australian edition) – "Local Call" interview with Michael Johnstone, issue 2 (November 2004) – Internet Archive](https://archive.org/details/Edge-AUS-02-2004-11) – "freedom of movement", the grappler "completely new", Unreal engine does not support tiling terrains, game recently gone gold
+[^ref-25]: [PCGamesN – "Hi-Rez make every Tribes game up to Ascend free to download (including Irrational's)" (Jeremy Peel, updated March 21, 2016)](https://www.pcgamesn.com/tribes-ascend/hi-rez-have-made-every-tribes-game-up-to-ascend-free-to-download-including-the-irrational-one) – Hi-Rez made every Tribes game up to Ascend free, including Vengeance, "so difficult to get hold of" until then
