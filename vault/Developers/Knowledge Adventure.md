@@ -6,11 +6,11 @@ defunct: 2023
 headquarters: "Glendale, California, USA (1990s); later Torrance, California, USA"
 notable_games: ["JumpStart Series", "3-D Body Adventure", "Space Adventure"]
 parent_company: "CUC Software (1997), Cendant Software, Havas Interactive, Vivendi Universal Games (to 2004), Knowledge Holdings (from 2004), NetDragon Websoft (from 2017)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Knowledge Adventure
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ When CUC merged with HFS in December 1997 to form Cendant, CUC Software became C
 
 ### Knowledge Holdings and JumpStart Games (2004–2023)
 
-On 6 October 2004 Vivendi Universal Games announced that it had sold Knowledge Adventure to the venture capital firms Azure Capital Partners and Telesoft Partners. Knowledge Adventure became part of Knowledge Holdings Inc. Vivendi kept the sales and distribution role for its titles.[^ref-23] In October 2012 the company renamed itself JumpStart Games, after its best-known series.[^ref-5][^ref-13] JumpStart Games announced on 13 June 2023 that it would end support for its games, and it closed at the end of June 2023 (officially 1 July).[^ref-5][^ref-14]
+On 6 October 2004 Vivendi Universal Games announced that it had sold Knowledge Adventure to the venture capital firms Azure Capital Partners and Telesoft Partners. Knowledge Adventure became part of Knowledge Holdings Inc. Vivendi kept the sales and distribution role for its titles.[^ref-23] In October 2012 the company renamed itself JumpStart Games, after its best-known series.[^ref-5][^ref-13] JumpStart Games announced on 13 June 2023 that it would end support for all its games except Neopets, and it closed at the end of June 2023 (officially 1 July).[^ref-5][^ref-14]
 
 ## Notable Games
 
@@ -49,6 +49,10 @@ The first title, *JumpStart Kindergarten*, was released on 14 November 1994.[^re
 ### Space Adventure (1992)
 
 *Space Adventure* was released for DOS in 1992 and for Macintosh in 1994. It was re-released for Windows in 2014.[^ref-25]
+
+## Legacy
+
+Davidson & Associates, which CUC had bought in 1996, was merged into Knowledge Adventure in October 1998.[^ref-5] In March 2014 JumpStart Games bought Neopets from Viacom, and Neopets was the one property excluded when support for the company's games ended in 2023.[^ref-5]
 
 ## Key People
 
