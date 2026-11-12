@@ -10,7 +10,7 @@ series: Ground Control
 engine: Custom (DirectX 7)
 protagonist: Major Sarah Parker
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Ola Strandh]
 description: 'Ground Control: Dark Conspiracy is a 2000 expansion pack for the real-time
   tactics game Ground Control, developed by High Voltage Software with Massive Entertainment
@@ -19,7 +19,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control: Dark Conspiracy
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -60,7 +60,7 @@ The interface emphasizes tactical positioning over economic management: the orig
 
 ### Structure and Progression
 
-The expansion features 15 all-new single-player scenarios that continue the storyline from the original game[^ref-7]. These missions take place across new environments and terrain types not seen in the base game, including one completely new environment[^ref-11]. Players control the new Phoenix mercenary faction for most of the campaign[^ref-6], fighting both Order of the New Dawn and Crayven Corporation forces along the way[^ref-1].
+The expansion features 15 all-new single-player scenarios that continue the storyline from the original game[^ref-7]. It also adds new multiplayer options and maps, and a skirmish mode that was absent from the base game[^ref-29]. These missions take place across new environments and terrain types not seen in the base game, including one completely new environment[^ref-11]. Players control the new Phoenix mercenary faction for most of the campaign[^ref-6], fighting both Order of the New Dawn and Crayven Corporation forces along the way[^ref-1].
 
 Mission structure follows the tactical deployment model established in the original game—players are generally stuck with whichever units they initially deploy into battle[^ref-18]. According to GameFAQs user data, a complete playthrough takes approximately 35 hours and is considered "Tough" in difficulty[^ref-13].
 
@@ -78,7 +78,7 @@ Ground Control: Dark Conspiracy received generally favorable reviews from gaming
 
 GameZone awarded the expansion **8.5/10**, with reviewer Michael Lafferty calling it "a great add-on to a fine RTS title" and declaring that "value-wise, you can't beat an expansion pack like this"[^ref-20]. The review highlighted how Sierra's decision to essentially give the expansion away free represented exceptional consumer value.
 
-IGN gave the expansion **8/10**. Dan Adams wrote that it was not one of the rare expansions to rise out of its predecessor's shadow, saying it "suffers from some incredibly slow gameplay and the same pathing problems that Ground Control did" and criticising its "mediocre mission designs"[^ref-6]. He still recommended it to fans of Ground Control "if it was the price of a regular expansion", and especially since it was free[^ref-6].
+IGN gave the expansion **8/10**. Dan Adams wrote that it was not one of the rare expansions to rise out of its predecessor's shadow, saying it "suffers from some incredibly slow gameplay and the same pathing problems that Ground Control did" and criticising its "mediocre mission designs"[^ref-6]. He still recommended it to fans of Ground Control "if it was the price of a regular expansion, especially with the new multiplayer modes and maps"[^ref-6].
 
 GameSpot scored the game **7.9/10**, with Greg Kasavin observing that "Dark Conspiracy fundamentally remains the same great strategy game as its predecessor"[^ref-18]. The review noted that "Ground Control boasted some of the best graphics of any PC game released in 2000" and that the expansion "looks as good as Ground Control did, for the most part", though Kasavin found the new environments "unremarkable" because of "lower-quality textures" for the ground and sky[^ref-18].
 
@@ -103,13 +103,13 @@ Génération 4, a French gaming publication, scored the expansion **15/20 (75%)*
 - **ESRB Rating:** Teen[^ref-20][^ref-29]
 - **PEGI Rating:** 12[^ref-3]
 
-The Ground Control Anthology, bundling the original game with Dark Conspiracy, was released in 2001[^ref-22] and came to GOG.com on July 8, 2009[^ref-10]. It was later listed on Steam as Ground Control Anthology, published by Rebellion, on July 8, 2015, at $4.99[^ref-34].
+The Ground Control Anthology, bundling the original game with Dark Conspiracy, was released in 2001[^ref-22] and came to GOG.com on July 8, 2009, according to UVList[^ref-10]. It was later listed on Steam as Ground Control Anthology, published by Rebellion, on July 8, 2015, at $4.99[^ref-34].
 
 ## Development
 
 ### Origins
 
-Ground Control: Dark Conspiracy was first announced in August 2000 by Sierra Studios, as an expansion to its award-winning 3D real-time strategy game[^ref-7][^ref-17]. The expansion was developed by Chicago-based High Voltage Software in collaboration with the original game's developer, Massive Entertainment of Sweden[^ref-11]. It was released about six months after the original Ground Control[^ref-18]. In a GameSpot Q&A, Sierra Studios was named as the publisher that announced the expansion from the show floor of ECTS, with Tom Smith as High Voltage's lead designer[^ref-33]. Smith said that the actual plans for the expansion "didn't start until just before Ground Control was released"[^ref-33].
+Ground Control: Dark Conspiracy was first announced in August 2000 by Sierra Studios, as an expansion to its award-winning 3D real-time strategy game[^ref-7][^ref-17]. GameSpot's announcement said it would be released in November 2000[^ref-7]; the US release date was December 14, 2000[^ref-21][^ref-26]. The expansion was developed by Chicago-based High Voltage Software in collaboration with the original game's developer, Massive Entertainment of Sweden[^ref-11]. It was released about six months after the original Ground Control[^ref-18]. In a GameSpot Q&A, Sierra Studios was named as the publisher that announced the expansion from the show floor of ECTS, with Tom Smith as High Voltage's lead designer[^ref-33]. Smith said that the actual plans for the expansion "didn't start until just before Ground Control was released"[^ref-33].
 
 ### Production
 
@@ -185,7 +185,7 @@ Online multiplayer servers were operated through WON.net, which was shut down on
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | December 2000 | Windows | Initial release[^ref-1] |
+| 1.0 | December 14, 2000 (US) | Windows | Initial release[^ref-1][^ref-21][^ref-26] |
 | Anthology | 2001 | Windows | Bundled with original Ground Control[^ref-22] |
 | GOG Release | July 8, 2009 | Windows | Bundled with Ground Control on GOG.com, by Rebellion[^ref-10] |
 | Steam Release | July 8, 2015 | Windows | Ground Control Anthology on Steam, published by Rebellion, $4.99[^ref-34] |
@@ -215,6 +215,8 @@ The expansion was bundled with the original Ground Control in the **Ground Contr
 ### Fan Projects
 
 PCGamingWiki notes that the game supports only 640×480, 800×600 and 1024×768 by default, and documents a fan-made Resolution Changer for widescreen resolutions; Dark Conspiracy is run from the same executable with the `-mod DARKCONS` argument[^ref-32].
+
+The Aftermath, a fan-made 18-mission campaign that continues the story after Dark Conspiracy, was released in 2017. It installs as its own mod, and Ground Control must still be installed to play it[^ref-35].
 
 ### Related Publications
 
@@ -272,5 +274,6 @@ The game's legacy is preserved through digital distribution on platforms like GO
 [^ref-29]: [MobyGames – Ground Control: Dark Conspiracy](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/) – critic score (79%), ESRB, multiplayer options, WON server shutdown trivia
 [^ref-31]: [IMDB – Ground Control: Dark Conspiracy](https://www.imdb.com/title/tt0416788/) – release date, voice cast confirmation
 [^ref-32]: [PCGamingWiki – Ground Control](https://www.pcgamingwiki.com/wiki/Ground_Control) – default resolutions, widescreen Resolution Changer fix, `-mod DARKCONS` launch argument for Dark Conspiracy
-[^ref-33]: [GameSpot – Dark Conspiracy Q&A](https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
-[^ref-34]: [Steam – Ground Control Anthology](https://store.steampowered.com/app/254820/) – Rebellion, July 8, 2015, $4.99, includes the original game and the Dark Conspiracy expansion (read via the Steam appdetails API, 2026-11-11)
+[^ref-33]: [GameSpot – Dark Conspiracy Q&A](https://web.archive.org/web/20230512075528/https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
+[^ref-34]: [Steam – Ground Control Anthology](https://store.steampowered.com/app/254820/) – Rebellion, July 8, 2015, $4.99, includes the original game and the Dark Conspiracy expansion
+[^ref-35]: [ModDB – Ground Control: The Aftermath](https://www.moddb.com/mods/ground-control-the-aftermath) – fan campaign, 18 missions, 2017, installs as its own mod
