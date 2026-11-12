@@ -5,12 +5,12 @@ developer: Yosemite Entertainment
 designer: [Lori Ann Cole]
 publisher: Sierra FX
 genre: Action RPG
-platforms: [Windows, Mac]
+platforms: [Windows, Macintosh]
 series: Quest for Glory
 engine: Custom 3D
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Chance Thomas]
 description: 'Quest for Glory V: Dragon Fire is the fifth and final game in the Quest
   for Glory series, developed by Yosemite Entertainment and published by Sierra FX
@@ -19,10 +19,10 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory V: Dragon Fire
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
-Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh on December 8, 1998[^ref-1][^ref-37]; GameRankings and Metacritic list November 30, 1998[^ref-21][^ref-24].
+Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX for Windows and Macintosh in December 1998[^ref-1][^ref-40][^ref-41]; GameRankings and Metacritic list November 30, 1998[^ref-21][^ref-24].
 
 Designed primarily by [[Lori Ann Cole]] (with Eric Lengyel and Larry Scott credited as programmers), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6].
 
@@ -31,7 +31,7 @@ The game was always planned as part of the series (whereas Wages of War original
 Dragon Fire features real-time 3D characters over pre-rendered panoramic backgrounds[^ref-1][^ref-20].
 
 > [!info]- Game Info
-> **Developer:** Yosemite Entertainment[^ref-1]
+> **Developer:** [[Yosemite Entertainment]][^ref-1]
 > **Designer:** [[Lori Ann Cole]][^ref-1]
 > **Publisher:** Sierra FX[^ref-1]
 > **Producer:** Jay D. Usher[^ref-1]
@@ -40,7 +40,7 @@ Dragon Fire features real-time 3D characters over pre-rendered panoramic backgro
 > **Composer:** Chance Thomas[^ref-1]
 > **Engine:** Custom 3D engine[^ref-1]
 > **Platforms:** Windows, Macintosh[^ref-1]
-> **Release Year:** 1998 (December 8 per Wikipedia and The Digital Antiquarian; November 30 per GameRankings and Metacritic)[^ref-1][^ref-37][^ref-21][^ref-24]
+> **Release Year:** 1998 (December per IGN and Gone Gold; November 30 per GameRankings and Metacritic)[^ref-40][^ref-41][^ref-21][^ref-24]
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Core Sierra
@@ -86,6 +86,8 @@ GameSpot's Elliott Chin scored the game 7.4/10 (Good), noting that "Quest for Gl
 
 Next Generation's December 24, 1998 review summarized the game as "A fine contribution to the genre that is accessible to novice and expert gamers alike"[^ref-33]. Joshua "Darien" Maciel of RPGamer scored the game 9 out of 10, praising its seamless combat and gameplay and concluding, "If there was ever an example to show the world of how to end a series, this game would be it"[^ref-19]. Dragon Fire was a nominee for CNET Gamecenter's 1998 "Adventure Game of the Year" award, alongside Black Dahlia and King's Quest: Mask of Eternity; its editors wrote, "What Dragon Fire does really well is give traditional adventure gamers a place to call home", and the award went to Grim Fandango[^ref-34][^ref-39][^ref-36]. Adventure Classic Gaming's Greg Wallace gave it 4/5 stars, calling composer Chance Thomas's work "the finest musical scores ever found in an adventure game" while criticizing the combat as "an infuriating and confusing clicking frenzy"[^ref-20].
 
+Other period reviews include Macintosh and PC-press coverage. In its May 1999 issue, MacAddict's Samuel Parker rated the game "Freakin' Awesome" on the magazine's rating scale and wrote "Quest for Glory V is an awesome epic", listing "3D combat is tricky" and "No hardware-acceleration support" under its bad news[^ref-43]. macHOME called the game "one of the best adventure games in years" and wrote that it was "Possibly the best adventure game to leave the Sierra doors" since King's Quest VI[^ref-44]. Andy Backer, writing for Strategy Plus (posted 01/14/1999), found it "only marginally adequate as an RPG" but concluded that its "high-quality story, characters, puzzles and dialogue make DragonFire an excellent, and most delectable game to play—especially for fans of adventure games"[^ref-45].
+
 ### Modern Assessment
 Writing for Engadget in 2012, Rowan Kaiser said the final game "stands apart from the rest, and not necessarily in a good way," describing its switch to three-dimensional polygonal graphics as "not one that I find successful," though he noted "it certainly has its fans"[^ref-35]. In PC Gamer, Richard Cobbett wrote that "the fifth stumbles with its 3D world and more arcade style action"[^ref-5].
 
@@ -97,9 +99,12 @@ GameRankings averaged 72.57% from 21 reviews for the PC version and 62.50% for t
 - **Adventure Classic Gaming:** 4/5 (Very Good)[^ref-20]
 - **CNET Gamecenter:** Adventure Game of the Year nominee (1998)[^ref-34]
 - **Next Generation:** "A fine contribution to the genre"[^ref-33]
+- **MacAddict (May 1999):** "Freakin' Awesome"[^ref-43]
+- **macHOME:** "one of the best adventure games in years"[^ref-44]
+- **Strategy Plus (01/14/1999):** "an excellent, and most delectable game to play"[^ref-45]
 - **GameRankings:** 72.57% (PC, 21 reviews); 62.50% (Mac)[^ref-21]
 - **Just Adventure:** A-[^ref-21]
-- **MobyGames:** Moby Score 7.6; critics 77% (36 ratings, as of October 2026)[^ref-3]
+- **MobyGames:** Moby Score 7.6; critics 77% (37 ratings, as of November 2026)[^ref-3]
 - **Adventure Gamers:** 3/5[^ref-21]
 - **IMDb:** 8.5/10 (97 votes, as of October 2026)[^ref-23]
 - **Metacritic Users:** 8.5/10 (22 ratings, as of October 2026)[^ref-24]
@@ -110,8 +115,11 @@ GameRankings averaged 72.57% from 21 reviews for the PC version and 62.50% for t
 
 ## Development
 
+### Origins
+According to Corey Cole, a mail campaign by Quest for Glory fans convinced Sierra to make another game with the Coles; Sierra was initially unwilling to commit, so for the first year Lori designed the game and worked with programmers and artists at Sierra[^ref-42]. Corey then joined the programming team in Oakhurst on a three-month contract that Sierra extended, and he describes Lori's game design as 500 pages long[^ref-42].
+
 ### Production
-The first four games in the series were intended to indicate the four elements and four wind directions: in the first game, the player is the Hero from the East, in the second from the North, etc[^ref-1][^ref-4]. Lori Cole was predominantly responsible for Dragon Fire's design, as Corey Cole was preoccupied with programming[^ref-1]. MobyGames' credits list [[Corey Cole]] as the game's RPG System Engineer and as one of its System Software Engineers[^ref-38]. The game originally had a voxel engine, which was later changed to a 3D engine because of hardware limitations[^ref-1].
+The first four games in the series were intended to indicate the four elements and four wind directions: in the first game, the player is the Hero from the East, in the second from the North, etc[^ref-1][^ref-4]. Lori Cole was predominantly responsible for Dragon Fire's design, as Corey Cole was preoccupied with programming[^ref-1]. MobyGames' credits list [[Corey Cole]] as the game's RPG System Engineer and as one of its System Software Engineers[^ref-38]. The game originally had a voxel graphics engine, which Corey Cole said "turned out to be unusable": "the frame rate slowed to 1 or 2 fps" when characters moved into the foreground and became large. The lead programmer then wrote a custom 3D engine, and "the artists had to rework all of their artwork as polygons"[^ref-42].
 
 Because of deadline issues and financial pressures, several features were dropped before release, including the ability to use a bow, the ability to play as Elsa von Spielburg or Magnum Opus, and multiplayer capability[^ref-1][^ref-4]. A demo released in late 1997 contained a multiplayer game, but Sierra decided to remove it from the final product[^ref-1]. The entire Quest for Glory programming team was laid off when Yosemite Entertainment was closed on February 22, 1999[^ref-1][^ref-4].
 
@@ -144,7 +152,18 @@ Chance Thomas composed, orchestrated and produced the game's soundtrack[^ref-1][
 - Real-time combat in main game environment[^ref-1]
 - Soundtrack by Chance Thomas, recorded mostly with live musicians, many of them members of the Utah Symphony[^ref-1][^ref-27]
 - New graphics engine programmed by Eric Lengyel[^ref-1]
-- Platform release: 1998, Windows and Macintosh[^ref-1][^ref-3]
+
+### Version History
+
+| Release | Year | Notes |
+|---------|------|-------|
+| Windows | 1998 | Published by Sierra FX; IGN's December 7, 1998 news brief said the game "has gone to replication and should be hitting store shelves this week"[^ref-3][^ref-40] |
+| Macintosh | 1998 | MacAddict described it as "now in simultaneous Mac and PC release"[^ref-3][^ref-43] |
+| Shadow Quests (compilation) | 2000 | Includes this game[^ref-3] |
+| Drachenfeuer und andere Legenden (compilation) | 2001 | Includes this game[^ref-3] |
+| Quest for Glory 1-5 (collection) | 2012 | Includes this game[^ref-3][^ref-9][^ref-10] |
+
+The exact shelf date is reported inconsistently. Gone Gold lists the game as gold on 12/08/98 and released on 12/10/98[^ref-41], and The Digital Antiquarian places November 20, 1998 "eighteen days before" the game's release[^ref-37].
 
 ## Legacy
 
@@ -186,6 +205,7 @@ This game has been included in the following collections:
 
 ## See Also
 
+- [[Quest for Glory Series]]
 - [[1989 - Quest for Glory I - So You Want to Be a Hero]]
 - [[1990 - Quest for Glory II - Trial by Fire]]
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
@@ -227,3 +247,9 @@ This game has been included in the following collections:
 [^ref-37]: [The Digital Antiquarian – The End of Sierra As We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – November 20, 1998 was "eighteen days before" the release of Quest for Glory V: Dragon Fire
 [^ref-38]: [MobyGames – Quest for Glory V: Dragon Fire credits, Windows (Wayback, September 14, 2025)](https://web.archive.org/web/20250914124746/https://www.mobygames.com/game/174/quest-for-glory-v-dragon-fire/credits/windows/) – "System Software Engineer: Corey Cole"; "RPG System Engineer: Corey Cole"
 [^ref-39]: [CNET Gamecenter – The Gamecenter Awards for 1998: Adventure (archived 2000)](https://web.archive.org/web/20001217044400/http://www.gamecenter.com/Features/Exclusives/Awards98/ss02.html) – "Nominee Black Dahlia ( Take2 Interactive )"
+[^ref-40]: [IGN – News Briefs: "Quest for Gold" (December 7, 1998; archived 2000)](https://web.archive.org/web/20000304150016/http://pc.ign.com/news/6009.html) – Sierra informs IGN that the game "has gone to replication and should be hitting store shelves this week"
+[^ref-41]: [Gone Gold – Games Gone Gold: New Releases 1998 (archived 2001)](https://web.archive.org/web/20010127004600/http://www.gonegold.com/golden/golden98.shtml) – lists Quest for Glory V (Sierra / Sierra) as announced gold 12/08/98 and released 12/10/98
+[^ref-42]: [Adventure Gamers – Corey Cole: Recruiting for Hero-U: Rogue to Redemption interview, page 4 (Ingmar Böke, November 9, 2012; archived 2016)](https://web.archive.org/web/20160716062003/http://www.adventuregamers.com/articles/view/23214/page4) – fan mail campaign, Lori's 500-page design, voxel engine at 1 or 2 fps
+[^ref-43]: [MacAddict – Quest for Glory V: Dragon Fire review, May 1999 (Samuel Parker; archived 2001)](https://web.archive.org/web/20010717145645/http://www.macaddict.com/issues/9905/rev.q4gloryv.html) – "Freakin' Awesome" rating; "an awesome epic"
+[^ref-44]: [macHOME – Quest for Glory V: Dragon Fire review (archived 2003)](https://web.archive.org/web/20031105035107/http://www.machome.com/reviews/MacReviewZone.lasso?grr8=33813) – "one of the best adventure games in years"
+[^ref-45]: [Strategy Plus – Quest for Glory V: DragonFire review by Andy Backer, posted 01/14/1999 (cdmag.com; archived 2003)](https://web.archive.org/web/20030523202845/http://www.cdmag.com/articles/016/155/quest_glory5_review.html) – "an excellent, and most delectable game to play"
