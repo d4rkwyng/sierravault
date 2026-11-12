@@ -10,7 +10,7 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Chuck Mitchell]
 description: Return to Krondor is a 1998 fantasy role-playing game by PyroTechnix and
   7th Level, published by Sierra Studios as the sequel to Betrayal at Krondor.
@@ -18,7 +18,7 @@ tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -106,7 +106,7 @@ Some retrospective voices are more enthusiastic. One MobyGames user declared tha
 
 ### Origins
 
-The development of Return to Krondor has its roots in the tremendous success of Betrayal at Krondor, released in 1993; one GameFAQs reviewer describes it as "widely considered one of the best PC RPGs ever made"[^ref-28]. The original development team at Dynamix, led by designers [[John Cutter]] and Neal Hallford, had intended to create a sequel[^ref-29]. However, when Dynamix restructured and closed their role-playing department in 1994, the planned sequel—tentatively called "Thief of Dreams"—was cancelled[^ref-1][^ref-10]. Computer Gaming World reported in April 1994 that Dynamix had elected "to terminate both the project and the project's guiding force on the computer side, John Cutter"[^ref-53].
+The development of Return to Krondor has its roots in the tremendous success of Betrayal at Krondor, released in 1993; one GameFAQs reviewer describes it as "widely considered one of the best PC RPGs ever made"[^ref-28]. The original development team at Dynamix, led by designers [[John Cutter]] and [[Neal Hallford]], had intended to create a sequel[^ref-29]. However, when Dynamix restructured and closed their role-playing department in 1994, the planned sequel—tentatively called "Thief of Dreams"—was cancelled[^ref-1][^ref-10]. Computer Gaming World reported in April 1994 that Dynamix had elected "to terminate both the project and the project's guiding force on the computer side, John Cutter"[^ref-53].
 
 The rights to create Midkemia games had originally been secured through a licensing deal with Raymond E. Feist. Feist was protective of his intellectual property; when approached about contributing directly to game development, he stated that his time was money and noted flatly, "you couldn't afford me"[^ref-30]. By one account, it was "the most expensive literary license yet granted to a game developer"[^ref-30].
 

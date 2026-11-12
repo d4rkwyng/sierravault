@@ -10,7 +10,7 @@ series: Krondor
 engine: 3Space
 protagonist: Gorath, Locklear, Owyn, James, Patrus, Pug
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Jan Paul Moorhead]
 description: 'Betrayal at Krondor is a role-playing game developed by Dynamix and
   published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set in Raymond
@@ -20,7 +20,7 @@ tags: [1990s, dynamix, krondor, rpg, sierra]
 ---
 # Betrayal at Krondor
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -122,7 +122,7 @@ The game earned particular praise for its immersive qualities. One MobyGames rev
 
 ### Origins
 
-The more direct origin of Betrayal at Krondor traces back to a chance meeting between John Cutter and Dynamix CEO Jeff Tunnell at the Summer Consumer Electronics Show in June 1991.[^ref-20] Tunnell, whom Neal Hallford describes as "the originator of the whole plan to license Raymond E. Feist's Riftwar novels in the first place,"[^ref-28] brought Cutter to Dynamix as a creative lead that summer.[^ref-30] Cutter, writing in the game's manual, recalled discovering Feist's *Magician: Apprentice*: "Here was a book filled with marvelous images of incredible worlds, and a real emphasis on character development, political intrigues, and military tactics and strategies."[^ref-12] Feist, in his own introduction to the manual, remembered Cutter and Dynamix telling him they wanted to "design a game that felt like one of your books."[^ref-12]
+The more direct origin of Betrayal at Krondor traces back to a chance meeting between John Cutter and Dynamix CEO Jeff Tunnell at the Summer Consumer Electronics Show in June 1991.[^ref-20] Tunnell, whom [[Neal Hallford]] describes as "the originator of the whole plan to license Raymond E. Feist's Riftwar novels in the first place,"[^ref-28] brought Cutter to Dynamix as a creative lead that summer.[^ref-30] Cutter, writing in the game's manual, recalled discovering Feist's *Magician: Apprentice*: "Here was a book filled with marvelous images of incredible worlds, and a real emphasis on character development, political intrigues, and military tactics and strategies."[^ref-12] Feist, in his own introduction to the manual, remembered Cutter and Dynamix telling him they wanted to "design a game that felt like one of your books."[^ref-12]
 
 When asked if he would write the game himself, Feist replied simply: "you couldn't afford me."[^ref-20] By one account, the deal was "the most expensive literary license yet granted to a game developer."[^ref-20] The contract gave Dynamix rights to make Midkemia games until January 1, 1995.[^ref-20]
 
@@ -134,7 +134,7 @@ By Hallford's account, the game took "fourteen or so of the core members over tw
 
 Contrary to popular belief, Raymond E. Feist did not write the game's plot or dialogue. Feist was busy writing The King's Buccaneer during the game's production, so the story, text, and new characters were created entirely by designers Neal Hallford and John Cutter.[^ref-1] Feist had editorial final say, but most of what Hallford and Cutter created was left intact.[^ref-1] The development team's guiding question was: "What if the player was going to act as a character in a new book, one that takes place after A Darkness at Sethanon?"[^ref-12]
 
-The project began with a week in which Cutter and Hallford hashed out the game and wrote the outline of a script, a week Hallford remembers as "one of the best weeks of my life."[^ref-20] The demanding schedule that followed took a serious toll, and Hallford eventually collapsed from overwork.[^ref-20] A doctor told him: "You're not going back to work for a week. Get some rest and eat something proper. No pizza. No soft drinks. It's either this or next time you leave work it'll be in a hearse."[^ref-20]
+The project began with a week in which Cutter and Hallford hashed out the game and wrote the outline of a script, a week Hallford remembers as "one of the best weeks of my life."[^ref-20] The demanding schedule that followed was punishing, and the project ran well over time and over budget.[^ref-20]
 
 **Development Credits:**[^ref-24]
 
