@@ -10,7 +10,7 @@ series: No One Lives Forever
 engine: LithTech Jupiter
 protagonist: John Jack
 sierra_lineage: Sierra Published
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: Contract J.A.C.K. (where J.A.C.K. stands for "Just Another Contract Killer")
   is a 2003 first-person shooter developed by Monolith Productions and published by
   Sierra Entertainment, a prequel to No One Lives Forever 2.
@@ -18,7 +18,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # Contract J.A.C.K.
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -108,6 +108,12 @@ GameZone awarded 6.3 out of 10, with Mike David calling it an "incredibly inferi
 Game Over Online gave 60/100, noting that "Jack may have all the guns and firepower, but he lacks finesse. And he reminds us of why we like to watch heroes like James Bond. It's not all about the big bangs and fiery explosions. It's the martinis, women and one-liners that keep us coming back for more."[^ref-24]
 
 French publication Jeuxvideo.com scored the game 13 out of 20, with reviewer Dinowan commenting that "Monolith nous livre un soft bien bourrin, un peu trop même" (Monolith delivers a very action-heavy game, perhaps too much so).[^ref-25]
+
+German site 4Players, in a review by Paul Kautz dated 21 December 2003, rated it 68 out of 100.[^ref-32]
+
+French magazine *Joystick* (issue 154, December 2003) gave it 6 out of 10; its reviewer, Bishop, concluded that the game "lassera rapidement les pros du FPS, mais a un avantage pour le joueur moyen : il détend" (translated: it will quickly tire FPS pros, but has one advantage for the average player: it is relaxing).[^ref-52][^ref-1]
+
+*Computer Gaming World* (issue 235, February 2004, p. 79) gave it two stars out of five. Robert Coffey's verdict read: "No franchise shines forever—J.A.C.K. is the first blemish on the NOLF series."[^ref-53]
 
 ### Modern Assessment
 
@@ -288,7 +294,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - [MyAbandonware](https://www.myabandonware.com/game/contract-j-a-c-k-dvt)[^ref-30]
 
 **Patches & Fixes:**
-- [PCGamingWiki Community – official v1.1 patch mirror](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – 1,433 downloads (October 2026)[^ref-46]
+- [PCGamingWiki Community – official v1.1 patch mirror](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – 1,440 downloads (as of November 2026)[^ref-46]
 - [ModDB – Patch v1.1 US English](https://www.moddb.com/games/contract-jack/downloads/contract-jack-v11-us-english-patch)[^ref-40]
 
 ## See Also
@@ -325,7 +331,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-27]: [Sierra Chest – Contract J.A.C.K. Overview](https://www.sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=general) – story setup (Malta test, Il Pazzo), seven chapters, critical assessment, last entry in the series
 [^ref-29]: [Amazon.com – Contract J.A.C.K.](https://www.amazon.com/Contract-J-C-K-PC/dp/B0000A4F0R) – customer reviews, product features ("ten new single-player levels", level-building tools)
 [^ref-30]: [MyAbandonware – Contract J.A.C.K.](https://www.myabandonware.com/game/contract-j-a-c-k-dvt) – user rating, compatibility issues
-[^ref-32]: [Wayback Machine – 4Players.de Review](https://web.archive.org/web/20210711230151/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – German review by Paul Kautz (21.12.2003): German bundle, commercial failure context, no upgrade system, Serious Sam-level enemy numbers
+[^ref-32]: [Wayback Machine – 4Players.de Review](https://web.archive.org/web/20210711230151/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – German review by Paul Kautz (21.12.2003): 68/100 rating, German bundle, commercial failure context, no upgrade system, Serious Sam-level enemy numbers
 [^ref-33]: [GameSpy – Contract J.A.C.K. Review Page 2](http://pc.gamespy.com/pc/contract-jack/6344p2.html) – cut content, original narrative concept, vehicle criticism
 [^ref-34]: [IGN – Contract Jack Gold](https://www.ign.com/articles/2003/10/31/contract-jack-gold) – gold status announcement, November 6 training mission
 [^ref-35]: [Eurogamer – Contract JACK demo](https://www.eurogamer.net/news271003contractjack) – October 27, 2003 FilePlanet multiplayer demo, Beta Protection System
@@ -342,3 +348,5 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-49]: [Shacknews – No One Lives Forever games trademarks filed](https://www.shacknews.com/article/84335/no-one-lives-forever-games-trademarks-filed) – Night Dive trademark filings including Contract J.A.C.K.
 [^ref-50]: [MobyGames – Contract J.A.C.K. Releases](https://www.mobygames.com/game/11245/contract-jack/releases/) – regional release dates, distributors, middleware
 [^ref-51]: [MobyGames – Contract J.A.C.K. Patches](https://www.mobygames.com/game/11245/contract-jack/patches/) – v1.1 patch date
+[^ref-52]: [Joystick (France) issue 154, December 2003 – Internet Archive](https://archive.org/details/joystick154) – review by Bishop, pp. 124–25: score boxes read Technique 6, Artistique 7, Intérêt 6; verdict quoted
+[^ref-53]: [Computer Gaming World issue 235, February 2004 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_235) – review by Robert Coffey, p. 79: two-of-five-star verdict (read from the page image) and quoted verdict line
