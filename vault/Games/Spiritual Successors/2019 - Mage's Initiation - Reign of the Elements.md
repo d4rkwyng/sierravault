@@ -10,7 +10,7 @@ series: Mage's Initiation
 engine: Adventure Game Studio
 protagonist: D'arc
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Brandon Blume]
 description: 'Mage''s Initiation: Reign of the Elements is an adventure/RPG hybrid
   developed and published by Himalaya Studios, released on January 30, 2019 for Windows,...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
 ---
 # Mage's Initiation: Reign of the Elements
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -86,7 +86,7 @@ A mini-game called "Demon's Deal"—described as a heavily luck-based gambling g
 
 Mage's Initiation received mixed to positive reviews upon release, with critics praising its faithful recreation of classic Sierra aesthetics while noting issues with combat and certain design elements.
 
-Adventure Gamers awarded the game 4 out of 5 stars, calling it "an extraordinarily polished adventure game"[^ref-6] and "2019's first great delight"[^ref-3]. The review praised the "incredibly beautiful pixel art" while noting that "battle mechanics are clumsy and simplistic"[^ref-20]. GameCritics gave it 7 out of 10 (Metacritic lists the review as 85), stating "The game (like its hero) has issues, but its charms more often than not make up for them"[^ref-13][^ref-6]. Reviewer Jeff Ortloff completed the game in approximately 11 hours[^ref-13].
+Adventure Gamers awarded the game 4 out of 5 stars[^ref-3], calling it "an extraordinarily polished adventure game"[^ref-6] and "2019's first great delight"[^ref-3]. The review praised the "incredibly beautiful pixel art" while noting that "battle mechanics are clumsy and simplistic"[^ref-20]. GameCritics gave it 7 out of 10 (Metacritic lists the review as 85), stating "The game (like its hero) has issues, but its charms more often than not make up for them"[^ref-13][^ref-6]. Reviewer Jeff Ortloff completed the game in approximately 11 hours[^ref-13].
 
 GameSpot awarded 6/10, with reviewer Edmond Tran noting that "its ambitions to incorporate a meaningful diversity of role-playing options fall disappointingly flat and feel inconsequential"[^ref-21]. PC Invasion (60 on Metacritic) wrote that at its best "it's like discovering a lost Sierra title from the VGA generation," while at its worst "it's a bit of an uninteresting slog"[^ref-35][^ref-6]. VGU scored it 8/10, calling it "exactly what fans of traditional adventure games deserve in a spiritual successor"[^ref-20].
 
@@ -165,9 +165,10 @@ The soundtrack release includes 12 bonus tracks of "ambient, alternate, and even
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | January 30, 2019 | Windows/Mac/Linux | Initial release[^ref-1] |
-| 1.1 | 2019 | All platforms | Major bug fix update, added "no combat" mode[^ref-31] |
 | 1.3 Beta | 2018 | Steam (backer beta) | Beta version with all character voices[^ref-15] |
+| 1.0 | January 30, 2019 | Windows/Mac/Linux | Initial release[^ref-1] |
+| 1.0b | February 12, 2019 | Windows (Steam "beta" branch) | Opt-in beta of the patch that became v1.1; added "no combat" mode[^ref-38] |
+| 1.1 | February 21, 2019 | All platforms | Major bug fix update, added "no combat" mode; released on the default branch for Windows, Linux and Mac[^ref-39][^ref-31] |
 
 **AGS Engine Version:**[^ref-10][^ref-31]
 - **Engine:** Adventure Game Studio v.3.4.3.1 (PCGamingWiki); the v1.1 patch notes say it updated the game to AGS v.3.4.3
@@ -266,6 +267,8 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 
 ## See Also
 
+- [[Spiritual Successors Catalog]]
+- [[AGD Interactive]]
 - [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
@@ -286,7 +289,7 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 
 [^ref-1]: [MobyGames – Mage's Initiation: Reign of the Elements](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/) – release dates, developer/publisher credits, engine, platforms, critics average
 [^ref-2]: [Adventure Gamers – Hands-on Preview](https://web.archive.org/web/20220510074415/https://adventuregamers.com/articles/view/36793) – release date, development timeline, combat system, violence optional feature
-[^ref-3]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20190603085211/https://adventuregamers.com/articles/view/37028) – development length comparison, "2019's first great delight", running animation criticism, combat and setting details
+[^ref-3]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20190603085211/https://adventuregamers.com/articles/view/37028) – rated "Very good", 4.0 stars out of 5 (page rating data), development length comparison, "2019's first great delight", running animation criticism, combat and setting details
 [^ref-4]: [Kicktraq – Campaign Data](http://www.kicktraq.com/projects/2112639455/mages-initiation-a-classic-sierra-style-adventure/) – funding amount, backer count, campaign dates
 [^ref-5]: [Arcade Attack – Developer Interview](https://web.archive.org/web/20191208081831/https://www.arcadeattack.co.uk/mages-initiation/) – development timeline, Harry Potter inspiration, fan poll, developer quotes, legal history
 [^ref-6]: [Metacritic – Mage's Initiation](https://www.metacritic.com/game/mages-initiation-reign-of-the-elements/) – aggregate scores, individual review scores, user score
@@ -310,13 +313,15 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 [^ref-24]: [GOG.com Store Page](https://www.gog.com/en/game/mages_initiation_reign_of_the_elements) – system requirements, OpenCritic score, user reviews
 [^ref-26]: [Reddit – r/questforglory: Anyone else played Mage's Initiation?](https://www.reddit.com/r/questforglory/comments/tkgqpd/anyone_else_played_mages_initiation/) – player experience, combat feedback, pixel hunting issue
 [^ref-27]: [AGDI Forum – Mage's Initiation thread, page 4](http://www.agdinteractive.com/forum/viewtopic.php?f=2&start=75&t=14906) – Aug 2012 posts: missed 2012 release, Diablo-style combat, loot drops, $15–$20 price estimate, stat grinding, Akril cutscenes
-[^ref-28]: [AGDI Forum – Development Timeline](https://www.agdinteractive.com/forum/viewtopic.php?t=14906&start=100) – Steam Greenlight (Feb 5, 2014), "about 95% complete" (Aug 11, 2017), voice acting scope, D'arc's 5,000+ lines
+[^ref-28]: [AGDI Forum – Development Timeline](http://www.agdinteractive.com/forum/viewtopic.php?t=14906&start=100) – Steam Greenlight (Feb 5, 2014), "about 95% complete" (Aug 11, 2017), voice acting scope, D'arc's 5,000+ lines
 [^ref-29]: [Bandcamp – Soundtrack Release](https://brandonblume.bandcamp.com/album/mages-initiation-original-game-soundtrack) – track count, runtime, bonus content, release date, "composed, recorded, produced, mixed, and mastered" credit, four album-art variations
 [^ref-30]: [Bandcamp – Composer Bio](https://brandonblume.bandcamp.com/track/fire-mage-sidequest-untethered-spirit) – composer location (Manitoba), home studio
 [^ref-31]: [RPG Codex Forum – Page 11](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-11) – v1.1 patch notes, forum comments on player counts and the development cycle
 [^ref-32]: [VOGONS Forum](https://www.vogons.org/viewtopic.php?t=65041) – launch platforms, development time, composer identity
 [^ref-33]: [Speedrun.com – Water Any% run](https://www.speedrun.com/mages_initiation_reign_of_the_elements/run/z05ow5om) – 41:17 Water record by davidtki, runner quote; [Earth Any% run](https://www.speedrun.com/mages_initiation_reign_of_the_elements/runs/yon7q75z) – 54:49 by legostevey (2023-06-11)
 [^ref-34]: [MobyGames – Credits (Windows)](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/credits/windows/) – writer, game design, producers, lead artist, cutscene and soundtrack credits, voice cast
-[^ref-35]: [PC Invasion – Mage's Initiation: Reign Of The Elements Review – A Sparkle Of Magic (now hosted at Prima Games)](https://primagames.com/featured/mages-initiation-reign-elements-review) – Tim McDonald review, Jan 31, 2019; "lost Sierra title" and "uninteresting slog" quotes
+[^ref-35]: [PC Invasion – Mage's Initiation: Reign Of The Elements Review – A Sparkle Of Magic (now hosted at Prima Games)](https://primagames.com/featured/mages-initiation-reign-elements-review) – Tim McDonald review, byline dated Jan 30, 2019 (Metacritic lists it as Jan 31); "lost Sierra title" and "uninteresting slog" quotes
 [^ref-36]: [PC Gamer – Mage's Initiation is an adventure-RPG inspired by Quest for Glory](https://www.pcgamer.com/mages-initiation-is-an-adventure-rpg-inspired-by-quest-for-glory/) – Fraser Brown, Nov 30, 2018; three switchable interfaces, no parser
 [^ref-37]: [Adventure Gamers – The Silver Aggies (Archived)](https://web.archive.org/web/20211117161135/https://adventuregamers.com/aggie-awards/view/the-silver-aggies) – 2019 Best Retro-Styled Adventures tied winner with Feria d'Arles; "Himalaya Studios' second commercial endeavour"; no Readers' Choice award
+[^ref-38]: [Steam News – Patch v1.0b Now Available on "beta" branch (Windows Only)](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2461683368403653990) – v1.0b announcement; dated 2019-02-12 in Steam's news feed (appid 270610); "no combat" mode, Windows-only beta branch
+[^ref-39]: [Steam News – Mage's Initiation v.1.1 Update Released](https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2480825216188831976) – v1.1 announcement; dated 2019-02-21 in Steam's news feed (appid 270610); available on Windows, Linux and Mac
