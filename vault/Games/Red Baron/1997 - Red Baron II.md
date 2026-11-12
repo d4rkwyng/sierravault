@@ -161,7 +161,7 @@ The initial release shipped without several features that had been promised or e
 | 1.0 | December 16, 1997 | Windows | Initial release[^ref-14] |
 | 1.002 | Undated | Windows | Update (archive named "rb2beta"; no description given)[^ref-29] |
 | 1.05 | Undated | Windows | Patch with new flight model and fixes[^ref-29] |
-| 1.0.7.7 | 1998 (by October) | Windows | "Super Patch" converting to Red Baron 3D with 3D acceleration[^ref-29]; described as "recently released" when Red Baron 3D reached retail on October 29, 1998[^ref-27] |
+| 1.0.7.7 | 1998 (by October) | Windows | "Super Patch" converting to Red Baron 3D with 3D acceleration[^ref-29]; described as "recently released" when Dynamix announced on October 29, 1998 that Red Baron 3D had arrived in retail stores nationwide[^ref-27]; GOG and the Dynamix wiki give Red Baron 3D's release date as October 31, 1998[^ref-12][^ref-44] |
 | 1.0.7.8 | Undated | Windows | Red Baron 3D update letting players see game servers in the interface; applies only to 1.0.7.7[^ref-29] |
 
 The version 1.0.7.7 "Super Patch" was transformative, adding 3D single and multiplayer capabilities and effectively converting the game into Red Baron 3D[^ref-29]. This patch was available free to existing Red Baron II owners[^ref-13].
@@ -197,9 +197,11 @@ While specific sales figures are not available, Red Baron II's retail price at l
 
 ### Collections
 
-Red Baron II was included in several compilations and re-releases:
+Red Baron II is not sold on its own in the current digital storefronts. The **Red Baron Pack**, available on GOG.com and Steam, contains Red Baron 1, Red Baron: Mission Builder and Red Baron 3D[^ref-12][^ref-36]. Red Baron 3D is the patched successor of Red Baron II (see Version History)[^ref-29][^ref-8]. Steam lists the pack's release date as January 7, 2016, with Mad Otter Games as developer and publisher[^ref-36].
 
-- **Red Baron Pack** – Available on GOG.com and Steam, including Red Baron 1, Red Baron: Mission Builder, and Red Baron 3D[^ref-12][^ref-36]
+### Current Rights
+
+Steam lists Mad Otter Games as both developer and publisher of the Red Baron Pack, and its legal notice states that Red Baron and Red Baron 3D are registered trademarks of Mad Otter Games[^ref-36]. GOG's notice goes further, stating that "Red Baron, Red Baron II, and Red Baron 3D are registered trademarks of Mad Otter Games, Inc."[^ref-12]
 
 ### Fan Projects
 
@@ -237,6 +239,7 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
 - [[1990 - Red Baron]]
 - [[1998 - Red Baron 3D]]
+- [[1992 - Red Baron - Mission Builder]]
 - [[1999 - Curse You! Red Baron]]
 - [[2008 - Red Baron Arcade]]
 
@@ -253,7 +256,7 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 [^ref-9]: [Sierra Chest – Red Baron 2](https://sierrachest.com/index.php?a=games&id=302&title=red-baron-2&fld=demos) – engine information
 [^ref-10]: [Gamecenter 1997 Awards (Archive.org)](https://web.archive.org/web/20000928231623/http://gamecenter.com/Features/Exclusives/Awards97/Off/ss09a.html) – award nomination, feature description
 [^ref-11]: [GameRevolution – Red Baron II Review](https://www.gamerevolution.com/review/32974-red-baron-ii-review) – gameplay details, bugs, controls
-[^ref-12]: [GOG.com – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – pack contents (Red Baron 1, Mission Builder, Red Baron 3D), user rating 4.4/5
+[^ref-12]: [GOG.com – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – pack contents (Red Baron 1, Mission Builder, Red Baron 3D), user rating 4.4/5; trademark notice naming Red Baron II; Red Baron 3D release date 1998-10-31
 [^ref-13]: [AllGame Review (Archive.org)](https://web.archive.org/web/20141116011345/http://www.allgame.com/game.php?id=17656&tab=review) – user feedback, accessibility
 [^ref-14]: [Dynamix Press Release (Archive.org)](https://web.archive.org/web/19980627112357/http://www.dynamix.com/pr/rb2-pr.html) – official release details, features
 [^ref-15]: [PC Gamer US Review (Archive.org)](https://web.archive.org/web/20000118080800/http://www.pcgamer.com/reviews/864.html) – review score, system requirements
@@ -274,7 +277,7 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 [^ref-32]: [Amazon – Red Baron Game Manual](https://www.amazon.com/Baron-great-planes-Game-Manual/dp/B004LD7EME) – manual specifications
 [^ref-33]: [VOGONS – Red Baron Technical Discussion](https://www.vogons.org/viewtopic.php?t=75255) – XBaron patch, fan support
 [^ref-34]: [Amazon – Official Strategy Guide](https://www.amazon.com/Red-Baron-II-Official-Strategy/dp/0761509488) – strategy guide details
-[^ref-36]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/) – digital collection with Red Baron, Red Baron 3D, and Mission Builder
+[^ref-36]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/) – digital collection with Red Baron, Red Baron 3D, and Mission Builder; release date Jan 7, 2016; Mad Otter Games as developer and publisher; trademark notice
 [^ref-37]: [Amazon – Red Baron 3-D](https://www.amazon.com/Red-Baron-3-D-PC/dp/B00001LCDF) – customer rating 3.3/5
 [^ref-38]: [Sierra Help – Red Baron II Manual (PDF)](http://sierrahelp.com/Documents/Manuals/Red_Baron_2_-_Manual.pdf) – contents (pp. i–vi), campaign enlistment (p. 163), Manual Credits (p. 223)
 [^ref-39]: [Next Generation #40, April 1998 (Archive.org)](https://archive.org/details/NEXT_Generation_40/page/n109/mode/2up) – Red Baron II review, p. 108; rated four stars
@@ -282,3 +285,4 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 [^ref-41]: [PC PowerPlay #23, April 1998 (Archive.org)](https://archive.org/details/PCPowerplay-023-1998-04/page/n63/mode/2up) – Red Baron II review by George Argy, p. 64; 92%, Gold award
 [^ref-42]: [MobyGames – Red Baron II credits (Wayback, 2024-03-08)](https://web.archive.org/web/20240308140516/https://www.mobygames.com/game/1022/red-baron-ii/credits/windows/) – Windows credits, 20 people: manual credits and German localisation only; no design, programming or art credits
 [^ref-43]: [MobyGames – Red Baron 3-D credits (Wayback, 2022-03-08)](https://web.archive.org/web/20220308233045/https://www.mobygames.com/game/windows/red-baron-3-d/credits) – "Multiplayer Design: Doug Johnson, Brian Apgar, Eric Lanz"; "Lead Software Engineer: Brian Apgar"
+[^ref-44]: [Dynamix Fandom Wiki – Red Baron 3-D](https://dynamix.fandom.com/wiki/Red_Baron_3-D) – Red Baron 3-D release date October 31, 1998
