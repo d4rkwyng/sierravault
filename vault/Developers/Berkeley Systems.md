@@ -6,11 +6,11 @@ defunct: 2000
 headquarters: "Berkeley, California, USA"
 notable_games: ["After Dark", "You Don't Know Jack", "Head Rush"]
 parent_company: "Sierra On-Line (CUC International), acquired 1997"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Berkeley Systems
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ In October 1996 Berkeley Systems launched beZerk, an online entertainment site b
 
 ### Sierra Era
 
-CUC International confirmed the acquisition of Berkeley Systems in April 1997.[^ref-2] The Los Angeles Times reported that terms were not disclosed, that up to a third of the company's 120 employees would be laid off, and that the unit's new general manager, Chris Deyo, would report to executives at Sierra On-Line.[^ref-16] Wired reported on 1 April 1997 that "the financial details of the deal ... have not been announced", and again on 8 April that "no financial details have been disclosed".[^ref-2][^ref-31] The contemporary accounts give no price; the $13.8 million figure that appears in Wikipedia's Berkeley Systems article has no contemporary source among those cited here.[^ref-6][^ref-16][^ref-31] Wired's 8 April report added that Berkeley would "function as an R&D studio for CUC", that Wes Boyd would become a consultant, that Julie Wainwright would leave, that Deyo would report to Sierra president Mike Brochu, and that the deal would be official on 11 April.[^ref-31] In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw mostly on Berkeley Systems' brands, listing HeadRush for August and the After Dark Game Pack for November.[^ref-29] HeadRush was released on August 31, 1998, and Sierra Attractions and Berkeley Systems released After Dark Games in 1998.[^ref-24][^ref-28]
+CUC International confirmed the acquisition of Berkeley Systems in April 1997.[^ref-2] The Los Angeles Times reported that terms were not disclosed, that up to a third of the company's 120 employees would be laid off, and that the unit's new general manager, Chris Deyo, would report to executives at Sierra On-Line.[^ref-16] Wired reported on 1 April 1997 that "the financial details of the deal ... have not been announced", and again on 8 April that "no financial details have been disclosed".[^ref-2][^ref-31] The contemporary accounts give no price; the $13.8 million figure that appears in Wikipedia's Berkeley Systems article has no contemporary source among those cited here.[^ref-6][^ref-16][^ref-31] Wired's 8 April report added that Berkeley would "function as an R&D studio for CUC", that Wes Boyd would become a consultant, that Julie Wainwright would leave, that Deyo would report to Sierra president Mike Brochu, and that the deal would be official on 11 April.[^ref-31] MobyGames lists Berkeley Systems as the first of two acquisitions Sierra completed that April.[^ref-37] In September 1997 Tech Monitor reported that Berkeley, with Jellyvision and NBC, was preparing a themed You Don't Know Jack edition with stars from NBC's autumn line-up, to run on the beZerk network during the week of 29 September.[^ref-38] In May 1998 GameSpot reported that Sierra's new Sierra Attractions division would draw mostly on Berkeley Systems' brands, listing HeadRush for August and the After Dark Game Pack for November.[^ref-29] HeadRush was released on August 31, 1998, and Sierra Attractions and Berkeley Systems released After Dark Games in 1998.[^ref-24][^ref-28]
 
 ### Later Years and Closure
 
@@ -50,11 +50,11 @@ You Don't Know Jack was conceived as a trivia game for adults that mixed pop cul
 
 ### After Dark (1989)
 
-After Dark is a series of screen savers; see [[1989 - After Dark|After Dark]] and [[1991 - More After Dark|More After Dark]]. By 1997 the company said the franchise had sold over three million units.[^ref-8] In August 2026 developer Jeff Halter released Afterglow, which he describes as "an emulator built specifically for running After Dark modules -- the original 68k module code, not a remake or port -- with no dependencies on ROMs or classic Mac OS".[^ref-33][^ref-34]
+After Dark is a series of screen savers; see [[1989 - After Dark|After Dark]] and [[1991 - More After Dark|More After Dark]].[^ref-8] By 1997 the company said the franchise had sold over three million units.[^ref-8] In August 2026 developer Jeff Halter released Afterglow, which he describes as "an emulator built specifically for running After Dark modules -- the original 68k module code, not a remake or port -- with no dependencies on ROMs or classic Mac OS".[^ref-33][^ref-34]
 
 ### Head Rush (1998)
 
-Head Rush (You Don't Know Jack HeadRush) is a teen spin-off of You Don't Know Jack, released on August 31, 1998.[^ref-24] MobyGames describes it as keeping the series' format with "a shift from sexual humor to toilet humor and a change in art style to cartoons".[^ref-23] The vault's [[1998 - Head Rush|Head Rush]] page covers its development by Berkeley Systems and Jellyvision and its release under Sierra's Sierra Attractions label.
+Head Rush (You Don't Know Jack HeadRush) is a teen spin-off of You Don't Know Jack, released on August 31, 1998.[^ref-24] MobyGames describes it as keeping the series' format with "a shift from sexual humor to toilet humor and a change in art style to cartoons".[^ref-23] The vault's [[1998 - Head Rush|Head Rush]] page covers its development by Berkeley Systems and Jellyvision and its release under Sierra's Sierra Attractions label. Jackbox Games, Jellyvision's successor company, re-released it on Steam on November 5, 2013, as YOU DON'T KNOW JACK HEADRUSH.[^ref-36]
 
 ## Key People
 
@@ -107,3 +107,6 @@ Berkeley Systems titles with SierraVault pages; MobyGames lists the company's fu
 [^ref-33]: [Afterglow: Classic After Dark Screen Savers on Today's MacOS - Daring Fireball, 27 August 2026](https://daringfireball.net/linked/2026/08/27/afterglow) — Jeff Halter's Afterglow: "the original 68k module code, not a remake or port"
 [^ref-34]: [Afterglow Brings Classic After Dark Screen Savers to Modern macOS - MacRumors, 28 August 2026](https://www.macrumors.com/2026/08/28/after-dark-screen-savers-on-modern-macos/) — Halter has released Afterglow; "no dependencies on ROMs or classic Mac OS"
 [^ref-35]: [Sierra Entertainment - Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) — CUC merged with HFS in December 1997 to become Cendant; sale of consumer software division to Havas announced 20 November 1998
+[^ref-36]: [YOU DON'T KNOW JACK HEADRUSH - Steam](https://store.steampowered.com/app/260060/) — published by Jackbox Games, Inc.; Steam release date Nov 5, 2013
+[^ref-37]: [MobyGames - Sierra Entertainment, Inc. (Wayback, December 2024)](https://web.archive.org/web/20241217195137/https://www.mobygames.com/company/17/sierra-entertainment-inc/) — "Sierra completed two acquisitions in April of 1997. The first was Berkeley Systems"
+[^ref-38]: [Berkeley and NBC Team on Celebrity Interactive Game Show - Tech Monitor, 24 September 1997](https://techmonitor.ai/?p=190157) — Berkeley "was quietly acquired by giant software publisher CUC International Inc earlier this year"; NBC-themed You Don't Know Jack edition on beZerk, week of September 29
