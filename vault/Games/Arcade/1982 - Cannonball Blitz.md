@@ -240,6 +240,6 @@ On-Line Systems had published action games from its start, but the company "was 
 [^ref-22]: [Wikidata – Cannonball Blitz](https://www.wikidata.org/wiki/Q5032821) – structured metadata; platform VIC-20
 [^ref-23]: [Retro365 – Gobbler and Cannonball Blitz, clones, Lawsuits, clones](https://retro365.blog/2020/10/10/bits-from-my-personal-collection-cannonball-blitz-clones-lawsuits-clones/) – Ernst Krogtoft, 2020; Lubeck's Gobbler and Jawbreaker port, Atari legal fight, Los Alamos origin, 1983 SierraVision VIC-20 release
 [^ref-24]: [Computer Gaming World Issue 2.5 (Sept–Oct 1982)](https://archive.org/details/Computer_Gaming_World_Issue_2.5) – Ron Brinkmann review; price, system, disk format, level descriptions
-[^ref-25]: [Ahoy! #1 (January 1984)](https://archive.org/details/ahoy_magazine) – E.C. Meade review of the VIC-20 cartridge
+[^ref-25]: [Ahoy! #1 (January 1984)](https://archive.org/stream/ahoy_magazine/Ahoy-001_djvu.txt) – E.C. Meade review of the VIC-20 cartridge
 [^ref-26]: [Internet Archive – Cannonball Blitz physical preservation](https://archive.org/details/on-line-cannonball-blitz-a2-ph) – On-Line Systems original disk, item dated 1981
 [^ref-27]: [Krakowicz's Kracking Korner: The Basics of Kracking II (textfiles.com)](http://www.textfiles.com/100/krckwczt.app) – cracking tutorial quoting Lubeck's track 17, sector D challenge "YOU'LL NEVER CRACK IT"
