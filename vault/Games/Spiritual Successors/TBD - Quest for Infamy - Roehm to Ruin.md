@@ -10,14 +10,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 description: '*Quest for Infamy: Roehm to Ruin* is an unreleased point-and-click adventure
   RPG developed by Infamous Quests as a prequel to their 2014 title *Quest for Infamy*.'
 tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -30,11 +30,11 @@ The prequel was announced in March 2015 alongside *Order of the Thorne: The King
 > **Designer:** Not credited in available sources
 > **Publisher:** Infamous Quests[^ref-6]
 > **Engine:** Adventure Game Studio[^ref-3]
-> **Platforms:** Windows[^ref-17] (Mac and Linux also announced in 2015)[^ref-25][^ref-2]
+> **Platforms:** Windows, Mac and Linux per Adventure Gamers[^ref-2][^ref-25]; Windows only per GameBanshee[^ref-17]
 > **Release Year:** TBD (pending final voice work)
 > **Series:** Quest for Infamy
 > **Protagonist:** Mr. Roehm
-> **Sierra Lineage:** Sierra Spiritual Successor
+> **Sierra Lineage:** Spiritual Successor
 
 ## Story Summary
 
@@ -66,7 +66,7 @@ The game features meaningful choices that affect the storyline, offering multipl
 
 ### Contemporary Reviews
 
-Originally expected in late 2015,[^ref-25] *Quest for Infamy: Roehm to Ruin* has not been released as of October 2026; its itch.io page still reads "Coming in 2023" with the status "In development".[^ref-6] A playable demo was available at the start of the 2015 Kickstarter campaign, allowing potential backers to sample the prequel.[^ref-11]
+Originally expected in late 2015,[^ref-25] *Quest for Infamy: Roehm to Ruin* has not been released as of November 2026; its itch.io page still reads "Coming in 2023" with the status "In development".[^ref-6] A playable demo was available at the start of the 2015 Kickstarter campaign, allowing potential backers to sample the prequel.[^ref-11]
 
 The game was featured at Gamescom 2015, where it received coverage from Adventure-Treff during the German gaming convention.[^ref-2]
 
@@ -93,6 +93,16 @@ The Kickstarter campaign launched on April 3, 2015, seeking $11,225 to fund both
 Development proved challenging over the years. According to a 2025 update from the developer, the financial turnout on *Order of the Thorne: The King's Challenge* fell well under expectations, preventing the team from continuing as a full-time game development company.[^ref-3] Most team members moved on to other jobs, with some doing occasional work when possible, while others gradually lost contact with the project.[^ref-3] Steven Alexander continued working on the games independently when time permitted.[^ref-3]
 
 By late 2025, the game was described as "completed for a while, except for some voice acting."[^ref-3] The remaining work involves completing recording sessions with the lead actor for Mr. Roehm, editing the voice lines, implementing them into AGS, conducting final testing, and releasing the game.[^ref-3]
+
+### Development Credits
+
+- **Music:** James Mulvale[^ref-17]
+- **Art:** Hand-painted backgrounds and character animations[^ref-17]; Adventure Gamers describes the game as sharing "its predecessor's hand-painted, low-res pixel art style"[^ref-25]
+- **Voice (Mr. Roehm):** Steve Patrick[^ref-13]
+
+### Cut Content
+
+Adventure Gamers reported in March 2015 that "Gone is the combat that made up the RPG part of the hybrid gameplay originally," leaving a "much shorter" prequel it described as a classic-styled, puzzle-oriented adventure.[^ref-25]
 
 ### Technical Achievements
 
@@ -134,7 +144,7 @@ The game features multiple story paths with different endings based on player ch
 |-----------|-------------|
 | Mr. Roehm | Steve Patrick |
 
-Voice recording for the lead character remains the final production milestone before release.[^ref-3] In a January 2026 Patreon update, Alexander said the only remaining task was to record Mr. Roehm's lines with Steve Patrick, edit them and put them in the game, which he hoped to do soon.[^ref-13] An April 4, 2026 follow-up said studio time was **booked for May 2026** to get Steve Patrick into the studio and finish recording all of Mr. Roehm's lines, and that Alexander hoped to "show our work off at RetroGameCon in Syracuse, NY in October".[^ref-21] No further post had appeared on the Infamous Quests Patreon as of late October 2026. On September 28, 2026, Alexander posted that RetroGameCon in Syracuse was "this weekend and we have a booth!";[^ref-24] no release of *Roehm to Ruin* has been reported since.[^ref-6] In July 2026, Alexander wrote on Bluesky that his desire to work on video games "has been in a waning phase all year,"[^ref-22] and the next day that most of the crew he made games with "have moved on with their lives" and "I find my heart not in it as much as it used to be."[^ref-23]
+Voice recording for the lead character remains the final production milestone before release.[^ref-3] In a January 2026 Patreon update, Alexander said the only remaining task was to record Mr. Roehm's lines with Steve Patrick, edit them and put them in the game, which he hoped to do soon.[^ref-13] An April 4, 2026 follow-up said studio time was **booked for May 2026** to get Steve Patrick into the studio and finish recording all of Mr. Roehm's lines, and that Alexander hoped to "show our work off at RetroGameCon in Syracuse, NY in October".[^ref-21] In July 2026, Alexander wrote on Bluesky that his desire to work on video games "has been in a waning phase all year,"[^ref-22] and on July 22 that most of the crew he made games with "have moved on with their lives" and "I find my heart not in it as much as it used to be."[^ref-23] On September 28, 2026, he posted that RetroGameCon in Syracuse was "this weekend and we have a booth!";[^ref-24] no release of *Roehm to Ruin* has been reported since.[^ref-6] The most recent post on the Infamous Quests Patreon is the April 4, 2026 update, as of November 11, 2026.[^ref-21]
 
 ## Legacy
 
@@ -144,7 +154,7 @@ The Kickstarter campaign for *Roehm to Ruin* and *Order of the Thorne* demonstra
 
 ### Collections
 
-*Roehm to Ruin* is part of the *Quest for Infamy* series, which also includes the original 2014 game.[^ref-1][^ref-2] The game exists within a broader catalog of Infamous Quests releases that includes the *Order of the Thorne* anthology series and the collaborative free game *Serena*.[^ref-2]
+*Roehm to Ruin* is part of the *Quest for Infamy* series, which also includes the original 2014 game.[^ref-1][^ref-2] The game exists within a broader catalog of Infamous Quests releases that includes the *Order of the Thorne* anthology series and the free game *Serena*.[^ref-2]
 
 ### Fan Projects
 
@@ -168,7 +178,7 @@ The King's Quest Omnipedia lists the series among its "King's Quest Style Games"
 - [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) — official itch.io project page, which offers early access to Patreon supporters[^ref-6]
 
 **Purchase / Digital Stores**
-- Not yet released; commercial release remains pending as of October 2026[^ref-6]
+- Not yet released; commercial release remains pending as of November 2026[^ref-6]
 
 ## See Also
 
@@ -193,7 +203,7 @@ The King's Quest Omnipedia lists the series among its "King's Quest Style Games"
 
 ## References
 
-[^ref-1]: Adventure Gamers – Quest for Infamy Series *(Adventure Gamers; site sold in 2025 and now a casino affiliate; no pre-sale archived copy found)* – series overview, prequel description, plot summary
+[^ref-1]: [Adventure Gamers – Quest for Infamy Series](https://web.archive.org/web/20211126062148/https://adventuregamers.com/gameseries/view/28340) *(Wayback snapshot of November 26, 2021, taken before the site's 2025 sale)* – series overview, prequel description, plot summary
 [^ref-2]: [Adventure Gamers – Quest for Infamy: Roehm to Ruin – Game details](https://web.archive.org/web/20211126062122/https://adventuregamers.com/games/view/28341) *(Wayback snapshot of November 26, 2021, taken before the site's 2025 sale)* – developer, platforms (Linux, Mac, PC), plot summary, related Gamescom 2015 article, Infamous Quests catalog
 [^ref-3]: [Infamous Quests Patreon – "Updates on RtR and Fortress of Fire" (October 15, 2025)](https://www.patreon.com/posts/141274312) – development status, voice acting progress, team changes
 [^ref-4]: [Kickstarter – Order of the Thorne & Roehm to Ruin Campaign](https://www.kickstarter.com/projects/infamousquests/order-of-the-thorne-and-roehm-to-ruin-by-infamous) – funding totals, backer count, campaign dates
