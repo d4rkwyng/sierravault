@@ -5,12 +5,12 @@ developer: Sierra On-Line
 designer: [Stephen Nichols, David Slayback]
 publisher: Sierra On-Line
 genre: MMORPG
-platforms: [Windows]
+platforms: [Windows, macOS (beta), Linux (beta)]
 series: Standalone
 engine: Sierra Creative Interpreter (SCI)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 composer: [Chance Thomas]
 description: 'The Realm Online is one of the earliest graphical MMORPGs, launched by
   Sierra On-Line in December 1996 and still online today under Digital Alchemy.'
@@ -18,11 +18,11 @@ tags: [1990s, rpg, sierra, standalone]
 ---
 # The Realm Online
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-The Realm Online stands as one of the pioneering graphical massively multiplayer online role-playing games (MMORPGs) in gaming history, released in December 1996 by Sierra On-Line.[^ref-1] It was among the first online RPGs to overlay graphics on a MUD core,[^ref-30] and the game was, in Ken Williams' words, "a technologic breakthrough for its time."[^ref-3] The game was purposefully designed to support a range of cooperative and adversarial social interactions, from organizing in-game guilds to house theft and pickpocketing,[^ref-1] and Sierra's own magazine praised "The Realm's vast, multinational community."[^ref-22]
+The Realm Online stands as one of the pioneering graphical massively multiplayer online role-playing games (MMORPGs) in gaming history, released in December 1996 by Sierra On-Line.[^ref-1] It was among the first online RPGs to overlay graphics on a MUD core,[^ref-30] and the game was, in [[Ken Williams]]' words, "a technologic breakthrough for its time."[^ref-3] The game was purposefully designed to support a range of cooperative and adversarial social interactions, from organizing in-game guilds to house theft and pickpocketing,[^ref-1] and Sierra's own magazine praised "The Realm's vast, multinational community."[^ref-22]
 
 What makes The Realm Online particularly remarkable is its longevity—it holds the distinction of being the longest running graphical MMORPG of all time, edging out both Tibia and Ultima Online;[^ref-2] as early as 2012 it was described as "one of the longest continuously operating graphical MMOs in existence."[^ref-17] The game is also generally credited as the first MMORPG to use instances, because its battles took place on a separate map outside the open world.[^ref-1][^ref-2] Development began at Sierra's Oakhurst, California facility in 1995.[^ref-1] Despite being mostly remembered as a waypoint for players awaiting Ultima Online and EverQuest, The Realm Online has maintained an active player community through multiple ownership changes spanning nearly three decades.[^ref-2]
 
@@ -31,7 +31,7 @@ What makes The Realm Online particularly remarkable is its longevity—it holds 
 > **Designer:** Stephen Nichols, David Slayback (original concept)[^ref-3][^ref-17]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** Sierra Creative Interpreter (SCI)[^ref-1]
-> **Platforms:** Windows[^ref-1]
+> **Platforms:** Windows; macOS and Linux (beta, since November 2026)[^ref-1][^ref-33]
 > **Release Year:** 1996
 > **Series:** Standalone
 > **Protagonist:** Player-created character
@@ -39,9 +39,9 @@ What makes The Realm Online particularly remarkable is its longevity—it holds 
 
 ## Story Summary
 
-The Realm Online is set in a medieval fantasy world where players create their own characters and forge their own destinies within a persistent online universe. Unlike traditional adventure games with linear narratives, The Realm provides a sandbox environment where players interact with each other and the world to create emergent stories.[^ref-1] The game world features multiple regions and dungeons that players explore while developing their characters through combat, magic, and social interaction.
+The Realm Online is set in a medieval fantasy world where players create their own characters and forge their own destinies within a persistent online universe. Unlike traditional adventure games with linear narratives, The Realm provides a sandbox environment where players interact with each other and the world to create emergent stories.[^ref-1] Players develop their characters through combat, magic, and social interaction in a world of open-world zones and dungeons, among them the Crystal Caverns and The Dig[^ref-6] and the Holy Caves.[^ref-7]
 
-The high-fantasy setting draws on Dungeons & Dragons and The Lord of the Rings; players choose a race (elf, giant, or human) and a class (warrior, adventurer, wizard, or thief).[^ref-1][^ref-4] Players can form guilds and alliances, engage in player-versus-player combat, or work cooperatively to tackle challenging dungeons and monsters. Combat is turn-based.[^ref-1] When players confront each other, their skirmishes are shown as cartoonish fights with "limbs sticking out of a cloud of dust," after which the combatants move to a tactical fighting screen; the winner takes the loser's possessions.[^ref-4]
+The high-fantasy setting draws on Dungeons & Dragons and The Lord of the Rings; players choose a race (elf, giant, or human) and a class (warrior, adventurer, wizard, or thief).[^ref-1][^ref-4] Players can organize in-game guilds[^ref-1] and confront one another in player-versus-player skirmishes.[^ref-4] Combat is turn-based.[^ref-1] When players confront each other, their skirmishes are shown as cartoonish fights with "limbs sticking out of a cloud of dust," after which the combatants move to a tactical fighting screen; the winner takes the loser's possessions.[^ref-4]
 
 Recent content updates have expanded the game's lore significantly. The "Avalon Awoken" update introduced new areas including the Crystal Caverns open world zone and an archaeology-themed dungeon called The Dig.[^ref-6] More recently, the "Crusade Unveiled" content patch opened the Holy Caves, featuring the complex tale of the Righteous Iron Order and battles against cunning new mobs with unique combat strategies.[^ref-7] These ongoing content additions demonstrate the game's continued evolution nearly three decades after its original release.
 
@@ -55,7 +55,7 @@ Characters are created from four classes: warrior, adventurer, wizard, and thief
 
 ### Structure and Progression
 
-The Realm Online employs a level-based progression system. The legacy Despothes Grove server has a level cap of 1000, while Digital Alchemy is rebuilding the Mabon's Gamble server "100 levels at a time," with its latest expansion, Whispers in the Woods, raising the cap to 300.[^ref-9] Character advancement occurs through combat and questing, with players gaining experience and improving their abilities over time. Areas and dungeons named in recent patch notes include:
+The Realm Online employs a level-based progression system. The legacy Despothes Grove server has a level cap of 1000, while Digital Alchemy is rebuilding the Mabon's Gamble server "100 levels at a time," while its Whispers in the Woods expansion patch of 6 March 2026, which added the Zenders Woods and Devon Forest zones, the town of Wen and four new dungeons, raised the cap to 300.[^ref-9][^ref-31] Character advancement occurs through combat and questing, with players gaining experience and improving their abilities over time. Areas and dungeons named in recent patch notes include:
 
 - **Leinster:** Town whose outskirts hosted Mabon's Gamble's first Easter egg hunt (2024)[^ref-7]
 - **Crystal Caverns:** Open world exploration zone added in the Avalon Awoken update[^ref-6]
@@ -82,7 +82,7 @@ Whatever its critical standing, the game built a sizeable subscriber base in its
 
 Modern perspectives on The Realm Online tend to view it through a historical lens, recognizing its notable contributions to the genre while acknowledging its limitations by contemporary standards. TV Tropes describes it as "mostly remembered as a waypoint for players awaiting Ultima Online and EverQuest," suggesting its role as a stepping stone in MMORPG evolution.[^ref-2] One Reddit user recalled: "Think that was my first 'mmorpg' game I played. Got me used to questing on pc and the grind. Well, until EQ came out."[^ref-10]
 
-The game has maintained a dedicated player base despite declining numbers over the years. By 2004, active accounts had dropped to approximately 6,000, and by 2008, the game typically saw 100-200 players during peak hours.[^ref-1][^ref-28] In June 2018, after the relaunch, one forum poster reported "a stead[y] flow" of about 200 players daily.[^ref-11]
+The game has maintained a dedicated player base despite declining numbers over the years. Wikipedia, citing Electronic Gaming Business (August 25, 2004), says subscriptions dropped to 6,000 accounts by 2004,[^ref-1] and by 2008 the game typically saw 100-200 players during peak hours.[^ref-28] In June 2018, after the relaunch, one forum poster reported "a stead[y] flow" of about 200 players daily.[^ref-11]
 
 **Aggregate Scores:**
 - **MobyGames:** 40% critic score (1 review); players 3.1/5 (4 ratings)[^ref-4]
@@ -97,7 +97,7 @@ Ken Williams recalled that the game "was designed by David Slaybeck, who was als
 
 ### Production
 
-Development was not without challenges. Ken Williams recalled that Slayback had "some sort of medical problem (a brain tumor?)" partway through development, causing "a lot of confusion and delays";[^ref-12] Wikipedia, citing a 2014 dissertation, instead says he left in 1996 over the game's emphasis on violence.[^ref-1] Following Slayback's departure in 1996, development continued under Stephen Nichols and Janus Anderson, with Nichols eventually becoming the designer credited on the final product.[^ref-1][^ref-3][^ref-4] A December 1999 Codemasters press release calls Nichols "the game's original designer and system architect," who after three years creating online games for TSN "began directing the design and creating The Realm's server and client infrastructure."[^ref-27]
+Development was not without challenges. Ken Williams recalled that the project saw "a lot of confusion and delays" partway through development;[^ref-12] Wikipedia, citing a 2014 dissertation, says Slayback left in 1996 over the game's emphasis on violence.[^ref-1] Following Slayback's departure in 1996, development continued under Stephen Nichols and Janus Anderson, with Nichols eventually becoming the designer credited on the final product.[^ref-1][^ref-3][^ref-4] A December 1999 Codemasters press release calls Nichols "the game's original designer and system architect," who after three years creating online games for TSN "began directing the design and creating The Realm's server and client infrastructure."[^ref-27]
 
 Slayback and Nichols had previously worked on The Sierra Network (TSN), Sierra's online gaming service, later renamed the ImagiNation Network and sold to AT&T and then AOL.[^ref-12][^ref-17] According to Wikipedia, The Realm was greenlit in 1994 during negotiations to sell INN to AT&T, with the expectation it would be included, but INN dropped it because it saw The Realm as a competitor to its planned CyberPark.[^ref-1]
 
@@ -112,9 +112,11 @@ After Sierra's management changed, Lori Cole recalled, she "was approached by th
 - **Interface Art Designer:** Terry Robinson
 - **Art:** Linda Lubken, Mike Cicchi, Deanna Yhalkee, Tim Loucks, Dan Peters, Scott Multer, Al Eufrasio, Ananda Linde, Robin Phanco, Jason Piel, Barry T. Smith, Clayton Larabie, Michael Hutchison, Christopher Willis
 - **Music:** Victor Crews, Dan Kehler
-- **Writing:** Leslie Balfour, Nancy Grimsley
+- **Writing:** [[Leslie Balfour]], Nancy Grimsley
 - **Composer:** Chance Thomas[^ref-1]
 - **In-world map:** Richard Powell, who drew the map as the in-game cartographer "Ricky Paulo" and had worked on Space Quest, Lighthouse, Gabriel Knight 2 and Outpost 2[^ref-23]
+
+**MobyGames credits** (read via the MobyGames API):[^ref-4] Executive Producers [[Ken Williams]] and Craig Alexander; Producer Mark Zechiel; Art Director Linda Lubken; Designer and System Architect Stephen Nichols; and Assistant Designer and Programmer Janus Anderson. MobyGames also credits [[Leslie Balfour]] as writer.
 
 **Later-era contributors:** Jordan Neville, a member of Rat Labs LLC, which acquired the rights to develop and maintain the game in the late 2010s, was not part of the Sierra-era team; Wikipedia's infobox also lists him as a designer, which is not supported by the original credit roll.[^ref-30][^ref-3]
 
@@ -129,18 +131,19 @@ A key technical consideration was accommodating the limitations of mid-1990s int
 ### Technical Specifications
 
 **System Requirements** (1997-98):[^ref-22][^ref-21]
-- **Platform:** Windows 95
+- **Platform:** Windows 95 (1997-98); native macOS and Linux beta clients were released in November 2026[^ref-33]
 - **Processor/RAM:** Pentium 90 or better, 16 MB RAM[^ref-22]
 - **Disk/Network:** 20 MB hard-drive space, TCP/IP Internet connection, mouse[^ref-21]
 - **Graphics:** 2D cel-animation style, side view[^ref-4][^ref-17]
 - **Combat:** Turn-based
 - **Media:** Retail CD; demo CD with a free 30-day trial[^ref-21]
-- **Subscription:** Launched on an annual fee of about $49.95;[^ref-26] about $4.95-4.99/month from about 1999-2001;[^ref-19][^ref-3] $6.99/month under Norseman (2006)[^ref-3]
+- **Subscription:** Launched on an annual fee of about $49.95;[^ref-26] about $4.95-4.99/month from about 1999-2001;[^ref-19][^ref-3] $6.99/month under Norseman (2006);[^ref-3] as of November 2026 the official FAQ lists $4.49 per month, $12.74 per 3 months, $23.99 per 6 months and $44.99 per year[^ref-18]
 
 **Server Infrastructure:**[^ref-9]
 - **Current Servers:** Despothes Grove (legacy, free to play), Mabon's Gamble (active development, subscription), Enids Haven (a "Fresh Start" server with Despothes Grove rules, available to Mabon's Gamble subscribers)[^ref-18]
 - **Maximum Level:** 1000 (Despothes Grove); 300 (Mabon's Gamble, after Whispers in the Woods)
 - **Launcher:** Digital Alchemy Launcher (current)
+- **Client:** the rebuilt client released 30 March 2026 lifts the old 16-bit limit of 65,535 objects to over one million[^ref-32]
 
 ### Cut Content
 
@@ -155,17 +158,20 @@ Additionally, Ken Williams wrote in 2003, "I think that after the sale, AT&T mad
 | Beta | 1996 | Windows | Beta applications invited in Spring 1996;[^ref-24] still "in beta test on the web" in August 1996[^ref-20] |
 | 1.0 | December 1996 | Windows | Initial launch[^ref-1]; MobyGames lists May 1997[^ref-4] |
 | Paid Subscriptions | 1997 | Windows | Sierra began offering paid subscriptions[^ref-1] |
-| 2.x | Unknown | Windows | Recalled by collectors as "the Sierra 2x CD"[^ref-11] |
+| 2.x | Unknown | Windows | Recalled by collectors as "the Sierra 2x CD";[^ref-11] Nichols later said the 2.x to 3.x upgrade forced "a limited character wipe"[^ref-34] |
 | 3.0 | By 1998 | Windows | Sierra release version 3.0;[^ref-14] Yosemite fact sheet: "Version 3.0 Available Now"[^ref-26] |
 | Avalon Awoken | 2019 | Windows | Major content update with Crystal Caverns, The Dig[^ref-6] |
 | Crusade Unveiled | Feb 2024 | Windows | Holy Caves content[^ref-7] |
+| Whispers in the Woods | 6 Mar 2026 | Windows | Expansion patch: Zenders Woods, Devon Forest, town of Wen, four dungeons, level cap 300[^ref-31] |
+| Client rebuild | 30 Mar 2026 | Windows | New client officially released; object limit raised from 65,535 to over one million[^ref-32] |
+| Cross-platform beta | Nov 2026 | macOS, Linux | Native macOS and Linux launcher and client in beta[^ref-33] |
 
 **Engine Information:**[^ref-1][^ref-4]
 The game was built on a modified version of Sierra's Creative Interpreter (SCI) engine, the same technology powering Sierra's adventure games.[^ref-17] A C++ rewrite Ken Williams recalled seeing is not known to have shipped.[^ref-3][^ref-12]
 
 ### Technical Issues
 
-The game has experienced various technical issues throughout its long operational history. Patch notes from January–February 2024 record fixes for:[^ref-7]
+Patch notes from January–February 2024 record fixes for:[^ref-7]
 
 - Server crashes when looking at the character state window
 - Client crashes after being pickpocketed
@@ -197,7 +203,7 @@ The Realm Online built a sizeable early following: Sierra reported over 15,000 s
 
 The game launched on an annual fee: Yosemite's fact sheet lists "US $49.95/year (ISP charges apply)" and "a one-time annual fee versus monthly charges,"[^ref-26] in line with InterAction's $49.95 list price for the Windows 95 CD[^ref-22] and PC Gamer's "year-long membership for $50."[^ref-21] By 2001 PC Zone listed "£4.99 (US$4.95 per month)."[^ref-19] A 2006 player post recalled "$4.99 per month or $50 per year" around 1999 and a rise under Norseman to "$6.99/month or $70 a year,"[^ref-3] a 2008 blog likewise cites $6.99 a month,[^ref-28] and Atlas Obscura reported $7.99 a month in 2016.[^ref-29]
 
-However, the game struggled to maintain its player base as competition emerged. By 2004, active accounts had declined to approximately 6,000, and by 2008, typical peak concurrent users numbered only 100-200.[^ref-1] Norseman Games bought the game in 2003 with "a few hundred thousand dollars from a family trust"; at the time the average player count was "around 200, down from its heyday of around 3,000," according to Atlas Obscura.[^ref-29] Asked about the game in 2003, Ken Williams admitted he "had completely forgotten The Realm. Strange – it was one of the greatest things we ever did."[^ref-12]
+However, the game struggled to maintain its player base as competition emerged. Wikipedia, citing Electronic Gaming Business (August 25, 2004), says subscriptions dropped to 6,000 accounts by 2004, and by 2008 typical peak concurrent users numbered only 100-200.[^ref-1][^ref-28] Norseman Games bought the game in 2003 with "a few hundred thousand dollars from a family trust"; at the time the average player count was "around 200, down from its heyday of around 3,000," according to Atlas Obscura.[^ref-29] Asked about the game in 2003, Ken Williams admitted he "had completely forgotten The Realm. Strange – it was one of the greatest things we ever did."[^ref-12]
 
 ### Ownership History
 
@@ -221,6 +227,10 @@ Recent community efforts include:[^ref-6][^ref-7]
 - An officially licensed private server called Mist Walkers
 - Consideration of a mobile browser version for future development[^ref-6]
 
+### Collections
+
+MobyGames lists The Realm as included in the On-Line Games Collection Series (1997).[^ref-4]
+
 ### Related Publications
 
 - **The Realm Official Player's Guide:** Published by Sierra On-Line in 1997, 160 pages, paperback (ISBN: 087177514X)[^ref-15]
@@ -229,9 +239,9 @@ Recent community efforts include:[^ref-6][^ref-7]
 
 The Realm Online occupies a unique position in gaming history as both a pioneer and a footnote. It is credited as the first virtual world to use instances,[^ref-1] and Engadget's Justin Olivetti wrote that it "helped to forge a path to the brave new world of MMOs,"[^ref-17] yet it never achieved the cultural impact of later titles like Ultima Online, EverQuest, or World of Warcraft. TV Tropes' assessment that it was "mostly remembered as a waypoint for players awaiting Ultima Online and EverQuest" captures its historical role accurately.[^ref-2]
 
-What makes The Realm Online remarkable is not its commercial success but its survival. The game's continuous operation for nearly three decades, through multiple ownership changes, speaks to the dedication of its community and the fundamental appeal of its design. The low technical requirements that were a necessity in 1996 became an advantage for preservation, allowing the game to remain accessible even as computing technology advanced exponentially.[^ref-2]
+What makes The Realm Online remarkable is not its commercial success but its survival. The game's continuous operation for nearly three decades has passed through multiple ownership changes. TV Tropes notes that it "prides itself on its low requirements and friendliness to those with dial-up or otherwise poor connections."[^ref-2]
 
-The game also represents an important cautionary tale about the challenges of developing online services. Ken Williams' observation that it "needed an engineer to lead it more than a creative person, as every design detail had network ramifications" highlights the fundamental tension between creative vision and technical constraints that continues to challenge MMORPG development today.[^ref-3] The abandoned "World of Quest for Glory" initiative similarly demonstrates how corporate priorities and development realities can derail even promising concepts.[^ref-13]
+Ken Williams later said the game "needed an engineer to lead it more than a creative person, as every design detail had network ramifications."[^ref-3] The abandoned "World of Quest for Glory" branding initiative is described in the Cut Content section above.[^ref-13]
 
 ## Purchase
 
@@ -288,3 +298,7 @@ The game also represents an important cautionary tale about the challenges of de
 [^ref-28]: [Geeks Are Sexy – RPG Nostalgia: The Realm (2008)](http://www.geeksaresexy.net/2008/11/17/rpg-nostalgia-the-realm/) – Accounts down "from about 25,000 at its peak to about 3,000"; 100-200 players at peak hours; $6.99 a month
 [^ref-29]: [Atlas Obscura – It's a Mystery Who's Running One of the Oldest Multi-Player Online Fantasy Games (2016)](https://www.atlasobscura.com/articles/its-a-mystery-whos-running-one-of-the-oldest-multiplayer-online-fantasy-games) – Norseman Games' 2003 purchase, family trust funding, ~200 players versus a ~3,000 heyday, $7.99 a month
 [^ref-30]: [Massively OP – The Game Archaeologist: The rebirth of The Realm Online (2018)](https://massivelyop.com/2018/06/02/the-game-archaeologist-the-rebirth-of-the-realm-online/) – "overlay graphics on top of its MUD core"; Jordan Neville of Rat Labs LLC, which acquired the rights
+[^ref-31]: [The Realm Server – What's New (page 8)](https://www.realmserver.com/whats-new/page/8) – "Mabons Gamble: Whispers in the woods", posted Mar 6; "Expansion Patch Notes - 3-6-2026": Zenders Woods, Devon Forest, town of Wen, 4 new dungeons, "Level cap increased to 300"
+[^ref-32]: [The Realm Server – A Royal Decree from the Arcanum of Digital Alchemy (30 Mar 2026)](https://www.realmserver.com/post/a-royal-decree-from-the-arcanum-of-digital-alchemy) – new client released officially; object limit "65,535 objects" raised to "over one million"
+[^ref-33]: [The Realm Server – Cross-Platform Client & Launcher – Beta Release! (10 Nov 2026)](https://www.realmserver.com/post/cross-platform-client-launcher-beta-release) – "cross-platform launcher and client are now available in BETA for macOS and Linux"
+[^ref-34]: [Engadget – The Game Archaeologist: Steve Nichols' The Realm Online debriefing, part 2 (2012)](https://www.engadget.com/2012-12-01-the-game-archaeologist-steve-nichols-the-realm-online-debriefi.html) – Nichols on the version 2.x to 3.x upgrade and "a limited character wipe"
