@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: Player
 sierra_lineage: Core Sierra
-last_updated: '2026-10-29'
+last_updated: '2026-11-11'
 composer: [Guy Whitmore]
 description: Power Chess 98 is an updated version of the original Power Chess, released
   by Sierra On-Line in November 1997 for Windows 95 and Windows 98, with a humanlike adaptive King and a commentating Queen.
@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 98
 
-<small style="color: gray">Last updated: October 29, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ New to Power Chess 98 was "Crack the King," billed on the box as a chance to "so
 
 The core mechanics revolve around standard chess rules with several educational enhancements:
 
-- **Adaptive AI:** The King adjusts his playing strength during games to match the player's ability[^ref-2]
+- **Adaptive AI:** The King adjusts his play to the player's level; as the player's Power Chess rating increases, his play becomes stronger[^ref-11]
 - **Post-Game Analysis:** The Queen provides spoken commentary replaying each game against the King[^ref-3][^ref-11]
 - **Chess Lab:** A feature allowing players to experiment with game variations and explore alternative lines of play[^ref-13]
 - **Custom Opponents:** Players can create custom AI opponents with different personality traits and playing styles[^ref-10]
@@ -106,13 +106,17 @@ A French retrospective of the original Power Chess from Abandonware France decla
 
 ## Development
 
+### Origins
+
+Power Chess 98 was one of the later revisions of Sierra's Power Chess, which was originally released in September 1996 for Windows 95[^ref-2]. Sierra's InterAction magazine presented it as the Power Chess team's follow-up to the original, "packed with new hard-core features"[^ref-26].
+
 ### Chess Engine
 
 The WChess engine by David Kittinger had drawn attention at the Fifth Harvard Cup in October 1994, where it scored an undefeated 5–1 against six American grandmasters, with four wins and two draws[^ref-27]. The engine also competed in the 1995 World Computer Championship against IBM's Deep Blue[^ref-2].
 
 ### Production
 
-Sierra's InterAction magazine presented Power Chess 98 as the Power Chess team's follow-up to the original, "packed with new hard-core features" and shipping on two CDs[^ref-26]. GameSpot reported Sierra's claim that the King's "mood" changes during a match based on a range of positional variables and on how he perceives them[^ref-11]; the box copy says Sierra fine-tunes the King's "engine" while the player is playing him[^ref-3]. Technically, the game runs two DOS chess engines, KING.EXE and QUEEN.EXE, that communicate with the graphical Windows front end through pipes[^ref-25].
+Power Chess 98 shipped on two CDs[^ref-26]. GameSpot reported Sierra's claim that the King's "mood" changes during a match based on a range of positional variables and on how he perceives them[^ref-11]; the box copy says Sierra fine-tunes the King's "engine" while the player is playing him[^ref-3]. Technically, the game runs two DOS chess engines, KING.EXE and QUEEN.EXE, that communicate with the graphical Windows front end through pipes[^ref-25].
 
 **Development Credits:**[^ref-1]
 - **Designed and Directed by:** Elon Gasper
@@ -122,9 +126,17 @@ Sierra's InterAction magazine presented Power Chess 98 as the Power Chess team's
 - **Composer:** Guy Whitmore
 - **Chess Engine:** David Kittinger (WChess)[^ref-8]
 
+### Voice Cast
+
+| Character | Voice Actor |
+|-----------|-------------|
+| Power Chess Queen | Natacha LaFerrière[^ref-1][^ref-2] |
+
+Natacha LaFerrière provided voice work for the Queen character in both English and French[^ref-2]. The Queen delivers post-game analysis and move commentary throughout the player's experience[^ref-3].
+
 ### Technical Achievements
 
-Wikipedia notes that the program would adjust its level during the game to try to match the player's, presaging the "Friend Mode" of ChessBase's Fritz[^ref-2]. The Queen's post-game analysis is spoken aloud, with squares highlighted and pieces moved on the board to illustrate her comments[^ref-3].
+Wikipedia notes that the program would adjust its level from game to game to try to match the player's, presaging the "Friend Mode" of ChessBase's Fritz[^ref-2]. GameSpot likewise reported that the King adjusts his play to the player's level, and that Sierra claimed his "mood" changes throughout the course of a match[^ref-11]. The Queen's post-game analysis is spoken aloud, with squares highlighted and pieces moved on the board to illustrate her comments[^ref-3].
 
 The game's front end used WinG, the graphics API of the Windows 3.1x era, for display, while using DirectSound for audio[^ref-7].
 
@@ -155,7 +167,7 @@ The game's front end used WinG, the graphics API of the Windows 3.1x era, for di
 
 Some databases list a later date of November 30, 1998 for Power Chess 98[^ref-16][^ref-23][^ref-24], but MobyGames, The Sierra Chest and Sierra's own Holiday 1997 InterAction coverage place its release in November 1997[^ref-1][^ref-22][^ref-26].
 
-The original Power Chess (rather than Power Chess 98) was included as the "intermediate" title in Sierra's Complete Chess compilation in 1998[^ref-2].
+Power Chess was included as the "intermediate" title in Sierra's Complete Chess compilation in 1998[^ref-2][^ref-28][^ref-29].
 
 ### Technical Issues
 
@@ -174,14 +186,6 @@ Two routes are now documented. Emulation works: Abandonware France recommends PC
 - The game includes narrated reviews of famous historical chess games[^ref-2]
 - The box carries a quote from Grandmaster Yasser Seirawan: "Extraordinary- impressive and powerful- I loved it!"[^ref-3]
 
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Power Chess Queen | Natacha LaFerrière[^ref-1][^ref-2] |
-
-Natacha LaFerrière provided voice work for the Queen character in both English and French[^ref-2]. The Queen delivers post-game analysis and move commentary throughout the player's experience[^ref-3].
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -192,7 +196,7 @@ The Power Chess series ran to three versions: the original Power Chess (1996), P
 
 ### Collections
 
-The original Power Chess was included in Sierra's Complete Chess compilation released in 1998, alongside Maurice Ashley Teaches Chess and Extreme Chess[^ref-2].
+Power Chess was included in Sierra's Complete Chess compilation in 1998, alongside Maurice Ashley Teaches Chess and Extreme Chess[^ref-2]. Sierra's InterAction magazine described Complete Chess as "three, full-version chess titles bundled in one package" for novice, intermediate and advanced players, with Power Chess as the intermediate title[^ref-29]; PC PowerPlay (February 1999) likewise called Power Chess the intermediate level[^ref-28].
 
 ### Fan Projects
 
@@ -211,25 +215,25 @@ Power Chess 98 tried to address a long-standing problem with computer chess: opp
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG
+- Not currently available on GOG (as of November 2026)[^ref-30]
 - Not currently available on Steam[^ref-21]
 
 **Download / Preservation**
 - [Internet Archive – Power Chess 98 USA](https://archive.org/details/powerchess98usa)[^ref-10]
 
 **Patches & Compatibility**
-- [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html)[^ref-18]
+- [Sierra Help – Power Chess Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html)[^ref-18]
 - [pchess – unofficial patch for newer Windows (GitHub)](https://github.com/leecher1337/pchess)[^ref-25]
 
 ## See Also
 
-- [[1996 - Power Chess]]
-- [[1999 - Power Chess 2.0]]
+- **Previous:** [[1996 - Power Chess]]
+- **Next:** [[1999 - Power Chess 2.0]]
 
 ## References
 
 [^ref-1]: [MobyGames – Power Chess 98](https://www.mobygames.com/game/38740/power-chess-98/) – developer, publisher, release date, credits, ratings
-[^ref-2]: [Wikipedia – Power Chess 98](https://en.wikipedia.org/wiki/Power_Chess_98) – release dates, engine, voice cast, awards, Friend Mode comparison, Complete Chess
+[^ref-2]: [Wikipedia – Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – article on the original Power Chess and its revisions (Power Chess 98 redirects here): release dates, engine, voice cast, awards, Friend Mode comparison, Complete Chess
 [^ref-3]: [Elisoftware – Power Chess 98 Product Information](http://elisoftware.org/w/index.php/Power_Chess_98_(PC,_CD-ROM)_Sierra_-_1997_USA,_Canada_Release) – box copy, marketing quotes, new features, system requirements
 [^ref-4]: [Amazon – Power Chess 98 Customer Reviews](https://www.amazon.com/Power-Chess-98-PC/dp/B0008ELX5O) – user ratings, customer reviews, package details
 [^ref-5]: [Chess.com Forum – Does Anyone Remember This Chess Software](https://www.chess.com/forum/view/chess-equipment/does-anyone-remember-this-chess-software) – player recollections
@@ -245,7 +249,7 @@ Power Chess 98 tried to address a long-standing problem with computer chess: opp
 [^ref-15]: [Web Archive – CD-MAG 1996 Awards](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – Strategy Plus Traditional Game award
 [^ref-16]: [GameFAQs – Power Chess 98](https://gamefaqs.gamespot.com/pc/89745-power-chess-98) – user ratings, listed release date
 [^ref-17]: [MobyGames – Power Chess 98 Tech Specs](https://www.mobygames.com/game/38740/power-chess-98/specs/windows/) – system requirements, multiplayer options
-[^ref-18]: [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html) – patch versions, file sizes
+[^ref-18]: [Sierra Help – Power Chess Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html) – patch versions, file sizes
 [^ref-19]: [SourceForge – DXWnd Power Chess Discussion](https://sourceforge.net/p/dxwnd/discussion/general/thread/98dd46dfc6/) – technical architecture, compatibility issues
 [^ref-20]: [TalkChess Forum – Power Chess Compatibility](https://talkchess.com/viewtopic.php?t=80784) – official and unofficial patch route for Power Chess 98; PCem emulation report for the original 1996 Power Chess
 [^ref-21]: No Steam listing found (Steam store search, checked October 29, 2026) – game not available on platform
@@ -255,3 +259,6 @@ Power Chess 98 tried to address a long-standing problem with computer chess: opp
 [^ref-25]: [GitHub – leecher1337/pchess](https://github.com/leecher1337/pchess) – unofficial patch; DOS engine/pipe architecture; tested Windows versions
 [^ref-26]: [InterAction Magazine – Holiday 1997 (Internet Archive)](https://archive.org/details/inter-action-issue-33-holiday-1997) – "Power Chess '98: Smarter & Stronger", p. 10: upgrade price, two CDs, new features, Crack the King contest, Computer Games Strategy Plus four-star rating of the original
 [^ref-27]: [Danny Kopec – The Fifth Harvard Cup Human Versus Computer Intel Chess Challenge (1994 report, Wayback copy)](https://web.archive.org/web/20240712170637/http://spider.sci.brooklyn.cuny.edu/~kopec/Publications/Publications/O_6_C.pdf) – WChess's "undefeated 5-1 score (four wins, two draws)", Boston, October 1-2, 1994
+[^ref-28]: [PC PowerPlay – Sierra's Complete Chess (Issue 33, February 1999, p. 113; Internet Archive)](https://archive.org/details/PCPowerplay-033-1999-02) – Power Chess described as the intermediate level of Complete Chess
+[^ref-29]: [InterAction Magazine – Holiday 1998 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Holiday_1998_1998_Sierra_On-Line_US) – p. 18: Complete Chess bundles Maurice Ashley Teaches Chess, Power Chess and Extreme Chess for novice, intermediate and advanced players
+[^ref-30]: No GOG listing found (GOG catalog search for "chess" and "power chess", checked November 2026) – game not available on platform
