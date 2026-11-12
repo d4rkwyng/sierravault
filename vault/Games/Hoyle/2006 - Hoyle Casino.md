@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-06'
+last_updated: '2026-11-12'
 description: Hoyle Casino 2006 is a casino simulation for Windows PC, released in
   the US on September 27, 2005 by Encore Software, with more than 500 variants of
   16 casino games.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2006
 
-<small style="color: gray">Last updated: November 6, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -47,6 +47,8 @@ As a casino simulation, Hoyle Casino 2006 has no narrative storyline. The Hoyle 
 
 Players move between the casino's games and wager virtual money rather than real stakes[^ref-4]. An official rulebook is included with the game[^ref-1][^ref-16]. Encore's product copy credits the game with "attention to rules, and a simple interface" aimed at both novice and expert computer users[^ref-18][^ref-20]. Detailed documentation of this edition's interface was not found in available sources.
 
+Game Over Online's review says players create their own persona and are "given five thousand dollars to start off", after which they can play any game against AI competitors or alone against the dealer where applicable[^ref-26]. The AI competitors "each come with their own little story", such as a bride spending her night out by herself and an aspiring country singer, and occasionally interject comments during play[^ref-26]. The review also notes that the game "divides its tables up by wager size ($5-$25, $5-unlimited, etc.) and also offers tournament versions of some games"[^ref-26]. GameZone's reviewer adds that players can choose a happy or sad icon next to an opponent to "chat back", and that an in-game help file, game advice for practice games and game statistics are included[^ref-28].
+
 ### Structure and Progression
 
 Metacritic's product description lists more than 500 variants across 16 casino games[^ref-5]; GameSpot's game page carries the same 16-game list[^ref-22]:
@@ -68,17 +70,17 @@ Metacritic's product description lists more than 500 variants across 16 casino g
 - Video Blackjack
 - Video Poker
 
-The publisher's own product pages give a different list. Encore's site and its Hoyle site repeat the "over 500 variations of 16" blurb but then name 20 games: the list above minus the separate Poker and "Slots and Video Slots" entries (Encore lists Slots), plus Texas Hold 'Em, Fortune Pai-Gow Poker, Royal Match 21, Solitaire and Spades[^ref-18][^ref-20]. The sources do not explain the gap between the stated 16 and the 20 named.
+The publisher's own product pages give a different list. Encore's site and its Hoyle site repeat the "over 500 variations of 16" blurb but then name 20 games: the list above minus the separate Poker and "Slots and Video Slots" entries (Encore lists Slots), plus Texas Hold 'Em, Fortune Pai-Gow Poker, Royal Match 21, Solitaire and Spades[^ref-18][^ref-20]. GameZone's August 2005 review gives a third figure, counting "a total of 18, versus the 16 offered previously"; it describes Royal Match 21 as a version of Blackjack, Big Raise Hold'em as a variant of Texas Hold'em and Fortune Pai Gow as a variant of Pai Gow, and says Four Card Poker is new to the main lineup[^ref-28]. The sources do not explain the gap between the stated 16, the 18 counted by GameZone and the 20 named by Encore.
 
 ### Puzzles and Mechanics
 
-Hoyle Casino 2006 has no traditional puzzles; play consists of the casino games listed above[^ref-5]. Texas Hold'em is among the games named in GameFAQs' product description[^ref-16] and heads Encore's own game list[^ref-18].
+Hoyle Casino 2006 has no traditional puzzles; play consists of the casino games listed above[^ref-5]. Texas Hold'em is among the games named in GameFAQs' product description[^ref-16] and heads Encore's own game list[^ref-18]. Game Over Online calls the card games and more traditional casino fare the game's strength and the horse racing its weakest part, "simply a fixed race of the same mechanical horses over and over again"[^ref-26].
 
 ## Reception
 
 ### Contemporary Reviews
 
-Game Over Online reviewed the game: Lawrence Wong's review, dated October 10, 2005, gave it 65% and judged that "Hoyle Casino 2006 is decent at everything but master of none"[^ref-26]. He credited the persona creation ("customizable portraits and voice") as a traditional Hoyle feature and said the included tutorials "do a good job in explaining the mechanics but aren't really guides to gambling success", while noting that "Notably missing in the game is some functionality to connect online"[^ref-26]. IGN lists the game without a review score ("NR")[^ref-8], GameSpot gave it no score of its own ("No Rating")[^ref-22], and Metacritic shows no critic reviews or aggregated score ("tbd")[^ref-3]. GameSpot's archived page showed a user score of 7.7 from 54 votes[^ref-22]. Its single player review, posted by user BAMFactor on July 16, 2006 with a 9.0, called it "The only casino game out so far that gets it right. A dizzying selection of casino games and excellent instruction."[^ref-23] On GameFAQs, the game's user product rating is "Flawless", based on a single rating[^ref-1].
+Game Over Online reviewed the game: Lawrence Wong's review, dated October 10, 2005, gave it 65% and judged that "Hoyle Casino 2006 is decent at everything but master of none"[^ref-26]. He credited the persona creation ("customizable portraits and voice") as a traditional Hoyle feature and said the included tutorials "do a good job in explaining the mechanics but aren't really guides to gambling success", while noting that "Notably missing in the game is some functionality to connect online"[^ref-26]. IGN lists the game without a review score ("NR")[^ref-8], GameSpot gave it no score of its own ("No Rating")[^ref-22], and Metacritic shows no critic reviews or aggregated score ("tbd")[^ref-3]. GameSpot's archived page showed a user score of 7.7 from 54 votes[^ref-22]. Its single player review, posted by user BAMFactor on July 16, 2006 with a 9.0, called it "The only casino game out so far that gets it right. A dizzying selection of casino games and excellent instruction."[^ref-23] GameZone's review of August 22, 2005 gave it 7.5 ("Good") overall, with Gameplay 8.0, Graphics 7.0, Sound 7.0 and Concept 7.0, and a Difficulty rating of "Medium"[^ref-28]. It judged the Hoyle games "a lot of bang for the buck" but found "not enough in the way of new content to justify releasing a new version every year", advising owners of the 2004 or 3D edition against the $30 upgrade[^ref-28]. On GameFAQs, the game's user product rating is "Flawless", based on a single rating[^ref-1].
 
 ### Modern Assessment
 
@@ -86,6 +88,7 @@ No retrospective critical assessment of Hoyle Casino 2006 was located in availab
 
 **Aggregate Scores:**
 - **Game Over Online:** 65% (Lawrence Wong, October 10, 2005)[^ref-26]
+- **GameZone:** 7.5 "Good" (August 22, 2005)[^ref-28]
 - **Metacritic:** No score available (tbd)[^ref-3]
 - **IGN:** Not rated (NR)[^ref-8]
 - **GameSpot:** No Rating; user score 7.7 (54 votes)[^ref-22]
@@ -129,6 +132,7 @@ No information regarding cut content or removed features is available in researc
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Initial Release | September 27, 2005 | Windows PC | US retail release, Encore Software[^ref-1][^ref-16] |
+| Review | August 22, 2005 | Windows PC | Date of GameZone's review of the game[^ref-28] |
 | Alternate Date | August 10, 2005 | Windows PC | Initial release date listed by IGN[^ref-8] |
 | Amazon listing | August 1, 2005 | Windows PC | Amazon.com "Date First Available" (a catalog date, not necessarily a release date); manufacturer Encore Software, item model number 20586[^ref-27] |
 | Trial | By December 2006 (archived) | Windows PC | Encore's Hoyle site offered a 60-minute full-featured trial (412 MB download), with the full version at $19.99[^ref-20] |
@@ -185,12 +189,13 @@ No notable fan projects, modifications, or community developments have been docu
 
 ### Critical Perspective
 
-Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software after publication of the Hoyle Casino series moved to Encore[^ref-4][^ref-6][^ref-25]. IGDB's similar-games list for it includes Hoyle Casino 2007, Hoyle Casino 2008, Hoyle Casino 3D and several Hoyle Card Games editions[^ref-9].
+Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software after publication of the Hoyle Casino series moved to Encore[^ref-4][^ref-6][^ref-25]. IGDB's similar-games list for it includes Hoyle Casino 2008, Hoyle Casino 2007, Hoyle Casino 3D, Hoyle Card Games 2008, 2005, 2002 and 2004, Hoyle Blackjack Series and Hoyle Blackjack[^ref-9].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- No verified current digital storefront listing was located
+- No Steam or GOG listing (checked November 2026)
+- GOG Dreamlist: [Hoyle Casino 2006 on the GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino-2006)[^ref-29]
 - Physical copies may be found through retro retailers
 
 **Download / Preservation**
@@ -203,6 +208,7 @@ Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software afte
 
 - [[2005 - Hoyle Texas Hold Em|← Previous: Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Miami Solitaire|→ Next: Hoyle Miami Solitaire]]
+- [[Hoyle Series]]
 
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
@@ -243,11 +249,11 @@ Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software afte
 - [[2004 - Hoyle Casino]]
 - [[2004 - Hoyle Puzzle Games]]
 - [[2004 - Hoyle Table Games]]
+- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2005 - Hoyle Board Games]]
 - [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Casino 3D]]
 - [[2005 - Hoyle Poker Series]]
-- [[2004 - Hoyle Puzzle and Board Games 2005]]
 - [[2007 - Hoyle Card Games 2008]]
 - [[2007 - Hoyle Casino]]
 - [[2007 - Hoyle Casino 2008]]
@@ -266,7 +272,7 @@ Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software afte
 [^ref-5]: [Metacritic – Hoyle Casino 2006 Details](https://www.metacritic.com/game/hoyle-casino-2006/details/) – game variants count, casino game list
 [^ref-6]: [ESRB – Hoyle Casino 2006](https://www.esrb.org/ratings/20170/hoyle-casino-2006/) – official rating, content descriptors, publisher, platform
 [^ref-8]: [IGN – Hoyle Casino [2006]](https://www.ign.com/games/hoyle-casino-2006) – initial release date, publisher, summary, NR rating status
-[^ref-9]: [IGDB – Hoyle Casino 2006 Similar Games](https://www.igdb.com/games/hoyle-casino-2006/similar) – related Hoyle games
+[^ref-9]: [IGDB – Hoyle Casino 2006 Similar Games](https://www.igdb.com/games/hoyle-casino-2006/similar) – related Hoyle games (similar list: Hoyle Casino 2008/2007/3D, Hoyle Card Games 2008/2005/2002/2004, Hoyle Blackjack Series, Hoyle Blackjack)
 [^ref-16]: [GameFAQs – Hoyle Casino 2006 Release Data](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006/data) – US release 09/27/05, Encore Software, UPC 705381100485, ESRB descriptors, product description
 [^ref-17]: [GameSpy – Hoyle Casino [2005] (archived)](https://web.archive.org/web/20160309064005/http://pc.gamespy.com/pc/hoyle-casino-2005/) – Sierra developer/publisher, US release December 1, 2004
 [^ref-18]: [Encore – Hoyle Casino (2006) product page (archived 2006-02-07)](https://web.archive.org/web/20060207145243/http://www.encoreusa.com:80/product.aspx?ProductID=39497) – publisher blurb, game list, minimum system requirements, $19.99 suggested list price
@@ -279,3 +285,5 @@ Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software afte
 [^ref-25]: [socaltech – Vivendi Sells Hoyle Brand (Dec 23 2004)](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – Vivendi Universal Games divested Hoyle products to Navarre's Encore subsidiary
 [^ref-26]: [Game Over Online – Hoyle Casino 2006 review](https://www.game-over.net/reviews/pc/Hoyle_Casino_2006.html) – Lawrence Wong, October 10, 2005, 65%; persona, tutorials, no online play, listed specs ([archived copy](http://web.archive.org/web/20251106234706/https://www.game-over.net/reviews/pc/Hoyle_Casino_2006.html))
 [^ref-27]: [Amazon.com – Hoyle Casino (2006) PC](https://www.amazon.com/Hoyle-Casino-PC/dp/B000AA87E6) – Date First Available August 1, 2005; item model number 20586; manufacturer Encore Software
+[^ref-28]: [GameZone – Hoyle Casino 2006 – PC – Review (archived 2012-06-29)](http://web.archive.org/web/20120629120529/http://www.gamezone.com:80/reviews/hoyle_casino_2006_pc_review) – review dated August 22, 2005; 7.5 "Good" overall, sub-scores, "a total of 18, versus the 16 offered previously", Facemaker/chat-back features, $30 price
+[^ref-29]: [GOG Dreamlist – Hoyle Casino 2006](https://www.gog.com/dreamlist/game/hoyle-casino-2006) – Dreamlist entry for the game ("Want to see Hoyle Casino 2006 on GOG?")
