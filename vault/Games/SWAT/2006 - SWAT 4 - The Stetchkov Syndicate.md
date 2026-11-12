@@ -10,7 +10,7 @@ series: SWAT
 engine: Vengeance Engine (Unreal Engine 2)
 protagonist: SWAT Team Leader
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 composer: [Antonio Gambale]
 description: 'SWAT 4: The Stetchkov Syndicate is the 2006 expansion pack for the tactical
   first-person shooter SWAT 4, developed by Irrational Games and published by Sierra
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT 4: The Stetchkov Syndicate
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -58,7 +58,7 @@ The optiwand remains a critical tool for reconnaissance, allowing players to pee
 
 ### Structure and Progression
 
-The expansion features seven new single-player missions played through the Career mode.[^ref-40] The newest mission appears at the bottom of the mission list, and new equipment is made available by completing the previous mission.[^ref-6] HookedGamers offers a savegame that unlocks all seven career missions.[^ref-17] Eurogamer noted that "the positions of your hostiles is never the same as you enter the building."[^ref-4] PALGN's review of the base game observed that it "never forces the player into taking a predetermined approach to a level, which allows for a lot of improvisation."[^ref-18]
+The expansion features seven new single-player missions played through the Career mode.[^ref-40] The newest mission appears at the bottom of the mission list, and new equipment is made available by completing the previous mission.[^ref-6] HookedGamers offers a savegame that unlocks all seven career missions.[^ref-17] Eurogamer noted that "the positions of your hostiles is never the same as you enter the building."[^ref-4] PALGN's review of the base game observed that it "never forces the player into taking a predetermined approach to a level, which allows for a lot of improvisation."[^ref-18] Sources disagree on the scope and setting: GamesRadar+'s review calls it "a fine expansion pack of eight missions" that takes players "one step closer to busting Boston's most notorious drug cartel",[^ref-24] while Computer Gaming World and PC Gamer count seven new missions[^ref-40][^ref-42] and Wikipedia places Fairview in New York.[^ref-1]
 
 The seven mission locations, as named in the soundtrack listing:[^ref-13]
 - FunTime Amusements
@@ -100,7 +100,7 @@ The expansion has maintained its positive reputation over the years, with the co
 The ModDB community has rated the expansion 9.2/10 based on 47 votes, reflecting strong ongoing appreciation from the tactical shooter community.[^ref-25] Community member Argeomer wrote in 2018: "For it's time it's a perfect game! The gameplay, the missions, the mission creator, all the multiplayer fun, coop or pvp."[^ref-25]
 
 **Aggregate Scores:**
-- **Metacritic:** 80/100 (19 critic reviews), 8.6 user score (72 ratings, as of October 2026)[^ref-26]
+- **Metacritic:** 80/100 (19 critic reviews), 8.5 user score (73 ratings, as of November 2026)[^ref-26]
 - **MobyGames:** 7.8/10[^ref-21]
 - **IMDb:** 7.6/10 (142 ratings, as of October 2026)[^ref-27]
 - **Glitchwave:** about 4.0/5 (4.02 from 28 ratings as of October 2026; the weighted average shifts as ratings are added)[^ref-28]
@@ -173,7 +173,7 @@ The base game SWAT 4 was described by modders as "a fantastic, if horrendously b
 | 1.0 | February 28, 2006 | Windows (NA) | Initial North American release[^ref-1] |
 | 1.0 | March 10, 2006 | Windows (EU) | European release[^ref-1] |
 | Gold Edition | 2006 | Windows | Bundled with base game[^ref-35] |
-| GOG.com Release | January 24, 2017 | Windows | Digital re-release[^ref-14] |
+| GOG.com Release | January 24, 2017 | Windows | Digital re-release[^ref-7][^ref-14] |
 
 **Patch History:**
 - The base game SWAT 4 was released in North America on April 5, 2005.[^ref-1]
@@ -299,7 +299,7 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 [^ref-4]: [Eurogamer – SWAT 4: The Stetchkov Syndicate Review](https://www.eurogamer.net/r-swat4stetchkov-pc) – 8/10 score, punching mechanic, mission details
 [^ref-5]: [GameSpy – SWAT 4 Review (base game, Archived)](https://web.archive.org/web/20120125231757/http://pc.gamespy.com/pc/swat-4/599416p1.html) – "shooter that rewards you for not shooting" quote
 [^ref-6]: [Internet Archive – Game Manual](https://archive.org/stream/SWAT_4_-_The_Stetchkov_Syndicate_-_Manual/SWAT_4_-_The_Stetchkov_Syndicate_-_Manual_djvu.txt) – patch 1.1 requirement, technical specifications, new weapons, multiplayer features, credits and voice cast
-[^ref-7]: [GOG.com – SWAT 4: Gold Edition](https://www.gog.com/en/game/swat_4_gold_edition) – user reviews, digital availability, server shutdown notice
+[^ref-7]: [GOG.com – SWAT 4: Gold Edition](https://www.gog.com/en/game/swat_4_gold_edition) – user reviews, digital availability, server shutdown notice, GOG release date (24 January 2017, from the page's structured data)
 [^ref-8]: [IMDb – SWAT 4: The Stetchkov Syndicate Full Credits](https://m.imdb.com/title/tt0808452/fullcredits/composer) – voice cast, composer Antonio Gambale, talent coordinator Andrea Toyias
 [^ref-12]: [Cult Classic Corner – Game Review](https://cultclassiccornervideogames.wordpress.com/2019/04/29/swat-4-the-stetchkov-syndicate-2006-game-review/) – AI issues, bugs, environmental details
 [^ref-13]: [Sierra Chest – Music](https://sierrachest.com/index.php?a=games&id=75&title=swat-4-stetchkov-syndicate&fld=music) – mission location names from soundtrack
@@ -314,7 +314,7 @@ The expansion was not the last SWAT game: SWAT: Target Liberty, a tactical shoot
 [^ref-23]: [IGN – SWAT 4: The Stetchkov Syndicate Review](https://www.ign.com/articles/2006/03/07/swat-4-the-stetchkov-syndicate) – 8.5 score, $19.99 price point, Tom McNamara quotes
 [^ref-24]: [GamesRadar+ – Review](https://www.gamesradar.com/swat-4-the-stetchkov-syndicate-review/) – bug fixes, taser anecdote
 [^ref-25]: [ModDB – SWAT 4: The Stetchkov Syndicate](https://www.moddb.com/games/swat-4-the-stetchkov-syndicate) – 9.2/10 community rating, user comments
-[^ref-26]: [Metacritic – SWAT 4: The Stetchkov Syndicate](https://www.metacritic.com/game/swat-4-the-stetchkov-syndicate/) – 80 Metascore (19 critics), 8.6 user score (72 ratings), checked October 14, 2026
+[^ref-26]: [Metacritic – SWAT 4: The Stetchkov Syndicate](https://www.metacritic.com/game/swat-4-the-stetchkov-syndicate/) – 80 Metascore (19 critics), 8.5 user score (73 ratings), checked November 12, 2026
 [^ref-27]: [IMDb – SWAT 4: The Stetchkov Syndicate (2006)](https://www.imdb.com/title/tt0808452/) – 7.6/10 from 142 ratings, checked October 14, 2026
 [^ref-28]: [Glitchwave – Game Page](https://glitchwave.com/game/swat-4-the-stetchkov-syndicate/) – weighted rating 4.02/5 from 28 ratings, checked October 14, 2026
 [^ref-30]: [MobyGames – Technical Specs](https://www.mobygames.com/game/21450/swat-4-the-stetchkov-syndicate/specs/) – system requirements, supported resolutions
