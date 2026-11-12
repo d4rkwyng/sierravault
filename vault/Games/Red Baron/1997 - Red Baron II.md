@@ -2,7 +2,7 @@
 title: Red Baron II
 release_year: 1997
 developer: Dynamix
-designer: [Doug Johnson, Brian Apgar, Eric Lanz]
+designer: [Scott Rudi, John Bruning]
 publisher: Sierra On-Line
 genre: Flight Simulation
 platforms: [Microsoft Windows]
@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3-Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles (Chuck) Barth]
 description: Red Baron II is a World War I combat flight simulation developed by Dynamix
   and published by Sierra On-Line in December 1997, later patched into Red Baron 3D.
@@ -18,7 +18,7 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron II
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -30,7 +30,8 @@ Despite the long development period and tremendous anticipation, Red Baron II's 
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** [[Doug Johnson]], Brian Apgar, Eric Lanz (per Wikipedia's infobox[^ref-1]; MobyGames' credits for this game list no designers[^ref-42]. For Red Baron 3D, MobyGames credits the three for Multiplayer Design[^ref-43])
+> **Designers:** Scott Rudi, John Bruning[^ref-45]
+> **Directors:** Steven Hill, Gary Stottlemyer[^ref-45]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** 3-Space[^ref-9]
 > **Platforms:** Microsoft Windows[^ref-1]
@@ -51,7 +52,7 @@ The career carried personal stakes. A pilot started "at the bottom of the ladder
 
 ### Interface and Controls
 
-GameRevolution saw Red Baron II as an accessible sim, "easy to learn and use, but challenging to master," that might be "the crossover title to introduce the casual gamer" to simulations[^ref-11]. The game supported multiple input methods including keyboard, mouse, joystick, flight yoke, and gamepad[^ref-3]. However, reviewers were emphatic that "you absolutely have to use a joystick to play this game or you will get nowhere"[^ref-11]. The game offered a slewable camera system with 360-degree rotation and zoom features, along with various targeting modes to track enemy aircraft[^ref-10].
+GameRevolution saw Red Baron II as an accessible sim, "easy to learn and use, but challenging to master," that might be "the crossover title to introduce the casual gamer" to simulations[^ref-11]. The game supported multiple input methods including keyboard, mouse, joystick, flight yoke, and gamepad[^ref-3]. However, GameRevolution's Tom Anderson was emphatic that "You absolutely have to use a joystick to play this game or you will get nowhere"[^ref-11]. The game offered a slewable camera system with 360-degree rotation and zoom features, along with various targeting modes to track enemy aircraft[^ref-10].
 
 ### Structure and Progression
 
@@ -74,11 +75,11 @@ At launch the game shipped with two flight models, easy and authentic[^ref-6]; A
 
 ### Contemporary Reviews
 
-Red Baron II received mixed reviews upon release, with critics acknowledging its ambitious scope while criticizing its rushed, bug-ridden state. GameSpot awarded the game 7.1/10, with reviewer Denny Atkin noting that "Red Baron II has a lot to offer, but its rushed shipment makes for a game that's appealing only to those sim fans willing to deal with quirks and inconsistencies while awaiting patches"[^ref-6]. PC Gamer gave the game 59%. Dan Bennett recalled that "when Sierra announced Red Baron II, lots of flight sim nuts were understandably excited," but concluded that "lots of little problems—and a few big ones—drag the sim down"[^ref-15].
+Red Baron II received mixed reviews upon release, with critics acknowledging its ambitious scope while criticizing its rushed, bug-ridden state. GameSpot awarded the game 7.1/10, with reviewer Denny Atkin noting that "Red Baron II has a lot to offer, but its rushed shipment makes for a game that's appealing only to those sim fans willing to deal with quirks and inconsistencies while awaiting patches"[^ref-6]. PC Gamer gave the game 59%[^ref-15]. Dan Bennett recalled that "when Sierra announced Red Baron II, lots of flight sim nuts were understandably excited," but concluded that "lots of little problems—and a few big ones—drag the sim down"[^ref-15].
 
 GameCenter awarded 7/10, with Hugh Falk summarizing the situation as "The Baron is back...but buggy" while acknowledging that "visually, RBII is a huge improvement on the original; as would be expected after seven years"[^ref-16]. PC Zone UK was less impressed, giving only 60/100[^ref-17]. Computer Games Strategy Plus, whose CD Mag site carried Tom Chick's review[^ref-28], gave a harsh 2/5[^ref-17]. Computer Gaming World's Robin G. Kim gave 3 out of 5 stars, calling the game "a diamond in the rough" that could follow the original "as a true giant among flight sims, but only if Dynamix comes through with its promised flight model, multiplayer, and 3D-accelerated graphics patches"[^ref-40].
 
-In stark contrast, GameRevolution gave an enthusiastic A− rating[^ref-1], declaring "Red Baron II is the most immersive flight simulator I have ever laid my hands on" and suggesting it "just may be the crossover title to introduce the casual gamer to the wonderful world of simulations"[^ref-11]. PC Gamer UK was highly critical, scoring it only 53% with Dean Evans stating that "Red Baron 2 hasn't lived up to the exciting idea that Sierra have been spinning us" and noting that "in a straight fight with the superb Flying Corps, the Rowan game rattles holes in Sierra's unstable fuselage"[^ref-19]. Australia's PC PowerPlay was far warmer, awarding 92% and its Gold badge; George Argy concluded that "Red Baron II hits the mark"[^ref-41]. Next Generation rated it four stars out of five[^ref-39].
+In stark contrast, GameRevolution gave an enthusiastic A− rating[^ref-48], declaring "Red Baron II is the most immersive flight simulator I have ever laid my hands on" and suggesting it "just may be the crossover title to introduce the casual gamer to the wonderful world of simulations"[^ref-11]. PC Gamer UK was highly critical, scoring it only 53% with Dean Evans stating that "Red Baron 2 hasn't lived up to the exciting idea that Sierra have been spinning us" and noting that "in a straight fight with the superb Flying Corps, the Rowan game rattles holes in Sierra's unstable fuselage"[^ref-19]. Australia's PC PowerPlay was far warmer, awarding 92% and its Gold badge; George Argy concluded that "Red Baron II hits the mark"[^ref-41]. Next Generation rated it four stars out of five[^ref-39]. The Adrenaline Vault's Emil Pagliarulo and Pete Hines (January 23, 1998) gave it 2.5 stars; their verdict was that "Red Baron II is nowhere near the cutting-edge quality of those older titles, and really is quite a disappointment"[^ref-49].
 
 ### Modern Assessment
 
@@ -97,23 +98,29 @@ Red Baron II was nominated for "Best Sim Game" at the CNET Gamecenter Awards for
 
 ### Origins
 
-Red Baron II was developed as the successor to the original Red Baron, which had established Dynamix's reputation as a premier flight simulation developer. By 1994, Dynamix founder Damon Slye agreed with Computer Gaming World's assessment that "Now when someone hears 'Dynamix' they immediately think 'flight simulator'"[^ref-23]. The original game had been released in 1990 and spawned an expansion called Red Baron: Mission Builder in 1992[^ref-24]. A multiplayer version had also launched on the Sierra Network (later renamed ImagiNation Network) in 1992[^ref-16].
+Red Baron II was developed as the successor to the original Red Baron, which had established Dynamix's reputation as a premier flight simulation developer. By 1994, Dynamix co-founder Damon Slye agreed with Computer Gaming World's assessment that "Now when someone hears 'Dynamix' they immediately think 'flight simulator'"[^ref-23]. The original game had been released in 1990 and spawned an expansion called Red Baron: Mission Builder in 1992[^ref-24]. A multiplayer version had also launched on the Sierra Network (later renamed ImagiNation Network) in 1992[^ref-16].
 
 The sequel was part of Sierra's ACES series of historical wartime simulation products[^ref-14]. Development took "several long years of secretive development"[^ref-19], building anticipation within the flight simulation community. Nominating it for its 1997 awards, Gamecenter wrote that "although it took several years to get off the ground, Sierra and Dynamix's Red Baron II was well worth the wait"[^ref-10].
 
 ### Production
 
-The development team was directed by Tucker Hatfield with Graeme Bayless serving as producer[^ref-1]. Wikipedia's infobox lists Doug Johnson, Brian Apgar, and Eric Lanz as the designers, with Brian Apgar also serving as primary programmer[^ref-1]. MobyGames' credit list for Red Baron II itself shows no design credits for them or for anyone else[^ref-42]; its Red Baron 3D credits give the same three names "Multiplayer Design" and Apgar "Lead Software Engineer"[^ref-43]. The Red Baron II design roles therefore rest on Wikipedia alone. Douglas Brashear was the primary artist[^ref-1]. The manual carried its own credits: Neil Haldar produced it and Steven Hill directed it, with John R. Bruning writing the historical and tactical sections[^ref-38]. MobyGames' credit list for the game reproduces that manual team, plus the German localisation staff, and lists no development team[^ref-21][^ref-42].
+The Sierra Chest's "Making of Red Baron II" credit roll lists Scot Bayless as executive director, Neil Haldar and Graeme Bayless as producers, and Steven Hill and Gary Stottlemyer as directors[^ref-45]; the Dynamix wiki's staff roll gives the same names[^ref-46]. The manual carried its own credits: Neil Haldar produced it and Steven Hill directed it, with John R. Bruning writing the historical and tactical sections[^ref-38]. MobyGames' credit list for the game reproduces that manual team, plus the German localisation staff, and lists no development team[^ref-21][^ref-42]. Wikipedia's infobox for the game mixes in credits that MobyGames lists for Red Baron 3-D: Tucker Hatfield as director, Douglas Brashear as art director, and a "Multiplayer Design" credit for Doug Johnson, Brian Apgar and Eric Lanz[^ref-47][^ref-43].
 
 According to GameRevolution, the designers reportedly consulted plane specification sheets, pilot testimony, and WWI flight films in an attempt at accuracy, though the reviewer still found the shipped flight models "just off"[^ref-11]. The game's terrain was based on historical cartographic information of the northern French countryside[^ref-14]. The comprehensive manual reflected this dedication: its historical overview runs from page 5 to page 64, followed by sections on flight, maneuvers, tactics, formations, mission types, the aircraft of the war and medals, with game play instructions starting only at page 157[^ref-38][^ref-25].
 
-**Development Credits (Wikipedia infobox):**[^ref-1]
-- **Director:** Tucker Hatfield
-- **Producer:** Graeme Bayless
-- **Designers (per Wikipedia):** Doug Johnson, Brian Apgar, Eric Lanz
-- **Primary Programmer:** Brian Apgar
-- **Primary Artist:** Douglas Brashear
-- **Music:** Charles (Chuck) Barth[^ref-26]
+**Development Credits (Red Baron II credit roll):**[^ref-45]
+- **Executive Director:** Scot Bayless
+- **Producers:** Neil Haldar, Graeme Bayless
+- **Directors:** Steven Hill, Gary Stottlemyer
+- **Production Assistant/Designer:** Scott Rudi
+- **Historian/Designer:** John Bruning
+- **Art Director:** Jarrett Jester
+- **Programmers:** Hugh Diedrichs, Pat Gorman, Langdon Beeck, John O'Brien, Ryan Hinke, Bradley Heinz, Caedmon Irias, Dan Spracklen, Bill Krick, Brian Apgar, Louie McCrady, Rick Overman
+- **Multiplayer Lead Programmer:** Chris Smith
+- **Sounds:** Kenneth (Ken) Rogers
+- **Music:** Charles (Chuck) Barth[^ref-26][^ref-46]
+
+Next Generation found the game's military background music "mildly amusing in its similarity to the Hogan's Heroes theme"[^ref-39], and The Adrenaline Vault likewise noted "a tune that sounds a lot like the Hogan's Heroes theme song"[^ref-49].
 
 **Manual Credits:**[^ref-38][^ref-21]
 - **Producer:** Neil Haldar
@@ -161,8 +168,10 @@ The initial release shipped without several features that had been promised or e
 | 1.0 | December 16, 1997 | Windows | Initial release[^ref-14] |
 | 1.002 | Undated | Windows | Update (archive named "rb2beta"; no description given)[^ref-29] |
 | 1.05 | Undated | Windows | Patch with new flight model and fixes[^ref-29] |
-| 1.0.7.7 | 1998 (by October) | Windows | "Super Patch" converting to Red Baron 3D with 3D acceleration[^ref-29]; described as "recently released" when Dynamix announced on October 29, 1998 that Red Baron 3D had arrived in retail stores nationwide[^ref-27]; GOG and the Dynamix wiki give Red Baron 3D's release date as October 31, 1998[^ref-12][^ref-44] |
+| 1.0.7.7 | By August 25, 1998 | Windows | "Super Patch" converting to Red Baron 3D with 3D acceleration[^ref-29]; IGN reported on August 25, 1998 that Sierra had released the patch adding 3D acceleration[^ref-7]; described as "recently released" when Dynamix announced on October 29, 1998 that Red Baron 3D had arrived in retail stores nationwide[^ref-27]; GOG and the Dynamix wiki give Red Baron 3D's release date as October 31, 1998[^ref-12][^ref-44] |
 | 1.0.7.8 | Undated | Windows | Red Baron 3D update letting players see game servers in the interface; applies only to 1.0.7.7[^ref-29] |
+
+Sources give differing dates for the original release: the Dynamix wiki lists October 17, 1997[^ref-46], the Sierra Chest 1997-10-30[^ref-45], and GameRankings November 30, 1997[^ref-17]; Dynamix's press release announcing the game's release is dated December 16, 1997[^ref-14].
 
 The version 1.0.7.7 "Super Patch" was transformative, adding 3D single and multiplayer capabilities and effectively converting the game into Red Baron 3D[^ref-29]. This patch was available free to existing Red Baron II owners[^ref-13].
 
@@ -180,7 +189,7 @@ Red Baron II shipped with numerous bugs that significantly impacted the player e
 - Virtual cockpit artwork crude, with "completely unreadable controls"[^ref-28]
 - Padlock view treating "a nearby enemy fighter and a scout hundreds of yards out with equal regard"[^ref-28]
 
-An early patch, already out when GameRevolution reviewed the game in December 1997, added 20 lockdown views, six outside cameras, and a flexible slewing mode, fixing the original's blind spots[^ref-11]. When Sierra released the 3D-acceleration patch in August 1998, IGN reported that "gamers have been requesting these features since the game was released late last year, and Sierra was heavily criticized for release Red Baron II in an unfinished state"[^ref-7].
+An early patch, already out when GameRevolution reviewed the game in December 1997[^ref-48], added 20 lockdown views, six outside cameras, and a flexible slewing mode, fixing the original's blind spots[^ref-11]. When Sierra released the 3D-acceleration patch in August 1998, IGN reported that "gamers have been requesting these features since the game was released late last year, and Sierra was heavily criticized for release Red Baron II in an unfinished state"[^ref-7].
 
 ### Easter Eggs and Trivia
 
@@ -286,3 +295,8 @@ Even at launch, the game's appeal was clear to some critics. Next Generation cal
 [^ref-42]: [MobyGames – Red Baron II credits (Wayback, 2024-03-08)](https://web.archive.org/web/20240308140516/https://www.mobygames.com/game/1022/red-baron-ii/credits/windows/) – Windows credits, 20 people: manual credits and German localisation only; no design, programming or art credits
 [^ref-43]: [MobyGames – Red Baron 3-D credits (Wayback, 2022-03-08)](https://web.archive.org/web/20220308233045/https://www.mobygames.com/game/windows/red-baron-3-d/credits) – "Multiplayer Design: Doug Johnson, Brian Apgar, Eric Lanz"; "Lead Software Engineer: Brian Apgar"
 [^ref-44]: [Dynamix Fandom Wiki – Red Baron 3-D](https://dynamix.fandom.com/wiki/Red_Baron_3-D) – Red Baron 3-D release date October 31, 1998
+[^ref-45]: [Sierra Chest – Red Baron II, Making of: Credits](https://www.sierrachest.com/index.php?a=games&id=302&title=red-baron-2&fld=making&pid=100) – credit roll (executive director, producers, directors, programmers, art director, sounds, music); first release 1997-10-30
+[^ref-46]: [Dynamix Fandom Wiki – Red Baron II](https://dynamix.fandom.com/wiki/Red_Baron_II) – staff roll, composer Charles Barth, release date October 17, 1997
+[^ref-47]: [MobyGames – Red Baron 3-D](https://www.mobygames.com/game/5123/red-baron-3-d/) – credits list Director Tucker Hatfield, Art Director Douglas Brashear, Multiplayer Design Doug Johnson, Brian Apgar, Eric Lanz
+[^ref-48]: [GameRevolution – Red Baron II Review (Archive.org, 2004 copy)](https://web.archive.org/web/20040218155006/http://www.game-revolution.com/games/pc/flight/redbaron.htm) – review by Tom Anderson, review date 12/97, Revolution Report Card A-
+[^ref-49]: [The Adrenaline Vault – Red Baron II Review (Archive.org)](https://web.archive.org/web/20050517231535/http://avault.com/reviews/review_temp.asp?game=baron&page=3) – Emil Pagliarulo and Pete Hines, January 23, 1998; 2.5 stars; Hogan's Heroes music remark
