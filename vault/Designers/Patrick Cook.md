@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Football Pro", "Outpost 2: Divided Destiny", "Microsoft Flight Simulator X"]
 companies: ["Cinemaware", "Dynamix", "Sierra On-Line", "Microsoft Game Studios"]
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Patrick Cook
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -19,19 +19,19 @@ He later co-designed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Des
 
 ## Career
 
-### Cinemaware Years (c. 1987–1991)
+### Cinemaware Years (1987–1991)
 
-Cook joined Cinemaware, the Los Angeles-area studio known for its "interactive movie" approach to game design, as QA manager.[^ref-17][^ref-5] In his own words: "I started as the QA manager, then after six months became a producer, then a senior producer, then head of Product Development for the digital side ... then a director/designer until Cinemaware crashed and burned."[^ref-17]
+Cook joined Cinemaware, the Los Angeles-area studio known for its "interactive movie" approach to game design, as QA manager.[^ref-17][^ref-5] MobyGames' earliest credit for him is a Special Thanks on The Three Stooges (1987).[^ref-2] In his own words: "I started as the QA manager, then after six months became a producer, then a senior producer, then head of Product Development for the digital side ... then a director/designer until Cinemaware crashed and burned."[^ref-17]
 
 His credits during this period include producer on the 1989 Atari ST and Apple IIGS versions of Rocket Ranger (1988), which won Best 16-bit Graphics at the Golden Joystick Awards,[^ref-2][^ref-6] and producer on It Came from the Desert (1989–1990), the company's take on what Just Adventure called "the 50s radioactive mutant genre".[^ref-7][^ref-17] He also worked on TV Sports: Football across multiple platforms,[^ref-2] and MobyGames credits him as "Designed and Produced by" on the TurboGrafx-16 TV Sports: Hockey (1991), his one credited design role at Cinemaware.[^ref-2] A photograph from circa 1989 shows Cook with colleague David Riordan.[^ref-1]
 
 Rocket Ranger was released on Amiga, DOS, Commodore 64, Atari ST, Apple IIGS, FM Towns and NES; the NES version was "directed by Patrick Cook."[^ref-6][^ref-8]
 
-### Sierra/Dynamix Years (1991–c. 2000)
+### Sierra/Dynamix Years (1991–2000)
 
-Cook has been at Dynamix "since '91, doing Front Page Sports until '96," according to his colleague L. Allen McPheeters.[^ref-17] Cook himself lists FPS: Football, Football Pro, Football Pro '95, Baseball '94 and Football Pro '96 among his Front Page Sports work.[^ref-17] Sierra's own InterAction magazine (Holiday 1996) still called him "FPS Designer Pat Cook," in an account of Cook and Scott Youngblood meeting NFL running back Barry Sanders.[^ref-22] Wikipedia's Dynamix article likewise says the Front Page Sports series was "designed by Pat Cook and Allen McPheeters."[^ref-23]
+Cook has been at Dynamix "since '91, doing Front Page Sports until '96," according to his colleague [[Allen Mcpheeters|L. Allen McPheeters]].[^ref-17] Cook himself lists FPS: Football, Football Pro, Football Pro '95, Baseball '94 and Football Pro '96 among his Front Page Sports work.[^ref-17] Sierra's own InterAction magazine (Holiday 1996) still called him "FPS Designer Pat Cook," in an account of Cook and [[Scott Youngblood]] meeting NFL running back Barry Sanders.[^ref-22] Wikipedia's Dynamix article likewise says the Front Page Sports series was "designed by Pat Cook and Allen McPheeters."[^ref-23]
 
-Cook is credited as Designer and Director on [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] (1993).[^ref-9] He was Executive Producer on [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] (1994) and is credited with the "Original Design" of [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] (1995).[^ref-2] His "Original Concept" credits on [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] and [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] reflect his role in establishing the series.[^ref-2][^ref-10]
+Cook is credited as Designer and Director on [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] (1993).[^ref-9] He was Designer and Executive Producer on [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] (1994), per MobyGames, and is credited with the "Original Design" of [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] (1995).[^ref-2] His "Original Concept" credits on [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] and [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] reflect his role in establishing the series.[^ref-2][^ref-10]
 
 Beyond sports games, Cook directed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] (1997), which he and McPheeters designed.[^ref-11][^ref-17]
 
@@ -53,11 +53,11 @@ MobyGames also attributes two Turn 10 Studios credits to the same profile: a pla
 
 ### Front Page Sports: Football Pro (1993)
 
-As Designer and Director of [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]], Cook built on Front Page Sports: Football, which Computer Gaming World named its 1993 Sports Game of the Year.[^ref-9][^ref-18] His colleague L. Allen McPheeters said FPS: Football "changed the face of computer sports by putting all the elements of the game (play design, lots of statistics, arcade play) into one package," and that Football Pro "is in Computer Gaming World's Hall of Fame."[^ref-17] Computer Gaming World's March 1996 Hall of Fame induction of Football Pro names "Project leader Patrick Cook", who "had discovered the value of crisp, vibrant graphics in his earlier tenure with Cinemaware's TV Sports series of games."[^ref-21]
+As Designer and Director of [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]], Cook built on Front Page Sports: Football, which Computer Gaming World named its 1993 Sports Game of the Year.[^ref-9][^ref-18] His colleague L. Allen McPheeters said FPS: Football "changed the face of computer sports by putting all the elements of the game (play design, lots of statistics, arcade play) into one package," and that Football Pro "is in Computer Gaming World's Hall of Fame."[^ref-17] Computer Gaming World's June 1994 awards issue called Front Page Sports Football Pro "to date, designer Pat Cook's masterpiece."[^ref-24] Computer Gaming World's March 1996 Hall of Fame induction of Football Pro names "Project leader Patrick Cook", who "had discovered the value of crisp, vibrant graphics in his earlier tenure with Cinemaware's TV Sports series of games."[^ref-21]
 
 ### Outpost 2: Divided Destiny (1997)
 
-Cook directed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], a real-time strategy sequel featuring warring factions of human colonists, which he designed with L. Allen McPheeters.[^ref-11][^ref-17]
+Cook directed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], a real-time strategy sequel featuring warring factions of human colonists, which he designed with L. Allen McPheeters.[^ref-11][^ref-17] Sierra's InterAction magazine (Holiday 1996) reported that the designers on the project had changed and that Pat Cook and Alan McPheeters were now in charge.[^ref-22]
 
 ### Microsoft Flight Simulator X (2006)
 
@@ -70,6 +70,8 @@ Cook's credits trace a path from Cinemaware through Sierra's Dynamix to Microsof
 ## Games
 
 ### Cinemaware (1987–1991)
+
+Credits follow MobyGames.[^ref-2]
 
 | Year | Title | Role |
 |------|-------|------|
@@ -92,6 +94,8 @@ Cook's credits trace a path from Cinemaware through Sierra's Dynamix to Microsof
 
 ### Sierra/Dynamix (1991–2000)
 
+Credits follow MobyGames.[^ref-2]
+
 - **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] — Role: Director
 - **1993** — [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] — Role: Designer, Director
 - **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Designer, Executive Producer
@@ -106,6 +110,8 @@ Cook's credits trace a path from Cinemaware through Sierra's Dynamix to Microsof
 - **2000** — [[2000 - 3-D Ultra Lionel TrainTown Deluxe|3-D Ultra Lionel TrainTown Deluxe]] — Role: Contributor (Original TrainTown)
 
 ### Microsoft Game Studios and later (2000–2013)
+
+Credits follow MobyGames.[^ref-2]
 
 | Year | Title | Role |
 |------|-------|------|
@@ -142,3 +148,4 @@ Cook's credits trace a path from Cinemaware through Sierra's Dynamix to Microsof
 [^ref-21]: [Computer Gaming World, Issue 140 (March 1996), p. 242 — Hall of Fame](https://archive.org/details/Computer_Gaming_World_Issue_140/page/n245/mode/1up) — Football Pro inducted; "Project leader Patrick Cook … his earlier tenure with Cinemaware's TV Sports series of games"
 [^ref-22]: [Sierra InterAction Magazine, Holiday 1996](https://archive.org/details/InterAction_Magazine_Holiday_1996_1996_Sierra_On-Line_US) — "Front Page Sports Developers Pat Cook and Scott Youngblood met with Barry Sanders"; "FPS Designer Pat Cook went off on a tangent about the effects of humidity on a player's stamina"
 [^ref-23]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) — "the Front Page Sports series, designed by Pat Cook and Allen McPheeters which included Football, Baseball, and Golf"
+[^ref-24]: [Computer Gaming World, Issue 119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) — Premier Sports Game of the Year: "Front Page Sports Football Pro is, to date, designer Pat Cook's masterpiece"
