@@ -10,13 +10,13 @@ series: Metaltech
 engine: null
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-05'
+last_updated: '2026-11-12'
 description: 'The Metaltech Earthsiege Speech Pack was a 1994 floppy-disk add-on from Dynamix and Sierra On-Line that added digitized speech to the floppy version of Metaltech: Earthsiege; the CD-ROM version already included it.'
 tags: [1990s, metaltech, sierra, simulation, add-on]
 ---
 # Metaltech Earthsiege Speech Pack
 
-<small style="color: gray">Last updated: November 5, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -116,6 +116,6 @@ Hi-Rez Studios re-released Earthsiege for free in 2015. PCGamingWiki notes that 
 [^ref-46]: Ken Williams, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line* (2020) - Sierra's 1994 release list: "MetalTech - EarthSiege: Speech Pack (Nov)"
 [^ref-47]: [Internet Archive - Computer Gaming World #126 (January 1995)](https://archive.org/details/Computer_Gaming_World_Issue_126) - Jeff James, "Rock 'Em, Sock 'Em, Robots": "the best attempt yet at creating a futuristic simulation of giant armored combat"
 [^ref-48]: [Internet Archive - Next Generation #2 (February 1995)](https://archive.org/details/nextgen-issue-002) - Metaltech: Earthsiege review: "Without a doubt, the finest mech simulator available." Rated four stars
-[^ref-49]: [Internet Archive - Sierra On-Line UK Support Correspondence & Order Form](https://archive.org/details/sierra-on-line-uk-support-correspondence-order-form) - Mail order catalogue list (11/08/95), file kq34b: "EARTHSIEGE SPEECH PACK (for disk", FE/FF/FG, add-on, PC 3.5 £9.99 (price read from the scan image; the OCR text drops it)
+[^ref-49]: [Internet Archive - Sierra On-Line UK Support Correspondence & Order Form](https://archive.org/details/sierra-on-line-uk-support-correspondence-order-form) - Mail order catalogue list (11/08/95), file kq34b: "EARTHSIEGE SPEECH PACK (for disk", FE/FF/FG, add-on, PC 3.5 £9.99 (page 1 of the kq34b scan; the price is in the "PC 3.5" column, read from the page image because the OCR text drops it; the same sheet states all prices are in UK pounds sterling)
 [^ref-50]: [Dynamix Wiki - Metaltech: Earthsiege](https://dynamix.fandom.com/wiki/Metaltech:_Earthsiege) - "Another disk version was later released within that same year that included a speech pack."
 [^ref-51]: [MyAbandonware - Metaltech: EarthSiege - Speech Pack](https://www.myabandonware.com/game/metaltech-earthsiege-speech-pack-2wc) - Database entry: DOS, 1994, Sierra On-Line, Dynamix; addon requiring the original game (metadata only)
