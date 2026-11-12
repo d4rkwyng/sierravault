@@ -82,6 +82,7 @@ Caesar II received strong critical acclaim upon its 1995 release, with reviewers
 | Computer Game Review | 94/91/92 | Frank Snyder, Ted Chapman, Tasos Kaiafas (Dec 1995)[^ref-1] |
 | PC Gamer (US) | 93% | January 1996[^ref-38] |
 | Computer Gaming World | 4/5 stars | Arinn Dembo, January 1996 (issue 138)[^ref-1][^ref-41] |
+| MacUser | 4 mice | Roman Loyola, April 1997: "Among Caesar II's most outstanding features are its battle sequences"[^ref-46] |
 | Next Generation | 4/5 stars | "Innovative mix of SimCity-type building strategy and wargame campaign"[^ref-1] |
 | Average Critic Score | 82% | MobyGames critics average, 20 ratings[^ref-5] |
 
@@ -105,7 +106,7 @@ Sierra On-Line acquired Impressions in 1995: on June 20, 1995, Sierra merged wit
 
 ### Production
 
-The development team focused on addressing limitations of the original Caesar while expanding the scope and visual fidelity of the sequel. [[Chris Beatrice]] is credited with art direction[^ref-24], and he recalled the game's "pre-rendered 3D graphics in an isometric 2D engine"[^ref-3]. The technical implementation used Smacker Video Technology by RAD Game Tools for cutscenes and other video elements[^ref-5].
+The development team focused on addressing limitations of the original Caesar while expanding the scope and visual fidelity of the sequel. [[Chris Beatrice]] is credited with art direction[^ref-24], and he recalled the game's "pre-rendered 3D graphics in an isometric 2D engine"[^ref-3]. The technical implementation used Smacker Video Technology by RAD Software (Invisible Inc.) for cutscenes and other video elements[^ref-5][^ref-24].
 
 The Cohort 2 tie-in belonged to the original game, not to Caesar II: Cohort 2 could load Caesar save files to play out its battles[^ref-37], an integration Simon Bradbury later called "a nightmare for us"[^ref-6]. Caesar II instead shipped with its own built-in combat mode[^ref-4].
 
@@ -121,14 +122,19 @@ Voice recording was handled by PolyLang Multimedia Ltd., with translations and r
 - **Music:** Jason P. Rinaldi, Jeremy A. Bell (credited as "Sound & Music")
 - **Speech Recording & Production:** PolyLang Multimedia Ltd.
 - **Translation & Re-Recording:** Coktel Vision
+- **Voice Talent (English):** Christopher Wilkinson, Mike Broadbent Jones, Krysia Campbell, Raymond Greenoaken
+- **Documentation & Research:** Todd Capute, Jennifer Hawthorne
+- **Director of Technology:** David Mitton
+- **Video Compression and Quality Assurance Manager:** Steven Serafino
+- **Based on Caesar by:** [[Simon Bradbury]], [[David Lester]]
 
 ### Technical Achievements
 
-Caesar II represented a substantial technical leap from the original Caesar. The release integrated **Smacker Video Technology by RAD Game Tools** for in-game cutscenes and video elements[^ref-5]. Chris Beatrice's art direction delivered **pre-rendered 3D graphics** for the city-building portion[^ref-3][^ref-24]. Caesar II also **built combat into the game itself**. Caesar Deluxe had launched a separate version of Cohort 2 for battles[^ref-37], while Caesar II, in Computer Gaming World's words, "surpassed the original with SVGA graphics and an actual combat module"[^ref-1]. Audio production scaled internationally: PolyLang Multimedia handled English voice recording while Coktel Vision provided translations and re-recordings for international versions[^ref-24]. The product also targeted **multi-platform release (DOS/Windows + Macintosh)** with a 1996 Mac port, and a 1.01 patch (March 1997) that "fixes crashes some people experienced when zooming out"[^ref-5][^ref-27].
+Caesar II combined pre-rendered 3D graphics in an isometric 2D engine[^ref-3][^ref-24] with Smacker video for cutscenes[^ref-5][^ref-24] and a combat mode built into the game itself, where Caesar Deluxe had launched a separate version of Cohort 2 for battles[^ref-37]. Computer Gaming World said Caesar II "surpassed the original with SVGA graphics and an actual combat module"[^ref-42]. The 1.01 patch (March 1997) "fixes crashes some people experienced when zooming out"[^ref-27].
 
 ### Technical Specifications
 
-Computer Gaming World's January 1996 review listed Caesar II at a price of $54.95, requiring an IBM compatible with a 486SX-25 or better, 8 MB of RAM, SVGA graphics, 12 MB of hard drive space, a mouse and a 2x CD-ROM drive, with support for Sound Blaster compatible sound cards. The listing gave the copy protection as "None (CD must be in drive to play)"[^ref-41]. MobyGames lists the DOS release as requiring an Intel i486 SX and PC/MS-DOS 5.0, with SuperVGA video and General MIDI, Gravis Ultrasound, Pro Audio Spectrum and Sound Blaster support. The Windows release requires Windows 95 and DirectX 2 and supports 640×480, 800×600 and 1024×768, and the Macintosh release requires a Motorola 68040 and System 7.1 (8 MB of RAM on all three)[^ref-5].
+Computer Gaming World's January 1996 review listed Caesar II at a price of $54.95, requiring an IBM compatible with a 486SX-25 or better, 8 MB of RAM, SVGA graphics, 12 MB of hard drive space, a mouse and a 2x CD-ROM drive, with support for Sound Blaster compatible sound cards. The listing gave the copy protection as "None (CD must be in drive to play)"[^ref-41]. Computer Game Review's entry gave a street price of $44.99 and requirements of a 486/25, 8 MB of RAM, SVGA, DOS 5.0 or Windows 95 and a 2x CD-ROM drive, and described "256-color SVGA graphics, digitized sound and speech, original music"[^ref-47]. MobyGames lists the DOS release as requiring an Intel i486 SX and PC/MS-DOS 5.0, with SuperVGA video and General MIDI, Gravis Ultrasound, Pro Audio Spectrum and Sound Blaster support. The Windows release requires Windows 95 and DirectX 2 and supports 640×480, 800×600 and 1024×768, and the Macintosh release requires a Motorola 68040 and System 7.1 (8 MB of RAM on all three)[^ref-5].
 
 ### Version History
 
@@ -149,7 +155,7 @@ The game's influence extended beyond its own success. As Chris Beatrice revealed
 
 The series continued with Caesar III in 1998. The franchise eventually extended to Caesar IV in 2006, developed by Tilted Mill Entertainment, a studio that included former Impressions staff[^ref-32].
 
-An active fan community has maintained interest in Caesar II through dedicated websites like caesar2.com, which hosts detailed gameplay guides and forums where enthusiasts share strategies and technical solutions[^ref-33]. The game remains playable on modern systems through DOSBox emulation, preserving access to this influential title in the city-building genre.
+An active fan community has maintained interest in Caesar II through dedicated websites like caesar2.com, which hosts detailed gameplay guides and forums where enthusiasts share strategies and technical solutions[^ref-33]. The game remains playable on modern systems through DOSBox emulation[^ref-20], preserving access to this influential title in the city-building genre.
 
 ### Collections
 
@@ -176,7 +182,6 @@ According to MobyGames, Caesar II was included in the compilations 2 Good 2 Be T
 - [[1998 - Caesar III|→ Next: Caesar III]]
 - [[City Builders Series]]
 - [[Impressions Games]]
-
 - [[2006 - Caesar IV]]
 
 ## References
@@ -185,7 +190,7 @@ According to MobyGames, Caesar II was included in the compilations 2 Good 2 Be T
 [^ref-2]: [Amazon - Caesar II PC](https://www.amazon.com/Caesar-II-PC/dp/B0006BKIZU) – Product description comparing it to SimCity and Civilization
 [^ref-3]: [Arcade Attack - Chris Beatrice Interview](https://web.archive.org/web/20191208072828/https://www.arcadeattack.co.uk/chris-beatrice-sierra/) – Developer insights on graphics and Age of Empires influence
 [^ref-4]: [Ars Technica - History of City Building Games](https://arstechnica.com/gaming/2015/10/from-simcity-to-well-simcity-the-history-of-city-building-games/) – Caesar II features and improvements over original
-[^ref-5]: [MobyGames - Caesar II](https://www.mobygames.com/game/1588/caesar-ii/) – Technical specifications, platforms, genres, Moby Score 7.5, critics average 82% (20 ratings), compilations list; read via the MobyGames API and saved page copy
+[^ref-5]: [MobyGames - Caesar II](https://www.mobygames.com/game/1588/caesar-ii/) – Technical specifications, platforms, genres, Moby Score 7.5, critics average 82% (20 ratings), compilations list
 [^ref-6]: [Flash of Steel - Caesar Series Analysis](https://web.archive.org/web/20210124003659/http://flashofsteel.com/index.php/2008/04/04/caesar-series-1993-2006/) – Simon Bradbury email interview on origins and development challenges
 [^ref-8]: [ATPM - Caesar II Review](http://www.atpm.com/3.02/page11.shtml) – February 1997 Macintosh review
 [^ref-11]: [Reddit - Caesar II Discussion](https://www.reddit.com/r/impressionsgames/comments/1bty0i7/i_feel_caesar_ii_is_the_best_of_the_caesar_series/) – Player perspective on three-map system
@@ -195,7 +200,7 @@ According to MobyGames, Caesar II was included in the compilations 2 Good 2 Be T
 [^ref-17]: [GameSpot - Caesar II User Reviews](https://www.gamespot.com/caesar-ii/user-reviews/2200-474414/) – User review comparing it to Civilization and SimCity
 [^ref-20]: [GOG.com - Caesar II](https://www.gog.com/en/game/caesar_ii) – Current digital availability and user ratings
 [^ref-21]: [Companies Made Simple - David Lester Interview](https://www.companiesmadesimple.com/blogs/inspiration-start-up-stories/real-business-case-study-david-lester) – Sales figures and development focus
-[^ref-24]: [MobyGames - Caesar II Credits DOS](https://www.mobygames.com/game/1588/caesar-ii/credits/dos/) – Voice recording and localization credits
+[^ref-24]: [MobyGames - Caesar II Credits DOS](https://www.mobygames.com/game/1588/caesar-ii/credits/dos/) – Development, voice and localization credits
 [^ref-25]: [VOGONS - Caesar II Audio Discussion](https://www.vogons.org/viewtopic.php?t=56801) – Confirmation of MIDI-only audio
 [^ref-26]: [GameFAQs - Caesar II Data](https://gamefaqs.gamespot.com/pc/564620-caesar-ii/data) – Release data: US release by Sierra On-Line, 1995
 [^ref-27]: [ModDB - Caesar II v1.01 Windows Patch](https://www.moddb.com/games/caesar-ii/downloads/caesar-ii-v101-windows-patch) – Patch documentation and bug fixes
@@ -215,3 +220,5 @@ According to MobyGames, Caesar II was included in the compilations 2 Good 2 Be T
 [^ref-43]: [Kotaku - Caesar II](https://kotaku.com/games/caesar-ii) – Release date listed as September 3, 1995
 [^ref-44]: [PCGamingWiki - Caesar II](https://www.pcgamingwiki.com/wiki/Caesar_II) – DOS and Windows release dates listed as September 14, 1995
 [^ref-45]: [Internet Archive - Caesar II Instruction Manual](https://archive.org/details/caesariiinstructionmanual) – Scan of the Sierra manual (1996 edition, covers Windows 95, DOS and Macintosh)
+[^ref-46]: [MacUser - Game Room (April 1997, Web Archive)](https://web.archive.org/web/20000604124445/http://macuser.zdnet.com/mu_0497/personal/gameroom.html) – Roman Loyola's Caesar II review; Game Point listing, $45 estimated street
+[^ref-47]: [Computer Game Review - Caesar II (Web Archive)](https://web.archive.org/web/19961221183938/http://www.nuke.com/cgr/reviews/1295/caesar2/caesar2.htm) – Street price $44.99, requirements and feature summary
