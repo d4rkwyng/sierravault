@@ -23,7 +23,7 @@ For information about the Gearbox development studio's work on Sierra properties
 
 The Homeworld series was developed by [[Relic Entertainment|Relic Entertainment]] and first published by Sierra Studios in 1999 ([[1999 - Homeworld|Homeworld]]).[^ref-4][^ref-11] Sierra also released the stand-alone expansion [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] (2000) and [[2003 - Homeworld 2|Homeworld 2]] (2003).[^ref-4][^ref-18]
 
-After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auction in April 2013, paying $1.35 million.[^ref-23][^ref-8][^ref-14] This was two years before Gearbox Publishing existed. Gearbox Software released the Homeworld Remastered Collection in 2015, and in June 2017 released Cataclysm under the new title Homeworld: Emergence on GOG, where Gearbox Software is listed as publisher.[^ref-26] Gearbox Publishing later published two new Homeworld games developed by [[Blackbird Interactive]]: Homeworld: Deserts of Kharak (2016) and Homeworld 3 (2024).[^ref-20][^ref-19][^ref-21]
+After THQ's bankruptcy, Gearbox Software won Homeworld at THQ's final asset auction in April 2013, paying $1.35 million.[^ref-23][^ref-8][^ref-14] This was before Gearbox Publishing existed. Gearbox Software released the Homeworld Remastered Collection in 2015, and in June 2017 released Cataclysm under the new title Homeworld: Emergence on GOG, where Gearbox Software is listed as publisher.[^ref-26] Gearbox Publishing later published two new Homeworld games developed by [[Blackbird Interactive]]: Homeworld: Deserts of Kharak (2016) and Homeworld 3 (2024).[^ref-20][^ref-19][^ref-21]
 
 ## Games Published
 
