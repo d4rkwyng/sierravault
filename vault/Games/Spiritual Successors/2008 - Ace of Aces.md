@@ -10,20 +10,20 @@ series: None
 engine: Torque
 protagonist: Unnamed pilot
 sierra_lineage: Alumni Project
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: []
 description: 'Ace of Aces is a browser-based World War I flight combat game developed by Mad Otter Games and designed by Damon Slye, co-founder of Dynamix and creator of the Red Baron and Aces of the Pacific series.'
 tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-games, wwi]
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Mad Otter Games and offered through the InstantAction web gaming platform[^ref-10][^ref-7][^ref-32]. The game was designed by [[Damon Slye]], co-founder of Dynamix and creator of the flight simulations [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]] and [[1993 - Aces Over Europe|Aces Over Europe]][^ref-1][^ref-5].
 
-Ace of Aces marked Slye's return to game development after a 12-year hiatus[^ref-9][^ref-23]. Having left Dynamix in 1994, he earned a degree in mathematics and learned to fly[^ref-1][^ref-9][^ref-7]. He founded Mad Otter Games in 2007 with ex-Dynamix employees; the studio is based in Eugene, Oregon[^ref-7][^ref-9][^ref-18]. Polygon describes Ace of Aces as one of the studio's "fairly low budget titles", "a multiplayer flight-sim", and it took Slye back to the World War I air combat of his earlier Red Baron[^ref-9][^ref-10].
+Ace of Aces marked Slye's return to game development after a 12-year hiatus[^ref-9][^ref-23]. Having left Dynamix in 1994, he earned a degree in mathematics and learned to fly[^ref-1][^ref-9][^ref-7]. He founded Mad Otter Games in 2007 with ex-Dynamix employees; the studio is based in Eugene, Oregon[^ref-7][^ref-9][^ref-18]. Polygon describes Ace of Aces as one of the studio's "fairly low budget titles", "a multiplayer flight-sim"[^ref-9]. In 2013 Mad Otter described its planned Red Baron as the successor to Ace of Aces, one that would "still feature multiplayer world war one air combat"[^ref-36].
 
 The game was part of InstantAction's catalogue, with single-player tutorials and multiplayer battle modes[^ref-10]. InstantAction took its game portal offline in March 2010 and announced it was "winding down" operations on November 11, 2010[^ref-10]. Mad Otter announced plans to re-release the game[^ref-10], but the Ace of Aces website's domain had lapsed by November 23, 2015[^ref-38], and as of November 2026 the game is not sold on Steam or GOG.
 
@@ -116,7 +116,7 @@ On September 18, 2007, IAC and GarageGames announced the creation of InstantActi
 
 InstantAction went live to the public on March 6, 2008. On that day TechCrunch reported "the following four titles are available – Marble Blast, Screw Jumper, Think Tanks, and Cyclomite", with Fallen Empire: Legions named as "the next game to be added"[^ref-15]. Ace of Aces was not among those four launch titles. Wikipedia dates InstantAction's open beta to March 31, 2008 and lists Ace of Aces among the platform's games[^ref-10].
 
-Ace of Aces itself opened later that year. On December 17, 2008, InstantAction's blog announced: "Ace of Aces is now open beta! Free for everyone to play!"[^ref-34] Giant Bomb gives the game's first release date as December 19, 2008[^ref-33].
+Ace of Aces itself arrived later that year. On December 11, 2008, a CombatACE forum post announced "the release of a private beta; Ace of Aces", saying the game "will be available exclusively on InstantAction.com" and that registrants could gain access with a promotional code[^ref-39]. On December 17, 2008, InstantAction's blog announced: "Ace of Aces is now open beta! Free for everyone to play!"[^ref-34] Giant Bomb gives the game's first release date as December 19, 2008[^ref-33].
 
 ### Platform Shutdown
 
@@ -182,7 +182,7 @@ Ace of Aces sits within the broader **Sierra diaspora** of post-Sierra projects 
 
 - [[Damon Slye]] — Designer and Mad Otter Games founder
 - [[Dynamix]] — Sierra subsidiary where Slye created his classic flight sims
-- [[1990 - Red Baron|Red Baron]] — Slye's legendary WWI flight sim for Dynamix/Sierra
+- [[1990 - Red Baron|Red Baron]] — Slye's WWI flight sim for Dynamix/Sierra
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] — WWII Pacific theater flight sim
 - [[1993 - Aces Over Europe|Aces Over Europe]] — WWII European theater flight sim
 
@@ -236,3 +236,4 @@ Ace of Aces sits within the broader **Sierra diaspora** of post-Sierra projects 
 [^ref-36]: [aceofacesgame.com – Archive for October 2013 (Wayback)](https://web.archive.org/web/20150327044033/http://www.aceofacesgame.com/2013/10/) – "Red Baron is Back!", October 22, 2013: "a great successor to Ace of Aces"
 [^ref-37]: Note on GarageGames' founding year: IAC's own September 18, 2007 release (ref-2) says "GarageGames was founded in 1999 by four industry veterans", while Wikipedia (ref-25) gives 2000. This page follows Wikipedia.
 [^ref-38]: [Archive.org – aceofacesgame.com (November 2015 capture)](https://web.archive.org/web/20151123175732/http://aceofacesgame.com/) – registrar notice: "The domain aceofacesgame.com has expired."
+[^ref-39]: [CombatACE forum – InstantAction: Ace of Aces (forum post)](https://combatace.com/forums/topic/34755-instantaction-ace-of-aces/) – DrWiley, December 11, 2008: private beta announcement, "available exclusively on InstantAction.com", promotional-code access
