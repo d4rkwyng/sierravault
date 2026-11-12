@@ -7,12 +7,12 @@ first_release: 1995
 last_release: 1997
 total_games: 2
 genre: "Horror adventure"
-last_updated: "2026-11-11"
+last_updated: '2026-11-12'
 ---
 
 # Shivers Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -144,8 +144,8 @@ None were found in the sources consulted for this page.
 [^ref-26]: [ScummVM Wiki — Shivers 2 (Wayback)](https://web.archive.org/web/2025/https://wiki.scummvm.org/index.php?title=Shivers_2) — "Engine Not SCI", "Support Not supported", "Available for Purchase Yes"
 [^ref-27]: [Sierra On-Line press releases list (Wayback 1998-02-14)](https://web.archive.org/web/19980214123917/http://sierra.com/info/press.html) — "Shivers II: Harvest of Souls is Released. (14-April-1997)"
 [^ref-28]: [Online Gaming Review — News, May 1996 (Wayback 1997-02-27)](https://web.archive.org/web/19970227065909/http://www.ogr.com/news/news0596.html) — News for May 30, 1996: "Mac gamers should also note that Shivers was released as well."
-[^ref-29]: [MobyGames — Best of Sierra Nr. 8 (Wayback 2025)](https://web.archive.org/web/2025/https://www.mobygames.com/game/174510/best-of-sierra-nr-8/) — September/October 1998 issue; contains Shivers and The Dagger of Amon Ra; also read via the MobyGames API
-[^ref-30]: [MobyGames — Le Meilleur de Sierra II (Wayback 2025)](https://web.archive.org/web/2025/https://www.mobygames.com/game/133154/le-meilleur-de-sierra-ii/) — 1998 compilation of seven Sierra games including Shivers Two: Harvest of Souls; also read via the MobyGames API
+[^ref-29]: [MobyGames — Best of Sierra Nr. 8 (Wayback 2025)](https://web.archive.org/web/2025/https://www.mobygames.com/game/174510/best-of-sierra-nr-8/) — September/October 1998 issue; contains Shivers and The Dagger of Amon Ra
+[^ref-30]: [MobyGames — Le Meilleur de Sierra II (Wayback 2025)](https://web.archive.org/web/2025/https://www.mobygames.com/game/133154/le-meilleur-de-sierra-ii/) — 1998 compilation of seven Sierra games including Shivers Two: Harvest of Souls
 [^ref-31]: [PC Games — Shivers review (Hermann Peterscheck, February 1996; Wayback 1996-10-18)](https://web.archive.org/web/19961018113737/http://www.pcgamesmag.com/games/Feb96/shivers296.html) — "more spooky than scary--more Scooby-Doo than Psycho"
 [^ref-32]: [MacUser — The Game Room (Roman Loyola, December 1996; Wayback 2001-01-07)](https://web.archive.org/web/20010107225300/http://macuser.zdnet.com/mu_1296/personal/gameroom.html) — "you're better off leaving Shivers out in the cold"
 [^ref-33]: [Shivers manual (PC), credits page (PDF)](https://archive.org/download/SHIV102/Shivers_-_Manual_-_PC.pdf) — "Designer: Marcia Bales"; "Lead Game Developer: Willie Eide"; "Script Writers: Marcia Bales, Roberta Williams"; "Creative Consultant: Roberta Williams"
