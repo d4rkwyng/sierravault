@@ -110,7 +110,7 @@ The game was programmed using the SCI0 interpreter, the earliest version of Sier
 
 **Development Credits:**[^ref-26][^ref-28]
 - **Executive Producer:** [[Ken Williams]]
-- **Producer:** Guruka Singh Khalsa
+- **Producer:** [[Guruka Singh Khalsa]]
 - **Designer:** Warren Schwader
 - **Programmers:** Warren Schwader, David Slayback
 - **Graphics:** Eileen Fisher, Jerry (Gerald) Moore, Warren Schwader (Sierra's InterAction credits Moore alone for graphics)[^ref-31]

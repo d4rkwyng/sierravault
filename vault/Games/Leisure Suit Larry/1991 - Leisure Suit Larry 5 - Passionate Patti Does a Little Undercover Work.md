@@ -11,7 +11,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
   (1991) is the fourth game in Al Lowe''s Leisure Suit Larry series, alternating
   between Larry Laffer and Passionate Patti and skipping a Larry 4 that was never made.'
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -111,7 +111,7 @@ Adventure Classic Gaming describes the game's original score as the work of "Emm
 - **Design / Director:** [[Al Lowe]]
 - **Creative Director:** Bill Davis
 - **Executive Producer:** Ken Williams
-- **Producer:** Guruka Singh Khalsa
+- **Producer:** [[Guruka Singh Khalsa]]
 - **Programming:** Brian K. Hughes (lead), Oliver Brelsford, Steve Conrad, Juan Carlos Escobar, John Hartin, Al Lowe
 - **Art Directors:** Jane Cardinal, Cheryl Loyd
 - **Music:** Craig Safan, Al Lowe, Christopher Braymen
