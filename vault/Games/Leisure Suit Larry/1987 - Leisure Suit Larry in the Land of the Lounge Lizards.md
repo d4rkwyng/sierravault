@@ -10,26 +10,26 @@ series: Leisure Suit Larry
 engine: AGI
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Sierra On-Line''s 1987 AGI adventure, Al Lowe''s comedic remake of the text game Softporn Adventure, in which Larry Laffer tries to lose his virginity in the neon city of Lost Wages, Nevada.'
 tags: [1980s, adventure, agi, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
 **Leisure Suit Larry in the Land of the Lounge Lizards** stands as one of Sierra On-Line's most distinctive and controversial adventure games. Released in 1987, the game was created by Al Lowe as a comedic update to the 1981 text adventure **Softporn Adventure**[^ref-1]. When Lowe first encountered the original game, he famously remarked to Sierra co-founder Ken Williams, "This game is so out of date, anybody who plays it would have to wear a leisure suit"[^ref-2]. This quip would eventually inspire both the game's title and its protagonist's signature fashion sense.
 
-Despite initial commercial struggles, with only 4,000 copies sold in its first month[^ref-3], the game eventually became what Guinness World Records recognizes as "the biggest sleeper hit in adventure gaming history"[^ref-4]. The game introduced players to Larry Laffer, a balding bachelor who, the box copy says, has "just turned 40" (he "was 38 at the time" his mother threw him out)[^ref-15], whose quest for romantic fulfillment in the neon-soaked city of Lost Wages, Nevada, would spawn an entire franchise and establish a new subgenre of adult-oriented computer games[^ref-5].
+Despite initial commercial struggles, with only 4,000 copies sold in its first month[^ref-3], the game eventually became what Guinness World Records recognizes as "the biggest sleeper hit in adventure gaming history"[^ref-4]. The game introduced players to Larry Laffer, a balding bachelor who, the box copy says, has "just turned 40" (he "was 38 at the time" his mother threw him out)[^ref-15][^ref-40], whose quest for romantic fulfillment in the neon-soaked city of Lost Wages, Nevada, would spawn an entire franchise and establish a new subgenre of adult-oriented computer games[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
 > **Designer:** [[Al Lowe]], [[Mark Crowe]], [[Chuck Benton]] (Softporn Adventure, credited)[^ref-6]
 > **Publisher:** Sierra On-Line[^ref-8]
 > **Platforms:** MS-DOS, Apple II (1987); Atari ST, Macintosh, Amiga, Apple IIGS, TRS-80 CoCo (1988); Windows and macOS via ScummVM (January 17, 2013) and Linux (December 17, 2015) per PCGamingWiki[^ref-17]; MobyGames lists a Windows release dated August 16, 2021[^ref-6]
-> **Release Year:** 1987 (June 4, MS-DOS, per MobyGames[^ref-6] and PCGamingWiki[^ref-17]; GameFAQs lists July 5, 1987[^ref-45])
+> **Release Year:** 1987 (June 4, MS-DOS, per MobyGames[^ref-6] and PCGamingWiki[^ref-17]; GameFAQs lists two US SKUs, June 4 (SRL-046) and July 5 (SRL-117), 1987[^ref-45])
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
 > **Engine:** AGI (Adventure Game Interpreter)[^ref-10]
@@ -72,8 +72,8 @@ The game received mixed to positive reviews upon release, with many publications
 | Software Publishers Association | Best Adventure, or Fantasy/Role-Playing Program of 1987 | Award[^ref-8] |
 | Computer Gaming World (Roy Wagner) | — | November 1987: "a lot of fun to play and is very humorous ... With good graphics, good design, and good fun provided, who needs 'good taste'?"[^ref-40] |
 | The Games Machine | 83% | April 1988 review[^ref-26] |
-| Computer + Video Games | 8/10 | September 1988[^ref-26] |
-| Info Magazine | 4/5 | November-December 1987[^ref-26] |
+| Computer + Video Games (Atari ST) | 8/10 | September 1988[^ref-26] |
+| Info Magazine (Amiga) | 4/5 | November-December 1987[^ref-26] |
 | GameRankings | 81% | Aggregate score[^ref-8] |
 
 ### Modern Assessment
@@ -94,7 +94,7 @@ Recognizing that a straight adaptation wouldn't work, Lowe proposed a radical re
 
 Al Lowe served as both designer and composer for the original game[^ref-6]. The iconic theme song was inspired by Irving Berlin's "Alexander's Ragtime Band": hearing it on the radio, Lowe felt "it sounded so unusual, so, different, so fresh" next to most computer game music that he wrote something "with the same pep, simplicity, humor, and out-of-sync attitude"[^ref-29]. Initially created casually with the attitude of "What the hell? It was only for a computer game," Lowe later marveled that his "silly little ditty would be heard by millions of gamers, many of whom have sworn revenge against me for making it so 'whistle-able' that they can't get it out of their heads"[^ref-29].
 
-Sierra could spare artist [[Mark Crowe]] for only four weeks, because he was working full-time on another project (which became *Space Quest I*); Lowe says Crowe worked weekends and evenings and created everything seen on screen in that time[^ref-1]. Lowe worked primarily from his home[^ref-30] and conducted extensive beta testing because, as he explained, "this was the first non-children's game I had written, so I was scared to death it would be 'dumb' and not understand everything a player could type in"[^ref-25][^ref-1]. Lowe believes he kept only one sentence of Chuck Benton's text, his description of Lefty's back room, "something about 'the peeling paint gives the roaches something to watch'"[^ref-1].
+Sierra could spare artist [[Mark Crowe]] for only four weeks, because he was working full-time on another project (which became *Space Quest I*); Lowe says Crowe worked weekends and evenings and created everything seen on screen in that time[^ref-1]. Lowe worked primarily from his home[^ref-30]. As he explained, "this was the first non-children's game I had written, so I was scared to death it would be 'dumb' and not understand everything a player could type in"[^ref-25][^ref-1]; at his urging it became the first Sierra adventure to go through a proper beta test, with testers recruited through an announcement on CompuServe's Gamers Forum[^ref-25]. Lowe believes he kept only one sentence of Chuck Benton's text, his description of Lefty's back room, "something about 'the peeling paint gives the roaches something to watch'"[^ref-1].
 
 ### Technical Achievements
 
@@ -156,10 +156,10 @@ The 1991 VGA remake utilized Sierra's more advanced SCI1 engine[^ref-17], featur
 - The entire game contained approximately 700 kilobytes of data—Lowe later marveled that "just think of that: one photo or an entire game—all the code, the text, the backgrounds, the animation—everything!"[^ref-3]
 - Typing "masturbate" produces the response: "Larry, the whole idea was to stop doing that!"[^ref-19]
 - Typing "look at pussy" generates: "Obviously, restraint is no problem for you, Larry"[^ref-19]
-- More hint books were sold for Leisure Suit Larry than copies of the actual game itself—an unusual achievement recognized by Guinness World Records[^ref-34]
+- More hint books were sold for Leisure Suit Larry than copies of the actual game itself—an unusual achievement recognized by Guinness World Records, which reports Al Lowe's claim that "millions" of hint books were sold in the first year against only 250,000 copies of the game[^ref-34]
 - Lowe recalled a Russian computer consultant who said every computer he had been on in Russia had a Sierra directory with an LSL sub-directory—"it was like it was part of DOS!"—and then joked, "I guess we only sold one copy to the whole of Russia though!"[^ref-30]
 - The game's age verification quiz has dated badly: one GameFAQs walkthrough author notes many questions "are probably not even known to non-American adults that didn't live in the US during the '80s"[^ref-22]
-- Al Lowe conducted extensive beta testing because "this was the first non-children's game I had written, so I was scared to death it would be 'dumb'"[^ref-25]
+- Al Lowe pushed for Sierra's first proper beta test because "this was the first non-children's game I had written, so I was scared to death it would be 'dumb'"[^ref-25]
 - Sierra co-founder [[Ken Williams]] makes a cameo appearance in the game[^ref-25]
 - Al Lowe recalls the game sold only 4,000 copies in its first month, "the worst initial sales in the history of Sierra"[^ref-1] (Guinness gives 2,000[^ref-4]), yet Guinness calls it "the biggest sleeper hit in adventure gaming history"[^ref-4]
 
@@ -237,5 +237,5 @@ The game was bundled in several compilations, among them *3-D Animated Adventure
 [^ref-42]: [Computer Gaming World #148 (November 1996), pp. 74 and 113](https://archive.org/download/Computer_Gaming_World_Issue_148/Computer_Gaming_World_Issue_148_djvu.txt) – "150 Best Games of All Time" #69 (p. 74) and "The 15 Funniest Computer Games" #5 (p. 113)
 [^ref-43]: [Time – All-TIME 100 Video Games: Leisure Suit Larry (1987)](https://web.archive.org/web/20121118054352/http://techland.time.com:80/2012/11/15/all-time-100-video-games/slide/leisure-suit-larry-1987/) – Wayback copy, November 2012
 [^ref-44]: [AGI Specifications – PICTURE resources](https://www.agidev.com/articles/agispec/agispecs-7.html) – 160x200x16 mode; "each AGI pixel has a width of two normal 320x200 pixels"
-[^ref-45]: [GameFAQs – Leisure Suit Larry in the Land of the Lounge Lizards (PC) release data](https://gamefaqs.gamespot.com/pc/565080-leisure-suit-larry-in-the-land-of-the-lounge-lizards/data) – "Release: July 5, 1987"; compilations list
+[^ref-45]: [GameFAQs – Leisure Suit Larry in the Land of the Lounge Lizards (PC) release data](https://gamefaqs.gamespot.com/pc/565080-leisure-suit-larry-in-the-land-of-the-lounge-lizards/data) – Two US SKUs: SRL-046 (06/04/87) and SRL-117 (07/05/87); compilations list
 [^ref-46]: [Al Lowe – Clues & Cheats (LSL1 age quiz)](https://allowe.com/games/larry/tips-manuals/clues-cheats.html) – "In the original, 1987 EGA version, you can bypass the trivia quiz completely by just pressing Alt-X"
