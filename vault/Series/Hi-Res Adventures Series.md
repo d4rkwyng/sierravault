@@ -7,16 +7,16 @@ first_release: 1980
 last_release: 1984
 total_games: 12
 genre: "Adventure (pre-AGI)"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 
 # Hi-Res Adventures Series
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-The Hi-Res Adventures are the graphic adventure games that On-Line Systems (later [[Sierra On-Line]]) released before *King's Quest*: seven numbered games, #0 to #6, from 1980 to 1983.[^ref-1] They began [[Roberta Williams|Roberta Williams's]] design career and built Ken and Roberta Williams's company. This page also covers On-Line's other Hi-Res-branded titles of the period, from 1980 to 1984. Smithsonian calls Mystery House (1980) "the first home computer game ever to include graphics as well as text".[^ref-2]
+The Hi-Res Adventures are the graphic adventure games that On-Line Systems (later [[Sierra On-Line]]) released before *King's Quest*: seven numbered games, #0 to #6, from 1980 to 1983.[^ref-1] HistoryLink describes "a series of six adventures called Hi-Res Adventures published between 1980 and 1983".[^ref-35] They began [[Roberta Williams|Roberta Williams's]] design career and built Ken and Roberta Williams's company. This page also covers On-Line's other Hi-Res-branded titles of the period, from 1980 to 1984. Smithsonian calls Mystery House (1980) "the first home computer game ever to include graphics as well as text".[^ref-2]
 
 The games were written for the Apple II's high-resolution graphics mode. Mystery House was written "in 100% assembly language for speed and efficiency, during an era when even most commercial software was still unashamedly coded in BASIC".[^ref-3] Like Sierra's later AGI games, the Hi-Res Adventures drew their pictures as vector graphics rather than bitmaps.[^ref-4] The numbered adventures ran on ADL, Ken Williams's adventure interpreter.[^ref-12][^ref-11][^ref-10]
 
@@ -30,7 +30,7 @@ The games were written for the Apple II's high-resolution graphics mode. Mystery
 | 1980 | 1 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]] | Roberta Williams | First home computer game with graphics as well as text[^ref-2] |
 | 1980 | 2 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|The Wizard and the Princess]] | Roberta Williams | "The first adventure game with color graphics"; the company's first major hit[^ref-26][^ref-7] |
 | 1981 | 3 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Cranston Manor]] | Harold DeWitz, Ken Williams[^ref-18] | First numbered Hi-Res Adventure not designed by Roberta[^ref-18] |
-| 1981 | 4 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Ulysses and the Golden Fleece]] | Bob Davis, Ken Williams | Greek mythology setting |
+| 1981 | 4 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Ulysses and the Golden Fleece]] | Bob Davis, Ken Williams[^ref-34] | Greek mythology setting[^ref-34] |
 | 1982 | 5 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]] | Roberta Williams | Six double-sided disks, 39 scenarios[^ref-9] |
 | 1983 | 6 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|The Dark Crystal]] | Roberta Williams | Final numbered entry; based on Jim Henson's 1982 film[^ref-11] |
 
@@ -48,7 +48,7 @@ Hi-Res Cribbage's release date is disputed: a 1986 *Computist* softkey article s
 
 ## Mystery House (1980) — the founding entry
 
-[[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] is the most historically significant entry in the series. Roberta Williams had played *Adventure* on a remote terminal Ken had at the house for one of his jobs.[^ref-5] The couple then implemented Mystery House in a single month. With 100 blank disks, Ziploc bags for packaging and a couple of magazine advertisements, On-Line Systems "was born in earnest in May of 1980".[^ref-3] The [[Ken Williams]] and [[Roberta Williams]] pages date the founding of On-Line Systems to 1979; Maher's May 1980 date refers to the launch of the business with its first products.
+[[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] is the most historically significant entry in the series. Roberta Williams had played *Adventure* on a remote terminal Ken had at the house for one of his jobs.[^ref-3] The couple then implemented Mystery House in a single month. With 100 blank disks, Ziploc bags for packaging and a couple of magazine advertisements, On-Line Systems "was born in earnest in May of 1980".[^ref-3] The [[Ken Williams]] and [[Roberta Williams]] pages date the founding of On-Line Systems to 1979; Maher's May 1980 date refers to the launch of the business with its first products.
 
 **Key features:**
 - **Graphics with text**: line-art pictures of each location accompanied the text parser.[^ref-2]
@@ -78,7 +78,7 @@ After *The Dark Crystal*, Sierra's next adventure engine was [[Adventure Game In
 - **Vector-drawn graphics**: each picture was stored as drawing commands rather than a bitmap, as in Sierra's later AGI games.[^ref-4]
 - **Shared engine**: the numbered adventures ran on Ken Williams's ADL interpreter.[^ref-12][^ref-11][^ref-10]
 - **Text parser interface**: players typed short commands. In most games the player saw only a still picture of each location, but The Dark Crystal showed the Gelfling Jen on screen in every scene.[^ref-28]
-- **Platforms**: the series appeared on the Apple II, Atari 8-bit, Commodore 64 and IBM PC (booter), and the Japanese FM-7, PC-88 and PC-98.[^ref-12]
+- **Platforms**: the series appeared on the Apple II, Atari 8-bit, Commodore 64 and IBM PC (booter) and IBM PCjr, the Japanese FM-7, PC-88 and PC-98, and, for Mystery House, iOS (2009).[^ref-12][^ref-36][^ref-37]
 
 ## Critical reception and legacy
 
@@ -119,9 +119,8 @@ A new 3D game based on Roberta Williams's original is listed on Steam as *Myster
 
 [^ref-1]: [Wikipedia — Hi-Res Adventures](https://en.wikipedia.org/wiki/Hi-Res_Adventure) — "all seven graphic adventure games released by the company prior to the release of the company's landmark King's Quest", #0–#6
 [^ref-2]: [Smithsonian Magazine — The Pioneer of Graphic Adventure Games Was a Woman](https://www.smithsonianmag.com/smart-news/1980s-roberta-williams-brought-graphic-adventure-games-home-180962160/) — Kat Eschner, February 16, 2017: "the first home computer game ever to include graphics as well as text"; "you meet seven people"; inspired by Agatha Christie
-[^ref-3]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) — "100% assembly language"; Ziploc bags; "born in earnest in May of 1980"
+[^ref-3]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) and [Ken and Roberta](https://www.filfre.net/2011/10/ken-and-roberta/) — "100% assembly language"; Ziploc bags; "born in earnest in May of 1980"; Ken's remote terminal with a copy of Adventure
 [^ref-4]: [Wikipedia — Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — "Like Sierra's early titles in the Hi-Res Adventures series, AGI games used vector graphics"
-[^ref-5]: [The Digital Antiquarian — On-Line Systems is Born](https://www.filfre.net/2011/10/on-line-systems-is-born/) and [Ken and Roberta](https://www.filfre.net/2011/10/ken-and-roberta/) — Founding; Ken's remote terminal with a copy of Adventure
 [^ref-7]: [The Digital Antiquarian — The Wizard and the Princess, Part 2](https://www.filfre.net/2011/10/the-wizard-and-the-princess-part-2/) — Over 60,000 copies vs Mystery House's 10,000; office near Coarsegold; Softalk sales chart, September 1980
 [^ref-8]: [MobyGames — Hi-Res Adventure #2: The Wizard and the Princess](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) — ID 1761 (verified via API): alternate title "Adventure in Serenia"; PC Booter 1982
 [^ref-9]: [Wikipedia — Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) — Six double-sided floppy disks, 39 scenarios; "one of the first games of this magnitude"
@@ -145,5 +144,9 @@ A new 3D game based on Roberta Williams's original is listed on Steam as *Myster
 [^ref-29]: [Softalk, February 1981 (Vol. 1 No. 6), Internet Archive](https://archive.org/details/softalkv1n06feb1981) — "Cribbage by Warren Schwader and Superscript by David Kidwell represent the first attempt by On-Line Systems to publish programs totally generated by outside authors"
 [^ref-30]: [Hardcore Computist #35 — Softkey for Hi-Res Cribbage (Internet Archive)](https://archive.org/details/computist-scan-35) — William Hinger: "This game was released in 1980"
 [^ref-31]: [Retro365 — Hi-Res Cribbage, Warren Schwader, one of the first-hired programmers](https://retro365.blog/2021/02/19/bits-from-my-personal-collection-hi-res-cribbage-by-warren-schwader-on-line-systems-first-hire/) — Ernst Krogtoft: "re-released on floppy under the name Hi-Res Cribbage in early 1981"
-[^ref-32]: [Steam — Mystery House (Guillotine Games)](https://store.steampowered.com/app/3108560/Mystery_House/) — Read 2026-11-11 (store page and appdetails API): developer Guillotine Games, publisher MMMera, Inc; "Coming Q2 2027"; "A first and third-person horror revival of Roberta Williams' Mystery House"
-[^ref-33]: [Internet Archive — Hi-Res Adventure #1: Mystery House (On-Line Systems) (1980)](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems) — Software Library item, Apple II (emulator apple2e), browser-playable; read 2026-11-11
+[^ref-32]: [Steam — Mystery House (Guillotine Games)](https://store.steampowered.com/app/3108560/Mystery_House/) — Checked 2026-11-11: developer Guillotine Games, publisher MMMera, Inc; "Coming Q2 2027"; "A first and third-person horror revival of Roberta Williams' Mystery House"
+[^ref-33]: [Internet Archive — Hi-Res Adventure #1: Mystery House (On-Line Systems) (1980)](https://archive.org/details/Hi-Res_Adventure_1_Mystery_House_1980_On-Line_Systems) — Software Library item, Apple II (emulator apple2e), browser-playable
+[^ref-34]: [Softalk, December 1981 (Vol. 2 No. 4), Internet Archive](https://archive.org/details/softalkv2n04dec1981) — "Hi-Res Adventure #4: Ulysses and the Golden Fleece. By Bob Davis and Ken Williams"; On-Line ad: "ULYSSES is a HI-RES Adventure epic set in ancient Greece"
+[^ref-35]: [HistoryLink — Williams, Roberta Lynn (b. 1953)](https://www.historylink.org/File/20912) — "Mystery House was the first game in what would become a series of six adventures called Hi-Res Adventures published between 1980 and 1983."
+[^ref-36]: [PC Magazine, 24 January 1984, p. 142 (Internet Archive)](https://archive.org/details/PC-Mag-1984-01-24) — Phil Wiswell, "Coming Soon: Games For The PCjr": Serenia as a PCjr disk package
+[^ref-37]: [TouchArcade (Wayback, Mar 2013)](https://web.archive.org/web/20130307004432/http://toucharcade.com/2009/03/12/1980-adventure-mystery-house-comes-to-the-iphone/) — "1980 Adventure 'Mystery House' Comes to the iPhone"
