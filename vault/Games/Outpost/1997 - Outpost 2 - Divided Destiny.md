@@ -10,7 +10,7 @@ series: Outpost
 engine: Proprietary (DirectX 3)
 protagonist: Colony Commander (Plymouth or Eden)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: 'Outpost 2: Divided Destiny is a 1997 Windows real-time strategy game
   developed by Dynamix and published by Sierra On-Line, in which two rival colonies
   on New Terra race to escape a spreading terraforming microbe called the Blight.'
@@ -18,11 +18,11 @@ tags: [1990s, outpost, sierra, strategy]
 ---
 # Outpost 2: Divided Destiny
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Outpost 2: Divided Destiny is a real-time strategy game developed by Dynamix and published by Sierra On-Line in 1997[^ref-1]. Unlike traditional real-time strategy games, Outpost 2 emphasizes colony management over the destruction of enemies[^ref-2]. The game is set on a distant planet called New Terra, where the last survivors of humanity must build sustainable colonies after Earth was destroyed by an asteroid impact known as Vulcan's Hammer[^ref-2][^ref-4]. Wikipedia and PCGamingWiki give the release date as August 18, 1997[^ref-2][^ref-17], while the Dynamix Wiki gives August 25, 1997[^ref-1].
+Outpost 2: Divided Destiny is a real-time strategy game developed by Dynamix and published by Sierra On-Line in 1997[^ref-1]. Unlike traditional real-time strategy games, Outpost 2 emphasizes colony management over the destruction of enemies[^ref-2]. The game is set on a distant planet called New Terra, where the last survivors of humanity must build sustainable colonies after Earth was destroyed by an asteroid impact known as Vulcan's Hammer[^ref-2][^ref-4]. Wikipedia and PCGamingWiki give the release date as August 18, 1997[^ref-2][^ref-17], while the Dynamix Wiki gives August 25, 1997[^ref-1]. GameSpot, GameFAQs and Metacritic list July 31, 1997[^ref-19][^ref-14][^ref-20]. In its news for August 18, 1997, Online Gaming Review reported that Sierra had announced Dynamix "released" the game, "although it won't actually be in stores until the end of this month"[^ref-28].
 
 The game focuses on the happiness and survival of the colonists - the last remaining survivors of an Earth catastrophe[^ref-5]. Players must manage complex colony systems while dealing with environmental disasters, resource scarcity, and the spreading threat of a terraforming microbe gone wrong called "the Blight"[^ref-6]. Over time, two colonies arise that have different goals in rebuilding humanity[^ref-2][^ref-3], creating the central conflict that drives the game's narrative.
 
@@ -33,7 +33,7 @@ The game focuses on the happiness and survival of the colonists - the last remai
 > **Engine:** Proprietary (DirectX 3)[^ref-15]
 > **Platforms:** Windows 95/NT 4.0[^ref-8][^ref-15]
 > **Release Year:** 1997
-> **Release Date:** August 18, 1997 (Wikipedia, PCGamingWiki)[^ref-2][^ref-17]; August 25, 1997 (Dynamix Wiki)[^ref-1]
+> **Release Date:** August 1997 (announced as released August 18, in stores by the end of the month)[^ref-28]; August 18, 1997 (Wikipedia, PCGamingWiki)[^ref-2][^ref-17]; August 25, 1997 (Dynamix Wiki)[^ref-1]; July 31, 1997 (GameSpot, GameFAQs, Metacritic)[^ref-19][^ref-14][^ref-20]
 > **Series:** Outpost
 > **Protagonist:** Colony Commander (Plymouth or Eden)
 > **Sierra Lineage:** Core Sierra
@@ -103,7 +103,7 @@ Combat units are built to order. There are three chassis, the Lynx, Panther and 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | The Adrenaline Vault | 3.5/5[^ref-1] | Reviewed by Pete Hines, September 14, 1997[^ref-26]; praised structured campaign play and colony survival challenge[^ref-1] |
-| GameSpot | 5/10 (Mediocre) | Criticized as "The Hurry Up and Wait game" due to slow pacing[^ref-19] |
+| GameSpot | 5/10 (Mediocre) | Reviewed by Scott Krol; criticized as "The Hurry Up and Wait game" due to slow pacing[^ref-19] |
 | Computer Gaming World | 3.5/5[^ref-25] | Martin E. Cirulis (December 1997) called it "an excellent attempt to resurrect this franchise" but said "limited vision has damaged another promising Sierra product"[^ref-1][^ref-25] |
 
 ### Modern Assessment
@@ -120,7 +120,7 @@ Outpost 2: Divided Destiny is a sequel to the 1994 Outpost[^ref-1][^ref-17]. It 
 
 ### Production
 
-The game was designed by Allen McPheeters and Patrick Cook, with Cook as director, Kate Kloos as producer, and Dan Duncalf as lead programmer[^ref-1]. Charles Barth composed the music, and Kathy Cullis voiced the Savant Computer[^ref-1].
+The game was designed by Allen McPheeters and Patrick Cook, with Cook as director, Kate Kloos as producer, and Dan Duncalf as lead programmer[^ref-1]. Mike Jahnke and Shawn Sharp are credited as art directors, with sound effects by LOUDMOUTH, Inc.[^ref-15] Charles Barth composed the music, and Kathy Cullis voiced the Savant Computer[^ref-1].
 
 ### Technical Achievements
 
@@ -137,7 +137,7 @@ GOG's store description lists 140 different vehicles and buildings and 60,000 fr
 
 ## Legacy
 
-Despite mixed contemporary reviews, Outpost 2 has maintained an active community of players and developers who continue to support and develop content for the game[^ref-21]. The Sierra Internet Gaming System (SIGS) that originally supported online play has been discontinued, but the game is now commonly played through virtual networks like Hamachi[^ref-2]. In October 2026 an administrator of the Outpost Universe forums announced SIGSWON, described as a rebuild of the classic SIGS/WON multiplayer client with an initial focus on Outpost 2; he opened it for public testing on October 19, 2026[^ref-27].
+Despite mixed contemporary reviews, Outpost 2 has maintained an active community of players and developers who continue to support and develop content for the game[^ref-21]. The Sierra Internet Gaming System (SIGS) that originally supported online play has been discontinued, but the game is now commonly played through virtual networks like Hamachi[^ref-2]. In October 2026 an administrator of the Outpost Universe forums announced SIGSWON, described as a rebuild of the classic SIGS/WON multiplayer client with an initial focus on Outpost 2; it opened for public testing on October 19, 2026[^ref-27].
 
 The game is sold on GOG.com, which released it in 2020 with build version 1.2[^ref-22]. Official post-release support came in 1997 with Sierra's Scenario Pack 1. It added three multiplayer maps (Peacekeeper, La Corrida and Pie Chart), let the Eden campaign's twelfth mission run longer without exhausting internal resources, and improved the program's handling of more than 256 buildings[^ref-23]. Fan work continues at the Outpost Universe (outpost2.net). Its users have developed "tools, patches and new content", and as of November 11, 2026 its forums' Add On Missions board had a last post on November 9, 2026 and the Programming & Development board on October 20, 2026[^ref-24].
 
@@ -185,3 +185,4 @@ Outpost 2 stands out as an RTS built around survival and colony management rathe
 [^ref-25]: [Computer Gaming World #161, December 1997 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_161/page/n417/mode/2up) – Martin E. Cirulis, "Redemption" review, pp. 414–415: 3.5-star rating and verdict quote
 [^ref-26]: [The Adrenaline Vault (Wayback Machine)](https://web.archive.org/web/20100512030802/http://www.avault.com/reviews/pc/outpost-2-pc-review/) – Review by Pete Hines, published September 14, 1997 (page 1 only archived)
 [^ref-27]: [Outpost Universe Forums: SIGS Replacement Coming Soon - Outpost 2 Testers Wanted](https://forum.outpost2.net/index.php/topic,6465.0.html) – Thread started October 13, 2026 by forum administrator Galactic (SIGSWON, rebuild of the SIGS/WON client); public testing announced October 19, 2026 (checked 2026-11-11)
+[^ref-28]: [Online Gaming Review, "News for August 18, 1997" (Wayback Machine)](https://web.archive.org/web/19980207215135/http://ogr.com/news/news0897.html) – Sierra announced Dynamix had "released" Outpost 2: Divided Destiny, "although it won't actually be in stores until the end of this month"
