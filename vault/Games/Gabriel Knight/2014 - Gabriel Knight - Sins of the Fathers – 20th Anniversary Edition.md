@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unity
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a
  comprehensive remake of Jane Jensen''s acclaimed 1993 supernatural adventure game,...'
@@ -18,11 +18,11 @@ tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a comprehensive remake of [[Jane Jensen]]'s acclaimed 1993 supernatural adventure game, released on October 15, 2014 for Windows and Mac OS X, with iOS and Android versions following on July 23, 2015[^ref-1][^ref-2][^ref-34]. Developed by Pinkerton Road Studio in collaboration with Phoenix Online Studios, the remake features completely rebuilt graphics using 3D character models against hand-painted backgrounds, a remastered soundtrack by original composer [[Robert Holmes]], and an entirely new voice cast[^ref-3]. The project emerged from a Kickstarter campaign launched during the crowdfunding boom of 2012, representing Jane Jensen's return to her most celebrated creation after a fifteen-year hiatus from the series[^ref-5].
+Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a comprehensive remake of [[Jane Jensen]]'s acclaimed 1993 supernatural adventure game, released on October 15, 2014 for Windows and Mac OS X, with iOS and Android versions following on July 23, 2015[^ref-1][^ref-2][^ref-34]. Developed by Pinkerton Road Studio in collaboration with Phoenix Online Studios, the remake features completely rebuilt graphics using 3D character models against hand-painted backgrounds, a remastered soundtrack by original composer [[Robert Holmes]], and an entirely new voice cast[^ref-3]. The project grew out of Jensen's Kickstarter campaign for Moebius: its success caught Activision's eye, and the company approached her about a 20th anniversary remake of the first Gabriel Knight game[^ref-51], marking her return to her most celebrated creation after a fifteen-year hiatus from the series[^ref-5].
 
 The 20th Anniversary Edition represents both a faithful preservation and a modernization of the original experience, adding new puzzles and some new locations[^ref-5], with "a little streamlining" of the original's flow[^ref-27], while maintaining the core narrative about voodoo murders in New Orleans.
 
@@ -47,7 +47,7 @@ Billed by its store listing as a "blockbuster retelling" of the award-winning 19
 
 ## Story Summary
 
-The game opens in 1993 New Orleans, where Gabriel Knight, a financially struggling horror novelist, owns St. George's Rare Books[^ref-1][^ref-34]. Gabriel has been experiencing disturbing nightmares and finds himself drawn to investigate a series of ritualistic murders that the press has dubbed the "Voodoo Murders". Working alongside his assistant Grace Nakimura and his childhood friend Detective Mosely of the New Orleans Police Department, Gabriel begins researching the killings as material for his next novel, unaware that his investigation will uncover both supernatural forces and his own family's dark legacy.
+The game opens in 1993 New Orleans, where Gabriel Knight, a financially struggling horror novelist, owns St. George's Rare Books[^ref-1][^ref-34]. Gabriel has been experiencing disturbing nightmares and finds himself drawn to investigate a series of ritualistic murders that the press has dubbed the "Voodoo Murders". Working alongside his assistant Grace Nakimura and his childhood friend Detective Mosely of the New Orleans Police Department[^ref-1][^ref-34], Gabriel begins researching the killings as material for his next novel, unaware that his investigation will uncover both supernatural forces and his own family's dark legacy.
 
 As Gabriel delves deeper into the case, he discovers connections between the murders and genuine voodoo practices, leading him to various New Orleans locations including Jackson Square, Lake Pontchartrain, and the city's voodoo underground[^ref-6]. His research introduces him to Malia Gedde, a mysterious and alluring woman from a prominent New Orleans family, with whom he develops a dangerous romantic attraction despite warnings that she may be connected to the cult responsible for the murders. The investigation spans ten days[^ref-6][^ref-49], during which Gabriel discovers that a voodoo cartel is behind the killings[^ref-34].
 
@@ -89,14 +89,14 @@ More critical assessments came from Hardcore Gamer's Geoff Thew, who awarded onl
 
 Critic aggregates settled in the low 70s (Metacritic 74, OpenCritic 72)[^ref-38][^ref-31]. Digital Trends' Will Fulton wrote that the game "holds up remarkably well after two decades, but loses some of its soul in this HD remake"[^ref-31]. RPG Fan's Dave Yeager awarded 72%, concluding that "if the updated look and feel gets you to play this classic for the first time, it was a worthwhile endeavor"[^ref-2].
 
-Before release, Rock Paper Shotgun's Richard Cobbett published impressions of a build covering Days 1 and 2 (August 2014); he called the remake "basically fine. Fine" but wrote "I feel let down", and preferred the original[^ref-27]. HowLongToBeat users put it at about 10 hours for the main story and 15 hours for completionists (polled averages 10h 34m and 15h 26m, as of October 2026)[^ref-26].
+Before release, Rock Paper Shotgun's Richard Cobbett published impressions of a build covering Days 1 and 2 (August 2014); he called the remake "basically fine. Fine" but wrote "I feel let down", and preferred the original[^ref-27]. HowLongToBeat users put it at about 10 hours for the main story and 15 hours for completionists (polled averages 10h 34m and 15h 15m)[^ref-26].
 
 **Aggregate Scores:**
 - **Metacritic:** 74/100[^ref-14]
 - **OpenCritic:** 72 (Top Critic Average), 39% Critics Recommend[^ref-31]
 - **MobyGames Critics:** 76%[^ref-3]
 - **GOG User Reviews:** 4.1/5 (137 reviews, as of October 2026)[^ref-2]
-- **Steam:** Very Positive (90% of 947 reviews, as of October 2026)[^ref-42]
+- **Steam:** Very Positive (89% of 949 reviews)[^ref-42]
 - **IMDB (Original 1993):** 8.9/10 (828 ratings, as of October 2026)[^ref-41]
 - **HowLongToBeat:** 74%[^ref-26]
 - **Gamepressure Users:** 5.2[^ref-33]
@@ -107,11 +107,13 @@ Before release, Rock Paper Shotgun's Richard Cobbett published impressions of a 
 
 The 20th Anniversary Edition emerged from Jane Jensen's desire to revisit her most celebrated work after years away from the Gabriel Knight series. Following the release of Gabriel Knight 3: Blood of the Sacred, Blood of the Damned in 1999—which proved to be the final adventure game published by Sierra[^ref-40]—no new Gabriel Knight title appeared for fifteen years[^ref-5]. The Sierra community had kept "pleading and maintaining hope for more Schattenjager [sic] adventures" throughout this period[^ref-5]. Jensen and her husband, composer Robert Holmes, founded Pinkerton Road Studio, named after the location of their farmhouse in Pennsylvania, specifically to create new adventure games and eventually revisit the Gabriel Knight franchise[^ref-5].
 
-The project was funded through a Kickstarter campaign launched during the 2012 crowdfunding boom that saw numerous classic adventure game creators return to the genre[^ref-5]. Jensen obtained permission from Activision, the current holder of the Sierra intellectual property, to develop the remake[^ref-5]. IGN described the result as "a straight remake, not a reimagining or reinvention of the first game."[^ref-8]
+According to the Game Developer postmortem, Jensen had "crowdfunded Moebius" after a decade designing hidden object games, and "The success of her Kickstarter campaign caught Activision's eye, and the company approached her about doing a 20th anniversary remake of the first Gabriel Knight game"[^ref-51]. PC Gamer reported that her Pinkerton Road studio "licensed the property from Activision"[^ref-52], and the Sierra Chest likewise says Jensen obtained permission from Activision, the current holder of the Sierra intellectual property, to develop the remake[^ref-5]. IGN described the result as "a straight remake, not a reimagining or reinvention of the first game."[^ref-8]
 
 ### Production
 
 Development proceeded as a collaboration between Pinkerton Road Studio and Phoenix Online Studios, the latter having previously developed The Silver Lining, a free, unofficial King's Quest fan game[^ref-39]. Jensen had already worked with Phoenix Online as creative consultant on its game Cognition: An Erica Reed Thriller[^ref-5]. According to the Sierra Chest, Jane Jensen and Robert Holmes "obtained the permission to use its IP from the current Sierra owner, Activsion [sic]"[^ref-5].
+
+The Game Developer postmortem's data box lists a team of 26 developers, a development length of 12-13 months, a budget of $215,269.50, and "approximately 100,000 lines of dialogue"; it gives the goal as "introducing the series to a new audience on mobile devices as well as computers"[^ref-51].
 
 The production team faced the challenge of modernizing a beloved classic without alienating its passionate fanbase. The Sierra Chest notes: "Possibly the most challenging part was to find a cast of voice actors that could somewhat match the star-studded cast of the 1993 original"[^ref-5].
 
@@ -171,7 +173,7 @@ In a pre-release build, Rock Paper Shotgun found that Napoleon House, the Voodoo
 
 The launch version contained numerous technical problems that impacted the critical reception. Adventure Gamers noted that "avoidable technical issues both big and small made it into the launch version"[^ref-9]. GOG user reviews reported autosave issues and freezing problems, with the store noting the game is "not recommended for Intel systems with integrated/shared video memory"[^ref-2].
 
-The Mac version faces a critical compatibility issue: as a 32-bit application, it does not function on macOS Catalina (version 10.15) or later due to Apple's removal of support for 32-bit applications[^ref-14][^ref-2]. Some reviewers noted that character animation occasionally appeared stiff, and the new voice performance for Gabriel was considered "patchy" by some critics[^ref-15].
+The Mac version faces a critical compatibility issue: as a 32-bit application, it does not function on macOS Catalina (version 10.15) or later due to Apple's removal of support for 32-bit applications[^ref-14]. Some reviewers noted that character animation occasionally appeared stiff, and the new voice performance for Gabriel was considered "patchy" by some critics[^ref-15].
 
 ### Easter Eggs and Trivia
 
@@ -226,12 +228,12 @@ The 20th Anniversary Edition was released on October 15, 2014 through GOG.com an
 
 ### Fan Projects
 
-The 20th Anniversary Edition represents an unusual case where the original creator returned to remake their own work with fan and crowdfunding support. The speedrunning community has embraced the remake, with competitive times tracked on Speedrun.com[^ref-37].
+The 20th Anniversary Edition represents an unusual case where the original creator returned to remake her own work. The speedrunning community has embraced the remake, with competitive times tracked on Speedrun.com[^ref-37].
 
 ### Related Publications
 
 - **Behind-the-Scenes Content:** The 20th Anniversary Edition includes the "Schattenjäger Archives" featuring original design notes and development materials[^ref-25]
-- **Original Game Documentation:** The 1993 release included comprehensive manuals and copy protection materials
+- **Original Game Documentation:** The 1993 original's game manual included a list of bibliographies for the voodoo and New Orleans research behind the story[^ref-48]
 - **Comics and prose:** The 1993 original shipped with a short backstory graphic novel about Gunter Ritter[^ref-1]; Jensen novelized the game in 1997[^ref-34]; and to accompany the remake she created "Gabriel Knight: The Temptation", a three-part comic set six months after GK3, whose Chapter 1 was released on December 17, 2014.[^ref-34]
 
 ### Critical Perspective
@@ -263,7 +265,7 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – release dates, developers, voice cast, platforms
 [^ref-2]: [GOG.com – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) – ratings, technical specs, awards, user reviews
 [^ref-3]: [MobyGames – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.mobygames.com/game/68982/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/) – developer credits, engine, platforms, technical details
-[^ref-5]: [The Sierra Chest – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.sierrachest.com/index.php?a=games&id=532&fld=general) – development history, Pinkerton Road founding, Kickstarter origins
+[^ref-5]: [The Sierra Chest – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.sierrachest.com/index.php?a=games&id=532&fld=general) – development history, Pinkerton Road founding, Activision permission
 [^ref-6]: [Steam Community – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition: Achievements](https://steamcommunity.com/stats/262000/achievements) – 51 achievements: Jackson Square, Lake Pontchartrain clue, Voodoo Hounfour, Mosely's office, initiation ceremony, Days 1–10, "full score of 362 points" (some descriptions hidden as spoilers)
 [^ref-8]: [IGN – Gabriel Knight 20th Anniversary Review](https://www.ign.com/articles/2014/10/24/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition) – Chuck Osborn review, 7/10 score
 [^ref-9]: [Adventure Gamers – Gabriel Knight 20th Anniversary Edition](https://web.archive.org/web/20250609194826/https://adventuregamers.com/article/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) – 4.5 star review, technical issues noted
@@ -272,7 +274,7 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-15]: [God is a Geek – Gabriel Knight 20th Anniversary Review](https://web.archive.org/web/2016/https://www.godisageek.com/reviews/gabriel-knight-sins-fathers-20th-anniversary-edition-review/) – interface changes, setting description, critical analysis
 [^ref-24]: [The Digital Antiquarian – Gabriel Knight: Sins of the Fathers](https://www.filfre.net/2019/08/gabriel-knight-sins-of-the-fathers/) – Ken Williams "something happier" quote, name symbolism, development history
 [^ref-25]: [Draco Torre Review](https://www.dracotorre.com/blog/gk1-20-review/) – low-budget analysis, hint system, Schattenjäger Archives, completion time
-[^ref-26]: [HowLongToBeat – Gabriel Knight 20th Anniversary Edition](https://howlongtobeat.com/game/21859) – completion times, player statistics
+[^ref-26]: [HowLongToBeat – Gabriel Knight 20th Anniversary Edition](https://howlongtobeat.com/game/21859) – completion times, player statistics (Main Story 10h 34m from 34 polled; Completionist 15h 15m from 20 polled; read November 11, 2026)
 [^ref-27]: [Rock Paper Shotgun – Impressions: Gabriel Knight 20th Anniversary](https://www.rockpapershotgun.com/gabriel-knight-20th-anniversary) – Richard Cobbett, August 26, 2014 pre-release impressions (Days 1–2 build); cut content, voice recording issues, Grace quote, police music inspiration
 [^ref-31]: [OpenCritic – Gabriel Knight 20th Anniversary Edition](https://opencritic.com/game/626/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition) – aggregate scores, multiple critic quotes
 [^ref-33]: [Gamepressure – Gabriel Knight 20th Anniversary Edition](https://www.gamepressure.com/games/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/z239f0) – user score, release dates, platform information
@@ -282,7 +284,7 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-39]: [Wikipedia – The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) – free, unofficial King's Quest fangame by Phoenix Online Studios
 [^ref-40]: [The Digital Antiquarian – Gabriel Knight 3: Blood of the Sacred, Blood of the Damned](https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/) – GK3 as "the last Sierra adventure game ever"
 [^ref-41]: [IMDb – Gabriel Knight: Sins of the Fathers (1993)](https://www.imdb.com/title/tt0109865/) – user rating 8.9/10 from 828 ratings (as read October 2026)
-[^ref-42]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) – user review summary (Very Positive, 90% of 947, as read October 28, 2026); developers Phoenix Online Studios and Pinkerton Road Studio
+[^ref-42]: [Steam – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://store.steampowered.com/app/262000/) – user review summary (Very Positive, 89% of 949, as read November 11, 2026); developers Phoenix Online Studios and Pinkerton Road Studio
 [^ref-43]: [Computer Gaming World #112 (November 1993)](https://archive.org/details/Computer_Gaming_World_Issue_112) – Johnny L. Wilson, "Between Dark and Daylight", preview of the 1993 original
 [^ref-44]: [Computer Gaming World #116 (March 1994)](https://archive.org/details/Computer_Gaming_World_Issue_116) – Charles Ardai's review of the 1993 original's CD-ROM edition (spec box "IBM CD-ROM"; text: "Even in its floppy-disk incarnation… Add the improvements the CD-ROM edition introduces")
 [^ref-45]: [Computer Gaming World #119 (June 1994)](https://archive.org/details/Computer_Gaming_World_Issue_119) – Premier Awards: Adventure Game of the Year shared with Day of the Tentacle; Virginia Capers voice-over award
@@ -291,3 +293,5 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 [^ref-48]: [Adventure Classic Gaming – Gabriel Knight: Sins of the Fathers review](http://www.adventureclassicgaming.com/index.php/site/reviews/16/) – Philip Jong, 1997 review of the 1993 original; Curry as Gedde Butler, voodoo research
 [^ref-49]: [The Sierra Chest – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition: Walkthrough](https://sierrachest.com/index.php?a=games&id=532&title=gabriel-knight-1-remake&fld=walkthrough&pid=100) – 362-point total, yellow topics, in-game dates for Days 1–10
 [^ref-50]: [GOG.com – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) – the 1993 original, sold separately on GOG (release date 1993-12-17, Sierra / Activision)
+[^ref-51]: [Game Developer – Remaking Gabriel Knight: A 20th-anniversary postmortem](https://www.gamedeveloper.com/audio/remaking-i-gabriel-knight-i-a-20th-anniversary-postmortem) – March 31, 2015, written primarily by Katie Hallahan; data box (26 developers, 12-13 months, $215,269.50, ~100,000 lines of dialogue); Moebius Kickstarter led Activision to approach Jensen
+[^ref-52]: [PC Gamer – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition launches in October](https://www.pcgamer.com/gabriel-knight-sins-of-the-fathers-20-anniversary-edition-launches-in-october) – Pinkerton Road studio licensed the property from Activision
