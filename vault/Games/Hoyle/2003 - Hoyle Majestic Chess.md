@@ -12,7 +12,7 @@ series: Hoyle
 engine: WChess 2000
 protagonist: The King
 sierra_lineage: Core Sierra
-last_updated: '2026-10-28'
+last_updated: '2026-11-11'
 composer: [Clockwork Productions]
 description: Hoyle Majestic Chess is a chess video game developed by Fluent Entertainment,
   Inc. and published by Sierra Entertainment in North America in 2003. Its Chess
@@ -21,7 +21,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Majestic Chess
 
-<small style="color: gray">Last updated: October 28, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Hoyle Majestic Chess is a chess video game developed by Fluent Entertainment, In
 
 Vivendi's blurb promised "hours of fun for both the expert as well as the casual gamer who enjoys puzzles and board games" and claimed the game "can go head to head with Chessmaster on any feature point."[^ref-3] GameZone described three modes: Single Player, Adventure and Multiplayer, with the adventure's map holding tutorials, speed drills and puzzles.[^ref-22][^ref-1] The game received generally positive reviews from critics, earning an aggregate score of 78.25% from 16 reviews on GameRankings.[^ref-28]
 
-European releases came later, from JoWooD under the shortened title "Majestic Chess": PC Games (Germany) lists a November 26, 2004 release,[^ref-29] and Amazon UK gives a UK release date of February 25, 2005.[^ref-31] An Xbox version was announced in April 2003 but was ultimately canceled, leaving Windows as the only full release,[^ref-2] although specially marked launch boxes also came with a free handheld version for Pocket PC devices.[^ref-25] Players still praise it in online comments, one calling it "the best beginner chess game of all time."[^ref-5]
+European releases came later, from JoWooD under the shortened title "Majestic Chess": PC Games (Germany) lists a November 26, 2004 release,[^ref-29] and Amazon UK gives a UK release date of February 25, 2005.[^ref-31] An Xbox version was announced in April 2003 but was ultimately canceled, leaving Windows as the only full release,[^ref-2] although specially marked launch boxes also came with a free handheld version for Pocket PC devices.[^ref-25]
 
 > [!info]- Game Info
 > **Developer:** Fluent Entertainment, Inc.[^ref-1]
@@ -147,7 +147,7 @@ GameSpot noted the AI can be set to levels that challenge any amateur, with oppo
 - Internet play
 - Same/Split-Screen local multiplayer
 
-**ESRB Rating:** Everyone[^ref-1]
+**ESRB Rating:** Everyone (no content descriptors)[^ref-33]
 
 ### Soundtrack
 
@@ -165,7 +165,7 @@ The game features an original musical score produced by Clockwork Productions, w
 
 ### Cut Content
 
-An Xbox version of Hoyle Majestic Chess was announced in April 2003 and appeared on Metacritic's listing for the platform.[^ref-3] However, this console port was ultimately canceled.[^ref-2] No reason for the cancellation was found in the sources consulted.
+An Xbox version of Hoyle Majestic Chess was announced in April 2003 and appeared on Metacritic's listing for the platform.[^ref-3] However, this console port was ultimately canceled;[^ref-2] GameFAQs lists the Xbox entry (Fluent, VU Games) with the release status "Canceled."[^ref-34]
 
 ### Version History
 
@@ -213,7 +213,7 @@ A Metacritic user review of Pixel Wizards' Chessaria: The Tactical Adventure (20
 
 ### Critical Perspective
 
-Contemporary critics framed the game as a teaching tool rather than a serious analysis program: GameSpot noted it had no database functions and was "clearly not targeted at serious players,"[^ref-23] and Computer Gaming World judged it better as competition for casual amateurs than as a tutor for true novices.[^ref-26] Players still seek it out; one MyAbandonware commenter wrote that "there simply isn't anything else like it, even today,"[^ref-5] and one Dreamlist commenter describes keeping a Windows 7 computer around to run it.[^ref-9]
+Contemporary critics framed the game as a teaching tool rather than a serious analysis program: GameSpot noted it had no database functions and was "clearly not targeted at serious players,"[^ref-23] and Computer Gaming World judged it better as competition for casual amateurs than as a tutor for true novices.[^ref-26] Players still seek it out; one MyAbandonware commenter wrote that "there simply isn't anything else like it, even today,"[^ref-5].
 
 ## Purchase
 
@@ -233,6 +233,7 @@ Contemporary critics framed the game as a teaching tool rather than a serious an
 
 ## See Also
 
+- [[Hoyle Series]] - Series overview
 - [[2003 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Casino|→ Next: Hoyle Casino]]
 
@@ -318,3 +319,5 @@ Contemporary critics framed the game as a teaching tool rather than a serious an
 [^ref-30]: [The Washington Post – Reviews (Skip Singer, November 2003, archived)](http://web.archive.org/web/20250125142054/https://www.washingtonpost.com/archive/business/2003/11/30/reviews/2773f1f3-3594-44e7-9d80-4c7f3597853d/) – Hoyle Majestic Chess review quote
 [^ref-31]: [Amazon UK – Majestic Chess (PC)](https://www.amazon.co.uk/JoWood-Majestic-Chess-PC/dp/B0006SK5ZG) – UK release date 25 Feb. 2005
 [^ref-32]: [MobyGames – Hoyle Majestic Chess credits](https://www.mobygames.com/game/10294/hoyle-majestic-chess/credits/) – full Windows credits incl. Sidhe Interactive online team, producer, writers, chess consultants
+[^ref-33]: [ESRB – Hoyle Majestic Chess](https://www.esrb.org/ratings/9052/hoyle-majestic-chess/) – rated E for Everyone, Windows PC, no descriptors
+[^ref-34]: [GameFAQs – Hoyle Majestic Chess (Xbox)](https://gamefaqs.gamespot.com/xbox/914703-hoyle-majestic-chess) – developer Fluent, publisher VU Games, release status Canceled
