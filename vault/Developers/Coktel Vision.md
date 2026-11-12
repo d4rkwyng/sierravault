@@ -54,7 +54,7 @@ Woodruff and the Schnibble carried over the visual style of Gobliiins; Pierre Gi
 
 ## Key People
 
-- **Roland Oskian**: founder, a former Matra Espace executive.[^ref-16] He left the company in 1999.[^ref-8]
+- **Roland Oskian**: founder, a former Matra Espace executive.[^ref-16] Wikipedia says he left the company in 1999,[^ref-8] while Génération 4's September 1996 issue reported that he had just left his former company.[^ref-47]
 - **Muriel Tramis** ([[Muriel Tramis]]): joined in 1986 and stayed until 2003; co-created Gobliiins with Pierre Gilhodes.[^ref-8] La Croix calls her the creator of the Adibou educational series, while Wikipedia names Roland Oskian as Adibou's creator.[^ref-29][^ref-28] Konbini calls Oskian "le cocréateur du jeu" and Manuelle Mauger "la cocréatrice".[^ref-46]
 - **Pierre Gilhodes** ([[Pierre Gilhodes]]): artist and designer who co-created Gobliiins with Tramis.[^ref-8]
 
@@ -124,3 +124,4 @@ Coktel titles with SierraVault pages are listed below; Adventure Gamers keeps a 
 [^ref-44]: [Gobliiins – Wikipedia](https://en.wikipedia.org/wiki/Gobliiins) — Gobliiins 4 (2009): "designed by Pierre Gilhodes and Muriel Tramis, developed by Société Pollene"
 [^ref-45]: [Coktel Vision – MobyGames](https://www.mobygames.com/company/1127/coktel-vision/) — Paris-based; MDO, "another subsidiary, was established in Bordeaux and was responsible for most of the engineering, while graphics and design came from the headquarters in Paris"
 [^ref-46]: [Konbini – Dix bails sur Adibou que tu n'as (peut-être) jamais entendus](https://www.konbini.com/techno/dix-bails-sur-adibou-que-tu-nas-peut-etre-jamais-entendus/) — "le cocréateur du jeu Roland Oskian"; "la cocréatrice Manuelle Mauger"
+[^ref-47]: [Génération 4 no. 91, September 1996 (Internet Archive)](https://archive.org/details/generation4-magazine-091) — news brief: Roland Oskian, "créateur de Coktel Vision, devenu depuis peu Sierra France, qui vient de quitter son ancienne société"

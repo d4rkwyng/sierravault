@@ -10,7 +10,7 @@ series: Lost in... (spiritual)
 engine: Gob
 protagonist: Max Gardner
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Urban Runner is an interactive movie adventure game developed by Coktel
   Vision and published by Sierra On-Line in 1996. Spanning four CD-ROMs, it casts the
   player as Max Gardner, an American journalist framed for murder in Paris.
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, lost-in-spiritual, sierra]
 ---
 # Urban Runner
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -43,9 +43,9 @@ Urban Runner received mixed reviews and, according to The Cutting Room Floor, so
 
 The game opens in Paris, where Max Gardner, an American journalist, is investigating a story about a major drug dealer who appears to be protected by an influential figure in French politics.[^ref-1] To get the dealer talking, Max offers him incriminating photographs in exchange for information. When Max arrives at the meeting point, the drug lord is dead, and Max is mistaken for the killer.[^ref-11][^ref-24]
 
-With the police and a gang of thugs on his trail, Max must keep moving through Paris while trying to clear his name.[^ref-4] The investigation takes players through warehouses, hotels and offices as Max gathers evidence against a shadowy organization known as "the Elite."[^ref-12] Along the way he finds an ally in Adda, the murdered dealer's lover, who becomes a playable character; Adventure Gamers notes she is "hiding more than one secret" from him.[^ref-4][^ref-24]
+With the police and a gang of thugs on his trail, Max must keep moving through Paris while trying to clear his name.[^ref-4] The investigation takes players through warehouses, hotels and offices as Max gathers evidence against a shadowy organization known as "the Elite."[^ref-12] The manual's cast sheet describes Max as a 35-year-old American investigative reporter and Adda Wertmuller as a 27-year-old German ecology student who becomes "the part-time mistress of some pretty shady characters." It names Tony Marcos, the drug trafficker; Lev Kevork, founder of the Elite; Paul Lagrange, its second in command; Dr Arielle Dramish, a biotechnology doctor; Inspector Gaston Van Dale; and Lagrange's right-hand man, the Eraser.[^ref-31] Along the way he finds an ally in Adda, the murdered dealer's lover, who becomes a playable character; Adventure Gamers notes she is "hiding more than one secret" from him.[^ref-4][^ref-24]
 
-The game's tagline, "Run fast, run smart, stop and you're dead," captures the urgency of the story.[^ref-4] Max stays on the move, one step ahead of both the corrupt Inspector van Dalle and the criminal organization's enforcers.[^ref-4][^ref-13][^ref-18] At the very end of the story, the game asks whether Adda should live or die.[^ref-13][^ref-18]
+The game's tagline, "Run fast, run smart, stop and you're dead," captures the urgency of the story.[^ref-4] Max stays on the move, one step ahead of both the corrupt Inspector Van Dale (spelled "van Dalle" in Darksheer's walkthrough) and the criminal organization's enforcers.[^ref-4][^ref-13][^ref-18][^ref-31] At the very end of the story, the game asks whether Adda should live or die.[^ref-13][^ref-18]
 
 ## Gameplay
 
@@ -53,7 +53,7 @@ The game's tagline, "Run fast, run smart, stop and you're dead," captures the ur
 
 Urban Runner is controlled entirely via mouse, and GameFAQs' product description promises "An intuitive 'click and grab' interface."[^ref-3] The game divides its action into two distinct phases: "Clue" turns, where players investigate environments and gather information, and "Action" turns, which require quick decisions to survive dangerous situations.[^ref-14]
 
-During exploration, players move between screens and interact with objects and characters by clicking on hotspots.[^ref-11] In a 2019 MobyGames user review, Katakis wrote that "Every scene in the game was photographed and digitally inserted into the game."[^ref-26] A built-in hint system offers only three "jokers" for the whole game, and the jokers are disabled in some areas.[^ref-13]
+During exploration, players move between screens and interact with objects and characters by clicking on hotspots.[^ref-11] In a 2019 MobyGames user review, Katakis wrote that "Every scene in the game was photographed and digitally inserted into the game."[^ref-26] A built-in hint system offers only three "jokers" for the whole game, and the jokers are disabled in some areas.[^ref-13] The manual describes a "telephone" control panel for saving, the jokers, stored clues, the inventory, a magnifying glass and options, and says the jokers are "three clubs" that deactivate once used up. Its Escape option cuts short video sequences.[^ref-31]
 
 ### Structure and Progression
 
@@ -80,6 +80,8 @@ Critics gave Urban Runner mixed reviews on release. MobyGames records these 1996
 - **PC Games (Germany)** (June 1996): 61/100
 - **PC Player (Denmark)** (1996): 60/100
 - **PC Player (Germany)** (June 1996): 40 (MobyGames normalised score)
+
+The UK magazine PC Review (issue 60, October 1996, p. 49) rated it "Poor," its verdict box reading "A weak story, linear gameplay and bad acting make for a sickening combo." The review praised the opening rooftop chase as "fast-paced, well-directed and edited," but called the rest "a point 'n' click adventure dressed up in some fanciful movie costumery" and "very linear," and found the repeated video clips "dull, repetitive." It listed the price as £44.99.[^ref-30]
 
 TV Tropes notes that the game "was not too popular at the time due to high graphics and monitor resolution requirements" and that "there are very few reviews that have been released about the game."[^ref-18]
 
@@ -108,7 +110,7 @@ In its December 1995 article, Les Échos described the project as an interactive
 
 ### Production
 
-As of December 1995, Urban Runner had been in development for about 18 months, with a team of around 50 people.[^ref-6][^ref-24] The production budget reached 15 million French francs, and Les Échos reported that the game would need at least 500,000 sales to break even.[^ref-6] Three months of development were spent on the live-action film shoots.[^ref-6] Les Échos also reported a planned release of February 1996.[^ref-6]
+As of December 1995, Urban Runner had been in development for about 18 months, with a team of around 50 people.[^ref-6][^ref-24] The production budget reached 15 million French francs, and Les Échos reported that the game would need at least 500,000 sales to break even.[^ref-6] Les Échos gave three months of that time to the live-action film shoots.[^ref-6] Sierra's 1996/97 catalogue instead advertises "over 4 months shooting with 25 actors to produce more than 20 hours of suspense."[^ref-32] Les Échos also reported a planned release of February 1996.[^ref-6]
 
 Brandon Massey played the lead role of Max Gardner. He had previously played the lead in Police Quest IV: Open Season (1993), and Alex Bevilacqua notes that these are his only two acting credits.[^ref-24][^ref-11]
 
@@ -117,6 +119,16 @@ Brandon Massey played the lead role of Max Gardner. He had previously played the
 - **Supervision:** Arnaud Delrue, Roland Oskian
 - **Soundtrack:** Michel Golgevit, Hervé Lavandier, Bernard Leroux, François Musy, Olivier Rabat
 - **Lead Actor:** Brandon Massey (Max Gardner)[^ref-9]
+
+The original manual's credits also list Hervé Denis, Valéry Carpentier and Mathieu Marciacq for programming, and Yannick Chosse, Bruno Quintin, Fred Chauvelot, Jérôme Lamoureux and Bruno Delangle for visual effects. Its special thanks include the city of Clichy and the Cité des Sciences et de l'Industrie de la Villette.[^ref-31]
+
+### Voice Cast
+
+| Character | Actor |
+|-----------|-------------|
+| Max Gardner | Brandon Massey[^ref-9][^ref-24] |
+
+Brandon Massey has two acting credits to his name, Urban Runner and Police Quest: Open Season.[^ref-11] Max narrates the game in voiceover, and apart from a few directly spoken lines the story is told through this narration.[^ref-4] IMDb lists France as the country of origin.[^ref-9]
 
 ### Technical Achievements
 
@@ -134,7 +146,7 @@ The FMV content is presented in a widescreen format, letterboxed within the stan
 - **Recommended CPU:** Intel Pentium 90 MHz[^ref-10]
 - **RAM:** 8 MB minimum[^ref-16]
 - **Hard Drive:** 20 MB[^ref-16]
-- **CD-ROM Drive:** 2x speed minimum, 4x recommended (PCGamingWiki); MobyGames lists 4x as the minimum[^ref-10][^ref-1]
+- **CD-ROM Drive:** 2x speed minimum, 4x recommended (PCGamingWiki); MobyGames lists 4x as the minimum; PC Review (October 1996) listed a double-speed drive, SVGA and 8 MB as the minimum system[^ref-10][^ref-1][^ref-30]
 - **Video:** SVGA card[^ref-16]
 
 ### Cut Content
@@ -176,14 +188,6 @@ Modern players can run Urban Runner through ScummVM. In 2025, The Collection Cha
 
 At the very end of the story, the game asks whether Adda dies or survives. TV Tropes notes that this is "Not in a moralistic decision sense, the game just flat out asks you whether you want her to live or die."[^ref-18] Darksheer's walkthrough advises against replaying the ending, "because the outcome is almost the same."[^ref-13] After the ending, players can select each character to see a summary of their involvement in the plot.[^ref-11]
 
-## Voice Cast
-
-| Character | Actor |
-|-----------|-------------|
-| Max Gardner | Brandon Massey[^ref-9][^ref-24] |
-
-Brandon Massey has two acting credits to his name, Urban Runner and Police Quest: Open Season.[^ref-11] Max narrates the game in voiceover, and apart from a few directly spoken lines the story is told through this narration.[^ref-4] IMDb lists France as the country of origin.[^ref-9]
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -213,6 +217,9 @@ Urban Runner arrived, in Adventure Gamers' words, "at the apogee of the short-li
 - [Internet Archive](https://archive.org/details/urbanrunnereurope) – European version preservation[^ref-21]
 - [MyAbandonware](https://www.myabandonware.com/game/urban-runner-f09) – Windows 3.x version[^ref-8]
 
+**Manuals & Extras**
+- [Internet Archive – Urban Runner manual (PC)](https://archive.org/details/urban-runner-manual-pc) – original manual scan[^ref-31]
+
 **Technical Resources**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Urban_Runner) – Compatibility fixes and ScummVM setup[^ref-10]
 - [Sierra Help](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – Walkthrough[^ref-15]
@@ -224,6 +231,7 @@ Urban Runner arrived, in Adventure Gamers' words, "at the apogee of the short-li
 - [[1992 - Ween - The Prophecy]]
 - [[1993 - Lost in Time]]
 - [[1995 - The Last Dynasty]]
+- [[Coktel Adventures Series]]
 
 ## References
 
@@ -253,3 +261,6 @@ Urban Runner arrived, in Adventure Gamers' words, "at the apogee of the short-li
 [^ref-27]: [Sierra On-Line, Inc. Form 10-K for fiscal 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "On October 29, 1993, the Company acquired Coktel Vision S.A."
 [^ref-28]: [Online Gaming Review – News, July 1996 (Wayback, 1997)](https://web.archive.org/web/19970227065825/http://www.ogr.com/news/news0796.html) – news for July 25, 1996: Urban Runner "is now available"
 [^ref-29]: [ScummVM Wiki – Urban Runner](https://wiki.scummvm.org/index.php?title=Urban_Runner) – Gob (DEV6) engine, supported since ScummVM 1.3.0, Hebrew title "Avudim BaIr"
+[^ref-30]: [PC Review issue 60, October 1996 (Internet Archive)](https://archive.org/details/pc-review-60) – Urban Runner review, p. 49: "Poor" verdict, £44.99, minimum system
+[^ref-31]: [Urban Runner manual, PC (Internet Archive)](https://archive.org/details/urban-runner-manual-pc) – cast sheet, interface, credits, special thanks
+[^ref-32]: [Sierra catalogue 1996/97 (Internet Archive)](https://archive.org/details/sierracalalogue19961997) – publisher blurb: "Over 4 months shooting with 25 actors", requirements
