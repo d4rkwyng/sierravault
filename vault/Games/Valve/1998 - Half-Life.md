@@ -10,15 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 composer: [Kelly Bailey]
-description: Half-Life is a science fiction first-person shooter developed by Valve
-  Corporation and published by Sierra Studios, released on November 19, 1998 for...
+description: "Half-Life is a science fiction first-person shooter developed by Valve Corporation and published by Sierra Studios, released on November 19, 1998 for Microsoft Windows."
 tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
@@ -33,6 +32,7 @@ Half-Life sold more than nine million copies by 2008, earning recognition in the
 > **Designer:** Ken Birdwell, Brett Johnson, Harry Teasley, Marc Laidlaw[^ref-1]
 > **Publisher:** Sierra Studios[^ref-1]
 > **Engine:** GoldSrc[^ref-1]
+> **Composer:** Kelly Bailey[^ref-70]
 > **Platforms:** Windows, PlayStation 2, macOS, Linux[^ref-1]
 > **Release Year:** 1998
 > **Series:** Half-Life
@@ -94,9 +94,9 @@ The final chapters on Xen introduce platforming mechanics with reduced gravity, 
 
 ### Contemporary Reviews
 
-Half-Life received universal acclaim upon release, with reviewers praising its significant approach to storytelling and gameplay integration. Game-Over awarded scores of 94% and 95% from two reviewers, with Cyrus declaring it "the current leader in the overly large pack of 3D shooters and it leads by far" and noting that "this game flows more like an interactive movie than a game"[^ref-24]. IGN proclaimed it "the best single player shooter I've ever played" and "a tour de force in game design, the definitive single player game in a first person shooter"[^ref-25].
+Half-Life received universal acclaim upon release, with reviewers praising its significant approach to storytelling and gameplay integration. Game-Over awarded scores of 94% and 95% from two reviewers, with Cyrus declaring it "the current leader in the overly large pack of 3D shooters and it leads by far" and noting that "this game flows more like an interactive movie than a game"[^ref-24]. IGN proclaimed it "the best single player shooter I've ever played" and "a tour de force in game design, the definitive single player game in a first person shooter"[^ref-25]. In Computer Gaming World, Jeff Green wrote that Half-Life "is not just one of the best games of the year. It's one of the best games of any year, an instant classic that is miles better than any of its immediate competition, and - in its single-player form - is the best shooter since the original Doom"[^ref-75].
 
-The game won more than 50 game of the year awards from various websites and magazines in 1998, cementing its status as a landmark release[^ref-5]. The Academy of Interactive Arts and Sciences named it "Computer Game of the Year"[^ref-3], while the Game Critics Awards recognized it as both "Best PC Game" and "Best Action Game" at E3 1998[^ref-12]. PC Gamer eventually declared it the "Best Game of All Time," and GameSpy readers voted it the "Greatest Game of All Time"[^ref-3].
+The game won more than 50 game of the year awards from various websites and magazines in 1998, cementing its status as a landmark release[^ref-5]. The Academy of Interactive Arts and Sciences' Interactive Achievement Awards winners list names Half-Life (Sierra Studios/Valve) as both "Action Game of the Year" and "Computer Game of the Year" in the personal computer category[^ref-76][^ref-77]; Wikipedia gives the same awards as "Computer Entertainment Title of the Year" and "PC Action Game of the Year"[^ref-1], and the official half-life.com page lists "Computer Game of the Year -AIAS"[^ref-3]. Wikipedia reports that the revised build shown at E3 1998 won the Game Critics Awards for "Best PC Game" and "Best Action Game"[^ref-1], and the Half-Life Wiki likewise credits it with both[^ref-12]. PC Gamer eventually declared it the "Best Game of All Time," and GameSpy readers voted it the "Greatest Game of All Time"[^ref-3].
 
 Contemporary critics particularly praised the game's AI innovations. PC Gaming magazine's Chris Hudak highlighted the creature design and behavior, promising readers that "the deaths you may witness (or suffer) at the hands (or whatever) of The Lamps are probably the most gruesome and unpleasant ever - ever - burned into a CD-ROM"[^ref-10].
 
@@ -123,7 +123,7 @@ Newell approached id Software's John Romero, who helped connect Valve with the Q
 
 Development proved tumultuous. Valve assembled a team by recruiting talented modders from the Doom and Quake communities, bringing in fresh perspectives from outside traditional game industry channels[^ref-34]. Writer Marc Laidlaw joined in July 1997, originally expecting "a couple weeks of work" before transitioning to a science fantasy project called *Prospero*, but Half-Life became "an irresistible force" that absorbed the team's complete attention[^ref-35].
 
-Valve's initial target release date was November 1997[^ref-36][^ref-1]. By late September 1997, nearing the end of that original schedule, internal playtesting revealed a critical problem. As senior designer Ken Birdwell bluntly stated, "the game wasn't any fun"[^ref-36]. Although Half-Life had "walked away" from E3 in June 1997 with the title of "Best Action Game"[^ref-34], playtesters deemed the game merely "just OK," and Monica Harrington recognized that "if Valve shipped the game we had, it would launch and quietly disappear, and all of the work we'd all done would account for nothing"[^ref-32].
+Valve's initial target release date was November 1997[^ref-36][^ref-1]. By late September 1997, nearing the end of that original schedule, internal playtesting revealed a critical problem. As senior designer Ken Birdwell bluntly stated, "the game wasn't any fun"[^ref-36]. Filfre reports that Half-Life had "walked away" from the June 1997 E3 show with the title of "Best Action Game"[^ref-34] (the Game Critics Awards for "Best PC Game" and "Best Action Game" are dated to the revised build shown at E3 1998 by Wikipedia[^ref-1]), playtesters deemed the game merely "just OK," and Monica Harrington recognized that "if Valve shipped the game we had, it would launch and quietly disappear, and all of the work we'd all done would account for nothing"[^ref-32].
 
 Rather than ship a mediocre product, Newell made the controversial decision to scrap the existing game and start over, famously declaring "Late is just for a little while. Suck is forever"[^ref-34]. Sierra refused to invest additional funds, so Valve continued on Newell's own money[^ref-32]. This second pass utilized knowledge gained from the failed first attempt: a small group built a prototype level containing every element of the game, which Birdwell described as "Die Hard meets Evil Dead"; as he put it, "It was the vision. It was going to be our game"[^ref-36][^ref-1].
 
@@ -184,8 +184,11 @@ A Sega Dreamcast port was developed to near-completion before Sierra cancelled i
 | 1.0.1.3 | August 2, 1999 | Windows | Includes Team Fortress Classic installation[^ref-41] |
 | 1.1.1.0 | — | Windows | Final retail patch[^ref-40] |
 | PS2 | November 2001 | PlayStation 2 | Console port by Gearbox Software; Wikipedia gives November 14, GameFAQs November 11 (US)[^ref-42][^ref-1][^ref-44] |
+| Uplink | February 12, 1999 | Windows | Demo with original content[^ref-1] |
 | Game of the Year Edition | June 28, 1999 | Windows | Includes Team Fortress Classic[^ref-72][^ref-73] |
 | Sierra Best Sellers | November 2, 2001 | Windows | Budget re-release, DVD packaging[^ref-22][^ref-72] |
+| Decay | 2001 | PlayStation 2 | Cooperative multiplayer expansion exclusive to the PS2 port[^ref-1] |
+| Half-Life: Source | 2004 | Windows | Port of Half-Life to the Source engine[^ref-1] |
 | macOS/Linux | February 14, 2013 | macOS, Linux | Platform ports[^ref-1] |
 | 25th Anniversary Update | November 17, 2023 | Windows | Major update with new multiplayer maps and more[^ref-45] |
 | October 2024 Update | October 12, 2024 | Windows | Security fixes, mod compatibility[^ref-46] |
@@ -216,7 +219,7 @@ Half-Life contains numerous hidden references and secrets:
 
 The game was originally planned as what Monica Harrington called "the B title"—"just kind of a mediocre game" meant to build out the team before creating something more ambitious. Harrington convinced leadership that "if you do that, the company will fail" — leading to the full commitment to quality[^ref-53].
 
-## Voice Cast
+### Voice Cast
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -230,6 +233,20 @@ The game was originally planned as what Monica Harrington called "the B title"�
 
 Additional voice work included Jon St. John as drill instructors and grunt dialogues, with Kelly Bailey providing original combat radio chatter[^ref-11]. Notably, protagonist Gordon Freeman is entirely silent throughout the game—a deliberate design choice that writer Marc Laidlaw explained: "Players create their own Gordon Freeman—a character they can identify with completely. There is nothing to jar you out of Gordon, once you're in the game. He never says anything stupid that you would never say in a million years"[^ref-54].
 
+### Soundtrack
+
+The Half-Life soundtrack was composed by Kelly Bailey, who went on to score Half-Life 2 and its two episodes[^ref-70]. The score combines ambient electronic textures, industrial percussion, and rock elements to match the game's shifting atmosphere from quiet laboratory corridors to intense combat sequences[^ref-65].
+
+**Soundtrack Details:**[^ref-65]
+- **Tracks:** 27
+- **Total Duration:** 36:24
+- **Genre:** Ambient, industrial, rock
+- **Availability:** Free DLC for Half-Life owners on Steam (added September 24, 2014)
+
+Notable tracks include Nuclear Mission Jam, Hard Technology Rock, Diabolical Adrenaline Guitar and Nepal Monastery. Kelly Bailey used Sony's Methods of Mayhem Industrial Toolkit sample pack for most of the soundtrack[^ref-65], which also draws heavily on sample libraries from Zero-G and EastWest[^ref-64]. Interestingly, the same drumbeat sample from "Hard Technology Rock" appears in the Command & Conquer: Red Alert soundtrack track "Crush"[^ref-65].
+
+Some tracks in the game files are named "Prospero" — referencing Valve's cancelled science fantasy project that was absorbed by Half-Life's development[^ref-65]. In 2020, Valve partnered with Ipecac Recordings to release Half-Life soundtracks on streaming services[^ref-64].
+
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -241,9 +258,10 @@ The game's commercial and critical success enabled Valve to build Steam, which l
 ### Awards
 
 Half-Life accumulated an impressive collection of accolades:
-- **Computer Game of the Year** – Academy of Interactive Arts and Sciences[^ref-3]
-- **Best PC Game** – Game Critics Awards, E3 1998[^ref-1]
-- **Best Action Game** – Game Critics Awards, E3 1998[^ref-1]
+- **Action Game of the Year (PC)** – Academy of Interactive Arts and Sciences, Interactive Achievement Awards[^ref-76][^ref-77]
+- **Computer Game of the Year** – Academy of Interactive Arts and Sciences, Interactive Achievement Awards[^ref-76]; listed as "Computer Game of the Year -AIAS" on half-life.com[^ref-3]
+- **Best PC Game** – Game Critics Awards, E3 1998 (per Wikipedia)[^ref-1]
+- **Best Action Game** – Game Critics Awards, E3 1998 (per Wikipedia)[^ref-1]; Filfre reports a "Best Action Game" title at E3 June 1997[^ref-34]
 - **Best Game of All Time** – PC Gamer[^ref-3]
 - **Greatest Game of All Time** – GameSpy Readers' Poll[^ref-3]
 - **Quantum Leap Award** – Gamasutra[^ref-3]
@@ -255,7 +273,7 @@ Sierra Entertainment presented Valve with a golden crowbar award inscribed "Cong
 
 Half-Life appeared in numerous compilations:
 - **Half-Life: Game of the Year Edition** (1999) – Includes Team Fortress Classic[^ref-72][^ref-73]
-- **Half-Life: Platinum Collection** (2002) – Bundles the Game of the Year Edition with Opposing Force, Counter-Strike and Blue Shift[^ref-74]
+- **Half-Life: Platinum Collection** (2002) – Bundles the Game of the Year Edition with Opposing Force, Counter-Strike and Blue Shift; also contains Uplink (not advertised in some versions) and Team Fortress Classic, and was sold as Half-Life: Generation in the UK and Brazil[^ref-74]
 
 ### Fan Projects
 
@@ -280,20 +298,6 @@ Half-Life's historical significance lies in demonstrating that first-person shoo
 The game's design philosophy—what Marc Laidlaw described as "the narrative had to be baked into the corridors"—influenced virtually every story-driven shooter that followed[^ref-1]. Its approach to environmental storytelling, AI behavior, and seamless world design can be traced through subsequent titles from BioShock to Metro to modern Call of Duty campaigns. As one retrospective noted, Half-Life "changed people's perceptions of what a first-person shooter game could be"[^ref-63].
 
 Yet Half-Life's legacy extends beyond design influence to its role in establishing gaming's modern infrastructure. The success enabled Valve to create Steam, which revolutionized game distribution, and to develop the Source engine that powered not only Half-Life 2 but Counter-Strike: Global Offensive and countless mods. GoldSrc itself "is still regarded as one of the easiest engines for new developers to work with"[^ref-69], ensuring Half-Life's technical legacy continues through ongoing community creations.
-
-## Soundtrack
-
-The Half-Life soundtrack was composed by Kelly Bailey, who went on to score Half-Life 2 and its two episodes[^ref-70]. The score combines ambient electronic textures, industrial percussion, and rock elements to match the game's shifting atmosphere from quiet laboratory corridors to intense combat sequences[^ref-65].
-
-**Soundtrack Details:**[^ref-65]
-- **Tracks:** 27
-- **Total Duration:** 36:24
-- **Genre:** Ambient, industrial, rock
-- **Availability:** Free DLC for Half-Life owners on Steam (added September 24, 2014)
-
-Notable tracks include Nuclear Mission Jam, Hard Technology Rock, Diabolical Adrenaline Guitar and Nepal Monastery. Kelly Bailey used Sony's Methods of Mayhem Industrial Toolkit sample pack for most of the soundtrack[^ref-65], which also draws heavily on sample libraries from Zero-G and EastWest[^ref-64]. Interestingly, the same drumbeat sample from "Hard Technology Rock" appears in the Command & Conquer: Red Alert soundtrack track "Crush"[^ref-65].
-
-Some tracks in the game files are named "Prospero" — referencing Valve's cancelled science fantasy project that was absorbed by Half-Life's development[^ref-65]. In 2020, Valve partnered with Ipecac Recordings to release Half-Life soundtracks on streaming services[^ref-64].
 
 ## Downloads
 
@@ -383,4 +387,7 @@ Some tracks in the game files are named "Prospero" — referencing Valve's cance
 [^ref-71]: [Metacritic – Half-Life](https://www.metacritic.com/game/half-life/) – Metascore 96 (PC, 24 critic reviews), 87 (PS2)
 [^ref-72]: [GameFAQs – Half-Life Release Information for PC](https://gamefaqs.gamespot.com/pc/43362-half-life/data) – Game of the Year Edition US 06/28/99; Best Seller Series EU 11/02/01
 [^ref-73]: [MobyGames – Half-Life: Game of the Year Edition](https://www.mobygames.com/game/2728/half-life-game-of-the-year-edition/) – read via the MobyGames API; contents include Team Fortress Classic
-[^ref-74]: [MobyGames – Half-Life: Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – read via the MobyGames API; 2002, contents list
+[^ref-74]: [MobyGames – Half-Life: Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – read via the MobyGames API; 2002, contents list, UK/Brazilian title Half-Life: Generation
+[^ref-75]: Jeff Green. [Computer Gaming World – Half-Life review (via GameSpot, Wayback)](https://web.archive.org/web/20020209221334/http://www.gamespot.com/action/halflif/review_cgw.html) – "one of the best games of any year, an instant classic"
+[^ref-76]: [Academy of Interactive Arts & Sciences – Interactive Achievement Awards winners (Wayback, 1999)](https://web.archive.org/web/19990909080737/http://www.interactive.org:80/iaa/99winners.html) – personal computer category: Action Game of the Year and Computer Game of the Year, Half-Life, Sierra Studios/Valve
+[^ref-77]: [Academy of Interactive Arts & Sciences – Half-Life award page (Wayback, 2000)](https://web.archive.org/web/20000306035858/http://www.interactive.org:80/iaa/halflife.html) – Action Game, Half-Life, Sierra Studios/Valve; accepted on behalf of Sierra Studios by Dave Grenewetzki
