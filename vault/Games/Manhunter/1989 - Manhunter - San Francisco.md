@@ -10,7 +10,7 @@ series: Manhunter
 engine: Adventure Game Interpreter (AGI)
 protagonist: Unnamed Manhunter
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Barry Murry]
 description: 'Manhunter 2: San Francisco is a 1989 science fiction adventure game
   developed by Evryware and published by Sierra On-Line. Picking up immediately where
@@ -20,11 +20,11 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter 2: San Francisco
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
-Manhunter 2: San Francisco is a 1989 science fiction adventure game developed by Evryware and published by Sierra On-Line.[^ref-15] Picking up immediately where Manhunter: New York left off, the game has the player crash-landing their stolen Orb ship in the City by the Bay, continuing their covert rebellion against the alien occupation.[^ref-2] Like the first game, it is a huge departure from Sierra's normal adventure games, offering a dystopian horror theme with a first-person interface and mixing minigames with puzzles.[^ref-3]
+Manhunter 2: San Francisco is a 1989 science fiction adventure game developed by Evryware and published by Sierra On-Line.[^ref-15] Picking up immediately where Manhunter: New York left off, the game has the player crash-landing their stolen Orb ship in the City by the Bay, continuing their covert rebellion against the alien occupation.[^ref-2] MobyGames also lists it as "Man Hunter: San Francisco" (the Macintosh in-game title) and "Manhunter S.F."[^ref-2] Like the first game, it is a huge departure from Sierra's normal adventure games, offering a dystopian horror theme with a first-person interface and mixing minigames with puzzles.[^ref-3]
 
 The Manhunter series stands as one of the weirdest science fiction adventures ever made.[^ref-4] It presents a post-alien invasion apocalyptic dystopia with no dialogue at all.[^ref-3] The alien Orbs that terrorised New York have now spread to San Francisco, where humans must wear hooded robes and may not speak to one another on pain of death.[^ref-28] As a Manhunter working for orb-shaped aliens, players must find and join the underground movement to free the Earth from slavery while maintaining their cover.[^ref-6]
 
@@ -73,7 +73,7 @@ The core detective gameplay involves tracking suspects using the MAD device and 
 
 ### Contemporary Reviews
 
-Scorpia reviewed the game in Computer Gaming World issue 64 (October 1989). She found it more gruesome than the first game and called the lava maze "definitely tiresome", but concluded that, while "somewhat on the gruesome side, and therefore not for everyone", it was "an excellent followup to the previous game; a definite 'must have' for Manhunter fans."[^ref-29]
+Scorpia reviewed the game in Computer Gaming World issue 64 (October 1989). She found it more gruesome than the first game, writing that it "might well have been titled, 'Manhunter 2: Choice Cuts'", and called the lava maze "definitely tiresome", but concluded that, while "somewhat on the gruesome side, and therefore not for everyone", it was "an excellent followup to the previous game; a definite 'must have' for Manhunter fans."[^ref-29]
 
 Keith Campbell reviewed the Atari ST version for Computer and Video Games issue 100, scoring it 61% overall (graphics 61%, sound 49%, value 60%, playability 64%) and noting the PC and Amiga versions were identical. He felt that the arcade sequences too often brought progress "to a grinding halt", and wrote: "Personally, I prefer the more orthodox Sierra adventures."[^ref-28]
 
@@ -81,7 +81,7 @@ The first game had fared well with critics: Power Play Issue 01/1990 named Manhu
 
 ### Modern Assessment
 
-PC Gamer's Richard Cobbett wrote that "these were not particularly good adventures, but it's easy to see why people remember them so fondly."[^ref-4] Kurt Kalata of Hardcore Gaming 101 wrote that the game "doesn't really fix many of the problems of its predecessor – it plays exactly the same, just with a new scenario", with the difficulty select for the arcade segments the only real improvement.[^ref-34] Jeremiah Kauffman of Adventure Classic Gaming wrote that, like the first game, Manhunter 2 "show some potentials in its delivery, but so much more is needed to develop this game to be considered more than just a worthy peculiarity."[^ref-32]
+PC Gamer's Richard Cobbett wrote that "these were not particularly good adventures, but it's easy to see why people remember them so fondly."[^ref-4] Kurt Kalata of Hardcore Gaming 101 wrote that the game "doesn't really fix many of the problems of its predecessor – it plays exactly the same, just with a new scenario", with the difficulty select for the arcade segments the only real improvement.[^ref-34] Jeremiah Kauffman of Adventure Classic Gaming, who rated it 3 out of 5, wrote that, like the first game, Manhunter 2 "show some potentials in its delivery, but so much more is needed to develop this game to be considered more than just a worthy peculiarity."[^ref-32]
 
 The games are considered solid underdogs, but not for the faint of heart or anyone who is reflex-impaired due to the arcade sequences.[^ref-6] On GOG's old community wishlist page for the series, one player wrote in 2013 that the two Manhunter games were "great atmospheric games, with a superb story line and universe."[^ref-21]
 
@@ -169,7 +169,7 @@ Unlike many Sierra titles, the Manhunter games were never released in CD-ROM col
 
 ### Fan Projects
 
-Unofficial fix patches have been created to address minor glitches and graphical issues in both Manhunter games.[^ref-3]
+Unofficial fix patches have been created to address minor glitches and graphical issues in both Manhunter games.[^ref-3] On September 21, 2026, Mean Hamster Software announced that its AGI-64 tool for building Commodore 64 versions of Sierra AGI games supports both Manhunter games, and its AGI-64 page lists Manhunter 2: San Francisco among the supported titles; users supply their own game files.[^ref-35]
 
 Fan sites like the Manhunter Shrine continue to host documentation, patches, and preservation resources for both games.[^ref-27]
 
@@ -233,3 +233,4 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 [^ref-32]: [Adventure Classic Gaming – Manhunter 2: San Francisco Review (Wayback Machine)](https://web.archive.org/web/20130508065520/http://www.adventureclassicgaming.com/index.php/site/reviews/183/) – Jeremiah Kauffman's review
 [^ref-33]: [Wikipedia – Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) – "final AGI-based title" statement and list of AGI games with release years
 [^ref-34]: [Hardcore Gaming 101 – Manhunter 2: San Francisco, by Kurt Kalata, 11 September 2017 (Wayback Machine)](https://web.archive.org/web/20260430210813/https://www.hardcoregaming101.net/manhunter-2-san-francisco/) – "plays exactly the same, just with a new scenario"; Manhunter: London poster teaser
+[^ref-35]: [Mean Hamster Software: AGI-64 and AGI-ANTIC are here](https://meanhamster.com/news/agi-64-is-now-available) – Sept 21, 2026 announcement; supports both Manhunter games, no Sierra game data bundled. Also [AGI-64](https://meanhamster.com/games/agi-64) – lists Manhunter 2: San Francisco among C64 titles
