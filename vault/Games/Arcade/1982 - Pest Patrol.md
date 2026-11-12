@@ -10,18 +10,18 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: None (player controls a can of insecticide)
 sierra_lineage: Core Sierra
-last_updated: '2026-10-27'
+last_updated: '2026-11-11'
 description: Pest Patrol is a fixed shooter written by Mark Allen and published by
   Sierra On-Line under its SierraVision label in 1982 for the Apple II.
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Pest Patrol
 
-<small style="color: gray">Last updated: October 27, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
 ## Overview
 
-Pest Patrol is a fixed shooter arcade game published by Sierra On-Line in 1982 for the Apple II computer.[^ref-1] It was written in machine language by Mark Allen, the author of *Sabotage*.[^ref-21][^ref-24][^ref-25] The game follows the Space Invaders formula: the player's spray can moves along the bottom of the screen and fires at swarming insects above.[^ref-3][^ref-21] Owen Linzmayer's 1983 review counted "a staggering total of 40 different waves of insects", and Retro365 also gives forty levels. MobyGames lists 39.[^ref-3][^ref-21][^ref-22] It was one of the first titles released under Sierra's SierraVision label.[^ref-22][^ref-23]
+Pest Patrol is a fixed shooter arcade game published by Sierra On-Line in 1982 for the Apple II computer.[^ref-1] It was written in machine language by Mark Allen, the author of *Sabotage*.[^ref-21][^ref-24][^ref-25] The game follows the Space Invaders formula: the player's spray can moves along the bottom of the screen and fires at swarming insects above.[^ref-3][^ref-21] Softalk's October 1982 review says the game "has forty levels of difficulty", and Owen Linzmayer's 1983 review counted "a staggering total of 40 different waves of insects". Retro365 also gives forty levels, while MobyGames lists 39.[^ref-3][^ref-21][^ref-22][^ref-32] It was one of the first titles released under Sierra's SierraVision label.[^ref-22][^ref-23]
 
 The original packaging and advertising promised "armored snails, butterfly fighters and a swarm of other insectivorous irritation", all in Sierra's Hi-Res graphics.[^ref-23][^ref-24] The game required a 48K Apple II with DOS 3.3.[^ref-9][^ref-23][^ref-24] Due to the game's copy protection scheme, Pest Patrol only runs on the original Apple II and Apple II+ hardware, and is incompatible with later models in the Apple II line.[^ref-9]
 
@@ -54,14 +54,14 @@ Linzmayer singled out "the excellent use of the hi-res graphics": "The squirming
 
 ### Structure and Progression
 
-Sources disagree slightly on the level count. Linzmayer's review and Retro365 give 40 waves, MobyGames gives 39, and the packaging asked "Can you survive 29 levels".[^ref-3][^ref-21][^ref-22][^ref-23] A practice option lets players practise any of the first 29 levels, and the remaining levels can only be reached in a normal game.[^ref-3][^ref-22]
+Softalk's October 1982 review settles the level count: "The game has forty levels of difficulty, with the first twenty-nine being selectable with the plus key. Levels thirty to thirty-nine can only be reached by skillful playing and luck."[^ref-32] Forty levels with a top level of thirty-nine means the levels are numbered 0 to 39, so MobyGames' count of 39 reflects the highest level number. Linzmayer's review and Retro365 give 40, and the packaging asked "Can you survive 29 levels", which matches the selectable range.[^ref-3][^ref-21][^ref-22][^ref-23][^ref-32] A practice option lets players practise any of the first 29 levels, and the remaining levels can only be reached in a normal game.[^ref-3][^ref-22][^ref-32]
 
 **Level Structure:**
-- 40 attack waves per the 1983 review and Retro365 (MobyGames counts 39)[^ref-3][^ref-21][^ref-22]
-- Practice mode covering levels 1-29, selectable with the plus key[^ref-3][^ref-22]
-- The final levels are reachable only through regular play[^ref-3][^ref-22]
+- 40 levels, numbered 0 to 39, per Softalk (October 1982), the 1983 review and Retro365 (MobyGames counts 39)[^ref-3][^ref-21][^ref-22][^ref-32]
+- The first twenty-nine levels are selectable with the plus key[^ref-3][^ref-22][^ref-32]
+- Levels thirty to thirty-nine are reachable only through skilful play[^ref-3][^ref-22][^ref-32]
 
-A practice game gives the player 77 cans but cannot progress past level 29. A normal game starts with four cans, and an extra can is awarded every 1,500 points.[^ref-21] Linzmayer noted that the practice mode at the slow setting suits less skilled players, while reaching "the attack waves that lay beyond level 30" is a real challenge.[^ref-21]
+A practice game gives the player 77 cans but cannot progress past level 29.[^ref-21][^ref-32] A normal game starts with four cans, and an extra can is awarded every 1,500 points.[^ref-21] Linzmayer noted that the practice mode at the slow setting suits less skilled players, while reaching "the attack waves that lay beyond level 30" is a real challenge.[^ref-21]
 
 ### Attack Patterns and Enemy Behavior
 
@@ -74,6 +74,8 @@ The bugs drop four types of bomb:[^ref-21]
 - **Homing time bombs:** combine both behaviours
 
 Touching anything except a snail kills the player instantly and sends them back to the start of the previous level.[^ref-21]
+
+Softalk's October 1982 review lists six basic pest types, one of which metamorphoses into another. Fleas are the most numerous and worth the fewest points. Beetles fly down and slide across the ground. Waldoes take three squirts and are worth ten points, and hopping spiders take three shots. Worms take four shots and, if not killed in time, turn into killer butterflies, which take five squirts and are worth 250 points. Snails are immune to the spray and can only be killed by stomping on them with the can, so they act as shields for other pests.[^ref-32]
 
 ### Enemy Types
 
@@ -89,11 +91,13 @@ Points are scored for destroying insects, and every 1,500 points awards an extra
 
 Owen Linzmayer reviewed Pest Patrol in *Creative Computing Video & Arcade Games* (Vol. 1, No. 2, Fall 1983, p. 93).[^ref-21] He said its 40 waves made it "unique in a crowd of games with similar themes" and praised its hi-res animation. He closed: "I continue to enjoy this game because it has something that many other programs need desperately: variety."[^ref-21]
 
+Softalk's October 1982 software review, written a year earlier, described Pest Patrol as "taking Threshold out of space and combining it with elements of Centipede", from "good old On-Line with an image lift". It praised the practice mode: "In the practice mode you have seventy-seven cans and can still play any level up to level twenty-nine". It concluded that "while the arcade freak will certainly like the intense challenge of the higher levels, the ordinary player is more likely to enjoy the cleverness of the graphics and the surprises of each level."[^ref-32] Softalk's price in that review was $34.95.[^ref-32]
+
 ### Modern Assessment
 
 **Aggregate Scores:**
 - **MyAbandonware:** No user ratings yet[^ref-1]
-- **MobyGames:** 5.0/5 (1 rating, 0 reviews)[^ref-3]
+- **MobyGames:** 1 rating, no score displayed (read via the MobyGames API, 2026-11-11)[^ref-3]
 
 Retro365's 2025 retrospective credits Allen with "crisp control with interesting enemy design and tight animation", saying the game "felt fast and reactive" on the Apple II.[^ref-22] It also argues that the Space Invaders concept "had largely exhausted itself", that the game "struggled to stand out", and that it "became one of Sierra's more obscure releases, a clever, well-made game that never had a chance to find its place in the market."[^ref-22]
 
@@ -128,7 +132,7 @@ The game was released in the same period as other Sierra arcade titles:[^ref-11]
 
 Note: aha82 lists Crossfire, Frogger, Jawbreaker and Threshold as 1982 releases; their vault pages use 1981.[^ref-11]
 
-Sierra's 1982 releases also included larger projects such as Time Zone and Ultima II.[^ref-11] Time Zone shipped on six double-sided floppy disks.[^ref-28] A Sierra product catalog of the period lists the Apple version of Pest Patrol at $29.95, the same price given in the 1982 advertisement.[^ref-24][^ref-29]
+Sierra's 1982 releases also included larger projects such as Time Zone and Ultima II.[^ref-11] Time Zone shipped on six double-sided floppy disks.[^ref-28] Sierra's own 1982 advertisement and a Sierra product catalog of the period list the Apple version of Pest Patrol at $29.95, while Softalk's November 1982 new-products listing gave a list price of $34.95.[^ref-24][^ref-29][^ref-33]
 
 ### SierraVision Label
 
@@ -141,8 +145,6 @@ Pest Patrol was written in machine language by Mark Allen and uses the Apple II'
 ### Copy Protection
 
 According to the woz-a-day archive, "Due to compatibility issues caused by the copy protection, it will not run on any later models" than the 48K Apple II or II+.[^ref-9]
-
-Cracked copies that bypass the protection circulate in Apple II disk archives. One example is Asimov's "Mr. Krack Man crack" image.[^ref-16]
 
 ### Technical Specifications
 
@@ -160,7 +162,7 @@ Cracked copies that bypass the protection circulate in Apple II disk archives. O
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| — | Autumn 1982 | Apple II | Initial release under the SierraVision label[^ref-1][^ref-22] |
+| — | October 1982 | Apple II | Initial release under the SierraVision label; Softalk's new-products list dates it 10/82 at $34.95, against $29.95 in Sierra's ad[^ref-1][^ref-22][^ref-24][^ref-33] |
 
 ## Legacy
 
@@ -186,7 +188,7 @@ The game is documented in game databases and preservation archives:[^ref-3][^ref
 ### Trivia and Notable Details
 
 - Pest Patrol was part of Sierra's 1982 lineup alongside titles like Cannonball Blitz, Crossfire, Frogger and Threshold[^ref-11]
-- The 1983 review counted 40 attack waves, MobyGames lists 39, and the box asked "Can you survive 29 levels"[^ref-3][^ref-21][^ref-23]
+- Softalk (October 1982) counted forty levels, numbered up to 39; MobyGames lists 39, and the box asked "Can you survive 29 levels"[^ref-3][^ref-23][^ref-32]
 - The 1982 advertisement promoted "the quick and beautiful HI-RES graphics that you have come to expect from Sierra On-Line"[^ref-24]
 - The advertisement billed it "By Mark Allen, author of SABOTAGE" at $29.95[^ref-24]
 - The 4cade launcher offers an infinite-lives cheat for it[^ref-12]
@@ -204,13 +206,10 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 - **Lunar Leeper** (1982): horizontally scrolling shooter by Chuck Bueche, also a SierraVision title[^ref-30]
 - **Cannonball Blitz** (1982): a "Donkey Kong" clone by Lubeck[^ref-11]
 
-## Purchase
+## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG, Steam, or other modern storefronts
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
+- Not sold on GOG, Steam or other modern storefronts (checked 2026-11-11)
 
 **Digital Availability**
 - Various preservation archives maintain the game[^ref-7]
@@ -252,7 +251,6 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 [^ref-9]: [Internet Archive - Pest Patrol (woz-a-day)](https://archive.org/details/wozaday_Pest_Patrol) - WOZ format disk image, 48K requirement, copy protection compatibility limitations
 [^ref-11]: [Apple II History - 1982](https://www.apple2history.org/appendix/aha/aha82/) - 1982 Sierra releases: Cannonball Blitz, Frogger, Crossfire, Threshold, Marauder, Jawbreaker, Time Zone, Ultima II
 [^ref-12]: [4cade Apple II Launcher - GAMES.CONF](https://github.com/a2-4am/4cade/blob/main/res/GAMES.CONF) - entry "0000111,PEST.PATROL=Pest Patrol/1982"; cheat category 1 = infinite lives (a 4cade launcher cheat)
-[^ref-16]: [Asimov mirror - Apple II action game disk images](https://mirrors.apple2.org.za/ftp.apple.asimov.net/images/games/action/) - lists "PEST_PATROL (Mr. Krack Man crack).do" disk image
 [^ref-19]: [Apple II Hi-Res graphics reference](https://en.wikipedia.org/wiki/Apple_II_graphics) - technical context for the Apple II's Hi-Res graphics mode
 [^ref-21]: [Creative Computing Video & Arcade Games, Fall 1983 - Pest Patrol review by Owen Linzmayer](https://www.atarimagazines.com/cva/v1n2/pestpatrol.php) - Vol. 1 No. 2, p. 93: Mark Allen credit, 40 waves, controls, practice mode, bomb types, enemy list
 [^ref-22]: [Retro365 - Pest Patrol, A Small Piece of Sierra's Quest to Conquer the Action Market](https://retro365.blog/2025/08/15/pest-patrol-a-small-piece-of-sierras-quest-to-conquer-the-action-market/) - Ernst Krogtoft, 2025: Mark Allen's third and final game, autumn 1982 SierraVision release, forty levels, limited sales
@@ -265,3 +263,5 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 [^ref-29]: [Sierra On-Line product catalog (mocagh.org scan)](https://mocagh.org/sierra/sierra-catalog2.pdf) - lists "PEST PATROL APPLE Price: $29.95"
 [^ref-30]: [Wikipedia - Lunar Leeper](https://en.wikipedia.org/wiki/Lunar_Leeper) - horizontally scrolling shooter by Chuck Bueche, SierraVision label, 1982
 [^ref-31]: [Eli's Software Encyclopedia - Category:1982 Sierra](https://elisoftware.org/wiki/Category:1982_Sierra) - 1982 Sierra releases including Creepy Corridors (VIC-20) and Pest Patrol
+[^ref-32]: [Softalk, October 1982 (Internet Archive)](https://archive.org/details/softalkv3n02oct1982) - Pest Patrol software review, p. 150: forty levels, first twenty-nine selectable with the plus key, seventy-seven practice cans, six pest types, $34.95
+[^ref-33]: [Softalk, November 1982 (Internet Archive)](https://archive.org/details/softalkv3n03nov1982) - new-products listing: "Pest Patrol. Allen." Sierra On-Line, $34.95, 10/82
