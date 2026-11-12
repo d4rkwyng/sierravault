@@ -1,13 +1,13 @@
 ---
 title: "Playing Sierra Games Today"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # Playing Sierra Games Today
 
-<small style="color: gray">Last updated: October 26, 2026</small>
+<small style="color: gray">Last updated: November 11, 2026</small>
 
-A guide to running Sierra's classic games on modern computers and handhelds. Whether you're revisiting childhood favorites or discovering these adventures for the first time, this guide will get you playing. Store contents, prices and ScummVM support levels below were checked on October 16, 2026 (GOG single titles on October 26, 2026), and can change.
+A guide to running Sierra's classic games on modern computers and handhelds. Whether you're revisiting childhood favorites or discovering these adventures for the first time, this guide will get you playing. Store contents, prices and ScummVM support levels below were checked on October 16, 2026 (GOG single titles on October 26 and November 11, 2026), and can change.
 
 ---
 
@@ -41,7 +41,7 @@ ScummVM is a program that reimplements the game engines Sierra used, allowing th
 
 ### Supported Sierra Games
 
-ScummVM's compatibility list for the current release (2026.4.0) rates most Sierra SCI games **Excellent** and the AGI games **Good**; a few SCI titles are also rated Good, as noted below.[^ref-1]
+ScummVM's compatibility list for the current release (2026.4.0) rates most Sierra SCI games **Excellent** and the AGI games **Good**; a few SCI titles are also rated Good, as noted below. The lists below follow the "Sierra Game Compatibility Chart" on that page.[^ref-1]
 
 **AGI Engine Games (1984–1989), rated Good (King's Quest II: Excellent):**[^ref-1]
 - King's Quest I–IV (original AGI versions)
@@ -53,19 +53,32 @@ ScummVM's compatibility list for the current release (2026.4.0) rates most Sierr
 - Mixed-Up Mother Goose (original)
 - Donald Duck's Playground
 - The Black Cauldron
+- Mickey's Space Adventure
+- Troll's Tale
+- Winnie the Pooh in the Hundred Acre Wood
+
+**Hi-Res Adventures (Apple II era), rated Good:**[^ref-1]
+- Hi-Res Adventure #0 Mission Asteroid, #1 Mystery House, #2 The Wizard and the Princess, #3 Cranston Manor, #4 Ulysses and the Golden Fleece, #5 Time Zone and #6 The Dark Crystal
 
 **SCI Engine Games (1988–1996), rated Excellent unless marked:**[^ref-1]
-- King's Quest I SCI remake, King's Quest IV (SCI version), King's Quest V–VI, King's Quest VII (Good)
+- King's Quest I SCI remake, King's Quest IV (SCI version), King's Quest V–VI, King's Quest VII (Good), King's Questions
 - Space Quest I VGA remake, Space Quest III–V, Space Quest 6 (Good)
-- Leisure Suit Larry 1 VGA remake, Leisure Suit Larry 2, 3, 5, 6 and 7
+- Leisure Suit Larry 1 VGA remake, Leisure Suit Larry 2, 3, 5, 6 (including the hi-res version) and 7
 - Police Quest 1 VGA remake, Police Quest 2–3, Police Quest IV (Good), Police Quest: SWAT (Good)
 - Quest for Glory I–IV (including the QFG1 VGA remake)
 - Gabriel Knight 1 and Gabriel Knight 2: The Beast Within
 - Laura Bow 1–2
+- Code-Name: Iceman
 - Conquests of Camelot and Longbow
 - EcoQuest 1–2
 - Freddy Pharkas
 - Pepper's Adventures in Time
+- Mixed-Up Mother Goose (SCI versions, including Deluxe) and Mixed Up Fairy Tales
+- Castle of Dr. Brain and The Island of Dr. Brain
+- Jones in the Fast Lane
+- Hoyle's Official Book of Games Volumes 1–3, Hoyle Classic Card Games and Hoyle Solitaire (Hoyle Classic Games is rated Good)
+- Inside the Chest, Astro Chicken and Slater & Charlie Go Camping
+- RAMA (Good)
 - Phantasmagoria (Good) and Phantasmagoria 2: A Puzzle of Flesh
 - Lighthouse (Good)
 - Torin's Passage
@@ -131,16 +144,16 @@ Highlights from the project's own feature list:[^ref-2]
 
 ### Games That Need DOSBox
 
-- Red Baron (1990)
-- Aces of the Pacific, Aces Over Europe, Aces of the Deep
-- A-10 Tank Killer
-- Metaltech: Earthsiege (1994)
+- [[1990 - Red Baron|Red Baron]] (1990)
+- [[1992 - Aces of the Pacific|Aces of the Pacific]], [[1993 - Aces Over Europe|Aces Over Europe]], [[1994 - Aces of the Deep|Aces of the Deep]]
+- [[1989 - A-10 Tank Killer|A-10 Tank Killer]]
+- [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] (1994)
 - Front Page Sports (DOS-era entries)
 - [[1996 - NASCAR Racing 2|NASCAR Racing 2]] (1996)
 - [[1995 - IndyCar Racing II|IndyCar Racing II]] (1995)
-- Caesar I–II
-- Lords of the Realm I–II
-- The Incredible Machine (DOS entries)
+- [[1992 - Caesar|Caesar]] and [[1995 - Caesar II|Caesar II]]
+- [[1994 - Lords of the Realm|Lords of the Realm]] and [[1996 - Lords of the Realm II|Lords of the Realm II]]
+- [[1992 - The Incredible Machine|The Incredible Machine]] (DOS entries)
 - Many other DOS sports and simulation titles
 
 ### Setting Up DOSBox Staging
@@ -177,7 +190,7 @@ install
 
 ## Method 3: GOG.com (Easiest Option)
 
-GOG.com sells Sierra classics DRM-free with emulators pre-configured; its Space Quest 1+2+3 pack, for example, ships with ScummVM, updated to version 2026.1.0 in February 2026.[^ref-14]
+GOG.com sells Sierra classics DRM-free with emulators pre-configured; its Space Quest 1+2+3 pack, for example, ships with ScummVM, updated to version 2026.1.0 in February 2026.[^ref-14] Its Gabriel Knight: Sins of the Fathers listing received a v2 update on October 29, 2026.[^ref-20]
 
 ### What GOG Provides
 
@@ -188,7 +201,7 @@ GOG.com sells Sierra classics DRM-free with emulators pre-configured; its Space 
 
 ### Available Sierra Collections on GOG
 
-Prices are US list prices as of October 16, 2026; the single titles from The Colonel's Bequest down were checked on October 26, 2026.
+Prices are US list prices as of October 16, 2026; the single titles from The Colonel's Bequest down were checked on October 26, 2026, and the five Dynamix and Sierra singles after Torin's Passage on November 11, 2026.
 
 | Collection | Games Included | Price |
 |------------|----------------|-------|
@@ -202,7 +215,7 @@ Prices are US list prices as of October 16, 2026; the single titles from The Col
 | [Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) | Police Quest: SWAT, SWAT 2[^ref-17] | $9.99 |
 | [Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) | *Greatest Hits and Misses*: "five complete adventures"[^ref-18] | $9.99 |
 | [Leisure Suit Larry: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) | LSL7[^ref-19] | $5.99 |
-| [Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) | GK1[^ref-20] | $5.99 |
+| [Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) | GK1; since the October 29, 2026 v2 update, a DOS build on DOSBox and a Windows build on ScummVM, chosen from a launcher, with cloud saves in both[^ref-20] | $5.99 |
 | [Gabriel Knight 2: The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) | GK2[^ref-21] | $5.99 |
 | [Gabriel Knight 3](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) | GK3[^ref-22] | $5.99 |
 | [Phantasmagoria](https://www.gog.com/en/game/phantasmagoria) | Phantasmagoria[^ref-23] | $9.99 |
@@ -214,6 +227,11 @@ Prices are US list prices as of October 16, 2026; the single titles from The Col
 | [Shivers](https://www.gog.com/en/game/shivers) | Shivers[^ref-53] | $5.99 |
 | [Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) | Shivers II[^ref-54] | $5.99 |
 | [Torin's Passage](https://www.gog.com/en/game/torins_passage) | Torin's Passage[^ref-55] | $5.99 |
+| [Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) | Rise of the Dragon[^ref-56] | $5.99 |
+| [Heart of China](https://www.gog.com/en/game/heart_of_china) | Heart of China[^ref-57] | $5.99 |
+| [The Adventures of Willy Beamish](https://www.gog.com/en/game/the_adventures_of_willy_beamish) | Willy Beamish[^ref-58] | $5.99 |
+| [Freddy Pharkas: Frontier Pharmacist](https://www.gog.com/en/game/freddy_pharkas_frontier_pharmacist) | Freddy Pharkas[^ref-59] | $5.99 |
+| [Codename: ICEMAN](https://www.gog.com/en/game/codename_iceman) | Code-Name: Iceman[^ref-60] | $5.99 |
 
 ### GOG Caveats
 
@@ -227,7 +245,7 @@ Prices are US list prices as of October 16, 2026; the single titles from The Col
 
 ### King's Quest I remake on Steam
 
-The King's Quest I in Steam's King's Quest Collection is the 1990 SCI remake, which GOG's pack lacks.[^ref-31] PCGamingWiki lists both the EGA and VGA versions of Space Quest I in the Space Quest Collection; GOG's Space Quest 1+2+3 now has both too.[^ref-29][^ref-14]
+According to a 2013 review, the King's Quest I in Steam's King's Quest Collection is the updated 1990 version, which GOG's pack lacks; Steam's own description names only "Quest for the Crown" and does not state a year.[^ref-31][^ref-28] PCGamingWiki lists both the EGA and VGA versions of Space Quest I in the Space Quest Collection; GOG's Space Quest 1+2+3 now has both too.[^ref-29][^ref-14]
 
 ### Available on Steam
 
@@ -258,15 +276,15 @@ Windows games from 1995–2000 often need special handling. (Gabriel Knight 2 an
 - [[1995 - Trophy Bass|Trophy Bass]] (1995)
 - [[1996 - Earthsiege 2|Earthsiege 2]] (1996)
 - [[1997 - Red Baron II|Red Baron II]] (1997) and [[1998 - Red Baron 3D|Red Baron 3D]] (1998)
-- Shivers 2 (1997)
-- Quest for Glory V: Dragon Fire (1998)
-- King's Quest: Mask of Eternity (1998)
-- SWAT 2 (1998)
-- Caesar III (1998)
-- Gabriel Knight 3: Blood of the Sacred, Blood of the Damned (1999)
-- Pharaoh (1999)
+- [[1997 - Shivers Two - Harvest of Souls|Shivers 2]] (1997)
+- [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] (1998)
+- [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] (1998)
+- [[1998 - Police Quest - SWAT 2|SWAT 2]] (1998)
+- [[1998 - Caesar III|Caesar III]] (1998)
+- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] (1999)
+- [[1999 - Pharaoh|Pharaoh]] (1999)
 - [[1999 - Starsiege|Starsiege]] (1999)
-- Zeus: Master of Olympus (2000)
+- [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (2000)
 
 ### Running Windows 95/98 Games
 
@@ -375,8 +393,8 @@ Many Sierra games use copy protection requiring the physical manual.
 | Store | Pros | Cons |
 |-------|------|------|
 | **GOG.com** | DRM-free, includes manuals, pre-configured | KQ1 pack lacks the 1990 remake; mostly Windows-only |
-| **Steam** | KQ Collection includes the 1990 KQ1 remake | May need Proton/extraction |
-| **Xbox Game Pass** | Retro Classics app, made with Antstream Arcade, with Activision-owned classics including Space Quest titles[^ref-32][^ref-33] | Streaming only, limited selection |
+| **Steam** | KQ Collection's KQ1 is reported to be the 1990 remake (per a 2013 review) | May need Proton/extraction |
+| **Xbox Game Pass** | Retro Classics app, made with Antstream Arcade, with Activision-owned classics. Sierra titles added so far include Space Quest I, II and III, Caesar, Conquests of Camelot, Gabriel Knight: Sins of the Fathers, Code-Name: Iceman, Police Quest II, Rise of the Dragon, and Dynamix's Willy Beamish and Heart of China[^ref-32][^ref-33][^ref-61][^ref-62][^ref-63] | Streaming only, limited selection |
 
 ### Physical Copies
 
@@ -421,7 +439,7 @@ If you want enhanced versions of classic games:
 
 ## References
 
-[^ref-1]: [ScummVM Compatibility List – 2026.4.0](https://www.scummvm.org/compatibility/2026.4.0/) — Per-game support levels, e.g. "agi:kq1 Good", "sci:gk2 Excellent", "sci:phantasmagoria2 Excellent", "dgds:rise Good"
+[^ref-1]: [ScummVM Compatibility List – 2026.4.0](https://www.scummvm.org/compatibility/2026.4.0/) — "Sierra Game Compatibility Chart" of per-game support levels, e.g. "sci:iceman Excellent", "sci:rama Good", "agi:troll Good", "adl:hires1 Good", "agi:kq1 Good", "sci:gk2 Excellent", "sci:phantasmagoria2 Excellent", "dgds:rise Good"
 [^ref-2]: [DOSBox Staging](https://www.dosbox-staging.org/) — Feature list: "Authentic zero-config CRT emulation", "Integrated Roland MT-32 emulation", "Built-in FluidSynth MIDI synth", "Modern 10-axis controller support", "64-bit dynamic recompilation for improved performance (ARM & x64)"; "Aspect ratio correct output & image captures by default"
 [^ref-3]: [Flathub – ScummVM](https://flathub.org/apps/org.scummvm.ScummVM) — Flatpak package org.scummvm.ScummVM
 [^ref-4]: [The Sierra Help Pages](https://sierrahelp.com/) — "a collection of tips, help, tools and patches to get your games running on newer, faster computers"; game installers section
@@ -440,7 +458,7 @@ If you want enhanced versions of classic games:
 [^ref-17]: [GOG – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) — "Pack includes Darryl F. Gates' Police Quest: SWAT and Police Quest: SWAT 2"; $9.99
 [^ref-18]: [GOG – Leisure Suit Larry](https://www.gog.com/en/game/leisure_suit_larry) — "Leisure Suit Larry's Greatest Hits and Misses features ... five complete adventures"; $9.99; Windows, macOS, Linux
 [^ref-19]: [GOG – Leisure Suit Larry: Love for Sail!](https://www.gog.com/en/game/leisure_suit_larry_love_for_sail) — $5.99; Windows, macOS, Linux
-[^ref-20]: [GOG – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — $5.99
+[^ref-20]: [GOG – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — $5.99; changelog "GOG v2 changelog (29 October 2026)": "Added the DOS version running on DOSBox", "Added the Windows version running on ScummVM", "Added a launcher", "Added Cloud Saves support to both versions"
 [^ref-21]: [GOG – Gabriel Knight 2: The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) — $5.99
 [^ref-22]: [GOG – Gabriel Knight 3: Blood of the Sacred, Blood of the Damned](https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned) — $5.99
 [^ref-23]: [GOG – Phantasmagoria](https://www.gog.com/en/game/phantasmagoria) — $9.99 (first game only)
@@ -476,3 +494,11 @@ If you want enhanced versions of classic games:
 [^ref-53]: [GOG – Shivers](https://www.gog.com/en/game/shivers) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
 [^ref-54]: [GOG – Shivers II: Harvest of Souls](https://www.gog.com/en/game/shivers_ii_harvest_of_souls) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
 [^ref-55]: [GOG – Torin's Passage](https://www.gog.com/en/game/torins_passage) — live store page; US price $5.99; Windows (GOG product and price API, checked 2026-10-26)
+[^ref-56]: [GOG – Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) — live store page; US price $5.99; Windows (GOG store page, checked 2026-11-11)
+[^ref-57]: [GOG – Heart of China](https://www.gog.com/en/game/heart_of_china) — live store page; US price $5.99; Windows (GOG store page, checked 2026-11-11)
+[^ref-58]: [GOG – The Adventures of Willy Beamish](https://www.gog.com/en/game/the_adventures_of_willy_beamish) — live store page; US price $5.99; Windows (GOG store page, checked 2026-11-11)
+[^ref-59]: [GOG – Freddy Pharkas: Frontier Pharmacist](https://www.gog.com/en/game/freddy_pharkas_frontier_pharmacist) — live store page; US price $5.99; Windows (GOG store page, checked 2026-11-11)
+[^ref-60]: [GOG – Codename: ICEMAN](https://www.gog.com/en/game/codename_iceman) — live store page; US price $5.99; Windows (GOG store page, checked 2026-11-11)
+[^ref-61]: [TrueAchievements – Retro Classics December 2025](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-december-2025) — "Codename: Iceman — Amiga (1990)"; "Police Quest II: The Vengeance — Amiga"
+[^ref-62]: [TrueAchievements – Retro Classics January 2026](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-january-2026) — "Rise of the Dragon — Amiga (1990)"; Dynamix's "The Adventures of Willy Beamish and Heart of China" named as other Retro Classics; the September 2025 article (ref-33) lists Space Quest: The Sarien Encounter and Space Quest III and notes Space Quest II was already available
+[^ref-63]: [Multiplayer.it – Retro Classics adds 7 games](https://multiplayer.it/notizie/la-libreria-di-retro-classics-per-game-pass-si-arricchisce-di-7-giochi.html) — lists "Caesar (1992) - Amiga", "Conquests of Camelot: The Search for the Grail (1990) - Amiga" and "Gabriel Knight: Sins of the Fathers (1993) - MS DOS"
