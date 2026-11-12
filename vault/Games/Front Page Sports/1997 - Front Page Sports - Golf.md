@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown/unnamed
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 composer: [Charles Barth]
 description: 'Front Page Sports: Golf is a 1997 golf simulation for Windows 95, developed
   by Headgate Studios and published by Sierra On-Line, best known for its mouse-driven
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Golf
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
@@ -74,7 +74,7 @@ The game offers twelve game types for single-player and multiplayer sessions, wh
 - **Ryder Cup:** Team tournament format
 - **Stableford:** Points-based scoring
 
-Players can practice on a driving range, among other practice areas.[^ref-8] For multiplayer, the game supports Internet, modem and LAN play, with Sierra's free SIGS service providing online opponents, for 2-64+ players.[^ref-5]
+Players can practice on a driving range, among other practice areas.[^ref-8] For multiplayer, the game supports Internet, modem and LAN play, with Sierra's free SIGS service providing online opponents, for 2-64+ players.[^ref-5] Computer Gaming World listed hot-seat play for 1-4 players, modem play for 2, LAN play for 1-8 and Internet play for 1-64, with one CD needed per player.[^ref-30] A player-setup option scales shot distance and ball direction to help beginners, and another lets computer-controlled players "learn from every stroke."[^ref-30]
 
 ### Puzzles and Mechanics
 
@@ -115,13 +115,13 @@ MobyGames user Overmann wrote that the game "Introduced mouse-swing and set the 
 
 ### Origins
 
-Front Page Sports: Golf was in development for nearly three years.[^ref-1] The project was led by Vance Cook, the director and lead programmer of Links and Links 386 Pro, and it marked Cook's return to golf simulations.[^ref-3] Computer golf games had traditionally used a meter for the swing. Cook and his team experimented with other approaches, including a top-down perspective, before Cook settled on using the mouse to swing the club.[^ref-1]
+Front Page Sports: Golf was in development for nearly three years.[^ref-1] The project was led by Vance Cook, the director and lead programmer of Links and Links 386 Pro, and it marked Cook's return to golf simulations.[^ref-3] Computer golf games had traditionally used a meter for the swing. Cook and his team experimented with other approaches, including a top-down perspective, before Cook settled on using the mouse to swing the club.[^ref-1] Cook had founded Headgate in 1992,[^ref-29] and Front Page Sports: Golf was the studio's first golf game.[^ref-3]
 
 Sierra On-Line purchased Headgate Studios in April 1996.[^ref-29] The purchase gave Headgate additional resources to perfect the game.[^ref-1] The game was once planned for release in November 1996.[^ref-1] It neared completion in April 1997 and was released for Windows shortly afterward.[^ref-1][^ref-3]
 
 ### Production
 
-The team went to some lengths to recreate the real courses. Before each course was mapped, team members visited it to take video footage and hundreds of photos.[^ref-1] Planes were also flown over the courses to obtain aerial photographs.[^ref-1]
+The team went to some lengths to recreate the real courses. Before each course was mapped, team members visited it to take video footage and hundreds of photos.[^ref-1] Planes were also flown over the courses to obtain aerial photographs.[^ref-1] The courses were built by Kari St. John, Matthew Peterson, Scott Ferrin and Mark Merrill, who was the course creation manager.[^ref-27]
 
 Multiplayer was not initially planned and was implemented late in development.[^ref-1] The game shipped with IPX and LAN networking, plus free Internet play through SIGS (Sierra's Internet Gaming Site).[^ref-7]
 
@@ -222,7 +222,7 @@ The preview also noted ambient sounds such as mowers, airplanes and lawn sprinkl
 
 ### Sales and Commercial Impact
 
-No sales figures have been documented for Front Page Sports: Golf. Sierra listed it at $54.95.[^ref-22] For a limited time at launch, the game came with a free add-on course disk for the Coeur d'Alene Resort.[^ref-1][^ref-22]
+No sales figures have been documented for Front Page Sports: Golf. Sierra listed it at $54.95.[^ref-22] For a limited time at launch, the game came with a free add-on course disk for the Coeur d'Alene Resort.[^ref-1][^ref-22] Sierra said it had only a few thousand of these disks, and that once they were gone the next batch would be sold separately for about $25 each.[^ref-22]
 
 The ESRB rated the game E for Everyone.[^ref-18][^ref-25]
 
@@ -295,7 +295,7 @@ Headgate went on to develop golf games for Sierra, starting with Front Page Spor
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Golf) – development history, TrueSwing vs SimGolf, critical reception and review scores, PGA Championship Golf 1999 reuse
-[^ref-2]: [MobyGames – Front Page Sports: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) – Moby Score (6.8, 3 votes, read via the MobyGames API November 11, 2026), alternate titles, compilations, user reviews
+[^ref-2]: [MobyGames – Front Page Sports: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) – Moby Score (6.8, 3 votes, November 11, 2026), alternate titles, compilations, user reviews
 [^ref-3]: [GameSpot – Front Page Sports: Golf Preview](https://web.archive.org/web/20050408120428/http://www.gamespot.com/pc/sports/frontpagesportsgolf/preview_2563196.html) – Tasos Kaiafas preview (April 1997): Vance Cook history, TrueSwing vs SimGolf, game types, courses
 [^ref-5]: [Computer Games Strategy Plus – Jeff Lackey Review](https://web.archive.org/web/20030704203910/http://www.cdmag.com/articles/002/066/fps_golf_review.html) – TrueSwing praise, bugs, system requirements, multiplayer
 [^ref-6]: [GameSpot – Front Page Sports: Golf Review](https://www.gamespot.com/reviews/front-page-sports-golf-review/1900-2536105/) – 8.1/10 score, Tasos Kaiafas review, technical issues, gameplay details
