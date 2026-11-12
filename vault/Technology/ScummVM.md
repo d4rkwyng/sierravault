@@ -12,7 +12,7 @@ tags: [technology, scummvm, agi, sci, preservation, emulation]
 
 ## Overview
 
-ScummVM is the open-source program that re-implements LucasArts' SCUMM scripting engine and, since 2006–2010, [[Adventure Game Interpreter|Sierra's AGI]] (from 2006, via the Sarien project) and [[Sierra Creative Interpreter|SCI]] (merged 2009, first released 2010, via FreeSCI) engines as well.[^ref-1][^ref-5][^ref-7] Despite its name ("Script Creation Utility for Maniac Mansion Virtual Machine"), it "is a complete rewrite of these games' executables and is not an emulator"; its home page says it supports "over 325 adventure games".[^ref-23] The January 2026 "Like a version" release alone added 12 engines and, counting its detection tables, "at least 194 titles".[^ref-20]
+ScummVM is the open-source program that re-implements LucasArts' SCUMM scripting engine and, since 2006–2010, [[Adventure Game Interpreter|Sierra's AGI]] (from 2006, via the Sarien project) and [[Sierra Creative Interpreter|SCI]] (merged 2009, first released 2010, via FreeSCI) engines as well.[^ref-1][^ref-5][^ref-7] Despite its name ("Script Creation Utility for Maniac Mansion Virtual Machine"), it "is a complete rewrite of these games' executables and is not an emulator"; its home page says it supports "over 325 adventure games".[^ref-23] The January 2026 "Like a Version" release alone added 12 engines and, counting its detection tables, "at least 194 titles".[^ref-20]
 
 For the Sierra archive, ScummVM matters for three reasons:
 
@@ -45,7 +45,7 @@ The 2.5–2.9 releases continued to refine Sierra support. From ScummVM's releas
 
 From 2026.1.0, ScummVM switched from 2.x version numbers to year-based releases on a more frequent cadence:[^ref-20]
 
-- **2026.1.0 "Like a version"** (January 31, 2026) — 12 new engines and at least 194 titles, including Dynamix's [[1991 - Heart of China|Heart of China]] and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]].[^ref-20]
+- **2026.1.0 "Like a Version"** (January 31, 2026) — 12 new engines and at least 194 titles, including Dynamix's [[1991 - Heart of China|Heart of China]] and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]].[^ref-20]
 - **2026.2.0 "Railmonicon"** (March 28, 2026)[^ref-21] — Improved PC-Speaker emulation, and fewer screen blits in the Gob engine, "making Gobliiins and Ween noticeably more responsive on weaker platforms".[^ref-24]
 - **2026.3.0 "Carousels & Killer Whales"** (June 20, 2026) — No Sierra-specific changes listed.[^ref-22]
 - **2026.4.0 "Never-slop"** (October 11, 2026, the project's 25th anniversary) — No Sierra-specific changes found in its announcement or release notes.[^ref-12][^ref-24]
@@ -127,7 +127,7 @@ As an open-source project, ScummVM also shares its technical knowledge openly: d
 [^ref-15]: [GOG.com — Space Quest 1+2+3](https://www.gog.com/en/game/space_quest_1_2_3) — "This game is powered by ScummVM"; changelog: "Replaced DOSBox with ScummVM 2.0" (2018), "Updated ScummVM to version 2026.1.0" (February 20, 2026)
 [^ref-17]: [ScummVM Downloads](https://www.scummvm.org/downloads/) — Official platform packages incl. Nintendo Switch, PlayStation Vita
 [^ref-18]: [PCGamingWiki — King's Quest: Mask of Eternity](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Mask_of_Eternity) — Windows 10/11 fix projects (kqmoefix, KQ8FixWin11)
-[^ref-20]: [ScummVM 2026.1.0 "Like a version" release announcement](https://www.scummvm.org/news/20260131/) — 12 new engines, "at least 194 titles"; Heart of China and Willy Beamish
+[^ref-20]: [ScummVM 2026.1.0 "Like a Version" release announcement](https://www.scummvm.org/news/20260131/) — 12 new engines, "at least 194 titles"; Heart of China and Willy Beamish
 [^ref-21]: [ScummVM 2026.2.0 "Railmonicon" release announcement](https://www.scummvm.org/news/20260328/) — 2026.2.0 release
 [^ref-22]: [ScummVM 2026.3.0 "Carousels & Killer Whales" release announcement](https://www.scummvm.org/news/20260620/) — Quarterly release, no Sierra changes
 [^ref-23]: [ScummVM home page](https://www.scummvm.org/) — "a complete rewrite of these games' executables and is not an emulator"; "over 325 adventure games"

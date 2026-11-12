@@ -1,7 +1,7 @@
 ---
 title: "Sierra Deaths"
 type: guide
-last_updated: "2026-10-26"
+last_updated: "2026-11-11"
 ---
 # The Art of Dying: A Celebration of Sierra's Creative Deaths
 
@@ -81,6 +81,9 @@ The Laura Bow mysteries featured death from both sides—investigating murders w
 **Dynamix Games:**
 - [[1990 - Rise of the Dragon|Rise of the Dragon]]: the Home of the Underdogs review, reproduced on MyAbandonware, says "even the death scenes are so well done that I remember trying different ways to die just to see them all"[^ref-50]
 - [[1996 - Rama|Rama]] followed a death with "an apology and warning from Clarke in a live-action video," then offered a forgiving retry[^ref-41]
+
+**Police Quest:**
+- [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] set procedure against the series' comic deaths: Wikipedia calls it the most realistic of Sierra's late-1980s games, and failing to follow proper procedure can get Sonny killed. If he does not store his sidearm in a gun locker while processing a suspect at the jail, the suspect steals it and shoots him, ending the game[^ref-51]
 
 **Gabriel Knight:**
 - [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] was listed as **#7** on Computer Gaming World's "The Best Ways To Die in A PC Game" for the scene where a zombie rips out the player's heart[^ref-7]
@@ -186,3 +189,4 @@ In an age of infinite retries and gentle tutorials, there's something to be said
 [^ref-48]: [Wikipedia – Bill Ratner](https://en.wikipedia.org/wiki/Bill_Ratner) – video game credits: 1992 King's Quest VI, Narrator
 [^ref-49]: [TV Tropes – King's Quest I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIQuestForTheCrown) – random encounters: ogre, wolf, sorcerer, witch; the dwarf steals an item
 [^ref-50]: Home of the Underdogs review of Rise of the Dragon, reproduced on the MyAbandonware game page *(no link: the site offers a download and the game is sold commercially)* – "Even the death scenes are so well done that I remember trying different ways to die just to see them all … Review By HOTUD" (checked 2026-10-16)
+[^ref-51]: [Wikipedia – Police Quest: In Pursuit of the Death Angel](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – "the most realistic of those developed by Sierra in the late 1980s"; gun-locker failure leads to Sonny being shot, "resulting in a game over"
