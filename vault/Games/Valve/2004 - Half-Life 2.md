@@ -10,14 +10,14 @@ series: Half-Life
 engine: Source
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 composer: [Kelly Bailey]
 description: "Half-Life 2 is a first-person shooter developed and published by Valve Corporation, released on November 16, 2004 for Windows PC, in which physicist Gordon Freeman fights the Combine occupation of Earth."
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life 2
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -77,7 +77,7 @@ Half-Life 2's campaign spans approximately 12-20 hours depending on playstyle[^r
 
 ### Puzzles and Mechanics
 
-The physics engine serves as the foundation for Half-Life 2's puzzle design, with players manipulating objects to create bridges, counterweights, and barriers[^ref-15]. The Gravity Gun—described by critics as "the greatest weapon or tool in any FPS ever"—allows players to pick up and launch objects, turning environmental debris into both puzzle solutions and deadly projectiles[^ref-7].
+The physics engine serves as the foundation for Half-Life 2's puzzle design, with players manipulating objects to create bridges, counterweights, and barriers[^ref-15]. The Gravity Gun—described by Eurogamer as "the greatest weapon or tool in any FPS ever"—allows players to pick up and launch objects, turning environmental debris into both puzzle solutions and deadly projectiles[^ref-7].
 
 Ars Technica's reviewer summed up Valve's approach as "Show, don't tell": players learn what they need by seeing and hearing the world around them[^ref-5]. The game features varied gameplay types integrated seamlessly including first-person shooting, tactical combat, survival horror in Ravenholm, vehicle sections with the airboat and scout car, and platform-style environmental navigation[^ref-16]. Pheropods (bugbait), introduced at the end of the Sandtraps chapter, let players summon Antlions and direct them to attack targets such as Combine soldiers[^ref-53].
 
@@ -176,7 +176,7 @@ Valve's relationship with publisher Vivendi Universal Games (parent company of S
 
 Valve alleged that "Vivendi has refused to pay the developer royalties owed and unreasonably delayed Counter-Strike: Condition Zero so that it missed the Christmas 2003 retail period."[^ref-28] In response, "Vivendi lawyers made a counter-claim that they hoped would invalidate their publishing agreement with Valve and grant them ownership of the Half-Life intellectual property."[^ref-28]
 
-Sierra's lawyers argued that "Valve was aware of its business plan for Steam long before the contract was signed. They considered that Steam would be revolutionary technology that would take sales away from the traditional retail channel. None of that was disclosed."[^ref-29] On November 22, 2004, the court granted Valve's cross-motion on cyber-café rights and denied Sierra and Vivendi's motion[^ref-56]. Its written opinion of December 14, 2004 held that the 2001 agreement licensed distribution only as "Retail Packaged Product" in the "Retail Channel", and that this did not cover cyber cafés[^ref-55]. Valve and Vivendi announced a settlement on April 29, 2005[^ref-3]. VU Games president Phil O'Neil stated: "We have actually settled our dispute very very amicably."[^ref-30]
+Annette Hurst, a lawyer representing Sierra, said that "Valve was aware of its business plan for Steam long before" the contract was signed: "They considered that Steam would be revolutionary technology that would take sales away from the traditional retail channel. None of that was disclosed."[^ref-29] On November 22, 2004, the court granted Valve's cross-motion on cyber-café rights and denied Sierra and Vivendi's motion[^ref-56]. Its written opinion of December 14, 2004 held that the 2001 agreement licensed distribution only as "Retail Packaged Product" in the "Retail Channel", and that this did not cover cyber cafés[^ref-55]. Valve and Vivendi announced a settlement on April 29, 2005[^ref-3]. VU Games president Phil O'Neil stated: "We have actually settled our dispute very very amicably."[^ref-30]
 
 ### Cut Content
 
@@ -212,7 +212,7 @@ Marc Laidlaw's experimental surreal visual concepts were also abandoned, with La
 
 The 64-bit version released in December 2005 caused problems for some users, including "bizarre in-game errors including characters dropping dead, game script files not being pre-cached, map rules being bent by AI"[^ref-10]. The PlayStation 3 version of The Orange Box suffered from "pervasive frame rate issues" that critics said "at best merely hinder gameplay and at worst make the experience downright unplayable"[^ref-34].
 
-Early Steam authentication requirements frustrated many players at launch, with one community leader noting: "There are still a lot of people who are 'anti-Steam,' but now it is completely mandatory to play all of Valve's back catalog. People have learned to live with it, and most actually quite like it now."[^ref-29]
+Early Steam authentication requirements frustrated many players at launch, with Chris Deeming, lead editor of fan site HalfLife2.net, noting: "There are still a lot of people who are 'anti-Steam,' but now it is completely mandatory to play all of Valve's back catalog." He added, "People have learned to live with it, and most actually quite like it now."[^ref-29]
 
 Physics objects exhibit a tendency to "do crazy vibrating dance when carried too close to things"[^ref-7]. The 20th Anniversary Update addressed numerous longstanding issues including "pops, holes in the world, fading-out and disappearing objects, missing grass sprites and blacked-out models"[^ref-32].
 
@@ -259,7 +259,7 @@ Voice production by Pure Audio[^ref-36]. One critic noted that "if there's one t
 
 Half-Life 2 achieved significant commercial success. The game sold 1.7 million retail copies in less than two months after launch, with particularly strong sales in Germany, UK, France, Italy, Spain, and Scandinavia[^ref-38]. By 2008, retail sales reached 6.5 million units[^ref-39]. Forbes reported in 2011 that "Steam's sci-fi shoot-'em-up thriller Half-Life 2 has sold 12 million copies since 2004"[^ref-40]. Steam sales have not been disclosed; the Half-Life fan wiki speculates the total "may be around 15 million including retail and Steam"[^ref-10].
 
-The game's requirement of Steam authentication proved transformative for the industry. GameSpot observed at launch that "by selling the games directly over the Web, the company is experimenting with a model that could substantially transform the video game business, which now rivals Hollywood in annual revenue"[^ref-29]. Reports indicated that "in the year following the game's release, Steam sales were roughly equivalent to 25% of retail sales, but that proportion is known to have increased since."[^ref-39]
+The game's requirement of Steam authentication proved transformative for the industry. GameSpot observed at launch that "by selling the games directly over the Web, the company is experimenting with a model that could substantially transform the video game business, which now rivals Hollywood in annual revenue"[^ref-29]. According to Game Developer, "Reports in the year following the game's release pegged Steam sales as roughly equivalent to 25% of retail sales, but that proportion is known to have increased since."[^ref-39]
 
 ### Awards
 
