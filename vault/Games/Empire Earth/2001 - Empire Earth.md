@@ -10,7 +10,7 @@ series: Empire Earth
 engine: Titan
 protagonist: Player-controlled Civilization
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 description: Empire Earth is a 2001 real-time strategy game by Stainless Steel Studios that
   spans 500,000 years of human history across fourteen epochs, from the Prehistoric
   Age to a speculative Nano Age.
@@ -18,7 +18,7 @@ tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -341,7 +341,7 @@ Critics split on whether the game's scale was a strength. GameSpot warned that "
 [^ref-49]: [Metacritic – Empire Earth: The Art of Conquest](https://www.metacritic.com/game/empire-earth-the-art-of-conquest/) – Metascore 63 based on 13 critic reviews
 [^ref-50]: [Retro XP – Retro spotlight: Empire Earth](https://retroxp.substack.com/p/retro-spotlight-empire-earth) – Marc Normandin retrospective, custom civs and "the 100 points"
 [^ref-51]: [PCGamingWiki – Empire Earth](https://www.pcgamingwiki.com/wiki/Empire_Earth) – Direct3D 7 API, Miles Sound System, Bink Video, system requirements
-[^ref-52]: [MobyGames – Empire Earth II](https://www.mobygames.com/game/19035/empire-earth-ii/) – Game 19035 (read via the MobyGames API): developed by Mad Doc Software, published by Sierra Entertainment, US release April 26, 2005
+[^ref-52]: [MobyGames – Empire Earth II](https://www.mobygames.com/game/19035/empire-earth-ii/) – Game 19035: developed by Mad Doc Software, published by Sierra Entertainment, US release April 26, 2005
 [^ref-53]: [IGN – Empire Earth Interview (Wayback Machine)](https://web.archive.org/web/20020413212423/http://pc.ign.com/articles/088/088931p1.html) – Rick Goodman and Stefan Arnold interview, dated December 12, 2000
 [^ref-54]: [Wikipedia – Empire Earth: The Art of Conquest](https://en.wikipedia.org/wiki/Empire_Earth:_The_Art_of_Conquest) – "Gold Edition… was released on May 6, 2003"
 [^ref-55]: [PC Games Hardware – Empire Earth Steam release](https://www.pcgameshardware.de/Empire-Earth-Spiel-22588/News/Steam-Release-1536537/) – May 27, 2026; Gold Editions with expansions on Steam, first game 6 euros
