@@ -10,13 +10,13 @@ series: Sierra Discovery Series
 engine: SCI1.1
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Slater & Charlie Go Camping is a talking interactive storybook for children aged 3 to 8, written and directed by Bill Davis for Sierra On-Line's Red Dog Software label and released for DOS on May 19, 1993, with a Macintosh version in August 1993.
 tags: [1990s, educational, sierra-discovery-series, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 

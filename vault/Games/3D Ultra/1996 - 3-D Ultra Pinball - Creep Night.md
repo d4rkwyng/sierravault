@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: '3-D Ultra Pinball: Creep Night is the second installment in Sierra''s
   3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in
   1996 for Windows and Mac OS.'
@@ -19,7 +19,7 @@ last_modified: 2026-11-11T12:00:00-06:00
 ---
 # 3-D Ultra Pinball: Creep Night
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 

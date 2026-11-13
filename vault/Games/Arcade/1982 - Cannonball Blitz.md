@@ -10,14 +10,14 @@ series: N/A
 engine: Machine Language
 protagonist: Rebel Soldier
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Cannonball Blitz is a 1982 action platformer developed by Olaf Lubeck
   and published by On-Line Systems, the company that would later become Sierra On-Line.
 tags: [1980s, sierra]
 ---
 # Cannonball Blitz
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 

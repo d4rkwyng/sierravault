@@ -1,11 +1,11 @@
 ---
 title: "Protagonist Guide"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Protagonist Guide
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 Sierra's adventure games are defined by their memorable protagonists. This guide covers the heroes and player roles of Sierra's series, including adventure, simulation and strategy games, later sequels by other studios and Sierra alumni, and fan games. Protagonist details are sourced on each linked game page; the footnotes below cover the points this guide states directly.
 

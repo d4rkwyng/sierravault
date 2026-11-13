@@ -11,14 +11,14 @@ series: "Micro Miniatures"
 engine: null
 protagonist: null
 sierra_lineage: "Sierra Label (Impressions)"
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: "Edward Grabowski's The Blue & The Gray is a 1993 American Civil War wargame from Impressions that combines a turn-based strategic campaign with real-time Micro Miniatures battles; Sierra later reissued it for Windows 95."
 tags: [1990s, impressions, strategy, wargame, civil-war, micro-miniatures, edward-grabowski]
 composer: ["William Sherman Barnard"]
 ---
 # Edward Grabowski's The Blue & The Gray
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 

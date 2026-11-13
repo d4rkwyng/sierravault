@@ -1,14 +1,14 @@
 ---
 title: "Sierra Game Versions"
 type: reference
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 description: "Game-version and interpreter-build matrices for Sierra adventure games as sold on GOG.com and in Sierra's 1994–2006 compilation discs, transcribed from a 2015 Sierra Classic Gaming wiki snapshot and checked against ScummVM's file data."
 tags: [reference, versions, agi, sci, collections]
 ---
 
 # Sierra Game Versions
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 This note captures the version matrices compiled on the Sierra Classic Gaming (SCG) Wiki page "Sierra Game Versions", last modified in June 2015 and preserved in a 2019 Wayback Machine copy.[^ref-1] All release numbers, interpreter builds, and dates retain the source's formatting except where marked. Values were cross-checked against the ScummVM wiki's Sierra Game Versions list[^ref-2] and ScummVM's SCI detection tables, which record the VERSION files and executable build dates of specific copies, including several GOG releases.[^ref-3] Where those sources disagree with SCG, the correction is noted.
 

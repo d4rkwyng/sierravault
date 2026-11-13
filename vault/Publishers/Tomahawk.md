@@ -4,11 +4,11 @@ type: publisher
 founded: null
 headquarters: "France"
 parent_company: "Coktel Vision"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Tomahawk
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 

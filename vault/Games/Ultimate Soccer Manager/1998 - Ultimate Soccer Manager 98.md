@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Published
-last_updated: '2026-11-01'
+last_updated: '2026-11-12'
 description: Ultimate Soccer Manager 98 is a 1998 football management game for Windows
   95, developed by Impressions and published by Sierra, covering six European national
   leagues in the 1997-98 season.
@@ -18,7 +18,7 @@ tags: [1990s, sierra, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager 98
 
-<small style="color: gray">Last updated: November 1, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 

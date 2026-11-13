@@ -1,10 +1,10 @@
 ---
 title: "Site Index"
-last_updated: "2026-11-11"
+last_updated: "2026-11-12"
 ---
 # Site Index
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Vault Navigation
 

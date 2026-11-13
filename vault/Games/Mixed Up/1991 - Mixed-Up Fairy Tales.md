@@ -10,7 +10,7 @@ series: Mixed-Up
 engine: SCI1
 protagonist: Player-selected child character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-12'
 description: Mixed-Up Fairy Tales is an educational adventure game released in 1991
   by Sierra On-Line for MS-DOS. Players help the dragon Bookwyrm restore five classic
   fairy tales that the mischievous Bookend has mixed up.
@@ -18,7 +18,7 @@ tags: [1990s, educational, mixed-up, sci, sierra]
 ---
 # Mixed-Up Fairy Tales
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 12, 2026</small>
 
 ## Overview
 
