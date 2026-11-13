@@ -1,11 +1,11 @@
 ---
 title: "Fan Remake Projects"
 type: guide
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 ---
 # Fan Remake Projects
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 When Sierra Entertainment stopped making classic adventure games, the fan community stepped in. These dedicated groups have spent decades creating faithful VGA remakes, enhanced editions, and spiritual successors to Sierra's beloved franchises; the fan remakes themselves are free downloads.
 
@@ -83,7 +83,7 @@ AGDI also formed **Himalaya Studios**, a commercial company focused on original 
 - **2010 (announced)** — King's Quest: Kingdom of Sorrow — A fan sequel based on the King's Quest novel *Kingdom of Sorrow* by the writing team "Kenyon Morr"; Infamous Adventures revealed in June 2010 (June 18, per Wikipedia) that its secret "Project X" was this game, and Wikipedia says it "was announced to be cancelled on 27 July 2012"; see the [[Cancelled Game Index]][^ref-17]
 
 **Notes:**
-- Space Quest II VGA filled a gap that AGDI left when they cancelled their SQ2 remake[^ref-2]
+- Space Quest II VGA filled a gap that AGDI left when it put its SQ2 remake on indefinite hold[^ref-2]
 - Quest for Infamy was inspired by Quest for Glory; the player takes the role of a charming villain, choosing one of three anti-hero classes (brigand, rogue or sorcerer)[^ref-17][^ref-34]
 - The Order of the Thorne follows Finn the bard, who undertakes a ten-yearly challenge set by the ruler of the Faerie Realm in the land of Uir[^ref-19]
 
@@ -93,7 +93,7 @@ AGDI also formed **Himalaya Studios**, a commercial company focused on original 
 
 **Founded:** 2004, as Phoenix Freeware Online;[^ref-18] The Silver Lining's production began in October 2000, and the team that became Phoenix was organized in January 2002[^ref-16]
 **Website:** [postudios.com](https://postudios.com/)
-**Status:** No new in-house game since the Cognition series; the studio site's most recent news (September 3, 2020) announces a third-party game it published[^ref-29]
+**Status:** No new in-house original game since the Cognition series; the studio site's most recent news (September 3, 2020) announces a third-party game it published[^ref-29]
 
 Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as an unofficial ninth King's Quest game. After receiving a cease-and-desist from Vivendi (September 2005), they negotiated a fan license and released the game under a new title.[^ref-16]
 
