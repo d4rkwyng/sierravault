@@ -2,7 +2,7 @@
 title: The Adventures of Willy Beamish
 release_year: 1991
 developer: Dynamix
-designer: [Jeff Tunnell, Tom Brooke]
+designer: [Jeff Tunnell]
 publisher: [Dynamix, Sierra On-Line, Sega of America]
 genre: Adventure
 platforms: [DOS, Amiga, Mac, Sega CD, Windows]
@@ -11,25 +11,25 @@ engine: Dynamix Game Development System (DGDS)
 composer: [Christopher Stevens, Jan Paul Moorhead, Don Latarski]
 protagonist: Willy Beamish
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 description: 'The Adventures of Willy Beamish is a graphic adventure game developed by Dynamix and released in 1991 under the Dynamix label, then part of Sierra On-Line. The game puts players in control of nine-year-old Willy Beamish, a mischievous kid navigating the last day of school before summer vacation and the chaotic days that follow.'
 tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 ---
 # The Adventures of Willy Beamish
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
 The Adventures of Willy Beamish is a graphic adventure game developed by Dynamix and released in 1991.[^ref-1][^ref-54] MobyGames lists Dynamix, Inc. as publisher of the first US release (September 25, 1991), with Sierra On-Line credited on another US release; Dynamix was by then owned by Sierra On-Line, which had acquired it on March 27, 1990.[^ref-1][^ref-18] The 1993 Sega CD version was published by Sega of America and ported by Infinite Laser Dog.[^ref-1][^ref-31] The game puts players in control of nine-year-old Willy Beamish, a mischievous kid navigating the last day of school before summer vacation and the chaotic days that follow.[^ref-2] Designer [[Jeff Tunnell]] conceived the project with the ambitious goal of transforming the personal computer into a platform for an interactive Saturday morning cartoon, complete with hand-drawn animation and colorful characters.[^ref-3]
 
-The game pioneered the use of in-game graphics drawn to resemble classic hand-drawn cartoon animation, setting it apart from other adventure games of the era.[^ref-4] Despite featuring a young boy as the protagonist, much of the game's humor is distinctly adult-oriented, creating an unusual tonal blend that contributed to its cult status.[^ref-5] The development team included veteran animators, most notably Rene Garcia, who had previously worked on Disney's The Little Mermaid as well as the original Scooby-Doo and The Flintstones cartoon series in the 1960s.[^ref-6]
+The game pioneered the use of in-game graphics drawn to resemble classic hand-drawn cartoon animation, setting it apart from other adventure games of the era.[^ref-4] Despite featuring a young boy as the protagonist, much of the game's humor is distinctly adult-oriented, creating an unusual tonal blend that contributed to its cult status.[^ref-5] The development team included veteran artists, most notably Rene Garcia, who had previously worked on Disney's The Little Mermaid as well as the original Scooby-Doo and The Flintstones cartoon series in the 1960s.[^ref-6]
 
 The Adventures of Willy Beamish was the last adventure game created by Dynamix, before the team was drafted to develop Space Quest V.[^ref-6][^ref-32] The game received a CD-ROM re-release in 1992 featuring full voice acting, animated character portraits, and an extended introduction, and was later ported to Sega CD in 1993.[^ref-1] In 2017, the game was re-released digitally on GOG.com, introducing it to a new generation of players.[^ref-7]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
-> **Designer:** [[Jeff Tunnell]], Tom Brooke[^ref-8]
+> **Designer:** [[Jeff Tunnell]] (director)[^ref-58]
 > **Writers:** Meryl Perutz, Tony Perutz (screenplay); [[David Selle]], Tom Brooke (writers)[^ref-58]
 > **Publisher:** [[Dynamix]] (Sierra On-Line subsidiary); Sierra On-Line on some US releases; Sega of America (Sega CD)[^ref-1]
 > **Engine:** Dynamix Game Development System (DGDS)[^ref-9]
@@ -46,7 +46,7 @@ The game begins at Carbuncle Elementary School on the last day of the school yea
 
 Willy lives with his neurotic yuppie parents, Gordon and Sheila Beamish, and his two sisters in the city of Frumpton.[^ref-12] He contends with his annoying parents, his tag-along sister Brianna, meddling teachers, and a babysitter from hell named Dana.[^ref-13] There's also his grandfather's ghost who claims to be Willy's "best friend" and won't stop haunting him, offering supernatural guidance throughout his adventures.[^ref-14] Willy's most prized possession is his pet jumping frog named Horny, whom he hopes to enter in the local frog-jumping contest.[^ref-20]
 
-When Willy's father Gordon is hired as the new PR manager for Tootsweet, the local producer of artificial sweetener, the summer holiday takes an unexpected turn.[^ref-16][^ref-4] Willy uncovers a sinister plot involving the villainous Leona Humpford—a character parodying real estate magnate Leona Helmsley—and her henchman Louis Stoole, who plan to blow the city's sewer system sky high.[^ref-27][^ref-7] The summer becomes a race against time as Willy must save Horny, rescue his father, and prevent the entire city from facing a "foul-smelling catastrophe."[^ref-55]
+When Willy's father Gordon is hired as the new PR manager for Tootsweet, the local producer of artificial sweetener, the summer holiday takes an unexpected turn.[^ref-16][^ref-4] Willy uncovers a sinister plot involving the villainous Leona Humpford—a character parodying real estate magnate Leona Helmsley—and union leader Louis Stoole, who scheme to keep the town's plumbers on strike and bring on a sewer crisis.[^ref-27][^ref-4] The summer becomes a race against time as Willy must save Horny, rescue his father, and prevent the entire city from facing a "foul-smelling catastrophe."[^ref-55]
 
 Throughout the game, Willy must navigate through approximately fifty locations, skateboarding and sneaking through various scenarios while trying to avoid the trouble that could land him in detention hall or, worse yet, military school.[^ref-13] The stakes are personal as well as civic—if Willy accumulates too much trouble with his parents, represented by an on-screen "Trouble-O-meter," he'll be shipped off to boarding school, ending the game.[^ref-18]
 
@@ -102,7 +102,7 @@ Hardcore Gaming 101's retrospective praised the visual presentation: "Its bright
 **Aggregate Scores:**
 - **MobyGames:** 7.2/10 (29 critic reviews, 3.7/5 from 81 players)[^ref-1]
 - **IMDb:** 7.8/10[^ref-21]
-- **GOG User Reviews:** 4.2/5 (21 reviews)[^ref-7]
+- **GOG User Reviews:** 4.2/5 from 122 ratings (as of November 2026)[^ref-59]
 - **MyAbandonware:** 4.45/5[^ref-34]
 - **Abandonware DOS:** 4.03/5 (136 votes)[^ref-8]
 
@@ -129,7 +129,8 @@ The dialogue, puzzles, and character backgrounds were enhanced by bringing in te
 - **Writers:** Tony Perutz, Meryl Perutz, David Selle, Tom Brooke[^ref-4]
 - **Programmer:** Louie McCrady[^ref-4]
 - **Art Director:** Shawn Sharp[^ref-3]
-- **Backgrounds:** Rene Garcia[^ref-6]
+- **Artists:** Rene Garcia and others[^ref-58][^ref-6]
+- **Backgrounds:** D. Brent Burkett, Stephen Martiniere[^ref-58]
 - **Character Design:** [[Brian Hahn]], Sheri Wheeler[^ref-3]
 - **Animation Director:** Pat Clark[^ref-58]
 - **Audio Director:** Alan McKean[^ref-58]
@@ -223,7 +224,7 @@ On modern systems, timed sequences such as the babysitter chase, escaping the Cr
 - In the Sega CD version, "Sega Rules" is carved into Willy's school desk, and his portable game system was redrawn to resemble the Sega Game Gear.[^ref-32]
 - The Sega CD version includes a fully playable minigame called "Super Space K'Noidtrix" on Willy's Nintari system, combining elements of Space Invaders, Tetris, and Arkanoid.[^ref-31]
 - The original retail packaging included a manual designed as a real wirebound notebook with Willy's doodles, and installation instructions printed on a fake "Pizzarama" pizza menu.[^ref-44]
-- Some retail boxes included a mail-in form for a free Willy Beamish-themed wristwatch (actually an analog watch despite period advertising).[^ref-8]
+- Some retail boxes included a mail-in form for a free Willy Beamish-themed wristwatch (actually an analog watch despite period advertising).[^ref-44]
 
 ### Multiple Endings
 
@@ -311,7 +312,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-5]: Internet Archive – DOS CD Version *(download link removed: the game is sold commercially)* – file size, version information
 [^ref-6]: [Adventure Classic Gaming – Kevin Ryan Interview](https://www.adventureclassicgaming.com/index.php/site/features/268/) – Rene Garcia credits, DGDS description, last Dynamix adventure
 [^ref-7]: [GOG.com – The Adventures of Willy Beamish](https://www.gog.com/en/game/the_adventures_of_willy_beamish) – user reviews, system requirements
-[^ref-8]: Abandonware DOS – Willy Beamish *(download link removed: the game is sold commercially)* – designers, audio options, CD version changes, wristwatch trivia
+[^ref-8]: Abandonware DOS – Willy Beamish – designers, audio options, CD version changes, wristwatch trivia
 [^ref-9]: ClassicReload – Willy Beamish *(download link removed: the game is sold commercially)* – DGDS engine, cartoon animation pioneer
 [^ref-10]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=37) – opening scene, target audience description
 [^ref-11]: [Pixelated Arcade – Willy Beamish](https://pixelatedarcade.com/games/the-adventures-of-willy-beamish) – Nintari Championship plot
@@ -357,3 +358,4 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-56]: [ScummVM News – v2026.1.0 "Like a Version"](https://www.scummvm.org/news/20260131/) – Willy Beamish listed under Newly Supported Games
 [^ref-57]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Tunnell founded Jeff Tunnell Productions in early 1992
 [^ref-58]: [MobyGames – The Adventures of Willy Beamish DOS credits (Wayback, 2024-11-22)](https://web.archive.org/web/20241122210641/https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/credits/dos/) – Original Version Game Team: "Screenplay: Meryl Perutz, Tony Perutz"; "Writers: David Selle, Tom Brooke"; "Original Score: Christopher Stevens, Jan Paul Moorhead, Don Latarski"; "Audio Director: Alan McKean"; "Animation Director: Pat Clark"
+[^ref-59]: [GOG reviews – The Adventures of Willy Beamish average rating](https://reviews.gog.com/v1/products/1405562076/averageRating) – 4.2 from 122 ratings, November 2026
