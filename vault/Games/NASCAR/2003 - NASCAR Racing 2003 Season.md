@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Papy3D
 protagonist: Player-created driver
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 description: NASCAR Racing 2003 Season (commonly abbreviated as NR2003) is a stock
-  car racing simulator developed by Papyrus Design Group and published by Sierra...
+  car racing simulator developed by Papyrus Design Group and published by Sierra.
 tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2003 Season
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -300,7 +300,7 @@ Its net code and replay system were among the strengths iRacing built on when it
 ## See Also
 
 - [[2002 - NASCAR Racing 2002 Season|← Previous: NASCAR Racing 2002 Season]]
-
+- [[NASCAR Racing Series]]
 - [[1994 - NASCAR Racing]]
 - [[1996 - NASCAR Racing 2]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
