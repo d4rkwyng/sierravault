@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI/SCI0
 protagonist: Princess Rosella
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 composer: [William Goldstein]
 description: 'King''s Quest IV: The Perils of Rosella (1988) is Roberta Williams''s
   fourth King''s Quest adventure, starring Princess Rosella. It introduced Sierra''s
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IV: The Perils of Rosella
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -292,7 +292,7 @@ Rosella returned in King's Quest VII: The Princeless Bride. Edgar appears in tha
 
 [^ref-2]: [Strong Museum of Play - The Perils of Rosella and the Genius of Roberta](https://www.museumofplay.org/blog/the-perils-of-rosella-and-the-genius-of-roberta/) – First female protagonist claim, Williams collection donation
 [^ref-3]: [SCI Wiki - King's Quest IV](https://sciwiki.sierrahelp.com/index.php/King's_Quest_IV:_The_Perils_of_Rosella) – Version history, interpreter numbers, graphics differences between releases
-[^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – Moby Score 7.8 from 95 player votes (read via the MobyGames API, 11 November 2026; the public page copy of 7 January 2026 showed 7.7 from 93 players and a 77% critic average from 25 reviews), credits, composer, platform releases including the 1994 U.S. Gold / Kixx XL releases, trivia
+[^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – Moby Score 7.8 from 95 player votes; 77% critic average from 25 reviews; credits, composer, platform releases including the 1994 U.S. Gold / Kixx XL releases, trivia
 [^ref-5]: [Sierra Newsletter Winter 1988](https://www.mocagh.org/sierra/sierranews-winter88.pdf) – IPO details, 5.5MB size, 11 man-years development, music details, female protagonist design
 [^ref-6]: [Digital Antiquarian - Sierra Gets Creative](https://www.filfre.net/2016/08/sierra-gets-creative/) – Al Lowe crisis quote, CES preview, 100K sales, IPO, sound card history
 [^ref-7]: [Sierra Fandom - KQ4 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella_%28SCI%29) – Story details, credits, continuity notes
@@ -332,7 +332,7 @@ Rosella returned in King's Quest VII: The Princeless Bride. Edgar appears in tha
 [^ref-43]: [The Cutting Room Floor - King's Quest IV](https://tcrf.net/King%27s_Quest_IV:_The_Perils_of_Rosella) – Unused beetle sprite, test animations, Genesta night screens, unseen mummy death, BOBALU backdoor, Dennis Jonathan synonym
 [^ref-44]: [Sierra Planet - King's Quest 4 Curiosities (Wayback Machine, 18 May 2026)](https://web.archive.org/web/20260518122636/http://www.sierraplanet.net/kqgames/kings-quest-iv/kq4-game-goodies/kq4-curiosities/) – Box art discrepancy, zombie count, Edgar transformation ambiguity, time limit bug
 [^ref-45]: [Sierra Help Pages - King's Quest IV Point List](https://sierrahelp.com/Misc/PointLists/KQ4Points.html) – Complete point list, 230 of 230
-[^ref-46]: [King's Quest Omnipedia - King's Quest IV](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – Roberta Williams quote from the KQ Collector's Series manual (p. 25), 1989 SPA award
+[^ref-46]: [King's Quest Omnipedia - King's Quest IV](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – Roberta Williams quote from the King's Quest Collection Series manual (1997, p. 25), 1989 SPA award
 [^ref-47]: [Wikipedia - King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – 1989 Software Publishers Association award
 [^ref-48]: [King's Quest Omnipedia - Three sisters](https://kingsquest.fandom.com/wiki/Three_sisters) – Three one-eyed witches based on the Graeae
 [^ref-49]: [King's Quest Omnipedia - Edgar](https://kingsquest.fandom.com/wiki/Edgar) – Edgar's role in KQ7: Malicia changes his form to look like the Troll King
