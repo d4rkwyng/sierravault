@@ -10,14 +10,14 @@ series: Homeworld
 engine: Custom 3D engine (audio mixed with Relic Audio Tool)
 protagonist: Karan S'jet / The Kushan Fleet
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 description: Homeworld is a groundbreaking real-time strategy game released on September
-  28, 1999, that revolutionized the RTS genre by introducing fully...
+  28, 1999, that revolutionized the RTS genre by introducing fully three-dimensional space combat.
 tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
