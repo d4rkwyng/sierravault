@@ -10,15 +10,15 @@ series: Hoyle's Official Book of Games
 engine: Unknown
 protagonist: Player (customizable via Face Creator)
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 description: A 2015 Hoyle card game collection for Windows and macOS, developed by
-  Webfoot Technologies and sold by Viva Media on Steam and by Encore at retail, with
+  Webfoot Technologies and published by Viva Media on Steam and by Encore at retail, with
   23 card games and 50 solitaire games.
 tags: [2010s, hoyle-s-official-book-of-games, sierra, simulation]
 ---
 # Hoyle Official Card Games Collection 2015
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
