@@ -1,11 +1,11 @@
 ---
 title: "Easter Eggs and Secrets"
 type: guide
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 ---
 # Easter Eggs and Secrets: Sierra's Hidden Treasures
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 > "If you guys don't mind paying lawyers' fees, you can put whatever you want in your game."
 > — [[Ken Williams]] to the Two Guys from Andromeda[^ref-1]
@@ -23,7 +23,7 @@ This tradition began organically. Developers working in Oakhurst's informal cult
 The Space Quest series, created by the "Two Guys from Andromeda" ([[Mark Crowe]] and [[Scott Murphy]]), elevated easter eggs to an art form—most famously by making the designers themselves rescuable characters.
 
 **The Two Guys Rescue (Space Quest III)**
-[[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] takes the self-reference furthest: its plot revolves around Roger Wilco rescuing the game's own creators. At an orbital Monolith Burger station, achieving a high score in the Astro Chicken arcade game reveals a hidden distress message from the "Two Guys" who've been abducted by ScumSoft.[^ref-3] Players must infiltrate ScumSoft headquarters, battle Elmo Pug in a Rock 'Em Sock 'Em Robots parody, and deliver Crowe and Murphy to Ken Williams at Sierra On-Line's real offices.[^ref-4]
+[[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] takes the self-reference furthest: its plot revolves around Roger Wilco rescuing the game's own creators. At an orbital Monolith Burger station,[^ref-4] achieving a high score in the Astro Chicken arcade game reveals a hidden distress message from the "Two Guys" who've been abducted by ScumSoft.[^ref-3] Players must infiltrate ScumSoft headquarters, battle Elmo Pug in a Rock 'Em Sock 'Em Robots parody, and deliver Crowe and Murphy to Ken Williams at Sierra On-Line's real offices.[^ref-4]
 
 - **Fourth Wall Break:** In the finale, one of the Two Guys turns to the screen and asks if the game was worth $59.95[^ref-47]
 - **ScumSoft Cubicles:** Ken Williams and Rick Cavin appear as whip-cracking overseers over programmer cubicles—a darkly humorous commentary on game development. SpaceQuest.net's cameo page calls Cavin "Head of Production at the time"[^ref-6], while Wikipedia describes him as Sierra's "director of operations"[^ref-55]
@@ -76,7 +76,7 @@ A hidden collectible game called "Where's Dildo?" (a parody of *Where's Waldo?*)
 Al Lowe described the game's easter eggs as "considerably more extensive than you'll find in most other games" and "pretty much exactly what you'd expect: nekkid wimmen."[^ref-17] A flashing Easter egg icon appears on screen when players perform certain obscure actions, indicating that a seduction scene with nudity has been unlocked.[^ref-19]
 
 **Secret Ending (LSL7)**
-Players who obtain all 1,000 points, collect all 32 dildos, AND trigger all seven Easter eggs unlock one additional second of Larry actually having sex after the credits.[^ref-19]
+Players who obtain all 1,000 points, collect all 32 dildos, AND trigger all the Easter eggs unlock one additional second of Larry actually having sex after the credits.[^ref-19]
 
 **Music Easter Egg (LSL7)**
 The country-flavored music in the hot tub area is a tribute to *Freddy Pharkas: Frontier Pharmacist*, another Al Lowe game. According to LarryLaffer.net, Lowe mentioned he needed a country song but didn't want to pay royalties, so a song from a Sierra game he had designed was the natural choice.[^ref-20]
@@ -108,7 +108,7 @@ The Baron character in the VGA remake is a Ken Williams cameo.[^ref-25]
 An exclusive Bugs Bunny and Elmer Fudd easter egg exists only in the Macintosh release of the VGA version.[^ref-24]
 
 **Sanford and Son Cameo (QFG3)**
-[[1992 - Quest for Glory III - Wages of War|Quest for Glory III]] contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers.[^ref-26]
+[[1992 - Quest for Glory III - Wages of War|Quest for Glory III]] contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers.[^ref-26][^ref-56]
 
 ---
 
@@ -265,7 +265,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-23]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – Pop culture references, Daventry nod
 
-[^ref-24]: [GameSpot – Quest for Glory I Cheats and Easter Eggs](https://www.gamespot.com/games/quest-for-glory-i-so-you-want-to-be-a-hero/cheats/) – Bugs Bunny egg "only exists on the VGA version of the game for Macintosh"
+[^ref-24]: [Quest for Glory Wiki – Quest for Glory I (Mac)](https://questforglory.fandom.com/wiki/Quest_for_Glory_I:_So_You_Want_to_Be_a_Hero_%28Mac%29) – "This version has a unique Easter egg. Elmer Fudd and Bugs Bunny appear on the game."
 
 [^ref-25]: [Sierra Chest – Quest for Glory I VGA Walkthrough](https://www.sierrachest.com/index.php?a=games&id=293&title=quest-for-glory-1-vga&fld=walkthrough&pid=100) – Ken Williams Baron cameo, talking bear easter egg
 
@@ -315,10 +315,12 @@ Some easter eggs only appear on return visits:
 
 [^ref-51]: [MobyGames – Leisure Suit Larry III](https://www.mobygames.com/game/412/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsat/) – trivia: "a set for Police Quest I… red marking flags from King's Quest… a set from Space Quest II… Rosella from King's Quest IV… climbing on whale's tongue"
 
-[^ref-52]: [GameFAQs – Police Quest 2: The Vengeance trivia](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs) – "go up the escalators to the 2nd floor and walk through the metal detector… talk to the man furthest to the right. He'll introduce himself as 'Larry Laffer'"
+[^ref-52]: [GameFAQs – Police Quest 2: The Vengeance walkthrough](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs/37121) – "Walk through the metal detector… TALK MAN to Larry Laffer from LSL2 if you wish, a nice Easter egg."
 
 [^ref-53]: [MobyGames – Hero's Quest: So You Want to Be a Hero (1989)](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – trivia: "If you visit Mirror Lake twice a submarine will emerge… a plug for… Codename: ICEMAN. In the VGA remake the submarine is replaced by Delphineus… and the monster of Loch Ness"
 
 [^ref-54]: [The Sierra Chest – Inca cheats](https://web.archive.org/web/20250123165733/https://www.sierrachest.com/index.php?a=games&id=191&title=inca-1&fld=cheats) – "Restoring all lives and power: Press SHIFT CTRL ALT simultaneously. This cheat does not work in the final fight against Aguirre."
 
 [^ref-55]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon) – "parody versions of Sierra's president, Ken Williams, and director of operations, Rick Cavin"
+
+[^ref-56]: [Sierra Wiki – Quest for Glory III: Wages of War](https://sierra.fandom.com/wiki/Quest_for_Glory_III%3A_Wages_of_War) – Sanford and Son "as merchants (i.e. junk dealers) in the Tarna marketplace"; Laurel and Hardy "as French Foreign Legion soldiers"
