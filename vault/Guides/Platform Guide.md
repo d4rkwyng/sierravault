@@ -1,11 +1,11 @@
 ---
 title: "Platform Guide"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-13"
 ---
 # Platform Guide
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 Sierra games were released across dozens of platforms from 1980 to the present. This guide organizes releases by platform type, with example titles for each. Release platforms and dates below come from each game's MobyGames entry unless another source is cited.
 
@@ -18,7 +18,7 @@ Sierra games were released across dozens of platforms from 1980 to the present. 
 The original platforms for Sierra's adventure and arcade games.
 
 - [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (1980)[^ref-1], [[1984 - King's Quest - Quest for the Crown|King's Quest I]] (1984)[^ref-2] — Platform: **Apple II**
-- [[1984 - King's Quest - Quest for the Crown|King's Quest I]], commissioned by IBM for the PCjr and released for it on May 10, 1984[^ref-2][^ref-3] — Platform: **IBM PC / PCjr**
+- [[1984 - King's Quest - Quest for the Crown|King's Quest I]], largely funded by IBM for the PCjr and released for it on May 10, 1984[^ref-2][^ref-3] — Platform: **IBM PC / PCjr**
 - [[1981 - Crossfire|Crossfire]][^ref-4], [[1983 - Oils Well|Oil's Well]][^ref-5], [[1983 - Sammy Lightfoot|Sammy Lightfoot]][^ref-6] — Platform: **Commodore 64**
 - [[1981 - Crossfire|Crossfire]][^ref-4], [[1981 - Jawbreaker|Jawbreaker]][^ref-7], [[1983 - Oils Well|Oil's Well]][^ref-5] — Platform: **Atari 8-bit**
 - [[1986 - Space Quest - The Sarien Encounter|Space Quest I]][^ref-8], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|LSL1]][^ref-9], [[1984 - King's Quest - Quest for the Crown|King's Quest I]][^ref-2] — Platform: **Atari ST**
@@ -175,7 +175,7 @@ The Linux releases above are listed on their MobyGames entries[^ref-19][^ref-20]
 [^ref-20]: [MobyGames – Hero-U: Rogue to Redemption](https://www.mobygames.com/game/111162/hero-u-rogue-to-redemption/) – Windows/Mac/Linux 2018-07-10, Nintendo Switch 2021-02-09
 [^ref-21]: [MobyGames – Leisure Suit Larry: Wet Dreams Don't Dry](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/) – Windows/Mac 2018-11-07, PS4 and Switch 2019-06-13, Xbox One 2020-09-15
 [^ref-22]: [MobyGames – Jawbreaker (Atari 2600)](https://www.mobygames.com/game/51492/jawbreaker/) – Atari 2600 1982
-[^ref-23]: [MobyGames – Abrams Battle Tank](https://www.mobygames.com/game/2906/abrams-battle-tank/) – DOS 1989-04, Genesis 1991; Genesis release: developed by Dynamix, ported by Realtime Games Software, published by SEGA (read via the MobyGames API)
+[^ref-23]: [MobyGames – Abrams Battle Tank](https://www.mobygames.com/game/2906/abrams-battle-tank/) – DOS 1989-04, Genesis 1991; Genesis release: developed by Dynamix, ported by Realtime Games Software, published by SEGA
 [^ref-24]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/98/rise-of-the-dragon/) – SEGA CD 1992-09-25
 [^ref-25]: [MobyGames – The Adventures of Willy Beamish](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/) – SEGA CD 1993
 [^ref-26]: [MobyGames – Stellar-Fire](https://www.mobygames.com/game/27337/stellar-fire/) – SEGA CD 1993
@@ -192,7 +192,7 @@ The Linux releases above are listed on their MobyGames entries[^ref-19][^ref-20]
 [^ref-37]: [MobyGames – SWAT: Target Liberty](https://www.mobygames.com/game/34642/swat-target-liberty/) – PSP 2007-10-16
 [^ref-38]: [MobyGames – 3D Ultra Mini Golf Adventures](https://www.mobygames.com/game/27662/3d-ultra-mini-golf-adventures/) – Windows 2006-12-20, Xbox 360 2007-04-18, Xbox One 2017-04-20
 [^ref-39]: [MobyGames – Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition](https://www.mobygames.com/game/68982/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/) – Windows/Mac 2014-10-15, Android and iPad 2015-07-23
-[^ref-40]: [Wikipedia – The Sierra Network](https://en.wikipedia.org/wiki/ImagiNation_Network) – Lists *The Shadow of Yserbius* among the network's games
+[^ref-40]: [Wikipedia – ImagiNation Network](https://en.wikipedia.org/wiki/ImagiNation_Network) – Lists *The Shadow of Yserbius* among the network's games
 [^ref-41]: [Massively Overpowered – The Game Archaeologist: Sierra's Fates of Twinion and Ruins of Cawdor](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – Yserbius "came out in 1991 as part of The Sierra Network"; INN "greenlit two sequels ... 1993's The Fates of Twinion"
 [^ref-42]: [MobyGames – Shadow of Yserbius](https://www.mobygames.com/game/1653/shadow-of-yserbius/) – DOS 1993
 [^ref-43]: [MobyGames – Fates of Twinion](https://www.mobygames.com/game/1846/fates-of-twinion/) – DOS 1993
