@@ -1,11 +1,11 @@
 ---
 title: "Designer Index"
 type: index
-last_updated: "2026-11-12"
+last_updated: "2026-11-13"
 ---
 # Designer Index
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 This index profiles **57 key figures** who shaped Sierra On-Line and its affiliated studios. Organized by primary role, many individuals contributed across multiple disciplines throughout their careers. Rows follow each person's own profile page; footnotes give the credit source where one is cited.
 
@@ -252,7 +252,7 @@ The project leaders who brought games from concept to completion.
 [^ref-37]: [MobyGames – Neal Hallford credits](https://www.mobygames.com/person/4269/neal-hallford/credits/) – Return to Krondor (1998): "Original Story Concept"
 [^ref-38]: [MobyGames – Josh Mandel credits](https://www.mobygames.com/person/260/josh-mandel/credits/) – Space Quest 6 (Design, Writing); The Dagger of Amon Ra (Writer, voice roles)
 [^ref-39]: [MobyGames – Al Lowe credits](https://www.mobygames.com/person/3320/al-lowe/credits/) – design credits on LSL 1, 2, III, 5, 6 and Love for Sail! (Lead Design); Torin's Passage (Designer/Writer)
-[^ref-40]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – "Leisure Suit Larry: Love for Sail, designed by Al Lowe and Don Munsil" (MobyGames, ref 44, lists Munsil under Assistant Design)
+[^ref-40]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – "Leisure Suit Larry: Love for Sail, designed by Al Lowe and Don Munsil" (MobyGames lists Munsil under Assistant Design)
 [^ref-41]: [MobyGames – Richard Tunnell credit sheet (Wayback, Dec 2020)](http://web.archive.org/web/20201209084041/https://www.mobygames.com/developer/sheet/view/developerId,16748/) – "3-D Ultra Pinball (1995) ( Additional Design Help )"; The Incredible Machine 2 (Designers)
 [^ref-42]: [Adventure Game Fan Fair - Robert Heitman (Wayback)](http://web.archive.org/web/20260617002802/https://adventuregamefanfair.com/guests/robert-heitman/) – "went on to co-develop the SCI system with Jeff Stephenson"; co-developed the SCI system with Jeff Stephenson
 [^ref-43]: [Edenwaith - Reverse Engineering AGI (Wayback)](http://web.archive.org/web/20260614215742/https://www.edenwaith.com/blog/index.php?p=87) – names "Jeff Stephenson, Chris Iden, Sol Ackerman, Robert Heitman" as designers of AGI
@@ -261,7 +261,7 @@ The project leaders who brought games from concept to completion.
 [^ref-45]: [MobyGames – Jeffrey Tunnell credit sheet (Wayback, Apr 2016)](https://web.archive.org/web/20160408062720/http://www.mobygames.com/developer/sheet/view/developerId,94388/) – "Heart of China (1991) ( Designer and Director )"; "Rise of the Dragon (1990) ( Design )"; "The Adventures of Willy Beamish (1991) ( Director )"
 [^ref-46]: [MobyGames – James Walls credits](https://www.mobygames.com/person/83001/james-walls/) – "Code-Name: Iceman" (Game Designer); Police Quest 3: The Kindred (Game Designer)
 [^ref-47]: [MobyGames – Jane Jensen credits](https://www.mobygames.com/person/2199/jane-jensen/credits/) – King's Quest VI: Heir Today, Gone Tomorrow ("Designed by"); EcoQuest: The Search for Cetus ("Game Designers")
-[^ref-48]: [Wikipedia – Muriel Tramis](https://en.wikipedia.org/wiki/Muriel_Tramis) – "She has written and directed the adventure games Méwilo, Freedom: Rebels in the Darkness, Geisha, Fascination, Lost in Time"
+[^ref-48]: [Wikipedia – Muriel Tramis](https://en.wikipedia.org/wiki/Muriel_Tramis) – "She has written and directed the adventure games Méwilo, Freedom: Rebels in the Darkness, Geisha, Fascination, Lost in Time…"; "She also co-created the Gobliiins series"
 [^ref-49]: [MobyGames – Simon Bradbury credits](https://www.mobygames.com/person/16533/simon-bradbury/credits/) – Stronghold (2001, "Game Design (FireFly)"); CivCity: Rome (2006, "Game Design")
 [^ref-50]: [MobyGames – Indianapolis 500: The Simulation credits (Wayback, Sep 2022)](https://web.archive.org/web/20220929220307/https://www.mobygames.com/game/dos/indianapolis-500-the-simulation/credits) – "Lead Design David Kaemmer"
 [^ref-51]: [MobyGames – Grand Prix Legends credits (Wayback, Jul 2020)](https://web.archive.org/web/20200728184056/https://www.mobygames.com/game/windows/grand-prix-legends/credits) – "Designers Randy Cassidy, David Kaemmer, Brian C. Mahony, Matt Sentell, Richard Yasi"; Lead Engineers include David Kaemmer
