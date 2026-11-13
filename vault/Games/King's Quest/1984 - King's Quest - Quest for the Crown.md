@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 description: 'King''s Quest: Quest for the Crown is a landmark adventure game, credited
   with saving Sierra On-Line from the effects of the 1983 video game crash and considered
   the start of the graphic adventure genre.'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Quest for the Crown
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -43,6 +43,8 @@ IEEE Spectrum has called it "the first animated 3D adventure game"[^ref-6].
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
+
+The original 1984 release told its story mainly through the manual, where the hero was Sir Grahame and three legendary treasures could end Daventry's troubles. Later releases renamed him Graham and expanded the manual's backstory, which the 1990 remake brought into the game itself; the summary below follows that expanded account.[^ref-2]
 
 The kingdom of Daventry faces ruin after King Edward was tricked three times by magical beings who stole its three magical treasures[^ref-2][^ref-9]. The magic mirror, which could foretell the future and help farmers plan planting, was taken by a powerful wizard who promised to bring King Edward an heir[^ref-10]. The enchanted shield, which protected its bearer from all harm, was stolen by a dwarf who promised to cure the dying queen[^ref-10]. The chest of gold, which was never empty, was stolen by Princess Dahlia of Cumberland, whom the king had rescued from wolves and taken into his castle[^ref-10]. The King's Quest Companion later expanded the tale: on the night before their wedding she stole the chest, turned back into a witch and flew off on her broom[^ref-49].
 
@@ -288,12 +290,12 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 [^ref-16]: [Sierra Help – KQ1 AGI Point List](https://sierrahelp.com/Misc/PointLists/KQ1AGIPoints.html) – Maximum 158 points
 [^ref-17]: [Family Computing – January 1985](https://archive.org/details/family-computing-17) – "Giant leap forward" review quote
 [^ref-18]: [KQ Omnipedia – KQ1AGI Development](https://kingsquest.fandom.com/wiki/KQ1AGI_development) – COMPUTE! Oct 1984 Williams quote, 16-color palette and three-channel sound, Tandy 1000, chiclet keyboard, design document
-[^ref-19]: [Electronic Gaming Monthly – Issue 3, 1989, p. 13 (Review Crew)](https://archive.org/details/Electronic_Gaming_Monthly_03/page/n12) – Sega Master System review scores 4/7/6/7 (read from the page scan), "76 different screens"
+[^ref-19]: [Electronic Gaming Monthly – Issue 3, 1989, p. 13 (Review Crew)](https://archive.org/details/Electronic_Gaming_Monthly_03/page/n12) – Sega Master System review scores 4/7/6/7, "76 different screens"
 [^ref-20]: [TIME – All-TIME 100 Video Games (Wayback, Nov 2012)](http://web.archive.org/web/20121118213110/http://techland.time.com/2012/11/15/all-time-100-video-games/slide/kings-quest-1984/) – "incredibly detailed (by 1983 standards)" graphics praise
 [^ref-21]: [Adventure Gamers – King's Quest I: Quest for the Crown (Wayback, June 2025)](https://web.archive.org/web/20250610182127/https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – 3-star "Decent" review score; #10 in Top 20 Adventure Games of All-Time
 [^ref-22]: [RetroFreak Reviews – King's Quest I](https://retrofreakreviews.com/2017/02/01/kings-quest-i-review/) – Modern criticism, colorization comparison
 [^ref-23]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – Purchase, 4.1/5 user rating
-[^ref-24]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) – Purchase; store page read November 11, 2026: "87% of the 333 user reviews for this game are positive" (Very Positive)
+[^ref-24]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) – Purchase; "87% of the 333 user reviews for this game are positive" (Very Positive), November 2026
 [^ref-25]: [HowLongToBeat – King's Quest](https://howlongtobeat.com/game/5036) – 2½ hours average completion
 [^ref-26]: [The Official Book of King's Quest (1988)](https://archive.org/details/the-official-book-of-kings-quest) – IBM commission "a year before the IBM PCjr was announced", "Peanut"
 [^ref-28]: [VGSales Wiki – 1984](https://vgsales.fandom.com/wiki/1984) – Estimates: rank #50, 13,000 units, $400,000 revenue (points from Billboard chart rankings)
@@ -301,7 +303,7 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 [^ref-30]: [KQ Omnipedia – Apple IIGS Version](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Quest_for_the_Crown_%28Apple_IIGS%29) – Al Lowe/Escobar port, digitized audio, music changes
 [^ref-31]: [KQ Omnipedia – Apple II Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_%28Apple_II%29) – Missing alligators, white screens
 [^ref-32]: [KQ Omnipedia – Sales Data](https://kingsquest.fandom.com/wiki/Sales_data) – "Over 7 million sold" packaging claims, apparently including collections
-[^ref-33]: [SCI Wiki – KQ1 SCI Remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – 1990 remake details: the only Sierra remake built with SCI01's EGA graphics and parser interface (read via headless browser)
+[^ref-33]: [SCI Wiki – KQ1 SCI Remake](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_I:_Quest_for_the_Crown_%28SCI_remake%29) – 1990 remake details: the only Sierra remake built with SCI01's EGA graphics and parser interface
 [^ref-34]: [AGD Interactive – King's Quest I: About](https://www.agdinteractive.com/games/kq1/about/about.html) – VGA remake, first-month and first-year download figures
 [^ref-37]: [The King's Quest Companion](https://archive.org/details/kingsquestcompan00spea) – Peter Spear hint book
 [^ref-38]: [PCGamingWiki – King's Quest](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Quest_for_the_Crown) – Technical fixes
@@ -319,11 +321,11 @@ The 2006 King's Quest Collection, sold on Steam, contains the 1990 SCI remake ra
 [^ref-50]: [Electronic Games – December 1984 (vol. 2 no. 17), "Passport to Adventure", p. 44](https://archive.org/details/Electronic_Games_Volume_02_Number_17_1984-12_Reese_Communications_US) – Original King's Quest review scan
 [^ref-51]: [COMPUTE! – February 1985, "Inside King's Quest" by Donald B. Trivette (full text)](https://archive.org/stream/1985-02-compute-magazine/Compute_Issue_057_1985_Feb_djvu.txt) – Priority system (top of screen low, bottom high), example commands, wraparound kingdom, four-second room draw, several solutions per puzzle, "a year before the PCjr was announced"
 [^ref-52]: [Wikipedia – IBM PCjr](https://en.wikipedia.org/wiki/IBM_PCjr) – "IBM discontinued the PCjr on March 19, 1985"
-[^ref-53]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"; "The Apple II titles contain an Apple II emulator for Windows"
+[^ref-53]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"; "The Apple II titles contain an Apple II emulator for Windows"
 [^ref-54]: [Wikipedia – World Video Game Hall of Fame](https://en.wikipedia.org/wiki/World_Video_Game_Hall_of_Fame) – 2020 inductees: Bejeweled, Centipede, King's Quest, Minecraft
-[^ref-55]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – read via the MobyGames API; DOS 1994; "King's Quest (with the VGA version)", II–VI, King's Quest VII preview, checkers and trivia games
-[^ref-56]: [MobyGames – King's Quest: Collection Series](https://www.mobygames.com/game/1857/kings-quest-collection-series/) – read via the MobyGames API; 1997; first seven King's Quest games, lists "Roberta Williams' King's Quest I" (the SCI remake), Mask of Eternity preview
-[^ref-57]: [MobyGames – Roberta Williams' King's Quest I: Quest for the Crown](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – read via the MobyGames API; DOS tech specs list Roland MT-32 (and LAPC-I) among supported sound devices
+[^ref-55]: [MobyGames – King's Quest: Collector's Edition](https://www.mobygames.com/game/3493/kings-quest-collectors-edition/) – DOS 1994; "King's Quest (with the VGA version)", II–VI, King's Quest VII preview, checkers and trivia games
+[^ref-56]: [MobyGames – King's Quest: Collection Series](https://www.mobygames.com/game/1857/kings-quest-collection-series/) – 1997; first seven King's Quest games, lists "Roberta Williams' King's Quest I" (the SCI remake), Mask of Eternity preview
+[^ref-57]: [MobyGames – Roberta Williams' King's Quest I: Quest for the Crown](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – DOS tech specs list Roland MT-32 (and LAPC-I) among supported sound devices
 [^ref-58]: [King's Quest Omnipedia – King's Quest Collections](https://kingsquest.fandom.com/wiki/King%27s_Quest_Collections) – Collector's Edition (1994), Collector's Series (1995) and Collection Series (1997) contain "1 (AGI & SCI versions)"; Anthology (1996) lists "King's Quest 1 AGI, King's Quest 1 SCI"; the 2006 collection "lacks… the original AGI King's Quest"
-[^ref-59]: [Creative Computing – May 1984, "Games at CES" by Ken Uston and Arthur Leyenberger, p. 146](https://archive.org/details/sim_creative-computing_1984-05_10_5/page/n151) – report on new games at the Winter Consumer Electronics Show; Sierra On-Line section on King's Quest (read from the page scan)
+[^ref-59]: [Creative Computing – May 1984, "Games at CES" by Ken Uston and Arthur Leyenberger, p. 146](https://archive.org/details/sim_creative-computing_1984-05_10_5/page/n151) – report on new games at the Winter Consumer Electronics Show; Sierra On-Line section on King's Quest
 [^ref-60]: [King's Quest Omnipedia – King's Quest I: Quest for the Crown (Tierra)](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_%28Tierra%29) – version 1.0 August 7, 2001; version 2.0 (voice pack) September 1, 2001; Enhanced Edition (version 4.0) under the AGDI name, January 17, 2009
