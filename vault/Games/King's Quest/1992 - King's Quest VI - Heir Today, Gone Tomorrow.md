@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap
@@ -19,7 +19,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Prince Alexander journeys to the Land of the Green Isles to rescue Princess Cass
 
 Dragon Magazine declared it "the best King's Quest game yet and it is certainly one of the best adventure games on the market"[^ref-5].
 
-With a budget of about $700,000[^ref-40], professional voice acting, and Sierra's first implementation of lip-sync technology[^ref-7], the game became a landmark release that dominated sales charts through Christmas 1992 and, in one critic's words, proved "the era of CD game playing is upon us"[^ref-39].
+With a budget of about $700,000[^ref-40], professional voice acting, and Sierra's first adventure game to feature lip-syncing technology (per MobyGames)[^ref-62], the game became a landmark release that dominated sales charts through Christmas 1992 and, in one critic's words, proved "the era of CD game playing is upon us"[^ref-39].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-4]
@@ -60,7 +60,7 @@ Alexander must not only rescue Cassima but uncover the truth about her parents' 
 
 King's Quest VI employs the refined point-and-click interface Sierra developed for SCI games, with an overhead icon bar accessed by moving the cursor to the screen top or right-clicking to cycle through cursors[^ref-12][^ref-15]. Players interact using walk, look, hand, and talk icons, with inventory items usable directly on the game world[^ref-1]. The implementation represents a marked improvement over King's Quest V, with far more objects yielding custom responses—looking at, touching, or talking to the same item often produces different dialogue[^ref-12].
 
-George Starostin's retrospective praised the refinement: "there are now many more actions with real consequences: many, if not most, of the objects scattered around the screen allow for different dialog lines from the Narrator depending on whether you look at them, «use» them or even talk to them"[^ref-12]. He called it "an ideal standard for an adventure game in that it features absolutely no arcade sequences whatsoever"[^ref-12].
+George Starostin's retrospective praised the refinement: "there are now many more actions with real consequences: many, if not most, of the objects scattered around the screen allow for different dialog lines from the Narrator depending on whether you look at them, «use» them or even talk to them"[^ref-12]. He called it "an ideal standard for an adventure game in that it features absolutely no arcade sequences whatsoever (other than a few situations where you must quickly time your reaction to something)"[^ref-12].
 
 ### Structure and Progression
 
@@ -92,7 +92,7 @@ The Amiga port, released in 1994 by Revolution Software, received mixed reviews 
 
 ### Modern Assessment
 
-Modern retrospectives consistently rank King's Quest VI among Sierra's finest achievements. Adventure Gamers awarded 4.5/5, declaring: "If you only play one King's Quest game, make it this one. It's the only game in the series where story and gameplay come together in perfect balance, and after a decade of working to get it right, it's one of the best games Sierra gave us"[^ref-1]. The site ranked it #3 in its Top 20 Adventure Games of All-Time (a list compiled in 2001 and republished in 2004)[^ref-38].
+Modern retrospectives consistently rank King's Quest VI among Sierra's finest achievements. Adventure Gamers awarded 4.5/5, declaring: "If you only play one King's Quest game, make it this one. It's the only game in the series where story and gameplay come together in perfect balance, and after a decade of working to get it right, it's one of the best games Sierra gave us"[^ref-1]. An Adventure Gamers list by Evan Dickens ranked it #3 in its Top 20 Adventure Games of All-Time (a list compiled in 2001 and republished in 2004)[^ref-38].
 
 PC Gamer's 2020 retrospective ranking of all 63 Sierra graphical adventures placed King's Quest VI at #3 overall—the highest-ranked King's Quest game, trailing only Gabriel Knight: Sins of the Fathers and Space Quest IV[^ref-19].
 
@@ -127,7 +127,7 @@ The design process began at Williams' home. Jensen recalled: "We sat down at her
 
 The collaboration proved challenging but formative. Jensen reflected: "It wasn't always easy at the time. She knew exactly what she wanted and I needed to bow to her sensibility of what King's Quest was and wasn't. She really understood her audience. My natural inclinations were to go a bit edgier and more adult, but she kept me in line. I learned a tremendous amount from her. It was one of the most important and beneficial training grounds I ever could have had and I respect her enormously"[^ref-17].
 
-Jensen wrote over 6,000 messages for the game—reportedly four times the script size of King's Quest V[^ref-4][^ref-9]. She also authored the Guidebook to the Land of the Green Isles, the game's copy protection manual written in-universe as the travel journal of explorer Derek Karlavaegen[^ref-13]. The character name was suggested by Peter Spear, author of The King's Quest Companion, to cement connections with his book series; Jensen's original character was named "John the Wanderer"[^ref-13].
+Jensen wrote over 6,000 messages for the game—reportedly four times the script size of King's Quest V[^ref-4][^ref-9][^ref-41]. She also authored the Guidebook to the Land of the Green Isles, the game's copy protection manual written in-universe as the travel journal of explorer Derek Karlavaegen[^ref-13]. The character name was suggested by Peter Spear, author of The King's Quest Companion, to cement connections with his book series; Jensen's original character was named "John the Wanderer"[^ref-13].
 
 **Development Credits:**[^ref-3][^ref-20][^ref-41]
 - **Executive Designer:** Roberta Williams
@@ -149,7 +149,7 @@ The opening movie was created by Kronos Digital Entertainment, led by Stanley Li
 
 ### Technical Achievements
 
-King's Quest VI was Sierra's first adventure game to feature lip-syncing technology, acquired through Sierra's July 1992 purchase of [[Bright Star Technology]] for $1 million[^ref-7]. The technology came from Bright Star founder Elon Gasper, whom [[Ken Williams]] described as "a genius ex-college professor specializing in linguistics"[^ref-46]. This enabled character portraits to synchronize with voice acting, though only the CD-ROM version featured full voice acting throughout.
+King's Quest VI was Sierra's first adventure game to feature lip-syncing technology[^ref-62], acquired through Sierra's July 1992 purchase of [[Bright Star Technology]] for $1 million[^ref-7]. The technology came from Bright Star founder Elon Gasper, whom [[Ken Williams]] described as "a genius ex-college professor specializing in linguistics"[^ref-46]. This enabled character portraits to synchronize with voice acting, though only the CD-ROM version featured full voice acting throughout.
 
 The game employed video-captured actors for realistic character animation, with over 2,000 character actions recorded via motion capture[^ref-3][^ref-4]. Technical advances included "scaling" technology allowing characters to change size based on screen position for correct perspective, and "pather" technology enabling intelligent obstacle avoidance[^ref-3].
 
@@ -187,7 +187,7 @@ The love theme "Girl in the Tower" became an unusual case study in video game ma
 
 [[Ken Williams]] envisioned the song becoming a radio hit comparable to popular movie tie-in ballads of the era[^ref-7]. Sierra sent promotional CD singles to radio stations nationwide and included an 8-page pamphlet in every game box with phone numbers for major radio stations, urging customers to call and request the song[^ref-7].
 
-The campaign backfired spectacularly. Jimmy Maher recounts that many program directors called Ken to complain and "sometimes issued vague legal threats regarding obscure Federal Communications Commission laws"; Ken finally "agreed to pull the pamphlet from future King's Quest VI boxes"[^ref-7]. Williams later defended the effort: "In my opinion, the radio stations were the criminals for ignoring their customers, something I believe no business should ever do. Oh, well... the song was great"[^ref-7].
+The campaign backfired spectacularly. Jimmy Maher recounts that many program directors called Ken to complain and "sometimes issued vague legal threats regarding obscure Federal Communications Commission laws"; Ken finally "agreed to pull the pamphlet from future King's Quest VI boxes"[^ref-7]. Ken Williams later defended the effort: "In my opinion, the radio stations were the criminals for ignoring their customers, something I believe no business should ever do. Oh, well... the song was great"[^ref-7].
 
 George Starostin was less charitable, calling it a "horrendous power ballad"[^ref-12]. However, the song gained a second life through Sierra self-parody—Space Quest 6 has Sir Elton John play "Girl in the Tower" on piano during a morph gag, and Leisure Suit Larry 6 plays it under a "Girl in the Shower" joke[^ref-48].
 
@@ -246,7 +246,7 @@ Critics attribute much of the game's quality to Jensen's involvement. TV Tropes 
 
 King's Quest VI became Sierra's biggest success of 1992. According to [[Ken Williams]], it sold around 400,000 copies in its first week[^ref-4][^ref-44], and it topped sales charts for DOS games upon release, still holding the number one position in December 1992[^ref-4]. Jimmy Maher calls it "by far the hottest game in the industry that Christmas"[^ref-7]. It was the first computer game certified gold (100,000 units) by the Software Publishers Association before shipping, based on pre-orders alone[^ref-7]. Estimates of its total sales vary widely, but Maher judges it "seems likely that it sold 300,000 copies in all at a minimum, and quite possibly as many as 500,000 copies"[^ref-7].
 
-Sierra duplicated a million and a half disks in the two weeks before the October 13, 1992 launch, which came with an unprecedented number of pre-orders[^ref-42]. By November 1993, the CD-ROM version ranked as the 5th best-selling CD-ROM game[^ref-4]. PC Data tracked 300,000-400,000 units sold in the US by 2000[^ref-4].
+Sierra duplicated a million and a half disks in the two weeks before the October 13, 1992 launch, which came with an unprecedented number of pre-orders[^ref-42]. The CD-ROM version was in the top ten best-selling CD-ROM games from September 1993 through February 1994 and the third-highest of all of 1993[^ref-4]. In 2000 GameSpot, citing PC Data, said the series averaged 300,000–400,000 US copies per game from King's Quest IV onward[^ref-61].
 
 ### Soundtrack Releases
 
@@ -405,7 +405,9 @@ This game has been included in[^ref-20][^ref-21]:
 [^ref-54]: [KQ Omnipedia – Abdul Alhazred](https://kingsquest.fandom.com/wiki/Abdul_Alhazred) – the name and the Necronomicon derive from H.P. Lovecraft's stories
 [^ref-55]: [Sierra Wiki – King's Quest VI: Heir Today, Gone Tomorrow](https://sierra.fandom.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – game credits: "Additional Programming: Doug Oldfield, Juan Carlos Escobar"
 [^ref-56]: [MobyGames – King's Quest VI credits, DOS (Wayback 2016-04-30)](https://web.archive.org/web/20160430105049/http://www.mobygames.com/game/dos/kings-quest-vi-heir-today-gone-tomorrow/credits) – Cast: "Narrator Bill Ratner"; "Directed by Jane Jensen, William D. Skirvin, Roberta Williams"
-[^ref-57]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – read via the MobyGames API; DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"
+[^ref-57]: [MobyGames – The Roberta Williams Anthology](https://www.mobygames.com/game/2029/the-roberta-williams-anthology/) – DOS 1996, Windows 1997; lists KQ1–7, Hi-Res Adventures #0, #1, #2, #6, Time Zone, The Colonel's Bequest, The Dagger of Amon Ra, Mixed-Up Mother Goose and "the first chapter of Roberta Williams' Phantasmagoria"
 [^ref-58]: [Wikipedia – Monkey Island 2: LeChuck's Revenge](https://en.wikipedia.org/wiki/Monkey_Island_2:_LeChuck%27s_Revenge) – infobox: original version released December 1991
 [^ref-59]: [GameRankings – King's Quest VI (Wayback 2019-06-02)](https://web.archive.org/web/20190602232517/http://www.gamerankings.com/pc/565072-kings-quest-vi-heir-today-gone-tomorrow/index.html) – "88.75%", "Score based on 4 reviews"
 [^ref-60]: [KQ Omnipedia – Space Quest series](https://kingsquest.fandom.com/wiki/Space_Quest_series) – SQ4 unused easter egg "uses graphics from King's Quest VI's secret passages from Castle of the Crown", made into the "Room removed for Legal Reasons"
+[^ref-61]: [GameSpot – 15 Most Influential Games, King's Quest IV (Wayback 2005-05-25)](https://web.archive.org/web/20050525124359/http://gamespot.com/gamespot/features/pc/most_influential/p13.html) – "From the fourth game, the series would go on to sell in the US between 300,000 and 400,000 copies per game in the US, according to PC Data."
+[^ref-62]: [MobyGames – King's Quest VI: Heir Today, Gone Tomorrow](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/) – Description, Technology section: Sierra's first adventure game to feature its lipsyncing technology, acquired with Bright Star Technology
