@@ -6,12 +6,12 @@ defunct: 2002
 headquarters: "Vancouver, British Columbia, Canada"
 notable_games: ["Homeworld: Cataclysm", "Counter-Strike Beta 5", "Global Operations"]
 parent_company: "Independent (later Take-Two Interactive)"
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 ---
 
 # Barking Dog Studios
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -77,9 +77,9 @@ Team-based tactical shooter released in March 2002 and co-published by Crave Ent
 
 | Year | Game | Genre |
 |------|------|-------|
-| 1999 | [[1999 - Homeworld|Homeworld]] (assist) | Real-Time Strategy |
-| 1999 | [[2000 - Counter-Strike|Counter-Strike]] Beta 5 (update) | First-Person Shooter |
-| 2000 | [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] | Real-Time Strategy |
+| 1999 | [[1999 - Homeworld\|Homeworld]] (assist) | Real-Time Strategy |
+| 1999 | [[2000 - Counter-Strike\|Counter-Strike]] Beta 5 (update) | First-Person Shooter |
+| 2000 | [[2000 - Homeworld - Cataclysm\|Homeworld: Cataclysm]] | Real-Time Strategy |
 | 2002 | Global Operations | First-Person Shooter |
 | 2002 | Treasure Planet: Battle at Procyon | Real-Time Strategy |
 

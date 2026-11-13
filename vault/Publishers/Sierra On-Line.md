@@ -5,11 +5,11 @@ founded: 1979
 defunct: 2008
 headquarters: "Oakhurst, California / Bellevue, Washington, United States"
 parent_company: "CUC International (1996–1997); Cendant (1997–1999); Havas, later Vivendi Universal (1999–2008); Activision Blizzard (July 2008)"
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 ---
 # Sierra On-Line
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -457,10 +457,10 @@ Sierra published or distributed these games from outside developers:
 
 | Year | Game | Developer | Notes |
 |------|------|-----------|-------|
-| 1997 | [[1997 - Diablo - Hellfire|Diablo: Hellfire]] | Synergistic | Expansion; Synergistic was a Sierra division, and Sierra published it on November 24, 1997[^ref-1] |
+| 1997 | [[1997 - Diablo - Hellfire\|Diablo: Hellfire]] | Synergistic | Expansion; Synergistic was a Sierra division, and Sierra published it on November 24, 1997[^ref-1] |
 | 1997-2000 | You Don't Know Jack series | Jellyvision | Trivia games; Berkeley Systems, under Sierra from 1997[^ref-20][^ref-1] |
-| 1988 | [[1988 - Silpheed|Silpheed]] | Game Arts | Japanese shooter; the Japanese original came out on the PC-8801 on December 5, 1986, and Sierra's North American versions followed in 1988-1989[^ref-37] |
-| 1990 | [[1990 - Zeliard|Zeliard]] | Game Arts | Action RPG; the Japanese original came out on the PC-88 on December 19, 1987, and Sierra's MS-DOS release followed in 1990[^ref-38] |
+| 1988 | [[1988 - Silpheed\|Silpheed]] | Game Arts | Japanese shooter; the Japanese original came out on the PC-8801 on December 5, 1986, and Sierra's North American versions followed in 1988-1989[^ref-37] |
+| 1990 | [[1990 - Zeliard\|Zeliard]] | Game Arts | Action RPG; the Japanese original came out on the PC-88 on December 19, 1987, and Sierra's MS-DOS release followed in 1990[^ref-38] |
 | 1990 | Sorcerian | Nihon Falcom | RPG |
 | 1999 | Viper Racing | Monster Games | Racing |
 | 2001 | Throne of Darkness | Click Entertainment | Action RPG |

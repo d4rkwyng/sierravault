@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Baseball '94", "Front Page Sports: Football", "Outpost 2: Divided Destiny", "Microsoft Baseball 2001"]
 companies: ["Sierra On-Line", "Cinemaware", "Dynamix", "Viacom New Media", "Synergistic Software", "Microsoft", "Exile Interactive"]
-last_updated: "2026-11-12"
+last_updated: "2026-11-13"
 ---
 # Allen McPheeters
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -92,17 +92,17 @@ McPheeters is best remembered for his work on the Front Page Sports series with 
 
 | Year | Title | Role |
 |------|-------|------|
-| 1992 | [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] | Assistant Director |
-| 1992 | [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] | Special Thanks To |
-| 1993 | [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] | Previous Work Credit |
-| 1994 | [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] | Additional Design/Testing |
-| 1994 | [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] | Lead Designer |
-| 1996 | [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] | Previous Work Credit |
-| 1996 | [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] | Previous Additional Work |
-| 1997 | [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] | Designer/Documentation |
-| 1997 | [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] | Previous Additional Work |
-| 1997 | [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] | Previous Work Credit |
-| 1998 | [[1997 - Driver's Education '98|Driver's Education '98]] | Special Thanks |
+| 1992 | [[1992 - Front Page Sports Football 92\|Front Page Sports: Football]] | Assistant Director |
+| 1992 | [[1992 - Red Baron - Mission Builder\|Red Baron: Mission Builder]] | Special Thanks To |
+| 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Previous Work Credit |
+| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Additional Design/Testing |
+| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Lead Designer |
+| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96]] | Previous Work Credit |
+| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Previous Additional Work |
+| 1997 | [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] | Designer/Documentation |
+| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Previous Additional Work |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Previous Work Credit |
+| 1998 | [[1997 - Driver's Education '98\|Driver's Education '98]] | Special Thanks |
 | cancelled | Sierra Sports: Baseball PRO 2000 | Producer[^ref-7] |
 
 ### Post-Sierra (1999–2005)[^ref-6]

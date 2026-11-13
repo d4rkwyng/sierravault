@@ -11,7 +11,7 @@ series: Ultima
 engine: Custom (Assembly Language)
 protagonist: The Stranger
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 description: 'Ultima II: The Revenge of the Enchantress is a fantasy role-playing
   game created by Richard Garriott and released by Sierra On-Line for the Apple II
   in 1982. It is the only new main-series Ultima first published by Sierra.'
@@ -19,7 +19,7 @@ tags: [1980s, rpg, sierra, ultima]
 ---
 # Ultima II: The Revenge of the Enchantress
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -153,7 +153,7 @@ While no specific cut content has been documented, the game as released containe
 |---------|------|----------|-------|
 | 1.0 | 1982 | Apple II | Original release; exact date uncertain (see note below)[^ref-1][^ref-10][^ref-16][^ref-23] |
 | 1.0 | 1983 | Atari 8-bit, Commodore 64, IBM PC (DOS) | First Ultima ports; Atari version by Chuck Bueche, IBM PC port by Jay Sullivan[^ref-2][^ref-11][^ref-12] |
-| 1.0 | 1985 | Atari ST, Macintosh, FM-7, PC-88, PC-98 | Additional platform ports; Atari ST version by [[Bob Heitman|Robert Heitman]]; Japanese versions by StarCraft[^ref-2][^ref-12] |
+| 1.0 | 1985 | Atari ST, Macintosh, FM-7, PC-88, PC-98 | Additional platform ports; Atari ST version by [[Bob Heitman\|Robert Heitman]]; Japanese versions by StarCraft[^ref-2][^ref-12] |
 | 1.0 | 1988 | Sharp X1 | Japanese port[^ref-12] |
 | Enhanced | 1989 | Apple II | Audiovisual upgrade, only available in Ultima Trilogy I-II-III box set[^ref-1] |
 | 1.0 | 1989 | MSX2, PC-88, PC-98 | Pony Canyon releases with new graphics[^ref-2][^ref-12] |

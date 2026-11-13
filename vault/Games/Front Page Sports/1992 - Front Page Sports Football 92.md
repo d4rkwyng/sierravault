@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: null
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 description: 'Front Page Sports: Football (often referred to as Front Page Sports
   Football 92 or simply FPS Football) was the inaugural entry in Dynamix''s Front
   Page Sports football series, released for DOS in 1992.'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -155,7 +155,7 @@ The series was re-released and updated annually. Later editions are covered on t
 | Pro '96 | 1995 | DOS | High-res SVGA graphics, expansion teams added[^ref-11] |
 | Pro '97 | 1996 | Windows | Windows edition; box copy touts motion-captured player movements[^ref-5] |
 | Pro '98 | 1997 | Windows | Synergistic Software credited as developer[^ref-15] |
-| [[CXL - Front Page Sports - Football Pro '99|NFL Football Pro '99]] | December 1998 | Windows | Final version; recalled January 1999[^ref-30][^ref-31] |
+| [[CXL - Front Page Sports - Football Pro '99\|NFL Football Pro '99]] | December 1998 | Windows | Final version; recalled January 1999[^ref-30][^ref-31] |
 
 ### Technical Issues
 

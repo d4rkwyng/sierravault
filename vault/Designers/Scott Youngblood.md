@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Starsiege: Tribes", "Front Page Sports: Ski Racing", "Firefall"]
 companies: ["Dynamix", "Electronic Arts", "Pipeworks Software", "Sony Computer Entertainment America", "Red 5 Studios"]
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 ---
 # Scott Youngblood
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -73,19 +73,19 @@ Starsiege: Tribes sold modestly (fewer than 99,000 copies, by The Ringer's accou
 
 | Year | Title | Role |
 |------|-------|------|
-| 1992 | [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] | Q.A. Programming[^ref-17] |
-| 1992 | [[1992 - Aces of the Pacific|Aces of the Pacific]] | Quality Assurance[^ref-17] |
-| 1992 | [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish (Amiga)]] | Tester[^ref-17] |
-| 1993 | [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] | Additional Design and Direction[^ref-17][^ref-23] |
-| 1994 | [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] | Associate Producer, Additional Design[^ref-17][^ref-24] |
-| 1994 | [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] | Additional Design, Testing[^ref-17][^ref-22] |
-| 1995 | [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] | Associate Producer, Additional Design[^ref-17][^ref-25] |
-| 1996 | [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] | Additional Design[^ref-17][^ref-22] |
-| 1996 | [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] | Direction, Design[^ref-17][^ref-26] |
-| 1997 | [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] | Acknowledged for previous work (no role credit)[^ref-17][^ref-22] |
-| 1997 | [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]] | Designer[^ref-17][^ref-27] |
-| 1998 | [[1998 - Starsiege - Tribes|Starsiege: Tribes]] | Lead Designer[^ref-17] |
-| 2001 | [[2001 - Tribes 2|Tribes 2]] | Special Thanks[^ref-17] |
+| 1992 | [[1992 - Front Page Sports Football 92\|Front Page Sports: Football]] | Q.A. Programming[^ref-17] |
+| 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | Quality Assurance[^ref-17] |
+| 1992 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish (Amiga)]] | Tester[^ref-17] |
+| 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Additional Design and Direction[^ref-17][^ref-23] |
+| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Associate Producer, Additional Design[^ref-17][^ref-24] |
+| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Additional Design, Testing[^ref-17][^ref-22] |
+| 1995 | [[1995 - Front Page Sports - Football Pro '96\|Front Page Sports: Football Pro '96]] | Associate Producer, Additional Design[^ref-17][^ref-25] |
+| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96]] | Additional Design[^ref-17][^ref-22] |
+| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Direction, Design[^ref-17][^ref-26] |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Acknowledged for previous work (no role credit)[^ref-17][^ref-22] |
+| 1997 | [[1997 - Front Page Sports - Ski Racing\|Front Page Sports: Ski Racing]] | Designer[^ref-17][^ref-27] |
+| 1998 | [[1998 - Starsiege - Tribes\|Starsiege: Tribes]] | Lead Designer[^ref-17] |
+| 2001 | [[2001 - Tribes 2\|Tribes 2]] | Special Thanks[^ref-17] |
 
 ### Post-Dynamix (2001–2014)
 
