@@ -10,14 +10,14 @@ series: Space Quest
 engine: 'SCI1 (floppy), SCI1.1 (CD)'
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
   game developed and published by Sierra On-Line, released on March 4, 1991 for MS-DOS, with later ports to Windows, Macintosh, Amiga, PC-98 and a CD-ROM edition with narration by Gary Owens.'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 4, 1991 for MS-DOS[^ref-9] with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
@@ -267,7 +267,8 @@ The Two Guys from Andromeda later launched a Kickstarter in May 2012 for SpaceVe
 ### Collections
 
 This game has been included in the following collections:
-- Space Quest: Collector's Edition (a.k.a. Roger Wilco Unclogged)[^ref-2]
+- Space Quest: Collector's Edition (1994)[^ref-2][^ref-67]
+- Roger Wilco Unclogged (1995), a separate re-release that added a Space Quest 6 demo[^ref-67]
 - Space Quest Saga (The)[^ref-2]
 - [Space Quest Collection (XP)](https://store.steampowered.com/app/10110)[^ref-2][^ref-10]
 - Space Quest: Collection Series[^ref-2]
@@ -394,3 +395,4 @@ In January 2026, DaRaSCo of the Spanish Amiga group [[2025 - SCP Sierra Conversi
 [^ref-64]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/) – developer and publisher Guys from Andromeda; Early Access Release Date Apr 1, 2025; Release Date Dec 23, 2025 (store page read November 11, 2026)
 [^ref-65]: [A2Central – Two Guys from Andromeda launch SpaceVenture (Ken Gagne, January 16, 2026, updated October 18, 2026)](https://a2central.com/2026/01/spaceventure/) – May 2012 Kickstarter raised US$539,767; Steam Early Access April 1, 2025; full version released December 23, 2025 on Steam and itch.io
 [^ref-66]: [MobyGames – Stuart Moulder credits](https://www.mobygames.com/person/6024/stuart-moulder/credits/) – "Producer" for Space Quest IV: Roger Wilco and the Time Rippers (1991, Macintosh)
+[^ref-67]: [Sierra Classic Gaming – Sierra Versions](http://web.archive.org/web/20191022122735/https://wiki.sierraclassicgaming.com/sierra:versions) – separate listings for Space Quest 15th Anniversary Collector's Edition (1994) and Roger Wilco Unclogged (1995), the latter including a Space Quest 6 demo
