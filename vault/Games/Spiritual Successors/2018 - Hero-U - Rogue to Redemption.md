@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity
 protagonist: Shawn O'Conner
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 composer: [Ryan Grogan]
 description: 'Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing
   game created by Lori Ann Cole and Corey Cole, the designers behind Sierra On-Line''s
@@ -19,7 +19,7 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game c
 
 The game places players in the role of Shawn O'Conner, a young wannabe thief whose botched first burglary attempt leads to an unexpected punishment: enrollment at Hero University, a mysterious academy where students train to become heroes[^ref-46]. Set over 50 in-game days[^ref-27], players must navigate the challenges of university life—attending classes, forging relationships with classmates, and exploring dangerous dungeons beneath the castle—all while uncovering secrets about their own hidden past[^ref-5][^ref-3]. The game can play out as an adventure game, a role-playing game, a mystery, a romance, or an interactive novel depending on player choices[^ref-6].
 
-"Simply put, there's nothing on the market that's quite like Hero-U," wrote programmer Cidney Hamilton in the team's official postmortem[^ref-7]. Games historian Jimmy Maher has called it "Quest for Glory VI in all but name"; writing in 2025, he reported that Corey Cole told him the couple "are pushing 70, and spending more time on ourselves"[^ref-2].
+"Simply put, there's nothing on the market that's quite like Hero-U," wrote programmer Cidney Hamilton in the team's official postmortem[^ref-7]. Games historian Jimmy Maher has called it "Quest for Glory VI in all but name"[^ref-2].
 
 > [!info]- Game Info
 > **Developer:** [[Transolar Games]][^ref-1]
@@ -96,7 +96,7 @@ The latest major review came from RPGFan in September 2022, when Hilary Andreff 
 - **Metacritic (PC):** 80/100 (4 critic reviews)[^ref-29]
 - **Metacritic (Switch):** 76/100 (14 critic reviews)[^ref-30]
 - **OpenCritic:** 76 average, 53% critics recommend[^ref-31]
-- **MobyGames:** 7.3/10, from a single user vote (read via the MobyGames API)[^ref-15]
+- **MobyGames:** 7.3/10, from a single user vote[^ref-15]
 - **GOG User Reviews:** 4.4/5[^ref-3]
 
 ## Development
@@ -237,6 +237,7 @@ Hero-U was planned as the beginning of a series, with the Coles planning additio
 
 ## See Also
 
+- [[Quest for Glory Series]]
 - [[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
@@ -256,7 +257,7 @@ Hero-U was planned as the beginning of a series, with the Coles planning additio
 ## References
 
 [^ref-1]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U%3A_Rogue_to_Redemption) – release dates, developers, engine, Metacritic score, development history
-[^ref-2]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – Jimmy Maher, May 23, 2025; "Quest for Glory VI in all but name", Corey Cole's "pushing 70" remark
+[^ref-2]: [The Digital Antiquarian – The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) – Jimmy Maher, May 23, 2025; "Quest for Glory VI in all but name"
 [^ref-3]: [GOG.com – Hero-U: Rogue to Redemption](https://www.gog.com/en/game/herou_rogue_to_redemption) – game description (Rogue of the Year, hidden past), 4.4/5 user rating, release information
 [^ref-5]: [Marvin Games Walkthrough](https://marvingames.com/10564-hero-u-rogue-to-redemption-walkthrough-part-1-to-3/) – game locations, structure, combat details
 [^ref-6]: [Hero-U Official Website](https://www.hero-u.com/RtR/) – game description, genre flexibility
