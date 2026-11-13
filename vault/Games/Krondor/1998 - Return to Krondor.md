@@ -10,7 +10,7 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-13'
 composer: [Chuck Mitchell]
 description: Return to Krondor is a 1998 fantasy role-playing game by PyroTechnix and
   7th Level, published by Sierra Studios as the sequel to Betrayal at Krondor.
@@ -18,7 +18,7 @@ tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -279,6 +279,7 @@ No download is listed: the game is sold on GOG.com and Steam.
 
 ## See Also
 
+- [[Krondor Series]]
 - [[1997 - Betrayal in Antara|← Previous: Betrayal in Antara]]
 
 - [[1993 - Betrayal at Krondor]]
@@ -289,7 +290,7 @@ No download is listed: the game is sold on GOG.com and Steam.
 [^ref-2]: [GOG.com – Return to Krondor](https://www.gog.com/en/game/return_to_krondor) – plot summary, user ratings, system requirements; page lists release date 1998-11-30 and publisher Activision (checked November 11, 2026)
 [^ref-3]: [Computer Games Strategy Plus Review (Archived)](https://web.archive.org/web/20050208084731/http://www.cdmag.com/articles/016/083/return_krondor_review.html) – John Altman review quotes
 [^ref-4]: [GOG.com Forum – New Release Announcement](https://www.gog.com/forum/general_archive/new_release_return_to_krondor/page1) – GOG.com release, March 4, 2010
-[^ref-5]: [MobyGames – Return to Krondor](https://www.mobygames.com/game/458/return-to-krondor/) – credits, trivia, user reviews, aggregate score (critics 75% from 31 ratings, Moby Score 7.2, read via ScraperAPI November 11, 2026), release date November 30, 1998, "Included in" compilations, gameplay description
+[^ref-5]: [MobyGames – Return to Krondor](https://www.mobygames.com/game/458/return-to-krondor/) – credits, trivia, user reviews, aggregate score (critics 75% from 31 ratings, Moby Score 7.2, as of November 11, 2026), release date November 30, 1998, "Included in" compilations, gameplay description
 [^ref-6]: [ModDB – Return to Krondor](https://www.moddb.com/games/return-to-krondor) – feature highlights
 [^ref-7]: [Steam Store Page](https://store.steampowered.com/app/564960/Return_to_Krondor/) – plot description, system requirements; checked November 11, 2026: Mixed, 65% of 104 user reviews positive, release date Nov 30, 1998, publisher Activision, member of the 52-item Activision Collection bundle
 [^ref-8]: [Amazon UK Product Page](https://www.amazon.co.uk/Sierra-UK-Return-To-Krondor/dp/B00004UA0N) – game features, character descriptions
