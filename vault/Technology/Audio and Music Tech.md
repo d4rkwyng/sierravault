@@ -1,14 +1,14 @@
 ---
 title: "Audio and Music Technology"
 type: technology
-last_updated: "2026-11-11"
+last_updated: '2026-11-13'
 description: "Sierra's audio and music technology evolution: PC speaker → Tandy → AdLib → Roland MT-32 → General MIDI → CD audio → recorded scores. The technical and creative arc behind Sierra's music program."
 tags: [technology, audio, music, midi, mt-32, adlib, cd-audio]
 ---
 
 # Audio and Music Technology
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -109,7 +109,7 @@ For [[2015 - King's Quest|King's Quest (2015)]] (Unreal Engine 3), The Odd Gentl
 
 - **William Goldstein** — *King's Quest IV* (1988). Known for the TV series *Fame* and the Touchstone film *Hello Again*.[^ref-26]
 - **[[Chris Braymen]]** — Credited as composer (Christopher G. Braymen) on *King's Quest VI* (1992), *EcoQuest: The Search for Cetus* (1991) and *The Dagger of Amon Ra* (1992).[^ref-54][^ref-55][^ref-56]
-- **[[Mark Seibert]]** — Hired as a musician and music editor on *King's Quest IV*, promoted to music director after a few years, and to producer in 1992. Co-composed *Phantasmagoria* with Jay Usher; Mask of Eternity.[^ref-32][^ref-17]
+- **[[Mark Seibert]]** — Hired as a musician and music editor on *King's Quest IV*, promoted to music director after a few years, and to producer in 1992. Co-composed *Phantasmagoria* with Jay Usher and, with Ben Houge and Kevin Manthei, scored *King's Quest: Mask of Eternity*.[^ref-32][^ref-17]
 - **[[Ken Allen]]** — *The Colonel's Bequest*, *King's Quest V*, *Space Quest IV*, *Conquests of the Longbow*, *Jones in the Fast Lane*, among others.[^ref-36]
 - **[[Robert Holmes]]** — *Gabriel Knight: Sins of the Fathers*; *The Beast Within* (main themes and opera sequences; Jay Usher credited for "Additional Orchestration and Arrangement"); his themes underpin David Henry's *Gabriel Knight 3* score. Later *Gray Matter*.[^ref-16][^ref-29][^ref-52][^ref-30]
 - **Aubrey Hodges** — *Quest for Glory IV* and most of the *Freddy Pharkas* score.[^ref-37][^ref-38]
@@ -148,10 +148,10 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-6]: [Wikipedia — Ad Lib, Inc.](https://en.wikipedia.org/wiki/Ad_Lib,_Inc.) — "The AdLib card consisted of a YM3812 chip"; widespread acceptance; overshadowed by the Sound Blaster
 [^ref-7]: [Wikipedia — King's Quest IV: The Perils of Rosella](https://en.wikipedia.org/wiki/King%27s_Quest_IV) — William Goldstein score, 40 minutes of music
 [^ref-9]: [Wikipedia — Roland MT-32](https://en.wikipedia.org/wiki/Roland_MT-32) — $695 list price; $550 from Sierra with MPU-401; 32 partials, 8–32 notes; Sierra US distribution deal; KQ4 first Sierra MT-32 score
-[^ref-10]: [MobyGames — King's Quest IV tech specs](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/specs/) — DOS: AdLib, Game Blaster, IBM Music Feature, PC speaker, MT-32, Tandy/PCjr; no General MIDI (MobyGames API, checked 2026-10-16)
+[^ref-10]: [MobyGames — King's Quest IV tech specs](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/specs/) — DOS: AdLib, Game Blaster, IBM Music Feature, PC speaker, MT-32, Tandy/PCjr; no General MIDI
 [^ref-11]: [Wikipedia — General MIDI](https://en.wikipedia.org/wiki/General_MIDI) — "first published in 1991"; Sound Canvas as Roland's first GM module
-[^ref-12]: [MobyGames — Space Quest V tech specs](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993): AdLib, General MIDI, MT-32, Tandy/PCjr and others (read via the MobyGames API, checked 2026-10-26)
-[^ref-13]: [Wikipedia — King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — "later released as a fully voiced 'talkie' CD-ROM, done by members of the Sierra staff"
+[^ref-12]: [MobyGames — Space Quest V tech specs](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993): AdLib, General MIDI, MT-32, Tandy/PCjr and others
+[^ref-13]: [Wikipedia — King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — CD version "added voices"; "the voice acting was done by members of the development team"
 [^ref-14]: [Wikipedia — Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — CD-ROM voice cast (Tim Curry, Mark Hamill)
 [^ref-15]: [InterAction Magazine, Vol. V No. 2, Summer 1992](https://archive.org/details/InterAction_Magazine_Vol._V_Number_2_Summer_1992_1992_Sierra_On-Line_US) — Period scan: "Mark Seibert, Music Director and head of Sierra's professional in-house recording studio"
 [^ref-16]: [Robert Holmes — Biography](https://robertholmesmusic.com/biography/) — Joined Sierra's composer group; work included Gabriel Knight 1–3, Gray Matter, Moebius
@@ -168,9 +168,9 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-30]: [Wikipedia — Gabriel Knight 3](https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned) — "score was composed by David Henry, based on themes created by ... Robert Holmes"
 [^ref-31]: [Wikipedia — Chance Thomas](https://en.wikipedia.org/wiki/Chance_Thomas) — Joined Sierra as full-time composer in 1996; Quest for Glory V; later The Lord of the Rings Online
 [^ref-32]: [Wikipedia — Mark Seibert](https://en.wikipedia.org/wiki/Mark_Seibert) — Musician and music editor on KQ IV; music director; producer from 1992
-[^ref-33]: [MobyGames — King's Quest VI tech specs](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/specs/) — DOS: AdLib, General MIDI, MT-32 and others (MobyGames API, checked 2026-10-16)
-[^ref-34]: [MobyGames — Gabriel Knight: Sins of the Fathers tech specs](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/specs/) — DOS: AdLib, General MIDI, MT-32, Gravis Ultrasound and others (MobyGames API, checked 2026-10-16)
-[^ref-35]: [MobyGames — King's Quest III tech specs](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/specs/) — DOS: PC Speaker, Tandy/PCjr (MobyGames API, checked 2026-10-16)
+[^ref-33]: [MobyGames — King's Quest VI tech specs](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/specs/) — DOS: AdLib, General MIDI, MT-32 and others
+[^ref-34]: [MobyGames — Gabriel Knight: Sins of the Fathers tech specs](https://www.mobygames.com/game/116/gabriel-knight-sins-of-the-fathers/specs/) — DOS: AdLib, General MIDI, MT-32, Gravis Ultrasound and others
+[^ref-35]: [MobyGames — King's Quest III tech specs](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/specs/) — DOS: PC Speaker, Tandy/PCjr
 [^ref-36]: [MobyGames — Ken Allen credits (Wayback, February 2024)](https://web.archive.org/web/20240213112141/https://www.mobygames.com/person/273/ken-allen/credits/) — Colonel's Bequest, KQ V, SQ IV, Conquests of the Longbow, Jones in the Fast Lane
 [^ref-37]: [Wikipedia — Quest for Glory IV: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory_IV:_Shadows_of_Darkness) — Composer Aubrey Hodges
 [^ref-38]: [Al Lowe — Music from Freddy Pharkas](https://allowe.com/games/fpfp/music-freddy.html) — "All the rest of the rather extensive musical score was written by Aubrey Hodges"
@@ -179,8 +179,8 @@ The recommended setup for music-purist players: ScummVM's built-in MT-32 emulati
 [^ref-41]: [Wikipedia — IBM Personal Computer](https://en.wikipedia.org/wiki/IBM_Personal_Computer) — Released August 12, 1981
 [^ref-42]: [Wikipedia — Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V:_Dragon_Fire) — Soundtrack by Chance Thomas, "released on CD"
 [^ref-43]: [Guys from Andromeda Podcast — Ken Allen](https://guysfromandromeda.com/blog/podcast-episode-3-guest-host-ken-allen/) — "fairly sure we were the first to use redbook audio in a CD-ROM game; it was Mixed Up Mother Goose"
-[^ref-44]: [MobyGames — King's Quest V tech specs](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/specs/) — DOS: AdLib, MT-32, Sound Blaster, Tandy/PCjr and others; no General MIDI (read via the MobyGames API, checked 2026-10-26)
-[^ref-45]: [MobyGames — Space Quest IV tech specs](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/specs/) — DOS: AdLib, MT-32, Sound Blaster, Tandy/PCjr and others; no General MIDI (read via the MobyGames API, checked 2026-10-26)
+[^ref-44]: [MobyGames — King's Quest V tech specs](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/specs/) — DOS: AdLib, MT-32, Sound Blaster, Tandy/PCjr and others; no General MIDI
+[^ref-45]: [MobyGames — Space Quest IV tech specs](https://www.mobygames.com/game/143/space-quest-iv-roger-wilco-and-the-time-rippers/specs/) — DOS: AdLib, MT-32, Sound Blaster, Tandy/PCjr and others; no General MIDI
 [^ref-47]: [Quest Studios — The History of PC Game MIDI, by Eric Wing (Wayback, September 2014)](https://web.archive.org/web/20140904211309/http://queststudios.com/quest/midi.html) — "They would compose music for these units starting with King's Quest 4"
 [^ref-48]: [Wikipedia — Yamaha OPL](https://en.wikipedia.org/wiki/Yamaha_OPL) — YM3812 (OPL2): "Melody polyphony is limited to nine voices in melodic mode"
 [^ref-49]: [Wikipedia — Sound Blaster](https://en.wikipedia.org/wiki/Sound_Blaster) — Released 1989 with the YM3812; "compatibility with the market leader AdLib"; Compute! on Space Quest III: "extraordinary"; Wave Blaster wavetable daughterboard
