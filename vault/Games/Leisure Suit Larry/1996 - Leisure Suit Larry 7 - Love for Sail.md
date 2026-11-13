@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI3
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-11'
+last_updated: '2026-11-13'
 composer: [Frank Zottoli]
 description: '*Leisure Suit Larry: Love for Sail!* is the sixth and final Leisure
   Suit Larry adventure game written by series creator Al Lowe, released by Sierra
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 13, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 Set aboard the cruise ship PMS Bouncy, the game follows the perpetually unlucky Larry Laffer as he competes in various shipboard competitions to win a week in the captain's cabin with the alluring Captain Thygh.[^ref-4] The game introduced several innovative features including the "CyberSniff 2000" scratch-and-sniff card that accompanied physical copies, allowing players to experience certain scents as gameplay clues—a nostalgic callback to Infocom's *Leather Goddesses of Phobos*.[^ref-3] Players could also insert their own photographs and voice recordings into the game using the included CyberStar 2000 utility.[^ref-5]
 
-*Love for Sail!* became the final Larry game from the "classic Al Lowe era"[^ref-20] and the last to feature the original protagonist Larry Laffer until 2018.[^ref-1] The game sold over 280,000 copies by early 1999 and ultimately reached 750,000 copies sold, plus additional sales through various Larry compilation packages.[^ref-1] It marked a fitting conclusion to Al Lowe's sixteen-and-a-half year tenure at Sierra before his departure in 1999.[^ref-6]
+*Love for Sail!* became the final Larry game from the "classic Al Lowe era"[^ref-20] and the last to feature the original protagonist Larry Laffer as the main character until 2018.[^ref-1] The game sold over 280,000 copies by early 1999 and ultimately reached 750,000 copies sold, plus additional sales through various Larry compilation packages.[^ref-1] It marked a fitting conclusion to Al Lowe's sixteen-and-a-half year tenure at Sierra before his departure in 1999.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -258,8 +258,8 @@ The game contains an extensive collection of Easter eggs that Al Lowe described 
 - The men ordering martinis in the casino represent James Bond actors: Sean Connery, Roger Moore, Timothy Dalton, and Pierce Brosnan (excluding George Lazenby). Bond theme music plays when the waitress approaches.
 - The Archie Comics gang appears playing nude volleyball in the background[^ref-2]
 - Portraits of alleged former contest winners line the high-security hallway. In 2011 Al Lowe, Mark Seibert and Ken Williams identified Walter Forbes, Bill Clinton, Mike Brochu, Randy Dersham, Jeff Tunnell, Ken Williams, Jerry Bowerman and Scott Lynch, but could not name the last two;[^ref-47] GameFAQs identifies them as Ron Stevens and Craig Alexander[^ref-34]
-- A Sierra staffer dressed as Sailor Moon appears in the game[^ref-2][^ref-47]
-- Adult film actor Ron Jeremy appears walking around nude[^ref-2]
+- An onlooker dressed like Sailor Moon appears in the game; Gamia identifies her as a Sierra staffer[^ref-2][^ref-47]
+- A character depicting adult film actor Ron Jeremy appears walking around nude[^ref-2]
 
 **Music Easter Egg:** The music playing in the hot tub/spa area is the title theme from *Freddy Pharkas: Frontier Pharmacist*, another Al Lowe game.[^ref-47] According to LarryLaffer.net, Lowe said he needed a country song but did not want to pay royalties, so reusing a song from a Sierra game he had designed himself suited him perfectly.[^ref-35]
 
