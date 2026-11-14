@@ -10,13 +10,13 @@ series: Mixed-Up
 engine: SCI0
 protagonist: Player-chosen child character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Mixed-Up Mother Goose (SCI Remake) is Sierra On-Line's SCI0 EGA floppy remake of Roberta Williams' 1987 AGI children's adventure, with improved graphics and sound card support but the same gameplay.
 tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -103,8 +103,6 @@ This version was followed by the 1991 VGA/CD remake and by *Mixed-Up Mother Goos
 
 Mixed-Up Mother Goose is not currently sold on GOG or Steam. GOG's old community wishlist entry for the game is still online. One comment reads "A true hidden gem, and a great game for kids!"[^ref-9]
 
-No verified archive copy of the SCI version is linked here (checked November 2026).
-
 **Manuals & Extras**
 
 - [Mixed-Up Mother Goose (SCI) manual scan](https://archive.org/details/vgmuseum_sierra_mothergoose-manual)[^ref-26]
@@ -122,18 +120,18 @@ No verified archive copy of the SCI version is linked here (checked November 202
 [^ref-7]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) - Gameplay, the three remakes (SCI0 "Enhanced" 1990, VGA/CD 1991, Deluxe 1995), and the Atari ST upgrade
 [^ref-9]: [GOG Community Wishlist - Mixed-Up Mother Goose](https://www.gog.com/wishlist/games/mixedup_mother_goose) - Archived community wishlist entry with user comments
 [^ref-17]: [MobyGames - Mixed-Up Mother Goose (1991 VGA remake, #1085)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) - The separate VGA version: "VGA graphics, complete digitized speech"
-[^ref-19]: [MobyGames - Mixed-Up Mother Goose (SCI remake, #22295)](https://www.mobygames.com/game/22295/mixed-up-mother-goose/) - Description, platforms, DOS credits, and player ratings for this version (read via the MobyGames API)
-[^ref-20]: [Sierra News Magazine, Summer 1990 (Vol. 3 No. 2) - "New Versions of Sierra Classics"](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) - p.51: "rewritten for SCI", sound cards, 512K, CGA in black and white, $39.95, $15 upgrade (checked against the page image)
-[^ref-21]: [Sierra News Magazine, Fall 1990 (Vol. 3 No. 3) - "King's Quest I & Mixed-Up Mother Goose: Improving Sierra Favorites"](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) - pp.13-14: Ken Williams quote, redrawn art, "fall of 1990" (checked against the page image), the CD version, SCI upgrade offer and Draw Mother Goose Contest
+[^ref-19]: [MobyGames - Mixed-Up Mother Goose (SCI remake, #22295)](https://www.mobygames.com/game/22295/mixed-up-mother-goose/) - Description, platforms, DOS credits, and player ratings for this version
+[^ref-20]: [Sierra News Magazine, Summer 1990 (Vol. 3 No. 2) - "New Versions of Sierra Classics"](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_2_Summer_1990) - p.51: "rewritten for SCI", sound cards, 512K, CGA in black and white, $39.95, $15 upgrade
+[^ref-21]: [Sierra News Magazine, Fall 1990 (Vol. 3 No. 3) - "King's Quest I & Mixed-Up Mother Goose: Improving Sierra Favorites"](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) - pp.13-14: Ken Williams quote, redrawn art, "fall of 1990", the CD version, SCI upgrade offer and Draw Mother Goose Contest
 [^ref-22]: [Sierra News Magazine, Spring 1991 (Vol. 4 No. 1) - "Atari ST Owners Set To Enjoy... Reillustrated Versions of Two Classics"](https://archive.org/details/Sierra_News_Magazine_Volume_4_Number_1_Spring_1991) - Atari ST "Classic's Reillustrated" upgrade, $15
 [^ref-23]: [Computer Gaming World #76 (November 1990) - "Conversions Received"](https://archive.org/details/Computer_Gaming_World_Issue_76) - "Mixed-Up Mother Goose 'Enhanced Version' (Sierra) IBM"
 [^ref-24]: [Computer Gaming World #81 (April 1991)](https://archive.org/details/Computer_Gaming_World_Issue_81) - Mail-order listing "Mother Goose Enhanced"
-[^ref-25]: [Compute! #130 (June 1991) - Mixed-Up Mother Goose review by Eddie Huffman](https://archive.org/details/1991-06-compute-magazine) - pp.140, 145: review text and spec box (512K, sound cards, $39.95), checked against the page image
+[^ref-25]: [Compute! #130 (June 1991) - Mixed-Up Mother Goose review by Eddie Huffman](https://archive.org/details/1991-06-compute-magazine) - pp.140, 145: review text and spec box (512K, sound cards, $39.95)
 [^ref-26]: [Mixed-Up Mother Goose (SCI) manual, MOCAGH scan](https://archive.org/details/vgmuseum_sierra_mothergoose-manual) - Credits, overview (ages 4+, 44 screens, 18 rhymes, 20 items), inventory, Old King Cole, map and poster, install steps per system
-[^ref-27]: [InterAction, Fall 1991 (Vol. IV No. 3)](https://archive.org/details/InterAction_Magazine_Vol._IV_Number_3_Fall_1991_1991_Sierra_On-Line_US) - p.14: catalog entry for the SCI version beside the Multimedia CD version (checked against the page image)
+[^ref-27]: [InterAction, Fall 1991 (Vol. IV No. 3)](https://archive.org/details/InterAction_Magazine_Vol._IV_Number_3_Fall_1991_1991_Sierra_On-Line_US) - p.14: catalog entry for the SCI version beside the Multimedia CD version
 [^ref-28]: [Sierra News Magazine, Autumn 1989 (Vol. 2 No. 2)](https://archive.org/details/Sierra_News_Magazine_Volume_2_Number_2_Autumn_1989) - Ken Williams: SCI "too big and too complex" for the Apple IIGS
 [^ref-29]: [ScummVM - engines/sci/detection_tables.h](https://github.com/scummvm/scummvm/blob/master/engines/sci/detection_tables.h) - SCI0 "mothergoose" entries for English Amiga and DOS Floppy EGA; VGA version listed separately as "mothergoose256"
 [^ref-30]: [Mixed-Up Mother Goose (CD) manual, MOCAGH scan](https://archive.org/details/vgmuseum_sierra_mothergoose-alt-manual) - CD version: "18 missing characters and objects"
 [^ref-31]: [Computer Gaming World #73 (July 1990) - show report](https://archive.org/details/Computer_Gaming_World_Issue_73) - Mixed-Up Mother Goose CD-ROM with painted backgrounds and English and Japanese voicetracks
-[^ref-32]: [QuestBusters v7n09 (September 1990)](https://archive.org/details/questbusters-v7n09) - Sierra preview report: SCI conversion of Mixed-up Mother Goose for MS-DOS and Amiga; "Mixed-up Mother Goose (SCI)" projected "between October and Christmas" (projection, not a release record; read in the OCR text)
-[^ref-33]: [MegaZone Magazine Issue 08 (Australia, 1990)](https://archive.org/details/megazoneau08) - Sierra feature announcing the SCI and VGA versions of Mixed-Up Mother Goose; an announcement, not a release record; the issue date comes from archive.org metadata only (read in the OCR text)
+[^ref-32]: [QuestBusters v7n09 (September 1990)](https://archive.org/details/questbusters-v7n09) - Sierra preview report: SCI conversion of Mixed-up Mother Goose for MS-DOS and Amiga; "Mixed-up Mother Goose (SCI)" projected "between October and Christmas" (projection, not a release record)
+[^ref-33]: [MegaZone Magazine Issue 08 (Australia, 1990)](https://archive.org/details/megazoneau08) - Sierra feature announcing the SCI and VGA versions of Mixed-Up Mother Goose; an announcement, not a release record; the issue date comes from archive.org metadata only
