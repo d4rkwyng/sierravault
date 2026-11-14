@@ -1,14 +1,14 @@
 ---
 title: "Timeline 2000–present"
 type: reference
-last_updated: "2026-11-11"
+last_updated: "2026-11-14"
 description: "Post-acquisition Sierra catalog timeline — Vivendi era through Activision Blizzard mothballing, alumni studios continuing the lineage, and Microsoft Gaming acquisition. Year by year through 2026."
 tags: [reference, timeline, post-sierra-history]
 ---
 
 # Timeline 2000–present
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -70,7 +70,7 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 - [[2004 - Ground Control II - Operation Exodus|Ground Control II: Operation Exodus]] (Massive Entertainment / Sierra; June 23, 2004)[^ref-57]
 - [[2004 - Half-Life 2|Half-Life 2]] (Valve; November 16, 2004; retail copies distributed by Vivendi Universal Games through Sierra)[^ref-58]
 
-**Corporate:** On April 27, 2004, THQ announced it was acquiring [[Relic Entertainment]].[^ref-3] [[Impressions Games]] was shut down in April 2004 when Vivendi Universal closed most of its development studios.[^ref-17] Impressions veterans, led by former lead designer Chris Beatrice, had already founded Tilted Mill Entertainment in 2002.[^ref-44] The [[Papyrus Design Group]] website was shut down on April 5, 2004, and on May 28, 2004 Vivendi and Papyrus sold the *NASCAR Racing 2003 Season* copyrights to FIRST.net.[^ref-4] By June 2004 Vivendi had shut down Sierra's Bellevue location, and on August 24, 2004 Sierra was disestablished as a company, continuing as a division of Vivendi.[^ref-5] VU Games assigned the Hoyle games licence to Encore, effective December 23, 2004.[^ref-43]
+**Corporate:** On April 27, 2004, THQ announced it was acquiring [[Relic Entertainment]].[^ref-3] [[Impressions Games]] was shut down in spring 2004 when Vivendi Universal closed most of its development studios: Wikipedia gives April,[^ref-17] while a June 21, 2004 CNN/Money report said it was "closed last month".[^ref-118] Impressions veterans, led by former lead designer Chris Beatrice, had already founded Tilted Mill Entertainment in 2002.[^ref-44] The [[Papyrus Design Group]] website was shut down on April 5, 2004, and on May 28, 2004 Vivendi and Papyrus sold the *NASCAR Racing 2003 Season* copyrights to FIRST.net.[^ref-4] By June 2004 Vivendi had shut down Sierra's Bellevue location, and on August 24, 2004 Sierra was disestablished as a company, continuing as a division of Vivendi.[^ref-5] VU Games assigned the Hoyle games licence to Encore, effective December 23, 2004.[^ref-43]
 
 ## 2005
 
@@ -86,7 +86,7 @@ For the independent-era chronology, see [[Timeline 1980-1999|Timeline 1980-1999]
 **Major releases:**
 - [[2006 - Caesar IV|Caesar IV]] (Tilted Mill / Sierra)[^ref-93]
 - [[2006 - SWAT 4 - The Stetchkov Syndicate|SWAT 4: The Stetchkov Syndicate]] (Irrational Games / Sierra; expansion pack, February 28, 2006)[^ref-60]
-- [[2007 - Hoyle Casino|Hoyle Casino]] (Encore; released September 11, 2006)[^ref-94]
+- [[2007 - Hoyle Casino|Hoyle Casino]] (Encore; released August 8 or September 11, 2006, as sources differ)[^ref-94][^ref-119]
 - [[2006 - Hoyle Miami Solitaire|Hoyle Miami Solitaire]] (Encore; released November 15, 2006)[^ref-95]
 - [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf Adventures]] (Wanako Games; Windows December 20, 2006, Xbox Live Arcade April 18, 2007)[^ref-96]
 
@@ -307,7 +307,7 @@ Three patterns characterize this period:
 [^ref-42]: [Time Extension — Leisure Suit Larry's last releases to be delisted from Steam and GOG this month (October 2026)](https://www.timeextension.com/news/2026/10/get-them-now-or-never-leisure-suit-larrys-last-releases-to-be-delisted-from-steam-and-gog-this-month) — "Electronic Arts' 2021 purchase of Codemasters"
 [^ref-43]: [Worthplaying — Vivendi Passes On 'Hoyle' Brand to Encore (December 21, 2004)](https://www.worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) — "assignment of the Hoyle games license"; "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing"
 [^ref-44]: [Wikipedia — Tilted Mill Entertainment](https://en.wikipedia.org/wiki/Tilted_Mill_Entertainment) — "founded in 2002 by former Impressions Games lead designer and general manager Chris Beatrice"
-[^ref-45]: [MobyGames — The Silver Lining: Episode One - What is Decreed Must Be (Moby ID 47324; read via the MobyGames API)](https://www.mobygames.com/game/47324/the-silver-lining-episode-one-what-is-decreed-must-be/) — Windows first release date 2010-07-10
+[^ref-45]: [MobyGames — The Silver Lining: Episode One - What is Decreed Must Be (Moby ID 47324)](https://www.mobygames.com/game/47324/the-silver-lining-episode-one-what-is-decreed-must-be/) — Windows first release date 2010-07-10
 [^ref-46]: [Wikipedia — SWAT Force](https://en.wikipedia.org/wiki/SWAT_Force) — developed by Kaolink, published by Vivendi; "It was released February 28, 2006, for mobile devices"
 [^ref-47]: [GamesIndustry.biz — Vivendi Universal Games' Wireless Division Extends New Mobile Game Offerings In Europe And Other International Markets (July 18, 2005)](https://www.gamesindustry.biz/vivendi-universal-games-wireless-division-extends-new-mobile-game-offerings-in-europe-and-other-international-markets) — "SWAT Force and Larry's Sexy Pinball, will be available to consumers starting in July 2005"; distributed by WonderPhone
 [^ref-48]: [Pocket Gamer — SWAT Force review (Fraser MacInnes, July 1, 2005)](https://www.pocketgamer.com/swat-force/review/) — Java review dated Jul 1, 2005
@@ -325,7 +325,7 @@ Three patterns characterize this period:
 [^ref-60]: [Wikipedia — SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) — publisher Sierra Entertainment; NA April 5, 2005; The Stetchkov Syndicate NA February 28, 2006
 [^ref-61]: [Wikipedia — World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) — "Released under the Sierra Entertainment brand name"; NA September 18, 2007
 [^ref-62]: [Wikipedia — Leisure Suit Larry: Box Office Bust](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust) — publisher Codemasters; EU March 27, 2009, NA March 31, 2009
-[^ref-63]: [MobyGames — Thexder Neo (Moby ID 43121; read via the MobyGames API)](https://www.mobygames.com/game/43121/thexder-neo/) — PSP release 2009-10-01; published by Square Enix, developed by Zereo
+[^ref-63]: [MobyGames — Thexder Neo (Moby ID 43121)](https://www.mobygames.com/game/43121/thexder-neo/) — PSP release 2009-10-01; published by Square Enix, developed by Zereo
 [^ref-64]: [Steam — Front Page Sports Football](https://store.steampowered.com/app/316700/) — developer Cyanide Studio; "Oct 2, 2014"
 [^ref-65]: [Steam — Gold Rush! Anniversary](https://store.steampowered.com/app/319230/) — developer and publisher Sunlight Games; "Nov 7, 2014"
 [^ref-66]: [Steam — Gold Rush! 2](https://store.steampowered.com/app/609100/) — developer and publisher Sunlight Games; "Apr 28, 2017"
@@ -346,14 +346,14 @@ Three patterns characterize this period:
 [^ref-81]: [MobyGames — The Incredible Machine: Even More Contraptions](https://www.mobygames.com/game/5256/the-incredible-machine-even-more-contraptions/) — platforms, developer, credits
 [^ref-82]: [Wikipedia — NASCAR Racing 4](https://en.wikipedia.org/wiki/NASCAR_Racing_4) — release dates, review scores
 [^ref-83]: [Wikipedia — Emperor: Rise of the Middle Kingdom](https://en.wikipedia.org/wiki/Emperor:_Rise_of_the_Middle_Kingdom) — release dates, developers
-[^ref-84]: [MobyGames — NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) — developer, credits, release dates (read via the MobyGames API)
+[^ref-84]: [MobyGames — NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) — developer, credits, release dates
 [^ref-85]: [Wikipedia — Hoyle Casino Empire](https://en.wikipedia.org/wiki/Hoyle_Casino_Empire) — in-house Sierra development, release dates
 [^ref-86]: [GameFAQs — Hoyle Card Games](https://gamefaqs.gamespot.com/pc/562385-hoyle-card-games) — developer, release date
 [^ref-87]: [Wikipedia — Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) — release dates
 [^ref-88]: [Wikipedia — NASCAR Racing 2003 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2003_Season) — release dates, development history
 [^ref-89]: [Metacritic — Hoyle Casino 2004](https://www.metacritic.com/game/hoyle-casino-2004/) — release date, developer, publisher, platform
 [^ref-90]: [Metacritic — Hoyle Puzzle Games 2004](https://www.metacritic.com/game/hoyle-puzzle-games-2004/details/) — initial release Sep 2, 2003, publisher
-[^ref-91]: [MobyGames — Tribes: Vengeance](https://www.mobygames.com/game/15568/tribes-vengeance/) — release list, publisher Sierra Entertainment (read via the MobyGames API)
+[^ref-91]: [MobyGames — Tribes: Vengeance](https://www.mobygames.com/game/15568/tribes-vengeance/) — release list, publisher Sierra Entertainment
 [^ref-92]: [GameFAQs — Hoyle Texas Hold 'Em](https://gamefaqs.gamespot.com/pc/927495-hoyle-texas-hold-em) — developer and publisher Encore Software, February 2005
 [^ref-93]: [Wikipedia — Caesar IV](https://en.wikipedia.org/wiki/Caesar_IV) — release dates, developer, publisher
 [^ref-94]: [Metacritic — Hoyle Casino 2007](https://www.metacritic.com/game/hoyle-casino-2007/) — release date, developer, publisher
@@ -380,3 +380,5 @@ Three patterns characterize this period:
 [^ref-115]: [Steam — Hoyle Official Casino Games](https://store.steampowered.com/app/532950/Hoyle_Official_Casino_Games/) — developer and publisher Encore; "Oct 14, 2016"
 [^ref-116]: [Steam — Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/) — developer Transolar Games; "Mar 28, 2023"
 [^ref-117]: [Wikipedia — Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) — series history, Gobliiins 5
+[^ref-118]: [CNN/Money — VU Games job cuts, June 21, 2004 (Wayback Machine)](https://web.archive.org/web/20041204223605/http://money.cnn.com/2004/06/21/technology/vugames/index.htm) — Papyrus and Impressions "closed last month"
+[^ref-119]: [IGN — Hoyle Casino [2007]](https://www.ign.com/games/hoyle-casino-2007) — initial release August 8, 2006
