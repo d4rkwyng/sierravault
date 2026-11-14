@@ -10,7 +10,7 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 composer: [Christopher Barker, Craig Utterback]
 description: Thexder 95, also known as Thexder for Windows 95, is a 1995 Windows 95
   action platformer developed by Synergistic Software and published by Sierra On-Line,
@@ -19,7 +19,7 @@ tags: [1990s, sierra, thexder]
 ---
 # Thexder 95
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -81,7 +81,7 @@ Thexder 95 supports modem and network play[^ref-44][^ref-45]. *InterAction* said
 
 *Computer Gaming World*'s February 1996 "On the Shelf" capsule said that "action remains limited to blowing up various enemies and hazards." It called the game "the latest example of the trend to resurrect vintage arcade and computer games" and suggested "it might be prudent, though, to discern whether the original product is a Casablanca or a Heaven's Gate"[^ref-45].
 
-*Génération 4* (February 1996), a French magazine, reviewed the game in its "Test Express" column as an arcade game for PC CD-ROM (Windows 95) published by Sierra. In my translation, it called the game "of such a distressing banality and lack of interest," "not frankly pretty," and inclined "to run a little slow on a Pentium," and wondered what the point of the title was; the page gives no star rating[^ref-54].
+*Génération 4* (February 1996), a French magazine, reviewed the game in its "Test Express" column as an arcade game for PC CD-ROM (Windows 95) published by Sierra. In translation, it called the game "of such a distressing banality and lack of interest," "not frankly pretty," and inclined "to run a little slow on a Pentium," and wondered what the point of the title was; the page gives no star rating[^ref-54].
 
 *Next Generation* (April 1996) gave the game two stars. The review said it "does an admirable job of using the multitasking environment" but is "still an average platform shooter." It also found that on the minimum system "Thexder looks like he's running with magnetic boots on," and concluded that "your replay value is practically nil"[^ref-49].
 
@@ -137,7 +137,7 @@ The next entry in the series, Thexder Neo, was developed by Zereo and published 
 
 ## Downloads
 
-Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the Sierra Help wiki also lists it as not available on GOG[^ref-26].
+As of November 2026, Thexder 95 is not sold on GOG or Steam; the Sierra Help wiki also lists it as not available on GOG[^ref-26].
 
 **Demo**
 - [The Sierra Chest – Thexder for Windows 95 demo](https://www.sierrachest.com/index.php?a=games&id=44&title=thexder-95&fld=demos)[^ref-51]
@@ -149,7 +149,7 @@ Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the
 
 ## References
 
-[^ref-2]: [MobyGames – Thexder (Windows, 1995)](https://www.mobygames.com/game/2857/thexder/) – Synergistic/Sierra, credits (30 people; Art and "Special Thanks To" Hibiki Godai), minimum specs (read via the MobyGames API), remake description, CD-ROM, Teen rating, LAN/modem multiplayer, critic average 49% (9), player reviews, trivia, CGW Nov 1996 #23 listing
+[^ref-2]: [MobyGames – Thexder (Windows, 1995)](https://www.mobygames.com/game/2857/thexder/) – Synergistic/Sierra, credits (30 people; Art and "Special Thanks To" Hibiki Godai), minimum specs, remake description, CD-ROM, Teen rating, LAN/modem multiplayer, critic average 49% (9), player reviews, trivia, CGW Nov 1996 #23 listing
 [^ref-16]: [Hardcore Gaming 101 – A Brief History of Thexder](http://blog.hardcoregaming101.net/2009/10/brief-history-of-thexder.html) – 2009 blog post (Discoalucard); Windows 95 game "dreadful, because the sprites were tiny, the action was choppy"
 [^ref-23]: [MobyGames – Thexder (1985)](https://www.mobygames.com/game/49/thexder/) – Original Game Arts game
 [^ref-26]: [Sierra Help Wiki – Thexder 95](https://wiki.sierrahelp.com/index.php/Thexder_95) – Synergistic developer, Game SDK engine, Windows 9x, manual-check copy protection, GOG "Not available at this time"
@@ -165,6 +165,6 @@ Thexder 95 is not currently sold on GOG or Steam (checked November 1, 2026); the
 [^ref-49]: [Next Generation #16 (April 1996), p. 95](https://archive.org/details/nextgen-issue-016/page/n98/mode/1up) – Review, two stars: "does an admirable job of using the multitasking environment", "still an average platform shooter", 486DX2/66 with 8 MB RAM
 [^ref-50]: [PC Zone #38 (May 1996), pp. 9–10](https://archive.org/details/PC_Zone_38_May_1996/page/n9/mode/1up) – "Playable Demos" cover CD listing "Thexder '95 (Sierra)" playable demo; Specifications: 8Mb, Windows 95
 [^ref-51]: [The Sierra Chest – Thexder for Windows 95: Demos](https://www.sierrachest.com/index.php?a=games&id=44&title=thexder-95&fld=demos) – "Thexder for Win 95 Demo (1 MB)", included on Conqueror A.D. 1086 CD
-[^ref-52]: [Computer Gaming World #137 (December 1995), Sierra advertisement](https://archive.org/details/Computer_Gaming_World_Issue_137/page/n257/mode/1up) – Two-page Sierra ad (scan pages n257-n258, "Sierra" banner): "Thexder flies, runs, jumps, morphs into a tank or plane, and blasts his way through five worlds, each with ten different levels"; 50th level and Primus Tech; text checked against the page images
+[^ref-52]: [Computer Gaming World #137 (December 1995), Sierra advertisement](https://archive.org/details/Computer_Gaming_World_Issue_137/page/n257/mode/1up) – Two-page Sierra ad (scan pages n257-n258, "Sierra" banner): "Thexder flies, runs, jumps, morphs into a tank or plane, and blasts his way through five worlds, each with ten different levels"; 50th level and Primus Tech
 [^ref-53]: [Computer Gaming World #137 (December 1995), Chips & Bits advertisement](https://archive.org/details/Computer_Gaming_World_Issue_137/page/n160/mode/1up) – Retailer ad: "'Thexder' players control a transformer type robot called THX-DR122... through 50 different science fiction environments... CD $40"
-[^ref-54]: [Génération 4 #85 (February 1996), p. 132](https://archive.org/details/generation4-magazine-085/page/n131/mode/1up) – "Test Express" review of Thexder (PC CD-ROM, Windows 95, Sierra); French text read on the page scan; quotes above are translated by the vault ("d'une banalité et d'un manque d'intérêt aussi affligeant", "ça a tendance à ramer un tantinet sur Pentium")
+[^ref-54]: [Génération 4 #85 (February 1996), p. 132](https://archive.org/details/generation4-magazine-085/page/n131/mode/1up) – "Test Express" review of Thexder (PC CD-ROM, Windows 95, Sierra); quotes above translated from the French ("d'une banalité et d'un manque d'intérêt aussi affligeant", "ça a tendance à ramer un tantinet sur Pentium")
