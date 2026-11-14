@@ -1,14 +1,14 @@
 ---
 title: "Studio Map"
 type: reference
-last_updated: '2026-11-12'
-description: "Every acquired, partner, alumni, and fan studio in the Sierra extended catalogue, with founding date, status, location, parent company, and notable games. The cross-reference for `developer:` and `publisher:` YAML values."
+last_updated: '2026-11-14'
+description: "Every acquired, partner, alumni, and fan studio in the Sierra extended catalogue, with founding date, status and notable games, plus location and parent company where known. The cross-reference for `developer:` and `publisher:` YAML values."
 tags: [reference, studios, developers, publishers]
 ---
 
 # Studio Map
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -78,7 +78,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 | Studio | Founded | Founders | Status | Notable games |
 |--------|---------|----------|--------|---------------|
 | Pinkerton Road Studio | Announced April 5, 2012 | [[Jane Jensen]], [[Robert Holmes]] | — | Gabriel Knight 20th Anniversary, Moebius[^ref-39] |
-| [[Phoenix Online Studios]] | 2004 (as Phoenix Freeware Online) | — | — | The Silver Lining (KQ fan game), Cognition[^ref-62][^ref-94] |
+| [[Phoenix Online Studios]] | 2004 (as Phoenix Freeware Online) | — | — | The Silver Lining (KQ fan game), Cognition, Moebius: Empire Rising, Gabriel Knight: Sins of the Fathers 20th Anniversary Edition[^ref-62][^ref-94] |
 | [[Phoenix Online Publishing]] | Announced February 20, 2014 | — | — | Publishing label of Phoenix Online Studios[^ref-40] |
 | [[Transolar Games]] | Online as "TranSolar Games" by May 1999 | [[Lori Ann Cole]], [[Corey Cole]] | Active | Hero-U: Rogue to Redemption (2018)[^ref-41][^ref-42] |
 | Guys From Andromeda | — | [[Mark Crowe]], [[Scott Murphy]] | Active | SpaceVenture (full release December 23, 2025)[^ref-43] |
@@ -123,7 +123,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 ## References
 
 [^ref-1]: [Wikipedia — Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "Subsidiaries" section (founding, acquisition and closure dates of Bright Star, Berkeley Systems, Coktel, Dynamix, Headgate, Impressions, Synergistic, Papyrus, Yosemite Entertainment; labels Sierra Attractions 1998–2001, Sierra Studios 1998–2001); Bright Star "founded in 1980"; Bellevue headquarters move; Books That Work "acquired in April 1997, folded into Sierra in February 1999"; Sierra Home label (gardening, home design and cooking divisions); Sierra Northwest among the autonomous divisions and part of Sierra Studios in 1998; "Arion Software was acquired in 1995"
-[^ref-2]: [MobyGames — Sierra Entertainment, Inc. (Moby ID 17)](https://www.mobygames.com/company/17/sierra-entertainment-inc/) — AKA "Sierra On-Line, Inc. (from 1982 to 2001-12)", "On-Line Systems (from 1980-05 to 1982)"; Coarsegold, then Oakhurst (ID checked via Wayback 2024-12-15)
+[^ref-2]: [MobyGames — Sierra Entertainment, Inc. (Moby ID 17)](https://www.mobygames.com/company/17/sierra-entertainment-inc/) — AKA "Sierra On-Line, Inc. (from 1982 to 2001-12)", "On-Line Systems (from 1980-05 to 1982)"; Coarsegold, then Oakhurst
 [^ref-3]: [The Digital Antiquarian — The End of Sierra as We Knew It, Part 4: Chainsaw Monday](https://www.filfre.net/2025/05/the-end-of-sierra-as-we-knew-it-part-4-chainsaw-monday/) — February 22, 1999 layoffs at Oakhurst; "Craig Alexander, the manager of Yosemite Entertainment"
 [^ref-16]: [Sierra On-Line Form 10-K, fiscal 1996 (SEC EDGAR, Wayback copy)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — business address Bellevue, WA
 [^ref-17]: [The Seattle Times — Sierra's Game Plan (January 22, 1996)](https://archive.seattletimes.com/archive/19960122/2310224/sierras-game-plan----software-firm-hopes-acquisition-strategy-makes-it-a-winner-in-its-niche) — "moved from California to Bellevue two years ago this month"; acquisitions list: "November 1995: SubLogic Inc., Champaign, Ill." (12 employees); "September 1995: Arion Software Inc., Austin, Texas" (cooking software, 12 employees)
@@ -156,7 +156,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-44]: [GamesBeat — Leisure Suit Larry publisher trades up to a new developer (July 15, 2012)](https://gamesbeat.com/leisure-suit-larry-publisher-trades-up-to-a-new-developer-exclusive/) — "Trowe bootstrapped his Austin, Texas-based company in 2008"; "first teenage beta tester at Sierra On-Line"; Reloaded with Al Lowe
 [^ref-45]: [Newsslash — Assemble Entertainment: Marcinek gründet neuen Publisher (October 11, 2016)](https://www.newsslash.com/n/8400-assemble-entertainment-marcinek-gruendet-neuen-publisher) — founded by Kalypso Media Group co-founder Stefan Marcinek; team in Wiesbaden
 [^ref-46]: [Wikipedia — Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — "Assemble Entertainment released two Leisure Suit Larry games": Wet Dreams Don't Dry (2018), Wet Dreams Dry Twice (2020)
-[^ref-47]: [MobyGames — Gobliiins 4 (game 40608; Wayback, January 2024)](http://web.archive.org/web/20240127232039/https://www.mobygames.com/game/40608/gobliiins-4/) — developer Société Pollene; 2009 (also confirmed via the MobyGames API release list)
+[^ref-47]: [MobyGames — Gobliiins 4 (game 40608; Wayback, January 2024)](http://web.archive.org/web/20240127232039/https://www.mobygames.com/game/40608/gobliiins-4/) — developer Société Pollene; 2009
 [^ref-48]: [Steam — GOBLiiiNS5](https://store.steampowered.com/app/2475980/) — developer Pierre Gilhodes, publisher Schnibble Productions; released Jul 20, 2023
 [^ref-49]: [Steam — GOBLiiNS6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) — developer Pierre Gilhodes, publisher Schnibble Productions; 2026
 [^ref-50]: [Wikipedia — Blackbird Interactive](https://en.wikipedia.org/wiki/Blackbird_Interactive) — "founded in 2007 by former members of Relic Entertainment and EA Canada"; Deserts of Kharak (January 20, 2016); Hardspace: Shipbreaker
@@ -202,7 +202,7 @@ Used together with [[Corporate Lineage]] and the per-studio Developer pages, thi
 [^ref-91]: [GameSpy — Developer Origins, page 8 (Wayback, June 2007)](https://web.archive.org/web/20070609133153/http://www.gamespy.com/articles/697/697083p8.html) — Dara-Lynn Pelechatz: "Stainless Steel was started in October of 1997"
 [^ref-92]: [Stainless Steel Studios press release, May 28, 1998 (artho.com copy)](http://artho.com/age/rick2.html) — Rick Goodman "founded Stainless Steel Studios in January 1998"
 [^ref-93]: [Wikipedia — Pharaoh (video game)](https://en.wikipedia.org/wiki/Pharaoh_(video_game)) — expansion pack Cleopatra: Queen of the Nile "was released in 2000, developed by BreakAway Games"
-[^ref-94]: [MobyGames — Phoenix Online Studios, LLC (Moby ID 15713; Wayback, December 2024)](https://web.archive.org/web/20241217220315/https://www.mobygames.com/company/15713/phoenix-online-studios-llc/) — "originally called Phoenix Freeware Online, was formed in 2004 in order to work on the King's Quest fangame The Silver Lining"
+[^ref-94]: [MobyGames — Phoenix Online Studios, LLC (Moby ID 15713; Wayback, December 2024)](https://web.archive.org/web/20241217220315/https://www.mobygames.com/company/15713/phoenix-online-studios-llc/) — "originally called Phoenix Freeware Online, was formed in 2004 in order to work on the King's Quest fangame The Silver Lining"; credits include Moebius: Empire Rising and Gabriel Knight: Sins of the Fathers - 20th Anniversary Edition
 [^ref-95]: [Wikipedia — Tsunami Games](https://en.wikipedia.org/wiki/Tsunami_Games) — "Tsunami Games (or Tsunami Media, Inc.)"; formed 1991 by Ed Heinbockel, former Sierra CFO; Oakhurst; games 1992–1996 incl. Ringworld, Blue Force, Return to Ringworld
 [^ref-96]: [The Fresno Bee — "Software firm's products futuristic but easier to use" (Lisa Crumrine, June 12, 1992, p. 44; Newspapers.com clipping, Wayback)](https://web.archive.org/web/20250621044152/https://www.newspapers.com/article/the-fresno-bee/163959211/) — "The founder of Tsunami Media, a year-old computer… software upstart"; Heinbockel; Jim Walls among the employees
 [^ref-97]: [The Adventurers Guild — Blue Force (1993): Introduction (October 2022)](https://advgamer.blogspot.com/2022/10/blue-force-1993-introduction.html) — "Tsunami Media, Inc., a game company founded in 1991"; "Former Sierra Chief Financial Officer Edmond Heinbockel started Tsunami in 1991"
