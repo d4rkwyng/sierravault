@@ -10,7 +10,7 @@ series: Hoyle Series
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Hoyle Solitaire And Mahjong Tiles 2000 is a Hoyle-branded solitaire and
   mahjong tile game from Sierra for Windows and Macintosh under the Sierra Attractions
   label; databases date this edition to April 2000, and Sierra was already selling a
@@ -19,7 +19,7 @@ tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Solitaire And Mahjong Tiles 2000
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -113,7 +113,7 @@ No hint books or strategy guides for this title were found.
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (checked 2026-11-07).
+- As of November 7, 2026, not sold on GOG or Steam.
 
 **Box scans**
 - [Sierra Chest – Box Art Gallery](https://sierrachest.com/index.php?a=games&id=794&title=hoyle-solitaire-mahjong-tiles-2&fld=box)[^ref-5]

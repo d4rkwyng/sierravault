@@ -10,7 +10,7 @@ series: Hoyle Board Games
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Hoyle Board Games 2001 is a sixteen-game
   board game compilation for Windows and Macintosh, developed and published by Sierra
   On-Line and released in 2000.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-board-games, sierra]
 ---
 # Hoyle Board Games 2001
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -269,7 +269,7 @@ Reviewing a later edition in 2002, GameSpot's Gord Goble observed that Hoyle Boa
 
 ## References
 
-[^ref-1]: [MobyGames – Hoyle Board Games 2001](https://www.mobygames.com/game/31043/hoyle-board-games-2001/) – developer, publisher, credits, release dates, ratings, alternate titles, platforms, game list (read via the MobyGames API)
+[^ref-1]: [MobyGames – Hoyle Board Games 2001](https://www.mobygames.com/game/31043/hoyle-board-games-2001/) – developer, publisher, credits, release dates, ratings, alternate titles, platforms, game list
 [^ref-3]: [Macworld – Hands on with Hoyle Board Games](https://www.macworld.com/article/164966/hoyle-2.html) – Danilo Campos, Feb 15, 2001; sixteen games incl. Master Match and Rummy Squares, manual, verdict
 [^ref-5]: [GameSpot Review by Tim Soete (December 2000)](https://www.gamespot.com/reviews/hoyle-board-games/1900-2664994/) – review score 7/10, facemaker feature, gameplay analysis
 [^ref-6]: [IGN – Hoyle Board Games 2001](https://www.ign.com/games/hoyle-board-games-2001) – release date, game list, developer, publisher
