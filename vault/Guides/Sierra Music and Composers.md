@@ -1,11 +1,11 @@
 ---
 title: "Sierra Music and Composers"
 type: guide
-last_updated: "2026-11-11"
+last_updated: "2026-11-14"
 ---
 # Sierra Music and Composers
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 Sierra On-Line's music followed the hardware of its day, from the single-voice PC speaker through MIDI sound cards to live studio recordings.
 
@@ -92,7 +92,7 @@ Allen later noted that working on the Space Quest series was his favorite assign
 
 ### Al Lowe – Designer and Composer
 
-[[Al Lowe]], born in 1946, grew up in Chesterfield, Missouri, and played saxophone in university bands.[^ref-15] He brought a degree in music education to game design, and had been a professional musician from age 13.[^ref-16] His compositions for the Leisure Suit Larry series remain iconic.
+[[Al Lowe]], born in 1946, grew up in Chesterfield, Missouri, and played saxophone in university bands.[^ref-15] He brought a degree in music education to game design, and had been a professional musician from age 13.[^ref-16]
 
 The Leisure Suit Larry theme song took its spirit from "Alexander's Ragtime Band," which Lowe heard on NPR and found unusual and fresh compared to most computer game music.[^ref-32] Created casually—"What the hell? It was only for a computer game"—it was a "silly little ditty" that, Lowe wrote, "would be heard by millions of gamers, many of whom have sworn revenge against me for making it so 'whistle-able' that they can't get it out of their heads!"[^ref-32]
 
@@ -234,7 +234,7 @@ In 2013 Allen launched a Kickstarter project titled "Under the Half Dome"; 575 b
 [^ref-41]: [Wikipedia – Austin Wintory](https://en.wikipedia.org/wiki/Austin_Wintory) — Journey Grammy nomination; Leisure Suit Larry: Reloaded (2013) in his credits
 [^ref-42]: [Cliqist – Ken Allen's Sierra On-Line Album Under the Half Dome Shelved, Refunds Issued (Serena Nelson, January 27, 2016)](http://cliqist.com/2016/01/27/ken-allens-sierra-on-line-album-under-the-half-dome-shelved-refunds-issued/) — album shelved, refunds issued
 [^ref-43]: [Wikipedia – Mystery House](https://en.wikipedia.org/wiki/Mystery_House) — released by On-Line Systems May 5, 1980; "programmed by Ken Williams for the Apple II"
-[^ref-44]: [MobyGames – Hi-Res Adventure #1: Mystery House](https://www.mobygames.com/game/9312/hi-res-adventure-1-mystery-house/) — read via the MobyGames API; first release Apple II, 1980-05-05
+[^ref-44]: [MobyGames – Hi-Res Adventure #1: Mystery House](https://www.mobygames.com/game/9312/hi-res-adventure-1-mystery-house/) — first release Apple II, 1980-05-05
 [^ref-45]: [MobyGames – Mixed-Up Mother Goose](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) — VGA/CD edition; "Lead Programmer (CD-ROM)"; "Composers Ken Allen, Mark Seibert, Amenda Lombardo"
 [^ref-46]: [MobyGames – The Colonel's Bequest (DOS credits)](https://www.mobygames.com/game/461/the-colonels-bequest/credits/dos/) — "Music Ken Allen"; "Sound Ken Allen"
 [^ref-47]: [MobyGames – Space Quest I: Roger Wilco in the Sarien Encounter](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/) — 1991 VGA remake; "Composer Ken Allen"
@@ -247,13 +247,13 @@ In 2013 Allen launched a Kickstarter project titled "Under the Half Dome"; 575 b
 [^ref-54]: [Wikipedia – Where Everybody Knows Your Name](https://en.wikipedia.org/wiki/Where_Everybody_Knows_Your_Name) — Cheers theme "written by Portnoy and Judy Hart-Angelo"
 [^ref-55]: [MobyGames – Roberta Williams' Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/) — music by Mark Seibert and Jay D. Usher; "Additional Music Victor Crews, Neal Grandstaff"
 [^ref-56]: [MobyGames – King's Quest V (credits)](https://www.mobygames.com/game/130/kings-quest-v-absence-makes-the-heart-go-yonder/credits) — "Composers Ken Allen, Mark Seibert"
-[^ref-57]: [MobyGames – Space Quest V: The Next Mutation (specs)](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993) sound: AdLib, General MIDI, MT-32, Tandy / PCjr and others (read via the MobyGames API, checked 2026-10-26)
-[^ref-58]: [MobyGames – King's Quest VI: Heir Today, Gone Tomorrow (specs)](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/specs/) — DOS (1992) sound: AdLib, General MIDI, MT-32 and others (read via the MobyGames API, checked 2026-10-26)
+[^ref-57]: [MobyGames – Space Quest V: The Next Mutation (specs)](https://www.mobygames.com/game/144/space-quest-v-the-next-mutation/specs/) — DOS (1993) sound: AdLib, General MIDI, MT-32, Tandy / PCjr and others
+[^ref-58]: [MobyGames – King's Quest VI: Heir Today, Gone Tomorrow (specs)](https://www.mobygames.com/game/131/kings-quest-vi-heir-today-gone-tomorrow/specs/) — DOS (1992) sound: AdLib, General MIDI, MT-32 and others
 [^ref-59]: [MobyGames – The Beast Within: A Gabriel Knight Mystery credits (DOS), Wayback February 2025](https://web.archive.org/web/20250214133442/https://www.mobygames.com/game/118/the-beast-within-a-gabriel-knight-mystery/credits/dos/) — "Main Themes Composed by Robert Holmes"; "Additional Orchestration and Arrangement by Jay D. Usher"
 [^ref-60]: [Xeen Music – Space Quest IV: Roger Wilco and the Time Rippers Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/space-quest-iv-roger-wilco-and-the-time-rippers-soundtrack-sc-55) — "by Ken Allen, Rob Atesalp, Mark Seibert, Bob Siebenberg, released 22 October 2025"
 [^ref-62]: [Wikipedia – Quest for Glory IV: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory_IV:_Shadows_of_Darkness) — composer Aubrey Hodges; "a largely original sound track by Aubrey Hodges"
 [^ref-63]: [Al Lowe – Music from Freddy Pharkas](https://allowe.com/games/fpfp/music-freddy.html) — "All the rest of the rather extensive musical score was written by Aubrey Hodges"
 [^ref-64]: [Wikipedia – Chance Thomas](https://en.wikipedia.org/wiki/Chance_Thomas) — Sierra "looking for a full-time composer" in 1996; Quest for Glory V: Dragon Fire
-[^ref-65]: [GameSpot – King's Quest Inspires Tune](https://www.gamespot.com/articles/kings-quest-inspires-tune/1100-2446807/) — Daventry Suite "a musical tribute to composers Kevin Manthei, Ben Houge, and Mark Seibert for their excellent soundtrack" (read via ScraperAPI)
+[^ref-65]: [GameSpot – King's Quest Inspires Tune](https://www.gamespot.com/articles/kings-quest-inspires-tune/1100-2446807/) — Daventry Suite "a musical tribute to composers Kevin Manthei, Ben Houge, and Mark Seibert for their excellent soundtrack"
 [^ref-66]: [Wikipedia – The Dagger of Amon Ra](https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra) — composers listed: Chris Braymen, Mark Seibert
 [^ref-67]: [VGMrips – Leisure Suit Larry 5 (IBM PC/AT, YM3812)](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) — composers listed: Al Lowe, Chris Braymen, Craig Safan
