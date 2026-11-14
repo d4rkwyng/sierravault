@@ -10,14 +10,14 @@ series: Homeworld
 engine: Homeworld 2 Engine
 protagonist: Karan S'jet / Fleet Command
 sierra_lineage: Sierra Published
-last_updated: '2026-11-11'
+last_updated: '2026-11-14'
 composer: [Paul Ruskay]
 description: "Homeworld Remastered Collection is Gearbox Software's 2015 restoration of Relic Entertainment's space real-time strategy games Homeworld and Homeworld 2, released on February 25, 2015 alongside the original Classic versions."
 tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld Remastered Collection
 
-<small style="color: gray">Last updated: November 11, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -405,7 +405,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-65]: [Steam Community Guide – Homeworld Remastered Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=402082412) – mission-by-mission strategy notes including Diamond Shoals difficulty assessment; user comment on adaptive-difficulty crash
 [^ref-66]: [Homeworld Universe – Homeworld Remastered Collection Is Coming to Epic Games Store](https://www.homeworlduniverse.com/homeworld-remastered-collection-is-coming-to-epic-games-store-egs/) – Epic Games Store release July 27, 2023
 [^ref-67]: [TechSpot – Homeworld Remastered Benchmarked (archived)](https://web.archive.org/web/20150309224831/http://www.techspot.com/review/970-homeworld-remastered-benchmarks/) – "winning both IGN and PC Gamer's game of the year award in 1999"
-[^ref-68]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – Steam store listing; publishers currently listed as "Gearbox Publishing, Aspyr (Mac), 2K" (checked October 26, 2026)
+[^ref-68]: [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/) – Steam store listing; publishers currently listed as "Gearbox Publishing, Aspyr (Mac), 2K" (as of November 2026)
 [^ref-69]: [GameSpy – Developer Origins: Relic (Wayback, June 2007)](https://web.archive.org/web/20070609133126/http://www.gamespy.com/articles/697/697083p6.html) – Alex Garden: "Relic was founded in May of 1997 by Alex Garden, Luke Moloney, Erin Daly, Aaron Kambeitz, Rob Cunningham, Gary Shaw, and Shane Alfreds"
 [^ref-70]: [MobyGames – Relic Entertainment Inc (Wayback, April 2023)](https://web.archive.org/web/20230424154622/https://www.mobygames.com/company/278/relic-entertainment-inc/) – company 278: "founded in May of 1997" with all seven founders named
 [^ref-71]: [Wikipedia – Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) – Vaygr and Makaan story premise, Vaygr/Hiigaran ship differences, September 16, 2003 North American release
