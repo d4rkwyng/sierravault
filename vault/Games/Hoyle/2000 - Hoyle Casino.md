@@ -2,7 +2,7 @@
 title: Hoyle Casino 2001
 release_year: 2000
 developer: Sierra On-Line, Inc.
-designer: []
+designer: [Paul Horn, Julian Love, Robert L. Jerauld, Rabih AbouJaoudé, Michael Katz]
 publisher: Sierra On-Line, Inc.
 genre: Casino
 platforms: [Windows, Mac, Sega Dreamcast, Game Boy Color]
@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 composer: [Evan Schiller]
 description: The October 2000 edition of Sierra's Hoyle Casino, sold at retail as
   Hoyle Casino 2001 for Windows and Macintosh, with Dreamcast and Game Boy Color versions
@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2001
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ Alongside the Windows and Macintosh release, Sierra brought the game to the Sega
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-3]
-> **Designer:** [[Rabih AbouJaoudé]] (Designer and Lead Artist, Macintosh version; Lead Artist, Dreamcast version), among other credited team members[^ref-33][^ref-34]
+> **Designer:** Paul Horn, Julian Love, Robert L. Jerauld, [[Rabih AbouJaoudé]], Michael Katz (Macintosh credits; Love and AbouJaoudé were also lead artists on the Dreamcast version)[^ref-33][^ref-34]
 > **Publisher:** Sierra On-Line, Inc. (Sierra Attractions label)[^ref-3][^ref-22]
 > **Platforms:** Windows, Macintosh, Sega Dreamcast, Game Boy Color[^ref-3][^ref-6]
 > **Release Year:** 2000[^ref-10]
@@ -250,7 +250,7 @@ Sierra released further yearly editions of Hoyle Casino, beginning with [[2001 -
 ## References
 
 [^ref-1]: [Internet Archive – Hoyle Casino (2000)(U)](https://archive.org/details/Hoyle_Casino_2000_U) – scan of the Sega Dreamcast instruction manual: game list, 1–4 players, Jump Pack and memory card use
-[^ref-3]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) – development credits, technical specifications, voice cast, ratings, Dreamcast product codes (read via the MobyGames API; the 74% critic average with 8 ratings comes from the MobyGames website page, which the API does not return); caveat: the Windows/Mac release record lists ASIN B00001KRTG and UPC 020626707572, the earlier 70757 product, so the entry may merge Hoyle Casino 4 (1999) with this edition
+[^ref-3]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) – development credits, technical specifications, voice cast, ratings, Dreamcast product codes, critic average 74% (8 ratings); caveat: the Windows/Mac release record lists ASIN B00001KRTG and UPC 020626707572, the earlier 70757 product, so the entry may merge Hoyle Casino 4 (1999) with this edition
 [^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series overview, list of editions, 2000 edition platforms, Encore after 2005
 [^ref-6]: [MobyGames – Hoyle Casino (Game Boy Color)](https://www.mobygames.com/game/43644/hoyle-casino/) – GBC version details, developer, ratings
 [^ref-7]: [IGN – Hoyle Casino Dreamcast Review](https://www.ign.com/articles/2000/10/10/hoyle-casino-3) – detailed review, score, gameplay critique
@@ -265,9 +265,9 @@ Sierra released further yearly editions of Hoyle Casino, beginning with [[2001 -
 [^ref-26]: [GameSpot – Sims still dominating sales charts](https://www.gamespot.com/articles/sims-still-dominating-sales-charts/1100-2691294/) – PC Data top ten for February 11–17, 2001: Hoyle Casino 2001 (Havas Interactive) at #5 ([archived 2019](https://web.archive.org/web/20190716021719/https://www.gamespot.com/articles/sims-still-dominating-sales-charts/1100-2691294/))
 [^ref-27]: [Sierra Chest – Hoyle Casino 5: Packaging & content](https://sierrachest.com/index.php?a=games&id=809&title=hoyle-casino-5&fld=box) – PC/Mac CD-ROM, US, version 1.0.0.0, Box ID 3107, UPC-A 0-20626-70986-6
 [^ref-28]: [Internet Archive – Hoyle Casino (Game Boy Color) Manual](https://archive.org/details/Hoyle_Casino_GBC_Manual_cbz) – scan of the Game Boy Color instruction manual: © 2000 Sierra On-Line, Sierra Attractions, ESRB Everyone, Game Link Cable games
-[^ref-29]: [GameFAQs – Hoyle Casino (Dreamcast) release data](https://gamefaqs.gamespot.com/dreamcast/577923-hoyle-casino/data) – Dreamcast US 10/03/00, Sierra Entertainment, T-11008N, barcode 020626710763, developer Pulsar Interactive; Game Boy Color US 10/24/00 (read via ScraperAPI)
-[^ref-30]: [GameFAQs – Hoyle Casino 2001 (PC) release data](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001/data) – retail name Hoyle Casino 2001; EU 11/03/00 and US 11/14/00, Sierra Entertainment, rated E (read via ScraperAPI)
+[^ref-29]: [GameFAQs – Hoyle Casino (Dreamcast) release data](https://gamefaqs.gamespot.com/dreamcast/577923-hoyle-casino/data) – Dreamcast US 10/03/00, Sierra Entertainment, T-11008N, barcode 020626710763, developer Pulsar Interactive; Game Boy Color US 10/24/00
+[^ref-30]: [GameFAQs – Hoyle Casino 2001 (PC) release data](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001/data) – retail name Hoyle Casino 2001; EU 11/03/00 and US 11/14/00, Sierra Entertainment, rated E
 [^ref-31]: [HonestGamers – Hoyle Casino (Dreamcast)](http://www.honestgamers.com/1277/dreamcast/hoyle-casino/game.html) – developer Sierra, also on Game Boy Color, North America September 29, 2000, IGN 8.8/10
-[^ref-32]: [GameFAQs – Hoyle Casino (Dreamcast) user review "So bad, it's good" by JPeeples](https://gamefaqs.gamespot.com/dreamcast/577923-hoyle-casino/reviews/21475) – user review (08/04/2001): card suits hard to tell apart, pre-made characters with differing bankrolls (read via ScraperAPI)
-[^ref-33]: [MobyGames – Hoyle Casino (Macintosh, 2000) Credits](https://www.mobygames.com/game/2686/hoyle-casino/credits/macintosh/) – Designers: Paul Horn, Julian Love, Robert L. Jerauld, Rabih AbouJaoudé, Michael Katz; Lead Artists: Julian Love, Rabih AbouJaoudé (read via ScraperAPI)
-[^ref-34]: [MobyGames – Hoyle Casino (Dreamcast, 2000) Credits](https://www.mobygames.com/game/2686/hoyle-casino/credits/dreamcast/) – Lead Artists: Julian Love, Rabih AbouJaoudé (read via ScraperAPI)
+[^ref-32]: [GameFAQs – Hoyle Casino (Dreamcast) user review "So bad, it's good" by JPeeples](https://gamefaqs.gamespot.com/dreamcast/577923-hoyle-casino/reviews/21475) – user review (08/04/2001): card suits hard to tell apart, pre-made characters with differing bankrolls
+[^ref-33]: [MobyGames – Hoyle Casino (Macintosh, 2000) Credits](https://www.mobygames.com/game/2686/hoyle-casino/credits/macintosh/) – Designers: Paul Horn, Julian Love, Robert L. Jerauld, Rabih AbouJaoudé, Michael Katz; Lead Artists: Julian Love, Rabih AbouJaoudé
+[^ref-34]: [MobyGames – Hoyle Casino (Dreamcast, 2000) Credits](https://www.mobygames.com/game/2686/hoyle-casino/credits/dreamcast/) – Lead Artists: Julian Love, Rabih AbouJaoudé
