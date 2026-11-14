@@ -285,7 +285,7 @@ Three patterns characterize this period:
 [^ref-20]: [Wikipedia — Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) — Magna Cum Laude introduced Larry Lovage; Assemble Entertainment released Wet Dreams Don't Dry (2018) and Wet Dreams Dry Twice (2020)
 [^ref-21]: [Steam — Leisure Suit Larry: Wet Dreams Dry Twice (Wayback, October 9, 2026)](http://web.archive.org/web/20261009060112/https://store.steampowered.com/app/1373430/Leisure_Suit_Larry__Wet_Dreams_Dry_Twice/) — developer CrazyBunch, publisher Assemble Entertainment, released "Oct 23, 2020"; store page delisted October 23, 2026
 [^ref-22]: [Steam — Mage's Initiation: Reign of the Elements](https://store.steampowered.com/app/270610/) — developer and publisher Himalaya Studios; "Jan 30, 2019"
-[^ref-23]: [Steam — TRIBES 3: Rivals](https://store.steampowered.com/app/2687970/) — developer and publisher Prophecy Games; "Mar 12, 2024"; still listed as an Early Access game (checked October 26, 2026)
+[^ref-23]: [Steam — TRIBES 3: Rivals](https://store.steampowered.com/app/2687970/) — developer and publisher Prophecy Games; "Mar 12, 2024"; still listed as an Early Access game (as of October 26, 2026)
 [^ref-24]: [Wikipedia — Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) — "InstantAction sold the Tribes IP to Hi-Rez Studios in October 2010"; Hi-Rez spun off Prophecy Games by early 2020
 [^ref-25]: [Steam — SpaceVenture](https://store.steampowered.com/app/1374960/) — developer Guys from Andromeda; "Early Access Release Date: Apr 1, 2025"; "Release Date: Dec 23, 2025"
 [^ref-26]: [Steam — Warhammer 40,000: Dawn of War - Definitive Edition](https://store.steampowered.com/app/3556750/) — developer Relic Entertainment; "Aug 14, 2025"

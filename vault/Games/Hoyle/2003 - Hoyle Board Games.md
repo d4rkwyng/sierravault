@@ -103,7 +103,7 @@ Modern coverage of Hoyle Board Games 2003 is limited, with several major gaming 
 - **GameFAQs:** "Good" rating (4 user ratings)[^ref-6]
 - **IGN:** NR (Not Rated)[^ref-1]
 - **Metacritic:** No critic or user reviews available[^ref-9]
-- **LaunchBox Games Database:** No community rating shown on the game page (checked November 5, 2026)[^ref-7]
+- **LaunchBox Games Database:** No community rating shown on the game page (as of November 5, 2026)[^ref-7]
 
 ## Development
 
