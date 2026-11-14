@@ -10,7 +10,7 @@ series: Standalone
 engine: Custom
 protagonist: Gobbler (Pac-Man-like character)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Gobbler is a Pac-Man clone programmed by Olaf Lubeck and published by
   On-Line Systems for the Apple II in 1981, reportedly withdrawn after five months amid Atari's
   copyright fight with the company.
@@ -18,7 +18,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Gobbler
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ The LaunchBox Games Database community has rated Gobbler at 3.50 out of 5.[^ref-
 
 ### Origins
 
-Gobbler originated when Olaf Lubeck, a researcher in the Computer Research and Applications Division of Los Alamos National Laboratory, responded to On-Line Systems' "Authors Wanted" advertisement, which his wife had spotted.[^ref-3] Ken Williams placed the ad in publications such as Softtalk and InfoWorld, and in it he promised he would "personally be available at any time for technical discussions, helping to debug, brainstorming, etc."[^ref-3]
+Gobbler originated when Olaf Lubeck, a researcher in the Computer Research and Applications Division of Los Alamos National Laboratory, responded to On-Line Systems' "Authors Wanted" advertisement, which his wife had spotted.[^ref-3] Ken Williams placed the ad in publications such as *Softalk* and *InfoWorld*, and in it he promised he would "personally be available at any time for technical discussions, helping to debug, brainstorming, etc."[^ref-3]
 
 Lubeck sent in a floppy disk containing his creations, and Williams, recognizing the potential of a Pac-Man clone, agreed a publishing deal.[^ref-3] According to Retro365, a focus on copyrights was only slowly building at the time, and Ken, like most, "didn't give it too much thought."[^ref-3]
 
@@ -199,7 +199,7 @@ Ken Williams himself was ambivalent. After the judge refused Atari's injunction 
 [^ref-4]: [Retro365 Blog – Gobbler and Cannonball Blitz, clones, Lawsuits, clones](https://retro365.blog/2020/10/10/bits-from-my-personal-collection-cannonball-blitz-clones-lawsuits-clones/) – Cannonball Blitz conceived in Lubeck's spare time at Los Alamos National Labs; Cannonball Blitz "published by On-Line Systems for the Apple II in 1982"; Gobbler sold "just shy of a thousand copies a month"
 [^ref-5]: [Internet Archive – Wozaday Gobbler](https://archive.org/details/wozaday_Gobbler) – "1981 action game developed by Olaf Lubeck and published by On-Line Systems", runs on any Apple II with 48K
 [^ref-6]: [MyAbandonware – Gobbler](https://www.myabandonware.com/game/gobbler-7nh) – game preservation, download availability
-[^ref-7]: [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/) – released 1981 on Apple II by On-Line Systems; keyboard or analog joystick; 48 KB; 5.25" floppy disk (read via the MobyGames API)
+[^ref-7]: [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/) – released 1981 on Apple II by On-Line Systems; keyboard or analog joystick; 48 KB; 5.25" floppy disk
 
 [^ref-8]: [VirtualApple – Gobbler](https://www.virtualapple.org/gobblerdisk.html) – Apple II emulation, playable version
 

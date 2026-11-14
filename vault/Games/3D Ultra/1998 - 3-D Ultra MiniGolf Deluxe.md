@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: null
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: 3-D Ultra MiniGolf Deluxe (1998) is Dynamix's expanded edition of the 1997
   3-D Ultra MiniGolf, adding nine new holes for 27 in total plus online play.
 tags: [1990s, 3d-ultra, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-11-12T12:00:00-07:00
 ---
 # 3-D Ultra MiniGolf Deluxe
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -86,7 +86,7 @@ Dynamix began a further sequel. According to Sierra Chest, "3D Ultra Minigolf Ad
 
 ### Collections
 
-Sierra Chest lists the game in the compilation "3-D Ultra Pack: Fun & Tilt", in the German "Best of Sierra Nr.11" release, and in the On-Line Games Collection[^ref-31].
+Sierra Chest's entry for the original 3-D Ultra Minigolf lists this Deluxe edition among the releases that include it, alongside "3-D Ultra Pack: Fun & Tilt", the German "Best of Sierra Nr.11" release and the On-Line Games Collection[^ref-31].
 
 Deluxe itself is no longer sold. It survives through preservation sites such as MyAbandonware[^ref-19] and the Internet Archive[^ref-2]. Max Laumeister's tribute page later recommended a modernized Windows port from Zomb's Lair as the way to play it on current systems[^ref-12].
 

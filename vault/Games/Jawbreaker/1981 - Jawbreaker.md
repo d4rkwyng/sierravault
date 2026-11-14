@@ -10,14 +10,14 @@ series: Jawbreaker
 engine: Machine Language
 protagonist: Animated Jaws/Teeth
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Jawbreaker is a 1981 maze-chase action game by John Harris for the Atari
   8-bit computers, published by On-Line Systems, later Sierra On-Line.
 tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -215,7 +215,7 @@ Harris was 19, living in a company house on a two-month deadline, when he wrote 
 ## See Also
 
 - Series: Jawbreaker, with [[1982 - Jawbreaker II|Jawbreaker II]]
-- Related On-Line Systems games by John Harris: [[1981 - Gobbler|Gobbler]], [[1981 - Frogger|Frogger]], [[1982 - Mouskattack|Mouskattack]]
+- Related On-Line Systems games: [[1981 - Gobbler|Gobbler]] (Olaf Lubeck), [[1981 - Frogger|Frogger]] (John Harris's Atari port), [[1982 - Mouskattack|Mouskattack]] (John Harris)
 - [[1982 - Jawbreaker II|→ Next: Jawbreaker II]]
 
 ## References
