@@ -279,7 +279,7 @@ The original Homeworld sold over 500,000 copies in its first six months, and deb
 
 After THQ's bankruptcy, Gearbox acquired the Homeworld IP at auction in April 2013 for $1.35 million[^ref-11][^ref-8]. A fan group had attempted to raise funds via IndieGogo to acquire the franchise but only collected $13,000[^ref-9].
 
-Homeworld 3's Fig crowdfunding campaign set a symbolic $1 goal and raised over $1.13 million, reaching "100,000,000% complete"[^ref-51]. The sequel was described as "20 years in the making"[^ref-33].
+Homeworld 3's Fig crowdfunding campaign set a symbolic $1 goal; by late September 2019 it had raised over $1.13 million and was "100,000,000% complete"[^ref-51]. The campaign stayed open, and it eventually raised over $1.5 million from more than 8,400 backers[^ref-74]. The sequel was described as "20 years in the making"[^ref-33].
 
 ### Collections
 
@@ -411,3 +411,4 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-71]: [Wikipedia – Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) – Vaygr and Makaan story premise, Vaygr/Hiigaran ship differences, September 16, 2003 North American release
 [^ref-72]: [Arinn Dembo – Early Games (Wayback, December 2016)](https://web.archive.org/web/20161207052509/http://arinndembo.com/early-games/) – Dembo on her and Martin Cirulis's roles; joint "Marcus Skyler" credit
 [^ref-73]: [Game Critics Awards – 1998 Winners](http://www.gamecriticsawards.com/1998winners.html) – Homeworld won Most Promising New Game and Best Real-Time Strategy Game
+[^ref-74]: [GamesIndustry.biz – Embracer's Gearbox acquisition appears to have blocked Homeworld 3's Fig investment scheme](https://www.gamesindustry.biz/articles/2021-06-08-embracers-gearbox-acquisition-appears-to-have-blocked-homeworld-3s-fig-investment-scheme) – June 8, 2021; "It raised over $1.5 million from more than 8,400 backers."
