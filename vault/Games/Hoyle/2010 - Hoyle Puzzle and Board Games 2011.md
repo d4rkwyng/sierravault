@@ -10,18 +10,18 @@ series: Hoyle
 engine: null
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Hoyle Puzzle and Board Games 2011 is a compilation of 30 board, card,
  word and puzzle games released by Encore Software for Windows and Mac in August 2010.
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle and Board Games 2011 is a compilation of classic board, card, word and puzzle games released by Encore Software for Windows and Macintosh.[^ref-2][^ref-3][^ref-23] Despite its "2011" branding, it was released in August 2010 in North America and November 2010 in PAL regions.[^ref-3][^ref-4] The collection features 30 varieties of games along with a bonus match-3 game called Boonka with over 60 levels; the box copy promised "more games than ever!"[^ref-4][^ref-24]
+Hoyle Puzzle and Board Games 2011 is a compilation of classic board, card, word and puzzle games released by Encore Software for Windows and Macintosh.[^ref-2][^ref-3][^ref-23] Despite its "2011" branding, it was released in August 2010 in North America and November 2010 in Australia.[^ref-3][^ref-4] The collection features 30 varieties of games along with a bonus match-3 game called Boonka with over 60 levels; the box copy promised "more games than ever!"[^ref-4][^ref-24]
 
 The Hoyle series traces its roots back to Sierra On-Line's 1989 release of Hoyle's Official Book of Games, which was named after the 18th century playing card expert Edmond Hoyle.[^ref-7] Some titles in the series used trademarks and designs from the Hoyle brand of playing cards under license from Brown & Bigelow.[^ref-7] Encore Software took over publishing the series from 2005 to 2016, during a period of yearly releases.[^ref-7] The 2011 edition advertises that all games are "designed with rules according to HOYLE, the Official Name in Gaming."[^ref-4][^ref-6]
 
@@ -83,7 +83,7 @@ The same buyer who compared the free trials of the 2011 and 2012 editions counte
 The Hoyle series began in 1989 with Sierra On-Line's Hoyle's Official Book of Games Volume 1.[^ref-7] That original game was designed by [[Warren Schwader]], with music by Rob Atesalp, and used the Sierra Creative Interpreter (SCI) engine.[^ref-7]
 
 ### Production
-By 2010 the Hoyle brand was published by Encore Software, which had taken over the series in 2005.[^ref-7] The Australian retailer Gamesmen lists Encore Software as developer and Mindscape as the PAL publisher, and Blu-ray.com, a user-contributed product database, lists Zoo Games as a publisher; no other listing found names Zoo Games.[^ref-4][^ref-10] No individual development credits for this edition were found. MobyGames credits the preceding "2010" edition, which has a near-identical game list, to Encore Software and Freeverse, Inc.[^ref-26]
+By 2010 the Hoyle brand was published by Encore Software, which had taken over the series in 2005.[^ref-7] The Australian retailer Gamesmen lists Encore Software as developer and Mindscape as the PAL publisher, and Blu-ray.com, a user-contributed product database, lists Zoo Games as a publisher; no other listing found names Zoo Games.[^ref-4][^ref-10] Encore's own product page gives no individual staff credits, but its legal notice reads "Hoyle Puzzle & Board 2011 © 2010 Encore Software, Inc." and adds: "Portions of the content and technology provided by Sierra Entertainment, Inc." It credits Big Bang Brain Games to Freeverse, Inc. (© 2009) and Heartwild Solitaire and Boonka to Sandlot Games Corporation, and says the Hoyle trademarks belong to The U.S. Playing Card Company and are used under license.[^ref-27] MobyGames credits the preceding "2010" edition, which has a near-identical game list, to Encore Software and Freeverse, Inc.[^ref-26]
 
 ### Technical Achievements
 The retail release came on a hybrid Mac/PC install disc, and the Mac version is a Universal Binary.[^ref-2] An Australian retail listing describes the manual as supplied on the disc rather than as a printed booklet.[^ref-9]
@@ -225,3 +225,4 @@ The game is also listed in IGDB.[^ref-14]
 [^ref-24]: [Newegg – Hoyle Puzzle & Board Games 2011](https://www.newegg.com/encore-software-hoyle-puzzle-board-games-2011/p/N82E16832196553) – US retail system requirements, Boonka, product description, first listed August 18, 2010
 [^ref-25]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/) – release date January 30, 2020 on the store page, September 15, 2020 in Steam's data feed (checked November 2026); Encore Software LLC publisher, webfoot developer
 [^ref-26]: [MobyGames – Hoyle Puzzle & Board Games (2009)](https://www.mobygames.com/game/236680/hoyle-puzzle-board-games/) – the preceding "2010" edition: Encore/Freeverse developer credit and game list
+[^ref-27]: [Encore Software – Hoyle Puzzle & Board Games 2011 product page (Wayback Machine, November 2012)](http://web.archive.org/web/20121113191025/http://www.encore.com/p-66-hoyle-puzzle-board-games-2011.aspx) – publisher product page; legal notice with copyright, licence and component credits
