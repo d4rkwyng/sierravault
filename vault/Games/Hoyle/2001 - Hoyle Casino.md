@@ -10,13 +10,13 @@ series: Hoyle Casino
 engine: null
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Hoyle Casino 2002 (Hoyle Casino 6), the sixth Hoyle Casino edition, released by Sierra in 2001 as a hybrid PC/Mac CD-ROM with fourteen casino games, new Baccarat and Video Blackjack, and Palm video poker.
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2002
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -187,7 +187,7 @@ No fan projects have been documented for this edition.
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- Not sold on GOG or Steam (checked November 2026)
+- As of November 2026, not sold on GOG or Steam
 
 **Download / Preservation**
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6)
@@ -280,6 +280,6 @@ No fan projects have been documented for this edition.
 [^ref-27]: [Sierra Chest – Hoyle Casino 6: Music](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6&fld=music) – intro from Hoyle Casino 5; Video Slots songs from Hoyle Casino 4
 [^ref-28]: [MobyGames – Hoyle Casino (2001) Windows credits](https://www.mobygames.com/game/72735/hoyle-casino/credits/windows/) – composers, sound engineer, voice synchronisation (LIPSinc), ten voice actors
 [^ref-29]: [Sierra – Hoyle Casino product page (Wayback, Dec 13, 2001)](https://web.archive.org/web/20011213234503/http://www.hoylegames.com/hoylecasino_casino.html) – 14 casino games, new Baccarat and Video Blackjack, up to four people on one computer, "Internet play is not available for Macintosh", 100MB hard disk space (PC and Mac)
-[^ref-30]: [Amazon.com – Hoyle Casino 2002 - PC/Mac](https://www.amazon.com/dp/B00005MJ9H) – release date September 25, 2001, date first available June 26, 2001, 2.5/5 from 22 ratings (read 2026-11-06)
+[^ref-30]: [Amazon.com – Hoyle Casino 2002 - PC/Mac](https://www.amazon.com/dp/B00005MJ9H) – release date September 25, 2001, date first available June 26, 2001, 2.5/5 from 22 ratings (as of November 6, 2026)
 [^ref-31]: [Sierra – Hoyle home page (Wayback, Mar 30, 2002)](https://web.archive.org/web/20020330042406/http://hoyle.sierra.com/) – Hoyle Casino listing of 14 games including Baccarat and Video Blackjack; © 2002 Sierra Entertainment, Inc.
 [^ref-32]: [WorthPlaying – Sierra Goes 'Hoyle' Crazy](https://worthplaying.com/article/2002/4/15/news/3235-sierra-goes-hoyle-crazy/) – April 15, 2002 announcement; Palm video poker variations (Crawdad, Jack's Back, Wild Thing, Wild Party), Baccarat and Video Blackjack marked NEW, new Poker Tournaments; its "Available: May 31st 2002" is the announced date for this wave and is not used as the release date
