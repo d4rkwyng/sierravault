@@ -61,7 +61,7 @@ Because `content/` is gitignored, two Quartz behaviors have to be neutralized so
 node sanitize-frontmatter.mjs content/ quarantine
 ```
 
-Dedupes and quarantines bad YAML frontmatter before the build. Malformed or duplicate-keyed frontmatter can crash the parse or silently drop pages; anything unfixable is moved to `quarantine/` so the build proceeds cleanly rather than failing on one bad file.
+Dedupes and quarantines bad YAML frontmatter before the build. Malformed or duplicate-keyed frontmatter can crash the parse or silently drop pages; anything unfixable is moved to `quarantine/`. If anything was quarantined the script then exits 3 and the build fails, so a page with broken frontmatter stops the deploy instead of silently disappearing from the site (set `SANITIZE_ALLOW_QUARANTINE=1` to build without it). Before this step `build.sh` also runs the guard tests (`node --test src/*.test.mjs`), so a failing test fails the build too.
 
 ### 3. `prefix-year.mjs`
 

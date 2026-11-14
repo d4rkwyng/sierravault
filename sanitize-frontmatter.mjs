@@ -2,7 +2,9 @@
 // Sanitize markdown frontmatter before Quartz build.
 // - Dedupes duplicate top-level YAML keys (keeps the last value)
 // - Quarantines files whose frontmatter is still unparseable
-// Always exits 0 so the build proceeds.
+// Exits 3 if any page was quarantined, so build.sh (set -e) fails instead of
+// shipping a site with that page silently missing. Set
+// SANITIZE_ALLOW_QUARANTINE=1 to quarantine and carry on (old behaviour).
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -73,3 +75,7 @@ for (const entry of fs.readdirSync(quarantineDir, { withFileTypes: true })) {
 
 walk(contentDir, contentDir);
 console.log(`sanitize: fixed=${fixed} quarantined=${quarantined}`);
+if (quarantined > 0 && process.env.SANITIZE_ALLOW_QUARANTINE !== '1') {
+  console.error(`ERROR: ${quarantined} page(s) have unparseable frontmatter and would be dropped from the site (see QUARANTINED lines above). Fix the YAML, or set SANITIZE_ALLOW_QUARANTINE=1 to build without them.`);
+  process.exit(3);
+}

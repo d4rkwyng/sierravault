@@ -7,8 +7,14 @@ VAULT_SRC="${VAULT_SRC:-vault}"
 # emitting, so building straight into the served public/ 404'd the mirror for ~1 min.
 export QUARTZ_OUT="${QUARTZ_OUT:-public}"
 
+# Fail before building if a guard test fails (vault frontmatter hazards, edge
+# redirector slugs); a broken page should stop the deploy, not ship quietly.
+# ~1s. Explicit file glob: works on every Node >=18 test runner.
+node --test src/*.test.mjs
+
 rm -rf content; mkdir content; cp -R "$VAULT_SRC"/. content/; rm -rf content/.obsidian
 mkdir -p quarantine
+# Exits non-zero (failing the build) if any page had to be quarantined.
 node sanitize-frontmatter.mjs content/ quarantine
 
 # Prepend the release year to game titles so the nav shows/sorts by year

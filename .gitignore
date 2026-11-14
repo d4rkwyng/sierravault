@@ -80,6 +80,9 @@ tsconfig.tsbuildinfo
 
 # mirror-rebuild.sh debounce timestamp
 .last-build
+# mirror-rebuild.sh retry state: last commit built OK, last failed commit + time
+.last-good-sha
+.last-failed
 # mirror-rebuild.sh releases (public is a symlink to one)
 releases/
 public.tmp
