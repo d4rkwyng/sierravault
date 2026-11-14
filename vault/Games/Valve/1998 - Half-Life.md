@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Gordon Freeman
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 composer: [Kelly Bailey]
 description: "Half-Life is a science fiction first-person shooter developed by Valve Corporation and published by Sierra Studios, released on November 19, 1998 for Microsoft Windows."
 tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -25,7 +25,7 @@ Half-Life is a science fiction first-person shooter developed by Valve Corporati
 
 The game was widely considered revolutionary for its time, eschewing conventional cutscenes in favor of advancing its narrative through player-perspective scripted sequences that never removed control from the player[^ref-1]. As Valve president Gabe Newell explained, "Half-Life in many ways was a reactionary response to the trivialization of the experience of the first-person genre. Many of us had fallen in love with video games because of the phenomenological possibilities of the field and felt like the industry was reducing the experiences to least common denominators rather than exploring those possibilities. Our hope was that building worlds and characters would be more compelling than building shooting galleries"[^ref-1].
 
-Half-Life sold more than nine million copies by 2008, earning recognition in the Guinness Book of World Records as the "Best-Selling First-Person Shooter of All Time" on PC[^ref-5]. The game's success enabled Valve to develop Steam, the world's dominant digital distribution platform, and cemented the Half-Life series as one of gaming's most celebrated franchises. Its impact extended beyond commercial success—Half-Life popularized the WASD key configuration that became standard in PC gaming and demonstrated that story could be integrated seamlessly into action gameplay[^ref-1].
+Half-Life sold more than nine million copies by 2008[^ref-1], earning recognition in the Guinness Book of World Records as the "Best-Selling First-Person Shooter of All Time" on PC[^ref-5]. The game's success enabled Valve to develop Steam, the world's dominant digital distribution platform, and cemented the Half-Life series as one of gaming's most celebrated franchises. Its impact extended beyond commercial success—Half-Life was one of the first games to bind WASD to movement by default[^ref-13] and demonstrated that story could be integrated seamlessly into action gameplay[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]
@@ -123,7 +123,7 @@ Newell approached id Software's John Romero, who helped connect Valve with the Q
 
 Development proved tumultuous. Valve assembled a team by recruiting talented modders from the Doom and Quake communities, bringing in fresh perspectives from outside traditional game industry channels[^ref-34]. Writer Marc Laidlaw joined in July 1997, originally expecting "a couple weeks of work" before transitioning to a science fantasy project called *Prospero*, but Half-Life became "an irresistible force" that absorbed the team's complete attention[^ref-35].
 
-Valve's initial target release date was November 1997[^ref-36][^ref-1]. By late September 1997, nearing the end of that original schedule, internal playtesting revealed a critical problem. As senior designer Ken Birdwell bluntly stated, "the game wasn't any fun"[^ref-36]. Filfre reports that Half-Life had "walked away" from the June 1997 E3 show with the title of "Best Action Game"[^ref-34] (the Game Critics Awards for "Best PC Game" and "Best Action Game" are dated to the revised build shown at E3 1998 by Wikipedia[^ref-1]), playtesters deemed the game merely "just OK," and Monica Harrington recognized that "if Valve shipped the game we had, it would launch and quietly disappear, and all of the work we'd all done would account for nothing"[^ref-32].
+Valve's initial target release date was November 1997[^ref-36][^ref-1]. By late September 1997, nearing the end of that original schedule, internal playtesting revealed a critical problem. As senior designer Ken Birdwell bluntly stated, "the game wasn't any fun"[^ref-36]. Filfre reports that Half-Life had "walked away" from the June 1997 E3 show with the title of "Best Action Game"[^ref-34] (the Game Critics Awards for "Best PC Game" and "Best Action Game" are dated to the revised build shown at E3 1998 by Wikipedia[^ref-1]). Playtesters deemed the game merely "just OK," and Monica Harrington recognized that "if Valve shipped the game we had, it would launch and quietly disappear, and all of the work we'd all done would account for nothing"[^ref-32].
 
 Rather than ship a mediocre product, Newell made the controversial decision to scrap the existing game and start over, famously declaring "Late is just for a little while. Suck is forever"[^ref-34]. Sierra refused to invest additional funds, so Valve continued on Newell's own money[^ref-32]. This second pass utilized knowledge gained from the failed first attempt: a small group built a prototype level containing every element of the game, which Birdwell described as "Die Hard meets Evil Dead"; as he put it, "It was the vision. It was going to be our game"[^ref-36][^ref-1].
 
@@ -282,7 +282,7 @@ Half-Life spawned an extraordinarily active modding community, facilitated by Va
 
 **Black Mesa** represents the most ambitious fan project—a complete ground-up remake using the Source engine that took over fourteen years to complete. As project lead Adam Engels reflected, "If…in 2006 someone said to me 'This will be difficult. You will consider quitting multiple times, and it is going to take you at least 14 years to complete,' I am not sure I would have signed up for that"[^ref-55]. WIRED called it "the most compelling game in Half-Life's mold to come out in years"[^ref-55].
 
-**Operation: Black Mesa** by Tripmine Studios is currently in development, promising to remake both Half-Life: Opposing Force and Blue Shift expansions using the Source engine with over 30 unique enemies, 18 weapons, and expanded story content[^ref-59].
+**Operation: Black Mesa** by Tripmine Studios was in development as of December 2024, promising to remake both Half-Life: Opposing Force and Blue Shift expansions using the Source engine with over 30 unique enemies, 18 weapons, and expanded story content[^ref-59].
 
 The community has also produced comedic content including "Freeman's Mind" and "Half-Life VR but the AI is Self-Aware," demonstrating the game's lasting cultural relevance[^ref-60].
 
@@ -387,8 +387,8 @@ Yet Half-Life's legacy extends beyond design influence to its role in establishi
 [^ref-70]: [Wikipedia – Kelly Bailey (composer)](https://en.wikipedia.org/wiki/Kelly_Bailey_(composer)) – discography: Half-Life, Half-Life 2, Episode One, Episode Two
 [^ref-71]: [Metacritic – Half-Life](https://www.metacritic.com/game/half-life/) – Metascore 96 (PC, 24 critic reviews), 87 (PS2)
 [^ref-72]: [GameFAQs – Half-Life Release Information for PC](https://gamefaqs.gamespot.com/pc/43362-half-life/data) – Game of the Year Edition US 06/28/99; Best Seller Series EU 11/02/01
-[^ref-73]: [MobyGames – Half-Life: Game of the Year Edition](https://www.mobygames.com/game/2728/half-life-game-of-the-year-edition/) – read via the MobyGames API; contents include Team Fortress Classic
-[^ref-74]: [MobyGames – Half-Life: Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – read via the MobyGames API; 2002, contents list, UK/Brazilian title Half-Life: Generation
+[^ref-73]: [MobyGames – Half-Life: Game of the Year Edition](https://www.mobygames.com/game/2728/half-life-game-of-the-year-edition/) – contents include Team Fortress Classic
+[^ref-74]: [MobyGames – Half-Life: Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – 2002, contents list, UK/Brazilian title Half-Life: Generation
 [^ref-75]: Jeff Green. [Computer Gaming World – Half-Life review (via GameSpot, Wayback)](https://web.archive.org/web/20020209221334/http://www.gamespot.com/action/halflif/review_cgw.html) – "one of the best games of any year, an instant classic"
 [^ref-76]: [Academy of Interactive Arts & Sciences – Interactive Achievement Awards winners (Wayback, 1999)](https://web.archive.org/web/19990909080737/http://www.interactive.org:80/iaa/99winners.html) – personal computer category: Action Game of the Year and Computer Game of the Year, Half-Life, Sierra Studios/Valve
 [^ref-77]: [Academy of Interactive Arts & Sciences – Half-Life award page (Wayback, 2000)](https://web.archive.org/web/20000306035858/http://www.interactive.org:80/iaa/halflife.html) – Action Game, Half-Life, Sierra Studios/Valve; accepted on behalf of Sierra Studios by Dave Grenewetzki
