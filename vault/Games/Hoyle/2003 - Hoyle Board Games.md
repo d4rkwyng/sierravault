@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-14'
 description: Hoyle Board Games 2003 is Sierra Entertainment's 18-game Hoyle board
   game collection for Windows and Macintosh, released in autumn 2002 with bonus
   Palm OS and Windows CE handheld games.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2003
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 14, 2026</small>
 
 ## Overview
 
@@ -80,7 +80,7 @@ The game was structured around its collection of 18 board games, allowing player
 
 ### Puzzles and Mechanics
 
-Each of the 18 games follows its own ruleset based on its real-world counterpart. Four Sierra-devised games made their Hoyle Board Games debut here, though none was brand new: Wordox, DoubleCross and Word Yacht had appeared in Hoyle Word Games 2002, and Bump 'em in Hoyle Kids' Games 2002.[^ref-19][^ref-25] GameSpot called Wordox and DoubleCross "variations on the old standby Scrabble," said Word Yacht asks players "to assemble words from individual letters, place them into categories, and deal with a constantly ticking timer," and found Bump 'em "more geared to children than adults."[^ref-19] Webster's New World College Dictionary was included in the package.[^ref-2]
+Each of the 18 games follows its own ruleset based on its real-world counterpart. Four games made their Hoyle Board Games debut here, though none was brand new: Wordox, DoubleCross and Word Yacht had appeared in Hoyle Word Games 2002, and Bump 'em in Hoyle Kids' Games 2002.[^ref-19][^ref-25] GameSpot called Wordox and DoubleCross "variations on the old standby Scrabble," said Word Yacht asks players "to assemble words from individual letters, place them into categories, and deal with a constantly ticking timer," and found Bump 'em "more geared to children than adults."[^ref-19] Webster's New World College Dictionary was included in the package.[^ref-2]
 
 Multiplayer options extend beyond solo play, with up to four players on a single computer and free internet play (Windows only; not available for Macintosh).[^ref-6][^ref-20]
 
