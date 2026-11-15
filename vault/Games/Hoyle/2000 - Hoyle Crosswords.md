@@ -10,14 +10,14 @@ series: Hoyle
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: Hoyle Crosswords is a 2000 Windows/Macintosh crossword puzzle game from Sierra
   On-Line's Hoyle line, offering 500 puzzles across five skill levels.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Crosswords
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -82,7 +82,7 @@ The game has received little retrospective attention. MobyGames, GameFAQs, PCGam
 
 ### Origins
 
-Hoyle Crosswords arrived while Sierra was steadily expanding the Hoyle line; Sierra's Hoyle Casino 2000, for example, sold 230,365 units in North America from January through October 2000, according to PC Data[^ref-13]. Sierra's 1998 restructuring had placed the Hoyle license in Sierra Attractions alongside Berkeley Systems' family titles such as You Don't Know Jack[^ref-2][^ref-4]. Sierra itself traced back to On-Line Systems, founded by Ken and Roberta Williams and founded in 1979[^ref-17].
+Hoyle Crosswords arrived while Sierra was steadily expanding the Hoyle line; Sierra's Hoyle Casino 2000, for example, sold 230,365 units in North America from January through October 2000, according to PC Data[^ref-13]. Sierra's 1998 restructuring had placed the Hoyle license in Sierra Attractions alongside Berkeley Systems' family titles such as You Don't Know Jack[^ref-2][^ref-4]. Sierra itself traced back to On-Line Systems, founded by Ken and Roberta Williams in 1979[^ref-17].
 
 The crossword title sat alongside Sierra's other Hoyle word products; GameFAQs lists Hoyle Word Games (1999), Hoyle Word Games 2001 (released 2000) and Hoyle Word Games 2002 (released 2001)[^ref-11].
 
@@ -221,4 +221,4 @@ Sierra published the Hoyle series through 2003, after which Encore took over pub
 
 [^ref-25]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – 1998 split into five sub-brands; Sierra Attractions "for casual games such as poker", composed of Berkeley Systems; label 1998–2001
 
-[^ref-26]: [Game Over Online – The New York Times Crossword Puzzles review](https://www.game-over.com/review/may2000/newyork/index.html) – Nicky Dimes, May 2000; "a little over a month ago when Sierra released their word puzzle title, Hoyle Crosswords"; "Both are budget titles"
+[^ref-26]: [Game Over Online – The New York Times Crossword Puzzles review](http://web.archive.org/web/2012/http://www.game-over.com/review/may2000/newyork/index.html) – Nicky Dimes, May 2000; "a little over a month ago when Sierra released their word puzzle title, Hoyle Crosswords"; "Both are budget titles"
