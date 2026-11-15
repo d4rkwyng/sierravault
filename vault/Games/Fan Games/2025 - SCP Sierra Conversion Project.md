@@ -1,7 +1,7 @@
 ---
 title: SCP - Sierra Conversion Project
 release_year: 2026
-developer: SCP (DaRaSCo, kikems/AmigaWave)
+developer: SCP (DaRaSCo), with kikems (AmigaWave)
 designer: [DaRaSCo, kikems]
 publisher: SCP
 genre: Enhancement
@@ -10,18 +10,18 @@ series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
 protagonist: null
 sierra_lineage: Fan Project
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
 > [!info]- Game Info
-> **Developer:** SCP (DaRaSCo, kikems/AmigaWave)[^ref-1]
+> **Developer:** SCP (DaRaSCo), with kikems (AmigaWave)[^ref-1][^ref-4]
 > **Designer:** DaRaSCo, kikems[^ref-2]
 > **Publisher:** SCP (self-published)[^ref-1]
 > **Engine:** SCI (Enhanced Graphics)[^ref-3][^ref-7]
@@ -96,7 +96,7 @@ The enhancement work centres on graphics replacement. On the English Amiga Board
 
 ### Puzzles and Mechanics
 
-The sources checked describe the SCP releases as graphics work running on the same executable Sierra wrote for the Amiga,[^ref-6] and none of them mentions changes to the puzzles.
+The SCP releases are described as graphics work running on the same executable Sierra wrote for the Amiga,[^ref-6] and no changes to the puzzles have been reported.
 
 ## Development
 
@@ -123,11 +123,11 @@ The project gained international visibility through coverage on IndieRetroNews, 
 
 ### Ongoing Development
 
-On January 5, 2026, the SCP listed Conquests of the Longbow at 90% completion; the Space Quest IV entry on the same list (75%) was completed as the OCS Enhanced release on January 15, 2026.[^ref-2] On February 17, 2026, team member Darasco wrote on the English Amiga Board that "soon when we release Conquest of Longbow, we will also release the graphics injection tool."[^ref-22] No Longbow release turned up in the sources checked as of November 2026.
+On January 5, 2026, the SCP listed Conquests of the Longbow at 90% completion; the Space Quest IV entry on the same list (75%) was completed as the OCS Enhanced release on January 15, 2026.[^ref-2] On February 17, 2026, team member Darasco wrote on the English Amiga Board that "soon when we release Conquest of Longbow, we will also release the graphics injection tool."[^ref-22] As of November 2026, no Longbow release had been reported.
 
 ## Projects in Development
 
-- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — Progress: ~90% (Jan 2026), Notes: Release promised "soon" (Feb 2026); no release found as of Nov 2026[^ref-2][^ref-22]
+- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — Progress: ~90% (Jan 2026), Notes: Release promised "soon" (Feb 2026); no release reported as of Nov 2026[^ref-2][^ref-22]
 
 ## Technical Approach
 
@@ -221,7 +221,7 @@ The SCP releases are complete enhanced builds of the Amiga games rather than pat
 
 [^ref-2]: IndieRetroNews. "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP." 5 January 2026. *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
-[^ref-3]: IndieRetroNews. "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP." Full-release update, 15 January 2026 (same post as ref-1). *(link removed: the page links to downloads of full modified builds of a commercially sold game)* — palette reconstruction for Amiga OCS, original Amiga music with Roland MT-32 MIDI support, the SCI engine's single-palette limit on Amiga, found via the Sierra Gaming World Facebook group. (Replaces a dead amiga.org thread link.)
+[^ref-3]: IndieRetroNews. "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP." Full-release update, 15 January 2026 (same post as ref-1). *(link removed: the page links to downloads of full modified builds of a commercially sold game)* — palette reconstruction for Amiga OCS, original Amiga music with Roland MT-32 MIDI support, the SCI engine's single-palette limit on Amiga, found via the Sierra Gaming World Facebook group.
 
 [^ref-4]: IndieRetroNews. "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster." 4 January 2026. *(link removed: the page links to downloads of full modified builds of a commercially sold game)*
 
