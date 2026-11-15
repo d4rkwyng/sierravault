@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI0
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games Volume 2: Solitaire is a collection of 28
   solitaire card games designed by Warren Schwader and published by Sierra On-Line
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 2: Solitaire
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -56,7 +56,7 @@ The rules for every game appear in the printed manual and on screen, through a p
 
 ### Structure and Progression
 
-The game offers 28 solitaire games.[^ref-1][^ref-2] The included games are:[^ref-1] Slide and Bowling were two entirely new solitaire games that Schwader created for this volume.[^ref-23][^ref-24]
+The game offers 28 solitaire games.[^ref-1][^ref-2] Slide and Bowling were two entirely new solitaire games that Schwader created for this volume.[^ref-23][^ref-24] The included games are:[^ref-1]
 
 - Calculation
 - Strategy
