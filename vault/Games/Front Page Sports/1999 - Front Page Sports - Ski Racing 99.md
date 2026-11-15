@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-created skier
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: 'Front Page Sports: Ski Racing ''99 is the MobyGames listing for DSF
   Ski ''99: Extreme Edition, the 1999 German Windows release of Sierra Sports: Skiing
   1999 Edition, a Dynamix skiing game published by Sierra On-Line.'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing '99
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 > [!note] German-edition stub
 > This page covers the German release, **DSF Ski '99: Extreme Edition**. The game itself is documented in full at **[[1998 - Sierra Sports Skiing 1999 Edition|Sierra Sports: Skiing 1999 Edition]]**. Facts on this page are limited to what sources say about this edition and its parent game.
@@ -56,7 +56,7 @@ Sean Gleason, Sierra Sports' director of marketing, said at launch: "We recogniz
 
 PC Joker (issue 2/99, page 105) found little to like beyond Picabo Street. In translation from the German, its reviewer called the graphics "not pretty" with a 3D card and "downright ugly" without one, and said the sound effects never quite fit what was happening. The magazine credited the well-made controls and the many setup options with keeping it from being a total failure. Because the genre had practically no competition at the time, it said *DSF Ski '99* "can, or must, even be recommended." It scored the game 60%.[^ref-18] The same score appears in PC Joker's own review index the following month and in Kultboy's index of German magazine reviews.[^ref-31][^ref-19]
 
-The English-language reviews of the parent game were mostly negative, and most reviewers saw little change from the 1998 game. PC Gamer US (December 1998) gave it 43% and called it "essentially a patched version of last year's game".[^ref-25] PC Accelerator (January 1999) rated it 3 out of 10 under the subheading "Hey, wasn't this game called Skiing 98?"[^ref-26] IGN's Tal Blevins gave it 2.5 out of 10 ("painful"), writing: "I'd rather lose a toe to frostbite than play this game again."[^ref-24][^ref-27] For Computer Games Strategy Plus, Benjamin E. Sones wrote that the game "could well be the long-lost twin of its 1998 predecessor".[^ref-23] GameRankings lists that review at 0.5 out of 5, and gave a 34.10% aggregate from five reviews.[^ref-27] In the UK, PC Gaming World's Mike Allen said it "looks extremely dated" and "might be fun for competitive skiers with Force Feedback sticks, but it will be unsatisfying for most others."[^ref-28] Gamers' Republic (January 1999) graded it D+, calling it "an utter disappointment" whose 3D engine and lack of polish were "currently well below today's standards".[^ref-33] Gamecenter's Gordon Goble was kinder and gave it 7/10, calling it a "satisfactory Sierra skiing experience, but nothing new." He judged it "little more than a rerelease of Ski Racing."[^ref-20]
+The English-language reviews of the parent game were mostly negative, and most reviewers saw little change from the 1998 game. PC Gamer US (December 1998) gave it 43% and called it "essentially a patched version of last year's game".[^ref-25] PC Accelerator (January 1999) rated it 3 out of 10 under the subheading "Hey, wasn't this game called Skiing 98?"[^ref-26] IGN's Tal Blevins gave it 2.5 out of 10 ("painful"), under the subheadline "I'd rather lose a toe to frostbite than play this game again."[^ref-24][^ref-27] For Computer Games Strategy Plus, Benjamin E. Sones wrote that the game "could well be the long-lost twin of its 1998 predecessor".[^ref-23] GameRankings lists that review at 0.5 out of 5, and gave a 34.10% aggregate from five reviews.[^ref-27] In the UK, PC Gaming World's Mike Allen said it "looks extremely dated" and "might be fun for competitive skiers with Force Feedback sticks, but it will be unsatisfying for most others."[^ref-28] Gamers' Republic (January 1999) graded it D+, calling it "an utter disappointment" whose 3D engine and lack of polish were "currently well below today's standards".[^ref-33] Gamecenter's Gordon Goble was kinder and gave it 7/10, calling it a "satisfactory Sierra skiing experience, but nothing new." He judged it "little more than a rerelease of Ski Racing."[^ref-20]
 
 **Ratings and scores (German edition):**
 - **PC Joker (2/99):** 60%[^ref-18][^ref-19]
@@ -85,7 +85,7 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 ## Purchase
 
-- Not currently sold on Steam; GOG: no listing (checked November 12, 2026).[^ref-12]
+- As of November 12, 2026, not sold on Steam; GOG: no listing.[^ref-12]
 
 ## Patches
 
@@ -112,13 +112,13 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 ## References
 
-[^ref-1]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – developer, publisher, 1999 German release, platform, skiing variants, World Cup slopes, USK rating, specs, alternate title DSF Ski '99: Extreme Edition (read via the MobyGames API)
+[^ref-1]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – developer, publisher, 1999 German release, platform, skiing variants, World Cup slopes, USK rating, specs, alternate title DSF Ski '99: Extreme Edition
 
 [^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – "FPS: Ski Racing 1999 – Ski Racing 1999 (skiup) (ZIP file) [1.9 MB]"
 
-[^ref-12]: No Steam listing found (checked November 12, 2026) – game not available on Steam platform
+[^ref-12]: No Steam listing as of November 12, 2026 – game not available on Steam platform
 
-[^ref-18]: [PC Joker 2/99 (archive.org full text)](https://archive.org/details/PCJoker0299) – p. 105 review "DSF Ski '99 Extreme Edition (Sierra)": Picabo Street, 5 races, up to 8 players in turn, graphics, controls, score 60% (checked against the page scan), USK, price, system requirements
+[^ref-18]: [PC Joker 2/99 (archive.org full text)](https://archive.org/details/PCJoker0299) – p. 105 review "DSF Ski '99 Extreme Edition (Sierra)": Picabo Street, 5 races, up to 8 players in turn, graphics, controls, score 60%, USK, price, system requirements
 
 [^ref-19]: [Kultboy – DSF SKI '99 Extreme Edition](https://www.kultboy.com/testbericht-uebersicht/7565/) – PC Joker 2/99 review, score 60%
 
@@ -132,7 +132,7 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 [^ref-25]: [PC Gamer US – Skiing 1999 Edition (Jason Bates, December 1998, Wayback)](https://web.archive.org/web/20000305055728/http://www.pcgamer.com/reviews/50.html) – Developer: Dynamix; freestyle mode on Mt. Sierra and Mt. Dynamix; P90, 16 MB RAM, quad-speed CD-ROM; "essentially a patched version of last year's game"; final verdict 43%
 
-[^ref-26]: [PC Accelerator #5, January 1999 (archive.org)](https://archive.org/details/PCXL05Jan1999/page/n97) – p. 98 "Skiing 99" (page number read from the printed folio on the scan): "Hey, wasn't this game called Skiing 98?"; Developer Dynamix; P90, 16 MB RAM, 75 MB; rating 3 (checked against the page scan); also calls Mount Dynamix and Mount Sierra "two boring fake slopes"
+[^ref-26]: [PC Accelerator #5, January 1999 (archive.org)](https://archive.org/details/PCXL05Jan1999/page/n97) – p. 98 "Skiing 99": "Hey, wasn't this game called Skiing 98?"; Developer Dynamix; P90, 16 MB RAM, 75 MB; rating 3; also calls Mount Dynamix and Mount Sierra "two boring fake slopes"
 
 [^ref-27]: [GameRankings – Sierra Sports: Skiing 1999 Edition (Wayback, 2019)](https://web.archive.org/web/20190512042742/https://www.gamerankings.com/pc/577416-sierra-sports-skiing-1999-edition/index.html) – 34.10% from 5 reviews; Computer Games Mag 0.5 out of 5; IGN 2.5 out of 10; PC Accelerator 3 out of 10
 
@@ -140,7 +140,7 @@ The English-language reviews of the parent game were mostly negative, and most r
 
 [^ref-29]: [PC Zone #72, January 1999 (archive.org full text)](https://archive.org/details/PC_Zone_72_January_1999) – news "Sierra Get Piste Again": "Sierra's forthcoming Ski Racing Extreme Edition"
 
-[^ref-30]: [InterAction, Holiday 1998 (archive.org full text)](https://archive.org/details/inter-action-issue-37-holiday-1998) – Sierra's magazine: "taking everything from Ski Racing and going to the extreme"; Picabo Street "design team inspiration"; six resorts, seven aerial moves, 5,000 acres; p. 108 catalogue #70576 Win 95 CD $29.95 (checked against the page scan)
+[^ref-30]: [InterAction, Holiday 1998 (archive.org full text)](https://archive.org/details/inter-action-issue-37-holiday-1998) – Sierra's magazine: "taking everything from Ski Racing and going to the extreme"; Picabo Street "design team inspiration"; six resorts, seven aerial moves, 5,000 acres; p. 108 catalogue #70576 Win 95 CD $29.95
 
 [^ref-31]: [PC Joker 3/99 (archive.org full text)](https://archive.org/details/PCJoker0399) – p. 130 review index: "DSF Ski" 5/98 33% and "DSF Ski '99 Extreme Edition" 2/99 60%
 
