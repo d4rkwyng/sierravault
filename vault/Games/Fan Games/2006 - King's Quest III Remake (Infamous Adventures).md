@@ -10,13 +10,13 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: 'King''s Quest III: To Heir Is Human is a free 2006 fan remake of Sierra On-Line''s 1986 adventure, rebuilt by Infamous Adventures in Adventure Game Studio with redrawn graphics, a point-and-click interface, new music and a voice pack.'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -208,4 +208,4 @@ This fan remake reimagines Sierra's original [[1986 - King's Quest III - To Heir
 [^ref-22]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game's plot: Gwydion "the 17-year-old slave of the wizard Manannan", Manannan's rules, pirates, three-headed dragon
 [^ref-23]: [Wayback Machine – Adventure Gamers, "Infamous classic starts an old Quest anew" (June 19, 2006)](https://web.archive.org/web/20120320053935/http://www.adventuregamers.com/newsitem.php?id=1229) – Gunnar Harboe; "Unlike the VGA remakes of the first two games, which were made by Tierra/AGDInteractive, King's Quest III VGA is produced by a team calling themselves Infamous Adventures"; game listing dated June 19, 2006
 [^ref-24]: [Wayback Machine – Adventure Gamers, "King's Quest III VGA updated" (September 6, 2006)](https://web.archive.org/web/20120320053923/http://www.adventuregamers.com/newsitem.php?id=1271) – Luke Jensen; version 2.0 and voice pack; "Chris Skelton providing the voice of Gwydion and Josh Mandel of Sierra fame once again voicing King Graham"
-[^ref-25]: [MobyGames – King's Quest III: To Heir Is Human](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – read via the MobyGames API; Windows, June 19, 2006; "a complete voice pack using a mix of fans and professional actors"; Josh Mandel reprises King Graham; Andy Hoyos voices Manannan
+[^ref-25]: [MobyGames – King's Quest III: To Heir Is Human](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – Windows, June 19, 2006; "a complete voice pack using a mix of fans and professional actors"; Josh Mandel reprises King Graham; Andy Hoyos voices Manannan
