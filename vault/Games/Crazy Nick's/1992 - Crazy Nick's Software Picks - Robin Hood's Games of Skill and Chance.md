@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: Robin Hood
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: 'Crazy Nick''s Software Picks: Robin Hood''s Games of Skill and Chance
   is a 1992 Sierra On-Line budget compilation for DOS that repackages three mini-games
   from Conquests of the Longbow: Archery, Nine Men''s Morris and Sticks.'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -228,5 +228,5 @@ No dedicated hint book or strategy guide is known for this budget release.
 [^ref-25]: [Computer Gaming World #99, October 1992 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_99) – "Taking A Peek" (listed on p. 8 of the contents; the Robin Hood entry lies pp. 12–16 (probably p. 14)): Robin Hood's Games of Skill & Chance entry
 [^ref-26]: [PC Games #17, October 1992 (Internet Archive)](https://archive.org/details/pcgames-issue-17-october-1992) – news item "Software for $9.95" (signed D.M.), p. 14: lineup, one 3.5" low-density disk, EGA/VGA, 286 and 640K minimum
 [^ref-27]: [Game Players PC Entertainment Vol. 5 No. 4, 1992 (Internet Archive)](https://archive.org/details/GPPCEVol5No4) – news column, Sierra item: $9.95 Nick's Picks "on shelves now", five packs named; cover marked "Display Until September 8, 1992"
-[^ref-28]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), p. 21, "Nick's Picks Special!" advertisement (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own ad (the archive.org item is labelled June 1993; the printed issue date is Spring 1993): "Reg. Price $9.95 ea.", any 2 for $14.95 or all 5 for $29.95, VGA 3.5" LD disks that also support EGA or Tandy VGA, offer expires 4/15/93; prices read from the scan image (page 21 of the issue), since the archive.org OCR text omits the price box. Promotional material, not independent reporting
-[^ref-29]: [PC Games (Germany), December 1992 (Internet Archive)](https://archive.org/details/PC.Games.N003.1992.12-fl0n) – NEWS section, p. 12 (page number inferred from p. 13 following; not printed on the page): "Nick's Picks Crazy Software" preview; quoted German "beim Bogenschießen mit Robin Hood im Wald vergnügen" and "zwischen zehn und zwanzig Mark"
+[^ref-28]: [InterAction Magazine, Vol. VI No. 1, Spring 1993 (Sierra On-Line), p. 21, "Nick's Picks Special!" advertisement (Internet Archive)](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – Sierra's own ad (the archive.org item is labelled June 1993; the printed issue date is Spring 1993): "Reg. Price $9.95 ea.", any 2 for $14.95 or all 5 for $29.95, VGA 3.5" LD disks that also support EGA or Tandy VGA, offer expires 4/15/93. Promotional material, not independent reporting
+[^ref-29]: [PC Games (Germany), December 1992 (Internet Archive)](https://archive.org/details/PC.Games.N003.1992.12-fl0n) – NEWS section, p. 12 (unnumbered): "Nick's Picks Crazy Software" preview; quoted German "beim Bogenschießen mit Robin Hood im Wald vergnügen" and "zwischen zehn und zwanzig Mark"
