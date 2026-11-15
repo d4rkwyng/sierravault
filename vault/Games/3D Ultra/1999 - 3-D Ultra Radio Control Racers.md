@@ -9,7 +9,7 @@ platforms: [Windows]
 series: 3-D Ultra
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: 3-D Ultra Radio Control Racers is a 1999 top-down radio-controlled car
   racing game in Sierra's 3-D Ultra series, developed by Dynamix, Inc. and published
   by Sierra On-Line for Windows.
@@ -18,7 +18,7 @@ last_modified: 2026-11-12T12:00:00-06:00
 ---
 # 3-D Ultra Radio Control Racers
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -162,7 +162,7 @@ The game retains fans. One MyAbandonware user credited the game as "the reason w
 [^ref-16]: [Sound Effects Fandom](https://soundeffects.fandom.com/wiki/3D_Ultra_Radio_Control_Racers) – Documentation of sound effects used in the game
 [^ref-18]: [IGDB - 3D Ultra RC Racers](https://www.igdb.com/games/3-d-ultra-radio-control-racers) - IGDB
 [^ref-19]: [GameFAQs - 3D Ultra RC Racers](https://gamefaqs.gamespot.com/pc/196515-3d-ultra-rc-racers) - database
-[^ref-20]: [MobyGames – 3-D Ultra Radio Control Racers Releases](https://www.mobygames.com/game/3044/3-d-ultra-radio-control-racers/releases/) – US/Canada release date November 15, 1999 (read via the MobyGames API)
+[^ref-20]: [MobyGames – 3-D Ultra Radio Control Racers Releases](https://www.mobygames.com/game/3044/3-d-ultra-radio-control-racers/releases/) – US/Canada release date November 15, 1999
 [^ref-21]: [ESRB – 3-D Ultra Radio Control Racers](https://www.esrb.org/ratings/4550/) – Rated E for Everyone; Dynamix, Inc.; Windows PC; no content descriptors
 [^ref-22]: [Metacritic – 3D Ultra RC Racers Details](https://www.metacritic.com/game/3d-ultra-rc-racers/details/) – Official description: tagline, six paint and decal schemes per car, eight tracks, Quick Race and Circuit Racing; publisher Sierra On-Line, PC
 [^ref-23]: [Sierra Help Wiki – 3-D Ultra Radio Control Racers](https://wiki.sierrahelp.com/index.php/3-D_Ultra_Radio_Control_Racers) – Developer Dynamix, publisher Sierra, designer Richard Tunnell (its 1999-07-21 release date conflicts with other sources and is not used)
