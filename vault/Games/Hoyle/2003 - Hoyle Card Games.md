@@ -10,18 +10,18 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: Hoyle Card Games 2003 is a comprehensive digital card game collection
   developed and published by Sierra Entertainment as part of the long-running Hoyle franchise.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2003
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
-Hoyle Card Games 2003 is a comprehensive digital card game collection developed and published by [[Sierra On-Line|Sierra Entertainment]] as part of the long-running Hoyle franchise[^ref-1][^ref-25]. Released in September 2002 on a hybrid Windows/Macintosh CD-ROM, the game offered players 18 classic card games[^ref-2][^ref-24]. Although it was sold from September 2002, it carries a 2003 date in its title and in IMDb, Open Library, Macintosh Repository and NeverDieMedia[^ref-6][^ref-5][^ref-14][^ref-17]. Sierra's launch announcement credited its "lively, interactive play and crisp, colorful graphics" with making Hoyle Card Games "the number one selling card game available"[^ref-4]. The collection was distributed under the Vivendi Universal Games banner during Sierra's tenure as part of that corporate family[^ref-24].
+Hoyle Card Games 2003 is a comprehensive digital card game collection developed and published by [[Sierra On-Line|Sierra Entertainment]] as part of the long-running Hoyle franchise[^ref-1][^ref-25]. Released in September 2002 on a hybrid Windows/Macintosh CD-ROM, the game offered players 18 classic card games[^ref-2][^ref-24]. Although it was sold from September 2002, it carries a 2003 date in its title and in IMDb, Open Library, Macintosh Repository and NeverDieMedia[^ref-6][^ref-5][^ref-14][^ref-17]. Sierra's launch announcement credited its "lively, interactive play and crisp, colorful graphics" with making Hoyle Card Games "the number one selling card game available"[^ref-4]. The collection was distributed under the Vivendi Universal banner during Sierra's tenure as part of that corporate family[^ref-24].
 
 The game distinguished itself through its Facemaker feature, which allowed players to create customized avatars with hundreds of options for personalization, enabling unique representations at the virtual card table[^ref-2][^ref-6]. Players could compete against 12 computer-controlled characters[^ref-2][^ref-17].
 
@@ -34,7 +34,7 @@ Sierra followed it with Hoyle Card Games 2004, released in September 2003[^ref-2
 > **Executive Producer:** Stephen Van Horn[^ref-6][^ref-26]
 > **Publisher:** Sierra Entertainment[^ref-1][^ref-25]
 > **Platforms:** Windows, Macintosh, Palm OS, Pocket PC[^ref-8]
-> **Release Year:** 2002 (US, autumn); 2003 in database listings[^ref-10][^ref-6][^ref-5][^ref-14][^ref-17]
+> **Release Year:** 2002 (US, September)[^ref-24]; 2003 in database listings[^ref-10][^ref-6][^ref-5][^ref-14][^ref-17]
 > **Series:** Hoyle
 > **ESRB Rating:** E for Everyone (Comic Mischief, Gambling)[^ref-8]
 > **Sierra Lineage:** Core Sierra
