@@ -10,7 +10,7 @@ series: Dr. Brain / JumpStart
 engine: Unknown
 protagonist: Player (Secret Society member)
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: '*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* is an educational
   adventure game for grades 3-5 from Knowledge Adventure, sold on disc for the Mac
   in 2010 and carrying a 2011 copyright on its manual.'
@@ -18,7 +18,7 @@ tags: [2010s, dr-brain-jumpstart, educational, sierra]
 ---
 # JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -168,7 +168,7 @@ The ESRB rated the game E for Everyone[^ref-6].
 
 The game was released under Knowledge Adventure's JumpStart Advanced name, targeting third through fifth graders[^ref-23][^ref-6]. Knowledge Adventure changed its name to JumpStart Games in October 2012[^ref-20], and the 2023 Internet Archive upload credits JumpStart Games, the company's name from October 2012 on[^ref-15][^ref-20]. Wikipedia says JumpStart Games ended operations and support for its games (other than *Neopets*) on June 30, 2023, and that the company officially closed on July 1, 2023[^ref-20].
 
-In October 2023 JumpStart Games and the Jordan Freeman Group re-released the series' earlier [[1998 - Dr. Brain Thinking Games - IQ Adventure|IQ Adventure]] on ZOOM Platform as *Dr. Brain: Mind Venture*[^ref-22][^ref-26]; this 2011 title was not among them (checked November 2026).
+In October 2023 JumpStart Games and the Jordan Freeman Group re-released the series' earlier [[1998 - Dr. Brain Thinking Games - IQ Adventure|IQ Adventure]] on ZOOM Platform as *Dr. Brain: Mind Venture*[^ref-22][^ref-26]; as of November 2026, this 2011 title was not among them.
 
 ### Fan Projects
 
@@ -224,7 +224,7 @@ No publications specific to this title were detailed in the available research.
 [^ref-19]: [JumpStart.com – Adventures of Dr. Brain Game Manual (Wayback Machine, 2021-10-21)](https://web.archive.org/web/20211021083859/https://www.jumpstart.com/customercare/game-manual/adventures-of-dr-brain) – official manual: Sea Lab, IQ Actionizer, Time Slicer missions, controls, Mac system requirements, © 2011 Knowledge Adventure
 [^ref-20]: [Wikipedia – JumpStart Games](https://en.wikipedia.org/wiki/JumpStart_Games) – Knowledge Adventure renamed JumpStart Games (October 2012); operations ceased June 2023; officially closed 1 July 2023
 [^ref-21]: [JumpStart.com – Adventures of Dr. Brain Game Manual (Wayback Machine, 2011-09-25)](http://web.archive.org/web/20110925185204/http://www.jumpstart.com:80/CustomerCare/GameManual/DrBrain.aspx) – contemporary manual: Mac OS X 10.6, Mac App Store download, © 2011 Knowledge Adventure
-[^ref-22]: [MobyGames – Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) – Windows, 1998; 1999 "Mindventure re-release"; 2023-10-07 Zoom Platform release, published by Jumpstart Games and Jordan Freeman Group (read via the MobyGames API)
+[^ref-22]: [MobyGames – Dr. Brain Thinking Games: IQ Adventure](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) – Windows, 1998; 1999 "Mindventure re-release"; 2023-10-07 Zoom Platform release, published by Jumpstart Games and Jordan Freeman Group
 [^ref-23]: [Knowledge Adventure – "Knowledge Adventure Announces Holiday Products" press release, 15 September 2010 (Wayback Machine, 2013-08-20)](http://web.archive.org/web/20130820234155/http://www.jumpstart.com/aboutus/press-releases/knowledge-adventure-announces-holiday-products) – $29.99 for the Mac, ages 8-10, 3rd-5th grade skills
 [^ref-24]: [Amazon.com – Jumpstart 3-5 Adventures of Doctor Brain](https://www.amazon.com/Jumpstart-3-5-Adventures-Doctor-Brain/dp/B003MU9COU) – CD-ROM, Mac OS X, Date First Available 19 May 2010, publication date 30 May 2010, rated Everyone, item model 20858
 [^ref-25]: [softwar.io – JumpStart Advanced 3-5 The Adventures of Dr. Brain (Mac App Store data)](https://softwar.io/app/jumpstart-advanced-3-5-adventures-dr-brain) – third-party aggregator: Knowledge Adventure, version 1.2, released 30 Sep 2011
