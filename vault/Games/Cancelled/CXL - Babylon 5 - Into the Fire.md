@@ -10,7 +10,7 @@ series: Babylon 5
 engine: Proprietary (patent-pending inertial flight mode)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 composer: [Christopher Franke, Victor Crews]
 description: 'Babylon 5: Into the Fire was a space combat simulator developed by Yosemite
   Entertainment and published by Sierra Entertainment, based on the Babylon 5 television
@@ -19,7 +19,7 @@ tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -230,4 +230,4 @@ Into the Fire was never released or sold. An unfinished alpha leaked online in 2
 [^ref-22]: [LinuxLinks – Babylon 5: I've Found Her (14 Dec 2017)](https://www.linuxlinks.com/babylon5ivefoundher/) – freeware space combat simulator by Space Dream Factory
 [^ref-23]: [IndieDB – Space Dream Factory](https://www.indiedb.com/company/space-dream-factory) – "Danger & Opportunity" listed as released 2003; the team later fell apart
 [^ref-24]: [alt.babylon5.uk – "B5 game DEAD!" (22 Sep 1999)](https://groups.google.com/g/alt.babylon5.uk/c/2atrocFoKUU) – Usenet quote of Sierra's announcement: Babylon 5 among cancelled titles, loss of 105 jobs
-[^ref-25]: [MobyGames – Babylon 5: Into the Fire](https://www.mobygames.com/game/263647/babylon-5-into-the-fire/) – game description states it "was cancelled on 20 September 1999" (read via the MobyGames API)
+[^ref-25]: [MobyGames – Babylon 5: Into the Fire](https://www.mobygames.com/game/263647/babylon-5-into-the-fire/) – game description states it "was cancelled on 20 September 1999"
