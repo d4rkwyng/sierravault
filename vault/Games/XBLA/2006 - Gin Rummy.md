@@ -10,14 +10,14 @@ series: "Standalone"
 engine: "Unknown"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: "Gin Rummy is a 2008 Xbox Live Arcade card game developed by Sierra Online Shanghai and published by Sierra Online, with six rule variants and four-player online matches."
 tags: [2000s, card-game, xbla, xbox-360, sierra-online]
 ---
 
 # Gin Rummy
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -178,7 +178,7 @@ Sierra Online published Gin Rummy during its Xbox Live Arcade run under Vivendi 
 [^ref-20]: [Sierra Entertainment - Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) - Corporate history: Sierra Online founded late 2005, Secret Lair Studios / Studio Ch'in (Seattle and Shanghai) integrated into Sierra
 [^ref-21]: [Xbox LIVE Arcade Continues to Bring the Heat with New Titles Launching this Week - Gamerscore Blog (Wayback, September 5, 2008)](https://web.archive.org/web/20080905085730/http://gamerscoreblog.com/press/archive/2008/09/02/rmynjaprtdgercd.aspx) - Microsoft press post, September 2, 2008: six modes, 4-player matches, Live Vision, "Developed and published by Sierra Online", 400 points, rated E
 [^ref-22]: [Xbox Live Arcade Roundup (page 2) - Eurogamer](https://www.eurogamer.net/xbox-live-arcade-roundup-2?page=2) - Review by Dan Whitehead, September 2008, 7/10: rules, tutorial, custom rule sets, camera support
-[^ref-23]: [Gin Rummy (2008) - MobyGames](https://www.mobygames.com/game/47669/gin-rummy/) - Released September 3, 2008; publishers Sierra Online and Activision; 2017 Xbox One release; 1 offline and 4 online players; critics 63%; Theme Deck add-on; Xbox 360 credits (localization SDI Media Group, Inc.; music and sound Aim Sound Studio) and Xbox One release April 20, 2017 (Activision Publishing, Inc.), read via the MobyGames API
+[^ref-23]: [Gin Rummy (2008) - MobyGames](https://www.mobygames.com/game/47669/gin-rummy/) - Released September 3, 2008; publishers Sierra Online and Activision; 2017 Xbox One release; 1 offline and 4 online players; critics 63%; Theme Deck add-on; Xbox 360 credits (localization SDI Media Group, Inc.; music and sound Aim Sound Studio) and Xbox One release April 20, 2017 (Activision Publishing, Inc.)
 [^ref-24]: [Gin Rummy Announced - Screens - WorthPlaying](https://worthplaying.com/article/2008/4/29/news/50859-gin-rummy-announced-screens/) - April 29, 2008 announcement with feature list: six modes, auto-scoring, themes, multiplayer, Live Vision
 [^ref-25]: [Report: Ticket to Ride, Gin Rummy Coming to XBLA - Shacknews](https://www.shacknews.com/article/51882/report-ticket-to-ride-gin) - Aaron Linde, March 21, 2008: Gin Rummy found in ratings-board listings
 [^ref-26]: [Xbox Live Arcade Review - 'Gin Rummy' - WorthPlaying](https://worthplaying.com/article/2008/10/3/reviews/55417-xbox-live-arcade-review-gin-rummy/) - October 3, 2008 review; source of the quote
