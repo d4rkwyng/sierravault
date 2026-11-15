@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game pitched
   by series creator Jane Jensen. It shares its name and Salzburg setting with the free
   short story she published in November 2024.'
@@ -18,7 +18,7 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -196,7 +196,7 @@ In 2013, USgamer's Pete Davison wrote that "Grace Nakimura remains one of the be
 [^ref-7]: [Game Developer – Remaking Gabriel Knight: A 20th Anniversary Postmortem](https://www.gamedeveloper.com/audio/remaking-i-gabriel-knight-i-a-20th-anniversary-postmortem) – Anniversary edition development details, budget, team size, Unity engine
 [^ref-9]: [MobyGames – Gabriel Knight series](https://www.mobygames.com/group/53/gabriel-knight-series/) – Series group page: games originally designed by Jane Jensen and developed by Sierra
 [^ref-13]: [Wikipedia – Jane Jensen (video game designer)](https://en.wikipedia.org/wiki/Jane_Jensen_(video_game_designer)) – Creator biography; November 2024 "Five Hearts" short story on her husband's website
-[^ref-17]: [Matt Chat 565 — "Mc565: Jane Jensen, creator of Gabriel Knight" (YouTube, December 2025)](https://www.youtube.com/watch?v=UKI8t6KgAHc) — interview; the video description says Jensen "shares details about an unreleased GK pitch set in Salzburg" (no transcript checked)
+[^ref-17]: [Matt Chat 565 — "Mc565: Jane Jensen, creator of Gabriel Knight" (YouTube, December 2025)](https://www.youtube.com/watch?v=UKI8t6KgAHc) — interview; the video description says Jensen "shares details about an unreleased GK pitch set in Salzburg"
 [^ref-18]: [Time Extension – "I Had This Dream With The Complete Plot" – Jane Jensen Has Written A Story For Gabriel Knight 4](https://www.timeextension.com/news/2024/07/i-had-this-dream-with-the-complete-plot-jane-jensen-has-written-a-story-for-gabriel-knight-4) — July 2024; dream-origin quote, "Son of Sequel" backer release, "would like to make it a full game"
 [^ref-19]: [Robert Holmes Music – Five Hearts](https://robertholmesmusic.com/five-hearts/) — download page for Jensen's "Five Hearts" short story with concept sketches by Niv Shpigel
 [^ref-20]: [Multiplayer.it – Gabriel Knight 4 è un progetto già avviato dall'autrice Jane Jensen (Giorgio Melani, December 7, 2025)](https://multiplayer.it/notizie/gabriel-knight-4-e-un-progetto-gia-avviato-dallautrice-jane-jensen-che-spera-di-poterlo-concludere.html) — Italian coverage of the Matt Chat interview: project called Five Hearts, Salzburg setting, heart-removing serial killer, two paths, 2D, younger designer, IP with Microsoft, submitted several times with no interest so far
@@ -204,7 +204,7 @@ In 2013, USgamer's Pete Davison wrote that "Grace Nakimura remains one of the be
 [^ref-22]: [Computer Gaming World #148 (November 1996), "150 Best (and 50 Worst) Games of All Time" (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_148) – #17 Gabriel Knight 2: "A haunting tale from Jane Jensen, the interactive Ann Rice"
 [^ref-23]: [GameSpot – The Ten Best Sidekicks, page 3 (Wayback Machine, September 2005)](https://web.archive.org/web/20050910024937/http://www.gamespot.com/features/tenspot_sidekicks/page3.html) – Grace Nakimura: "simply a more likeable character than the series' namesake… Grace is intelligent and resourceful"
 [^ref-24]: [USgamer – Pete Davison, "Happy Birthday, Gabriel Knight" (October 2013, Wayback Machine)](https://web.archive.org/web/20131110043347/http://www.usgamer.net/articles/happy-birthday-gabriel-knight) – "Grace Nakimura remains one of the best, most realistic female characters in game history"
-[^ref-25]: [Tech Talk with Daniel Albu – "Jane Jensen on Gabriel Knight, Gray Matter, King's Quest VI and the New Gabriel Knight Short Story!" (YouTube, June 30, 2024)](https://www.youtube.com/watch?v=gPkSH5umZoA) – Primary interview that Time Extension (ref-18) embeds and quotes; per Time Extension, the "full game"/Microsoft remarks come around 58 minutes in (no transcript checked)
+[^ref-25]: [Tech Talk with Daniel Albu – "Jane Jensen on Gabriel Knight, Gray Matter, King's Quest VI and the New Gabriel Knight Short Story!" (YouTube, June 30, 2024)](https://www.youtube.com/watch?v=gPkSH5umZoA) – Primary interview that Time Extension (ref-18) embeds and quotes; per Time Extension, the "full game"/Microsoft remarks come around 58 minutes in
 [^ref-26]: [Games Press – Jane Jensen to author original new Gabriel Knight short story (April 18, 2023)](https://www.gamespress.com/Jane-Jensen-to-author-original-new-Gabriel-Knight-short-story) – "Legendary Sierra On-Line designer Jane Jensen has announced plans to write an original short story in her acclaimed Gabriel Knight adventure series"; available exclusively to Son of Sequel Kickstarter backers
 [^ref-27]: [Jane Jensen – "Five Hearts", a Gabriel Knight short story (PDF, hosted on Robert Holmes's site)](https://robertholmesmusic.com/wp-content/uploads/2024/08/gk-five-hearts-short-story-2-2.pdf) – primary text; opens "The woman was cursed… when she arrived at the door of Schloss Ritter"; spells the city "Saltzburg"; the Ichlan Dagger
 [^ref-28]: [PC Gamer – Stefanie Fogel, Gabriel Knight interview: Jane Jensen on the revival of her classic adventure game (September 2, 2014)](https://www.pcgamer.com/gabriel-knight-interview-jane-jensen-on-the-revival-of-her-classic-adventure-game/) – "I don't own the license, and I've gone in to pitch various GK ideas probably three different times over the last 20 years."
