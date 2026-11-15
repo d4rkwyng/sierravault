@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: Hoyle Official Casino Games Collection is a 2016 Encore compilation of
   over 20 casino games for Windows and macOS, the last Hoyle-branded edition in
   the Hoyle Casino series that Sierra began in 1996; it was re-released in December
@@ -19,7 +19,7 @@ tags: [2010s, hoyle-casino, sierra]
 ---
 # Hoyle Official Casino Games Collection
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -210,7 +210,7 @@ Steam reviewers reported a number of problems:
 
 ### Sales and Commercial Impact
 
-No sales figures for the 2016 release have been published. Raijin.gg estimates about 410 owners of the original Steam version, per its page checked in November 2026[^ref-4]. For comparison, *Hoyle Casino 2000* sold 230,365 units in North America from January through October 2000[^ref-1].
+No sales figures for the 2016 release have been published. As of November 2026, Raijin.gg estimated about 410 owners of the original Steam version[^ref-4]. For comparison, *Hoyle Casino 2000* sold 230,365 units in North America from January through October 2000[^ref-1].
 
 The original Steam listing is unlisted at the publisher's request[^ref-19], but the game has stayed on sale: the Mac version through MacGameStore[^ref-2], and the Windows/Mac game as *Encore Casino Games Collection* on Steam since 2019[^ref-1][^ref-23].
 
