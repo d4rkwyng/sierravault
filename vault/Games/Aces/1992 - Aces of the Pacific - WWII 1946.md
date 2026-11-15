@@ -11,7 +11,7 @@ series: "Aces"
 engine: "3-Space"
 protagonist: "Player-created pilot"
 sierra_lineage: "Sierra Label (Dynamix)"
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: "WWII: 1946 is Dynamix's 1992 alternate-history expansion disk for Aces of the Pacific, adding seven prototype and early-jet aircraft and a campaign over a hypothetical 1945–46 invasion of Japan."
 tags: [1990s, simulation, flight-simulation, aces, dynamix, sierra, expansion, damon-slye]
 composer: null
@@ -19,7 +19,7 @@ composer: null
 
 # Aces of the Pacific: WWII: 1946
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -180,7 +180,7 @@ The Dynamix team itself was proud of the alternate history. Lindstrom concluded 
 
 ## References
 
-[^ref-1]: [MobyGames – Aces of the Pacific: Expansion Disk – WWII: 1946](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/) – developer Dynamix, publisher Sierra On-Line, DOS 1992 (US and German releases), description, aircraft list. Retrieved via the MobyGames API, 2026-10-09
+[^ref-1]: [MobyGames – Aces of the Pacific: Expansion Disk – WWII: 1946](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/) – developer Dynamix, publisher Sierra On-Line, DOS 1992 (US and German releases), description, aircraft list.
 [^ref-2]: [MobyGames – WWII: 1946 page with credits (Wayback Machine, 2008)](http://web.archive.org/web/20080513002029/http://www.mobygames.com:80/game/dos/aces-of-the-pacific-expansion-disk-wwii-1946) – full credit list
 [^ref-3]: [The Sierra Chest – Aces of the Pacific: WWII: 1946](https://sierrachest.com/index.php?a=games&id=252&fld=general) – first release 1992, developer Dynamix, publisher Sierra On-Line, engine 3-Space, Aces series; packaging tab (fld=box) lists the US 1.0, US 1.01 and International 1.0 slipcover-box releases
 [^ref-4]: [InterAction Magazine, Winter 1992 (Sierra On-Line), Bob Lindstrom, "WWII: 1946 – How Dynamix Rewrote the Second World War", and "Coming Up" update – Internet Archive](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – "first expansion disk", scenario premises, aircraft selection, research method, alternate-history narrative, November release
