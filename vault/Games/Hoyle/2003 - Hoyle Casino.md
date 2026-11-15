@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: Hoyle Casino 2003 is a casino simulation released under the Sierra Entertainment
   label in September 2002 for Windows and Macintosh, with Blackjack and Video Poker for
   Palm OS and Windows CE handhelds.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2003
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -274,7 +274,7 @@ Customer reviews written more than a decade after release show players still usi
 [^ref-23]: [Worthplaying – Sierra Launches Official 'Hoyle Games 2003' Website](https://worthplaying.com/article/2002/9/20/news/5846-sierra-launches-official-hoyle-games-2003-website/) – 20 Sep 2002 announcement: 14 games with hundreds of variations, Palm OS/Windows CE Blackjack and Video Poker, Hoyle 2003 line-up, in stores nationwide
 [^ref-24]: [Amazon.com – Hoyle Casino 2003 - PC/Mac](https://www.amazon.com/Hoyle-Casino-2003-PC-Mac/dp/B00005W35F) – release date September 9, 2002, UPC, manufacturer Vivendi Universal, 3.0/5 from 27 ratings, used listings
 [^ref-25]: [GameFAQs – Hoyle Casino 2003 Release Data](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003/data) – US release 09/07/02, Sierra Entertainment, UPC 020626716345
-[^ref-26]: [MobyGames – Hoyle Casino (game 245729), Macintosh release data](https://www.mobygames.com/game/245729/) – (MobyGames database entry, checked 2026-10-23) US release 2002-09-03; licensed by The United States Playing Card Company; 16 MB minimum RAM
+[^ref-26]: [MobyGames – Hoyle Casino (game 245729), Macintosh release data](https://www.mobygames.com/game/245729/) – US release 2002-09-03; licensed by The United States Playing Card Company; 16 MB minimum RAM
 [^ref-27]: [Sierra Entertainment – Hoyle Casino (official product page, Wayback 2003-02-16)](https://web.archive.org/web/20030216213610/http://www.hoylegames.com/casinogames.html) – over 400 variations, up to four players on one computer, tournament play, free rulebook and strategy guide, Internet play not available for Macintosh
 [^ref-28]: [Sierra Entertainment – Hoyle Characters (Wayback 2003-02-16)](https://web.archive.org/web/20030216213610/http://www.hoylegames.com/characters.html) – ten 3-D animated casino opponents, 8,500 phrases
 [^ref-29]: [Sierra Entertainment – Hoyle Facemaker (Wayback 2003-02-16)](https://web.archive.org/web/20030216213610/http://www.hoylegames.com/facemaker.html) – character customisation feature
