@@ -11,13 +11,13 @@ series: Standalone
 engine: null
 protagonist: Player (Stunt Pilot)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-15'
 description: Stunt Flyer is a precision-aerobatics flight simulator for the Commodore 64, developed by Nice Ideas of Sophia Antipolis, France, and published by Sierra On-Line in 1985.
 tags: [1980s, sierra, simulation, standalone]
 ---
 # Stunt Flyer
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 15, 2026</small>
 
 ## Overview
 
@@ -202,6 +202,6 @@ Writing in 1994, *InterAction* used Stunt Flyer as a cautionary "then" example i
 [^ref-20]: [Stunt Flyer instruction manual (Commodore 64), scan hosted by PixelatedArcade](https://pixelatedarcade.s3.us-east-005.dream.io/pictures/package-contents/2075/Stunt-Flyer-Commodore-64-Instruction-Manual.pdf) – credits, note from the designers, competition rules (pp. 43–44), contents to p. 47
 [^ref-21]: [SpaceQuest.net – Space Quest 4 Cancelled Stuff](https://spacequest.net/sq4/cancelled/) – the Stunt Flyer box is a bargain-bin item that "didn't make it into the final game"
 [^ref-22]: [Stunt Flyer reference card (Commodore 64), scan hosted by PixelatedArcade](https://pixelatedarcade.s3.us-east-005.dream.io/pictures/package-contents/2075/Stunt-Flyer-Commodore-64-Reference-Card.pdf) – "The Precision Aerobatics Flight Simulator", the instrument panel, keyboard and joystick controls
-[^ref-23]: [Computer Entertainer, Vol. 4 No. 7 (October 1985) – Stunt Flyer review](https://archive.org/details/computer-entertainer-4-7) – "twenty aerobatic maneuvers", Pitts Special, keyboard "offers more precise control", "at least 15 maneuvers with a minimum score of 50%", $1000 contest, MSR $24.95 (read from the item's OCR text)
+[^ref-23]: [Computer Entertainer, Vol. 4 No. 7 (October 1985) – Stunt Flyer review](https://archive.org/details/computer-entertainer-4-7) – "twenty aerobatic maneuvers", Pitts Special, keyboard "offers more precise control", "at least 15 maneuvers with a minimum score of 50%", $1000 contest, MSR $24.95
 [^ref-24]: [Stunt Flyer competition card, scan hosted by PixelatedArcade](https://pixelatedarcade.s3.us-east-005.dream.io/pictures/package-contents/2075/picture_Sierra-Stunt-Flyer-Competition.jpg) – "$1,000 GRAND PRIZE TO THE MOST SKILLED STUNT PILOT!", entries postmarked by March 31, 1986, P.O. Box 485 Coarsegold, CA
 [^ref-25]: [PixelatedArcade – Stunt Flyer releases](https://pixelatedarcade.com/games/stunt-flyer/releases) – SRL-823, 1985, 5.25" disk; package contents: instruction manual, reference card, competition card, warranty registration card
