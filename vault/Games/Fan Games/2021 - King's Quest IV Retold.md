@@ -10,7 +10,7 @@ series: King's Quest (Fan Remake)
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: 'King''s Quest IV Retold is a fan-made point-and-click remake of Sierra
   On-Line''s 1988 adventure game King''s Quest IV: The Perils of Rosella, made by DrSlash
   in Adventure Game Studio and released in 2021.'
@@ -18,7 +18,7 @@ tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 ---
 # King's Quest IV Retold
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -139,7 +139,7 @@ The VGA Talkie's own release notes state that, because the code was not built fo
 - **Platforms:** Windows
 
 **File Size:**
-- **Retold Version (GamePressure Windows archive, text-only citation):** 140.4 MB[^ref-10]
+- **Retold Version (GamePressure Windows archive):** 140.4 MB[^ref-10]
 
 ### Version History
 
@@ -175,7 +175,7 @@ The 1988 original was one of the first games to support sound cards, with compos
 
 ### Sales and Commercial Impact
 
-The original 1988 *King's Quest IV: The Perils of Rosella* was a commercial success, selling 100,000 copies in its first two weeks. The Software Publishers Association certified it as having sold over 250,000 units in early 1993[^ref-6]. By November 2000, the game had sold between 300,000 and 400,000 units in the United States alone[^ref-6]. The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards[^ref-6].
+The original 1988 *King's Quest IV: The Perils of Rosella* was a commercial success, selling 100,000 copies in its first two weeks.[^ref-6] The Software Publishers Association certified it as having sold over 250,000 units in early 1993[^ref-6]. By November 2000, the game had sold between 300,000 and 400,000 units in the United States alone[^ref-6]. The game won "Best Adventure or Fantasy/Role-Playing Program" at the 1989 Software Publishers Association awards[^ref-6].
 
 The Retold fan remake, while not commercially released, demonstrated continued interest in the King's Quest franchise, with more than 9,700 downloads of the original Retold version on the AGS site alone as of November 2026[^ref-2].
 
@@ -254,7 +254,7 @@ King's Quest IV Retold reimagines the 1988 Sierra adventure [[1988 - King's Ques
 [^ref-6]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – original game plot, time limit, sales data, review scores, awards, music
 [^ref-7]: [Reddit r/kingsquest – Retold Announcement](https://www.reddit.com/r/kingsquest/comments/naf8jf/for_those_not_aware_kings_quest_iv_retold_is_a/) – point-and-click interface instead of the text parser
 [^ref-8]: [King's Quest Omnipedia – King's Quest IV Retold EGA](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV_Retold_EGA) – development motivation, EGA graphics decision, DrSlash's design philosophy
-[^ref-10]: GamePressure – King's Quest IV Retold download page (text-only citation, no link; mirror of an older build) – file size 140.4 MB
+[^ref-10]: GamePressure – King's Quest IV Retold download page (mirror of an older build) – file size 140.4 MB
 [^ref-11]: [GOG Forums – KQ4 Copy Protection Discussion](https://www.gog.com/forum/kings_quest_series/copyright_protection_in_kq4) – copy protection details, Retold suggested as alternative
 [^ref-12]: [PCGamingWiki – King's Quest IV](https://www.pcgamingwiki.com/wiki/King's_Quest_IV:_The_Perils_of_Rosella) – technical specifications, version history, system requirements
 [^ref-13]: [Speedrun.com – King's Quest IV Retold](https://www.speedrun.com/kings_quest_iv_retold) – speedrun records, player statistics
