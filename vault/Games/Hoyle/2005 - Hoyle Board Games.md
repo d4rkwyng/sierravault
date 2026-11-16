@@ -10,7 +10,7 @@ series: Hoyle
 engine: null
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: Hoyle Board Games 2005 is a Windows collection of classic board games
   built by Sierra Entertainment and released standalone in the US by Encore Software
   in July 2005; Sierra's 2004 Hoyle Puzzle & Board Games 2005 bundle included a Hoyle
@@ -19,13 +19,13 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2005
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
 Hoyle Board Games 2005 is a collection of classic board and table games for Windows, built by an internal Sierra Entertainment team; its credits carry a "Copyright © 2004 Sierra Entertainment Inc." notice.[^ref-8] Sierra's own Hoyle Puzzle & Board Games 2005 bundle, dated September 16, 2004, paired Hoyle Puzzle Games with a Hoyle Board Games half; the matching 18-game count suggests that half is the same collection, but no source confirms that directly.[^ref-27][^ref-14] After [[Encore Software]] took over Hoyle PC publishing in December 2004, Encore issued the game on its own at US retail; IGN dates that standalone release to July 13, 2005.[^ref-26][^ref-11][^ref-25] It continues the Hoyle series that Sierra On-Line began in 1989 with Hoyle's Official Book of Games.[^ref-3] The ESRB rated it E for Everyone (Comic Mischief), listing Vivendi Games as the publisher of record.[^ref-5]
 
-The collection's games are Backgammon, Battling Ships, Bump'em, Chess, Chinese Checkers, Dominoes, DoubleCross, Master Match, Maximum Pool, Pachisi, Reversi, Rummy Squares, Triple Yacht, Wordox, Word Yacht and Zilch.[^ref-17][^ref-11] The game count is unreconciled: MobyGames and IGN list 16 games, none of them Checkers, while Encore's retail text advertises "18 of your favorite board games" and names Checkers among them.[^ref-17][^ref-11][^ref-6] MobyGames and IGN print "World Yacht", but the game is "Word Yacht" in Hoyle's word-game collections.[^ref-17][^ref-11] Encore's description also offers "12 pool games included for free," and promotes in-game tutorials, the "Hoyle Bucks" reward currency, and "animated opponents who talk back and speak their minds."[^ref-6]
+The collection's games are Backgammon, Battling Ships, Bump'em, Chess, Chinese Checkers, Dominoes, DoubleCross, Master Match, Maximum Pool, Pachisi, Reversi, Rummy Squares, Triple Yacht, Wordox, Word Yacht and Zilch.[^ref-17][^ref-11] The game count is unreconciled: MobyGames and IGN list 16 games, none of them Checkers, while Encore's retail text advertises "18 of your favorite board games" and names Checkers among them.[^ref-17][^ref-11][^ref-6] MobyGames and IGN print "World Yacht", but the game is "Word Yacht" in Hoyle's word-game collections.[^ref-17][^ref-11][^ref-34] Encore's description also offers "12 pool games included for free," and promotes in-game tutorials, the "Hoyle Bucks" reward currency, and "animated opponents who talk back and speak their minds."[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-8][^ref-2]
@@ -184,7 +184,7 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (store p
 - [Amazon.ca](https://www.amazon.ca/Encore-10027-Hoyle-Board-Games/dp/B0009YN1RQ)[^ref-6]
 
 **Download / Preservation**
-- No download link is listed, because the game is still sold: it remains on sale on Amazon.ca (checked November 2026)[^ref-6]
+- No download link is listed, because the game is still sold: as of November 2026 it remains on sale on Amazon.ca[^ref-6]
 
 ## See Also
 
@@ -255,9 +255,9 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (store p
 [^ref-9]: My Abandonware – "Hoyle Board Games 2005" game page – user rating (4.31/5, 13 votes) and user comments; not linked because it is a download page and the game is still sold
 [^ref-11]: [IGN – Hoyle Board Games 2005](https://www.ign.com/games/hoyle-board-games-2005) – Encore initial release Jul 13, 2005; NR rating; games list
 [^ref-14]: [Metacritic – Hoyle Puzzle and Board Games 2005](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2005/) – bundle description, release date Sep 14, 2004, VU Games
-[^ref-17]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – games list, Hoyle Bucks, perspective/genre classification; 2005 US retail release lists Sierra Entertainment as publisher and developer (read via the MobyGames API)
+[^ref-17]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – games list, Hoyle Bucks, perspective/genre classification; 2005 US retail release lists Sierra Entertainment as publisher and developer
 [^ref-23]: [Steam Community – Hoyle Official Card Games Collection discussion](https://steamcommunity.com/app/397420/discussions/0/492378265874336581/) – Encore developer account (Nov 18, 2015) on distributing 2004-and-later Hoyle versions under the Encore name
-[^ref-24]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/Encore_Classic_Puzzle__Board_Games/) – current Encore collection on sale; store page says Jan 30, 2020, data feed Sep 15, 2020 (checked November 2026); developer webfoot
+[^ref-24]: [Steam – Encore Classic Puzzle & Board Games](https://store.steampowered.com/app/1217380/Encore_Classic_Puzzle__Board_Games/) – current Encore collection on sale; store page says Jan 30, 2020, data feed Sep 15, 2020; developer webfoot
 [^ref-25]: [GameFAQs – Hoyle Board Games 2005 Release Data](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/data) – US release, publisher Encore Software, barcode 705381100270
 [^ref-26]: [Encore Software – "Navarre's Encore Subsidiary Signs Exclusive Licensing Agreement With The United States Playing Card Company For Hoyle Branded Properties" (Wayback)](https://web.archive.org/web/20050428205939/http://www.encoreusa.com:80/PressRelease/Press263.htm) – press release dated December 21, 2004; five-year worldwide Hoyle PC publishing rights
 [^ref-27]: [Sierra – Hoyle Puzzle & Board 2005 product page (Wayback, Dec 5, 2004)](https://web.archive.org/web/20041205125510/http://sierra.com/product.do?gamePlatformId=1829) – "PC Released: 9/16/2004"; pairs Hoyle Puzzle Games and Hoyle Board Games; © 2004 Sierra Entertainment, Vivendi Universal Games
@@ -267,3 +267,4 @@ Encore currently sells **Encore Classic Puzzle & Board Games** on Steam (store p
 [^ref-31]: [Navarre Corporation – Form 10-K for the fiscal year ended March 31, 2005 (SEC filing, Wayback copy of June 1, 2018)](https://web.archive.org/web/20180601235741/https://www.sec.gov/Archives/edgar/data/911650/000095013405011970/c95938e10vk.htm) – December 2004 exclusive licensing agreements with Vivendi and The United States Playing Card Company for the Hoyle brand; NPD Group figures (as of January 2005) as reported by Navarre
 [^ref-32]: ESRB – [Hoyle Card Games 2005](https://www.esrb.org/ratings/10148/) and [Hoyle Puzzle Games 2005](https://www.esrb.org/ratings/10156/) – both list Vivendi Games as publisher (sibling titles, not this game)
 [^ref-33]: [ESRB – Hoyle Puzzle and Board Games 2005](https://www.esrb.org/ratings/11010/) – E for Everyone, Comic Mischief; publisher listed as Encore Software
+[^ref-34]: [GameSpot – Hoyle Word Games Review (Tim Soete)](https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2664509/) – review of Hoyle Word Games 2001: "Word Yacht, which is Hoyle's version of Yahtzee played with lettered dice"

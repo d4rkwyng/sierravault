@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: Hoyle Puzzle & Board Games 2005 is a Sierra compilation, released in
   September 2004, that bundled Hoyle Puzzle Games and Hoyle Board Games in one package.
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle & Board Games 2005
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -136,7 +136,7 @@ The vault covers two later editions: [[2008 - Hoyle Puzzle and Board Games]] and
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam (checked November 2026)
+- Not available on GOG or Steam as of November 2026
 
 ## Downloads
 
@@ -216,7 +216,7 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 [^ref-8]: [Giant Bomb – Hoyle Puzzle & Board Games 2005](https://www.giantbomb.com/wiki/Games/Hoyle_Puzzle_And_Board_Games_2005) – release date September 4, 2004, developer Sierra
 [^ref-9]: [IGN – Hoyle Puzzle Board Games 2005 User Reviews](https://www.ign.com/games/hoyle-puzzle-board-games-2005/user-reviews) – publisher, release date, rating status
 [^ref-11]: [RAWG – Hoyle Puzzle Board Games 2005](https://rawg.io/games/hoyle-puzzle-board-games-2005) – release date variant
-[^ref-12]: [Best Buy – Hoyle Puzzle Board Games 2005](https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601) – platform, model number 72201, listing status; synopsis "combines Hoyle Puzzle Games and Hoyle Board Games", 18 puzzle games, more than 12 board games. Read via [Wayback, Jan 22 2025](https://web.archive.org/web/20250122015242/https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601)
+[^ref-12]: [Best Buy – Hoyle Puzzle Board Games 2005](https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601) – platform, model number 72201, listing status; synopsis "combines Hoyle Puzzle Games and Hoyle Board Games", 18 puzzle games, more than 12 board games; [Wayback copy, Jan 22 2025](https://web.archive.org/web/20250122015242/https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601)
 [^ref-13]: [RAWG – Hoyle Puzzle Board Games 2005 Suggestions](https://rawg.io/games/hoyle-puzzle-board-games-2005/suggestions) – later Hoyle Puzzle & Board Games editions and dates
 [^ref-14]: [IGDB – Hoyle Puzzle & Board Games 2005](https://www.igdb.com/games/hoyle-puzzle-and-board-games-2005) – IGDB entry
 [^ref-15]: [Sierra.com – Hoyle Puzzle & Board 2005 (Wayback, Dec 2004)](https://web.archive.org/web/20041205125510/http://sierra.com/product.do?gamePlatformId=1829) – "PC Released: 9/16/2004", game description, system requirements, handheld requirements, © 2004 Sierra Entertainment
@@ -227,4 +227,4 @@ The game is also listed on RAWG and IGDB.[^ref-11][^ref-14]
 [^ref-20]: [WorthPlaying – Vivendi Passes on Hoyle Brand to Encore (Dec 21, 2004)](https://worthplaying.com/article/2004/12/21/news/21356-vivendi-passes-on-hoyle-brand-to-encore/) – "Effective December 23, 2004, Encore will be responsible for sales, distribution and marketing"; names Hoyle Puzzle and Board Games
 [^ref-21]: [SoCalTech – Vivendi Sells Hoyle Brand (Dec 23, 2004)](https://www.socaltech.com/vivendi_sells_hoyle_brand/s-0001362.html) – VU Games divested its Hoyle branded software products to Encore; Encore handles sales, distribution and marketing
 [^ref-22]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series list entry "Hoyle Puzzle & Board Games (2004)"; series released 1989 to 2016; Encore Software publisher 2005–2016
-[^ref-23]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – game list of the separate Hoyle Board Games 2005 release (read via the MobyGames API; its credits are not used here)
+[^ref-23]: [MobyGames – Hoyle Board Games 2005](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – game list of the separate Hoyle Board Games 2005 release
