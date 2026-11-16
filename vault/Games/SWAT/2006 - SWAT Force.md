@@ -10,15 +10,15 @@ series: Police Quest / SWAT
 engine: Java
 protagonist: SWAT Team (Artilleryman and Expert)
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: SWAT Force is a 2D side-scrolling tactical action game for Java mobile
-  phones, developed by Kaolink and published by Vivendi Universal Games; it launched
-  in Europe in July 2005 and in the United States on February 28, 2006.
+  phones, developed by Kaolink and published by Vivendi Universal Games; it was announced
+  for European release from July 2005 and released in the United States on February 28, 2006.
 tags: [2000s, police-quest-swat, sierra]
 ---
 # SWAT Force
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -36,7 +36,7 @@ All seven missions can be completed in about an hour[^ref-3][^ref-6]. The in-gam
 > **Publisher:** Vivendi Universal Games (VU Games)[^ref-16][^ref-18][^ref-19]; credited by Wikipedia to Vivendi Universal Games Mobile[^ref-1] and by IGN to Vivendi Games Mobile[^ref-7]
 > **Engine:** Java[^ref-5][^ref-13]
 > **Platforms:** Mobile (Java-enabled phones)[^ref-1][^ref-5]
-> **Release Year:** 2006 (US, February 28)[^ref-1][^ref-19]; Europe July 2005[^ref-16]
+> **Release Year:** 2006 (US, February 28)[^ref-1][^ref-19]; Europe announced for July 2005[^ref-16]
 > **Series:** Police Quest / SWAT[^ref-11][^ref-12]
 > **Protagonist:** SWAT Team (Artilleryman and Expert)[^ref-1][^ref-3]
 > **Sierra Lineage:** Post-Sierra
@@ -109,7 +109,7 @@ The press release described SWAT Force as a tactical squad game based on a PC fr
 
 ### Production
 
-Kaolink handled development[^ref-1][^ref-7]. The game's in-game text carries the line "The SWAT sign © 2005 LAPD SWAT is used with authorization"[^ref-4], and its copyright notices are dated 2004 and 2005[^ref-4]. Distribution in Europe, South and Central America, Africa, New Zealand and several other markets went through WonderPhone, a Paris-based mobile distributor, starting in July 2005[^ref-16]. The US release followed on February 28, 2006[^ref-1][^ref-7][^ref-17][^ref-19]. In March 2006 VU Games announced a new mobile division, to be called Vivendi Universal Games Mobile[^ref-20]; Wikipedia credits the game to that division[^ref-1], and IGN lists it under Vivendi Games Mobile[^ref-7].
+Kaolink handled development[^ref-1][^ref-7]. The game's in-game text carries the line "The SWAT sign © 2005 LAPD SWAT is used with authorization"[^ref-4], and its copyright notices are dated 2004 and 2005[^ref-4]. Distribution in Europe, South and Central America, Africa, New Zealand and several other markets went through WonderPhone, a Paris-based mobile distributor, announced to start in July 2005[^ref-16]. The US release followed on February 28, 2006[^ref-1][^ref-7][^ref-17][^ref-19]. In March 2006 VU Games announced a new mobile division, to be called Vivendi Universal Games Mobile[^ref-20]; Wikipedia credits the game to that division[^ref-1], and IGN lists it under Vivendi Games Mobile[^ref-7].
 
 **Development Credits:**
 - **Developer:** Kaolink[^ref-1][^ref-7]
