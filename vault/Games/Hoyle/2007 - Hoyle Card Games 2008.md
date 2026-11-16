@@ -10,14 +10,14 @@ series: Hoyle
 engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Post-Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: Encore Software's 2007 Hoyle collection of 150+ card and solitaire games,
   released on a combined Windows/Mac OS X DVD.
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2008
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -196,8 +196,8 @@ The collection bundles official rules, tips and strategies with its games[^ref-1
 ## Purchase
 
 **Purchase / Digital Stores**
-- [WildTangent](https://www.wildtangent.com/p/cards/hoyle-card-games/) - Windows version, still listed (checked November 2026)[^ref-14]
-- Not currently available on GOG or Steam (checked November 2026)
+- [WildTangent](https://www.wildtangent.com/p/cards/hoyle-card-games/) - Windows version, listed as of November 2026[^ref-14]
+- Not available on GOG or Steam as of November 2026
 - The boxed retail edition is listed as discontinued; physical copies may be available from resellers[^ref-3]
 
 ## Downloads
@@ -285,6 +285,6 @@ The collection bundles official rules, tips and strategies with its games[^ref-1
 [^ref-24]: [Macworld – Peter Cohen, "Hoyle Card Games available for download" (Mar 25, 2008)](https://www.macworld.com/article/189861/hoyle-3.html) – Macgamestore/Encore Mac download, $19.95, previously boxed only, Mac requirements
 [^ref-25]: [MacTech – "Macgamestore releases Hoyle Card Games" (Mar 25, 2008)](https://www.mactech.com/2008/03/25/macgamestore-releases-hoyle-card-games/) – Digital download release, US$19.95, Mac OS X 10.4.10 or later, demo available
 [^ref-26]: [GameFAQs – Hoyle Card Games 2008 release data, Wayback 31 Jan 2014](https://web.archive.org/web/20140131023304/http://www.gamefaqs.com:80/pc/943484-hoyle-card-games-2008/data) – US release Encore 10/01/07 (T); EU release Greenstreet Games 04/07/08
-[^ref-27]: [GameSpot – Hoyle Card Games 2008 (user reviews page)](https://www.gamespot.com/hoyle-card-games-2008/user-reviews/2200-332963/) – Publisher(s): "Encore Software, Inc., Greenstreet Games"; developer Encore Software, Inc.; release date 2007-10-01; ESRB T; fetched via ScraperAPI, November 2026
+[^ref-27]: [GameSpot – Hoyle Card Games 2008 (user reviews page)](https://www.gamespot.com/hoyle-card-games-2008/user-reviews/2200-332963/) – Publisher(s): "Encore Software, Inc., Greenstreet Games"; developer Encore Software, Inc.; release date 2007-10-01; ESRB T
 [^ref-28]: [MacRumors Forums – "Hoyle Games for Mac are Back!" (Oct 2007 – May 2009)](https://forums.macrumors.com/threads/hoyle-games-for-mac-are-back.366850/) – Opening post (10 Oct 2007) repeats the Inside Mac Games post under a different username, including the first-OS-X claim, Sam's Club price and the Mac registration key on the manual's back cover; later replies ask where to find a registration number
 [^ref-29]: [Impulse Gamer – Hoyle Puzzle & Board Games 2008 Review](https://www.impulsegamer.com/pc/pchoylepuzzlegames2008.htm) – Sibling review (James Wright, February 2008): "Distributor: Mindscape", G classification, "$29.95AUD"
