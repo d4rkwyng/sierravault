@@ -12,14 +12,14 @@ engine: null
 protagonist: "N/A"
 sierra_lineage: "Core Sierra"
 composer: ["Evan Schiller"]
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 tags: [1990s, hoyle, sierra, card-games]
 description: "Hoyle Classic Card Games is a 1997 Windows CD-ROM collection of twelve card games, developed and published by Sierra On-Line; it is a separate game from the 1993 SCI title of the same name."
 ---
 
 # Hoyle Classic Card Games
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ MyAbandonware users rate the Windows 3.x release 4.25/5 (10 votes)[^ref-21].
 
 ### Origins
 
-Sierra's Hoyle series used the Hoyle brand of playing cards under license from Brown & Bigelow[^ref-3]. The name goes back to Edmond Hoyle (1672–1769), whose writings on card games, beginning with *A Short Treatise on the Game of Whist* in 1742, made "according to Hoyle" a byword for "strictly according to the rules"[^ref-26]. Later Hoyle titles saw yearly releases[^ref-3]. This 1997 collection is a separate product from the 1993 SCI-based Hoyle Classic Card Games, not a port of it[^ref-16][^ref-2].
+Some titles in Sierra's Hoyle series used the Hoyle brand of playing cards under license from Brown & Bigelow[^ref-3]. The name goes back to Edmond Hoyle (1672–1769), whose writings on card games, beginning with *A Short Treatise on the Game of Whist* in 1742, made "according to Hoyle" a byword for "strictly according to the rules"[^ref-26]. Later Hoyle titles saw yearly releases[^ref-3]. This 1997 collection is a separate product from the 1993 SCI-based Hoyle Classic Card Games, not a port of it[^ref-16][^ref-2].
 
 ### Production
 
@@ -118,7 +118,7 @@ The soundtrack is the same as Hoyle Classic Board Games (1997) apart from the in
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Release | November 30, 1997 | Windows 3.x / Windows 95 | Hybrid CD-ROM[^ref-19][^ref-25] |
-| Demo | — | Windows | Rules descriptions for all games, with Hearts and Pyramid playable. Bundled on other Sierra CDs, including Hoyle Classic Board Games and Hoyle Battling Ships and War[^ref-23]. A 1998 review of Hoyle Classic Board Games mentions that this card-game bonus pack came with playable Hearts or Pyramid demos[^ref-31] |
+| Demo | — | Windows | Rules descriptions for all games, with Hearts and Pyramid playable. Bundled on other Sierra CDs, including Hoyle Classic Board Games and Hoyle Battling Ships and War[^ref-23]. TechnoFILE's review of Hoyle Classic Board Games mentions that this card-game bonus pack came with playable Hearts or Pyramid demos[^ref-31] |
 | HCCG11 ("Enhanced Update") | — | Windows | Listed by Sierra Help for "Hoyle Classic Card Games, Enhanced". Adds Bridge internet play and a four-deal Bridge variant, updates help, and makes Spades "cards now slide to the trick taker's hand"[^ref-17] |
 | Re-release | — | Windows | "Later re-released with some changes as Hoyle Card Games by Sierra"[^ref-16] |
 
@@ -219,5 +219,5 @@ The game is not sold digitally. An Amazon listing titled Hoyle Classic Card Game
 [^ref-28]: [The Sierra Chest – Hoyle Classic Card Games (1997): Packaging & content](https://web.archive.org/web/2025/https://sierrachest.com/index.php?a=games&id=521&title=hoyle-classic-card-games-1&fld=box) – PC CD-ROM, US, large flip-top box; Box ID 1023; UPC 0-20626-70255-3; included trailers and playable demos (Wayback copy)
 [^ref-29]: [LaunchBox Games Database – Hoyle Classic Card Games (1997)](https://gamesdb.launchbox-app.com/games/details/105639-hoyle-classic-card-games-1997) – ESRB E - Everyone, Windows 3.X, Sierra On-Line developer and publisher, twelve-game list
 [^ref-30]: [Internet Archive – Hoyle Classic Card Games (1997)](https://archive.org/details/hoyle-classic-card-games-1997) – second disc-image item (uploader description: "chinese tiles and checkers")
-[^ref-31]: [TechnoFILE – "Going to Hoyle in a Handcart" (Jim Bray)](https://www.technofile.com/articles/classicgames.html) – 1998 review of Hoyle Classic Board Games; mentions the bonus card-game pack with playable Hearts or Pyramid demos
+[^ref-31]: [TechnoFILE – "Going to Hoyle in a Handcart" (Jim Bray)](https://www.technofile.com/articles/classicgames.html) – review of Hoyle Classic Board Games; mentions the bonus card-game pack with playable Hearts or Pyramid demos
 [^ref-32]: [The Sierra Chest – Hoyle 4: Classic Card Games, General (Wayback, August 15, 2024)](https://web.archive.org/web/20240815083342/https://sierrachest.com/index.php?a=games&id=378&title=hoyle-4&fld=general) – titled "Hoyle 4: Classic Card Games"; first release 1993-01-01
