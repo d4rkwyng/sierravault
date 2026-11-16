@@ -10,7 +10,7 @@ series: Hoyle Games
 engine: Unknown
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: The 2001 edition of Hoyle Kids Games, sold as Hoyle Kids Games 2002,
   is a fifteen-game children's compilation from Sierra On-Line that added the new
   bumper-car game Bump 'Em.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-games, puzzle, sierra]
 ---
 # Hoyle Kids Games 2001
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -35,6 +35,7 @@ Children can play against friends and family on one computer or against Hoyle's 
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-9][^ref-25][^ref-26]
 > **Release Year:** 2001[^ref-9][^ref-26]
+> **Release Date:** September 25, 2001 (US PC)[^ref-26][^ref-38]; first release October 26, 2001 per Sierra Chest[^ref-9]
 > **Series:** Hoyle Games
 > **Protagonist:** Player-created avatar
 > **Sierra Lineage:** Core Sierra
