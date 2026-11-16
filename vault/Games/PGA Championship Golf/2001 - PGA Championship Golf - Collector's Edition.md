@@ -10,13 +10,13 @@ series: PGA Championship Golf
 engine: null
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: "A 2001 stand-alone re-release of Sierra Sports' PGA Championship Golf 2000 that added 12 new 18-hole courses, for 32 in total, plus new Course Architect objects and textures."
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf Collector's Edition
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -104,7 +104,7 @@ The game is preserved on the Internet Archive as two CD images.[^ref-31] The Sie
 
 ## Legacy
 
-According to Cauthen, the Collector's Edition courses had not caught on in Sierra's online lobby by late 2001. Unlike the Titanium Edition courses, they were not downloadable, and players had grown used to "a wealth of free, downloadable courses of comparable quality provided by an active community of course architects."[^ref-33]
+According to Cauthen, the Collector's Edition courses had not caught on in Sierra's online lobby by late 2001. Unlike the Titanium Edition courses, they were not yet downloadable, and players had grown used to "a wealth of free, downloadable courses of comparable quality provided by an active community of course architects."[^ref-33]
 
 ## Downloads
 
