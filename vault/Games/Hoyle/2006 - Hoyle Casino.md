@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Unknown
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: Hoyle Casino 2006 is a casino simulation for Windows PC, released in
   the US on September 27, 2005 by Encore Software, with more than 500 variants of
   16 casino games.
@@ -18,7 +18,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2006
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -194,7 +194,7 @@ Hoyle Casino 2006 is one of the Hoyle titles released under Encore Software afte
 ## Downloads
 
 **Purchase / Digital Stores**
-- No Steam or GOG listing (checked November 2026)
+- No Steam or GOG listing as of November 2026
 - GOG Dreamlist: [Hoyle Casino 2006 on the GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino-2006)[^ref-29]
 - Physical copies may be found through retro retailers
 
