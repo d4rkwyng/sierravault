@@ -10,7 +10,7 @@ series: Adibou
 engine: RenderWare (Windows)
 protagonist: Adiboo
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: Adiboo & Paziral's Secret is a 3D action-adventure platform game released
   in 2003 for PlayStation and 2004 for Windows PC, developed by Coktel Vision and Neko
   Entertainment.
@@ -18,7 +18,7 @@ tags: [2000s, adibou, coktel, racing, sierra]
 ---
 # Adiboo & Paziral's Secret
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -243,4 +243,4 @@ Jeuxvideo.com framed the game as an unexpected turn for Coktel Vision's edutainm
 [^ref-23]: [Wikipedia – Adibou (game table)](https://en.wikipedia.org/wiki/Adibou) – table entry only: 2003, PlayStation and Windows, Neko Entertainment, Vivendi Universal Games Int.
 [^ref-24]: [HFS-DB – Adiboo et le Secret de Paziral](https://db.hfsplay.fr/games/183492-adiboo-pazirals-secret?lang=fr) – PlayStation preservation database entry: Europe release, languages En, Fr, De, Es, It; Vivendi as publisher
 [^ref-25]: [Wikipédia (fr) – Pierre-Alain de Garrigues](https://fr.wikipedia.org/wiki/Pierre-Alain_de_Garrigues) – filmography: "2003 : Adibou et le Secret de Paziral : Tiltili, Bizbi, Paziral, Picabol, Ori, les robots"
-[^ref-21]: Feibel.de Kindersoftware-Ratgeber – "Alle Spiele - Adiboo & das Geheimis von Paziral" (feibel.3q.de, prodId 3206; Wayback snapshot 3 September 2019; link omitted) – German Windows version, ages 5+, "Veröffentlicht 01/03"; "Fazit: Es gibt bessere Jump-and-Run-Spiele"
+[^ref-21]: Feibel.de Kindersoftware-Ratgeber – "Alle Spiele - Adiboo & das Geheimis von Paziral" ([Wayback snapshot, 23 June 2021](https://web.archive.org/web/20210623231809/http://feibel.3q.de/index.php?id=7&catId=5&prodId=3206&cHash=2909d14692465bd3c181d476203478da)) – German Windows version, ages 5+, "Veröffentlicht 01/03"; "Fazit: Es gibt bessere Jump-and-Run-Spiele"

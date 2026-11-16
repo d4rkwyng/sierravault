@@ -10,7 +10,7 @@ series: 3-D Ultra
 engine: Unknown/unnamed
 protagonist: N/A (Player-controlled RC cars)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: '3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is an arcade-style
   RC racing game developed by Dynamix and published by Sierra On-Line in 2000, an expanded
   update of the 1999 original with sixteen tracks and new Soccer and Battle Ball modes.'
@@ -19,7 +19,7 @@ last_modified: 2026-11-12T12:00:00-07:00
 ---
 # 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -116,7 +116,7 @@ Players race against three other opponents at all times during standard races.[^
 
 ### Contemporary Reviews
 
-Neoseeker's Adam Byrant reviewed the game on November 23, 2000, awarding it a score of 78%.[^ref-2] MobyGames lists an average critic score of 55% based on 2 ratings (as of November 2026).[^ref-22] The review acknowledged the game's nostalgic appeal, noting that "the ultimate Christmas present for any young child out there would have to be a radio controlled racecar" and praising the game for eliminating the "disappointing hourly charge-ups" of real RC cars.[^ref-2] However, Byrant identified significant issues with the audio design, stating "the biggest problem I had with this game was the sound. The music, announcer dialogue, and above all sound effects of the cars and powerups were the biggest turn-offs."[^ref-2] The review concluded that "RCR just doesn't come through in the lasting fun department, save for maybe the littler ones."[^ref-2]
+Neoseeker's Adam Byrant reviewed the game on November 23, 2000, awarding it a score of 78%.[^ref-2] MobyGames lists an average critic score of 55% based on 2 ratings, from All Game Guide (60%) and Gamekult (50%), as of November 2026.[^ref-22] The review acknowledged the game's nostalgic appeal, noting that "the ultimate Christmas present for any young child out there would have to be a radio controlled racecar" and praising the game for eliminating the "disappointing hourly charge-ups" of real RC cars.[^ref-2] However, Byrant identified significant issues with the audio design, stating "the biggest problem I had with this game was the sound. The music, announcer dialogue, and above all sound effects of the cars and powerups were the biggest turn-offs."[^ref-2] The review concluded that "RCR just doesn't come through in the lasting fun department, save for maybe the littler ones."[^ref-2]
 
 Collection Chamber's retrospective covers the 1999 original (with its eight tracks), not this edition. It found that "3D Ultra has always valued entertainment value over depth of gameplay, and the lack of variety really shows here," while conceding "What is there is a lot of fun. I just wish there was more of it."[^ref-6]
 
@@ -291,7 +291,7 @@ Collection Chamber, reviewing the 1999 original, observed that "3D Ultra has alw
 
 [^ref-17]: [Eli's Software Encyclopedia – 3-D Ultra Radio Control Racers Deluxe Traxxas Edition (PC, CD-ROM) Sierra – 2000 USA, Canada Release](https://elisoftware.org/wiki/3-D_Ultra_Radio_Control_Racers_Deluxe_Traxxas_Edition_(PC,_CD-ROM)_Sierra_-_2000_USA,_Canada_Release) – transcribed retail box: system requirements, "16 tracks", Traxxas Raceway, paint shop
 
-[^ref-18]: [eBay Product Catalog – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://www.ebay.com/p/7622) – retail catalog text: vehicle traits, four circuits, 14 tracks (tier 4 blurb)
+[^ref-18]: [eBay Product Catalog – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://www.ebay.com/p/7622) – retail catalog text: vehicle traits, four circuits, 14 tracks
 
 [^ref-19]: [IGN PC Cheats – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition Cheats](https://www.ign.com/wikis/pc-cheats/3-D_Ultra_Radio_Control_Racers_Deluxe:_Traxxas_Edition_Cheats) – user-edited wiki, posted March 15, 2017; pause-menu cheat codes
 
@@ -299,4 +299,4 @@ Collection Chamber, reviewing the 1999 original, observed that "3D Ultra has alw
 
 [^ref-21]: [Sierra Entertainment – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition (Wayback, 2003)](https://web.archive.org/web/20031003001620/http://www.sierra.com/product.do?gamePlatformId=292) – Sierra's product page: "hot-selling" original, eight new tracks, Windows 95/98/2000, Pentium 90 MHz, 32 MB RAM, 4X CD-ROM, 90 MB hard drive space
 
-[^ref-22]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition reviews](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/reviews/) – critic average 55% based on 2 ratings, read via the MobyGames site
+[^ref-22]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition reviews](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/reviews/) – critic average 55% based on 2 ratings (All Game Guide 60%, Gamekult 50%)
