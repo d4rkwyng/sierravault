@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created company president
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 composer: [Christopher J. Denman, Jason P. Rinaldi]
 description: Detroit is a turn-based business simulation game that places players
   in charge of a fledgling automobile company starting in 1908, the year the Ford
@@ -19,7 +19,7 @@ tags: [1990s, sierra, simulation, standalone]
 ---
 # Detroit
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -82,9 +82,9 @@ Detroit functions primarily as a management simulation rather than a traditional
 
 ### Contemporary Reviews
 
-Detroit received mixed reviews upon its 1994 release; MobyGames averages 67% from 25 critics.[^ref-1] Computer Gaming World assigned the game a score of 2 out of 5 in their August 1994 issue, with reviewers Alan Emrich and Petra Schlunk characterizing it as "a puzzle game rather than a true strategy game."[^ref-12][^ref-13] The rating box on the scanned page shows two stars.[^ref-13]
+Detroit received mixed reviews upon its 1994 release; MobyGames averages 67% from 25 critics.[^ref-1] Computer Gaming World assigned the game a score of 2 out of 5 in their August 1994 issue, with reviewers Alan Emrich and Petra Schlunk characterizing it as "a puzzle game rather than a true strategy game."[^ref-12][^ref-13]
 
-On Amiga, the reviews read were warmer. Amiga Action (November 1994) gave it 91% and its Accolade, writing "Detroit is excellent. It's as simple as that."[^ref-22] CU Amiga (October 1994, Tony Dillon) gave 85% and called it "an excellent game," while noting that "the game doesn't have the animations of the PC version."[^ref-21] The One Amiga (October 1994, Andy Nuttall) gave 78%, saying Impressions "strangely, comes up with a good game."[^ref-23] Amiga Joker (October 1994) scored the standard version 80% and the AGA version 81%.[^ref-24] The Amiga Magazine Rack database also lists Amiga Dream 11 at 84%, Amiga Format 64 at 69%, Amiga Power 42 at 27% and Datormagazin 19/1994 at 2/5; those scans were not read for this page.[^ref-26]
+On Amiga, the reviews were warmer. Amiga Action (November 1994) gave it 91% and its Accolade, writing "Detroit is excellent. It's as simple as that."[^ref-22] CU Amiga (October 1994, Tony Dillon) gave 85% and called it "an excellent game," while noting that "the game doesn't have the animations of the PC version."[^ref-21] The One Amiga (October 1994, Andy Nuttall) gave 78%, saying Impressions "strangely, comes up with a good game."[^ref-23] Amiga Joker (October 1994) scored the standard version 80% and the AGA version 81%.[^ref-24] The Amiga Magazine Rack database also lists Amiga Dream 11 at 84%, Amiga Format 64 at 69%, Amiga Power 42 at 27% and Datormagazin 19/1994 at 2/5.[^ref-26]
 
 Game Bytes reviewer Philip Chiu offered a more positive assessment, noting that "despite the initial awkwardness of the interface, I managed to around playing the game fairly quickly." He concluded that the game was "unique and interesting from the standpoint of originality of design, but it tends to fall short in the area of business management." His final recommendation stated: "I highly recommend DETROIT for anyone who is interested in cars and automotive history. This is the only simulation game on the market that I know of which deals with this particular subject."[^ref-9]
 
@@ -189,7 +189,7 @@ The game is not sold on GOG.com, where it exists only as a wishlist entry with u
 
 ### Later Games
 
-Automation is a commercial car-company simulation by New Zealand developer Camshaft Software.[^ref-17] Wikipedia's Detroit article, which is the source for this link, lists it as "an in-Beta descendant of Detroit",[^ref-12] and in April 2011 a MyAbandonware user posting as "Daffy" commented: "I'm working on a sequel to this game - take a look at www.automationgame.com".[^ref-18]
+Automation is a commercial car-company simulation by New Zealand developer Camshaft Software.[^ref-17] Wikipedia's Detroit article lists it as "an in-Beta descendant of Detroit",[^ref-12] and in April 2011 a MyAbandonware user posting as "Daffy" commented: "I'm working on a sequel to this game - take a look at www.automationgame.com".[^ref-18]
 
 ### Related Publications
 
@@ -206,7 +206,7 @@ Home of the Underdogs gave the game "two thumbs up," describing it as emphasizin
 
 **Purchase / Digital Stores**
 - Not currently available for digital purchase
-- No GOG or Steam listing (checked November 2026)
+- No GOG or Steam listing as of November 2026
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/detroit-1ln)
@@ -238,7 +238,7 @@ Home of the Underdogs gave the game "two thumbs up," describing it as emphasizin
 [^ref-9]: [Game Bytes Issue 20 – Detroit Review](http://www.ibiblio.org/GameBytes/issue20/greviews/detroit.html) – Philip Chiu review, technical requirements, patch information
 [^ref-11]: [Classic DOS Games – Detroit](https://www.classicdosgames.com/game/Detroit.html) – shareware demo information, genre assessment
 [^ref-12]: [Wikipedia – Detroit (video game)](https://en.wikipedia.org/wiki/Detroit_(video_game)) – comprehensive game information, Computer Gaming World review citation, gameplay mechanics, developer credits (Dale Campbell programmer), Edsel cover caption, Automation listed as descendant
-[^ref-13]: [Computer Gaming World Museum – August 1994 (Issue 121)](https://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=121) – original review by Alan Emrich and Petra Schlunk, pp. 122–123, 2/5 star rating (two stars confirmed on the page image of p. 123); text checked in the [Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_121): "natural sequel" to AirBucks, "fairly intuitive interface", 6.5MB hard drive space, "The Open Road" booklet, bugs and patch
+[^ref-13]: [Computer Gaming World Museum – August 1994 (Issue 121)](https://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=121) – original review by Alan Emrich and Petra Schlunk, pp. 122–123, 2/5 star rating; [Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_121): "natural sequel" to AirBucks, "fairly intuitive interface", 6.5MB hard drive space, "The Open Road" booklet, bugs and patch
 [^ref-14]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, David Lester founder, Sierra acquisition 1995, game catalog
 [^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.net/person/david-lester) – designer biography, Impressions Games founding, game design philosophy
 [^ref-16]: [Internet Archive – Sierra Official Website (1997)](https://web.archive.org/web/19970204075308/http://www.sierra-online.co.uk:80/uk/so_uk/detroit_uk/detroit_uk.html) – official Sierra UK product page: Sierra Originals reissue at £9.99, system requirements, PC Zone quote
@@ -247,8 +247,8 @@ Home of the Underdogs gave the game "two thumbs up," describing it as emphasizin
 [^ref-19]: [Computer Gaming World Issue 103 (February 1993) – "No 'Impressions' Of Lion Tamers For U.K. Expatriate David Lester"](https://archive.org/details/Computer_Gaming_World_Issue_103/page/n97/mode/1up) – Lester and Edward Grabowski established the company; Zeppelin Games deal, summer 1989; strategy specialisation from late 1990
 [^ref-20]: [Companies Made Simple – Real Business Case Study: David Lester (archived 2014)](https://web.archive.org/web/20140209164123/http://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester) – interview by Mathew Aitken, February 6, 2013: Lester founded Impressions Software "in 1988 when just 22"
 [^ref-21]: [CU Amiga, October 1994 – Detroit review, pp. 62–63 (Tony Dillon)](https://archive.org/details/cuamiga-magazine-056) – Amiga review: Impressions, £25.99, 85% overall; design areas, production lines, advertising media, hiring, office reports
-[^ref-22]: [Amiga Action, issue 63, November 1994 – Detroit review (reviewed by Steve; second opinion by Neil)](https://archive.org/details/amigaaction63/page/n39) – Publisher Impressions, £29.99, 91% overall and Accolade (read from the page image of p. 40; the OCR text does not carry the score or the Accolade); expansion, advertising, pricing, staffing
-[^ref-23]: [The One Amiga, October 1994 – Detroit review, p. 52 (Andy Nuttall)](https://archive.org/details/the-one-amiga-october-1994-optimized/page/n51) – Publisher Impressions, £34.99, 78% overall (read from the page image; the OCR text does not carry the score); five prototype tests; AGA and non-AGA versions, no CD32 version planned
-[^ref-24]: [Amiga Joker, October 1994 – "Rüsselsheim (Impressions)" review, pp. 30–31 (German)](https://archive.org/details/Amiga_Joker_1994-10_Joker_Verlag_DE/page/n29) – 80% standard, 81% AGA (read from the page image of p. 31; the OCR text is too noisy to carry the scores); US original called "Detroit"; world events affect sales; second-drive claim on the box
-[^ref-25]: [Power Play, August 1994 – "Rüsselsheim" PC test, p. 47 (German)](https://archive.org/details/powerplaymagazine-1994-08/page/n45) – 52% "Geht so" (read from the page image; the OCR text does not carry the score); German title, Impressions Software, requirements box
+[^ref-22]: [Amiga Action, issue 63, November 1994 – Detroit review (reviewed by Steve; second opinion by Neil)](https://archive.org/details/amigaaction63/page/n39) – Publisher Impressions, £29.99, 91% overall and Accolade; expansion, advertising, pricing, staffing
+[^ref-23]: [The One Amiga, October 1994 – Detroit review, p. 52 (Andy Nuttall)](https://archive.org/details/the-one-amiga-october-1994-optimized/page/n51) – Publisher Impressions, £34.99, 78% overall; five prototype tests; AGA and non-AGA versions, no CD32 version planned
+[^ref-24]: [Amiga Joker, October 1994 – "Rüsselsheim (Impressions)" review, pp. 30–31 (German)](https://archive.org/details/Amiga_Joker_1994-10_Joker_Verlag_DE/page/n29) – 80% standard, 81% AGA; US original called "Detroit"; world events affect sales; second-drive claim on the box
+[^ref-25]: [Power Play, August 1994 – "Rüsselsheim" PC test, p. 47 (German)](https://archive.org/details/powerplaymagazine-1994-08/page/n46) – 52% "Geht so"; German title, Impressions Software, requirements box
 [^ref-26]: [Amiga Magazine Rack – Detroit review record (CU Amiga, Oct 1994)](https://amr.abime.net/review_9832) – database listing of Detroit's Amiga magazine reviews, scores and page numbers (Amiga Dream 84%, Amiga Format 69%, Amiga Power 27%, Datormagazin 2/5)
