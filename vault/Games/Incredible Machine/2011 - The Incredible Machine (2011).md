@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: null
 protagonist: None (Player as inventor)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 composer: null
 description: The Incredible Machine (2011) is an iOS remake of the classic physics puzzle series, developed by Playdom and published by Disney Mobile for iPad and iPhone, with Jeff Tunnell involved.
 tags: [2010s, puzzle, ios, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -90,7 +90,7 @@ The original [[1992 - The Incredible Machine]] was developed by Dynamix and Jeff
 
 ### Production
 
-GamePro reported that the iPad game was "built from the ground up, with completely new sprites and art work but with many returning objects and characters," and GamePro's Chris Holt wrote that "the original developers behind the early-90s puzzlers are back" and that "the creative team behind it remains the same"[^ref-46]. Pocket Gamer likewise reported that the game came "courtesy of the original developers behind the 1993 PC hit"[^ref-57]. The game was shown at Disney's booth at E3 2011[^ref-49]. The publisher's App Store listing carried the marketing line "WINNER***BEST iPHONE/iPAD GAME OF E3***IGN"; this is Disney's own promotional wording, and the IGN source found lists only nominations[^ref-60][^ref-51].
+GamePro reported that the iPad game was "built from the ground up, with completely new sprites and art work but with many returning objects and characters," and GamePro's Chris Holt wrote that "the original developers behind the early-90s puzzlers are back" and that "the creative team behind it remains the same"[^ref-46]. Pocket Gamer likewise reported that the game came "courtesy of the original developers behind the 1993 PC hit"[^ref-57]. The game was shown at Disney's booth at E3 2011[^ref-49]. The publisher's App Store listing carried the marketing line "WINNER***BEST iPHONE/iPAD GAME OF E3***IGN"; this is Disney's own promotional wording, and the cited IGN page lists only nominations[^ref-60][^ref-51].
 
 ### Version History
 
@@ -112,7 +112,7 @@ The app is no longer sold; Wired reported in 2013 that Disney "quietly pulled th
 
 ## Downloads
 
-**Purchase / Digital Stores:** The game is not available for purchase or download. It was removed from the App Store within a year of its release, according to Wired[^ref-62][^ref-52]. It has no Steam or GOG listing (checked November 2026).
+**Purchase / Digital Stores:** The game is not available for purchase or download. It was removed from the App Store within a year of its release, according to Wired[^ref-62][^ref-52]. It has no Steam or GOG listing as of November 2026.
 
 ## See Also
 
