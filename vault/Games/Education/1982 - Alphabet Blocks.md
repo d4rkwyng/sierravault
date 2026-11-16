@@ -10,7 +10,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Bananas and Jack (coaches)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-11-12'
+last_updated: '2026-11-16'
 description: Alphabet Blocks is an interactive multimedia educational program designed
  to teach young children the letters and sounds of the English alphabet, developed by
  Bright Star Technology and published by Sierra On-Line in its Sierra Discovery Series.
@@ -18,7 +18,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Alphabet Blocks
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 16, 2026</small>
 
 ## Overview
 
@@ -255,7 +255,7 @@ IGDB lists the game as an educational title for Mac (1992) and PC (Microsoft Win
 [^ref-19]: [MobyGames – Alphabet Blocks Releases](https://www.mobygames.com/game/113498/alphabet-blocks/releases/) – Macintosh Oct 16, 1992 and Windows 16-bit May 11, 1993, both version 2.1
 [^ref-20]: [MobyGames – Alphabet Blocks Specs](https://www.mobygames.com/game/113498/alphabet-blocks/specs/) – Macintosh and Windows minimum requirements
 [^ref-22]: [Corum Group – Sierra On-Line – Bright Star (July 1992)](https://www.corumgroup.com/transactions/sierra-line-bright-star) – adviser's transaction record: Corum advised Bright Star on its sale to Sierra; names Alphabet Blocks among well-known Bright Star titles
-[^ref-23]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – founded by Elon Gasper and Nedra Goedert "during the early 1980s", citing Popular Science, May 1993, p. 43 (tier 4; Goedert credit rests on this alone)
+[^ref-23]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – founded by Elon Gasper and Nedra Goedert "during the early 1980s", citing Popular Science, May 1993, p. 43
 [^ref-21]: [The Computer Museum Guide to the Best Software for Kids (HarperPerennial, 1995), p.89 – Alphabet Blocks](https://archive.org/details/computermuseumguid00mira/page/89/mode/1up) – period review scan: one star, "Best for ages 3-4", Macintosh and Windows on CD-ROM or floppy, about $35
 [^ref-24]: [InterAction Magazine, Vol. V No. 3 (Fall 1992), Sierra On-Line](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US) – period scan: Bright Star blurb "Products to be released this year: Talking Tiles, Alphabet Blocks"; article on the game and its phonetic instruction; sale list price $42.45
 [^ref-25]: [InterAction Magazine, Vol. V No. 4 (Winter 1992), Sierra On-Line](https://archive.org/details/InterAction_Magazine_Vol._V_Number_4_Winter_1992_1992_Sierra_On-Line_US) – period scan: box text (pp. 52-55) with "a cheerful chimp named Bananas and a jolly jack-in-the-box named Jack"; order form (p. 18) lists Alphabet Blocks at $42.95 under a Windows heading, prices effective 9/1/92-12/31/92
