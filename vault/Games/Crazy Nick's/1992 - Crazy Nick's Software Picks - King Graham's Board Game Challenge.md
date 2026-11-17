@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: '**Crazy Nick''s Software Picks: King Graham''s Board Game Challenge**
   is a 1992 Sierra On-Line budget release that pairs Checkers and Backgammon, taken
   from Hoyle 3, with King Graham as the opponent.'
@@ -18,11 +18,11 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 ---
 # Crazy Nick's Software Picks: King Graham's Board Game Challenge
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
-**Crazy Nick's Software Picks: King Graham's Board Game Challenge** is a small board-game package that Sierra On-Line released for DOS PCs on June 5, 1992, according to Sierra Chest.[^ref-6] Other sources give only a year: MobyGames and MyAbandonware say 1992,[^ref-1][^ref-11] LaunchBox says 1993,[^ref-5] and the Internet Archive's copy of the game is dated 1993.[^ref-18] IGN lists December 31, 1992, which looks like a placeholder date.[^ref-2] The game's SCI interpreter is dated 06/01/92.[^ref-30] It offers two tabletop classics, Checkers and Backgammon, and casts King Graham of the King's Quest series as the player's only opponent.[^ref-2][^ref-1] It is one of the first five Crazy Nick's Software Picks packs, budget compilations that reused mini-games and casino or board games from Sierra's adventure and Hoyle titles.[^ref-6][^ref-4]
+**Crazy Nick's Software Picks: King Graham's Board Game Challenge** is a small board-game package that Sierra On-Line released for DOS PCs on June 5, 1992, according to Sierra Chest.[^ref-6] Other sources give only a year: MobyGames and MyAbandonware say 1992,[^ref-1][^ref-11] LaunchBox says 1993,[^ref-5] and the Internet Archive's copy of the game is dated 1993.[^ref-18] IGN lists December 31, 1992.[^ref-2] The game's SCI interpreter is dated 06/01/92.[^ref-30] It offers two tabletop classics, Checkers and Backgammon, and casts King Graham of the King's Quest series as the player's only opponent.[^ref-2][^ref-1] It is one of the first five Crazy Nick's Software Picks packs, budget compilations that reused mini-games and casino or board games from Sierra's adventure and Hoyle titles.[^ref-6][^ref-4]
 
 Both games were lifted from [[1991 - Hoyle Official Book of Games - Volume 3|*Hoyle Official Book of Games Volume 3: Great Board Games*]] (Hoyle 3).[^ref-6] The pack runs on Sierra's SCI1.1 interpreter.[^ref-7]
 
@@ -107,7 +107,7 @@ Sierra Chest says that in the summer of 1992, Sierra gathered mini arcade sequen
 4. **Robin Hood's Games of Skill and Chance**
 5. **Roger Wilco's Spaced Out Game Pack**
 
-InterAction's Winter 1992 issue said bargain software lovers had made "the first five titles of Nick's Picks such a hit" that Sierra was rolling out five new titles, which were all-new arcade games rather than extracts from larger games.[^ref-28] The pack was still offered by mail order in Sierra's Spring 1993 "Nick's Picks Special", with an offer expiry of April 15, 1993. (The Internet Archive item for that issue is titled June 1993, but the scan itself reads Spring 1993.)[^ref-29]
+InterAction's Winter 1992 issue said bargain software lovers had made "the first five titles of Nick's Picks such a hit" that Sierra was rolling out five new titles, which were all-new arcade games rather than extracts from larger games.[^ref-28] The pack was still offered by mail order in Sierra's Spring 1993 "Nick's Picks Special", with an offer expiry of April 15, 1993.[^ref-29]
 
 ### Production
 
