@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: Unknown/unnamed
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: 3-D Ultra Pinball Power! is a 1999 Sierra compilation of Dynamix's 3-D
   Ultra Pinball games, released in two editions with different contents in North America
   and Europe.
@@ -19,7 +19,7 @@ last_modified: 2026-11-06T22:33:17-07:00
 ---
 # 3-D Ultra Pinball Power!
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -208,7 +208,7 @@ The 3-D Ultra Pinball series continued after Power! with 3-D Ultra Pinball: Thri
 ## Downloads
 
 **Purchase / Digital Stores**
-- No Steam or GOG listing (checked November 2026)
+- No Steam or GOG listing as of November 2026
 - [GOG Dreamlist](https://gog.com/dreamlist/game/3-d-ultra-pinball-1995) (Dreamlist entry for the original 1995 game)
 
 ## See Also
@@ -235,14 +235,14 @@ The 3-D Ultra Pinball series continued after Power! with 3-D Ultra Pinball: Thri
 [^ref-2]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) – series overview, sales data, temporary targets, per-game table counts, MacUser rating of Creep Night, Power (US edition) contents
 [^ref-3]: [IGN – 3-D Ultra Pinball Power](https://www.ign.com/games/3-d-ultra-pinball-power) – release date, four-CD set details, table counts per game, bonus content
 [^ref-4]: [PriceCharting – 3-D Ultra Pinball](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball) – "Impossible Pinball" description, fantasy pinball elements, ESRB rating
-[^ref-5]: [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – platforms, contents (incl. Turbo Racing and Minigolf demo), technical specifications incl. minimum requirements (read via the MobyGames API), critic score
+[^ref-5]: [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – platforms, contents (incl. Turbo Racing and Minigolf demo), technical specifications incl. minimum requirements, critic score
 [^ref-6]: [Sierra Chest – 3-D Ultra Pinball: Collector's Edition](https://sierrachest.com/index.php?a=games&id=107&title=pinball-collectors-edition&fld=general) – relationship to Power!, VHS bonus content, included titles
 [^ref-7]: [TV Tropes – 3-D Ultra Pinball](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraPinball) – original game description, Outpost connection, physics engine limitations, technical specifications
 [^ref-8]: [GRY-Online.pl – Seria 3D Ultra Pinball](https://www.gry-online.pl/gry/seria-3d-ultra-pinball/z770) – Polish release dates, user ratings across series, compilation contents
 [^ref-9]: [Retro365 – 3-D Ultra Pinball: Revitalizing a Classic](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – sales figures, development history, Dynamix acquisition, Take a Break! Pinball origins, critical quotes
 [^ref-10]: [Dynamix Fandom Wiki – 3-D Ultra Series](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – complete series chronology, compilation list, cancelled NFL Pinball
 [^ref-13]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series listing, dates "3D Ultra Pinball Power!" to 1998
-[^ref-14]: [Gamepressure – 3D Ultra Pinball Game Series](https://www.gamepressure.com/games/3d-ultra-pinball-series/z770) – series listing including 3D Ultra Pinball Power (June 30, 1999), Thrillride (October 1, 1999), Creep Night (September 23, 1996) and Lost Continent (May 31, 1997) release dates, Lost Continent 16 tables, Command Post table name, user scores (checked October 27, 2026)
+[^ref-14]: [Gamepressure – 3D Ultra Pinball Game Series](https://www.gamepressure.com/games/3d-ultra-pinball-series/z770) – series listing including 3D Ultra Pinball Power (June 30, 1999), Thrillride (October 1, 1999), Creep Night (September 23, 1996) and Lost Continent (May 31, 1997) release dates, Lost Continent 16 tables, Command Post table name, user scores as of October 27, 2026
 [^ref-16]: [Sierra Chest – 3-D Ultra Pinball Power](https://sierrachest.com/index.php?a=games&id=105&fld=general) – US vs EU edition contents, Jeff Tunnell Productions, Unknown/unnamed engine
 [^ref-17]: [MobyGames – 3-D Ultra Pinball: Power! Releases](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/releases/) – release dates, regions, platforms and publishers
 [^ref-18]: [MobyGames – 3-D Ultra Pinball: Power! Credits (Windows)](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/credits/windows/) – credits carried over from Creep Night and the original game, memorial dedication
