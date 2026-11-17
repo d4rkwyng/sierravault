@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: null
 protagonist: Football Club Manager
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: Ultimate Soccer Manager 98 is a 1998 football management game for Windows
   95, developed by Impressions and published by Sierra, covering six European national
   leagues in the 1997-98 season.
@@ -18,7 +18,7 @@ tags: [1990s, sierra, impressions, ultimate-soccer-manager, sports-management]
 ---
 # Ultimate Soccer Manager 98
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -48,11 +48,11 @@ USM 98 keeps the series' presentation, in which each part of the club is a room 
 
 ### Structure and Progression
 
-At the start the player chooses to play as manager or coach. A coach deals with the squad, contracts and training. A manager also sets ticket prices, sells sponsorship and rebuilds the ground[^ref-59][^ref-55][^ref-50]. Fuller FM notes that the choice cannot be changed later[^ref-12]. The difficulty level sets the starting transfer budget. PC Zone reported £20 million on the easiest setting, even for a club like Doncaster[^ref-56][^ref-12]. Up to eight people can play on one PC, taking turns[^ref-59][^ref-61].
+At the start the player chooses to play as manager or coach. A coach deals with the squad, contracts and training. A manager also sets ticket prices, sells sponsorship and rebuilds the ground[^ref-59][^ref-55][^ref-50]. Fuller FM notes that the choice cannot be changed later[^ref-12]. The difficulty level sets the starting transfer budget. PC Zone reported £20 million on the easiest setting, even for a club like Doncaster[^ref-56][^ref-12]. Up to eight people can play on one PC, taking turns[^ref-59][^ref-61]. MobyGames lists the leagues as all five nationwide leagues in England, four in Scotland, both Bundesligas and the Regionalliga in Germany, and two divisions each in Spain, France and Italy[^ref-61].
 
 All six leagues run every week, so the player can follow results in every division, apply for jobs abroad and buy players from any of them[^ref-50]. PC Review counted "half a dozen different countries" to choose from[^ref-58]. The game covers the 1997–98 season. The Cutting Room Floor describes version 1.0 as "the original 97/98 version"[^ref-9][^ref-12]. The chairman sets a target for the season and for each match, and reports how happy he is with the manager[^ref-50].
 
-Players now have positions defined by their skills, and a favoured side. Intensive training can retrain a player for a new position[^ref-61]. An in-game editor can change almost every statistic, except a player's potential[^ref-61]. Ultimate PC explained that the statistics "can be taken at face value", unlike those in Championship Manager 2[^ref-59].
+Players now have positions defined by their skills, and a favoured side. Intensive training can retrain a player for a new position[^ref-61]. An in-game editor can change almost every statistic, except a player's potential[^ref-61]. MobyGames notes that players no longer have a personality trait[^ref-61]. Ultimate PC explained that the statistics "can be taken at face value", unlike those in Championship Manager 2[^ref-59].
 
 ### Transfers, Tactics and Matches
 
@@ -147,7 +147,7 @@ Series: USM 98 followed [[1995 - Ultimate Soccer Manager]] and [[1996 - Ultimate
 
 ## Downloads
 
-The game is not sold on Steam or GOG (checked 2026-11-01).
+The game is not sold on Steam or GOG as of November 1, 2026.
 
 **Download / Preservation**
 - [MyAbandonware – Ultimate Soccer Manager 98](https://www.myabandonware.com/game/ultimate-soccer-manager-98-yo0)[^ref-65]
@@ -180,7 +180,7 @@ The game is not sold on Steam or GOG (checked 2026-11-01).
 [^ref-58]: [PC Review #83 (July 1998), review, p. 47](https://archive.org/details/pc-review-83/page/n46/mode/2up) – Graham Southorn review, eight out of ten; developer Impressions UK, publisher Cendant, £34.99
 [^ref-59]: [Ultimate PC #9 (May 1998), review, pp. 84–86](https://archive.org/details/ultimate-pc-09/page/n83/mode/2up) – 88/100 "Hot Property"; six leagues; up to eight players; publisher Cendant
 [^ref-60]: [PC Gamer UK #58 (August 1998), "The Official PC Gamer Top 20", p. 54](https://archive.org/details/pc-gamer-uk-issue-58-august-1998/page/n56/mode/2up) – "9 (1) Ultimate Soccer Manager 98 – Sierra"
-[^ref-61]: [MobyGames – Ultimate Soccer Manager 98](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/) – Windows 1998; Sierra On-Line / Impressions Games; alternate titles; description (positions, fax transfers, editor); series order
+[^ref-61]: [MobyGames – Ultimate Soccer Manager 98](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/) – Windows 1998; Sierra On-Line / Impressions Games; alternate titles; description (leagues, positions, personality trait, fax transfers, editor); series order
 [^ref-62]: [MobyGames – Ultimate Soccer Manager 98 credits (Windows)](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/credits/windows/) – design, programming, music, art director, producer credits
 [^ref-63]: [MobyGames – Ultimate Soccer Manager 98 reviews](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/reviews/) – 70% critic average from 12 ratings; individual magazine scores and excerpts
 [^ref-64]: [MobyGames – Ultimate Soccer Manager 98 specs](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/specs/) – Pentium, Windows 95, 16 MB, CD-ROM 2×, 640×480, 1–8 players, age ratings
