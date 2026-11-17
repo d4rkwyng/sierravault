@@ -10,7 +10,7 @@ series: Manhunter
 engine: Unknown (never entered production)
 protagonist: The Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: 'Manhunter 3: London is a cancelled post-apocalyptic adventure game, planned
   as the third installment in the Manhunter series. Teased in Manhunter 2: San Francisco,
   it never went beyond the concept stage after Evryware and Sierra parted ways in 1989.'
@@ -18,7 +18,7 @@ tags: [adventure, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -73,7 +73,7 @@ While the Murrys were working on The Ancient Art of War at Sea, Sierra offered t
 
 No production of Manhunter 3: London is documented. The Larry Laffer Dot Net shrine states that "the association between Evryware and Sierra ended in 1989 and the two companies never partnered up again," and that no deal was ever struck to move the third game into production.[^ref-2] The next Evryware project discussed in a 1997 interview, after the two Manhunter games, was The Ancient Art of War in the Skies, begun "to complete our war trilogy"; it was published by MicroProse in 1992.[^ref-16][^ref-20][^ref-21] Evryware's own chronology lists no third Manhunter game between Manhunter: San Francisco (1989) and that 1992 title.[^ref-21]
 
-A 2003 Sierra Gamers forum post signed "Ken W" and attributed to Sierra co-founder Ken Williams offered a different recollection, opening with "I hope I am remembering this right." The post says it had the Murrys "planned for Manhunter 3," but encouraged them to pursue their idea for Ancient Art of War, which Brøderbund then convinced them to publish; under his rule of never being the "high bidder," they never returned to Sierra.[^ref-4] The post's account does not match the published chronology: The Ancient Art of War was released by Brøderbund in 1984, four years before Manhunter: New York, as another poster in the same thread pointed out.[^ref-4][^ref-18][^ref-19] The same post recalled that Brøderbund recalled the first Ancient Art of War box because the writing on its pictured vase turned out to be x-rated; this anecdote rests only on the writer's recollection.[^ref-4]
+A 2003 Sierra Gamers forum post signed "Ken W" and attributed to Sierra co-founder Ken Williams offered a different recollection, opening with "I hope I am remembering this right." The post says it had the Murrys "planned for Manhunter 3," but encouraged them to pursue their idea for Ancient Art of War, which Brøderbund then convinced them to publish; under his rule of never being the "high bidder," they never returned to Sierra.[^ref-4] The post's account does not match the published chronology: The Ancient Art of War was released by Brøderbund in 1984, four years before Manhunter: New York, as another poster in the same thread pointed out.[^ref-4][^ref-18][^ref-19] The same post also told a side story: the writing on the ancient vase pictured on Brøderbund's first Ancient Art of War box turned out to be x-rated to those who could read it, and Brøderbund had to recall the copies shipped to retail; this anecdote rests only on the writer's recollection.[^ref-4]
 
 **Development Credits:**[^ref-1]
 - **Designers:** Barry Murry, Dave Murry, Dee Dee Murry
@@ -157,7 +157,7 @@ The series was meant to be a trilogy with the third game set in London, but only
 ## Purchase
 
 **Purchase / Digital Stores**
-- No GOG or Steam listing for the Manhunter games as of November 2026 (checked November 12, 2026)
+- No GOG or Steam listing for the Manhunter games as of November 12, 2026
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
