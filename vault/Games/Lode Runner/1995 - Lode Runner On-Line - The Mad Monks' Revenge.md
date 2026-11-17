@@ -14,13 +14,13 @@ series: "Lode Runner"
 engine: "Custom (32-bit update of The Legend Returns engine)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: "Lode Runner On-Line: The Mad Monks' Revenge is Presage Software's 1995 enhanced edition of Lode Runner: The Legend Returns for Windows 95 and Macintosh, published by Sierra. It adds two-player modem and network play, two new worlds, new single-player and two-player levels (sources differ on the exact count) and new hazards."
 tags: [1990s, lode-runner, presage, multiplayer, puzzle-platform, windows-95]
 ---
 # Lode Runner On-Line: The Mad Monks' Revenge
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -202,7 +202,7 @@ No compilation or digital-store re-release of *Lode Runner On-Line* was found du
 ## References
 
 [^ref-1]: [Wikipedia – Lode Runner Online: The Mad Monks' Revenge](https://en.wikipedia.org/wiki/Lode_Runner_Online:_The_Mad_Monks%27_Revenge) – enhanced version of The Legend Returns, developer, publisher, director, designers, 1995 Windows/Mac OS, offline play, new elements (self-igniting bombs, phase blocks, coloured items, multi-exit editor), review scores (Albuquerque Journal, CGM, Philadelphia Daily News, PC Player, PC Action) and quotes
-[^ref-2]: [MobyGames – Lode Runner On-Line: The Mad Monks' Revenge](https://www.mobygames.com/game/2988/lode-runner-on-line-the-mad-monks-revenge/) – database entry read via the MobyGames API (Presage Software developer, Sierra publisher, 1995, Moby Score 6.2 from 7 votes); credits page lists Jeffrey Tunnell (as Jeff Tunnell) as Executive Producer and Jeff Tunnell Productions for executive production
+[^ref-2]: [MobyGames – Lode Runner On-Line: The Mad Monks' Revenge](https://www.mobygames.com/game/2988/lode-runner-on-line-the-mad-monks-revenge/) – database entry (Presage Software developer, Sierra publisher, 1995, Moby Score 6.2 from 7 votes); credits page lists Jeffrey Tunnell (as Jeff Tunnell) as Executive Producer and Jeff Tunnell Productions for executive production
 [^ref-3]: [Presage Software – Lode Runner Online product page (Wayback, 1997)](https://web.archive.org/web/19970614014935/http://www.presage.com:80/pLRonline.html) – Presage designed and developed the Macintosh and Windows 95 versions; Sierra publisher; listed awards
 [^ref-4]: [Home of the Underdogs – Lode Runner Online: The Mad Monks' Revenge](https://homeoftheunderdogs.net/game.php?id=2299) – review, new features, naming confusion, 2002 free release by the lead programmer, 8.6 from 282 votes, "Presage (now Human Code)"
 [^ref-5]: [InterAction (Sierra), Holiday 1995 – Lode Runner: The Mad Monks' Revenge, Internet Archive](https://archive.org/details/InterAction_Magazine_Holiday_1995_1995_Sierra_On-Line_US) – Presage remake, premise, feature list (network/modem, player-specific items, two new worlds, liquid tiles, 30 single and 150 two-player puzzles), Win 95 CD, available November, $44.95
