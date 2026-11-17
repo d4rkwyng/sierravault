@@ -10,7 +10,7 @@ series: Stellar 7
 engine: 3Space
 protagonist: Captain John Alex
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: 'Nova 9: The Return of Gir Draxon is a first-person futuristic tank
   combat game designed by Paul Bowman, developed by Dynamix and published by Sierra
   On-Line for DOS in 1991 and the Amiga in 1992; it is the sequel to Stellar 7.'
@@ -18,7 +18,7 @@ tags: [1990s, sierra, stellar-7]
 ---
 # Nova 9: The Return of Gir Draxon
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -111,7 +111,7 @@ Before its release, Génération 4 previewed the PC version in its September 199
 |-------------|-------|-------|
 | MobyGames | 75% | Critic average, DOS (6 ratings)[^ref-17] |
 | MobyGames | 3.9/5 | Player average, DOS (10 ratings)[^ref-17] |
-| MyAbandonware | 4.33/5 | User rating (18 votes)[^ref-14] |
+| MyAbandonware | 4.37/5 | User rating (19 votes)[^ref-14] |
 
 Player reviews on MobyGames single out the game's difficulty. One player wrote that "both the music (Roland/LAPC-1) and graphics were incredible at the time"[^ref-17].
 
