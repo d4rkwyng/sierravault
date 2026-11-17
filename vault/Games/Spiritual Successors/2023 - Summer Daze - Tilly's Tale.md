@@ -10,7 +10,7 @@ series: Hero-U
 engine: Unity and Ink
 protagonist: Tilly Appleberry
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 composer: [Brandon Blume, Paul Korman, Ryan Grogan]
 description: '*Summer Daze: Tilly''s Tale* is a visual novel set at Hero University,
   designed by Lori Ann Cole and Corey Cole and released by Transolar Games on March
@@ -19,7 +19,7 @@ tags: [2020s, coles, hero-u, sierra]
 ---
 # Summer Daze: Tilly's Tale
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 
 ## Overview
@@ -65,7 +65,7 @@ The game follows a semester at Hero University over a series of days, with class
 - **Mid Game:** Tilly navigates social situations and festival preparations
 - **Endgame:** The Harvest Festival itself, with outcomes determined by choices made throughout
 
-A single playthrough is short: Adventure Game Hotspot's reviewer finished his first run in less than an hour[^ref-3], and the Adventure Gamer blog called it "a fun way to spend a couple of hours"[^ref-6]. The game is designed to be replayed to discover different paths and endings[^ref-1][^ref-3]. Steam user reviewers also call it short; one reports finishing it in roughly 2 hours (user reports only)[^ref-23].
+A single playthrough is short: Adventure Game Hotspot's reviewer finished his first run in less than an hour[^ref-3], and the Adventure Gamer blog called it "a fun way to spend a couple of hours"[^ref-6]. The game is designed to be replayed to discover different paths and endings[^ref-1][^ref-3]. Steam user reviewers also call it short; one reports finishing it in roughly 2 hours[^ref-23].
 
 ### Puzzles and Mechanics
 
@@ -84,7 +84,7 @@ The game includes:
 
 Adventure Game Hotspot gave a more reserved 60/100, with reviewer Nicholas Fuller describing it as "a pleasant but undemanding little visual novel"[^ref-3]. Fuller acknowledged that while fans of *Quest for Glory* and *Hero-U* would enjoy spending time in the Coles' universe again, "those who want the same kind of intricate gameplay might be disappointed"[^ref-3].
 
-Choicest Games awarded 7/10, with Mark Goninon writing that "at times, Tilly's Tale feels like a high quality visual novel, with great artwork, voice acting and a punny story based on a universe rich in lore that Quest for Glory fans are very familiar with"[^ref-8]. However, he noted "it's debatable on whether this game offers anything new to visual novel fans in general and bugs can potentially ruin the experience too"[^ref-8].
+Choicest Games gave the game a score of 7, with Mark Goninon writing that "at times, Tilly's Tale feels like a high quality visual novel, with great artwork, voice acting and a punny story based on a universe rich in lore that Quest for Glory fans are very familiar with"[^ref-8]. However, he noted "it's debatable on whether this game offers anything new to visual novel fans in general and bugs can potentially ruin the experience too"[^ref-8].
 
 ### Modern Assessment
 
@@ -105,7 +105,7 @@ The project was originally conceived as *Summer Daze at Hero-U*, featuring two p
 
 ### Production
 
-The Kickstarter campaign launched in 2019 and was successfully funded on November 5, 2019, with 1,639 backers pledging $106,155 USD[^ref-7]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
+The Kickstarter campaign launched in 2019 and was successfully funded on November 6, 2019, with 1,639 backers pledging $106,155 USD[^ref-7]. The Coles chose the visual novel format because it allowed them to create a quality experience "with fixed sets and minimal animation" while keeping their development budget "slightly more reasonable"[^ref-17].
 
 Choicest Games' reviewer gave the development time as four years[^ref-8], while Corey Cole's September 2026 BackerKit update says Tilly's Tale took "another three years" after the more than five years spent on *Hero-U: Rogue to Redemption*[^ref-24]. The Coles say Lori finished writing the game in under a year[^ref-20]. In January 2022 the game was announced for a March 31, 2022 release[^ref-7], but it did not ship until March 28, 2023[^ref-1]. Cole wrote that the original schedule was "close to accurate until we decided to add professional voiceovers"[^ref-24]. Choicest Games' reviewer noted that many studios struggled with development during COVID-19[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
 
@@ -263,13 +263,13 @@ Jimmy Maher of The Digital Antiquarian, writing about the Coles' return to game-
 [^ref-10]: [itch.io – Tilly's Tale](https://transolar-games.itch.io/tillys-tale) – file sizes and build version 20260602, $20 price, devlog, Linux bug report thread
 [^ref-11]: [Silesia Games – Summer Daze: Tilly's Tale](https://silesiagames.com/gry/summer-daze-tillys-tale/) – character descriptions, publisher information
 [^ref-12]: [Roundtable Co-op – Launch Announcement](https://roundtablecoop.com/news/summer-daze-tillys-tale-set-for-launch/) – Corey Cole quote comparing to Sierra games, Kickstarter history
-[^ref-13]: [Steam Community – "Game crashes constantly"](https://steamcommunity.com/app/1139490/discussions/0/3803901366003291982/) – user bug reports, crash issues; opening post June 26, 2023, replies through March 22, 2024 (checked October 29, 2026)
+[^ref-13]: [Steam Community – "Game crashes constantly"](https://steamcommunity.com/app/1139490/discussions/0/3803901366003291982/) – user bug reports, crash issues; opening post June 26, 2023, replies through March 22, 2024, as of October 29, 2026
 [^ref-15]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/summer-daze-tillys-tale/critic-reviews/) – Adventure Gamers review quote, Adventure Game Hotspot score
-[^ref-16]: [Steambase – Summer Daze: Tilly's Tale](https://steambase.io/games/summer-daze-tillys-tale/reviews) – Player Score 62/100 from 21 reviews (checked October 14, 2026)
+[^ref-16]: [Steambase – Summer Daze: Tilly's Tale](https://steambase.io/games/summer-daze-tillys-tale/reviews) – Player Score 62/100 from 21 reviews as of October 14, 2026
 [^ref-17]: [RPGFan – Cole Interview](https://www.rpgfan.com/feature/lori-and-corey-cole-interview-on-hero-u-and-summer-daze-part-1/) – five-game Hero-U series plan, development approach quote
-[^ref-19]: [IsThereAnyDeal – Summer Daze: Tilly's Tale](https://isthereanydeal.com/game/summer-daze-tillys-tale/info/) – last Steam update 03 Jun 2026 (public branch), checked October 14, 2026
+[^ref-19]: [IsThereAnyDeal – Summer Daze: Tilly's Tale](https://isthereanydeal.com/game/summer-daze-tillys-tale/info/) – last Steam update 03 Jun 2026 (public branch) as of October 14, 2026
 [^ref-20]: [RPGFan – Cole Interview, Part 2](https://www.rpgfan.com/feature/lori-and-corey-cole-interview-on-hero-u-and-summer-daze-part-2/) – "strip out many of the more costly and time-consuming parts", Lori wrote the game "in under a year", prank on the Headmaster and harvest festival as punishment, Ifeyo's Adventure and Sami's Story planned
 [^ref-21]: [Hero-U – Official site](https://www.hero-u.com) – Summer Daze description, Ifeyo and Sami character blurbs
-[^ref-22]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) – commercial release July 10, 2018; total budget exceeded $1 million as of April 2018 (Hero-U context only)
-[^ref-23]: [Steam Community – Summer Daze: Tilly's Tale user reviews](https://steamcommunity.com/app/1139490/reviews/) – user reports only, not editorial; one reviewer completed the game in roughly 2 hours (checked November 6, 2026)
+[^ref-22]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption) – commercial release July 10, 2018; total budget exceeded $1 million as of April 2018
+[^ref-23]: [Steam Community – Summer Daze: Tilly's Tale user reviews](https://steamcommunity.com/app/1139490/reviews/) – one reviewer completed the game in roughly 2 hours, as of November 6, 2026
 [^ref-24]: [BackerKit – Summer Daze at Hero-U project updates](https://summerdaze.backerkit.com/hosted_preorders/project_updates) – Corey Cole, "What We Did Last Summer... and What We're Doing for Next Summer", September 16, 2026; Ifeyo's Adventure timing, three games, Sami as a Corgi, development time, team size, endgame update, voiceovers
