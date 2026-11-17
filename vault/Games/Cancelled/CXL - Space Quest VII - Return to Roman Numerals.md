@@ -10,7 +10,7 @@ series: Space Quest
 engine: 3D Engine (planned)
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: Space Quest VII is the cancelled seventh Space Quest game, attempted at
   Sierra between 1997 and 1999 and again as an Escape Factory console reboot in 2002,
   with no version ever released.
@@ -18,7 +18,7 @@ tags: [adventure, sierra, space-quest, two-guys, cancelled]
 ---
 # Space Quest VII
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -114,7 +114,7 @@ Following the cancellation of Sierra's internal project, a second attempt at Spa
 
 The Escape Factory version was built using the Unreal Engine and targeted Xbox and PlayStation 2 platforms[^ref-6]. [[Josh Mandel]], relaying information from a Sierra contact, said the Escape Factory team "was specifically told by Sierra NOT to even PLAY or LOOK AT the existing Space Quest games before working on the new game"[^ref-5][^ref-18]. The same spacequest.net entry prints a contrary account from its author's own sources: "All the developers involved have played the previous Space Quest games before they started designing"[^ref-18]. The project was to be built, in part, from assets left over from Escape Factory's earlier cancelled game "Teebo & Kai," which the wiw.org archive says was "commissioned by Valve in 2000 and then cancelled the following year"; like that project, it was to feature an online cooperative mode[^ref-6]. Rumors that the game would star a new character named "Wilger" in place of Roger Wilco proved incorrect; according to wiw.org, leaked art and footage show Roger featured prominently, with Wilger as "Roger's alien co-op partner"[^ref-6].
 
-In April 2002, wiw.org records, the Virtual Broomcloset confirmed that Scott Murphy was not involved in the new project, quoting him: "I honestly know nothing about an SQ project of any kind. As far as I know, SQ is as dead as it was when I left."[^ref-6] Also in April 2002, spacequest.net printed its translation of a German MCV article (April 16, 2002) quoting Sierra's Mike Ryder: "The adventure genre which we knew back then may not be viable in this form"[^ref-18]. In its own report, MCV added that one of two secret projects "may be an action oriented multi-platform console title"; the article did not name Space Quest[^ref-18]. On November 14, 2002, Adventure Gamers reported that the new Space Quest "will not be a graphic adventure, but most likely an action game of sorts" and "may or may not" be in development at Escape Factory[^ref-20]. The wiw.org archive dates the cancellation to December 19, 2002 and says "Sierra cancels Escape Factory's Space Quest reboot"[^ref-6]; Wikipedia instead says "Escape Factory canceled the still-unnamed project after a year of development"[^ref-4]. Escape Factory's own news page, dated 01/27/2003, says its unannounced project "was cancelled after just over a year of development" says it "terminated the relationship with our publisher amicably" and does not name Space Quest[^ref-19][^ref-18]. Two minutes of early gameplay footage from the project leaked online in April 2009, according to wiw.org[^ref-6]; Unseen64 published a page on the project in June 2009, though it places development in 2003, which conflicts with the 2002 dates above[^ref-24].
+In April 2002, wiw.org records, the Virtual Broomcloset confirmed that Scott Murphy was not involved in the new project, quoting him: "I honestly know nothing about an SQ project of any kind. As far as I know, SQ is as dead as it was when I left."[^ref-6] Also in April 2002, spacequest.net printed its translation of a German MCV article (April 16, 2002) quoting Sierra's Mike Ryder: "The adventure genre which we knew back then may not be viable in this form"[^ref-18]. In its own report, MCV added that one of two secret projects "may be an action oriented multi-platform console title"; the article did not name Space Quest[^ref-18]. On November 14, 2002, Adventure Gamers reported that the new Space Quest "will not be a graphic adventure, but most likely an action game of sorts" and "may or may not" be in development at Escape Factory[^ref-20]. The wiw.org archive dates the cancellation to December 19, 2002 and says "Sierra cancels Escape Factory's Space Quest reboot"[^ref-6]; Wikipedia instead says "Escape Factory canceled the still-unnamed project after a year of development"[^ref-4]. Escape Factory's own news page, dated 01/27/2003, says its unannounced project "was cancelled after just over a year of development", says it "terminated the relationship with our publisher amicably", and does not name Space Quest[^ref-19][^ref-18]. Two minutes of early gameplay footage from the project leaked online in April 2009, according to wiw.org[^ref-6]; Unseen64 published a page on the project in June 2009, though it places development in 2003, which conflicts with the 2002 dates above[^ref-24].
 
 ### Technical Achievements
 
@@ -250,5 +250,5 @@ GameCola's Nathaniel Hoover wrote that, with Space Quest VII cancelled, Space Qu
 [^ref-20]: [Adventure Gamers – News archive (Wayback, 2002-12-25)](https://web.archive.org/web/20021225063309/http://www.adventuregamers.com/newsarchives.php?start=26) – "Space Quest rumors continued", reported 14-11-2002: not a graphic adventure, most likely an action game, possibly at Escape Factory
 [^ref-21]: [Game Developer – The 20-year estrangement of the Two Guys from Andromeda](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) – Leigh Alexander, 2012: Two Guys reunite after years of estrangement; Chainsaw Monday "nearly 150 employees"
 [^ref-22]: [GameSpot – Space Quest fan fights Sierra (Wayback, 2021-12-13)](https://web.archive.org/web/20211213040409/https://www.gamespot.com/articles/space-quest-fan-fights-sierra/1100-2462412/) – "Members of the Space Quest 7 design team have been moved to other Sierra projects, most notably Babylon 5 space combat and adventure games"
-[^ref-23]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) – "Released Dec 23, 2025"; user reviews "Very Positive" (87% of 82), read November 2026
+[^ref-23]: [Steam – SpaceVenture](https://store.steampowered.com/app/1374960/SpaceVenture/) – "Released Dec 23, 2025"; user reviews "Very Positive" (87% of 82) as of November 2026
 [^ref-24]: [Unseen64 – Space Quest (Xbox, PS2 – Cancelled)](https://www.unseen64.net/2009/06/11/space-quest-xbox-ps2-cancelled/) – June 2009 page on the Escape Factory game; places development in 2003
