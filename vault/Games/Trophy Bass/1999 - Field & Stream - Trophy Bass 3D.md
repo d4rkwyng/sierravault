@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 composer: [Timothy Steven Clarke]
 description: 'Field & Stream: Trophy Bass 3D is a fishing video game developed
   by Dynamix and published by Sierra Sports for Microsoft Windows in 1999, the third
@@ -19,7 +19,7 @@ tags: [1990s, sierra, simulation, trophy-bass]
 ---
 # Field & Stream Trophy Bass 3D
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -96,7 +96,7 @@ Strategy Plus notes that bass, crappies and catfish all have to be coaxed into b
 | Incite Games | 3/5 | November 7, 1999[^ref-35] |
 | Games First! | 5/5 | September 6, 1999[^ref-35] |
 | GameRankings | 70% | Based on 5 reviews[^ref-35] |
-| MobyGames Critics | 84% | Based on 2 ratings[^ref-17] |
+| MobyGames Critics | 80% | Based on 4 ratings[^ref-17] |
 
 ### Critical Analysis
 
@@ -211,7 +211,7 @@ The game is not sold on modern digital stores. MyAbandonware hosts a copy[^ref-2
 [^ref-6]: [Web Archive - Strategy Plus](https://web.archive.org/web/20030709104649/http://www.cdmag.com/articles/022/116/tbass3d_review.html) - Brett Todd review, 3.5/5, modes, lakes, requirements
 [^ref-10]: [MobyGames Credits](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/credits/windows/) - Full credits (202 people), bass pros, voice cast
 [^ref-12]: [Web Archive - GamePro](https://web.archive.org/web/20050409172904/http://gamepro.com/computer/pc/games/reviews/624.shtml) - Michael Lafferty review, sub-scores, modes, video manual, ESRB
-[^ref-17]: [MobyGames](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Description, release date, critic average, Field & Stream licensees group, German release (Dice Multi Media Europe B.V.), compilations (read via the MobyGames API)
+[^ref-17]: [MobyGames](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Description, release date, critic average, Field & Stream licensees group, German release (Dice Multi Media Europe B.V.), compilations
 [^ref-18]: [Internet Archive Demo](https://archive.org/details/FieldStreamTrophyBass3dDemo) - Demo description (fish AI, Denny Brauer)
 [^ref-20]: [Web Archive - CD Magazine](https://web.archive.org/web/20030709120412/http://www.cdmag.com/articles/021/024/trophy_bass_3d.html) - "Lands In Stores" news, July 6, 1999: lakes, species, mapping, waypoints
 [^ref-21]: [Web Archive - GameCenter](https://web.archive.org/web/20000816093054/http://www.gamecenter.com/Reviews/Item/0,6,0-3211,00.html) - Eric Conley review, 7/10, "the third in the Trophy Bass series", viewpoints, LureCam, SideWinder support
