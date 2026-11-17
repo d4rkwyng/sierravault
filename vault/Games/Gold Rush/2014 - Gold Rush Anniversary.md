@@ -10,14 +10,14 @@ series: Gold Rush!
 engine: Unity
 protagonist: Jerrod Wilson
 sierra_lineage: Fan Project
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: Gold Rush! Anniversary is a 2014 remake of the 1988 Sierra On-Line
   adventure game Gold Rush!, developed and published by Sunlight Games.
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! Anniversary
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -113,7 +113,7 @@ The iOS App Store shows a 3.0 out of 5 rating from 12 ratings.[^ref-4] Users pra
 
 ### Origins
 
-The original Gold Rush! was among the last games Sierra On-Line produced with the AGI (Adventure Game Interpreter) interface and one of the most complex.[^ref-7][^ref-8] Its rights are held by The Software Farm, run by original designers Ken and Doug MacNeill, who kept the game on sale for years, presumably because of its educational value.[^ref-7][^ref-8] Sunlight Games secured the rights and first re-released the original as Gold Rush! Classic on Steam on July 25, 2014, ahead of the remake.[^ref-3][^ref-8]
+The original Gold Rush! was among the last games Sierra On-Line produced with the AGI (Adventure Game Interpreter) interface and one of the most complex.[^ref-7][^ref-8] Its rights are held by The Software Farm, run by original designers Ken and Doug MacNeill, who kept the game on sale for years; Just Adventure suggested this was because of its educational value.[^ref-7][^ref-8] Sunlight Games secured the rights and first re-released the original as Gold Rush! Classic on Steam on July 25, 2014, ahead of the remake.[^ref-3][^ref-8]
 
 In a July 2014 community interview with Adventure Corner, Marco Sowa of the Cologne studio said that work began in the Wintermute engine before the team switched to Unity in mid-to-late 2013: "Zu Beginn nutzten wir die Wintermute-Engine, sind Mitte/Ende 2013 jedoch auf die Unity-Engine umgestiegen" ("At the start we used the Wintermute engine, but in mid/late 2013 we switched to the Unity engine").[^ref-25] In the same interview the studio said German voice casting would follow: "Bei den deutschen Sprechern wird es in Kürze ebenfalls ein Sprechercasting geben" ("German voice casting will also take place shortly").[^ref-25]
 
@@ -151,7 +151,7 @@ The headline features were the dual control system, which lets players switch be
 - **Memory:** 1 GB RAM
 - **Processor:** Pentium 4 with 2 GHz or better
 - **Graphics:** DirectX-compatible graphics card with 512 MB RAM minimum
-- **Operating System:** Windows Vista, 7, 8, or 10
+- **Operating System:** Windows Vista, 7, 8, 10 or 11
 
 Adventure Corner's review lists resolution options of 1280x720, 1366x768 and 1600x900.[^ref-10][^ref-22]
 
@@ -248,7 +248,7 @@ The game now sells for $4.99 on Steam and €3.99 on FireFlower Games.[^ref-2][^
 - **May 5, 2015:** The PC box version was reduced to €19.99, and the Special Edition box to €29.99.[^ref-3]
 - **September 1, 2015:** Steam price cut again, to $12.99/€10.99/£9.99, with the Special Edition at $14.99/€12.99/£10.99.[^ref-27]
 - **November 2026:** Steam lists the game at $4.99, the Special Edition package at $5.99 and the Special Edition upgrade DLC at $1.99.[^ref-2] The iOS App Store lists it at $1.99.[^ref-4]
-- Gold Rush! Anniversary has no GOG listing (checked November 2026).
+- Gold Rush! Anniversary has no GOG listing as of November 2026.
 
 ### Collections
 
