@@ -11,7 +11,7 @@ series: Ultima
 engine: Custom (Assembly Language)
 protagonist: The Stranger
 sierra_lineage: Sierra Published
-last_updated: '2026-11-13'
+last_updated: '2026-11-17'
 description: 'Ultima II: The Revenge of the Enchantress is a fantasy role-playing
   game created by Richard Garriott and released by Sierra On-Line for the Apple II
   in 1982. It is the only new main-series Ultima first published by Sierra.'
@@ -19,7 +19,7 @@ tags: [1980s, rpg, sierra, ultima]
 ---
 # Ultima II: The Revenge of the Enchantress
 
-<small style="color: gray">Last updated: November 13, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -75,7 +75,7 @@ A bug in the original Apple II version prevents the Strength statistic from incr
 
 Ultima II received generally positive reviews upon release, though opinions varied on specific aspects of the gameplay experience. Reviewing the Apple II version in January 1983, Softline wrote that "Programming excellence and flawless execution are the trademarks" of the game and concluded: "Overall, Lord British has another, greater hit on his hands, a faster, drastically more advanced game that really is the ultimate in real-time D&D type fantasy games for the micro."[^ref-16]
 
-Computer Gaming World's James A. McPherson reviewed the Apple II version in its March–April 1983 issue, finding the world "vastly improved over ULTIMA I", though he noted that "very little of this enormous work was really utilized as being required to complete the game."[^ref-17] K-Power reader David Langendoen, a 15-year-old reviewer, rated it 7 on the magazine's 1–10 scale in February 1984, writing that it "is more sophisticated and has a quicker pace" than Ultima I and that it "is unique and its storyline is original."[^ref-19] Wikipedia reports that Phil Wiswell's review in PC Magazine (August 21, 1984) scored the game 15.5 out of 18; the scan could not be checked for this page.[^ref-1]
+Computer Gaming World's James A. McPherson reviewed the Apple II version in its March–April 1983 issue, finding the world "vastly improved over ULTIMA I", though he noted that "very little of this enormous work was really utilized as being required to complete the game."[^ref-17] K-Power reader David Langendoen, a 15-year-old reviewer, rated it 7 on the magazine's 1–10 scale in February 1984, writing that it "is more sophisticated and has a quicker pace" than Ultima I and that it "is unique and its storyline is original."[^ref-19] Wikipedia reports that Phil Wiswell's review in PC Magazine (August 21, 1984) scored the game 15.5 out of 18.[^ref-1]
 
 Troy Christensen of Different Worlds magazine (issue 41, 1986) proclaimed that "Ultima II: The Revenge of the Enchantress is a classic fantasy computer adventure game that is a must for anyone serious in computer gaming."[^ref-18] Softline's report on the 1983 Origins awards lists Ultima II among the nominees for "Best Adventure Game for Home Computer", which went to Sir-tech's Wizardry: Knight of Diamonds.[^ref-21]
 
@@ -256,18 +256,18 @@ The game's historical significance lies in several areas: Shay Addams's Official
 [^ref-9]: [Giant Bomb – Ultima II: The Revenge of the Enchantress](https://web.archive.org/web/20250507000914/https://www.giantbomb.com/ultima-ii-revenge-of-the-enchantress/3030-12824/) – Wayback copy (May 2025); "widely considered the weakest game in the series"
 [^ref-10]: [IGDB – Ultima II: The Revenge of the Enchantress](https://www.igdb.com/games/ultima-ii-the-revenge-of-the-enchantress) – game database entry, release date 8/24/1982
 [^ref-11]: [Shay Addams, The Official Book of Ultima (2nd ed., 1992) – Internet Archive](https://archive.org/details/TheOfficialBookOfUltima) – copyright page: "SECOND EDITION", "Copyright 1992, COMPUTE Publications International Ltd." (first edition c. 1990); p. 18 (repeated Time Bandits matinees), p. 19 (time doors and cloth map from Time Bandits), p. 21 (teletype, Akalabeth at home, Tom Luhrs), pp. 22–23 (only Sierra accepted the cloth map; "immediately established the state of the art"; over 50,000 sold, "By now nearly 100,000 have been sold"; almost two years), pp. 25–26 (IBM royalty dispute, Bueche's Atari 800 version, Origin founded 1983)
-[^ref-12]: [Hardcore Gaming 101 – Ultima II: Revenge of the Enchantress](http://www.hardcoregaming101.net/ultima-ii-revenge-of-the-enchantress/) – Robert Kosarko, 2012; platform list with years (X1 1988, FM Towns 1990), publishing history, DOS ports
+[^ref-12]: [Hardcore Gaming 101 – Ultima II: Revenge of the Enchantress](https://web.archive.org/web/20260810141212/https://www.hardcoregaming101.net/ultima-ii-revenge-of-the-enchantress/) – Wayback copy (August 2026); Robert Kosarko, 2012; platform list with years (X1 1988, FM Towns 1990), publishing history, DOS ports
 [^ref-13]: [Internet Archive – Ultima II Manual (Atari 1982)](https://archive.org/details/UltimaIiRevengeOfTheEnchantressManualAtari1982BigBox) – original game manual; credits ("Atari Version by Chuckles", Mary Taylor Rollo); package contents incl. cloth time map
 [^ref-14]: [Internet Archive – Ultima II Galactic Map](https://archive.org/details/UltimaIiRevengeOfTheEnchantressGalacticMapAndKeyBindingsAtari1982) – galactic map with planet coordinates (Earth 6-6-6) and key-letter command card
-[^ref-16]: [Softline, January 1983, p. 40 – "Gameline: Ultima II" (Internet Archive)](https://archive.org/details/Softline_1983_01) – review of the Apple II version, $59.95 from Sierra On-Line; quotes checked against the page image
+[^ref-16]: [Softline, January 1983, p. 40 – "Gameline: Ultima II" (Internet Archive)](https://archive.org/details/Softline_1983_01) – review of the Apple II version, $59.95 from Sierra On-Line
 [^ref-17]: [Computer Gaming World Vol. 3 No. 2 (March–April 1983), pp. 23, 45 – James A. McPherson, "Ultima II: A Review" (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_3.2) – Apple II review
 [^ref-18]: [Different Worlds #41 (1986), p. 35 – Troy Christensen review (Internet Archive)](https://archive.org/details/different-worlds-41) – "a must for anyone serious in computer gaming"
-[^ref-19]: [K-Power #1 (February 1984), p. 59 – David Langendoen, "Ultima II" (Internet Archive)](https://archive.org/details/k-power-magazine-01) – rated 7 on a 1–10 scale (score read from the page image)
+[^ref-19]: [K-Power #1 (February 1984), p. 59 – David Langendoen, "Ultima II" (Internet Archive)](https://archive.org/details/k-power-magazine-01) – rated 7 on a 1–10 scale
 [^ref-20]: [Computer Entertainer Vol. 2 No. 10 (January 1984) (Internet Archive)](https://archive.org/details/computer-entertainer-2-10) – IBM PCjr Ultima II among Sierra conversions "on the boards"
 [^ref-21]: [Softline, January–February 1984, p. 44 – Steve Jackson, "Origins Story" (Internet Archive)](https://archive.org/details/Softline_1984_01_02) – 1983 Origins nominees for Best Adventure Game for Home Computer; winner Knight of Diamonds
 [^ref-22]: [Jimmy Maher, "The Wizardry and Ultima Sequels", The Digital Antiquarian (October 2012)](https://www.filfre.net/2012/10/the-wizardry-and-ultima-sequels/) – Tom Luhrs; assembly-language boot camp "that lasted about a month"; "a full eighteen months" of development; debut at December's AppleFest
-[^ref-23]: [Softline, May 1982 – dealer price list (Internet Archive)](https://archive.org/details/Softline_1982_05) – under ON-LINE SYSTEMS: "Ultima II NEW 54 95" (read in the OCR text)
-[^ref-24]: [Softline, March 1982, p. 42 – "Ultima II" preview (Internet Archive)](https://archive.org/details/Softline_1982_03) – "Last summer, Lord British took a month off from lording to learn assembly language" (read in the OCR text)
-[^ref-25]: [GOG.com – Ultima II: The Revenge of the Enchantress](https://www.gog.com/en/game/ultima_2) – current store listing, read November 12, 2026: 3.1/5 (18 reviews); company Origin Systems / Electronic Arts; release date December 31, 1989
+[^ref-23]: [Softline, May 1982 – dealer price list (Internet Archive)](https://archive.org/details/Softline_1982_05) – under ON-LINE SYSTEMS: "Ultima II NEW 54 95"
+[^ref-24]: [Softline, March 1982, p. 42 – "Ultima II" preview (Internet Archive)](https://archive.org/details/Softline_1982_03) – "Last summer, Lord British took a month off from lording to learn assembly language"
+[^ref-25]: [GOG.com – Ultima II: The Revenge of the Enchantress](https://www.gog.com/en/game/ultima_2) – store listing as of November 12, 2026: 3.1/5 (18 reviews); company Origin Systems / Electronic Arts; release date December 31, 1989
 [^ref-27]: [Operation Rainfall, "Dragon Con 2026 Panel Interview: Richard 'Lord British' Garriott Reminisces on 1980s-1990s Ultima Games, Seeing Earth from Space, and What's Next (Part Two)" (October 17, 2026)](https://operationrainfall.com/2026/10/17/dragon-con-2026-panel-interview-richard-lord-british-garriott-reminisces-on-1980s-1990s-ultima-games-seeing-earth-from-space-and-whats-next-part-two/) – Garriott on choosing Sierra for the cloth map and on Sierra no longer paying him
 [^ref-28]: [Matt Barton, "Book Extract: Dungeons and Desktops: The Silver Age," Game Developer](https://www.gamedeveloper.com/design/book-extract-dungeons-and-desktops-the-silver-age-) – quotes a 1986 Computer Gaming World interview ("did not seem very author friendly"); notes the IBM-royalty reading is Addams's
