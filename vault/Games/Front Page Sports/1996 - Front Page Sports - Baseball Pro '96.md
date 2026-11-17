@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown
 protagonist: Player-controlled team/manager
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: 'Front Page Sports: Baseball Pro ''96 Season is a simulation game developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1996. It was the second Front Page Sports baseball title, following Baseball
   ''94, and its reviewers praised the management depth and physics but found its
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Baseball Pro '96 Season
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -152,7 +152,7 @@ Computer Game Review found performance "a bit lackluster" even in Windows 95, an
 
 - The game featured notable baseball-themed music tracks including "Play by Play," "Talkin' Baseball," and "Right Field"[^ref-17]
 - Music files were stored in .wav format on the game's CD[^ref-17]
-- The game did not include logos on player uniforms, likely due to licensing restrictions[^ref-3]
+- The game did not include logos on player uniforms[^ref-3]
 - One enthusiast recalled: "I started thinking about how much I loved Front Page Sports Baseball 1996, not only because it was a great game, but because it had great baseball music"[^ref-17]
 
 ## Legacy
@@ -181,7 +181,7 @@ Computer Game Review warned that "You won't find a good arcade experience here"[
 
 ## Purchase
 
-Not currently sold on GOG or Steam (checked October 2026).
+Not currently sold on GOG or Steam as of October 2026.
 
 ## Downloads
 
@@ -231,5 +231,5 @@ Not currently sold on GOG or Steam (checked October 2026).
 [^ref-23]: [Computer Gaming World #144 (July 1996) – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_144/page/n82/mode/1up) – Dennis McCauley, "Base Instincts" preview: native Windows 95, '94 team import, career mode
 [^ref-24]: [Computer Gaming World #146 (September 1996), pp. 33–34 – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_146/page/n36/mode/1up) – "On the Shelf" capsule, T. Kaiafas: Windows 95 windows, 3D mode, weak graphical performance, "superb ball physics"
 [^ref-25]: [Computer Gaming World #149 (December 1996), p. 424 – Internet Archive scan](https://archive.org/details/Computer_Gaming_World_Issue_149/page/n427/mode/1up) – Computer Gaming Poll: Top Sports Games "10 FPS Baseball Pro 96 Sierra 6.97"; Top 100 "82 FPS Baseball Pro 96 Sierra SP 6.97"
-[^ref-26]: [MobyGames - Front Page Sports: All Pro Collection - Collection Series](https://www.mobygames.com/game/247528/front-page-sports-all-pro-collection-collection-series/) - 1997 Windows collection contents (read via the MobyGames API)
+[^ref-26]: [MobyGames - Front Page Sports: All Pro Collection - Collection Series](https://www.mobygames.com/game/247528/front-page-sports-all-pro-collection-collection-series/) - 1997 Windows collection contents
 [^ref-27]: [Computer Games Strategy Plus #73 (December 1996) - Internet Archive scan](https://archive.org/details/computer-games-strategy-plus-issue-73-december-1996) - Steve Bauman's news item "Destiny recalled": "Unlike other companies (Sierra comes to mind with Outpost and Baseball Pro 96), they admitted their mistake"
