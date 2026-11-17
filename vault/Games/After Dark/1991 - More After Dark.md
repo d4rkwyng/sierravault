@@ -10,7 +10,7 @@ series: After Dark
 engine: After Dark (add-on modules)
 protagonist: Spacecraft pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: 'More After Dark, released in 1991, was an expansion package for Berkeley
   Systems'' After Dark screensaver software, "the software that kicked off the screensaver
   craze of the 1990s."'
@@ -18,7 +18,7 @@ tags: [1990s, after-dark, shooter, sierra]
 ---
 # More After Dark
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -180,7 +180,7 @@ More After Dark marks the point where Berkeley Systems' screensaver line first i
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not sold on GOG or Steam (checked November 2026); see preservation links below
+- Not sold on GOG or Steam as of November 2026; see preservation links below
 
 **Download / Preservation**
 - [Internet Archive – After Dark: More After Dark](https://archive.org/details/AfterDark_-_MoreAfterDark)[^ref-2]
