@@ -10,14 +10,14 @@ series: The Lord of the Rings
 engine: The Realm Online server code (planned)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: Middle-earth Online (also known as MEO) was Sierra On-Line's cancelled massively multiplayer
-  online role-playing game based on J.R.R. Tolkien's Middle-earth, begun in 1998 and later...
+  online role-playing game based on J.R.R. Tolkien's Middle-earth, begun in 1998 and never released.
 tags: [rpg, sierra, the-lord-of-the-rings]
 ---
 # Middle-earth Online
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -102,7 +102,7 @@ Sierra FX launched an introductory website for Middle-earth Online on what they 
 
 The game began in 1998 and was optimistically slated for a 2000 release, but it faced massive layoffs and a studio relocation the following year as Sierra On-Line was sold to Vivendi; by all accounts the project also suffered from a lack of management.[^ref-3] After the project moved from California to Washington in 1999, little was heard from the new team aside from legal issues surrounding the license.[^ref-3]
 
-Contemporary reports give more detail on that break. TheOneRing.net, relaying a Xenite.org report, stated that in September 1999 Sierra, "under new management, fired the entire development team and started developing the massively multi-player online game over again," and that the new team "made no public statements."[^ref-22] In an RPG Vault interview of 24 August 2000, Sierra president David Grenewetzki said that "the original Middle Earth development team was released and a redesign and restaffing of the development team were announced around that time."[^ref-21] The same interview, which reported that Sierra was in legal action with The Saul Zaentz Company (doing business as Tolkien Enterprises) over that company's wish to withdraw the 1998 licence, places the dispute in 2000.[^ref-21] GameSpot later summarised that "a lawsuit in 2000 by Tolkien Enterprises put the fate of the game in doubt."[^ref-24]
+Contemporary reports give more detail on that break. TheOneRing.net, relaying a Xenite.org report, stated that in September 1999 Sierra, "under new management, fired the entire development team and started developing the massively multi-player online game over again," and that the new team "made no public statements."[^ref-22] In an RPG Vault interview of 24 August 2000, Sierra president David Grenewetzki said that "the original Middle Earth development team was released and a redesign and restaffing of the development team were announced around that time."[^ref-21] The interview's introduction says Sierra had begun two titles under the licence, and that the Middle-earth team was removed when the other, the strategy game Orcs: Revenge of the Ancient, was cancelled "last September", the September before the interview.[^ref-21] The same interview, which reported that Sierra was in legal action with The Saul Zaentz Company (doing business as Tolkien Enterprises) over that company's wish to withdraw the 1998 licence, places the dispute in 2000.[^ref-21] GameSpot later summarised that "a lawsuit in 2000 by Tolkien Enterprises put the fate of the game in doubt."[^ref-24]
 
 Secondary accounts differ on the timeline. In his 2025 history of Sierra's 1999 layoffs, Jimmy Maher wrote that as of February 1999 Yosemite had a Middle-earth MMORPG in development, that it and the Babylon 5 game "were to resume production in Bellevue," and that both were "themselves cancelled just six months later in Bellevue, as part of another round of 'reorganizing.'"[^ref-25] The 2000 sources above (RPG Vault, TheOneRing.net) instead describe a redesign and restaffing of the team and a licence dispute that ran on through 2000.[^ref-21][^ref-22]
 
@@ -222,7 +222,7 @@ Middle-earth Online was never released and is not available for purchase.
 
 [^ref-11]: [RPGWatch – Lord of the Rings Online Review @ Eurogamer](https://rpgwatch.com/news/lord-of-the-rings-online--review-eurogamer-4732.html) – Eurogamer review, permadeath controversy
 
-[^ref-12]: [Steam – The Lord of the Rings Online](https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/) – free to play; user review summary (checked 2026-10-27)
+[^ref-12]: [Steam – The Lord of the Rings Online](https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/) – free to play; user review summary
 
 [^ref-14]: [The Tolkien Forum – Middle Earth Online Thread](https://thetolkien.forum/threads/middle-earth-online.14921/) – February 2004 fan thread about Turbine's then-new version
 
