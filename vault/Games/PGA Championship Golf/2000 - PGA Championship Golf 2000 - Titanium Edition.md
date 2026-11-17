@@ -10,13 +10,13 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Golfer (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-17'
 description: An enhanced December 2000 re-release of PGA Championship Golf 2000 by Headgate Studios and Sierra Sports, adding seven new 18-hole courses and improved multiplayer.
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000 Titanium Edition
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 17, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ The game is rated "Everyone" by the ESRB and "0" by the USK[^ref-33].
 
 ### Origins
 
-Headgate Studios developed the Titanium Edition, and Sierra Sports published it[^ref-11][^ref-23]. Sierra had bought the studio in April 1996, but on February 22, 1999 it announced a restructuring and sold the rights of the original studio back to its founder Vance Cook as a new corporate entity; Headgate began publishing games through Electronic Arts in 2000[^ref-31], and EA later said it had "partnered with Headgate since 2000"[^ref-40]. Headgate kept its name until Electronic Arts acquired it on November 30, 2006 (reported December 1), when it "was renamed EA Salt Lake"[^ref-40][^ref-31]. Justin Kubiak, brand manager for Sierra Sports, said at launch: "We've published the Titanium Edition to present to the PC gaming community another opportunity to experience the award-winning PGA Championship Golf product line"[^ref-28].
+Headgate Studios developed the Titanium Edition, and Sierra Sports published it[^ref-11][^ref-23]. Sierra had bought the studio in April 1996, but on February 22, 1999 it announced a restructuring and sold the rights of the original studio back to its founder Vance Cook as a new corporate entity; Headgate began publishing games through Electronic Arts in 2000[^ref-31], and EA later said it had "partnered with Headgate since 2000"[^ref-40]. On November 30, 2006, EA announced that the Headgate Studios development team had joined it[^ref-40]; Wikipedia dates the acquisition to December 1, 2006, when Headgate "was renamed EA Salt Lake"[^ref-31]. Justin Kubiak, brand manager for Sierra Sports, said at launch: "We've published the Titanium Edition to present to the PC gaming community another opportunity to experience the award-winning PGA Championship Golf product line"[^ref-28].
 
 ### Production
 
