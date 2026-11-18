@@ -10,18 +10,18 @@ series: Lighthouse
 engine: SCI3
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: 'Lighthouse: The Dark Being is a first-person adventure game developed
   and published by Sierra On-Line in 1996. The game was conceived when Sierra''s Ken Williams challenged designer Jon Bock to create a Myst-style game.'
 tags: [1990s, adventure, lighthouse, sci, sierra]
 ---
 # Lighthouse: The Dark Being
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
-Lighthouse: The Dark Being is a first-person adventure game developed and published by Sierra On-Line in 1996[^ref-1], with a release date of 20 September 1996 on DOS and Windows[^ref-5][^ref-2]. The game was conceived when Sierra's Ken Williams challenged designer Jon Bock to create something similar to Myst, pulling out a copy of the game and asking "Can you do this?"[^ref-4][^ref-2]. Set in a "supernatural mechanical world," the game follows a struggling writer who becomes embroiled in a parallel dimension crisis involving a mysterious lighthouse and its eccentric inhabitants[^ref-3].
+Lighthouse: The Dark Being is a first-person adventure game developed and published by Sierra On-Line in 1996[^ref-1], with a release date of 20 September 1996 on DOS and Windows[^ref-5][^ref-2]. The game was conceived when Sierra's Ken Williams challenged designer Jon Bock to create something similar to Myst, pulling out a copy of the game and asking "Can you do this?"[^ref-4][^ref-2]. GOG describes its setting as a "supernatural mechanical world"[^ref-3]. The player is a struggling writer whose eccentric neighbour, Dr. Jeremiah Krick, lives with his daughter Amanda in a nearby lighthouse, and the story leads into a parallel world[^ref-2].
 
 Adventure Gamers' reviewer wrote that on release it was "probably dismissed by many as a myst-clone", noting its first-person perspective[^ref-29]; Lighthouse nonetheless manages to leave its own mark on the genre by carrying Sierra's traditionally challenging puzzle design into the new style of graphic adventure games[^ref-4]. The game features pre-rendered 3D graphics created using Autodesk 3D Studio and Alias, with Jon Bock describing it as a "Science Fiction Folk Tale" inspired by the machine age, Leonardo da Vinci drawings, and H.G. Wells stories[^ref-4][^ref-28].
 
