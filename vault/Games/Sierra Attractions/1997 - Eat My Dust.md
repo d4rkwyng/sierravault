@@ -10,7 +10,7 @@ series: Sierra Attractions
 engine: Catalina 3D
 protagonist: Player-selected driver
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: '**Eat My Dust** is a 3D racing game developed by Davidson &
   Associates, its Funnybone Interactive studio, and Van Duyne Engineering, and published
   by Sierra On-Line for Windows 95. It was aimed at players aged eight and up, and
@@ -19,7 +19,7 @@ tags: [1990s, racing, sierra, sierra-attractions]
 ---
 # Eat My Dust
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -69,7 +69,7 @@ Each car carries unusual weapons that hinder opponents, and more ammunition can 
 | Gamer's Zone | 3 globes | "A nice little offering"; overall score shown as three globe images, which Wikipedia gives as 3 out of 5[^ref-11][^ref-9] |
 | Electric Playground | 3/10 | "Just not very much fun"[^ref-13] |
 | Home of the Underdogs | 6.71 | User rating (7 votes)[^ref-3] |
-| MyAbandonware | 4.45/5 | User rating (11 votes, checked October 29, 2026)[^ref-14] |
+| MyAbandonware | 4.45/5 | User rating (11 votes, as of October 29, 2026)[^ref-14] |
 
 ### Critical Analysis
 
@@ -81,7 +81,7 @@ Gamer's Zone was kinder. Its reviewer noted "quite a bit of herky-jerkiness" on 
 
 ### Later Assessment
 
-Home of the Underdogs described the game as "a decent racing game for kids that in many ways merits its obscurity". After quoting the 1997 Games Domain review, the site added that "even that younger audience is well advised to stick with Mario Kart on the console systems rather than play this inferior copy-cat"[^ref-3]. MyAbandonware republishes the same write-up, and its users rate the game 4.45/5 from 11 votes (checked October 29, 2026)[^ref-14].
+Home of the Underdogs described the game as "a decent racing game for kids that in many ways merits its obscurity". After quoting the 1997 Games Domain review, the site added that "even that younger audience is well advised to stick with Mario Kart on the console systems rather than play this inferior copy-cat"[^ref-3]. MyAbandonware republishes the same write-up, and its users rate the game 4.45/5 from 11 votes, as of October 29, 2026[^ref-14].
 
 ## Development
 
@@ -141,7 +141,7 @@ The game also circulated on magazine cover discs. The Brazilian *Revista do CD-R
 ## Downloads
 
 **Purchase / Digital Stores**
-- No current store listing (Steam and GOG checked November 2026)
+- No current store listing on Steam or GOG (as of November 2026)
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/eat-my-dust-dl6)
@@ -166,15 +166,15 @@ The game also circulated on magazine cover discs. The Brazilian *Revista do CD-R
 [^ref-10]: [Internet Archive Manual](https://archive.org/details/eat-my-dust-manual) – "the wacky 3D road race"; "Pick from 5 tricked-out cars"; Kid's Track Editor "available Jan. '97 on the Eat My Dust Web site"; system requirements (Windows 95-compatible sound card)
 [^ref-11]: [Gamer's Zone Review](https://web.archive.org/web/20060822002930/http://www.worldvillage.com/wv/gamezone/html/reviews/eatdust.htm) – Review, system requirements, multiplayer features
 [^ref-13]: [Electric Playground Archive](https://web.archive.org/web/19970804201644/http://www.elecplay.com/pc/eatmydust.html) – Contemporary review (3/10), dated February 25, 1997
-[^ref-14]: [MyAbandonware - Eat My Dust](https://www.myabandonware.com/game/eat-my-dust-dl6) – User rating (4.45/5, 11 votes, checked October 29, 2026)
+[^ref-14]: [MyAbandonware - Eat My Dust](https://www.myabandonware.com/game/eat-my-dust-dl6) – User rating (4.45/5, 11 votes, as of October 29, 2026)
 [^ref-15]: [Games Domain Archive](https://web.archive.org/web/20040203121028/http://www.gamesdomain.com/gdreview/zones/reviews/pc/feb97/eatdust.html) – Contemporary review; released Feb 1997, £29.99
 [^ref-17]: [Funnybone Interactive Wiki](https://funnybone.fandom.com/wiki/Eat_My_Dust) – Environments, Stay Tooned! character, track editor and compatibility trivia
 [^ref-22]: [Wikipedia - Davidson & Associates](https://en.wikipedia.org/wiki/Davidson_%26_Associates) – Funnybone acquisition (Feb 1995); CUC acquisition of Davidson and Sierra (1996)
-[^ref-23]: [MobyGames - Eat My Dust Credits (Windows)](https://www.mobygames.com/game/42140/eat-my-dust/credits/windows/) – Full credits (music, writers, car designs, director of animation), Catalina 3D engine, trademark and copyright lines; read via the MobyGames API and a dossier copy
+[^ref-23]: [MobyGames - Eat My Dust Credits (Windows)](https://www.mobygames.com/game/42140/eat-my-dust/credits/windows/) – Full credits (music, writers, car designs, director of animation), Catalina 3D engine, trademark and copyright lines
 [^ref-24]: [SEC EDGAR – CUC International Form 8-K, February 1996 (Wayback copy)](https://web.archive.org/web/20170223223135/https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000040.txt) – press release "Stamford, CT -- February 20, 1996": CUC "announced today that it has signed definitive merger agreements" with Davidson and Sierra
 [^ref-25]: [Eat My Dust official site, home page (Wayback, 1996-12-19)](https://web.archive.org/web/19961219230900/http://www.eatmydust.com/) – "Now available everywhere", free demo, "easy online ordering in time for Christmas"; © 1996 Davidson & Associates
 [^ref-26]: [Eat My Dust official site, info page (Wayback, 1997-02-03)](https://web.archive.org/web/19970203033331/http://www.eatmydust.com/info.html) – $29.95 web price, 5 vehicles, 6 drivers, free internet head-to-head play, requirements, downloadable track editor, "Country Challenge" environment name; the site's [demo page](https://web.archive.org/web/19970203033331/http://www.eatmydust.com/demo/) gives the three demo sizes and limits
-[^ref-27]: [Sierra Buyer's Guide, Winter 1997, p. 31 (Internet Archive)](https://archive.org/download/RetroGamingProductCatalogs/Sierra%20Buyer's%20Guide%20%28Winter%201997%29.pdf) – "The Zany 3-D Road Race", 5 cars, 6 drivers, 12 tracks, four environments, ages 8+, $29.95, requirements, track editor, "developed by Van Dyne Engineering and co-developed by Funnybone"; title confirmed on the page image
+[^ref-27]: [Sierra Buyer's Guide, Winter 1997, p. 31 (Internet Archive)](https://archive.org/download/RetroGamingProductCatalogs/Sierra%20Buyer's%20Guide%20%28Winter%201997%29.pdf) – "The Zany 3-D Road Race", 5 cars, 6 drivers, 12 tracks, four environments, ages 8+, $29.95, requirements, track editor, "developed by Van Dyne Engineering and co-developed by Funnybone"
 [^ref-28]: [*Disney Adventures*, December 1996 (Internet Archive)](https://archive.org/details/disney-adventures-magazine-volume-07-number-02-december-1996) – Sierra advertisement: "FREE* head-to-head play via the Internet", www.eatmydust.com, Windows 95 / Pentium 90 CD-ROM game
 [^ref-29]: [*Revista do CD-ROM* no. 21, April 1997 (Internet Archive)](https://archive.org/details/revista-do-cdrom-021) – cover-CD contents list, "Jogos": "Eat My Dust"
 [^ref-30]: [*Mundo do CD-ROM* no. 07, May 1997 (Internet Archive)](https://archive.org/details/MCDROM007) – cover-CD contents list: "Eat My Dust"
