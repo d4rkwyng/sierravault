@@ -11,7 +11,7 @@ series: Metaltech
 engine: 3-Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: 'The *Metaltech Earthsiege Expansion Pack* is a 1995 add-on for *Metaltech:
   Earthsiege*, developed by Dynamix and published by Sierra On-Line, adding three new
   campaigns, new landscapes, the Apocalypse HERC and new Cybrid weapons.'
@@ -19,7 +19,7 @@ tags: [1990s, metaltech, sierra, simulation]
 ---
 # Metaltech Earthsiege Expansion Pack
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -57,7 +57,7 @@ The original *Metaltech: Earthsiege* contains 45 missions across 8 campaigns.[^r
 
 ### The Second Wave
 
-The expansion pits humanity against a second wave of Cybrid attackers three months after the end of the original game.[^ref-17][^ref-27] It opens with a full-motion video introduction,[^ref-17][^ref-27] and players return to their HERC cockpits across new landscapes, with new hardware on both sides.[^ref-1] Sierra's own magazine, *InterAction*, previewed the setup in a Mark Crowe feature in Spring 1995: after twenty years of war mankind has won back its homeworld, but a massive Cybrid re-invasion fleet of 10,000 ships is on its way from the outer colony worlds, the nearest only 90 days from Earth's orbit, which fits the three-month interval of the premise.[^ref-58] The preview is framed as a personal log dated March 2, 2553, by Maj-Gen J. Gierling, commander-in-chief of the Earth Defense Force.[^ref-58] *The Encyclopedia of Science Fiction* describes the expansion as one that "largely repeats the structure of the first game, centred on an attack on Earth by Cybrids who have been rebuilding their strength in space colonies," and notes that *Earthsiege 2* continues the story from the expansion pack.[^ref-52]
+The expansion pits humanity against a second wave of Cybrid attackers three months after the end of the original game.[^ref-17][^ref-27] It opens with a full-motion video introduction,[^ref-17][^ref-27] and players return to their HERC cockpits across new landscapes, with new hardware on both sides.[^ref-1] Sierra's own magazine, *InterAction*, previewed the setup in a Mark Crowe feature in Spring 1995: after twenty years of war mankind has won back its homeworld, but a massive Cybrid re-invasion fleet of 10,000 ships is on its way from the outer colony worlds, the nearest only 90 days from Earth's orbit.[^ref-58] The preview is framed as a personal log dated March 2, 2553, by Maj-Gen J. Gierling, commander-in-chief of the Earth Defense Force.[^ref-58] *The Encyclopedia of Science Fiction* describes the expansion as one that "largely repeats the structure of the first game, centred on an attack on Earth by Cybrids who have been rebuilding their strength in space colonies," and notes that *Earthsiege 2* continues the story from the expansion pack.[^ref-52]
 
 ## Gameplay
 
@@ -287,7 +287,7 @@ The Collection Chamber maintains a pre-configured DOSBox package that includes t
 
 ## References
 
-[^ref-1]: [MobyGames – Metaltech: EarthSiege - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Publisher, release year, official description, 25 credits, 76% critic average; DOS tech specs (read via the MobyGames API)
+[^ref-1]: [MobyGames – Metaltech: EarthSiege - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Publisher, release year, official description, 25 credits, 76% critic average; DOS tech specs
 [^ref-3]: [The Collection Chamber – Metaltech: Earthsiege](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) – Retrospective, gameplay analysis, expansion toggle, Campaign 4 Mission 8 fix
 [^ref-6]: [MobyGames – Metaltech: EarthSiege (base game)](https://www.mobygames.com/game/1402/metaltech-earthsiege/) – Official description, 74% critic average, player review
 [^ref-7]: [Dynamix Wiki – Metaltech: Earthsiege](https://dynamix.fandom.com/wiki/Metaltech:_Earthsiege) – Base-game Computer Gaming World review by Jeff James
