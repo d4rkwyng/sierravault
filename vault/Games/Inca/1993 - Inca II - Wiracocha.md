@@ -10,7 +10,7 @@ series: Inca
 engine: Gob
 protagonist: Atahualpa / El Dorado
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: 'Inca II: Nations of Immortality is the sequel to Inca, a surreal space
   combat/adventure game drawing on Incan mythology, developed by Coktel Vision and
   published by Sierra On-Line.'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, inca, sierra]
 ---
 # Inca II: Nations of Immortality
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -184,7 +184,7 @@ Players have requested an official re-release on GOG's wishlist[^ref-5].
 
 [^ref-3]: [Internet Archive - Inca 2](https://archive.org/details/inca-2-mr-abandonware) – Downloadable version with DOSBox compatibility for modern systems
 [^ref-5]: [GOG Wishlist - Inca II](https://www.gog.com/wishlist/games/inca_ii) – User community wishlist with player comments and experiences
-[^ref-7]: [MobyGames - Inca II: Wiracocha (Série limitée)](https://www.mobygames.com/game/58618/) – Limited edition entry (read via the MobyGames API): 3.5" disk version plus soundtrack disc; 1993, France, Germany, Italy and UK, published by Sierra On-Line
+[^ref-7]: [MobyGames - Inca II: Wiracocha (Série limitée)](https://www.mobygames.com/game/58618/) – Limited edition entry: 3.5" disk version plus soundtrack disc; 1993, France, Germany, Italy and UK, published by Sierra On-Line
 [^ref-8]: [MobyGames Collector's Edition](https://www.mobygames.com/game/4755/inca-i-ii-collectors-edition/) – 1995 compilation of Inca and Inca II with a soundtrack disc
 [^ref-12]: [MobyGames Nations of Immortality](https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/) – Game entry with description, credits, publishers and a critic average of about 70%
 [^ref-16]: [Wikidata Entry](https://www.wikidata.org/wiki/Q20875674) – Structured metadata about the game including engine and platform information
@@ -194,9 +194,9 @@ Players have requested an official re-release on GOG's wishlist[^ref-5].
 [^ref-22]: [PC Gamer Online - Inca II review (July 1994), archived](https://web.archive.org/web/19991223072710/http://www.pcgamer.com/reviews/559.html) – 81%; "Inca II is ultimately a winner"
 [^ref-23]: [Computer Gaming World #121 (August 1994)](https://archive.org/download/Computer_Gaming_World_Issue_121/Computer_Gaming_World_Issue_121_djvu.txt) – "These Just In" capsule review of Inca II
 [^ref-24]: [Computer Gaming World #148 (November 1996)](https://archive.org/details/Computer_Gaming_World_Issue_148) – "The Worst 50 Games Of All Time": #18 Inca II
-[^ref-25]: [Computer Gaming World #122 (September 1994), pp. 62–64](https://archive.org/download/Computer_Gaming_World_Issue_122/Computer_Gaming_World_Issue_122_djvu.txt) – Charles Ardai, "Inca II: Nations of Immortality: More Baffling French Sensibilities"; spec box, price $34.95, publisher Sierra On-Line, rating 2 stars (checked against page images)
-[^ref-26]: [Tilt #122 (January 1994), pp. 42–44](https://archive.org/download/Tilt122/Tilt122_djvu.txt) – PC CD-ROM review by Serge D. Grun and Jacques Harbonn; credits, technical problems, Intérêt 91% (checked against page image)
-[^ref-27]: [Génération 4 #62 (January 1994), pp. 162–165](https://archive.org/download/generation4-magazine-062/generation4_numero_062_djvu.txt) – "Test CD-ROM PC: Inca II Wiracocha" signed "Cédric"; action/adventure, Intérêt 92% (checked against page image)
+[^ref-25]: [Computer Gaming World #122 (September 1994), pp. 62–64](https://archive.org/download/Computer_Gaming_World_Issue_122/Computer_Gaming_World_Issue_122_djvu.txt) – Charles Ardai, "Inca II: Nations of Immortality: More Baffling French Sensibilities"; spec box, price $34.95, publisher Sierra On-Line, rating 2 stars
+[^ref-26]: [Tilt #122 (January 1994), pp. 42–44](https://archive.org/download/Tilt122/Tilt122_djvu.txt) – PC CD-ROM review by Serge D. Grun and Jacques Harbonn; credits, technical problems, Intérêt 91%
+[^ref-27]: [Génération 4 #62 (January 1994), pp. 162–165](https://archive.org/download/generation4-magazine-062/generation4_numero_062_djvu.txt) – "Test CD-ROM PC: Inca II Wiracocha" signed "Cédric"; action/adventure, Intérêt 92%
 [^ref-28]: [Génération 4 #61 (December 1993)](https://archive.org/download/generation4-magazine-061/generation4_numero_061_djvu.txt) – Coktel Vision / Génération 4 contest marking the release of Inca 2 on PC and CD-ROM
 [^ref-29]: [InterAction, Spring 1994 (Vol. VI No. 4), pp. 28–29](https://archive.org/download/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US/InterAction_Magazine_Vol._VI_Number_4_Spring_1994_1994_Sierra_On-Line_US_djvu.txt) – Sierra's own magazine: John Williams, "Coktel's Inca Series", preview of Inca II with expected prices
 [^ref-30]: [MobyGames - Inca II releases (Wayback, May 2023)](https://web.archive.org/web/20230530213825/https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/releases/) – 1993 Germany/UK releases, US Enhanced CD-ROM Version Mar 22, 1994, Crucial UK 2000; Sierra On-Line credited as publisher
@@ -204,6 +204,6 @@ Players have requested an official re-release on GOG's wishlist[^ref-5].
 [^ref-32]: [Joystick #45 (January 1994)](https://archive.org/details/joystick045) – French magazine: Inca II test (automatic saves, "à peine une après-midi", unsigned in the scan), 82% in its list of rated games, and an interview with Yannick Chosse (development, 3D Studio, Speech Pack)
 [^ref-33]: [Joystick #42 (October 1993)](https://archive.org/details/joystick042) – "En chantier: Inca 2": programming by MDO in Bordeaux (Arnaud Delrue), fifteen audio tracks planned, Gilles Douïeb's Atari ST setup
 [^ref-34]: [InterAction, Fall 1994 (Vol. VII No. 1)](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US) – Sierra's own magazine: "Top Ten Games" (10. tie: Inca II) and "Inca II and Goblins Quest 3: The most original sequels ever..."
-[^ref-35]: [MobyGames - Inca](https://www.mobygames.com/game/4198/inca/) – Original game entry; DOS release 1992 (read via the MobyGames API)
+[^ref-35]: [MobyGames - Inca](https://www.mobygames.com/game/4198/inca/) – Original game entry; DOS release 1992
 [^ref-36]: [ScummVM Wiki - Gob](https://wiki.scummvm.org/index.php?title=Gob) – Gob engine game list and status: Inca II "Completeable"; "Hard-coded space shooter not implemented"
-[^ref-37]: [Power Play #12/93 (December 1993), p. 18](https://archive.org/details/powerplaymagazine-1993-12) – German magazine preview "Inca 2: Wiracocha": expected 4th quarter 1993; cut-scenes made with 3D Studio and Vista Pro; characters filmed on video camera and converted to VGA; stripped-down floppy version planned (checked against page image)
+[^ref-37]: [Power Play #12/93 (December 1993), p. 18](https://archive.org/details/powerplaymagazine-1993-12) – German magazine preview "Inca 2: Wiracocha": expected 4th quarter 1993; cut-scenes made with 3D Studio and Vista Pro; characters filmed on video camera and converted to VGA; stripped-down floppy version planned
