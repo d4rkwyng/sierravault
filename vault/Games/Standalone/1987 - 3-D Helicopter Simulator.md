@@ -10,7 +10,7 @@ series: Standalone
 engine: null
 protagonist: Helicopter pilot (player)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: Sierra's 3-D Helicopter Simulator is a 1987 DOS helicopter flight and
   combat simulator programmed by Joe Wofford, notable for head-to-head play by modem
   or null-modem cable.
@@ -18,7 +18,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # 3-D Helicopter Simulator
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 
 ## Overview
@@ -76,7 +76,7 @@ M. Evan Brooks covered the game in "Choppers!", Computer Gaming World's survey o
 
 Ervin Bobo reviewed it for COMPUTE! (issue 95, April 1988, p. 22) and made a similar split[^ref-27]. He compared the solid 3-D scenery with Microsoft's Flight Simulator, "perhaps even better in some instances". However, he found the combat routines "both slow (even at turbo speed) and noiseless" and the aircraft graphics "disappointing"[^ref-27]. In its March 1988 preview of the year's games, Computer Gaming World referred to Sierra's "popular 3-D Helicopter Simulator"[^ref-22].
 
-Video Games & Computer Entertainment covered it in a survey of flight simulators (issue 4, dated April 1989 by the Internet Archive; the page footer reads MAR/APR 1989; p. 62). The magazine wrote that "Right up there with Gunship is Joe Wofford's 3-D Helicopter Simulator (Sierra), boasting gorgeous color graphics", and described scenery "animated with moving drawbridges and a rotating radar tower", plus external views from the tower and from an overhead satellite view. Its one complaint was speed: "The only major drawback is the slow speed at which the more complex scenes are animated." It also noted that some users "may be disconcerted by the bright color scheme employed for the scenery", since "Orange and blue buildings and bridges may seem a trifle unrealistic at first, but most users should find the overall effect quite pleasant"[^ref-32].
+Video Games & Computer Entertainment covered it in a survey of flight simulators (issue 4, March/April 1989, p. 62). The magazine wrote that "Right up there with Gunship is Joe Wofford's 3-D Helicopter Simulator (Sierra), boasting gorgeous color graphics", and described scenery "animated with moving drawbridges and a rotating radar tower", plus external views from the tower and from an overhead satellite view. Its one complaint was speed: "The only major drawback is the slow speed at which the more complex scenes are animated." It also noted that some users "may be disconcerted by the bright color scheme employed for the scenery", since "Orange and blue buildings and bridges may seem a trifle unrealistic at first, but most users should find the overall effect quite pleasant"[^ref-32].
 
 ### Modern Assessment
 
@@ -172,7 +172,7 @@ Both the manual and Brooks' review said Sierra planned upgrades and optional sce
 
 ### Collections
 
-MobyGames lists the game as included in the Sierra Value Pack (1988)[^ref-1]. It is not sold on GOG or Steam (checked November 2026); GOG has only a dreamlist entry for it.
+MobyGames lists the game as included in the Sierra Value Pack (1988)[^ref-1]. It is not sold on GOG or Steam (as of November 2026).
 
 ### Fan Projects
 
@@ -245,7 +245,7 @@ Reviews in 1988 agreed on the game's strengths and weaknesses. They praised the 
 
 [^ref-31]: [Sierra Newsletter Vol. 2 No. 1 (Spring 1989), p. 23](https://archive.org/details/Sierra_Newsletter_Volume_2_Number_1_Spring_1989_Small) – Sierra's own newsletter (period scan): "New 3-D Helicopter Simulator for Mac", scheduled for shipment in early May, Mac programmer John Hardin
 
-[^ref-32]: [Video Games & Computer Entertainment, issue 4 (April 1989), p. 62](https://archive.org/details/vgce_89-04) – period scan: "Right up there with Gunship is Joe Wofford's 3-D Helicopter Simulator (Sierra), boasting gorgeous color graphics", animated drawbridges and radar tower, slow animation of complex scenes, bright orange and blue scenery; page footer reads MAR/APR 1989
+[^ref-32]: [Video Games & Computer Entertainment, issue 4 (March/April 1989), p. 62](https://archive.org/details/vgce_89-04) – period scan: "Right up there with Gunship is Joe Wofford's 3-D Helicopter Simulator (Sierra), boasting gorgeous color graphics", animated drawbridges and radar tower, slow animation of complex scenes, bright orange and blue scenery
 
 [^ref-33]: [Computer Entertainer, vol. 6 no. 11 (February 1988)](https://archive.org/details/computer-entertainer-6-11) – period scan: "Mission Disk #1 being finished which will include three dangerous challenges"; planned 3-D Tank Simulator usable "in conjunction with 3-D Helicopter Simulator"
 
