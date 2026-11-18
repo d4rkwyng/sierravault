@@ -10,13 +10,13 @@ series: Leisure Suit Larry
 engine: "Custom (Hoyle-based)"
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra On-Line in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -25,10 +25,6 @@ tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 The official description lists five casino games, three party games, a full gift shop, three restaurants, three bars, and "a few surprises."[^ref-2] Players picked a persona from characters of earlier Larry games and could play against computerized opponents drawn from those games, or against live opponents via WON, which Sierra's site called "Cendant's on-line gaming service."[^ref-17] Cendant was Sierra's parent company at the time,[^ref-19] and online play was free.[^ref-6][^ref-17]
 
 The game's roots go back to "LarryLand," a Lowe concept that was eventually realized only in part on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3][^ref-18] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that added *Larry's Casino* and the full *Love for Sail!* to the contents of the earlier Larry collection.[^ref-7][^ref-16]
-
-## Story Summary
-
-In Lowe's 1997 design document, Larry is picked "at random" to create and "front" a casino, but players eventually learn that he is "merely the stooge, a puppet fronting 'his' casino for its mob owners."[^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line[^ref-2]
@@ -41,6 +37,10 @@ In Lowe's 1997 design document, Larry is picked "at random" to create and "front
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Spinoff
 > **ESRB Rating:** Mature[^ref-8]
+
+## Story Summary
+
+In Lowe's 1997 design document, Larry is picked "at random" to create and "front" a casino, but players eventually learn that he is "merely the stooge, a puppet fronting 'his' casino for its mob owners."[^ref-18]
 
 ## Gameplay
 
@@ -74,7 +74,7 @@ Lowe's 1997 design document had planned four party games, including a story-writ
 
 ### Virtual Economy
 
-Off-line gambling is "practice only," with unlimited money. Online, the bankroll is tracked between sessions, and a player who goes broke must earn money back in the party games.[^ref-17] *InterAction* described the player starting with $5,000 Larrybucks and a hotel-room upgrade, available online, costing $10,000.[^ref-23] Online winnings are paid in "Larrybucks," which can be spent on:[^ref-17]
+Off-line gambling is "practice only," with unlimited money. Online, the bankroll is tracked between sessions, and a player who goes broke must earn money back in the party games.[^ref-17] *InterAction* described the player starting with $3,000 Larrybucks and a hotel-room upgrade, available online, costing $10,000.[^ref-23] Online winnings are paid in "Larrybucks," which can be spent on:[^ref-17]
 
 - Virtual gifts, drinks and food
 - Hotel room upgrades at the front desk
@@ -234,7 +234,7 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-18]: [Leisure Suit Larry's Casino Design Document (Al Lowe, 1997) – Larry Laffer Dot Net](http://www.larrylaffer.net/images/Larry's%20Casino%20Design.PDF) – LarryLand history, Hoyle's Casino code base, planned party games, SIGS integration
 [^ref-19]: [Sierra Entertainment – Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – CUC acquisition (1996), Cendant merger (1997), Havas sale (1998), WON launch (1998) and server shutdown (2008)
 [^ref-20]: [Crazy Nick's Software Picks: Leisure Suit Larry's Casino – MobyGames](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – Released June 5, 1992 on DOS; three mini-games (slot machine, blackjack, poker)
-[^ref-22]: [Computer Gaming World, issue 171 (October 1998) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_171) – Charles Ardai, "Sim Vegas" review: quoted lines, offline casino games vs online-only social areas, audio codes (read from the archive.org text)
+[^ref-22]: [Computer Gaming World, issue 171 (October 1998) – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_171) – Charles Ardai, "Sim Vegas" review: quoted lines, offline casino games vs online-only social areas, audio codes
 [^ref-23]: [InterAction Magazine, Summer 1998 – Internet Archive](https://archive.org/details/InterAction_Magazine_Summer_1998_1998_Sierra_On-Line_US) – Rob Bakie's preview in Sierra's own magazine: Hoyle Casino engine as starting point, Larrybucks, online-only party games and chat areas
 [^ref-24]: [InterAction Magazine, Spring 1998 – Internet Archive](https://archive.org/details/InterAction_Magazine_Spring_1998_1998_Sierra_On-Line_US) – Paul Quinn's pre-release feature in Sierra's own magazine: six casino games including Wheel of Fortune, four planned party games
 [^ref-25]: [World Opponent Network – Wikipedia](https://en.wikipedia.org/wiki/World_Opponent_Network) – Staged WON server closures: August 16, 2007 and November 1, 2008
