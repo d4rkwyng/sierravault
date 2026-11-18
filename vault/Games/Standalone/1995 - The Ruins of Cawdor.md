@@ -10,13 +10,13 @@ series: The Sierra Network MUD Trilogy
 engine: Shadow of Yserbius Engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: The Ruins of Cawdor (1995) was the third and last graphical MUD from The Sierra Network / ImagiNation Network, a Macbeth-inspired dungeon game designed by Richard Aronson on the Shadow of Yserbius engine.
 tags: [1990s, rpg, sierra, the-sierra-network-mud-trilogy]
 ---
 # The Ruins of Cawdor
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -24,7 +24,7 @@ The Ruins of Cawdor was the last of three graphical MUDs made for [[Sierra On-Li
 
 The game ran on the same engine as the earlier games. Players created a character from one of six guilds (thief, barbarian, cleric, knight, wizard or ranger) and explored the six floors of Castle Cawdor. Along the way they fought battles, solved puzzles, and found secret doors and magic items.[^ref-3][^ref-5] The French website Abandonware France described the game as "bourré de pièges, d'énigmes et de téléporteurs" (packed with traps, puzzles and teleporters). It added that Cawdor "semble nettement moins basique que les deux autres" (seems clearly less basic than the other two).[^ref-6]
 
-Cawdor came out only about a year before AT&T sold INN to AOL in August 1996, and AOL discontinued the service by 1998.[^ref-30][^ref-31] Yserbius and Twinion were sold as offline boxed versions, but Cawdor never got an offline release.[^ref-1][^ref-6] It could not be played offline until a patch appeared in 2006.[^ref-6][^ref-34]
+Cawdor came out only about a year before AT&T sold INN to AOL in August 1996, and AOL discontinued the service by 1998.[^ref-30][^ref-31] Yserbius and Twinion were sold as offline boxed versions,[^ref-27] but Cawdor never got an offline release.[^ref-1][^ref-6] It could not be played offline until a patch appeared in 2006.[^ref-6][^ref-34]
 
 > [!info]- Game Info
 > **Developer:** Ybarra Productions[^ref-2]
@@ -74,7 +74,7 @@ Combat was turn-based and party-based.[^ref-5][^ref-12] The forum notes describe
 
 ### Contemporary Reviews
 
-No contemporary review of The Ruins of Cawdor has been found. MobyGames lists no critic reviews.[^ref-3] We also searched the period *Computer Gaming World* issues held in our archive, and none of them mention Cawdor. The coverage that does survive is about its predecessors, which ran on the same engine.
+No contemporary review of The Ruins of Cawdor has been found. MobyGames lists no critic reviews.[^ref-3] The period *Computer Gaming World* coverage (issues 106, 115 and 119) is about its predecessors, which ran on the same engine, and does not mention Cawdor.[^ref-25][^ref-26][^ref-27]
 
 - **Shadow of Yserbius (May 1993):** Samuel Baker wrote a feature article on the online version of *Yserbius* in *Computer Gaming World*. He concluded that "those who possess the money would be well served to try out TSN and *Yserbius*."[^ref-26]
 - **The 1994 offline boxed sets (February 1994):** Bernie Yee reviewed the boxed versions of *Yserbius* and *Twinion* for *CGW*. He was much cooler about them: "Playing *Yserbius* without fellow on-line gamers is like being in an amusement park after hours, one in which the rides aren't all that fun to begin with."[^ref-27]
