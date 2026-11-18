@@ -10,7 +10,7 @@ series: Transylvania
 engine: COMPREHEND
 protagonist: The Hero of Transylvania
 sierra_lineage: Third-Party Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: 'The Crimson Crown (Transylvania II), Antonio Antiochia''s 1985 illustrated
   text adventure for Polarware and the sequel to Transylvania, with an IBM PC port
   by Dynamix.'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, transylvania]
 ---
 # The Crimson Crown
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -203,7 +203,7 @@ No current digital storefront listing was found. GOG does not sell the game; it 
 [^ref-4]: [Giant Bomb – The Crimson Crown](https://www.giantbomb.com/the-crimson-crown/3030-5131/) – rendered locations, companions, Comprehend full-sentence parser, plot
 [^ref-5]: [Wikipedia – Transylvania (series)](https://en.wikipedia.org/wiki/Transylvania_(series)) – series overview, 1982 original, companions, Transylvania III, engine reconstruction
 [^ref-6]: [Dynamix Fandom Wiki – The Crimson Crown](https://dynamix.fandom.com/wiki/The_Crimson_Crown) – release dates, Dynamix DOS port, credits (Dallas Snell, "Parser and Animation")
-[^ref-7]: [Lysator – PolarWare adventures](https://www.lysator.liu.se/adventure/PolarWare.html) – credits (Antiochia; Dallas Snell, animations), Penguin-to-PolarWare name change, packaging
+[^ref-7]: [Lysator – PolarWare adventures](https://www.lysator.liu.se/adventure/PolarWare.html) ([archived](https://web.archive.org/web/20260818213437/http://www.lysator.liu.se/adventure/PolarWare.html)) – credits (Antiochia; Dallas Snell, animations), Penguin-to-PolarWare name change, packaging
 [^ref-8]: [Gamepressure – The Crimson Crown](https://www.gamepressure.com/games/the-crimson-crown/zd2a6d) – user rating (4.8/10, 5 ratings)
 [^ref-10]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/appleii/976646-the-crimson-crown/faqs/59450) – version differences, frog transformation, story quotes, Part 2 disk prompt
 [^ref-11]: [Gaming After 40 – Adventure of the Week](http://gamingafter40.blogspot.com/2014/01/adventure-of-week-crimson-crown-1985.html) – copy-protection parchment, vector-and-fill graphics, mixed-case text, Erik quote, Kadash sword
