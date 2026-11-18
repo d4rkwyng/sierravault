@@ -10,14 +10,14 @@ series: Mixed-Up Mother Goose
 engine: SCI2.1
 protagonist: Child Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: Mixed-Up Mother Goose Deluxe is Sierra On-Line's 1995 Windows and Macintosh remake of Roberta Williams' nursery-rhyme adventure for pre-school children, with new graphics and a soundtrack that sets each rhyme in a different musical style.
 composer: [Guy Whitmore]
 tags: [1990s, educational, mixed-up-mother-goose, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose Deluxe
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -86,7 +86,7 @@ Sierra had remade Mixed-Up Mother Goose twice before Deluxe: an SCI version in 1
 
 MobyGames credits 37 people (32 professional roles and 5 thanks)[^ref-16]. Roberta Williams is credited as designer, Wendy Albee as producer, Marcia Bales as lead artist, and Ellen Ratajak, Robert W. Lindsley and Oliver Brelsford as lead programmers[^ref-16]. Guy Whitmore composed the music[^ref-16][^ref-7]; *InterAction* credits him with 18 all-new songs, each in a different musical style, and says an audio CD of the new songs, with an instrumental-only version of each and printed lyrics, was included[^ref-27]. Rhonda Matson is credited as Spanish expert[^ref-16].
 
-The bonus soundtrack CD, composed by Guy Whitmore, is catalogued on VGMdb with a release date of June 1, 1995, as a Sierra On-Line enclosure marked "Not for Sale (U.S.)" and "Comes with the game"[^ref-31]. The Sierra Help Pages describe it as the extra audio CD that came with the game, with music that can be played separately and instrumental versions that a child can sing along with (karaoke)[^ref-32]. Both sources list the 18 songs followed by instrumental versions of 18 of them[^ref-31][^ref-32].
+The bonus soundtrack CD, composed by Guy Whitmore, is catalogued on VGMdb with a release date of June 1, 1995, as a Sierra On-Line enclosure marked "Not for Sale (U.S.)" and "Comes with the game"[^ref-31]. The Sierra Help Pages describe it as the extra audio CD that came with the game, with music that can be played separately and instrumental versions that a child can sing along with (karaoke)[^ref-32]. Both sources list the 18 songs followed by an instrumental version of each[^ref-31][^ref-32].
 
 The nursery rhymes are set in many popular music styles, "from Reggae to Blues to Country and Western," according to Metzomagic[^ref-11]. Sierra's own advertisement told readers: "Imagine 'Little Jack Horner' done in reggae"[^ref-25].
 
@@ -105,7 +105,7 @@ New voice and singing talent is credited alongside "all the character voices fro
 
 | Feature | Specification |
 |---------|--------------|
-| Engine | SCI2.1; ScummVM's detection notes report interpreter version 2.100.002[^ref-23], which the ScummVM wiki lists under SCI21 (middle) with a 1995-03-27 date[^ref-24] |
+| Engine | SCI2.1; ScummVM's detection notes report interpreter version 2.100.002[^ref-23], which the ScummVM wiki lists under SCI21 (middle) for the Windows release; the wiki's 1995-03-27 date belongs to its separate "Windows interpreter only" entry[^ref-24] |
 | Media | CD-ROM[^ref-1] |
 | Input | Mouse[^ref-1] |
 | Requirements (1996 retail listings) | A 386 PC running Windows 3.1, or a Macintosh, with 8 MB of RAM and a mouse, per Columbia House CD-ROM Direct order cards in *Computer Gaming World* (April 1996) and *MacAddict* (November 1996)[^ref-29][^ref-30] |
@@ -156,7 +156,7 @@ ScummVM supports the Windows version (game ID `sci:mothergoosehires`) at "Excell
 [^ref-23]: [ScummVM - SCI detection tables](https://raw.githubusercontent.com/scummvm/scummvm/master/engines/sci/detection_tables.h) – Mixed-Up Mother Goose Deluxe entries, interpreter version
 [^ref-24]: [ScummVM Wiki – Sierra Game Versions (Wayback, May 2024)](http://web.archive.org/web/20240518064410/https://wiki.scummvm.org/index.php/Sierra_Game_Versions) – SCI21 (middle) table: "Mixed-Up Mother Goose Deluxe (Windows interpreter only)", 2.100.002, 1995-03-27
 [^ref-25]: [PC Gamer US #19 (December 1995) – Sierra advertisement for Mixed-Up Mother Goose Deluxe, p. 62](https://archive.org/details/pc-gamer-usa-019-december-1995) – Period ad scan: awards, "500,000 little ones", reggae "Little Jack Horner", English or Spanish, bonus audio CD, WIN'95/WIN/MAC badges
-[^ref-26]: [MobyGames - Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – 1991 VGA rewrite with digitized speech (read via the MobyGames API)
+[^ref-26]: [MobyGames - Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – 1991 VGA rewrite with digitized speech
 [^ref-27]: [InterAction Magazine, Spring 1995 – Suzanne Sweeney, "Mixed-Up Mother Goose Deluxe", p. 28](https://archive.org/details/InterAction_Magazine_Spring_1995_1995_Sierra_On-Line_US) – Sierra's own magazine: awards list for the original, 12 player characters, 18 new songs, audio CD, Spanish mode, May 1995, Win/Mac CD $39.95
 [^ref-28]: [InterAction Magazine, Fall 1997](https://archive.org/details/InterAction_Magazine_Fall_1997_1997_Sierra_On-Line_US) – King's Quest Collection Series listing includes Mixed-Up Mother Goose Deluxe (#73120)
 [^ref-29]: [Computer Gaming World Issue 141 (April 1996) – Columbia House CD-ROM Direct order card](https://archive.org/details/Computer_Gaming_World_Issue_141) – Deluxe listed as Windows 3.1 or Macintosh, 8 MB, mouse
