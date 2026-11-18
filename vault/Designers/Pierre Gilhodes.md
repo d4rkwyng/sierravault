@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Gobliiins", "The Bizarre Adventures of Woodruff and the Schnibble", "Gobliiins 5: The Morgloton Invasion", "Gobliins 6"]
 companies: ["Coktel Vision", "Sierra", "Wizarbox", "Société Pollene", "Schnibble Productions"]
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 ---
 # Pierre Gilhodes
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -48,6 +48,8 @@ On itch.io he announced its successor: "Le suivant est commencé, Gobliins6, qui
 #### Comics
 
 Gilhodes also keeps an illustration blog, Le Blog du Bouzouk, which MobyGames links from his profile; a post there titled "Bouzouk - MegaDreamPark" was published under his name on 4 May 2011.[^ref-6][^ref-34] When a player on itch.io asked whether the comic "Bouzouk MegaDream Park" would be translated into English, he replied: "The comic Bouzouk is well translated into English."[^ref-16] In a later itch.io reply he said that in a month or two he would launch a crowdfunding campaign "pour obtenir certains livres en vraies éditions papier, dont Bouzouk MegaDreamPark" (to get certain books into real paper editions, including Bouzouk MegaDreamPark).[^ref-4]
+
+That campaign launched on Kickstarter on November 17, 2026 and runs until December 17, 2026, with a €3,000 goal that it had already passed by the next day.[^ref-43] It offers print editions of four of his books, which had previously been available only digitally or not at all. The main book is *Bouzouk MegaDreamPark*, a 48-page full-color hardcover comic set in the universe of the Bouzouks from [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|Woodruff and the Schnibble]], which he had earlier distributed as a digital reward during a Gobliiins crowdfunding campaign. The other three are *Incantation Junkies*, a collection of horror comics from his fanzine days that includes previously unpublished stories such as *The Prince Buffoon*; *Friponations*, a collection of humorous drawings; and *Zoe Adventures*, a children's book he wrote for his daughter. The campaign says the books are printed only for it and will not be sold elsewhere, with delivery expected in January 2027.[^ref-42]
 
 ## Notable Works
 
@@ -131,8 +133,8 @@ Credits per MobyGames unless noted.[^ref-21][^ref-28]
 [^ref-27]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) — Sierra On-Line deal "finalised on 29 October 1993"
 [^ref-28]: [MobyGames Pierre Gilhodes (Wayback, 2025-03-24)](https://web.archive.org/web/20250324223942/https://www.mobygames.com/person/10718/pierre-gilhodes/) — Credits: Gobliiins "Conception", Gobliins 2 / Inca / Goblins Quest 3 "Created by", Abracadabra and Baba Yaga "Illustrated by", Urban Runner "The following also participated"
 [^ref-29]: [The Adventure Gamer – Interview with Muriel Tramis (2018)](https://advgamer.blogspot.com/2018/03/interview-with-muriel-tramis.html) — "This system of a game based on solidarity belongs primarily to Pierre Gilhodes"
-[^ref-30]: [MobyGames – Gobliiins credits (DOS)](https://www.mobygames.com/game/1154/gobliiins/credits/dos/) — "Original Concept: Pierre Gilhodes, Muriel Tramis"; Graphics / Artwork Pierre Gilhodes (checked 2026-10-26)
-[^ref-31]: [MobyGames – Gobliins 6 credits (Windows)](https://www.mobygames.com/game/255126/gobliins-6/credits/windows/) — Scenario, Graphics, Animation, Programming: Pierre Gilhodes (checked 2026-10-26)
+[^ref-30]: [MobyGames – Gobliiins credits (DOS)](https://www.mobygames.com/game/1154/gobliiins/credits/dos/) — "Original Concept: Pierre Gilhodes, Muriel Tramis"; Graphics / Artwork Pierre Gilhodes
+[^ref-31]: [MobyGames – Gobliins 6 credits (Windows)](https://www.mobygames.com/game/255126/gobliins-6/credits/windows/) — Scenario, Graphics, Animation, Programming: Pierre Gilhodes
 [^ref-32]: [Ulule – GOBLiiNS6](https://www.ulule.com/gobliins6/) — Campaign October 9 – November 13, 2024; €5,040 raised against a €4,000 goal
 [^ref-33]: [Ulule – Gobliiins5](https://www.ulule.com/gobliiins5/) — Campaign February 19 – March 21, 2022; €6,950 raised against a €3,000 goal
 [^ref-34]: [Le Blog du Bouzouk – "Bouzouk - MegaDreamPark"](https://bouzoukblog.blogspot.com/2011/05/bouzouk-megadreampark-1.html) — Post published by Pierre Gilhodes, 4 May 2011
@@ -143,3 +145,5 @@ Credits per MobyGames unless noted.[^ref-21][^ref-28]
 [^ref-39]: [Sierra On-Line Form 10-K, filed 1 July 1996 (SEC, Wayback)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) — "On October 29, 1993, the Company acquired Coktel Vision S.A." for about $5,332,000
 [^ref-40]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/) — Released July 20, 2023; developer Pierre Gilhodes, publisher Schnibble Productions
 [^ref-41]: [MobyGames – Gobliiins 5](https://www.mobygames.com/game/202606/gobliiins-5/) — Release dates, including itch.io 2 May 2023
+[^ref-42]: [Kickstarter – BOUZOUK MegaDreamPark the Comic with 3 Other Schnibble Books](https://www.kickstarter.com/projects/pierregilhodes/bouzouk-megadreampark-the-comic-with-3-other-schnibble-books) — Campaign by Pierre Gilhodes: the four books, their formats, print-only edition, delivery expected January 2027
+[^ref-43]: [Kicktraq – BOUZOUK MegaDreamPark](http://www.kicktraq.com/projects/pierregilhodes/bouzouk-megadreampark-the-comic-with-3-other-schnibble-books/) — Dates Nov 17 – Dec 17 (30 days); €3,089 of €3,000 from 26 backers as of November 18, 2026
