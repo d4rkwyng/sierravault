@@ -10,13 +10,13 @@ series: Standalone
 engine: Unknown
 protagonist: Player as Bug General
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: Battle Bugs is a real-time tactics video game developed by Epyx, Inc. and published by Sierra On-Line in 1994 for MS-DOS, in which the player commands insect armies across household battlefields.
 tags: [1990s, sierra, standalone]
 ---
 # Battle Bugs
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -56,9 +56,6 @@ The game supports two resolution modes: 800x600 and 640x480, switchable via the 
 ### Structure and Progression
 
 The campaign consists of 56 battles organized into 6 separate sets called "Worlds," with difficulty increasing progressively as players advance.[^ref-7] Early levels function as "boot camp" tutorials, introducing players to the game's mechanics and the various bug types available for command.[^ref-7] Each mission presents specific objectives that must be completed within a time limit.[^ref-7]
-
-- **World 1:** Tutorial missions introducing basic mechanics
-- **World 2-6:** Progressively challenging tactical scenarios
 
 The goal of each battle is either the slaughter of the opponent's army or the capture of all the food on the battlefield.[^ref-6] Each type of bug has standard abilities (attack strength, hit points, defense strength, movement speed), and many have special powers: ants and pill bugs can throw bombs, while grasshoppers and fleas can jump.[^ref-6]
 
@@ -106,7 +103,7 @@ One GOG wishlist commenter, Metamorpho, made a bold claim about the game's influ
 - **MobyGames Critics:** 81% (19 ratings)[^ref-1]
 - **OldGames.sk:** 78%[^ref-16]
 - **My Abandonware User Rating:** 4.23/5 (268 votes)[^ref-17]
-- **Steam Reviews:** 95% positive (23 reviews)[^ref-3]
+- **Steam Reviews:** 95% positive (24 reviews, as of November 2026)[^ref-3]
 - **Amazon Customer Reviews:** 5.0/5 stars (1 rating)[^ref-4]
 
 ## Development
