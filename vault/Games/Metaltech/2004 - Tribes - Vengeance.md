@@ -11,7 +11,7 @@ series: "Starsiege"
 engine: "Unreal Engine 2 (modified; Vengeance engine)"
 protagonist: "Julia, Victoria and other playable characters"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: "Tribes: Vengeance is the 2004 Tribes game developed by Irrational Games and published by Vivendi Universal Games under the Sierra brand, the first in the series with a full single-player campaign."
 tags: [2000s, shooter, tribes, starsiege, sierra, irrational-games, ken-levine]
 composer: ["Eric Brosius"]
@@ -19,7 +19,7 @@ composer: ["Eric Brosius"]
 
 # Tribes: Vengeance
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -70,7 +70,7 @@ Multiplayer supports up to 32 players on 15 maps at launch. Several reviewers re
 - **Capture the Flag:** the series' traditional mode, with bases, generators, turrets and inventory stations to defend.
 - **Arena:** round-based team combat. GameSpy described it as basic team deathmatch.
 - **Ball:** teams fight over a ball and throw it into the opposing goal.
-- **Fuel:** teams collect fuel canisters to fill their depot. Each team death costs the team one unit of fuel.[^ref-20][^ref-22]
+- **Fuel:** teams collect fuel canisters to fill their depot. Each team death costs the team one unit of fuel.[^ref-3][^ref-1]
 - **Rabbit:** a free-for-all keep-away game built around a single flag.
 
 The game shipped with an editor.[^ref-5]
@@ -161,7 +161,7 @@ The Sierra Chest lists the game as included in the German release of the *Best o
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold: no Steam or GOG listing (checked November 2026).
+- Not currently sold: no Steam or GOG listing (as of November 2026).
 - Freeware: Hi-Rez Studios made the game free to download, together with the other Tribes games up to *Tribes: Ascend*.[^ref-25][^ref-16]
 
 **Download / Preservation**
@@ -185,10 +185,10 @@ Tribes: Vengeance continues the Tribes line that Dynamix began with Starsiege: T
 ## References
 
 [^ref-1]: [Wikipedia – Tribes: Vengeance](https://en.wikipedia.org/wiki/Tribes:_Vengeance) – engine, gameplay, playable characters and missions, voice cast, end of support dated March 23, 2005 (uncited there), Computer Games Magazine runner-up (citing Computer Games Magazine #172, March 2005, pp. 48–56)
-[^ref-2]: [MobyGames – Tribes: Vengeance](https://www.mobygames.com/game/15568/tribes-vengeance/) – release list (US October 5, 2004; France/Germany/Italy October 22, 2004; budget re-releases; Hi-Rez freeware 2015), publisher Sierra Entertainment with VUG distributors, story synopsis, user score. Retrieved via the MobyGames API, 2026-10-09
+[^ref-2]: [MobyGames – Tribes: Vengeance](https://www.mobygames.com/game/15568/tribes-vengeance/) – release list (US October 5, 2004; France/Germany/Italy October 22, 2004; budget re-releases; Hi-Rez freeware 2015), publisher Sierra Entertainment with VUG distributors, story synopsis, user score
 [^ref-3]: [GameSpot – Tribes: Vengeance Review (Bob Colayco, October 6, 2004), Wayback Machine](https://web.archive.org/web/20180731115608/https://www.gamespot.com/reviews/tribes-vengeance-review/1900-6109720/) – 8.8 score, campaign, multiplayer, weapons, vehicles, presentation
 [^ref-4]: [IGN – Tribes: Vengeance review (Steve Butts, October 5, 2004), Wayback Machine](https://web.archive.org/web/20170411221721/http://www.ign.com/articles/2004/10/05/tribes-vengeance) – Dynamix's dissolution, Vivendi choosing Irrational, setting before the original Tribes
-[^ref-5]: [GameSpy – Tribes: Vengeance review (Scott Osborne, October 8, 2004), Wayback Machine](https://web.archive.org/web/20141211140508/http://pc.gamespy.com/pc/tribes-vengeance/555578p1.html) – verdict, 4-star rating (review box graphic imgs_stars_4.gif; GameSpy scored out of five), multiplayer modes, no bots, editor, release date
+[^ref-5]: [GameSpy – Tribes: Vengeance review (Scott Osborne, October 8, 2004), Wayback Machine](https://web.archive.org/web/20141211140508/http://pc.gamespy.com/pc/tribes-vengeance/555578p1.html) – verdict, 4-star rating (out of five), multiplayer modes, no bots, editor, release date
 [^ref-6]: [Tribes: Vengeance Prima Official eGuide (Prima Games, 2004) – Internet Archive](https://archive.org/details/Tribes_Vengeance_Prima_Official_eGuide) – © 2004 Sierra Entertainment notice, "Developed exclusively by Irrational Games", Havok and GameSpy credits, Freedom Force easter egg
 [^ref-7]: [MobyGames – Tribes: Vengeance credits (Wayback Machine, 2008)](http://web.archive.org/web/20080502021649/http://www.mobygames.com:80/game/windows/tribes-vengeance/credits) – Irrational (Canberra) and Vivendi Universal Games (Bellevue and Los Angeles) credits, writer Ken Levine, Sierra CPC Lead
 [^ref-8]: [The Sierra Chest – Tribes: Vengeance](https://sierrachest.com/index.php?a=games&id=68&fld=general) – first release 2004-10-05, developer Irrational Games, publisher Vivendi Universal Games, engines, Best of Sierra: Action compilation
@@ -202,10 +202,10 @@ Tribes: Vengeance continues the Tribes line that Dynamix began with Starsiege: T
 [^ref-16]: [PC Gamer – "Hi-Rez makes previous Tribes games free" (Tom Sykes, 2015), Wayback Machine](https://web.archive.org/web/20151030184042/http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – freeware list including Tribes Vengeance; Tribes Ascend already free-to-play
 [^ref-17]: [Neowin – "Tribes: Vengeance = Dead?" (Todd Tanner, March 24, 2005), Wayback Machine](http://web.archive.org/web/20110703054601/http://www.neowin.net:80/news/tribes-vengeance--dead) – "According to this post on the VU Games Community forums, the 1.1 patch for Tribes: Vengeance was cancelled. Apparently all future updates for the game are now cancelled also."
 [^ref-18]: [Slashdot – "Tribes Franchise Quietly Strangled" (March 25, 2005)](https://games.slashdot.org/story/05/03/25/1349235/tribes-franchise-quietly-strangled) – reader submission: VUG "simply cancelling support for the game"
-[^ref-19]: [Computer Gaming World – Tribes: Vengeance review (Tom Chick), issue 246, from p. 80 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_246) – verdict "Practice and frustration followed by depth and variety.", no bot support or skirmish mode, single-player "brief and clunky", art design praised. Read from the scan's OCR text; the star score is not legible there, and the issue month comes from Internet Archive metadata (2004-12)
-[^ref-20]: [PC PowerPlay – Tribes: Vengeance review (Ed Dawson), issue 106, pp. 76–77 – Internet Archive](https://archive.org/details/PCPowerplay-106-2004-12) – "the most feature-laden version of Tribes ever", Fuel mode, "Recommended". The numeric score is not legible in the OCR text and is not stated here
+[^ref-19]: [Computer Gaming World – Tribes: Vengeance review (Tom Chick), issue 246, from p. 80 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_246) – verdict "Practice and frustration followed by depth and variety.", no bot support or skirmish mode, single-player "brief and clunky", art design praised; issue month per Internet Archive metadata (2004-12)
+[^ref-20]: [PC PowerPlay – Tribes: Vengeance review (Ed Dawson), issue 106, pp. 76–77 – Internet Archive](https://archive.org/details/PCPowerplay-106-2004-12) – "the most feature-laden version of Tribes ever", Fuel mode, "Recommended"
 [^ref-21]: [PC PowerPlay – Tribes: Vengeance designer diary #1 (Ed Orman) and preview, issue 104 (October 2004) – Internet Archive](https://archive.org/details/PCPowerplay-104-2004-10) – real single-player campaign, Sierra's brief, list of 18 missions (not final), four vehicles (Ben Lee), Vivendi approval of design decisions (Tony Oakden)
-[^ref-22]: [Edge (Australian edition) – Tribes: Vengeance review, issue 3 (December 2004), pp. 81–83 – Internet Archive](https://archive.org/details/Edge-AUS-03-2004-XMAS) – score box "[7]" (checked on the page image; the same issue scores Half-Life 2 "[10]"), excellent online multiplayer, uneven single-player, indoor missions "a letdown", Fuel and Ball modes
+[^ref-22]: [Edge (Australian edition) – Tribes: Vengeance review, issue 3 (December 2004), pp. 81–83 – Internet Archive](https://archive.org/details/Edge-AUS-03-2004-XMAS) – score box "[7]" (the same issue scores Half-Life 2 "[10]"), excellent online multiplayer, uneven single-player, indoor missions "a letdown", Fuel and Ball modes
 [^ref-23]: [Edge (Australian edition) – AGDC Annual Industry Awards winners, issue 4 (January 2005) – Internet Archive](https://archive.org/details/Edge-AUS-04-2005-01) – Best Game, Best PC Game, Best Game Design and Best Level Design all listed for Tribes Vengeance (Irrational)
 [^ref-24]: [Edge (Australian edition) – "Local Call" interview with Michael Johnstone, issue 2 (November 2004) – Internet Archive](https://archive.org/details/Edge-AUS-02-2004-11) – "freedom of movement", the grappler "completely new", Unreal engine does not support tiling terrains, game recently gone gold
 [^ref-25]: [PCGamesN – "Hi-Rez make every Tribes game up to Ascend free to download (including Irrational's)" (Jeremy Peel, updated March 21, 2016)](https://www.pcgamesn.com/tribes-ascend/hi-rez-have-made-every-tribes-game-up-to-ascend-free-to-download-including-the-irrational-one) – Hi-Rez made every Tribes game up to Ascend free, including Vengeance, "so difficult to get hold of" until then
