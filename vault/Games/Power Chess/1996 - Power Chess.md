@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess by David Kittinger
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 composer: [Guy Whitmore]
 description: Power Chess is a 1996 Windows 95 chess program from Sierra On-Line, built
   on David Kittinger's WChess engine, pairing an adaptive King opponent with a talking
@@ -19,7 +19,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -73,7 +73,7 @@ One chess.com forum user, recalling the program in 2019, wrote: "Twin game engin
 | GameSpot | 6.8/10 | Ron Dulin, November 15, 1996[^ref-13] |
 | MobyGames Critics | 78% | Average of 11 critic ratings[^ref-11] |
 
-PC Joker's comparison scored Power Chess 78% for presentation, 72% for controls, 80% for options and 86% for playing strength, for an overall 80%. That put it ahead of Mephisto Genius 3.5 (78%), Chessmaster 5000 (76%) and Grandmaster Chess Ultra (69%)[^ref-20]. PC Joker listed the price as about 129 DM, against about 119 DM for Mephisto, about 99 DM for Chessmaster 5000 and about 19.80 DM for Grandmaster Chess Ultra[^ref-20]. The magazine also ran its own editorial tournament in which each program played two games against every other: "Power Chess und Mephisto belegten gemeinsam den ersten Platz, knapp gefolgt von Chess Master" (translation mine: Power Chess and Mephisto shared first place, narrowly followed by Chess Master)[^ref-20]. The magazine noted that, unthrottled, the program had even drawn against Deep Blue[^ref-20].
+PC Joker's comparison scored Power Chess 78% for presentation, 72% for controls, 80% for options and 86% for playing strength, for an overall 80%. That put it ahead of Mephisto Genius 3.5 (78%), Chessmaster 5000 (76%) and Grandmaster Chess Ultra (69%)[^ref-20]. PC Joker listed the price as about 129 DM, against about 119 DM for Mephisto, about 99 DM for Chessmaster 5000 and about 19.80 DM for Grandmaster Chess Ultra[^ref-20]. The magazine also ran its own editorial tournament in which each program played two games against every other: "Power Chess und Mephisto belegten gemeinsam den ersten Platz, knapp gefolgt von Chess Master" (Power Chess and Mephisto shared first place, narrowly followed by Chess Master)[^ref-20]. The magazine noted that, unthrottled, the program had even drawn against Deep Blue[^ref-20].
 
 Sierra's own InterAction magazine later quoted Computer Games Strategy Plus as calling it "a fresh, addictive, and innovative way for the rest of us to improve our play"; the line comes from Chuck Klimushyn's 1996 review.[^ref-24] It also quoted *Wired*: "one of the best things to happen to on-screen chess since there was such a thing"[^ref-21].
 
@@ -114,13 +114,13 @@ Ken Williams counted it a success: "We launched the product, to critical aclaim 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Power Chess | September 30, 1996 | Windows 95 | Original release[^ref-1][^ref-6] |
-| Power Chess 98 | November 3, 1997 (Sierra Chest); Wikipedia gives 1997 | Windows 95/98 | Updated version[^ref-1][^ref-32] |
-| Power Chess 2.0 | 1999 (Sierra Chest); 1998 per Wikipedia, citing Sierra UK's Catalog 98/99 | Windows | Later revision[^ref-1][^ref-33] |
+| Power Chess 98 | November 3, 1997 (Sierra Chest); Wikipedia gives 1997 | IBM PC (Sierra Chest) | Updated version[^ref-1][^ref-32] |
+| Power Chess 2.0 | 1999 (Sierra Chest); 1998 per Wikipedia, citing Sierra UK's Catalog 98/99 | IBM PC (Sierra Chest) | Later revision[^ref-1][^ref-33] |
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- No Steam or GOG listing (checked November 2026)
+- No Steam or GOG listing (as of November 2026)
 
 ## See Also
 
@@ -140,14 +140,14 @@ Ken Williams counted it a success: "We launched the product, to critical aclaim 
 [^ref-16]: [Sierra Gamers Forum – Power Chess](https://www.sierragamers.com/forums/topic/power-chess/) – Ken Williams on origins, Elon Gasper, market share and cancellation; user report on Windows XP
 [^ref-17]: [Computer Games Strategy Plus – 1996 Awards (Wayback Machine)](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – Traditional Game of the Year 1996
 [^ref-19]: [Chessprogramming Wiki – Power Chess](https://www.chessprogramming.org/Power_Chess) – Windows 95, 1996, WChess engine, later revisions
-[^ref-20]: [PC Joker 3/97 – "Das königliche Quartett: 4 neue Schachprogramme" (Internet Archive)](https://archive.org/details/pcjoker-februar-1997-images) – pp. 72–74 (the item is labelled February 1997 but holds issue 3/97); 80% rating, features, system requirements
+[^ref-20]: [PC Joker 3/97 – "Das königliche Quartett: 4 neue Schachprogramme" (Internet Archive)](https://archive.org/details/pcjoker-februar-1997-images) – pp. 72–74; 80% rating, features, system requirements
 [^ref-21]: [InterAction Magazine, Holiday 1997 (Internet Archive)](https://archive.org/details/033_interaction_volume_10_number_4_holiday_1997) – "Power Chess '98: Smarter & Stronger" news note quoting the Computer Games Strategy Plus 4/5 review and Wired on the original
 [^ref-22]: [MobyGames – Power Chess credits (Windows)](https://www.mobygames.com/game/1922/power-chess/credits/windows/) – designer/director, producer, team, Queen voice, music
 [^ref-23]: [PC PowerPlay No. 33, February 1999 (Internet Archive)](https://archive.org/details/PCPowerplay-033-1999-02) – p. 113, Sierra's Complete Chess review: Power Chess as the intermediate level
 [^ref-24]: [Computer Games Strategy Plus – "Power tutelage for the masses", Chuck Klimushyn (1996, Wayback)](https://web.archive.org/web/1997/http://www.cdmag.com:80/traditional_vault/power_chess_review/page1.html) – original review: "Power Chess delivers a fresh, addictive, and innovative way for the rest of us to improve our play"
 [^ref-25]: [InterAction Magazine, Fall 1996, "Partners" feature on Power Chess (Internet Archive)](https://archive.org/details/InterAction_Magazine_Fall_1996_1996_Sierra_On-Line_US) – Gasper as designer, King and Queen, VCR-style review, WChess modified, Harvard Cup, Internet service (Sierra house magazine, promotional)
 [^ref-26]: [Computer Gaming World No. 149, December 1996 (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_149) – "Also Making Their Move" chess roundup: "slickest castling move this season", tutorials from famous games
-[^ref-27]: [PC Games, Vol. 3 No. 12, December 1996 (Internet Archive)](https://archive.org/details/pc-games-vol.-3-no.-12-december-1996-kitsunebi) – holiday chess roundup: WChess engine "fought IBM's Deep Blue to a draw at the 1995 World Computer Chess Championship"; Win 95 CD, $39.95 (price list, not a ship date)
+[^ref-27]: [PC Games, Vol. 3 No. 12, December 1996 (Internet Archive)](https://archive.org/details/pc-games-vol.-3-no.-12-december-1996-kitsunebi) – holiday chess roundup: WChess engine "fought IBM's Deep Blue to a draw at the 1995 World Computer Chess Championship"; Win 95 CD, $39.95
 [^ref-28]: [PC Games, Vol. 4 No. 01, January 1997 (Internet Archive)](https://archive.org/details/pc-games-vol.-4-no.-01-january-1997-kitsunebi) – Gamewire item on the Sierra Internet Gaming Service for Power Chess; Scott Lynch quote
 [^ref-29]: [Chessprogramming Wiki – WChess](https://www.chessprogramming.org/WChess) – 5/6 at Harvard Cup 1994, WCCC 1995, engine of Sierra's Power Chess (Windows 95, 1996)
 [^ref-30]: [Chessprogramming Wiki – David Kittinger](https://www.chessprogramming.org/David_Kittinger) – Kittinger background, Chessmaster 2000 engine, WChess 1995 DOS release, Power Chess engine
