@@ -180,7 +180,7 @@ After official support ended, an enthusiast reconstructed a source-code variant 
 
 ## Purchase
 
-No current digital storefront listing was found. GOG does not sell the game; it has only a community [GOG Dreamlist entry](https://www.gog.com/wishlist/games/the_crimson_crown_transylvania_ii) asking for it to be added (checked October 29, 2026).
+As of November 2026 the game has no digital storefront listing. GOG does not sell it; it has only a community [GOG Dreamlist entry](https://www.gog.com/wishlist/games/the_crimson_crown_transylvania_ii) asking for it to be added.
 
 ## Downloads
 
