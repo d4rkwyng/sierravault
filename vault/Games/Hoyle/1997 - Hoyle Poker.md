@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: '**Hoyle Poker**, released in 1997, was a stand-alone Sierra poker game
   that followed 1996''s Hoyle Casino: a Friday-night home game against animated,
   wisecracking opponents...'
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Poker
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -31,7 +31,7 @@ GameSpot's Walter Morbeck wrote that Sierra "has done an admirable job of creati
 > **Designer:** Jim Love[^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Platforms:** Windows, Windows 3.1[^ref-1]
-> **Release Year:** 1997[^ref-31][^ref-21]
+> **Release Year:** 1997 (April 14, per Sierra's press index)[^ref-32][^ref-31][^ref-21]
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
 > **Engine:** Proprietary (Windows)
