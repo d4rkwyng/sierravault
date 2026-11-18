@@ -10,7 +10,7 @@ series: The Incredible Machine / Ghosts 'n Goblins
 engine: Incredible Toons engine (licensed from Dynamix)
 protagonist: Arthur
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: 'Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive
   puzzle game released on August 30, 1996, for the Sony PlayStation and Sega Saturn,
   combining Dynamix''s Incredible Toons engine with Capcom''s Ghosts ''n Goblins characters.'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine-ghosts-n-goblins]
 ---
 # Arthur to Astaroth no Nazo Makaimura: Incredible Toons
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -214,9 +214,9 @@ Arthur to Astaroth no Nazo Makaimura is an obscure spinoff of both *The Incredib
 [^ref-25]: [Sega Retro – Arthur to Astaroth no Nazomakaimura: Incredible Toons](https://segaretro.org/Arthur_to_Astaroth_no_Nazomakaimura) – Saturn: Magical Formation/Capcom, licensor Dynamix, Shuttle Mouse, SCSP/CD-DA (18 tracks), 1996-08-30, ¥5800, T-1209G; magazine scores (Weekly Famitsu 73 cites the 1996-09-06 issue; Sega Saturn Magazine 82 cites "Readers rating final data", 2000-03)
 [^ref-26]: [Mean Machines Sega #40 (February 1996), p. 20 – Capcom interview](https://archive.org/details/mean-machines-sega-magazine-40/page/n19) – "an upgrade version of The Incredible Machine"; items changed to Ghouls and Ghosts characters; "almost complete"
 [^ref-27]: [Wikipedia (Japanese) – 神谷英樹 (Hideki Kamiya)](https://ja.wikipedia.org/wiki/神谷英樹) – joined Capcom 1994; helped develop アーサーとアスタロトの謎魔界村 before joining Resident Evil as a planner
-[^ref-28]: [Sega Hard Encyclopedia – Saturn software (licensee releases), Wayback 2019-10-02](https://web.archive.org/web/20191002103132/https://sega.jp/fb/segahard/ss/soft_licensee2.html) (Japanese; Shift-JIS page, decoded) – 「8月30日 アーサーとアスタロトの謎魔界村 カプコン ＰＺＬ 5,800円 T-1209G」: release date August 30, Capcom, puzzle, ¥5,800, T-1209G
+[^ref-28]: [Sega Hard Encyclopedia – Saturn software (licensee releases), Wayback 2019-10-02](https://web.archive.org/web/20191002103132/https://sega.jp/fb/segahard/ss/soft_licensee2.html) (Japanese) – 「8月30日 アーサーとアスタロトの謎魔界村 カプコン ＰＺＬ 5,800円 T-1209G」: release date August 30, Capcom, puzzle, ¥5,800, T-1209G
 [^ref-29]: [Weekly Famitsu No. 403 (September 6, 1996)](https://archive.org/details/Famitsu403Sep61996) (Internet Archive scan) – release listing: 「パソコンで人気のパズルゲームの移植版だ。カプコンの人気ゲーム、『魔界村』シリーズの…が登場するぞ」 ("a port of a puzzle game popular on PC; characters from Capcom's popular Makaimura series appear"); the review score table did not OCR
-[^ref-30]: [Saturn Fan 1996 No. 18](https://archive.org/details/saturn-fan-1996-18) (Internet Archive scan) – 「各30問のレギュラーパズルの他に、大魔界村と超魔界村にはレギュラーパズルクリア後のお楽しみボーナスパズルもある」 ("besides 30 regular puzzles each, Daimakaimura and Chōmakaimura also have bonus puzzles after the regular puzzles are cleared"); checked against the page image (printed p. 183): set names 魔界村, 大魔界村, 超魔界村; "Original" and 「ホーム トゥーンズ」 modes; spec box 発売元/開発元 カプコン
+[^ref-30]: [Saturn Fan 1996 No. 18](https://archive.org/details/saturn-fan-1996-18) (Internet Archive scan) – 「各30問のレギュラーパズルの他に、大魔界村と超魔界村にはレギュラーパズルクリア後のお楽しみボーナスパズルもある」 ("besides 30 regular puzzles each, Daimakaimura and Chōmakaimura also have bonus puzzles after the regular puzzles are cleared"); page image (printed p. 183): set names 魔界村, 大魔界村, 超魔界村; "Original" and 「ホーム トゥーンズ」 modes; spec box 発売元/開発元 カプコン
 [^ref-31]: [Saturn Fan 1996 No. 21](https://archive.org/details/saturn-fan-1996-21) (Internet Archive scan) – readers' comments and Capcom PR reply (「確かにこのゲームは難しい部分もあると思います」, "there are certainly difficult parts"); spec box 「発売元 カプコン」「開発元 カプコン」; "100" corrected from OCR "10U"
 [^ref-32]: [Sega Saturn Magazine (Japan) 1996-15 (September 13, 1996)](https://archive.org/details/sega-saturn-magazine-ja-1996-09-13) (Internet Archive scan) – contents entry 「P204 アーサーとアスタロトの謎魔界村」
 [^ref-33]: [Sega Retro – Arthur to Astaroth no Nazomakaimura: Incredible Toons/Magazine articles](https://segaretro.org/Arthur_to_Astaroth_no_Nazomakaimura:_Incredible_Toons/Magazine_articles) – Saturn Fan No. 18 "Saturn Soft Impression" breakdown 6,6,5,7,7,7,5,6,6,8, 6.3/10 (63); Saturn Fan No. 21 "Ranking Street" 65; Sega Saturn Magazine 1996-15 review 6/10, 4/10, 7/10 (57)
