@@ -10,7 +10,7 @@ series: Wizard of Id
 engine: Unknown
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: Wizard of Id's WizType is an educational typing game released in 1984
  by Sierra On-Line, designed to give keyboard novices lessons on improving their
  typing accuracy and speed.
@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -114,7 +114,7 @@ WizType was developed by Sydney Development Corp. and published by Sierra.[^ref-
 ### Technical Specifications
 
 - **Memory:** COMPUTE! lists at least 32K RAM for the Atari, Commodore 64 and Apple II versions;[^ref-17] the Apple II box lists 48K.[^ref-20] Family Computing's listing gave 48K for the Apple II and Atari versions.[^ref-21]
-- **DOS:** 128 KB RAM, CGA graphics (including CGA composite) and PC speaker sound (read via the MobyGames API)[^ref-2]
+- **DOS:** 128 KB RAM, CGA graphics (including CGA composite) and PC speaker sound[^ref-2]
 - **Media:** 5.25" floppy disk[^ref-16][^ref-20]
 - **Input:** Keyboard[^ref-10]
 - **Price:** $34.95; the Commodore 64 cartridge version was $39.95[^ref-17][^ref-21][^ref-22]
@@ -150,7 +150,7 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not sold on GOG or Steam (checked November 2026)
+- Not sold on GOG or Steam (as of November 2026)
 
 **Download / Preservation**
 - [Internet Archive – DOS Version](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984)[^ref-1]
@@ -175,7 +175,7 @@ WizType is one of Sierra's early edutainment titles, released in the same year a
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release year, game description, DOS version preservation
-[^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer/publisher, platforms, description, DOS credit (Frank Randak), user rating, Katakis user review (2011), cancelled ColecoVision/ADAM version, comic strip creators, DOS requirements (128 KB, CGA, PC speaker; read via the MobyGames API)
+[^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer/publisher, platforms, description, DOS credit (Frank Randak), user rating, Katakis user review (2011), cancelled ColecoVision/ADAM version, comic strip creators, DOS requirements (128 KB, CGA, PC speaker)
 [^ref-4]: [MyAbandonware – Wizard of Id's WizType](https://www.myabandonware.com/game/wizard-of-id-s-wiztype-3u6) – user rating, preservation download
 [^ref-5]: [megalextoria – The Wizard of Id's WizType](http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/) ([archived copy, June 2017](https://web.archive.org/web/20170630184128/http://www.megalextoria.com/wordpress/index.php/2017/05/30/the-wizard-of-ids-wiztype/)) – 2017 retrospective: "one of the better such products out there"; Own Lesson and Paragraphs features
 [^ref-6]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – the two 1984 Wizard of Id edutainment titles, Apple II education context
