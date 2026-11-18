@@ -10,13 +10,13 @@ series: Sierra Discovery Series
 engine: SCI1.1
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: Slater & Charlie Go Camping is a talking interactive storybook for children aged 3 to 8, written and directed by Bill Davis for Sierra On-Line's Red Dog Software label and released for DOS on May 19, 1993, with a Macintosh version in August 1993.
 tags: [1990s, educational, sierra-discovery-series, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -145,8 +145,8 @@ The game is not sold on Steam or GOG[^ref-20][^ref-21]. Its GOG wishlist entry h
 [^ref-15]: [Xeen Music - Slater & Charlie Go Camping Official Soundtrack (SC-55)](https://xeenmusic.bandcamp.com/album/slater-charlie-go-camping-official-soundtrack-sc-55) – 2020 licensed soundtrack, SC-55 arrangement, track list incl. unused cues
 [^ref-16]: [Abandonware France - Slater & Charlie Go Camping](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2638&fic=liens) – Release date 19/05/1993; download listing
 [^ref-19]: [GOG Wishlist - Slater & Charlie Go Camping](https://www.gog.com/wishlist/games/slater_charlie_go_camping) – Community wishlist entry, +102 votes
-[^ref-20]: No Steam listing found (Steam store search, checked October 29, 2026) – "0 results match your search"
-[^ref-21]: No GOG listing found (GOG store search, checked October 29, 2026) – Digital store availability
+[^ref-20]: No Steam listing found (Steam store search, as of November 2026) – "0 results match your search"
+[^ref-21]: No GOG listing found (GOG store search, as of November 2026) – Digital store availability
 [^ref-22]: [Computer Gaming World #113 (December 1993), p.152 – Virginia Soper, "Slater and Charlie Go Camping"](https://archive.org/details/Computer_Gaming_World_Issue_113/page/n151/) – Review, price $49.95, ages 3 to 8, requirements, compass and picture book in box
 [^ref-23]: [PC Magazine, December 7, 1993, p.588 – Donald B. Trivette & Julie Cohen, "After Hours: Holiday Gift Guide"](https://books.google.com/books?id=7k7q-wS0t00C&pg=RA1-PA588) – Capsule review, DOS, $49.95, comparison to Living Books
 [^ref-24]: [InterAction Magazine, Fall 1992, p.9 – "Sierra Discovery Series"](https://archive.org/details/InterAction_Magazine_Vol._V_Number_3_Fall_1992_1992_Sierra_On-Line_US/page/n8/) – Red Dog Software entry and upcoming products; Sierra's educational titles on market
