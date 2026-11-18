@@ -11,14 +11,14 @@ series: "Lode Runner"
 engine: "Custom (C/C++)"
 protagonist: "Jake Peril"
 sierra_lineage: "Sierra Published"
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: "Lode Runner: The Legend Returns is Presage Software's 1994 remake of Doug Smith's Lode Runner, published by Sierra On-Line under Jeff Tunnell Productions. It has 150 single-player levels across ten themed worlds, new tools, two-player modes and a level editor."
 tags: [1990s, lode-runner, presage, jeff-tunnell, puzzle-platform, remake]
 composer: ["Matthew Berardo", "Brian Salter"]
 ---
 # Lode Runner: The Legend Returns
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -124,7 +124,7 @@ Later console versions drew a cooler response. IGN's 1998 review of Natsume's Pl
 
 **Aggregate Scores:**
 - **MobyGames:** 76% critics (17 ratings); 3.7/5 players (38 ratings); Moby Score 7.4 (as of November 2026)[^ref-1]
-- **MyAbandonware:** 4.4/5 from 226 votes (as of November 2026)[^ref-14]
+- **MyAbandonware:** 4.4/5 from 227 votes (as of November 2026)[^ref-14]
 
 ## Development
 
@@ -226,7 +226,7 @@ The PlayStation *Lode Runner* (1998) combined *The Legend Returns* with *Lode Ru
 
 ## References
 
-[^ref-1]: [MobyGames – Lode Runner: The Legend Returns](https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/) – developer Presage, publisher Sierra, release dates by platform (1994 DOS/Windows/Mac, 1996 PlayStation/Saturn), 76% critic average (17), 3.7/5 players (38), Moby Score 7.4 (read via the MobyGames API and page, checked 2026-11-12), Games Magazine 1994 award, trivia (LR'94, C++ level 77, Cthulhu message), Best of Sierra Nr. 4
+[^ref-1]: [MobyGames – Lode Runner: The Legend Returns](https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/) – developer Presage, publisher Sierra, release dates by platform (1994 DOS/Windows/Mac, 1996 PlayStation/Saturn), 76% critic average (17), 3.7/5 players (38), Moby Score 7.4 (as of November 2026), Games Magazine 1994 award, trivia (LR'94, C++ level 77, Cthulhu message), Best of Sierra Nr. 4
 [^ref-2]: [Wikipedia – Lode Runner: The Legend Returns](https://en.wikipedia.org/wiki/Lode_Runner:_The_Legend_Returns) – remake of Lode Runner, tools, turf types, 150 levels in ten named worlds, 30 duo levels, editor, Wes Reckless, ending, Saturn by Game Arts, Pyramid and Next Generation reviews, PC Gamer nomination, Lode Runner Online, 1998 Natsume compilation
 [^ref-3]: [Presage Software – Lode Runner: The Legend Returns product page (Wayback, 1997)](https://web.archive.org/web/19970614014921/http://www.presage.com:80/pLRlegend.html) – Presage designed and developed both the Macintosh and Windows versions; Sierra is the publisher
 [^ref-4]: [MobyGames – Lode Runner: The Legend Returns credits (Windows 16-bit)](https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/credits/) – full credits: Douglas E. Smith (original game), Jake Hoelter (director), engine and platform programmers, art, music, level designers, Jeff Tunnell Productions (Jeffrey Tunnell, Randy Dersham), Sierra QA
@@ -239,7 +239,7 @@ The PlayStation *Lode Runner* (1998) combined *The Legend Returns* with *Lode Ru
 [^ref-11]: [Electronic Games (December 1994) – "Lode Runner: Neo-classic goldbricking from Sierra" by Bill Kunkel, Internet Archive](https://archive.org/details/electronic-games-1994-12) – Jeff Tunnell's guidance, new backstory, ten worlds of 15 screens, controls, icon interface, tools, Game Generator, head-to-head, grade B+
 [^ref-12]: [The Sierra Chest – Lode Runner: The Legend Returns walkthrough](https://sierrachest.com/index.php?a=games&id=180&title=lode-runner&fld=walkthrough) – first release 1994-09-23, Presage/Sierra, IBM PC and Macintosh, world list, main menu functions, default controls, Wes Reckless
 [^ref-13]: [Wired 3.04 (April 1995) – "Hitting the Mother Lode" by Zach Meston, Internet Archive](https://archive.org/details/wired-magazine-03.04-1995-april) – review quotes, 150 levels, construction mode, US$45.95 for Mac, DOS and Windows
-[^ref-14]: [MyAbandonware – Lode Runner: The Legend Returns](https://www.myabandonware.com/game/lode-runner-the-legend-returns-2wy) – DOS 1994, Presage/Sierra, 4.39/5 from 226 votes (checked 2026-11-12), HOTUD review text
+[^ref-14]: [MyAbandonware – Lode Runner: The Legend Returns](https://www.myabandonware.com/game/lode-runner-the-legend-returns-2wy) – DOS 1994, Presage/Sierra, 4.39/5 from 227 votes (as of November 2026), HOTUD review text
 [^ref-15]: [GOG Dreamlist – Lode Runner: The Legend Returns (1994)](https://www.gog.com/dreamlist/game/lode-runner-the-legend-returns-1994) – listed as a requested, unreleased title; vote count and user memories
 [^ref-16]: [IGN – Lode Runner: The Legend Returns (PlayStation review, March 27, 1998)](https://www.ign.com/articles/1998/03/27/lode-runner-the-legend-returns) – Natsume port of The Legend Returns and Extra, review by Adam Douglas, score 6 ("okay")
 [^ref-17]: [Next Generation No. 39 (March 1998) – Lode Runner (PlayStation) review, Internet Archive](https://archive.org/stream/next-generation-24-dec-1996/NEXT%20Generation%2039%20Mar%201998_djvu.txt) – Natsume/Presage PlayStation compilation, "adds little that's new"
