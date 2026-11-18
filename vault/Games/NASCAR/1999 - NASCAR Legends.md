@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 3 Engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: NASCAR Legends is a 1999 Windows racing simulation by Papyrus Design
   Group, published by Sierra Sports, that recreates the 1970 NASCAR Grand National
   season on the NASCAR Racing 3 engine.
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Legends
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -167,9 +167,9 @@ Several tracks from the real 1970 NASCAR season are missing from the game. The m
 |---------|------|----------|-------|
 | 1.0 | November 1999 (exact day disputed) | Windows | Initial release[^ref-1][^ref-2][^ref-4] |
 | 1.0.2.4 (per My Abandonware) | Unknown | Windows | Patch listed by My Abandonware[^ref-8] |
-| v1.2.0.4 (per Race Sim Central) | April 4, 2000 (listing date) | Windows | Patch listed by Race Sim Central[^ref-27] |
+| v1.2.0.4 (Race Sim Central listing title) | Unknown | Windows | Patch listed by Race Sim Central[^ref-27] |
 
-The two sites give different version numbers (1.0.2.4 and v1.2.0.4); no source read settles which is correct, so the page reports both.
+The two sites give different version numbers (1.0.2.4 and v1.2.0.4).
 
 ### Technical Issues
 
@@ -192,7 +192,7 @@ The two sites give different version numbers (1.0.2.4 and v1.2.0.4); no source r
 - **Canceled Race:** The Texas World Speedway race was canceled mid-season in the real 1970 season[^ref-6]
 - **High School Track:** GameGenie.com notes that one of the venues is "actually a high school track"[^ref-5]
 - **Period-Accurate Rules:** The game has no pit road speed limit and no restrictor plates[^ref-5]
-- **Shared Engine:** The game shares NASCAR Racing 3's engine and renderers, which led critics to suggest it should have been an expansion pack[^ref-5][^ref-8]
+- **Shared Engine:** The game shares NASCAR Racing 3's engine and renderers,[^ref-5][^ref-8] which led critics to suggest it should have been an expansion pack[^ref-5]
 
 ## Legacy
 
@@ -257,4 +257,4 @@ Players on abandonware sites still post compatibility advice and rate the game h
 [^ref-24]: [SimCyberWorld – NASCAR Legends preview](http://www.simcyberworld.com/otherstuff/firstlook.html) – pre-release fan preview: speedway and short-track car lists including Mercury Cyclone, 16-track list, bias-ply tires, no pit speed limit
 [^ref-25]: [Race Sim Central – NASCAR Legends](https://racesimcentral.net/game/nascar-legends/) – "a simulation of the 1970 NASCAR Grand National Series… a selection of period chassis and 16 period tracks"
 [^ref-26]: [Strategy Plus / Computer Games – NASCAR 3 Ships (Wayback)](https://web.archive.org/web/20030524191116/http://www.cdmag.com/articles/022/185/nascar3.html) – posted 09/16/1999: Sierra Sports and Papyrus "have shipped" NASCAR Racing 3 to North American retail
-[^ref-27]: [Race Sim Central – NASCAR Legends Patch v1.2.0.4 (1.46MB)](https://racesimcentral.net/nascar-legends-patch-v1-2-0-4-1-46mb/) – patch listed on Race Sim Central search results as dated Apr 4, 2000; file not opened
+[^ref-27]: [Race Sim Central – NASCAR Legends Patch v1.2.0.4 (1.46MB)](https://racesimcentral.net/nascar-legends-patch-v1-2-0-4-1-46mb/) – patch download page
