@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-11-12'
+last_updated: '2026-11-18'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
  1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge", released free
  by Infamous Adventures in December 2011.'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest II VGA Remake
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 18, 2026</small>
 
 ## Overview
 
@@ -192,7 +192,7 @@ The project has continued to be supported, with a Mac Universal Binary released 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam (checked November 2026)
+- Not currently available on GOG or Steam (as of November 2026)
 
 ## Downloads
 
@@ -213,7 +213,7 @@ This fan remake reimagines Sierra's original [[1987 - Space Quest II - Vohaul's 
 
 **Infamous Adventures Fan Games:**
 - **Previous:** [[2006 - King's Quest III Remake (Infamous Adventures)]] (2006)
-- **Next:** [[TBD - King's Quest IV Remake (Infamous Adventures)]] (in development)
+- **Next:** [[TBD - King's Quest IV Remake (Infamous Adventures)]] (unreleased; development unverified)
 
 ## See Also
 
