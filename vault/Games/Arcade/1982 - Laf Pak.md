@@ -9,7 +9,7 @@ platforms: [Apple II]
 series: Standalone
 protagonist: Various (compilation)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Laf Pak (sold as Chuckles' Laf Pak) is a compilation of four Apple II
   action games by Chuck Bueche, published by On-Line Systems, bundling Creepy Corridors,
   Apple Zap, Space Race and Mine Sweep on one disk.
@@ -17,13 +17,13 @@ tags: [1980s, sierra, standalone]
 ---
 # Laf Pak
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
-Laf Pak, sold as *Chuckles' Laf Pak*, is a compilation of four action games written by Chuck Bueche and published by On-Line Systems for the Apple II[^ref-20][^ref-21]. The disk holds Creepy Corridors, Apple Zap, Space Race and Mine Sweep[^ref-3][^ref-21]. *Softalk* listed it at $34.95 and pointed out that it was "four games on one disk—for the price of one disk."[^ref-21]
+Laf Pak, sold as *Chuckles' Laf Pak*, is a compilation of four action games written by Chuck Bueche and published by On-Line Systems for the Apple II[^ref-20][^ref-21]. The disk holds Creepy Corridors, Apple Zap, Space Race and Mine Sweep[^ref-3][^ref-21]. *Softalk* listed it at $34.95 and pointed out that it was "four games on one disk—for the price of one disk."[^ref-21] A Sierra On-Line advertisement in *Softalk* (October 1982) priced it at $29.95[^ref-36].
 
-Game databases date the release to 1981 (MobyGames gives June 1981)[^ref-9][^ref-13][^ref-16]. The period evidence points to 1982. The earliest period evidence found is an On-Line Systems advertisement in *Softline* (May 1982): "LAF PAK runs on any 48K Apple II/II+ DOS 3.3 only. Available now for $34.95"[^ref-33]. The earliest *Softalk* software listing found is in the June 1982 issue: "Laf pak. Chuckles. Four-game variety disk by Lord British's roommate"[^ref-24]. The publisher's name changed during 1982: *Softalk*'s June and July 1982 listings give it as "On-Line"[^ref-24][^ref-35], while its September 1982 review gives "Sierra On-Line"[^ref-21]. Eli's Software Encyclopedia records a 1982 copyright date on the packaging[^ref-25]. The Minesweeper Game Database, relaying a statement from Bueche's website (not checked at the source), says he wrote the four games "during Summer 1981 and Spring 1982"[^ref-26]. On-Line Systems advertised it in *Softalk* in August 1982[^ref-31], *Softalk* reviewed the disk in September 1982, its December 1982 listings still carried it at $34.95[^ref-32], and *Creative Computing* reviewed it in February 1983[^ref-21][^ref-22]. The databases' June 1981 date is therefore likely wrong, and this page uses 1982, as does the Internet Archive's preservation copy[^ref-20].
+Game databases date the release to 1981 (MobyGames gives June 1981)[^ref-9][^ref-13][^ref-16]. The period evidence points to 1982. The earliest known period evidence is an On-Line Systems advertisement in *Softline* (May 1982): "LAF PAK runs on any 48K Apple II/II+ DOS 3.3 only. Available now for $34.95"[^ref-33]. The earliest known *Softalk* software listing is in the June 1982 issue: "Laf pak. Chuckles. Four-game variety disk by Lord British's roommate"[^ref-24]. The publisher's name changed during 1982: *Softalk*'s June and July 1982 listings give it as "On-Line"[^ref-24][^ref-35], while its September 1982 review gives "Sierra On-Line"[^ref-21]. Eli's Software Encyclopedia records a 1982 copyright date on the packaging[^ref-25]. The Minesweeper Game Database, relaying a statement attributed to Bueche's website, says he wrote the four games "during Summer 1981 and Spring 1982"[^ref-26]. On-Line Systems advertised it in *Softalk* in August 1982[^ref-31], *Softalk* reviewed the disk in September 1982, its December 1982 listings still carried it at $34.95[^ref-32], and *Creative Computing* reviewed it in February 1983[^ref-21][^ref-22]. The databases' June 1981 date is therefore likely wrong; 1982 is the year given by the Internet Archive's preservation copy[^ref-20].
 
 Bueche, already billed as "Chuckles" on this disk[^ref-24][^ref-25], went on to appear in the Ultima series as the court jester Chuckles and to co-found Origin Systems[^ref-6][^ref-34]. Laf Pak was his second published title, after Brainteaser Boulevard![^ref-6] Retro365 notes that the compilation "wasn't very successful and not many copies were sold."[^ref-6] Period support comes from *Softalk* (January 1983), which said Chuckles's first program for Sierra On-Line, *Laf Pak*, "was greeted by massive indifference in the marketplace."[^ref-28]
 
@@ -33,7 +33,7 @@ Bueche, already billed as "Chuckles" on this disk[^ref-24][^ref-25], went on to 
 > **Publisher:** [[On-Line Systems]][^ref-20]
 > **Platforms:** Apple II[^ref-20]
 > **Release Year:** 1982 (period listings, packaging); databases list 1981[^ref-9][^ref-24][^ref-25]
-> **Price:** $34.95[^ref-21]
+> **Price:** $34.95 in listings[^ref-21]; $29.95 in a Sierra On-Line ad, October 1982[^ref-36]
 > **Series:** Standalone
 > **Protagonist:** Various (compilation)
 > **Sierra Lineage:** Core Sierra
@@ -80,8 +80,6 @@ David H. Ahl and Chris Vogeli of *Creative Computing* (February 1983) concluded:
 Ferrell Wheeler, writing in *Hardcore Computist* No. 13 (1984), called it "a collection of four small but very enjoyable and playable games". He named Creepy Corridors "by far the most fun, especially with the hilarious sound effects."[^ref-23]
 
 ### Modern Assessment
-
-Modern coverage is limited.
 
 **Aggregate Scores:**
 - **MobyGames:** 3.3/5 (3 ratings)[^ref-9]
@@ -161,7 +159,7 @@ Laf Pak is a minor title in Sierra's catalogue. Its main interest today is as ea
 ## Downloads
 
 **Purchase / Digital Stores**
-- No listing found on GOG or Steam (checked November 2026)
+- As of November 2026, Laf Pak is not listed on GOG or Steam
 
 **Download / Preservation**
 - [Internet Archive – woz-a-day](https://archive.org/details/wozaday_Laf_Pak) - Preserved WOZ image
@@ -221,17 +219,17 @@ Laf Pak is a minor title in Sierra's catalogue. Its main interest today is as ea
 
 [^ref-20]: [Internet Archive – Laf Pak (woz-a-day collection)](https://archive.org/details/wozaday_Laf_Pak) – Game preservation; "a 1982 compilation of action games written by Chuck Bueche (Chuckles) and published by On-Line Systems"
 
-[^ref-21]: [Softalk, Vol. 3 No. 1 (September 1982), pp. 140, 168 – "Chuckles' Laf Pak" review](https://archive.org/details/softalkv3n01sep1982/page/140/mode/2up) – title, $34.95 price, game descriptions, "most with reconfigurable keyboard controls"; "a real bargain" and "Creepy Corridors (the best)" are not from the review but from the same issue's software listings section (p. 10: "Chuckles' Laf Pak. Beuche. Four-game variety disk; a real bargain. Creepy Corridors (the best)..."); the August 1982 issue's listing carries the same wording (see ref-31)
+[^ref-21]: [Softalk, Vol. 3 No. 1 (September 1982), pp. 140, 168 – "Chuckles' Laf Pak" review](https://archive.org/details/softalkv3n01sep1982/page/140/mode/2up) – title, $34.95 price, game descriptions, "most with reconfigurable keyboard controls"; "a real bargain" and "Creepy Corridors (the best)" appear in the software listing on p. 10: "Chuckles' Laf Pak. Beuche. Four-game variety disk; a real bargain. Creepy Corridors (the best)..."; the August 1982 listing carries the same wording (see ref-31)
 
 [^ref-22]: [Creative Computing, Vol. 9 No. 2 (February 1983), p. 88 – "Apple arcade games" by David H. Ahl and Chris Vogeli](https://www.atarimagazines.com/creative/v9n2/88_Apple_arcade_games.php) – descriptions of all four games, "a lot of game playing value per dollar"
 
 [^ref-23]: [Hardcore Computist No. 13 (1984) – "Normalizing Laf Pak" by Ferrell Wheeler](https://archive.org/details/computist-scan-13/page/n9/mode/2up) – "four small but very enjoyable and playable games", copy-protection details
 
-[^ref-24]: [Softalk, Vol. 2 No. 10 (June 1982), p. 10 – software listing](https://archive.org/details/softalkv2n10jun1982/page/10/mode/2up) – "Laf pak. Chuckles. Four-game variety disk by Lord British's roommate ... $34.95"; earliest *Softalk* listing found
+[^ref-24]: [Softalk, Vol. 2 No. 10 (June 1982), p. 10 – software listing](https://archive.org/details/softalkv2n10jun1982/page/10/mode/2up) – "Laf pak. Chuckles. Four-game variety disk by Lord British's roommate ... $34.95"; earliest *Softalk* listing
 
 [^ref-25]: [Eli's Software Encyclopedia – Laf Pak (Apple II, 5 1/4" Disk) Sierra - 1982 USA, Canada Release](https://elisoftware.org/wiki/Laf_Pak_%28Apple_II,_5_1/4%22_Disk%29_Sierra_-_1982_USA,_Canada_Release) – packaging copyright 1982, developer Chuck Bueche, 48K; packaging text "The History of Chuckles" names "Lord Chuckles"
 
-[^ref-26]: [Minesweeper Game Database – Mine Sweep (1982)](https://minesweepergame.com/database/games.php?id=117) – secondhand: the database relays Bueche's website, which was not read at the source; "Chuck Bueche states on his website that he wrote the four games ... during Summer 1981 and Spring 1982"
+[^ref-26]: [Minesweeper Game Database – Mine Sweep (1982)](https://minesweepergame.com/database/games.php?id=117) – the database quotes Bueche's website: "Chuck Bueche states on his website that he wrote the four games ... during Summer 1981 and Spring 1982"
 
 [^ref-27]: [Retro365 – Bits from My Personal Collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – Creepy Corridors, "the only game from the Laf Pak compilation", ported to the VIC-20 by Don McGlauflin and released under SierraVision in 1983
 
@@ -241,12 +239,14 @@ Laf Pak is a minor title in Sierra's catalogue. Its main interest today is as ea
 
 [^ref-30]: [PeaNut, May/June 1984 (Vol. 1 No. 1), Mark A. Gollin – Mine Shaft review](https://archive.org/details/peanut-198405-06-volume-1-number-1) – "Mine Shaft isn't new. It was originally written for the Apple and released on a disk containing three other games more than a year ago."
 
-[^ref-31]: [Softalk, Vol. 2 No. 12 (August 1982) – On-Line Systems ad and software listing](https://archive.org/details/softalkv2n12aug1982/page/n94/mode/2up) – full-page Laf Pak advertisement by Chuckles, headline "Good Games Are No Laughing Matter... Or Are They?" (page image viewed; the price line is partly obscured, so no price is cited from it); the software listings carry "Laf Pak. Chuckles. Four-game variety disk; a real bargain. Creepy Corridors (the best)..." at $34.95
+[^ref-31]: [Softalk, Vol. 2 No. 12 (August 1982) – On-Line Systems ad and software listing](https://archive.org/details/softalkv2n12aug1982/page/n94/mode/2up) – full-page Laf Pak advertisement by Chuckles, headline "Good Games Are No Laughing Matter... Or Are They?"; the software listings carry "Laf Pak. Chuckles. Four-game variety disk; a real bargain. Creepy Corridors (the best)..." at $34.95
 
 [^ref-32]: [Softalk, Vol. 3 No. 4 (December 1982), p. 148 – software listings](https://archive.org/details/softalkv3n04dec1982) – "Laf Pak, by Chuck Beuche. Good games are no laughing matter—or are they? ... A sound software investment for the whole family. $34.95." (spelled "Beuche")
 
-[^ref-33]: [Softline, May 1982 (Vol. 1) – On-Line Systems advertisement for Laf Pak](https://archive.org/details/Softline_1982_05) – "LAF PAK runs on any 48K Apple II/II+ DOS 3.3 only. Available now for $34.95 on disk from your local computer store" (OCR text read; page number not established)
+[^ref-33]: [Softline, May 1982 (Vol. 1) – On-Line Systems advertisement for Laf Pak](https://archive.org/details/Softline_1982_05) – "LAF PAK runs on any 48K Apple II/II+ DOS 3.3 only. Available now for $34.95 on disk from your local computer store" – full-page advertisement, unnumbered (image n7)
 
-[^ref-34]: [Softline, November–December 1983 – "Origin Systems" profile](https://archive.org/details/Softline_1983_11_12) – Bueche, who "prefers the moniker 'Chuckles'", and Richard Garriott form Origin Systems with Garriott's brother; names Jawbreaker II and Laf Pak as his games published by Sierra On-Line (page number not established)
+[^ref-34]: [Softline, November–December 1983, p. 25 – "New Players: Origin Systems" by Matt Yuen](https://archive.org/details/Softline_1983_11_12/page/n26/mode/2up) – Bueche, who "prefers the moniker 'Chuckles'", and Richard Garriott form Origin Systems with Garriott's brother; names Jawbreaker II and Laf Pak as his games published by Sierra On-Line
 
-[^ref-35]: [Softalk, Vol. 2 No. 11 (July 1982) – software listings](https://archive.org/details/softalkv2n11jul1982) – "Laf Pak, Chuckles. Four-game variety disk by Lord British's roommate ... On-Line, ... Coarsegold, CA 93614" (OCR text read; page number not established)
+[^ref-35]: [Softalk, Vol. 2 No. 11 (July 1982), p. 12 – software listings](https://archive.org/details/softalkv2n11jul1982/page/n13/mode/2up) – "Laf Pak, Chuckles. Four-game variety disk by Lord British's roommate ... On-Line, ... Coarsegold, CA 93614"
+
+[^ref-36]: [Softalk, Vol. 3 No. 2 (October 1982), p. 173 – Sierra On-Line advertisement for Laf Pak](https://archive.org/details/softalkv3n02oct1982/page/n176/mode/2up) – "Available at your local computer store for $29.95 or order directly from SIERRA ON-LINE"
