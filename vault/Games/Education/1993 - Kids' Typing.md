@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Unknown
 protagonist: Spooky the Ghost
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 composer: [Gordon van Ekström]
 description: Kid's Typing is a 1993 touch-typing tutor for children, developed by
   Bright Star Technology and published by Sierra On-Line in the Talking Tutor series,
@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Kid's Typing
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -34,7 +34,7 @@ A 2023 post on Reddit's r/nostalgia recalled the game, its author remembering "t
 > **Designer:** Mark Swardstrom[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Unknown[^ref-9]
-> **Platforms:** Windows 3.x, Macintosh (hybrid CD-ROM)[^ref-25]
+> **Platforms:** Windows 3.x, Macintosh (hybrid CD-ROM)[^ref-25][^ref-26]
 > **Release Year:** 1993
 > **Series:** Talking Tutor
 > **Protagonist:** Spooky the Ghost
@@ -84,7 +84,7 @@ The *Washington Post* (13 December 1993) listed "Kid's Typing (ages 7-10; IBM an
 
 ### Awards and Publisher Claims
 
-Sierra's own Holiday 1994 *InterAction* magazine says Kid's Typing was a "Winner of a 1994 Club Kidsoft Member's Choice Award." This is Sierra's claim as printed in its own magazine; no independent record of the award was checked.[^ref-30] In Sierra's Fall 1995 *InterAction*, educational technology consultant Jay Moore says of the Talking Tutor series, "Teachers like the Talking Tutor series," and calls Spooky "very engaging." The magazine is Sierra-published, so this is a publisher-supplied testimonial rather than an independent review.[^ref-32] The same issue's catalog entry for the game prints "Five Stars" — "Highest Rating — CD-ROM Today" and "Seal of Approval, National Parenting Center." These are Sierra's printed claims; the original CD-ROM Today review and the seal were not checked.[^ref-32]
+Sierra's own Holiday 1994 *InterAction* magazine says Kid's Typing was a "Winner of a 1994 Club Kidsoft Member's Choice Award." This is Sierra's own claim.[^ref-30] In Sierra's Fall 1995 *InterAction*, educational technology consultant Jay Moore says of the Talking Tutor series, "Teachers like the Talking Tutor series," and calls Spooky "very engaging." The magazine is Sierra-published, so this is a publisher-supplied testimonial rather than an independent review.[^ref-32] The same issue's catalog entry for the game prints "Five Stars" — "Highest Rating — CD-ROM Today" and "Seal of Approval, National Parenting Center." These are Sierra's own printed claims.[^ref-32]
 
 ### Modern Assessment
 
@@ -148,7 +148,7 @@ The game's characters speak: Annette Toutonghi is the only credited Voice Talent
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Original | 1993 | Windows 3.x, Macintosh | Hybrid Mac / Windows 3.x CD-ROM release[^ref-25]; the 1995 Computer Museum Guide also lists CD-ROM or floppy editions for both platforms[^ref-29] |
-| Floppy and CD-ROM editions | 1994 | Windows 3.x, Macintosh | Quality Computers' *Enhance* Fall 1994 catalog lists Macintosh and Windows each in a floppy ("Consumer") edition and a CD-ROM edition; it prints $49.95 for both CD-ROM editions and $34.95 for the Windows floppy[^ref-36] |
+| Floppy and CD-ROM editions | By 1994 | Windows 3.x, Macintosh | Quality Computers' *Enhance* Fall 1994 catalog lists Macintosh and Windows each in a floppy ("Consumer") edition and a CD-ROM edition; it prints $49.95 for both CD-ROM editions and $34.95 for the Windows floppy[^ref-36] |
 | SierraOriginals | 1996 | Windows 3.x, Macintosh | Budget re-release; UPC-A 020626801928, ISBN-10 0871774011[^ref-25] |
 
 ### Technical Issues
@@ -172,7 +172,7 @@ The Talking Tutor demo file containing Kid's Typing was distributed on Sierra's 
 
 ### Preservation
 
-Kid's Typing is not sold on any current digital storefront (checked November 2026). Copies are preserved at:
+As of November 2026, Kid's Typing is not sold on any digital storefront. Copies are preserved at:
 - Macintosh Repository, which hosts an ISO image of the hybrid Mac/PC CD-ROM[^ref-5]
 - Classic Reload, which hosts a browser-playable Windows 3.x version[^ref-3]
 - Internet Archive, which hosts the hybrid CD-ROM image[^ref-7]
@@ -180,7 +180,7 @@ Kid's Typing is not sold on any current digital storefront (checked November 202
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on digital storefronts (checked November 2026)
+- Not available on digital storefronts as of November 2026
 
 **Preservation / Abandonware**
 - [Macintosh Repository](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) - Mac/PC hybrid ISO[^ref-5]
