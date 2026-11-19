@@ -10,19 +10,19 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Precinct was a crowdfunded police adventure game announced in 2013 by Jim Walls, the creator of Sierra On-Line's Police Quest, whose Kickstarter and follow-up campaign were both cancelled before the game was made.
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
-Precinct was an ambitious crowdfunded police adventure video game announced in 2013 by [[Jim Walls]], the creator of Sierra On-Line's legendary Police Quest series[^ref-1][^ref-16]. Conceived as a spiritual successor to the classic franchise whose official name was owned by Activision, the project sought to revive the police procedural adventure genre for a new generation of players[^ref-2][^ref-12]. The game was designed to combine authentic police procedures with modern gaming technology, featuring first-person gameplay with intense action sequences including shootouts, high-speed car chases, investigations, foot pursuits, and hand-to-hand combat[^ref-2][^ref-13].
+Precinct was an ambitious crowdfunded police adventure video game announced in 2013 by [[Jim Walls]], the creator of Sierra On-Line's legendary Police Quest series[^ref-1][^ref-16]. Conceived as a spiritual successor to the classic franchise whose official name was owned by Activision, the project sought to revive the police procedural adventure genre for a new generation of players[^ref-2][^ref-12][^ref-28]. The game was designed to combine authentic police procedures with modern gaming technology, featuring first-person gameplay with intense action sequences including shootouts, high-speed car chases, investigations, foot pursuits, and hand-to-hand combat[^ref-2][^ref-13].
 
-Set in what the campaign called "the corrupt town of Fraser Canyon, CA" (Walls himself later described the setting to Rock Paper Shotgun as a large city), Precinct would have placed players in the role of Officer Maxwell Jones, starting as a rookie and progressing through the ranks while facing adrenaline-charged scenarios and conducting real police procedures[^ref-3]. The project launched on Kickstarter on July 16, 2013, and the creators cancelled the campaign on August 6, 2013, with $85,756 pledged of its $500,000 goal[^ref-8][^ref-22]. Update #7 told backers that the project was "just over 15% funded" and "it's clear that we're not going to hit our goal"[^ref-25]. The same day, the team moved to a staged funding campaign on its own website, saying it wanted to build a playable pilot rather than rely on a tech demo video[^ref-17][^ref-18]. Shacknews noted that backers would only be billed once a milestone was reached, and that the $400,000 goal was $100,000 below the previous one[^ref-21]. That campaign failed too: it was shut down by August 26, 2013, after raising around $12,000 of a $400,000 goal[^ref-19][^ref-30]; the project's own site, as archived on October 3, 2013, shows $11,961 from 431 supporters and "Project Closed"[^ref-24]. The game was never made. In August 2014 Walls told backers by email that the project was "on hold", and Choicest Games reported him as still hopeful of doing *Precinct* in the future[^ref-23].
+Set in what the campaign called "the corrupt town of Fraser Canyon, CA" (Walls himself later described the setting to Rock Paper Shotgun as a large city), Precinct would have placed players in the role of Officer Maxwell Jones, starting as a rookie and progressing through the ranks while facing adrenaline-charged scenarios and conducting real police procedures[^ref-3]. The project launched on Kickstarter on July 16, 2013, and the creators cancelled the campaign on August 6, 2013, with $85,756 pledged of its $500,000 goal[^ref-8][^ref-22]. Update #7 told backers that the project was "just over 15% funded" and "it's clear that we're not going to hit our goal"[^ref-25]. The same day, the team moved to a staged funding campaign on its own website, saying it wanted to build a playable pilot rather than rely on a tech demo video[^ref-17][^ref-18]. Shacknews noted that backers would only be billed once a milestone was reached, and that the $400,000 goal was $100,000 below the previous one[^ref-21]. That campaign failed too: it was shut down by August 26, 2013, after raising around $12,000 of a $400,000 goal[^ref-19][^ref-30]; the project's own site, as archived on October 11, 2013, shows $11,961 from 431 supporters and "Project Closed"[^ref-24]. The game was never made. Choicest Games reported that Walls emailed backers to say the project was on hold ("This is not the end! Precinct will rise again!"), and an August 14, 2014 edit to its post said he was still hopeful of doing *Precinct* in the future[^ref-23].
 
 > [!info]- Game Info
 > **Developer:** Jim Walls Reloaded[^ref-16] (Tiny Castle Studios' team helped create the Kickstarter campaign[^ref-8])
@@ -76,17 +76,17 @@ As Precinct was never released, there are no reviews of a finished product. Howe
 
 **Kicktraq** tracked the campaign and recorded its cancellation by the creator[^ref-1].
 
-**Sierra Classic Gaming** provided detailed coverage of the project, documenting the funding tiers and staged development approach[^ref-3]. Their game listing summarised the campaign; the primary source is the Kickstarter page itself[^ref-8].
+**Sierra Classic Gaming** provided detailed coverage of the project, documenting the funding tiers and staged development approach[^ref-3].
 
 **Larry Laffer Net** covered the project with a focus on Sierra alumni connections, featuring Al Lowe's endorsement and detailed information about the development team at Tiny Castle Studios[^ref-4].
 
-Publications covered the campaign's launch, its cancellation, the move to staged funding, and that campaign's own cancellation[^ref-16][^ref-17][^ref-18][^ref-19].
+Engadget reported the launch and the cancellation[^ref-16][^ref-17], Polygon the move to staged funding[^ref-18], and PC Gamer that campaign's own cancellation[^ref-19].
 
 ### Modern Assessment
 
-Precinct remains a notable example of a cancelled crowdfunding project from the adventure game revival era. The game is listed on **Sierra Classic Gaming** with the tag "Cancelled"[^ref-3].
+Precinct remains a notable example of a cancelled crowdfunding project from the adventure game revival era.
 
-**Wikipedia** now documents "The Precinct" (2025), an unrelated game by Fallen Tree Games. Metacritic scores it 66/100 on PC and PS5 and 75/100 on Xbox Series X/S, per Wikipedia; it is a completely separate project[^ref-5].
+A 2025 game, **The Precinct**, by Fallen Tree Games, is unrelated to the 2013 project. Per Wikipedia, Metacritic scores it 66/100 on PC and PS5 and 75/100 on Xbox Series X/S[^ref-5].
 
 **Campaign Statistics:**
 - **Platform:** Kickstarter[^ref-1]
@@ -101,9 +101,9 @@ Precinct remains a notable example of a cancelled crowdfunding project from the 
 
 ### Origins
 
-Precinct emerged from Jim Walls' desire to return to the police adventure genre he had pioneered at Sierra On-Line[^ref-2]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20], and PCGamesN likewise says he served in the California Highway Patrol "until 1986"[^ref-30]. The campaign credited the original Police Quest with "unprecedented realism for the time"[^ref-8]. However, with the Police Quest name owned by Activision following Sierra's acquisition, a spiritual successor under a new title was the only viable path forward[^ref-2].
+Walls announced Precinct as a spiritual successor to Police Quest[^ref-28]. Walls was a former California Highway Patrol officer; the campaign bio says he "left the force in 1984 after being traumatized in a violent shootout"[^ref-8], while Wikipedia dates the shootout to January 1984 and his retirement from the CHP to 1986[^ref-15]. Techzwn's 2013 interview also says he left the force in 1986, "after 15 years of service"[^ref-20], and PCGamesN likewise says he served in the California Highway Patrol "until 1986"[^ref-30]. The campaign credited the original Police Quest with "unprecedented realism for the time"[^ref-8]. Kotaku wrote that the game "may not have the official name (that's lost somewhere in Activision's archives)"[^ref-2], and GamesBeat reported that "Activision currently owns the rights to Police Quest"[^ref-28].
 
-Launch coverage from Shacknews and GamesBeat gave the same $500,000 goal and a 2014 release for PC and Mac; Shacknews added an $800,000 stretch goal for iOS, Android, Xbox 360 and PlayStation 3, and GamesBeat said Activision currently owned the rights to Police Quest[^ref-27][^ref-28].
+Shacknews and GamesBeat gave the same $500,000 goal and a 2014 release for PC and Mac at launch; Shacknews added an $800,000 stretch goal for iOS, Android, Xbox 360 and PlayStation 3[^ref-27][^ref-28].
 
 Walls first announced plans for a Police Quest successor, funded through Kickstarter, on a podcast on February 2, 2013[^ref-15]. The project was developed under the banner of Jim Walls Reloaded, Inc. of Bass Lake, California, in partnership with development studio Tiny Castle Studios[^ref-4][^ref-16].
 
@@ -115,12 +115,12 @@ The development team began working with Unity3D to create a modern first-person 
 
 The Kickstarter campaign launched on July 16, 2013, seeking $500,000[^ref-8]. With $85,756 pledged by 1,870 backers, the creators cancelled it on August 6, ten days before its scheduled end[^ref-8].
 
-Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted to build a playable pilot version, letting potential backers "experience" the vision behind the game rather than judge it from a tech demo video[^ref-17]. The same day, a staged funding campaign opened on the game's own website, with milestones at $25,000, $90,000, $250,000 and $400,000; pledges would only be charged if a stage was funded, and backer rewards were dropped because they had taken up "nearly $200K" of the original goal[^ref-18]. On August 26, 2013, PC Gamer reported that this campaign had also been cancelled after raising around $12,000 of its $400,000 goal, with no backer money taken[^ref-19]. The project site's archived page of October 3, 2013 reads "Goal $400,000, 3%, $11,961 Raised, 431 Supporters, Project Closed"[^ref-24]. Wikipedia's Jim Walls article gives a conflicting, lower figure, saying the second campaign "did not surpass $7,000"[^ref-15].
+Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted to build a playable pilot version, letting potential backers "experience" the vision behind the game rather than judge it from a tech demo video[^ref-17]. The same day, a staged funding campaign opened on the game's own website, with milestones at $25,000, $90,000, $250,000 and $400,000; pledges would only be charged if a stage was funded, and backer rewards were dropped because they had taken up "nearly $200K" of the original goal[^ref-18]. On August 26, 2013, PC Gamer reported that this campaign had also been cancelled after raising around $12,000 of its $400,000 goal, with no backer money taken[^ref-19]. The project site's archived page of October 11, 2013 reads "Goal $400,000, 3%, $11,961 Raised, 431 Supporters, Project Closed"[^ref-24]. Per Wikipedia, the second campaign "did not surpass $7,000"[^ref-15].
 
 **Development Credits:**[^ref-1][^ref-4][^ref-8]
 - **Creator/Designer:** Jim Walls
-- **Executive Producer:** Robert Lindsley (former Sierra/Microsoft Games/Harmonix, 80+ games shipped)
-- **Art Director:** Scott Butler (former Argonaut/Sony, 50+ games shipped)
+- **Executive Producer:** Robert Lindsley (per the campaign bio: worked at Sierra On-line and Microsoft Games, and "led development at Atari and Harmonix, shipping over 80 games in his career")
+- **Art Director:** Scott Butler (per the campaign bio: early employee of Argonaut Software; "has shipped over 50 games in his career")
 - **Production Director:** Jason Crawford (Tiny Castle Studios founder)
 - **Production Company:** Jim Walls Reloaded
 - **Development Studio:** Tiny Castle Studios (Glendale, CA)
@@ -130,7 +130,7 @@ Robert Lindsley, president of Jim Walls Reloaded, told Joystiq the team wanted t
 
 The game was designed to leverage the Unity3D engine to create real-time 3D environments representing Fraser Canyon[^ref-4]. The first-person perspective was a contrast with the original Police Quest[^ref-26].
 
-The planned distribution model included digital download via Steam, representing the shift in game distribution that had occurred since the original Police Quest era[^ref-4].
+The campaign said Precinct "will be released as a DRM-free digital download for PC and Mac with distribution across platforms such as Steam and our own website"[^ref-8].
 
 ### Technical Specifications
 
@@ -138,7 +138,7 @@ The planned distribution model included digital download via Steam, representing
 - **Perspective:** First-person 3D
 - **Engine:** Unity3D
 - **Graphics:** Real-time 3D environments
-- **Distribution:** Digital download via Steam
+- **Distribution:** DRM-free digital download, with distribution on platforms such as Steam and the project's own website[^ref-8]
 
 ### Cut Content
 
@@ -161,7 +161,7 @@ The project never reached a state where technical issues in gameplay could be do
 
 ### Cancellation and Aftermath
 
-The 2013 *Precinct* Kickstarter raised $85,756 of its $500,000 goal before being cancelled on August 6, 2013[^ref-8]. The staged funding campaign that replaced it launched the same day and failed as well, cancelled around August 26, 2013, at roughly $12,000 of its $400,000 goal[^ref-18][^ref-19]. Precinct was never made, though Walls described it as "on hold" rather than ended in August 2014[^ref-23].
+The 2013 *Precinct* Kickstarter raised $85,756 of its $500,000 goal before being cancelled on August 6, 2013[^ref-8]. The staged funding campaign that replaced it launched the same day and failed as well, cancelled around August 26, 2013, at roughly $12,000 of its $400,000 goal[^ref-18][^ref-19]. Precinct was never made. Choicest Games reported that Walls emailed backers to say the project was on hold, and its August 14, 2014 edit said he was still hopeful of doing *Precinct* in the future[^ref-23].
 
 ### Unrelated Namesake
 
@@ -193,7 +193,7 @@ In May 2025, a separate (and unrelated) game titled **The Precinct** released fr
 [^ref-6]: [Steam – The Precinct](https://store.steampowered.com/app/490110/The_Precinct/) – 2025 game description, user reviews, release date
 [^ref-7]: [Niche Gamer – The Precinct Launches (Wayback, 4 Apr 2025)](https://web.archive.org/web/20250404200806/https://nichegamer.com/the-precinct-launches-in-may/) – 2025 game release announcement, platforms, publisher
 
-[^ref-8]: [Kickstarter – Precinct (Archived Campaign, 15 Aug 2013)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) – Primary source: $85,756 pledged of $500,000 goal, 1,870 backers, cancelled Aug 6 2013, team details (Robert Lindsley, Scott Butler, Jason Crawford)
+[^ref-8]: [Kickstarter – Precinct (Archived Campaign, 15 Aug 2013)](http://web.archive.org/web/20130815171335/http://www.kickstarter.com/projects/precinctgame/precinct) – $85,756 pledged of $500,000 goal, 1,870 backers, cancelled Aug 6 2013, team details (Robert Lindsley, Scott Butler, Jason Crawford)
 
 [^ref-12]: [Sierra Wiki – Police Quest](https://sierra.fandom.com/wiki/Police_Quest) – Series documentation, game details, character information
 
@@ -215,9 +215,9 @@ In May 2025, a separate (and unrelated) game titled **The Precinct** released fr
 
 [^ref-22]: [GameSpot – Police Quest spiritual successor cancelled (Wayback copy)](https://web.archive.org/web/2013/http://www.gamespot.com/articles/police-quest-spiritual-successor-cancelled/1100-6412610/) – Dan Chiappini, Aug 2013: "$85,756 of its attempted $500,000 goal"; target reduced to $400,000, with $25,000 first for a playable prototype
 
-[^ref-23]: [Choicest Games – Where are they now? Jim Walls](https://www.choicestgames.com/2014/08/where-are-they-now-jim-walls.html) – Mark Goninon, 13 Aug 2014 (edited 14 Aug): Walls's email to backers said the project was "on hold" ("This is not the end!"); still hopeful of doing Precinct in the future
+[^ref-23]: [Choicest Games – Where are they now? Jim Walls](https://www.choicestgames.com/2014/08/where-are-they-now-jim-walls.html) – Mark Goninon, Aug 2014 (edit dated 14 Aug 2014): Walls's email to backers, as reported, said the project was on hold ("This is not the end! Precinct will rise again!"); still hopeful of doing Precinct in the future
 
-[^ref-24]: [Precinct project site (Wayback, 3 Oct 2013)](https://web.archive.org/web/20131003000612/http://www.precinctgame.com/) – Primary source: "Goal $400,000 3% $11,961 Raised 431 Supporters Project Closed"
+[^ref-24]: [Precinct project site (Wayback, 11 Oct 2013)](https://web.archive.org/web/20131011002353/http://fund.precinctgame.com/) – "Goal $400,000 3% $11,961 Raised 431 Supporters Project Closed"
 
 [^ref-25]: [Kickstarter – Precinct updates list (Wayback)](https://web.archive.org/web/2013/https://www.kickstarter.com/projects/precinctgame/precinct/posts) – Update #7, 6 Aug 2013, "Precinct and staged funding": "just over 15% funded"; "we are shutting down our Kickstarter and launching a new ... crowdfunding campaign at www.precinctgame.com"
 
