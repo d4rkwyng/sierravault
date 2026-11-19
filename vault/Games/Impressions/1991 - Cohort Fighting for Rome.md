@@ -10,7 +10,7 @@ series: Cohort
 engine: Proprietary (Impressions)
 protagonist: Roman Legion Commander
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: 'Cohort: Fighting for Rome is a real-time tactical wargame of Roman
   battles developed by Impressions Games and released in 1991 for DOS, Amiga, and
   Atari ST; the US release was published by Merit Software as Fighting for Rome.'
@@ -18,7 +18,7 @@ tags: [1990s, cohort, impressions, sierra, strategy]
 ---
 # Cohort: Fighting for Rome
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -60,7 +60,7 @@ ACE described the game's options as follows:[^ref-16]
 - **Terrain:** Four terrains: open field, bridge, cliff, and hill
 - **Overview:** A display showing the whole landscape and the positions of all troops
 
-MobyGames' description, by contrast, says battles are fought "on one of three different terrain maps".[^ref-2] This page follows ACE's contemporary review, which lists the four terrains by name; Zero named the same four battlefields: "Open Field, The Bridge, Cliff Defence and Hill Terrain."[^ref-23]
+MobyGames' description, by contrast, says battles are fought "on one of three different terrain maps".[^ref-2] ACE's contemporary review lists four terrains by name,[^ref-16] and Zero named the same four battlefields: "Open Field, The Bridge, Cliff Defence and Hill Terrain."[^ref-23]
 
 ### Puzzles and Mechanics
 
@@ -109,7 +109,7 @@ US coverage was cooler. Computer Gaming World's July 1992 "Taking a Peek" column
 - **MobyGames Critics:** 49% (based on 9 ratings)[^ref-2]
 - **MobyGames Player Score:** 3.3 out of 5[^ref-2]
 - **MobyGames Moby Score:** 5.8[^ref-2]
-- **MyAbandonware User Rating:** 3.9 out of 5, 16 votes (checked November 2026)[^ref-3]
+- **MyAbandonware User Rating:** 3.9 out of 5, 16 votes, as of November 2026[^ref-3]
 
 According to MobyGames, 10 of its users have the game in their collections.[^ref-2]
 
@@ -142,7 +142,6 @@ The game combined real-time battles with a pause feature for giving orders.[^ref
 - **Input:** Mouse
 - **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk
 - **Business Model:** Commercial
-- **DOSBox Support:** Version 0.58 and later[^ref-3]
 
 ### Cut Content
 
@@ -198,13 +197,13 @@ Hall of Light catalogues three printed items for the Amiga release: a multilingu
 
 ## Purchase
 
-- Not currently available on GOG or Steam
+- Not available on GOG or Steam as of November 2026
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-fighting-for-rome-1991)
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not available for purchase; 1991 release is abandonware[^ref-3]
+- Not sold on GOG or Steam as of November 2026
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Cohort_-_Fighting_for_Rome_1991) – Browser playable[^ref-1]
@@ -233,7 +232,7 @@ The game is also documented on IGDB.[^ref-8]
 
 [^ref-1]: [Internet Archive – Cohort: Fighting for Rome (MS-DOS)](https://archive.org/details/msdos_Cohort_-_Fighting_for_Rome_1991) – Release year, platforms, MobyGames-derived description (real-time, pause to give orders, generals rally troops), browser-playable copy
 [^ref-2]: [MobyGames – Fighting for Rome](https://www.mobygames.com/game/11756/fighting-for-rome/) – Developer, publishers (Merit Software, Impressions Games), platforms, alternate titles, Amiga credits (Edward Grabowski, Jeffrey von Brakenton, Christopher J. Denman), ratings, DOS specs, Strategy Masters (1992) compilation
-[^ref-3]: [MyAbandonware – Fighting for Rome](https://www.myabandonware.com/game/fighting-for-rome-147) – HOTUD review text (M. Evan Brooks quote, Micro Miniatures series, sharper graphics and AI), user rating (3.9/5 from 16 votes, checked 2026-11-12), DOSBox compatibility, download sizes
+[^ref-3]: [MyAbandonware – Fighting for Rome](https://www.myabandonware.com/game/fighting-for-rome-147) – HOTUD review text (M. Evan Brooks quote, Micro Miniatures series, sharper graphics and AI), user rating (3.9/5 from 16 votes as of November 2026), download sizes
 [^ref-4]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Article text: "a British video game developer founded by David Lester. He sold the company to Sierra On-Line in 1995"; games list including Cohort (1991) and Cohort II (1993)
 [^ref-5]: [Atari Legend – Cohort: Fighting for Rome](https://www.atarilegend.com/games/cohort-fighting-for-rome) – Atari ST credits: Edward Grabowski (programming), Jeffrey Von Brakenton (graphics), Christopher Denman (music)
 [^ref-6]: [Old-Games.com – Cohort (Fighting for Rome)](https://www.old-games.com/download/5153/cohort-a-k-a-fighting) – DOS download, game description, same M. Evan Brooks quote as HOTUD
@@ -250,10 +249,10 @@ The game is also documented on IGDB.[^ref-8]
 [^ref-24]: [Amiga Action Issue 21, June 1991 – Internet Archive](https://archive.org/details/Amiga_Action_Issue_21_1991-06_Europress_Interactive_GB) – Review (p. 82): 20 pre-designed scenarios, four terrains, groups of eight, team Grabowski & Von Brakenton, £29.99, overall 78%
 [^ref-25]: [ST Action Issue 38, June 1991 – Internet Archive](https://archive.org/details/st-action-38-1991-06) – Review: troop types, terrain, Roman Empire booklet, £24.99, rating 70%
 [^ref-26]: [ST Format Issue 24, July 1991 – Internet Archive](https://archive.org/details/atari-st-format-issue-024) – Review (p. 72): follow-up to Rorke's Drift, five scenarios, £24.99, 69%; Impressions advertisement (p. 82): "the second game in Impressions' ... miniature-style war-game series", Charge of the Light Brigade "the third", £29.99
-[^ref-27]: [Amiga Joker, June/July 1991 – Internet Archive](https://archive.org/details/AmigaJoker199106_and_07) – German review of Cohort (OCR partly garbled): four scenarios, eight armies, same faults as Rorke's Drift; Cohort second in the "Redaktions-Flops" list
+[^ref-27]: [Amiga Joker, June/July 1991 – Internet Archive](https://archive.org/details/AmigaJoker199106_and_07) – German review of Cohort: four scenarios, eight armies, same faults as Rorke's Drift; Cohort second in the "Redaktions-Flops" list
 [^ref-28]: [Amiga Power Issue 6, October 1991 – Internet Archive](https://archive.org/details/amiga-power-issue-06-october-1991) – Review round-up capsule for Cohort (Impressions, £29.99): "A fine off-beat wargame, but overpriced."
-[^ref-29]: [Power Play, July 1991 – Internet Archive](https://archive.org/details/powerplaymagazine-1991-07) – Amiga review of Cohort (p. 116): "Niederschmetternd", Amiga 14% (Grafik 39%, Sound 9%), same game as Rorke's Drift "nur notdürftig verändert und kaum verbessert", about 85 DM; score read on the page image
-[^ref-30]: [Joystick #16, May 1991 – Internet Archive](https://archive.org/details/joystick016) – Moulinex's ST and Amiga review of Cohort (p. 206): "voilà un superbe logiciel", "le plus prometteur", 80%, about 250 F; score read on the page image
+[^ref-29]: [Power Play, July 1991 – Internet Archive](https://archive.org/details/powerplaymagazine-1991-07) – Amiga review of Cohort (p. 116): "Niederschmetternd", Amiga 14% (Grafik 39%, Sound 9%), same game as Rorke's Drift "nur notdürftig verändert und kaum verbessert", about 85 DM
+[^ref-30]: [Joystick #16, May 1991 – Internet Archive](https://archive.org/details/joystick016) – Moulinex's ST and Amiga review of Cohort (p. 206): "voilà un superbe logiciel", "le plus prometteur", 80%, about 250 F
 [^ref-31]: [PC Review Issue 9, July 1992 – Internet Archive](https://archive.org/details/PC_Review_Issue_9_1992-07_EMAP_Images_GB) – Wargames feature: Impressions produces the "Miniatures" series; "To date there has been Rourke's Drift, Fort Apache, Charge of the Light Brigade, and Cohort."
 [^ref-32]: [Computer Gaming World Issue 103, February 1993 – Internet Archive](https://archive.org/details/Computer_Gaming_World_Issue_103) – Impressions profile of David Lester: "David Lester and Edward Grabowski established their company"
 [^ref-33]: [Sierra On-Line Form 10-K for fiscal year ended March 31, 1996 (SEC EDGAR, Wayback Machine)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Note 2: "On June 20, 1995 the Company also merged with Inspiration, a developer of strategy games, in exchange for 730,352 shares of Sierra's common stock."
