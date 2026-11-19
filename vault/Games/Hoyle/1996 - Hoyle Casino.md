@@ -10,7 +10,7 @@ series: Hoyle's Official Book of Games
 engine: null
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Hoyle Casino (1996) is the first game in Sierra On-Line's Hoyle Casino
   series, a spin-off of its Hoyle card-game series offering poker, blackjack, craps,
   roulette and slot machines, released on December 9, 1996.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -74,7 +74,7 @@ Players could also go online through Sierra's web site to play Poker or Blackjac
 Tim Soete reviewed the game for GameSpot, which listed the review as posted on 12/10/96, and gave it 8.2 out of 10[^ref-53][^ref-63][^ref-66]. GameSpot's own summary read: "Any fan of gambling games who appreciates subtle details will enjoy Hoyle Casino"[^ref-63]. He praised its presentation: "Following in the tradition of the Sierra Hoyle series, everything from the roulette wheel to the craps dice has been rendered with the most tactile detail." He also liked the cast of gamblers, noting that "the gambling patrons and pit bosses you're often sharing a table with really add to the casino atmosphere." His one complaint was that "the title's only fault lies in the fact that it's just another casino game"[^ref-53].
 
 **Aggregate Scores:**
-- **MobyGames:** 82% critic average, based on one review (GameSpot)[^ref-10]
+- **MobyGames:** 78% critic average, based on two ratings, as of November 2026[^ref-10]
 
 ### Modern Assessment
 
@@ -122,7 +122,7 @@ Sierra's Summer 1996 preview listed Baccarat among the games and promised "six g
 
 Sierra's Spring 1997 InterAction, published before that re-release, already advertised Hoyle Casino with "over 50 different game variations featuring Poker, Craps, Roulette, Blackjack and slots"[^ref-64].
 
-GameFAQs also lists a Macintosh release dated 12/09/96[^ref-54]. Sierra's 1996 advertising lists only Windows CD-ROM versions[^ref-58], and the Macintosh release could not be confirmed elsewhere.
+GameFAQs also lists a Macintosh release dated 12/09/96[^ref-54]. Sierra's 1996 advertising lists only Windows CD-ROM versions[^ref-58].
 
 ### Easter Eggs and Trivia
 
@@ -209,9 +209,9 @@ By April 1997 Sierra named Hoyle Casino among the members of its "best-selling H
 [^ref-4]: [Britannica – Edmond Hoyle](https://www.britannica.com/biography/Edmond-Hoyle) – origin of "according to Hoyle", life dates, Short Treatise on Whist
 [^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – series history, Warren Schwader, SCI, 250,000 copies by 1990, Hoyle Casino spin-off in 1996
 [^ref-9]: [GameFAQs – Hoyle Casino Mac Review](https://gamefaqs.gamespot.com/mac/996784-hoyle-casino/reviews/76896) – 2004 user review by Swiftshark: ATM, loan sharks, Sultan machine
-[^ref-10]: [MobyGames – Hoyle Casino (1996)](https://www.mobygames.com/game/45135/hoyle-casino/) – developer, publisher, description, 82% critic average, no credits
+[^ref-10]: [MobyGames – Hoyle Casino (1996)](https://www.mobygames.com/game/45135/hoyle-casino/) – developer, publisher, description, 78% critic average (2 ratings), no credits
 [^ref-38]: [Sierra Chest – Hoyle Casino 1](https://www.sierrachest.com/tx8b/index.php?a=games&id=519&title=hoyle-casino-1) – database entry: first release 1996-10-01, engine unknown/unnamed
-[^ref-53]: [GameSpot – Hoyle Casino Review (Tim Soete)](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2537740/) – 8.2/10; five games, $5,000 start, loan sharks, attitude meter (live page shows a 2005 migration date; see ref-63 for the 1996 date)
+[^ref-53]: [GameSpot – Hoyle Casino Review (Tim Soete)](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2537740/) – 8.2/10; five games, $5,000 start, loan sharks, attitude meter
 [^ref-54]: [GameFAQs – Hoyle Casino (PC) Release Data](https://gamefaqs.gamespot.com/pc/52155-hoyle-casino/data) – US release 12/09/96, Sierra On-Line, K-A rating
 [^ref-55]: [Sierra Chest – Hoyle Series](https://www.sierrachest.com/index.php?a=groups&id=42) – "in December 1996, Hoyle Casino was released"; 1997 re-release; no Sierra character opponents from 1995
 [^ref-56]: [MobyGames – Hoyle Casino (1997)](https://www.mobygames.com/game/200548/hoyle-casino/) – November 10, 1997 updated version of the 1996 title
@@ -224,7 +224,7 @@ By April 1997 Sierra named Hoyle Casino among the members of its "best-selling H
 [^ref-63]: [GameSpot – Hoyle Casino game page (Wayback, 2003)](https://web.archive.org/web/20030412073559/http://www.gamespot.com:80/pc/puzzle/hoylecasino/review.html) – "Release Date: 12/09/1996"; GameSpot Score 8.2
 [^ref-64]: [InterAction Magazine, Spring 1997 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Spring_1997_1997_Sierra_On-Line_US) – ad: "over 50 different game variations"; "Hoyle Casino (Win CD #83743)" in a top-selling-games bonus offer
 [^ref-65]: [Sierra On-Line press release – "Sierra Announces Release of Hoyle: Poker" (Wayback, 1998)](https://web.archive.org/web/19980214051118/http://sierra.com:80/info/press/0055.html) – April 1997: Hoyle Casino listed as a member of "the best-selling Hoyle series"
-[^ref-66]: [GameSpot – Hoyle Casino all updates (Wayback, 2003)](https://web.archive.org/web/20030412102709/http://www.gamespot.com:80/pc/puzzle/hoylecasino/all_updates.html) – lists "Hoyle Casino Review ... [REVIEW - POSTED: 12/10/96]" (a separate 2002 review is also listed; only the 12/10/96 entry is used here)
+[^ref-66]: [GameSpot – Hoyle Casino all updates (Wayback, 2003)](https://web.archive.org/web/20030412102709/http://www.gamespot.com:80/pc/puzzle/hoylecasino/all_updates.html) – lists "Hoyle Casino Review ... [REVIEW - POSTED: 12/10/96]" (a separate 2002 review is also listed)
 [^ref-67]: [Computer Gaming World #149 (December 1996), Sierra advertisement (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_149) – Sierra advertisement, not editorial: names The Riverboat Gambler, The Slick-Talking Dude and The Incredible Cheapskate; on-line play; "Thankfully, no actual money changes hands"
 [^ref-68]: [Computer Gaming World #148 (November 1996), Sierra advertisement (Internet Archive)](https://archive.org/details/Computer_Gaming_World_Issue_148) – Sierra advertisement, not editorial: "Seven animated opponents keep the games lively. Slot machines, video poker and seven more casino favorites keep the thrilling action going"
 [^ref-69]: [InterAction Magazine, Spring 1996 (Internet Archive)](https://archive.org/details/InterAction_Magazine_Spring_1996_1996_Sierra_On-Line_US) – Sierra's own magazine; earliest announcement found: fall suite of Hoyle Casino Games including baccarat
