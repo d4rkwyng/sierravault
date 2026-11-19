@@ -10,7 +10,7 @@ series: Standalone
 engine: null
 protagonist: Leader of one of six ancient cultures
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 composer: [Keith Zizza]
 description: The Rise & Rule of Ancient Empires is a 1996 turn-based empire-building
   strategy game developed by Impressions Games and published by Sierra On-Line, in
@@ -19,7 +19,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # The Rise & Rule of Ancient Empires
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -76,7 +76,7 @@ Sources disagree on how long a game takes. Computer Gaming World's preview said 
 
 Reviews of The Rise & Rule of Ancient Empires were mixed, and scores varied widely between publications. Scott Gehrs of Computer Game Review gave the game 87%. He wrote that he "found the action to be slow at first, but still interesting, and the activity of building my empire quite an enjoyable task."[^ref-12] He said the game "will delight empire builder fans and those who liked Civilization." He also wrote that anyone "who has a taste for the power and glory of building a city, gathering a populace, taxing them to death, discovering the wheel, building a cannon, raising an army and subjugating the world will like it."[^ref-12]
 
-GameSpot's Trent Ward (review dated May 1996 by GameSpot, page last updated May 5, 2000) gave the game 6.2/10 and wrote: "Openly taking on Civilization 2 (Civ 2), the folks at Impressions have taken loads of interesting cultural information, fantastic sound and graphics, and full network support and combined them in a title that is full of atmosphere and life, but slightly lacking in its strategy content."[^ref-14] He praised that "Rise & Rule does a fantastic job of making players feel like they belong to their selected culture." He criticized that "in their attempt to one-up Civilization 2, the designers at Impressions seem to have forgotten to make the game fun to play."[^ref-14]
+In a review published in May 1996, GameSpot's Trent Ward gave the game 6.2/10 and wrote: "Openly taking on Civilization 2 (Civ 2), the folks at Impressions have taken loads of interesting cultural information, fantastic sound and graphics, and full network support and combined them in a title that is full of atmosphere and life, but slightly lacking in its strategy content."[^ref-14] He praised that "Rise & Rule does a fantastic job of making players feel like they belong to their selected culture." He criticized that "in their attempt to one-up Civilization 2, the designers at Impressions seem to have forgotten to make the game fun to play."[^ref-14]
 
 Computer Gaming World reviewed the game twice. T. Coleman's short June 1996 review said that, unlike Lords of the Realm or Caesar II, the game "fails to immerse you in the flavor of the historical period— or the fun."[^ref-24] In July 1996, Martin E. Cirulis reviewed it in full, under a caption calling it "a watered-down version of the great original." He concluded that "in trying to do both, Rise and Rule achieves neither, and becomes yet another strategy near-miss from Sierra."[^ref-25] MobyGames records CGW's score as 40%.[^ref-27]
 
@@ -102,7 +102,7 @@ Impressions Games developed The Rise & Rule of Ancient Empires as its answer to 
 
 ### Production
 
-Gregor Koomey was the game's designer and producer. David Lester was executive producer, Chris Beatrice was art director, and Keith Zizza handled music and sound.[^ref-6] Ironrod wrote that the game "had some design flaws arising from conflicting objectives between the Designer and the Director of Design, so it didn't achieve that 'Civ Lite' goal, but it wasn't a bad game."[^ref-6]
+Gregor Koomey was the game's designer and producer. [[David Lester]] was executive producer, [[Chris Beatrice]] was art director, and Keith Zizza handled music and sound.[^ref-6] Ironrod wrote that the game "had some design flaws arising from conflicting objectives between the Designer and the Director of Design, so it didn't achieve that 'Civ Lite' goal, but it wasn't a bad game."[^ref-6]
 
 The game shipped in March 1996. MobyGames gives a US release date of March 18,[^ref-21] while GamePen reported the release on March 25.[^ref-8] GameSpot, GameFAQs and Metacritic instead list a first release of February 29, 1996.[^ref-14][^ref-19][^ref-18] Ironrod said the game "had the bad fortune to ship at about the same time as Civ2."[^ref-6] Its US price was $54.95.[^ref-25]
 
@@ -134,7 +134,7 @@ The box listed "High-moving digital sound" and "Spectacular 256 SVGA graphics an
 |---------|------|----------|-------|
 | 1.0 | March 18, 1996 | Windows 3.x/Windows | Initial US release (GamePen reported March 25)[^ref-21][^ref-8] |
 | 1.01 | April 24, 1996 | Windows 3.1/Windows 95 | Patch fixing level 3 building errors, adding modem play for Windows 3.1, single-CD multiplayer, and enhanced AI[^ref-29][^ref-9] |
-| — | 1996 | Windows | French release distributed by Coktel Vision[^ref-21] |
+| — | 1996 | Windows | French release distributed by [[Coktel Vision]][^ref-21] |
 | — | 2000 | Windows | French re-release by Pointsoft S.A. ("Les Grands Jeux #2")[^ref-21][^ref-17] |
 
 ### Technical Issues
@@ -191,9 +191,9 @@ The Rise & Rule of Ancient Empires was released at almost the same time as Civil
 [^ref-10]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/126884-the-rise-rule-of-ancient-empires) – game objective
 [^ref-11]: [Coming Soon Magazine #19 via Wayback Machine](https://web.archive.org/web/19970416101359/http://www.csoon.com:80/issue19/riserule.htm) – Anil Chhabra review, system requirements
 [^ref-12]: [CGR Reviews via Wayback Machine](https://web.archive.org/web/19961221190424/http://www.nuke.com/cgr/reviews/9607/riseru/riseru.htm) – Scott Gehrs review (score 87), July 1996
-[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/the-rise-and-rule-of-ancient-empires-review/1900-2532812/) – Trent Ward review (6.2; published 1996-05-08 per page metadata, byline stamp May 5, 2000): ~12 unit types, five areas of study, win by AD 500; "First Released Feb 29, 1996"
+[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/the-rise-and-rule-of-ancient-empires-review/1900-2532812/) – Trent Ward review (6.2; published May 8, 1996): ~12 unit types, five areas of study, win by AD 500; "First Released Feb 29, 1996"
 [^ref-15]: [UV List](https://www.uvlist.net/game-220074-The+Rise+Rule+of+Ancient+Empires) – external review scores (Génération 4, PC Review, PC Format)
-[^ref-16]: [MobyGames – Reviews](https://www.mobygames.com/game/1936/the-rise-rule-of-ancient-empires/reviews/) – single player review ("Great for the Time", 2023) and player score (6.0/10 from 12 votes, November 2026, read via the MobyGames API)
+[^ref-16]: [MobyGames – Reviews](https://www.mobygames.com/game/1936/the-rise-rule-of-ancient-empires/reviews/) – single player review ("Great for the Time", 2023) and player score (6.0/10 from 12 votes as of November 2026)
 [^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/the-rise-rule-of-ancient-empires-dei) – user rating, release regions (France 2000)
 [^ref-18]: [Metacritic](https://www.metacritic.com/game/the-rise-and-rule-of-ancient-empires/) – user score, initial release date Feb 29, 1996
 [^ref-19]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198983-the-rise-and-rule-of-ancient-empires) – box copy (six cultures, "leader of one of six ancient cultures", feature list, "one sitting"), user ratings, release date Feb 29, 1996
