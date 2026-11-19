@@ -12,7 +12,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: "Field & Stream: Trophy Bass 4 is a bass fishing simulation developed by Dynamix and published by Sierra Sports in May 2000, featuring 25 tournament lakes, more than 30 game fish species and Force Feedback support."
 tags:
   - 2000s
@@ -23,7 +23,7 @@ tags:
 ---
 # Field & Stream: Trophy Bass 4
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -146,6 +146,8 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 - [[1995 - Trophy Bass]]
 - [[1996 - Front Page Sports - Trophy Bass 2]]
 - [[1999 - Field & Stream - Trophy Bass 3D]]
+- [[1998 - Sierra Sports - Bass Fishing]]
+- [[Dynamix Catalog]]
 
 ## References
 
