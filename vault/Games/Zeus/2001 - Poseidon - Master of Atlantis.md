@@ -10,7 +10,7 @@ series: City Building Series
 engine: 'Zeus: Master of Olympus engine (requires base game)'
 protagonist: Player as ruler of Atlantis
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 composer: [Henry Beckett]
 description: 'Poseidon: Master of Atlantis is the official expansion pack for Zeus:
   Master of Olympus, developed by Impressions Games and published by Sierra. It adds the Atlantis civilization, with new gods, heroes and
@@ -19,7 +19,7 @@ tags: [2000s, city-building-series, sierra]
 ---
 # Poseidon: Master of Atlantis
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -109,7 +109,7 @@ The base game had been reviewed separately; see [[2000 - Zeus - Master of Olympu
 
 ### Modern Assessment
 
-The Zeus + Poseidon bundle holds a 4.7/5 user rating from 322 reviews on GOG.com[^ref-7] and an "Overwhelmingly Positive" rating (96% of 1,937 user reviews) on Steam[^ref-28], as of November 2026.
+The Zeus + Poseidon bundle holds a 4.7/5 user rating from 323 reviews on GOG.com[^ref-7] and an "Overwhelmingly Positive" rating (96% of 1,942 user reviews) on Steam[^ref-28], as of November 2026.
 
 **Aggregate Scores:**
 - **Metacritic:** 84/100[^ref-33]
@@ -224,13 +224,13 @@ MobyGames lists release dates of June 22, 2001 in the United States, June 2001 i
 
 ### Sales and Commercial Impact
 
-Sales figures for Poseidon are not available. The original US retail price was $19.99[^ref-16]; IGN noted the "twenty drachmae asking price" as part of its value[^ref-27].
+The original US retail price was $19.99[^ref-16]; IGN noted the "twenty drachmae asking price" as part of its value[^ref-27].
 
 ### Collections
 
 The Acropolis collection bundles Zeus: Master of Olympus with the Poseidon expansion, and is credited to publishers Sierra On-Line and Activision Publishing[^ref-13]. MobyGames also lists Poseidon in The Great Empires Collection II (2001) and The Biggest Creators of Empires (2003)[^ref-1].
 
-The Zeus + Poseidon bundle is sold on GOG.com[^ref-7], where it was added to the catalog on May 10, 2012[^ref-20], and on Steam, where it was released on December 15, 2016 at $9.99[^ref-28].
+The Zeus + Poseidon bundle is sold on GOG.com[^ref-7], where it was added to the catalog on May 10, 2012[^ref-20], and on Steam, where it was released on December 15, 2016 and lists at $9.99[^ref-28].
 
 ### Fan Projects
 
