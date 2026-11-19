@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Spinoff
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Ricochet is a multiplayer disc-throwing arena game developed and published
   by Valve, released on November 1, 2000 as a free official mod for the Sierra-published
   Half-Life and sold on Steam since 2003.
@@ -18,13 +18,13 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
 Ricochet is a multiplayer deathmatch game developed and published by Valve and released on November 1, 2000 as a free official modification for Half-Life.[^ref-1][^ref-7][^ref-13][^ref-16] Valve's own company timeline records that with Ricochet, Robin Walker "demonstrates to the mod community how a game can be created quickly and easily with Valve's SDK."[^ref-21] The game was later folded into Half-Life's 1.1.1.0 update, and when Valve moved its GoldSrc games to Steam it became a paid product, with owners of retail Half-Life CD keys receiving it free.[^ref-1][^ref-9]
 
-Players jump between neon-lit platforms suspended above an abyss and throw discs at one another, trying to push opponents off the platforms; horizontal barriers let discs bounce, which gives the game its name.[^ref-13] On Steam the game holds a "Very Positive" rating, with 86% of 2,996 English-language user reviews positive as of October 2026.[^ref-7]
+Players jump between neon-lit platforms suspended above an abyss and throw discs at one another, trying to push opponents off the platforms; horizontal barriers let discs bounce, which gives the game its name.[^ref-13] On Steam the game holds a "Very Positive" rating, with 86% of 3,001 English-language user reviews positive as of November 2026.[^ref-7]
 
 Sierra did not publish Ricochet. Steam, SteamDB and MobyGames all list Valve as both developer and publisher.[^ref-7][^ref-19][^ref-13] Its link to Sierra is indirect: it was an official mod for Half-Life, which Sierra published.[^ref-23] The Sierra Connection section below sets out what the records do and don't show.
 
@@ -111,7 +111,7 @@ Sierra's connection to Ricochet was indirect. Sierra published Half-Life, and Ri
 - **Sierra did not sell it on its own.** It was a free mod, and later a Valve product on Steam.[^ref-1][^ref-7]
 - **Sierra's own materials don't mention it.** Sierra's Half-Life news page from November 2000 announced the Half-Life: Counter-Strike retail box and the Half-Life: Platinum Edition. It listed their contents without naming Ricochet.[^ref-23]
 
-There is one open question. MobyGames lists Ricochet among the contents of Sierra's Half-Life: Counter-Strike retail compilation, and PCGamingWiki repeats that in a note.[^ref-24][^ref-15] No period box, manual or Sierra announcement found for this page confirms it, so whether Ricochet was on that disc or arrived later through an update is unconfirmed.
+There is one open question. MobyGames lists Ricochet among the contents of Sierra's Half-Life: Counter-Strike retail compilation, and PCGamingWiki repeats that in a note.[^ref-24][^ref-15] Whether Ricochet was on that disc or arrived later through an update is unconfirmed.
 
 The Cutting Room Floor also lists Sierra Studios as a publisher, but the Sierra news item it cites doesn't name Ricochet.[^ref-3][^ref-23]
 
@@ -127,7 +127,7 @@ No contemporary press review of Ricochet was found. It was a free mod rather tha
 
 ### Modern Assessment
 
-On Steam, the game holds a "Very Positive" rating, with 86% of 2,996 English-language user reviews positive as of October 2026.[^ref-7] SteamDB counts about 6,000 reviews across all languages.[^ref-19]
+On Steam, the game holds a "Very Positive" rating, with 86% of 3,001 English-language user reviews positive as of November 2026.[^ref-7] SteamDB counts about 6,000 reviews across all languages.[^ref-19]
 
 The Cutting Room Floor calls it "the undeserved black sheep of Valve's games and their first foray into quirky FPS games, which eventually led to Portal and Portal 2."[^ref-3] Kotaku's Luke Plunkett was blunter in 2012, telling a colleague, "it was shit. So shit, in fact, that on Valve's site the company likes to pretend it never existed."[^ref-11]
 
