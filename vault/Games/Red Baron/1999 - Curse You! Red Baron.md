@@ -10,7 +10,7 @@ series: Red Baron
 engine: Unknown
 protagonist: Player-customizable WWI pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Curse You! Red Baron is an arcade-style World War I flight combat game
   developed by Dynamix and published by Sierra On-Line in 1999, with eight flyable
   aircraft and Dogfight, Red Baron Challenge and Hot Seat modes.
@@ -18,7 +18,7 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Curse You! Red Baron
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -92,13 +92,13 @@ IGN gave the game a score of **4.1 out of 10**, with reviewer Stephen Butts deli
 
 The Adrenaline Vault's Adam Swiderski (August 4, 1999) called it "basically a heavily stripped-down version of Red Baron 3D" aimed at more casual players.[^ref-22] It describes four styles of gameplay, praises the sound effects as "nicely put-together" and says the game has no music during play (only on the menus).[^ref-22][^ref-30] The review notes that the box copy promises "action-packed fun for the whole family," and concludes that, given Red Baron 3D, "there's really no need to play this game."[^ref-30]
 
-Children's Software Revue, in a review copyrighted 2000, offered an equally dismissive evaluation: "Graphics are marginal and the plane is difficult to control. Of the flights sims we've seen, this ranks low on the excitement scale."[^ref-8][^ref-11]
+Children's Software Revue, in a review copyrighted 2000, offered an equally dismissive evaluation: "Graphics are marginal and the plane is difficult to control. Of the flights sims we've seen, this ranks low on the excitement scale."[^ref-8]
 
 Performance issues compounded the negative reception, with IGN noting choppy gameplay even on a 450MHz machine.[^ref-6]
 
 ### Customer Ratings and Aggregate Scores
 
-Customer reception on retail platforms has been mixed. Amazon reviews show an average of **4.0 out of 5 stars** from 3 ratings, though individual reviews range from enthusiastic to scathing.[^ref-11] One positive customer review, dated November 11, 1999, wrote: "This is a completely enjoyable game. There is nothing like taking a break from headache inducing homework for a quick game of Red Baron."[^ref-8] However, another stated bluntly: "Can't even fly this piece of CRAP. What a waste. Totally unuseable!"[^ref-8]
+Customer reception on retail platforms has been mixed. Amazon reviews show an average of **4.0 out of 5 stars** from 3 ratings, though individual reviews range from enthusiastic to scathing.[^ref-8] One positive customer review, dated November 11, 1999, wrote: "This is a completely enjoyable game. There is nothing like taking a break from headache inducing homework for a quick game of Red Baron."[^ref-8] However, another stated bluntly: "Can't even fly this piece of CRAP. What a waste. Totally unuseable!"[^ref-8]
 
 GameFAQs users rated the game as "Great" based on 6 ratings.[^ref-12] GameSpot's archived page shows no review and a user average of 6.3 from 6 ratings.[^ref-26] Giant Bomb's user ratings show **4.0 out of 5 stars** from 4 user reviews.[^ref-10]
 
@@ -106,7 +106,7 @@ GameFAQs users rated the game as "Great" based on 6 ratings.[^ref-12] GameSpot's
 - **MobyGames Critics:** 49% (3 ratings, as of April 2026)[^ref-20]
 - **MobyGames Players:** 2.3 out of 5 (4 ratings, as of April 2026)[^ref-20]
 - **My Abandonware:** 5/5 (2 votes)[^ref-4]
-- **Amazon Customer Reviews:** 4.0/5 stars[^ref-11]
+- **Amazon Customer Reviews:** 4.0/5 stars[^ref-8]
 - **Giant Bomb Users:** 4.0/5 stars[^ref-10]
 - **IGN:** 4.1/10[^ref-6]
 - **Metacritic:** no critic reviews listed[^ref-28]
@@ -118,8 +118,6 @@ GameFAQs users rated the game as "Great" based on 6 ratings.[^ref-12] GameSpot's
 Curse You! Red Baron is part of the Sierra/Dynamix Red Baron series, directly following Red Baron 3-D (1998).[^ref-1] Earlier entries were Red Baron, Red Baron Mission Builder, Red Baron II and Red Baron 3D.[^ref-15]
 
 IGN's reviewer, who said he "cut my teeth on Aces of the Pacific and the original Red Baron," wrote: "I totally respect the concept of watering a product down for the masses, but Curse You! Red Baron has lost the excitement of air combat in the process."[^ref-6]
-
-The title recalls *Peanuts*, in which Snoopy imagines himself a World War I Flying Ace whose archenemy is the Red Baron (the persona dates from October 10, 1965).[^ref-31] No source documents a Peanuts licence or any official tie-in with the game.
 
 ### Production
 
@@ -250,7 +248,6 @@ Curse You! Red Baron is a minor entry in the Red Baron series, an arcade-style s
 [^ref-8]: [Amazon – Curse You! Red Baron](https://www.amazon.com/Curse-You-Red-Baron-PC/dp/B00001LCDN) – product description, customer reviews, platforms
 [^ref-9]: [Sierra Classic Gaming – Curse You! Red Baron (archived)](https://web.archive.org/web/20260606193933/https://sierraclassicgaming.com/game/curse-you-red-baron/) – system requirements, release date, related games
 [^ref-10]: [Giant Bomb – Curse You! Red Baron](https://www.giantbomb.com/curse-you-red-baron/3030-12973/) – developer, publisher, user ratings
-[^ref-11]: [Amazon – Curse You! Red Baron (same listing as ref-8, Spanish-language view)](https://www.amazon.com/-/es/Curse-You-Red-Baron-PC/dp/B00001LCDN) – the same Amazon.com listing (ASIN B00001LCDN) as ref-8, not an independent source
 [^ref-12]: [GameFAQs – Curse You! Red Baron](https://gamefaqs.gamespot.com/pc/915885-curse-you-red-baron) – user ratings, release year
 [^ref-15]: [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – patch information, technical support
 [^ref-17]: [MobyGames – Curse You! Red Baron Credits (Windows)](https://www.mobygames.com/game/9020/curse-you-red-baron/credits/windows/) – design, programming, art, music credits
@@ -260,11 +257,10 @@ Curse You! Red Baron is a minor entry in the Red Baron series, an arcade-style s
 [^ref-21]: [MobyGames – Curse You! Red Baron Credits (Windows, archived April 6, 2026)](https://web.archive.org/web/20260406124838/https://www.mobygames.com/game/9020/curse-you-red-baron/credits/windows/) – "relies heavily upon the work done for Red Baron II and Red Baron 3D"
 [^ref-22]: [The Adrenaline Vault – Curse You! Red Baron review by Adam Swiderski, Aug 4, 1999 (archived)](https://web.archive.org/web/20041231131739/http://www.avault.com/reviews/review_temp.asp?game=curseyou&page=1) – four styles of play incl. training missions, Dogfight, Red Baron Challenge, hot-seat; "heavily stripped-down version of Red Baron 3D"
 [^ref-23]: [The Sierra Chest – Curse You! Red Baron (Wayback, 2019)](http://web.archive.org/web/2019/http://sierrachest.com/index.php?a=games&id=417&title=curse-you-red-baron&fld=general) – developer Dynamix, Red Baron series, engine unknown/unnamed, "also included in: 3-D Ultra: Planes, Trains and Automobiles"
-[^ref-24]: [Sierra Help wiki – Planes+Trains+Automobiles](https://wiki.sierrahelp.com/index.php/Planes%2BTrains%2BAutomobiles) – compilation contents: Curse You! Red Baron 1.0, 3-D Ultra Lionel Train Town 1.1, 3-D Ultra Radio Control Racers 1.0; publisher Sierra (read via WebFetch; site is behind a Cloudflare gate for scripts)
+[^ref-24]: [Sierra Help wiki – Planes+Trains+Automobiles](https://wiki.sierrahelp.com/index.php/Planes%2BTrains%2BAutomobiles) – compilation contents: Curse You! Red Baron 1.0, 3-D Ultra Lionel Train Town 1.1, 3-D Ultra Radio Control Racers 1.0; publisher Sierra
 [^ref-25]: [LaunchBox Games Database – Curse You! Red Baron](https://gamesdb.launchbox-app.com/games/details/158648-curse-you-red-baron) – release May 27, 1999, ESRB E, 1 player, no co-op, Dynamix / Sierra On-Line
 [^ref-26]: [GameSpot – Curse You! Red Baron (Wayback, May 2019)](http://web.archive.org/web/20190511142550/https://www.gamespot.com/curse-you-red-baron/) – "Not Reviewed", user average 6.3 from 6 ratings, Everyone, Animated Violence
 [^ref-27]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – 1999, Windows, Dynamix, Sierra On-Line
-[^ref-28]: [Metacritic – Curse You! Red Baron](https://www.metacritic.com/game/curse-you-red-baron/) – "Critic reviews are not available for this game yet", rated E, developer Dynamix (checked Nov 2026)
+[^ref-28]: [Metacritic – Curse You! Red Baron](https://www.metacritic.com/game/curse-you-red-baron/) – "Critic reviews are not available yet", rated E, developer Dynamix
 [^ref-29]: [Computer Gaming World issue 186 (Jan 2000) – retailer price list](https://archive.org/details/Computer_Gaming_World_Issue_186) – lists "Curse You! Red Baron 06/99" under Simulation; an advertisement, not a review
 [^ref-30]: [The Adrenaline Vault – Curse You! Red Baron review by Adam Swiderski, page 3 (archived)](https://web.archive.org/web/20030929211505/http://www.avault.com/reviews/review_temp.asp?game=curseyou&page=3) – "CYRB's graphics engine is carried over from Red Baron 3D"; interface "easy enough to get used to"; sound FX; no music during play; box copy; closing verdict
-[^ref-31]: [Wikipedia – Snoopy](https://en.wikipedia.org/wiki/Snoopy) – World War I Flying Ace persona, "archenemy of the Red Baron", first adopted October 10, 1965
