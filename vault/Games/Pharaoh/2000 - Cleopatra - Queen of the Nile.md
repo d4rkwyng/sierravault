@@ -10,13 +10,13 @@ series: Pharaoh
 engine: Pharaoh Engine
 protagonist: None (player acts in the historical role set by each mission briefing)
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: 'Cleopatra: Queen of the Nile is the 2000 expansion pack for Pharaoh, developed by BreakAway Games with Impressions Games and published by Sierra, adding four campaigns of 15 missions set from 1490 BC to 35 BC.'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -61,7 +61,7 @@ Cleopatra plays the same way as Pharaoh in most respects, and StrategyWiki point
 
 ### Structure and Progression
 
-The 15 campaign missions are joined by a scenario editor[^ref-1]. Missions follow Pharaoh's formula: the player wins by reaching set ratings and building required monuments. GameSpot found that Cleopatra "starts off at approximately the same difficulty at which Pharaoh left off, and quickly gets much harder," and that some missions add time limits[^ref-31]. Unlike in Pharaoh, Cleopatra's ranks are not successive from mission to mission[^ref-4].
+The 15 campaign missions are joined by a scenario editor[^ref-1]. Missions follow Pharaoh's formula: the player wins by reaching set ratings and building required monuments[^ref-31]. GameSpot found that Cleopatra "starts off at approximately the same difficulty at which Pharaoh left off, and quickly gets much harder," and that some missions add time limits[^ref-31]. Unlike in Pharaoh, Cleopatra's ranks are not successive from mission to mission[^ref-4].
 
 Some missions let troops and monuments carry over from a previous mission. Only the highest-level troops and one fort of each type can be carried over[^ref-6][^ref-4]. One campaign mission puts the player in command of non-Egyptian forces, and the Mission Editor supports this too[^ref-6].
 
@@ -99,7 +99,7 @@ GameSpot also reported a bug in version 1.0. If burial goods were dispatched to 
 | Metacritic | 77/100 | Aggregate of 13 critic reviews[^ref-18] |
 | MobyGames | 78% | Critic average from 22 ratings; players 3.8/5 from 17 ratings, as archived February 4, 2026[^ref-36] |
 
-GameSpot's Ron Dulin praised BreakAway for not taking the "easy route" of expansion packs. He found the new missions both "extend the game" and "enhance it", but noted that the wandering-worker problem inherited from Pharaoh "has still not been addressed"[^ref-31].
+GameSpot's Ron Dulin praised BreakAway for not taking the "easy route" of expansion packs. He wrote that most of the new challenges "serve not only to extend the game, but also to enhance it", but noted that the wandering-worker problem inherited from Pharaoh "has still not been addressed"[^ref-31].
 
 IGN's Trent C. Ward found the new missions "so hard that I was very worried about meeting my deadline". He noted that the pack ships without any manual and reuses the original soundtrack, and that goods sometimes failed to reach the tombs[^ref-37]. Mark Brooks of Computer Gaming World, who gave it three stars out of five, found "15 very hard missions spread over four campaigns" but said the pack did not fix irritating Pharaoh bugs: "Workers still wander about aimlessly, and there are unexplained production stoppages"[^ref-39]. ActionTrip's Branislav Babovic judged the new campaigns "really tough" and said the game's graphic design is "pretty much identical to Pharaoh"[^ref-41]. Dan Simpson of the Adrenaline Vault liked the asps' hiss and the frog plague, and praised the option to play any scenario out of order, though he thought listing scenarios by city name rather than campaign was slightly confusing[^ref-43]. Dave Markell of Computer Games Magazine called the Ramses II campaign "a delight" and the Ancient Conquerors campaign "the weakest of the bunch". He also regretted that the Karnak temple of Amon, which had been meant for the expansion, was cut[^ref-38].
 
@@ -113,7 +113,7 @@ Metacritic's user score stands at 7.6 from 15 ratings[^ref-18]. The bundled Phar
 
 Computer Games Magazine's website (cdmag.com) reported on July 6, 2000, citing Impressions Games, that the expansion had gone gold and would reach retail around July 14. It noted that the pack was developed by BreakAway Games, the studio behind *Sid Meier's Antietam!*[^ref-32]. MobyGames dates the US release to July 12, 2000[^ref-1], while GameFAQs and Metacritic give July 11, 2000[^ref-5][^ref-18].
 
-The publisher is given differently by different sources. The retail box and period reviews read "Sierra Studios" (Computer Gaming World's issue 196 listing prints "Publisher: Sierra Studios Developer: Impressions Games")[^ref-39][^ref-41][^ref-42][^ref-43], while Metacritic's details page lists "Sierra Entertainment"[^ref-44].
+The publisher is given differently by different sources. Period reviews read "Sierra Studios" (Computer Gaming World's issue 196 listing prints "Publisher: Sierra Studios Developer: Impressions Games")[^ref-39][^ref-41][^ref-42][^ref-43], while Metacritic's details page lists "Sierra Entertainment"[^ref-44].
 
 ### Production Team
 
@@ -193,7 +193,7 @@ The Impressions Games Wiki describes Cleopatra's carry-over of monuments and tro
 
 ## References
 
-[^ref-1]: [MobyGames – Cleopatra: Queen of the Nile](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Release date, developers, publisher, description (4 campaigns, 15 missions, scenario editor), critic and player averages, compilations; regional release dates (read via the MobyGames API)
+[^ref-1]: [MobyGames – Cleopatra: Queen of the Nile](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Release date, developers, publisher, description (4 campaigns, 15 missions, scenario editor), critic and player averages, compilations; regional release dates
 [^ref-2]: [ModDB – Cleopatra: Queen of the Nile](https://www.moddb.com/games/cleopatra-queen-of-the-nile) – Setting summary and enemy empires
 [^ref-4]: [StrategyWiki – Cleopatra: Queen of the Nile/Walkthrough](https://strategywiki.org/wiki/Cleopatra:_Queen_of_the_Nile/Walkthrough) – Campaign and mission list, years, objectives, ranks
 [^ref-5]: [GameFAQs – Cleopatra: Queen of the Nile](https://gamefaqs.gamespot.com/pc/354592-cleopatra-queen-of-the-nile) – Release date (July 11, 2000), developer and publisher
@@ -212,7 +212,7 @@ The Impressions Games Wiki describes Cleopatra's carry-over of monuments and tro
 [^ref-36]: [MobyGames – Cleopatra: Queen of the Nile (archived February 4, 2026)](https://web.archive.org/web/20260204172038/https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Critics 78% (22 ratings); players 3.8/5 (17 ratings)
 [^ref-37]: [IGN – Pharaoh: Cleopatra review by Trent C. Ward (archived)](http://web.archive.org/web/20260813201709/https://www.ign.com/articles/2000/07/27/pharaoh-cleopatra) – 2000 review, score 8.6; difficulty, plagues, lamp and paint industries, no manual, same soundtrack
 [^ref-38]: [Computer Games Magazine – Cleopatra review by Dave Markell (archived)](http://web.archive.org/web/20050324020235/http://cdmag.com:80/articles/030/066/cleopatra_review.html) – Posted 10/23/2000; overall rating 4 of 5; campaigns, zoos, divine blessings, cut Karnak temple
-[^ref-39]: [Computer Gaming World, issue 196 (November 2000) – Cleopatra review by Mark Brooks, p. 168](https://archive.org/details/Computer_Gaming_World_Issue_196/page/n169) – three of five stars (read on the page image); 15 very hard missions in four campaigns; new curses; giant scorpions; Pharaoh bugs remain
+[^ref-39]: [Computer Gaming World, issue 196 (November 2000) – Cleopatra review by Mark Brooks, p. 168](https://archive.org/details/Computer_Gaming_World_Issue_196/page/n169) – three of five stars; 15 very hard missions in four campaigns; new curses; giant scorpions; Pharaoh bugs remain
 [^ref-40]: [Gamer's Pulse – Pharoah: Cleopatra Expansion review by Stephen Zillwood, October 6, 2000 (archived)](http://web.archive.org/web/20010217181901/http://www.gamerspulse.com:80/reviews_2000/cleopatra/cleopatra.shtml) – Overall 88; four scenarios, 15 missions; plagues; new industries; any mission playable from the start
 [^ref-41]: [ActionTrip – Cleopatra review by Branislav Babovic, September 5, 2000 (archived, page 1)](http://web.archive.org/web/20010329165811/http://www.actiontrip.com:80/reviews/cleopatra.phtml) and [page 2](http://web.archive.org/web/20010423105139/http://www.actiontrip.com:80/reviews/cleopatra_2.phtml) – Editor's rating 80%; "a few improvements over the Pharaoh engine"; difficulty, same graphics and sound, map editor, no manual
 [^ref-42]: [GameSpy – Cleopatra review by Nate Timperley (archived)](http://web.archive.org/web/20031206012518/http://www.gamespy.com/legacy/reviews/cleopatra_b.shtm) – Tomb robbers, plagues, lamp-delivery bug and workaround; the numeric score (80) comes from Metacritic
