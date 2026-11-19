@@ -10,17 +10,17 @@ series: Standalone
 engine: Macromedia Director
 protagonist: The Player
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Stay Tooned! is a 1996 cartoon adventure developed by Funnybone Interactive and published by Sierra On-Line for Windows and Macintosh, in which escaped toons steal the player's TV remote and overrun an apartment building.
 tags: [1990s, adventure, sierra, standalone]
 ---
 # Stay Tooned!
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
-Stay Tooned! is a 1996 point-and-click cartoon adventure game developed by Funnybone Interactive and published by Sierra On-Line on a single CD-ROM for Windows 95, Windows 3.1 and Macintosh[^ref-16][^ref-21][^ref-3][^ref-12]. The box cover subtitles it "Unsweetened Multi-Game Experience!"[^ref-21][^ref-2]. Cartoon characters escape from the player's television, steal the remote control and turn the player's apartment building into a cartoon playground; the player must find the remote and zap the toons back into TV land[^ref-16][^ref-21].
+Stay Tooned! is a 1996 point-and-click cartoon adventure game developed by Funnybone Interactive and published by Sierra On-Line on a single CD-ROM for Windows 95, Windows 3.1 and Macintosh[^ref-16][^ref-21][^ref-3][^ref-12]. The box cover subtitles it "Unsweetened Multi-Game Experience!"[^ref-2][^ref-21][^ref-2]. Cartoon characters escape from the player's television, steal the remote control and turn the player's apartment building into a cartoon playground; the player must find the remote and zap the toons back into TV land[^ref-16][^ref-21].
 
 Sierra's launch press release promised "over 30 zany games" built into the adventure, and the building has 20 apartments plus a roof and a basement[^ref-16][^ref-13]. PC Magazine's December 17, 1996 holiday gift guide likewise described "over 30 games," five of them in 3-D, across "over 50 intriguing environments," for $40[^ref-27]. Rooms and games are shuffled between playthroughs, which reviewers in 1996 and later noted added to its replay value[^ref-16][^ref-17][^ref-13]. The box included clear-cellophane "ToonVision" 3-D glasses with ChromaDepth lenses for a handful of 3-D games[^ref-16][^ref-21].
 
@@ -178,7 +178,7 @@ Additional trivia:
 - The box was designed to look like a cereal box, "with the nutritional information and ingredients listing down the side"[^ref-17][^ref-13]
 - Sierra advertised the game in Disney Adventures in November and December 1996 with an offer of a Stay Tooned! demo CD-ROM by phone "while supplies last"; the ad's fine print says the free demo CD-ROM offer expired 12/31/96[^ref-32][^ref-33]
 - The official website (stay-tooned.com) offered Shockwave mini-games, including a game in which players could "beat the snot out of Frank"[^ref-26][^ref-22]
-- The TV spoofs include "Whinefeld" (*Seinfeld*), "Frauds" and "Schlepardy" (*Jeopardy!*)[^ref-16]
+- The TV spoofs include "Whinefeld" (*Seinfeld*), "Frauds" and "Schlepardy" (*Jeopardy!*)[^ref-16][^ref-2]
 
 ## Legacy
 
@@ -188,24 +188,24 @@ No sales figures for Stay Tooned! have been published. The Collection Chamber's 
 
 ### Collections
 
-No compilation re-release is documented in the sources consulted. The game survives through disc-image preservation on the Internet Archive and through abandonware and emulation sites[^ref-7][^ref-5][^ref-13].
+The game survives through disc-image preservation on the Internet Archive and through abandonware and emulation sites[^ref-7][^ref-5][^ref-13].
 
 ### Fan Projects
 
-The sources consulted document no fan remakes. Preservation has taken the form of disc images and pre-configured emulation installers[^ref-7][^ref-13].
+Preservation has taken the form of disc images and pre-configured emulation installers[^ref-7][^ref-13].
 
 ### Related Publications
 
-The manual includes a page of hints, and Sierra's press release said the official website offered hints, downloadable demos and screen captures[^ref-21][^ref-16]. No separate hint book or strategy guide is documented in the sources consulted.
+The manual includes a page of hints, and Sierra's press release said the official website offered hints, downloadable demos and screen captures[^ref-21][^ref-16].
 
 ### Critical Perspective
 
-Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. Gamecenter's 1997 review made the same comparison at the time, saying it "treads on its corns"[^ref-31], and The Collection Chamber suggests this competition helps explain why it is little remembered[^ref-13]. HonestGamers argues that it is often wrongly filed as edutainment when it is really a graphic adventure[^ref-25]. Reviewers in 1996–97 and later retrospectives agree on its strengths: the cartoon humour aimed at the player, the shuffled building that rewards replaying, and a large set of mini-games that vary in quality[^ref-17][^ref-24][^ref-13]. MyAbandonware users remember it fondly. One calls it "one of the greatest memories" of their childhood, and another was "so happy" to share it with a daughter[^ref-5].
+Stay Tooned! arrived in 1996, the same year as Burst Studios' *Toonstruck*. Gamecenter's review (archived April 1997) made the same comparison at the time, saying it "treads on its corns"[^ref-31], and The Collection Chamber suggests this competition helps explain why it is little remembered[^ref-13]. HonestGamers argues that it is often wrongly filed as edutainment when it is really a graphic adventure[^ref-25]. Reviewers in 1996–97 and later retrospectives agree on its strengths: the cartoon humour aimed at the player, the shuffled building that rewards replaying, and a large set of mini-games that vary in quality[^ref-17][^ref-24][^ref-13]. MyAbandonware users remember it fondly. One calls it "one of the greatest memories" of their childhood, and another was "so happy" to share it with a daughter[^ref-5].
 
 ## Downloads
 
 **Purchase / Digital Stores**
-- No GOG or Steam listing (checked November 2026)
+- No GOG or Steam listing as of November 2026
 
 **Download / Preservation**
 - [The Collection Chamber](https://collectionchamber.blogspot.com/2018/09/stay-tooned.html) - Pre-configured DOSBox + Windows 3.1 installer[^ref-13]
@@ -247,6 +247,6 @@ Stay Tooned! arrived in 1996, the same year as Burst Studio's *Toonstruck*. Game
 [^ref-28]: [MacAddict, issue 7 (March 1997), p. 86 (kids' CD-ROM panel, Brisbane Elementary School)](https://archive.org/details/MacAddict-007-199703) – Mac requirements, $40 street price, grades 5 to Adult, panel quotes, final report, all eight panelists' "Pick of the month", demo on the cover disc
 [^ref-29]: [PC Computing, March 1998, p. 162 (Stay Tooned review, unsigned)](https://archive.org/details/PC_Computing_1998_03) – three of five circles, "between a children's game and an adult satire", "take two aspirin"
 [^ref-30]: [Animation World Magazine vol. 1 no. 9 (December 1996), p. 14, Judith Shane, "Lettuce Entertain You: A Visit to Sierra On-Line"](https://archive.org/details/awn-magazine-volume-1-9) – CUC purchase of Sierra and Davidson; Funnybone acquired by Davidson; released under the Sierra label
-[^ref-31]: [Gamecenter – StayTooned review by Barry Brenesal (1997, archived)](https://web.archive.org/web/19970401005519/http://gamecenter.com/Reviews/Item/0,6,552,00.html) – "treads on its corns" (Toonstruck comparison), Nickelodeon "purple goop pie" line, "a strength, and a weakness"
+[^ref-31]: [Gamecenter – StayTooned review by Barry Brenesal (archived April 1997)](https://web.archive.org/web/19970401005519/http://gamecenter.com/Reviews/Item/0,6,552,00.html) – "treads on its corns" (Toonstruck comparison), Nickelodeon "purple goop pie" line, "a strength, and a weakness"
 [^ref-32]: [Disney Adventures, vol. 6 no. 14 (November 1996), Sierra "Stay Tooned!" advertisement](https://archive.org/details/disney-adventures-magazine-volume-06-number-14-november-1996) – "Start Your Day off with an Explosive Cartoon Adventure"; call for a Stay Tooned! demo CD-ROM "(while supplies last)"; "Free demo CD-ROM offer expires 12/31/96"
 [^ref-33]: [Disney Adventures, vol. 7 no. 2 (December 1996), Sierra "Stay Tooned!" advertisement](https://archive.org/details/disney-adventures-magazine-volume-07-number-02-december-1996) – same ad; "Free demo CD-ROM offer expires 12/31/96"
