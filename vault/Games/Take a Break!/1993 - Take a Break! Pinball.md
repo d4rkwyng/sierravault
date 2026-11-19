@@ -10,14 +10,14 @@ series: Take a Break!
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Take a Break! Pinball was a 1993 pinball computer game collection developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. It contains eight tables themed on Sierra and Dynamix adventure games and was the second released title in the Take a Break! series.
 tags: [1990s, dynamix, sierra, take-a-break]
 ---
 # Take a Break! Pinball
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -200,7 +200,7 @@ Computer Gaming World's verdict captured both the ambition and the problem: "Whi
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (store searches checked October 14, 2026)
+- Not sold on GOG or Steam as of November 2026
 - Physical copies occasionally available through used game retailers[^ref-10]
 
 **Download / Preservation**
@@ -223,7 +223,7 @@ Computer Gaming World's verdict captured both the ambition and the problem: "Whi
 
 
 [^ref-1]: [ClassicReload – Take a Break! Pinball](https://classicreload.com/win3x-take-a-break-pinball.html) – browser-playable version
-[^ref-2]: [Retro365 – 3-D Ultra Pinball Article](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – Ernst Krogtoft, 2025; series history, "clunky gameplay", and the only source found for a 1995 CD-ROM release date (tier-4, uncorroborated)
+[^ref-2]: [Retro365 – 3-D Ultra Pinball Article](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – Ernst Krogtoft, 2025; series history, "clunky gameplay", and a 1995 CD-ROM release date
 [^ref-3]: [Metacritic – Take a Break! Pinball Details](https://www.metacritic.com/game/take-a-break-pinball/details/) – box description: "jump from work to play in a nanosecond", "three balls in play at once"
 [^ref-4]: [Giant Bomb – Take a Break! Pinball](https://www.giantbomb.com/take-a-break-pinball/3030-10948/) – database entry: 1993, PC, Dynamix, Inc., Sierra
 [^ref-5]: [MyAbandonware – Take a Break! Pinball](https://www.myabandonware.com/game/take-a-break-pinball-f0j) – Home of the Underdogs review text; site user rating 4.67/5 from 3 votes
@@ -244,6 +244,6 @@ Computer Gaming World's verdict captured both the ambition and the problem: "Whi
 [^ref-25]: [InterAction Vol. VI No. 3 (Winter 1993; archive.org title: Holiday 1993) – Louie McCrady, "Take a Break: Pinball", p. 54](https://archive.org/details/InterAction_Magazine_Vol._VI_Number_3_Holiday_1993_1993_Sierra_On-Line_US) – "over 1000 animation sequences and 1.5 Megs of digitized speech"; grunching tips
 [^ref-26]: [PC Player (Germany) 9/93 – Boris Schneider, "Take-A-Break Pinball", pp. 88–89](https://archive.org/details/PC-Player-German-Magazine-1993-09) – rating 61; "Der hakelige Kugellauf kostet ganz schön Punkte"; controls, language detection, boss icon
 [^ref-27]: [PC Review #24 (October 1993) – Pinball Dreams vs. Take-a-Break Pinball, pp. 92–93](https://archive.org/details/pc-review-24) – unresizable window, music, "frankly I'd sooner play Solitaire"
-[^ref-28]: [Computer Gaming World #113 (December 1993) – "Take A Break! Crosswords, Volumes I & II" listing, p. 62](https://archive.org/details/Computer_Gaming_World_Issue_113) – Crosswords Volumes I & II reviewed in the same issue as the Pinball review; the vault's Crosswords page records a 750-puzzle edition
+[^ref-28]: [Computer Gaming World #113 (December 1993) – "Take A Break! Crosswords, Volumes I & II" listing, p. 62](https://archive.org/details/Computer_Gaming_World_Issue_113) – Crosswords Volumes I & II reviewed in the same issue as the Pinball review
 [^ref-29]: [InterAction Vol. VI No. 1 (Spring 1993) – "Coming up from Sierra Dynamix & Bright Star", p. 19](https://archive.org/details/017_InterAction_Volume_6_Number_1_June_1993) – working copy shown at the Consumer Electronics Show in Las Vegas; "scheduled to be released this spring"
-[^ref-30]: [Com Club (Finland) September 1993 – T. Pajari, "Take a Break Pinball", p. 30](https://archive.org/details/comclub199309) – Finnish review: slow on a 486, good tables and sound, "aika heppoinen tekele"; rating box on the page image
+[^ref-30]: [Com Club (Finland) September 1993 – T. Pajari, "Take a Break Pinball", p. 30](https://archive.org/details/comclub199309) – Finnish review: slow on a 486, good tables and sound, "aika heppoinen tekele"
