@@ -10,18 +10,18 @@ series: Diablo
 engine: Diablo engine
 protagonist: The Hero (Warrior, Rogue, Sorcerer, or Monk)
 sierra_lineage: Sierra Label (Synergistic)
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: 'Diablo: Hellfire is the only expansion pack released for Blizzard
   Entertainment''s 1996 action RPG Diablo, developed by Synergistic Software and published by Sierra On-Line in North America on November 24 or 25, 1997 (sources differ).'
 tags: [1990s, diablo, rpg, sierra]
 ---
 # Diablo: Hellfire
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
-Diablo: Hellfire is the only expansion pack released for Blizzard Entertainment's 1996 action RPG Diablo.[^ref-2] Sierra billed it as "the only authorized expansion pack available for Diablo,"[^ref-23] but it was not a Blizzard product: GOG.com notes that Hellfire "was not an official Blizzard product and did not carry Blizzard's endorsement or label."[^ref-9] Released in North America on November 24, 1997 according to MobyGames (Wikipedia gives November 25, 1997),[^ref-17][^ref-6] this single-player expansion was developed not by Blizzard North, but by [[Synergistic Software]], a studio Sierra On-Line had acquired in 1996.[^ref-20][^ref-15] MobyGames also lists 1997 releases in the United Kingdom, France, Italy and Poland, and a German release on January 3, 1998, all published by Sierra On-Line.[^ref-17] The expansion introduced a new playable character class—the Monk—along with two new dungeon tilesets, additional quests, new items including oils and runes, and a host of interface improvements that players would come to appreciate.[^ref-3]
+Diablo: Hellfire is the only expansion pack released for Blizzard Entertainment's 1996 action RPG Diablo.[^ref-2] Sierra billed it as "the only authorized expansion pack available for Diablo,"[^ref-23] but it was not a Blizzard product: GOG.com notes that Hellfire "was not an official Blizzard product and did not carry Blizzard's endorsement or label," although Blizzard later gave the OK for it to be included as a free add-on with Diablo purchases on GOG.COM.[^ref-9] Released in North America on November 24, 1997 according to MobyGames (Wikipedia gives November 25, 1997),[^ref-17][^ref-6] this single-player expansion was developed not by Blizzard North, but by [[Synergistic Software]], a studio Sierra On-Line had acquired in 1996.[^ref-29] MobyGames also lists 1997 releases in the United Kingdom, France, Italy and Poland, and a German release on January 3, 1998, all published by Sierra On-Line.[^ref-17] The expansion introduced a new playable character class—the Monk—along with two new dungeon tilesets, additional quests, new items including oils and runes, and a host of interface improvements that players would come to appreciate.[^ref-3]
 
 The expansion's storyline centers on Na-Krul, a demon who once ranked highly in Diablo's hierarchy before turning on his master.[^ref-4] When a sorcerer unknowingly performs a ritual that releases Na-Krul unto the town of Tristram, the player must venture into the demon's lair to stop this new threat.[^ref-6] Despite being designed as an optional, off-the-beaten-path addition to the original game's content, Hellfire became, according to Polygon's account of studio head [[Robert Clardy|Bob Clardy]]'s view, far and away Synergistic's most financially successful project.[^ref-20]
 
@@ -74,7 +74,7 @@ New item types significantly expand the equipment options available to players. 
 
 ### Contemporary Reviews
 
-Diablo: Hellfire generally received favorable reviews from the game magazines at the time, though critics noted significant shortcomings.[^ref-3] GameSpot awarded the expansion a 7.5 out of 10 (its page is stamped May 1, 2000, so the original publication date is unknown), with reviewer Desslock noting that "Hellfire fails to provide as compelling an experience as Diablo, but does provides a good quantity of new monsters, items, spells, and settings."[^ref-4] He particularly criticized the lack of multiplayer support as "an especially surprising omission considering that Diablo is one of the most popular multiplayer games of all time."[^ref-4]
+Diablo: Hellfire generally received favorable reviews from the game magazines at the time, though critics noted significant shortcomings.[^ref-3] GameSpot awarded the expansion a 7.5 out of 10, with reviewer Desslock noting that "Hellfire fails to provide as compelling an experience as Diablo, but does provides a good quantity of new monsters, items, spells, and settings."[^ref-4] He particularly criticized the lack of multiplayer support as "an especially surprising omission considering that Diablo is one of the most popular multiplayer games of all time."[^ref-4]
 
 Computer Gaming World's Scorpia gave Hellfire four stars out of five in the April 1998 issue. She listed "No multiplayer mode whatsoever" and an end boss who "is a big disappointment" among its cons, but concluded that "Hellfire is still a first-class job."[^ref-21] PC Games gave Hellfire an A- rating in Barry Brenesal's review, posted February 9, 1998.[^ref-24] Computer Games Strategy Plus also covered the expansion, with Cindy Yans reviewing it on January 16, 1998; she warned that "No multiplayer is implemented."[^ref-25] In its 1999 Premier Awards (April 1999), Computer Gaming World named Hellfire one of the "Other Add-On Finalists" for Best Add-on, an award won by StarCraft: Brood War.[^ref-22]
 
@@ -89,9 +89,8 @@ The Cynical Gaming Blog offers a positive retrospective assessment, calling Hell
 Phenixx Gaming awarded the Diablo/Hellfire bundle an 8.5 out of 10 in their 2020 retrospective, praising the package as "a masterwork of sound design, particularly when it comes to the music."[^ref-8]
 
 **Aggregate Scores:**
-- **GOG.com:** 4.6/5 (3,184 reviews, as of November 2026) – for Diablo bundle including Hellfire[^ref-9]
+- **GOG.com:** 4.6/5 (over 3,000 user reviews) – for Diablo bundle including Hellfire[^ref-9]
 - **Metacritic:** 8.6/10 User Score (39 reviews: 82% positive, 15% mixed, 3% negative) – for the Diablo + Hellfire bundle[^ref-12]
-- **MobyGames:** Moby Score 7.5/10 (68 votes); critic average 75% (22 reviews), as of November 2026[^ref-15]
 - **HowLongToBeat:** 71% Rating[^ref-26]
 
 ## Development
@@ -104,13 +103,15 @@ The expansion development was enabled through corporate relationships: in Februa
 
 ### Production
 
-Development of Hellfire was handled by Synergistic Software, a Sierra division. Blizzard North agreed to help on condition that it could "executive-produce it and get final approval on everything."[^ref-20] The project faced significant constraints from the outset, with Blizzard North limiting Synergistic to one new character class, eight dungeon levels in two new environment types, "a couple of music tracks," and a smattering of items and spells.[^ref-20] Blizzard North's David Brevik later said that "the Synergistic team did a pretty good job. There were just certain requests we made, and they were summarily ignored."[^ref-20]
+Development of Hellfire was handled by Synergistic Software, a Sierra division. Clardy recalled that "we were officially a part of Sierra, so it was actually Sierra that got the job."[^ref-20] Blizzard North agreed to help on condition that it could "executive-produce it and get final approval on everything."[^ref-20] The project faced significant constraints from the outset, with Blizzard North limiting Synergistic to one new character class, eight dungeon levels in two new environment types, "a couple of music tracks," and a smattering of items and spells.[^ref-20] Blizzard North's David Brevik later said that "the Synergistic team did a pretty good job. There were just certain requests we made, and they were summarily ignored."[^ref-20]
 
 The development timeline was extremely compressed: Synergistic was first asked to make the expansion in six weeks, and CUC later extended that deadline to four months.[^ref-20] The Diablo Archive wiki lists "a rushed development cycle" among Hellfire's criticisms, alongside pathfinding problems for ranged-attack monsters and bug fixes from Diablo patches that were not carried over, though it does not connect them causally.[^ref-3] Polygon reports that Synergistic finished ahead of schedule, yet Hellfire shipped "several months past Synergistic's initial due date."[^ref-20] The single character class Synergistic was permitted to add was the Monk; the Barbarian class was specifically vetoed by Blizzard North to preserve exclusivity for Diablo II.[^ref-20]
 
 **Development Credits:**[^ref-16]
 - **Designers:** Kirt Lemons, Donald Tsang, Peter Watje, Jim Edwards, Mike McMillen
+- **General Manager:** Robert C. Clardy
 - **Lead Programmer:** Donald Tsang
+- **Programmers:** Gary Powell, Jim Edwards
 - **Art Director:** Kirt Lemons
 - **Quest Text Writing:** Eve Forward
 - **Sound Effects/Mixing:** Craig Utterback
@@ -143,6 +144,11 @@ Most of the new monsters use original artwork rather than recolored Diablo monst
 - **Storage:** 1 GB
 - **Features:** High-resolution support via aspect ratio-correct upscaling
 
+**Gameplay Duration (Hellfire only)**[^ref-26]
+- **Main Story:** 4½ hours
+- **Main + Sides:** 8 hours
+- **Completionist:** 11 hours
+
 ### Cut Content
 
 A significant amount of proposed content was vetoed by Blizzard North during development.[^ref-6] Blizzard North producer Matt Householder recalled that "[t]oward the end of Hellfire's development, Synergistic had added a Barbarian player class" and that Blizzard demanded it be removed; Polygon's own narration, however, calls the Barbarian and Bard "leftovers from early in Hellfire's development," so the sources differ on when the class was added. Blizzard North was saving the Barbarian for Diablo II.[^ref-20] Both the Barbarian and a Bard class were left in the game code but hidden, accessible only through editing the Command.txt configuration file.[^ref-3][^ref-19]
@@ -158,7 +164,7 @@ Additional hidden or cut content includes:
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.00 | November 24, 1997 (Wikipedia: November 25) | Windows | Initial North American retail release[^ref-17][^ref-6] |
-| European releases | 1997 | Windows | United Kingdom (CUC Software International Ltd.), France (CUC Software International S.A.), Italy (Leader S.p.a.) and Poland (CD Projekt Sp. z o.o.), each distributed for Sierra On-Line, Inc.[^ref-17] |
+| European releases | 1997 (Wikipedia gives 1998) | Windows | United Kingdom (CUC Software International Ltd.), France (CUC Software International S.A.), Italy (Leader S.p.a.) and Poland (CD Projekt Sp. z o.o.), each distributed for Sierra On-Line, Inc.[^ref-17][^ref-6] |
 | German release | January 3, 1998 | Windows | Distributed by CUC Software International GmbH[^ref-17] |
 | 1.01 | January 13, 1998 | Windows | Sierra's only gameplay patch (MobyGames also lists a 1998-01-17 hotfix for European releases that enables installing it); fixed a small number of Hellfire-specific bugs[^ref-18][^ref-3] |
 | GOG Release | June 5, 2019 | Windows | Released as free add-on with Diablo purchase[^ref-6] |
@@ -191,17 +197,18 @@ Despite Blizzard's restrictions, Hellfire contains several hidden features and E
 - **The Cow Quest:** A hidden quest featuring a character called "Complete Nut" dressed in a cow suit, accessible through configuration file modifications.[^ref-3] Programmer Jim Edwards, who voiced the cow, called it "a tongue-in-cheek nod to the Internet rumor about the secret cow quest in Diablo."[^ref-20]
 - **The Theo Quest:** A hidden quest given by a little girl who appears near Adria's shack when enabled.[^ref-3]
 - **Cornerstone of the World:** A special tile that allows players to transfer items one at a time between their own saved games.[^ref-2]
-- **Title Removal:** Hellfire removes the "Diablo" title from the main menu entirely, renaming itself simply to "Hellfire"—a rebranding that struck many players as odd.[^ref-8]
+- **Title Removal:** Hellfire removes the "Diablo" title from the main menu entirely, renaming itself simply to "Hellfire"—a rebranding that Phenixx found "may be jarring for some."[^ref-8]
 - **StarCraft Dungeon:** One of Hellfire's dungeons was criticized for strongly resembling environments from StarCraft, though some fans defended this aesthetic choice as fitting the dark Diablo setting.[^ref-11]
 
-## Voice Cast
+### Voice Cast
 
 Hellfire keeps the original game's town characters and their recorded lines; one 1998 review complained of "the exact same NPCs (with one addition) who say exactly the same things."[^ref-25] Blizzard North also gave Synergistic unused dialogue audio that was already on Diablo's CD-ROM.[^ref-20] New voice work is credited to Jim Edwards, Eve Forward and Craig Utterback,[^ref-16] and Edwards recalled, "I was the voice of the cow."[^ref-20]
+
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Despite the contentious development process and lack of official Blizzard support, Hellfire was far and away Synergistic's most financially successful project, according to Bob Clardy as paraphrased by Polygon's David L. Craddock.[^ref-20] The expansion capitalized on Diablo's enormous popularity, providing additional content for a player base hungry for more dungeon-crawling action. However, Hellfire was not included in the Diablo Battle Chest compilation; instead, it received its own separate Diablo/Hellfire bundle release in 1998.[^ref-3][^ref-19]
+Despite the contentious development process and without Blizzard's endorsement or label, Hellfire was far and away Synergistic's most financially successful project, according to Bob Clardy as paraphrased by Polygon's David L. Craddock.[^ref-20] The expansion capitalized on Diablo's enormous popularity, providing additional content for a player base hungry for more dungeon-crawling action. However, Hellfire was not included in the Diablo Battle Chest compilation; instead, it received its own separate Diablo/Hellfire bundle release in 1998.[^ref-3][^ref-19]
 
 ### Collections
 
@@ -217,7 +224,7 @@ GOG's product page bills Diablo as "the most voted game on the GOG.com wishlist.
 
 The modern Diablo/Hellfire community has developed several projects to enhance the classic games:
 
-- **DevilutionX:** An engine port that provides quality-of-life improvements including native resolution widescreen support, modern control options, and cross-platform compatibility.[^ref-10]
+- **DevilutionX:** An engine port that provides quality-of-life improvements including native-resolution widescreen, automatic gold pickups and item highlighting.[^ref-10]
 
 ### Related Publications
 
@@ -235,12 +242,7 @@ From a historical perspective, Hellfire is a case study in the relationship betw
 
 **Purchase / Digital Stores**
 - [GOG.com](https://www.gog.com/en/game/diablo) – Included free with Diablo purchase
-- Battle.net – Available through Blizzard's official launcher since January 2024 (no store link given)[^ref-2]
-
-**Gameplay Duration (Hellfire only)**[^ref-26]
-- **Main Story:** 4½ hours
-- **Main + Sides:** 8 hours
-- **Completionist:** 11 hours
+- Battle.net – Available through Blizzard's official launcher since January 2024[^ref-2]
 
 ## See Also
 
@@ -259,17 +261,17 @@ From a historical perspective, Hellfire is a case study in the relationship betw
 [^ref-6]: [Wikipedia – Diablo: Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) – Development conflicts, Monk as only permitted class, Battle.net non-interference, GOG release (June 5, 2019)
 [^ref-7]: [HowLongToBeat – Diablo: Hellfire Reviews](https://howlongtobeat.com/game/2515/reviews/latest/1) – User reviews, town running feature, modern assessment quotes
 [^ref-8]: [Phenixx Gaming – Diablo Hellfire PC Review](https://web.phenixxgaming.com/2020/06/02/diablo-hellfire-pc-review/) – Review score, interface observations, title removal, Search spell importance
-[^ref-9]: [GOG.com – Diablo + Hellfire](https://www.gog.com/en/game/diablo) – "Not an official Blizzard product", "non-canonical" storyline, user rating (4.6/5, 3,184 reviews, as of November 2026), modern requirements, patch history, wishlist status
+[^ref-9]: [GOG.com – Diablo + Hellfire](https://www.gog.com/en/game/diablo) – "Not an official Blizzard product", "non-canonical" storyline, user rating (4.6/5, over 3,000 user reviews), modern requirements, patch history, wishlist status
 [^ref-10]: [Klardendum – O Tempora: Diablo Hellfire](https://klardendum.com/review/o-tempora-diablo-hellfire/) – DevilutionX mod, retrospective assessment of Hellfire
 [^ref-11]: [Cynical Gaming Blog – Diablo Hellfire Review](https://cynicalgamingblog.wordpress.com/2024/06/27/old-review-archive-diablo-hellfire-review/) – Retrospective assessment, StarCraft dungeon controversy, hidden classes
 [^ref-12]: [Metacritic – Diablo Hellfire Bundle](https://www.metacritic.com/game/diablo-hellfire-bundle/user-reviews/) – User score aggregate, review breakdown percentages
-[^ref-15]: [MobyGames – Hellfire](https://www.mobygames.com/game/1462/hellfire/) – Windows-only add-on, Sierra On-Line publisher, Festering Nest and Demon Crypt, included in Diablo + Hellfire (1998); Moby Score 7.5 (68 votes), critics 75% (22 reviews), as of November 2026
+[^ref-15]: [MobyGames – Hellfire](https://www.mobygames.com/game/1462/hellfire/) – Windows-only add-on, Sierra On-Line publisher, Festering Nest and Demon Crypt, included in Diablo + Hellfire (1998)
 [^ref-16]: [MobyGames – Hellfire: Windows credits](https://www.mobygames.com/game/1462/hellfire/credits/windows/) – Design team, lead programmer, art director, quest text writing (Eve Forward), voices (Jim Edwards, Eve Forward, Craig Utterback), manual
 [^ref-17]: [MobyGames – Hellfire: Releases](https://www.mobygames.com/game/1462/hellfire/releases/) – North American release Nov 24, 1997 (US and Canada); 1997 releases in the UK, France, Italy and Poland; Germany Jan 3, 1998
 [^ref-18]: [MobyGames – Hellfire: Patches](https://www.mobygames.com/game/1462/hellfire/patches/) – v1.01 patch dated 1998-01-13
 [^ref-19]: [MobyGames – Hellfire: Trivia](https://www.mobygames.com/game/1462/hellfire/trivia/) – Hidden Barbarian/Bard classes and two hidden quests via command.txt; Half-Life programmer interviews on the US release; "authorized add-on"; not in Diablo: Battle Chest
 [^ref-20]: [Polygon – How a Diablo expansion led to behind the scenes trouble](https://www.polygon.com/features/2018/6/29/17517376/diablo-hellfire-expansion-behind-the-scenes-trouble) – David L. Craddock, June 29, 2018: CUC's role, six-week to four-month schedule, Brevik and Householder quotes, Easter eggs, sales
-[^ref-21]: [Computer Gaming World #165 (April 1998), pp. 154–156: "Flame On" review by Scorpia](https://archive.org/details/Computer_Gaming_World_Issue_165) – Four stars; requirements sidebar (P60, 16MB RAM, 150MB); "No multiplayer mode whatsoever"; "still a first-class job"
+[^ref-21]: [Computer Gaming World #165 (April 1998), pp. 154–156: "Flame On" review by Scorpia](https://archive.org/details/Computer_Gaming_World_Issue_165) – Four stars; requirements sidebar (16MB RAM, 150MB); "No multiplayer mode whatsoever"; "still a first-class job"
 [^ref-22]: [Computer Gaming World #177 (April 1999), p. 102: Premier Awards, Best Add-on](https://archive.org/details/Computer_Gaming_World_Issue_177) – "Other Add-On Finalists: … Diablo: Hellfire, Sierra On-Line"
 [^ref-23]: [InterAction #35 (Summer 1998), p. 34: "Hellfire: The Dark Lord" by Eric Carlton](https://archive.org/details/inter-action-issue-35-summer-1998) – Sierra's own magazine: "the only authorized expansion pack available for Diablo"
 [^ref-24]: [PC Games – Hellfire review (Wayback Machine, 1999 capture)](https://web.archive.org/web/19990828231936/http://www.games.net/pcgames/articles/0,1034,1423,00.html?CHANNEL=pcgames&AD_SECTION=review) – Barry Brenesal, posted 2/09/1998: A- rating; P60, 16MB RAM, P133 recommended
@@ -277,3 +279,4 @@ From a historical perspective, Hellfire is a case study in the relationship betw
 [^ref-26]: [HowLongToBeat – Diablo: Hellfire](https://howlongtobeat.com/game/2515) – 71% rating; Main Story 4½ h, Main + Sides 8 h, Completionist 11 h
 [^ref-27]: [PC Gamer News, week of November 17, 1997 (Wayback Machine)](https://web.archive.org/web/19980218070402/http://www.pcgamer.com/news/news-1997-11-17.html) – "CUC owns two game companies: Sierra Online and Blizzard"
 [^ref-28]: [SEC EDGAR – CUC International Form 8-K (event date July 24, 1996)](https://www.sec.gov/Archives/edgar/data/723612/0000909518-96-000251.txt) – Davidson and Sierra mergers both consummated "On July 24, 1996, pursuant to an Agreement and Plan of Merger dated as of February 19, 1996"
+[^ref-29]: [Wikipedia – Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) – "Synergistic was acquired by Sierra On-Line in 1996."
