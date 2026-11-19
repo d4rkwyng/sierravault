@@ -10,7 +10,7 @@ series: Hoyle
 engine: Unknown
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Hoyle Blackjack was a 1996 Windows CD-ROM blackjack simulation developed
   and published by Sierra On-Line, with talking computer opponents, Tutorial, Tournament
   and Casino modes, and Internet play via the Sierra Internet Gaming System.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra, simulation]
 ---
 # Hoyle Blackjack
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -52,7 +52,7 @@ The flavour comes from the people at the table. MobyGames lists "the sultry Kath
 
 Players started with "$5,000 in chips and $5,000 in the bank", which they could draw on through an ATM in the casino[^ref-4]. MobyGames classes the game as first-person card play[^ref-6].
 
-A sample hand in that walkthrough shows the shoe at the top right of the screen. A yellow marker shows when the deck will be reshuffled[^ref-8]. Play instructions were supplied as a Windows help (.hlp) file on the CD-ROM rather than a printed manual[^ref-28].
+SierraChest's sample hand shows the shoe at the top right of the screen. A yellow marker shows when the deck will be reshuffled[^ref-8]. Play instructions were supplied as a Windows help (.hlp) file on the CD-ROM rather than a printed manual[^ref-28].
 
 ### Game Modes
 
@@ -66,7 +66,7 @@ GameSpot also mentions a tutorial and hint mode for beginners[^ref-4]. World Vil
 
 ### Rules and Options
 
-The game offered a choice of casino play styles and a style customizer[^ref-4]. Sourced options include:
+The game offered a choice of casino play styles and a style customizer[^ref-4]. Options include:
 
 - **Decks:** the number of decks at the table[^ref-4][^ref-6]
 - **Splits:** the number of splits allowed[^ref-4][^ref-6]
@@ -142,7 +142,7 @@ Sierra fans have debated how far the later Hoyle line belongs to "classic" Sierr
 
 ### Corporate Changes
 
-In a 2001 reorganization that closed the Dynamix studio, Sierra moved the Hoyle franchise, along with Tribes and SWAT, to its Bellevue, Washington studio[^ref-19][^ref-32]. Sierra president Michael Ryder said "this reorganization creates a more efficient operating model"[^ref-19]. GameSpot's archived copy carries a 2006 date stamp, but the reorganization was announced when Dynamix closed on 14 August 2001[^ref-32].
+In a 2001 reorganization that closed the Dynamix studio, Sierra moved the Hoyle franchise, along with Tribes and SWAT, to its Bellevue, Washington studio[^ref-19][^ref-32]. Sierra president Michael Ryder said "this reorganization creates a more efficient operating model"[^ref-19]. Dynamix was closed on August 14, 2001[^ref-32].
 
 ### Collections
 
@@ -225,7 +225,7 @@ A community upload of the 1996 game (an installer archive) is held at the Intern
 [^ref-6]: [MobyGames – Hoyle Blackjack (1996)](https://www.mobygames.com/game/45133/hoyle-blackjack/) - Developer/publisher, platform, description, opponents, related games
 [^ref-7]: [GameFAQs – Hoyle Blackjack (PC)](https://gamefaqs.gamespot.com/pc/197580-hoyle-blackjack) - Box description: tagline, Tutorial/Tournament/Casino modes, play options, Internet play
 [^ref-8]: [Sierra Chest – Hoyle BlackJack: Walkthrough](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=walkthrough) - In-game rules text and sample hand
-[^ref-19]: [GameSpot – Sierra reorganizes its operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - Dynamix closure; Hoyle moved to Bellevue Studio (page carries a 2006 date stamp)
+[^ref-19]: [GameSpot – Sierra reorganizes its operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - Dynamix closure; Hoyle moved to Bellevue Studio
 [^ref-21]: [IGDB – Hoyle Blackjack](https://www.igdb.com/games/hoyle-blackjack) — Internet Games Database entry, platform listing (PC Windows), publisher Sierra On-Line
 [^ref-22]: [LaunchBox Games Database – Hoyle Blackjack](https://gamesdb.launchbox-app.com/games/details/430427-hoyle-blackjack) — 1996, Windows, Sierra On-Line developer and publisher
 [^ref-24]: [MobyGames – Hoyle Blackjack credits (Windows)](https://www.mobygames.com/game/45133/hoyle-blackjack/credits/windows/) - 37 people; voices recorded at Clatter & Din; SIGS team
