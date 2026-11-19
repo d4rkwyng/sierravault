@@ -10,13 +10,13 @@ series: Stellar 7
 engine: Unknown/unnamed
 protagonist: Raven Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-19'
 description: Stellar-Fire is a first-person hovercraft combat game in the Stellar 7 series, released by Dynamix for the Sega CD in late 1993. MobyGames credits Infinite Laser Dog as developer.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar-Fire
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 19, 2026</small>
 
 ## Overview
 
@@ -39,7 +39,7 @@ Set in the year 2206, Stellar-Fire uses 3-D polygon graphics that run on the sta
 
 The manual sets the game in 2206. The Draxon, "a cybernetically linked race," seek to absorb the sentient life of the galaxy and "have conquered over ten-thousand worlds"; having shattered most of Earth's fleets, they are now advancing on Earth itself[^ref-13]. A last-ditch squadron of Earth's best remaining pilots is sent to strike at the Draxon home world, Arctura. The player flies a craft built by the secret Raven Projects, alongside wingmates Raela and Kritek[^ref-13].
 
-The plan is to slip through a weak shield at Arctura's outermost moon, Xarz Voor, and work inward moon by moon, disabling each layer of the shield around the home world[^ref-13]. The mission goes wrong in the asteroid field: Draxon interceptors kill Kritek, and a Draxon cruiser destroys Raela's ship, leaving the player as the only pilot left[^ref-13]. This setup is told in the game's FMV introduction, which Michael Dorn narrates[^ref-3][^ref-9]. Electronic Gaming Monthly's pre-release preview told the setup differently: it names the player's force "Stellar Force 7" and has "heavy fire" from the Arctura defense system cause the casualties, leaving only the player and Raela until a Draxon mothership destroys Raela's ship, with no mention of Kritek[^ref-23]. The manual's account above is the one used here. MobyGames describes the craft as a "hovermorph" that serves as a starfighter in space and transforms into a hovership when it approaches a moon's surface[^ref-2].
+The plan is to slip through a weak shield at Arctura's outermost moon, Xarz Voor, and work inward moon by moon, disabling each layer of the shield around the home world[^ref-13]. The mission goes wrong in the asteroid field: Draxon interceptors kill Kritek, and a Draxon cruiser destroys Raela's ship, leaving the player as the only pilot left[^ref-13]. This setup is told in the game's FMV introduction, which Michael Dorn narrates[^ref-3][^ref-9]. Electronic Gaming Monthly's pre-release preview told the setup differently: it names the player's force "Stellar Force 7" and has "heavy fire" from the Arctura defense system cause the casualties, leaving only the player and Raela until a Draxon mothership destroys Raela's ship, with no mention of Kritek[^ref-23]. MobyGames describes the craft as a "hovermorph" that serves as a starfighter in space and transforms into a hovership when it approaches a moon's surface[^ref-2].
 
 Each moon generates part of the shield around Arctura, so the player must defeat every moon in turn to reach the home world, where "whatever it is that binds the Draxon together" must be destroyed[^ref-13].
 
@@ -55,7 +55,7 @@ Button A fires the cannon (slower but stronger), button B the laser (faster but 
 
 The game has six stages: five moons and Arctura itself[^ref-13][^ref-18]. On each moon the player follows the Crystal Compass, collects the Moon Crystals, then blasts the Guardian Crystal to release that moon's Guardian, who must be defeated before the Raven can move on[^ref-13].
 
-**Stages** (terrain from the manual's map; the manual puts Xarz Voor first and Mok Zoh last, before Arctura, and the order of the middle three follows the Dynamix Wiki and Retro Game Wiki; Blaqthourne's review likewise calls Ta Eliab Vee the fourth stage and Arctura the last)[^ref-13][^ref-1][^ref-4][^ref-8]:
+**Stages** (terrain from the manual's map). The manual begins the attack on Xarz Voor, says Mok Zoh generates the shield around Arctura and that Ta Eliab Vee generates the shield around Mok Zoh[^ref-13], and InterAction's moon guide lists Nibor-Fren, Ta Eliab Vee and Mok Zoh in that order, with Mok Zoh as "your last challenge before arriving on Arctura itself"[^ref-16]:
 
 - **Xarz Voor:** The outermost moon, where the attack begins
 - **Zoreq:** Spire terrain
@@ -114,7 +114,7 @@ MobyGames lists Infinite Laser Dog as developer and Dynamix as publisher, and Se
 
 ### Production
 
-InterAction emphasized that the game's 3-D polygon graphics needed no extra chip: "Stellar Fire, however, makes use of the hardware found inside every Sega CD console"[^ref-16]. The full-motion video introduction, which GamePro called a "great opening sequence," mixes footage of actors in a cockpit with computer-generated space battles[^ref-18][^ref-10]. DieHard GameFan's earlier preview called it "The SGI intro" and said it "lasts for nearly 5 minutes"; that preview covered a pre-release build with "only one level complete," described the game as a "planet based, futuristic tank" shooter, and is used here only for the intro[^ref-24]. Michael Dorn, Worf on Star Trek: The Next Generation, narrates the opening cinematic[^ref-3][^ref-9]. A GameFAQs trivia note calls it "a bit part" that was "still promoted on the back of the box"[^ref-9].
+InterAction emphasized that the game's 3-D polygon graphics needed no extra chip: "Stellar Fire, however, makes use of the hardware found inside every Sega CD console"[^ref-16]. The full-motion video introduction, which GamePro called a "great opening sequence," mixes footage of actors in a cockpit with computer-generated space battles[^ref-18][^ref-10]. DieHard GameFan's earlier preview called it "The SGI intro" and said it "lasts for nearly 5 minutes"; that preview covered a pre-release build with "only one level complete," and described the game as a "planet based, futuristic tank" shooter[^ref-24]. Michael Dorn, Worf on Star Trek: The Next Generation, narrates the opening cinematic[^ref-3][^ref-9]. A GameFAQs trivia note calls it "a bit part" that was "still promoted on the back of the box"[^ref-9].
 
 In a February 1994 VideoGames interview (p. 11), Rhett Anderson said the game "was designed from scratch," that he "designed and wrote the entire 3-D system," and that it did not use Dynamix's 3Space graphic system. He described the engine as "a 3-D system optimized for the 68000 and optimized for this game." He also said he was pulled off Stellar Fire for a time to help with The Adventures of Willy Beamish, which he called "the sacrificial lamb that let Randy and me call the shots on Stellar Fire"[^ref-25].
 
@@ -125,6 +125,7 @@ In a February 1994 VideoGames interview (p. 11), Rhett Anderson said the game "w
 - **Writer:** John Garvin[^ref-6]
 - **Music and Sound:** Ken Rogers, Christopher Stevens. The Dynamix Wiki gives them this role; MobyGames lists both in the team[^ref-1][^ref-21]
 - **Narrator:** Michael Dorn[^ref-21][^ref-6]
+- **Cover illustration:** John Garvin, Peter Lewis[^ref-21]
 - **Artists:** John Garvin and Peter Lewis are among the artists the Dynamix Wiki lists, marked "plausible"[^ref-1]
 
 ### Technical Achievements
@@ -170,7 +171,7 @@ Michael Dorn, best known as Worf on Star Trek: The Next Generation, narrates the
 
 ### Sales and Commercial Impact
 
-No sales figures have been found. Sega-16 wrote in 2009 that "it's definitely been lost with the passing of time"[^ref-3].
+Sega-16 wrote in 2009 that "it's definitely been lost with the passing of time"[^ref-3].
 
 ### Collections
 
@@ -188,7 +189,8 @@ Reviewers of the day agreed on what Stellar-Fire did well, praising its sound an
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on digital platforms
+- Not available on digital platforms as of November 2026
+- [Stellar-Fire on GOG Dreamlist](https://www.gog.com/dreamlist/game/stellar-fire-1993) (community wishlist entry, not a store listing)[^ref-28]
 
 **Manuals & Extras**
 - [Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf)[^ref-13]
@@ -220,9 +222,10 @@ Reviewers of the day agreed on what Stellar-Fire did well, praising its sound an
 [^ref-19]: [Electronic Gaming Monthly #55, p. 42 – Review Crew: Major Mike's Game Roundup](https://archive.org/details/Electronic_Gaming_Monthly_55/page/n43/mode/1up) – "Dynamix / Sega CD", scores 6/7/4/4/6
 [^ref-20]: [Game Players #40, May 1994, p. 124 – Now Playing](https://archive.org/details/Game_Players_Issue_40_May_1994/page/n125/mode/1up) – "Dynamix for Sega CD; review, 7#3", Overall 82%
 [^ref-21]: [MobyGames – Stellar-Fire Credits](https://www.mobygames.com/game/27337/stellar-fire/credits/) – team list, Narrator: Michael Dorn
-[^ref-22]: [GameFan Vol. 1 #12, November 1993, p. 61 – Stellar-Fire](https://archive.org/details/GamefanVolume1Issue12/page/n60/mode/1up) – E. Storm; "Dynamix · 1 player · Sega CD · Nov."; positive review; "six moons" wording differs from the manual
+[^ref-22]: [GameFan Vol. 1 #12, November 1993, p. 61 – Stellar-Fire](https://archive.org/details/GamefanVolume1Issue12/page/n60/mode/1up) – E. Storm; "Dynamix · 1 player · Sega CD · Nov."; positive review
 [^ref-23]: [Electronic Gaming Monthly #52, November 1993, p. 262 – Stellar-Fire preview](https://archive.org/details/Electronic_Gaming_Monthly_52/page/n262/mode/1up) – unsigned preview; Fact File: Dynamix, Available December, 7 levels, 75% complete; 2206 premise
 [^ref-24]: [DieHard GameFan Vol. 1 #11, 1993 – Stellar-Fire preview](https://archive.org/details/diehard-gamefan-v1-n11/page/n38/mode/1up) – Talko; SGI intro of nearly 5 minutes; only one level complete at the time
 [^ref-25]: [VideoGames: The Ultimate Gaming Magazine #61, February 1994, p. 11 – "Come On Baby, Right My Fire"](https://archive.org/details/Video_Games_The_Ultimate_Gaming_Magazine_Issue_61_February_1994/page/n10/mode/1up) – Zach Meston and Mike Miles interview Rhett Anderson and Randy Thompson, lead programmers; custom 3-D engine (not 3Space), lossless 30 fps FMV, Tim Midkiff's graphics converter
 [^ref-26]: [Sega Visions, December/January 1994 (Issue 16), p. 59 – Stellar-Fire "Just Review It" preview](https://archive.org/details/Sega_Visions_Issue_16_December-January_1994/page/n60/mode/1up) – "NOT YET RATED"; "six moons and a planet"; five weapon types; Hot Hints
-[^ref-27]: [MobyGames – Stellar-Fire MobyRank, Wayback snapshot 2017-12-10](https://web.archive.org/web/20171210044256/http://www.mobygames.com/game/sega-cd/stellar-fire/mobyrank) – lists Video Games (Germany), Jan 1994, 63%, with a German-language excerpt; the original magazine scan was not located
+[^ref-27]: [MobyGames – Stellar-Fire MobyRank, Wayback snapshot 2017-12-10](https://web.archive.org/web/20171210044256/http://www.mobygames.com/game/sega-cd/stellar-fire/mobyrank) – lists Video Games (Germany), Jan 1994, 63%, with a German-language excerpt
+[^ref-28]: [GOG Dreamlist – Stellar-Fire](https://www.gog.com/dreamlist/game/stellar-fire-1993) – community wishlist entry for the game
