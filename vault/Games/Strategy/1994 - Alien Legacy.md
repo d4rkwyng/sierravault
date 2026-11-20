@@ -11,7 +11,7 @@ series: Standalone
 engine: null
 protagonist: Captain of UNS Calypso
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: Alien Legacy is a 1994 science fiction real-time strategy game for DOS, developed
   by Ybarra Productions under producer Joe Ybarra and published by Sierra On-Line, in which the
   captain of the seedship UNS Calypso colonizes the Beta Caeli system.
@@ -19,7 +19,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # Alien Legacy
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -97,7 +97,7 @@ The Finnish magazine **Pelit** (June 1994) gave the game **82%**. Reviewer Niko 
 
 ### Modern Assessment
 
-Modern retrospectives have been more divided. A 2024 GameFAQs user review by spiceworm gave the game only **4/10**, titled "Could Have Been So Much More," lamenting that "it really is a shame that the state this game was released in was so bad, as it had so much potential to be so much more"[^ref-6]. The same reviewer asserts, without naming the source, that a Sierra developer admitted in a 1995 interview that the game "was essentially unfinished at the time of release and was near unplayable" and that an executive wanted it shipped anyway[^ref-6]. SierraVault has not located any such interview, so this remains one user's unsourced claim.
+Modern retrospectives have been more divided. A 2024 GameFAQs user review by spiceworm gave the game only **4/10**, titled "Could Have Been So Much More," lamenting that "it really is a shame that the state this game was released in was so bad, as it had so much potential to be so much more"[^ref-6]. The same reviewer asserts, without naming the source, that a Sierra developer admitted in a 1995 interview that the game "was essentially unfinished at the time of release and was near unplayable" and that an executive wanted it shipped anyway[^ref-6]. SierraVault has not located any such interview, so this remains one user's unsourced claim. Writing in 2019, Jimmy Maher of *The Digital Antiquarian* placed the game among Sierra's rushed releases of the period, calling it "an ambitious attempt to combine strategy with adventure gaming" that "shipped unfinished and essentially unplayable"[^ref-36].
 
 MobyGames user "Afterburner" wrote in 2001 that the game "made me feel like I really was colonizing wildly disparate environments in a solar system light years from Earth. It had an immersiveness for me that no other game in the 'colonize remote planets' genre has provided"[^ref-1]. However, he called it "a game that toyed with greatness, but was gutted by bugs"[^ref-1]. User "Shoddyan" noted in 2003 that "the CDROM version fixes many if not most of the bugs that plagued the disk version"[^ref-1].
 
@@ -310,3 +310,4 @@ Alien Legacy is remembered as an ambitious hybrid of colony management, planetar
 [^ref-33]: [InterAction Magazine, Vol. VII No. 1, Fall 1994, pp. 30–31](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US/page/n30) – Sierra's preview: StarFlight/Star Control II lineage (p. 30, [scan](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994_1994_Sierra_On-Line_US/page/n29)), "multiple SimCities" and Outpost contrast (p. 31); "New releases featured in this issue" list
 [^ref-34]: [PC Zone #37, April 1996, back-issue index (scan page 122)](https://archive.org/details/PC_Zone_37_April_1996/page/n121) – Issue 20 (November 1994) review: 80, Recommended
 [^ref-35]: [Computer Gaming World #122, September 1994, Sierra advertisement (p. 16)](https://archive.org/details/computer-gaming-world-issue-122-september-1994/page/n17) – "You're not the first human to battle the ancient alien legacy. But if you lose, you'll be the last."
+[^ref-36]: [Jimmy Maher – "The Mortgaging of Sierra Online", The Digital Antiquarian (July 2019)](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Alien Legacy "shipped unfinished and essentially unplayable"
