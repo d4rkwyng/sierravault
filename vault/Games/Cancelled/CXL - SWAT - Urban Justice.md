@@ -10,7 +10,7 @@ series: SWAT
 engine: Takedown 3D
 protagonist: SWAT Officer
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: 'SWAT: Urban Justice was a tactical shooter developed by Sierra Entertainment
   as the fourth installment in the SWAT franchise; work on it was discontinued in
   April 2004 in favor of SWAT 4.'
@@ -18,7 +18,7 @@ tags: [shooter, sierra, swat]
 ---
 # SWAT: Urban Justice
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -159,7 +159,7 @@ Despite never being released, SWAT: Urban Justice lives on through an in-game re
 
 - **SWAT 4 Arcade Cabinet:** In SWAT 4's Victory Imports Auto Center mission (IMDb trivia, as quoted by Unseen64, calls it "Victory Imports Auto Garage"), an arcade game called "SWAT: Urban Justice" appears in the waiting room.[^ref-1][^ref-19][^ref-13] Unseen64, quoting IMDb trivia, notes: "This is a company in-joke; Urban Justice was supposed to be Sierra/Vivendi's follow up to SWAT 3: Close Quarter Battle (1999)."[^ref-6]
 
-- **NOLF2 Trailer:** The Police Quest Omnipedia (the only source for this) reports a 2002 promotional trailer for Urban Justice on Disc 2 of No One Lives Forever 2.[^ref-1]
+- **NOLF2 Trailer:** The Police Quest Omnipedia reports a 2002 promotional trailer for Urban Justice on Disc 2 of No One Lives Forever 2.[^ref-1]
 
 - **ESRB Rating:** GameSpy lists an ESRB rating of M for Mature with content descriptors for Blood, Strong Language, and Violence.[^ref-3]
 
@@ -195,7 +195,7 @@ GameSpot's report was that work on Urban Justice was discontinued in favor of SW
 [^ref-1]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation, SWAT 4 arcade easter egg ("Victory Imports Auto Center"), NOLF2 Disc 2 trailer
 [^ref-2]: [IGN – SWAT: Urban Justice](https://www.ign.com/games/swat-urban-justice) – game setting, designer credits, feature descriptions
 [^ref-3]: [GameSpy – SWAT: Urban Justice](http://pc.gamespy.com/pc/swat-urban-justice/) – mission count, "mission, career or multiplayer modes" wording, ESRB rating, gang warfare setting
-[^ref-4]: [Gamekult – S.W.A.T. Urban Justice](https://www.gamekult.com/jeux/s-w-a-t-urban-justice-17850.html) – development delays ("en suspens ?" 10/03/04, "pas avant 2004" 05/03/03, "Sierra retarde Urban Justice avec Malice" 03/10/02), "l'épisode le plus décalé" description (04/09/02; gloss uncertain)
+[^ref-4]: [Gamekult – S.W.A.T. Urban Justice](https://www.gamekult.com/jeux/s-w-a-t-urban-justice-17850.html) – development delays ("en suspens ?" 10/03/04, "pas avant 2004" 05/03/03, "Sierra retarde Urban Justice avec Malice" 03/10/02), "l'épisode le plus décalé" description (04/09/02)
 [^ref-5]: [GameSpot – SWAT: Urban Justice](https://www.gamespot.com/games/swat-urban-justice/) – platform, developer/publisher, no Metacritic score
 [^ref-6]: [Unseen64 – SWAT: Urban Justice [PC - Cancelled]](https://www.unseen64.net/2010/09/13/swat-urban-justice-pc-cancelled/) – 2001/2002 development, quotes GameSpot's VU statement and IMDb trivia on the SWAT 4 in-joke, "Coming Soon" 2002, reader poll (9 votes)
 [^ref-7]: [UOL Start – SWAT: Urban Justice Preview](https://www.uol.com.br/start/previas/2002/02/22/swat-urban-justice.htm) – "Takedown 3D" engine name, technical specifications, weapons list, gang names, equipment details
@@ -219,4 +219,4 @@ GameSpot's report was that work on Urban Justice was discontinued in favor of SW
 [^ref-27]: [Gameswelt – SWAT: Urban Justice news index](https://www.gameswelt.de/swat-urban-justice/news) – German; "Projekt eingestellt?" 10 Mar 2004: Sierra "offenbar eingestellt", dropped from its product catalog, no official statement; "Keine Veröffentlichung mehr in diesem Jahr" 5 Mar 2003
 [^ref-28]: [IGN – Missing in Action: The Lost Games of the PC, Part 1](https://www.ign.com/articles/2004/03/26/missing-in-action-the-lost-games-of-the-pc-part-1) – 26 Mar 2004: after checking with Mike Larson at VU Games, "still no solid date for Urban Justice", Summer 2005 rumor "not true", "an entirely new SWAT title, separate from Urban Justice, is in development"
 [^ref-29]: [IGN – SWAT: Urban Justice Announced](https://www.ign.com/articles/2002/02/19/swat-urban-justice-announced) – 19 Feb 2002: "Look for the final version to hit stores sometime in September"; "the new Takedown engine"
-[^ref-30]: [MobyGames – SWAT: Urban Justice](https://www.mobygames.com/game/258482/swat-urban-justice/) – Windows platform record, undated (read via the MobyGames API)
+[^ref-30]: [MobyGames – SWAT: Urban Justice](https://www.mobygames.com/game/258482/swat-urban-justice/) – Windows platform record, undated
