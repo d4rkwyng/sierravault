@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: Proprietary (Dynamix)
 protagonist: Player-created angler
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: Trophy Bass is a 1995 bass fishing simulation developed by Dynamix and
   published by Sierra On-Line for Windows and Macintosh, endorsed by the Bass Anglers
   Sportsman Society and set on five real American bass lakes.
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -129,11 +129,14 @@ Klett wrote that "Sierra has made every effort to accurately model bass habitat 
 - **Producer / Designer:** Randy Dersham
 - **Lead Programmer:** Steven D. Letsom
 - **Art Directors:** Shawn Bird, [[Brian Hahn]][^ref-3]
+- **Technical Wizardry:** Richard Rayl[^ref-3]
 - **Programmers:** Richard Rayl, Becky Jones, William Cupps[^ref-3]
+- **Macintosh Programmer:** Jon Milnes[^ref-3]
 - **Writer:** Michael Waite
 - **Music and Sounds:** Neal Grandstaff, Ken Rogers
 - **Bass Fishing Pros:** Larry Nixon, Denny Brauer, Kevin VanDam, George Cochran
 - **Bass Pro Consultant:** Jeff Boyer
+- **Coordination Management:** Country World Productions (Tim Manion, Erin Winter)[^ref-3]
 
 ### Voice Cast
 
@@ -268,4 +271,4 @@ MobyGames lists Trophy Bass as included in six compilations: 3 Free (King's Ques
 [^ref-42]: [PC Gamer #16 (September 1995), "Eyewitness" news section, Trophy Bass preview (Internet Archive scan)](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n45/mode/2up) – "Sierra On-Line's first-ever fishing simulation", slated for fall release, comparison with Gone Fishin'
 [^ref-43]: [GameSpot – Trophy Bass Review (Hugo Foster, May 1, 1996)](https://www.gamespot.com/reviews/trophy-bass-review/1900-2535346/) – 7.6 score and verdict
 [^ref-44]: [CNET Gamecenter – "Trophy Bass 3D Hits the Shelves" (Bill McClendon, July 6, 1999; Archive.org)](https://web.archive.org/web/20000817165812/http://www.gamecenter.com/News/Item/0,3,0-2946,00.html) – predecessors sold more than 1.5 million copies; Trophy Bass 3D's 15 lakes and 30 species
-[^ref-45]: [MobyGames – Trophy Bass 2 Deluxe](https://www.mobygames.com/game/20481/) – Windows and Windows 16-bit releases dated 1998 (read via the MobyGames API)
+[^ref-45]: [MobyGames – Trophy Bass 2 Deluxe](https://www.mobygames.com/game/20481/) – Windows and Windows 16-bit releases dated 1998
