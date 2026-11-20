@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI1
 protagonist: Player-selected avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 composer: [Robert Atesalp]
 description: Hoyle Official Book of Games Volume 3, subtitled "Great Board Games,"
   is Sierra On-Line's 1991 collection of six board and dice games (Checkers, Backgammon,
@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 3
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -50,7 +50,7 @@ Compute! reported that the heroes are "arranged in order of their difficulty as 
 
 ### Interface and Controls
 
-Play is point-and-click. Checkers pieces are dragged to the target square, Backgammon dice are rolled by clicking the dice cup, and Pachisi pawns are dragged around the board[^ref-28]. The icon bar holds CONTROL (Games, Quit, Replay, About, Help), OPTIONS, SCORE, RULES and HELP, and each game's rules can be read on screen[^ref-28]. Compute! listed a mouse as "recommended"[^ref-29], and MobyGames lists the mouse as the input device and an analog joystick as a supported controller type, read via the MobyGames API[^ref-31]. PC Joker found mouse control flawless but called joystick control "die reinste Qual" ("sheer torture")[^ref-34].
+Play is point-and-click. Checkers pieces are dragged to the target square, Backgammon dice are rolled by clicking the dice cup, and Pachisi pawns are dragged around the board[^ref-28]. The icon bar holds CONTROL (Games, Quit, Replay, About, Help), OPTIONS, SCORE, RULES and HELP, and each game's rules can be read on screen[^ref-28]. Compute! listed a mouse as "recommended"[^ref-29], and MobyGames lists the mouse as the input device and an analog joystick as a supported controller type[^ref-31]. PC Joker found mouse control flawless but called joystick control "die reinste Qual" ("sheer torture")[^ref-34].
 
 ### Structure and Progression
 
@@ -259,7 +259,7 @@ Volume 3 has had little critical attention, but contemporary and later reviewers
 [^ref-28]: [Internet Archive – Hoyle Official Book of Games Volume 3 paper instructions](https://archive.org/details/hoyle-offical-book-of-games-v3-instructions) – box and instruction booklet scans: game list, options, 18 opponents, skill levels, credits
 [^ref-29]: [Compute! Issue 143 (August 1992), pp. 106–108](https://archive.org/details/1992-08-compute-magazine) – Alfred C. Giovetti review of Hoyle's Official Book of Games, Volume 3
 [^ref-30]: [InterAction Vol. 4 No. 3 (Fall 1991)](https://archive.org/details/012_InterAction_Volume_4_Number_3_Fall_1991) – Sierra's magazine on Hoyle 3: multiplayer option, game descriptions, skill range
-[^ref-31]: [MobyGames – Hoyle: Official Book of Games - Volume 3](https://www.mobygames.com/game/2124/hoyle-official-book-of-games-volume-3/) – overview, platforms, specs (media, input, minimum CPU), DOS patch listing; read via the MobyGames API
+[^ref-31]: [MobyGames – Hoyle: Official Book of Games - Volume 3](https://www.mobygames.com/game/2124/hoyle-official-book-of-games-volume-3/) – overview, platforms, specs (media, input, minimum CPU), DOS patch listing
 [^ref-32]: [MobyGames – Hoyle 3 DOS credits](https://www.mobygames.com/game/2124/hoyle-official-book-of-games-volume-3/credits/dos/) – game designers, lead programmer, composer, producer
 [^ref-33]: [MobyGames – Hoyle 3 releases](https://www.mobygames.com/game/2124/hoyle-official-book-of-games-volume-3/releases/) – DOS 1991, Amiga 1992, 1995 value-priced release
 [^ref-34]: [MobyGames – Hoyle 3 reviews](https://www.mobygames.com/game/2124/hoyle-official-book-of-games-volume-3/reviews/) – PC Joker (Feb 1992) 55%, Alle PC Spiele (1993) citation, player rating 4.0/5
