@@ -10,7 +10,7 @@ series: Red Baron
 engine: Stainless™ Software Engine Technology
 protagonist: Unnamed WWI Pilot
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: Red Baron Arcade is an arcade-style World War I flight combat game developed
   by Stainless Games Ltd. and published by Sierra Entertainment, released for Windows in
   February 2008 and on the PlayStation Network in March 2009.
@@ -18,7 +18,7 @@ tags: [2000s, red-baron, sierra, simulation]
 ---
 # Red Baron Arcade
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -197,7 +197,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 ## Purchase
 
 **Purchase / Digital Stores**
-- As of November 2026, no Steam or GOG listing found; PlayStation Store status not verified. Mad Otter Games' Red Baron Pack on Steam and GOG is a different product (the original Red Baron, Red Baron 3D and the Mission Builder)[^ref-30].
+- As of November 2026, Red Baron Arcade has no Steam or GOG listing. Mad Otter Games' Red Baron Pack on Steam and GOG is a different product (the original Red Baron, Red Baron 3D and the Mission Builder)[^ref-30].
 
 ## Downloads
 
@@ -221,7 +221,7 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 
 [^ref-1]: [MobyGames – Red Baron: Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – developer, publisher, engine, platforms, release dates, official description
 [^ref-2]: [IGN – Red Baron Arcade Review (PC)](https://www.ign.com/articles/2008/07/25/red-baron-arcade-review-2) – PC review score 5.8, gameplay criticism, release date
-[^ref-3]: Gas Bandit Gaming (blog) – "Review: Red Baron Arcade", 2 April 2008 – B+ grade, control modes, 23 missions, 8 unlockable planes, $19.99 pricing, joystick recommendation
+[^ref-3]: [Gas Bandit Gaming (blog) – "Review: Red Baron Arcade", 2 April 2008](http://gasbandit.blogspot.com/2008/04/review-red-baron-arcade.html) – B+ grade, control modes, 23 missions, 8 unlockable planes, $19.99 pricing, joystick recommendation
 [^ref-4]: [GameFAQs – Red Baron Arcade](https://gamefaqs.gamespot.com/ps3/952621-red-baron-arcade/data) – release dates, ESRB rating, multiplayer specs, official description
 [^ref-5]: [Internet Archive – Red Baron Arcade](https://archive.org/details/red-baron_202304) – disc image download; the item description is the uploader's pasted text
 [^ref-6]: [GamesRadar+ – Red Baron Arcade Review](https://www.gamesradar.com/red-baron-arcade-review/) – PS3 review (Aug 11, 2009); delay after Activision absorbed Sierra, technical issues, critical quotes
@@ -247,4 +247,4 @@ Players made the same comparison. As one Amazon customer reviewer put it, "its n
 [^ref-27]: [Kotaku – Red Baron Rules The PlayStation Network Skies](https://kotaku.com/red-baron-rules-the-playstation-network-skies-5168622) – Mike Fahey, 12 Mar 2009: release-day report; "Voted the 4th best PC game of all time by Computer Gaming World in 1996"
 [^ref-28]: [Gamasutra via Wayback (captured 2009-09-11)](https://web.archive.org/web/20090911223623/https://www.gamasutra.com/php-bin/news_index.php?story=25194) – "Earlier this year, Sierra released a poorly-received new game, Red Baron Arcade, to PlayStation 3 via PlayStation Network"
 [^ref-29]: [Wikipedia – Red Baron (1981 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1981_video_game)) – Atari arcade game; infobox release May 1981
-[^ref-30]: [Steam – Red Baron Pack (app 263940)](https://store.steampowered.com/app/263940/) – Mad Otter Games collection of the original Red Baron, Red Baron 3D and the Mission Builder; read via the Steam appdetails API, 2026-11-12
+[^ref-30]: [Steam – Red Baron Pack (app 263940)](https://store.steampowered.com/app/263940/) – Mad Otter Games collection of the original Red Baron, Red Baron 3D and the Mission Builder
