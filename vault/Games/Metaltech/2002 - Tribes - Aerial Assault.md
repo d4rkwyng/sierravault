@@ -10,7 +10,7 @@ series: Tribes
 engine: null
 protagonist: J. Ransom
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 composer: [Timothy Steven Clark]
 description: 'Tribes: Aerial Assault is a 2002 online first-person shooter for the PlayStation
   2, developed by Inevitable Entertainment and published by Sierra Entertainment as
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, tribes]
 ---
 # Tribes: Aerial Assault
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -76,7 +76,7 @@ Reviews were mixed to positive. Metacritic rates the game 73 out of 100, "Mixed 
 
 GameSpot's Ryan Mac Donald rated it 7.2 ("Good"), concluding that "Broadband-enabled PS2 owners will find that Tribes Aerial Assault is a fun, tactics-oriented online first-person shooter with some impressive technical features."[^ref-16] IGN's David Smith also gave it 7.2 and said that the single-player mode was "not enough to justify the purchase price on its own".[^ref-10]
 
-GameZone's Louis Bedigian scored it 8.5 out of 10.[^ref-22] PSM's Stephen Frost rated it "Very Good" (listed by Metacritic as 80 out of 100, or 8 out of 10), saying playing online was "amazingly fun and addictive".[^ref-24][^ref-29] Wikipedia also lists a 3.5 out of 5 from PlayStation: The Official Magazine.[^ref-1]
+GameZone's Louis Bedigian scored it 8.5 out of 10.[^ref-22] PSM's Stephen Frost rated it "Very Good" (listed by Metacritic as 80 out of 100, and by Wikipedia as 8 out of 10), saying playing online was "amazingly fun and addictive".[^ref-24][^ref-29] Wikipedia also lists a 3.5 out of 5 from Joe Rybicki in Official U.S. PlayStation Magazine.[^ref-1]
 
 ### Modern Assessment
 
