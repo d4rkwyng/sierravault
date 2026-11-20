@@ -10,7 +10,7 @@ series: After Dark
 engine: Assembly language and C
 protagonist: N/A
 sierra_lineage: Acquired Franchise
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: After Dark is the screensaver series Berkeley Systems introduced for
   the Macintosh in 1989 and for Windows in 1991, home of the Flying Toasters; CUC International, Sierra
   On-Line's parent, acquired Berkeley Systems in April 1997.
@@ -18,7 +18,7 @@ tags: [1980s, after-dark, screensaver, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -79,9 +79,9 @@ A SuperUser answer says that After Dark 4.0 screensavers are 32-bit, while earli
 
 - **1.0 (1989)**: Macintosh release with line-art modules; a November 1989 *Macworld* mail-order listing offers "After Dark 1.0" for $25[^ref-9][^ref-31][^ref-80]
 - **1.1 (by March 1990)**: a March 1990 *Macworld* mail-order listing offers "After Dark 1.1" for $25[^ref-81]
-- **Windows 1.0 (March 1991)**: first Windows release, with 35 screen savers at $49.95 according to TechRepublic[^ref-9][^ref-71]
 - **2.0 (Macintosh, by October 1990)**: added the Flying Toasters and other character modules[^ref-31]. *Macworld*'s October 1990 mail-order catalog lists "After Dark 2.0"[^ref-79], and in December 1990 *MacUser* reported that After Dark "has been upgraded to version 2.0 and now includes 30 modules, some of which have sound"[^ref-72]. TidBITS later described an updater for "your 2.0-or-later copy" in August 1991[^ref-65]
-- **3.0 (1994)**: *Macworld*'s September 1994 news item said it shipped with 30 screen-saver modules, 15 of them new, including Bad Dog, Fish Pro and Flying Toasters Pro (with a sing-along feature), plus the EcoLogic energy-saving features, at a street price around $29[^ref-84]. *MacUser* listed it in October 1994 at $50, with pro versions of Fish and Flying Toasters, the latter with a karaoke anthem[^ref-85]
+- **Windows 1.0 (March 1991)**: first Windows release, with 35 screen savers at $49.95 according to TechRepublic[^ref-9][^ref-71]
+- **3.0 (1994)**: *Macworld*'s September 1994 news item said it came with 30 screen-saver modules, 15 of them new, including Bad Dog, Fish Pro and Flying Toasters Pro (with a sing-along feature), plus the EcoLogic energy-saving features, and should be "shipping now" at a street price around $29[^ref-84]. *MacUser* listed it in October 1994 at $50, with pro versions of Fish and Flying Toasters, the latter with a karaoke anthem, and new concepts such as "the twisted trivia game You Bet Your Head"[^ref-85]
 - **3.2 (1995)**[^ref-9]
 - **4.0 (1996)**: latest release in Wikipedia's infobox; it brought back Eastman's original toaster art as "ProtoToasters"[^ref-9][^ref-31]
 - **Sierra era (from 1997)**: repackaged as After Dark Classic, Deluxe, Midnight Edition and others[^ref-31]
@@ -98,7 +98,7 @@ Under Sierra, Berkeley Systems and Sierra Attractions also released *After Dark 
 
 ## Downloads
 
-No legitimate store sale and no download link has been verified for the 1989 release. There is no GOG or Steam listing (checked November 2026), and the official Infinisys Mac OS X remakes are no longer sold. For the 1998 game collection, see [[1998 - After Dark Games]].
+No legitimate store sale and no download link has been verified for the 1989 release. As of November 2026 there is no GOG or Steam listing, and the official Infinisys Mac OS X remakes are no longer sold. For the 1998 game collection, see [[1998 - After Dark Games]].
 
 ## See Also
 
