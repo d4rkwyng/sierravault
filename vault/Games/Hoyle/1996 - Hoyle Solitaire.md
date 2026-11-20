@@ -10,7 +10,7 @@ series: Hoyle
 engine: SCI2.1
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 composer: [Johnathan Cunningham]
 description: Hoyle Solitaire is a 1996 Sierra On-Line card game collection, the Windows
   version of Hoyle Official Book of Games Volume 2 with its 28 solitaire games.
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sci, sierra]
 ---
 # Hoyle Solitaire
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -45,7 +45,7 @@ As a solitaire card game collection, Hoyle Solitaire does not feature a narrativ
 
 The Hoyle series itself was already established in Sierra's catalog. The franchise began in 1989 with *Hoyle's Official Book of Games: Volume 1*, which featured Sierra game characters as computer opponents—players could compete against the likes of Leisure Suit Larry and Princess Rosella.[^ref-3] While Volume 1 featured multiplayer card games with these humorous opponents, *Volume 2* and *Hoyle Solitaire* are one-player solitaire collections; MobyGames describes Hoyle Solitaire as the Windows version of *Volume 2*.[^ref-1]
 
-GameSpot's reviewer closed by urging readers to "Take a break from the shoot-em-ups and God games – play a little solitaire!"[^ref-5] Sierra's Summer 1996 *InterAction* made a similar pitch for the bonus game: "If you ever want a break from Solitaire, try the addicting and simpl[e]-to-play [C]ard [F]lick game."[^ref-23]
+GameSpot's reviewer closed by urging readers to "Take a break from the shoot-em-ups and God games – play a little solitaire!"[^ref-5] Sierra's Summer 1996 *InterAction* made a similar pitch for the bonus game: "If you ever want a break from Solitaire, try the addicting and simple-to-play Card Flick game."[^ref-23]
 
 ## Gameplay
 
@@ -108,13 +108,13 @@ Sierra Chest's walkthrough warns that the Card Flick bonus game is "quite addict
 
 ### Modern Assessment
 
-MyAbandonware's listing for the 1998 Windows release (also covering Windows 3.x and Mac) has a user rating of **3.9 out of 5** from 8 votes (checked November 12, 2026).[^ref-11] Its separate listing for the 2000 *Hoyle Solitaire* has **4.4 out of 5**.[^ref-17] MobyGames gives a critic average of **64%** from five ratings.[^ref-1]
+MyAbandonware's listing for the 1998 Windows release (also covering Windows 3.x and Mac) has a user rating of **3.9 out of 5** from 8 votes as of November 2026.[^ref-11] Its separate listing for the 2000 *Hoyle Solitaire* has **4.4 out of 5**.[^ref-17] MobyGames gives a critic average of **64%** from five ratings.[^ref-1]
 
 Fan views of the later Hoyle titles are mixed. In a 2010 Sierra Gamers forum thread, user C_Guy wrote that "Hoyle" made him think of "the first three in the series which I played a lot. Definitely Sierra classics." He added that the many later titles "aren't really an important part of the Sierra we know and love."[^ref-12]
 
 **Aggregate Scores:**
 - **MobyGames:** 64% (Critics)[^ref-1]
-- **MyAbandonware:** 3.9/5, 8 votes, checked November 12, 2026 (1998 Windows listing)[^ref-11], 4.4/5 (2000 version)[^ref-17]
+- **MyAbandonware:** 3.9/5, 8 votes as of November 2026 (1998 Windows listing)[^ref-11], 4.4/5 (2000 version)[^ref-17]
 - **WildTangent:** 3.5/5 (later Hoyle Solitaire & More)[^ref-13]
 - **GameFAQs:** "Good" (2 user ratings for Solitaire and Mahjong Tiles)[^ref-14]
 
@@ -227,7 +227,7 @@ Under Vivendi Universal, a later Sierra reorganization plan said the Bellevue, W
 
 ### Collections
 
-Sierra and, later, Encore released other Hoyle solitaire products. No source consulted says that they reuse this game's content:
+Sierra and, later, Encore released other Hoyle solitaire products:
 
 - **Hoyle Solitaire and Mahjong Tiles** (2000) - a later Hoyle solitaire and mahjong product[^ref-14]
 - **Hoyle Solitaire & More** (2013) - an Encore release with "50 variations of Solitaire, Memory, Spite & Malice and more"[^ref-13]
@@ -328,10 +328,10 @@ The Hoyle series ran from 1989's *Volume 1* through Encore's 2013 *Hoyle Solitai
 [^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, development, sales figures, Edmond Hoyle background
 [^ref-4]: [GameFAQs – Hoyle Franchise](https://web.archive.org/web/20251231053743/https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – marketing taglines, version information (Wayback copy, 2025-12-31)
 [^ref-5]: [GameSpot – Hoyle Solitaire Review](https://www.gamespot.com/reviews/hoyle-solitaire-review/1900-2558794/) – review score, quotes, gameplay description; first published 1996-08-07, updated 2000-05-01
-[^ref-6]: [Internet Archive – Hoyle Solitaire](https://archive.org/details/win3_HoyleSol) – disk-image preservation item (its description repeats MobyGames text, so facts are cited to MobyGames)
+[^ref-6]: [Internet Archive – Hoyle Solitaire](https://archive.org/details/win3_HoyleSol) – disk-image preservation item
 [^ref-7]: [PCGamingWiki – Hoyle Solitaire](https://www.pcgamingwiki.com/wiki/Hoyle_Solitaire) – engine information, platform support
 [^ref-9]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – gameplay details, features, release date
-[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – 1998 Windows listing (aka Hoyle Classic Solitaire), user rating (3.9/5, 8 votes, checked 2026-11-12), download
+[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – 1998 Windows listing (aka Hoyle Classic Solitaire), user rating (3.9/5, 8 votes), download
 [^ref-12]: [Sierra Gamers Forum – Sierra Classics Discussion](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – fan perspectives on Hoyle series
 [^ref-13]: [WildTangent – Hoyle Solitaire & More](https://www.wildtangent.com/p/cards/hoyle-solitaire-more) – system requirements, 2013 release, publisher
 [^ref-14]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles](https://web.archive.org/web/20251001065732/https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles) – April 22, 2000 release, ratings (Wayback copy, 2025-10-01)
@@ -342,7 +342,7 @@ The Hoyle series ran from 1989's *Volume 1* through Encore's 2013 *Hoyle Solitai
 [^ref-20]: [GameSpot – Sierra Reorganizes Its Operations](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – Vivendi/Sierra restructuring, Bellevue Studio
 [^ref-21]: [ScummVM – Compatibility 2.1.0: Hoyle Solitaire](https://www.scummvm.org/compatibility/2.1.0/sci:hoyle5solitaire/) – ScummVM ID hoyle5solitaire, support level "Good", Windows; absent from the 2.0.0 list
 [^ref-22]: [Computer Gaming World Issue 67 (January 1990)](https://archive.org/details/Computer_Gaming_World_Issue_67) – Michael S. Lasky's review of Hoyle Official Book of Games, Volume 1 (scan)
-[^ref-23]: [InterAction Magazine, Summer 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) – Sierra's own magazine: Hoyle Solitaire listed "Available Now", $14.95, WIN95 CD and WIN 3.1 CD; Card Flick (scan; OCR partly garbled)
+[^ref-23]: [InterAction Magazine, Summer 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Summer_1996_1996_Sierra_On-Line_US) – Sierra's own magazine: Hoyle Solitaire listed "Available Now", $14.95, WIN95 CD and WIN 3.1 CD; Card Flick (p. 39)
 [^ref-24]: [InterAction Magazine, Holiday 1996 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Holiday_1996_1996_Sierra_On-Line_US) – Nancy King's "The Hoyle Series": Steve Van Horn, Earl Malmrose, "both hits with critics as well as gamers" (Sierra's own description)
 [^ref-25]: [InterAction Magazine, Summer 1997 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Summer_1997_1997_Sierra_On-Line_US) – order list entry "Hoyle Solitaire (Win/Mac)"
 [^ref-26]: [InterAction Magazine, Holiday 1997 (Sierra On-Line)](https://archive.org/details/InterAction_Magazine_Holiday_1997_1997_Sierra_On-Line_US) – Family 3-Pack (Win/Mac CD) with Hoyle Solitaire
