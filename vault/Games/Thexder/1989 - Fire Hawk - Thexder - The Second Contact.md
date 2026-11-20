@@ -10,7 +10,7 @@ series: Thexder
 engine: null
 protagonist: Fire Hawk
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: 'Fire Hawk: Thexder - The Second Contact is Game Arts'' 1989 sequel to
   Thexder for the MSX2 and PC-8801, released in North America by Sierra On-Line for
   DOS in 1990: a run-and-gun shooter in which a transforming robot fights through nine
@@ -19,7 +19,7 @@ tags: [1980s, shooter, sierra, thexder]
 ---
 # Fire Hawk: Thexder - The Second Contact
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -213,7 +213,7 @@ VGMRips has a VGM music pack for the MSX2 version that lists the AY-3-8910 and Y
 
 - **Game Manual:** Included short comic book providing narrative backstory (DOS version)[^ref-1]
 - **Japanese Magazine Coverage:** MSX Magazine (January 1990), review on page 22[^ref-12]
-- **Spanish Magazine Coverage:** MSX Club (issue 61), MSX2 review on page 24[^ref-35]
+- **Spanish Magazine Coverage:** MSX Club (issue 61), MSX2 review (scan leaf n23)[^ref-35]
 - **French Magazine Coverage:** Joystick #13 (February 1991), review on page 154[^ref-13]
 - **Save Game Hacking Guide:** Technical FAQ by theruler, Version 4.0 (June 14, 2017)[^ref-11]
 
@@ -271,4 +271,4 @@ Period coverage concentrated on the game's presentation. MSX Magazine singled ou
 [^ref-32]: [Internet Archive – Sierra News Magazine Vol. 3 No. 3 (Fall 1990), p. 55](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US/page/n54/mode/1up) – price list: Firehawk $34.95, EGA/VGA only; MS-DOS products shipped with 3.5" and 5.25" disks
 [^ref-33]: [MobyGames – Action Five](https://www.mobygames.com/game/47233/action-five/) – 1992 Sierra compilation of Thexder, Silpheed, Zeliard, Firehawk and Oil's Well
 [^ref-34]: [Internet Archive – Aktueller Software Markt, Aug/Sep 1990](https://archive.org/details/Aktueller_Software_Markt_-_Ausgabe_1990.08-09) – preview of "THEXDER 2:FIREHAWK": nine missions, eleven melodies, "Erscheinungstermin (ohne Gewähr...): Oktober für MS DOS" (OCR text)
-[^ref-35]: [Internet Archive – MSX Club, issue 61, p. 24](https://archive.org/details/MSXClub) – Spanish review of the MSX2 version (file "MSX Club 61"; scan leaf n23, checked against the page image): data panel, START/CONTINUE/PRACTICE/SYSTEM menu, LOAD/SAVE/MUSIC submenu
+[^ref-35]: [Internet Archive – MSX Club, issue 61](https://archive.org/details/MSXClub) – Spanish review of the MSX2 version (file "MSX Club 61"; scan leaf n23): data panel, START/CONTINUE/PRACTICE/SYSTEM menu, LOAD/SAVE/MUSIC submenu
