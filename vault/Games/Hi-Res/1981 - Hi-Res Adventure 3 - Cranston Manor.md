@@ -10,20 +10,20 @@ series: Hi-Res Adventure
 engine: Adventure Development Language (ADL)
 protagonist: Unnamed treasure hunter
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: 'Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure
   game released in 1981 by On-Line Systems, the company that would later become Sierra On-Line.'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
 Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure game for the Apple II, published in 1981 by On-Line Systems, the company that would later become Sierra On-Line[^ref-1][^ref-8]. Although numbered third in the Hi-Res Adventure series, it was the fourth released: *Softalk* called it "number three, the fourth (because they count like computers)"[^ref-31], and The Sierra Chest notes it followed Hi-Res Adventure #0: Mission Asteroid[^ref-2]. The Sierra Chest describes it as the first Hi-Res Adventure that [[Roberta Williams]] was not involved with[^ref-2], and *Softalk*'s review likewise remarked on her absence: "Ken Williams's programming is clearly in evidence— but Roberta Williams is not"[^ref-31]. *Softalk* put it plainly: "Cranston Manor is the creation of Harold DeWitz," with [[Ken Williams]]'s programming "clearly in evidence"[^ref-31].
 
-The game is an adaptation of Larry Ledden's earlier text adventure *The Cranston Manor Adventure*, published by Artworx for the Atari 400/800[^ref-33][^ref-34]. A Dynacomp users' guide shows the program was also issued under Dynacomp's own 1981 copyright, and MobyGames lists CP/M and North Star releases of that original, all dated 1981[^ref-44][^ref-45]. Ledden sold On-Line the rights to make the illustrated version and was paid royalties, but was not credited in it[^ref-33][^ref-1].
+The game is an adaptation of Larry Ledden's earlier text adventure *The Cranston Manor Adventure*, published by Artworx for the Atari 400/800[^ref-33][^ref-34]. A Dynacomp users' guide shows the program was also issued under Dynacomp's own 1981 copyright, and MobyGames lists CP/M and North Star releases of that original, all dated 1981[^ref-44][^ref-45]. According to Ledden, he sold On-Line the rights to make the illustrated version and was paid royalties, but was not credited in it[^ref-33][^ref-1].
 
 The player must enter the estate of the late old man Cranston, recover the sixteen treasures he hid there, and carry them outside the gates to revive the deserted town of Coarsegold[^ref-32][^ref-31]. Coarsegold was a real place: it was On-Line Systems' own home town, and the manual gives the company's Coarsegold address[^ref-32][^ref-4]. Like other Hi-Res Adventures, the game lets players switch between its colour graphics and a text-only display[^ref-1][^ref-4].
 
@@ -85,7 +85,7 @@ A 2011 MobyGames user review places the game in context: "Before they became fam
 
 Larry Ledden wrote *The Cranston Manor Adventure* as a text adventure; the Artworx release was for the Atari 400/800[^ref-33][^ref-34]. Dynacomp also published it: its users' guide carries "(C) 1981 by DYNACOMP, Inc." alongside "Program code (C) 1980 by Larry Ledden, Riverside, CA," and says the game "utilizes a vocabulary of over 130 words"[^ref-44]. MobyGames lists the original, as *The Cranston Manor Adventure*, for Atari 8-bit, CP/M and North Star, all in 1981[^ref-45]. Ledden later recalled: "Sierra On-Line purchased the rights from me to make the illustrated version. I had written the game as a data driven engine so it was quite straightforward to port it to another system"[^ref-33]. He added: "I got royalties from them for a couple years for sales of their version... I was a newbie at software contracts and didn't know enough to require a credit"[^ref-33]. *The Giant List of Classic Game Programmers* lists the On-Line version under Ledden, Harold DeWitz and Ken Williams[^ref-34].
 
-Sierra Chest records that Roberta Williams was not involved[^ref-2], and *Softalk*'s review makes the same observation[^ref-31]. *Softalk* reported that she was "spending all her time now on number four — a giant multidisk adventure that will take you all over history in living color"[^ref-31]. That description matches *Time Zone*, a multi-disk time-travel adventure released in 1982, which shipped as Hi-Res Adventure #5 rather than #4 (Hi-Res Adventure #4 was *Ulysses and the Golden Fleece*)[^ref-38][^ref-37][^ref-39].
+Sierra Chest records that Roberta Williams was not involved[^ref-2], and *Softalk*'s review makes the same observation[^ref-31]. *Softalk* reported that she was "spending all her time now on number four — a giant multidisk adventure that will take you all over history in living color"[^ref-31]. That description appears to match *Time Zone*, a multi-disk time-travel adventure released in 1982, which shipped as Hi-Res Adventure #5 rather than #4 (Hi-Res Adventure #4 was *Ulysses and the Golden Fleece*)[^ref-38][^ref-37][^ref-39].
 
 ### Production
 
@@ -115,21 +115,20 @@ The game was published from On-Line Systems' base in Coarsegold, California, and
 | Japanese | October 1983 | PC-88 | Published by StarCraft, Inc.[^ref-3] |
 | Japanese | October 1983 | PC-98 | Published by StarCraft, Inc.[^ref-3] |
 
-The re-release dates are not recorded in the sources consulted.
 
 ### Easter Eggs and Trivia
 
 - The game's deserted town is Coarsegold, On-Line Systems' real home town; *Softalk* noted it is "called, coincidentally, Coarsegold"[^ref-31][^ref-32].
 - Cranston Manor is numbered Hi-Res Adventure #3 but was the fourth released[^ref-31][^ref-2].
 - The Sierra Chest calls it the first Hi-Res Adventure developed without Roberta Williams[^ref-2]; *Softalk*'s review noted her absence[^ref-31].
-- The original author, Larry Ledden, received royalties but no credit[^ref-33].
+- According to the original author, Larry Ledden, he received royalties but no credit[^ref-33].
 - The Japanese versions were published by StarCraft, Inc.[^ref-3]
 
 ## Legacy
 
 ### Sales and Commercial Impact
 
-Cranston Manor reached the top ten of *Softalk*'s Apple bestseller poll for July 1981[^ref-31]. It led *Softalk*'s Adventure chart in the October 1981 report[^ref-40] and again in the December 1981, January 1982 and February 1982 issues[^ref-46][^ref-47][^ref-48]. The March 1982 chart placed it fourth, down from first the month before[^ref-49], and the April 1982 chart again listed it fourth[^ref-50]. That April issue's tabulation of reader ballots for the best software of 1981 ranked it second among adventures, behind *Zork*[^ref-50]. Wikipedia's Sierra history lists it among the Hi-Res Adventures of 1981 and 1982, before *King's Quest* launched in mid-1984[^ref-8]. Japanese versions for the FM-7, PC-88 and PC-98 followed in 1983[^ref-3]. The Japanese magazine *LOGiN* (November 1983) covered the FM-7 edition in its new-software pages, giving the price as ¥12,800 and the publisher as StarCraft. Paraphrased from the Japanese, its reviewer says the game was originally an Apple adventure made by Sierra On-Line, that this is a port, and that its finish as a game is, if anything, better than the Apple version's; the page also describes sixteen treasures hidden in the mansion[^ref-43].
+Cranston Manor reached the top ten of *Softalk*'s Apple bestseller poll for July 1981[^ref-31]. It led *Softalk*'s Adventure chart in the October 1981 report[^ref-40] and again in the December 1981, January 1982 and February 1982 issues[^ref-46][^ref-47][^ref-48]. The March 1982 chart placed it fourth, down from first the month before[^ref-49], and the April 1982 chart again listed it fourth[^ref-50]. That April issue's tabulation of reader ballots for the best software of 1981 ranked it second among adventures, behind *Zork*[^ref-50]. Wikipedia's Sierra history lists it among the Hi-Res Adventures of 1981 and 1982, before *King's Quest* launched in mid-1984[^ref-8]. Japanese versions for the FM-7, PC-88 and PC-98 followed in 1983[^ref-3]. The Japanese magazine *LOGiN* (November 1983) covered the FM-7 edition in its new-software pages, giving the price as ¥12,800 and the publisher as StarCraft. In summary, its Japanese reviewer says the game was originally an Apple adventure made by Sierra On-Line, that this is a port, and that its finish as a game is, if anything, better than the Apple version's; the entry also describes sixteen treasures hidden in the mansion[^ref-43].
 
 ### Preservation
 
@@ -202,9 +201,9 @@ Cranston Manor is a minor but telling entry in Sierra's history. By the Sierra C
 [^ref-40]: [Softalk, October 1981 (Vol. 2 No. 2)](https://archive.org/details/softalkv2n02oct1981) – bestseller report: Adventure chart, Top Thirty, "proved its heritage as an On-Line offspring"
 [^ref-41]: [Softalk, November 1981 (Vol. 2 No. 3)](https://archive.org/details/softalkv2n03nov1981) – bestseller report: Adventure chart; Raster Blaster "overtaking Hi-Res Adventure #3: Cranston Manor and Gorgon"
 [^ref-42]: [Softalk, August 1981 (Vol. 1 No. 12)](https://archive.org/details/softalkv1n12aug1981) – On-Line Systems advertisement (not editorial): $34.95, 48K, DOS 3.2 or 3.3, synopsis, "over 200 pictures"
-[^ref-43]: [LOGiN, November 1983, p. 14](https://archive.org/details/login-november-1983) – Japanese magazine new-software page: FM-7, StarCraft, ¥12,800 (5D); read from the page image; English paraphrase by SierraVault
+[^ref-43]: [LOGiN, November 1983, p. 14](https://archive.org/details/login-november-1983) – Japanese magazine new-software page: FM-7, StarCraft, ¥12,800 (5D)
 [^ref-44]: [DYNACOMP, The Cranston Manor Adventure users' guide](https://archive.org/details/DYNACOMPCranstonManorUG) – "(C) 1981 by DYNACOMP, Inc."; "Program code (C) 1980 by Larry Ledden, Riverside, CA"; vocabulary "of over 130 words"
-[^ref-45]: [MobyGames – The Cranston Manor Adventure](https://www.mobygames.com/game/121794/the-cranston-manor-adventure/) – Atari 8-bit, CP/M and North Star, all 1981 (read via the MobyGames API)
+[^ref-45]: [MobyGames – The Cranston Manor Adventure](https://www.mobygames.com/game/121794/the-cranston-manor-adventure/) – Atari 8-bit, CP/M and North Star, all 1981
 [^ref-46]: [Softalk, December 1981 (Vol. 2 No. 4)](https://archive.org/details/softalkv2n04dec1981) – bestseller report: Adventure chart #1; index lists the Cranston Manor review (September 1981) on p. 66
 [^ref-47]: [Softalk, January 1982 (Vol. 2 No. 5)](https://archive.org/details/softalkv2n05jan1982) – bestseller report: Adventure chart #1
 [^ref-48]: [Softalk, February 1982 (Vol. 2 No. 6)](https://archive.org/details/softalkv2n06feb1982) – bestseller report: Adventure chart #1
