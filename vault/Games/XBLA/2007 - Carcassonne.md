@@ -10,14 +10,14 @@ series: "Standalone"
 engine: "Unknown"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: "Carcassonne is a 2007 Xbox Live Arcade adaptation of Klaus-Jürgen Wrede's tile-laying board game, developed by Sierra Online Seattle and published by Sierra Online, with The River expansion included."
 tags: [2000s, board-game, xbla, xbox-360, sierra-online]
 ---
 
 # Carcassonne
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -180,9 +180,9 @@ Carcassonne (June 2007) came before the two other Sierra Online Xbox Live Arcade
 [^ref-30]: [Marketplace Roundup for October 3, 2007 - Major Nelson (Wayback)](https://web.archive.org/web/20081204223428/http://www.majornelson.com/archive/2007/10/03/marketplace-roundup-for-october-3-2007.aspx) - Carcassonne King & Baron Expansion Pack, 300 Microsoft Points, all regions except Korea
 [^ref-31]: [Next Xbox One Backwards-Compatible Game Revealed - GameSpot](https://www.gamespot.com/articles/next-xbox-one-backwards-compatible-game-revealed/1100-6435175/) - Eddie Makuch, February 29, 2016
 [^ref-32]: [Granny Customer Page - RAD Game Tools](https://www.radgametools.com/granny/customers.html) - Lists "VU Games: Arcadian Warriors for XBLA, Carcassonne for XBLA" among Granny 3D customers
-[^ref-33]: [Carcassonne (2009, Nintendo DS) - MobyGames](https://www.mobygames.com/game/45320/carcassonne/) - Nintendo DS release 2009-10-23 (read via the MobyGames API)
-[^ref-34]: [Carcassonne (2010, iPhone) - MobyGames](https://www.mobygames.com/game/51466/carcassonne/) - iPhone release 2010-06-04 (read via the MobyGames API)
-[^ref-35]: [Carcassonne (2011, Android) - MobyGames](https://www.mobygames.com/game/66508/carcassonne/) - Android release 2011-07-06 (read via the MobyGames API)
+[^ref-33]: [Carcassonne (2009, Nintendo DS) - MobyGames](https://www.mobygames.com/game/45320/carcassonne/) - Nintendo DS release 2009-10-23
+[^ref-34]: [Carcassonne (2010, iPhone) - MobyGames](https://www.mobygames.com/game/51466/carcassonne/) - iPhone release 2010-06-04
+[^ref-35]: [Carcassonne (2011, Android) - MobyGames](https://www.mobygames.com/game/66508/carcassonne/) - Android release 2011-07-06
 [^ref-36]: [Carcassonne (2007, Xbox 360) credits - MobyGames](https://www.mobygames.com/game/29452/carcassonne/credits/xbox360/) - Credits list: Producer Becca Yucha, Lead Designer Isaac Barry, Lead Engineer Paul Burslem; Wrede for board game design
 [^ref-37]: [MS confirms downloadable Xbox games, free Carcassonne for Live anniversary - Engadget](https://www.engadget.com/2007-11-13-ms-confirms-downloadable-xbox-games-free-carcassonne-for-live-a.html) - James Ransom-Wiley, November 13, 2007; free to all subscribers for 48 hours from Nov. 15 for the fifth anniversary
 [^ref-38]: [Microsoft giving away free XBLA game, points - WorthPlaying](https://worthplaying.com/article/2007/11/13/news/46709-microsoft-giving-away-free-xbla-game-points-and-confirms-xbox-downloads/) - Rainier, November 13, 2007; Carcassonne free worldwide, Hexic 2 in Korea; fifth anniversary of Xbox Live on Nov. 15
