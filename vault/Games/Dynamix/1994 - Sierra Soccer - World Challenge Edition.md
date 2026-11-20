@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer game designed and
   programmed by Steven A. Dunn, with additional development by Dynamix and music by Coktel Vision''s
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Released for the 1994 World Cup season, the game lets players take a team throug
 
 The game supports one to eight players, with two playing simultaneously; in tournament mode up to eight people can each pick a team and play through their groups.[^ref-5][^ref-20] CU Amiga highlighted more than 4,000 frames of player animation, and A1200 owners got a full 3D crowd.[^ref-4][^ref-20]
 
-The Dynamix fan wiki describes it as the last title Sierra published for the Amiga, a claim no other source consulted confirms.[^ref-3]
+The Dynamix fan wiki describes it as the last title Sierra published for the Amiga.[^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] (credited with additional development; core work by Steven A. Dunn)[^ref-21]
@@ -138,12 +138,12 @@ CU Amiga's June 1994 issue added a third coverdisk carrying "a full, playable ma
 
 *Sierra Soccer* entered a crowded Amiga football market. Amiga Computing opened its review with "The first World Cup football game out of the starting blocks is Sierra Soccer", and named *Sensible Soccer* and *Goal!* as the benchmarks every new football game would be compared against.[^ref-23] CU Amiga argued that the steep learning curves of *Sensible Soccer* and *Kick Off* were what gave those games their staying power, and that *Sierra Soccer* traded that for instant playability.[^ref-20]
 
-Lemon Amiga records an average magazine rating of 80% from 10 reviews, ranging from 62% (Amiga Power) to 92% (Amiga Concept).[^ref-6] The Lemon Amiga page had been viewed about 19,800 times as of October 2026.[^ref-6]
+Lemon Amiga records an average magazine rating of 80% from 10 reviews, ranging from 62% (Amiga Power) to 92% (Amiga Concept).[^ref-6]
 
 ### Modern Assessment
 
 **Aggregate Scores:**
-- **MyAbandonware:** 3.75/5 (4 votes, as of October 28, 2026)[^ref-1]
+- **MyAbandonware:** 3.8/5 (4 votes) as of November 2026[^ref-1]
 - **Lemon Amiga:** 7.45/10 user rating (38 votes)[^ref-6]
 - **OpenRetro:** 7.9/10[^ref-5]
 
@@ -241,7 +241,7 @@ Select a friendly match and press X while choosing the teams. The screen flashes
 
 ### Historical Significance
 
-The Dynamix fan wiki describes *Sierra Soccer: World Challenge Edition* as the last title Sierra published for the Amiga.[^ref-3] No other source consulted confirms that claim. The game also stood out in Sierra's catalogue: Amiga Computing remarked that Sierra was known for adventure games such as *King's Quest* and *Leisure Suit Larry*, not football games.[^ref-23]
+The Dynamix fan wiki describes *Sierra Soccer: World Challenge Edition* as the last title Sierra published for the Amiga.[^ref-3] The game also stood out in Sierra's catalogue: Amiga Computing remarked that Sierra was known for adventure games such as *King's Quest* and *Leisure Suit Larry*, not football games.[^ref-23]
 
 ### Series Context
 
