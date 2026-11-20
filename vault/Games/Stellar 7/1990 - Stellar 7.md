@@ -10,14 +10,14 @@ series: Stellar 7
 engine: 3Space
 protagonist: Terran Commander (Raven Pilot)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: Stellar 7 is Dynamix's 1990 remake of Damon Slye's 1983 Battlezone-inspired
   tank game, rebuilt with 256-color graphics for DOS and later ported to the Amiga and Macintosh.
 tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -64,13 +64,13 @@ The preferences menu offers three difficulty modes: Easy (2 continues, 3 uses of
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Stellar 7 focuses on tactical combat and resource management similar to games like Spectre.[^ref-17] Players must collect power modules scattered across the battlefield, each providing different tactical advantages:[^ref-10]
+Rather than traditional puzzles, Stellar 7 focuses on tactical combat and resource management similar to games like Spectre.[^ref-17] Players use power modules, each providing different tactical advantages; Dragon notes the Raven can hold only three such devices and that replacements can be obtained only from defeated enemies:[^ref-10][^ref-38]
 
 - **Inviso Cloak Generator:** Temporary invisibility (also available to enemies)
-- **Eel Shield:** Enhanced defensive capability
+- **Eel Shield:** Ramming shield that turns an enemy's shields against itself and forces the vehicle to explode[^ref-38]
 - **Super Cannon:** Increased firepower
 - **MP Thruster:** Improved movement speed
-- **Cat's Eye:** Enhanced visibility/targeting
+- **Cat's Eye:** Reveals cloaked enemies[^ref-38]
 - **RC Bomb:** Remote-controlled explosive
 - **Jump Thruster:** Vertical mobility option
 
@@ -88,11 +88,13 @@ Stellar 7 received strong reviews upon its original release and mixed-to-positiv
 - **Creative Computing** (September 1984) called it an "excellent adaptation" of Battlezone, with reviewer Owen Linzmayer concluding "Play it once, and you are forever addicted."[^ref-36]
 - **Zzap!64** (July 1985, p. 81): Julian Rignall rated the C64 version Graphics 82%, Sound 31%, Arcade feel 84% and Accuracy 87%, in a feature on arcade conversions. He wrote "The graphics are superb" and "Sound is disappointing: just a few bleeps and bloops." The page prints no overall percentage; the 87% that MobyGames and Lemon64 give as the game's score is the Accuracy figure.[^ref-37]
 - **Home Computing Weekly** gave a perfect 5/5 in March 1985.[^ref-13]
+- **Your Computer** gave 3/5 in March 1985.[^ref-13]
 - **Commodore User** awarded 4/5 in April 1985.[^ref-13] Dynamix Fandom reports the same review as 80%.[^ref-23]
+- **Your 64** gave 3/5 in April 1985.[^ref-13]
 - **Your Commodore** gave 4/5 in May 1985.[^ref-13]
 
 **1990 Remake:**
-- **Dragon Magazine** (No. 167, March 1991) reviewed the PC/MS-DOS version with VGA graphics and Roland sound ($34.95) in its "The Role of Computers" column and rated it five stars; Wikipedia also gives 5 out of 5.[^ref-38][^ref-1] The review calls it "a great arcade game" and says "Stellar 7 is a must buy."[^ref-38]
+- **Dragon Magazine** (No. 167, March 1991) reviewed the PC/MS-DOS version with VGA graphics and Roland sound ($34.95) in its "The Role of Computers" column.[^ref-38] Wikipedia gives the review 5 out of 5 stars.[^ref-1] The review calls it "a great arcade game" and says "Stellar 7 is a must buy."[^ref-38]
 - **Amiga version (1991):** Lemon Amiga lists eight magazine reviews, averaging 77%:[^ref-18]
   - **ACE** (No. 46, July 1991; Chris Jenkins): 780/1000
   - **Amiga Action** (No. 22, July 1991): 87%
@@ -186,7 +188,7 @@ No significant cut content has been documented for Stellar 7. The 1990 remake wa
 
 ### Technical Issues
 
-The 1990 DOS remake suffers from speed issues on faster processors, with users reporting "Runs too fast on my pentium."[^ref-15] This was a common problem with DOS games designed for slower hardware.
+The 1990 DOS remake suffers from speed issues on faster processors, with users reporting "Runs too fast on my pentium."[^ref-15]
 
 Two Lemon Amiga user comments (ratings of 6/10 and 4/10) fault the Amiga version as a conversion of the MS-DOS/VGA code with little optimization for the Amiga's 7 MHz Motorola CPU, and call it "intolerably slow"; Amiga Power noted that it "needs one meg."[^ref-18][^ref-19]
 
@@ -241,7 +243,9 @@ Mark Ramshaw's 1991 Amiga Power review was warm despite its 67% score: "It may h
 - [ClassicReload – Browser Playable](https://classicreload.com/stellar-7.html)
 
 **Manuals & Extras**
-- A Stellar 7 manual and a Stellar 7 reference card are listed on the Sierra Gamers Stellar 7 page, alongside a scan of the box spine and scans of the game diskettes.[^ref-28]
+- [Stellar 7 manual (PDF, Sierra Gamers)](https://www.sierragamers.com/wp-content/uploads/2019/12/Stellar_7_Manual.pdf)
+- [Stellar 7 reference card (PDF, Sierra Gamers)](https://www.sierragamers.com/wp-content/uploads/2019/12/Stellar_7_Reference_Card.pdf)
+- The Sierra Gamers Stellar 7 page also lists a scan of the box spine and scans of the game diskettes.[^ref-28]
 
 ## See Also
 
@@ -282,4 +286,4 @@ Mark Ramshaw's 1991 Amiga Power review was warm despite its 67% score: "It may h
 [^ref-35]: [Computer Gaming World #49, July 1988, p. 24](https://archive.org/details/Computer_Gaming_World_Issue_49/page/n23/mode/2up) – Tom Clancy interview: "I also like 'Stellar 7.'"
 [^ref-36]: [Creative Computing, September 1984, pp. 102, 105](https://archive.org/details/creativecomputing-1984-09/page/n103/mode/2up) – Owen Linzmayer review: "excellent adaptation" of Battlezone; "Play it once, and you are forever addicted"
 [^ref-37]: [Zzap!64 #3, July 1985, p. 81](https://archive.org/details/zzap64-magazine-003/page/n80/mode/1up) – Julian Rignall's ratings for Stellar 7: Graphics 82%, Sound 31%, Arcade feel 84%, Accuracy 87%; "The graphics are superb"
-[^ref-38]: [Dragon Magazine #167, March 1991, pp. 51–52 (Internet Archive item; issue 167 file)](https://archive.org/details/DragonMagazine260_201801) – "The Role of Computers" column: Stellar 7 (Dynamix) PC/MS-DOS review, $34.95, five stars, "a must buy"
+[^ref-38]: [Dragon Magazine #167, March 1991, pp. 51–52 (Internet Archive item; issue 167 file)](https://archive.org/details/DragonMagazine260_201801) – "The Role of Computers" column: Stellar 7 (Dynamix) PC/MS-DOS review, $34.95, power-module descriptions, "a must buy"
