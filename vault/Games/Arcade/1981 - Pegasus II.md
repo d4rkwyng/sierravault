@@ -11,19 +11,19 @@ series: null
 engine: "Machine Language"
 protagonist: null
 sierra_lineage: "Core Sierra"
-last_updated: "2026-11-12"
+last_updated: "2026-11-20"
 description: "Pegasus II is a 1981 side-scrolling Apple II shooter in the Scramble mould, written by Olaf Lubeck and published by On-Line Systems, notable for its built-in terrain generator."
 tags: [1980s, arcade, shooter, apple-ii, on-line-systems, olaf-lubeck]
 ---
 # Pegasus II
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
-Pegasus II is a side-scrolling arcade shooter for the Apple II, written by Olaf Lubeck and published in 1981 by [[On-Line Systems]], the company [[Ken Williams|Ken]] and [[Roberta Williams]] founded and later renamed Sierra On-Line.[^ref-1][^ref-4] MobyGames classes it as a "Scramble variant": the player flies over mountainous terrain, bombing ground installations and using lasers against rockets that launch from below.[^ref-1] It came after his Pac-Man clone [[1981 - Gobbler|Gobbler]] and his Apple conversion of John Harris's [[1981 - Jawbreaker|Jawbreaker]], which replaced it: Lubeck told *Softline* that Jawbreaker's royalty checks got him "all fired up" to start work on Red Alert and Pegasus II.[^ref-11]
+Pegasus II is a side-scrolling arcade shooter for the Apple II, written by Olaf Lubeck and published in 1981 by [[On-Line Systems]],[^ref-1][^ref-4] the company [[Ken Williams|Ken]] and [[Roberta Williams]] founded, and which was renamed Sierra On-Line in 1982.[^ref-29] MobyGames classes it as a "Scramble variant": the player flies over mountainous terrain, bombing ground installations and using lasers against rockets that launch from below.[^ref-1] It came after his Pac-Man clone [[1981 - Gobbler|Gobbler]] and his Apple conversion of John Harris's [[1981 - Jawbreaker|Jawbreaker]], which replaced it: Lubeck told *Softline* that Jawbreaker's royalty checks got him "all fired up" to start work on Red Alert and Pegasus II.[^ref-11]
 
-The game shipped with a terrain generator. Players could draw their own landscape as twenty-one separate "frames" that the program then joined together at random.[^ref-5][^ref-1] Creative Computing reviewed it in August 1982 and called it a "challenging, fast moving flying game with the option of user-definable terrain".[^ref-6] Years later John Romero remembered first seeing Pegasus II in the Apple room at Sierra College, and named its terrain generator as one of the earliest level editors he had used.[^ref-7]
+The game shipped with a terrain generator. Players could draw their own landscape as twenty-one separate "frames" that the program then joined together at random.[^ref-5][^ref-1] Creative Computing reviewed it in August 1982 and called it a "challenging, fast moving flying game with the option of user-definable terrain".[^ref-6] Years later John Romero remembered first seeing Pegasus II in the Apple room at Sierra College, and, in an interview where David Lightbown called the terrain generator one of the first level editors Romero had played with, described the game as "one of the earliest games that let you generate mods".[^ref-7]
 
 Pegasus II entered *Softalk*'s Top Thirty best-seller list for the first time in the magazine's November 1981 issue.[^ref-8] It was sold on disk for 48K Apple II and II Plus machines at $29.95.[^ref-9][^ref-10]
 
@@ -75,7 +75,7 @@ To use the **terrain generator**, the player connects paddles, chooses (T) at bo
 
 ### Contemporary Reviews
 
-The earliest review found is in *Softalk*'s October 1981 issue (p. 64, continued on p. 86). It praised the variety of controls: "The beauty of this game is in the variety of controls you have." The reviewer described firing missiles "at objects directly in front of you" or dropping bombs "on objects below", and noted that hitting the space bar lets the player "lag behind" to aim and avoid fire. It listed "three different types of enemy installations: watertowers, fuel tanks, and missiles", said the terrain-generating option "makes the game far more challenging", and ended: "If you're a closet jet fighter pilot, Pegasus will get you off the ground." The price given was $29.95.[^ref-26]
+*Softalk*'s October 1981 issue (p. 64, continued on p. 86) carried a review that praised the variety of controls: "The beauty of this game is in the variety of controls you have." The reviewer described firing missiles "at objects directly in front of you" or dropping bombs "on objects below", and noted that hitting the space bar lets the player "lag behind" to aim and avoid fire. It listed "three different types of enemy installations: watertowers, fuel tanks, and missiles", said the terrain-generating option "makes the game far more challenging", and ended: "If you're a closet jet fighter pilot, Pegasus will get you off the ground." The price given was $29.95.[^ref-26]
 
 *Creative Computing* covered Pegasus II in "Apple Arcade Games", a round-up in its August 1982 issue. Its software profile summed the game up as a "challenging, fast moving flying game with the option of user-definable terrain".[^ref-6] The reviewers praised the terrain option: "Pegasus II adds a unique touch found in very few games". They were less impressed by the presentation, which had "good, hi-res graphics, some color but not much in the way of sound effects". They still concluded that "Pegasus II is a challenging game and one which had our player panel coming back for hours."[^ref-6]
 
@@ -83,7 +83,7 @@ The game also charted. *Softalk* reported that five programs reached its Top Thi
 
 ### Modern Assessment
 
-Pegasus II has had little modern critical attention. MobyGames shows no Moby Score and one player rating, an average of 3.2 out of 5.[^ref-1] Retro365's 2021 collector's article calls it "an excellent Scramble clone". The author describes it as "one of the first, if not the first Scramble variant available on personal computers" and "one of the very first computer games to feature a built-in level editor". Both are the blog's own judgements and have not been checked against other sources.[^ref-4]
+Pegasus II has had little modern critical attention. MobyGames shows no Moby Score and one player rating, an average of 3.2 out of 5.[^ref-1] Retro365's 2021 collector's article calls it "an excellent Scramble clone". The author describes it as "one of the first, if not the first Scramble variant available on personal computers" and "one of the very first computer games to feature a built-in level editor".[^ref-4]
 
 ## Development
 
@@ -121,7 +121,7 @@ The Sierra Chest gives a first-release date of 1 January 1982, which looks like 
 
 ## Legacy
 
-Pegasus II's longest-lasting influence may be on John Romero. In an interview with David Lightbown about TEd, the tile editor Romero later wrote, Romero recalled first seeing "Pegasus ][" at Sierra College. He said he "thought that it was pretty cool that it has this tool built in to generate gameplay", and added: "It's funny to think now that this is one of the earliest games that let you generate mods."[^ref-7]
+In an interview with David Lightbown about TEd, the tile editor Romero later wrote, Romero recalled first seeing "Pegasus ][" at Sierra College. He said he "thought that it was pretty cool that it has this tool built in to generate gameplay", and added: "It's funny to think now that this is one of the earliest games that let you generate mods."[^ref-7] Retro365 writes that the game's level editor "would grab the attention of a young John Romero".[^ref-4]
 
 The game sits among Olaf Lubeck's early run of arcade-style games for On-Line Systems and Sierra. The Giant List of Classic Game Programmers credits him with *Gobbler*, *Jawbreaker*, *Pegasus II* and *Cannonball Blitz* for On-Line/Sierra, and *Red Alert* for Broderbund.[^ref-14][^ref-13] Wikipedia's list of Sierra Entertainment video games includes Pegasus II as a 1981 Apple II release from On-Line Systems.[^ref-18]
 
@@ -163,7 +163,7 @@ Pegasus II is one of the early arcade-style games that On-Line Systems published
 [^ref-4]: [Retro365 – "Pegasus II, an excellent Scramble clone" (2021)](https://retro365.blog/2021/04/14/bits-from-my-personal-collection-pegasus-ii-an-excellent-scramble-clone/) – Lubeck's second published title, Scramble context, Gebellians and Space Eggs reference, terrain editor, Los Alamos, the blog's "one of the first" assessments
 [^ref-5]: [Internet Archive – Apple Manual: Pegasus II](https://archive.org/details/Pegasus_II) – original instructions: DOS 3.2/3.3 boot, paddle and joystick controls, tunnel difficulty options, terrain generator procedure, 21 frames, one-third-level rule, point schedule
 [^ref-6]: [Creative Computing, August 1982 (Vol. 8 No. 8) – "Apple Arcade Games", pp. 22, 24](https://archive.org/details/creativecomputing-1982-08) – software profile and review: gameplay cycle, point values, joystick recommendation, manual error, terrain option, graphics and sound, verdict
-[^ref-7]: [David Lightbown – "Classic Tools Retrospective: John Romero talks about creating TEd" (Gamasutra, 2017; PDF on rome.ro)](https://rome.ro/s/www_gamasutra_com_blogs_DavidLightbown_romero_tools_interview.pdf) – Romero first saw Pegasus ][ at Sierra College; terrain generation as an early mod/level tool
+[^ref-7]: [David Lightbown – "Classic Tools Retrospective: John Romero talks about creating TEd" (Gamasutra, 2017; PDF on rome.ro)](https://rome.ro/s/www_gamasutra_com_blogs_DavidLightbown_romero_tools_interview.pdf) – Romero first saw Pegasus ][ at Sierra College; Romero describes it as "one of the earliest games that let you generate mods"; Lightbown's question calls it one of the first level editors Romero played
 [^ref-8]: [Softalk, November 1981 (Vol. 2 No. 3) – Top Thirty](https://archive.org/details/softalkv2n03nov1981) – Pegasus II named among programs reaching the Top Thirty for the first time; listed as "Pegasus II, Olaf Lubeck, On-Line Systems"
 [^ref-9]: [Softline, September 1981 – On-Line Systems advertisement](https://archive.org/details/Softline_1981_09) – ad copy: Gebellians premise, "alliance of 30 worlds", machine language, paddles or joystick, terrain control, Apple II or II Plus, $29.95
 [^ref-10]: [Internet Archive – On-Line Systems Catalog](https://archive.org/details/OnLineSystemsCatalog) – catalogue entry: Gebellians premise, terrain utilities, paddle or joystick, 48K Apple II/II+ DOS 3.2 or 3.3, $29.95
@@ -179,9 +179,10 @@ Pegasus II is one of the early arcade-style games that On-Line Systems published
 [^ref-20]: [Internet Archive – Pegasus II boot video (4am collection)](https://archive.org/details/A2Video_Pegasus_II) – preserved boot video of the Apple II original
 [^ref-21]: [MyAbandonware – Pegasus II](https://www.myabandonware.com/game/pegasus-ii-nqb) – 1981 Apple II, United States release, action/shooter classification
 [^ref-22]: [MobyGames – Frogger, Apple II release info (Wayback Machine, 2018)](http://web.archive.org/web/20180227154604/http://www.mobygames.com:80/game/apple2/frogger/release-info) – Apple II version published and ported by Sierra On-Line, United States, release date 1983
-[^ref-23]: [Softalk, December 1981 (Vol. 2 No. 4) – Top Thirty](https://archive.org/details/softalkv2n04dec1981) – "Pegasus II, Olaf Lubeck, On-Line Systems" listed in the month's Top Thirty (text layer)
-[^ref-24]: [Softalk, January 1982 (Vol. 2 No. 5) – Top Thirty](https://archive.org/details/softalkv2n05jan1982) – "Pegasus II, Olaf Lubeck, On-Line Systems" listed in the month's Top Thirty (text layer)
-[^ref-25]: [Softalk, February 1982 (Vol. 2 No. 6) – Top Thirty](https://archive.org/details/softalkv2n06feb1982) – "Pegasus II, Olaf Lubeck, On-Line Systems" listed in the month's Top Thirty (text layer)
+[^ref-23]: [Softalk, December 1981 (Vol. 2 No. 4) – Top Thirty](https://archive.org/details/softalkv2n04dec1981) – "Pegasus II, Olaf Lubeck, On-Line Systems" listed in the month's Top Thirty
+[^ref-24]: [Softalk, January 1982 (Vol. 2 No. 5) – Top Thirty](https://archive.org/details/softalkv2n05jan1982) – "Pegasus II, Olaf Lubeck, On-Line Systems" listed in the month's Top Thirty
+[^ref-25]: [Softalk, February 1982 (Vol. 2 No. 6) – Top Thirty](https://archive.org/details/softalkv2n06feb1982) – "Pegasus II, Olaf Lubeck, On-Line Systems" listed in the month's Top Thirty
 [^ref-26]: [Softalk, October 1981 (Vol. 2 No. 2) – review of Pegasus II, p. 64, continued p. 86](https://archive.org/details/softalkv2n02oct1981) – "Pegasus II. By Olaf Lubeck, On-Line Systems (Coarsegold, CA)"; variety of controls, "three different types of enemy installations: watertowers, fuel tanks, and missiles", "you've got five ships", terrain generator, "closet jet fighter pilot", $29.95
-[^ref-27]: [Softalk, August 1981 (Vol. 1 No. 12) – new-products item, p. 24](https://archive.org/details/softalkv1n12aug1981) – On-Line Systems "adds another to its growing list of arcade games with the latest offering from Olaf Lubecke, Pegasus, a version of the arcade game Scrambler"; paddles or joystick, $29.95 (page image checked; the item spells the author "Lubecke" and the game "Pegasus")
-[^ref-28]: [Softalk, September 1981 (Vol. 2 No. 1) – On-Line Systems advertisement, p. 97](https://archive.org/details/softalkv2n01sep1981) – headline "Watch out Nasir... Olaf's here!", Pegasus II "by Olaf Lubeck", $29.95, Disk 48K, Apple II or II Plus, Machine Language, DOS 3.2 or 3.3 (page image checked)
+[^ref-27]: [Softalk, August 1981 (Vol. 1 No. 12) – new-products item, p. 24](https://archive.org/details/softalkv1n12aug1981) – On-Line Systems "adds another to its growing list of arcade games with the latest offering from Olaf Lubecke, Pegasus, a version of the arcade game Scrambler"; paddles or joystick, $29.95; the item spells the author "Lubecke" and the game "Pegasus"
+[^ref-28]: [Softalk, September 1981 (Vol. 2 No. 1) – On-Line Systems advertisement, p. 97](https://archive.org/details/softalkv2n01sep1981) – headline "Watch out Nasir... Olaf's here!", Pegasus II "by Olaf Lubeck", $29.95, Disk 48K, Apple II or II Plus, Machine Language, DOS 3.2 or 3.3
+[^ref-29]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – "On-Line Systems was renamed Sierra On-Line in 1982, and moved to Oakhurst, California"; founded in 1979 by Ken and Roberta Williams
