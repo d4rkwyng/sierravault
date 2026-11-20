@@ -10,7 +10,7 @@ series: Talking Tutor
 engine: Unknown/unnamed
 protagonist: Loid (animated alien guide)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: Early Math is a 1993 educational game for children ages three to six,
   developed by Bright Star Technology and published by Sierra On-Line for Windows
   3.1 and Macintosh, in which an animated alien named Loid guides children through
@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, talking-tutor]
 ---
 # Early Math
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -190,7 +190,7 @@ Early Math is preserved on the Internet Archive as a CD-ROM ISO image of the Win
 ## Downloads
 
 **Purchase / Digital Stores**
-- No GOG or Steam listing (checked November 2026)
+- Not available on GOG or Steam as of November 2026
 
 **Download / Preservation**
 - [Internet Archive - Early Math](https://archive.org/details/early-ma_202203)[^ref-2]
