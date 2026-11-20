@@ -10,13 +10,13 @@ series: Standalone
 engine: Custom (assembly language)
 protagonist: Sammy Lightfoot
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: 'Sammy Lightfoot is a 1983 multi-level platform game, called a "climbing game" in the United States at the time, written by Warren Schwader and published by Sierra On-Line.'
 tags: [1980s, sierra, standalone]
 ---
 # Sammy Lightfoot
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -77,11 +77,13 @@ C64-Wiki says the controls must be "pixel exact" and that the enemies and obstac
 
 ### Contemporary Reviews
 
-According to Retro365, Sammy Lightfoot "only received moderate reviews upon its release", although the period coverage that survives was positive. It calls the Apple II original a great showcase for the aging machine but says the Commodore 64 and especially the ColecoVision conversions were less favourable.[^ref-12] *The Commodore 64 Home Companion* (1984) called it a "one-or-two-player game" that "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone", with "three different screens full of trampolines, rope swings, fire pits, giant circus balls, moving platforms, and flying carpets".[^ref-21] MobyGames records a 78% critic average based on 3 ratings.[^ref-4]
+According to Retro365, Sammy Lightfoot "only received moderate reviews upon its release", and the period coverage that survives is mixed. Retro365 calls the Apple II original a great showcase for the aging machine but says the Commodore 64 and especially the ColecoVision conversions were less favourable.[^ref-12] *The Commodore 64 Home Companion* (1984) called it a "one-or-two-player game" that "captures the cartoon spirit and graphic style of Donkey Kong without being a simple donkey clone", with "three different screens full of trampolines, rope swings, fire pits, giant circus balls, moving platforms, and flying carpets".[^ref-21] MobyGames records a 78% critic average based on 3 ratings.[^ref-4]
 
-A period review was warmer. *Creative Computing*'s November 1983 software profile, signed "SW", gave the Apple II game the summary "Outstanding action" and concluded: "Of all action games released this year for the Apple II, it is undoubtedly one of the best."[^ref-23] *Softalk*'s July 1983 software listing described the premise as Sammy dodging "a variety of obstacles as he tries out for the circus", adding that "He evidently used to be a miner."[^ref-26] The same *Creative Computing* profile describes "an aspiring young acrobat with an electric red pompadour", says his "electric hair spins wildly when he is in trouble", and mentions "crazy pumpkins that scowl wickedly behind dark sunglasses."[^ref-23]
+Other period reviews were warmer. *Creative Computing*'s November 1983 software profile, signed "SW", gave the Apple II game the summary "Outstanding action" and concluded: "Of all action games released this year for the Apple II, it is undoubtedly one of the best."[^ref-23] *Softalk*'s July 1983 software listing described the premise as Sammy dodging "a variety of obstacles as he tries out for the circus", adding that "He evidently used to be a miner."[^ref-26] The same *Creative Computing* profile describes "an aspiring young acrobat with an electric red pompadour", says his "electric hair spins wildly when he is in trouble", and mentions "crazy pumpkins that scowl wickedly behind dark sunglasses."[^ref-23]
 
-*Family Computing*'s December 1983 holiday gift guide listed Sammy Lightfoot ("Ages 10+") for the Apple II, II Plus and IIe and the Commodore 64, and named the VIC-20 as well; that platform is listed by *Family Computing* only. In the same issue, an editorial wrote: "Show me a kid who won't choose Sammy Lightfoot or Archon over reruns of 'Mission Impossible,' and I'll eat my disk drive."[^ref-29]
+*Computer Entertainer*'s September 1983 issue called it a "cute variation on the climbing game theme" and rated it "Recommended" (MSR $37.95).[^ref-32] *Videogaming and Computer Gaming Illustrated*'s October 1983 issue reviewed it together with *Apple Cider Spider*. Its reviewer, Richard Meyers, was lukewarm, writing that "Sierravision's Apple Cider Spider and Sammy Lightfoot are variants of the Donkey Kong school of games" and concluding: "Otherwise Sammy Lightfoot is a clever concept covering up the same old game."[^ref-33]
+
+*Family Computing*'s December 1983 holiday gift guide listed Sammy Lightfoot ("Ages 10+") for the Apple II, II Plus and IIe and the Commodore 64 and VIC-20; *Computer Entertainer* had announced in September 1983 plans to convert it to Atari computers, Commodore 64 and VIC-20.[^ref-29][^ref-32] No VIC-20 or Atari release is documented. In the same issue, an editorial wrote: "Show me a kid who won't choose Sammy Lightfoot or Archon over reruns of 'Mission Impossible,' and I'll [e]at my disk drive."[^ref-29]
 
 ### Modern Assessment
 
@@ -160,7 +162,7 @@ Schwader wrote **Sammy's Icehouse**, which he said "was to be 'Sammy Lightfoot's
 | 1985-06 | PC-88 | Published by Comptiq[^ref-4] |
 | 1985 | FM-7 | Published by Comptiq[^ref-4] |
 
-Sierra Chest also lists the Atari 400/800 among the game's platforms. MobyGames, Wikipedia and Lemon64 record no Atari release, so that version is unverified.[^ref-7][^ref-4]
+Sierra Chest lists the Atari 400/800 among the game's platforms, and *Computer Entertainer* announced Atari computer conversions in 1983, but MobyGames, Wikipedia and Lemon64 list no Atari version.[^ref-7][^ref-32][^ref-4]
 
 The game was also released in Main Street Publishing's **Familiar Favorites IV** disk compilation for the Commodore 64, alongside *Oil's Well* ([[1983 - Oils Well]]).[^ref-6]
 
@@ -177,7 +179,7 @@ The game was also released in Main Street Publishing's **Familiar Favorites IV**
 
 ### Sales and Commercial Impact
 
-No sales figures for Sammy Lightfoot have been found. *Softalk*'s August 1984 bestseller column reported that, in its Arcade 10 category, *Hard Hat Mack* "clung to ninth, followed by two other newcomers to the list: Dino Eggs and Sammy Lightfoot"; the text gives no rank for the game.[^ref-27] Schwader recalled living for about a year after it on his savings from *Threshold* and *Sammy Lightfoot* while he tried to write his next Apple game, until the money ran out in February 1985.[^ref-20] He returned to Sierra after meeting Ken Williams in March 1988.[^ref-20][^ref-12]
+*Softalk*'s August 1984 bestseller column reported that, in its Arcade 10 category, *Hard Hat Mack* "clung to ninth, followed by two other newcomers to the list: Dino Eggs and Sammy Lightfoot".[^ref-27] Schwader recalled living for about a year after it on his savings from *Threshold* and *Sammy Lightfoot* while he tried to write his next Apple game, until the money ran out in February 1985.[^ref-20] He returned to Sierra after meeting Ken Williams in March 1988.[^ref-20][^ref-12]
 
 IGN's database lists FOG Studios and SierraVision among the game's publishers.[^ref-17]
 
@@ -252,13 +254,15 @@ Andrew Schultz (aschultz) wrote a GameFAQs walkthrough (version 1.0.0, April 15,
 [^ref-19]: [Lemon64 – Sammy Lightfoot review by Dean Creehan](https://www.lemon64.com/review/sammy-lightfoot/641) – Creehan's account of the C64 conversion (16K limit, "Lisa", printer ports, 800 hours); 8/10
 [^ref-20]: [Halcyon Days – Warren Schwader interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) – page flipping, priority scheme, Sammy's Icehouse, later career; the interviewer's question calls it his "last published Apple II game"
 [^ref-21]: [The Commodore 64 Home Companion (George Beekman, DATAMOST, 1984)](https://archive.org/details/The_Commodore_64_Home_Companion) – period book scan, p. 174: "one-or-two-player game captures the cartoon spirit and graphic style of Donkey Kong"
-[^ref-22]: [Internet Archive – Sammy Lightfoot ColecoVision manual (SierraVision)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line) – period manual scan: promotional text, "death-defying daredevil", left side button, keypad restart/options/pause
+[^ref-22]: [Internet Archive – Sammy Lightfoot ColecoVision manual](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line) – period manual scan: promotional text, "death-defying daredevil", left side button, keypad restart/options/pause
 [^ref-23]: [Creative Computing, November 1983](https://archive.org/details/Creative_Computing_1983-11) – Apple Games software profile of Sammy Lightfoot (reviewer initials "SW"): "Outstanding action", twelve levels of difficulty, $38.00, "undoubtedly one of the best"
 [^ref-24]: [Internet Archive – Sammy Lightfoot Apple II manual](https://archive.org/details/A2_Sammy_Lightfoot_manual) – period manual scan: one or two players, Ctrl-O options page, starting level 0–6, 12 difficulty levels per scenario, four men per game, Courtney Smith credit
 [^ref-25]: [Internet Archive – Sammy Lightfoot Commodore 64 ROM/Disk manual](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_Online) – period manual scan: joystick in port 1, button to jump/hang on ropes/start the elevator, options page via joystick button, "man-eating pumpkin"
 [^ref-26]: [Softalk, July 1983](https://archive.org/details/softalkv3n11jul1983) – software listing: "He evidently used to be a miner", $29.95
 [^ref-27]: [Softalk, August 1984](https://archive.org/details/softalkv4n12aug1984) – Bestsellers column: Dino Eggs and Sammy Lightfoot named as newcomers to the Arcade 10
-[^ref-28]: [Electronic Games, January 1983](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US) – "The Player's Guide to Climbing Games" special section; period use of "climbing game" as a genre term (the issue predates Sammy Lightfoot and does not mention it)
-[^ref-29]: [Family Computing, December 1983](https://archive.org/details/FamilyComputingIssue041983Dec) – holiday gift guide entry "Sammy Lightfoot, Ages 10+; available for Apple II/II plus/IIe; Commodore 64/VIC-20; Sierra On-Line"; editorial "I'll eat my disk drive" line (OCR reads "cat"; context and sense give "eat")
+[^ref-28]: [Electronic Games, January 1983](https://archive.org/details/Electronic_Games_Volume_01_Number_11_1983-01_Reese_Communications_US) – "The Player's Guide to Climbing Games" special section; period use of "climbing game" as a genre term
+[^ref-29]: [Family Computing, December 1983](https://archive.org/details/FamilyComputingIssue041983Dec) – holiday gift guide entry "Sammy Lightfoot, Ages 10+; available for Apple II/II plus/IIe; Commodore 64/VIC-20; Sierra On-Line"; editorial "I'll [e]at my disk drive" line
 [^ref-30]: [Softline, January/February 1984](https://archive.org/details/Softline_1984_01_02) – High Scores listing: "Sammy Lightfoot, Sierra On-Line", 69,120
 [^ref-31]: [Softline, March/April 1984](https://archive.org/details/Softline_1984_03_04) – High Scores listing: "Sammy Lightfoot, Sierra On-Line", 281,080
+[^ref-32]: [Computer Entertainer, September 1983 (issue 2-6)](https://archive.org/details/computer-entertainer-2-6) – Apple software review: "cute variation on the climbing game theme", "Recommended (MSR $37.95)", planned Atari, Commodore 64 and VIC-20 conversions
+[^ref-33]: [Videogaming and Computer Gaming Illustrated, October 1983](https://archive.org/details/Videogaming_and_Computer_Gaming_Illustrated_1983-10_Ion_International_US) – review of Apple Cider Spider and Sammy Lightfoot by Richard Meyers: "Sierravision's" games, Donkey Kong variants, "clever concept covering up the same old game"
