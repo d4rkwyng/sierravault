@@ -10,7 +10,7 @@ series: Cohort
 engine: Unknown
 protagonist: Roman/Barbarian Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: 'Cohort II: Fighting for Rome is a 1993 real-time tactics game by Impressions
   Games for DOS, Amiga and Atari ST, a VGA upgrade of Cohort that can resolve the battles
   of Impressions'' Caesar.'
@@ -18,7 +18,7 @@ tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
@@ -93,7 +93,7 @@ The lowest score came from the German magazine **Amiga Joker**, which awarded 28
 
 ### Modern Assessment
 
-In a Wayback Machine capture of its game page dated 16 October 2024, MobyGames showed a critic score of 42% based on 9 ratings, a player average of 2.9 out of 5 based on 6 ratings, and a Moby Score of 5.3[^ref-23][^ref-12]. The live page could not be read when this was checked (5 November 2026), so these figures may have changed since. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13]. MyAbandonware users have rated it 4.5 out of 5 (8 votes)[^ref-3]. The retrospective site Squakenet was more positive, calling it "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
+In a Wayback Machine capture of its game page dated 16 October 2024, MobyGames showed a critic score of 42% based on 9 ratings, a player average of 2.9 out of 5 based on 6 ratings, and a Moby Score of 5.3[^ref-23][^ref-12]. These figures may have changed since. GameFAQs user ratings classify the game as "Poor" based on 3 ratings[^ref-13]. MyAbandonware users have rated it 4.5 out of 5 (8 votes)[^ref-3]. The retrospective site Squakenet was more positive, calling it "somehow as sleek as those more recent RTSes, though surely, not quite there, but miles better and more playable than many of the proto RTSes of the period"[^ref-9].
 
 **Aggregate Scores:**
 - **MobyGames (as of 16 October 2024):** 42% critic average (9 ratings), 2.9/5 player average (6 ratings)[^ref-23]
@@ -225,7 +225,7 @@ Cohort II was a modest sequel whose reception was largely negative. While the ga
 
 ## References
 
-[^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, DOS minimum requirements (read via the MobyGames API), sound engine, Moby Score, trivia
+[^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, DOS minimum requirements, sound engine, Moby Score, trivia
 [^ref-2]: [Internet Archive – Cohort II (1993)](https://archive.org/details/msdos_Cohort_2_1993) – release year, platforms, publisher's game description (from MobyGames)
 [^ref-3]: [MyAbandonware – Cohort II](https://www.myabandonware.com/game/cohort-ii-1ll) – user rating, file sizes, Home of the Underdogs review text
 [^ref-4]: [Amiga Reviews Archive – Cohort 2](https://amigareviews.leveluphost.com/cohort2.htm) – review texts from Amiga Format, Amiga Joker (German), Amiga Power and CU Amiga; credits, specs
