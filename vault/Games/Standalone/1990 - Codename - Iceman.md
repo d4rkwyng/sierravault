@@ -10,7 +10,7 @@ series: Codename (standalone)
 engine: SCI0
 protagonist: Johnny Westland
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 composer: [Mark Seibert]
 description: 'Codename: ICEMAN is a graphical adventure game made with the SCI engine
   and published by Sierra On-Line. The lead designer was Jim Walls, a retired California
@@ -19,7 +19,7 @@ tags: [1990s, adventure, codename-standalone, sci, sierra]
 ---
 # Codename: ICEMAN
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 
 ## Overview
@@ -88,6 +88,8 @@ The game has been heavily criticized for letting players move on after missing v
 
 Michael Chaut reviewed the IBM version in *Computer Gaming World* #72 (June 1990) under the headline "The Iceman Computeth!"[^ref-21] He judged that "Overall, the 'Sub Simulator' is exciting." He also wrote that "Aesthetically, the game has much to commend it," crediting lead artist Cheryl Loyd (spelled "Sheryl Loyd" in the magazine).[^ref-21] He called Mark Seibert's score "simply spectacular."[^ref-21] On the down side, he found that "the iceberg navigation sequence seemed too long and quickly became boring," and that "some of the puzzles are quite difficult."[^ref-21] He concluded that for Sierra fans or anyone who likes James Bond movies, "this is a game that you will probably not want to miss."[^ref-21]
 
+Theo Clarke reviewed the game in *Games International* #15 (June 1990), scoring it 10 for game play and 9 for graphics.[^ref-32] He wrote: "If you liked Jim Walls's Police Quest adventures you should love Code-Name: Iceman. It is the most sophisticated adventure game that I have ever played. Sierra have exceeded even their own remarkable standards."[^ref-32] He also advised that "Newcomers to Sierra would be well advised to try Code-Name: Iceman as a starting point."[^ref-32]
+
 *ST Format* #21 (May 1991) reviewed the Atari ST version and scored it 77% overall.[^ref-9] Reviewer Ed Ricketts opened with "You can instantly recognise a game by Sierra On-Line." He noted that the company had "developed a 3D adventure environment and used it in virtually all of their games."[^ref-9] He criticized the version's speed: "Simply walking across a screen seems to take an eternity, and to top it all, moving to another screen for the first time requires disk accessing - and that takes ages."[^ref-9] Still, he acknowledged that "the backgrounds are well drawn and some of the animation is nicely done - particularly when you're drowning..."[^ref-9]
 
 ### Modern Assessment
@@ -99,6 +101,7 @@ George Starostin's 2025 review for *Only Solitaire* argued that the game "repres
 *Time Extension* wrote that when people discuss the most difficult Sierra adventure games, "there is one name that usually comes up more than any other: Codename: Iceman."[^ref-5] The site described the game as "notorious for its challenging mini-games, unwinnable situations, and its frustrating emphasis on military and medical procedures and protocols."[^ref-5]
 
 **Aggregate Scores:**
+- **Games International:** Game Play 10, Graphics 9[^ref-32]
 - **ST Format:** 77% (Atari ST)[^ref-9]
 - **GOG.com:** 3.1/5 (25 reviews)[^ref-4]
 
@@ -247,7 +250,7 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 [^ref-1]: [Wikipedia – Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) – plot, platforms, title styling, March 1990 release date, sequel/sales claim
 [^ref-2]: [Only Solitaire – Game Review: Codename ICEMAN (1990)](https://onlysolitaire.substack.com/p/game-review-codename-iceman-1990) – George Starostin, November 30, 2025; critical analysis
 [^ref-3]: [GameFAQs – Code-name: ICEMAN Review](https://gamefaqs.gamespot.com/pc/564617-code-name-iceman/reviews/90559) – user review by kain50bc (2005); controls, Boss Dice, clock issue
-[^ref-4]: [GOG.com – Codename: ICEMAN](https://www.gog.com/en/game/codename_iceman) – Sierra product description, store tags, user rating (3.1/5 from 25 reviews as of 2026-10-14)
+[^ref-4]: [GOG.com – Codename: ICEMAN](https://www.gog.com/en/game/codename_iceman) – Sierra product description, store tags, user rating (3.1/5 from 25 reviews as of November 2026)
 [^ref-5]: [Time Extension – Codename: Iceman Fanmade Prequel](https://www.timeextension.com/news/2024/11/sierras-brutally-difficult-adventure-codename-iceman-just-got-a-hilarious-fanmade-prequel) – Jack Yarwood, November 22, 2024; difficulty reputation, fan project details
 [^ref-6]: [Police Quest Omnipedia – Codename: Iceman](https://policequest.fandom.com/wiki/Codename:_Iceman) – engine (SCI0), Activision ownership; release listed as December 1989; credits list "Atari ST Version: Corey Cole and John Rettig"
 [^ref-7]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – game description: interface, procedures, submarine simulation
@@ -265,10 +268,11 @@ Codename: ICEMAN was the only game Jim Walls designed at Sierra outside the Poli
 [^ref-22]: [Computer Gaming World #71 (May 1990) – "Taking a Peek"](https://archive.org/details/Computer_Gaming_World_Issue_71) – p. 56: mouse interface, disk count, IBM $59.95
 [^ref-23]: [Computer Gaming World #69 (March 1990) – "The Entertainment Software Capital of the World" (Winter CES report)](https://archive.org/details/Computer_Gaming_World_Issue_69) – p. 38: preview, CPR and naval etiquette
 [^ref-24]: [Sierra News Magazine Vol. 3 No. 3 (Fall 1990)](https://archive.org/details/Sierra_News_Magazine_The_Volume_3_Number_3_Fall_1990_1990_Sierra_On-Line_US) – catalog pp. 55–56: MS-DOS, Atari ST and Amiga versions at $59.95; p. 27 "Sierra's Top Ten Best Sellers, July 1 to September 1, 1990" (CODENAME: Iceman listed, no ranks printed)
-[^ref-25]: [Sierra News Magazine Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – p. 12 rumor column (late shipping), p. 28 ST plans, p. 29 product shipping schedule (page image checked: Codename: Iceman IBM March 1990; Atari and Hint Book April 1990); pp. 42-43 order form (page images checked): Code Name: Iceman (512K) MS-DOS "1st qtr.", Atari ST double-sided "2nd qtr.", hint book "1st qtr."
+[^ref-25]: [Sierra News Magazine Vol. 3 No. 1 (Spring 1990)](https://archive.org/details/Sierra_News_Magazine_Volume_3_Number_1_Spring_1990) – p. 12 rumor column (late shipping), p. 28 ST plans, p. 29 product shipping schedule (Codename: Iceman IBM March 1990; Atari and Hint Book April 1990); pp. 42-43 order form: Code Name: Iceman (512K) MS-DOS "1st qtr.", Atari ST double-sided "2nd qtr.", hint book "1st qtr."
 [^ref-26]: [Adventure Gamers – Codename: ICEMAN review (Wayback Machine, 2012 capture)](https://web.archive.org/web/20121014004302/http://www.adventuregamers.com/articles/view/18068) – Dante Kleinberg, October 19, 2007; 1.5 stars, PHOENIX "Coming Soon" notices
 [^ref-27]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) – CHP career, Sierra games, Tsunami Media and Westwood Studios
 [^ref-28]: [MobyGames – James Walls](https://www.mobygames.com/person/83001/james-walls/) – biography and credits (Game Designer on Code-Name: Iceman and Police Quest 3; Blue Force; Blade Runner)
 [^ref-29]: [MobyGames – Code-Name: Iceman credits (DOS)](https://www.mobygames.com/game/436/code-name-iceman/credits/dos/) – full in-game credits
 [^ref-30]: [MobyGames – Code-Name: Iceman credits (Atari ST)](https://www.mobygames.com/game/436/code-name-iceman/credits/atari-st/) – lists "Atari ST Version by" Corey Cole and John Rettig
-[^ref-31]: [Sierra News Magazine Vol. 2 No. 2 (Autumn 1989)](https://archive.org/details/Sierra_News_Magazine_Volume_2_Number_2_Autumn_1989) – p. 29 product shipping schedule (page image checked: Codename: Iceman, IBM, under November 1989)
+[^ref-31]: [Sierra News Magazine Vol. 2 No. 2 (Autumn 1989)](https://archive.org/details/Sierra_News_Magazine_Volume_2_Number_2_Autumn_1989) – p. 29 product shipping schedule (Codename: Iceman, IBM, under November 1989)
+[^ref-32]: [Games International #15 (June 1990)](https://archive.org/details/GamesInternational) – Code-Name: Iceman review by Theo Clarke; £24.99; Game Play 10, Graphics 9 (issue file GI_15_Jun_1990)
