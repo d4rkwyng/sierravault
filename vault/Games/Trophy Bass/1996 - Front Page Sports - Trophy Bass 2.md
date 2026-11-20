@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Unknown/unnamed
 protagonist: Angler (player-named)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-11-12'
+last_updated: '2026-11-20'
 description: '*Front Page Sports: Trophy Bass 2* is a 1996 bass fishing simulation developed
   by Dynamix and published by Sierra On-Line, adding five new lakes and Internet, LAN and
   modem tournament play to the original Trophy Bass.'
@@ -18,11 +18,11 @@ tags: [1990s, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports Trophy Bass 2
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 20, 2026</small>
 
 ## Overview
 
-*Front Page Sports: Trophy Bass 2* is a bass fishing simulation developed by [[Dynamix]] and published by [[Sierra On-Line]] for Windows 3.1 and Windows 95, first released on September 30, 1996.[^ref-1][^ref-29] It was the sequel to Sierra's *Trophy Bass* and the newest addition to the [[Front Page Sports Series|Front Page Sports]] line, which Sierra's own *InterAction* magazine billed as a big expansion year for the label alongside *Front Page Sports: Golf*.[^ref-2][^ref-12]
+*Front Page Sports: Trophy Bass 2* is a bass fishing simulation developed by [[Dynamix]] and published by [[Sierra On-Line]] for Windows 3.1 and Windows 95, first released on September 30, 1996.[^ref-1][^ref-29] It was the sequel to Sierra's *Trophy Bass* and one of two new additions to the [[Front Page Sports Series|Front Page Sports]] line, which Sierra's own *InterAction* magazine billed as a big expansion year for the label alongside *Front Page Sports: Golf*.[^ref-2][^ref-12]
 
 The description on the Internet Archive's demo item (a 2014 upload, not a box scan) calls it "the most addictive fishing simulation ever."[^ref-3] The sequel brought the lake count to ten by adding five new tournament lakes, and its headline feature was head-to-head play by modem, LAN or the Internet, with Sierra promoting "on-line tournaments against as many as 100 anglers."[^ref-23][^ref-30] *Computer Gaming World* gave it four stars out of five and said it "further refines what's come to be the best fishing simulation available."[^ref-27]
 
@@ -217,7 +217,7 @@ The *Trophy Bass* series continued with *Field & Stream: Trophy Bass 3D* (1999).
 
 ### Sales
 
-PC Gamer's news page for November 3, 1997 reported that "The original Trophy Bass and its sequel have sold over half a million units."[^ref-39] In July 1999, CNET Gamecenter wrote that *Field & Stream Trophy Bass* and *Trophy Bass 2 Deluxe* "have sold more than 1.5 million copies to date."[^ref-40]
+PC Gamer's news roundup for the week of November 3, 1997 reported that "The original Trophy Bass and its sequel have sold over half a million units."[^ref-39] In July 1999, CNET Gamecenter wrote that *Field & Stream Trophy Bass* and *Trophy Bass 2 Deluxe* "have sold more than 1.5 million copies to date."[^ref-40]
 
 ### Collections
 
@@ -241,8 +241,8 @@ The game is not sold on GOG or Steam. It has a GOG Dreamlist entry, and the Wind
 
 - [[1995 - Trophy Bass|← Previous: Trophy Bass]]
 - [[1999 - Field & Stream - Trophy Bass 3D|→ Next: Field & Stream - Trophy Bass 3D]]
-
-- [[2000 - Field & Stream - Trophy Bass 4]]
+- [[2000 - Field & Stream - Trophy Bass 4|Later in the series: Field & Stream - Trophy Bass 4]]
+- [[Front Page Sports Series]]
 
 - **Expansion:** Front Page Sports: Trophy Bass 2 - Northern Lakes (1997)[^ref-35]
 
@@ -257,7 +257,7 @@ The game is not sold on GOG or Steam. It has a GOG Dreamlist entry, and the Wind
 [^ref-8]: [MobyGames – Specs](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/specs/) – Technical specifications and platform details
 [^ref-9]: [AllGame – Front Page Sports: Trophy Bass 2 review by Steve Honeywell (Wayback Machine, 2014 capture)](https://web.archive.org/web/20141115204227/http://www.allgame.com/game.php?id=6478&tab=review) – Review describing trips, three-day tournaments and careers
 [^ref-11]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Front_Page_Sports:_Trophy_Bass_2:_Northern_Lakes_Cheats) – User-submitted gameplay tips
-[^ref-12]: [MobyGames](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – Description, player counts, series order, alternate title "Trophy Bass 2: AllAmerican Sports Series" (re-release title; read via the MobyGames API)
+[^ref-12]: [MobyGames](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – Description, player counts, series order, alternate title "Trophy Bass 2: AllAmerican Sports Series" (re-release title)
 [^ref-14]: [Kotaku](https://kotaku.com/games/front-page-sports-trophy-bass-2) – Game overview (IGDB-sourced summary)
 [^ref-15]: [MobyGames – Reviews](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/reviews/windows/) – Critic scores and excerpts (72%, 8 ratings on this tab; the game overview shows 70%, 7 ratings)
 [^ref-21]: [Internet Archive – Demo](https://archive.org/details/tbass2) – Demo preservation
@@ -277,6 +277,6 @@ The game is not sold on GOG or Steam. It has a GOG Dreamlist entry, and the Wind
 [^ref-36]: [MobyGames – Trophy Bass 2 Deluxe](https://www.mobygames.com/game/20481/trophy-bass-2-deluxe/) – 1998 compilation of base game and Northern Lakes
 [^ref-37]: [MobyGames – Patches](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/patches/) – 1.2.0.0 patch (1998-02-03), Force Feedback support
 [^ref-38]: [MobyGames – Releases](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/releases/) – October 1996 release; music by Loudmouth, Inc.
-[^ref-39]: [PC Gamer news, November 3, 1997 (Wayback Machine)](https://web.archive.org/web/19980218070422/http://www.pcgamer.com/news/news-1997-11-03.html) – "The original Trophy Bass and its sequel have sold over half a million units."
+[^ref-39]: [PC Gamer news, week of November 3, 1997 (Wayback Machine)](https://web.archive.org/web/19980218070422/http://www.pcgamer.com/news/news-1997-11-03.html) – "The original Trophy Bass and its sequel have sold over half a million units."
 [^ref-40]: [CNET Gamecenter – "Trophy Bass 3D Hits the Shelves", Bill McClendon, July 6, 1999 (Wayback Machine)](https://web.archive.org/web/20000817165812/http://www.gamecenter.com/News/Item/0,3,0-2946,00.html) – Field & Stream Trophy Bass and Trophy Bass 2 Deluxe "have sold more than 1.5 million copies to date"
 [^ref-41]: [SierraChest – Field & Stream: Ultimate Fishing Trip](https://sierrachest.com/index.php?a=games&id=722&fld=general) – Compilation contents: Trophy Bass 2, Northern Lakes, Trophy Rivers, Trophy Bass 2 Deluxe; developer Dynamix, publisher Sierra Sports
