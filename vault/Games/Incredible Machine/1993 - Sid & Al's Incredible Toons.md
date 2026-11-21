@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: The Incredible Machine engine
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-21'
 description: Sid & Al's Incredible Toons is a cartoon-themed puzzle spin-off of The
   Incredible Machine, developed by Jeff Tunnell Productions (credited to Dynamix in
   some sources) and published by Sierra On-Line in 1993 for MS-DOS.
@@ -18,7 +18,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # Sid & Al's Incredible Toons
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 21, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ According to Wikipedia, *PC Gamer UK* ranked Sid & Al's Incredible Toons 24th in
 
 ### Modern Assessment
 
-Retro sites still rate the game well. Users of Abandonware DOS rate it 4.07/5.00 (29 votes)[^ref-12], and MyAbandonware users rate it 4.48/5 (56 votes)[^ref-5] (both checked November 12, 2026). Bokkie's April 2005 review on Classic Gaming Network gave it 65 points, and the site's users give it 85.5% across 21 ratings[^ref-6].
+Retro sites still rate the game well. Users of Abandonware DOS rate it 4.07/5.00 (29 votes)[^ref-12], and MyAbandonware users rate it 4.48/5 (56 votes)[^ref-5]. Bokkie's April 2005 review on Classic Gaming Network gave it 65 points, and the site's users gave it 85.5% across 21 ratings[^ref-6].
 
 **Aggregate Scores:**
 - **MobyGames:** Moby Score 7.9; critics 82% (17 ratings); players 3.9/5 (14 ratings)[^ref-1][^ref-16]
@@ -209,7 +209,7 @@ Writing about the whole series, Jimmy Maher says it was "more than just one of t
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently sold on GOG or Steam (checked November 2026).
+- As of November 2026, not sold on GOG or Steam.
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993)
@@ -239,7 +239,7 @@ Writing about the whole series, Jimmy Maher says it was "more than just one of t
 [^ref-2]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – developer, review scores (Electronic Entertainment, PC Games, Wiz), CGW award, PC Gamer UK ranking
 [^ref-4]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993) – game description: ~100 puzzles, parts list, supporting characters, editor
 [^ref-5]: [MyAbandonware – Sid & Al's Incredible Toons](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md) – user rating, Home of the Underdogs review text, DOSBox compatibility
-[^ref-6]: [Classic Gaming Network – Sid & Al's Incredible Toons](https://www.classic-gaming.net/game/64/) – Bokkie review (65 points, April 2005), user rating 85.5% (21 ratings)
+[^ref-6]: [Classic Gaming Network – Sid & Al's Incredible Toons (Wayback, 5 July 2022)](https://web.archive.org/web/20220705043310/http://www.classic-gaming.net/game/64/) – Bokkie review (65 points, April 2005), user rating 85.5% (21 ratings)
 [^ref-7]: [GamePressure – Sid & Al's Incredible Toons](https://www.gamepressure.com/games/sid-als-incredible-toons/zbdbe) – system requirements, release date, user rating
 [^ref-8]: [PCGamingWiki – The Incredible Toon Machine](https://www.pcgamingwiki.com/wiki/The_Incredible_Toon_Machine) – sequel release (Windows 3.x and Mac OS, 1994)
 [^ref-9]: [The Digital Antiquarian – The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Jimmy Maher, series origins, Jeff Tunnell Productions, sequels, influence

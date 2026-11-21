@@ -10,14 +10,14 @@ series: K.A.A. series
 engine: Unknown
 protagonist: Player-selected fighter
 sierra_lineage: Core Sierra
-last_updated: '2026-11-12'
+last_updated: '2026-11-21'
 description: CyberGladiators is a one-on-one 3D fighting game released in November
   1996 for Windows 95, developed by Dynamix, Inc. under its short-lived k.a.a. action label and published by Sierra On-Line.
 tags: [1990s, k-a-a-series, sierra]
 ---
 # CyberGladiators
 
-<small style="color: gray">Last updated: November 12, 2026</small>
+<small style="color: gray">Last updated: November 21, 2026</small>
 
 ## Overview
 
@@ -276,7 +276,7 @@ Reviewers mostly agreed on the game's strengths and weaknesses. Its 3D graphics 
 [^ref-2]: [Giant Bomb – CyberGladiators](https://www.giantbomb.com/cybergladiators/3030-12671/) – Gameplay description (limbs, spears)
 [^ref-3]: [MobyGames – CyberGladiators](https://www.mobygames.com/game/2858/cybergladiators/) – CRY.SYS origin, k.a.a. label trivia, credits (lead programmer), critics average
 [^ref-4]: [Wikipedia – CyberGladiators](https://en.wikipedia.org/wiki/CyberGladiators) – Director, producer, release date, PC Zone review score
-[^ref-5]: [Classic Gaming Network – CyberGladiators](https://www.classic-gaming.net/game/1081/) – User comments, aggregate user rating
+[^ref-5]: [Classic Gaming Network – CyberGladiators (Wayback, 7 February 2023)](https://web.archive.org/web/20230207191633/https://www.classic-gaming.net/game/1081/) – User comments, aggregate user rating
 [^ref-6]: [PCGamingWiki – CyberGladiators](https://www.pcgamingwiki.com/wiki/CyberGladiators) – System requirements, local-only multiplayer (no LAN/online), Direct3D/Glide/DirectDraw support, availability status
 [^ref-7]: [Sierra Chest – CyberGladiators Walkthrough](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=walkthrough) – Background story, controls, roster, arenas, boss code rules, windowed-mode requirement
 [^ref-8]: [GameFAQs – CyberGladiators FAQ](https://gamefaqs.gamespot.com/pc/197019-cybergladiators/faqs/17775) – Controls, gameplay mechanics, unlock conditions, boss abilities
