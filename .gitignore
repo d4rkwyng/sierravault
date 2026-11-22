@@ -39,10 +39,6 @@ __pycache__/
 *.swp
 *.swo
 
-# Obsidian (optional - uncomment if needed)
-# .obsidian/workspace.json
-# .obsidian/workspace-mobile.json
-
 # Temporary files
 *.tmp
 *.temp
@@ -51,9 +47,6 @@ __pycache__/
 # Claude task outputs
 /tmp/
 
-# Obsidian workspace (changes frequently)
-vault/.obsidian/workspace.json
-vault/.obsidian/workspace-mobile.json
 .git-backup/
 
 # Quality daemon state files
@@ -86,3 +79,7 @@ tsconfig.tsbuildinfo
 # mirror-rebuild.sh releases (public is a symlink to one)
 releases/
 public.tmp
+
+# Obsidian settings (a pattern without a leading slash matches in any directory,
+# so this covers both the repo-root .obsidian/ and vault/.obsidian/)
+.obsidian/

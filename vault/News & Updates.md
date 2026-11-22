@@ -2,7 +2,6 @@
 title: "News & Updates"
 type: guide
 last_updated: "2026-11-12"
-cssclass: news-page
 ---
 # 📰 News & Updates
 
