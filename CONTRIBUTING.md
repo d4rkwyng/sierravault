@@ -27,9 +27,10 @@ Thank you for your interest in contributing to SierraVault! This guide will help
 git clone https://github.com/d4rkwyng/sierravault.git
 cd sierravault
 
-# Open vault in Obsidian
-# File → Open Vault → Select sierravault/vault folder
+# Content lives in vault/ as plain Markdown; edit with any editor
 ```
+
+> Obsidian is not needed to view or edit the site. The published site is Quartz (sierravault.net); the source is Markdown in `vault/`.
 
 > This repository contains the vault content, templates, and site-build
 > tooling only. The automated scoring/validation scripts referenced in the

@@ -50,8 +50,7 @@ sierravault/
 ├── .claude/                  # AI assistant task instructions
 ├── .github/                  # GitHub templates (issues, PRs)
 ├── templates/                # Page templates
-├── vault/                    # Obsidian vault (published content)
-│   ├── .obsidian/            # Obsidian settings
+├── vault/                    # Markdown source (published content)
 │   ├── Games/                # 492 game pages across 75 folders
 │   │   ├── King's Quest/     # 10 games (1984-2015)
 │   │   ├── Space Quest/      # 7 games (1986-1995)
@@ -74,9 +73,7 @@ sierravault/
 │   ├── Images/               # Logos and assets
 │   ├── Welcome.md            # Site homepage
 │   ├── Site Index.md         # Complete game index (A-Z)
-│   ├── News & Updates.md     # Project changelog
-│   ├── publish.css           # Legacy Obsidian Publish styles (unused by Quartz)
-│   └── publish.js            # Legacy Obsidian Publish scripts (unused by Quartz)
+│   └── News & Updates.md     # Project changelog
 ├── docs/                     # Documentation
 │   ├── INCLUSION_CRITERIA.md # Game selection criteria
 │   ├── QUARTZ.md             # Site build, deploy & mirror reference
@@ -212,7 +209,8 @@ Every game page follows a consistent format:
 
 ### Prerequisites
 
-- [Obsidian](https://obsidian.md/) (for viewing/editing)
+> Obsidian is not needed to view or edit the site. The published site is built with Quartz (sierravault.net); the source is Markdown in `vault/`.
+
 - Node.js 22+ (for building the Quartz site, below)
 - Git
 
@@ -223,8 +221,7 @@ Every game page follows a consistent format:
 git clone https://github.com/d4rkwyng/sierravault.git
 cd sierravault
 
-# Open vault in Obsidian
-# File → Open Vault → Select sierravault/vault folder
+# Content lives in vault/ as plain Markdown; edit with any editor
 ```
 
 ### Build the Site (Quartz)
