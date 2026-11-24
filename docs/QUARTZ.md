@@ -162,7 +162,9 @@ A secondary mirror runs on a homelab box, served by **Caddy** from the built `pu
 */5 * * * * /var/www/mirror.sierravault.net/mirror-rebuild.sh
 ```
 
-Each run fetches `origin/main` and **exits immediately if HEAD already matches** — so it only rebuilds when the repo actually changed. On a change it does `git reset --hard origin/main`, `npm ci`, `./build.sh`, and `chown`s the output to `www-data`, logging to `rebuild.log`. It's the same `build.sh` pipeline as production, so the mirror is byte-for-byte equivalent to the Cloudflare site.
+Each run takes a `flock` (one rebuild at a time), fetches `origin/main`, and **exits immediately if it matches `.last-good-sha`** (the last commit that built successfully — not HEAD, so a failed build is retried). A commit whose build already failed is retried at most every `FAILED_RETRY_S` (default 1800 s, tracked in `.last-failed`), and bursts of commits are debounced (`DEBOUNCE_S`, default 240 s, unless the mirror is more than `MAX_STALE_S`, default 1800 s, behind).
+
+On a change it does `git reset --hard origin/main`, `npm ci`, and `QUARTZ_OUT=releases/<sha>-<time> ./build.sh` (retried `BUILD_RETRIES` times, default 1). Caddy serves `public/`, which is a **symlink to the current release**: after a successful build the symlink is repointed atomically (`mv -T`, so GNU `mv`; set `MV=gmv` on macOS), so the mirror never serves a half-emptied output dir. The newest `KEEP_RELEASES` (default 2) releases are kept; output is `chown`ed to `www-data` and everything is logged to `rebuild.log`. It's the same `build.sh` pipeline as production.
 
 ---
 
