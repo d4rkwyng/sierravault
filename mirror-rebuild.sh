@@ -90,8 +90,12 @@ if [ "$build_status" -eq 0 ] && [ -f "$SITE/$REL/index.html" ]; then
     ls -1dt "$SITE"/releases/*/ 2>/dev/null | tail -n +$((KEEP_RELEASES + 1)) | while read -r old; do
         [ "releases/$(basename "$old")" = "$current" ] || rm -rf "$old"
     done
-    date +%s > "$SITE/.last-build"
-    git rev-parse HEAD > "$SITE/.last-good-sha"
+    # Only a swapped-in build counts as done: on a failed swap public/ still serves the
+    # old release, so leave .last-good-sha/.last-build alone and the next run retries.
+    if [ "$swap_status" -eq 0 ]; then
+        date +%s > "$SITE/.last-build"
+        git rev-parse HEAD > "$SITE/.last-good-sha"
+    fi
     rm -f "$SITE/.last-failed"
     chown -R www-data:www-data "$SITE" 2>/dev/null
     if [ "$swap_status" -ne 0 ]; then
