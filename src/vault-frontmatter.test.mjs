@@ -1,8 +1,8 @@
 // Guards the vault's YAML frontmatter.
 //
-// build.sh runs sanitize-frontmatter.mjs, which *quarantines* (silently drops
-// from the site) any page whose frontmatter js-yaml can't parse, and still
-// exits 0. The usual culprit is an unquoted value containing " #": YAML treats
+// build.sh runs sanitize-frontmatter.mjs, which *quarantines* (drops from the
+// site) any page whose frontmatter js-yaml can't parse, then exits 3 so the
+// build fails (unless SANITIZE_ALLOW_QUARANTINE=1). The usual culprit is an unquoted value containing " #": YAML treats
 // that as the start of a comment, so a multi-line description like
 //   description: ... Hi-Res Adventure #5, is ...
 //     epic for the Apple II ...
