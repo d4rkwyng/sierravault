@@ -268,14 +268,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: false
-    options:
-      theme: dracula-official
-      mode: both
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
